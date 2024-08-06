@@ -1,7 +1,7 @@
 ---
 title: "Enabling/Disabling Network Discovery on Your PC: A Guide for Windows 11 Users"
-date: 2024-08-04 13:57:35
-updated: 2024-08-05 10:36:26
+date: 2024-08-05T02:11:17.473Z
+updated: 2024-08-06T02:11:17.473Z
 categories:
   - BestProducts
 description: "This Article Describes Enabling/Disabling Network Discovery on Your PC: A Guide for Windows 11 Users"
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/93edfabf29b4caf147522fd2f74f95df8196bbd7b
 
 of 15
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ## [Best for Holiday Vibes: Water Retreat PREMIUM](https://apps.microsoft.com/detail/9pm5fjs8xx6v)
 
 ![Free Water Retreat PREMIUM Windows 11 theme.](https://www.lifewire.com/thmb/iIWu7Z9i4TCPx1rmJW4C8vleoJo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/15-best-windows-11-themes-to-download-for-free-12-cc08a5e032b840ebb869a8b109c7a7f2.jpg)
@@ -85,8 +88,14 @@ Microsoft
 
 of 15
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## [Best for Gamers: Xbox Series X](https://apps.microsoft.com/detail/9njblrjjq18t)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Xbox Series X Windows 11 desktop theme.](https://www.lifewire.com/thmb/ApO2Qm8k5GCWuF4tmFgJlMmocdQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/15-best-windows-11-themes-to-download-for-free-01-97887803bbed4a17afcd021c4e0acd2a.jpg)
 
 Microsoft
@@ -133,6 +142,9 @@ of 15
 
 ## [Most Cheerful: Springtime Art](https://apps.microsoft.com/detail/9nb94bhphhtv)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Windows 11 Springtime Art desktop theme.](https://www.lifewire.com/thmb/Rl8atfR3H66J3LsBCZFVMG4I6FY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/15-best-windows-11-themes-to-download-for-free-03-571f1cc7d3be4479bae463eac891f889.jpg)
 
 Microsoft
@@ -154,6 +166,9 @@ Microsoft
 
 of 15
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [Best Modern Building Theme: Architectural Structures PREMIUM](https://apps.microsoft.com/detail/9pnr72h74000)
 
 ![Windows 11 Architectural Structures PREMIUM desktop theme.](https://www.lifewire.com/thmb/W-MGDIODiOFai8aJpPL1KNSBvnw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/15-best-windows-11-themes-to-download-for-free-04-8bbb54c3900747f3bb91d4305bccf967.jpg)
@@ -179,6 +194,9 @@ of 15
 
 ## [Best Theme to Keep Things Interesting: Bing Wallpaper](https://www.microsoft.com/bing/bing-wallpaper-msn)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Bing Wallpaper app on Windows 11 desktop.](https://www.lifewire.com/thmb/js_juFKx8Nb9e8nNeVfQogW_bXg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/15-best-windows-11-themes-to-download-for-free-05-5c98705b50d742dc95db64064a0681af.jpg)
 
 Microsoft
@@ -226,6 +244,9 @@ of 15
 
 ## [Best Theme for the New Year: Fireworks on New Years](https://apps.microsoft.com/detail/9npbkd8tc0kf)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Fireworks on New Years Windows 11 theme.](https://www.lifewire.com/thmb/SF392yfsUkMYpBYe3FcgyeaA1Os=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/15-best-windows-11-themes-to-download-for-free-07-138d93b2e67a4c3686810dcd17f237ea.jpg)
 
 Microsoft
@@ -270,8 +291,14 @@ Microsoft
 
 of 15
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ## [Best Christmas Theme: Winter Holiday Glow](https://apps.microsoft.com/detail/9nswt3ntd9l1)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Winter Holiday Glow Windows 11 theme.](https://www.lifewire.com/thmb/Pzb1BOkr7VKoWZ-pHbyQdC05ZIs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/15-best-windows-11-themes-to-download-for-free-09-8129f6ae662f43e8a2c27c14acc9afb3.jpg)
 
 Microsoft
@@ -294,6 +321,9 @@ of 15
 
 ## [Best for Diwali: Festival of Lights](https://apps.microsoft.com/detail/9p5ms5vk11dm)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ![Festival of Lights Windows 11 free theme.](https://www.lifewire.com/thmb/4gDgrHCbFqMyMklqHUIsDwf92is=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/15-best-windows-11-themes-to-download-for-free-10-8acc34bb46764a06809365d6a3ebe412.jpg)
 
 Microsoft
@@ -314,8 +344,14 @@ Microsoft
 
 of 15
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [Best for Pride: Pride 2020 Flags](https://apps.microsoft.com/detail/9pk6dd3shc26)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ![Windows 11 free Pride 2020 Flags theme.](https://www.lifewire.com/thmb/7zs90KviHrR3wjX-1P2OD6YUivU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/15-best-windows-11-themes-to-download-for-free-11-40cf91f1021149978d6e1b3d235f48ed.jpg)
 
 Microsoft
@@ -337,8 +373,14 @@ Microsoft
 
 of 15
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ## [Best for Otter Lovers: Otters](https://apps.microsoft.com/detail/9n8n2lghzl36)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Free Windows 11 Otters theme.](https://www.lifewire.com/thmb/vaEO6MdlOBtbuiZaHQrQd2MKrNA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/15-best-windows-11-themes-to-download-for-free-15-d92509b374a64e0c931e961b378d0369.jpg)
 
 Microsoft

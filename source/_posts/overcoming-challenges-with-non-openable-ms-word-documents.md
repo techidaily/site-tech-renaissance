@@ -1,7 +1,7 @@
 ---
 title: Overcoming Challenges with Non-Openable MS Word Documents
-date: 2024-08-05 16:35:17
-updated: 2024-08-06 12:59:16
+date: 2024-08-05T02:11:24.689Z
+updated: 2024-08-06T02:11:24.689Z
 categories:
   - BestProducts
 description: This Article Describes Overcoming Challenges with Non-Openable MS Word Documents
@@ -17,16 +17,25 @@ Close
 
  Instructions in this article apply to Word for[ Microsoft 365](https://www.lifewire.com/microsoft-office-4156573) , Word 2021, Word 2019, Word 2016, Word 2013, Word 2010, and Word 2007.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ##  Why Word Is Not Opening Documents 
 
  It's unusual for Microsoft Word to have trouble opening files, but it does happen. In addition to file corruption, the most likely reason a document doesn't open in Word is that your computer is set up to launch a different program when you open the file. It's also possible that the program needs to be repaired or reinstalled.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  How to Fix It When a Word Document Won't Open 
 
  There are a few solutions depending on the problem.
 
 1. [ Change the file association settings](https://www.lifewire.com/how-to-change-file-associations-in-windows-2624477) to make your documents open in Microsoft Word. Follow these directions if a different program (not MS Word) opens when you double-click a DOCX, DOC, or other document.
 2. Use the Open and Repair option. If the document won't open because it's damaged, select the arrow next to the**Open** button and choose**Open and Repair** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Open and Repair command in Word](https://www.lifewire.com/thmb/Uqy1JdN9YL2Rbp7K1mqt5O4y5J4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-microsoft-word-files-wont-open-3540218-cb98ca350e624669bf4b7361e60c5a4f.jpg)  
  Files can become corrupted when a computer crashes or loses power, or when a[ USB device](https://www.lifewire.com/universal-serial-bus-usb-2626039) is disconnected while a document stored on it is open.
 3. Restore a previous version of the document. This will work if you use OneDrive or SharePoint and it has a backup of the file from when it was working correctly. To check, right-click the file and go to**Properties** \>**Previous Versions** .

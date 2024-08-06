@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Adding New Adventures with Oculus Quest 2 Meta Purchases
-date: 2024-08-03 16:57:26
-updated: 2024-08-05 10:15:26
+date: 2024-08-05T02:11:34.315Z
+updated: 2024-08-06T02:11:34.315Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate Guide to Adding New Adventures with Oculus Quest 2 Meta Purchases
@@ -13,6 +13,9 @@ thumbnail: https://www.lifewire.com/thmb/2wGCY1WLrqXRUYC-y7kuFSuEANE=/400x300/fi
 
 Close 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ###  What to Know
 
 * From headset:**Oculus button** on right touch controller >**Store** \> select game >**Price** \>**Purchase** .
@@ -33,6 +36,15 @@ Close
 
  The Oculus desktop app also has a storefront, but it’s focused on Rift and Rift S games. You can buy games through that app and play them when your Quest 2 is tethered to a VR-ready PC, but you won’t be able to play them on an untethered Quest 2 unless it specifies in the game details that it's cross-buy compatible.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ##  How to Buy Games for Quest 2 From the Headset in VR 
 
  If you’re already in virtual reality (VR) and you want to get into a new game fast, the best way is to buy a game through the Quest 2 storefront. Here’s how to buy a game from the Quest 2 store in VR:  
@@ -42,18 +54,30 @@ Close
 1. Press the Oculus button on your right touch controller to bring up the Toolbar, and select the**Store** (the shopping bag) icon.  
 ![The store icon (orange shopping bag) highlighted on the Quest 2 toolbar.](https://www.lifewire.com/thmb/7FrHRSwPcNnHEOUU-JheXy62pog=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-get-free-games-on-meta-oculus-quest-and-quest-2-6362547-4f476cd7eaaf450c841a3eab5de9f4b1.jpg)
 2. Scroll through the list of games, use the search field to look for a specific game, or select a filter on the right like**Genre** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![Genre highlighted in the Quest 2 store filters.](https://www.lifewire.com/thmb/BzFwxJ2kyVwlq36h_EHB2ruQMZ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-to-buy-games-on-meta-oculus-quest-2-6362981-bce2ac22b7a24ac386d5c3a9d2c0890a.jpg)  
  You can also select the search field and type the name of a specific game, or scroll down to see a select of deals and recommended games.
 3. Narrow your search by selecting a**Genre** option.  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![The genre options highlighted in the Quest 2 store.](https://www.lifewire.com/thmb/JqiPREh38nbqNVmh4_0IFES42dw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-buy-games-on-meta-oculus-quest-2-6362981-a3743059ae88404c9056741063a8ee1a.jpg)
 4. Locate and select a game you want.  
 ![Rez Infinite highlighted in the Quest 2 store.](https://www.lifewire.com/thmb/6-Jnwu5ZDaNlVBcBBhzX6ZsUsaA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-buy-games-on-meta-oculus-quest-2-6362981-89648f7fa8f34d5abff77ed499fe1b05.jpg)
 5. Select the blue price button.  
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![The blue price icon highlighted in a game listing in Quest VR.](https://www.lifewire.com/thmb/cdEdp7qcUvcU5YwpWC2TT5T6rts=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_how-to-buy-games-on-meta-oculus-quest-2-6362981-daa552883d0443a8ad602ec93692fd49.jpg)
 6. Select**Purchase** .  
 ![Purchase highlighted in the Quest 2 store.](https://www.lifewire.com/thmb/baf-kKFv5jco3Iix164qbVMvSQU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_how-to-buy-games-on-meta-oculus-quest-2-6362981-ed0f7dd945be4b68ab25cbf897adc911.jpg)
 7. Your default payment method will be charged, and the game will be added to your library.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  How to Buy Games for Quest 2 Through the Mobile App 
 
  The Quest 2 storefront is convenient if you’re already in VR, but the mobile app lets you check out new games and make purchases whenever you want.  

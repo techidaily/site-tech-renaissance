@@ -1,7 +1,7 @@
 ---
 title: "Avoid Hustle: Seamlessly Locate People on Facebook in Just Half a Dozen Steps"
-date: 2024-08-05 23:10:13
-updated: 2024-08-06 11:28:43
+date: 2024-08-05T02:11:32.136Z
+updated: 2024-08-06T02:11:32.136Z
 categories:
   - BestProducts
 description: "This Article Describes Avoid Hustle: Seamlessly Locate People on Facebook in Just Half a Dozen Steps"
@@ -23,6 +23,9 @@ of 06
 
 ##  Run a Name Search on Facebook 
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Facebook people search results](https://www.lifewire.com/thmb/F7zTC4WuMS-5Lj3Iaxag5ealqEw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facebook-name-search-99362aa2030f4919b011554cb72beb09.png) 
 
  The main search bar at the top of the website is one method for finding people on Facebook by their name. Type a name, select**People** on the left, and then look through the results.
@@ -35,6 +38,9 @@ of 06
 
 ##  Search Facebook by the Person's Employer or School 
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Facebook people search by school](https://www.lifewire.com/thmb/iNT2koAiMAe9xkSPaTupSC76K-c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facebook-people-search-school-153f5077027f4eeaa62a09583684f007.png) 
 
  Don't know the person's name? You can still do a Facebook search for someone, even if you're not sure what their name is. Knowing where they work or went to school, for example, makes it a lot easier to find them online.
@@ -79,8 +85,14 @@ of 06
 
 of 06
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Do a Facebook Search by Phone Number 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Facebook search for a phone number](https://www.lifewire.com/thmb/mkW-F_qqJfW178WL1C1bWc3NChA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facebook-phone-number-search-a525b6b7cf304bc88e191afd4c54850b.png) 
 
  Trying to figure out who owns a phone number that called you? Facebook can also be used for a reverse number search; just type the number into the search bar to see what shows up.
@@ -95,8 +107,14 @@ of 06
 
 of 06
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Use Facebook to Search for Related Information 
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ![tineye reverse image search website](https://www.lifewire.com/thmb/oDt0_JyOIQNoJP5WLs4GEqWqv8Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tineye-reverse-image-search-5439b8eb8b164a3d92cc09cd468a7261.png) 
 
  It can also be useful to use Facebook to find someone's presence elsewhere on the internet. You'd do this if you already have their Facebook details, but you're wanting their other social media account links, too.

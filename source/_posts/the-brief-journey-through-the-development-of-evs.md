@@ -1,7 +1,7 @@
 ---
 title: The Brief Journey Through the Development of EVs
-date: 2024-08-04 10:29:28
-updated: 2024-08-06 12:20:19
+date: 2024-08-05T02:11:21.530Z
+updated: 2024-08-06T02:11:21.530Z
 categories:
   - BestProducts
 description: This Article Describes The Brief Journey Through the Development of EVs
@@ -35,16 +35,29 @@ Alex Dos Diaz
 
  Trains designed around the 1830s could carry heavy batteries and even receive power from electrified tracks but smaller passenger vehicles had to wait for battery technology to catch up.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 1859 - 1881 
 
  In 1859, France took the lead in EV development. The lead acid battery was invented in France by Gaston Plante. It was later improved upon in 1881 by Camille Alphonse Faure and has been tweaked and further improved over the years. The arrival of the lead acid battery meant that it was finally actually possible for practical electric vehicles to hit the road.
 
  The lead acid battery is the same basic battery technology that’s still used by gas-powered vehicles today.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1890 - early 1900s 
 
  Gustave Trouve of France demonstrated an electric tricycle in 1881 while Thomas Parker of England built the first production electric car to resemble the traditional horseless carriage in 1884.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ![Andrew Riker racing an electric car circa 1901](https://www.lifewire.com/thmb/z34R-qm5kDrzudPi50Wev_3oN-s=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/AndrewRiker_racingelectriccar_1901_VERTICAL_BACKGROUND-c5317d5f95884a8289af471dfa2fa005.jpg) 
 
  Andrew Riker and a friend racing an electric car circa 1901. 
@@ -79,6 +92,9 @@ Smithsonian/Museum of American History
 
  Unlike early electric vehicles that simply connected a lead acid battery to an electric motor, modern electric vehicles lean on technologies like the power MOSFET and microcontrollers to squeeze ever-expanding levels of efficiency out of newly developed battery technologies and electric drive train components.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1971 - 1996 
 
  Those newer battery technologies led to the invention of lithium-ion batteries in the 1980s, providing yet another important building block for modern electric vehicles. Where the first electric vehicles relied on inefficient and heavy lead acid batteries, the development of lithium-ion batteries promised a lighter-weight and more efficient alternative. Today the two main battery technologies used by electric vehicles, NCA and NMC, are both lithium-ion based.
@@ -91,6 +107,9 @@ Smithsonian/Museum of American History
 
  Electric vehicles were back on the road, and battery technology had just about caught up to modern times, too. 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Modern Day EVs 
 
  Early experiments with modern day EVs, like GM’s EV1 in the mid-nineties, were met with middling results. The technology was just about there, but there were a number of stumbling blocks in the way. 
@@ -107,6 +126,9 @@ Smithsonian/Museum of American History
 
  Tesla, launched by Elon Musk, showed up on the scene in 2003 as a startup aimed at creating an affordable and practical electric vehicle. Prototypes of the Tesla Roadster were revealed in 2006, and the first Roadsters were delivered to customers in 2008\. Powered by NCA battery technology, the Roadster had a range of 244 miles, which was significantly higher than previous all-electric vehicles.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![An early yellow Tesla Roadster with black stripes.](https://www.lifewire.com/thmb/bmr_9NPoJ_wMl9NhKypYTo-j4l4=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Tesla_Roadster_edit2-3c087f9a02a44e85b92ea2d0c090f3f6.jpg) 
 
 Cherubino/Wikimedia Commons
@@ -119,6 +141,9 @@ Cherubino/Wikimedia Commons
 
  More than 18,000 charging stations were installed through this program, though the build-out of charging infrastructure continues to this day through other public and private initiatives.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## The Future of EVs 
 
  The history of the electric vehicle has been driven largely by battery technology, and that’s likely to continue into the future unless a new technology comes along that can effectively replace them. With the overall cost of batteries dropping and the technology continuing to advance, electric vehicles are likely to match gas-powered vehicles in terms of cost, range, and other factors.
@@ -127,6 +152,9 @@ Cherubino/Wikimedia Commons
 
  The idea is that, instead of plugging in and waiting, you could simply take a couple minutes to trade your battery for a fresh one. Other energy storage technologies, like hot swappable fuel cells, could also see use, but they’re so much less efficient than modern batteries that it seems unlikely.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2018 and Beyond 
 
  In 2018, the number of electric vehicles on the road in the United States first passed the one million mark. By 2020, that number had soared to 1.8 million. Growth in other locations, like Europe and China, has been even faster.

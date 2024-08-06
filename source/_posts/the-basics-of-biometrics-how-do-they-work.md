@@ -1,7 +1,7 @@
 ---
 title: "The Basics of Biometrics: How Do They Work?"
-date: 2024-08-04 15:26:40
-updated: 2024-08-05 12:43:15
+date: 2024-08-05T02:11:15.332Z
+updated: 2024-08-06T02:11:15.332Z
 categories:
   - BestProducts
 description: "This Article Describes The Basics of Biometrics: How Do They Work?"
@@ -12,6 +12,9 @@ thumbnail: https://thmb.techidaily.com/15954b5de302fb65bb19b216711303e6c7127c1ad
 ## USB Tethering Won’t Work? Here Are the Quick Fix Steps to Try
  Since it's typically used as a secondary method for connecting to the internet, it can be exceedingly frustrating when even USB tethering is not working. Below are several potential solutions for tethering problems in Windows 11, Windows 10, Windows 8, and Windows 7.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why USB Tethering Stopped Working
 
  Between your phone, computer, and internet connection, there's a lot at play that could cause problems with USB tethering:
@@ -21,6 +24,9 @@ thumbnail: https://thmb.techidaily.com/15954b5de302fb65bb19b216711303e6c7127c1ad
 * The phone has a weak connection to the internet
 * The Windows driver is corrupt
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Fix USB Tethering Not Working
 
  Follow these steps in the order we've listed them to try the easier fixes first:
@@ -34,6 +40,9 @@ thumbnail: https://thmb.techidaily.com/15954b5de302fb65bb19b216711303e6c7127c1ad
 4. Try a different[USB port](https://www.lifewire.com/what-is-a-usb-port-818166) . This will tell you if the original port is faulty. Most desktop computers have USB ports on the front and the back, and laptops often have them on the side and back, so try both.
 5. Unplug your phone from the computer and then restart both devices. This is an important but often overlooked step when troubleshooting tech problems. It's easy to do in Windows \[[Reboot a PC](https://www.lifewire.com/how-to-reboot-a-computer-2624568) \], iOS \[[Reboot iPhone](https://www.lifewire.com/how-to-restart-iphone-2000288) \], and Android \[[Reboot Android](https://www.lifewire.com/reboot-android-smartphone-or-tablet-4127180) \].
 6. [Run a Windows troubleshooter](https://www.lifewire.com/run-diagnostics-on-windows-5214801) . There are several automated tools built-in to Windows that can address problems that you're not even aware of. When USB tethering is not working, it's best to run a troubleshooter that can address internet problems, like the one called**Network and Internet** in Windows 11.  
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The list of Windows 11 troubleshooters](https://www.lifewire.com/thmb/_8-44hddDYY_jpKvg1lZdPxWlVo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-troubleshooters-fbf697805dcd4c90853c79c32b741380.png)
 7. [Update your drivers](https://www.lifewire.com/how-to-update-drivers-in-windows-2619214) . A Windows driver necessary for tethering can become corrupt. Updating and installing all necessary drivers can often fix this in about 10 minutes.
 8. Update the operating system on your computer \[[Update Windows](https://www.lifewire.com/how-to-check-for-install-windows-updates-2624596) \], Android \[[Update Android](https://www.lifewire.com/update-your-android-os-121662) \], or iPhone \[[Update iOS](https://www.lifewire.com/upgrade-iphones-operating-system-2000293) \]. Several, if not dozens of bug fixes can be applied through an OS update, any of which could fix a known problem with USB tethering.

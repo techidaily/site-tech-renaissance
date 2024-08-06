@@ -1,7 +1,7 @@
 ---
 title: "Advanced Email Organization: Creating Specific Rules in Gmail Tutorial"
-date: 2024-08-02 12:14:53
-updated: 2024-08-05 10:20:49
+date: 2024-08-05T02:11:50.149Z
+updated: 2024-08-06T02:11:50.149Z
 categories:
   - BestProducts
 description: "This Article Describes Advanced Email Organization: Creating Specific Rules in Gmail Tutorial"
@@ -23,18 +23,33 @@ thumbnail: https://thmb.techidaily.com/45e28f9a2bd574b9cc2fe65fd885cbbf79b57e7d4
  Google makes this really easy. Here's what to do to enable 2FA for Gmail from a desktop browser:
 
 1. Sign in to your Gmail account and select your profile picture or icon.  
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Sign in to your Gmail account and select your profile picture or icon.](https://www.lifewire.com/thmb/XpGVEa_ydf-r8r0RK-2OQ5L6JOs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1Selectprofilepictureannotated-b3b1edd70b1948cc8d6091e63afb34cd.jpg)
 2. Select**Manage your Google Account** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Gmail settings with Manage Your Google Account highlighted](https://www.lifewire.com/thmb/Pe8Udf4nXir7HB95nGOhC-KCE6U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2SelectManageyourGoogleaccountannotated-0942870e67344a68ab7dcd590f811a3d.jpg)
 3. Select**Security** from the left pane.  
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Google account settings with security highlighted](https://www.lifewire.com/thmb/DT1Ur_GliGS23dPL4-8cNO_xCo8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3SelectSecurityannotated-66dc87f916d84806827da2b0f5d00e34.jpg)
 4. Select**2-Step Verification** .  
 ![Google account settings with 2-Step Verification highlighted](https://www.lifewire.com/thmb/9XxGsRBl70sZTynCu2tUQ3eSEnc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4Select2-StepVerificationannotated-941372db1c7e4a07824aabddbcbb988a.jpg)
 5. Select**Turn on 2-step Verification** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The 2-step Verification page in a Google account](https://www.lifewire.com/thmb/iraHGXouvGeotZQsz-JDpMIx49Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2-step-verification-google-account-3845649f01274321ae0acdbea57290ef.png)
 6. Enter your phone number, then select**Next** .  
 ![The 'Add a phone number' prompt for 2-step verification in a Google account](https://www.lifewire.com/thmb/1K92pSgXKDaOn_Ymr2X_Sin0Cqs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/google-account-add-phone-number-2-step-verification-a48263c5e08c427799171ef33eb356f5.png)
 7. Enter the verification code Google sent to your phone, then select**Verify** \>**Done**  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![The 'Verify this phone number' 2FA prompt in a Google account](https://www.lifewire.com/thmb/ncnHnWrzCxpHsg42S95xzn-O0Zo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2-step-verification-number-google-5663bb0d29ab4c46af293060352c54bb.png)
 
 ## How to Turn Off Gmail Two-Factor Authentication
@@ -48,18 +63,30 @@ thumbnail: https://thmb.techidaily.com/45e28f9a2bd574b9cc2fe65fd885cbbf79b57e7d4
 3. Select**Turn off 2-Step Verification** .  
 ![The Turn Off 2FA button in a Google account](https://www.lifewire.com/thmb/ouv8QX1HVIk0KoYzioHNlzR-sSU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/disable-two-step-verification-google-7a947d5206084cf4bbc8f6d59a949fc4.png)
 4. Google shows a warning message asking you to confirm that you really want to disable 2-Step Verification. If you're sure, select**Turn off** .  
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![Google confirmation message with the Turn Off button](https://www.lifewire.com/thmb/eZoqXK_DwHcHAJUYqrcu9uTEC-o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/turn-off-2fa-gmail-2b5b0ce807164afca9b4be86270a53e6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Set Up Alternate Verification Steps for Your Gmail Account
 
  If you want to set up different forms of verification as a backup to a text message, Google provides several options. Here's how to change the second form of verification:
 
 1. Return to your Google account settings by selecting your profile image at the top followed by**Manage your Google Account** \>**Security** \>**2-Step Verification** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Security settings for a Google account with 2FA enabled](https://www.lifewire.com/thmb/awa8LnI_ob1tQVHmWXeGBiHObZc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/google-security-settings-cbf9e7719c1847fcb54b626a94168973.png)
 2. Scroll down to the**Second steps** section.
 3. Pick any of the available options, which include**Passkeys and security keys** ,**Google prompt** , and[Authenticator](https://www.lifewire.com/how-to-set-up-google-authenticator-4689012) . This is also where you can get[backup codes for your Google account](https://www.lifewire.com/how-to-use-google-backup-codes-4172457) .  
 ![The list of Google's 2-step verification methods](https://www.lifewire.com/thmb/0mC55xoqifGaJGNsFpQPjFkWGEU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2-step-verification-google-account-8857e154647241098b43075f4b9e2f28.png)
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Why Use Gmail Two-Factor Authentication?
 
  Your email account contains a lot of valuable information. It's likely the account you use for everything, from your online banking to your social media accounts and potentially work-related tasks.

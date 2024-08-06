@@ -1,7 +1,7 @@
 ---
 title: "Preparing to Purchase: 9 Critical Queries Every Prospective EV Owner Should Contemplate"
-date: 2024-08-03 11:58:19
-updated: 2024-08-06 12:25:49
+date: 2024-08-05T02:11:50.902Z
+updated: 2024-08-06T02:11:50.902Z
 categories:
   - BestProducts
 description: "This Article Describes Preparing to Purchase: 9 Critical Queries Every Prospective EV Owner Should Contemplate"
@@ -49,6 +49,9 @@ thumbnail: https://thmb.techidaily.com/74ac13432c01dd5c17161c9b4a52f81e0b445cdf2
 
  Certain EVs are eligible for up to $7,500 in federal tax credits, which reduces the tax you owe in a given year. Many states offer cash rebates or similar incentives. In essence, governments are paying you to drive an EV through taxpayer-funded subsidies. There are restrictions, of course, so be sure you[ read up on tax credits and rebates](https://www.lifewire.com/ev-tax-credits-and-rebates-explained-5201649) that might apply to your situation.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Can You Charge at Home? 
 
  This is the most critical question to answer. Many people living in an apartment, townhome, or a condominium have no access to a charging station that they and only they can use. Installing a charging station in these locations requires approval from a landlord, building owner, or a homeowner association and access to private off-street or garage parking. 
@@ -61,6 +64,9 @@ thumbnail: https://thmb.techidaily.com/74ac13432c01dd5c17161c9b4a52f81e0b445cdf2
 
 ##  Can You Charge Near Your Home? 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![A map of charging stations according to the PlugShare app.](https://www.lifewire.com/thmb/HA5E_pp4YSheZCnHA4kKNCXgRAA=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/PlugSharemap-80f232aa5e2c461e865272623a111346.jpg) 
 
  You'll need a network of public charging stations when you take your EV beyond the radius of your home so do your research: Record the number of compatible stations in a given area, note their charging speed, chart their exact locations, and sign up for accounts. 
@@ -73,6 +79,9 @@ thumbnail: https://thmb.techidaily.com/74ac13432c01dd5c17161c9b4a52f81e0b445cdf2
 
  Tesla Superchargers are the most stress-free and in the most convenient locations, like at highway rest stops next to gas station pumps. They can only charge a Tesla, but their ease of use and fast speeds make them the best network of any EV. (**Ed. note** : Tesla is opening its SuperCharger network to non-Tesla owners in late 2021.)  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  How Far Do You Drive Each Week? 
 
  Most EVs are EPA-estimated to drive between 80 and 400 miles. That gives you a big choice of vehicles. 
@@ -83,6 +92,9 @@ thumbnail: https://thmb.techidaily.com/74ac13432c01dd5c17161c9b4a52f81e0b445cdf2
 
 [ How Much Range You Need in Your EV ](https://www.lifewire.com/how-much-range-you-need-in-your-ev-5202086) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Can You Accept a Significant Loss of Range in Cold Weather? 
 
  Speaking of a 30 percent reduction, that's about how much a fully-charged battery will drop in capacity in below-freezing temperatures with the heating system in use. 
@@ -91,12 +103,18 @@ thumbnail: https://thmb.techidaily.com/74ac13432c01dd5c17161c9b4a52f81e0b445cdf2
 
 [  How Well Do EVs Work in Extreme Cold or Heat? ](https://www.lifewire.com/how-well-do-evs-work-in-extreme-cold-or-heat-5202163) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ##  Do You Have Access to Alternate Transportation? 
 
  Backup transportation is essential, be it another car or a bus, train, or bicycle. EVs can require significant downtime when recharging; that can complicate your personal schedule or prevent you from going anywhere. 
 
  In an emergency, you might not be able to rely on an EV when time is of the utmost importance. Even for fun last-minute trips, your EV might not have enough range to reach the destination. A car should not restrict your mobility; it should be a tool to make your life easier, not to cause unwanted stress.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ##  Do You Like Accelerating Hard? 
 
  Electric motors produce all of their torque once they engage. In other words, if you floor the accelerator pedal, an EV will accelerate quickly—considerably more than in a comparable gas-powered car. 

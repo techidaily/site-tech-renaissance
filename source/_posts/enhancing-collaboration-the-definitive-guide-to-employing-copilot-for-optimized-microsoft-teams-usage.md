@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Collaboration: The Definitive Guide to Employing Copilot for Optimized Microsoft Teams Usage"
-date: 2024-08-04 15:29:23
-updated: 2024-08-06 12:56:45
+date: 2024-08-05T02:11:27.706Z
+updated: 2024-08-06T02:11:27.706Z
 categories:
   - BestProducts
 description: "This Article Describes Enhancing Collaboration: The Definitive Guide to Employing Copilot for Optimized Microsoft Teams Usage"
@@ -15,6 +15,9 @@ Close
 
  In this guide, you’ll learn how to use Copilot in Microsoft Teams. And to ensure that you have the right credentials, we’ll also show you how to get this generative AI feature for your account. 
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ##  How to Use Copilot in Microsoft Teams 
 
 1. You can use Copilot in several ways, such as summarizing your chats. Using the tool is nearly identical regardless of where in Teams you need it, and the steps you should follow are listed below.
@@ -24,12 +27,21 @@ Close
 3. On the left side, you’ll see your downloaded apps. Enter your prompt in the text box and hit the**Enter key or icon** . You should then see a summary of what you’re looking for.  
 ![Use Copilot for Sales in Microsoft Teams](https://www.lifewire.com/thmb/EtCjXE-O-c-ynNEWlVSyunbgRIc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/UseCopilotforSales-98680cedd3b541ed9620b8cc6399b03c.jpeg)
 4. To use Copilot elsewhere, select the logo to expand your list of options.  
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Copilot logo in Microsoft Teams](https://www.lifewire.com/thmb/N3sItjidTMEzrCz6kuy7lEiAAvU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Copilot-logo-ea4cfdcb97104106ae95a9d97d0c4fe2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Get Copilot for Microsoft Teams 
 
  Before you learn how to set up and use Copilot in Teams, it’s worth remembering that you can only use the feature if you meet the correct requirements. In the sections below, we’ll cover exactly what you need to use Copilot in Microsoft Teams. 
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  A Microsoft Business or Enterprise Subscription 
 
  To use Copilot for Microsoft Teams, you’ll need two separate subscriptions. First, you’ll need a Microsoft 365 Business Basic, Standard, or Premium account. Unfortunately, it’s not enough to have a Microsoft 365 Personal account.
@@ -42,6 +54,9 @@ Close
 
  You can also use Copilot for Teams with some Microsoft Enterprise accounts, but your subscription must also include Teams. So, if you haven't already, you'll have to upgrade.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ###  A Microsoft Copilot Subscription 
 
  After signing up for a Microsoft 365 Business account, you’ll also need to get Copilot as an add-on. Your IT admin (or you, if you are that person) should see a message that says: 
@@ -64,6 +79,9 @@ Close
 ![The "Copilot Extensions" heading under Apps in Microsoft Teams](https://www.lifewire.com/thmb/NyIgfmsQLm3q9AFPMhNlX8PVDJI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Copilot-Extensions-heading-329c9afe682e45ebbfef4f3f0585e701.jpg)
 3. Look for the Copilot extension(s) you’d like to add in Teams. You can either use the search bar or browse different categories.  
  When you find one you want, select**Add** to install it.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![The "Add" button for a Copilot extension](https://www.lifewire.com/thmb/Cf177pJ4izRTxxtYGuVVhuFE7Jc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Copilot-extension-add-button-5153b259328344cb92232920eb6a1707.jpg)
 4. Your extensions will appear in your chat, and you can access them from there. For example, if you use Trello, you can view your assigned cards without needing to go to the app.  
 You may need to sign in to an app to use its extension.  

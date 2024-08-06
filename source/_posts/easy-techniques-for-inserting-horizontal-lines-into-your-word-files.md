@@ -1,7 +1,7 @@
 ---
 title: Easy Techniques for Inserting Horizontal Lines Into Your Word Files
-date: 2024-08-05 23:52:29
-updated: 2024-08-06 10:58:56
+date: 2024-08-05T02:11:30.649Z
+updated: 2024-08-06T02:11:30.649Z
 categories:
   - BestProducts
 description: This Article Describes Easy Techniques for Inserting Horizontal Lines Into Your Word Files
@@ -13,6 +13,9 @@ thumbnail: https://www.lifewire.com/thmb/KbR0CZ2KlKaE-nsJy3Z6VykagFU=/400x300/fi
 
 Close 
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  What to Know
 
 * AutoFormat: Enter special characters, like**\---** or**\*\*\*** , to add unique line styles.
@@ -34,6 +37,9 @@ Close
 * **Wavy line** : Three tildes \~\~\~
 * **Triple line with a thick center** : Three number signs ###
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![A list of several line types added to a Word document](https://www.lifewire.com/thmb/MDLUprJnAbH7BQyqUycsvB42OEU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Word_linetypes-3121d46c463b4445837ff9fcb06c8471.jpg) 
 
 ##  Use the Horizontal Line Tool to Insert a Line in Word 
@@ -43,10 +49,29 @@ Close
 1. Place the cursor where you want to insert a line.
 2. Go to the**Home** tab.  
  By default, the Home tab is selected when you open a new or existing document.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![Home tab in Word for Windows](https://www.lifewire.com/thmb/eZCiJAbNu-wonyxKJ4ky8n2GTZY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_insert-horizontal-lines-in-word-4169481-5c79795cc9e77c000136a71d.jpg)
 3. In the **Paragraph** group, select the **Borders** drop-down arrow and choose**Horizontal Line** .  
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Borders button and Horizontal Line button in Word for Windows](https://www.lifewire.com/thmb/zhSPJEjUGdprbXgT1Q5yQhRZ1Zo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_insert-horizontal-lines-in-word-4169481-5c7979b7c9e77c000136a71e.jpg)
 4. To change the look of the line, double-click the line that was created in the document. The**Format Horizontal Line** dialog box lets you edit the line's width, height, color, and alignment.  
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Format Horizontal Line dialog in Word for Windows](https://www.lifewire.com/thmb/MeSujbWnQrUAPFQjmcC8xGkW-b8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_insert-horizontal-lines-in-word-4169481-5c797a97c9e77c0001f57bf9.jpg)
 
 ##  Use the Shapes Menu to Add a Line in Word 
@@ -58,6 +83,9 @@ Close
 1. Click where you want the line to go, then select the**Insert** tab.  
 ![Microsoft Word Insert tab.](https://www.lifewire.com/thmb/AmvL8LzlWgX_2I57w2XZn6gOis8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/WordInsertMenu-de03eaa14bbd4045aa6181fee02093fb.jpg)
 2. In the**Illustrations** group, select the**Shapes** drop-down arrow.  
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Microsoft Word with the Shapes menu highlighted](https://www.lifewire.com/thmb/72Xdq0nPvB0M_OMVxNg6gSySsJA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-annotating-an-image-in-microsoft-word-3539867-86870dbe0bd54a33b6a00e16532bd93c.jpg)
 3. In the**Lines** group, choose a line shape.  
 ![Word's Shapes menu with the Lines section highlighted](https://www.lifewire.com/thmb/faFUu5tlfOe8GC9iGabZ5dqDEak=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-insert-horizontal-lines-in-word-4169481-4499f0e5ad0144809c06d04742850cae.jpg)

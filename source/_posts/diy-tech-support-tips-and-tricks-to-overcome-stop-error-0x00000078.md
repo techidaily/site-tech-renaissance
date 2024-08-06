@@ -1,7 +1,7 @@
 ---
 title: "DIY Tech Support: Tips and Tricks to Overcome Stop Error 0X00000078"
-date: 2024-08-04 15:33:31
-updated: 2024-08-06 11:59:45
+date: 2024-08-05T02:11:46.052Z
+updated: 2024-08-06T02:11:46.052Z
 categories:
   - BestProducts
 description: "This Article Describes DIY Tech Support: Tips and Tricks to Overcome Stop Error 0X00000078"
@@ -24,6 +24,9 @@ thumbnail: https://thmb.techidaily.com/a13a2db3e926587257ddbddaa8e6b2d5c7f6b5a5b
 
  If STOP 0x00000078 isn't the exact STOP code you're seeing or PHASE0\_EXCEPTION isn't the exact message, check the[List of Blue Screen Error Codes](https://www.lifewire.com/blue-screen-error-codes-4065576) and reference the troubleshooting information for the message you're seeing.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Fix the STOP 0x00000078 Errors
 
  This STOP code is rare, so there's little troubleshooting information available that's specific to it. However, since most STOP errors have similar causes, there are some basic troubleshooting steps to help fix these issues.  
@@ -33,6 +36,9 @@ thumbnail: https://thmb.techidaily.com/a13a2db3e926587257ddbddaa8e6b2d5c7f6b5a5b
 
 [How to Fix a Computer That Won't Turn On](https://www.lifewire.com/how-do-i-get-my-computer-fixed-2625167)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Causes of the STOP 0x00000078 Errors
 
  STOP 0x00000078 errors are likely caused by[hardware](https://www.lifewire.com/computer-hardware-2625895) or[device driver](https://www.lifewire.com/what-is-a-device-driver-2625796) issues. The STOP 0x00000078 error will always appear on a[STOP message](https://www.lifewire.com/blue-screen-of-death-bsod-2625816) , more commonly called a Blue Screen of Death (BSOD).  

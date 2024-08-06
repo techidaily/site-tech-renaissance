@@ -1,7 +1,7 @@
 ---
 title: How to Easily Take Photos of Your Gameplay on the Xbox One
-date: 2024-08-03 15:12:20
-updated: 2024-08-05 11:50:52
+date: 2024-08-05T02:11:38.069Z
+updated: 2024-08-06T02:11:38.069Z
 categories:
   - BestProducts
 description: This Article Describes How to Easily Take Photos of Your Gameplay on the Xbox One
@@ -17,6 +17,9 @@ Close
 
  Once captured, users can upload images and video to[ OneDrive](https://www.lifewire.com/onedrive-in-windows-10-a-house-divided-4067451) , share them directly to[ X (formerly Twitter)](https://www.lifewire.com/what-exactly-is-twitter-2483331) , or back them up to a computer. Screenshots and videos can also be downloaded through the Xbox app, which makes it easy to archive your favorite moments and share them on other[ social media platforms](https://www.lifewire.com/top-social-networking-sites-people-are-using-3486554) .
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ##  How to Take a Screenshot on Xbox One 
 
  Taking an Xbox One screenshot only requires you to push two buttons. 
@@ -31,6 +34,9 @@ Close
 
  If you'd like to capture the last 30 seconds of gameplay as a video, press the**X** button instead.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ##  How to Share a Screenshot on Xbox One 
 
  Xbox One lets you share screenshots and videos right from the console. 
@@ -45,6 +51,9 @@ Close
 
  Select**X** to share an image directly to X. Other options allow you to share images and videos to your activity feed, an Xbox club, or in a message to one of your friends.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ##  How to Capture 4K HDR Screenshots and Video Clips on Xbox One 
 
  Xbox One S and Xbox One X allow you to capture screenshots and gameplay footage in 4k. 
@@ -60,6 +69,9 @@ Close
 
  This will dramatically increase the file size of screenshots and video clips. If you want to share your 4K screenshots on social media platforms like X, you may need to download them to your PC and then[ resize the images](https://www.lifewire.com/resize-pictures-before-inserting-1173273) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ##  How to Access Xbox One Screenshots and Videos From a Computer 
 
  If you don't like Twitter, the Xbox app lets you download your Xbox One screenshots so you can share them wherever you want. 

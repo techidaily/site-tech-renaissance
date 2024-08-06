@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Instructions to Leverage Telnet Client in Windows Environment
-date: 2024-08-05 16:32:41
-updated: 2024-08-06 12:46:49
+date: 2024-08-05T02:11:38.853Z
+updated: 2024-08-06T02:11:38.853Z
 categories:
   - BestProducts
 description: This Article Describes Comprehensive Instructions to Leverage Telnet Client in Windows Environment
@@ -10,6 +10,9 @@ thumbnail: https://www.lifewire.com/thmb/rC4f9mrMp1ec8VvSlENPhTOtdGg=/400x300/fi
 ---
 
 ## Comprehensive Instructions to Leverage Telnet Client in Windows Environment
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What to Know
 
 * Search**Control Panel** for**features** and then click**Turn Windows features on or off** .
@@ -18,6 +21,9 @@ thumbnail: https://www.lifewire.com/thmb/rC4f9mrMp1ec8VvSlENPhTOtdGg=/400x300/fi
 
  This article describes how to enable Telnet for Windows and how to run Telnet commands.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ## How to Enable the Windows Telnet Client
 
  Telnet isn't a secure way to communicate with another device, but there are reasons to use it. You can't, however, just open Command Prompt and expect to start executing commands. First, you need to enable Telnet Client through Control Panel.
@@ -32,6 +38,9 @@ thumbnail: https://www.lifewire.com/thmb/rC4f9mrMp1ec8VvSlENPhTOtdGg=/400x300/fi
 4. Select**Turn Windows features on or off** from the left pane.  
 ![Turn Windows features on or off link in Programs and Features Control Panel on Windows 10](https://www.lifewire.com/thmb/mOyjWvAVjVvLPEfdtC2gLDmk62w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_what-is-telnet-2626026-5bbe80a7c9e77c00517b1934.jpg)
 5. Select the check box next to**Telnet Client** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Telnet Client checkbox in Windows Features dialog box](https://www.lifewire.com/thmb/ipojrY0t0n8rH2J9cFv8WpKCxcw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_what-is-telnet-2626026-5bbe813546e0fb0051275b1b.jpg)
 6. Select**OK** to enable Telnet. When you see the**Windows completed the requested changes** message, you can close any open dialog boxes.
 
@@ -39,6 +48,10 @@ thumbnail: https://www.lifewire.com/thmb/rC4f9mrMp1ec8VvSlENPhTOtdGg=/400x300/fi
 
  Telnet commands are easy to execute. After[opening Command Prompt](https://www.lifewire.com/how-to-open-command-prompt-2618089) , enter the word**telnet** . The result is a line that says**Microsoft Telnet>** , which is where commands are entered.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ![Telnet Client open in Windows 11 Command Prompt](https://www.lifewire.com/thmb/730VxbH57Ub5D5pObriOnnCfBmc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/microsoft-telnet-client-windows-11-9e8a181d5b264119b0f67703eb6da069.png)
 
  Another way to run a Telnet command is to type**telnet** followed by any command, such as the ones shown in the examples below. To connect to a Telnet server, enter a command that follows this[syntax](https://www.lifewire.com/what-is-syntax-2626014) :  
@@ -51,6 +64,9 @@ thumbnail: https://www.lifewire.com/thmb/rC4f9mrMp1ec8VvSlENPhTOtdGg=/400x300/fi
 
 [Microsoft keeps a list of Telnet commands](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-xp/bb491013%28v=technet.10%29) if you'd like to learn more about how to do things like open and close a Telnet connection, display the Telnet Client settings, and more.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Does Telnet Work?
 
  Telnet is a[network protocol](https://www.lifewire.com/definition-of-protocol-network-817949) that provides a[command-line interpreter](https://www.lifewire.com/what-is-a-command-line-interpreter-2625827) to communicate with a device. It's used most often for remote management, but also sometimes for the initial setup for some devices, especially network hardware such as switches and access points.
@@ -65,6 +81,9 @@ thumbnail: https://www.lifewire.com/thmb/rC4f9mrMp1ec8VvSlENPhTOtdGg=/400x300/fi
 
  Although not the same as Telnet,[free remote access software tools](https://www.lifewire.com/free-remote-access-software-tools-2625161) are an alternative way to communicate with another computer remotely.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Telnet Games & Additional Information
 
  There are several[Command Prompt tricks](https://www.lifewire.com/command-prompt-tricks-and-hacks-2618104) you can perform using Telnet. Some of them are in text form, but you may have fun with them.

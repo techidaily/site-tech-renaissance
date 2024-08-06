@@ -1,7 +1,7 @@
 ---
 title: "Top Picks: Must-Watch LGBT Films Streaming on Netflix This July"
-date: 2024-08-03 19:45:54
-updated: 2024-08-06 12:27:19
+date: 2024-08-05T02:11:23.263Z
+updated: 2024-08-06T02:11:23.263Z
 categories:
   - BestProducts
 description: "This Article Describes Top Picks: Must-Watch LGBT Films Streaming on Netflix This July"
@@ -50,6 +50,9 @@ Warner Bros.
 
 of 20
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ## [Oppenheimer (2023) - Prime Video](https://www.imdb.com/title/tt15398776/)
 
 ![Cillian Murphy stars in Oppenheimer (2023)](https://www.lifewire.com/thmb/FC9_OpVoKlKG1ANKmXPxIl7NsS4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/oppenheimer-cillian-7b4e97c6e1374727bcf4ca784010255b.jpeg)
@@ -78,6 +81,9 @@ of 20
 
 ## [Past Lives (2023) - Paramount Plus](https://www.imdb.com/title/tt13238346/)
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Teo Yoo and Greta Lee in Past Lives (2023)](https://www.lifewire.com/thmb/Y59jlqDPU1d9w_VkhcfPvVinbR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/PastLives-6e2d7a4d476e45c5bbd3c8921a16a4ba.jpg)
 
 A24
@@ -130,6 +136,9 @@ of 20
 
 ## [Killers of the Flower Moon (2023) - Apple TV+](https://www.imdb.com/title/tt5537002/)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![Leonardo DiCaprio and Lily Gladstone in Killers of the Flower Moon (2023)](https://www.lifewire.com/thmb/iL6Rjauks5I-CBIWWkz5FrQfPGw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/killersoftheflowermoon-aeefbf0692224c6c9702207b962c7d1e.jpeg)
 
 Paramount Pictures
@@ -184,6 +193,9 @@ Searchlight Pictures
 
 of 20
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ## [The Iron Claw (2023) - Max](https://www.imdb.com/title/tt21064584/)
 
 ![Zac Efron in a promo image for The Iron Claw (2023)](https://www.lifewire.com/thmb/wnijyAPfoYfuTQmSgWKqrwcKtL0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-iron-claw-efron-7e77128fd63d4521b72b696051a243f5.jpeg)
@@ -242,6 +254,9 @@ of 20
 
 ## [The Zone of Interest (2023) - Max](https://www.imdb.com/title/tt7160372/)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Still image from The Zone of Interest (2023)](https://www.lifewire.com/thmb/KdachdkU8-e6bcohfzhbLQlad8U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TheZoneOfInterest_textless_ProRes422HQ_24p_1920x1080_178_Rec709_51-20_20230929.00_46_51_20.Still001-48ecca43df884f0fbfe437627874155d.jpeg)
 
 A24
@@ -268,8 +283,14 @@ A24
 
 of 20
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [Top Gun: Maverick (2022) - Paramount Plus](https://www.imdb.com/title/tt1745960/)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Tom Cruise in Top Gun: Maverick (2022)](https://www.lifewire.com/thmb/NG04QySNHhxBCYJ8_rukgGK-ux8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Top-Gun-Maverick-featured-fbc75bef2d7d4f4aa8a065fddf7047af.jpeg)
 
 Paramount Pictures
@@ -294,8 +315,14 @@ Paramount Pictures
 
 of 20
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## [Barbie (2023) - Max](https://www.imdb.com/title/tt1517268/)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Margot Robbie and Ryan Gosling in Barbie (2023)](https://www.lifewire.com/thmb/mhS706kMifUgI85kWplmjSZ2LFg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/rev-1-BAR-07462_High_Res_JPEG-H-2023-66f159dab85b41c089836b40b80db051.jpeg)
 
 Warner Bros. Pictures
@@ -324,6 +351,9 @@ of 20
 
 ## [Avatar: The Way of Water (2022) - Disney Plus](https://www.imdb.com/title/tt1630029/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Promo image for Avatar: The Way of Water (2022)](https://www.lifewire.com/thmb/D_rI00h0MsvuByyNTHpGx2G_cQA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/04d36a5d-cb8a-4278-b140-2a1b5e331c50-loak-53881476e9d5495eb6dcf7448e9493c0.jpeg)
 
 20th Century Studios
@@ -403,8 +433,14 @@ Universal Pictures
 
 of 20
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ## [Ferrari (2023) - Hulu](https://www.imdb.com/title/tt3758542/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Adam Driver in Ferrari (2023)](https://www.lifewire.com/thmb/DBkXGlN5o_SUROrbM7E4sturt9k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Ferarri_01-3c8178608b6f4798bb58ffdddc3fd3c3.jpeg)
 
 Neon
@@ -431,6 +467,9 @@ _Heat_ director Michael Mann eschews the full biographic format here and instead
 
 of 20
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [Anyone But You (2023) - Netflix](https://www.imdb.com/title/tt26047818/)
 
 ![Glen Powell and Sydney Sweeney in Anyone But You (2023)](https://www.lifewire.com/thmb/e4ahZyLl6oELJjCc-4DDrt7bLro=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/anyone-but-you-1-717a09049bf442f883f43a8a24806a8e.jpeg)
@@ -459,6 +498,9 @@ Sony Pictures
 
 of 20
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [Am I OK? (2022) - Max](https://www.imdb.com/title/tt11225626/)
 
 ![Dakota Johnson and Sonoya Mizuno in Am I OK? (2022)](https://www.lifewire.com/thmb/n9MwMpmMLnidlBMD3klVVhdBfEo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AM-I-OK-Sundance-Film-Festival-Publicity-H-2022-9e7f94f0756b45f4bb4545fa258deeca.jpeg)
@@ -487,8 +529,14 @@ Max
 
 of 20
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [John Wick: Chapter 4 - Starz](https://www.imdb.com/title/tt10366206/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Keanu Reeves in John Wick: Chapter 4](https://www.lifewire.com/thmb/Ffc7c5-vlN07z8J0GfQApItS5uY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/john-wick-chapter-4-JW4_Unit_210715_00159_R_rgb-c2a9edade15248e1a193b5a818890df5.jpeg)
 
 Lionsgate
@@ -513,6 +561,9 @@ of 20
 
 ## [No One Will Save You (2023) - Hulu](https://www.imdb.com/title/tt14509110/)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Kaitlyn Dever in No One Will Save You (2023)](https://www.lifewire.com/thmb/i8ZoKpAYIKR5vt1kXpEeOLd1ZWA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/No-One-Will-Save-You-9940330c07204d6a93824981ef962da2.jpeg)
 
 Hulu
@@ -535,8 +586,19 @@ Hulu
 
 of 20
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [Talk to Me (2023) - Paramount Plus](https://www.imdb.com/title/tt10638522/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![Still from Talk to Me (2023)](https://www.lifewire.com/thmb/0Z13Ohcr2LiavsQik7uM3MXpm8s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/talk-to-me-sequel-be042fcc1f4d4c5581b6d50a8d92e7ea.jpeg)
 
 A24

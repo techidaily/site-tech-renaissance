@@ -1,7 +1,7 @@
 ---
 title: Effective Ways to Remove Apps From a Mac Device
-date: 2024-08-03 23:27:29
-updated: 2024-08-05 10:19:12
+date: 2024-08-05T02:11:46.594Z
+updated: 2024-08-06T02:11:46.594Z
 categories:
   - BestProducts
 description: This Article Describes Effective Ways to Remove Apps From a Mac Device
@@ -10,6 +10,9 @@ thumbnail: https://www.lifewire.com/thmb/SfAMLu7jpWcNssyxj_YKFYUg7AE=/400x300/fi
 ---
 
 ## Effective Ways to Remove Apps From a Mac Device
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What to Know
 
 * Drag the app to the Trash Can. Or, open**Finder** \>**Applications** \> select app >**File** \>**Move to Trash** .
@@ -18,6 +21,9 @@ thumbnail: https://www.lifewire.com/thmb/SfAMLu7jpWcNssyxj_YKFYUg7AE=/400x300/fi
 
  This article explains how to delete and uninstall apps on the Mac using several methods. Information covers Mac OS X Lion and later macOS versions.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Uninstall Apps Using the Trash Can
 
  The easiest way to uninstall an app or program from your Mac is by using the trash can located on the Dock.
@@ -31,16 +37,33 @@ thumbnail: https://www.lifewire.com/thmb/SfAMLu7jpWcNssyxj_YKFYUg7AE=/400x300/fi
  The drag-and-drop method of deleting apps with the trash can doesn't work for all apps, but when you combine it with the Finder, you can delete almost any application. Here's how:
 
 1. Open a Finder window by selecting**File** \>**New Finder Window** in the Apple menu bar or by clicking the**Finder** icon on the Dock.  
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Apple menu bar showing File drop-down menu](https://www.lifewire.com/thmb/MGmsm3YDwhDyatYOHrrRRW3-h0M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-uninstall-apps-on-the-mac-6275a27fdf634aa88081ee1bd2565f51.jpg)
 2. Click**Applications**  in the left panel of the Finder window to view the installed applications on your computer.  
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![Mac Finder Window showing Applications](https://www.lifewire.com/thmb/vHQixA8eNCDtMNb9UUGfnSOYS1g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-uninstall-apps-on-the-mac-f3bdc444cc264857b4ebfa75ee21d74d.jpg)
 3. Click the**Application** that you want to uninstall.
 4. Click**File** from the drop-down menu in the upper-left corner of the screen.
 5. Click**Move to Trash** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![Finder Window on a Mac](https://www.lifewire.com/thmb/jSO0h7XUMxLUIaC3aknExibGMbw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-uninstall-apps-on-the-mac-b4a5edaead6441d1ad443581e8732fa6.jpg)
 6. Right-click the**Trash** icon in the Dock.  
 [How to Right-Click on a Mac](https://www.lifewire.com/right-click-on-a-mac-4164327)
 7. Click**Empty Trash** in the pop-up menu to remove the application from your Mac.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![Trash Can in the Mac Dock](https://www.lifewire.com/thmb/_c8iNfdVM251v01qLTjDdWk_KRo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-uninstall-apps-on-the-mac-a5e892ee5ad14e7c8d59b11902ecc636.jpg)
 
 ## Uninstall Apps Using an Uninstaller

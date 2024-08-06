@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Resetting the New Generation of iPhones - The XS
-date: 2024-08-03 15:34:37
-updated: 2024-08-06 11:35:54
+date: 2024-08-05T02:11:13.594Z
+updated: 2024-08-06T02:11:13.594Z
 categories:
   - BestProducts
 description: This Article Describes Expert Tips for Resetting the New Generation of iPhones - The XS
@@ -12,10 +12,16 @@ thumbnail: https://www.lifewire.com/thmb/3GJtW8jGIKjVQcBT4SVEx6DhbtU=/400x300/fi
 ## Waterlogged Woes Be Gone? Testing the Waterproof Claims for iPhone 15 Pro Max
  This article explains the waterproof ability, IP rating, and supporting details for the iPhone 15 Pro Max. We’ll also list precautions you should take to avoid damaging the device, along with step-by-step instructions for drying your iPhone.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Are iPhones Waterproof?
 
  To answer this question simply, no,[iPhones are not waterproof](https://www.lifewire.com/is-the-iphone-waterproof-or-not-5089476) . However, most newer iPhone models are water-resistant.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![Man holding a wet iphone](https://www.lifewire.com/thmb/fBUnCEjh49pk3yM9D23Ydhe4kpg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Man-Holding-Wet-iPhone-8662979-9e556c45aa4545e1a7886343b190e828.jpeg)
 
 Pexels / Pixabay
@@ -26,6 +32,9 @@ Pexels / Pixabay
 
  Device models since the iPhone 7–including the iPhone 15 line–are water resistant and were tested in a controlled lab to confirm and obtain the rating you’ll see below.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How Waterproof Is the iPhone 15 Pro Max?
 
  Several newer iPhone models are more water-resistant than others. The iPhone X through the iPhone 15 models have an IP68 rating under IEC standard 60529, compared to the IP67 rating of the iPhones 7 and 8.
@@ -34,6 +43,9 @@ Pexels / Pixabay
 
  If your iPhone is damaged–for example, if its screen is cracked–it may be less resistant to both water and dust.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is the IP68 Rating?
 
  IP stands for Ingress Protection, which defines how well the device can resist dust and liquid over time.
@@ -46,6 +58,9 @@ Pexels / Pixabay
 
  So, what does all of this mean? The iPhone 15 Pro Max is almost perfect when it comes to water resistance, but it can't withstand major or prolonged exposure.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Precautions to Take With a Wet iPhone
 
  Although your iPhone 15 Pro Max is highly water resistant, you should still heed the following precautions to avoid damaging the device and definitely dry the iPhone if it becomes wet:
@@ -59,6 +74,13 @@ Pexels / Pixabay
 
  If you[try to charge your device](https://www.lifewire.com/my-iphone-wont-charge-what-do-i-do-2000147) and it senses liquid, you may see an alert such as “Liquid Detected” or “Charging Not Available.”
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ## How to Dry a Wet iPhone 15 Pro Max
 
  You may have heard the trick of placing your smartphone in a bag of rice to dry it; however,[Apple advises against this](https://support.apple.com/en-us/102643) as it could damage your device. Instead, follow these steps to[dry the iPhone](https://www.lifewire.com/how-to-save-wet-iphone-ipod-1999474) .

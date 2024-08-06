@@ -1,7 +1,7 @@
 ---
 title: Quest 3 From Meta Platforms - Get the Scoop on Pricing, Launch Schedule, Features & More!
-date: 2024-08-04 15:28:29
-updated: 2024-08-06 12:23:17
+date: 2024-08-05T02:11:27.314Z
+updated: 2024-08-06T02:11:27.314Z
 categories:
   - BestProducts
 description: This Article Describes Quest 3 From Meta Platforms - Get the Scoop on Pricing, Launch Schedule, Features & More!
@@ -15,6 +15,9 @@ Close
 
  Called Meta Quest 3 and codenamed Eureka, this wireless,[ mixed reality](https://www.lifewire.com/what-is-mixed-reality-4588766) VR headset is thinner than the[ Oculus Quest 2](https://www.lifewire.com/oculus-quest-2-hands-on-solid-performance-with-some-cut-corners-5082993) and will ship later this year with a new chipset that delivers twice the graphics performance.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Meta Quest 3 Release Date 
 
  Meta first announced the Meta Quest 3 in June 2023\. At Meta Connect on September 27, they announced the release date: October 10.
@@ -25,14 +28,23 @@ Close
 
  Another option has 512GB of storage and costs $649.99.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ## Pre-Order Information 
 
  You can[ order a Meta Quest 3](https://www.meta.com/quest/quest-3/) directly from Meta.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Meta Quest 3 headset](https://www.lifewire.com/thmb/R0nFxJPG6GNdRdNMejkyp2Ps0BQ=/1500x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/meta-quest-3-headset-front-7049bb83fcbd4b51967c79f6d62a372d.png) 
 
 Mark Zuckerberg / Instagram
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Meta Quest 3 Features & Specs 
 
  Quest 3 boasts enhanced visuals through a high-resolution display with 2,064 x 2,208 pixels per eye and pancake optics, supported by a next-gen chipset (Snapdragon XR2 Gen 2) for superior graphical performance. It introduces[ Meta Reality technology](https://www.meta.com/blog/quest/mixed-reality-definition-passthrough-scene-understanding-spatial-anchors/) , which merges the physical and virtual worlds, allowing for natural interactions and immersive experiences.
@@ -41,6 +53,9 @@ Mark Zuckerberg / Instagram
 
  Mark Zuckerberg says the Quest 3 will be compatible with Quest 2's whole library of over 500 games and apps, and more titles will come later.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![meta quest 3 controllers](https://www.lifewire.com/thmb/u3aTimwltvpfD-actB8lufsDZNo=/1500x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/meta-quest-3-controllers-45f99ced94a544fa82a64f37a1cd1d05.png) 
 
 Mark Zuckerberg / Instagram
@@ -49,6 +64,9 @@ Mark Zuckerberg / Instagram
 
  The Meta Quest 3 supports up to[ Wi-Fi 6E](https://www.lifewire.com/6ghz-6e-wi-fi-4845541) , if that's available in your region.  
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  The Latest News About the Meta Quest 3 
 
  You can [ get more smart and connected life news from Lifewire](https://www.lifewire.com/smart-home-connected-life-news-4797031) . Here are the latest rumors and related stories regarding the Meta Quest 3:

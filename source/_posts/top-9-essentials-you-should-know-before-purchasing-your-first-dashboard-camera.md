@@ -1,7 +1,7 @@
 ---
 title: Top 9 Essentials You Should Know Before Purchasing Your First Dashboard Camera
-date: 2024-08-04 22:47:53
-updated: 2024-08-05 10:33:17
+date: 2024-08-05T02:11:50.913Z
+updated: 2024-08-06T02:11:50.913Z
 categories:
   - BestProducts
 description: This Article Describes Top 9 Essentials You Should Know Before Purchasing Your First Dashboard Camera
@@ -10,6 +10,9 @@ thumbnail: https://www.lifewire.com/thmb/r90Xcm6zQK3f3Au9Mrq8KuCX9e4=/540x405/fi
 ---
 
 ## Curious About Your Audience? Pinpoint Visitors for Any Shared Google Document Here
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What to Know
 
 * Select the **Activity dashboard** icon (jagged arrow) on the top right.
@@ -18,6 +21,9 @@ thumbnail: https://www.lifewire.com/thmb/r90Xcm6zQK3f3Au9Mrq8KuCX9e4=/540x405/fi
 
  This article explains how to see who has viewed a document you’ve shared in Google Docs. This check is handy for making sure everyone who is supposed to review the document does so. The feature is available to[Google Workspace](https://www.lifewire.com/what-is-g-suite-4686959) subscribers using a business, enterprise, education, or nonprofit plan.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## See Who Viewed a Google Doc
 
  To see who has viewed a document,[visit Google Docs](https://docs.google.com/) and sign in with your Google account. Then, open the document.  
@@ -26,8 +32,15 @@ thumbnail: https://www.lifewire.com/thmb/r90Xcm6zQK3f3Au9Mrq8KuCX9e4=/540x405/fi
 ![Google Docs with Activity Dashboard and its Icon highlighted](https://www.lifewire.com/thmb/6h366_IuWsz8F-9uddJvUAX1F58=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ActivityDashboard2-5a823fbc319f4c3eb4e04702b3e925fe.jpg)
 2. Confirm that **Viewers** is selected on the left side.
 3. Use the **All viewers** tab on the right to see who has viewed the document. You’ll see their name and when they last viewed it.  
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ![Viewers and All Viewers in the Activity Dashboard highlighted](https://www.lifewire.com/thmb/V6MAIeOj8jrGdn4DrWoeNivd42s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Viewers-51d26efb564141b29bc474b002b448ad.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Additional Dashboard Viewing Features
 
  Select **Viewers** and use the **Shared with** tab to see everyone you have shared the document with to find out who else needs to review it.
@@ -38,6 +51,9 @@ thumbnail: https://www.lifewire.com/thmb/r90Xcm6zQK3f3Au9Mrq8KuCX9e4=/540x405/fi
 
  Select **Viewer trend** to see the unique daily viewers. Choose a particular day on the column chart to see how many viewers were captured that day.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ![All Viewers highlighted in the Activity Dashboard](https://www.lifewire.com/thmb/UeEIkxsvAeTMYWv0pVzHE-M8fBU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ViewTrend-86a1d4df7ab842f89348da5b37b03576.jpg)
 
 ## Don’t See Any Viewing Activity?
@@ -61,6 +77,9 @@ thumbnail: https://www.lifewire.com/thmb/r90Xcm6zQK3f3Au9Mrq8KuCX9e4=/540x405/fi
 ![Users' View History turned on in the Admin console](https://www.lifewire.com/thmb/BxokFwEg-UVGYlVp8dUELu73h1w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/UsersViewHistory-b95295a4ec8c41d7b4248c00bacdaa33.jpg)  
  Depending on your workspace, you may see the option able to turn on**Access to view history** for other users to see Viewers and Viewer Trends in the Activity Dashboard.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Turn on Individual View History
 
  To help someone you expect to review the document display their View History or to display yours,[open the document in Google Docs](https://www.lifewire.com/open-google-docs-5089238) and follow these steps.  

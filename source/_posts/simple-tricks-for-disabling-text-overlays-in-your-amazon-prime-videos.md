@@ -1,7 +1,7 @@
 ---
 title: Simple Tricks for Disabling Text Overlays in Your Amazon Prime Videos
-date: 2024-08-02 20:15:24
-updated: 2024-08-05 12:55:55
+date: 2024-08-05T02:11:52.381Z
+updated: 2024-08-06T02:11:52.381Z
 categories:
   - BestProducts
 description: This Article Describes Simple Tricks for Disabling Text Overlays in Your Amazon Prime Videos
@@ -10,6 +10,9 @@ thumbnail: https://www.lifewire.com/thmb/Jy_uQyIYF4zuhqnAAm56QFgXQ2k=/400x300/fi
 ---
 
 ## The User-Friendly Way to Hide Subtitles During an Amazon Video Binge Session
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ### What to Know
 
 * On the website: Play a video with subtitles enabled, then click the**speech bubble icon** \> Click**off** .
@@ -18,6 +21,9 @@ thumbnail: https://www.lifewire.com/thmb/Jy_uQyIYF4zuhqnAAm56QFgXQ2k=/400x300/fi
 
  This article explains how to turn off subtitles on Amazon Prime Video, including how to disable subtitles and closed captions on Amazon Prime Video on the website and app.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ## How Do I Turn Off Subtitles on Amazon Prime?
 
  When you turn on subtitles on Amazon Prime, the feature will stay on until you turn it off. If you’re in a different environment and no longer require subtitles, turning the feature off works a lot like turning it on. You need to play a video with subtitles enabled, and switch off the feature using the Closed Caption and Subtitles menu.
@@ -28,6 +34,9 @@ thumbnail: https://www.lifewire.com/thmb/Jy_uQyIYF4zuhqnAAm56QFgXQ2k=/400x300/fi
 ![The speech bubble icon highlighted in the Amazon Video web player](https://www.lifewire.com/thmb/bWbZ-efLsksHxw4h7ZlWF1qR164=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_turn-off-subtitles-amazon-prime-video-5198403-aa13aab9164c4b6395f46afad9b0ceb1.jpg)  
  The Amazon Prime Video interface is hidden during playback. Move your mouse cursor over the player, pause the video, or tap your touchscreen while a video is playing if you don't see the speech bubble icon.
 2. Click**Off** . Subtitles are now turned off.  
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Off highlighted in Amazon Prime Video subtitle settings](https://www.lifewire.com/thmb/8EKytGwJX1b1y7HMJ1ZcV_ydGos=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_turn-off-subtitles-amazon-prime-video-5198403-f89fd2a0ed7f40bf9c226173cbd25933.jpg)
 
 ## How to Turn Off Subtitles on the Amazon Prime App and Smart TVs
@@ -43,10 +52,19 @@ thumbnail: https://www.lifewire.com/thmb/Jy_uQyIYF4zuhqnAAm56QFgXQ2k=/400x300/fi
 3. Select**English \[CC\]** .  
 ![English [CC] highlighted in Amazon Prime Video subtitle settings](https://www.lifewire.com/thmb/bq5DZMwA1tpP-w959qUeZfe639k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_turn-off-subtitles-amazon-prime-video-5198403-6586659854f0415fb882e15395c636ff.jpg)
 4. Use the navigation buttons on your remote or controller to scroll up, and select**Off** .  
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Off highlighted in Amazon Prime Video app subtitle settings](https://www.lifewire.com/thmb/3uFMludW5LIDJmK7im8SdEj-vik=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_turn-off-subtitles-amazon-prime-video-5198403-37b5ee2dfacf418e85363c686567be0c.jpg)
 5. Subtitles are now off.  
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Off under Subtitles highlighted in the Amazon Prime Video app](https://www.lifewire.com/thmb/3S5dxMcn59yiAuISeuRlrDDfR70=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007_turn-off-subtitles-amazon-prime-video-5198403-c56bc25289d24c21a50d76295543aeac.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ## How Do I Permanently Turn Off Subtitles?
 
  You may find subtitles are on automatically even though you don’t want subtitles. You can turn off subtitles while watching a video, but that may not permanently turn off subtitles. Subtitles and closed captions are supposed to remain off when you turn them off, but a bug can sometimes cause subtitles to turn back on.

@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Setup: Initiating an Amazon Echo Dot in Configuration Mode"
-date: 2024-08-04 20:37:37
-updated: 2024-08-05 12:15:21
+date: 2024-08-05T02:11:28.385Z
+updated: 2024-08-06T02:11:28.385Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering the Setup: Initiating an Amazon Echo Dot in Configuration Mode"
@@ -10,6 +10,9 @@ thumbnail: https://thmb.techidaily.com/122b9bb2737079496d6a2d69ef766a3b3b8a091bd
 ---
 
 ## Mastering the Setup: Initiating an Amazon Echo Dot in Configuration Mode
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What to Know
 
 * In the Alexa app, tap**Devices** \>**Plus** (**+** ) >**Add Device** \>**Amazon Echo** \>**Echo, Echo Dot, Echo Plus, and More** .
@@ -18,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/122b9bb2737079496d6a2d69ef766a3b3b8a091bd
 
  This article explains how to put an Echo Dot in setup mode. Instructions apply to all models, including the 4th generation Amazon Echo Dot.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![Amazon Echo Dot](https://www.lifewire.com/thmb/wnLxCk_2fD2pZzEu-p3zbcXnYjI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zkn2wGCQ20copy-06ed03564ac94e1dbbad5b22f1d3139c.jpg)
 
 Amazon
@@ -34,13 +41,34 @@ Amazon
 5. Tap**Echo, Echo Dot, Echo Plus, and More** .
 6. Connect your Echo Dot to the power supply, turn it on, and then wait for the blue light ring to turn orange. It should take about 30 seconds.
 7. Tap**Yes** in the Alexa app.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ![Amazon Echo, Echo, Echo Dot, Echo Plus and more, and Yes highlighted in the Alexa app](https://www.lifewire.com/thmb/UE0z8bUMn60LsBQya2lLNUVhZ_Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_setup-mode-echo-dot-5183932-f64149726d28456fa00caa1502870548.jpg)
 8. Tap your**Echo Dot** under Available Devices.
 9. Choose your Wi-Fi network, then tap**Continue** .  
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Echo Dot, Wi-Fi Network, and Continue highlighted in the Alexa app](https://www.lifewire.com/thmb/UyNdVW6oqTvBgXlIe9w8W6AlCF0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_setup-mode-echo-dot-5183932-1c64692464f74859a9dbf7eb004911b2.jpg)
 10. Continue following the prompts in the app to finish setting up your device. Select**Skip** when the option appears to configure these settings later.  
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Skip highlighted in the Alexa app setup screen](https://www.lifewire.com/thmb/t9cr0zEBHSfzkkSTPWqdkks-pu8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_setup-mode-echo-dot-5183932-ef2640f0d0fb4cada97bfb3801deec7d.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is Echo Dot Setup Mode?
 
  The first time it powers on, your Echo device will automatically enter setup mode. In setup mode, the Echo Dot connects to the Alexa app on your phone via Bluetooth. Once connected, you must connect your Dot to your Wi-Fi network. Your Echo Dot will not work without a Wi-Fi connection.

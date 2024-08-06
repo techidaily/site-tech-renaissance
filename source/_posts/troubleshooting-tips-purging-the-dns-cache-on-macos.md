@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Purging the DNS Cache on macOS"
-date: 2024-08-05 21:27:40
-updated: 2024-08-06 11:31:16
+date: 2024-08-05T02:11:32.855Z
+updated: 2024-08-06T02:11:32.855Z
 categories:
   - BestProducts
 description: "This Article Describes Troubleshooting Tips: Purging the DNS Cache on macOS"
@@ -22,10 +22,21 @@ thumbnail: https://thmb.techidaily.com/42aa8d9afd78cc4e28f215cb4f97cf62596e277c3
 
  The steps and screenshots below are from Google Maps in iOS. The steps are similar for Android.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ## How to Find EV Charging Stations in Google Maps
 
  You must set up Google Maps before you start searching for electric charging stations. If you have it set up, skip the step below.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Select the Charger Type for Your Car
 
  Choosing the correct charger plug-in Google Maps settings for your car can help you avoid confusion and reach the right station.
@@ -33,6 +44,9 @@ thumbnail: https://thmb.techidaily.com/42aa8d9afd78cc4e28f215cb4f97cf62596e277c3
 1. Open Google Maps and tap your profile picture.
 2. Select**Settings** \>**Electric vehicle settings** .
 3. Select**Add plugs** and choose the type(s) compatible with your car (e.g., CCS, CHAdeMO) to ensure Google Maps only shows relevant stations.  
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Settings, Electric vehicle settings, and plug types in the Google Maps app](https://www.lifewire.com/thmb/wMpdBksqOMkGz-2SiabokHxq8DA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Google-Maps-EV-setup-plugs-d2076a4c269b46cba08e894002ab9456.jpg)  
 
 ### Search and Find Compatible EV Charging Stations  
@@ -51,8 +65,15 @@ thumbnail: https://thmb.techidaily.com/42aa8d9afd78cc4e28f215cb4f97cf62596e277c3
  On the**Explore** screen, choose the filter icon and set Google Maps to display charging stations by**Relevance** ,**Distance** ,**Rating** , type of**EV plugs** , and**EV charging speed** .  
  You can even change them on the fly to expand your options when the pins are displayed on the map.  
  Tap the icon of an EV charging station for details like charging speeds (kW), real-time availability (if provided by the station), and user photos. If it's an option, check out the Street View to familiarize yourself with the approach.  
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Filter options for EV charging stations in Google Maps](https://www.lifewire.com/thmb/kIqr0_Zyzxw2aMpRgZyvq_WcKpk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/EV-station-filters-9c5b18a3975d4359a6e533d1ba96624a.jpg)  
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ## How to Add EV Charging Stations to Your Route  
 
  Adding an EV station to your route is the same as[adding any other stop on Google Maps](https://www.lifewire.com/add-stops-on-google-maps-5197837) in a route with multiple stops.
@@ -70,9 +91,15 @@ thumbnail: https://thmb.techidaily.com/42aa8d9afd78cc4e28f215cb4f97cf62596e277c3
 14. Select the three dots next to the location box and select**Options** from the bottom sheet menu that appears on the screen.
 15. Enable the toggle for**Prefer fuel-efficient routes** if it's not selected.
 16. Select**Electric** for**Engine type (car)** .  
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The "More" menu, Options heading, and "Prefer fuel-efficient routes" & Engine type options in Google Maps](https://www.lifewire.com/thmb/rQO9h7LEvVKQtN8Ic6b5xiJa1-Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Efficient-route-options-Google-Maps-627d7d46908d4c65964001452e23f23f.jpg)
 17. Go back to the map.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Tip
 
  The information on each charging station also includes a**Call** feature in many cases. It's always a good idea to call ahead and check their service.

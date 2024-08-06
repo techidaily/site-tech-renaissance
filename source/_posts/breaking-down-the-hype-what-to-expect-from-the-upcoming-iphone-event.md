@@ -1,7 +1,7 @@
 ---
 title: "Breaking Down the Hype: What to Expect From the Upcoming iPhone Event"
-date: 2024-08-04 10:25:16
-updated: 2024-08-05 10:30:53
+date: 2024-08-05T02:11:42.064Z
+updated: 2024-08-06T02:11:42.064Z
 categories:
   - BestProducts
 description: "This Article Describes Breaking Down the Hype: What to Expect From the Upcoming iPhone Event"
@@ -23,6 +23,9 @@ thumbnail: https://thmb.techidaily.com/a44de758792af2fb67431bc0cd10b70e0176e5a8a
 
  Apple split its presentation between the 15/15 Plus and the Pro/Pro Max; we're shaking down things to help you understand the important differences.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ### iPhone 15 and 15 Plus: Just the (Powerful) Basics
 
  The base options for the iPhone 15 make them truly impressive devices, and they have a lot to offer anyone.
@@ -33,8 +36,14 @@ thumbnail: https://thmb.techidaily.com/a44de758792af2fb67431bc0cd10b70e0176e5a8a
 
  Apple has also taken a new direction with colors for this new line. The options are blue, pink, yellow, green, and black, and they're baked into the material. The result is a light, almost powdery finish.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![iPhone 15 features](https://www.lifewire.com/thmb/t4gspKbwq56DPRs0r-LDMn8noZQ=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/iPhone15features-8a38c089557647769e3bd494e7e49178.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Pro and Pro Max: What's the Difference?
 
  The main reason someone might go for the Pro version of an iPhone over the base model is the camera. While the iPhone 15 and Pro both have an impressive 48-megapixel main camera, the Pro versions have a third lens that provides additional features.
@@ -73,6 +82,9 @@ Apple Inc
 
 **Spatial Video** : Spatial Video is a gimmick feature that only works with a niche product (the Vision Pro), but darn if it doesn't look cool. The possibilities are also there if Apple decides to open it up to other uses, like 3D scanning.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### iPhone 15 Pricing and Availability
 
  The iPhone 15 series starts at $799, but size, version, and memory choices will impact the final price. Here's how these options affect the cost:  
@@ -90,6 +102,9 @@ Apple Inc
 
 [USB-C: Everything You Need to Know](https://www.lifewire.com/usb-c-4149490)
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## The New Apple Watches
 
  This event included two new models of the Apple Watch: the standard Series 9 and the more rugged Ultra 2.
@@ -104,6 +119,9 @@ Apple Inc
 
  The Apple Watch Series 9 is available with two case options: aluminum and stainless steel. The aluminum case is available in pink, Midnight (black), Starlight (white), silver, and red. Stainless steel color options are gold, silver, and graphite.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![All of the colors of the Apple Watch Series 9](https://www.lifewire.com/thmb/5BubYB89xa6KPdrUupdSDvAf--w=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Apple-Watch-Series-9-Colors-5d09e52b67794b0d915413c9c17ac1af.jpg)
 
  Each case is available in 41 and 45mm sizes, and either one can optionally connect to a cellular network.  
@@ -124,6 +142,9 @@ Apple Inc
 
  And, for outdoor emergencies, you can tap and hold the Action Button for a siren.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### The Coolest Features
 
  Apple dropped a lot of information really quickly, but some features were definitely our favorites. Here are our picks for the best things about the Apple Watch Series 9 and Ultra 2.

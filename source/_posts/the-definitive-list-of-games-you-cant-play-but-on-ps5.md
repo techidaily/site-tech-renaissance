@@ -1,7 +1,7 @@
 ---
 title: The Definitive List of Games You Can't Play but on PS5
-date: 2024-08-05 17:20:23
-updated: 2024-08-06 11:25:19
+date: 2024-08-05T02:11:48.336Z
+updated: 2024-08-06T02:11:48.336Z
 categories:
   - BestProducts
 description: This Article Describes The Definitive List of Games You Can't Play but on PS5
@@ -19,6 +19,9 @@ thumbnail: https://www.lifewire.com/thmb/fjY2Gn-jaC0JebrNhPyRhyPpjbI=/400x300/fi
 
  Our Top Picks
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Verizon Bring-Your-Own Phone Discount (Up to in $540 promo credits)
 
 [View on Verizon](https://www.verizon.com/bring-your-own-device/)
@@ -27,8 +30,23 @@ thumbnail: https://www.lifewire.com/thmb/fjY2Gn-jaC0JebrNhPyRhyPpjbI=/400x300/fi
 
  Eligible customers can receive up to $540 as a promo credit when they enroll a smartphone, smartwatch, or tablet.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Verizon Fios Home Internet (free gifts with purchase)
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![verizon fios logo.](https://www.lifewire.com/thmb/5lIlwcVPJ5fA93bTxQV9DmB8sGA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/fios-logo-300a5cb5bd23463f9915d361bf7d3ca4.jpg)
 
 Verizon
@@ -43,6 +61,9 @@ Verizon
 
 ## Apple iPhone 15 (Free with new line)
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Apple iPhone 15.](https://www.lifewire.com/thmb/wnB6E3DLz12emgLWUSlRQF03Ovo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AppleiPhone15_Apple-082be61ad5174733ab03bc42439ffa99.jpg)
 
 Apple
@@ -53,6 +74,10 @@ Apple
 
 ## Samsung Galaxy S24 (Free with trade-in)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![The Samsung Galaxy S24 family.](https://www.lifewire.com/thmb/au0mcBHAPUkv3GfdRYiFLqS9JHU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Screenshot2024-01-17at12.29.10PM-07a5a954b4ea4170a3796e706afbda42.png)
 
 Samsung
@@ -61,6 +86,9 @@ Samsung
 
  If you prefer the Samsung ecosystem, Verizon is offering the S24 for free when you trade in a Samsung smartphone and sign up for one of Verizon’s Unlimited plans.  
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Samsung Galaxy S23 (Free with new line)
 
 ![Samsung Galaxy S23 and S23+](https://www.lifewire.com/thmb/F5hl4jBWAvl1DcP2bYHxFGieOXY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/galaxy-s23-highlights-design-kv-end-s-7d6d1aed1691493f9d94a10e4e87853e.jpg)

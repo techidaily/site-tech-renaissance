@@ -1,7 +1,7 @@
 ---
 title: Determining the Duration of a Mail.com Account – Key Factors and Lifespan.
-date: 2024-08-03 18:31:45
-updated: 2024-08-05 12:55:56
+date: 2024-08-05T02:11:27.404Z
+updated: 2024-08-06T02:11:27.404Z
 categories:
   - BestProducts
 description: This Article Describes Determining the Duration of a Mail.com Account – Key Factors and Lifespan.
@@ -14,12 +14,18 @@ thumbnail: https://www.lifewire.com/thmb/YQFOK9y5bChN-wmK4RMXpQ4T6bU=/400x300/fi
 
  After a certain time of inactivity, a Mail.com account will be closed and deleted: any emails in it not backed-up elsewhere are irreversibly lost. You don't need to send messages from a Mail.com account to keep it, of course, or receive emails even; logging into the address and account is enough.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Know When Your Mail.com Account Will Expire From Inactivity
 
  A Mail.com account will close automatically—and emails in it will be deleted after six months of inactivity. That period is subject to change. In the past, the period was 12 months. You need to check the current terms of agreement for Mail.com. The inactivity clause is under 2\. Term and Termination, clause 2.4.
 
  If you use the Premium Service from Mail.com, you are not subject to the inactivity termination for the period for which you are paid. However, your account will revert to a free account if you don't stay current on your payments or renewals. That may happen if the credit card you've stored for automatic renewals has expired or been reissued, and you may have ignored notifications about it. You can easily get into a vicious circle of not checking your Mail.com account or other accounts you have associated with it. When that happens, you may never see the warning about your account reverting to the free version.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ## How Can You Keep Your Mail.com Account Active?
 
  You can keep your account active simply by logging in. You can do that from webmail, using another email client such as[Thunderbird](https://www.lifewire.com/mozilla-thunderbird-review-1173071) or their mail app. You don't have to necessarily send or receive mail, but you need to perform a login at the least.
@@ -28,6 +34,10 @@ thumbnail: https://www.lifewire.com/thmb/YQFOK9y5bChN-wmK4RMXpQ4T6bU=/400x300/fi
 
  If you set up the account simply to have an email address you can use for identification purposes, such as to have multiple[X (formerly Twitter)](https://www.lifewire.com/what-exactly-is-twitter-2483331) accounts, it can be easy to forget to keep your Mail.com account active. You will need to set up a reminder to log in every few months.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## Deleting Your Account at Mail.com
 
  You can choose to delete your Mail.com account yourself using their My Account menu. Select My Account from the Home screen. It is the icon that looks like a person's head and shoulders, near the bottom of the left-hand menu.

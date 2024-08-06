@@ -1,7 +1,7 @@
 ---
 title: Easy Ways to Record and Send Voicemail on Your Apple Device
-date: 2024-08-03 17:18:34
-updated: 2024-08-05 12:10:19
+date: 2024-08-05T02:11:33.836Z
+updated: 2024-08-06T02:11:33.836Z
 categories:
   - BestProducts
 description: This Article Describes Easy Ways to Record and Send Voicemail on Your Apple Device
@@ -29,13 +29,23 @@ thumbnail: https://www.lifewire.com/thmb/2TxfWay6NyIHTXllINutqJV57Vk=/400x300/fi
  In iOS 16, tap the**Apps** icon below the text box.
 3. Choose**Audio** from the menu. You may have to scroll down to find it.  
  In iOS 16, select the**Audio** icon, which looks like a waveform.  
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The More and Audio options in Messages for iOS 17](https://www.lifewire.com/thmb/r_0VlzW2AusrkGs7h070Hojs6tg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/More-and-Audio-a41209c323ea422bbcea9236fd26e858.jpg)
 4. The message will automatically start recording, and the text box will have a red recording bar in it.  
  In iOS 16, you may need to choose the microphone icon to the right of the message field. Tap once to start recording, or tap and hold to send the message as soon as you release the button.
 5. Record your message, and then select**Stop** to end the recording.
 6. Tap**Send** to share the audio message. Alternatively, tap**Play** to preview it, and**X** to cancel.  
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ![The recording bar, stop button, and cancel, send, and preview buttons for a voice message in Messages for iOS 17](https://www.lifewire.com/thmb/sTqipQrHLcQarZqKDQPXZpHwCWo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Record-voice-memo-f1227deae1c04346af41582dfe9d820d.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ### Drawbacks of Using Messages
 
  Here are a couple of disadvantages to using this function in Messages:
@@ -45,6 +55,9 @@ thumbnail: https://www.lifewire.com/thmb/2TxfWay6NyIHTXllINutqJV57Vk=/400x300/fi
 
  If your recipient isn’t an iPhone user or you want to avoid the possible expiration of your audio message, consider sharing your message using Voice Memos.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Create and Send a Voice Message With Voice Memos
 
  The[Voice Memos app](https://www.lifewire.com/how-to-use-voice-memos-on-iphone-4799058) is excellent for capturing audio notes, speakers during a meeting, and more. Since you can easily share a voice recording from the app, this is a solid alternative to the Messages app on iPhone.
@@ -52,6 +65,9 @@ thumbnail: https://www.lifewire.com/thmb/2TxfWay6NyIHTXllINutqJV57Vk=/400x300/fi
 1. Open Voice Memos on your iPhone and tap (don’t hold) the red **Record** button at the bottom.
 2. Speak your message. You’ll see the duration of the recording as you speak.
 3. When you finish with your message, tap the red **Stop** button.  
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Voice Memos app on iPhone showing record and stop buttons](https://www.lifewire.com/thmb/2_63ut4LxIyAJWKQ8B09aZfN3GQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B1-send-voice-messages-iphone-5199864-8bd9efbee2b74c8eb666703fa3a9dac4.jpg)
 4. The recording pops to the top section of the screen. You can tap the **Play** button to have a listen.  
  To share, tap the**three dots** next to the name of the recording.  
@@ -61,6 +77,9 @@ thumbnail: https://www.lifewire.com/thmb/2TxfWay6NyIHTXllINutqJV57Vk=/400x300/fi
  If you want to rename the recording before you share it, tap the current title and type in the new one.
 5. Select **Share** .
 6. Choose a sharing option from the Share Sheet. Depending on your iPhone's sharing options, you can send the audio message in a text message, email, or shared storage service like Dropbox.  
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Voice Memos app showing three-dot icon, Share selection and options](https://www.lifewire.com/thmb/Gw0s1etfHGcauSAdg887IPhFT2Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B2-send-voice-messages-iphone-5199864-3f38aeb132ab4afeaa4be14920834a4d.jpg)
 
  FAQ

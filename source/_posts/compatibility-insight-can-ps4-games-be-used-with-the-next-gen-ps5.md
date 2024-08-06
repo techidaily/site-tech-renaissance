@@ -1,7 +1,7 @@
 ---
 title: "Compatibility Insight: Can PS4 Games Be Used With The Next-Gen PS5?"
-date: 2024-08-02 11:48:58
-updated: 2024-08-05 10:48:30
+date: 2024-08-05T02:11:49.226Z
+updated: 2024-08-06T02:11:49.226Z
 categories:
   - BestProducts
 description: "This Article Describes Compatibility Insight: Can PS4 Games Be Used With The Next-Gen PS5?"
@@ -13,6 +13,9 @@ thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e171
 
 Close 
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ###  What to Know
 
 * Choose a digital game from the PlayStation 5 game hub or insert a PS4 game disc into the PS5 console.
@@ -20,6 +23,9 @@ Close
 
  This article explains how you can play[ PS4](https://www.lifewire.com/ps4-ps4-slim-and-ps4-pro-4154452) games on[ PlayStation 5](https://www.lifewire.com/playstation-5-4778089) and what games are incompatible with the PlayStation 5\. The vast majority of PS4 games can be played on the PS5.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ##  How to Play a PS4 Game on PlayStation 5 
 
  The PS5 Digital Edition console can't play PS4 game discs because it doesn't have a disc drive. If you have a PlayStation 5 with a disc drive, though, you can also use physical PS4 game discs by placing them in the console like a PS5 game. 
@@ -33,6 +39,9 @@ This step can be skipped if you own the game digitally.
 
  For all PS4 digital games you've purchased in the past, they're available within your games library via the PlayStation Store. Download them as you would on your PlayStation 4, and you can play them. 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ##  What Is PlayStation 5 Backward Compatibility? 
 
  PlayStation 5 backward compatibility refers to the latest game console's ability to play older games, such as those available for the PlayStation 4 or previous PlayStation game consoles. 
@@ -41,6 +50,9 @@ This step can be skipped if you own the game digitally.
 
  Sony has shut down PlayStation Now and folded its library into premium tiers of its PlayStation Plus service. The Extra level provides access to the Game Catalog, which includes some PS4 titles. The Deluxe membership includes both the Game and Classics Catalogs, the latter of which offers games from even older generations of PlayStation.  
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Are PS4 Games Different on PlayStation 5? 
 
  Most PS4 games will be near-identical on the PlayStation 5\. Sony has warned that some games may suffer from minor issues or glitches but these are expected to be fixed over time. 
@@ -51,6 +63,9 @@ This step can be skipped if you own the game digitally.
 
 [ The PS5 Exclusive Games List ](https://www.lifewire.com/ps5-games-list-5076154) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  What PS4 Games Won't Play on the PS5? 
 
  Sony has released a list of a select number of games that are playable on PS4 only and can't be played on the PlayStation 5\. The list comprises of:

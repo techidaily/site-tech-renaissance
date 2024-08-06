@@ -1,7 +1,7 @@
 ---
 title: Integrating Source Text or Program Logic Into Word Documents Made Easy
-date: 2024-08-03 14:36:32
-updated: 2024-08-06 10:57:11
+date: 2024-08-05T02:11:52.828Z
+updated: 2024-08-06T02:11:52.828Z
 categories:
   - BestProducts
 description: This Article Describes Integrating Source Text or Program Logic Into Word Documents Made Easy
@@ -16,6 +16,9 @@ thumbnail: https://www.lifewire.com/thmb/rzYewCryTjWb2_V2_mncFJn6Mew=/400x300/fi
 
  Instructions in this article apply generally to models running iOS 12 and iPadOS 14 and later.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ## Improve Your Photos Through Settings
 
  Some newer iPads and iPhones contain an Auto HDR or Smart HDR setting that you select to automatically take every photo with this feature. This setting tells the iPhone or iPad to snap multiple photos and merge them to create a high dynamic range (HDR) photograph.
@@ -31,9 +34,15 @@ thumbnail: https://www.lifewire.com/thmb/rzYewCryTjWb2_V2_mncFJn6Mew=/400x300/fi
 2. Tap**HDR** .  
 ![iPad camera app with HDR highlighted](https://www.lifewire.com/thmb/19gHHkUIzFUQE3zljrxNaEEwaT0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-improve-the-ipads-camera-1994693-0392da3224904cdf97f32d1c055b6c3e.jpg)
 3. When HDR is on, HDR appears at the top of the screen.  
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ![iPad Camera app showing HDR indicator](https://www.lifewire.com/thmb/p9d2OcrafwPtqaO85z0kCleNiYY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-improve-the-ipads-camera-1994693-f1701c178a3d4fabbf67404ff113dc62.jpg)
 4. HDR automatically runs whenever you take a photo as long as HDR is displayed at the top of the screen. Use your camera as usual.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Edit Photos With the Camera App
 
  The Camera app has built-in filters that can bring out the best in an image.
@@ -55,6 +64,9 @@ thumbnail: https://www.lifewire.com/thmb/rzYewCryTjWb2_V2_mncFJn6Mew=/400x300/fi
 
  When you finish making changes, tap**Done** to save the image.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ## Use Live Photos to Improve Your Photography
 
 [Live Photos](https://www.lifewire.com/iphone-live-photos-1999618) are small video clips the phone captures when you take a photograph on a newer iPhone or iPad. Along with creating moving pictures, you can choose a main photograph from the video to fix defects like an awkward facial expression, a blink of the eyes, or a just-missed shot.
@@ -65,11 +77,17 @@ thumbnail: https://www.lifewire.com/thmb/rzYewCryTjWb2_V2_mncFJn6Mew=/400x300/fi
 
 1. Take a Live Photo (or select one from the Photos app) and then tap**Edit** .
 2. When editing a Live Photo, the bottom of the screen shows every frame the camera captured. Tap individual slides to preview the image.  
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![iPad Camera app showing Live Photo frames](https://www.lifewire.com/thmb/Uxu-QAxFhQd6V95X3CnbMJM9nqg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-improve-the-ipads-camera-1994693-25a3d53411494e4a8b66af78a55b4392.jpg)
 3. Tap**Make Key Photo** to choose a frame.  
 ![Key Photo selection in iPad Camera app](https://www.lifewire.com/thmb/lrg0AiDcAqoHvyMacxai7DxVA8Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-improve-the-ipads-camera-1994693-044ed59d850f44deac861c5ac28d3eea.jpg)
 4. Tap**Done** to finalize your choice.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Buy an External Lens
 
  An external lens can do more than adjust the camera settings. It can increase magnification and take specialty shots such as wide-angle. A lens also boosts functionality on an older device by improving the camera without the extra cost of a new smartphone or tablet.

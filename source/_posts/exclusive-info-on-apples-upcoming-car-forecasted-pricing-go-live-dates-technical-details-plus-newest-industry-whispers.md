@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Info on Apple's Upcoming Car: Forecasted Pricing, Go-Live Dates, Technical Details, Plus Newest Industry Whispers"
-date: 2024-08-04 23:58:43
-updated: 2024-08-05 11:25:46
+date: 2024-08-05T02:11:43.252Z
+updated: 2024-08-06T02:11:43.252Z
 categories:
   - BestProducts
 description: "This Article Describes Exclusive Info on Apple's Upcoming Car: Forecasted Pricing, Go-Live Dates, Technical Details, Plus Newest Industry Whispers"
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/d24bf389d1254603d8aad9f86f16f5f0cd9be072e
 
  First, there were computers. Then came the iPod, iPhone, and iPad – you know, the usual Apple stuff. And guess what? They were also working on a car! The Apple car never hit the streets, but they were (and maybe still are) cooking up something behind closed doors. Check out all the details below to find out what the Apple car was (or maybe still is) all about and what it might have looked like.  
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Is the Apple Car Real? 
 
  Rumors about Apple developing a car, known as Project Titan, began way back in 2014 when[ CEO Tim Cook reportedly gave the project his approval](https://www.forbes.com/sites/chuckjones/2015/02/14/hitting-the-brakes-on-apples-electric-car/?sh=5990880f2d68) . Even Apple's co-founder,[ Steve Jobs, wanted to design an "iCar."](https://www.businessinsider.com/mickey-drexler-steve-jobs-was-gonna-design-an-icar-2015-2) 
@@ -41,6 +44,9 @@ thumbnail: https://thmb.techidaily.com/d24bf389d1254603d8aad9f86f16f5f0cd9be072e
 * In 2023,[ Ming-Chi Kuo surmised](https://twitter.com/mingchikuo/status/1707091228528201754) that "the development of the Apple Car seems to have lost all visibility" and doubts that the car will enter mass production even within the next few years.
 * In 2024, Bloomberg reported on Apple's plans to[ delay the car's launch until at least 2028](https://www.bloomberg.com/tosv2.html?vid=&uuid=5fcc037a-db73-11ee-bb95-8a0d88c2ae76&url=L25ld3MvYXJ0aWNsZXMvMjAyNC0wMS0yMy9hcHBsZS1jYXItZXYtc2V0LXRvLWRlYnV0LWluLTIwMjgtd2l0aC1saW1pdGVkLWF1dG9ub21vdXMtZHJpdmluZw==) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ###  Lifewire's Release Date Estimate
 
  If Apple wants to make their car idea happen, we could see a revival by 2028 or 2029\. But it'll only happen if they can strike a deal with Rivian or another car company.
@@ -65,6 +71,9 @@ Vanarama
 
  Exploring the Apple car features isn't something anyone can do because nothing was ever officially announced. But since smart cars are already on the roads today, we're not totally in the dark when we guess what could have been included in Apple's car.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Self-Driving 
 
  One rumor is that Apple would make a fully autonomous car. If you're familiar with the Society of Automotive Engineers,[ SAE calls this Level 5](https://www.sae.org/blog/sae-j3016-update) . At most, this means no pedals and no steering wheel._Full_ automation.
@@ -107,6 +116,9 @@ Canoo
 
  In that car's iteration of this setup, it's just the backseat passengers riding in this kind of luxury. It's known that[ EVs are roomier than other vehicles](https://www.lifewire.com/why-evs-are-roomier-5202177) , and an even more comfortable picture is painted when you consider the "driver" here doesn't need to be driving or monitoring the road full time, so the front seats could just as easily spin so you can stretch your legs and face everyone at once, no rearview mirror required.[ Apple was granted a patent in 2022](https://www.patentlyapple.com/patently-apple/2022/01/apple-won-two-project-titan-patents-today-covering-a-futuristic-multi-linkage-vehicle-door-hinge-vehicle-seat-with-reclinin.html) for a vehicle seat with a reclining mechanism.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![Apple Car concept](https://www.lifewire.com/thmb/yuMXwEwEQAzyjbSQ8ylet0M1fIY=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/apple-car-interior-concept-seats-9e3296e29e3a4d3698d7efa0bb2ddb0c.jpg) 
 
  Seating concept for Apple Car. 
@@ -121,6 +133,9 @@ Vanarama
 
  It would have most likely used a modified version of iPadOS (perhaps CarOS?) with Apple Maps, Apple Music, Siri, etc., and work similarly but with vehicle-specific toggles.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![Tesla Model S interior](https://www.lifewire.com/thmb/NPVBJ4YfqwxOgEUAKGACGcEjaGI=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/tesla-model-s-interior-b6b6f02203a341b99b65090f8fe733a0.jpg) 
 
 Tesla Model S interior. 
@@ -129,6 +144,9 @@ Tesla
 
  There was even talk that the Apple car would include a detachable infotainment device so the driver can still access climate control, music, etc. when they swivel the chair around.[ Incorporating a headset](https://www.patentlyapple.com/2024/02/8-hmd-patents-were-published-this-week-including-one-for-using-vision-pro-when-driving-a-vehicle-that-supports-in-air-gesture.html) like the[ Vision Pro](https://www.lifewire.com/apple-vr-headset-news-and-rumors-6744818) into the driving experience would have been interesting as well.  
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ### Range 
 
  The prediction was that Apple's car would be self-driving and electric, only there isn't a lot to be said about range. Between batteries and[ regenerative braking](https://www.lifewire.com/how-does-regenerative-braking-work-5201632) technology, most new EVs are capable of at least 250 miles, but some exceed 400 miles, and even fewer, like[ Aptera, claim up to a 1,000-mile range](https://aptera.us/vehicle/) .
@@ -174,6 +192,9 @@ Vanarama
 
 [ How Long Does It Take to Charge an EV? ](https://www.lifewire.com/how-long-to-charge-ev-5203690) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Other Features 
 
  Considering the proprietary nature of Apple's messaging services, FaceTime and iMessage, its car might have worked similarly. The built-in iPad could be used to communicate with other Apple car drivers on the road, or at the least just other iPhone/iPad users.  
@@ -192,6 +213,9 @@ Vanarama
 
 ![vehicle's external display that says waiting for you to cross](https://www.lifewire.com/thmb/O65adpyjUraRfkZdBski5i1WVoU=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/waiting-for-you-to-cross-external-display-776df2ff6f8246b4a252208f7380009b.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ##  The Latest News About the Apple Car 
 
  You can [ get more Smart and Connected Life news from Lifewire](https://www.lifewire.com/smart-home-connected-life-news-4797031) . Here are other related stories and some early rumors we found about the Apple car specifically:  

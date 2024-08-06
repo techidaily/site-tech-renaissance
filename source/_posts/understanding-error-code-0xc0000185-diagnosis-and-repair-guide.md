@@ -1,7 +1,7 @@
 ---
 title: "Understanding Error Code 0xC0000185: Diagnosis & Repair Guide"
-date: 2024-08-05 22:43:32
-updated: 2024-08-06 12:11:59
+date: 2024-08-05T02:11:36.750Z
+updated: 2024-08-06T02:11:36.750Z
 categories:
   - BestProducts
 description: "This Article Describes Understanding Error Code 0xC0000185: Diagnosis & Repair Guide"
@@ -16,12 +16,18 @@ thumbnail: https://thmb.techidaily.com/157b4e9d1934c1c32aca2d6b6705f77b73d99232e
 
  These troubleshooting tips work with iPadOS 14 and later and all currently supported versions of iOS.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## If the Printer Isn't Showing Up in the List on Your iPad
 
  The most common problem occurs when the iPad cannot find or recognize your printer. The root cause of this problem is that the iPad and printer are not communicating with each other correctly.
 
  Some printers, especially early AirPrint printers, are a little finicky and require special treatment from time to time.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![No AirPrint Printers Found message on an iPad.](https://www.lifewire.com/thmb/PINbY5NNM2YpYVf6BIRAjMvyfYs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_my-ipad-wont-print-cant-find-printer-1994541-d3ec6679b22b423d876a15837e54cd6e.jpg)
 
  Try these troubleshooting steps, in order:
@@ -36,6 +42,9 @@ thumbnail: https://thmb.techidaily.com/157b4e9d1934c1c32aca2d6b6705f77b73d99232e
  Most AirPrint printers have a Wi-Fi light or icon on the display to show that it's connected properly.
 6. Verify it's an AirPrint printer. If this is a new printer, it should say that it's AirPrint compatible on the packaging. Some older printers use a specific app to print from the iPad, so refer to the owner's manual. You can see a[list of AirPrint printers on Apple's website](https://support.apple.com/en-us/HT201311) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## If the Printer Appears in the List
 
  If you can see the printer on your iPad and send print jobs to the printer, it's probably not an iPad problem. The iPad should detect standard problems like the printer being out of paper or out of ink, but this capability relies on the printer to communicate back with the iPad. Troubleshoot your printer with these steps.

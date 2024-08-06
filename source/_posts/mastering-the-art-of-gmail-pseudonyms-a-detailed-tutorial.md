@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Gmail Pseudonyms: A Detailed Tutorial"
-date: 2024-08-03 11:23:44
-updated: 2024-08-05 11:45:58
+date: 2024-08-05T02:11:13.617Z
+updated: 2024-08-06T02:11:13.617Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering the Art of Gmail Pseudonyms: A Detailed Tutorial"
@@ -10,6 +10,9 @@ thumbnail: https://thmb.techidaily.com/6e815c1b64efb14276b71fc721777a9cc6b2edabd
 ---
 
 ## Mastering the Art of Gmail Pseudonyms: A Detailed Tutorial
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ### What to Know
 
 * Temporary: Drop a period somewhere in your email address, like this:_e.xamp.le@gmail.com_ .
@@ -20,6 +23,9 @@ thumbnail: https://thmb.techidaily.com/6e815c1b64efb14276b71fc721777a9cc6b2edabd
 
 [Gmail](https://www.lifewire.com/best-gmail-tips-tricks-and-tutorials-1172146)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Make a Temporary Alias for Gmail
 
  Gmail ignores certain characters in your email address, but most other websites do not. This means you can "hack" your email address to create potentially dozens of aliases for use on pretty much any website. And yes, it's free (and really easy to do)!
@@ -35,6 +41,9 @@ thumbnail: https://thmb.techidaily.com/6e815c1b64efb14276b71fc721777a9cc6b2edabd
 `example+dating@gmail.com`  
  If you get an error when you use a plus sign, remove it and stick to periods; some websites might not know how to deal with a plus sign.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How Do These Aliases Work?
 
  All you really need to know about Gmail email addresses with periods in them (or those that use the plus sign, like in the examples above) is that Gmail pretends those characters aren't there. It treats each of those examples above as the exact same address.
@@ -47,6 +56,9 @@ thumbnail: https://thmb.techidaily.com/6e815c1b64efb14276b71fc721777a9cc6b2edabd
 
  It's up to you what you write after the plus sign, but it's smart to stick to a topic that makes sense for where you use the address (like dating or shopping sites). You can build as many of these aliases as you want, so there's little reason to use the same one on unrelated websites.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Permanently Add an Alias to Gmail
 
  The other way of creating a Gmail alias is useful if you already have multiple email addresses (separate accounts, not just aliases) and would like a quick way to send mail on behalf of the other account.
@@ -55,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/6e815c1b64efb14276b71fc721777a9cc6b2edabd
 
  Once you're finished, you'll be able to select the alias next to the**From** box when composing a new email.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![Three email addresses listed next to Gmail's From box while making a new message](https://www.lifewire.com/thmb/s927zYoisFYCpzO0pfUbsSpXTG4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/gmail-aliases-9f19ea00154449a6bdfbe44f8a17a595.png)
 
  To do this,[open Gmail's Accounts and Import settings](https://mail.google.com/mail/u/0/#settings/accounts) to the**Send mail as** section and complete the on-screen steps. We have a guide on[how to send mail from a different account in Gmail](https://www.lifewire.com/send-mail-from-a-custom-email-address-with-gmail-1172019) that details the whole process.  

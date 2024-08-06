@@ -1,7 +1,7 @@
 ---
 title: The New Samsung Z Fold 4 - Updates on Launch Dates, Pricing & Specifications
-date: 2024-08-04 15:54:49
-updated: 2024-08-05 12:52:23
+date: 2024-08-05T02:11:26.404Z
+updated: 2024-08-06T02:11:26.404Z
 categories:
   - BestProducts
 description: This Article Describes The New Samsung Z Fold 4 - Updates on Launch Dates, Pricing & Specifications
@@ -21,10 +21,16 @@ thumbnail: https://www.lifewire.com/thmb/KOAHbOFq4IyWlRN5kX22WJu6RDI=/400x300/fi
 
  The Galaxy Z Fold 4 is Samsung's 2022 upgrade to the[Z Fold 3](https://www.lifewire.com/samsung-galaxy-z-fold-3-5184836) . Keep reading for everything you need to know about this phone, like its main camera sensor upgrade and reduced fold crease when compared to the Z Fold 3.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ## Samsung Z Fold 4 Release Date
 
  You've been able to[purchase the Samsung Galaxy Z Fold 4](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-z-fold5%2Fbuy%2F) since August 26, 2022\. It was unveiled at the[Samsung Unpacked](https://www.lifewire.com/samsung-unpacked-news-and-rumors-5093153) event on August 10, 2022, the same event that confirmed the[Galaxy Z Flip 4](https://www.lifewire.com/samsung-z-flip-4-news-and-rumors-5525574) and[Galaxy Watch 5](https://www.lifewire.com/samsung-galaxy-watch-5-5215429) .  
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Samsung Galaxy Z Fold 4 Price
 
  Although it's cheaper if you trade in an older phone, these are your options if not:
@@ -33,6 +39,9 @@ thumbnail: https://www.lifewire.com/thmb/KOAHbOFq4IyWlRN5kX22WJu6RDI=/400x300/fi
 * **512 GB** : $1919.99
 * **1 TB** : $2159.99
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Samsung Galaxy Z Fold 4](https://www.lifewire.com/thmb/zNaJ5MLUzPKwQXr_39MJdw-drNE=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/z-fold-4-c282d81a96a24dff8cb96a346c1e1332.png)
 
 Samsung
@@ -47,6 +56,10 @@ Samsung
 
  The large screen makes it great for multitasking. You can split the screen to use up to three apps at once, and drag and drop across apps. Moving between apps is easy with the improved Taskbar, and you can view more of your favorite apps with Multi View.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## Samsung Z Fold 4 Specs and Hardware
 
  The Fold 4 is built with Corning Gorilla Glass Victus+ and an aluminum frame, which Samsung says makes it the toughest Samsung Galaxy foldable yet.
@@ -61,6 +74,11 @@ Samsung
 
  The battery size is the same as the Fold 3\. Though, the upgraded Snapdragon 8 Plus Gen 1 processor likely translates to better energy efficiency, and thus improved battery life.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ![Samsung Galaxy Z Fold 4](https://www.lifewire.com/thmb/bJIufK3b59ghWULyDed8h7aKqgU=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/z-fold-4-unfolded-4b70c07a05c84c60940a35a5712e5087.png)
 
 Samsung
@@ -81,6 +99,9 @@ Samsung
 | **S Pen Compatible:** | Yes                                                         |
 | **Color Options:**    | Phantom Black, Graygreen, Beige, Burgundy                   |
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Latest News About the Samsung Z Fold 4
 
  You can [get more smartphone news from Lifewire](https://www.lifewire.com/mobile-phones-4781509) on all kinds of topics; here are some early rumors and other stories regarding the Samsung Galaxy Z Fold 4:

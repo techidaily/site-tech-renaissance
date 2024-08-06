@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Photoshop's 'Scratch Disk Is Full' Problem: A Step-by-Step Guide"
-date: 2024-08-04 13:41:43
-updated: 2024-08-06 11:28:50
+date: 2024-08-05T02:11:17.514Z
+updated: 2024-08-06T02:11:17.514Z
 categories:
   - BestProducts
 description: "This Article Describes Overcoming Photoshop's 'Scratch Disk Is Full' Problem: A Step-by-Step Guide"
@@ -16,6 +16,9 @@ thumbnail: https://thmb.techidaily.com/f451713ef3ee68cbcaf629ea84478de29a15d554b
 
  Information in this article applies to Adobe Photoshop CC for[Windows](https://www.lifewire.com/brief-history-of-microsoft-windows-3507078) and[macOS](https://www.lifewire.com/what-is-macos-4691239) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ## How to Fix the Photoshop Scratch Disk Full Error
 
  Follow these steps in the order presented to troubleshoot the scratch disk is full error in Photoshop:
@@ -35,6 +38,9 @@ thumbnail: https://thmb.techidaily.com/f451713ef3ee68cbcaf629ea84478de29a15d554b
 
  If your computer has a fast[solid-state disk drive](https://www.lifewire.com/solid-state-drive-833448) (SSD), use the SSD as the scratch disk. Don't use the same[hard disk drive](https://www.lifewire.com/what-is-a-hard-disk-drive-2618152) (HDD) where the operating system is installed or where the files you edit are stored. Also, don't use a network or removable drive.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ## What Causes the Photoshop Scratch Disk Is Full Error?
 
  The Photoshop scratch disk refers to your hard drive. Photoshop uses the hard drive as temporary swap space, or virtual memory, when your system doesn't have enough[RAM](https://www.lifewire.com/what-is-random-access-memory-ram-2618159) to perform an operation. If you only have one hard drive or partition in your computer, the scratch disk is the drive where the[operating system](https://www.lifewire.com/operating-systems-2625912) is installed (for example, the C: drive on a Windows system).

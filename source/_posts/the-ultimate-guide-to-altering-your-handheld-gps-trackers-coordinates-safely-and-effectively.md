@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Altering Your Handheld GPS Tracker’s Coordinates Safely and Effectively
-date: 2024-08-02 23:46:12
-updated: 2024-08-05 10:16:15
+date: 2024-08-05T02:11:45.954Z
+updated: 2024-08-06T02:11:45.954Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate Guide to Altering Your Handheld GPS Tracker’s Coordinates Safely and Effectively
@@ -33,15 +33,24 @@ thumbnail: https://www.lifewire.com/thmb/FSNABxDjO-iE3duIdBRcYgmGn0o=/400x300/fi
  If you don't see this screen,[turn on developer mode](https://www.lifewire.com/how-to-enable-developer-mode-on-android-4684044) , and then return to this step. In some Android versions, you have to put a check in the box next to the**Allow mock locations** option on the**Developer options** screen.
 5. Use the back button to return to the app. Search for the location you want to fake on your phone (you can also drag the map to place the pointer somewhere). If you're making a route, tap-and-hold on the map to drop place markers.
 6. Tap the**play button** at the bottom of the screen to enable the fake GPS setting.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The play button highlighted on the Fake GPS Free map.](https://www.lifewire.com/thmb/8nFcpg029eQ0X8rDRxPfuWRdKKE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A6-FakeaGPSLocationonYourPhone-annotated-e917840a070f47d1a87dc0e2337e4b31.jpg)  
  You can close the app and open Google Maps or another location app to see if your GPS location has been spoofed. To get your real location back, press the stop button.
 
  If you're interested in trying a different Android location spoofer, we've confirmed that the following free location changing apps work much like FakeGPS Free:[Fake GPS](https://play.google.com/store/apps/details?id=com.lexa.fakegps) ,[Fly GPS](https://play.google.com/store/apps/details?id=com.fly.gps) , and[Fake GPS Location](https://play.google.com/store/apps/details?id=com.gsmartstudio.fakegps) . Another method is to use[Xposed Framework](https://www.lifewire.com/xposed-framework-4148451) to install a location-spoofing app.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Spoof iPhone Location
 
  Faking your iPhone location isn't as easy as on an Android device—you can't just download an app. However, software makers have built desktop programs that make this easy.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fake iPhone or iPad Location With 3uTools
 
  3uTools is the best way to spoof the location of your iPhone or iPad because the software is free, and I've confirmed that it works with iOS 17 and iPadOS 17.
@@ -52,9 +61,15 @@ thumbnail: https://www.lifewire.com/thmb/FSNABxDjO-iE3duIdBRcYgmGn0o=/400x300/fi
 3. Select somewhere on the map, or use the search bar, to choose where you want to fake your location.
 4. Select**Modify virtual location** , and then**OK** when you see the "succeeded" message.  
  If you see a prompt about Developer Mode, follow the steps on the screen to turn that on.  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![The location pin and Modify virtual location button highlighted in 3uTools.](https://www.lifewire.com/thmb/6-6m0sHBp-f0Ph1laSfgt4pJGBI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B4-FakeaGPSLocationonYourPhone-annotated-6c34c08e301646cb882aebbfc7960a8c.jpg)  
  Restart your device to pull real GPS data again.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fake iPhone or iPad Location With iTools
 
  Another way to manipulate your iPhone's location without jailbreaking is with iTools from ThinkSky. It runs on Windows and macOS and can simulate movement, but it's not free forever. It works with iOS 16 and older versions.
@@ -63,9 +78,15 @@ thumbnail: https://www.lifewire.com/thmb/FSNABxDjO-iE3duIdBRcYgmGn0o=/400x300/fi
 2. Plug your device into your computer and navigate to**Toolbox** \>**Virtual Location** .  
 ![The Toolbox tab and Virtual Location button highlighted in the iTools Windows app.](https://www.lifewire.com/thmb/S0ejtnY5YrNzR9EsSKTrLXKyhxc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/C2-FakeaGPSLocationonYourPhone-annotated-b625fb9ee8de4166b4f62b556655f2f5.jpg)
 3. If you see this screen, select the image in the**Developer Mode** section to agree to download the iOS Developer Disk Image file.  
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The blue hammer image highlighted in the iTools Virtual Location prompt.](https://www.lifewire.com/thmb/TPDF5llUhiruSHSgLwlpocPXtYw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/C3-FakeaGPSLocationonYourPhone-annotated-cc926f46e354441e91c4590d0f743203.jpg)
 4. Search for a location from the top of the screen, and then select**Go** to find it on the map.
 5. Select**Move here** to instantly fake your location.  
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Move Here button in Virtual Location window of iTools](https://www.lifewire.com/thmb/FG197f5D5k_4IPYf5PfSwaaE5q0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_fake-gps-location-4165524-5c2fa3b5c9e77c0001f1d066.jpg)
 
  The iTools website has[more information on how to use the map](https://www.thinkskysoft.com/fake-gps-location/) . It can also simulate a route.
@@ -74,6 +95,13 @@ thumbnail: https://www.lifewire.com/thmb/FSNABxDjO-iE3duIdBRcYgmGn0o=/400x300/fi
 
  To get your real location back, return to the map and select**Stop Simulation** . You can also reboot your device to immediately start using its real location again.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ![Stop Simulation button in iTools Virtual Location window](https://www.lifewire.com/thmb/3H1ODdKY2h3S7M_701vcwxFbbK4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_fake-gps-location-4165524-5c2fa43446e0fb000178d5b5.jpg)
 
  However, remember that you can fake your phone's location with iTools only within the 24-hour trial period; you'll need to use an entirely different computer if you want to run the trial again. The fake location will remain as long as you don't restart your device.  

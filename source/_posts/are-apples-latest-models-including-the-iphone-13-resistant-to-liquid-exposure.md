@@ -1,7 +1,7 @@
 ---
 title: Are Apple's Latest Models, Including the iPhone 13, Resistant to Liquid Exposure?
-date: 2024-08-04 16:56:21
-updated: 2024-08-05 10:22:49
+date: 2024-08-05T02:11:34.907Z
+updated: 2024-08-06T02:11:34.907Z
 categories:
   - BestProducts
 description: This Article Describes Are Apple's Latest Models, Including the iPhone 13, Resistant to Liquid Exposure?
@@ -14,6 +14,9 @@ thumbnail: https://www.lifewire.com/thmb/e44emTxDZaMY9py2hLjk82JCHcU=/400x300/fi
 
  That feature means iPhone 13 phones are water-resistant but not waterproof.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Waterproof Is the iPhone 13?
 
  The iPhone 13 isn’t completely waterproof. However, all iPhone 13 models, including the iPhone 13, iPhone 13 mini, iPhone 13 Pro, and iPhone 13 Pro Max, are water resistant with an IP68 rating.
@@ -33,10 +36,16 @@ thumbnail: https://www.lifewire.com/thmb/e44emTxDZaMY9py2hLjk82JCHcU=/400x300/fi
 
  Apple states all four iPhone 13 models can be submerged and protected in water up to 6 meters deep for up to 30 minutes.  
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![iPhone 13 buying guide](https://www.lifewire.com/thmb/VETTzXX6bwPql-zmoc7Hc1N-Z24=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Web_1500-iphone-13-mini-iphone-13-pro-iphone-13-iphone-13-pro-max-4-crop-4165e1d022c647f187ce3950d046182b.jpg)
 
 Lifewire/Nick Kova
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ## Is There Any iPhone That Is Waterproof?
 
  No iPhone is entirely waterproof, but many models after iPhone 7 come with water resistance. Several of the newer iPhone generations share or come close to iPhone 13’s water protection.
@@ -81,6 +90,9 @@ Lifewire/Nick Kova
 
  The above iPhones can also withstand everyday spills from beverages such as coffee, tea, and juice. If you need to[clean your phone](https://www.lifewire.com/how-to-clean-phone-screen-4688907) , Apple recommends avoiding soaps or detergents.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ## Can iPhone 13 Take Pictures Under Water?
 
  While iPhone 13 models can handle submersion in 6-meter depths for 30 minutes, you’ll probably want to think twice before taking your phone unprotected on your next snorkeling venture.

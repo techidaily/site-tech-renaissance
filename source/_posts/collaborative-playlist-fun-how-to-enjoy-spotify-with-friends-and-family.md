@@ -1,7 +1,7 @@
 ---
 title: "Collaborative Playlist Fun: How to Enjoy Spotify with Friends and Family"
-date: 2024-08-03 21:32:37
-updated: 2024-08-06 10:31:49
+date: 2024-08-05T02:11:36.094Z
+updated: 2024-08-06T02:11:36.094Z
 categories:
   - BestProducts
 description: "This Article Describes Collaborative Playlist Fun: How to Enjoy Spotify with Friends and Family"
@@ -13,6 +13,9 @@ thumbnail: https://thmb.techidaily.com/826e213581d156558e6f234936866c0f136b90179
 
 Close 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ###  What to Know
 
 * Open the**Spotify app** on your phone or tablet and select a song or podcast episode.
@@ -20,6 +23,9 @@ Close
 
  This article includes instructions for how to use Spotify Jam (formerly Group Session) in the mobile app so you can start a music listening party with your friends.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ##  How to Make a Listening Party on Spotify 
 
  To start a listening party with your friends, select a track or playlist and start a Jam to access a sharing link. Here's how to do that.
@@ -31,15 +37,24 @@ Close
  Pick a song that’s part of a playlist so that you have many options to choose from off the bat. Otherwise, you can use the**Add songs** button for suggestions or rely on Jam participants to add to the queue.
 3. Tap the**Connect** icon on the**Now Playing** bar.
 4. Select**Start a Jam** .  
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Connect and Start a Jam options in the Spotify mobile app for iOS.](https://www.lifewire.com/thmb/hbnOaAeCSXm009M05JwDePLv4Tc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_listen-to-spotify-with-friends-5120356-e39fc6468b2c4049bce87aaceda8d8c4.jpg)
 5. Click**Invite Friends** .  
  If a friend's nearby, select**Scan QR code** to display a QR code they can scan to instantly join your Jam. You can also tap your phones together to allow your friend to join; this feature works if you're both logged in to Spotify and connected to Bluetooth.
 6. Select**Share link** to share a link with friends in messaging apps like Messages,[ WhatsApp](https://www.lifewire.com/what-is-whatsapp-all-about-4781062) , or[ Facebook Messenger](https://www.lifewire.com/facebook-messenger-4103719) .  
  Spotify lacks built-in chat functionality, so you’ll need to use a third-party app if you want to chat with friends during a Jam.
 7. To end the Jam, tap**End** .  
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Options to share a Spotify Jam link and end the session in the Spotify mobile app for iOS.](https://www.lifewire.com/thmb/qQBAU4mHPZC89EWOAt4-QjsDs0k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_listen-to-spotify-with-friends-5120356-169432ba821842c4bd6d694dd0cac138.jpg)  
  Anyone can exit a Jam by selecting**Leave** . If the host leaves the Jam, this action automatically ends the listening session for everyone.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ##  What Is Spotify Jam (formerly Group Session)? 
 
  If you’re not in the mood for watching a video streaming service virtually with friends, Spotify has you covered.

@@ -1,7 +1,7 @@
 ---
 title: Why Isn't Mozilla Thunderbird Launching? Find Out How to Rectify It
-date: 2024-08-04 12:51:43
-updated: 2024-08-06 11:43:33
+date: 2024-08-05T02:11:47.494Z
+updated: 2024-08-06T02:11:47.494Z
 categories:
   - BestProducts
 description: This Article Describes Why Isn't Mozilla Thunderbird Launching? Find Out How to Rectify It
@@ -14,6 +14,9 @@ thumbnail: https://thmb.techidaily.com/0e07053ee64fa15ad5d79e86651cfe492e77f4718
 
  These troubleshooting steps apply to Thunderbird version 68.8.0 and earlier.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Make Thunderbird Start Again
 
  If Thunderbird is running but not responding, or it's saying that your profile is in use, here are the steps you should try.
@@ -32,6 +35,9 @@ thumbnail: https://thmb.techidaily.com/0e07053ee64fa15ad5d79e86651cfe492e77f4718
 9. [Create a new Thunderbird profile](https://support.mozilla.org/en-US/questions/1227161) . There may be something wrong with your Thunderbird profile. Profiles in Thunderbird and Firefox store information about your settings, mail, accounts, and extensions you installed. If something goes wrong,[back up your profile](https://www.lifewire.com/back-up-thunderbird-settings-1173141) and then create a fresh one.
 10. [Reinstall Thunderbird](https://support.mozilla.org/en-US/questions/1085697) . If none of these troubleshooting steps solves the problem,[move your profile](https://www.lifewire.com/move-thunderbird-profile-1173159) folder to a different location to back it up. Then, reinstall Thunderbird without a profile present. Everything should start fresh.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Causes of Thunderbird Not Responding
 
 > Thunderbird is already running, but not responding. To open a new window, you must close the existing Thunderbird process or restart your system.

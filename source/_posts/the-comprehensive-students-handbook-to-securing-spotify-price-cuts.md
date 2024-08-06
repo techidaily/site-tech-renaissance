@@ -1,7 +1,7 @@
 ---
 title: The Comprehensive Student's Handbook to Securing Spotify Price Cuts
-date: 2024-08-04 19:49:38
-updated: 2024-08-06 11:27:53
+date: 2024-08-05T02:11:33.411Z
+updated: 2024-08-06T02:11:33.411Z
 categories:
   - BestProducts
 description: This Article Describes The Comprehensive Student's Handbook to Securing Spotify Price Cuts
@@ -10,6 +10,9 @@ thumbnail: https://www.lifewire.com/thmb/4ebZXyc7hEVHpY3f930PENxZMYs=/400x300/fi
 ---
 
 ## The Comprehensive Student's Handbook to Securing Spotify Price Cuts
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ### What to Know
 
 * Go to Tidal and create an account. Select**Student** as the account type and enter payment information.
@@ -18,6 +21,9 @@ thumbnail: https://www.lifewire.com/thmb/4ebZXyc7hEVHpY3f930PENxZMYs=/400x300/fi
 
  This article explains how to get Tidal for Students and listen to unlimited music for much less than the cost of Tidal Premium.  
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Sign up for the Tidal Student Discount
 
  If you qualify for a student discount, you can sign up for the discount in a similar manner as a traditional membership to the music streaming service.
@@ -27,8 +33,14 @@ thumbnail: https://www.lifewire.com/thmb/4ebZXyc7hEVHpY3f930PENxZMYs=/400x300/fi
 1. Visit the[Tidal login page](https://listen.tidal.com/login) and enter an email or social media account to start creating a profile.
 2. Once you've signed in, you can select which account type you'd like, including Individual, Family, or Student.
 3. Select**Student** , and complete the signup process by entering your payment information.  
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![A Tidal user selects the Student discount option](https://www.lifewire.com/thmb/PhTnJ0dyEQHv4DfZ0z4AtUdgThQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TidalExample2-735322765b994026bf5528ea5cbd1ff8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Verify You’re a Student
 
  Once you've signed up as a student, you'll need to upload documents to prove you're a student through SheerID. Your information remains private and isn't shared outside the verification process.
@@ -41,6 +53,9 @@ thumbnail: https://www.lifewire.com/thmb/4ebZXyc7hEVHpY3f930PENxZMYs=/400x300/fi
 4. Once you've attached the document, press**Next** , and a confirmation page appears stating an email will be sent when your verification is confirmed for the Tidal student discount.  
 You must reverify your student status every 12 months.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Understanding the Tidal for Students Fine Print
 
  While the SheerID says it won't rent or share your information and only uses it to verify details on behalf of Tidal, it also recommends you still cover sensitive information.
@@ -54,6 +69,9 @@ You must reverify your student status every 12 months.
 * School ID card with an expiration date
 * Official letters
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Who Qualifies for a Tidal Student Discount?
 
  To get a student discount through Tidal, you must meet the following criteria:

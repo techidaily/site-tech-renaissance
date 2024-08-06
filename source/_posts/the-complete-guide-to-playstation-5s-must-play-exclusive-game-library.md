@@ -1,7 +1,7 @@
 ---
 title: The Complete Guide to PlayStation 5'S Must-Play, Exclusive Game Library
-date: 2024-08-04 14:23:53
-updated: 2024-08-05 10:22:48
+date: 2024-08-05T02:11:48.842Z
+updated: 2024-08-06T02:11:48.842Z
 categories:
   - BestProducts
 description: This Article Describes The Complete Guide to PlayStation 5'S Must-Play, Exclusive Game Library
@@ -24,6 +24,9 @@ Looking for PSVR 2 games? [Check out our full list here](https://www.lifewire.co
 
 of 28
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Astro's Playroom 
 
  Exclusive to PS5, this demo controller game comes pre-loaded with the console. This game is a sequel to Astro Bot Rescue Mission. Designed to showcase the new Dual-Sense controller for PS5, you can explore the different haptic sensations as Astro runs, bounces, and even struggles through sand. It's not amazing, but it is a fun 3D way to get used to the new controller's capabilities.
@@ -34,6 +37,9 @@ of 28
 
 of 28
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ##  Concord 
 
  Not much news about this one yet, but it takes place in space. You'll play the role of a "freegunner," and the tone seems a bit light and has some retro-'80s vibes to it.
@@ -96,6 +102,9 @@ _Final Fantasy 7 Remake_ is an enhanced and updated version of the PS4 original.
 
 of 28
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ##  Final Fantasy 7 Rebirth 
 
  The second part of the _Final Fantasy 7_ remake trilogy is coming exclusively to PlayStation 5, though the first part was also out for PS4\. The continuing adventures of Cloud Strife and his ridiculously oversized sword should adopt some of the gameplay updates we saw in _Intergrade_.
@@ -110,6 +119,10 @@ Winter 2023
 
 of 28
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ##  Final Fantasy 16 
 
  The latest in the long-standing _Final Fantasy_ series takes a more action-centric approach to combat, foregoing the traditional turn-based system. It is a timed exclusive, coming to other platforms later.
@@ -120,6 +133,9 @@ of 28
 
 of 28
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ##  Forspoken 
 
  Originally under development as "Project Athia," _Forspoken_ tells the story of Frey, a modern-day woman who is mysteriously transported to the more fantastical world of Athia. There, she has to use magic and parkour (and sometimes both at the same time) to find her way home and maybe overthrow some tyrants.
@@ -130,6 +146,9 @@ of 28
 
 of 28
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ##  Helldivers 2 
 
  This sequel to the 2015 original changes the perspective from top-down to over-the-shoulder and brings in a huge scoop of _Starship Troopers_ for fun. You'll play as one of the eponymous Helldivers, traveling to distant planets to shoot up alien bugs, ostensibly for freedom and democracy.
@@ -160,6 +179,9 @@ of 28
 
 of 28
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Marvel's Spider-Man: Remastered 
 
  The original version of developer Insomniac's _Marvel's Spider-Man_ launched on PS4, but the PS5 remaster adds enough to the title to merit inclusion. Along with a new face model for Peter Parker, _Remastered_ includes the original game's DLC, DualSense control functionality, and some new costumes.
@@ -170,6 +192,9 @@ of 28
 
 of 28
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Marvel's Spider-Man 2 
 
  This follow-up to _Spider-Man_ and _Spider-Man: Miles Morales_ lets you control both Spider-Mans as they take on Kraven the Hunter. The tracker has come to New York in search of some new prey, which includes Lizard and the webslingers.
@@ -182,6 +207,9 @@ of 28
 
 of 28
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Marvel's Wolverine 
 
  The same studio making the _Spider-Man_ series is also making a title based around the most popular member of the X-Men.
@@ -192,6 +220,10 @@ of 28
 
 of 28
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ##  Pacific Drive 
 
  Pacific Drive drops you into the middle of a surreal version of the Pacific Northwest with nothing between you and certain doom but your car. You'll make forays into the woods to collect scrap and supplies to upgrade the vehicle and make your way to the mysterious Pacific Exclusion Zone.
@@ -214,6 +246,9 @@ of 28
 
 of 28
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Quantum Error 
 
  In _Quantum Error_, you play as a fireman. In space. And there are monsters?
@@ -238,6 +273,9 @@ of 28
 
 of 28
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Returnal 
 
  Lifelike imagery, a cinematic feel, and a storyline reminiscent of Groundhog Day gives you Returnal, where you'll battle demon-looking creatures and spiders on an alien planet that appears to change every time you die. Get ready for a test of your sanity.
@@ -248,6 +286,9 @@ of 28
 
 of 28
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Rise of the Rōnin 
 
  This action-role-playing game comes courtesy of Team Ninja (_Ninja Gaiden_, _Nioh_) and puts you in the middle of the events leading to the Boshin War that ended Japan's Edo period.
@@ -270,6 +311,9 @@ of 28
 
 of 28
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ##  Silent Hill: The Short Message 
 
  Konami surprised "_Silent Hill_" fans by announcing and releasing this entry on the same day. And it's free to download.  

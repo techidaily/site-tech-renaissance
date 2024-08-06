@@ -1,7 +1,7 @@
 ---
 title: "Exploring Smartwatch Innovations: What Can These Wearable Devices Do?"
-date: 2024-08-04 22:39:52
-updated: 2024-08-06 12:32:40
+date: 2024-08-05T02:11:21.036Z
+updated: 2024-08-06T02:11:21.036Z
 categories:
   - BestProducts
 description: "This Article Describes Exploring Smartwatch Innovations: What Can These Wearable Devices Do?"
@@ -19,8 +19,14 @@ Close
 
 1:40
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ###  What Is a Smartwatch and What Do They Do?
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  A Short History of the Smartwatch 
 
  While digital watches have been around for decades—some with abilities like calculators and unit converters—only in the 2010s did tech companies begin releasing watches with smartphone-like abilities.
@@ -35,6 +41,9 @@ Close
 
  Likewise, companies like Suunto released smartwatches optimized for scuba diving that withstand extended time at significant depths.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## What Do Smartwatches Do? 
 
  Most smartwatches—whether they're intended for daily use (as with the Apple Watch) or for specific purposes (as with the Garmin Fenix)—offer a suite of standard features:
@@ -47,6 +56,9 @@ Close
 * **GPS** : Most smartwatches include[ GPS](https://www.lifewire.com/how-gps-works-1683296) for tracking your location or receiving location-specific alerts.
 * **Good battery life** : Modern smartwatches feature batteries that get you through the day, with normal use, with a bit of juice still left to go. Battery use varies; the Apple Watch typically gets 18 hours of normal use on a single charge, while the Samsung Galaxy gets up to 40 hours.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## Types of Smartwatches 
 
  Broadly speaking, smartwatches occupy two niches in the wearables market. First, a general-purpose smartwatch—like the Apple Watch and most Google-powered Wear devices—blend form and function.
@@ -64,6 +76,9 @@ Close
 
  The other niche includes specialty devices intended for specific-use cases. These devices often offer a more robust version of a fitness tracker, insofar as they bleed between a phone-dependent smartwatch and a stand-alone fitness tracker like a Fitbit.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Garmin vivofit, sport fitness tracker and clock](https://www.lifewire.com/thmb/1Xr6meqfDSdaYTNjAB-Dw1WZShY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-520265419-5bd79e88c9e77c00513fcd8d.jpg) 
 
  franckreporter/Getty Images 
@@ -74,6 +89,9 @@ Close
 * **Diving watches** : Connect your first-stage regulator to a Bluetooth transmitter to use a diving watch. Garmin's Descent Mk2i and Suunto's DX offer depth, time-remaining, temperature, and other important indicators. And the Apple Watch Ultra can make use of the[ Oceanic+ Dive Computer App](https://apps.apple.com/app/id1610517133) to calculate dive times, display a number of different stats, and can handle depths of up to 130 feet (40 meters).
 * **Flying watches** : A niche market, but Garmin's MARQ Aviator Gen. 2 offers a jet-lag advisor, GPS-powered moving map, NEXRAD weather reports (using METARs, TAFs and MOS2), flight logging, a barometric altimeter, and more.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ## Smartwatch Market Growth 
 
  Smartwatches settled into a steep growth curve in the late 2010s in terms of global market adoption. Data from[ Statista](https://www.statista.com/topics/4762/smartwatches/#topicOverview) shows that sales rose from five million units worldwide in 2014 to an estimated 173 million in 2022.

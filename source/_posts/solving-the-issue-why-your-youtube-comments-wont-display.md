@@ -1,7 +1,7 @@
 ---
 title: "Solving the Issue: Why Your YouTube Comments Won't Display"
-date: 2024-08-04 19:43:23
-updated: 2024-08-06 11:44:54
+date: 2024-08-05T02:11:19.546Z
+updated: 2024-08-06T02:11:19.546Z
 categories:
   - BestProducts
 description: "This Article Describes Solving the Issue: Why Your YouTube Comments Won't Display"
@@ -22,6 +22,9 @@ thumbnail: https://thmb.techidaily.com/9be334cdafc76019f9e5ad788ad6c3507c69da5b0
 
 * **A green icon that looks like an iPhone** : This icon means your Apple Watch is connected to your iPhone. You can confirm which device you're connected to by tapping this symbol. If you're having problems, it's not because the Apple Watch unpaired from the phone.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Green iPhone connected icon highlighted on the Apple Watch](https://www.lifewire.com/thmb/0LwMPKDzCosUr-FJMXS58b0im1M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_fix-it-when-your-apple-watch-wont-pair-4583120-97c006f65a9e48a6bab7857822f444f2.jpg)
 
 * **A blue Wi-Fi symbol** : When you see this icon, the Apple Watch is connected to a Wi-Fi network. You can tap this icon to turn off Wi-Fi on the Apple Watch, which will force the Apple Watch to attempt to pair with your iPhone. Make sure your iPhone is nearby. If the Watch doesn't pair, continue with the rest of these troubleshooting steps.
@@ -35,6 +38,9 @@ thumbnail: https://thmb.techidaily.com/9be334cdafc76019f9e5ad788ad6c3507c69da5b0
 * **Airplane mode activated on the iPhone** : This settings acts the same as on the watch; it prevents all communication. Swipe down from the upper-right corner of the iPhone's display to open Control Center. As with the watch, the icon for Airplane Mode is highlighted in orange if activated.
 * **Bluetooth disconnected on the iPhone** : Bluetooth is essential to pairing an iPhone and an Apple Watch. Check the Bluetooth status icon from the Control Center on both devices. If it's off, the Bluetooth icon will be highlighted in white. Tap it to turn it back on and your Apple Watch should pair within a few moments.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ## Reboot Your iPhone If Your Apple Watch Won't Pair
 
  Now that we've checked some of the basic settings, we'll fall back on the oldest troubleshooting step in the book:[rebooting the device](https://www.lifewire.com/how-to-restart-iphone-2000288) . If your Apple Watch won't pair, there may very well be a problem on the iPhone side of the equation. A quick reboot may help you get back up and running in no time.
@@ -46,6 +52,9 @@ thumbnail: https://thmb.techidaily.com/9be334cdafc76019f9e5ad788ad6c3507c69da5b0
 3. Once your iPhone has been powered down for several seconds, press and hold the**side** **button** until the Apple logo appears on the screen.
 4. When your iPhone finishes booting up, check your Apple Watch connection.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ## Reboot Your Apple Watch If It Still Isn't Pairing
 
  While you can do these two steps in any order, generally it's better to reboot the iPhone and then reboot the Apple Watch. This order helps ensure there are no lingering problems on the iPhone when the watch boots up. To restart your Apple Watch:
@@ -74,8 +83,14 @@ Apple, inc.
 1. Launch the iPhone's**Settings** app.
 2. Select**General** \>**Transfer or Reset iPhone** .
 3. Tap**Reset** \>**Reset Network Settings** . You may be asked to type in your passcode to verify your request.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![The Reset Network Settings option on iPhone](https://www.lifewire.com/thmb/cyKZwhJdxs3xCa8665gh4lhsnNQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_fix-it-when-your-apple-watch-wont-pair-4583120-61774b8d5381427abab0479fd2c796af.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## My Apple Watch Won't Pair: What's Next?
 
  Still not connecting? This last step is to reset the Apple Watch, which will cause any data on the Apple Watch that hasn't been backup up to be lost. This is why we save it for last.
@@ -84,6 +99,9 @@ Apple, inc.
 
  The unpairing process will erase all data on the Apple Watch. When finished, you will set up the Apple Watch just as you did when you got it out of the box. This step should solve most problems.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### On the Apple Watch
 
 1. Launch the**Settings** app.
@@ -98,6 +116,10 @@ Apple, inc.
 2. From the**My Watch** tab, select**All Watches** at the top of the display to view your watch models.
 3. Tap the**i** icon next to the watch.
 4. Choose**Unpair Apple Watch** and then tap again to confirm.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![Steps to unpair an Apple Watch from an iPhone in the Watch iOS app](https://www.lifewire.com/thmb/Rg5jH0Omdt_baioSEfOiLNm2vCQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_fix-it-when-your-apple-watch-wont-pair-4583120-0b423af25e184932a332aaa1166e84aa.jpg)
 
  If you still have problems pairing your Apple Watch to your iPhone after following these steps, it's time to contact Apple Support. You can[schedule an appointment at the Genius Bar](https://www.lifewire.com/how-to-make-an-apple-genius-bar-appointment-1999601) at an Apple retail location from the Support website or through the app.

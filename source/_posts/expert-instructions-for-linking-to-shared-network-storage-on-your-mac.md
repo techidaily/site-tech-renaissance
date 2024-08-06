@@ -1,7 +1,7 @@
 ---
 title: Expert Instructions for Linking to Shared Network Storage on Your Mac
-date: 2024-08-03 23:41:33
-updated: 2024-08-05 10:36:57
+date: 2024-08-05T02:11:39.347Z
+updated: 2024-08-06T02:11:39.347Z
 categories:
   - BestProducts
 description: This Article Describes Expert Instructions for Linking to Shared Network Storage on Your Mac
@@ -18,11 +18,17 @@ thumbnail: https://www.lifewire.com/thmb/3ztrZh8TBDerJC5_oIkzWgPPNOY=/400x300/fi
 
  This article explains how to set up a[mapped drive](https://www.lifewire.com/what-is-a-mapped-drive-2625932) on a Mac and how to reconnect to the shared folders automatically after a reboot. These directions are for Macs running macOS Sonoma, but they can easily be adapted for other versions of macOS.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ## How to Map a Network Drive on Mac
 
  Instead of downloading or copying the same data to all your devices, save the files in a single folder and then share the folder with your other devices. With the shared folder ready to go, follow these steps to map the network drive:
 
 1. Launch[Finder](https://www.lifewire.com/use-mac-finder-2260739) .  
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Launching Finder](https://www.lifewire.com/thmb/huJvgSnOo0nc6KBEwczoAZROP0Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/launchfinder-340aa8e12df54fcdb7a00d5f690fffc5.jpg)
 2. Click**Go** \>**Connect to Server** . If you prefer to use the keyboard, press**Command** +**K** .  
 ![Go > Connect to Server](https://www.lifewire.com/thmb/o4nzpFECIMhhjSy946PTVqi6NkI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/go_connecttoserver-015046850f824f41874453979f22fb61.jpg)
@@ -30,9 +36,15 @@ thumbnail: https://www.lifewire.com/thmb/3ztrZh8TBDerJC5_oIkzWgPPNOY=/400x300/fi
  `smb://`  
 ![Connect to smb](https://www.lifewire.com/thmb/LGGVIx8-2eXACqoDFGFx2WQEuCk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/connecttosmbserver-d55cf0e3c30f47eb8775f220506ce07f.jpg)
 4. If you're prompted for a confirmation, click**Connect** .  
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Confirm server connection](https://www.lifewire.com/thmb/0seVxpQZnWQ2lKqukB2EbRbeD44=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/confirmserverconnection-5f5a46f9f44d44739284b5b6ccfc692b.jpg)  
  Accounts that don't have permission to access this file/folder are unable to create a connection to the network drive.
 5. Once the network drive has been mapped, it will appear under the**Locations** menu in any Finder window, and on your desktop (if not, go to**Finder** \>**Settings** and turn on**Connected servers** ).  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![Network drive in Finder](https://www.lifewire.com/thmb/2f4aT702rnz3MPWi5Rzb8V9w8jA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/networkdriveinfinderwindow-92d62c1eadd242d8bc12b4ef8225f71f.jpg)  
  Since mapped drives show up as mounted drives on your macOS device, you're able to disconnect from them by ejecting the drive.
 
@@ -43,8 +55,14 @@ thumbnail: https://www.lifewire.com/thmb/3ztrZh8TBDerJC5_oIkzWgPPNOY=/400x300/fi
 1. Click the **Apple logo** and then choose**System Settings** or, if you're using an older version of macOS,**System Preferences** .  
 ![The Apple menu in macOS Sonoma](https://www.lifewire.com/thmb/6QskzBI9YdP7WJnGKV9O3npt9nA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macos-apple-menu-252257511a624fafb66828de2bf361bf.png)
 2. Search for**Login Items** , or select it from the**General** menu.  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The General settings in macOS Sonoma](https://www.lifewire.com/thmb/HrlqpnLHLrKZXCvhuz6ds3v4cq4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mac-general-settings-852379f46e5b483d9109f6149d449040.png)
 3. Drag the shares from the desktop into the**Open at Login** screen. Or, click the**plus sign** , select the shares in the pop-up window, and then choose**Open** or**Add** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![Add item](https://www.lifewire.com/thmb/HUk4Vz4G4x7xJJCa0gQsyEbDnN8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/additem-f32796130b64451cafd6246a060e9eb5.jpg)
 
 [Set up Multiple Network Locations on Your Mac](https://www.lifewire.com/set-up-multiple-network-locations-on-mac-2260396)

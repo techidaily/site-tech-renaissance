@@ -1,7 +1,7 @@
 ---
 title: Dive Into Intrigue with These 13 Favorite Criminal Case Podcasts
-date: 2024-08-04 20:33:15
-updated: 2024-08-06 11:19:10
+date: 2024-08-05T02:11:33.678Z
+updated: 2024-08-06T02:11:33.678Z
 categories:
   - BestProducts
 description: This Article Describes Dive Into Intrigue with These 13 Favorite Criminal Case Podcasts
@@ -19,8 +19,15 @@ Close
 
 of 13
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ## [ Best True-Crime Podcast of a Cold Case: West Cork](https://www.westcorkpodcast.com/) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![An episode of the West Cork podcast](https://www.lifewire.com/thmb/45lCwQB-6Kc9blBJHkQtsiYV8aA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/west-cork-podcast-6a252d9f145444e0a3b1ed6d233b68c5.png) 
 
  What We Like
@@ -68,6 +75,9 @@ of 13
 
 of 13
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## [ Best Podcast for White-Collar Crime: Swindled](http://swindledpodcast.com/) 
 
 ![The Swindled podcast's website](https://www.lifewire.com/thmb/zv5iLpTvW-Y0MzVY3p1Q6iTgH4I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/swindled-podcast-f1c82a2d461d4898abf8343a667421f3.png) 
@@ -116,6 +126,9 @@ of 13
 
 of 13
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ## [ A True-Crime Podcast for Fans of The Wire: Crimetown](https://gimletmedia.com/shows/crimetown) 
 
 ![A summary of the Crimetown podcast](https://www.lifewire.com/thmb/HD9r6gw7iZ6-oPPuZATGG5Ld188=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/crimetown-2cf84268762b4e3383c84d9a6e491567.png) 
@@ -143,6 +156,10 @@ of 13
 
 ## [ A Fascinating Podcast for Unsolved Crime Fans: Atlanta Monster](https://atlantamonster.com/) 
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![Atlanta Monster podcast](https://www.lifewire.com/thmb/2WOtojt5iuS-sYghn21faxnzs6Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-05-30at12.37.05-5b0e8cfb1d6404003786c847.png) 
 
  What We Like
@@ -167,6 +184,9 @@ of 13
 
 of 13
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ## [ Best Crime Podcast for Variety: Criminal](https://www.thisiscriminal.com/) 
 
 ![An episode summary from the Criminal podcast](https://www.lifewire.com/thmb/zLNjw6soLyvbLZa7jrf6D1sMmZ4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/this-is-criminal-podcast-30107282d992486a85459bb9e6137f1f.png) 
@@ -219,6 +239,10 @@ of 13
 
 ##  A Crime Podcast for Armchair Psychologists: Dirty John 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ![Dirty John podcast](https://www.lifewire.com/thmb/gP5q3bdvuxMrXQPKsMcWF7B_9EY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009-best-true-crime-podcasts-4165864-ca843260508948309252205119fde4dd.jpg) 
 
  What We Like
@@ -244,6 +268,9 @@ of 13
 
 ## [ Another Cold Case Podcast for Armchair Sleuths: Someone Knows Something](https://www.cbc.ca/radio/sks/about-someone-knows-something-1.4348243) 
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Someone Knows Something podcast](https://www.lifewire.com/thmb/qqW8Ovofhf_gPGcvZgkK3kIEsUI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/010-best-true-crime-podcasts-4165864-54a03eda837541c1aa84d206e311f31d.jpg) 
 
  What We Like
@@ -267,8 +294,20 @@ of 13
 
 of 13
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## [ A True-Crime Podcast on the Extreme End of the Spectrum: Sword and Scale](https://www.swordandscale.com/) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ![Sword and Scale podcast](https://www.lifewire.com/thmb/NDAu7ZuFnnxs6aKohAbmVkV7Q5M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/011-best-true-crime-podcasts-4165864-85cb78cdfe2e400bbfc9f8194ccaa3df.jpg) 
 
  What We Like
@@ -291,6 +330,10 @@ of 13
 
 of 13
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ##  A Podcast Exploring America's Largest Ever Mass Suicide: Heaven's Gate 
 
 ![Heaven's Gate podcast](https://www.lifewire.com/thmb/BTxVS0Zx5jvQ5d8rhWdQDBmy8Gs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008-best-true-crime-podcasts-4165864-770738bdf98e481ea9fe72657a2e82a4.jpg) 
@@ -319,6 +362,9 @@ of 13
 
 ##  A Crime Podcast Heavy With Drama: Unsolved Murders 
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Unsolved Murders: True Crime Stories podcast](https://www.lifewire.com/thmb/i5kh3d3XPSdOuGlRjbltLCdSVK4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/013-best-true-crime-podcasts-4165864-87fac1310b64478fa15881ba272053c0.jpg) 
 
  What We Like

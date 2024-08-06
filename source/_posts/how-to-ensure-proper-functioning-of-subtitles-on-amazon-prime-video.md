@@ -1,7 +1,7 @@
 ---
 title: How To Ensure Proper Functioning of Subtitles on Amazon Prime Video
-date: 2024-08-04 19:53:45
-updated: 2024-08-06 11:52:15
+date: 2024-08-05T02:11:49.675Z
+updated: 2024-08-06T02:11:49.675Z
 categories:
   - BestProducts
 description: This Article Describes How To Ensure Proper Functioning of Subtitles on Amazon Prime Video
@@ -15,6 +15,9 @@ Close
 
  Subtitles not working properly on Amazon Prime Video can be frustrating, but this is generally a straightforward fix. Here's what to do to fix the most common problems and what to do if the problem persists.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Why Are My Amazon Prime Subtitles Not Working? 
 
  There are a few reasons why subtitles may not be working with your Amazon Prime Video account. These include:
@@ -28,6 +31,9 @@ Close
 * You’re using a legacy app that no longer receives updates from Amazon (such as an older model of Apple TV or Fire Stick).
 * There is an issue with Closed Captioning for a particular TV show or movie.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How Can I Fix Prime Video Subtitles? 
 
  It's generally best to start with the easiest and most likely fixes first. Try each step individually and in order until you find the one that solves the problem.  
@@ -49,12 +55,18 @@ Close
  Since you can use your Prime Video subscription across multiple devices, you can install it on any device that supports the app to see if the problem persists.
 8. [ Delete your watch history](https://www.lifewire.com/how-to-delete-your-amazon-prime-watch-history-4843243) . If subtitles still aren’t working across your different apps and devices, it’s likely an account-level issue. One fix you can try is to delete your viewing history, which will remove your user preferences for a particular show or movie.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Subtitles Still Not Working? Contact Amazon for Help 
 
  If your subtitle issues persist, it’s best to contact Amazon for help. They should be able to identify any backend issues that may be causing the error and provide you with additional troubleshooting steps.  
 
  Log in to your account in a web browser or the app and go to**Your Account** \>**Customer Service** \>**Choose Something Else** \>**I need more help** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![The I need more help option from Amazon's Customer Service page.](https://www.lifewire.com/thmb/C1ag63fGFiyquICq-cQ0D_mwOeU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_fix-subtitles-not-working-amazon-prime-video-5198588-05f9298f01454fca811d8927f938be7d.jpg) 
 
  When you make this selection, a customer support chat window opens. If you prefer to speak with a representative over the phone, choose**Request a phone call** in the chat window.

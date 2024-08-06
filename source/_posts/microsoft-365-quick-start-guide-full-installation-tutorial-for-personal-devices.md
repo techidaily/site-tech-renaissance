@@ -1,7 +1,7 @@
 ---
 title: "Microsoft 365 Quick-Start Guide: Full Installation Tutorial for Personal Devices"
-date: 2024-08-04 23:58:42
-updated: 2024-08-06 12:19:10
+date: 2024-08-05T02:11:46.658Z
+updated: 2024-08-06T02:11:46.658Z
 categories:
   - BestProducts
 description: "This Article Describes Microsoft 365 Quick-Start Guide: Full Installation Tutorial for Personal Devices"
@@ -27,13 +27,24 @@ Close
 
 1. Open a[ web browser](https://www.lifewire.com/what-is-a-browser-446234) and go to Office.com.
 2. Sign in to your Microsoft account.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![The Welcome to Office web page used to sign in to a Microsoft account](https://www.lifewire.com/thmb/BEsKayvjuGiiuRDfQSR1wE658LI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-install-office-365-on-your-pc-4589808-8ac0b1d213364d7bbce3f0f1688b2a68.jpg)
 3. After you sign in, the Office portal opens where you'll access the Office Online apps and manage your Office subscription.
 4. Select**Buy Office** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![The "Buy Office" button](https://www.lifewire.com/thmb/clOgfHnAH02hU9SGc9OT-gpoXpM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-how-to-install-office-365-4589808-2e69c8f6c13c4b3dbd8f654c9e7d7851.jpg)
 5. Select**Buy now** for the Office subscription you want if you want to pay an annual subscription fee. Or, select**Or buy for $9.99 per month** if you prefer to pay a monthly subscription fee.  
  Do you want to take Microsoft 365 for a test drive before you buy it? Select**Try for free** and sign up for a[ 30-day trial of Microsoft 365](https://www.lifewire.com/microsoft-office-free-trial-1356577) .
 6. Review the information in the Cart and select**Checkout** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![The Checkout button](https://www.lifewire.com/thmb/PJK5pYDJOR-GhnjvhgsIvIOOkL8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-install-office-365-4589808-c43378d3c3ee4808937497d9400aa7b6.jpg)
 7. Select a payment type. Choose either a**credit card or debit card** ,**PayPal** , or**bank account** .
 8. Enter the payment details.
@@ -42,6 +53,9 @@ Close
 ![The "Place Order" button](https://www.lifewire.com/thmb/PJaIsOw8bwD_BeaFuvJHYT55AYM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-install-office-365-4589808-6e8b09d86df047589542d05de5844d0e.jpg)
 11. Your order processes and you'll receive an email receipt for the transaction.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Install Microsoft 365 for Home 
 
  After you purchase a Microsoft 365 subscription, install Office on your PC.
@@ -49,8 +63,16 @@ Close
 1. Use the computer where you want to install Office.
 2. Go to the[ Microsoft 365 portal](https://www.office.com/) page and sign in to your Microsoft account.
 3. Select**Install Office** .  
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![The "Install Office" button](https://www.lifewire.com/thmb/LrZEm-ETdu_MGAdIZ5cQcScQQx0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-install-office-365-4589808-d138fcf8571c415e8226644d635e1803.jpg)
 4. On the**Microsoft 365 Home** web page, select**Install Office** .  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ![The Office 365 Home account page showing the links to install Office 365](https://www.lifewire.com/thmb/U77dvHNyFna5juI2nJebWJU_Khg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008_how-to-install-office-365-on-your-pc-7eab9329c07447959c1286b54a8f136e.jpg)
 5. On the**Download and install Microsoft 365 Home** screen, select**Install** .  
 ![The Download and install Office 365 Home pop-up window](https://www.lifewire.com/thmb/-bv3OawY70PXNZRylTEiaFVVS40=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009_how-to-install-office-365-on-yourjpg-b8663e12d0ca40c797c047b35ab79371.jpg)
@@ -66,9 +88,15 @@ Close
  To activate Office:
 
 1. Open one of the Office apps, for example, Word.  
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![The Word icon in Windows 10](https://www.lifewire.com/thmb/A-uxB0lHFWQ3k6nVJ7TKc_Whsuw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-how-to-install-office-365-4589808-30cf3be489224e85b9c713080ef14829.jpg)
 2. Enter your Microsoft email address and password.
 3. On the**Accept the license agreement** screen, select**Accept** .  
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Office 365 license agreement](https://www.lifewire.com/thmb/3ZR1Zax9slThSEqLR5ZnV4ZdH1c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/012_how-to-install-office-365-on-your-pc-4589808-f16b107f0ae54a2fbad8d03c020ea1c2.jpg)
 4. The Office app opens, and you're ready to create Office documents and spreadsheets.
 
@@ -97,10 +125,17 @@ You can simultaneously sign in to Office on five devices.
 
 1. Sign in with the Microsoft account that you used to set up Microsoft 365.
 2. On the**Office portal** page, select**Install Office** .  
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![The "Install Office" button](https://www.lifewire.com/thmb/LrZEm-ETdu_MGAdIZ5cQcScQQx0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-install-office-365-4589808-d138fcf8571c415e8226644d635e1803.jpg)
 3. Select the**Sharing** tab.  
 ![The Sharing tab on Office 365](https://www.lifewire.com/thmb/6dNkI_4ncQdiOr8x2YZhn1tzZ6s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007-how-to-install-office-365-4589808-83eef632f39b4316925a24eaadf25b29.jpg)
 4. Select**Start sharing** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![The Start Sharing button](https://www.lifewire.com/thmb/7oUh8eBp3KJi2gVFo7qtjH-lYe0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008-how-to-install-office-365-4589808-5f0964a1e81a4adfa8ef8b6c5dc3075c.jpg)
 5. On the**Share Office** window, choose to either:  
    * **Invite via email** : Sends a link in an email message.  

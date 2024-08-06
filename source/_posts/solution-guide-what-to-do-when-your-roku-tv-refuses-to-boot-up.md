@@ -1,7 +1,7 @@
 ---
 title: "Solution Guide: What to Do When Your Roku TV Refuses to Boot Up"
-date: 2024-08-05 19:43:33
-updated: 2024-08-06 12:53:33
+date: 2024-08-05T02:11:19.104Z
+updated: 2024-08-06T02:11:19.104Z
 categories:
   - BestProducts
 description: "This Article Describes Solution Guide: What to Do When Your Roku TV Refuses to Boot Up"
@@ -14,6 +14,9 @@ thumbnail: https://thmb.techidaily.com/6644f0a2d74892fa3a39d2d46d9f44395a7ca3377
 
  The Apple Watch requires at least an iPhone XS or later with iOS 17\. The[Apple Watch does not work with iPad](https://www.lifewire.com/can-you-use-apple-watch-with-ipad-1994095) or Android-based devices.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Check Your Apple Watch's Connection
 
  The first thing to check is whether the Apple Watch is disconnected from the iPhone. If it is, it's possible to have a problem with the Apple Watch that mimics not being paired with the iPhone.
@@ -42,6 +45,9 @@ thumbnail: https://thmb.techidaily.com/6644f0a2d74892fa3a39d2d46d9f44395a7ca3377
 1. Hold down the**side button** on the iPhone until the**slide to power off** icon appears.  
  Alternatively, tap**Settings** \>**General** \>**Shut Down** .
 2. After you slide the**power** icon to the right, the iPhone will power down.  
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A screenshot of the Slide to Power Off message on an iPhone](https://www.lifewire.com/thmb/_cVyswOYnfKG9c_MnbamQ-XpO1Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/slide_power_off-5c37c89bc9e77c0001409d0c.jpg)
 3. Once your iPhone has been powered down for several seconds, press and hold the**side** **button** until the Apple logo appears on the screen.
 4. When your iPhone finishes booting up, check your Apple Watch connection.
@@ -52,11 +58,17 @@ thumbnail: https://thmb.techidaily.com/6644f0a2d74892fa3a39d2d46d9f44395a7ca3377
 
 1. First, press and hold the side button on the Apple Watch.
 2. When prompted, slide the**Power Off** icon to the right.  
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![An Apple Watch at the Power Off screen](https://www.lifewire.com/thmb/ciOsPGTOpZBfelF3ekV7NuBD-CU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/apple_watch_reset-5c37c8c946e0fb0001282acb.jpg)  
 Apple, inc.
 3. After the display is dark for a few seconds, press and hold the side button again to power the Apple Watch on. The Apple logo should immediately appear on the screen. If not, wait a few more seconds and press and hold the side button again.  
  Rebooting the devices should solve most problems when your Apple Watch won't pair. If you are still having problems, it is time to dive into some deeper troubleshooting steps.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ## Check Your iPhone's Operating System for Updates
 
  It's a good idea to make sure you're on the most current version of your iPhone's operating system, especially before troubleshooting steps that require deleting information from the device.
@@ -74,6 +86,9 @@ Apple, inc.
 1. Launch the iPhone's**Settings** app.
 2. Select**General** \>**Transfer or Reset iPhone** .
 3. Tap**Reset** \>**Reset Network Settings** . You may be asked to type in your passcode to verify your request.  
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![The Reset Network Settings option on iPhone](https://www.lifewire.com/thmb/cyKZwhJdxs3xCa8665gh4lhsnNQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_fix-it-when-your-apple-watch-wont-pair-4583120-61774b8d5381427abab0479fd2c796af.jpg)
 
 ## My Apple Watch Won't Pair: What's Next?
@@ -90,6 +105,10 @@ Apple, inc.
 2. Choose**General.**
 3. Tap**Reset** .
 4. Select**Erase All Content and Settings** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![Erase All Content and Settings on the Apple Watch](https://www.lifewire.com/thmb/0ZE3KBt0DGOkYsTSN1EkbVcQx3E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_fix-it-when-your-apple-watch-wont-pair-4583120-5b0910e69aa940ceab0d23df503d6efa.jpg)
 
 ### On the iPhone
@@ -98,6 +117,9 @@ Apple, inc.
 2. From the**My Watch** tab, select**All Watches** at the top of the display to view your watch models.
 3. Tap the**i** icon next to the watch.
 4. Choose**Unpair Apple Watch** and then tap again to confirm.  
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Steps to unpair an Apple Watch from an iPhone in the Watch iOS app](https://www.lifewire.com/thmb/Rg5jH0Omdt_baioSEfOiLNm2vCQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_fix-it-when-your-apple-watch-wont-pair-4583120-0b423af25e184932a332aaa1166e84aa.jpg)
 
  If you still have problems pairing your Apple Watch to your iPhone after following these steps, it's time to contact Apple Support. You can[schedule an appointment at the Genius Bar](https://www.lifewire.com/how-to-make-an-apple-genius-bar-appointment-1999601) at an Apple retail location from the Support website or through the app.

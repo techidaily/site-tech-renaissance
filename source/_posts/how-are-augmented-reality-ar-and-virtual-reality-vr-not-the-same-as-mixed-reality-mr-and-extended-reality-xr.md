@@ -1,7 +1,7 @@
 ---
 title: How Are Augmented Reality (AR) and Virtual Reality (VR) Not the Same as Mixed Reality (MR) & Extended Reality (XR)?
-date: 2024-08-04 17:15:30
-updated: 2024-08-06 10:16:21
+date: 2024-08-05T02:11:40.627Z
+updated: 2024-08-06T02:11:40.627Z
 categories:
   - BestProducts
 description: This Article Describes How Are Augmented Reality (AR) and Virtual Reality (VR) Not the Same as Mixed Reality (MR) & Extended Reality (XR)?
@@ -12,10 +12,16 @@ thumbnail: https://www.lifewire.com/thmb/88-Pt0wzAnBrooGaJlJFNjx9hr4=/400x300/fi
 ## How Are Augmented Reality (AR) and Virtual Reality (VR) Not the Same as Mixed Reality (MR) & Extended Reality (XR)?
  If you've heard of immersive video games, virtual travel, or AR shopping, then you've no doubt run into labels like[augmented reality](https://www.lifewire.com/augmented-reality-ar-definition-4155104) (AR),[virtual reality](https://www.lifewire.com/virtual-reality-vr-definition-4155090) (VR),[mixed reality](https://www.lifewire.com/what-is-mixed-reality-4588766) (MR), and[extended reality](https://www.lifewire.com/what-is-xr-6951315) (XR). We've reviewed these terms in depth to learn what they mean and how they differ so you can have some clarity about which one is right for you.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![AR vs VR vs MR vs XR](https://www.lifewire.com/thmb/haZ8HZkdS_Tv-sa9eICNgfiamlU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AR-vs-VR-vs-MR-vs-XR-a878b5413fbe4d68b12a0173549a3cfb.jpg)
 
 Lifewire
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ## Overall Findings
 
 | AR                                                | VR                                               | MR                                                               | XR                                |
@@ -33,6 +39,9 @@ Lifewire
 
  The rest of this article doesn't include XR in the comparison tables because it's a term used to describe the other three. It's akin to comparing[computer hardware](https://www.lifewire.com/computer-hardware-2625895) with a mouse, keyboard, and webcam.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ## Technology: VR Blocks Your Vision, AR/MR Doesn't
 
 | AR                                                 | VR                           | MR                                                 |
@@ -45,6 +54,9 @@ Lifewire
 
  It works this way because AR and MR, as you'll read below, are designed to enhance and change what you're already doing and seeing around you, while VR is designed to replace reality with something completely fake.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ## Availability: AR Can Run Straight From a Phone
 
 | AR                                 | VR                                                         | MR                                                                     |
@@ -58,6 +70,9 @@ Lifewire
 
  Furthermore, there are plenty of free AR/MR apps, so no additional investment is needed to experience those XR types, which can't be said for virtual reality.  
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Immersion: VR Is the Clear Winner, MR Is Close
 
 | AR                                         | VR                                                              | MR                                                                |
@@ -71,6 +86,9 @@ Lifewire
 
  Mixed reality objects can be anchored in real space, meaning you can physically walk around them and often interact with them as if they were real. It creates a solid bridge between a completely real and a completely virtual environment.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ## Applications: VR/MR Excel in Education, VR in Entertainment
 
 | AR                     | VR                                             | MR                       |

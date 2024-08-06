@@ -1,7 +1,7 @@
 ---
 title: "From Novice to Pro: A Comprehensive Guide for Using Google's Measure App on Android Phones"
-date: 2024-08-05 18:38:25
-updated: 2024-08-06 10:38:25
+date: 2024-08-05T02:11:42.614Z
+updated: 2024-08-06T02:11:42.614Z
 categories:
   - BestProducts
 description: "This Article Describes From Novice to Pro: A Comprehensive Guide for Using Google's Measure App on Android Phones"
@@ -10,6 +10,9 @@ thumbnail: https://thmb.techidaily.com/800871781dded7ace3211c5534653c24a5267e768
 ---
 
 ## From Novice to Pro: A Comprehensive Guide for Using Google's Measure App on Android Phones
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ### What to Know
 
 * Install Google Measure. Choose a well-lit surface and move the phone until you see white dots. Select**Start Measuring** .
@@ -20,6 +23,9 @@ thumbnail: https://thmb.techidaily.com/800871781dded7ace3211c5534653c24a5267e768
 
  Google discontinued the Measure app in 2021, so this article exists only for historical purposes. There are dozens of similar[measurement apps for Android](https://www.lifewire.com/best-measurement-apps-for-android-4770629) available in the Play Store.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Use the Google Measure App
 
  Once you've installed the Google Measure app on your phone, it's easy to use. The first time will be a little different, because there are options you can set up (such as how you want Display Units displayed: imperial or metric). After that, you can jump straight into measuring things when you open the app.
@@ -34,6 +40,9 @@ thumbnail: https://thmb.techidaily.com/800871781dded7ace3211c5534653c24a5267e768
 5. Move your phone around to activate the measuring features.
 6. Once you see a series of white dots appear over the item you're measuring and the hand disappears, the app is ready.
 7. Tap**Start measuring** (if this is your first time using the app; otherwise, proceed to the next step). A yellow circle and dot appear on the screen.  
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![three dot menu, moving phone around, start measuring](https://www.lifewire.com/thmb/r-aSe4yRYS4qsDwVX4AByDreQ5M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-use-google-measure-on-android-4771692-9de5f34491064011a7b03d8483001400.jpg)
 8. Move the yellow dot to the starting point of your measurements by moving your phone. Tap the**+** **(Plus)** .
 9. Move the dot to the end point by moving your phone. The app shows the approximate distance between the start and end points.
@@ -41,14 +50,23 @@ thumbnail: https://thmb.techidaily.com/800871781dded7ace3211c5534653c24a5267e768
 11. To measure the height of an item, move the yellow dot to the starting point and tap the**Plus (+)** . A white dotted line will appear.
 12. Move your phone upwards to measure the height and tap the**Checkmark** .
 13. Tap the**Camera** icon to save your measurements to your Google Photos app.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![Measuring from the bottom of a door, the top of a door, and camera icon](https://www.lifewire.com/thmb/HYHSDqq0c_PApPjGs96NgjM2JJM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-to-use-google-measure-on-android-4771692-47f3152c24d94b3481dc310d9d7455fc.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ## How Google Measure Uses AR to Work
 
  The Google Measure app uses[ARcore](https://developers.google.com/ar) to translate real-world content virtually onto your phone. At a basic level, the[AR functionality](https://www.lifewire.com/applications-of-augmented-reality-2495561) in Android is tracking the position of your mobile device as it moves, then builds its own version of the real world. From there, it can use the digital recreation to insert virtual images, items, and more from the app that's using it.
 
  For example, you might try redecorating your living room with the AR feature of the[Amazon Shopping app](https://play.google.com/store/apps/details?id=com.amazon.mShop.android.shopping) to see how furniture would look in your house. That way, you can visually decide if the new furniture will work in the space that's available to you.  
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Improve the Accuracy of Google Measure
 
  There are a few tips you can use to increase the accuracy of the Measure app on your phone, including:

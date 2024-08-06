@@ -1,7 +1,7 @@
 ---
 title: Learn How to Enjoy Hulu On Demand with Your LG Smart Television Setup
-date: 2024-08-03 16:46:23
-updated: 2024-08-06 11:33:18
+date: 2024-08-05T02:11:45.816Z
+updated: 2024-08-06T02:11:45.816Z
 categories:
   - BestProducts
 description: This Article Describes Learn How to Enjoy Hulu On Demand with Your LG Smart Television Setup
@@ -10,6 +10,9 @@ thumbnail: https://www.lifewire.com/thmb/xEKz_S9q2Ck80fxvubEw9sMr5BY=/400x300/fi
 ---
 
 ## Tune in to Sports with ESPN Plus on Your LG Smart TV - Setup Tips Included
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ### What to Know
 
 * There's no ESPN+ app for LG TVs, so you'll need to use a streaming box or hook your computer up to the TV.
@@ -18,6 +21,13 @@ thumbnail: https://www.lifewire.com/thmb/xEKz_S9q2Ck80fxvubEw9sMr5BY=/400x300/fi
 
  This article explains how to get ESPN Plus on LG smart TVs. The instructions apply to all LG models.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ## How Do I Get ESPN+ on an LG Smart TV?
 
  There's no ESPN+ app for LG Smart TVs, so you must connect another device capable of streaming ESPN Plus.
@@ -32,12 +42,18 @@ thumbnail: https://www.lifewire.com/thmb/xEKz_S9q2Ck80fxvubEw9sMr5BY=/400x300/fi
 
  You'll need a converter if your computer only has a DVI or VGA port and your TV only accepts HDMI cables. If you're not using an HDMI cable, you'll require an adapter (such as a 3.5mm-to-RCA cable) that plugs into your speaker port and splits it into the audio component cable.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Cast ESPN+ From the Google Chrome Browser
 
  First,[connect your TV to the same Wi-Fi network](https://www.lifewire.com/connect-smart-tv-to-wifi-4587350) as your computer. Go to the ESPN+ website, start playing content, then select the**Cast** icon in the upper-right of the video player and choose your LG TV.
 
  If your TV doesn't have built-in Wi-Fi, you can[add Wi-Fi to your TV](https://www.lifewire.com/internet-enable-your-tv-3276356) with an internet-enabled Blu-ray player or video game console.  
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Cast ESPN+ to a TV From the Mobile App
 
  Ensure your mobile device and LG TV are connected to your home Wi-Fi network. Start playing content in the app, select the**Cast** icon in the upper-right of the video player, then choose your LG TV.
@@ -46,8 +62,14 @@ thumbnail: https://www.lifewire.com/thmb/xEKz_S9q2Ck80fxvubEw9sMr5BY=/400x300/fi
 
  Even if your TV is already smart, you can connect other streaming devices or set-top boxes by plugging them into the HDMI port on your LG TV. Download the ESPN+ app for your Roku, Apple TV, Xfinity, or Amazon Fire TV streaming device to start watching on your TV. Depending on your device, you may be prompted to connect your ESPN+ account to your TV with an activation code.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The LG logo on a black background next to the ESPN+ logo on a white background with a torn-paper effect between them](https://www.lifewire.com/thmb/H8yCqpLCbXU4xF2tZcRN0Yqu5XU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-ESPN-Plus2-5a613f28564249e38ef803888f21e257.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## Watch ESPN+ on a Gaming Console
 
  ESPN+ has apps for the current and previous generations of PlayStation and Xbox video game consoles. You can watch ESPN+ on PS4, PS5, Xbox One, Xbox Series X, or Xbox Series S systems.

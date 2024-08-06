@@ -1,7 +1,7 @@
 ---
 title: "Reclaiming Memories: A User’s Tutorial to Locate Stored Reels on Instagram"
-date: 2024-08-03 18:23:48
-updated: 2024-08-05 10:18:58
+date: 2024-08-05T02:11:50.984Z
+updated: 2024-08-06T02:11:50.984Z
 categories:
   - BestProducts
 description: "This Article Describes Reclaiming Memories: A User’s Tutorial to Locate Stored Reels on Instagram"
@@ -13,6 +13,9 @@ thumbnail: https://thmb.techidaily.com/d560431f923ced226ef363014bbd59707b7820d52
 
 Close 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  What to Know
 
 * To find saved reals, open your profile and go to**menu** \>**Saved** \>**All Posts** \>**Reels** .
@@ -20,6 +23,9 @@ Close
 
  This article will show you how to see the reels you have saved and liked on Instagram.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to See Saved Reels 
 
  Everyone can[ create and share Instagram reels](https://www.lifewire.com/create-share-and-watch-instagram-reels-5075347) . Here's where to find your collection of saved reels in the app:
@@ -29,8 +35,14 @@ Close
 ![Instagram with profile, menu, and Save highlighted](https://www.lifewire.com/thmb/yQEYtXTInCIqOe3csW9FWPvIng8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Saved-d879b8d2fee44ba5a0431b4dd05dfedc.jpg)
 3. Open the**All Posts** album.
 4. Select the clapperboard icon.  
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Instagram with All Posts, thumbnail, and reel icon highlighted](https://www.lifewire.com/thmb/5L9VaOlvYPxifnrJgcP6s_JRnsU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Allposts-77fa855bc1094b4689ee3a8c7b2e7d61.jpg)
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ##  How to See Liked Reels 
 
  Instagram bunches all your likes in one view, so there is no clear filter to separate your photos, reels, and videos. But you can use these steps to narrow down your liked reels:
@@ -38,8 +50,14 @@ Close
 1. Tap the**profile** icon at the bottom of the app.
 2. Select the**menu** at the top right.
 3. Tap**Your activity** .  
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Instagram with profile, menu, and Your Activity highlighted](https://www.lifewire.com/thmb/Zf3LLgW9iX6vNnW_e9LEFtvISko=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YourActivity-340e15bbecb34b00acc78cc37ef210e4.jpg)
 4. Choose**Likes** from the**Interactions** section.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![Instagram Activity with Interactions, Likes, and reels highlighted](https://www.lifewire.com/thmb/ALoHlh23szTpJ2h6OxsGkmAcT9s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Interactions-d0c085c7e11f4ae7bd53ceec00871091.jpg)
 5. Tap any thumbnail, or choose**All content types** to filter out posts or reels.  
 ![Reels and Videos on Instagram](https://www.lifewire.com/thmb/00siQqtXUVRm0e2YBvqTFFeed38=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Reells-Stories-Instagram-c543e73f0b714f1191a822259532239b.jpg)  

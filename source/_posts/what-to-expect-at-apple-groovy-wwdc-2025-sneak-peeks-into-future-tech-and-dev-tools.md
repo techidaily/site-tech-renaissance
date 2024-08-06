@@ -1,7 +1,7 @@
 ---
 title: "What to Expect at Apple' Groovy WWDC 2025: Sneak Peeks Into Future Tech & Dev Tools"
-date: 2024-08-03 23:43:33
-updated: 2024-08-06 12:43:34
+date: 2024-08-05T02:11:50.130Z
+updated: 2024-08-06T02:11:50.130Z
 categories:
   - BestProducts
 description: "This Article Describes What to Expect at Apple' Groovy WWDC 2025: Sneak Peeks Into Future Tech & Dev Tools"
@@ -44,6 +44,9 @@ thumbnail: https://thmb.techidaily.com/f26a59464f8e574e044648e6cdc81caf2b237e34a
 
  The Worldwide Developer Conference (WWDC) is always free to attend online, with a free stream of the event directly from Apple's website.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Expected Product Announcements
 
  At WWDC 2025, we expect a full roster of software announcements for iOS, iPadOS, macOS, and others. Apple typically announces the new software and opens betas before the new operating systems launch in the fall.
@@ -83,6 +86,9 @@ thumbnail: https://thmb.techidaily.com/f26a59464f8e574e044648e6cdc81caf2b237e34a
 
 Apple, Inc
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### iOS 18
 
  The big updates to[iOS 18](https://www.lifewire.com/ios-18-8552216) include the ability to personalize your Home screen, including app layout, icon size, and color, along with a hugely updated Control Center.
@@ -91,16 +97,25 @@ Apple, Inc
 
  Messages updates let you stylize text with bold, italics, underlines, and more; you can also schedule texts to be delivered later. The app will also support RCS for better texting with Android owners.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ### iPadOS 18
 
  The iPad is getting the same updates to Photos, Messages, and more as iOS.[iPadOS 18](https://www.lifewire.com/ipados-18-8558715) also has its own upgrades, like a Notes app that will clean up your handwriting. The refined Calculator app will also show a history of your calculations and solves equations as you type or write them.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### macOS 15 (Sequoia)
 
  Macs will also get some new abilities with[macOS 15, named Sequoia](https://www.lifewire.com/macos-15-8557761) . The big news here is iPhone integration. You can get app notifications directly on your Mac and even run your phone directly from the bigger screen.
 
  Window tiling is also getting an update. Instead of arranging windows to the left or right, you can put them in the corners, which means you can quickly tile four apps or documents at a time. Holding down the Option key shows you some layout options.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### tvOS 18
 
  The[new tvOS](https://www.lifewire.com/tvos-18-8599054) aims to be smarter with audio. If you have a 4K Apple TV, you can use improved dialogue boosting using machine learning to make sure you can always tell what people are saying. This feature will also work with external speakers and receivers and not just HomePods.
@@ -123,6 +138,9 @@ Apple, Inc
 
  Finally, the Training Load option is for athletes preparing for events. It keeps an eye on your workouts and identifies trends to make sure you're making progress and not overdoing it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ## The Latest News About Apple
 
  While you can always [read the latest technology news on Lifewire](https://www.lifewire.com/news-4795879) , here are some pieces of interest involving Apple in particular.

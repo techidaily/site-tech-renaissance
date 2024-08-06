@@ -1,7 +1,7 @@
 ---
 title: "Exploring the History of Google's Messaging and Video Call Platform: Hangouts"
-date: 2024-08-05 10:10:32
-updated: 2024-08-06 10:51:13
+date: 2024-08-05T02:11:40.241Z
+updated: 2024-08-06T02:11:40.241Z
 categories:
   - BestProducts
 description: "This Article Describes Exploring the History of Google's Messaging and Video Call Platform: Hangouts"
@@ -14,6 +14,9 @@ thumbnail: https://thmb.techidaily.com/668fe014e6bae21be4d1f17bf36923c523f3242cb
 
 [10 Instant Messaging Services That Used to Be Popular](https://www.lifewire.com/once-popular-old-instant-messaging-services-3486135)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ## Google Hangouts Features
 
  In its basic form, Google Hangouts was a text messaging platform. From a computer or phone, you could call and text people, send emojis and media files, and browse videos with its built-in video search function.
@@ -28,8 +31,14 @@ thumbnail: https://thmb.techidaily.com/668fe014e6bae21be4d1f17bf36923c523f3242cb
 * The app let you send your current location.
 * Conversations could be favorited and listed first for easy access.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of Google Hangouts](https://www.lifewire.com/thmb/cJIiqK-nrvvPS18iwZ9_hDmK_aU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/google-hangouts-5b40d83f46e0fb003743e320.PNG)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ## Is There a Google Hangouts Replacement?
 
  Google has other similar services like[Google Chat](https://chat.google.com/) and Google Voice. Both are free and share lots of the same features as Google Hangouts. You can make free calls to any phone with Voice and text with other Google users with Chat. There's also[Google Meet](https://meet.google.com/) for one-on-one or group meetings.

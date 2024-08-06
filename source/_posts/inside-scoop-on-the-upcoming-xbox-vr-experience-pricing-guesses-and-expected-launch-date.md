@@ -1,7 +1,7 @@
 ---
 title: Inside Scoop on the Upcoming Xbox VR Experience - Pricing Guesses and Expected Launch Date
-date: 2024-08-03 21:54:27
-updated: 2024-08-06 11:28:24
+date: 2024-08-05T02:11:12.534Z
+updated: 2024-08-06T02:11:12.534Z
 categories:
   - BestProducts
 description: This Article Describes Inside Scoop on the Upcoming Xbox VR Experience - Pricing Guesses and Expected Launch Date
@@ -22,6 +22,9 @@ thumbnail: https://www.lifewire.com/thmb/N5JaDVaX6Ht6yhfag2SfjJUOUqI=/400x300/fi
 
  The Xbox VR Headset is in the works. It's the first confirmed third-party headset built on Meta's open-source Meta Horizon OS, now open to and in use by other tech companies—including Asus, Lenovo, and ROG. Beyond a[ confirmation from Meta](https://www.meta.com/blog/quest/meta-horizon-os-open-hardware-ecosystem-asus-republic-gamers-lenovo-xbox/) about a "limited-edition Meta Quest, inspired by Xbox," details are slim. But here's what we know and speculate about this first-ever VR Headset for Xbox.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  When Will the Xbox VR Headset Be Released? 
 
  The Xbox VR Headset release date hasn’t been announced yet, but judging by the announcements of the Meta Quest 2, Meta Quest Pro, and Meta Quest 3, we think it’s safe to expect an October release of the VR Headset for Xbox.
@@ -32,6 +35,9 @@ thumbnail: https://www.lifewire.com/thmb/N5JaDVaX6Ht6yhfag2SfjJUOUqI=/400x300/fi
 
  We might know more availability specifics if and when the Meta Quest Gaming Showcase happens (no word yet about dates). Last year’s event was announced in May and held June 1.  
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ###  Lifewire's Release Date Estimate
 
  An early October 2024 Xbox VR Headset release date is a fair bet based on past Meta Quest releases.
@@ -40,16 +46,25 @@ thumbnail: https://www.lifewire.com/thmb/N5JaDVaX6Ht6yhfag2SfjJUOUqI=/400x300/fi
 
  Pricing information isn’t yet circulating, but we’ll make sure it lands here as soon as there’s more chatter or official word.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ## Pre-Order Information 
 
  No pre-order details for the Xbox VR Headset are available at this point, though we know it’s billed as a limited-edition model. As soon as we learn more, we’ll update this story with details.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Xbox VR Headset Features 
 
  Much like everything else related to this forthcoming Xbox VR Headset, we’re still waiting on details about which features this device will offer. 
 
  Here are a few clues about the look and functionality based on Meta’s Horizon OS announcement.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Built with Meta Horizon OS label.](https://www.lifewire.com/thmb/8RsIhPXACIuKmLBSxjTJJGIZO_s=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/meta-horizon-os-announcement-1fea7d89b3e04280872bbe45b2a1afa6.png) 
 
 Meta
@@ -68,6 +83,9 @@ Meta
 * 3D spatial audio
 * [ Mixed reality](https://www.meta.com/blog/quest/mixed-reality-definition-passthrough-scene-understanding-spatial-anchors/) with RGB cameras.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.lifewire.com/data:image/svg+xml,%3Csvg width=%273000%27 height=%271000%27 xmlns=%27http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E) ![Patent sketches for a Microsoft mixed-reality headset](https://www.lifewire.com/thmb/5-feBQK2PypVrm-2Vb0Dnc5tXUU=/1500x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Patent-Sketches-Microsoft-Headset-1fce31ef622f4dda9d9b741cf8446fa3.jpg) 
 
  PHOTO:

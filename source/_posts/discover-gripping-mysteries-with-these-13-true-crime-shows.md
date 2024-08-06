@@ -1,7 +1,7 @@
 ---
 title: Discover Gripping Mysteries with These 13 True Crime Shows
-date: 2024-08-04 17:11:30
-updated: 2024-08-06 10:26:52
+date: 2024-08-05T02:11:48.553Z
+updated: 2024-08-06T02:11:48.553Z
 categories:
   - BestProducts
 description: This Article Describes Discover Gripping Mysteries with These 13 True Crime Shows
@@ -19,8 +19,14 @@ Close
 
 of 13
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## [ Best True-Crime Podcast of a Cold Case: West Cork](https://www.westcorkpodcast.com/) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ![An episode of the West Cork podcast](https://www.lifewire.com/thmb/45lCwQB-6Kc9blBJHkQtsiYV8aA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/west-cork-podcast-6a252d9f145444e0a3b1ed6d233b68c5.png) 
 
  What We Like
@@ -70,6 +76,9 @@ of 13
 
 ## [ Best Podcast for White-Collar Crime: Swindled](http://swindledpodcast.com/) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![The Swindled podcast's website](https://www.lifewire.com/thmb/zv5iLpTvW-Y0MzVY3p1Q6iTgH4I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/swindled-podcast-f1c82a2d461d4898abf8343a667421f3.png) 
 
  What We Like
@@ -93,6 +102,9 @@ of 13
 
 of 13
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ## [ A True-Crime Podcast That Tackles Flawed Investigations: In the Dark](https://features.apmreports.org/in-the-dark/) 
 
 ![In the Dark podcast](https://www.lifewire.com/thmb/gxNL1Azu-uAiaQDsrx4nYVNnq04=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-best-true-crime-podcasts-4165864-d225bd426fa94284bf65f6bc977dbeb5.jpg) 
@@ -116,8 +128,14 @@ of 13
 
 of 13
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ## [ A True-Crime Podcast for Fans of The Wire: Crimetown](https://gimletmedia.com/shows/crimetown) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![A summary of the Crimetown podcast](https://www.lifewire.com/thmb/HD9r6gw7iZ6-oPPuZATGG5Ld188=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/crimetown-2cf84268762b4e3383c84d9a6e491567.png) 
 
  What We Like
@@ -143,6 +161,9 @@ of 13
 
 ## [ A Fascinating Podcast for Unsolved Crime Fans: Atlanta Monster](https://atlantamonster.com/) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![Atlanta Monster podcast](https://www.lifewire.com/thmb/2WOtojt5iuS-sYghn21faxnzs6Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-05-30at12.37.05-5b0e8cfb1d6404003786c847.png) 
 
  What We Like
@@ -192,8 +213,14 @@ of 13
 
 of 13
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ## [ Unsettling Murder Stories for Horror Enthusiasts: Casefile](https://casefilepodcast.com/) 
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Casefile podcast](https://www.lifewire.com/thmb/rAL5zZT5hA44_2JRex5nGWHBXLU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/012-best-true-crime-podcasts-4165864-d9f60f77e6a44b44a9ddc212ef2267bf.jpg) 
 
  What We Like
@@ -267,6 +294,9 @@ of 13
 
 of 13
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [ A True-Crime Podcast on the Extreme End of the Spectrum: Sword and Scale](https://www.swordandscale.com/) 
 
 ![Sword and Scale podcast](https://www.lifewire.com/thmb/NDAu7ZuFnnxs6aKohAbmVkV7Q5M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/011-best-true-crime-podcasts-4165864-85cb78cdfe2e400bbfc9f8194ccaa3df.jpg) 
@@ -291,8 +321,14 @@ of 13
 
 of 13
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ##  A Podcast Exploring America's Largest Ever Mass Suicide: Heaven's Gate 
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Heaven's Gate podcast](https://www.lifewire.com/thmb/BTxVS0Zx5jvQ5d8rhWdQDBmy8Gs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008-best-true-crime-podcasts-4165864-770738bdf98e481ea9fe72657a2e82a4.jpg) 
 
  What We Like

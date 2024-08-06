@@ -1,7 +1,7 @@
 ---
 title: "Beginner's Guide: Mastering the Basics of 'Pokémon Go' Gaming"
-date: 2024-08-02 19:16:57
-updated: 2024-08-05 10:53:22
+date: 2024-08-05T02:11:27.269Z
+updated: 2024-08-06T02:11:27.269Z
 categories:
   - BestProducts
 description: "This Article Describes Beginner's Guide: Mastering the Basics of 'Pokémon Go' Gaming"
@@ -26,13 +26,22 @@ Close
 
 1. Open the_Pokémon Go_ app and respond to any pop-ups that appear for things like notifications (not necessary), location sharing (necessary for gameplay), etc.
 2. When prompted, enter your date of birth and tap**Submit** . Select**New Player** if this is your first time playing or**Returning Player** if you’ve previously played the game.  
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Pokemon GO age entry, location permissions, and New Player screens](https://www.lifewire.com/thmb/_BV7h0RApnSvWexJePQ-sHWsCTE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Pokemon-Go-getting-started-0d95ef33cf84415491fe43f74afa8e61.jpg)
 3. Choose a method of logging in: Facebook, Google, or Pokémon Trainer Club. If you’re using an iPhone, you can also choose to sign in with Apple or Niantic Kids.
 4. Follow the prompts to either log in with your chosen method or set up a new account.
 5. Once you’re signed in and the app has the necessary permissions, choose your in-game character’s look from available presets. You can change this later if you want.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Pokemon GO screens for login options (Android, iOS) and preset character choices](https://www.lifewire.com/thmb/GbX5l852UaODUA4o96UfPUn_pos=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sign-in-1b0fe1fd739e49d18b43f2038fc867f4.jpg)
 6. After Professor Willow’s introduction, you’ll need to accept Niantic’s privacy policy (tap**OK** ) and the terms of service (tap**Accept** ).
 7. On the next screen, tap**Continue** to start playing or select**Have a referral code?** to enter a friend’s referral code.  
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Pokemon GO screenshots for Privacy Policy, referral code entry, and Terms of Service](https://www.lifewire.com/thmb/OqcU68BSPPbu8I4BFh4poDNRlAI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Finishing-79b2228ee30e4acfa01fabc28b64c126.jpg)
 
  The Android and iOS setup experiences are slightly different. Some options and pop-ups may appear in a different order, while some may not appear at all depending on the platform.
@@ -49,6 +58,9 @@ Close
 5. Tap the**check** icon at the bottom of the screen to continue.
 6. A pop-up will appear, asking you to choose a nickname for your character. Tap**Nickname** in the text window and type in the name you want to use (this might take a few attempts if the name you want is already taken). Tap**Yes** to submit your nickname.
 7. When prompted, choose whether or not to allow[ Adventure Sync](https://www.lifewire.com/what-is-pokemon-go-adventure-sync-4689082) (let the app monitor your movement, gather items, count distance, etc while closed).  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![captured pokemon stats screen, nickname entry, and Adventure Sync pop-up](https://www.lifewire.com/thmb/rJ2Nt54yfWWI3eYYg4akTk3r_3o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Starting-Pokemon-Go-72f7c6199a7445c394624fdbd701782a.jpg)
 8. _Pokémon Go_ may also ask to access your fitness data. If the pop-up appears, tap**Allow** to give it access or**Don’t Allow** to block it. You can play the game even if you don't share this data.
 9. If you choose to allow access, tap the toggle next to each option to add one or more specific forms of tracking. You can also tap**Turn On All** to allow all of them.  
@@ -64,6 +76,9 @@ _Pokémon Go_ requires that players move around the real world to travel to diff
 2. You’ll see the Pokémon’s name and Combat Power points in a bubble just above its head. If this is your first time seeing a specific Pokémon, its Combat Power will show as "???."  
  In basic terms, Combat Power determines the Pokémon’s overall power in a fight (how much damage it can do to opposing Pokémon when attacking).
 3. Time your throws with the shrinking ring that appears around the Pokémon for[ experience bonuses](https://www.lifewire.com/gain-xp-and-level-up-fast-in-pokemon-go-5074937) (the smaller the ring when the ball connects, the better the bonus).  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![A wild PokÃ©mon on the PokÃ©mon Go map, along with its CP rating and the capture circle](https://www.lifewire.com/thmb/QtQZMrXT463rfEvv1iBAE5EY3Js=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Capturing-Pokemon-19fbf967a7844cd591caacd473139343.jpg)
 4. The color of the ring that moves around the Pokémon may give you a vague idea of how likely it is to break out of the ball when you try to catch it. Green is fairly easy to catch, orange can be a bit wily, and red might require several attempts or a stronger Poké Ball.
 5. While on the capture screen, tap the**Poké Balls** icon in the bottom-right corner to change ball types (if you have any others).
@@ -90,6 +105,9 @@ _Pokémon Go_ requires that players move around the real world to travel to diff
  You can only have three Remote Raid Passes in your inventory at once.
 5. Tap the**Weather** icon in the top-right corner to check current conditions and see which Pokémon types may appear more often (and with better stats).
 6. Tap the**Adventure Incense** icon in the top right to use your daily incense. Adventure Incense can make wild Pokémon appear around your character for 15 minutes of real time.  
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![The map screen, weather report, and daily Adventure Incense option in PokÃ©mon Go](https://www.lifewire.com/thmb/GHZ0t00HJU2FMtQ3m-47AbXbaTA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Map-screen-weather-report-daily-incense-b462e34ee2dc4d209bda01407a7c1fde.jpg)
 7. Tap the**Compass** icon in the top-right corner to lock the camera to the direction your character is facing.
 8. Tap your**Character** icon in the bottom left to view your character details, including appearance, walking distance, number of Pokémon caught so far, and more.
@@ -101,6 +119,9 @@ _Pokémon Go_ requires that players move around the real world to travel to diff
 11. You can also tap the**Raid** tab to see what raids are happening nearby.
 12. Tap the Pokémon or raid you want to locate, and the map will zoom in on the location temporarily to give you an idea of what direction to go in.
 13. The**Route** tab lets you follow an approved route or submit your own. Routes act as preset paths you can follow to sometimes find additional Pokémon, earn rewards, and more.  
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![nearby pokÃÂ©mon, nearby raids, and the Routes selection screen in PokÃ©mon Go](https://www.lifewire.com/thmb/0gaCd4qaQHvsyIC-4-arnWnsW5M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Map-Screen-f56ea3cfb413431bab01c2d25477e392.jpg)
 
  You’ll regularly earn all sorts of items (poké balls, berries, potions, stardust, etc) from PokéStops, Gyms, and catching pokémon.
@@ -132,8 +153,14 @@ Charged Attacks build up over time.
 2. When visiting a gym with an active raid boss, choose**Battle** to start or join a team battle, or select**Private Group** to avoid battling with strangers.
 3. Prepare for the raid by tapping**Items** to use items or**Quit** to abandon the battle. Select one of your Pokémon to set up your team.
 4. Select**Ready** to let the other participants know you’re set. Keep an eye on the timer at the top of the screen—the battle will begin when it hits zero, whether you’re ready or not.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Gym with raid boss, raid battle prep screen, pokÃÂ©mon team setup before a raid](https://www.lifewire.com/thmb/fKmFjo3OQ8E5YnDNWcvCjXjjMTE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Raid-battle-084c6957caa842cb8274d2d9fd2e640b.jpg)
 5. Winning a fight against a raid boss will earn you special Poké Balls that you can use to attempt to catch the boss Pokémon you just defeated. Capturing raid boss Pokémon works the same as regular catching, though it's often more difficult to succeed.  
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ![fighting a raid boss, earning special pokÃÂ© balls from raid battle, attempting to capture raid boss pokÃÂ©mon](https://www.lifewire.com/thmb/4PyQbXpFyXjaSRDw_qV7l8xfbsQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Raid-Battle-2-03184c9960b04c6da76adaa174275a0e.jpg)
 6. Raids require**Raid Passes** to participate, which you can earn in a few different ways:  
    * **Regular Raid Passes** : You earn one per day with an inventory limit of one and collect them from a gym just like items from a PokéStop. Use them to access Tier 1 through Tier 5 raids.  
@@ -148,6 +175,9 @@ Charged Attacks build up over time.
 
 * Trade duplicate Pokémon for candy. If you have more than one of the same type of Pokémon, you can trade the "extra" ones for items. Select the**Poké Ball** icon >**Pokémon** \> select the Pokémon you want to exchange, and then go to**Menu** \>**Transfer** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![The More menu, Transfer command, and confirmation button in PokÃ©mon Go](https://www.lifewire.com/thmb/vIm_FNL1B4rVJScz7IkSr_1GLck=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Transfer-Pokemon-c9c3209ffe5d4d3399df32b68f9f2b08.jpg) 
 
 * Spend candy and stardust to make your Pokémon stronger. Tap the**Poké Ball** icon > select**Pokémon** \> choose the Pokémon you want to improve. Then, tap**Power Up** and then decide how much to spend improving your Pokémon. Select “**+** ” to use more candy and stardust for a larger boost, and then select**Power Up** again and tap**Yes** to confirm.
@@ -156,12 +186,18 @@ Charged Attacks build up over time.
 
  You always have one infinite incubator, but if it’s already got an egg in it you’ll have to either wait or use a one-time use incubator. You can buy more incubators from the in-game shop using real money.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![egg menu, egg details page, choosing an incubator in PokÃ©mon Go](https://www.lifewire.com/thmb/zYPU23fbDkrE_MRCflCywZ7-WUA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Egg-Hatching-6427e00370b74f478487ad7bec3245c4.jpg) 
 
 * Currently incubating eggs appear in an incubator in the egg list, with the number of km traveled (and km needed to hatch) displayed below them. Move around the real world with the_Pokémon Go_ app open to progress towards hatching your incubated eggs. If Adventure Sync is turned on, distances traveled when the app isn’t open will also be counted.
 * Revives are necessary for waking up any Pokémon that have been defeated in battle. Select the Revive item, and then tap on a downed Pokémon to revive it. You can also tap**Revive All** at the bottom of the screen to use multiple revives to wake all of your fainted Pokémon at once—if you have enough items for it.
 * Use potions to replenish Pokémon HP lost during battles. Tap the potion item, and then select an injured Pokémon to use it on, or tap**Heal All** at the bottom of the screen to use multiple potions at once.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![Items screen, using a Revive, using a Potion](https://www.lifewire.com/thmb/Bu9PsSYTjVPNfg97JKMQKsU_5XI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Revive-bb9253eb5dfc4bb5af697305749541b9.jpg) 
 
  Each Pokémon can only be powered up or evolved using candy from the exact same type of Pokémon. For example, Pikachu can only use Pikachu Candy, Furret requires Furret candy, and so on.  

@@ -1,22 +1,28 @@
 ---
 title: How to Buy a TV For Your Home
-date: 2024-08-02 12:54:32
-updated: 2024-08-05 10:13:40
+date: 2024-08-05T02:11:20.116Z
+updated: 2024-08-06T02:11:20.116Z
 categories:
   - BestProducts
 description: This Article Describes How to Buy a TV For Your Home
 excerpt: This Article Describes How to Buy a TV For Your Home
-thumbnail: https://www.lifewire.com/thmb/iQjRSYdl3d8RlM-9oprGSEgt6gU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-667603173-fac0b8f4b1d9453c866d332dc73821f8.jpg
+thumbnail: https://thmb.techidaily.com/f47c079fa1fce90a8221b9c2c003a393b4231e2fbb42dbd4e99eb8971ba63ab6.jpg
 ---
 
 ## Want to Know Your Email? Here's How
  What's my email? The steps you take to find out what email address people see when you email them depend on the service or email program you use. Below are general instructions as well as specific instructions for[popular email providers](https://www.lifewire.com/best-free-email-accounts-1356641) .
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## General Instructions for Finding Your Email Address
 
  The easiest way to identify your email address in almost any desktop program or online email client is to start writing a new message. Here's how:
 
 1. Start a new email message. This usually works by selecting a Compose, New, or Write button.  
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Write button in Thunderbird to create a new email](https://www.lifewire.com/thmb/Vfi5wXvY3RcT222hngh898Ip2Nc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_what-is-my-email-address-00513893073547b297e3c0a404898612.jpg)
 2. Look for a line that begins with**From** . It contains your email address.  
 ![From field in Thunderbird on macOS](https://www.lifewire.com/thmb/U286s-oO_Fk2Ih1u8Rl4JwZ94nQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_what-is-my-email-address-5ac0b8ce371249c3a9b9c65b9aa9a778.jpg)
@@ -29,25 +35,44 @@ thumbnail: https://www.lifewire.com/thmb/iQjRSYdl3d8RlM-9oprGSEgt6gU=/400x300/fi
  An echo service is another way to see what email address you're using. This method is typically used to[test whether your email is working properly](https://www.lifewire.com/how-to-test-your-email-address-1171119) , but as an added bonus, part of the response you receive includes your email address. Here's how this works:
 
 1. Compose a new email and enter**<echo@univie.ac.at>** in the**To** field. No subject line or message is necessary.  
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![echo@univie.ac.at written in the To field on Gmail](https://www.lifewire.com/thmb/GbiaW6sWyAx6xEocHTKbiUO_u3M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/echo-service-email-address-cc85da0c64e2479597ca3526c779ae58.png)
 2. Select**Send** .
 3. Wait for the automated response. The recipient line says**Echo** and the subject line says**Automatic Response from <echo@univie.ac.at>** .
 4. Open the email and scroll down a bit until you see the**Received** section. In there is a line like this that shows your email address:  
  `(envelope-from <youremail@example.com>)`  
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The envelope-from line of an email from an echo service](https://www.lifewire.com/thmb/gCh4kvgz6_QI92rzFbzHe4sLj5o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/gmail-echo-service-214a8fb2631d4aed8f480e8d6135d44f.png)
 
  Other methods can be used to find your email but they vary depending on the service you use.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is My AOL Email Address?
 
  Follow these steps to find your email address on the AOL Mail website:
 
 1. Start a new message by selecting**Compose** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ![A screenshot of AOL Mail with the Compose button highlighted](https://www.lifewire.com/thmb/2Dt1Y1rVWnLSWILtG_5dJ_HYzB4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-what-is-my-email-address-4143261-8291829a4ba14dbf89f25d65c99ec4f0.jpg)
 2. See the default sending email address after your name above the **To** line.
 3. If when you select your primary email, you see more than one address, pick the one you prefer to use.  
 ![Two AOL email addresses on the From line of a new message window](https://www.lifewire.com/thmb/r7wwvCxbM1k_MsyaYfiqtoaQMyc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/aol-email-address-044f3d620b614520a8c9a07358cb673d.png)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is My Email Address in Mail for Windows?
 
  Some versions of Windows include an app called Mail. Here's how to see the email address tied to that program:
@@ -58,6 +83,9 @@ thumbnail: https://www.lifewire.com/thmb/iQjRSYdl3d8RlM-9oprGSEgt6gU=/400x300/fi
 2. See each account's email address listed under the account name in the **Accounts** section.  
 ![A screenshot of Windows Mail with the Accounts section highlighted](https://www.lifewire.com/thmb/ve6D8gJ0f9vvg6sU8CfT2ngGMgo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-what-is-my-email-address-4143261-0a4cf655a6534efbb4dc1be3ae3c5609.jpg)
 3. Another method is to select the settings/gear icon at the bottom of the menu and then choose**Manage accounts** . This shows all the accounts you've added to Mail.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The settings panel open in Mail for Windows](https://www.lifewire.com/thmb/2uu35i0MEURVDVNOGcYs5GcIKKs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mail-settings-windows-6e01fdcc084342628433eccbf79cd3a3.png)
 
 ## What Is My Gmail Email Address?
@@ -76,6 +104,9 @@ thumbnail: https://www.lifewire.com/thmb/iQjRSYdl3d8RlM-9oprGSEgt6gU=/400x300/fi
 
 [Gmail](https://www.lifewire.com/best-gmail-tips-tricks-and-tutorials-1172146)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ## What Is My iCloud Mail Email Address?
 
  You can use one of your Apple devices to see your iCloud email address. Go to**Settings** \>**Mail** \>**Accounts** \>**iCloud** \>**iCloud** \>**iCloud Mail** .
@@ -102,6 +133,9 @@ thumbnail: https://www.lifewire.com/thmb/iQjRSYdl3d8RlM-9oprGSEgt6gU=/400x300/fi
 2. Tap**Mail** .
 3. Choose**Accounts** .
 4. Tap an account, such as**iCloud** or**Gmail** , to view the email address.  
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Email accounts listed in the Mail section of the Settings app on an iPad](https://www.lifewire.com/thmb/EJboMSBLqeBsXbvUH6U4t5fiat0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ipad-mail-accounts-07c0b45d2960467981a3ce47936395e6.jpg)
 
 ## What Is My Email Address in Outlook
@@ -111,6 +145,9 @@ thumbnail: https://www.lifewire.com/thmb/iQjRSYdl3d8RlM-9oprGSEgt6gU=/400x300/fi
 1. Select the**Settings/gear** icon at the top right of the app.
 2. Go to**Accounts** \>**Email accounts** .
 3. All the email addresses linked to your Outlook program are listed here.  
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![An email address listed in the settings for the Windows Outlook app](https://www.lifewire.com/thmb/ff1hZyE20dMdSPf4XXIliPwYy9Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/outlook-windows-email-accounts-af899f9f5a2440c7acaa70c46925ad24.png)
 
  If you're using Outlook for Mac, use these instructions to determine your email address:
@@ -121,16 +158,25 @@ thumbnail: https://www.lifewire.com/thmb/iQjRSYdl3d8RlM-9oprGSEgt6gU=/400x300/fi
 
  To find out about your email addresses in Outlook for iOS and Android, start composing a new email and you'll see the default email address listed under**New Message** at the top. If you have several accounts configured, tap the default address to see all options.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## What Is My Yandex Mail Email Address?
 
  Finding your email address for Yandex Mail works much like other email services.
 
 1. Start a new message by selecting**Compose** or pressing **C** .  
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Compose button in Yandex Mail](https://www.lifewire.com/thmb/lZHiExMYQWNWEAeROqU_E2fveug=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/yandex-mail-compose-f13afa6af5e64b61bc30b31a98fb8a1f.png)
 2. Select**From** on the right.  
 ![The Cc, From line in the Compose box for Yandex Mail](https://www.lifewire.com/thmb/E4HtF-k3Q67Ykvcc2h0c6BOoY0s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/yandex-mail-from-menu-452e6937c63d4d159640955e05f096ea.png)
 3. Your Yandex Mail address is now visible under the Cc and Bcc lines.
 4. Select your image or username in the top right corner to identify your primary email address on Yandex Mail.  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![A Yandex Mail email address displayed in the menu on their website](https://www.lifewire.com/thmb/sD64SSyyLJx-L21CKX5hZXDhcNE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/yandex-mail-menu-ac394640dd154f818dd676659fdce850.png)  
 
 ## What Is My Zoho Mail Email Address?  
@@ -139,8 +185,19 @@ thumbnail: https://www.lifewire.com/thmb/iQjRSYdl3d8RlM-9oprGSEgt6gU=/400x300/fi
 5. Start a new email by clicking**New Mail.**  
 ![A screenshot of Zoho Mail with the New Mail button highlighted](https://www.lifewire.com/thmb/HTcGAJzlxS_3fYLLA_9Xhgw-Ygg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/014-what-is-my-email-address-4143261-9cce8fad051a42c08d3233491d62d448.jpg)
 6. Find the default sending address next to**From** .  
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A screenshot of Zoho Mail with the From field highlighted](https://www.lifewire.com/thmb/hirQCSy_bq_S6t_k6mhHnst3aBk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/015-what-is-my-email-address-4143261-60c804104a7a493d90bcc6def5fbbcaf.jpg)
 7. To determine your original email address for your Zoho Mail account, click the image or outline in Zoho Mail's top right corner. See the primary Zoho Mail email address listed beneath your name on the window that appears.  
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![A screenshot of Zoho Mail with the account icon highlighted](https://www.lifewire.com/thmb/LkknxtlnNw9j8jOiqniUwIBtM3Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/016-what-is-my-email-address-4143261-90198b585cf24b278a739635b145e167.jpg)
 
 ## What Is My Proton Mail Email Address?

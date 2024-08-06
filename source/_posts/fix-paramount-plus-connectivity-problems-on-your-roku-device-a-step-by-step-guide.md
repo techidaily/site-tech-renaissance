@@ -1,7 +1,7 @@
 ---
 title: Fix Paramount Plus Connectivity Problems on Your Roku Device - A Step-by-Step Guide
-date: 2024-08-02 16:46:34
-updated: 2024-08-05 10:13:16
+date: 2024-08-05T02:11:21.837Z
+updated: 2024-08-06T02:11:21.837Z
 categories:
   - BestProducts
 description: This Article Describes Fix Paramount Plus Connectivity Problems on Your Roku Device - A Step-by-Step Guide
@@ -10,6 +10,9 @@ thumbnail: https://www.lifewire.com/thmb/BXpR3VuC_4QriwcEaW9KUKkWQ48=/400x300/fi
 ---
 
 ## Boost Your Productivity with Two Screens on Your Mac - Setup Instructions Inside
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What to Know
 
 * Connect a monitor to your Mac using HDMI, Mini DisplayPort, USB-C, or Thunderbolt ports.
@@ -18,6 +21,9 @@ thumbnail: https://www.lifewire.com/thmb/BXpR3VuC_4QriwcEaW9KUKkWQ48=/400x300/fi
 
  This article explains how to set up dual monitors on a Mac, including how to connect a second monitor to a Mac laptop (like MacBook Air) and how to connect two monitors to a desktop Mac (like a Mac Mini).
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Know Your Mac Supports the Monitor You Choose
 
  To find out exactly what your Mac can handle, you’ll need to check out the technical specifications on Apple’s website.
@@ -27,9 +33,15 @@ thumbnail: https://www.lifewire.com/thmb/BXpR3VuC_4QriwcEaW9KUKkWQ48=/400x300/fi
  Here’s how to find out what kind of monitor your Mac can handle:
 
 1. Navigate to [Apple's site](https://www.apple.com/) , then select Support from the menu bar at the top of the screen.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![The Support tab highlighted on Apple.com](https://www.lifewire.com/thmb/inhhZBzoQolBN4X3zYE1lDNuELo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/maccheckScreenShot2022-11-07at1.47.22PM-add0e9dafa2d4be9852ce7c1418ac055.jpg)  
  Another option is to visit[Apple support's Documentation site](https://support.apple.com/docs) and select**Mac** from the product category tiles to locate specs for your model.
 2. On the Support page, scroll down to "Search for topics" and type in your Mac's information (model, year, etc).  
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![Searching the Support page for a specific model and year of Mac](https://www.lifewire.com/thmb/O_5o--7f-D5Wq3ugFUrbs_sfYck=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/maccheckScreenShot2022-11-07at1.49.10PM-52c2c016edaa482281bfecd37d4a04d1.jpg)
 3. From the results page, select **List of Models** and then choose **Identify your model** .  
  If you don't see this option, look for a technical specifications result. For example, if you searched for "MacBook Air 15-inch 2023," look for this option: "MacBook Air (15-inch, M2, 2023) - Technical Specifications."
@@ -40,6 +52,9 @@ thumbnail: https://www.lifewire.com/thmb/BXpR3VuC_4QriwcEaW9KUKkWQ48=/400x300/fi
 
  In this example, you can see that a 2011 MacBook Air 13-inch can display its native resolution on the built-in display while also outputting video to an external display at a resolution of 2560 x 1600 pixels. That means this particular Mac could handle a 1080p display easily, but it wouldn’t work with a 4K monitor.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Set Up Dual Monitors On a Mac
 
  Once you’ve obtained one or multiple monitors for your MacBook or a desktop Mac, you’ve verified your Mac can handle the monitors, and you have either the necessary cables and adapters, you’re ready to set up dual displays on your device.
@@ -52,6 +67,9 @@ thumbnail: https://www.lifewire.com/thmb/BXpR3VuC_4QriwcEaW9KUKkWQ48=/400x300/fi
 3. Turn on your Mac. It will automatically detect and activate the second monitor, although the settings may not be to your liking.  
  If the monitor doesn’t turn on automatically with the Mac, turn it on manually. If the display is on but not connecting, check out[How to Fix It When Mac is Not Detecting an External Display](https://www.lifewire.com/fix-external-display-not-detected-on-mac-5096070) .
 4. Click the**Apple menu** icon.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![The Apple menu icon highlighted in macOS.](https://www.lifewire.com/thmb/mxh256GgttjxNzbQCH3AamswyO8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-set-up-dual-monitors-on-a-mac-dd56d174d1ce4c96a80f72b7ec068a24.jpg)
 5. Click**System Preferences** or**System Settings** .  
 ![System Preferences highlighted in the Apple menu.](https://www.lifewire.com/thmb/4JpDMxtJnbDEsvc34XdH_m9afXA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-how-to-set-up-dual-monitors-on-a-mac-d9ed8911ab194b9bbfc2005f2e23f87a.jpg)
@@ -67,13 +85,22 @@ thumbnail: https://www.lifewire.com/thmb/BXpR3VuC_4QriwcEaW9KUKkWQ48=/400x300/fi
 10. Release your mouse or trackpad, and the secondary monitor will drop into the position you chose.  
 ![A repositioned monitor in the macOS display settings.](https://www.lifewire.com/thmb/wJRGi-TYH_drHpFkVwUUUsGwyhw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/011-how-to-set-up-dual-monitors-on-a-mac-af14ecad77c74d0d94786be55ffb58d9.jpg)
 11. On your main display, make sure to deselect the screen mirroring box or that you've selected**Main display** from the**Use as** drop-down menu.  
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![The Mirror Displays checkbox highlighted in the macOS display arrangement options.](https://www.lifewire.com/thmb/OKWCXoNThJXXF2XOMIt65lbHZXI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008-how-to-set-up-dual-monitors-on-a-mac-e3112b85c90e4841af282cc55252aa31.jpg)  
  If the mirror displays box is checked, both monitors will show the same image at all times.
 12. Click the correct resolution for your display.  
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![1920x1080 highlighted on a stretched out macOS screenshot.](https://www.lifewire.com/thmb/GvKW6t3G5foY659NnIcCpKLzLZE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/013-how-to-set-up-dual-monitors-on-a-mac-36fd1e7b5aec4230ae0599a4c1c8637a.jpg)  
  Select the built-in resolution for your monitor for the best results. It needs to be equal to or lower than the resolution that your Mac is capable of handling.
 13. Make sure the image doesn't look stretched, squashed, discolored, or anything. If it doesn't look right, click**Scaled** or choose an option from the resolutions thumbnails.  
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### {"uuid":null,"data":{"theme":"EXPERTTIPTIP","heading":"","html":"  
 
  If you don't see scaling options, press**Ctrl** while clicking a resolution and select**Show Thumbnails** .  
@@ -96,6 +123,10 @@ thumbnail: https://www.lifewire.com/thmb/BXpR3VuC_4QriwcEaW9KUKkWQ48=/400x300/fi
 
  If you’ve never set up dual monitors before, finding the right monitor can seem like a daunting prospect. To choose the right monitor, you need to consider the display's size, resolution, color accuracy, and other characteristics.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### Match Your Mac
 
  Before you settle on an additional monitor or a dual monitor setup, make sure that your Mac can handle the resolution. Most Macs can run and exceed 1080p on multiple monitors, but your Mac may not be able to take an additional[4K](https://www.lifewire.com/what-is-4k-uhd-5199324) display.
@@ -104,6 +135,9 @@ thumbnail: https://www.lifewire.com/thmb/BXpR3VuC_4QriwcEaW9KUKkWQ48=/400x300/fi
 
  If you’re adding a second monitor to your MacBook, you may want to consider going with a bigger 4K monitor to maximize your screen real estate or a compact flat panel display that you can take with you on the go.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ### Ports and Inputs
 
  It’s also important to consider the type of inputs a monitor accepts, but that isn’t as big a deal. If you find the ideal monitor, but it only has HDMI inputs, and you’re using a MacBook that only has USB-C, all you need to do is pick up a USB-C to HDMI adapter or a USB-C hub that includes an HDMI port.
