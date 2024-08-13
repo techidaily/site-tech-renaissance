@@ -1,0 +1,184 @@
+---
+title: Ultimate Troubleshooting for Shaking and Flickering Screens on the Surface Pro
+date: 2024-08-12T03:47:31.679Z
+updated: 2024-08-13T03:47:31.679Z
+categories:
+  - BestProducts
+description: This Article Describes Ultimate Troubleshooting for Shaking and Flickering Screens on the Surface Pro
+excerpt: This Article Describes Ultimate Troubleshooting for Shaking and Flickering Screens on the Surface Pro
+thumbnail: https://www.lifewire.com/thmb/ceHOQKbcyRnfVEXPX_ylVyHhN1w=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/microsoft-surface-pro-4-screen-flickering-ee1196d402054d0889714deb16c989af.jpg
+---
+
+## Boost Productivity with Triple Monitor PC Setups - Comprehensive Guide and Troubleshooting Tips
+### What to Know
+
+* Connect the video cable for the first monitor to the PC and monitor. Wait for an image to display, then repeat for the other monitors.
+* Then, right-click on the Windows desktop and select**Display Settings** . Under**Multiple Displays** , select**Extend these displays** .
+* In the Display menu, verify the monitors are arranged as you want by opening a window and dragging it between monitors.
+
+ This article explains how to connect three monitors to a computer for a boost in productivity.
+
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## How to Hook up 3 Monitors to One Computer
+
+ Sometimes you need a command center whether you're gaming, coding, or working with multiple documents. Here's how to add three monitors to your computer.
+
+1. Connect each monitor to power and turn each monitor on.
+2. Examine the ports on your PC to determine the video outputs you have available.
+3. Examine the video inputs available on the three monitors you'll be using. The ports on your PC don't have to match the ones on your monitors, but you'll need a cable or adapter with the appropriate connections if they are different.  
+[HDMI and DisplayPort](https://www.lifewire.com/displayport-vs-hdmi-4686971) are the most common video connections.  
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![DisplayPort vs HDMI Connections and Cables](https://www.lifewire.com/thmb/2-bsARM73bRRMi4TApr7ApRFBCQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/display-port-vs-hdmi-c2g-ccc-1697f356c33b4313bf4f239ef56856e4.jpg)  
+ Different monitors can use different video connections. For example, you can connect two monitors with HDMI and then a third with DisplayPort.
+4. Connect the video cable for the first monitor to your PC and then to the monitor. Wait a moment for the PC to detect the monitor and display an image. If it's successful, repeat this for the second monitor and, finally, the third.
+5. Right-click on the Windows desktop and click**Display Settings** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
+![Right-click menu settings in Windows 11 with Display Settings highlighted](https://www.lifewire.com/thmb/MfaagGxQo95iNq8uX_dLvjVN9QE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DisplaySettingsannotated-56ca601f38694bd48a968d3dcb8baa44.jpg)
+6. A diagram will be visible at the top of the**Display** menu. If this is your first time connecting multiple monitors, the diagram will show one rectangle with the numbers 1, 2, and 3 together. Scroll down until you find the**Multiple Displays** option. Click the drop-down field and then**Extend these displays** .  
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Windows 10 Display menu with "Extend these displays" highlighted](https://www.lifewire.com/thmb/6l5Yr_fuN9WBGTtNXhf_4Y0Vdz4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Extendthesedisplays-057f49d62adc4b4da106c1da7c564437.jpg)
+7. Scroll back to the top of the**Display** menu. It will now show three rectangles, each labeled with a number. These rectangles show the position of each monitor on your Windows desktop. Change the diagram so that each rectangle's location is approximately the same as each monitor's physical location on your desk.  
+ Verify the monitors are arranged as you want by opening a window and dragging it between monitors.  
+![Multiple monitors being configured on Windows 10 Display settings](https://www.lifewire.com/thmb/yVjDg9fBA8hoBTzwZbVB_1qhIYk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rearrangedisplays-0e9cb668b33548caa615ae8d7c98f2c9.jpg)
+8. Close the**Display** menu.
+
+## Can My Computer Support Three Monitors?
+
+ A computer needs the proper hardware and software to support three monitors at once. Even one with enough physical video outputs might not support three monitors if the driver for its graphics hardware lacks support for so many displays.
+
+ The incredible diversity of PC hardware means there's no fast, easy rule for determining whether your PC supports three monitors. You instead need to examine the physical connectors available and the published specifications for your PC's graphics hardware.
+
+ You can tally the physical video outputs available with a glance at your PC's ports, but there is one common exception to note. Most desktops can only handle video connections from one graphics solution at a time. You can't use video output from a motherboard alongside video output from a video card if you have one installed.
+
+ You'll also want to check the published specifications for your graphics hardware. Determine the hardware your PC uses with a Windows Search for**Device Manager** . Open[Device Manager](https://www.lifewire.com/device-manager-2625860) and then find**Display adapters** in the drop-down list. Expand this option to view the graphics hardware your PC uses.
+
+![Windows Device Manager with Display Adapters highlighted](https://www.lifewire.com/thmb/etZih571PshGMVscQeHITRVgEYE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Displayadapters-cce42c63bc03453392e1c21e7912d822.jpg)
+
+ When you know the graphics hardware, hit your favorite search engine. Look for a support or specification page on the company's official website that produced your PC's graphics hardware.
+
+ You may have difficulty finding official specifications for hardware more than five years old. Beware of results from unofficial websites. Many third-party websites attempt to compile graphics hardware specifications, but most are unreliable.
+
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
+## How Do I Connect 3 Monitors With an HDMI Splitter?
+
+ You can use an HDMI splitter to connect three monitors, but the results likely won't be what you hope.
+
+ A "splitter" is a video adapter that takes a single output and splits it into multiple duplicate outputs. It can only display a single video output on numerous monitors.
+
+ In other words, all three monitors will show the same image, which isn't much use on a PC.
+
+ There's no easy way to expand a PC's display output limitation with a splitter or adapter. The only option that genuinely extends a PC's display output is an external graphics card, one that bypasses the default graphics hardware. It's an expensive, niche option and only works with a small selection of PCs.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
+## Connecting 3 Monitors With a Daisy Chain
+
+ Another option for connecting three monitors is a daisy chain. This option is supported by DisplayPort 1.2 and Thunderbolt 3 (or newer) and USB-C connections that include a DisplayPort mode. HDMI does not support daisy chains.
+
+ In a daisy chain, the first monitor connects to your PC through one of the video outputs listed above. Then the first monitor connects to the second and the second to the third.
+
+ A daisy chain is functional but has limitations. The first and second monitors must have video connections that can work as an output. This configuration is uncommon, so you'll need to carefully check the specifications of the monitors you want to use.
+
+ Your PC must support this feature. Most PCs sold in the last few years will, but older models often don't. Check the PC manufacturer's website or the company's website, which made your graphics card, to see if daisy chains are supported.  
+
+![A person relaxing in front of 3 computer monitors.](https://www.lifewire.com/thmb/rNwm25Wi1gtnVKG6cT3WvYu1xsQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1215556128-c6efe0a4701f452e851a1ace021393a5.jpg)
+
+LanaStock / Getty Images
+
+ FAQ
+
+* How do you connect three monitors to a laptop?  
+ First,[make sure your laptop graphics card supports three monitors](https://www.lifewire.com/how-to-check-graphics-card-windows-10-4692875) . Then, connect your laptop and monitors to a dock and go to**Settings** \>**System** \>**Display** . If you don't see all of the monitors, scroll down to Multiple Displays and select**Detect** .
+* Where can you recycle old computer monitors?  
+ Retailers like[Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fservices%2Frecycling%2Fpcmcat149900050025.c) and[Staples](https://www.lifewire.com/staples-free-computer-technology-recycling-2625169) have electronics recycling programs. Dell and HP also have drop-off recycling locations. There may also be recycling centers in your area that take monitors.
+* What are the best computer monitors?  
+ Lifewire recommends the LG 4K UHD 27UD88-W overall, the Dell UltraSharp U2718Q for 4K, and the Acer SB220Q bi for budget buyers, among others. Whichever monitor you pick, make sure it has a good resolution and refresh rate, includes all the connectivity options you need, and is big enough to view comfortably.
+* How long do computer monitors last?  
+ While it's impossible to predict the lifespan of an electronic device with 100% accuracy, you can expect most LCD monitors to last between 10-20 years under normal usage conditions. If you're in an office setting, or you use your monitor for more than eight hours a day, its lifespan will likely be shorter.
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-seamless-instagram-story-layering-techniques/"><u>[New] Seamless Instagram Story Layering Techniques</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-fluent-in-content-sharing-tiktok-twitter-transition/"><u>[Updated] 2024 Approved  Fluent in Content Sharing  TikTok-Twitter Transition</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-prime-commercial-sky-storage-choices/"><u>[Updated] Prime Commercial Sky-Storage Choices</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-transforming-film-frames-on-insta-with-easy-steps/"><u>2024 Approved  Transforming Film Frames on Insta with Easy Steps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-try-these-20-best-youtube-thumbnail-fonts-in-your-video/"><u>2024 Approved  Try These 20 Best YouTube Thumbnail Fonts in Your Video</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/accelerate-your-pc-performance-solutions-for-a-speedy-windows-11/"><u>Accelerate Your PC Performance: Solutions For A Speedy Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-wwdc-2025-highlights-and-updates-all-the-latest-tech-news/"><u>Apple WWDC 2025 Highlights & Updates: All the Latest Tech News</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/avoiding-unwanted-interruptions-guide-to-deactivating-amber-notifications-on-your-android-phone/"><u>Avoiding Unwanted Interruptions: Guide to Deactivating AMBER Notifications on Your Android Phone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/before-you-invest-the-5-key-aspects-of-choosing-the-right-stereo-speakers/"><u>Before You Invest: The 5 Key Aspects of Choosing the Right Stereo Speakers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/building-an-intriguing-vlog-conversation-guide-for-2024/"><u>Building an Intriguing Vlog Conversation Guide for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-guide-watching-indiana-jones-films-sequentially/"><u>Complete Guide: Watching Indiana Jones Films Sequentially</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-walkthrough-how-to-easily-capture-your-pc-display/"><u>Complete Walkthrough: How to Easily Capture Your PC Display</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-buyers-handbook-choosing-the-perfect-laptop-or-desktop-for-academics/"><u>Comprehensive Buyer's Handbook: Choosing the Perfect Laptop or Desktop for Academics</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-fixes-for-when-alexas-echo-device-is-not-responding-or-showing-offline/"><u>Easy Fixes for When Alexa's Echo Device Is Not Responding or Showing Offline</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-solutions-troubleshooting-your-televisions-top-issues/"><u>Easy Solutions: Troubleshooting Your Television's Top Issues</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-tutorial-on-inserting-captions-in-instagram-story-posts-for-better-engagement/"><u>Easy Tutorial on Inserting Captions in Instagram Story Posts for Better Engagement</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-picks-superior-hanging-speaker-systems-of-2024-revealed/"><u>Expert Picks: Superior Hanging Speaker Systems of 2024 Revealed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-androids-ai-capabilities-an-insight-into-system-intelligence/"><u>Exploring Android's AI Capabilities: An Insight Into System Intelligence</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/final-impressions-how-to-design-a-standout-vimeo-end-screen-for-2024/"><u>Final Impressions  How to Design a Standout Vimeo End Screen for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-the-haldll-file-error-step-by-step-solutions-for-windows-users/"><u>Fixing the hal.dll File Error: Step-by-Step Solutions for Windows Users</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-x-to-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone X To Android devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-15-pro-max-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 15 Pro Max Without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-oppo-a58-4g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-oneplus-nord-3-5g-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on OnePlus Nord 3 5G online without jailbreak</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-nokia-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Nokia Phone Hassle-Free</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-ultimate-battle-of-video-capturing-apps/"><u>In 2024, Ultimate Battle of Video Capturing Apps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/leading-8-tv-streaming-services-a-comprehensive-review/"><u>Leading 8 TV Streaming Services : A Comprehensive Review</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/microsoft-surface-pro-7-revisited-reliable-improvement-with-minor-updates-examined/"><u>Microsoft Surface Pro 7 Revisited: Reliable Improvement with Minor Updates Examined</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-through-digital-platforms-a-guide-to-facebook-twitter-instagram-and-youtube/"><u>Navigating Through Digital Platforms: A Guide to Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/necessary-processor-velocity-how-quick-should-your-computer-operate/"><u>Necessary Processor Velocity: How Quick Should Your Computer Operate?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/sequential-screening-strategy-for-dragon-ball-fans-watch-it-right/"><u>Sequential Screening Strategy for Dragon Ball Fans - Watch It Right!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-lameencdll-dll-file-problems-in-your-audacity-mp3-conversion-tasks/"><u>Solving the lame_enc.dll DLL File Problems In Your Audacity MP3 Conversion Tasks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-method-for-unliking-songs-across-spotify-playlists-and-library/"><u>The Ultimate Method for Unliking Songs Across Spotify Playlists and Library</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-selection-of-top-5-gps-applications-to-enhance-your-iphone-experience/"><u>The Ultimate Selection of Top 5 GPS Applications to Enhance Your iPhone Experience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-5-essential-factors-to-evaluate-when-purchasing-pre-owned-notebooks/"><u>Top 5 Essential Factors to Evaluate When Purchasing Pre-Owned Notebooks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-ipad-offers-and-discounts-shop-smart-today/"><u>Top iPad Offers and Discounts: Shop Smart Today!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-correcting-error-in-moderation-within-chatgpt-services/"><u>Troubleshooting Tips: Correcting 'Error in Moderation' Within ChatGPT Services</u></a></li>
+</ul></div>

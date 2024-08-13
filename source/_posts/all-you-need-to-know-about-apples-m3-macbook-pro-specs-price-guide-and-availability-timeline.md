@@ -1,0 +1,142 @@
+---
+title: "All You Need to Know About Apple's M3 MacBook Pro: Specs, Price Guide, and Availability Timeline"
+date: 2024-08-12T03:46:24.264Z
+updated: 2024-08-13T03:46:24.264Z
+categories:
+  - BestProducts
+description: "This Article Describes All You Need to Know About Apple's M3 MacBook Pro: Specs, Price Guide, and Availability Timeline"
+excerpt: "This Article Describes All You Need to Know About Apple's M3 MacBook Pro: Specs, Price Guide, and Availability Timeline"
+thumbnail: https://thmb.techidaily.com/74113c2d83645a48c9d2ad195371cc6a07bee43db8bd23e967a3613c122b6663.jpg
+---
+
+## All You Need to Know About Apple's M3 MacBook Pro: Specs, Price Guide, and Availability Timeline
+
+ In This Article
+
+* [Release Date Rumors](https://www.lifewire.com/#toc-m3-macbook-pro-release-date)
+* [Price Rumors](https://www.lifewire.com/#toc-m3-macbook-pro-prices)
+* [Order Information](https://www.lifewire.com/#toc-order-information)
+* [Features and Specs](https://www.lifewire.com/#toc-m3-macbook-pro-features-and-specs)
+* [Latest News](https://www.lifewire.com/#toc-the-latest-news-about-the-m3-macbook-pro)
+
+ The rumor mill missed the mark on the latest MacBooks Pro. Here's what they are and how you can get them.
+
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## M3 MacBook Pro Release Date
+
+ The MacBook Pro with M3, M3 Pro, and M3 Max were announced on October 30, 2023\. The M3 and M3 Pro models were made available to order on October 30, 2023 with a release date of November 7, while the M3 Max was scheduled to be available in November 2023.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## M3 MacBook Pro Prices
+
+ The 14" M3 MacBook Pro starts at $1599 (a $400 price cut), and the 16" MacBook Pro starts at $2499\. The price goes up depending on which version of M3 you use, along with storage and RAM options, each of which will add at least $200 to the price.
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Order Information
+
+ Only 2 of the 3 models were made available to order on October 30\. The M3 Max shipped in late November. You can[order directly from Apple](https://www.apple.com/shop/buy-mac/macbook-pro) .
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
+## M3 MacBook Pro Features and Specs
+
+ There are three levels of MacBook Pro systems in two sizes: 14- and 16-inch. There are three processors available (although the 16" only offers the two higher-end systems): M3, M3 Pro, and M3 Max.
+
+| Chip   | CPU cores | GPU cores |
+| ------ | --------- | --------- |
+| M3     | 8         | 10        |
+| M3 Pro | 11 to 16  | 14 to 18  |
+| M3 Max | 14 to 16  | 30 to 40  |
+
+ The 14-inch MacBook Pro starts at 8GB RAM (up to 24 GB), while the 16-inch MacBook Pro with M3 Max can go all the way up to 128GB of RAM.
+
+ Storage options range from a 512GB SSD to a massive 8TB one, though the higher options are only available on M3 Max models.
+
+ Apple also showed off a new color for MacBooks: Space Black. This option isn't nearly as colorful or exciting as the options for iMacs, but it is new. It's also only available for the M3 Pro and M3 Max models.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
+![M3 MacBook Pro specs](https://www.lifewire.com/thmb/ugCpmMlO_coX0GaCQwwxNbKik5Q=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/M3-MacBook-Pro-specs-accad0f2631e470ca8738e9163ec1989.jpg)
+
+Apple Inc
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
+## The Latest News About the M3 MacBook Pro
+
+ You can find[more computer and laptop news here at Lifewire](https://www.lifewire.com/computer-laptop-tablet-news-4797030) . Here are some stories about the upcoming MacBook Pro.
+
+[Touchscreen MacBook: News and Expected Price, Release Date, Specs; and More Rumors](https://www.lifewire.com/touchscreen-macbook-8640916)
+
+[M4 MacBook Pro: News and Expected Price, Release Date, Specs; and More Rumors](https://www.lifewire.com/m4-macbook-pro-8640915)
+
+[Apple Reveals Amazing Scary Fast M3 Chip for MacBook Pro and iMac](https://www.lifewire.com/apple-m3-macbook-pro-imac-8384780)
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-mac-display-recorder-tips-and-tricks/"><u>[New] In 2024, Mac Display Recorder Tips & Tricks</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-must-play-openworld-experiences/"><u>[Updated] 2024 Approved  Must-Play Openworld Experiences</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-9-masterclass-in-live-gaming-streams/"><u>2024 Approved  9 Masterclass in Live Gaming Streams</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unboxing-viva-a-user-guide-to-its-videos/"><u>2024 Approved  Unboxing Viva  A User Guide to Its Videos</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/beginners-tutorial-creating-a-playstation-network-username-and-password/"><u>Beginner's Tutorial: Creating a PlayStation Network Username and Password</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/celebrate-diversity-the-premier-selection-of-lgbt-movies-to-watch-on-netflix-in-jul-24/"><u>Celebrate Diversity: The Premier Selection of LGBT Movies to Watch on Netflix in Jul '24</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-instructions-for-downloading-and-applying-your-latest-iphone-software-update/"><u>Comprehensive Instructions for Downloading and Applying Your Latest iPhone Software Update</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/connecting-airpods-to-nintendo-switch-yes-or-no/"><u>Connecting AirPods to Nintendo Switch: Yes or No?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diy-fixes-for-when-your-vizio-tv-cant-find-the-internet/"><u>DIY Fixes for When Your Vizio TV Can’t Find the Internet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/double-down-on-safety-activating-2fa-to-fortify-your-icloud-email-security/"><u>Double Down on Safety: Activating 2FA to Fortify Your iCloud Email Security</u></a></li>
+<li><a href="https://windows11.techidaily.com/effective-methods-to-cut-edges-background-activity/"><u>Effective Methods to Cut Edge's Background Activity</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/efficient-methods-for-transforming-your-jpeg-images-into-a-comprehensive-pdf-file/"><u>Efficient Methods for Transforming Your JPEG Images Into a Comprehensive PDF File</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-the-d3dx924dll-error-best-practices-and-preventive-measures/"><u>Fixing the d3dx9_24.dll Error: Best Practices & Preventive Measures</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722885543022-getting-your-windows-10-search-to-work-again/"><u>Getting Your Windows 10 Search to Work Again!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/hassle-free-setup-for-disneyplus-viewers-syncing-the-streaming-giant-with-chromecast-devices/"><u>Hassle-Free Setup for Disney+ Viewers: Syncing the Streaming Giant with Chromecast Devices</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-from-apple-iphone-13-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock from Apple iPhone 13</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-vivo-y100a-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Vivo Y100A? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/insights-into-the-world-of-instagram-what-you-need-to-know/"><u>Insights Into the World of Instagram - What You Need to Know</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-epson-workforce-ds-30-drivers-on-windows-11-8-or-7-step-by-step-tutorial/"><u>Installing Epson WorkForce DS 30 Drivers on Windows 11, 8 or 7 - Step-by-Step Tutorial</u></a></li>
+<li><a href="https://network-issues.techidaily.com/light-up-dark-screens-on-lenovo-notebooks/"><u>Light Up Dark Screens on Lenovo Notebooks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-hdcp-mistakes-a-step-by-step-troubleshooting-manual/"><u>Mastering HDCP Mistakes: A Step-by-Step Troubleshooting Manual</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/oneplus-10-buzz-predictions-for-release-timeline-pricing-details-features-and-rumors/"><u>OnePlus 10 Buzz: Predictions for Release Timeline, Pricing Details, Features, and Rumors</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/our-4-favorite-free-cad-programs/"><u>Our 4 Favorite Free CAD Programs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/our-selection-of-top-vegetarian-vegan-food-tracking-apps-the-ultimate-guide/"><u>Our Selection of Top Vegetarian, Vegan Food Tracking Apps: The Ultimate Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-emptying-your-android-devices-memory/"><u>Step-by-Step Guide: Emptying Your Android Device's Memory</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/stream-at-home-3d-movie-nights-with-ease-on-fandango-platform/"><u>Stream At-Home 3D Movie Nights with Ease on Fandango Platform</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-definitive-guide-to-differentiating-ar-from-vr-mr-and-xr-technologies/"><u>The Definitive Guide to Differentiating AR From VR, MR & XR Technologies</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-filmmakers-ally-expert-advice-for-video-creation-in-windows-10-for-2024/"><u>The Filmmaker's Ally  Expert Advice for Video Creation in Windows 10 for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-homeowners-handbook-to-boosting-internet-connectivity-speed/"><u>The Homeowner's Handbook to Boosting Internet Connectivity Speed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-samsung-galaxy-ring-revealed-unpacking-pricing-release-info-and-comprehensive-specs-overview/"><u>The Samsung Galaxy Ring Revealed: Unpacking Pricing, Release Info & Comprehensive Specs Overview</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-oppo-reno-8t-frp-by-drfone-android/"><u>The Updated Method to Bypass Oppo Reno 8T FRP</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-javascript-core-library-jscriptdll-error-messages/"><u>Troubleshooting JavaScript Core Library (jscript.dll) Error Messages</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-techniques-for-resolving-missing-dll-files-in-windows/"><u>Troubleshooting Techniques for Resolving Missing DLL Files in Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-new-tongues-with-these-top-9-free-websites-to-learn-languages/"><u>Unlock New Tongues with These Top 9 Free Websites to Learn Languages</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-essential-guide-to-combining-multi-track-recordings-into-a-single-clip/"><u>Updated Essential Guide to Combining Multi-Track Recordings Into a Single Clip</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-is-an-imessage-showing-up-as-a-regular-sms-could-you-be-blocked/"><u>Why Is an iMessage Showing Up As a Regular SMS?: Could You Be Blocked?</u></a></li>
+</ul></div>

@@ -1,0 +1,161 @@
+---
+title: Apple Music Continuous Streaming? Learn How to Pause It
+date: 2024-08-12T03:42:37.020Z
+updated: 2024-08-13T03:42:37.020Z
+categories:
+  - BestProducts
+description: This Article Describes Apple Music Continuous Streaming? Learn How to Pause It
+excerpt: This Article Describes Apple Music Continuous Streaming? Learn How to Pause It
+thumbnail: https://thmb.techidaily.com/dc0976bf992fc8f3795e090c13f66cb1c6f1455915fe3cbbbf65ceba836d3f9e.jpg
+---
+
+## Apple Music Continuous Streaming? Learn How to Pause It
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
+### What to Know
+
+* To disable autoplay in Apple Music on iPhone, open the current song and tap the**Autoplay** icon until it’s deselected.
+* Repeat these steps and highlight the**Autoplay** icon to enable or turn on continuous play in Apple Music.
+* Turning off your iPhone’s Bluetooth and properly closing apps can stop Apple Music from playing automatically, too.
+
+ This article will show you how to stop Apple Music from automatically playing on your iPhone after a song or album has finished. It also covers several proven tips to prevent the iOS app from turning on by itself when connecting to another device, such as a car system, AirPods, headphones, or a Bluetooth speaker.  
+
+[How to Stop Spotify From Opening on Startup on a Mac](https://www.lifewire.com/stop-spotify-from-opening-on-startup-on-a-mac-5209503)
+
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## How to Stop Apple Music From Automatically Playing on iPhone
+
+ By default, the[iOS Music app](https://www.lifewire.com/apple-music-on-ios-4684678) will continuously play songs from the Apple Music library until told otherwise. It can be frustrating when you want to listen to a single tune or album and then go about your day.
+
+ Here’s how to stop Apple Music from playing tracks automatically.
+
+1. Open the Music app on your iPhone, iPad, or iPod touch.  
+ The iOS Music app is a completely separate app from the iTunes Store app.
+2. Tap the mini-player along the bottom of the screen that shows the current song that's playing. If nothing is playing, begin playing one.  
+ It doesn’t matter which song you play as this change we’re about to make to Apple Music’s Autoplay settings will apply across the app for all tracks.
+3. Tap the**Up Next** icon in the lower-right corner of the screen.  
+ It’s the one that looks like three dots and lines stacked on top of each other.
+4. If Autoplay is activated, you should see an Autoplay playlist in the lower half of the screen and a highlighted Autoplay icon to the right of the song playing. Tap the**Autoplay** icon to disable it.  
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+![Turning off Autoplay settings in Apple Music app on iPhone.](https://www.lifewire.com/thmb/5RZwYhTcpXjS0K1VBHG9SGvcj9Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NEW10-d805952bf4c34b1bbaef6067467b8299.jpg)  
+ The**Autoplay** icon is the one that looks like an infinity symbol.
+5. If done correctly, the Autoplay playlist should immediately disappear, and Apple Music will now stop automatically playing.
+6. You can now return to the app's front screen by tapping the**Up Next** icon once again and then swiping down to minimize the player.  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Turning off Autoplay settings in Apple Music app on iPhone.](https://www.lifewire.com/thmb/YoFjmsf47ULgcOPG60luN9ht2os=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NEW11-526478ba77314060b7b3b20047261680.jpg)  
+ To enable Autoplay in Apple Music, repeat these steps and make sure that the icon is highlighted and the Autoplay playlist is visible.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Tips to Stop Apple Music From Playing Automatically  
+
+ Sometimes Apple Music can seem to start up automatically when connecting to a car system, a speaker, or a pair of headphones or earphones. While it’s unlikely that the cause is an official iPhone or Apple Music feature, there are still several things you may want to try to prevent this from happening.  
+
+* **Put your AirPods in their case** .[Apple AirPods](https://www.lifewire.com/what-are-airpods-4766801) can detect when you're wearing them, but gripping them in your hand or even having them in a dark pocket can trick them. Keeping them in the case will ensure they don’t turn on by themselves and automatically trigger music playback.  
+* **Watch your earphones** . Similar to Apple’s AirPods, many earphones allow you to[control music on an iPhone](https://www.lifewire.com/use-remote-button-on-your-iphone-headphones-to-control-music-2438265) and make it appear as if apps are automatically playing by themselves.  
+* **Disable Bluetooth on your iPhone** . If Apple Music keeps playing automatically every time you get into your car, the easiest way to stop it is to[turn off your iPhone or iPad’s Bluetooth](https://www.lifewire.com/how-to-turn-off-bluetooth-on-phones-4171879) to prevent a connection from being made. You may also want to turn off your[car's Bluetooth](https://www.lifewire.com/bluetooth-car-stereo-basics-534558) if you don't use it for anything else.  
+* **Is it Apple Music or Spotify?** Many smart cars and speakers have built-in[Spotify](https://www.lifewire.com/what-is-spotify-4685829) functionality. Spotify could be acting up instead of Apple Music. If your device has a display, check to see which app is playing.  
+* **Disable Handoff** . The[iPhone’s Handoff feature](https://www.lifewire.com/everything-you-need-to-know-about-handoff-4079966) continues media playback on devices once they’re detected automatically. You can customize and even disable Handoff by opening**Settings** and going to**General** \>**AirPlay & Handoff** .  
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
+![iPhone Settings showing path to AirPlay & Handoff](https://www.lifewire.com/thmb/-G0RK2zIvlOyL5-54T1esisg2Ws=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-stop-apple-music-from-automatically-playing-5119158-a00b00cf58384f85a4071b2272798f2c.jpg)  
+ FAQ  
+* How do I stop an Apple Music subscription?  
+    To[cancel an Apple Music subscription](https://www.lifewire.com/cancel-apple-music-subscription-1999488) on an iPhone, launch**Settings** , tap**your** **name** \>**Subscriptions** , select**Apple Music** , and tap**Cancel Subscription** . Or, go to the[Apple Music website](https://music.apple.com/browse) , sign in, tap your**account** icon >**Settings** \>**Subscriptions** \>**Manage** , and choose**Cancel Subscription** .  
+* How do I stop SharePlay on Apple Music?  
+    To stop Apple Music[SharePlay](https://www.lifewire.com/what-is-shareplay-5189440) when you're done with your SharePlay session, tap the**SharePlay icon** at the top of the FaceTime call. Tap**End SharePlay** , and tap either**End for Everyone** or**End Only for Me** .  
+* Why did Apple Music stop working?  
+    You may have an expired Apple Music subscription, or the credit card on your account may have expired. The problem could also be a glitch; restart the app and see if that fixes it. Your internet connection may be down, or Apple Music may be down. If it's a problem with a song or album, try reloading it.
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-enhancing-viewing-experience-pip-configuration-for-iphone-users/"><u>[New] 2024 Approved  Enhancing Viewing Experience  PIP Configuration for iPhone Users</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/nhance-audio-quality-get-high-quality-fx-for-2024/"><u>[New] Enhance Audio Quality, Get High-Quality FX for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-navigating-the-world-of-zooms-camera-snapping-easily/"><u>[New] Navigating the World of Zoom's Camera Snapping Easily</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-audience-alchemy-converting-shorts-to-sensations/"><u>[Updated] In 2024, Audience Alchemy  Converting Shorts to Sensations</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-where-to-buy-tiktok-followers-100-safe-and-secure/"><u>2024 Approved  Where to Buy TikTok Followers [100%% Safe and Secure]</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-realme-c51-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Realme C51 FRP</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/best-free-apple-iphone-7-plus-imei-checker-by-drfone-ios/"><u>Best Free Apple iPhone 7 Plus IMEI Checker</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-we-fully-depend-on-ai-tools-like-zerogpt-analyzing-their-trustworthiness-and-limits/"><u>Can We Fully Depend on AI Tools Like ZeroGPT? Analyzing Their Trustworthiness and Limits</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/changing-your-samsung-smart-tvs-default-browser-a-comprehensive-guide/"><u>Changing Your Samsung Smart TV's Default Browser: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-strategies-for-handling-not-found-ftd2xxdll-errors-on-your-pc/"><u>Comprehensive Strategies for Handling 'Not Found' ftd2xx.dll Errors on Your PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/demystifying-bass-management-techniques-in-audio-systems/"><u>Demystifying Bass Management Techniques in Audio Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enhance-your-computers-performance-with-these-15-recommended-free-uninstall-apps/"><u>Enhance Your Computer's Performance with These 15 Recommended Free Uninstall Apps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-our-top-picks-6-unique-journal-apps-to-transform-writing-habits/"><u>Exploring Our Top Picks: 6 Unique Journal Apps to Transform Writing Habits</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-pdhdll-not-detected-problem-on-your-pc/"><u>Fixing 'pdh.dll' Not Detected Problem on Your PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/has-pope-francis-adopted-email-communication-in-the-vatican/"><u>Has Pope Francis Adopted Email Communication in the Vatican?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-apple-iphone-11-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for Apple iPhone 11 With 7 Methods</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-get-free-detailed-instructions-for-every-apple-iphone-version/"><u>How to Get Free Detailed Instructions for Every Apple iPhone Version</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-a23-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy A23 5G To Phone | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-a2-phone-without-password-by-drfone-android/"><u>How To Unlock Xiaomi Redmi A2 Phone Without Password?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-honor-magic-5-by-drfone-android/"><u>In 2024, How to Bypass FRP from Honor Magic 5?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-note-30i-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Infinix Note 30i Bootloader Easily</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-to-animated-gifs-conversion-guide-online-tutorial-for-success/"><u>In 2024, Youtube to Animated GIFs Conversion Guide  Online Tutorial for Success</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/insider-info-on-meta-quest-2-lite-anticipated-cost-and-launch-timeline-revealed/"><u>Insider Info on Meta Quest 2 Lite: Anticipated Cost & Launch Timeline Revealed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-hashtag-conversations-on-twitter-using-our-top-tool-picks/"><u>Master Hashtag Conversations on Twitter Using Our Top Tool Picks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-pc-boot-problems-strategies-for-a-smooth-post-process/"><u>Mastering PC Boot Problems: Strategies for a Smooth POST Process</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/open-iphone-sim-card-with-everyday-objects-a-step-by-step-tutorial/"><u>Open iPhone SIM Card with Everyday Objects: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-msodll-file-not-found-step-by-step-fix-guide/"><u>Resolving 'mso.dll' File Not Found – Step-by-Step Fix Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-wmvcoredll-not-detected-a-comprehensive-guide/"><u>Resolving 'Wmvcore.dll Not Detected' - A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-the-ac1st16dll-file-missing-error-effectively/"><u>Resolving the ac1st16.dll File Missing Error Effectively</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/saving-your-device-from-disaster-expert-tips-for-drying-out-a-soaked-iphoneipod/"><u>Saving Your Device From Disaster: Expert Tips for Drying Out a Soaked iPhone/iPod</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/simple-tips-for-linking-remote-storage-with-your-macos-device/"><u>Simple Tips for Linking Remote Storage with Your macOS Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/smart-goggles-revolutionizing-vision-top-contenders-revealed/"><u>Smart Goggles Revolutionizing Vision - Top Contenders Revealed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/smart-shopping-tips-what-to-prioritize-when-investing-in-a-new-projector/"><u>Smart Shopping Tips: What to Prioritize When Investing in a New Projector</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-dilemma-what-to-do-when-your-fire-stick-remote-fails-to-function/"><u>Solving the Dilemma: What To Do When Your Fire Stick Remote Fails to Function</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/stay-ahead-with-the-complete-samsung-unpacked-2n25-coverage-schedule-news-highlights-and-expert-predictions/"><u>Stay Ahead with the Complete Samsung Unpacked 2N25 Coverage: Schedule, News Highlights & Expert Predictions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solution-overcoming-uncorrectable-system-memory-problems-with-whea/"><u>Step by Step Solution: Overcoming Uncorrectable System Memory Problems with WHEA</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-effective-methods-to-deep-clean-your-mechanical-keyboard/"><u>Step-by-Step Guide: Effective Methods to Deep Clean Your Mechanical Keyboard</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-fix-for-chatgpts-error-in-moderation-tips-and-techniques-unveiled/"><u>The Ultimate Fix for ChatGPT’s ‘Error in Moderation': Tips and Techniques Unveiled</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-methods-for-getting-back-deleted-contact-information-on-android-smartphones/"><u>The Ultimate Methods for Getting Back Deleted Contact Information on Android Smartphones</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-overview-of-telegram-features-functionality-and-more/"><u>The Ultimate Overview of Telegram: Features, Functionality, and More</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-tech-how-to-removing-items-from-your-google-home-system/"><u>The Ultimate Tech How-To: Removing Items From Your Google Home System</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-507-unique-instagram-post-texts/"><u>Top 507 Unique Instagram Post Texts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-picks-must-watch-programs-on-max-channel-today/"><u>Top Picks: Must-Watch Programs on MAX Channel Today</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-resolving-issues-with-amazon-prime-subtitle-functionality/"><u>Troubleshooting Guide: Resolving Issues with Amazon Prime Subtitle Functionality</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-the-d3dx9twin-dll-is-not-found-issue-in-windows/"><u>Troubleshooting the 'D3dx9_twin' DLL Is Not Found Issue in Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-for-when-netflix-titles-dont-stream-properly/"><u>Troubleshooting Tips for When Netflix Titles Don't Stream Properly</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-hosting-the-perfect-diy-home-karaoke-event/"><u>Ultimate Guide: Hosting the Perfect DIY Home Karaoke Event</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-troubleshooting-techniques-fixing-dll-files-that-arent-detected/"><u>Ultimate Troubleshooting Techniques: Fixing DLL Files That Aren't Detected</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/usb-tethering-trouble-heres-what-to-do-next/"><u>USB Tethering Trouble? Here's What to Do Next!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/what-does-it-mean-when-your-tv-is-internet-enabled-a-comprehensive-guide/"><u>What Does It Mean When Your TV Is Internet Enabled? A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/windows-11-search-not-working-try-these-fixes/"><u>Windows 11 Search Not Working? Try These Fixes</u></a></li>
+</ul></div>
