@@ -1,7 +1,7 @@
 ---
 title: Tips and Tricks to Decrease CPU Usage Efficiently in Windows
-date: 2024-08-15 20:18:17
-updated: 2024-08-16 11:23:45
+date: 2024-08-18T22:51:07.594Z
+updated: 2024-08-19T22:51:07.594Z
 tags:
   - win11
   - win10
@@ -53,6 +53,9 @@ Once done, restart your game and check the performance.
 
 If you don’t see any changes, simply continue to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ### Fix 2: Check for system updates
 
  Windows 11 is fairly new, and the devs are still working on some major bugs. If you want to get the latest system updates, you can get one step ahead of the schedule checking and check for updates manually.
@@ -60,6 +63,9 @@ If you don’t see any changes, simply continue to the next fix.
 1. On your keyboard, press**Win+R** (the Windows logo key and the R key) to invoke the Run box. Type or paste**control update** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-1.jpg)
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
 
  Once you’ve installed all the system updates, restart your PC and check the gameplay.
@@ -96,12 +102,21 @@ If the performance is still crappy, take a look at the next method.
 1. On your keyboard, press Win+R (the Windows logo key and the R key) to open the Run dialog. Type**msinfo32** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/msinfo32-run.jpg)
 2. Scroll down to check if**Virtualization-based security** is running. If it is, continue to the next step.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/msinfo32-vbs-1.jpg)
 3. On your keyboard, press the**Windows logo key** . Type core isolation and select**Core isolation** .  
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/core-isolation-vbs.jpg)
 4. Make sure**Memory integrity** is set to**Off** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/core-isolation-vbs-2.jpg)
 5. Restart your computer and test the gameplay again.
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 
  If this trick doesn’t do the charm for you, check out the next method below.
 
@@ -115,6 +130,9 @@ If the performance is still crappy, take a look at the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/windows-11-new-user.jpg)
 3. Once done, restart your PC and sign in as the new user. Then you can run your game directly from the installation folder. If there’re obvious improvements, you can continue to the next fix to run a full scan to find out what went wrong. If there aren’t, it could indicate a system issue, or it could mean that your hardware is not compatible with Windows 11.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 6: Scan and repair Windows
 
  Compared to its predecessor, Windows 11 does not have a good reputation according to the performance so far. And if you upgraded from Windows 10, chances are you may run into some system issues. To make sure there aren’t any critical issues, you can run a checkup with a system repair tool.
@@ -125,8 +143,14 @@ If the performance is still crappy, take a look at the next method.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
 ---
@@ -149,3 +173,51 @@ If the performance is still crappy, take a look at the next method.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/updated-how-to-change-voice-on-instagram-story-and-reels-in-2024/"><u>[Updated] How to Change Voice on Instagram Story and Reels, In 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-top-webcam-recording-apps-in-windows-10-reviewed/"><u>[Updated] In 2024, Top Webcam Recording Apps in Windows 10 Reviewed</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-selecting-the-ultimate-5-game-chat-devices/"><u>[Updated] Selecting the Ultimate 5 Game Chat Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-comprehve-guide-authenticating-wi-fi-networks-on-your-android-gadget/"><u>A Comprehve Guide: Authenticating Wi-Fi Networks on Your Android Gadget</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/amd-ryzen-desktop-pc-asrocks-powerful-deskmini-x600-goes-international-on-may-24/"><u>AMD Ryzen Desktop PC - ASRock's Powerful DeskMini X600 Goes International on May 24</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comprehensive-review-of-the-portable-and-economical-asus-vivobook-11/"><u>Comprehensive Review of the Portable and Economical Asus VivoBook 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-techniques-to-access-and-disable-your-iphone-in-recovery-mode/"><u>Comprehensive Techniques to Access and Disable Your iPhone in Recovery Mode</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/control-your-input-enablingdisabling-the-in-built-keyboard-on-windows-10-simplified/"><u>Control Your Input: Enabling/Disabling the In-Built Keyboard on Windows 10 Simplified</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-install-guide-and-free-download-of-msis-bluetooth-driver-supporting-windows-10-and-11/"><u>Easy Install Guide and Free Download of MSI's Bluetooth Driver Supporting Windows 10 & 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-strategies-to-correct-missing-or-lost-msvcrt10dll-errors/"><u>Effective Strategies to Correct Missing or Lost msvcrt10.dll Errors</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/efficiently-organizing-your-inbox-with-gmail-category-labels/"><u>Efficiently Organizing Your Inbox with Gmail Category Labels</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-setup-guide-five-crucial-steps-to-prepare-your-new-device/"><u>Essential Setup Guide: Five Crucial Steps to Prepare Your New Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-to-overcome-the-missing-ntldr-challenge-a-detailed-walkthrough/"><u>Expert Tips to Overcome the Missing NTLDR Challenge: A Detailed Walkthrough</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-samsung-galaxy-s23-fe-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-measuring-your-macbooks-internal-heat-levels/"><u>Guide: Measuring Your MacBook's Internal Heat Levels</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-address-and-correct-the-mingwm10dll-not-found-issue-easily/"><u>How to Address and Correct the Mingwm10.dll Not Found Issue Easily</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-on-apple-iphone-7-plus-with-or-without-password-drfone-by-drfone-ios/"><u>How To Change Your Apple ID on Apple iPhone 7 Plus With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-peek-into-someones-instagram-world-without-creating-your-own-profile/"><u>How to Peek Into Someone's Instagram World Without Creating Your Own Profile</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-secure-your-spot-in-the-apple-genius-bar-a-comprehensive-tutorial/"><u>How to Secure Your Spot in the Apple Genius Bar: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-verizon-iphone-13-by-drfone-ios/"><u>In 2024, How to Unlock Verizon iPhone 13</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mac-personalization-made-easy-how-to-assign-new-colors-to-your-folders/"><u>Mac Personalization Made Easy: How to Assign New Colors to Your Folders</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-androids-picture-in-picture-mode-a-step-by-step-guide/"><u>Mastering Android's Picture-in-Picture Mode: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-pokemon-go-strategies-for-training-and-battling-with-friends/"><u>Mastering Pokémon GO: Strategies for Training and Battling with Friends</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/pairing-made-easy-a-step-by-step-tutorial-for-merging-your-phone-with-oculus-quest-2/"><u>Pairing Made Easy: A Step-by-Step Tutorial for Merging Your Phone with Oculus Quest 2</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/prime-locations-to-shop-for-mobile-devices-online-and-offline/"><u>Prime Locations to Shop for Mobile Devices Online and Offline</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-common-iphone-email-malfunctions-quickly-and-effectively/"><u>Resolving Common iPhone Email Malfunctions Quickly and Effectively</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/seamless-streaming-setup-how-to-connect-and-use-a-chromecast-remote-like-a-pro/"><u>Seamless Streaming Setup: How to Connect and Use a Chromecast Remote Like a Pro</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-display-defects-eliminating-color-imbalances-and-visual-warping-on-your-pc-monitor/"><u>Solving Display Defects: Eliminating Color Imbalances & Visual Warping on Your PC Monitor</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-d3d9dll-file-not-detected-issue/"><u>Solving the d3d9.dll File Not Detected Issue</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/speed-test-results-and-visual-appeal-analysis-on-netgear-powerline-1200-an-extensive-overview/"><u>Speed Test Results & Visual Appeal Analysis on Netgear Powerline 1200: An Extensive Overview</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-how-to-correctly-deal-with-facetimes-black-display-problem/"><u>Step-by-Step Guide: How to Correctly Deal with FaceTime's Black Display Problem</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-7-essential-traffic-management-tools/"><u>Top 7 Essential Traffic Management Tools</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-apple-watch-discounts-available-in-month/"><u>Top Apple Watch Discounts Available in [Month]</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-list-of-free-online-movie-platforms/"><u>Ultimate List of Free Online Movie Platforms</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unifying-information-in-excel-effective-strategies-for-merging-data-columns/"><u>Unifying Information in Excel: Effective Strategies for Merging Data Columns</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-apple-iphone-14-pro-max-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled Apple iPhone 14 Pro Max Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/king-profitability-on-youtube-shorts-essentials-and-future-earning-prospects-for-2024/"><u>Unlocking Profitability on Youtube Shorts  Essentials and Future Earning Prospects for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-the-secrets-to-identifying-your-macbook-serial-and-model-number/"><u>Unlocking the Secrets to Identifying Your MacBook Serial and Model Number</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upcoming-apple-ring-unveiled-anticipated-costs-launch-timeline-and-tech-specs-revealed/"><u>Upcoming Apple Ring Unveiled: Anticipated Costs, Launch Timeline & Tech Specs Revealed</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-wevideo-the-ultimate-online-video-creation-solution/"><u>Updated WeVideo The Ultimate Online Video Creation Solution</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/windows-alternatives-enabling-video-calls-like-facetime/"><u>Windows Alternatives: Enabling Video Calls Like FaceTime</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/wwdc-2025-highlights-apples-big-reveals-and-latest-tech-news/"><u>WWDC 2025 Highlights: Apple's Big Reveals and Latest Tech News</u></a></li>
+</ul></div>

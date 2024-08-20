@@ -1,7 +1,7 @@
 ---
 title: What Does a Graphics Card Do?
-date: 2024-08-15 23:28:37
-updated: 2024-08-16 11:22:17
+date: 2024-08-18T22:51:57.279Z
+updated: 2024-08-19T22:51:57.279Z
 tags:
   - win11
   - win10
@@ -100,6 +100,9 @@ thumbnail: https://thmb.techidaily.com/528781abe64eff7e57733460b453c6895f2f9ec89
 
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 3: Reset Windows Update components
 
  This issue may occur if there’s something wrong with Windows Update components. If Windows Update components are corrupted, Windows Update may not work properly. In this case, try resetting Windows Update components. Here is how to do it:
@@ -108,6 +111,9 @@ thumbnail: https://thmb.techidaily.com/528781abe64eff7e57733460b453c6895f2f9ec89
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap468.png)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
  2) In Command Prompt, type the command lines below and press**Enter** on your keyboard **after typing each** :
 
 **net stop bits**  
@@ -147,18 +153,27 @@ thumbnail: https://thmb.techidaily.com/528781abe64eff7e57733460b453c6895f2f9ec89
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap245.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2) On your keyboard, type the command lines below one by one and press**Enter** .
 
 **Dism /Online /Cleanup-Image /ScanHealth**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap1-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
  When you run the command mentioned above, the DISM tool will scan all the system files and compare them with official system files. The function of this command line is to see if the system file on your PC is consistent with its official source or not. This command line doesn’t fix the corruption. It may take several minutes for this command operation to be completed.
 
 **Dism /Online /Cleanup-Image /CheckHealth**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
  When you run the command line **Dism /Online /Cleanup-Image /CheckHealth** , the DISM tool will check whether your Windows 10 image has corruptions or not. This command line also doesn’t repair the corrupted files. It may take several minutes for this command operation to be completed.
 
 **Dism /Online /Cleanup-Image /RestoreHealth**
@@ -173,8 +188,14 @@ thumbnail: https://thmb.techidaily.com/528781abe64eff7e57733460b453c6895f2f9ec89
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap4-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
  Try performing a Windows update to see if this fix works. If this issue persists, try running the System File Checker.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 5: Run System File Checker
 
 **System File Checker** can scan for corruptions in Windows system files and restore corrupted files. If Windows update takes so long to complete, it may be caused by some corruption error. In this case, running System File Checker may help you resolve this issue.
@@ -189,12 +210,18 @@ thumbnail: https://thmb.techidaily.com/528781abe64eff7e57733460b453c6895f2f9ec89
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap1-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 It may take some time for the command operation to be completed.
 
  3) When this command operation is completed, close**Command Prompt** .
 
  Perform a Windows update to check whether this fix works or not. If you still fail to install updates for your Windows system, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 6: Download updates from Microsoft Update Catalog manually
 
 **[Microsoft Update Catalog](https://www.catalog.update.microsoft.com/home.aspx)**  offers updates for Windows 2000 SP3 and later versions of Windows operating system. If None of the fixes above works for you, you can try downloading the updates you failed to install from the Microsoft Update Catalog and install them manually. Here is how to do it:
@@ -205,6 +232,9 @@ It may take some time for the command operation to be completed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap470.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
  3) Before you download updates, you need to**check the system type** of your Windows OS. If you don’t know how to do it, follow the instructions below to view your system type:
 
  i. On your keyboard, press**the Windows Logo key** and **R** at the same time to open the Run dialog. Type **cmd** and press **Enter** to open Command Prompt.
@@ -255,3 +285,45 @@ Restart your PC to see if this issue persists. If not, congratulations!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/mbark-into-the-best-youtube-vr-content-ever/"><u>[New] Embark Into the Best YouTube VR Content Ever</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-innovative-strategies-for-captivate-demonstrations-for-2024/"><u>[New] Innovative Strategies for Captivate Demonstrations for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-master-classroom-optimal-video-edits-on-vimeo-for-2024/"><u>[New] Master Classroom  Optimal Video Edits on Vimeo for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-most-efficient-techniques-for-real-time-youtube-video-recording-for-2024/"><u>[New] Most Efficient Techniques for Real-Time YouTube Video Recording for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-masterclass-in-instagram-designing-eye-catching-cover-images/"><u>[Updated] 2024 Approved  Masterclass in Instagram  Designing Eye-Catching Cover Images</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-your-go-to-resource-mastering-the-use-of-mobizen-recorders/"><u>[Updated] 2024 Approved  Your Go-To Resource  Mastering the Use of Mobizen Recorders</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-advanced-image-quality-hero5-black-vs-sjcam-sj7/"><u>[Updated] Advanced Image Quality  Hero5 Black Vs SJCAM SJ7</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-top-ios-slideshow-creation-tools-xs-max-a9-for-2024/"><u>[Updated] Top iOS Slideshow Creation Tools (XS Max - A9) for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-elevate-your-instagram-game-with-unique-highlight-images/"><u>2024 Approved  Elevate Your Instagram Game with Unique Highlight Images</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-elevating-speech-synthesis-converting-ssaxml-to-professional-srts/"><u>2024 Approved  Elevating Speech Synthesis  Converting SSA/XML to Professional SRTs</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-mastery-and-inspiration-the-ultimate-list-of-android-drawing-apps/"><u>2024 Approved  Mastery & Inspiration  The Ultimate List of Android Drawing Apps</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-the-blueprint-to-hitting-it-big-with-instagram-videos/"><u>2024 Approved  The Blueprint to Hitting It Big with Instagram Videos</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-detailed-guide-to-what-aim-was-and-its-impact-on-online-messaging/"><u>A Detailed Guide to What AIM Was and Its Impact on Online Messaging</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/black-screen-woes-proven-fixes-for-your-android-devices-display-troubles/"><u>Black Screen Woes: Proven Fixes for Your Android Device's Display Troubles</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/combating-content-id-blocks-on-youtube-with-knowledge-for-2024/"><u>Combating Content ID Blocks on YouTube with Knowledge for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/find-inspiration-on-screen-explore-the-top-11-films-that-will-ignite-your-passion/"><u>Find Inspiration on Screen: Explore the Top 11 Films That Will Ignite Your Passion</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-python-dll-error-what-to-do-when-you-cant-find-python24dll/"><u>Fixing Python DLL Error: What to Do When You Can't Find python24.dll</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/get-your-hands-on-high-quality-ipads-at-jaw-dropping-prices/"><u>Get Your Hands on High-Quality iPads at Jaw-Dropping Prices!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-perform-a-zoom-software-update-on-pcs-and-macs/"><u>How To Perform A Zoom Software Update On PCs and Macs</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-tecno-phantom-v-flip-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-samsung-galaxy-a54-5g-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Samsung Galaxy A54 5G Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722887746265-lifewire-presents-top-movies-to-start-streaming-now/"><u>Lifewire Presents: Top Movies to Start Streaming Now!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/meta-quest-3-lite-news-and-expected-price-release-date-specs-and-more-rumors/"><u>Meta Quest 3 Lite: News and Expected Price, Release Date, Specs; and More Rumors</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-2024-approved-narakeet-review-text-to-speech-convenient-voice-maker/"><u>New 2024 Approved Narakeet Review Text to Speech Convenient Voice Maker</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-from-shaky-to-stellar-the-best-free-online-video-stabilization-tools-reviewed/"><u>New From Shaky to Stellar The Best Free Online Video Stabilization Tools Reviewed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/no-cost-full-joy-find-your-favorite-melodies-on-these-15-free-music-platforms/"><u>No Cost, Full Joy: Find Your Favorite Melodies on These 15 Free Music Platforms</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/samsungs-latest-innovation-the-2021-galaxy-z-flip6-revealed-features-release-schedule-and-more/"><u>Samsung's Latest Innovation – The 2021 Galaxy Z Flip6 Revealed: Features, Release Schedule & More</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-directx-update-challenges-on-windows/"><u>Solving DirectX Update Challenges on Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-on-building-an-inexpensive-homemade-projector-screen/"><u>Step-by-Step Tutorial on Building an Inexpensive Homemade Projector Screen</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-accessing-free-local-fm-channels-on-iphones-and-android-phones/"><u>Step-by-Step Tutorial: Accessing Free Local FM Channels on iPhones and Android Phones</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/streamlining-online-communication-how-to-use-background-blurring-in-gotomeeting-sessions/"><u>Streamlining Online Communication: How to Use Background Blurring in GoToMeeting Sessions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-fix-overcoming-call-reception-errors-on-your-samsung-galaxy-smartwatch/"><u>The Ultimate Fix: Overcoming Call Reception Errors on Your Samsung Galaxy Smartwatch</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-viewing-lord-of-the-rings-saga-correctly/"><u>The Ultimate Guide: Viewing 'Lord of the Rings' Saga Correctly</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-idevice-jokes-creative-ways-to-prank-using-an-iphone-or-ipad/"><u>Top iDevice Jokes: Creative Ways to Prank Using an iPhone or iPad</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-your-mobile-service-provider-a-complete-guide/"><u>Understanding Your Mobile Service Provider: A Complete Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-privacy-secrets-the-ultimate-list-of-8-search-engines-for-personal-discovery/"><u>Unlocking Privacy Secrets: The Ultimate List of 8 Search Engines for Personal Discovery</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-sharers-a-step-by-step-guide-to-tracking-your-facebook-post-distribution/"><u>Unveiling the Sharers: A Step-by-Step Guide to Tracking Your Facebook Post Distribution</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "The Dangers of Big Tech Monopolies in Public Sector Operations: Insights From Recent Microsoft Outages"
-date: 2024-08-05T02:11:39.705Z
-updated: 2024-08-06T02:11:39.705Z
+date: 2024-08-18T23:49:47.718Z
+updated: 2024-08-19T23:49:47.718Z
 categories:
   - BestProducts
 description: "This Article Describes The Dangers of Big Tech Monopolies in Public Sector Operations: Insights From Recent Microsoft Outages"
@@ -77,3 +77,47 @@ Tell us why!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-instagrams-slow-motion-secrets-reels-done-right-for-2024/"><u>[New] Instagram's Slow Motion Secrets  Reels Done Right for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-the-new-social-networking-battlefield-a-comparative-analysis-between-tiktok-and-snap/"><u>[Updated] 2024 Approved  The New Social Networking Battlefield  A Comparative Analysis Between TikTok and Snap</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-webcam-advancements-revolutionizing-video-capture-at-home-for-2024/"><u>[Updated] WebCam Advancements  Revolutionizing Video Capture at Home for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/12-free-apps-for-streaming-movies/"><u>12 Free Apps for Streaming Movies</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-tecno-spark-10-5g-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Tecno Spark 10 5G without App | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/beginners-tutorial-learn-how-to-play-pokemon-unite/"><u>Beginner's Tutorial: Learn How to Play Pokémon Unite</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/best-budget-friendly-streaming-options-to-replace-netflix-free/"><u>Best Budget-Friendly Streaming Options to Replace Netflix (Free)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/can-you-and-your-partner-stream-music-together-on-spotify-how-it-works/"><u>Can You and Your Partner Stream Music Together on Spotify? How It Works</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comparing-realities-how-ar-vr-mr-and-xr-stand-apart/"><u>Comparing Realities: How AR, VR, MR and XR Stand Apart</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-methods-for-flushing-dns-in-macos-systems/"><u>Comprehensive Methods for Flushing DNS in macOS Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-5-leading-video-editing-platforms-we-recommend/"><u>Discover the 5 Leading Video Editing Platforms We Recommend</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722891529371-dive-into-tomorrow-at-samsung-unpacked-2025-key-announcements-and-expert-predictions-awaiting/"><u>Dive Into Tomorrow at Samsung Unpacked 2025 - Key Announcements & Expert Predictions Awaiting!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effortless-content-sync-how-to-cast-your-device-on-an-lg-tv/"><u>Effortless Content Sync: How to Cast Your Device on an LG TV</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-for-resolving-a-service-unavailable-web-error-what-you-need-to-know-about-503/"><u>Expert Tips for Resolving a 'Service Unavailable' Web Error - What You Need to Know About 503</u></a></li>
+<li><a href="https://extra-information.techidaily.com/expertly-convert-your-content-to-stellar-hd-with-top-tools/"><u>Expertly Convert Your Content to Stellar HD with Top Tools</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-intelligent-features-of-android-systems/"><u>Exploring the Intelligent Features of Android Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-what-to-do-if-the-disc-reader-on-your-wii-is-malfunctioning/"><u>Guide: What To Do If The Disc Reader On Your Wii Is Malfunctioning</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-effortlessly-pick-out-specific-messages-from-a-cluttered-gmail-collection/"><u>How to Effortlessly Pick Out Specific Messages From a Cluttered Gmail Collection</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-know-if-your-sms-has-been-seen-by-the-recipient/"><u>How to Know If Your SMS Has Been Seen by the Recipient</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-restore-iphone-camera-focusing-abilities-proven-techniques-and-tips/"><u>How to Restore iPhone Camera Focusing Abilities: Proven Techniques and Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-turn-on-gmail-two-factor-authentication/"><u>How to Turn on Gmail Two-Factor Authentication</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-watch-taylor-swift-movies-in-order/"><u>How to Watch Taylor Swift Movies in Order</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pivotal-user-feedback-a-look-at-vllo/"><u>In 2024, Pivotal User Feedback  A Look at VLLO</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-nubia-red-magic-8s-proplus-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Nubia Red Magic 8S Pro+</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/locating-electric-vehicle-charge-stations-quickly-with-google-maps-techniques/"><u>Locating Electric Vehicle Charge Stations Quickly with Google Maps Techniques</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/monthly-hot-verizon-offers-on-device-upgrades/"><u>Monthly Hot Verizon Offers on Device Upgrades</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-call-rejection-problems-on-your-samsung-galaxy-watch-easy-fixes-and-tips/"><u>Overcoming Call Rejection Problems on Your Samsung Galaxy Watch - Easy Fixes and Tips!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/premium-features-modest-price-tag-exclusive-high-tech-goodies-for-everyone/"><u>Premium Features, Modest Price Tag: Exclusive High-Tech Goodies for Everyone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/psvr-and-pc-integration-how-to-enjoy-virtual-reality-gaming-on-your-desktop/"><u>PSVR and PC Integration: How to Enjoy Virtual Reality Gaming on Your Desktop</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/repairing-lost-cellular-function-in-your-apple-watch-expert-tips-and-tricks/"><u>Repairing Lost Cellular Function in Your Apple Watch: Expert Tips & Tricks</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/sonic-gold-standard-10-ways-to-elevate-home-recordings/"><u>Sonic Gold Standard  10 Ways to Elevate Home Recordings</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-flushing-your-androids-memory/"><u>Step-by-Step Guide: Flushing Your Android's Memory</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/teen-must-see-cinema-selection-on-netflix-unveiled/"><u>Teen Must-See Cinema Selection on Netflix Unveiled!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/transferring-spotify-playlist-data-to-text-for-easy-access-and-sharing/"><u>Transferring Spotify Playlist Data to Text for Easy Access & Sharing</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/transform-your-livestreams-with-eco-friendly-screen-effects/"><u>Transform Your Livestreams with Eco-Friendly Screen Effects</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-tips-on-building-effective-gmail-filters-for-any-purpose/"><u>Ultimate Tips on Building Effective Gmail Filters for Any Purpose</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-espnplus-a-guide-to-disneys-premier-sports-streaming-platform/"><u>Understanding ESPN+: A Guide to Disney's Premier Sports Streaming Platform</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-top-7-thrilling-new-capabilities-of-bard-ai-showcased-at-google-io-2023/"><u>Unveiling Top 7 Thrilling New Capabilities of BARD AI Showcased at Google I/O 2023</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/update-like-a-pro-11-exceptional-freeware-applications-for-your-system/"><u>Update Like a Pro: 11 Exceptional Freeware Applications for Your System</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/viewing-samsung-product-releases-from-home-everything-you-need-to-know/"><u>Viewing Samsung Product Releases From Home: Everything You Need to Know</u></a></li>
+</ul></div>

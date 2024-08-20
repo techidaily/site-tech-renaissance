@@ -1,0 +1,199 @@
+---
+title: "Step-by-Step Guide: Halting Runaway Android Apps in Their Tracks"
+date: 2024-08-19T00:13:54.963Z
+updated: 2024-08-20T00:13:54.963Z
+categories:
+  - BestProducts
+description: "This Article Describes Step-by-Step Guide: Halting Runaway Android Apps in Their Tracks"
+excerpt: "This Article Describes Step-by-Step Guide: Halting Runaway Android Apps in Their Tracks"
+thumbnail: https://thmb.techidaily.com/d0be551e2fb6faca9c1b4ad092d1becef6333157c069bc8e90a60ea7ce1eb907.jpg
+---
+
+## Ultimate Guide: Speeding up Your Computer in Just 7 Steps
+ After you've had a computer for a while, you might notice that it's running slower than when you first got it. Fortunately, you can do some things to speed up your computer to make it seem new again.
+
+ Instructions in this article apply to Windows 11, Windows 10, Windows 8.1, and Windows 7.
+
+## Clean up Junk Files and Programs
+
+ Getting rid of unnecessary files, applications, and other "junk" is an effective way to speed up any computer. Freeing your computer of these unnecessary items opens up storage for your important things and helps with overall performance.
+
+1. [Remove junk files](https://www.lifewire.com/remove-junk-files-from-windows-11-5191868) . You have several options, but one is to use a free system cleaner like[CCleaner](https://www.ccleaner.com/ccleaner) to erase unnecessary files in the Windows OS itself and third-party programs like your web browsers, which like to collect huge, safe-to-delete cache files.  
+ If these temporary internet files and other useless items stick around for too long, they can not only cause programs to hang and become unresponsive and sluggish but also take up valuable hard drive space.  
+![A list of junk files analyzed by CCleaner](https://www.lifewire.com/thmb/fcJdBbMmX-n1fr28E8-tAXm60bc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ccleaner-f6f275a2e09b4fa8821c232149546fd7.png)
+2. [Remove unwanted programs](https://www.lifewire.com/windows-uninstaller-to-remove-unused-programs-3506955) that are just lingering on your computer. These are not only taking up hard drive space but they might [open automatically with Windows](https://www.lifewire.com/change-startup-programs-windows-11-6823499) and be running in the background all the time, sucking away at the processor and memory.  
+ There are several[free program uninstaller apps](https://www.lifewire.com/free-uninstaller-programs-2625188) that make doing this really easy.
+3. Also considered junk files are anything you simply don't use or want anymore. So, delete those old video files that you downloaded a year ago and[back up all the data you rarely access](https://www.lifewire.com/ways-to-back-up-your-data-2640426) , like vacation pictures.
+4. [Clean up your desktop](https://www.lifewire.com/cleaning-and-speeding-up-windows-desktop-3506952) if it's cluttered. Making File Explorer load those icons and folders each time the desktop refreshes can put unnecessary load on your hardware, which takes away[system resources](https://www.lifewire.com/what-is-a-system-resource-2626016) that could be used elsewhere.
+
+## Defrag Your Hard Drive
+
+ Another way you can speed up a computer is by defragging the hard drive. This consolidates all the empty spaces that you create in the[file system](https://www.lifewire.com/what-is-a-file-system-2625880) structure as you add and remove files. These empty spaces make your hard drive take longer to think, which in turn causes files, folders, and programs to open slowly.
+
+ Plenty of[free defrag tools](https://www.lifewire.com/free-defrag-software-tools-2619172) are available to do this, but another option is to[use the one built-in to Windows](https://www.lifewire.com/how-to-defrag-your-computer-3506876) .
+
+[How Often Should You Defrag Your Computer?](https://www.lifewire.com/how-often-should-you-defrag-3976922)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
+## Remove Viruses, Malware, Spyware, Adware, etc
+
+ Every Windows computer is vulnerable to malware, but your risk of infection is low if you regularly use anti-malware programs.
+
+ Once the virus is on the computer, it usually stores itself in the system memory, slowing everything down. Some malicious programs show pop-ups or trick you into buying their "antivirus program," which are even more reasons to remove them.
+
+ Periodically[scan your computer for malware](https://www.lifewire.com/properly-scan-your-computer-for-viruses-and-other-malware-2624526) to get rid of these pesky memory hogs. Depending on the severity, purging those viruses could speed up the computer instantly.
+
+[How to Tell if You Have a Computer Virus on Windows](https://www.lifewire.com/how-to-tell-if-your-computer-has-a-virus-4590200)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Fix Windows System Errors
+
+ Installing and uninstalling software and Windows updates, rebooting your computer during an update, forcing your PC to shut down immediately, and other things can cause errors within the Windows system files.
+
+ These errors can cause things to lock up, halt program installs and updates, and generally prevent a smooth computer experience. Speeding up a computer this way is easy; just[repair the system files](https://www.lifewire.com/how-to-use-sfc-scannow-to-repair-windows-system-files-2626161) .
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Adjust Visual Effects
+
+ Windows provides numerous interesting visual effects including animated windows and fading menus. These extras are usually fine to have turned on, but they're only worth it if you have enough system memory.
+
+ If this is why your PC is slow, you can[turn off these visual effects to speed up the computer in seconds](https://www.lifewire.com/adjust-visual-effects-to-improve-speed-3506867) .
+
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Clean, Replace, or Upgrade Your Hardware
+
+ While software problems often cause a slow computer, you can only get so far before you need to address the hardware.
+
+ For example, if your computer doesn't let you open more than a couple of programs at once or doesn't let you watch HD movies, you may have a small amount of RAM or a broken or outdated ​[video card](https://www.lifewire.com/what-is-a-video-card-2618161) . You may also just have dirty hardware.
+
+ It's wise to[periodically clean your physical hardware parts](https://www.lifewire.com/how-to-clean-your-laptop-2377611) . Over time, and due especially to certain environmental effects, fans and other pieces under the case can gather clumps of dirt or hair, making them work in overdrive just to function normally. Clean up everything before you buy new hardware—they may be just too dirty.
+
+ A[hard drive testing tool](https://www.lifewire.com/free-hard-drive-testing-programs-2626183) is useful if you suspect that the drive is failing. A dying hard drive can make everything slow, like opening and saving files and programs. In this case,[replacing the hard drive](https://www.lifewire.com/how-to-replace-a-hard-drive-2626200) can speed up the computer.  
+
+ You can use a[free system information utility](https://www.lifewire.com/free-system-information-tools-2625772) to see the specs of your hardware. These tools are helpful if you're planning on replacing hardware so that you don't have to[open your computer](https://www.lifewire.com/how-to-open-a-desktop-computer-case-2624589) just to check on things. For example, if you want more[RAM](https://www.lifewire.com/what-is-random-access-memory-ram-2618159) , you can use a system info tool to confirm the type and amount you already have so you know what to buy.
+
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Reinstall the Entire Windows Operating System
+
+ The most drastic solution to speeding up your computer is to delete all the software and files, remove the whole Windows OS, and start from scratch. You can do this with a[clean install of Windows](https://www.lifewire.com/how-to-clean-install-windows-2624904) .
+
+ The great thing about doing this is that you essentially have a new computer, free of years' worth of software and registry changes and errors that you don't even know you have. However, you should really think more than twice about doing this because it's irreversible and is one of the last decisions you can make to speed up your computer.
+
+ Reinstalling Windows is a permanent solution. Back up your files and make note of any programs you will want to reinstall.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
+## Why Is My Computer So Slow?
+
+ Over time, as you download files, browse the internet, remove programs, leave applications open, and do pretty much anything else on your computer, it slowly collects junk and causes behind-the-scenes problems that aren't always so easy to catch at first.
+
+[File fragmentation](https://www.lifewire.com/what-is-fragmentation-defragmentation-2625884) is a big culprit. So is the accumulation of cached web browser files, a cluttered desktop, a full[hard drive](https://www.lifewire.com/what-is-a-hard-disk-drive-2618152) , slow[hardware](https://www.lifewire.com/computer-hardware-2625895) , and many other issues.
+
+ However, your computer itself may actually not be slow. You may just be experiencing a slow internet connection due to a faulty router, a bad connection, or the limited speed offered by your[ISP](https://www.lifewire.com/internet-service-provider-isp-2625924) . In any case, you may just need to[speed up your internet access](https://www.lifewire.com/troubleshooting-slow-internet-connection-818125) .
+
+[How to Fix Slow PC Startup](https://www.lifewire.com/fix-slow-pc-startup-5222474)
+
+ FAQ
+
+* How do I speed up a video on my computer?  
+ You can[change the playback speed in Windows Media Player](https://www.lifewire.com/how-to-change-playback-speed-without-affecting-pitch-2438886) for video and audio files. You can permanently[speed up a video with Adobe Premiere Pro](https://www.lifewire.com/premiere-pro-cs6-clips-1081700) or a similar video editing program.
+* What is a fast processor speed for a computer?  
+ A[processor speed](https://www.lifewire.com/how-fast-does-your-pc-need-to-be-832310) of 1.3 GHz with 2-4 GB of RAM is fast enough for using the internet and watching Blu-ray movies. A 3.5 GHz processor with at least 8 GB of RAM is recommended for CPU-intensive gaming.
+* How do I improve the startup speed on my computer?  
+ To[improve startup times](https://www.lifewire.com/improve-startup-times-in-windows-10-4048475) , disable programs that you don't want to start up automatically. After that, run an anti-virus scan, disable hardware you don't use, upgrade your RAM, or switch to an SSD.
+* How do I speed up my computer for gaming?  
+ To[optimize your PC for gaming](https://www.lifewire.com/optimize-your-pc-for-gaming-812577) , disable unnecessary processes, defragment your hard drive, update your graphics drivers, and configure your graphics card settings. Consider upgrading your hardware including the RAM, CPU, and graphics card.
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/updated-gratuitous-access-to-top-digital-editing-suites/"><u>[Updated] Gratuitous Access to Top Digital Editing Suites</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-the-ultimate-lighting-checklist-for-video-creators/"><u>[Updated] In 2024, The Ultimate Lighting Checklist for Video Creators</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-sharing-wisdom-the-art-of-insta-duplication-for-2024/"><u>[Updated] Sharing Wisdom  The Art of Insta Duplication for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/11-must-watch-films-for-a-dose-of-inspiration-ranked/"><u>11 Must-Watch Films for a Dose of Inspiration: Ranked!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-a-new-era-of-visual-narratives-full-rotation/"><u>2024 Approved  A New Era of Visual Narratives  Full Rotation</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-leading-the-charge-in-online-healthcare-promotions-and-ads/"><u>2024 Approved  Leading the Charge in Online Healthcare Promotions & Ads</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-guide-to-fixing-the-mapi3error-when-not-found/"><u>A Guide to Fixing the Mapi3#Error When Not Found</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/activating-evening-display-settings-for-enhanced-comfort-on-ios-devices/"><u>Activating Evening Display Settings for Enhanced Comfort on iOS Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/advanced-techniques-for-organizing-inbox-with-gmail-custom-filters/"><u>Advanced Techniques for Organizing Inbox with Gmail Custom Filters</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apples-freshest-innovation-meet-the-latest-macbook-on-the-market/"><u>Apple's Freshest Innovation: Meet the Latest MacBook on the Market</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/audiophiles-guide-to-choosing-between-a-home-theater-and-stereo-sound-receiver/"><u>Audiophile's Guide to Choosing Between a Home Theater and Stereo Sound Receiver</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/breaking-down-the-latest-from-apple-a-comprehensive-guide-to-the-apple-watch-series-8s-specs-and-launch-date/"><u>Breaking Down the Latest From Apple: A Comprehensive Guide to the Apple Watch Series 8'S Specs and Launch Date</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/clear-up-audio-in-youtube-a-step-by-step-guide-for-2024/"><u>Clear Up Audio in YouTube  A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-solution-for-fixing-absent-or-lost-physxloaderdll-errors/"><u>Comprehensive Solution for Fixing Absent or Lost PhysXLoader.dll Errors</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diy-kernel-memory-management-problems-how-to-correct-data-inpage-faults/"><u>DIY Kernel Memory Management Problems: How to Correct Data Inpage Faults</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diy-repair-what-to-do-when-your-roku-tv-wont-turn-on/"><u>DIY Repair: What to Do When Your Roku TV Won't Turn On</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-connection-tricks-for-perfectly-pairing-your-logitech-mouse/"><u>Easy Connection Tricks for Perfectly Pairing Your Logitech Mouse</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-steps-for-setting-up-a-portable-wi-fi-movie-hub-inside-student-halls/"><u>Easy Steps for Setting Up a Portable Wi-Fi Movie Hub Inside Student Halls</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-strategies-to-address-the-s-sleay32dll-not-detected-error-in-windows/"><u>Effective Strategies to Address the S sleaY32.dll Not Detected Error in Windows</u></a></li>
+<li><a href="https://win-dash.techidaily.com/fixing-hp-laserjet-p2035-printer-drivers-problems-on-windows-a-comprehensive-guide/"><u>Fixing HP LaserJet P2035 Printer Drivers Problems on Windows: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-connecting-your-subwoofer-with-a-samsung-soundbar-a-step-by-step-approach/"><u>Guide: Connecting Your Subwoofer with a Samsung Soundbar - A Step-by-Step Approach</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-keep-your-macbook-active-even-with-a-closed-lid/"><u>Guide: Keep Your MacBook Active, Even with a Closed Lid</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-restore-faded-colors-and-remove-ghost-images-from-your-displays-surface/"><u>How To Restore Faded Colors & Remove Ghost Images From Your Display's Surface</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-setup-a-printer-for-seamless-sharing-between-multiple-devices/"><u>How to Setup a Printer for Seamless Sharing Between Multiple Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/hulu-vs-hulu-plus-an-in-depth-look-at-their-unique-offerings/"><u>Hulu Vs. Hulu Plus - An In-Depth Look at Their Unique Offerings.</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-vivo-y78-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Vivo Y78 5G via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-infinity-sphere-shooting-accessories/"><u>In 2024, Infinity Sphere Shooting Accessories</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Vivo Y200? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/incorporate-primary-keywords-naturally-within-the-content-without-keyword-stuffing-ensure-each-section-of-your-article-addresses-different-aspects-of-how-qu65/"><u>Incorporate Primary Keywords Naturally Within the Content without Keyword Stuffing. Ensure Each Section of Your Article Addresses Different Aspects of How Quantum Computing Can Revolutionize AI</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/inside-look-at-lgs-multimedia-channels-and-platforms/"><u>Inside Look at LG's Multimedia Channels and Platforms</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/latest-release-discover-apples-new-macbook-model/"><u>Latest Release: Discover Apple's New MacBook Model</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-diverse-template-online/"><u>New 2024 Approved Diverse Template | Online</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/order-matters-learn-to-enjoy-the-entire-dragon-ball-z-storyline-correctly/"><u>Order Matters! Learn to Enjoy the Entire Dragon Ball Z Storyline Correctly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/simplified-tech-talk-uninstalling-graphics-drivers-on-pcs/"><u>Simplified Tech Talk: Uninstalling Graphics Drivers on PCs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/stunning-appraisal-and-alternative-suggestions/"><u>Stunning Appraisal & Alternative Suggestions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-complete-step-by-step-process-for-acquiring-meta-vr-games-for-your-oculus-quest-2/"><u>The Complete Step-by-Step Process for Acquiring Meta VR Games for Your Oculus Quest ^2</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-6-must-visit-websites-for-streaming-free-music-videos/"><u>Top 6 Must-Visit Websites for Streaming Free Music Videos</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-resolving-issues-with-windows-1n-failure-to-power-off/"><u>Ultimate Guide: Resolving Issues with Windows 1N Failure to Power Off</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/uncover-hidden-gems-free-movie-selections-for-cinema-lovers-on-youtube-in-july-2024/"><u>Uncover Hidden Gems: Free Movie Selections for Cinema Lovers on YouTube in July 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/whats-on-horizon-the-complete-guide-to-the-google-pixel-watch-3-expected-launch-cost-estimates-and-specs/"><u>What's on Horizon? The Complete Guide to the Google Pixel Watch 3 - Expected Launch, Cost Estimates & Specs</u></a></li>
+</ul></div>

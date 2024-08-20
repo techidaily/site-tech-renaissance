@@ -1,7 +1,7 @@
 ---
 title: How to Fix Windows 11 Installation Has Failed
-date: 2024-08-15 21:32:20
-updated: 2024-08-16 12:30:32
+date: 2024-08-18T22:53:39.921Z
+updated: 2024-08-19T22:53:39.921Z
 tags:
   - win11
   - win10
@@ -52,6 +52,9 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-145.png)
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **3)** Select**Troubleshoot.** Then, select**Windows Update** and click**Run the troubleshooter.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-171.png)
@@ -74,8 +77,14 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-148.png)
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 3: Restart the Windows Update service
 
  Errors might occur when the Windows Update service isn’t running correctly. Try restarting the Windows Update service to see if that fixes your issue:
@@ -84,9 +93,15 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
  On your keyboard, press **the Windows logo** **key**  and **R** at the same time to open the Run box.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-12-31_14-10-17.jpg)
 2. **Type services.msc, then press the Enter key on your keyboard.**  
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Type **services.msc** , then press the **Enter** key on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-12-31_14-10-55.jpg)
 3. **Right-click the Windows Update and click Restart.**  
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
  Right-click the **Windows Update** and click **Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-12-31_14-11-48.jpg)
 4. **Restart your PC to test the issue.**  
@@ -96,6 +111,9 @@ If your problem persists, then move on to the next fix.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 4: Free up your hard drive space
 
  Windows updates could take up a fair amount of disk space. If your PC is running low on free space, you might encounter issues when installing Windows updates.
@@ -112,6 +130,9 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-150.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 **2)** Select**Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-151.png)
@@ -122,6 +143,9 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/uninstall-program.png)
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  This could help free up lots of space if you have many unused programs on your computer.
 
 #### Free up your space with the Disk Cleanup tool
@@ -130,10 +154,16 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-153.png)
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **2)** Check the boxes to select the file types to get rid of. Then, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-154.png)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
  This can help you get rid of the temporary and unnecessary files and free up your hard drive space so that your computer can update faster.
 
 #### Defragment your hard drive
@@ -148,6 +178,9 @@ If your problem persists, then move on to the next fix.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ### Fix 5: Update your device drivers
 
  Outdated or faulty hardware drivers can also trigger PC issues. To keep your computer running smoothly, it’s essential that you have the latest correct drivers at all times.
@@ -194,6 +227,9 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/image-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 #### Run the System File Checker
 
 **1)** On your keyboard, press the**Windows logo** key and**R** at the same time.
@@ -210,6 +246,9 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-166.png)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If running the System File Checker didn’t help resolve your problem, try using the DISM tool to update your system files and correct your problem.
 
 #### Run the DISM command tool
@@ -222,6 +261,9 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-162.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 **3)** Type**dism.exe /online /cleanup-image /startcomponentcleanup** , then press the**Enter** key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-164.png)
@@ -253,3 +295,39 @@ If your problem persists, then move on to the next fix.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/new-one-arm-wonders-keeping-photos-steady/"><u>[New] One Arm Wonders  Keeping Photos Steady</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-expert-blueprint-fashioning-timer-functionality-with-video-editors-for-2024/"><u>[Updated] Expert Blueprint  Fashioning Timer Functionality with Video Editors for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-unlocking-the-code-to-perfect-instagrams-every-time-for-2024/"><u>[Updated] Unlocking the Code to Perfect Instagrams Every Time for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-experts-picks-top-5-free-screen-recorders-for-pc-users/"><u>2024 Approved  Expert's Picks  Top 5 Free Screen Recorders For PC Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/critical-considerations-before-investing-in-a-new-dash-cam-device/"><u>Critical Considerations Before Investing in a New Dash Cam Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-list-elite-note-taking-tools-dominating-2024s-digital-scene/"><u>Discover the Ultimate List: Elite Note-Taking Tools Dominating 2024'S Digital Scene</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effortless-steps-for-resolving-missing-winhttpdll-error-messages/"><u>Effortless Steps for Resolving Missing Winhttp.dll Error Messages</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-advice-on-mixing-up-awkward-potions-in-the-world-of-minecraft/"><u>Expert Advice on Mixing Up Awkward Potions in the World of Minecraft</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-dead-iphone-8-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to recover data from dead iPhone 8 Plus | Stellar</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/integrating-pinterest-on-facebook-a-step-by-step-guide/"><u>Integrating Pinterest on Facebook: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/lost-your-facebook-password-retrieve-it-using-alternative-methods/"><u>Lost Your Facebook Password? Retrieve It Using Alternative Methods</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-quick-and-secure-sign-in-setting-up-auto-logon-for-windows-users/"><u>Mastering Quick and Secure Sign-In: Setting Up Auto Logon for Windows Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/maximize-your-online-presence-how-to-attach-a-pinterest-widget-directly-to-your-facebook-page/"><u>Maximize Your Online Presence: How to Attach a Pinterest Widget Directly to Your Facebook Page</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/maximize-your-workout-the-10-most-effective-fitness-progress-trackers/"><u>Maximize Your Workout: The 10 Most Effective Fitness Progress Trackers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-artistry-selecting-from-6-best-nft-makers/"><u>Navigating Artistry  Selecting From 6 Best NFT Makers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-through-net-neutrality-a-comprehensive-overview/"><u>Navigating Through Net Neutrality - A Comprehensive Overview</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/perfect-your-video-nine-essential-filters-for-live-streaming-for-2024/"><u>Perfect Your Video  Nine Essential Filters for Live Streaming for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/protecting-your-mobile-number-a-comprehensive-android-tutorial/"><u>Protecting Your Mobile Number - A Comprehensive Android Tutorial</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/reattaching-a-missing-keys-a-guide-to-restoring-your-laptop-keyboard/"><u>Reattaching a Missing Keys: A Guide to Restoring Your Laptop Keyboard</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/simplify-your-mobile-experience-mastering-the-quick-settings-on-android-devices/"><u>Simplify Your Mobile Experience: Mastering the Quick Settings on Android Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-pairing-and-using-a-chromecast-remote-for-flawless-media-control/"><u>Step-by-Step Tutorial: Pairing and Using a Chromecast Remote for Flawless Media Control</u></a></li>
+<li><a href="https://article-posts.techidaily.com/superior-screens-for-digital-artists-top-picks/"><u>Superior Screens for Digital Artists – Top Picks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-foremost-workout-logging-tools-for-athletes-and-gym-buffs-in-the-landmark-year-of-2024/"><u>The Foremost Workout Logging Tools for Athletes and Gym Buffs in the Landmark Year of 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Vivo Y78t? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-5-best-free-antivirus-utilities-for-malware-protection/"><u>Top 5 Best Free Antivirus Utilities for Malware Protection</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-pick-childrens-films-streaming-on-disneyplus-in-july-2024/"><u>Top Pick Children's Films Streaming on Disney+ in July 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-for-fixing-mfplatdll-missing-errors-effectively/"><u>Troubleshooting Steps for Fixing Mfplat.dll Missing Errors Effectively</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unboxing-the-samsung-galaxy-z-flip-6-insights-on-cost-launch-timeline-and-latest-updates/"><u>Unboxing the Samsung Galaxy Z Flip 6: Insights on Cost, Launch Timeline & Latest Updates</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/uncover-hidden-data-steps-to-restore-removed-phone-numbers-in-android-devices/"><u>Uncover Hidden Data: Steps to Restore Removed Phone Numbers in Android Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-fix-when-your-wi-fi-wont-show-up/"><u>Unveiling the Fix: When Your Wi-Fi Won't Show Up</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upgrade-your-email-experience-with-mozillas-newly-released-thunderbird-update-version-cu52/"><u>Upgrade Your Email Experience with Mozilla's Newly Released Thunderbird Update - Version Cu52</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/xilinx-driver-alerted-corrected-for-continued-use/"><u>XILINX Driver Alerted, Corrected for Continued Use</u></a></li>
+</ul></div>

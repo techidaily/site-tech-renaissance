@@ -1,7 +1,7 @@
 ---
 title: Effortlessly Start Your PC in Safe Mode on Windows 11 - A Comprehensive Guide to All 4 Strategies and Their Images
-date: 2024-08-14 22:14:19
-updated: 2024-08-16 10:59:13
+date: 2024-08-18T22:56:38.266Z
+updated: 2024-08-19T22:56:38.266Z
 tags:
   - win11
   - win10
@@ -41,6 +41,9 @@ This article explains how to manually start Windows 10 in safe mode.
 
 **IMPORTANT:** This method must be manually enabled from within Windows. If you haven't already enabled it, and you can't access Windows to do so, [skip to method 2 below](https://tools.techidaily.com/drivereasy/download/).
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ### First, you have to enable the F8 key method
 
  On Windows 7, you could press the F8 key as your computer was booting to access the Advanced Boot Options menu. From there, you could access Safe Mode.
@@ -95,6 +98,9 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/diagnose-your-pc-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  4) Click**Advanced Options** :
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/advanced-options-2-1.jpg)
@@ -103,6 +109,9 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/troubleshoot.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
  6) Click**Advanced options** :
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/troubleshoot-screen.jpg)
@@ -115,14 +124,24 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/restart.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Your computer will restart and present a list of different startup options.
 
  9) On your keyboard, press the number**4** key to enter Safe Mode without internet access or the number**5** key to enter Safe Mode with internet access:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/enable-safe-mode.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Method 3: Start Safe Mode using the System Configuration tool
 
 **IMPORTANT:** If you follow these instructions, Windows will start in Safe Mode every time it restarts, until you undo your changes.
@@ -141,6 +160,10 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/restart-computer.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### To turn off Safe Mode and go back to normal mode
 
  When you want to return Windows to normal mode, you just have to undo your changes:
@@ -149,16 +172,26 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Start-System-Configuration-tool.png)
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2) Select the **Boot**  tab, then UNcheck **Safe boot**  and  click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/safe-boot-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
  3) When you’re prompted to restart your computer to apply these changes, click **Restart**  and you’ll boot into normal mode.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/restart-computer.jpg)
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## Method 4: Start Safe Mode from the login screen
 
 If you can boot to the login screen, you can enter Safe Mode from there:
@@ -175,10 +208,16 @@ The Windows RE (Recovery environment) screen will then display.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/troubleshoot-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
  4) Click **Advanced options** :
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/advanced-options-screen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  5) Click **Startup Settings** :
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/startup-settings.jpg)
@@ -195,6 +234,9 @@ The Windows RE (Recovery environment) screen will then display.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Can’t solve the problem? Try Driver Easy
 
  If you couldn’t solve your computer problem in Safe Mode but you can still run Windows normally, give **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  a try.
@@ -211,12 +253,23 @@ The Windows RE (Recovery environment) screen will then display.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594b60655cf90.png)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
  3) Click the**Update** button next to any flagged device to automatically download and install the correct version of that driver (you can do this with the FREE version).
 
  Or click**Update All**  to automatically download and install the correct version of**_all_** the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58febfb1a2a71.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 * [Windows 10](https://tools.techidaily.com/drivereasy/download/)
 
 <ins class="adsbygoogle"
@@ -233,3 +286,47 @@ The Windows RE (Recovery environment) screen will then display.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-optimizing-facebook-videos-for-hd-broadcasts-and-beyond-for-2024/"><u>[New] Optimizing Facebook Videos for HD Broadcasts and Beyond for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-screen-capture-unveiled-with-irecorder-for-2024/"><u>[New] Screen Capture Unveiled with iRecorder for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-can-instant-subscription-lead-to-higher-watch-time/"><u>[Updated] Can Instant Subscription Lead to Higher Watch Time?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-embrace-the-pause-button-3-techniques-for-decelerating-youtube-video-playback-59-chars-slight-overage-with-rich-content-justification/"><u>[Updated] Embrace the Pause Button  3 Techniques for Decelerating YouTube Video Playback (59 Chars, Slight Overage with Rich Content Justification)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-gaming-on-one-disabling-cross-play-and-selecting-top-platforms-for-2024/"><u>[Updated] Gaming on One  Disabling Cross-Play and Selecting Top Platforms for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-stepping-up-your-gaming-stream-with-steam-capture/"><u>[Updated] Stepping Up Your Gaming Stream with Steam Capture</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-campaign-tactics-for-enhancing-health-awareness/"><u>2024 Approved  Campaign Tactics for Enhancing Health Awareness</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-monitoring-your-instagram-fan-loss-rate/"><u>2024 Approved  Monitoring Your Instagram Fan-Loss Rate</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722897870676-56-divided-by-3-is-18-with-a-remainder-of-2/"><u>56 Divided by 3 Is 18 with a Remainder of 2</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-detailed-look-into-bing-the-search-engine-that-challenges-googles-dominance/"><u>A Detailed Look Into Bing: The Search Engine That Challenges Google's Dominance</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/accelerating-your-tiktok-content-a-quick-guide-for-2024/"><u>Accelerating Your TikTok Content  A Quick Guide for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoiding-non-functional-shortcuts-with-windows-snips/"><u>Avoiding Non-Functional Shortcuts with Windows Snips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/boost-to-butter-smooth-visuals-a-step-by-step-for-achieving-120-fps-on-playstation-5/"><u>Boost to Butter-Smooth Visuals: A Step-by-Step for Achieving 120 FPS on PlayStation 5</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/clearing-system-cache-partition-on-android-what-you-need-to-know/"><u>Clearing System Cache Partition on Android: What You Need To Know</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-tutorial-how-to-unset-security-access-code-in-windows-11/"><u>Complete Tutorial: How to Unset Security Access Code in Windows 11</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/effective-solutions-for-palworld-stability-issues-and-avoiding-pc-freezes/"><u>Effective Solutions for Palworld Stability Issues and Avoiding PC Freezes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/eliminating-access-for-specific-gear-in-your-google-nest-setup-simplified/"><u>Eliminating Access for Specific Gear in Your Google Nest Setup Simplified</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-on-adjusting-picture-parameters-in-samsung-4k-displays/"><u>Expert Tips on Adjusting Picture Parameters in Samsung 4K Displays</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-the-elite-circle-leading-tv-streamers-making-waves-in-2econdry-2024/"><u>Explore The Elite Circle: Leading TV Streamers Making Waves in 2Econdry 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-resuscitate-an-inactive-instagram-account-a-comprehensive-guide/"><u>How to Resuscitate an Inactive Instagram Account: A Comprehensive Guide</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-the-activation-lock-on-your-ipad-and-iphone-xs-without-apple-account-by-drfone-ios/"><u>In 2024, How to Remove the Activation Lock On your iPad and iPhone XS without Apple Account</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pushing-boundaries-camera-capabilities-in-ios-11/"><u>In 2024, Pushing Boundaries  Camera Capabilities in iOS 11</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Realme 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/iphoneipad-photography-tips-learn-to-zoom-with-precision/"><u>IPhone/iPad Photography Tips: Learn to Zoom with Precision</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/lifewire-presents-top-movies-to-start-streaming-now/"><u>Lifewire Presents: Top Movies to Start Streaming Now</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/maximizing-productivity-with-macs-multi-monitor-setup-tutorial/"><u>Maximizing Productivity with Mac's Multi-Monitor Setup Tutorial</u></a></li>
+<li><a href="https://media-tips.techidaily.com/mp4-to-movwmv-conversion-the-ultimate-guide-with-flip-video-editor/"><u>MP4 to MOV/WMV Conversion: The Ultimate Guide with Flip Video Editor</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-screen-flaws-essential-techniques-to-fix-colour-distortions-and-image-warping-on-your-computer/"><u>Overcoming Screen Flaws: Essential Techniques to Fix Colour Distortions & Image Warping on Your Computer</u></a></li>
+<li><a href="https://win-forum.techidaily.com/overcoming-the-this-program-doesnt-run-in-pcs-expert-solutions/"><u>Overcoming the 'This Program Doesn't Run in PCs': Expert Solutions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/premier-destinations-amplifying-youtube-videos-for-2024/"><u>Premier Destinations Amplifying YouTube Videos for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/protect-your-personal-numbers-an-android-phone-guide/"><u>Protect Your Personal Numbers – An Android Phone Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-not-detected-and-missing-issues-with-gsdll32dll/"><u>Resolving 'Not Detected' And 'Missing' Issues with gsdll32.dll</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/securing-your-profile-learn-how-to-modify-your-facebook-login-key/"><u>Securing Your Profile - Learn How to Modify Your Facebook Login Key</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-evolution-continues-what-to-know-about-apples-most-recent-ipad-upgrade/"><u>The Evolution Continues: What to Know About Apple's Most Recent iPad Upgrade</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-5-troubleshooting-steps-for-fixing-biomutant-pc-issues-as-of-2024/"><u>Top 5 Troubleshooting Steps for Fixing Biomutant PC Issues as of 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-poco-c55-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Poco C55 FRP Bypass</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-resolving-common-issues-in-your-iphones-screen-mirroring-app/"><u>Ultimate Guide: Resolving Common Issues in Your iPhone's Screen Mirroring App</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-selection-of-cost-effective-home-theater-systems-for-starters/"><u>Ultimate Selection of Cost-Effective Home Theater Systems for Starters</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-the-secrets-a-guide-to-acquiring-microsofts-educational-discount/"><u>Unlocking the Secrets: A Guide to Acquiring Microsoft's Educational Discount</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/whats-coming-for-samsung-galaxy-watch-7-insider-info-on-pricing-release-window-specifications-and-recent-news/"><u>What's Coming for Samsung Galaxy Watch 7: Insider Info on Pricing, Release Window, Specifications & Recent News</u></a></li>
+</ul></div>

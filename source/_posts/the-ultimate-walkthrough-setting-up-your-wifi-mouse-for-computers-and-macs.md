@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Walkthrough: Setting Up Your WiFi Mouse for Computers and Macs"
-date: 2024-08-14 19:14:42
-updated: 2024-08-16 10:19:59
+date: 2024-08-18T22:59:02.352Z
+updated: 2024-08-19T22:59:02.352Z
 tags:
   - win11
   - win10
@@ -75,6 +75,10 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/safe-mode-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
  If the Boot Options menu above doesn’t display, and instead Windows just launches normally, it’s likely that you didn’t press F8 early enough.
 
 ---
@@ -91,10 +95,18 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/preparing-automatic-repair-screen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3) Wait for Windows to diagnose your PC:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/diagnose-your-pc-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
  4) Click**Advanced Options** :
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/advanced-options-2-1.jpg)
@@ -103,6 +115,9 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/troubleshoot.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  6) Click**Advanced options** :
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/troubleshoot-screen.jpg)
@@ -115,12 +130,18 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/restart.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
  Your computer will restart and present a list of different startup options.
 
  9) On your keyboard, press the number**4** key to enter Safe Mode without internet access or the number**5** key to enter Safe Mode with internet access:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/enable-safe-mode.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ---
 
 ## Method 3: Start Safe Mode using the System Configuration tool
@@ -137,10 +158,16 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/safe-boot.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
  3) When you’re prompted to restart your computer to apply these changes, click **Restart**  and you’ll boot into Safe Mode.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/restart-computer.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### To turn off Safe Mode and go back to normal mode
 
  When you want to return Windows to normal mode, you just have to undo your changes:
@@ -149,6 +176,9 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Start-System-Configuration-tool.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2) Select the **Boot**  tab, then UNcheck **Safe boot**  and  click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/safe-boot-2.jpg)
@@ -157,6 +187,9 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/restart-computer.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ---
 
 ## Method 4: Start Safe Mode from the login screen
@@ -175,14 +208,32 @@ The Windows RE (Recovery environment) screen will then display.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/troubleshoot-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
  4) Click **Advanced options** :
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/advanced-options-screen.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  5) Click **Startup Settings** :
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/startup-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
  6) Click **Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/restart.jpg)
@@ -195,6 +246,9 @@ The Windows RE (Recovery environment) screen will then display.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Can’t solve the problem? Try Driver Easy
 
  If you couldn’t solve your computer problem in Safe Mode but you can still run Windows normally, give **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  a try.
@@ -217,6 +271,9 @@ The Windows RE (Recovery environment) screen will then display.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58febfb1a2a71.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 * [Windows 10](https://tools.techidaily.com/drivereasy/download/)
 
 <ins class="adsbygoogle"
@@ -233,3 +290,38 @@ The Windows RE (Recovery environment) screen will then display.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-download-twitter-gif-3-ways-to-download-gifs-from-twitter-on-your-pc/"><u>[New] Download Twitter GIF  3 Ways to Download GIFs From Twitter on Your PC</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-channel-your-inner-videographer-to-produce-top-tier-edu-videos/"><u>[Updated] 2024 Approved  Channel Your Inner Videographer to Produce Top-Tier Edu-Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-satirical-space-the-ultimate-guide-to-20plus-humorous-metaverse-imagery/"><u>[Updated] In 2024, Satirical Space  The Ultimate Guide to 20+ Humorous Metaverse Imagery</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-strategic-steps-for-pinpointing-a-list-film-creators/"><u>2024 Approved  Strategic Steps for Pinpointing A-List Film Creators</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/5-critical-questions-to-ask-before-investing-in-new-stereo-speakers/"><u>5 Critical Questions to Ask Before Investing in New Stereo Speakers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-beginners-handbook-to-screenshotting-on-an-xbox-one-system/"><u>A Beginner’s Handbook to Screenshotting on an Xbox One System</u></a></li>
+<li><a href="https://games-able.techidaily.com/affordable-white-motherboards-2023s-budget-hits/"><u>Affordable White Motherboards: 2023'S Budget Hits</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-guide-mastering-remote-connection-features-on-your-samsung-smart-tv/"><u>Complete Guide: Mastering Remote Connection Features on Your Samsung Smart TV</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-instructions-adjusting-user-passwords-apart-from-yours-on-windows-systems/"><u>Comprehensive Instructions: Adjusting User Passwords Apart From Yours on Windows Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diagnosing-issues-why-arent-your-car-speakers-functioning/"><u>Diagnosing Issues: Why Aren't Your Car Speakers Functioning?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-process-of-implementing-chatbots-into-your-discord-server-setup/"><u>Discover the Process of Implementing Chatbots Into Your Discord Server Setup</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-steps-for-troubleshooting-iphones-how-to-get-inout-of-devices-recovery-state/"><u>Easy Steps for Troubleshooting iPhones: How to Get In/Out of Device's Recovery State</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-our-top-recommendations-of-15-gratis-pre-loaded-antivirus-applications/"><u>Explore Our Top Recommendations of 15 Gratis, Pre-Loaded Antivirus Applications</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fix-mscorwksdll-not-found-issues-on-your-computer-effectively/"><u>Fix Mscorwks.dll Not Found Issues on Your Computer Effectively</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/get-ready-for-a-revolution-apples-touchscreen-macbook-dive-into-rumored-pricing-launch-date-and-tech-specs/"><u>Get Ready For a Revolution: Apple's Touchscreen MacBook – Dive Into Rumored Pricing, Launch Date & Tech Specs</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-6-effective-ways-of-resizing-your-igtv-videos/"><u>In 2024, 6 Effective Ways of Resizing Your IGTV Videos</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-accessibility-on-ig-how-to-add-text-overlays-to-your-stories/"><u>Mastering Accessibility on IG - How to Add Text Overlays to Your Stories</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-enhance-your-video-content-how-to-add-subtitles-and-captions-in-final-cut-pro-x/"><u>New In 2024, Enhance Your Video Content How to Add Subtitles and Captions in Final Cut Pro X</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/no-more-dll-problems-expert-fixes-for-the-ocidll-not-found-alert/"><u>No More DLL Problems: Expert Fixes for the Oci.dll Not Found Alert</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-msvcrtdll-issues-a-comprehensive-guide-for-windows-users/"><u>Overcoming msvcrt.dll Issues: A Comprehensive Guide for Windows Users</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ricoh-theta-s-uncovered-a-complete-audit/"><u>Ricoh Theta S Uncovered  A Complete Audit</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-xiaomi-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Xiaomi</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/skype-not-working-as-it-should-here-are-the-best-fixes-you-need-to-know/"><u>Skype Not Working as It Should? Here Are the Best Fixes You Need to Know</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solutions-for-overcoming-the-notorious-blue-screen-errors-in-windows/"><u>Step-by-Step Solutions for Overcoming the Notorious Blue Screen Errors in Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/steps-to-install-an-alternative-web-browser-on-your-samsung-tv/"><u>Steps to Install an Alternative Web Browser on Your Samsung TV</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/steps-to-recover-from-dnssddll-file-not-found-errors-efficiently/"><u>Steps to Recover From DNSSD_DLL File Not Found Errors Efficiently</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-future-is-now-embrace-the-power-of-verizons-5g-technology/"><u>The Future Is Now: Embrace the Power of Verizon's 5G Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-scholarly-research-with-advanced-ai-tools-the-top-4-ways/"><u>Transforming Scholarly Research with Advanced AI Tools - The Top 4 Ways</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-full-web-experience-how-to-allow-cookies-in-your-browser/"><u>Unlock Full Web Experience: How to Allow Cookies in Your Browser</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-samsung-galaxy-watch-7-costs-launch-timeline-and-key-features/"><u>Unveiling the Samsung Galaxy Watch 7: Costs, Launch Timeline & Key Features</u></a></li>
+</ul></div>

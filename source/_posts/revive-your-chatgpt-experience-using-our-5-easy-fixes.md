@@ -1,7 +1,7 @@
 ---
 title: Revive Your ChatGPT Experience Using Our 5 Easy Fixes!
-date: 2024-08-14 15:20:54
-updated: 2024-08-16 12:18:14
+date: 2024-08-18T22:57:55.959Z
+updated: 2024-08-19T22:57:55.959Z
 tags:
   - win11
   - win10
@@ -38,6 +38,9 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
 5. **[Update device drivers](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Repair corrupt system files](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 1: Run the Windows Update Troubleshooter
 
  The Update troubleshooter is a Windows built-in utility that can help resolve common issues with downloading and installing Windows updates.
@@ -48,6 +51,9 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-144.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 **2)** Select**Update & Security.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-145.png)
@@ -60,6 +66,9 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
 
  If the tool didn’t detect any issues, don’t worry! There are still 5 more fixes to try.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2: Disable third-party startups
 
  Some third-party applications may conflict with Windows update and cause disruptions to the process. To see if that’s the problem for you, follow the instructions below to disable auto startups on your PC:
@@ -68,6 +77,9 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-149.png)
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **2)** Click the**Startup** tab. Then, right-click the program you want to prevent it from opening on startup and select**Disable** .
 
  Only disable programs that you know that you don’t need to launch automatically at startup. You should keep your antivirus launching automatically for safety
@@ -84,12 +96,18 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
  On your keyboard, press **the Windows logo** **key**  and **R** at the same time to open the Run box.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-12-31_14-10-17.jpg)
 2. **Type services.msc, then press the Enter key on your keyboard.**  
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Type **services.msc** , then press the **Enter** key on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-12-31_14-10-55.jpg)
 3. **Right-click the Windows Update and click Restart.**  
  Right-click the **Windows Update** and click **Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-12-31_14-11-48.jpg)
 4. **Restart your PC to test the issue.**  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 Restart your PC to test the issue.
 
 If your problem persists, then move on to the next fix.
@@ -112,16 +130,27 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-150.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **2)** Select**Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-151.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 **3)** Right-click the program that you don’t use and select**Uninstall** .
 
  Only uninstall those programs that you don’t use anymore, don’t remove any program that you are not familiar with. It may be critical for the functioning of your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/uninstall-program.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
  This could help free up lots of space if you have many unused programs on your computer.
 
 #### Free up your space with the Disk Cleanup tool
@@ -146,6 +175,9 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-156.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ---
 
 ### Fix 5: Update your device drivers
@@ -172,6 +204,9 @@ If your problem persists, then move on to the next fix.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 6: Repair corrupted system files
 
  Corrupted or damaged system files may also be the reason why your computer updates so slow. Follow the instructions below to see how to fix the issue:
@@ -194,6 +229,9 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/image-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #### Run the System File Checker
 
 **1)** On your keyboard, press the**Windows logo** key and**R** at the same time.
@@ -204,12 +242,18 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-159.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 **3)** Type**sfc.exe /scannow** , then press the**Enter** key on your keyboard.
 
  This process could take a little while. Please wait for it to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-166.png)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If running the System File Checker didn’t help resolve your problem, try using the DISM tool to update your system files and correct your problem.
 
 #### Run the DISM command tool
@@ -253,3 +297,46 @@ If your problem persists, then move on to the next fix.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-filtering-through-youtube-talks/"><u>[New] 2024 Approved  Filtering Through YouTube Talks</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-skyrocketing-sales-with-high-roi-in-dynamic-fb-ad-creations-for-2024/"><u>[New] Skyrocketing Sales with High ROI in Dynamic FB Ad Creations for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-step-into-photo-magic-innovative-edits-on-snapchat-for-2024/"><u>[New] Step Into Photo Magic  Innovative Edits on Snapchat for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-unlocking-the-secrets-of-facebooks-live-feature-for-2024/"><u>[Updated] Unlocking the Secrets of Facebook's Live Feature for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-value-oriented-pc-recording-tools/"><u>[Updated] Value-Oriented PC Recording Tools</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-in-depth-look-at-gaming-screen-capture-tools/"><u>2024 Approved  In-Depth Look at Gaming Screen Capture Tools</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-overcoming-connectivity-issues-in-your-live-feed/"><u>2024 Approved  Overcoming Connectivity Issues in Your Live Feed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/boost-your-productivity-easy-steps-for-dual-monitor-configuration-on-mac-computers/"><u>Boost Your Productivity: Easy Steps for Dual Monitor Configuration on Mac Computers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/clearing-space-easy-ways-to-delete-apps-on-a-samsung-television-set/"><u>Clearing Space: Easy Ways to Delete Apps on a Samsung Television Set</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafting-memes-the-ultimate-guide-to-gif-creation-for-2024/"><u>Crafting Memes  The Ultimate Guide to GIF Creation for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/cut-costs-effortlessly-our-curated-list-of-top-6-coupons-and-deal-sources/"><u>Cut Costs Effortlessly: Our Curated List of Top 6 Coupons & Deal Sources</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enhancing-viewing-experience-how-to-clean-up-your-samsung-tv-by-deleting-unwanted-apps/"><u>Enhancing Viewing Experience: How to Clean Up Your Samsung TV by Deleting Unwanted Apps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-these-15-fantastic-gratis-software-uninstallers-for-your-pc/"><u>Explore These 15 Fantastic Gratis Software Uninstallers for Your PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-upcoming-apple-home-robot-projections-for-cost-release-and-tech-specs/"><u>Exploring the Upcoming Apple Home Robot - Projections for Cost, Release, & Tech Specs</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/font-powerhouses-for-captivating-youtube-thumbnails/"><u>Font Powerhouses for Captivating YouTube Thumbnails</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/from-annoying-alerts-to-serious-signals-deciphering-the-meaning-of-a-computers-blue-screen/"><u>From Annoying Alerts to Serious Signals: Deciphering the Meaning of a Computer's Blue Screen</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722894758207-google-pixel-phase-9-a-glimpse-into-future-specs-pricing-and-expected-debut-date/"><u>Google Pixel Phase 9 - A Glimpse Into Future Specs, Pricing & Expected Debut Date</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harness-the-power-of-online-cropping-to-elevate-your-photos-for-2024/"><u>Harness the Power of Online Cropping to Elevate Your Photos for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-12-pro-to-an-older-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 12 Pro to an Older Version? | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-5-dreamy-winter-scenes-as-youtube-backdrops/"><u>In 2024, 5 Dreamy Winter Scenes as YouTube Backdrops</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-share-mac-to-apple-iphone-14-pro-drfone-by-drfone-ios/"><u>In 2024, How to Screen Share Mac to Apple iPhone 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ios-18-unveiled-cost-free-launch-details-innovative-features-and-latest-updates/"><u>IOS 18 Unveiled: Cost-Free Launch Details, Innovative Features & Latest Updates</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/locating-electric-vehicle-chargers-with-google-maps-a-comprehensive-guide/"><u>Locating Electric Vehicle Chargers with Google Maps: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-the-art-of-inserting-text-overlays-in-instagram-story-mode/"><u>Master the Art of Inserting Text Overlays in Instagram Story Mode</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-10-best-free-video-rotation-software-for-flipping-clips/"><u>New 2024 Approved 10 Best Free Video Rotation Software for Flipping Clips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ps4-screenshot-secrets-revealed-easy-guide-for-gamers/"><u>PS4 Screenshot Secrets Revealed: Easy Guide for Gamers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-mystery-troubleshooting-msvcrt10dll-file-missing-issues/"><u>Solving the Mystery: Troubleshooting 'Msvcrt10.dll' File Missing Issues</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-correct-viewing-sequence-for-all-conjuring-movies-a-step-by-step-guide/"><u>The Correct Viewing Sequence for All 'Conjuring' Movies: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ideal-timing-a-guide-on-how-to-opt-out-from-your-previously-followed-accounts-on-x-formerly-twitter/"><u>The Ideal Timing: A Guide on How to Opt Out From Your Previously Followed Accounts on [X Formerly Twitter]</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-superiority-of-electric-vehicles-over-gas-cars-the-inside-scoop/"><u>The Superiority of Electric Vehicles Over Gas Cars - The Inside Scoop</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-for-a-smooth-netflix-experience-amidst-ui-800-3-glitches/"><u>Troubleshooting Tips for a Smooth Netflix Experience Amidst UI-800-3 Glitches</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-tutorial-on-uniting-multiple-fortnite-accounts-in-one/"><u>Ultimate Tutorial on Uniting Multiple Fortnite Accounts in One</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unable-to-find-or-connect-to-a-printer-on-your-ipad-heres-help/"><u>Unable to Find or Connect to a Printer on Your iPad? Here's Help!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-nokia-c12-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Nokia C12 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unstick-your-iphone-screen-effective-solutions-for-a-responsive-touch/"><u>Unstick Your iPhone Screen: Effective Solutions for a Responsive Touch</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unveiling-the-truth-behind-the-postponement-of-guilty-gare-strive/"><u>Unveiling the Truth Behind The Postponement of 'Guilty Gare Strive'</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upcoming-xbox-virtual-reality-experience-unveiling-the-specs-pricing-and-launch-details/"><u>Upcoming Xbox Virtual Reality Experience: Unveiling the Specs, Pricing & Launch Details</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/wire-free-movie-nights-crafting-the-perfect-dorm-room-home-theater-on-a-budget/"><u>Wire-Free Movie Nights: Crafting the Perfect Dorm Room Home Theater on a Budget</u></a></li>
+</ul></div>

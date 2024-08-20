@@ -1,7 +1,7 @@
 ---
 title: "PC Survival Tactics: A Beginner’s Handbook to Jump Into Fortnite Action"
-date: 2024-08-14 21:49:54
-updated: 2024-08-16 12:26:37
+date: 2024-08-18T22:54:38.103Z
+updated: 2024-08-19T22:54:38.103Z
 tags:
   - win11
   - win10
@@ -57,11 +57,20 @@ thumbnail: https://thmb.techidaily.com/59f91e855b8da924b2a0ba83734da21e4ed3929e8
 1. Click **[this link](https://www.epicgames.com/fortnite/en-US/download?sessionInvalidated=true)**  to download and install Fortnite.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd824ec12d74.jpg)
 2. Open Fortnite.
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3. Sign in (Make sure you’ve set up an account).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd82a6c62500.jpg)
 4. Select**BATTLE ROYALE** .  
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd82d5471bac.jpg)
 5. You may find Battle Royale a bit daunting to begin with, and you can first familiarize yourself with its settings — Click the 3 lines on the top right, then select the cog icon to open the settings menu.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd8329869963.jpg)
 6. Click the**Input** icon to view keys for actions. You can also reset the keys according to your preferences. Then keep in mind the keys.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd832210f928.jpg)
@@ -70,14 +79,23 @@ thumbnail: https://thmb.techidaily.com/59f91e855b8da924b2a0ba83734da21e4ed3929e8
 8. Select a mode, then click**ACCEPT** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83ada51ab1.jpg)  
 **Note:** If you select**Duos** or**Squads** but play alone, verify that you also select**FILL** , and Fortnite will matchmake you with other players online; otherwise, if you select**DON’T FILL** , you may have to compete against a team of four alone.  
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83c7ada3f0.jpg)
 9. Click the**PLAY** button to begin.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83e5e0040d.jpg)
 10. You’ll find yourself in the holding area calld**Spawn Island** . During this 60-second period, you can practice using your pickaxe, picking up weapons, ammunition and building materials, but you can’t bring anything with you into the game.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd93d6f66913.jpg)
 11. When the game fills up with 99 other players, you’ll automatically be on the**Battle Bus** . It flies in the air and transports you across the game’s map. It’ll let you know when you can jump down into the game.  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd93d4c46f1e.jpg)  
 **Note:** When you’re skydiving, move your mouse and use movement controls (default: W, A, S, D keys) to head for**houses** . There’re usually treasure chests hidden inside.  
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd94858cba7c.jpg)
 12. Once on the ground, keep an eye for**chests** , which contain weapons you’ll need, as well as ammunition and medical supplies like first aid kits, bandages, and shield potions.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd94c9e1bd2d.jpg)  
@@ -85,11 +103,20 @@ thumbnail: https://thmb.techidaily.com/59f91e855b8da924b2a0ba83734da21e4ed3929e8
 **Note:** Remember to aim at the blue circle, which will speed up the damage.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd94d52056f5.jpg)  
  If you find an opponent, you can either hide or quickly press key (displayed in the lower left corner) to use weapon and shoot the player.  
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd94bd308fbd.jpg)  
  Some weapons are certainly better than others. When you’re struggling to decide whether or not to swap one weapon out for another, revert back to the color list below. It descends from weakest to strongest, with gold being the most powerful.
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd95bd6d3175.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
  Common — Uncommon — Rare — Epic — Legendary
 
 * When you have enough building materials, you may also need to build defensive structures quickly, such as walls, ceilings, stairs, ramps, and doors. Press**Q** to enter**building mode** . Access your blueprint through one of your building slots (**F1 – F4** ), and you’ll see a projected image of what your structure will look like. Set it down in place by pressing the left mouse button.  
@@ -104,14 +131,28 @@ thumbnail: https://thmb.techidaily.com/59f91e855b8da924b2a0ba83734da21e4ed3929e8
  Then you can press**G** to edit your building structures.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd957345965d.jpg)
 * Once you’ve been playing for a few minutes, you’ll see an indicator pop up to let you know that the storm is shrinking. You can press**M** to get to your map and find a safe area, which is everything inside the circle. You can go through the storm, but doing so will affect your health and eventually eliminate you from the game.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 **Note:** The purple restricted area is enlarging, and the withe circle(the safe zone) is shrinking, forcing remaining players into smaller and smaller spaces, until only one player is left standing. If that play is you, you’ll get a Victory Royale!  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd9587c36338.jpg)  
  If you’re just getting started, your primary focus should be to learn how to do two things:**shoot and build** .
 * If you are eliminated, you can continue watching the game from the perspective of the person who eliminated you from the game; or just quit out and start again. Doing the former may enable you to learn about what makes a better player.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd941ca8ad7a.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Pro tips: How to get good at Fortnite Battle Royale?
 
 #### Pro tip 1: Play Fortnite Battle Royale a lot
@@ -134,6 +175,9 @@ thumbnail: https://thmb.techidaily.com/59f91e855b8da924b2a0ba83734da21e4ed3929e8
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd9718c13fe0.jpg)
 3. Click the**Update** button next to your device to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd971f327a28.jpg)  
  Note: If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
@@ -146,6 +190,9 @@ thumbnail: https://thmb.techidaily.com/59f91e855b8da924b2a0ba83734da21e4ed3929e8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83b4e36894-1024x576.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
  If you have any question or suggestion, please feel free to leave a comment below.
 
  If you find this post helpful to you, please use our creator code:`**DRIVEREASY**` to support us so that we can continue to create more high-quality content. In connection with[Epic Games’ Support-A-Creator Program](https://www.epicgames.com/affiliate/en-US/overview) , we may receive a commission from certain in-game purchases.
@@ -166,3 +213,47 @@ thumbnail: https://thmb.techidaily.com/59f91e855b8da924b2a0ba83734da21e4ed3929e8
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-a-step-by-step-approach-to-professional-chromatic-control/"><u>[New] A Step by Step Approach to Professional Chromatic Control</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-exclusive-list-skypes-top-audio-recorders/"><u>[New] Exclusive List  Skype's Top Audio Recorders</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-secrets-for-hd-streaming-on-the-worlds-largest-social-network/"><u>[New] Secrets for HD Streaming on the World's Largest Social Network</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-goofy-adventure-a-critical-appraisal-videotape-edition/"><u>[Updated] 'The Goofy Adventure' - A Critical Appraisal Videotape Edition</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-comprehensive-guide-to-xbox-screen-recording-success-for-2024/"><u>[Updated] Comprehensive Guide to Xbox Screen Recording Success for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-demystifying-video-recordingediting-a-comprehensive-guide-on-adobe-connect/"><u>[Updated] Demystifying Video Recording/Editing  A Comprehensive Guide on Adobe Connect</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-effective-practices-for-device-video-capture/"><u>[Updated] Effective Practices for Device Video Capture</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-good-youtube-names-generators-plus-how-to-brainstorm/"><u>[Updated] Good YouTube Names Generators [+ How to Brainstorm]</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-youtube-mastery-starts-here-building-and-monetizing-your-channel/"><u>[Updated] YouTube Mastery Starts Here  Building and Monetizing Your Channel</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/20-viral-tiktok-anime-ideas-for-2024/"><u>20 Viral Tiktok Anime Ideas for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-beginners-tutorial-to-switch-network-discovery-on-or-off-on-windows-10-systems/"><u>A Beginner's Tutorial to Switch Network Discovery On or Off on Windows 10 Systems</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/audiophiles-choice-best-microphones-for-podcasting/"><u>Audiophile's Choice  Best Microphones for Podcasting</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/best-5-ai-voice-generators-online-supports-all-browsers-for-2024/"><u>Best 5 AI Voice Generators Online (Supports All Browsers) for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-overview-how-espnplus-redefines-accessibility-for-modern-fans-through-its-subscription-service/"><u>Comprehensive Overview: How ESPN+ Redefines Accessibility for Modern Fans Through Its Subscription Service</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/decoding-bsod-a-comprehensive-guide-on-microsofts-blue-screen-of-death-explained/"><u>Decoding BSOD: A Comprehensive Guide on Microsoft's Blue Screen of Death Explained</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-solutions-for-when-you-cant-find-or-locate-comctl32dll-file/"><u>Effective Solutions for When You Can't Find or Locate Comctl32.dll File</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722887670144-eliminate-code-groovyerrors-with-these-proven-repair-methods-and-hacks/"><u>Eliminate Code groovyErrors with These Proven Repair Methods and Hacks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-for-finding-the-best-school-computer-a-definitive-buying-guide/"><u>Expert Tips for Finding the Best School Computer: A Definitive Buying Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/free-movie-goldmine-your-guide-to-the-best-film-selections-on-youtube-in-july-2024/"><u>Free Movie Goldmine: Your Guide to the Best Film Selections on YouTube in July 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-can-i-unlock-my-iphone-15-plus-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>How Can I Unlock My iPhone 15 Plus After Forgetting my PIN Code? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-correctly-address-nospinlockavailable-bsod-stop-code-0x0000001d-in-windows/"><u>How to Correctly Address NO_SPIN_LOCK_AVAILABLE BSOD (Stop Code 0X0000001D) in Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-disable-or-reset-your-login-pin-in-windows-11-easily/"><u>How to Disable or Reset Your Login PIN in Windows 11 Easily</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-resolve-the-issue-of-apple-watch-ignoring-step-counts-at-home/"><u>How to Resolve the Issue of Apple Watch Ignoring Step Counts at Home</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-advanced-io-screen-capturing-techniques/"><u>In 2024, Advanced IO Screen Capturing Techniques</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-poco-c50-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Poco C50 FRP Locks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/iphone-tips-planning-ahead-with-text-message-scheduling-techniques/"><u>IPhone Tips: Planning Ahead with Text Message Scheduling Techniques</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-headlines-the-elite-list-of-news-aggregators/"><u>Navigating Headlines: The Elite List of News Aggregators</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-issues-with-the-spell-check-feature-in-your-outlook-email-client/"><u>Overcoming Issues with the Spell Check Feature in Your Outlook Email Client</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quick-troubleshooting-for-pairing-a-fire-stick-remote-successfully/"><u>Quick Troubleshooting for Pairing a Fire Stick Remote Successfully</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-pictures-after-find-n3-flip-has-been-deleted-by-fonelab-android-recover-pictures/"><u>Recover your pictures after Find N3 Flip has been deleted.</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/simplified-steps-comprehensive-method-for-picking-out-selected-messages-on-gmail/"><u>Simplified Steps: Comprehensive Method for Picking Out Selected Messages on Gmail</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-missing-steamdll-file-a-comprehensive-guide/"><u>Solving the 'Missing' Steam.dll File: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/spotlight-on-innovation-meet-the-latest-in-apples-iphone-lineup/"><u>Spotlight on Innovation: Meet the Latest in Apple's iPhone Lineup</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solutions-for-d3dx926dll-error-recovery/"><u>Step-by-Step Solutions for d3dx9_26.dll Error Recovery</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-trick-for-a-professional-look-blurring-your-backdrop-on-google-meet/"><u>The Ultimate Trick for a Professional Look: Blurring Your Backdrop on Google Meet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-5-best-free-language-learning-apps/"><u>Top 5 Best Free Language Learning Apps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-6-must-have-food-tracking-mobile-apps-for-healthy-eating/"><u>Top 6 Must-Have Food Tracking Mobile Apps for Healthy Eating</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-the-secrets-remotely-checking-whereabouts-on-an-iphone-device/"><u>Unlock the Secrets: Remotely Checking Whereabouts on an iPhone Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-connection-between-memory-timings-and-your-computers-agility/"><u>Unveiling the Connection Between Memory Timings and Your Computer's Agility</u></a></li>
+</ul></div>

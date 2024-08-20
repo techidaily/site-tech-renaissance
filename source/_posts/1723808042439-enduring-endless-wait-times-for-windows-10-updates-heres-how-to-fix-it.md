@@ -1,7 +1,7 @@
 ---
 title: Enduring Endless Wait Times for Windows 10 Updates? Here's How to Fix It
-date: 2024-08-13 18:27:21
-updated: 2024-08-16 11:57:55
+date: 2024-08-18T22:52:32.821Z
+updated: 2024-08-19T22:52:32.821Z
 tags:
   - win11
   - win10
@@ -38,6 +38,9 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
 5. **[Update device drivers](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Repair corrupt system files](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 1: Run the Windows Update Troubleshooter
 
  The Update troubleshooter is a Windows built-in utility that can help resolve common issues with downloading and installing Windows updates.
@@ -60,6 +63,9 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
 
  If the tool didn’t detect any issues, don’t worry! There are still 5 more fixes to try.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 2: Disable third-party startups
 
  Some third-party applications may conflict with Windows update and cause disruptions to the process. To see if that’s the problem for you, follow the instructions below to disable auto startups on your PC:
@@ -74,8 +80,14 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-148.png)
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ### Fix 3: Restart the Windows Update service
 
  Errors might occur when the Windows Update service isn’t running correctly. Try restarting the Windows Update service to see if that fixes your issue:
@@ -84,18 +96,30 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
  On your keyboard, press **the Windows logo** **key**  and **R** at the same time to open the Run box.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-12-31_14-10-17.jpg)
 2. **Type services.msc, then press the Enter key on your keyboard.**  
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
  Type **services.msc** , then press the **Enter** key on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-12-31_14-10-55.jpg)
 3. **Right-click the Windows Update and click Restart.**  
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
  Right-click the **Windows Update** and click **Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-12-31_14-11-48.jpg)
 4. **Restart your PC to test the issue.**  
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Restart your PC to test the issue.
 
 If your problem persists, then move on to the next fix.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4: Free up your hard drive space
 
  Windows updates could take up a fair amount of disk space. If your PC is running low on free space, you might encounter issues when installing Windows updates.
@@ -112,6 +136,9 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-150.png)
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 **2)** Select**Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-151.png)
@@ -122,6 +149,9 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/uninstall-program.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  This could help free up lots of space if you have many unused programs on your computer.
 
 #### Free up your space with the Disk Cleanup tool
@@ -146,6 +176,10 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-156.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ---
 
 ### Fix 5: Update your device drivers
@@ -194,6 +228,9 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/image-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #### Run the System File Checker
 
 **1)** On your keyboard, press the**Windows logo** key and**R** at the same time.
@@ -218,6 +255,9 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-161.png)
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **2)** Type**cmd,** then press the**Ctrl, Shift** and**Enter** keys at the same time to run Command Prompt as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-162.png)
@@ -226,6 +266,9 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-164.png)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 **4)** Type**dism.exe /online /cleanup-image /restorehealth** , then press the**Enter** key on your keyboard.
 
  This could take several minutes. Wait for the DISM tool to update your system files automatically.
@@ -253,3 +296,55 @@ If your problem persists, then move on to the next fix.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-prime-8-the-elite-select-for-facebook-movies-in-23/"><u>[New] In 2024, Prime 8  The Elite Select for Facebook Movies in '23</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-tiktoks-take-jujutsu-kaisen-challenges-and-laughs/"><u>[New] In 2024, TikTok's Take  Jujutsu Kaisen Challenges and Laughs</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-a-comprehensive-guide-to-desktop-optimized-tiktoks/"><u>[Updated] In 2024, A Comprehensive Guide to Desktop-Optimized TikToks</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-instantize-image-movement-with-photoshop-for-2024/"><u>[Updated] Instantize Image Movement with Photoshop for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-secrets-of-saving-gameplay-on-windows-10/"><u>[Updated] Secrets of Saving Gameplay on Windows 10</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-youtube-profitability-blueprint-determining-key-view-counts/"><u>[Updated] YouTube Profitability Blueprint  Determining Key View Counts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/achieve-higher-results-5-key-methods-to-optimize-your-time-on-facebook/"><u>Achieve Higher Results: 5 Key Methods to Optimize Your Time on Facebook</u></a></li>
+<li><a href="https://games-able.techidaily.com/ai-solutions-to-onscreen-murder-puzzles/"><u>AI Solutions to Onscreen Murder Puzzles</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/androids-video-reversion-secrets-unveiled/"><u>Android's Video Reversion Secrets Unveiled</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/awaken-with-ease-choose-from-our-top-7-preferred-alarm-clock-apps/"><u>Awaken with Ease: Choose From Our Top 7 Preferred Alarm Clock Apps</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/become-a-pro-at-documenting-your-twitch-sessions-for-2024/"><u>Become a Pro at Documenting Your Twitch Sessions for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/deep-dive-with-tom-into-modern-computing-equipment/"><u>Deep Dive with Tom Into Modern Computing Equipment</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-list-of-quick-gmail-keyboard-commands/"><u>Discover the Ultimate List of Quick Gmail Keyboard Commands</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722892781396-discover-the-ultimate-selection-of-free-email-providers-the-countdown/"><u>Discover the Ultimate Selection of Free Email Providers: The Countdown!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-tutorial-installing-the-latest-epson-printer-drivers-for-windows-10-users/"><u>Easy Tutorial: Installing the Latest Epson Printer Drivers for Windows 10 Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/eight-strategies-to-correctly-handle-parse-errors-in-android-development/"><u>Eight Strategies to Correctly Handle Parse Errors in Android Development</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enabling-windows-users-to-use-apples-facetime-step-by-step-instructions/"><u>Enabling Windows Users to Use Apple's FaceTime - Step-by-Step Instructions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-msvcrt10dll-disappearance-and-non-availability-glitches/"><u>Fixing Msvcrt10.dll Disappearance and Non-Availability Glitches</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgotten-the-voicemail-password-of-vivo-y100-5g-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Vivo Y100 5G? Try These Fixes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/harry-potter-film-series-the-ultimate-viewing-sequence-guide/"><u>Harry Potter Film Series: The Ultimate Viewing Sequence Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-update-your-epson-wf-7720-printing-software-in-windows-step-by-step/"><u>How to Update Your Epson WF- 7720 Printing Software in Windows - Step by Step</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-realme-12-5g-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Realme 12 5G</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-apple-iphone-12-pro-max-and-ipad-screen-mirroring-app-drfone-by-drfone-ios/"><u>In 2024, Best Apple iPhone 12 Pro Max & iPad Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-sony-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Sony FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722897888787-mastering-pokemon-go-a-beginners-guide/"><u>Mastering 'Pokémon GO': A Beginner's Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722893476298-next-gen-foldables-revealed-discover-the-samsung-galaxy-z-fold-6s-release-date-and-features/"><u>Next-Gen Foldables Revealed: Discover the Samsung Galaxy Z Fold 6'S Release Date and Features</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/next-gen-pixel-device-unveiling-price-forecasts-expected-launch-date-and-insider-speculation/"><u>Next-Gen Pixel Device Unveiling: Price Forecasts, Expected Launch Date & Insider Speculation</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/pros-and-cons-of-upgrading-your-iphone-or-ipad-with-ios-17/"><u>Pros and Cons of Upgrading Your iPhone or iPad with iOS 17</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quick-fixes-for-the-jvmdll-error-that-just-wont-go-away/"><u>Quick Fixes for the JVM.dll Error That Just Won’t Go Away</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quick-how-to-mastering-the-art-of-screenshotting-on-an-hp-laptop/"><u>Quick How-To: Mastering the Art of Screenshotting on an HP Laptop</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-d3dx940dll-file-not-present-mishap-on-your-pc/"><u>Resolving d3dx9_40.dll File Not Present Mishap on Your PC</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/secure-and-convenient-epson-printer-f3200-driver-downloads-for-optimal-performance/"><u>Secure and Convenient Epson Printer F3200 Driver Downloads for Optimal Performance</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-issue-how-to-correctly-address-comctl32dll-file-missing-or-unavailable/"><u>Solving the Issue: How to Correctly Address 'Comctl32.dll' File Missing or Unavailable</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-converting-spotify-playlists-into-plain-text-documents/"><u>Step-by-Step Guide: Converting Spotify Playlists Into Plain Text Documents</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solution-for-fixing-stop-error-code-0x00000078-phase0exception/"><u>Step-by-Step Solution for Fixing STOP Error Code 0X00000078 (PHASE0_EXCEPTION)</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/rt-of-color-in-online-beauty-content/"><u>The Art of Color in Online Beauty Content</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-vivo-v27e-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Vivo V27e Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-walkthrough-securing-your-favorite-oculus-quest-2-vr-experiences-online/"><u>The Ultimate Walkthrough: Securing Your Favorite Oculus Quest 2 VR Experiences Online</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-the-missing-cygwin1dll-solutions-for-windows-users/"><u>Troubleshooting the 'Missing Cygwin1.dll': Solutions for Windows Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-when-your-system-cant-find-bootmgr-step-by-step-fixes/"><u>Troubleshooting When Your System Can't Find BOOTMGR: Step-by-Step Fixes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-combining-your-favorite-tracks-on-spotify/"><u>Ultimate Guide: Combining Your Favorite Tracks on Spotify</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-connect-your-nintendo-switch-to-any-television/"><u>Ultimate Guide: Connect Your Nintendo Switch to Any Television</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-list-of-top-travel-experts-on-twitter-discounts-guidance-and-journeys/"><u>Ultimate List of Top Travel Experts on Twitter: Discounts, Guidance, and Journeys</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-selection-of-kid-approved-movies-on-netflix/"><u>Ultimate Selection of Kid-Approved Movies on Netflix</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-iphone-unresponsiveness-a-list-of-7-common-issues-and-fixes/"><u>Understanding iPhone Unresponsiveness: A List of 7 Common Issues and Fixes</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unleashing-power-and-brilliance-a-comprehensive-guide-to-the-linksys-ea9500-router-technology/"><u>Unleashing Power and Brilliance - A Comprehensive Guide to the Linksys EA9500 Router Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-chatgpt-top-5-strategies-to-utilize-it-without-signing-up/"><u>Unlocking ChatGPT: Top 5 Strategies to Utilize It without Signing Up</u></a></li>
+</ul></div>
