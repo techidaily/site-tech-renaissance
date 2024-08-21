@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Transferring EPUB/PDF Reads Onto Your Kobo & Sony Digital Book Devices"
-date: 2024-08-18 21:28:17
-updated: 2024-08-21 10:40:17
+date: 2024-08-20T10:30:24.195Z
+updated: 2024-08-21T10:30:24.195Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4ff28b2032ed8b7104437026.jpg
@@ -49,12 +49,18 @@ Eject your Kobo eReader and wait until the finish of sync. Head to "My Books" ca
 
 This method enables users to add both DRM-free books from torrent sites and purchased DRM-protected books from Sony, Google Play and other stores to Kobo Touch, Kobo Mini, Kobo Glo and other kobo eReaders. For DRM-free books, you can also [connect the Kobo eReader to computer using USB and drag & drop to transfer books](http://www.slideshare.net/AdaWyy/add-books-to-kobo-glo-kobo-touch). 
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. How to add books to Sony eReader
 
 Books can be transferred to Sony eReader via USB or Sony Reader software. When transferring books with the drag & drop method (via USB), the added EPUB and PDF files might not be displayed. So Sony officially recommends users to transfer books to Sony with Reader Software.
 
 **![Add books to Sony eReader with Sony Reader Library](https://www.epubor.com/images/uppic/kobot_sony_transfer.png)Step 1:** Connect the Sony eReader to computer with the supplied USB cable and the eReader will be in "Data Transfer Mode". Two drives ("SETTING" and "READER") will show on the computer afterwards. 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 **Step2:** Go to "SETTING" drive, double-click “Setup Reader for PC” to install eReader software on your PC.
 
 For Mac users, double-click "SETTING" drive on desktop, then double-click “Setup Reader for Mac” to install. 
@@ -78,6 +84,9 @@ Eject your Sony eReader, you will find the added books on the device after synci
 
 ![Add Kobo books to Sony - Kobo icon](https://www.epubor.com/images/uppic/Kobot_kobo.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 Sony and Kobo eReaders support the same eBook formats (EPUB and PDF) and books from both stores are Adobe DRM protected, so people sometimes purchase books from one store and read on another eReader. Part 1 explains how to transfer both DRM-free and DRM-protected eBooks to Kobo, so here is how to add books from other stores to Sony eReader. I take Kobo books for example.
 
 **Step1:** Launch Sony Reader software.
@@ -94,6 +103,9 @@ Sony and Kobo eReaders support the same eBook formats (EPUB and PDF) and books f
 
 ![Add Kindle books to Kobo/Sony - Kindle icon](https://www.epubor.com/images/uppic/kobot_kindle.jpg)   
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Many people like to purchase eBooks from Amazon Kindle eBook store due to its more diversified titles at cheaper prices, although Kindle books come in exclusive Kindle formats and are protected with another DRM scheme. To add Kindle books to Kobo or Sony eReaders, we have to first strip Kindle DRM protection from the books, then convert Kindle formats to Kobo and Sony supported EPUB or PDF. 
 
 Download Epubor Kindle DRM Removal tool:
@@ -108,6 +120,9 @@ Here is[how to read Kindle books on Kobo Vox](https://tools.techidaily.com/epubo
 
 ![Add books to Kobo iPad/iPhone/Android app - Kobo icon](https://www.epubor.com/images/uppic/kobot_ipad.png)Purchased Kobo books will be synced on Kobo for Android app or Kobo for iOS app automatically. For side loaded books, however, you don't have to transfer them to Kobo for Android/iOS app (I personally don't think them awesome) since there have been many good 3rd-party reader apps on Android and iOS. 
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 Here are [how to read eBooks on Android (with Aldiko)](http://ebookconverter.blogspot.com/2012/07/aldiko-book-reader-free-android-ebook.html) and [how to transfer books to iPad](https://tools.techidaily.com/epubor/products/). 
 
   
@@ -120,6 +135,9 @@ Related Readings
 
 ![author](https://www.epubor.com/images/uppic/1-22-2013 12-03-06 AM.png)
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 [Ada Wang](https://plus.google.com/+AdaWang/posts) works for Epubor and writes articles for a collection of blogs such as ebookconverter.blogspot.com.
 
 SHARING IS GREAT!
@@ -296,3 +314,62 @@ Leave a comment
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-insta-growth-the-10-most-important-hashtags-now/"><u>[New] 2024 Approved  Insta Growth  The 10 Most Important Hashtags Now</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-peeling-back-layers-what-every-snapchat-emoji-hides/"><u>[New] In 2024, Peeling Back Layers  What Every Snapchat Emoji Hides</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-unleash-your-potential-become-a-broadcasting-pro-on-instagram-using-obs/"><u>[New] Unleash Your Potential  Become a Broadcasting Pro on Instagram Using OBS</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-top-19-affordable-audio-extractors-to-get-youtube-music-on-your-device/"><u>[Updated] 2024 Approved  Top 19 Affordable Audio Extractors to Get YouTube Music on Your Device</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-masterful-fb-watching-essential-top-10-players/"><u>[Updated] Masterful FB Watching  Essential Top 10 Players</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-enhancing-viewers-staying-power-top-6-strategies-for-youtube-success/"><u>2024 Approved  Enhancing Viewers' Staying Power  Top 6 Strategies for YouTube Success</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-ultimate-list-all-rounder-camcorders/"><u>2024 Approved  Ultimate List  All-Rounder Camcorders</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-new-dimensions-in-physical-interaction-tech/"><u>2024 Approved  Unlocking New Dimensions in Physical Interaction Tech</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-virtual-captures-unlocked/"><u>2024 Approved  Virtual Captures Unlocked</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-7-plus-drfone-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/8-ways-to-fix-it-when-theres-a-blue-tint-on-your-tv-screen/"><u>8 Ways to Fix It When There's a Blue Tint on Your TV Screen</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/access-past-web-pages-easily-your-wayback-machine-user-manual/"><u>Access Past Web Pages Easily: Your Wayback Machine User Manual</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ace-academics-with-savings-navigating-through-dell-student-discount-offers/"><u>Ace Academics with Savings: Navigating Through Dell Student Discount Offers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/best-free-educational-games-for-pre-schoolers-a-list-of-9-gems/"><u>Best Free Educational Games for Pre-Schoolers - A List of 9 Gems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/boost-your-ios-snapshots-strategies-for-better-iphoneipad-photos/"><u>Boost Your iOS Snapshots: Strategies for Better iPhone/iPad Photos</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/deciding-between-iphones-and-androids-which-device-suits-you-best/"><u>Deciding Between iPhones and Androids: Which Device Suits You Best?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/differences-between-qled-and-oled-televisions-a-detailed-comparison-for-shoppers/"><u>Differences Between QLED and OLED Televisions: A Detailed Comparison for Shoppers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-12-no-cost-typing-courses-aimed-at-enthusiasts-of-any-age/"><u>Discover 12 No-Cost Typing Courses Aimed at Enthusiasts of Any Age</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diving-into-digital-distribution-how-ios-app-store-stacks-up-against-google-play/"><u>Diving Into Digital Distribution: How iOS App Store Stacks Up Against Google Play</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-update-lenovo-display-drivers-step-by-step-guide/"><u>Download and Update Lenovo Display Drivers: Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-methods-for-removing-subtitle-features-on-amazon-prime/"><u>Easy Methods for Removing Subtitle Features on Amazon Prime</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/evaluating-waterproof-features-of-apples-latest-phone-does-the-iphone-13-meet-the-criteria/"><u>Evaluating Waterproof Features of Apple's Latest Phone – Does the iPhone 13 Meet the Criteria?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341695805-expert-analysis-raspberry-pi-5-enhanced-by-pi-52s-cooling-tower-speedy-performance-uncovered/"><u>Expert Analysis: Raspberry Pi 5 Enhanced by Pi 52'S Cooling Tower - Speedy Performance Uncovered!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/full-spectrum-visionary-eizos-cg318-4k-reviewed-and-revealed-for-2024/"><u>Full Spectrum Visionary  EIZO's CG318-4K Reviewed and Revealed for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-triggering-a-hard-reset-on-windows-boot-into-safe-mode/"><u>Guide: Triggering a Hard Reset on Windows - Boot Into Safe Mode</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-access-local-fm-radio-channels-from-your-iphone-or-android-phone/"><u>How to Access Local FM Radio Channels From Your iPhone or Android Phone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-fix-a-504-gateway-timeout-error/"><u>How to Fix a 504 Gateway Timeout Error</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-keep-your-macbook-running-even-when-you-shut-the-lid/"><u>How to Keep Your MacBook Running Even When You Shut the Lid</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-motorola-moto-g84-5g-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Motorola Moto G84 5G Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-90-gt-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Honor 90 GT Phone without Any Data Loss</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-xs-max-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone XS Max Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-participation-in-xtwitter-discussions/"><u>Mastering the Art of Participation in X/Twitter Discussions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722957397805-mitigation-strategies-include-adjusting-ground-clamp-position-turning-off-interfering-components-and-modifying-welding-technique/"><u>Mitigation Strategies Include Adjusting Ground Clamp Position, Turning Off Interfering Components, and Modifying Welding Technique.</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-the-tech-landscape-a-deep-dive-into-hardware-by-toms-authority/"><u>Navigating the Tech Landscape: A Deep Dive Into Hardware by Tom's Authority</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/oxytocin-pitocin-is-a-common-pharmacological-agent-used-to-induce-labor-by-stimulating-uterine-contractions/"><u>Oxytocin (Pitocin) Is a Common Pharmacological Agent Used to Induce Labor by Stimulating Uterine Contractions.</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/protect-your-kids-mastering-discords-parental-control-options/"><u>Protect Your Kids: Mastering Discord's Parental Control Options</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/setting-up-two-factor-authentication-on-twitch-a-step-by-step-guide/"><u>Setting Up Two-Factor Authentication on Twitch: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-replacing-your-ipads-power-source/"><u>Step-by-Step Guide: Replacing Your iPad's Power Source</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-for-accessing-hulu-on-lg-smart-televisions/"><u>Step-by-Step Instructions for Accessing Hulu on LG Smart Televisions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/syncing-your-screen-a-step-by-step-guide-to-streaming-apple-tvplus-on-chromecast/"><u>Syncing Your Screen: A Step-by-Step Guide to Streaming Apple TV+ on Chromecast</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-honor-100-pro-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Honor 100 Pro Android SIM Unlock APK</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-smart-eyewear-options/"><u>Top Rated Smart Eyewear Options</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshoot-your-powerpoint-soundscape-fixes-for-common-audio-hiccups/"><u>Troubleshoot Your PowerPoint Soundscape - Fixes for Common Audio Hiccups</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-apple-watch-why-it-wont-track-your-steps-and-solutions/"><u>Troubleshooting Apple Watch: Why It Won't Track Your Steps and Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-microsoft-flight-simulator-2020-persistent-pc-crashes/"><u>Troubleshooting Tips for Microsoft Flight Simulator 2020 Persistent PC Crashes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-mastering-the-art-of-slack-notifications-and-reminders/"><u>Ultimate Guide: Mastering the Art of Slack Notifications and Reminders</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-list-of-66-influential-travel-tweeps-discounts-guidance-and-epic-journeys/"><u>Ultimate List of 66 Influential Travel Tweeps: Discounts, Guidance & Epic Journeys</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/uncover-the-enthusiasts-behind-shared-interests-on-instagram-how-to-know-who-preserved-your-posts/"><u>Uncover the Enthusiasts Behind Shared Interests on Instagram: How To Know Who Preserved Your Posts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-common-issues-what-causes-youtube-to-not-function/"><u>Understanding Common Issues: What Causes YouTube to Not Function?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-smart-tvs-connectivity-and-features-for-modern-entertainment/"><u>Understanding Smart TVs: Connectivity and Features for Modern Entertainment</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-gaming-excellence-4-compelling-reasons-to-choose-the-ps5-today/"><u>Unlocking Gaming Excellence: 4 Compelling Reasons to Choose the PS5 Today</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/watching-star-trek-films-correctly-a-step-by-step-sequence/"><u>Watching Star Trek Films Correctly – A Step-by-Step Sequence</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Samsung Galaxy A15 5G? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-samsung-galaxy-a25-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/what-to-know-about-the-new-google-pixel-pricing-forecasts-release-window-and-feature-rumors-revealed/"><u>What to Know About the New Google Pixel: Pricing Forecasts, Release Window & Feature Rumors Revealed</u></a></li>
+</ul></div>

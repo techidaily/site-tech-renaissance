@@ -1,0 +1,169 @@
+---
+title: "IPhone 15 Troubleshooting: Starting Fresh with a Reboot"
+date: 2024-08-20T10:39:24.120Z
+updated: 2024-08-21T10:39:24.120Z
+categories:
+  - BestProducts
+description: "This Article Describes IPhone 15 Troubleshooting: Starting Fresh with a Reboot"
+excerpt: "This Article Describes IPhone 15 Troubleshooting: Starting Fresh with a Reboot"
+thumbnail: https://thmb.techidaily.com/b79165ba9ef446402f78df39c0ae5aec29c669cdb8669a7402e153be3d685b74.jpg
+---
+
+## Fresh Start on Your iPhone 15? Here’s How to Perform a Smooth Reboot
+### What to Know
+
+* Press and hold the**Side** button and either**Volume** button. Use the**Slide to Power Off** option on the screen.
+* Alternatively, go to**Settings** \>**General** \>**Shut Down** . Use the**Slide to Power Off** option on the screen.
+* Force restart: Press**Volume Up** , then press**Volume Down** , and then hold the**Side** button until you see the Apple logo.
+
+ This article explains how to[restart an iPhone](https://www.lifewire.com/how-to-restart-iphone-2000288) 15\. The instructions include how to do a soft restart for a simple shut down of the device and a force restart if the first methods don't work. The steps are the same for all iPhone 15 models.
+
+## How to Soft Restart an iPhone 15
+
+ To do a soft restart means to turn off your iPhone using the device’s options and then turn it back on. Follow these steps to restart your iPhone 15.
+
+1. Press and hold the**Side** button on the right and either**Volume** button on the left at the same time.  
+![The volume (left) buttons and side button on an iPhone 15](https://www.lifewire.com/thmb/TmHUOU_P6SpM3wMTkgaBlQ6knbg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Side-and-Volume-buttons-on-iPhone-15-Pro-ce7f29a6f4bb4cf3bb66ea8b0b928ba3.jpg)
+2. Drag the**Slide to Power Off** option to the right.  
+![The Power Off slider on an iPhone 15](https://www.lifewire.com/thmb/_gkqlHLFwAAe43qTejESczVRQeE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iPhone15-Power-Off-Slider-8662940-84a3f064e5dc4278b8c8abb4a8bcbf56-a833a36d8094471694b628adb004cc60.jpg)
+3. When you’re ready to turn your iPhone back on, press and hold the**Side** button.  
+ If you have an iPhone 15 Pro or iPhone 15 Pro Max, make sure you press the Side button on the_right_ , not the[Action button](https://www.lifewire.com/use-action-button-on-iphone-15-pro-7972021) on the left.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
+## How to Use Settings to Restart iPhone 15
+
+ If you’re having trouble using the device’s buttons to restart your iPhone 15, you can use the onscreen option instead. This method is also considered a soft restart.
+
+1. Open the**Settings** and select**General** .
+2. At the bottom, choose**Shut Down** .
+3. Drag the**Slide to Power Off** option to the right.  
+![The iPhone Settings app with General, Shut Down, and power switch highlighted.](https://www.lifewire.com/thmb/qkqSasRdubWydWHUBG5CkQeJstI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Turn-Of-iPhone-15-Pro-in-Settings-6be83e8413504c42b9bc2f146153f7da.jpg)
+4. To turn your iPhone back on, press and hold the**Side** button on the right.  
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ Unable to turn your device back on? Look at ways to[fix an iPhone that won’t turn on](https://www.lifewire.com/what-to-do-when-your-iphone-wont-turn-on-2000281) .
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
+## How to Turn Off an iPhone 15 With Siri
+
+ While Apple's virtual assistant wasn't always able to power off your iPhone, it can now. Hold the side button or use the voice command "**Siri** /**Hey, Siri** " to activate the assistant, and then say something like:
+
+* "Turn off my iPhone."
+* "Power off."
+* "Shut down."
+
+ Siri will confirm that you want to power down your phone; select**Power Off** to continue.
+
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## How to Force Restart an iPhone 15
+
+ When you can’t use the above methods to restart your device, or if your iPhone 15 isn’t responding at all, you can force it to restart. This is called a force restart, force reset, or hard reset.
+
+1. Press and release the**Volume Up** button on the left.
+2. Press and release**Volume Down** button on the left.
+3. Hold the**Side** button on the right.
+4. When you see the Apple logo appear, release the**Side** button.  
+ After a few moments, you should see your device’s Lock Screen where you can swipe up and then enter your passcode.
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/0-must-have-youtube-intros-tools-for-beginners-all-free-for-2024/"><u>[New] 30 Must-Have YouTube Intros Tools for Beginners, All Free for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-from-capture-to-edit-elevating-your-immersive-video-experience-using-premiere-pro-for-2024/"><u>[New] From Capture to Edit  Elevating Your Immersive Video Experience Using Premiere Pro for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-delving-into-youtubes-digital-video-workshop/"><u>[New] In 2024, Delving Into YouTube's Digital Video Workshop</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/tep-by-step-process-of-amplifying-your-channel-with-high-impact-placement-for-2024/"><u>[New] Step-by-Step Process of Amplifying Your Channel with High-Impact Placement for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-cut-beyond-youtube-unveiling-the-top-5-video-editor-options/"><u>[Updated] Cut Beyond Youtube  Unveiling the Top 5 Video Editor Options</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-deconstructing-sharex-and-its-challengers-for-2024/"><u>[Updated] Deconstructing ShareX and Its Challengers for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-exploring-action-capture-prohero-against-nikkor-km-170/"><u>[Updated] Exploring Action Capture  ProHero Against Nikkor KM-170</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-mastering-camera-stability-in-photo-and-video-for-2024/"><u>[Updated] Mastering Camera Stability in Photo & Video for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-precisionsync-analyst-perspectives/"><u>[Updated] PrecisionSync Analyst Perspectives</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-night-vision-with-iphone-capturing-striking-shadows/"><u>2024 Approved  Night Vision with iPhone  Capturing Striking Shadows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-comprehensive-tutorial-to-turn-on-built-in-administrator-account-in-win-10-7-and-8-easy-steps-inside/"><u>A Comprehensive Tutorial to Turn On Built-In Administrator Account in Win 10, 7 & 8 - Easy Steps Inside</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/aspect-ratio-fundamentals-for-effective-youtube-content-creation/"><u>Aspect Ratio Fundamentals for Effective YouTube Content Creation</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/beginners-tutorial-establishing-wi-fi-calls-between-your-phone-and-laptop/"><u>Beginner's Tutorial: Establishing Wi-Fi Calls Between Your Phone & Laptop</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/clearing-out-custom-suggestions-for-you-on-your-instagram-profile/"><u>Clearing Out Custom 'Suggestions for You' On Your Instagram Profile</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/crafting-compelling-visual-narratives-with-fb-slideshow-techniques/"><u>Crafting Compelling Visual Narratives with FB SlideShow Techniques</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/d-link-device-security-guide-default-password-catalog-july-2024-update/"><u>D-Link Device Security Guide: Default Password Catalog – July 2024 Update</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/decode-the-future-of-phablets-all-you-need-to-know-about-the-imminent-release-of-samsungs-galaxy-z-fold-7-price-and-specs-revealed/"><u>Decode the Future of Phablets: All You Need to Know About the Imminent Release of Samsung's Galaxy Z Fold 7 - Price & Specs Revealed!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/directx-direct3d-compatible-software-quick-easy-and-reliable-installation/"><u>DirectX Direct3D Compatible Software: Quick, Easy and Reliable Installation</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-selection-free-sport-streaming-services-for-2x24/"><u>Discover the Ultimate Selection: Free Sport Streaming Services for 2X24</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-fixes-for-overcoming-the-0x80004005-error-message/"><u>Effective Fixes for Overcoming the 0X80004005 Error Message</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enjoy-films-without-payment-the-worlds-12-leading-streaming-sites/"><u>Enjoy Films Without Payment: The World's 12 Leading Streaming Sites</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exchange-messages-via-messenger-no-facebook-profile-required/"><u>Exchange Messages via Messenger - No Facebook Profile Required!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-picks-the-premier-selection-of-ceiling-stations/"><u>Expert Picks: The Premier Selection of Ceiling Stations</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-finding-and-restoring-lost-emails-on-gmail-platform/"><u>Guide: Finding and Restoring Lost Emails on Gmail Platform</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-setting-up-fubo-tv-app-for-live-action-on-your-firestick/"><u>Guide: Setting Up Fubo TV App for Live Action On Your Firestick</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/honor-v-purse-messages-recovery-recover-deleted-messages-from-honor-v-purse-by-fonelab-android-recover-messages/"><u>Honor V Purse Messages Recovery - Recover Deleted Messages from Honor V Purse</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-civi-3-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Civi 3</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-address-and-correct-missing-or-corrupt-d3d9dll-errors/"><u>How To Address and Correct Missing or Corrupt D3D9.DLL Errors</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-8-plus-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore Contacts on iPhone 8 Plus (4 Methods) | Stellar</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-successfully-download-and-apply-new-apple-ios-software-upgrades/"><u>How To Successfully Download and Apply New Apple iOS Software Upgrades</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-asus-mg28uq-a-gateway-to-unprecedented-4k-gaming-and-more/"><u>In 2024, ASUS MG28UQ - A Gateway to Unprecedented 4K Gaming and More</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-tips-control-your-volume-with-precision-on-lumafusion/"><u>In 2024, Expert Tips  Control Your Volume with Precision on Lumafusion</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-oppo-a1x-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Oppo A1x 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-navigating-facebook-for-video-sharing-tips/"><u>In 2024, Navigating Facebook for Video Sharing Tips</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-smart-strategies-for-iphone-podcast-acquisition/"><u>In 2024, Smart Strategies for iPhone Podcast Acquisition</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-realme-v30-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Realme V30 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/is-investing-in-chatgpt-plus-a-smart-move-unveil-the-top-five-motivators-for-subscription/"><u>Is Investing in ChatGPT Plus a Smart Move? Unveil the Top Five Motivators for Subscription.</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/leading-water-proof-phones-shields-top-picks/"><u>Leading Water-Proof Phones Shields: Top Picks</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/navigating-your-path-as-a-first-time-youtuber-sidestep-these-8-common-mistakes/"><u>Navigating Your Path as a First-Time YouTuber  Sidestep These 8 Common Mistakes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/on-the-road-and-recorded-essential-helmet-cams-unveiled-for-bikers-gear/"><u>On the Road & Recorded - Essential Helmet Cams Unveiled for Bikers' Gear</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/seamless-mac-to-tv-casting-techniques-using-apples-airplay-feature/"><u>Seamless Mac to TV Casting Techniques Using Apple's AirPlay Feature</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/streamline-your-apartment-hunt-with-these-10-essential-websites/"><u>Streamline Your Apartment Hunt with These 10 Essential Websites</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-insiders-roadmap-to-seamless-cloud-gaming-with-xbox-game-pass-ultimate/"><u>The Insider's Roadmap to Seamless Cloud Gaming with Xbox Game Pass Ultimate</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-perfect-way-to-consume-the-epic-saga-of-indiana-jones-in-sequential-order/"><u>The Perfect Way to Consume the Epic Saga of Indiana Jones in Sequential Order</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-free-live-sports-streaming-services/"><u>Top Free Live Sports Streaming Services</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-slow-zoom-meetings-is-the-problem-software-or-hardware-related/"><u>Troubleshooting Slow Zoom Meetings: Is The Problem Software or Hardware-Related?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-the-d3dx933dll-absence-on-your-pc/"><u>Troubleshooting the d3dx9_33.dll Absence on Your PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-for-a-missing-wi-fi-connection/"><u>Troubleshooting Tips for a Missing Wi-Fi Connection</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-ev-battery-life-span-compared-to-traditional-gas-vehicles/"><u>Understanding EV Battery Life Span Compared to Traditional Gas Vehicles</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722857666528-unstick-your-airpods-a-guide-to-fixing-charging-issues-in-9-steps/"><u>Unstick Your AirPods: A Guide to Fixing Charging Issues in 9 Steps</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-the-strengths-of-the-linksys-ea9500-in-depth-review-of-cutting-edge-networking-tech/"><u>Unveiling the Strengths of the Linksys EA9500: In-Depth Review of Cutting-Edge Networking Tech</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/wireless-tv-setting-up-your-amazon-fire-stick-with-mobile-hotspot/"><u>Wireless TV: Setting Up Your Amazon Fire Stick with Mobile Hotspot</u></a></li>
+</ul></div>

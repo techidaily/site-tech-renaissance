@@ -1,0 +1,152 @@
+---
+title: "How To: Stream HD Content From Firestick via Projector Connection"
+date: 2024-08-20T10:40:11.062Z
+updated: 2024-08-21T10:40:11.062Z
+categories:
+  - BestProducts
+description: "This Article Describes How To: Stream HD Content From Firestick via Projector Connection"
+excerpt: "This Article Describes How To: Stream HD Content From Firestick via Projector Connection"
+thumbnail: https://thmb.techidaily.com/e189e2b79ab7938cf17b29478f70443bb039bf95e5208154ef45f40c089318b3.jpg
+---
+
+## How to Reconnect with Someone Who Called From Blocked or Private No
+### What to Know
+
+* Dial**\*69** to call back the private number. Or try**\*57** or**#57** to trace the call.
+* You can also check your phone provider logs. If you find the private number, run it through a number lookup service.
+* The TrapCall app can unblock private numbers.
+
+ This article describes how to call a private number using five different methods.
+
+## Call a Private Number for Free With \*69
+
+ Following an FCC mandate to allow private calling, telephone companies created a service called Last Call Return that automatically calls the last number that called your phone, whether or not the call was private.
+
+ The service is free for many, but not all, providers. To activate it, dial**\*69** (in the U.S.) on a landline or cellphone. This only works for the most recent call, so be sure to dial this before another call comes in.
+
+ The drawbacks of this approach depend on the phone service provider. For example, some providers supply a computer-generated voice that tells you the number along with the option to place a call. Other telephone providers call back the private number and don't provide you with the number.
+
+ In addition, \*69 doesn't work with all phones, and some carriers limit the time window to activate the service to 30 minutes after you receive the call.
+
+[How to Hide Your Number With *67](https://www.lifewire.com/hide-your-number-with-star-67-4154833)
+
+ Using \*69 could make your problem worse. Some blocked calls are automated callers who want to confirm if your number is active. They intend to sell your number to other scammers, and by calling back, you are letting the system know it reached an active line.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Check Your Provider's Logs for Private Numbers
+
+ Your telephone service provider should keep a log of your incoming and outgoing calls. To access this list, sign in to your account and look for a menu option under your line that indicates call history.
+
+![Billing and usage of phone contract showing a call log of calls received](https://www.lifewire.com/thmb/gfb4OsbEE3JplxnPm45hPmBOtlA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/incoming_outgoing_calls-5b339731c9e77c0037fc1fa2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ Sometimes the numbers of private callers are listed here, unmasked. To find the number, check the phone log on your phone to find the time the blocked call came in. Then, look online at the call log, sometimes under the billing and usage menu, for a match with the date and time.
+
+ The length of time call records are kept varies with each phone carrier. Typically, these records are held for one to seven years and can be used in criminal investigations.
+
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Find Out Who's Calling From a Private Number With Reverse Number Lookup
+
+ If you see the number on your phone but it doesn't have a name associated with it, you might not want to call the private number back until you know who it is. For this, use a reverse phone lookup tool like[Whitepages](https://www.whitepages.com/reverse-phone) to get more information. Or, type the number into Google to see if it belongs to an established business or if there is a public record with the owner's name attached.
+
+[5 Best Ways to Find a Cell Phone Number Online](https://www.lifewire.com/ways-to-find-a-cell-phone-number-online-3482156)
+
+![Screenshot of reverse phone lookup screen](https://www.lifewire.com/thmb/MVXJrVxE1C3iPceBiKRWJnsFngY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-06-26at8.35.56PM-5b32dc4ac9e77c0037cefcec.png)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+ You may need to pay to get a full report of who owns the private number, but it might be refundable if the service can't provide any helpful information.
+
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
+## Use a Service to Unblock Private Numbers
+
+ Another way to call a private number is to pay for a service such as[TrapCall](https://www.trapcall.com/) . It's a tool that unmasks private and blocked callers. It can provide the phone number and the name the phone is registered to. It can also reveal the caller's address and offers a blocklist option to[block future calls](https://www.lifewire.com/top-call-blocking-app-for-smartphones-4050085) .
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
+## Activate Call Tracing to Unblock Callers
+
+ Some telephone providers offer a call-tracing service to end unwanted calls that are harassing, obscene, unlawful, or threatening. In most cases, to activate this service, press**\*57** or**#57** . Some phone providers offer this service for free, while others require a small monthly fee.
+
+Call tracing may not be available on mobile devices.
+
+ FAQ
+
+* How can I make my number private?  
+ If you have an iPhone, turn off caller ID from**Settings** \>**Phone** \>**Show My Caller ID** . On Android, make your number private from**Settings** ; search for**Caller ID** and enable**Hide number** . To hide your number on a case-by-case basis on a smartphone or landline,[mask your number using *67](https://www.lifewire.com/hide-your-number-with-star-67-4154833) .
+* How do I block private numbers?  
+ Block private numbers on an iPhone by turning on**Do Not Disturb** or using the[Silence Unknown Callers](https://www.lifewire.com/silence-unknown-callers-on-iphone-5186841) feature by going to**Settings** \>**Phone** \>**Silence Unknown Callers** . If you use a landline, use \* **77** . You can also[block numbers on Samsung smartphones](https://www.lifewire.com/how-to-block-a-number-on-samsung-galaxy-4173185) or[block unknown callers](https://www.lifewire.com/how-to-block-your-cell-phone-number-from-caller-id-577580) on Android and iOS.
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-android-audio-capture-techniques-rootless-options/"><u>[New] 2024 Approved  Android Audio Capture Techniques - Rootless Options</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-screen-showdown-top-6-hdmi-21-monitors-reviewed/"><u>[New] The Ultimate Screen Showdown  Top 6 HDMI 2.1 Monitors Reviewed</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-fixing-blurred-footage-in-social-media-streaming-for-2024/"><u>[Updated] Fixing Blurred Footage in Social Media Streaming for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-hurry-up-crafting-a-simple-google-photo-mosaic/"><u>[Updated] Hurry Up! Crafting a Simple Google Photo Mosaic</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-comprehensive-tutorial-to-turn-on-built-in-administrator-account-in-win-10-7-and-8-easy-steps-inside/"><u>A Comprehensive Tutorial to Turn On Built-In Administrator Account in Win 10, 7 & 8 - Easy Steps Inside</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/beginners-tutorial-establishing-wi-fi-calls-between-your-phone-and-laptop/"><u>Beginner's Tutorial: Establishing Wi-Fi Calls Between Your Phone & Laptop</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/clearing-out-custom-suggestions-for-you-on-your-instagram-profile/"><u>Clearing Out Custom 'Suggestions for You' On Your Instagram Profile</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/d-link-device-security-guide-default-password-catalog-july-2024-update/"><u>D-Link Device Security Guide: Default Password Catalog – July 2024 Update</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/directx-direct3d-compatible-software-quick-easy-and-reliable-installation/"><u>DirectX Direct3D Compatible Software: Quick, Easy and Reliable Installation</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-selection-free-sport-streaming-services-for-2x24/"><u>Discover the Ultimate Selection: Free Sport Streaming Services for 2X24</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enable-and-disable-cookies-on-windows-10-chrome-firefox-opera-and-edge/"><u>Enable & Disable Cookies on Windows 10 Chrome, Firefox, Opera and Edge</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enhancing-your-game-experience-tips-to-resolve-frame-rate-issues-fps-drops-and-stutters-while-playing-diablo-4-on-pc/"><u>Enhancing Your Game Experience: Tips to Resolve Frame Rate Issues, FPS Drops & Stutters While Playing Diablo 4 on PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exchange-messages-via-messenger-no-facebook-profile-required/"><u>Exchange Messages via Messenger - No Facebook Profile Required!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fast-secure-torrent-downloads-made-possible-by-top-rated-global-vpn-providers/"><u>Fast, Secure Torrent Downloads Made Possible by Top-Rated Global VPN Providers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-fixing-the-issue-of-compattelrunnerexe-overwhelming-disk-space-in-both-windows-11-and-7-environments/"><u>Guide: Fixing the Issue of CompatTelRunner.exe Overwhelming Disk Space in Both Windows 11 & 7 Environments</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-connect-a-computer-to-wifi/"><u>How to Connect a Computer to WiFi</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-recover-disappearing-desktop-icons-on-your-windows-10-pc-a-step-by-step-guide/"><u>How to Recover Disappearing Desktop Icons on Your Windows 10 PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-securely-archive-device-drivers-in-windows-11-and-10-environments/"><u>How to Securely Archive Device Drivers in Windows 11 and 10 Environments</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-update-bios-in-windows-11/"><u>How to Update BIOS in Windows 11</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-oppo-find-n3-flip-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Oppo Find N3 Flip? Fixed | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-bootloader-configuration-mastering-dfu-mode-tutorial/"><u>IPhone Bootloader Configuration: Mastering DFU Mode Tutorial</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/leading-water-proof-phones-shields-top-picks/"><u>Leading Water-Proof Phones Shields: Top Picks</u></a></li>
+<li><a href="https://fox-that.techidaily.com/master-the-art-of-editing-incorrectly-tagged-individuals-in-your-apple-photos/"><u>Master the Art of Editing Incorrectly Tagged Individuals in Your Apple Photos</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-supercharge-your-video-edits-top-adobe-premiere-plugins-free-trial-for-2024/"><u>New Supercharge Your Video Edits Top Adobe Premiere Plugins (Free Trial) for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/online-protection-basics-discover-5-crucial-browsing-tips-every-beginner-needs-to-know/"><u>Online Protection Basics: Discover 5 Crucial Browsing Tips Every Beginner Needs to Know</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/seamless-mac-to-tv-casting-techniques-using-apples-airplay-feature/"><u>Seamless Mac to TV Casting Techniques Using Apple's AirPlay Feature</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/seamless-network-broadcast-adopting-the-vlc-way/"><u>Seamless Network Broadcast  Adopting the VLC Way</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-perfect-way-to-consume-the-epic-saga-of-indiana-jones-in-sequential-order/"><u>The Perfect Way to Consume the Epic Saga of Indiana Jones in Sequential Order</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-free-live-sports-streaming-services/"><u>Top Free Live Sports Streaming Services</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722857666528-unstick-your-airpods-a-guide-to-fixing-charging-issues-in-9-steps/"><u>Unstick Your AirPods: A Guide to Fixing Charging Issues in 9 Steps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/why-cant-my-a6400-show-movies/"><u>Why Can't My A6400 Show Movies?</u></a></li>
+</ul></div>

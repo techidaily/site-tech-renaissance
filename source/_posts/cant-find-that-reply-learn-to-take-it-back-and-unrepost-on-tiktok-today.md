@@ -1,0 +1,158 @@
+---
+title: Can't Find That Reply? Learn to Take It Back and Unrepost on TikTok Today!
+date: 2024-08-20T10:35:52.203Z
+updated: 2024-08-21T10:35:52.203Z
+categories:
+  - BestProducts
+description: This Article Describes Can't Find That Reply? Learn to Take It Back and Unrepost on TikTok Today!
+excerpt: This Article Describes Can't Find That Reply? Learn to Take It Back and Unrepost on TikTok Today!
+thumbnail: https://www.lifewire.com/thmb/ofVXEuC-0nZBwdixH12Uz6x_iO8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1273369281-398a08a5bf564a64a278f02404642c9d.jpg
+---
+
+## Accidentally Hit Send? Learn the Ins and Outs of Email Retrieval in Outlook Here
+### What to Know
+
+* Open the**Sent Items** folder > double-click the message > go to**Recall Message** \>**OK** .
+* It's similar in older versions of Outlook, but go to**Message** \>**Actions** \>**Recall This Message** .
+* This only works if you both use a Microsoft Exchange or Microsoft 365 account in the same organization.
+
+ This article explains how to recall an email, the requirements for recalling Outlook emails, and potential results and delays that can occur during the process. Instructions in this article apply to all versions of Outlook, including Outlook 2021 through 2007, Outlook 365, New Outlook for Windows, and Outlook on the Web.
+
+## How to Recall Email in Outlook (and Replace It)
+
+ Directions vary slightly between the different versions of Outlook. Below are instructions for recalling an email in the desktop and web versions.
+
+1. Open Outlook and go to the**Sent Items** folder.  
+![Sent Items side panel button in Outlook](https://www.lifewire.com/thmb/4BnADBRohOFqzovsge-fHOaPo4U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_recall-a-message-in-outlook-4161319-c7834046614d4d83ac415bb4b7145b8b.jpg)
+2. Double-click the sent message you want to recall to open it in a separate window.  
+ The options to recall a message are not available when the message is displayed in the Reading Pane.  
+![Email opened in a separate window in Outlook](https://www.lifewire.com/thmb/XNP-I5zN7JlTMoJ36H2aMcQiwr8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_recall-a-message-in-outlook-4161319-74861f0552094a7e8215d2fcae8c39ec.jpg)
+3. If you're using the latest version of Outlook for Windows or you're on the web version, select**Recall Message** in the toolbar and then choose**OK** . Skip down to Step 7.  
+ For older versions of Outlook, go to the**Message** tab, select the**Actions** dropdown arrow, and choose**Recall This Message** .  
+ If you don't see those options, select the**three-dot** menu and go to**Actions** \>**Recall This Message** .  
+![Recall This Message menu item in Outlook](https://www.lifewire.com/thmb/XnrsAKAkhegnZiJl3-wRh82zXLU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_recall-a-message-in-outlook-4161319-01e67a25438345789124c6cb9f2ef5c9.jpg)
+4. In the dialog box, select one of the following:  
+   * **Delete unread copies of this message** to recall the message.  
+   * **Delete unread copies and replace with a new message** to replace the message with a new one.  
+![Recall This Message options in Outlook](https://www.lifewire.com/thmb/fPnPFvwG_oNIeJoMcg0B88xXeBw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_recall-a-message-in-outlook-4161319-23d620dbc44343e0a54f4bafdc93d678.png)  
+ Do you want to receive a notification of the results? Tick the box next to **Tell me if recall succeeds or fails for each recipient** .
+5. Select**OK** .
+6. If you selected**Delete unread copies and replace with a new message** , modify the original message and select**Send** .
+7. You'll receive an Outlook notification message regarding the success or failure of your attempt to retract or replace the email.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Requirements for Recalling an Email Message
+
+ Recalling emails in Outlook comes with some caveats:
+
+* Both you and your recipient must be using a Microsoft 365 or Microsoft Exchange email account in the Outlook app and you must be in the same organization.
+* The recipient's mailbox is open when you attempt to process a recall.
+* The original message is unread and is in the recipient's Inbox.
+* The message was not touched by any process, such as a rule, spam filter, or add-in.
+
+ If any of these requirements are not met, your recall will fail.
+
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
+## Possible Results When You Recall an Outlook Email
+
+ Depending on the settings of the recipient's email client, whether the original email has already been read, and several other factors, the results of your attempt to recall a message can vary. Following are some of the potential results of an Outlook recall.
+
+* If the recipient has read the message, the recall will fail. Both the original message and the new message (or notification of your attempt to recall the original message) are available to the recipient.
+* If the recipient has not opened the original message and opens the recall message first, the original message is deleted. Outlook informs the recipient that you deleted the message from their mailbox.
+
+ These results also occur if the recipient moves both messages to the same folder, either manually or using a rule.
+
+ If the recipient enabled **Automatically process requests and responses to meeting requests and polls** , under**Tracking** , and the recipient has not read the original email, Outlook deletes the original message and informs the recipient that you deleted the message.
+
+ In Outlook 2007, this feature is called**Process requests and responses on arrival** and it under**Tracking Options** .
+
+ However, if the original message is marked as read when the recall message is processed, the recipient is informed that you want to delete the message. The original message remains in the recipient's inbox.
+
+ If the recipient moves the original message out of the inbox and into another folder (manually or using a rule) and the recall message goes to the inbox, the retraction fails regardless of whether either has been read or not. The recipient is informed that a recall attempt failed. The recipient has access to both the original and the new email message.
+
+ In addition, if you use Outlook on a mobile device and attempt to recall a message, the process will likely fail.
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## How to Delay Sending Messages
+
+ Sending an incorrect email can be counterproductive and even embarrassing. While Outlook’s recall feature might save you in a pinch, you can alleviate some stress by[scheduling or delaying emails](https://www.lifewire.com/schedule-emails-in-outlook-1173683) . This gives you time to recognize errors or update information before your email lands in your recipient’s inbox.
+
+ FAQ
+
+* How do I resend an email in Outlook?  
+ To[resend an email in Outlook](https://www.lifewire.com/resend-email-in-outlook-4129205) for Windows, go to**File** \>**Info** \>**Message Resend and Recall** . In macOS, right-click the message in the**Sent** folder and select**Resend** . In Outlook.com, right-click the message and select**Forward** , then delete**Fw** from the Subject line.
+* How do I encrypt an email in Outlook?  
+ To[encrypt an email in Outlook](https://www.lifewire.com/protect-email-with-password-and-encryption-1173963) , go to**File** \>**Properties** \>**Security Settings** and check the**Encrypt message contents and attachments** box. To encrypt all outgoing messages, go to**File** \>**Options** \>**Trust Center** \>**Trust Center Settings** \>**Email Security** .
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-breaking-down-the-selfie-security-on-insta/"><u>[New] Breaking Down the Selfie Security on Insta</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-quality-quest-deciphering-the-superior-video-format/"><u>[New] Quality Quest  Deciphering the Superior Video Format</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-comparative-analysis-luminances-hdr-prowess/"><u>[Updated] Comparative Analysis  Luminance's HDR Prowess</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-step-by-step-approach-to-strengthen-digital-television-signal-in-your-living-room/"><u>A Step-by-Step Approach to Strengthen Digital Television Signal in Your Living Room</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/code-43-bug-fixes-advanced-techniques-for-developers/"><u>Code 43 Bug Fixes: Advanced Techniques for Developers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-process-to-get-started-with-windows-11-on-your-latest-hard-drive/"><u>Comprehensive Process to Get Started with Windows 11 on Your Latest Hard Drive</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722860229634-connecting-wireless-earbuds-to-a-hewlett-packard-laptop-easy-steps/"><u>Connecting Wireless Earbuds to a Hewlett Packard Laptop - Easy Steps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/critical-considerations-before-buying-second-hand-ipads-a-5-point-guide/"><u>Critical Considerations Before Buying Second-Hand iPads: A 5-Point Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/decode-and-repair-expert-strategies-to-tackle-code-28-failures/"><u>Decode and Repair: Expert Strategies to Tackle Code 28 Failures</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-methods-for-removing-subtitle-features-on-amazon-prime/"><u>Easy Methods for Removing Subtitle Features on Amazon Prime</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-to-follow-techniques-and-strategies-for-beginners-in-pokemon-go/"><u>Easy-to-Follow Techniques and Strategies for Beginners in 'Pokémon Go'</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effortless-image-retrieval-from-facebook-expert-seo-strategies-for-flawless-results/"><u>Effortless Image Retrieval From Facebook – Expert SEO Strategies for Flawless Results</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-eliminating-unwanted-shutdowns-while-playing-ffxiv-on-pc/"><u>Expert Advice: Eliminating Unwanted Shutdowns While Playing FFXIV On PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-how-fast-access-memory-influences-your-systems-speed/"><u>Exploring How Fast-Access Memory Influences Your System's Speed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/get-started-with-vr-setting-up-your-oculus-meta-quest-or-quest-2/"><u>Get Started with VR: Setting Up Your Oculus (Meta) Quest or Quest 2</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/handling-the-disappearing-act-of-openalamo32dll-on-your-pc/"><u>Handling the Disappearing Act of openalamo32.dll on Your PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-access-local-fm-radio-channels-from-your-iphone-or-android-phone/"><u>How to Access Local FM Radio Channels From Your iPhone or Android Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-sony-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Sony</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-retrieve-lost-instagram-reels-the-ultimate-walkthrough/"><u>How To Retrieve Lost Instagram Reels – The Ultimate Walkthrough</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-share-on-apple-iphone-11-drfone-by-drfone-ios/"><u>How to Screen Share on Apple iPhone 11? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/joining-independent-iphone-videos-with-ease/"><u>Joining Independent iPhone Videos with Ease</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-samsung-galaxy-f04-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Samsung Galaxy F04 FRP Without Computer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-password-management-on-macos-find-your-saved-usernames-and-passwords-with-ease/"><u>Navigating Password Management on macOS: Find Your Saved Usernames & Passwords with Ease</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-star-wars-battlefront-ii-loading-process-to-enhance-pc-gaming-experience/"><u>Optimizing Star Wars: Battlefront II Loading Process to Enhance PC Gaming Experience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/oxytocin-pitocin-is-a-common-pharmacological-agent-used-to-induce-labor-by-stimulating-uterine-contractions/"><u>Oxytocin (Pitocin) Is a Common Pharmacological Agent Used to Induce Labor by Stimulating Uterine Contractions.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/realtek-audio-driver-download-for-windows-11-fast-and-simple-installation/"><u>Realtek Audio Driver Download for Windows 11 - Fast and Simple Installation</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-the-rockaldlldll-file-not-foundmissing-dilemma-a-step-by-step-guide/"><u>Resolving the rockaldll.dll File Not Found/Missing Dilemma: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/setting-up-two-factor-authentication-on-twitch-a-step-by-step-guide/"><u>Setting Up Two-Factor Authentication on Twitch: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-snapping-photos-with-the-xbox-one-controller/"><u>Step-by-Step Instructions: Snapping Photos with the Xbox One Controller</u></a></li>
+<li><a href="https://some-skills.techidaily.com/strategic-use-of-slug-lines-in-blogging-for-2024/"><u>Strategic Use of Slug Lines in Blogging for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/syncing-your-screen-a-step-by-step-guide-to-streaming-apple-tvplus-on-chromecast/"><u>Syncing Your Screen: A Step-by-Step Guide to Streaming Apple TV+ on Chromecast</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-complete-tutorial-for-mac-managing-and-opening-rar-compressed-files/"><u>The Complete Tutorial for Mac: Managing & Opening RAR Compressed Files</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-5-must-try-video-editing-tools-for-stunning-visual-creations/"><u>Top 5 Must-Try Video Editing Tools for Stunning Visual Creations</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/your-comprehensive-guide-to-viewing-and-downloading-movies-from-fandango-using-amazons-fire-stick/"><u>Your Comprehensive Guide to Viewing and Downloading Movies From Fandango Using Amazon's Fire Stick</u></a></li>
+</ul></div>
