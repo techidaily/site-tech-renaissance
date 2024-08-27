@@ -1,0 +1,353 @@
+---
+title: Exploring the Latest Windows Improvements in July 2024 Service Pack and Patches
+date: 2024-08-26T07:18:45.042Z
+updated: 2024-08-27T07:18:45.042Z
+categories:
+  - BestProducts
+description: This Article Describes Exploring the Latest Windows Improvements in July 2024 Service Pack and Patches
+excerpt: This Article Describes Exploring the Latest Windows Improvements in July 2024 Service Pack and Patches
+thumbnail: https://www.lifewire.com/thmb/VBQ72Q_XdUA-s3nwRE5I_Qiz6Q0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/update-3362089_1920-e52cc32797cc4803ab2f51a0139e4875.jpg
+---
+
+## Master the Art of Removing Cache and Cookies in Leading Web Browsers Today
+### What to Know
+
+* Clearing cache can fix browsing problems, free up space, and remove saved versions of visited pages.
+* Clear cache quickly via**Ctrl** +**Shift** +**Del** (Windows) or**Command** +**Shift** +**Delete** (Mac).
+* Otherwise, try your browser's**Settings** ,**Privacy** , or**Advanced** options.
+
+ This article teaches you how to purge the internet browser cache in[popular browsers](https://www.lifewire.com/top-internet-browsers-4589106) like Chrome, Firefox, Safari, Opera, Edge, and Vivaldi, plus their respective mobile browser apps.  
+
+## Clear Cache in Chrome
+
+ Assuming you use a keyboard, the quickest way to the**Clear browsing data** window in Google Chrome is by using the Windows keyboard shortcut**Ctrl** +**Shift** +**Del** . If you're[wiping the Chrome cache on a Mac](https://www.lifewire.com/clear-cache-chrome-mac-5211561) , the shortcut is**Command** +**Shift** +**Delete** .  
+
+ If you aren't into keyboard shortcuts, here's how to clear the Chrome browser cache on your computer using the on-screen menus:
+
+1. Select the**three-dotted menu** button in the upper-right corner of Chrome, then choose**Clear browsing data** from the list of options.  
+![The Chrome menu in Windows](https://www.lifewire.com/thmb/0OkjpvQhnUltbGERvmB7fhhO-Xc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/chrome-menu-8a9a605ba2cf40d795fd11799ef8e6ff.png)
+2. Check the box next to**Cached images and files** . Select**Cookies and other site data** to also wipe the cookies.  
+ Also choose**All time** from the**Time range**  option at the top to make sure you get everything.
+3. Choose**Clear data** .  
+![The cached images and files checkbox in Chrome's Clear Browsing Data prompt](https://www.lifewire.com/thmb/koYvaD17zNjG2ivlceG6uNqoKBE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/chrome-clear-cached-images-files-b5adb033e0a94b35bf6e353477d5ebd5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### Clear Cache in the Chrome Mobile App
+
+ Here's how it works in Chrome's mobile app:
+
+1. On Android, open the Chrome app and tap the**three-dotted menu** icon at the top of the screen. iOS users can find this button at the bottom.
+2. Tap**Clear browsing data** (Android) or**Delete Browsing Data** (iOS).
+3. Select a time range. Pick**All time** to purge the whole cache.
+4. Ensure that**Cached images and files** is chosen. You'll need to tap**More options** first if you're on Android.
+5. Tap**Clear data** \>**Clear** on Android, or**Delete Browsing Data** \>**Delete Browsing Data** on iOS.  
+![The Clear browsing data screen in the Chrome mobile app](https://www.lifewire.com/thmb/PgBnwC8X79xf4XgE7ZcpYBdj_Rc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/chrome-app-clear-cache-8431483fb047400cb98ea15cdf52e745.png)  
+ Chrome on Android will suggest keeping data from sites you visit often. The choice is yours but to delete_all_ of Chrome's cache, you'll need to keep those items selected.
+
+## Clear the Firefox Cache
+
+ In Mozilla's Firefox browser, you clear the cache from the**Clear All History** or**Clear Data** area.
+
+ The**Ctrl** +**Shift** +**Del** (Windows) or**Command** +**Shift** +**Delete** (Mac) keyboard shortcut is the fastest way to open the Clear All History screen, which looks like this:
+
+![Firefox clear all history screen](https://www.lifewire.com/thmb/Z-PhwIX7FXMCbSNS9MF4E7XIaL4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/firefox-cache-clear-all-d35c19a29c2b45fbaead6f80f0231835.png)
+
+ Don't forget to choose**Everything** from the**Time range to clear** section, assuming that's your intent.
+
+ Follow these steps to get to that screen through the Firefox settings menu:
+
+1. In Firefox's menu button (the three-lined hamburger icon), select**Settings** .  
+![The Firefox menu in Windows](https://www.lifewire.com/thmb/D8-cMayZxLKdXZ4-m6_U2i0-W0g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/firefox-menu-2516fa793c7c4037b7195c85ad0ad39e.png)
+2. Choose**Privacy & Security** from the left, then scroll to**Cookies and Site Data** on the right.
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
+3. Select**Clear Data** .  
+![A screenshot of Firefox Privacy & Security settings with the Clear Data button highlighted](https://www.lifewire.com/thmb/305zytHAvtTSwvpHVrJleyrOKPs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/011-how-to-clear-cache-2617980-fcf21f4998eb49a4ba554b437480495b.jpg)
+4. In the Clear Data screen that opens, select**Cached Web Content** . The other option, if selected, will delete the cookies in Firefox.  
+![A screenshot of Firefox's Clear Data screen with the "Cached Web Content" option highlighted](https://www.lifewire.com/thmb/bRYm9w2R5MGWJFdUszJpBw5bfvU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-clear-cache-2617980-2ad341e9aad648e0a802ad67de99bea8.jpg)
+5. Choose**Clear** .  
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![A screenshot of Firefox's Clear Data screen with the Clear button highlighted](https://www.lifewire.com/thmb/d_d8vxFEeGzd47bAlUlzNfN63B4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-clear-cache-2617980-68fece98261142bfa992277033e0898b.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Clear Cache in the Firefox Mobile App
+
+ Open the Settings page to delete the Firefox cache in the mobile app:
+
+1. Tap the**three-dot** icon at the top of your Android, or the**three-line** icon at the bottom of iOS, then choose**Settings** from the menu.
+2. Select**Delete browsing data** on Android, or**Data Management** on iOS.  
+ The Firefox app for Android lets you clear the web browser cache every time you close the app. Tap**Delete browsing data on quit** to set it up.
+3. Enable the**Cached images and files** (Android) or**Cache** (iOS) option.
+4. On Android, tap**Delete browsing data** \>**DELETE** . On iOS, choose**Clear Private Data** \>**OK** .  
+![The Delete Browsing Data page in the Firefox mobile app for Android](https://www.lifewire.com/thmb/h3_ObyxwRdAaReHNosMmb_LzDyY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/firefox-purge-cache-mobile-app-1b775b500ac147f187f9deda636db566.png)
+
+[Firefox Focus Can Now Block Cross-Site Cookie Tracking](https://www.lifewire.com/how-to-use-firefox-focus-4588143)
+
+## Clear Safari's Browsing Cache
+
+ In Apple's Safari browser on a Mac, clearing the cache is done directly from the menu bar. Go to**Develop** \>**Empty Caches** . You can also clear the cache in Safari on a Mac using the**Option** +**Command** +**E** keyboard shortcut.
+
+![Safari window showing Develop > Empty Caches](https://www.lifewire.com/thmb/7PJ9p7azS1KiHkCpd8srSLt-LiY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009-clear-cache-2617980-193b017602454678abc4ba5c7685d41f.jpg)
+
+ If you don't see**Develop** on your Safari menu bar, go to**Safari** \>**Preferences** \>**Advanced** , and then select**Show Develop menu in menu bar** .
+
+### Clear Cache in the Safari Mobile App
+
+ Use the Settings app to clear the browser cache for Safari on your iPhone or iPad.
+
+1. Open the**Settings** app and tap**Safari** .
+2. Scroll down and tap**Clear History and Website Data** .
+3. Pick a timeframe to delete, such as**All history** , then tap**Clear History** .  
+![The Safari Clear History screen on iPhone](https://www.lifewire.com/thmb/u987Oij4-TyOMAjmwZ7rRYWH6R8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iphone-safari-clear-all-history-5691796f4ca448ecb44737cecb5d6c86.png)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
+## Purge Cache in Opera
+
+ In Opera, clearing the cache is done via the**Clear browsing data** section that's part of**Settings** .
+
+ The fastest way to bring up that window is via the**Ctrl** +**Shift** +**Del** (Windows) or**Command** +**Shift** +**Delete** (Mac) keyboard shortcut.
+
+ Otherwise, here's how to clear the browser cache from the menu:
+
+1. From the Opera menu (the**O** at the top left of the browser), choose**Settings** .  
+![The Opera menu on Windows 11](https://www.lifewire.com/thmb/Oc61hvDQ0xS2n-gVxRVyGn4Ea0Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/opera-menu-f0af04ec9f8b461b9c5dfe3905b6a5df.png)
+2. Select**Privacy & security** on the left, then**Clear browsing data** on the right.  
+![Opera's Privacy and Security settings in Windows 11](https://www.lifewire.com/thmb/c1k91GydJSlUD1kZz3Jsyjq0cD0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/opera-privacy-security-settings-cabf372690db4aebb604ad18fef5eb59.png)
+3. Choose**All time** at the top to delete the entire cache.
+4. Opera automatically selects all items you can delete, including**Cached images and files** . Confirm that you want to erase the chosen items.
+5. Select**Clear data** .  
+![The Clear Browsing Data window in the Opera web browser](https://www.lifewire.com/thmb/a2NGZuHErqbxjviG1W2pkmcJYv8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/opera-clear-browsing-data-54dc8193e8224f8b885847ed0216a607.png)
+
+### Clear Cache in the Opera Mobile Browser
+
+ You can also clear Opera's cache in the mobile app, but it's a bit different between iOS and Android.
+
+1. Tap the**profile icon** (Android) or the**three horizontal lines** (iOS) at the bottom of the app.
+2. Select the**settings** icon.
+3. On Android, go to**Privacy & security** \>**Clear data** \>**Advanced** . On iOS, you're looking for the**Clear Browser Data** option.  
+![Opera app settings on Android](https://www.lifewire.com/thmb/k-fGiILPYFuEpQtNKay5z5yoKaY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/opera-settings-android-a71130d7b6fe4e449df607988b2dc828.png)
+4. Tap the items you want to clear. To erase just the cache, choose**Cached images and files** .
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
+5. Select**Clear data** on Android, or**Clear** on iOS.  
+![Opera app Settings, Privacy & Security, and Clear Data screens](https://www.lifewire.com/thmb/R2V9Xdno9Yjf7y80Bd1ca8duVpw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/opera-cache-purge-android-app-1b5d8f0113b7474b8d5f92bc5a170a00.png)
+
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
+## Clear Browsing Data for Edge
+
+ Clearing the cache in Microsoft Edge is done via the**Delete browsing data** menu.
+
+![Delete browsing data prompt in the Edge browser](https://www.lifewire.com/thmb/KdLY11JgBXKW3VgfgHFFYcmcW-A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/delete-browsing-data-edge-d3d023c0d89e4701b60f035646d53be3.png)
+
+ The fastest way to the**Delete browsing data** area of Edge is via the**Ctrl** +**Shift** +**Del** keyboard shortcut.
+
+ Here's another option:
+
+1. Select the**three-dotted menu** at the top right of the program, then select**Settings** .  
+![A screenshot of Microsoft Edge with the Settings option highlighted](https://www.lifewire.com/thmb/wVGURGBYtVd6ssyHDuyiu6CMC6s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-using-cortana-in-microsoft-edge-4059577-8393dcbb21994501ab74592b86eacb2c.jpg)
+2. Select**Privacy, search, and services** on the left followed by**Choose what to clear** on the right.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
+![The Privacy, Search, and Services tab selected in the Edge browser](https://www.lifewire.com/thmb/CW8mbgslkfinSW15SA4Bi0Vez9c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/edge-privacy-settings-9658d15cdccf4b46b41eddf5d7d40c5c.png)
+3. To purge the browsing cache in Edge, make sure**Cached images and files** is selected, then click**Clear now** . You can also clear the cookies, browsing history, and more.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
+![The cached images and files option chosen in the Edge delete browsing data prompt](https://www.lifewire.com/thmb/xxLrSqvF_B_JmonmgYMDBwmToSQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/edge-clear-cache-files-98bb06bbb1354b76b7ebec2211543348.png)
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Clear Cache in the Edge Mobile Browser
+
+ Here's how to delete cache files from the Edge mobile app:
+
+1. Tap the**three lines** at the bottom right, then choose**Settings** from the menu that pops up.
+2. Select**Privacy and security** .  
+![The Settings menu in the Edge app for Android](https://www.lifewire.com/thmb/nuBRJxQM93yj8WccPL0wE_c1dC0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/edge-app-settings-27546193cfb3412b90621c649bf4b9ba.png)
+3. Tap**Clear browsing data** .
+4. Make sure**Cached images and files** is selected. This screen is also how you can delete other items like cookies and autofill data.  
+ Change the time range to**All time** if you want to clear the whole cache.
+5. Tap**Clear data** on Android. For iOS, choose**Clear now** and then confirm by tapping the same button.  
+![The Clear browsing data screen in the Edge app for Android](https://www.lifewire.com/thmb/mdg7Etrp3a_lQksNf9_Gcxd5eUw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/edge-privacy-security-settings-clear-data-e60e864e45314736b2c09e1cba79603c.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
+## Delete Vivaldi's Browser Cache
+
+ Clear the cache in Vivaldi from the**Delete Browsing Data**  area. As with most browsers, the**Ctrl** +**Shift** +**Del** (Windows) or**Command** +**Shift** +**Delete** (Mac) shortcut is the quickest way there, but the menu works, too:
+
+1. From the menu bar (select the V logo at the top left if you don't see it), go to**Tools** \>**Delete Browsing Data** .  
+![The Tools menu in Vivaldi for Windows](https://www.lifewire.com/thmb/wF-2F3XLZXFJy0sBp7ZehDKJDQM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/vivaldi-tools-menu-3e6c4ad1e34e4ef3855aef71644856c4.png)
+2. Pick a timeframe, such as**All Time** , then choose**Cache** from the list. As you can see, you can also erase cookies, downloads, site settings, and more, if you select those items.  
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![Vivaldi's delete browsing data prompt with Cache chosen](https://www.lifewire.com/thmb/Jjrlk86CVOssGYmvryE3K6CN8As=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Screenshot2024-06-14071603-4800e7bd1a44431e82ae862d0d118ad4.png)
+3. Choose**Delete** .
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Clear Cache in the Vivaldi Mobile Browser
+
+ The Vivaldi app lets you clear the cache, cookies, and other items as well.
+
+1. Tap the V icon at the top right of the app and then tap**Settings** .
+2. Scroll down and select**Privacy and security** .  
+![The Settings menu in the Vivaldi web browser app for Android](https://www.lifewire.com/thmb/TyQJKbu6UZDb-58o-P0iO6XYjbc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/vivaldi-privacy-security-settings-android-56fa02e98f3142e8adb0503b03be716b.png)
+3. Tap**Clear browsing data** .
+4. Make sure**Cached images and files** is selected, and optionally adjust the**Time range** setting to clear more or less of the cache.
+5. Tap**Clear data** (Android) or**Clear Browsing Data** (iOS) to erase the cache.  
+![The Clear browsing data screens in the Vivaldi app for Android](https://www.lifewire.com/thmb/rRG9GJVd6X3caXhuEcfS1bqvN_I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/vivaldi-app-clear-browsing-data-04e526e7e8174f4a85d07a85a8480757.png)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## What Exactly Is Cache?
+
+ Your browser's[cache](https://www.lifewire.com/definition-of-cache-2483171) , pronounced _cash_ , is a collection of web pages stored on your hard drive or in your phone/tablet storage. The cache includes the text, images, and most other media contained on web pages that you've visited.
+
+ Having a local copy of a web page makes for quick loading on your next visit because your computer or mobile device doesn't have to download it from the internet again. Over time, however, the cache may take up a big chunk of your computer's storage.
+
+## Why Do You Have to Clear Cache?
+
+ You don't have to clear the cache as a regular part of computer or smartphone maintenance. However, there are some good reasons to clear cache:
+
+* Clearing your cache forces your browser to retrieve the newest copy available from the website, something that should happen automatically but sometimes does not.
+* You're experiencing issues such as[404 errors](https://www.lifewire.com/404-not-found-error-explained-2622936) or[502 errors](https://www.lifewire.com/502-bad-gateway-error-explained-2622939) (among others) that may indicate your browser's cache is corrupted.
+* Malware is another reason to delete the browser cache. It can be dropped in the cache without you knowing or alongside program installations, so clearing the entire cache can delete malicious files. (It also helps to have[antivirus software](https://www.lifewire.com/what-is-antivirus-software-152947) .)
+* Another reason to delete browser cache data is to free up space on your hard drive. Over time, the cache can grow to a huge size; clearing it can recover some of that previously used space.
+
+ Regardless of why you want to do it, clearing your browser's cache is easy to do in all the popular browsers in use today.
+
+ As mentioned above, the quickest way to pull up the "cache clearing" or "browsing data" section in your browser is via**Ctrl** +**Shift** +**Del** (Windows) or**Command** +**Shift** +**Delete** (Mac) but see one of the sections above for the exact steps involved in clearing your specific browser's cache.
+
+## More About Clearing Caches in Web Browsers
+
+ Most browsers have at least basic cache management settings where, at a minimum, you can choose how much space you'd like the browser to use for its cache.
+
+ Some browsers let you choose to automatically clear the cache and other data that might contain private information every time you close the browser window.
+
+ In most browsers, you can overwrite a web page's stored cache without deleting all the cache collected by the browser. In essence, this erases and replenishes the cache for that specific page only. In most browsers and operating systems, you can bypass the cache by holding down the**Shift** or**Ctrl** key as you refresh.
+
+[How to Clear the Cache in Windows 10](https://www.lifewire.com/clear-cache-windows-10-5119137)
+
+ FAQ
+
+* How do I delete my web browser cookies?  
+ How you[clear web cookies](https://www.lifewire.com/how-to-delete-cookies-2617981) depends on your browser, but you can usually delete cookies from the same screen where you clear the cache.
+* How long does the browser cache last?  
+ By default, most browsers will maintain cached files indefinitely until the user deletes them. Some browsers give you the option to adjust how long the cache is stored.
+* Does clearing the cache delete your browser history?  
+ Not necessarily. When deleting your browser data, only check the box for the cache, and uncheck the boxes for the history, cookies, or anything else you want to keep.
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-diy-video-meme-guide-boost-your-posts-on-fb-and-instagram/"><u>[New] 2024 Approved  DIY Video Meme Guide  Boost Your Posts on FB & Instagram</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-downloading-fb-audio-nuggets/"><u>[New] In 2024, Downloading FB Audio Nuggets</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-angle-adjustments-the-instagram-guide-for-perfecting-photo-flips/"><u>[Updated] 2024 Approved  Angle Adjustments  The Instagram Guide for Perfecting Photo Flips</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-reverse-reality-expert-tips-for-turning-images-upside-down-on-insta/"><u>[Updated] Reverse Reality  Expert Tips for Turning Images Upside Down on Insta</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-essential-iphone-and-android-video-editor-choices/"><u>2024 Approved  Essential iPhone & Android Video Editor Choices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-deep-dive-into-facebook-from-inception-to-widespread-appeal-and-essential-functions/"><u>A Deep Dive Into Facebook - From Inception to Widespread Appeal and Essential Functions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-showdown-determining-superiority-between-chatgpt-and-google-bard/"><u>AI Showdown: Determining Superiority Between ChatGPT and Google Bard</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/beginners-blueprint-how-to-establish-an-oculus-quest-user-profile/"><u>Beginner's Blueprint: How to Establish an Oculus Quest User Profile</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/cant-find-that-reply-learn-to-take-it-back-and-unrepost-on-tiktok-today/"><u>Can't Find That Reply? Learn to Take It Back and Unrepost on TikTok Today!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/choosing-your-viewing-experience-diving-into-the-perks-and-limitations-of-hulu-and-huluplus/"><u>Choosing Your Viewing Experience: Diving Into the Perks and Limitations of Hulu and Hulu+</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comparing-titans-a-detailed-look-at-the-apple-app-store-and-google-play/"><u>Comparing Titans: A Detailed Look at the Apple App Store and Google Play</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-fixes-for-errors-related-to-gsdll32dll-not-foundmissing/"><u>Comprehensive Fixes for Errors Related to gsdll32.dll Not Found/Missing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-top-free-tools-to-check-your-hard-drives-in-july-2024/"><u>Discover the Top Free Tools to Check Your Hard Drives in July 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-your-lost-email-a-step-by-step-guide/"><u>Discover Your Lost Email: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-tips-for-installing-the-latest-version-of-zoom-on-pcs-and-macbooks/"><u>Easy Tips for Installing the Latest Version of Zoom on PCs and MacBooks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-techniques-to-correct-unauthorized-web-page-errors-http-401/"><u>Effective Techniques to Correct 'Unauthorized' Web Page Errors (HTTP 401)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-tips-for-dealing-with-mfc42dll-missing-error-messages/"><u>Essential Tips for Dealing with MFC42.DLL Missing Error Messages</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722874495452-from-splus10-we-get-s-1/"><u>From \\(S+1=0\\), We Get \\(S=-1\\).</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/future-forward-a-look-at-the-leading-3-tech-trends-shaping-tomorrow/"><u>Future Forward: A Look at the Leading 3 Tech Trends Shaping Tomorrow</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-silencing-the-talkback-option-for-your-samsung-flat-panel-tv/"><u>Guide: Silencing the Talkback Option for Your Samsung Flat Panel TV</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-correctly-stabilize-your-microsoft-surface-pros-fluctuating-display/"><u>How to Correctly Stabilize Your Microsoft Surface Pro's Fluctuating Display</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-dispelling-illusions-yourself-not-an-impostor-on-fb/"><u>In 2024, Dispelling Illusions  Yourself, Not An Impostor on FB</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-motorola-g54-5g-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Motorola G54 5G Phones? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tune-your-chat-status-tune-it-right/"><u>In 2024, Tune Your Chat Status, Tune It Right</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/instagram-picture-perfection-how-to-display-full-responses-on-the-app/"><u>Instagram Picture Perfection: How to Display Full Responses on the App</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-microsoft-teams-a-step-by-step-guide-to-using-copilot/"><u>Mastering Microsoft Teams: A Step-by-Step Guide to Using Copilot</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-facebook-marketplace-availability-whats-stopping-you/"><u>Navigating Facebook Marketplace Availability - What's Stopping You?</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-final-cut-pro-offers-users-multiple-options-to-adjust-video-speed-easily-including-timelapse/"><u>New In 2024, Final Cut Pro Offers Users Multiple Options to Adjust Video Speed Easily, Including Timelapse</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/oleaut32dll-error-fixes-methods-to-resolve-the-file-not-found-issue/"><u>Oleaut32.dll Error Fixes: Methods to Resolve the 'File Not Found' Issue</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/price-breakdown-anticipated-release-date-and-key-specs-of-the-next-gen-samsung-galaxy-z-fold-10th-edition/"><u>Price Breakdown, Anticipated Release Date, and Key Specs of the Next-Gen Samsung Galaxy Z Fold (10Th Edition)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/pros-and-cons-of-using-minecraft-realms-worth-the-money-or-not/"><u>Pros and Cons of Using Minecraft Realms – Worth the Money or Not?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quick-tips-to-supercharge-your-pcs-performance-the-top-7-ways/"><u>Quick Tips to Supercharge Your PC's Performance – The Top 7 Ways</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/reversing-footage-on-snapchat-a-step-by-step-process-for-beginners/"><u>Reversing Footage on Snapchat: A Step-by-Step Process for Beginners</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/selecting-the-right-desktop-pc-here-are-8-key-aspects-you-shouldnt-ignore/"><u>Selecting the Right Desktop PC? Here Are 8 Key Aspects You Shouldn't Ignore</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solutions-for-resolving-the-rpcrt4dll-file-doesnt-exist-issue/"><u>Solutions for Resolving the 'Rpcrt4.dll' File Doesn't Exist Issue</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-turn-on-voice-over-with-siri-for-ios-and-macos-devices/"><u>Step-by-Step Instructions: Turn On Voice Over with Siri for iOS and macOS Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solutions-for-macbook-pro-keyboard-malfunctions/"><u>Step-by-Step Solutions for MacBook Pro Keyboard Malfunctions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-on-deploying-bots-in-your-discord-server-setup/"><u>Step-by-Step Tutorial on Deploying Bots in Your Discord Server Setup</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/steps-to-correct-error-messages-d3dx933dll-is-missing/"><u>Steps to Correct Error Messages: 'd3dx9_33.dll Is Missing'</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-complete-process-for-transforming-multiple-jpg-images-into-a-single-pdf-file/"><u>The Complete Process for Transforming Multiple .JPG Images Into a Single PDF File</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-enhancing-your-soundscape-by-pairing-a-subwoofer-to-your-samsung-bar-speaker/"><u>The Ultimate Guide: Enhancing Your Soundscape by Pairing A Subwoofer to Your Samsung Bar Speaker</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-5-must-have-gps-applications-for-your-iphone/"><u>Top 5 Must-Have GPS Applications for Your iPhone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-8-no-cost-driver-update-software-reviewed-july-2024-edition/"><u>Top 8 No-Cost Driver Update Software Reviewed - July 2024 Edition</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/total-gb-for-24-hour-movie-size/"><u>Total GB for 24-Hour Movie Size</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-adding-several-locations-simultaneously-on-google-map/"><u>Ultimate Guide: Adding Several Locations Simultaneously on Google Map</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722887140426-ultimate-selection-our-favourite-6-journal-apps-revealed/"><u>Ultimate Selection: Our Favourite 6 Journal Apps Revealed!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-time-management-secrets-organizing-your-twitter-calendar/"><u>Unlocking Time Management Secrets: Organizing Your Twitter Calendar</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upgrading-your-pc-do-rtx-graphics-cards-make-a-difference/"><u>Upgrading Your PC: Do RTX Graphics Cards Make a Difference?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/what-makes-an-ipad-unique-compared-to-other-tablets/"><u>What Makes an iPad Unique Compared to Other Tablets?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/what-to-do-when-your-instagram-account-is-disabled-or-deactivated/"><u>What to Do When Your Instagram Account Is Disabled or Deactivated</u></a></li>
+</ul></div>

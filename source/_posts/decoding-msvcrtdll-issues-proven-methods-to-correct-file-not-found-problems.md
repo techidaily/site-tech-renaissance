@@ -1,0 +1,130 @@
+---
+title: "Decoding msvcrt.dll Issues: Proven Methods to Correct 'File Not Found' Problems"
+date: 2024-08-26T07:30:45.574Z
+updated: 2024-08-27T07:30:45.574Z
+categories:
+  - BestProducts
+description: "This Article Describes Decoding msvcrt.dll Issues: Proven Methods to Correct 'File Not Found' Problems"
+excerpt: "This Article Describes Decoding msvcrt.dll Issues: Proven Methods to Correct 'File Not Found' Problems"
+thumbnail: https://thmb.techidaily.com/b478b0983a67f36010d885714312f70db32d5d3a2179d68b62f5c8d46f0ea38e.jpg
+---
+
+## Fix the 'Not Found' Error for msvcr80.dll on Your PC Easily
+ Msvcr80.dll errors occur when the msvcr80 [DLL file](https://www.lifewire.com/what-is-a-dll-file-2625852) is removed or corrupted. In some cases, msvcr80.dll errors could be due to problems with the [registry](https://www.lifewire.com/windows-registry-2625992) , a[virus](https://www.lifewire.com/what-is-a-computer-virus-4799053) , or a[hardware](https://www.lifewire.com/computer-hardware-2625895) failure.
+
+ This article is about fixing msvcr80.dll errors, not to be confused with[msvcr90.dll errors](https://www.lifewire.com/how-to-fix-msvcr90-dll-not-found-or-missing-errors-2623807) .
+
+## How to Fix Msvcr80.dll Errors
+
+ Follow the steps in the order they're listed below to try the more likely fixes first.
+
+ There are lots of[reasons to never download DLL files](https://www.lifewire.com/important-reasons-not-to-download-dll-files-2624455) like this one from a "DLL download website." If you need a copy of this file, it's best to obtain it from its original, legitimate source.
+
+1. Install the[Microsoft Visual C++ 2005 Service Pack 1 Redistributable Package MFC Security Update](https://www.microsoft.com/en-us/download/details.aspx?id=26347) to restore the msvcr80.dll file with the most recent copy provided by Microsoft.  
+[How to Tell if You Have Windows 64-Bit or 32-Bit](https://www.lifewire.com/am-i-running-a-32-bit-or-64-bit-version-of-windows-2624475)  
+![Download and install the Microsoft Visual C++ 2008 Service Pack 1 Redistributable Package MFC Security Update.](https://www.lifewire.com/thmb/y0cJF8YcT7jUhoYHa6I2MLkUK34=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-fix-msvcr80-dll-not-found-or-missing-errors-2623805-d6779f27587a4e7e82f12da8733de903.jpg)  
+ If you're unable to access Windows normally due to the error, try[starting Windows in Safe Mode](https://www.lifewire.com/how-do-i-start-windows-in-safe-mode-2624480) .
+2. [Restore msvcr80.dll from the Recycle Bin](https://www.lifewire.com/how-to-restore-deleted-files-from-the-recycle-bin-2624515) if you accidentally deleted it. If you've already emptied the Recycle Bin, you might have luck using a[free file recovery program](https://www.lifewire.com/free-data-recovery-software-tools-2622893) to undelete it.  
+![Recycle bin on the Windows 10 desktop](https://www.lifewire.com/thmb/4ut5BIE7nDWKwmd_W4aHzm-d8s8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-to-fix-msvcr80-dll-not-found-or-missing-errors-2623805-2bce627cec6b462da3ff837017f14eb4.jpg)
+3. [Run a virus/malware scan](https://www.lifewire.com/properly-scan-your-computer-for-viruses-and-other-malware-2624526) if you think the msvcr80.dll error could be caused by a hostile program masquerading as the DLL file.
+4. [Use System Restore to undo recent system changes](https://www.lifewire.com/how-to-use-system-restore-in-windows-2626131) . If you suspect that the msvcr80.dll error was caused by recent changes made to an important file or configuration,[System Restore](https://www.lifewire.com/what-is-system-restore-2626022) might be able to restore it.  
+![System Restore in the Windows System Properties menu](https://www.lifewire.com/thmb/_-1sJ8p4CJYlFzHdYO59LHYJa6A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-fix-msvcr90-dll-not-found-or-missing-errors-2623807-eba3b628271e4185b41ac1cdbd6c661f.jpg)
+5. [Reinstall the program that uses the msvcr80.dll file](https://www.lifewire.com/what-is-the-proper-way-to-reinstall-a-software-program-2624478) if you encounter these errors when using a particular program. Doing so should replace the missing DLL file.  
+![Uninstall apps in the Windows settings](https://www.lifewire.com/thmb/aR4ZlFW-s9gwHqMKvW-W07CQYKU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_how-to-fix-msvcr80-dll-not-found-or-missing-errors-2623805-1c4381251a3f4f778657b0bc91aef6cb.jpg)
+6. [Install any available Windows updates](https://www.lifewire.com/how-to-check-for-install-windows-updates-2624596) . Some[service packs](https://www.lifewire.com/what-is-a-service-pack-2626010) and [patches](https://www.lifewire.com/what-is-a-patch-2625960) installed through Windows Update include important updates that could be related to this DLL file.
+7. [Repair your installation of Windows](https://www.lifewire.com/how-do-i-automatically-repair-windows-problems-2624907) . This should restore all Windows DLL files to their working versions, which might include the msvcr80.dll file.
+8. Use a [registry cleaner program](https://www.lifewire.com/free-registry-cleaners-2626176) to repair msvcr80.dll related issues in the registry. This will remove invalid msvcr80.dll [registry entries](https://www.lifewire.com/what-is-a-registry-key-2625999) that might be causing the DLL error.  
+ Only really specific "fix it" solutions call for a registry cleaner. You can read more on what they do and when you might need one in our[Registry Cleaners FAQ](https://www.lifewire.com/registry-cleaner-faq-2625124) .
+9. [Perform a clean installation of Windows](https://www.lifewire.com/how-to-clean-install-windows-2624904) . As a last resort, this step will erase everything from the hard drive and install a fresh copy of the operating system.  
+![Windows installation screen](https://www.lifewire.com/thmb/UHym4EqxQc8zrcXcggydWXdpQWk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009_how-to-fix-msvcr80-dll-not-found-or-missing-errors-2623805-00d097c0975044eb84b2d6b6908e5a15.jpg)  
+ All the information on your hard drive will be erased during a clean installation.
+10. Use a [free memory testing tool](https://www.lifewire.com/free-memory-test-programs-2626178) or a [hard drive testing program](https://www.lifewire.com/free-hard-drive-testing-programs-2626183) to check for [hardware-related DLL errors](https://www.lifewire.com/fix-a-dll-issue-caused-by-a-hardware-problem-2624493) . If the hardware fails any of your tests, [replace the memory](https://www.lifewire.com/how-to-replace-the-memory-ram-in-a-computer-2626201) or [replace the hard drive](https://www.lifewire.com/how-to-replace-a-hard-drive-2626200) as soon as possible, or take your PC to a professional [computer repair service](https://www.lifewire.com/how-do-i-get-my-computer-fixed-2625167) .
+
+## Causes of Msvcr80.dll Errors
+
+ There are several ways msvcr80.dll errors can show up on your computer. Here are some of the more common messages you might see:
+
+* **Msvcr80.dll Not Found**
+* **This application failed to start because msvcr80.dll was not found. Re-installing the application may fix this problem.**
+* **APSDaemon.exe - System Error - MSVCR80.dll is missing from your computer.**
+* **Cannot find \[PATH\]\\msvcr80.dll**
+* **The file msvcr80.dll is missing.**
+* **Cannot start \[APPLICATION\]. A required component is missing: msvcr80.dll. Please install \[APPLICATION\] again.**
+
+ These error messages might appear while using certain programs, or when Windows first starts up or shuts down. Errors could be related to any program that uses this file in Microsoft[operating systems](https://www.lifewire.com/operating-systems-2625912) like Windows 11, Windows 10, Windows 8, etc.
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-start-your-journey-to-savvy-social-analytics-on-facebook/"><u>[Updated] 2024 Approved  Start Your Journey to Savvy Social Analytics on Facebook</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-step-by-step-installed-vrecorder-software/"><u>[Updated] In 2024, Step-by-Step  Installed VRecorder Software</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-unveiling-innovative-cloud-storage-options-in-2s024-for-2024/"><u>[Updated] Unveiling Innovative Cloud Storage Options in 2S024 for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-best-hashtags-for-youtube-to-get-your-views-to-6-figures/"><u>2024 Approved  Best Hashtags for YouTube To Get Your Views to 6 Figures</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-boosting-video-dimensions-on-youtube-platform/"><u>2024 Approved  Boosting Video Dimensions on YouTube Platform</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/8-ways-to-fix-it-when-theres-a-blue-tint-on-your-tv-screen/"><u>8 Ways to Fix It When There's a Blue Tint on Your TV Screen</u></a></li>
+<li><a href="https://win11.techidaily.com/a-step-by-step-guide-for-optimizing-task-management-in-administrative-mode-on-windows-11/"><u>A Step-by-Step Guide for Optimizing Task Management in Administrative Mode on Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/access-past-web-pages-easily-your-wayback-machine-user-manual/"><u>Access Past Web Pages Easily: Your Wayback Machine User Manual</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ace-academics-with-savings-navigating-through-dell-student-discount-offers/"><u>Ace Academics with Savings: Navigating Through Dell Student Discount Offers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/best-free-educational-games-for-pre-schoolers-a-list-of-9-gems/"><u>Best Free Educational Games for Pre-Schoolers - A List of 9 Gems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/boost-your-ios-snapshots-strategies-for-better-iphoneipad-photos/"><u>Boost Your iOS Snapshots: Strategies for Better iPhone/iPad Photos</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/deciding-between-iphones-and-androids-which-device-suits-you-best/"><u>Deciding Between iPhones and Androids: Which Device Suits You Best?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/differences-between-qled-and-oled-televisions-a-detailed-comparison-for-shoppers/"><u>Differences Between QLED and OLED Televisions: A Detailed Comparison for Shoppers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-12-no-cost-typing-courses-aimed-at-enthusiasts-of-any-age/"><u>Discover 12 No-Cost Typing Courses Aimed at Enthusiasts of Any Age</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-fix-a-504-gateway-timeout-error/"><u>How to Fix a 504 Gateway Timeout Error</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-keep-your-macbook-running-even-when-you-shut-the-lid/"><u>How to Keep Your MacBook Running Even When You Shut the Lid</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-from-the-apple-iphone-6-plus-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock From the Apple iPhone 6 Plus Without Previous Owner?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/illuminate-yourself-the-complete-how-to-for-selfie-photography-lighting-techniques/"><u>Illuminate Yourself: The Complete How-To for Selfie Photography Lighting Techniques</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-nokia-g42-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Nokia G42 5G to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-participation-in-xtwitter-discussions/"><u>Mastering the Art of Participation in X/Twitter Discussions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-the-tech-landscape-a-deep-dive-into-hardware-by-toms-authority/"><u>Navigating the Tech Landscape: A Deep Dive Into Hardware by Tom's Authority</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/protect-your-kids-mastering-discords-parental-control-options/"><u>Protect Your Kids: Mastering Discord's Parental Control Options</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quick-fixes-what-to-do-when-microsoft-edge-fails-to-start/"><u>Quick Fixes: What to Do When Microsoft Edge Fails to Start</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-replacing-your-ipads-power-source/"><u>Step-by-Step Guide: Replacing Your iPad's Power Source</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-for-accessing-hulu-on-lg-smart-televisions/"><u>Step-by-Step Instructions for Accessing Hulu on LG Smart Televisions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshoot-your-powerpoint-soundscape-fixes-for-common-audio-hiccups/"><u>Troubleshoot Your PowerPoint Soundscape - Fixes for Common Audio Hiccups</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-apple-watch-why-it-wont-track-your-steps-and-solutions/"><u>Troubleshooting Apple Watch: Why It Won't Track Your Steps and Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-mastering-the-art-of-slack-notifications-and-reminders/"><u>Ultimate Guide: Mastering the Art of Slack Notifications and Reminders</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-resolving-the-dreaded-blackout-during-facetime-calls/"><u>Ultimate Guide: Resolving the Dreaded Blackout During FaceTime Calls</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-solving-iphone-silent-mode-issues/"><u>Ultimate Guide: Solving iPhone Silent Mode Issues</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-list-of-66-influential-travel-tweeps-discounts-guidance-and-epic-journeys/"><u>Ultimate List of 66 Influential Travel Tweeps: Discounts, Guidance & Epic Journeys</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/uncover-the-enthusiasts-behind-shared-interests-on-instagram-how-to-know-who-preserved-your-posts/"><u>Uncover the Enthusiasts Behind Shared Interests on Instagram: How To Know Who Preserved Your Posts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-common-issues-what-causes-youtube-to-not-function/"><u>Understanding Common Issues: What Causes YouTube to Not Function?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-smart-tvs-connectivity-and-features-for-modern-entertainment/"><u>Understanding Smart TVs: Connectivity and Features for Modern Entertainment</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-gaming-excellence-4-compelling-reasons-to-choose-the-ps5-today/"><u>Unlocking Gaming Excellence: 4 Compelling Reasons to Choose the PS5 Today</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-the-power-of-iphones-live-activities-on-ios-16-a-step-by-step-tutorial/"><u>Unlocking the Power of iPhones Live Activities on iOS 16: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/what-to-know-about-the-new-google-pixel-pricing-forecasts-release-window-and-feature-rumors-revealed/"><u>What to Know About the New Google Pixel: Pricing Forecasts, Release Window & Feature Rumors Revealed</u></a></li>
+<li><a href="https://techtrends.techidaily.com/wi-fi-mesh-networks-decoded-are-they-truly-worth-your-investment/"><u>Wi-Fi Mesh Networks Decoded – Are They Truly Worth Your Investment?</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-support-expert-tips-to-get-your-hosted-network-running-smoothly/"><u>Windows 10 Support: Expert Tips to Get Your Hosted Network Running Smoothly</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->

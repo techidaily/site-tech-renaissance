@@ -1,0 +1,139 @@
+---
+title: "Step-by-Step Guide: Accessing the Windows Terminal in Various Versions"
+date: 2024-08-26T07:27:07.780Z
+updated: 2024-08-27T07:27:07.780Z
+categories:
+  - BestProducts
+description: "This Article Describes Step-by-Step Guide: Accessing the Windows Terminal in Various Versions"
+excerpt: "This Article Describes Step-by-Step Guide: Accessing the Windows Terminal in Various Versions"
+thumbnail: https://thmb.techidaily.com/425081092e1a679d02f1bd0f9b8040f12a7c3e9a90f0ca40e490e9a1586e5331.jpg
+---
+
+## Step-by-Step Guide to Reversing Videos on Snapchat - Learn How Today
+### What to Know
+
+* First, record a new video snap in the Snapchat app. Be sure to keep it under 10 seconds.
+* Next,**swipe left** on your video snap preview about 8 times until you see three reverse arrows (<<<) applied over it.
+* You can only apply the reverse video filter to video snaps_recorded through the app_ , not uploaded from your device.
+
+ You can apply various effects to both photo and video snaps on[Snapchat](https://www.lifewire.com/snapchat-trends-3485994) , including one that plays your video snap in reverse. Follow these instructions to learn how to reverse video snaps before sending them off to friends or posting them to your stories.
+
+## How to Reverse a Video Snap
+
+ Reversing a video snap is as easy as[applying a filter](https://www.lifewire.com/apply-snapchat-filters-4157939) to it. You can do this in both the iOS and Android versions of the Snapchat app using the same steps.
+
+1. Record a new video snap in the app by tapping and holding the**record** button. Your video must be less than 10 seconds for the reverse filter to be available.  
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
+### Note  
+
+ You can apply the reverse filter effect only to videos that you've recorded on Snapchat. You won't be able to reverse video snaps from videos you[uploaded to Snapchat from your device](https://www.lifewire.com/upload-saved-photos-or-videos-to-snapchat-4103878) .
+2. **Swipe left** on your video snap preview to browse through the filters until you see three reverse arrows (<<<) appear over your video. It applies to the reverse video filter, which will automatically play your video in reverse as a preview. Any sound in the video will also play in reverse.  
+![Steps to take to reverse a video on Snapchat with the record button and Reverse Filter icon highlighted](https://www.lifewire.com/thmb/fC-N-GZHtzhS6HfpjU3plsvT7c4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/123Reversesnapchat-21fd401ccb4347e3ab99f6189284d3a6.jpg)  
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
+### Tip  
+
+ The reverse video filter is about the eighth filter when swiping to the left. You can find the reverse filter by swiping right through filters, but that will take you longer to get to it. Some filters let you speed up your video snap (**rabbit** filter) or slow it down (**snail** filter).
+3. Optionally, add more effects (text, stickers, drawings, etc.) to your video snap. Tap**Send To** to send it to friends and/or post it to your stories.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## When to Apply the Reverse Filter on Video Snaps
+
+ Reversing your video snaps is a fun way to showcase a series of events backward. This filter is often best applied to action-packed videos.
+
+ For example, consider something as simple as dropping a rock onto a frozen pond that breaks through the ice. Instead of watching the ice shatter at the end of the video, you could apply the reverse filter to show the fractured ice coming back together as the video footage plays backward.
+
+ FAQ
+
+* How do I save a Snapchat video?  
+ To[save a Snapchat video](https://www.lifewire.com/how-to-save-snapchat-videos-3485995) , record your video, then tap the**Download** icon (the down arrow). To save a video in the Stories tab, select the**three-dot menu** , then tap a video and select the**down arrow** . To save other users' videos, you need a screen recorder.
+* How do I add music to my Snapchat video?  
+ To[add music to a Snapchat video](https://www.lifewire.com/add-music-to-your-snaps-5086045) , tap the**Camera** icon, then tap the**Music Notes** to search for songs. Tap**Play** next to the track you want, tap**Next** , select a song snippet, then record your Snap video. Tap**\+ Create Sound** in Featured Sounds to record your own audio.
+* How long can a snapchat video be?  
+ Snapchat videos can be up to 60 seconds in length. When you[upload videos to Snapchat](https://www.lifewire.com/upload-saved-photos-or-videos-to-snapchat-4103878) , they are broken into 10-second clips.
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-premium-recommendations-for-ultra-hd-monitoring-tools/"><u>[New] 2024 Approved  Premium Recommendations for Ultra-HD Monitoring Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-perfect-upside-down-and-sideways-iphone-images/"><u>[New] In 2024, Perfect Upside-Down & Sideways iPhone Images</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-mastering-tagging-elevate-your-youtube-content/"><u>[Updated] Mastering Tagging  Elevate Your YouTube Content</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/achieve-a-thriving-twitter-presence-tips-for-increasing-your-follower-count/"><u>Achieve a Thriving Twitter Presence: Tips for Increasing Your Follower Count</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/analyzing-your-youtube-viewer-demographics-a-step-by-step-approach/"><u>Analyzing Your YouTube Viewer Demographics: A Step-by-Step Approach</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-motorola-edge-40-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from Motorola Edge 40</u></a></li>
+<li><a href="https://win-able.techidaily.com/complete-guide-on-troubleshooting-and-preventing-resident-evil-ebeque-4-remake-crashes/"><u>Complete Guide on Troubleshooting and Preventing Resident Evil Ebeque 4 Remake Crashes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-strategies-to-overcome-device-manager-error-41-challenges/"><u>Comprehensive Strategies to Overcome Device Manager Error #41 Challenges</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/cross-language-welcome-primer/"><u>Cross-Language Welcome Primer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/deciphering-atandt-wireless-policies-on-roaming-services/"><u>Deciphering AT&T Wireless Policies on Roaming Services</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/decoding-digital-communication-an-insight-into-aols-instant-messaging-platform-aim/"><u>Decoding Digital Communication: An Insight Into AOL's Instant Messaging Platform, AIM</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/does-heshe-read-my-text-deciphering-the-clues-in-your-message-conversations/"><u>Does He/She Read My Text? Deciphering the Clues in Your Message Conversations</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/download-youtube-playlists-with-ease-our-instructions/"><u>Download YouTube Playlists with Ease - Our Instructions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/elevate-your-experience-achieving-ultra-smooth-gameplay-with-ps5-at-120-fps/"><u>Elevate Your Experience: Achieving Ultra Smooth Gameplay with PS5 at 120 FPS</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-gmail-password-on-xiaomi-14-ultra-devices-by-drfone-android/"><u>How to Reset Gmail Password on Xiaomi 14 Ultra Devices</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Oppo A2? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Samsung Galaxy S24+? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-safest-drone-selections-5-great-options-for-young-ones/"><u>In 2024, Safest Drone Selections  5 Great Options for Young Ones</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-the-art-of-changing-time-on-your-kindle-paperwhite-device/"><u>Master the Art of Changing Time on Your Kindle Paperwhite Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/matrix-series-viewing-guide-watch-all-films-sequentially/"><u>Matrix Series Viewing Guide: Watch All Films Sequentially</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/peek-into-the-future-with-apple-watch-series-x-projection-of-release-timeline-and-pricing-confirmations-and-speculations-alike/"><u>Peek Into the Future with Apple Watch Series X: Projection of Release Timeline and Pricing - Confirmations & Speculations Alike</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/reestablishing-internet-access-for-your-vizio-smart-tv-a-comprehensive-guide/"><u>Reestablishing Internet Access for Your Vizio Smart TV – A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/h-sound-transformation-essential-ios-apps-to-convert-youtube-mp3-wise-for-2024/"><u>Smooth Sound Transformation  Essential iOS Apps to Convert YouTube MP3-Wise for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solutions-for-correcting-unexecutable-hardware-exceptions/"><u>Step-by-Step Solutions for Correcting Unexecutable Hardware Exceptions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-deploying-chatbots-on-your-discord-platform/"><u>Step-by-Step Tutorial: Deploying Chatbots on Your Discord Platform</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/steps-to-enter-and-exit-iphones-dfurecovery-modes/"><u>Steps to Enter & Exit iPhone's DFU/Recovery Modes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tackling-vpn-issue-step-by-step-guide-for-resolving-error-800-on-clients-and-servers/"><u>Tackling VPN Issue: Step-by-Step Guide for Resolving Error 800 on Clients and Servers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-pros-and-cons-of-owning-a-blu-ray-player/"><u>The Pros and Cons of Owning a Blu-Ray Player</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-story-of-facebook-how-it-started-became-a-hit-and-its-prime-features/"><u>The Story of Facebook: How It Started, Became a Hit, and Its Prime Features</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-tutorial-operating-the-measure-application-on-android-phones/"><u>The Ultimate Tutorial: Operating the Measure Application on Android Phones</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-walkthrough-for-syncing-apple-homepod-with-your-televison-unit/"><u>The Ultimate Walkthrough for Syncing Apple HomePod with Your Televison Unit</u></a></li>
+<li><a href="https://extra-information.techidaily.com/wave-warriors-gear-the-best-cams-for-surfing/"><u>Wave Warriors Gear  The Best Cams for Surfing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/what-does-page-not-found-mean-unraveling-the-mystery-of-404-errors/"><u>What Does 'Page Not Found' Mean? Unraveling the Mystery of 404 Errors</u></a></li>
+</ul></div>
