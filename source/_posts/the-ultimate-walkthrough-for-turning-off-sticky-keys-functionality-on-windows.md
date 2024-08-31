@@ -1,0 +1,162 @@
+---
+title: The Ultimate Walkthrough for Turning Off Sticky Keys Functionality on Windows
+date: 2024-08-30T14:47:26.288Z
+updated: 2024-08-31T14:47:26.288Z
+categories:
+  - BestProducts
+description: This Article Describes The Ultimate Walkthrough for Turning Off Sticky Keys Functionality on Windows
+excerpt: This Article Describes The Ultimate Walkthrough for Turning Off Sticky Keys Functionality on Windows
+thumbnail: https://www.lifewire.com/thmb/8FJguj3CbG3Pg0axU1nf6m_P2Ok=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-624884530-b5a60d2585a44bbb989411a9ed0d554b.jpg
+---
+
+## Unlock the Potential of Your Windows 11 by Running Android Apps with These Simple Steps
+### What to Know
+
+* An Android emulator like**BlueStacks** is the best way to play Android games and run other Android apps on Windows.
+* To control your phone from Windows 10, install**AirDroid** and turn on**Screen Mirroring** and**Remote Control** .
+
+ This article describes two ways to use Android apps on a Windows 10 PC.
+
+## Install BlueStacks to Run Android Apps on a PC
+
+ BlueStacks is one example of a[free Android emulator](https://www.lifewire.com/best-android-emulators-4175015) . As an emulator, this software mimics Android on your Windows 10 computer. Use this method if there are Android games and other apps you want easy access to on Windows. You don't need an Android phone to use an emulator.
+
+ See our guide on[how to use BlueStacks to run Android apps on Windows](https://www.lifewire.com/how-to-use-bluestacks-to-run-android-apps-on-windows-4770053) , or follow these general steps to get started:
+
+1. [Download BlueStacks](https://www.bluestacks.com/download.html) to your computer and then install it.
+2. Use the search bar at the top of the program to find an app to install.
+3. Select**Install on App Player** to get the app and start using it on your computer.  
+![Adventure Escape Mysteries in BlueStacks on Windows](https://www.lifewire.com/thmb/thd-CsxDeNrlug6x-XD8VO8i_uU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/bluestacks-android-app-623f1060def640978b9d0bb5ffe47002.png)  
+[The 12 Best Apps for 2024](https://www.lifewire.com/best-mobile-apps-4157439)  
+
+## Use AirDroid to Mirror Android on Windows 10  
+
+ AirDroid is a free app that runs on Android, so you need an Android device to use this method. Once it's installed, you can view your phone live on your computer screen. If you enable remote control, you can even control your phone from Windows 10.
+4. [Install AirDroid](https://play.google.com/store/apps/details?id=com.sand.airdroid) on your phone.
+5. Open the app and tap**Sign in** . Log in using one of the options, such as your Google account.  
+![Install, Open, and Sign in buttons highlighted in the AirDroid app.](https://www.lifewire.com/thmb/-xB18efOoQrY5DNsDIQvVPm8Z7k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B2-RunAndroidAppsonWindows10-annotated-96a94d6e72974efe9758ee2bc466187c.jpg)
+6. Tap**Continue** on the permission request to access your phone's files.
+7. Tap the toggle next to**Allow access to manage all files** .
+8. Tap**Allow** on the prompt for AirDroid to run in the background.  
+![Continue, Allow access toggle, and Allow button highlighted in the AirDroid app for Android.](https://www.lifewire.com/thmb/CbexqTWDoZy3jmF_-4qqKdbIQzs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B5-RunAndroidAppsonWindows10-annotated-29aacbf2e127466f85d7a7c443b512e2.jpg)
+9. Select**OK** on the Security & Remote Features screen to continue setup.
+10. Go to**Screen Mirroring** \>**Grant permission** \>**Still enable** to turn on screen mirroring functionality. This is necessary if you want to see your Android apps and screen from your computer.  
+![Screen Mirroring, Grant permission, and Still enable highlighted in the AirDroid app for Android.](https://www.lifewire.com/thmb/tsy2xem1mP28NPMcPJucG_xT-s0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B7-RunAndroidAppsonWindows10-annotated-34d27e18c6ec4ff7acdb6db8f668606c.jpg)
+11. Select**Continue** on the prompt to allow display over other apps.
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
+12. Tap**AirDroid** from your list of apps.
+13. Tap the toggle next to**Allow display over other apps** .  
+![Continue, AirDroid, and the toggle highlighted in AirDroid for Android.](https://www.lifewire.com/thmb/fsJsiMEafExGn_8nR-dfrcR-3qw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B10-RunAndroidAppsonWindows10-annotated-0317e836163041fb8fdc907e4c24a251.jpg)
+14. Return to AirDroid and go to**Remote Control** \>**Enable remote control** \>**Still enable** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
+![Remote Control, Enable remote control, and Still enable highlighted in AirDroid for Android.](https://www.lifewire.com/thmb/TwYRkcvTt5VICEB4zjl6wuqUaFw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B11-RunAndroidAppsonWindows10-annotated-11ed8c49a76f4a19996a181f0675c9ad.jpg)
+15. Now you need to install a small add-on from the Play Store to actually enable remote control access between your computer and phone. To do this, follow the on-screen prompts to select**Download and install** \>**Download** \>**Install** .  
+![Download and install, Download, and Install buttons highlighted in AirDroid and Play Store.](https://www.lifewire.com/thmb/GuTDLA0vCwUfKRPNfUJUL8RL6OQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B12-RunAndroidAppsonWindows10-annotated-838eade9103c4f5f9c31b048bc90e969.jpg)
+16. Return to AirDroid and tap**Grant permissions** \>**OK** .
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+17. Tap the toggle next to**Use AirDroid Control Add-on** , then tap**Allow** on the prompt.  
+![Grant permissions, Use AirDroid, and Allow buttons highlighted in AirDroid and Settings for Android.](https://www.lifewire.com/thmb/9wwRzJ1bk6CSlYqjShS8rRLl3Eg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B14-RunAndroidAppsonWindows10-annotated-f8f7e76cfbbb487b9b21a58fcd38c6e5.jpg)
+18. Tap**Done** on the screen that says remote control is enabled.
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
+19. Tap the**Transfer** tab at the bottom of AirDroid, followed by**AirDroid Web** .
+20. On your computer, enter the[IP address](https://www.lifewire.com/what-is-an-ip-address-2625920) and port number shown in the AirDroid app.  
+![Done, Transfer, AirDroid Web, and Option 2 paragraph highlighted in AirDroid.](https://www.lifewire.com/thmb/8yoCK74talFlTYj-YCYm5lIzqdY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B17-RunAndroidAppsonWindows10-annotated-093199afced14217a49962e06818d393.jpg)
+21. When AirDroid opens on your computer, use one of the sign in options at the bottom to log in to the same account you signed in to from your phone.  
+![Sign in with options highlighted at the bottom of AirDroid on Windows.](https://www.lifewire.com/thmb/yihdd2n5vliGiBjdZ0a0lgTyd2s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B18-RunAndroidAppsonWindows10-annotated-af9b005584844c549e138ac9586debbf.jpg)
+22. Select your Android device from the**Choose a device** prompt.  
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Google Pixel 7a highlighted in AirDroid on Windows](https://www.lifewire.com/thmb/rSTxohWXD6GAQ3V44jNWjAE0Zy0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/airdroid-web-select-device-0a3031475b7f42a1992483aaf18147f7.png)
+23. Select**Mirroring** from the AirDroid desktop on your computer.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
+![Mirroring highlighted on the AirDroid desktop on Windows.](https://www.lifewire.com/thmb/MZkSyFVGUy34i_WC0wxca7axxn4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B20-RunAndroidAppsonWindows10-annotated-240867983f69412f8df605137bf2b1db.jpg)
+24. You'll see your whole Android screen on your Windows computer. You can launch apps from either device to see them displayed on your Windows 10 PC.  
+![A Pixel 7 phone mirrored to a Windows computer](https://www.lifewire.com/thmb/8asRQPV_NwnOvS7jDbFVKsTq4l0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/airdroid-web-screen-mirroring-8f3fe1ffb7e24040b82dea79dff7b029.png)
+
+ FAQ
+
+* How do I connect my Android to my Windows PC?  
+[Connect your phone and PC](https://www.lifewire.com/how-to-connect-android-to-pc-4706506) with a USB cable and select**Transfer files** on your Android. On your PC, select**Open device to view files** \>**This PC** . Alternatively, connect wirelessly via[Bluetooth](https://www.lifewire.com/what-is-bluetooth-2377412) .
+* What is the best Android emulator?  
+ BlueStacks, Andy, Genymotion, Remix OS, and NoxPlayer are some of the[most popular Android emulators for Windows](https://www.lifewire.com/best-android-emulators-4175015) . Android Studio from Google also has a built-in emulator.
+* Can I run Windows on Android?  
+ No, but you can[use Microsoft Launcher to access Windows apps from your Android](https://www.lifewire.com/get-windows-on-android-4178504) phone or tablet. Microsoft Launcher customizes your phone's look with Windows 10-style wallpapers, themes, and icons.
+* Can I use Android apps on Windows 11?  
+ Yes,[Windows 11 supports Android apps](https://www.lifewire.com/get-android-apps-windows-11-7112568) . You can purchase Android apps for Windows 11 through the Microsoft Store. You do not need an emulator to run them.
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-tailoring-teammates-backgrounds-in-microsoft-teams-calls-for-2024/"><u>[New] Tailoring Teammates’ Backgrounds in Microsoft Teams Calls for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-captivating-content-the-basics-of-removing-background-from-videos/"><u>[Updated] Captivating Content  The Basics of Removing Background From Videos</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-instantaneous-video-and-picture-revival-on-snap/"><u>[Updated] In 2024, Instantaneous Video & Picture Revival on Snap</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-enhance-your-play-mastering-kinemaster-and-the-top-10-alternative-games/"><u>2024 Approved  Enhance Your Play  Mastering KineMaster & The Top 10 Alternative Games</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-leverage-advanced-transcription-tools-within-microsoft-word-to-boost-productivity/"><u>2024 Approved  Leverage Advanced Transcription Tools Within Microsoft Word to Boost Productivity</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/7-essential-online-calendar-tools-to-sync-your-familys-schedule/"><u>7 Essential Online Calendar Tools to Sync Your Family's Schedule</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722872933114-android-16-preview-discover-its-projected-price-point-release-dates-device-support-and-exciting-features-ahead/"><u>Android 16 Preview - Discover Its Projected Price Point, Release Dates, Device Support, and Exciting Features Ahead</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-solution-for-corrupt-or-lost-wmvcoredll-file-errors/"><u>Complete Solution for Corrupt or Lost Wmvcore.dll File Errors</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-instructions-unliking-songs-across-your-entire-spotify-library/"><u>Comprehensive Instructions: Unliking Songs Across Your Entire Spotify Library</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diagnosing-your-vehicles-power-problems-the-six-culprits-for-a-drained-car-battery/"><u>Diagnosing Your Vehicle's Power Problems: The Six Culprits for a Drained Car Battery</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/economical-ways-to-assemble-your-dream-home-theater-without-breaking-the-bank/"><u>Economical Ways to Assemble Your Dream Home Theater Without Breaking the Bank</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/explore-the-best-ai-chatgpt-add-ons-to-elevate-your-crypto-platforms-user-experience/"><u>Explore the Best AI ChatGPT Add-Ons to Elevate Your Crypto Platform's User Experience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/get-ahead-of-the-curve-with-projections-for-xbox-vr-launch-date-pricing-schemes-and-cutting-edge-capabilities/"><u>Get Ahead of the Curve with Projections for Xbox VR Launch Date, Pricing Schemes & Cutting-Edge Capabilities</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-downloading-and-managing-apps-on-samsung-smarttv-platforms/"><u>Guide: Downloading and Managing Apps on Samsung SmartTV Platforms</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-poco-f5-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Poco F5 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-photos-without-spending-our-picks-for-the-top-n-photoshop-tools/"><u>Mastering Photos Without Spending: Our Picks for the Top N-Photoshop Tools</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-the-world-of-tech-with-toms-detailed-review-hub/"><u>Navigate the World of Tech with Tom's Detailed Review Hub</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/optidrive-specialists-judgment-for-2024/"><u>OptiDrive Specialists Judgment for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722883938792-removing-user-pin-authentication-from-windows-10-easy-instructions-inside/"><u>Removing User Pin Authentication From Windows 10 – Easy Instructions Inside</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-dota-2-game-crashes-effective-solutions-and-tips/"><u>Resolving Dota 2 Game Crashes: Effective Solutions and Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/simplify-email-tagging-master-the-art-of-categorization-in-gmail/"><u>Simplify Email Tagging: Master the Art of Categorization in Gmail</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/speedy-social-snooping-techniques-for-fb-users-for-2024/"><u>Speedy Social Snooping Techniques for FB Users for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-fix-restoring-functionality-when-your-apple-watch-touchscreen-fails/"><u>Step-by-Step Fix: Restoring Functionality When Your Apple Watch Touchscreen Fails</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-accessing-the-windows-terminal-in-various-versions/"><u>Step-by-Step Guide: Accessing the Windows Terminal in Various Versions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-merging-several-jpeg-images-into-a-single-pdf-document/"><u>Step-by-Step Guide: Merging Several JPEG Images Into a Single PDF Document</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-definitive-way-to-binge-watch-star-wars-movies-in-sequence-on-disneyplus/"><u>The Definitive Way to Binge Watch ‘Star Wars’ Movies in Sequence on Disney+</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-15-complimentary-artificial-intelligence-courses-you-can-learn-at-your-own-pace/"><u>Top 15 Complimentary Artificial Intelligence Courses You Can Learn At Your Own Pace</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-meizu-21-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Meizu 21 Location | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-8-streaming-platforms-to-watch/"><u>Top 8 Streaming Platforms to Watch</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-how-to-resolve-issues-when-facetime-stops-working-top-15-solutions/"><u>Troubleshooting Guide: How to Resolve Issues When FaceTime Stops Working – Top 15 Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-resolving-call-issues-on-your-android-device/"><u>Ultimate Guide: Resolving Call Issues on Your Android Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/value-packed-asrock-b7eelch-b760m-pro-rs-extensive-and-budget-friendly-m2-slots/"><u>Value-Packed ASRock B7eelch B760M Pro RS: Extensive and Budget-Friendly M.2 Slots</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-11-amds-radeon-hd-6950-driver-revamp-released/"><u>Windows 11: AMD's Radeon HD 6950 Driver Revamp Released</u></a></li>
+</ul></div>

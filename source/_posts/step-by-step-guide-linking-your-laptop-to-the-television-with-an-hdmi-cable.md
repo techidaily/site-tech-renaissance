@@ -1,0 +1,179 @@
+---
+title: "Step-by-Step Guide: Linking Your Laptop to the Television with an HDMI Cable"
+date: 2024-08-30T14:43:48.309Z
+updated: 2024-08-31T14:43:48.309Z
+categories:
+  - BestProducts
+description: "This Article Describes Step-by-Step Guide: Linking Your Laptop to the Television with an HDMI Cable"
+excerpt: "This Article Describes Step-by-Step Guide: Linking Your Laptop to the Television with an HDMI Cable"
+thumbnail: https://thmb.techidaily.com/cb670c879e89656e881160d22473efee38dda114df0401fe96c31b4cf2882857.jpg
+---
+
+## Mastering the Art of Friendly Battles: A Guide to Teaming Up with Your Pokémon Pal in 'Go'
+### What to Know
+
+* Tap your trainer profile and select**Buddy History** to add or swap your_Pokémon Go_ buddy.
+* Tap your buddy Pokémon’s profile and select**Play** to play with your Pokémon.
+* Walk with your buddy Pokémon to receive gifts, candy, and souvenirs.
+
+ The_Pokémon Go_ buddy system is a feature that lets you show off your favorite Pokémon, earn candy, and receive in-app gifts and souvenirs. This guide explains how to play together with your buddy in_Pokémon Go_ , how to swap Pokémon buddies, and how to best use the buddy system to get the most out of the game.
+
+## Adding a ‘Pokémon Go’ Buddy for the First Time
+
+_Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it significantly in 2019 by letting your buddy appear on the map. The app directed all players through the process of adding a buddy Pokémon after each feature update, but if for some reason you managed to bypass these in-app tutorials, you can add your first Pokémon buddy by selecting your trainer profile icon from the lower-left corner of the map screen and tapping**Buddy History** or**Buddy** .
+
+![Pokemon Go trainer screen with Buddy History icon highlighted.](https://www.lifewire.com/thmb/BdiPfIa8oWBYka7UEwDkhYUEZlU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Buddy-icon-in-Pokemon-Go-0b51206346d144a0b55dda8d337fcc18.jpg)
+
+ If you don’t see a**Buddy History** or**Buddy** option, you may need to update the_Pokémon Go_ app to its latest version.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
+## How to Change Your ‘Pokémon Go’ Buddy Pokémon
+
+ In_Pokémon Go_ , you’re allowed one buddy Pokémon at a time and can change this Pokémon for another one up to 20 times per day. Here’s how to swap your buddy Pokémon.  
+
+1. From the main map screen, tap your current buddy Pokémon’s icon in the lower-left corner.  
+ Alternatively, select your buddy Pokémon directly from your trainer profile screen if you already have that open.
+2. Scroll down to the bottom of the screen and select**Swap Buddies** .  
+![Pokemon GO app with Pokemon buddy icon and Swap Buddies icons highlighted.](https://www.lifewire.com/thmb/6eTmPPyKyA71qCXG--scAbBsXPo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Swap-Buddy-1b1fab1572ac45a599c81931d34db597.jpg)
+3. Tap**Yes** .
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
+4. Find the Pokémon you want to add as your new buddy and tap it. If successful, the selected Pokémon will be shown in a brief fullscreen announcement and then appear on the Pokémon buddy screen as your new buddy.  
+![Pokemon Go app showing how to swap your Buddy Pokémon](https://www.lifewire.com/thmb/BoGpxHgNU6FVRwfj_E4L0CrpefQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-play-with-your-buddy-in-pokemon-go-02-e064b240ebdf48fa89583f0851d42bcd.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## What Is the Point of Having a Buddy in Pokémon Go?
+
+ While having your favorite Pokémon appear alongside you on your trainer profile and walk on the map can be cool, there are several more practical benefits to having a buddy Pokémon.
+
+* **Collecting Pokémon candy** . Your buddy Pokémon will earn its own type of candy by walking with you. Walking with a buddy is one of the easiest ways to get candy in_Pokémon Go_ .
+* **Getting free items in_Pokémon Go_**  . Your buddy Pokémon will occasionally find items and gifts for you once it joins you on the map and is at its second level, Great Buddy.
+* **Collecting souvenirs** . At the third level, Ultra Buddy, your buddy Pokémon will occasionally bring you collectibles. Souvenir items have no functionality in the game, but they are fun to collect.
+* **Complete challenges** . Some challenges will require you to walk a certain distance with your buddy or get it to a certain level.
+* **Pokémon evolutions** . A growing number of Pokémon,[such as Eevee](https://www.lifewire.com/how-to-evolve-eevee-pokemon-go-4689089) , require you to adventure with them as a buddy before you can evolve them. Some need you to fight with them as a buddy, while others may require a certain distance to be walked or items to be collected.
+* **The Pokémon GO buddy CP Boost** . Once your buddy Pokémon reaches its fourth and final friendship level, Best Buddy, it gains a permanent CP Boost, which makes its attacks more powerful in Pokémon battles.
+
+ You can completely ignore the Pokémon buddy feature if you like, but it is required if you want to 100 percent complete your Pokédex and challenges.
+
+## How to Play Together With Your Buddy in 'Pokémon Go'
+
+ The Play Together feature in_Pokémon Go_ lets you interact with your buddy Pokémon by patting it. The feature works much like the similar features in the various mainline Pokémon video games on the[Nintendo Switch](https://www.lifewire.com/what-is-the-nintendo-switch-4148184) and[3DS consoles](https://www.lifewire.com/nintendo-3ds-overview-1126249) . The main difference is that playing with your buddy Pokémon in_Pokémon Go_ lets you earn hearts, which in turn helps level up your buddy Pokémon to higher friendship levels.  
+
+1. From the main map screen, tap your buddy Pokémon’s icon.
+2. Tap**Play** .
+3. Tap your buddy Pokémon to have it react excitedly to you.
+4. Drag your finger back and forth to pat it. If you’re patting your Pokémon buddy correctly, you should see sparkles.  
+![Pokemon GO with buddy Pokemon and Play icons highlighted](https://www.lifewire.com/thmb/ZJo8o9TObp3SUocJtYPzmQ-r3VA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Play-with-buddy-Pokemon-5d81ad40271c49dba320d76c94d2ae10.jpg)
+5. After several seconds of patting, a bright light should surround your buddy, and a heart will appear. This heart will go toward your buddy’s friendship level. You can only earn one heart by playing with your buddy Pokémon every day, though you can play with them as many times as you like.
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+6. Tap the**Exit** icon in the top-left corner to return to the map, or tap the**Berry** icon in the lower-left corner to feed your Pokémon berries to get it to appear on the map.
+7. To feed your Pokémon buddy, tap and drag berries from the lower menu to your Pokémon. Three regular Razz, Nanab, or Pinap berries will be enough to have your buddy join you on the map. One Silver Pinap Berry, one Golden Razz Berry, or one Poffin will also do the job.  
+ Once your buddy Pokémon is on the map with you, the distance required to walk to earn candy is reduced. Your buddy may also direct you to spin certain Pokéstops to earn hidden prizes and earn bonus hearts.  
+![Pokemon GO buddy screens with Exit and Berry icons highlighted, berry to buddy swipe gesture added.](https://www.lifewire.com/thmb/7fPUcRq4cguvQ2HkO9UqgBsgHUU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Feeding-buddy-Pokemon-664324e020424c63a8b97f9500ce6a11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Does Swapping Buddies Lose Progress?
+
+ Swapping a_Pokémon Go_ buddy for another one will delete any unfinished progress that’s currently in action, but it won’t remove any gained friendship level status. For example, if your buddy Pokémon is halfway into unlocking a candy, swapping the buddy out will remove this progress. The usual stats that reset at the end of each day will also clear with a swap.
+
+ However, if this buddy has reached Great Buddy or some other friendship level status, that progress will remain no matter how many times you swap the buddy out.
+
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Does It Matter Who Your Buddy Is in 'Pokémon Go'?
+
+ It doesn’t really matter at all who you choose to have as your_Pokémon Go_ buddy. At the end of the day, it comes down to what your particular aims are within the game.
+
+ If all you want is to show off your favorite Pokémon on your trainer profile, then that Pokémon will be your best buddy choice. However, if you need to get more candy to evolve or level up a Pokémon, then adding one of the Pokémon that earns that specific candy is the way to go.
+
+ Some_Pokémon Go_ players stick with the same buddy Pokémon for years on end, much like Ash with Pikachu in the_Pokémon_ anime series, while others use the feature more practically to earn candies to evolve a Pokémon and then, once that Pokémon has evolved, immediately swap it for their next evolution target.
+
+ Many players even use the buddy feature as a kind of fashion accessory. For example, when they change their trainer’s clothes for Christmas, they also swap out their Pokémon buddy for one that has Christmas accessories or a Christmas vibe, such as many of the Ice Type Pokémon. Some do the same for Halloween, New Year, Valentine’s Day, and even a trip to the beach or their birthday.  
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-novice-to-expert-mastering-video-identity-on-youtube-for-2024/"><u>[New] From Novice to Expert  Mastering Video Identity on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-vision-to-execution-the-full-spectrum-of-personal-branding-on-youtube-for-2024/"><u>[New] From Vision to Execution  The Full Spectrum of Personal Branding on YouTube for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-innovative-setup-essentials-for-game-streaming/"><u>[Updated] 2024 Approved  Innovative Setup Essentials for Game Streaming</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-hidden-shotshaper-advanced-stealthy-methods-for-capturing-images/"><u>2024 Approved  Hidden ShotShaper  Advanced Stealthy Methods for Capturing Images</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/2024s-elite-collection-of-imessage-games-find-your-perfect-match-in-the-top-7/"><u>2024'S Elite Collection of iMessage Games: Find Your Perfect Match in the Top 7</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722969449308-amd-ryzen-5-2600-driver-installation-made-simple-get-started-today/"><u>AMD Ryzen 5 2600 Driver Installation Made Simple - Get Started Today</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/best-free-movie-streaming-services-a-list-of-12-apps/"><u>Best Free Movie Streaming Services: A List of 12 Apps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/connecting-methods-for-bluetooth-samsung-buds-and-laptops-made-simple/"><u>Connecting Methods for Bluetooth Samsung Buds and Laptops Made Simple</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-guide-pausing-auto-play-on-your-apple-music-streams/"><u>Easy Guide: Pausing Auto-Play on Your Apple Music Streams</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-steps-to-link-airpods-with-a-windows-pc/"><u>Easy Steps to Link AirPods with a Windows PC</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/elevating-your-earning-game-with-youtube-monetization-strategies-for-2024/"><u>Elevating Your Earning Game with YouTube Monetization Strategies for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/eliminate-kernel-inpage-troubles-proven-strategies-and-solutions/"><u>Eliminate 'Kernel Inpage' Troubles: Proven Strategies and Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-factors-to-evaluate-when-investing-in-a-video-recording-equipment/"><u>Essential Factors to Evaluate When Investing in a Video Recording Equipment</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-video-editing-software-the-elite-picks/"><u>Essential Video Editing Software: The Elite Picks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/experts-reviews-of-snappydriver-installer-version-113-and-its-impact-on-your-system/"><u>Experts' Reviews of SnappyDriver Installer Version 1.13 and Its Impact on Your System</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/facebook-marketplace-not-showing-up-learn-about-possible-causes-and-fixes-today/"><u>Facebook Marketplace Not Showing Up? Learn About Possible Causes & Fixes Today!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-the-elusive-pdhdll-error-expert-tips-and-techniques/"><u>Fixing the Elusive pdh.dll Error - Expert Tips & Techniques</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/from-first-steps-to-giant-leaps-the-progressive-story-of-apples-ios-from-version-10-to-180/"><u>From First Steps to Giant Leaps: The Progressive Story of Apple's iOS From Version 1.0 to 18.0</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-access-live-fm-broadcasts-using-your-ios-or-android-device-a-comprehensive-walkthrough/"><u>How to Access Live FM Broadcasts Using Your iOS or Android Device – A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-restore-accurate-colors-and-fix-image-warping-problems-in-computer-screens/"><u>How to Restore Accurate Colors & Fix Image Warping Problems in Computer Screens</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-xiaomi-redmi-a2-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Xiaomi Redmi A2 Device SIM</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-12-prominent-tecno-spark-go-2023-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Tecno Spark Go (2023) Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-realme-gt-neo-5-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Realme GT Neo 5 FRP Bypass</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/leading-samsung-smart-tv-apps-list/"><u>Leading Samsung Smart TV Apps List</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-camera-controls-how-to-zoom-on-iphoneipad/"><u>Mastering Camera Controls: How to Zoom on iPhone/iPad</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/roku-free-streaming-how-to-access-your-favorite-shows-without-an-original-device/"><u>Roku-Free Streaming: How to Access Your Favorite Shows Without an Original Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-scheduling-your-next-apple-store-genius-bar-visit/"><u>Step-by-Step Guide: Scheduling Your Next Apple Store Genius Bar Visit</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-on-hooking-up-your-computer-to-the-television-with-hdmi/"><u>Step-by-Step Instructions on Hooking Up Your Computer to the Television with HDMI</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-process-for-discontinuing-your-use-of-twitch/"><u>Step-by-Step Process for Discontinuing Your Use of Twitch</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-best-twitter-conversation-utilities-a-guide-to-monitoring-hashtag-trends/"><u>The Best TwitteR Conversation Utilities: A Guide to Monitoring Hashtag Trends</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-what-to-do-when-you-cant-find-msvcr80dll/"><u>Troubleshooting: What To Do When You Can't Find MSVCR80.DLL</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722845216599-turning-off-interactive-voice-assistance-for-easier-viewing-on-your-samsung-display/"><u>Turning Off Interactive Voice Assistance for Easier Viewing on Your Samsung Display</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-shopping-for-mobile-phones-the-premier-retailers/"><u>Ultimate Guide to Shopping for Mobile Phones – The Premier Retailers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-the-power-of-measure-app-on-android-a-comprehensive-guide/"><u>Unlock the Power of Measure App on Android - A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-the-secrets-of-data-use-how-to-keep-an-eye-on-your-digital-footprint/"><u>Unlock the Secrets of Data Use: How to Keep an Eye on Your Digital Footprint</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/your-guide-to-the-sleek-aukey-usb-30-hub-performance-insights-and-review/"><u>Your Guide to the Sleek Aukey USB 3.0 Hub: Performance Insights & Review</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Unlocking PowerShell Access in Windows 11: Explore These 9 Effective Techniques"
-date: 2024-08-27 16:18:43
-updated: 2024-08-29 10:32:44
+date: 2024-08-30T14:40:26.829Z
+updated: 2024-08-31T14:40:26.829Z
 tags:
   - deals
 categories:
@@ -32,6 +32,9 @@ thumbnail: https://thmb.techidaily.com/a7c2cae58c74793489ce0f31c71cf2fc559db86f4
 
  PowerShell is a more powerful command-line shell and scripting language than Command Prompt. Since the release of Windows 10, it's become the default choice, and there are many ways you can open it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ##  What Is the Difference Between PowerShell and Command Prompt? 
 
  PowerShell is more complicated to use, but it's a [much more robust](https://techno-recovery.techidaily.com/x-men-film-series-viewing-guide-the-ultimate-sequence/) and powerful than Command Prompt. That's why it's become the preferred scripting language and command-line interface for Power Users and IT pros, competing favorably with other Linux and Unix-like shells.
@@ -40,6 +43,9 @@ thumbnail: https://thmb.techidaily.com/a7c2cae58c74793489ce0f31c71cf2fc559db86f4
 
  While you can open PowerShell from the Start menu, this list includes some (potentially) easier and lesser-known ways you can launch this tool.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ##  Open PowerShell From the Power Users Menu
 
  The Power Users menu appears in the taskbar when you press Windows+X. It's an easy way to access a multitude of settings, utilities, and system programs from one menu.
@@ -48,6 +54,9 @@ thumbnail: https://thmb.techidaily.com/a7c2cae58c74793489ce0f31c71cf2fc559db86f4
 
 ![Click &quot;Windows PowerShell&quot; or &quot;Windows PowerShell (Admin).&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-16_12h23_06.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Note that since the [Creators Update for Windows 10,](https://hardware-help.techidaily.com/exploring-technology-with-tom-your-trusted-source-for-hardware-insights-and-reviews/) PowerShell appears in the Power Users menu by default. If you don't see it, your computer may not be up-to-date, or, perhaps, you replaced it with Command Prompt in the Settings menu.
 
  It's straightforward to [switch back to showing the PowerShell](https://video-screen-grab.techidaily.com/updated-in-2024-gameboy-advance-mastered-android-emulator-selection/) in the Power User menu. 
@@ -58,6 +67,9 @@ thumbnail: https://thmb.techidaily.com/a7c2cae58c74793489ce0f31c71cf2fc559db86f4
 
 ![Click the Search icon and type &quot;powershell&quot; in the text box.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-16_14h02_57.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
  Now, click "Open" or "Run as Administrator" to open PowerShell either normally or with [administrative privileges](https://win11.techidaily.com/a-guide-to-quickly-opens-sticky-notes-in-windows-11/).
 
 ![Click &quot;Open&quot; or &quot;Run As Administrator.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-16_13h52_39.png) 
@@ -78,12 +90,18 @@ thumbnail: https://thmb.techidaily.com/a7c2cae58c74793489ce0f31c71cf2fc559db86f4
 
 ![Right-click &quot;Windows PowerShell,&quot; and then click &quot;Run as Administrator.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-16_14h34_16.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ##  From the Run Box
 
  Press Windows+R to open the Run dialog box, and then type "powershell" in the text box. You can either click "OK" (or press the Enter) to open a regular PowerShell window, or press Ctrl+Shift+Enter to open an elevated PowerShell window.
 
 ![Type &quot;powershell&quot; in the text box, and then click &quot;OK.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-16_15h56_56.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ##  Launch PowerShell From the File Explorer File Menu
 
  If you need to open a PowerShell instance from a specific folder on your computer, you can use File Explorer to initiate it within the currently selected directory.
@@ -97,6 +115,10 @@ thumbnail: https://thmb.techidaily.com/a7c2cae58c74793489ce0f31c71cf2fc559db86f4
 
 ![Click &quot;File,&quot; hover over &quot;Open Windows PowerShell,&quot; and then click your preferred option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-16_17h12_38.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
  Note that this method doesn't work from the "Quick Access" directory. You'll find the option to open PowerShell grayed out when you click "File."
 
 ##  From the File Explorer Address Bar
@@ -105,10 +127,17 @@ thumbnail: https://thmb.techidaily.com/a7c2cae58c74793489ce0f31c71cf2fc559db86f4
 
 ![Type &quot;powershell&quot; in the File Explorer address bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-16_19h29_17.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
  PowerShell will open with the path of the current folder already set.
 
 ![PowerShell open in Windows Terminal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/powershell-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ##  From Task Manager
 
  To open Task Manager, press Ctrl+Shift+Esc. In the window that appears, click "More details".
@@ -123,6 +152,9 @@ thumbnail: https://thmb.techidaily.com/a7c2cae58c74793489ce0f31c71cf2fc559db86f4
 
 ![Type &quot;powershell&quot; in the text box, and then click &quot;OK.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-16_19h17_20.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you want to run PowerShell with administrator permissions, make sure the "Create This Task with Administrator Privileges" option is selected.
 
 ##  From the Right-Click Context Menu
@@ -131,10 +163,16 @@ thumbnail: https://thmb.techidaily.com/a7c2cae58c74793489ce0f31c71cf2fc559db86f4
 
 ![Click &quot;Open PowerShell Window Here.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-16_17h29_34.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can also permanently add PowerShell to the right-click context menu with [this registry hack](https://win-amazing.techidaily.com/1722976989163-get-your-insignia-usbvga-driver-installed-step-by-step-guide/).
 
 ![The &quot;Open PowerShell Here&quot; option in the context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/01/apc_top.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Create a PowerShell Shortcut on the Desktop
 
  If you'd rather just click an icon to open PowerShell, it's easy to create one for your Desktop.
@@ -147,6 +185,9 @@ thumbnail: https://thmb.techidaily.com/a7c2cae58c74793489ce0f31c71cf2fc559db86f4
 
 ![Type &quot;powershell&quot; in the text box, and then click &quot;Next.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-16_18h57_27.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
  Name your shortcut, and then click "Finish" to create it.
 
 ![Type a name for your shortcut in the text box, and then click &quot;Finish.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-16_18h58_05.png) 
@@ -155,10 +196,21 @@ thumbnail: https://thmb.techidaily.com/a7c2cae58c74793489ce0f31c71cf2fc559db86f4
 
 ![A &quot;Windows PowerShell&quot; window opened from a desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-16_19h09_17.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
  If you want to open PowerShell with administrative privileges, right click the shortcut and choose "Properties" from the context menu.
 
 ![Click &quot;Properties.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-17_13h57_38.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
  Click "Advanced".
 
 ![Click &quot;Advanced.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-17_13h57_53.png) 
@@ -187,3 +239,43 @@ thumbnail: https://thmb.techidaily.com/a7c2cae58c74793489ce0f31c71cf2fc559db86f4
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-elevate-your-creative-expression-with-smart-caption-techniques-for-tiktoks/"><u>[New] Elevate Your Creative Expression with Smart Caption Techniques for TikToks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-laughlens-engine/"><u>[New] LaughLens Engine</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-expert-reviews-best-game-capture-apps/"><u>[Updated] Expert Reviews  Best Game Capture Apps</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-innovative-reclaim-review-the-ultimate-screen-recorder/"><u>[Updated] In 2024, Innovative 'Reclaim' Review – The Ultimate Screen Recorder?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-scaling-up-your-income-with-instagram-mastery/"><u>[Updated] In 2024, Scaling Up Your Income with Instagram Mastery</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-essential-six-digital-communication-hubs-for-corporate-success/"><u>2024 Approved  Essential Six Digital Communication Hubs for Corporate Success</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-paint-perfection-experts-guide-to-color-transformation/"><u>2024 Approved  Paint Perfection  Expert's Guide to Color Transformation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/25-groundbreaking-metaverse-initiatives-for-comprehension-for-2024/"><u>25 Groundbreaking Metaverse Initiatives for Comprehension for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-free-digital-ebook-readers-top-5-choices/"><u>Best Free Digital eBook Readers: Top 5 Choices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722859039791-boost-icloud-security-with-dual-factor-auth-a-how-to-guide/"><u>Boost iCloud Security with Dual Factor Auth - A How-To Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/bracket-breakdown-and-court-chronicles-the-ncaa-basketball-saga-on-airwaves/"><u>Bracket Breakdown and Court Chronicles: The NCAA Basketball Saga on Airwaves</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/bypassing-the-need-for-a-roku-device-to-enjoy-streaming-services-online/"><u>Bypassing the Need for a Roku Device to Enjoy Streaming Services Online</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-max-right-now-documentaries-of-july-2024-curated-list-inside/"><u>Discover the Best Max Right Now Documentaries of July 2024 – Curated List Inside!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-connection-guide-setting-up-your-phone-as-an-interchangeable-control-for-ocul/"><u>Easy Connection Guide: Setting Up Your Phone as an Interchangeable Control for Ocul</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-methods-for-transcribing-spotify-listens-to-plain-text-documents/"><u>Easy Methods for Transcribing Spotify Listens to Plain Text Documents</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/elevate-your-education-game-with-these-top-8-learning-apps/"><u>Elevate Your Education Game with These Top 8 Learning Apps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/future-ready-robot-by-tesla-a-glimpse-into-anticipated-pricing-scheduled-debut-and-performance-specs/"><u>Future-Ready Robot by Tesla: A Glimpse Into Anticipated Pricing, Scheduled Debut, and Performance Specs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/getting-your-amazon-echo-back-on-track-fixes-for-a-quiet-alexa/"><u>Getting Your Amazon Echo Back on Track: Fixes for a Quiet Alexa</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-locate-and-replace-missing-d3dx9nineteenth-error-files/"><u>How to Locate and Replace Missing D3dx9_nineteenth Error Files</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gradual-showcase-starts/"><u>In 2024, Gradual Showcase Starts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-the-art-of-finding-contacts-on-facebook-with-these-simple-steps/"><u>Master the Art of Finding Contacts on Facebook with These Simple Steps</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/professionals-picks-the-top-5-drones-to-invest-in/"><u>Professional's Picks  The Top 5 Drones to Invest In</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quick-and-easy-methods-enhance-your-laptop-speed-in-minutes/"><u>Quick & Easy Methods: Enhance Your Laptop Speed in Minutes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quick-fixes-for-android-users-struggling-with-calls-and-sms/"><u>Quick Fixes for Android Users Struggling with Calls and SMS</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/revolutionizing-recruitment-the-impact-of-ai-on-human-resources/"><u>Revolutionizing Recruitment: The Impact of AI on Human Resources</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/essly-embedding-youtube-subtitles-an-easy-to-follow-guide-for-2024/"><u>Seamlessly Embedding YouTube Subtitles  An Easy-to-Follow Guide for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/staying-current-in-mobile-tech-how-often-should-you-swap-out-that-old-phone/"><u>Staying Current in Mobile Tech: How Often Should You Swap Out That Old Phone?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-to-exceptional-cover-letters-with-gpt-3/"><u>Step by Step Guide to Exceptional Cover Letters with GPT-3</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-eliminating-unwanted-colors-and-deformities-from-pc-screens/"><u>Step-by-Step Guide: Eliminating Unwanted Colors and Deformities From PC Screens</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/transforming-your-tv-experience-the-ultimate-guide-for-watching-tiktok-videos-at-home/"><u>Transforming Your TV Experience: The Ultimate Guide for Watching TikTok Videos at Home</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-launchdll-not-found-effective-strategies-and-solutions/"><u>Troubleshooting 'launch.dll Not Found': Effective Strategies and Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-making-a-non-responsive-mac-acknowledge-external-displays/"><u>Troubleshooting Guide: Making a Non-Responsive Mac Acknowledge External Displays</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-organizing-a-home-karaoke-party-successfully/"><u>Ultimate Guide to Organizing a Home Karaoke Party Successfully</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-techniques-to-flip-videos-backwards-on-snapchat-easily/"><u>Ultimate Techniques to Flip Videos Backwards on Snapchat Easily</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-aether-the-basics-and-steps-to-participation/"><u>Understanding Aether - The Basics & Steps to Participation</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-features-in-depth-analysis-of-snappydriver-v113/"><u>Unveiling the Features: In-Depth Analysis of SnappyDriver V1.13</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Integrating New Members Into Linux User Groups Efficiently and Effectively
-date: 2024-08-26 11:17:42
-updated: 2024-08-29 10:44:27
+date: 2024-08-30T14:38:53.549Z
+updated: 2024-08-31T14:38:53.549Z
 tags:
   - desktop
 categories:
@@ -39,6 +39,12 @@ sudo groupadd new_group
 
 ![Adding a new group named &quot;new_group.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/04/img_58fe4b860542a.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Add an Existing User Account to a Group
 
  To add an existing user account to a group on your system, use the `usermod` command, replacing `examplegroup` with the name of the group you want to add the user to and `exampleusername` with the name of the user you want to add.
@@ -63,6 +69,9 @@ usermod -g examplegroup exampleusername
 
 ![Changing the Geek user's primary group to example.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/04/img_58fe4c1c81233.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ##  View the Groups a User Account is Assigned To
 
  To view the groups the current user account is assigned to, run the `groups` command. You'll see a list of groups.
@@ -75,6 +84,9 @@ id
 
 ![Checking what groups there are, and what their numerical IDs are.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/04/img_58fe4ba2082cf.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
  To view the groups another user account is assigned to, run the `groups` command and specify the name of the user account.
 
 groups exampleusername
@@ -103,6 +115,9 @@ passwd jsmith
 
 ![Creating a new user and simultaneously adding it to a group.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/04/img_58fe4bbf1c94b.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Add a User to Multiple Groups
 
  While assigning the secondary groups to a user account, you can easily assign multiple groups at once by separating the list with a comma.
@@ -117,6 +132,9 @@ usermod -a -G ftp,sudo,example geek
 
 ![Adding a user to multiple groups with one command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/04/img_58fe4bc896672.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  View All Groups on the System
 
  If you want to [view a list of all groups on your system](https://hardware-updates.techidaily.com/comprehensive-guide-downloading-and-installing-canon-ip1-10-drivers-on-windows-windows-111087/), you can use the `getent` command:
@@ -127,6 +145,9 @@ getent group
 
 ![List of groups available on the system.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/04/img_58fe4bd589833.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  That should cover everything you need to know about adding users to groups on Linux.
 
 | |  Linux Commands |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |  |
@@ -149,3 +170,64 @@ getent group
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-crafting-visual-stories-in-minutes-using-windows-8-movie-maker/"><u>[New] 2024 Approved  Crafting Visual Stories in Minutes Using Window's 8 Movie Maker</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-cutting-edge-tech-meets-creativity-top-12-camera-picks-for-vloggers-for-2024/"><u>[New] Cutting-Edge Tech Meets Creativity  Top 12 Camera Picks for Vloggers for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-everything-you-need-to-know-about-the-youtube-shorts-fund/"><u>[New] In 2024, Everything You Need to Know About the YouTube Shorts Fund</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-comprehensive-guide-to-top-ae-extensions/"><u>[Updated] 2024 Approved  Comprehensive Guide to Top AE Extensions</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-the-ultimate-compilation-of-phone-apps-altering-sound/"><u>[Updated] 2024 Approved  The Ultimate Compilation of Phone Apps Altering Sound</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-screen-guards-protect-your-device-capture-better/"><u>[Updated] Screen Guards  Protect Your Device, Capture Better</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-selection-of-budget-friendly-4k-projector-brands/"><u>[Updated] Ultimate Selection of Budget-Friendly 4K Projector Brands</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-streamlined-steps-for-ios-voice-recordings/"><u>2024 Approved  Streamlined Steps for iOS Voice Recordings</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/anticipating-the-arrival-of-apples-ultra-watch-what-we-know-about-price-specs-and-launch-date/"><u>Anticipating the Arrival of Apple's Ultra Watch – What We Know About Price, Specs & Launch Date?</u></a></li>
+<li><a href="https://article-posts.techidaily.com/assembling-an-eye-catching-movie-miniature-for-2024/"><u>Assembling an Eye-Catching Movie Miniature for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/become-an-expert-in-chatgpt-with-this-chrome-extension/"><u>Become an Expert in ChatGPT with This Chrome Extension</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-samsung-galaxy-a05s-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Samsung Galaxy A05s Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/beyond-clean-the-real-green-footprint-of-electric-cars-explored/"><u>Beyond 'Clean': The Real Green Footprint of Electric Cars Explored</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/choosing-between-the-standard-and-slim-ps5-key-features-compared/"><u>Choosing Between the Standard and Slim PS5: Key Features Compared!</u></a></li>
+<li><a href="https://article-helps.techidaily.com/complete-analysis-triangulating-life-with-samsung-vr/"><u>Complete Analysis  Triangulating Life with Samsung VR</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-infinix-hot-40-pro-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Infinix Hot 40 Pro</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/economical-elegance-unbeatable-deals-on-high-end-technology-must-haves/"><u>Economical Elegance: Unbeatable Deals on High-End Technology Must-Haves</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-the-low-on-memory-problem-on-windows-10/"><u>Effective Solutions for the 'Low On Memory' Problem on Windows 10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effortless-entertainment-setup-the-right-way-to-link-up-your-chromecast-remote/"><u>Effortless Entertainment Setup: The Right Way to Link Up Your Chromecast Remote</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/eliminate-your-yahoo-mail-account-for-good-with-these-simple-instructions/"><u>Eliminate Your Yahoo Mail Account for Good with These Simple Instructions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-advice-fixing-the-netflix-error-code-ui-80-for-smooth-streaming/"><u>Expert Advice: Fixing the Netflix Error Code UI-80# for Smooth Streaming</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-capabilities-of-modern-smartwatches-your-ultimate-insight/"><u>Exploring the Capabilities of Modern Smartwatches – Your Ultimate Insight</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-a-malfunctioning-iphone-email-system-tips-and-tricks-for-smooth-communication/"><u>Fixing a Malfunctioning iPhone Email System: Tips and Tricks for Smooth Communication</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/from-sweet-sixteen-to-championship-game-best-radio-networks-for-ncaa-march-madness-action/"><u>From Sweet Sixteen to Championship Game - Best Radio Networks for NCAA March Madness Action!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-hp-envy-5660-driver-software-in-minutes-step-by-step-guide/"><u>Get the Latest HP ENVY 5660 Driver Software in Minutes – Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/get-the-new-features-of-thunderbird-52-by-mozilla-for-an-upgraded-mail-experience/"><u>Get the New Features of Thunderbird 52 by Mozilla for an Upgraded Mail Experience</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gopro-max-360-vs-hero-11-which-takes-the-lead-for-2024/"><u>GoPro Max 360 vs Hero 11  Which Takes the Lead for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-running-android-applications-on-your-windows-10-pc/"><u>Guide: Running Android Applications on Your Windows 10 PC</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-xiaomi-redmi-note-13-proplus-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Xiaomi Redmi Note 13 Pro+ 5G in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Oppo K11 5G? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-oppo-a18-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Oppo A18</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-samsung-galaxy-a15-4g-is-unlocked-by-drfone-android/"><u>How To Check if Your Samsung Galaxy A15 4G Is Unlocked</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-realme-narzo-60-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-ready-set-resize-transformative-techniques-for-macs-instagram-content/"><u>In 2024, Ready, Set, Resize  Transformative Techniques for Mac's Instagram Content</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-spectacular-sites-featuring-rich-3d-and-golden-text/"><u>In 2024, Spectacular Sites Featuring Rich 3D and Golden Text</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/join-forces-in-creativity-creating-a-successful-duet-on-tiktok/"><u>Join Forces in Creativity: Creating a Successful Duet on TikTok</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/journey-through-filmora-editing-10-standout-functions-for-2024/"><u>Journey Through Filmora Editing  10 Standout Functions for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-through-old-notifications-a-comprehensive-guide-for-iphone-users/"><u>Navigating Through Old Notifications: A Comprehensive Guide for iPhone Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/new-computer-new-adventures-starting-with-the-basics-first-five-actions/"><u>New Computer, New Adventures: Starting with the Basics (First Five Actions)</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-navigating-through-music-tech-top-7-daws-for-fostering-exceptional-guitar-recordings-updated/"><u>New In 2024, Navigating Through Music Tech Top 7 DAWs for Fostering Exceptional Guitar Recordings (Updated )</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/prioritizing-features-how-to-make-an-informed-deceision-on-video-recording-devices/"><u>Prioritizing Features: How to Make an Informed Deceision on Video Recording Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolve-unresponsive-behavior-in-windows-11-during-shutdown-process/"><u>Resolve Unresponsive Behavior in Windows 11 During Shutdown Process</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/short-storyboard-scheme/"><u>Short Storyboard Scheme</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-resolving-directxdirectinputdll-problems-on-windows-pcs/"><u>Step-by-Step Tutorial: Resolving DirectX.directinput.dll Problems on Windows PCs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-list-of-no-cost-html-editors-on-your-desktop/"><u>The Ultimate List of No-Cost HTML Editors on Your Desktop</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-step-by-step-tutorial-on-building-a-dorm-wireless-theatrical-experience/"><u>The Ultimate Step-by-Step Tutorial on Building a Dorm Wireless Theatrical Experience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-10-resources-for-efficiently-finding-an-apartment/"><u>Top 10 Resources for Efficiently Finding an Apartment</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-12-complimentary-disk-defragmentation-applications-july-2024-edition/"><u>Top 12 Complimentary Disk Defragmentation Applications - July 2024 Edition</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tricks-to-alter-applied-geographic-position-on-your-phone-seamlessly/"><u>Tricks to Alter Applied Geographic Position on Your Phone Seamlessly</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-your-stuck-iphone-home-button-with-these-5-easy-fixes/"><u>Troubleshoot Your Stuck iPhone Home Button with These 5 Easy Fixes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-missing-or-not-found-avcodecdll-error-messages-on-your-pc/"><u>Troubleshooting 'Missing' Or 'Not Found' Avcodec.dll Error Messages on Your PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-techniques-for-handling-ksuserdll-not-found-error/"><u>Troubleshooting Techniques for Handling 'ksuser.dll Not Found' Error</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-resolving-persistent-image-retention-on-your-display/"><u>Ultimate Guide: Resolving Persistent Image Retention on Your Display</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-list-of-top-10-android-game-cracking-apps-work-with-or-without-root-access/"><u>Ultimate List of Top 10 Android Game Cracking Apps - Work with or without Root Access</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-steps-to-clear-out-all-inboxes-in-the-gmail-mobile-application/"><u>Ultimate Steps to Clear Out All Inboxes in the Gmail Mobile Application</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-bing-an-alternative-powerhouse-in-web-search-technology-by-microsoft/"><u>Unveiling Bing - An Alternative Powerhouse in Web Search Technology by Microsoft</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/why-is-my-search-bar-in-windows-10-not-working-corrective-measures-to-try/"><u>Why Is My Search Bar in Windows 10 Not Working? Corrective Measures to Try</u></a></li>
+</ul></div>

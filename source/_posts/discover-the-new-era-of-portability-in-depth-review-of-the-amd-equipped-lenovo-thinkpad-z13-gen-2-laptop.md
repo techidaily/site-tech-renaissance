@@ -1,7 +1,7 @@
 ---
 title: "Discover the New Era of Portability: In-Depth Review of the AMD-Equipped Lenovo ThinkPad Z13 Gen 2 Laptop"
-date: 2024-08-27 16:43:11
-updated: 2024-08-29 11:33:59
+date: 2024-08-30T14:39:12.517Z
+updated: 2024-08-31T14:39:12.517Z
 tags:
   - desktop
 categories:
@@ -138,6 +138,9 @@ Close
 
  The laptop's base houses the large 10keyless chiclet keyboard, which also includes a customizable TrackPoint button. The keyboard takes up about 60% of the surface area, and right below it is a 2.79 by 4.72-inch glass-surface touchpad.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ###  Ports: Two Good Ones... and Nothing Else
 
  By way of ports, this Z13 doesn't offer much to write home about. However, the two ports included are USB4 with a 40Gbps speed. (In case you're unaware of [what USB4 is](https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/), it's basically an upgraded version of a standard USB-C port, comparable to Thunderbolt 4, though in some arguments, USB-4 isn't _quite_ as good as this counterpart due to specific limitations).
@@ -150,6 +153,9 @@ Close
 
  I also had one tiny gripe worth mentioning—the power button below the USB4 port on the right side is tiny and relatively hard to push and hold down if you want to manually turn off the laptop.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Inputs: The Keyboard, Touchpad, and Touchscreen
 
 ![The TrackPoint of the Lenovo Z13 Gen 2.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-trackpoint-of-the-lenovo-z13-gen-2-2jpg_53480774934_o.jpg) 
@@ -166,6 +172,9 @@ Sergio Rodriguez / How-To Geek
 
 ![The Lenovo ThinkPad Z13 Gen2 laptop playing a nature video of a puffin.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/graphics-hero-image-youtube-screenshot.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Cianna Garrison / How-To Geek
 
 _BBC Earth_
@@ -180,6 +189,10 @@ Close
 
 Close 
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ##  Performance: Solid and Trustworthy, but Not Lightning Speed
 
 ![AMD Ryzen Pro 7 processor sticker on the Lenovo Z13 Gen 2.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/amd-ryzen-pro-7-processor-sticker-on-the-lenovo-z13-gen-2jpg_53480774764_o.jpg) 
@@ -194,10 +207,16 @@ Sergio Rodriguez / How-To Geek
 
  Moderate to heavy gamers might want to look elsewhere, but if you only play an occasional game here and there, the quality should be usable. On a 3DMark "Time Spy" benchmark test, the Z13 failed to pass, earning a grade of 96.9% frame rate stability (just below passing at 97%).
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ##  Sights and Sounds: Pleasant as Any Premium
 
 ![The closed Lenovo Z13 Gen 2 laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-closed-lenovo-z13-gen-2-laptop-4jpg_53480466146_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  I enjoyed listening to music as I worked via the two AI-powered 2W Dolby Atmos speakers, but I had to turn the volume up to about 80 to 100% for it to be a good volume. That said, I didn't notice much distortion, even when listening to crunchy guitar-laden music like the blues or hard rock. But I found the speakers sounded the best when recordings were more simplistic, focusing on one to three instruments and vocals more than a complex, noisy blend, such as some vocal-heavy jazz tracks from Chet Baker and Etta James. The speakers do have a sort of condensed quality to them, but this is nothing I wouldn't expect from most laptop speaker systems, which are still sorely behind in audio quality compared to external speakers and even [some smartphone speakers](https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-honor-magic5-ultimate-to-your-pcmac-drfone-by-drfone-android/). Of course, you can always [improve the sound of the laptop's speakers](https://extra-guidance.techidaily.com/revolutionize-note-taking-with-mematic-app-for-2024/) by investing in some [desktop speaker systems](https://some-approaches.techidaily.com/new-synergizing-visual-cues-with-the-right-musical-choices/) or using [good-quality wired headphones](https://mondly-stories.techidaily.com/perfezionamento-dei-numeri-italiani-per-la-comunicazione-da-1-1000/).
@@ -210,6 +229,9 @@ Close
 
 ### 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 
 
 ### 
@@ -228,6 +250,9 @@ Sergio Rodriguez / How-To Geek
 
 ![The closed Lenovo Z13 Gen 2 laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-closed-lenovo-z13-gen-2-laptop-2jpg_53480775254_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  The [ThinkPad Z13 Gen 2](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkpad%2Fthinkpadz%2Fthinkpad-z13-gen-2-%2813-inch-amd%29%2Flen101t0073) is a premium offering that's a good choice for anyone who travels a lot or wants a portable laptop with decent processing power. However, it has some weaknesses in terms of its speaker system, an occasional lag when heavily multitasking, and a lack of port options that might make this a poor choice for you. If you're looking for something different, the [ThinkPad Z16 Gen 2](https://digital-screen-recording.techidaily.com/updated-in-2024-experts-guide-to-the-best-ipad-voice-recording-tools-3/) performed better in some of these categories, as did the [ThinkPad X1 Carbon Gen 10](https://extra-hints.techidaily.com/cinematographic-cuisine-expert-tips-on-filming-edibles/).
@@ -236,6 +261,9 @@ Sergio Rodriguez / How-To Geek
 
 ![The Lenovo Z13 Gen 2 open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3hkubxx903po29y50bbq45fk4feyo0833940.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 #####  Lenovo ThinkPad Z13 Gen 2
 
 7/ 10 
@@ -258,3 +286,52 @@ The Lenovo ThinkPad Z13 Gen 2 laptop is a premium portable option that suits stu
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-six-websites-where-youtube-imagery-breaks-the-mould/"><u>[New] 2024 Approved  Six Websites Where YouTube Imagery Breaks the Mould</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-enlist-easy-to-use-templates-for-bold-business-identity/"><u>[New] Enlist Easy-to-Use Templates for Bold Business Identity</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-best-10-free-image-transformers-jpg-to-gif-edition/"><u>[New] In 2024, Best 10 FREE Image Transformers  JPG to GIF Edition</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-choosing-between-bandicam-and-camtasia-for-video-capture/"><u>[New] In 2024, Choosing Between Bandicam and Camtasia for Video Capture</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-channel-marketing-making-a-trailer-that-sells-more/"><u>[Updated] 2024 Approved  Channel Marketing  Making a Trailer that Sells More</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-an-ultimate-guide-about-video-resolution-for-beginners/"><u>[Updated] An Ultimate Guide About Video Resolution for Beginners</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-beyond-viral-tactics-uncovering-the-facts-about-reels-on-instagram/"><u>[Updated] Beyond Viral Tactics  Uncovering the Facts About Reels on Instagram</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-discover-the-best-instagram-video-editors-for-mobile-devices/"><u>[Updated] In 2024, Discover the Best Instagram Video Editors for Mobile Devices</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-top-vr-game-engines-2023-update/"><u>[Updated] Top VR Game Engines -2023 Update</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-5-strategies-for-enhancing-iphone-hdr-footage-in-premiere-pro/"><u>2024 Approved  5 Strategies for Enhancing iPhone HDR Footage in Premiere Pro</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-expert-picks-of-top-fee-free-live-streaming-tech-tools-for-everyone/"><u>2024 Approved  Expert Picks of Top, Fee-Free Live Streaming Tech Tools for Everyone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-highpoint-craftsman-workspace-review/"><u>2024 Approved  Highpoint Craftsman Workspace Review</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/7-essential-online-calendar-tools-to-sync-your-familys-schedule/"><u>7 Essential Online Calendar Tools to Sync Your Family's Schedule</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>8 Solutions to Fix Find My Friends Location Not Available On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/accelerating-windows-11-expert-advice-for-enhancing-sluggish-pc-performance/"><u>Accelerating Windows 11: Expert Advice for Enhancing Sluggish PC Performance</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/accurately-sizing-with-googles-measure-app-for-android-devices-the-ultimate-walkthrough/"><u>Accurately Sizing with Google's Measure App for Android Devices - The Ultimate Walkthrough</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/compatibility-check-viewing-netflix-on-the-nintendo-switch-device/"><u>Compatibility Check: Viewing Netflix On The Nintendo Switch Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-solution-for-corrupt-or-lost-wmvcoredll-file-errors/"><u>Complete Solution for Corrupt or Lost Wmvcore.dll File Errors</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-instructions-unliking-songs-across-your-entire-spotify-library/"><u>Comprehensive Instructions: Unliking Songs Across Your Entire Spotify Library</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-how-to-seamlessly-add-bots-for-a-more-engaging-discord-experience/"><u>Discover How to Seamlessly Add Bots for a More Engaging Discord Experience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/economical-ways-to-assemble-your-dream-home-theater-without-breaking-the-bank/"><u>Economical Ways to Assemble Your Dream Home Theater Without Breaking the Bank</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/find-your-perfect-soundtrack-with-these-7-must-have-free-music-streamers-for-mobile-os/"><u>Find Your Perfect Soundtrack with These 7 Must-Have Free Music Streamers for Mobile OS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fix-the-jitter-and-sparkle-a-comprehensive-solution-for-shakingflickering-surface-pro-displays/"><u>Fix the Jitter & Sparkle: A Comprehensive Solution for Shaking/Flickering Surface Pro Displays</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/get-ahead-of-the-curve-with-projections-for-xbox-vr-launch-date-pricing-schemes-and-cutting-edge-capabilities/"><u>Get Ahead of the Curve with Projections for Xbox VR Launch Date, Pricing Schemes & Cutting-Edge Capabilities</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-facilitating-facetime-on-your-pc-with-windows-os/"><u>Guide: Facilitating FaceTime on Your PC with Windows OS</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-synchronize-and-schedule-mastering-zoom-on-your-android-phone/"><u>In 2024, Synchronize & Schedule  Mastering Zoom on Your Android Phone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-the-game-of-survival-effective-solutions-for-preventing-naraka-bladepoint-freezes-and-crashes/"><u>Master the Game of Survival: Effective Solutions for Preventing Naraka: Bladepoint Freezes and Crashes</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-libcurldll-absence-a-step-by-step-guide/"><u>Resolving 'libcurl.dll' Absence: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-dota-2-game-crashes-effective-solutions-and-tips/"><u>Resolving Dota 2 Game Crashes: Effective Solutions and Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-the-issue-how-to-address-libeay32dll-file-not-present-or-unavailable-mistakes/"><u>Resolving the Issue: How to Address Libeay32.dll File Not Present or Unavailable Mistakes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/simplify-email-tagging-master-the-art-of-categorization-in-gmail/"><u>Simplify Email Tagging: Master the Art of Categorization in Gmail</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/steam-disk-write-error-resolution-best-practices-for-smooth-gaming/"><u>Steam Disk Write Error Resolution: Best Practices for Smooth Gaming</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-fix-for-nspr4dll-not-found-or-missing-file/"><u>Step-by-Step Fix for 'Nspr4.dll Not Found' Or 'Missing File'</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-accessing-the-windows-terminal-in-various-versions/"><u>Step-by-Step Guide: Accessing the Windows Terminal in Various Versions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/steps-for-effortlessly-changing-your-smartphones-screen-guard/"><u>Steps for Effortlessly Changing Your Smartphone's Screen Guard</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-list-of-no-cost-defrag-utilities-for-optimal-pc-performance-jul-24-edition/"><u>The Ultimate List of No-Cost Defrag Utilities for Optimal PC Performance - Jul '24 Edition</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-fixing-the-error-of-msvcrtdll-file-not-found/"><u>Troubleshooting Guide: Fixing the Error of Msvcrt.dll File Not Found</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-your-vehicles-sound-system-failure-what-could-cause-it/"><u>Troubleshooting Your Vehicle's Sound System Failure: What Could Cause It?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ubuntu-terminal-tactics-initiating-shellgpt-with-gpt/"><u>Ubuntu Terminal Tactics: Initiating ShellGPT with GPT</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-resolving-call-issues-on-your-android-device/"><u>Ultimate Guide: Resolving Call Issues on Your Android Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-resolving-cmos-checksum-discrepancies/"><u>Ultimate Guide: Resolving CMOS Checksum Discrepancies</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-the-secrets-of-ios-recovery-mode-entry-and-exit-techniques/"><u>Unlocking the Secrets of iOS Recovery Mode Entry and Exit Techniques</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/what-is-the-newest-version-of-macos-a-detailed-walkthrough-of-apples-operating-systems-timeline/"><u>What Is the Newest Version of macOS? A Detailed Walkthrough of Apple's Operating Systems Timeline</u></a></li>
+</ul></div>

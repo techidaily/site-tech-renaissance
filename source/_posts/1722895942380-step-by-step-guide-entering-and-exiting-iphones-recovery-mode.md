@@ -1,0 +1,199 @@
+---
+title: "Step-by-Step Guide: Entering & Exiting iPhone's Recovery Mode"
+date: 2024-08-30T14:52:23.367Z
+updated: 2024-08-31T14:52:23.367Z
+categories:
+  - BestProducts
+description: "This Article Describes Step-by-Step Guide: Entering & Exiting iPhone's Recovery Mode"
+excerpt: "This Article Describes Step-by-Step Guide: Entering & Exiting iPhone's Recovery Mode"
+thumbnail: https://thmb.techidaily.com/9d7929dfd160058cbbb368d96f71f3a942d4bc6b7e2652c599eedf5bcabac251.jpg
+---
+
+## Mastering the CMD Interface Across Windows Versions – A Step-by-Step Guide
+### What to Know
+
+* Search the Start menu for**Command Prompt** .
+* Alternatively, in Windows 11/10, right-click the Start button and select**Terminal** or**Command Prompt** .
+* Another method that works in all Windows versions is to execute the**cmd** command from the Run dialog box.
+
+ This article explains how to open[Command Prompt](https://www.lifewire.com/command-prompt-2625840) , which is one of the[command-line interface](https://www.lifewire.com/what-is-a-command-line-interpreter-2625827) programs used to execute[commands](https://www.lifewire.com/what-is-a-command-2625828) in Windows operating systems. These directions apply to Windows 11, Windows 10, Windows 8, Windows 7, Windows Vista, and Windows XP.  
+
+## Open Command Prompt in Windows 11 or 10
+
+ There are a few ways, but using the search bar on the taskbar is one quick method for opening a command window.
+
+ Directions differ between Windows versions. See[What Version of Windows Do I Have?](https://www.lifewire.com/what-version-of-windows-do-i-have-2624927) if you're not sure.
+
+1. Select the**Start** **menu** (the Windows icon) on the taskbar, or press the**Windows key** .
+2. Type**cmd** .
+3. Select**Command Prompt** from the list.  
+!["cmd" typed into Windows 11 start menu search box](https://www.lifewire.com/thmb/1d41kEyvl2KNY_b_cnc6DgiIehk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-cmd-start-menu-a8c1d7d009f64856902c83e8e418563b.png)  
+ If you're using the latest version of Windows 11, Command Prompt will open within[Terminal](https://www.lifewire.com/windows-terminal-4779951) .
+
+ Some popular Command Prompt commands you might have heard of include[ping](https://www.lifewire.com/ping-command-2618099) ,[netstat](https://www.lifewire.com/netstat-command-2618098) ,[tracert](https://www.lifewire.com/tracert-command-2618101) ,[shutdown](https://www.lifewire.com/shutdown-command-2618100) , and[attrib](https://www.lifewire.com/attrib-command-2625802) , but there are_many_ more. We have a[complete list of Windows Command Prompt commands](https://www.lifewire.com/list-of-command-prompt-commands-4092302) .
+
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
+### Open Command Prompt Through the Start Menu Folder
+
+ Another way to open the Windows Command Prompt in Windows 10 is to look in its Start menu folder. Open the**Start menu** , select the**Windows System** folder from the list, and then choose**Command Prompt** from the folder group.
+
+![Command Prompt menu item in Windows System folder in Start menu on Windows 10](https://www.lifewire.com/thmb/M8TRCTyz0ujUzmDzFZsFJjffiq4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-open-command-prompt-2618089-5c6468a146e0fb0001f25667.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
+### Open Command Prompt Using Power User Menu
+
+ One more method is through the[Power User Menu](https://www.lifewire.com/what-is-the-power-user-menu-2625968) . If you're using a keyboard or mouse, choose**Terminal** (Windows 11) or**Command Prompt** (Windows 10) from the menu that appears after pressing**Win** +**X** or right-clicking the**Start** **Menu** .
+
+![Command Prompt in Windows 10 Power User menu](https://www.lifewire.com/thmb/7_8z-AOur7jJSd6_2bz9Yp2VnDA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-open-command-prompt-2618089-5c646ad746e0fb0001dcd81a.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ You might see PowerShell options in the Power User Menu instead of Command Prompt. In more recent versions of Windows 10, Command Prompt has been replaced by PowerShell, but you can[switch between PowerShell and Command Prompt](https://www.lifewire.com/switch-command-prompt-and-powershell-on-the-win-x-menu-2626247) from the Power User Menu. Terminal is the replacement in Windows 11.
+
+## Open Command Prompt in Windows 8 or 8.1
+
+ You'll find Command Prompt in Windows 8 through the Apps screen.
+
+1. Select the**Windows** **Start** button and then swipe up to show the**Apps** screen. You can accomplish the same thing with a mouse by selecting the down arrow icon at the bottom of the screen.  
+ If you're using a keyboard or mouse, a really quick way to open a Command Prompt window in Windows 8 is through the Power User Menu—hold the**WIN** and**X** keys down together, or right-click the**Start** button, and choose**Command Prompt** .  
+ Before[the Windows 8.1 update](https://www.lifewire.com/how-to-update-to-windows-8-1-2626252) , the_Apps_ screen can be accessed from the_Start_ screen by swiping up from the bottom of the screen, or right-clicking anywhere, and then choosing**All apps** .
+2. Swipe or scroll to the right on the Apps screen to locate the**Windows System** section heading.
+3. Select**Command Prompt** . You can now execute whatever command you needed to run.
+
+ See our [list of Windows 8 Command Prompt commands](https://www.lifewire.com/windows-8-command-prompt-commands-4172073) for all of the commands available through Command Prompt in Windows 8, including short descriptions and links to more in-depth information if we have it.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
+## Open Command Prompt in Windows 7, Vista, or XP
+
+ In these versions of Windows, Command Prompt is found through a folder group in the Start menu.
+
+1. Open the**Start** **Menu** in the bottom-left corner of the screen.  
+ In Windows 7 and Windows Vista, it's a bit faster to enter**command** in the search box at the bottom of the Start menu and then choose**Command Prompt** when it appears in the results.
+2. Go to**All Programs** \>**Accessories** .
+3. Choose**Command Prompt** from the list of programs.
+
+ See our [list of Windows 7 commands](https://www.lifewire.com/list-of-windows-7-command-prompt-commands-4107370) and[list of Windows XP commands](https://www.lifewire.com/windows-xp-commands-4687695) if you need a command reference for any of those versions of Windows.
+
+## Other Ways to Open Command Prompt
+
+ Command Prompt in Windows 11 through Windows XP can also be opened with a command. This is especially helpful if you like using the Run dialog box or if File Explorer has crashed and the Start menu is inaccessible (and thus the directions above don't work).
+
+ To do this, enter**cmd** into the command-line interface. This can be in the Run dialog box (**WIN** +**R** ) or[Task Manager's](https://www.lifewire.com/task-manager-2626025) **Run new task** option (go to**File** \>**Run new task** if you're not using Windows 11).
+
+![cmd command in Windows task manager](https://www.lifewire.com/thmb/vmaNGH1y0PVAMe1joTnnpWVqJ-Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cmd-command-task-manager-da3a31f675de41198c4948fbaff46829.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Elevated Command Prompts and Old Windows Versions
+
+ Command Prompt doesn't exist in versions of Windows released before Windows XP, like Windows 98 and Windows 95\. However, the older and very similar MS-DOS Prompt does. This program is located in the Start menu and can be opened with the**command** run command.
+
+ Some commands, like the[sfc command](https://www.lifewire.com/sfc-command-system-file-checker-2626020) that's used to repair Windows files, require that Command Prompt be opened_as an administrator_ before they can be executed. You'll know if this is the case if you get a message like one of these after trying to execute the command:
+
+* **check that you have administrative rights**
+* **... command can only be executed from an elevated command prompt**
+* **you must be an administrator**
+
+![sfc scannow elevated prompt message](https://www.lifewire.com/thmb/PmVejDjk3-H5ABhTpR5vFhEpxXE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sfc-scannow-administrator-command-prompt-775fe2bfbdd54342813261652a3de86f.png)
+
+ See[How to Open an Elevated Command Prompt](https://www.lifewire.com/how-to-open-an-elevated-command-prompt-2618088) for help starting Command Prompt as an administrator, a process that's a bit more complicated than what's outlined above.
+
+ FAQ
+
+* How do you change directory in Command Prompt?  
+ Type the command**cd** followed by a space and the name of the folder to[change directories](https://www.lifewire.com/change-directories-in-command-prompt-5185508) . For example, assuming you're currently in the Users folder and want to change to the Documents folder, the command is**cd Documents** . You can also type**cd** and then drag and drop the folder you want to switch to into Command Prompt.
+* How do you open a command prompt on Mac?  
+ Instead of Command Prompt, Mac owners use a program called Terminal. To open it, select the**Launchpad** icon in the Dock and type**Terminal** in the search field, then select the app. Alternatively, go into Finder and open the**/Applications/Utilities** folder to find it.
+* How do you copy/paste into Command Prompt?  
+ You can use the same keyboard shortcuts you use to copy/paste in other programs—**CTRL** +**C** and**CTRL** +**V** . On Mac, copy the text in another app, then go into Terminal and choose**Edit** \>**Paste** .
+* How do you open Command Prompt in a folder?  
+ Go into the folder and**Shift** +**Right** \-**Click** , then select**Open PowerShell window here** , or**Open in Terminal** , to[open Command Prompt in a folder](https://www.lifewire.com/open-command-prompt-in-a-folder-5185505) . On Mac, right-click the folder and select**New Terminal at Folder** from the menu.
+* How do you navigate Command Prompt?  
+ Use the**cd** command to change directories in Command Prompt. To access another drive, type the drive letter followed by a**:** (**C:** ,**D:** , etc.). View the contents of a folder using the**dir** command.
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-precision-in-proportion-finding-aspect-ratio-perfection/"><u>[New] Precision in Proportion  Finding Aspect Ratio Perfection</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solved-11-fixes-for-dell-laptop-running-slow/"><u>[SOLVED] 11 Fixes for Dell Laptop Running Slow</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solved-windows-11-100-disk-usage-in-task-manager/"><u>[SOLVED] Windows 11 100%% Disk Usage in Task Manager</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-realme-12-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Realme 12 5G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-you-use-an-nintendo-switch-oled-in-vintage-docks/"><u>Can You Use an Nintendo Switch OLED in Vintage Docks?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/common-troubleshooting-tips-when-your-logitech-mouse-fails-to-work-on-windows-10/"><u>Common Troubleshooting Tips When Your Logitech Mouse Fails to Work on Windows 10</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-realme-10t-5g-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Realme 10T 5G</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-guide-how-to-install-and-update-directx-12-on-your-windows-10-pc/"><u>Complete Guide: How to Install and Update DirectX 12 on Your Windows 10 PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-tutorial-enabling-and-using-remote-desktop-on-your-windows-10-pc/"><u>Complete Tutorial: Enabling and Using Remote Desktop on Your Windows 10 PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-to-reviving-non-working-usb-ports-on-laptops/"><u>Comprehensive Guide To Reviving Non-Working USB Ports On Laptops</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/deciphering-rundll32exe-purpose-and-appropriate-measures-to-take/"><u>Deciphering rundll32.exe: Purpose & Appropriate Measures to Take</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721462712567-diy-methods-to-reboot-or-rejuvenate-your-iphone-no-itunes-necessary/"><u>DIY Methods to Reboot or Rejuvenate Your iPhone - No iTunes Necessary!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-tutorial-for-setting-up-a-second-monitor-with-your-notebook/"><u>Easy Tutorial for Setting Up a Second Monitor with Your Notebook</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-video-recording-techniques-for-computer-users-a-comprehensive-guide/"><u>Easy Video Recording Techniques for Computer Users: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enabling-mobile-internet-sharing-on-your-iphone-for-wireless-connectivity/"><u>Enabling Mobile Internet Sharing on Your iPhone for Wireless Connectivity</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/exciting-news-mondly-joins-huaweis-platform/"><u>Exciting News! Mondly Joins Huawei's Platform</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fix-printer-driver-issues-on-windows-10/"><u>Fix Printer Driver Issues on Windows 10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-the-issue-of-sluggish-startup-on-windows-1011-solutions-inside/"><u>Fixing the Issue of Sluggish Startup on Windows 10/11 - Solutions Inside!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-to-managing-and-lowering-cpu-strain-caused-by-call-of-duty-modern-warfare/"><u>Guide to Managing and Lowering CPU Strain Caused by Call of Duty: Modern Warfare</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-discover-and-update-your-nvidia-gpus-operating-system-version/"><u>How to Discover and Update Your NVIDIA GPU's Operating System Version</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-resolve-the-msvcp100dll-is-missing-error-in-windows-11/"><u>How to Resolve the 'msvcp100.dll Is Missing' Error in Windows 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-spark-20c-phone-without-password-by-drfone-android/"><u>How To Unlock Tecno Spark 20C Phone Without Password?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/identify-and-retrieve-your-internet-ip-address-for-free-today/"><u>Identify and Retrieve Your Internet IP Address for Free Today!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/identifying-bluetooth-support-on-your-notebook-simple-methods-for-discovery/"><u>Identifying Bluetooth Support on Your Notebook: Simple Methods for Discovery</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-harvesting-hours-top-10-friendly-farm-gaming-experiences/"><u>In 2024, Harvesting Hours  Top 10 Friendly Farm Gaming Experiences</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-skyrocketing-your-contents-view-count-title-and-tag-mastery/"><u>In 2024, Skyrocketing Your Content's View Count  Title & Tag Mastery</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-fps-in-pubg-essential-tweaks-and-adjustments-for-nvidia-enthusiasts/"><u>Mastering FPS in PUBG: Essential Tweaks and Adjustments for NVIDIA Enthusiasts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-screen-capture-a-step-by-step-guide-for-windows-10-users/"><u>Mastering Screen Capture: A Step-by-Step Guide for Windows 10 Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/maximize-pc-gaming-experience-with-newly-updated-nvidia-gpu-drivers-for-windows-10/"><u>Maximize PC Gaming Experience with Newly Updated Nvidia GPU Drivers for Windows 10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overwatch-system-requirements-check-it-out/"><u>Overwatch System Requirements [Check It Out]</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pro-tips-for-kinemaster-dominance-plus-best-digital-platforms-on-the-web-for-2024/"><u>Pro Tips for KineMaster Dominance + Best Digital Platforms on the Web for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-fixes-for-netflix-playback-problems-with-specific-titles/"><u>Quick Fixes for Netflix Playback Problems with Specific Titles</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolve-your-webcams-dark-display-dilemma-on-pc-windows-1110/"><u>Resolve Your Webcam's Dark Display Dilemma on PC (Windows 11/10)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/save-passwords-in-chrome-swiftly-a-simple-guide/"><u>Save Passwords in Chrome Swiftly: A Simple Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/seamless-guide-pairing-your-bluetooth-headphones-with-a-windows-11-laptop/"><u>Seamless Guide: Pairing Your Bluetooth Headphones with a Windows 11 Laptop</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/secure-surfing-101-the-beginners-handbook-to-internet-safety-with-5-must-know-strategies/"><u>Secure Surfing 101: The Beginner’s Handbook to Internet Safety with 5 Must-Know Strategies</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/simple-guide-how-to-securely-save-your-driver-files-prior-to-reinstalling-any-version-of-windows/"><u>Simple Guide: How to Securely Save Your Driver Files Prior to Reinstalling Any Version of Windows</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/simplified-techniques-for-capturing-vimeo-content-for-2024/"><u>Simplified Techniques for Capturing Vimeo Content for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solved-step-by-step-guide-for-when-your-laptops-usb-ports-stop-working/"><u>Solved! Step-By-Step Guide for When Your Laptop's USB Ports Stop Working</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-persistent-slow-stream-on-netflix-effective-troubleshooting-steps/"><u>Solving the Persistent Slow Stream on Netflix: Effective Troubleshooting Steps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/start-anew-with-windows-11-mastering-the-art-of-system-restoration-in-just-4-steps/"><u>Start Anew with Windows 11: Mastering the Art of System Restoration in Just 4 Steps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-essential-role-of-default-extensions-in-chatgpt-applications-and-benefits-explained/"><u>The Essential Role of Default Extensions in ChatGPT: Applications & Benefits Explained</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-experience-the-best-90-day-free-trial-of-final-cut-pro-now/"><u>Updated Experience the Best 90-Day Free Trial of Final Cut Pro Now</u></a></li>
+</ul></div>

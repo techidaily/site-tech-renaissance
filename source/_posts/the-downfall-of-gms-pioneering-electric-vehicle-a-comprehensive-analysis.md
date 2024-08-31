@@ -1,7 +1,7 @@
 ---
 title: "The Downfall of GM's Pioneering Electric Vehicle: A Comprehensive Analysis"
-date: 2024-08-26 17:51:27
-updated: 2024-08-29 12:35:27
+date: 2024-08-30T14:41:30.673Z
+updated: 2024-08-31T14:41:30.673Z
 tags:
   - cutting-edge
 categories:
@@ -24,6 +24,11 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
 
  The modern electric car revolution is still in its early stages, but it could have started much earlier if history had gone a little differently. This is the story of the EV1, the first modern electric car from General Motors.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ##  The Need for Electric Speed
 
  In January 1990, [General Motors showed off a concept car at that year's LA Auto Show](https://www.nytimes.com/1990/01/04/business/gm-displays-the-impact-an-advanced-electric-car.html), called the "Impact." It was an all-electric two-seat vehicle, designed from the ground up as an EV, instead of using an existing frame from a gas car. GM said it could go from zero to 60 miles per hour in 8 seconds. For comparison, the Tesla Model 3 Performance can do that in [about 3 seconds](https://electrek.co/2019/11/14/tesla-model-3-performance-0-60-mph-acceleration-dips-below-3-sec-software-update/), while the [2023 Chevy Bolt EV](https://www.chevrolet.com/electric/bolt-ev) is advertised at 6.5 seconds.
@@ -36,6 +41,9 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
 
  The law applied to any manufacturer selling 35,000 or more cars per year in California, which at the time included Chrysler, Ford, Honda, Mazda, Nissan, Toyota, and General Motors. New York and Massachusetts also pledged to follow California's lead. Suddenly, GM had a market for the Impact.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  From Concept to Reality
 
  Even though the Impact was an impressive concept car, and regulators wanted car companies to sell EVs, some at General Electric continued to insist that no one wanted an electric car. A production version of the Impact would cost too much, and the limited range wouldn't be enough for anyone to be interested. State governments alleged that automakers just didn't want to make their decades-long investments in gas engines obsolete.
@@ -50,10 +58,16 @@ Related: [How Long Do Electric Car Batteries Actually Last?](https://win-howtos.
 
 ![General Motors EV-1 diagram](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/EV1_poster.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 _[Smithsonian](https://americanhistory.si.edu/exhibitions/ev1-electric-car)_
 
  Despite the limited range and availability, the car was [relatively popular with drivers](https://www.nytimes.com/1997/05/07/business/gm-is-trying-to-make-a-go-of-its-electric-car.html). A [1996 review from Autocar](https://www.autocar.co.uk/car-news/throwback-thursday-1996-general-motors-ev1-first-drive) said, "you can't help but be impressed by the overall driving experience. The EV1 is impressively quick, comfortable, and maneuverable and boasts all the normal amenities. Furthermore, it is bursting with cleverly engineered features." The [March 1997 issue of Car and Driver](https://www.caranddriver.com/reviews/a32944084/tested-1997-general-motors-ev1-proves-to-be-the-start-of-something-big/) stated, "we can observe that the EV1 has limited appeal right now. It is quiet, it performs well, and it emits no pollution, but the range problems, the recharging time, and the high purchase cost (see sidebar) are obstacles that will have to be overlooked or overcome before the EV1 presents a viable alternative to gas-powered cars. Still, it's a start."
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Star Trek Crossover
 
  Early drivers were excited about the EV1, or at least willing to accept the compromises of the early technology, but General Motors still wasn't completely onboard. Advertising was mostly limited to direct mail and some magazines. General Motors had only leased 176 EV1 cars by May 1997, and only 300 by the end of 1997\. One GM employee later told The New York Times, "We launched the car in December of 1996, and by about April, I figured we'd been duped. They weren't marketing the vehicle."
@@ -70,6 +84,9 @@ _[Smithsonian](https://americanhistory.si.edu/exhibitions/ev1-electric-car)_
 
  Four radio ads were aired on KFI AM 640 in Los Angeles in May 1998, and at least five more were recorded by Rush. General Motors later decided to [reimburse Rush and continue using the radio commercials](https://web.archive.org/web/20210308040842/https://www.latimes.com/archives/la-xpm-1998-may-22-fi-52566-story.html).
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Saying Goodbye to the EV1
 
  General Motors [updated the EV1 for the 1999 model year](https://www.nytimes.com/1998/12/18/automobiles/gm-tries-to-increase-appeal-of-electric-car.html), dubbing it the "Gen 2," available in two versions. The first used the same lead-acid batteries as the original, with a range of 80-100 miles. The other option had nickel metal hydride batteries, with an estimated range of 100-140 miles. General Motors also cut the cost of installing home chargers in half to $500.
@@ -84,6 +101,9 @@ Related: [How Far Can an Electric Car Go on One Charge?](https://fox-hovers.tech
 
 ![Photo of several EV1s parked in a cemetery, with flowers and a drape covering one of the cars](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/2.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 _[Bob Sexton / EV1 Club](https://www.eanet.com/ev1-club/archive/030724/photos.htm)_
 
 [General Motors crushed most EV1 cars](https://www.nytimes.com/2003/10/22/automobiles/california-motor-city-leased-and-abandoned-revolt-of-the-ev-1-lovers.html) after they were returned, alleging that selling the cars (or allowing people to salvage them) would cost too much money in warranty claims and parts overhead. However, some cars were saved for donation to universities and museums.
@@ -116,3 +136,36 @@ Related: [California Plans to Block Sales of New Gas Cars by 2035](https://artic
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-5-breakthrough-ways-to-preserve-precise-moments-in-vr-games-for-2024/"><u>[Updated] 5 Breakthrough Ways to Preserve Precise Moments in VR Games for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-crafting-gentle-sound-declines-with-logic-pro-for-2024/"><u>[Updated] Crafting Gentle Sound Declines with Logic Pro for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-step-by-step-adding-subsections-and-chapters-to-your-youtube-tutorials/"><u>[Updated] In 2024, Step-by-Step  Adding Subsections and Chapters to Your YouTube Tutorials</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-prime-webcam-choices-for-peak-performance-in-all-your-zoom-meetings/"><u>[Updated] Prime Webcam Choices for Peak Performance in All Your Zoom Meetings</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-comprehensive-guide-to-configuring-miracast-on-your-pc-with-windows-1011-and-resolving-issues/"><u>A Comprehensive Guide to Configuring Miracast on Your PC with Windows 10/11 and Resolving Issues</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-comprehensive-update-on-verizons-current-offerings-and-achievements-with-5g/"><u>A Comprehensive Update on Verizon's Current Offerings and Achievements with 5G</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/avoiding-repetition-how-to-remove-reduplicated-content-on-tiktok/"><u>Avoiding Repetition: How to Remove Reduplicated Content on TikTok</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/boosting-interaction-a-comprehensive-guide-to-commenting-with-gifs-on-instagram/"><u>Boosting Interaction: A Comprehensive Guide to Commenting With GIFs on Instagram</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/connect-with-snapchat-service-center-a-comprehensive-guide/"><u>Connect with Snapchat Service Center: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/conquering-royal-match-techniques-and-tips-for-success/"><u>Conquering Royal Match: Techniques and Tips for Success</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/could-conversational-ai-be-your-lifesaver-in-the-wild/"><u>Could Conversational AI Be Your Lifesaver In The Wild?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/crafting-perfect-squares-imovie-guide-for-instagram-videos-for-2024/"><u>Crafting Perfect Squares  IMovie Guide for Instagram Videos for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/dive-into-retro-gaming-the-5-highest-rated-android-ps2-emulators-for-2024/"><u>Dive Into Retro Gaming  The 5 Highest-Rated Android PS2 Emulators for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/dual-display-mastery-a-step-by-step-tutorial-for-macbook-air-users/"><u>Dual Display Mastery: A Step-by-Step Tutorial for MacBook Air Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-on-handling-missing-msodll-files-in-your-system/"><u>Expert Tips on Handling 'Missing' Mso.dll Files in Your System</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-communication-history-the-story-behind-aols-aim/"><u>Exploring Communication History: The Story Behind AOL's AIM</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/finding-saved-instagram-reels-easily-with-these-simple-techniques/"><u>Finding Saved Instagram Reels Easily with These Simple Techniques</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-fix-a-tvs-most-common-problems/"><u>How to Fix a TV's Most Common Problems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-view-the-roku-streaming-network-on-different-devices-not-just-roku/"><u>How to View the Roku Streaming Network on Different Devices, Not Just Roku</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/online-techniques-for-locating-personal-telephone-contact-information/"><u>Online Techniques for Locating Personal Telephone Contact Information</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/psvr-2-games-list-every-game-announced-so-far/"><u>PSVR 2 Games List: Every Game Announced So Far</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/sneak-peek-into-samsung-galaxy-z-flip-6-when-it-drops-what-youll-get-and-how-much-it-costs/"><u>Sneak Peek Into Samsung Galaxy Z Flip 6: When It Drops, What You'll Get & How Much It Costs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/stay-connected-on-the-go-using-a-roku-stick-in-hotels-and-dorms/"><u>Stay Connected on the Go: Using a Roku Stick in Hotels and Dorms</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/tailored-guide-for-selective-youtube-content-download/"><u>Tailored Guide for Selective YouTube Content Download</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-fix-for-missing-shelldll-error-messages-in-windows-systems/"><u>The Ultimate Fix for Missing Shell.dll Error Messages in Windows Systems</u></a></li>
+<li><a href="https://fox-info.techidaily.com/thorough-review-gopro-hero4-slr4-sliver-features-for-2024/"><u>Thorough Review  GoPro Hero4 SLR4 Sliver Features for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-7-essential-factors-to-assess-when-purchasing-your-next-smart-television/"><u>Top 7 Essential Factors to Assess When Purchasing Your Next Smart Television</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-how-to-fix-a-non-responsive-iphone-mail-app/"><u>Troubleshooting Steps: How to Fix a Non-Responsive iPhone Mail App</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-dark-mysteries-the-13-most-captivating-crime-podcasts/"><u>Unveiling Dark Mysteries: The 13 Most Captivating Crime Podcasts</u></a></li>
+</ul></div>

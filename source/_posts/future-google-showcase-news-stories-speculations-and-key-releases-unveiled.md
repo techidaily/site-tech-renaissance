@@ -1,0 +1,205 @@
+---
+title: "Future Google Showcase: News Stories, Speculations, and Key Releases Unveiled"
+date: 2024-08-30T14:42:56.908Z
+updated: 2024-08-31T14:42:56.908Z
+categories:
+  - BestProducts
+description: "This Article Describes Future Google Showcase: News Stories, Speculations, and Key Releases Unveiled"
+excerpt: "This Article Describes Future Google Showcase: News Stories, Speculations, and Key Releases Unveiled"
+thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b1393331c870e52c284f342d82b8ac.jpeg
+---
+
+## What's Next for Google: The Rumored Pixel N Release, Features and Estimates
+
+ In This Article
+
+* [Release Date Estimate](https://www.lifewire.com/#toc-when-will-the-google-pixel-9-be-released)
+* [Price Rumors](https://www.lifewire.com/#toc-google-pixel-9-price-rumors)
+* [Pre-Order Information](https://www.lifewire.com/#toc-pre-order-information)
+* [Possible Features](https://www.lifewire.com/#toc-google-pixel-9-features)
+* [Specs and Hardware](https://www.lifewire.com/#toc-google-pixel-9-specs-and-hardware)
+* [Latest News](https://www.lifewire.com/#toc-the-latest-news-about-the-google-pixel-9)
+
+ Like clockwork, Google's next Pixel phones will hit the shelves later this year. They're expected to come with new software features, better hardware, and a new, pill-shaped camera design. And rumor has it there will be a larger XL model and a successor to the[Pixel Fold](https://www.lifewire.com/google-pixel-fold-5181117) , all released simultaneously.
+
+## When Will the Google Pixel 9 Be Released?
+
+ Google is predicted to debut not only the Pixel 9 and Pixel 9 Pro but also the Pixel 9 Pro XL and Pixel 9 Pro Fold (aka[Pixel Fold 2](https://www.lifewire.com/google-pixel-fold-2-8625299) ). All of these phones will likely be announced at the same event.[Follow our Google Event page](https://www.lifewire.com/google-event-5205756) for those updates.
+
+### Lifewire's Release Date Estimate
+
+We anticipate an August 2024 event to showcase the Pixel 9 phones.
+
+## Google Pixel 9 Price Rumors
+
+ We haven't seen any rumors or leaks about what the Pixel 9 will cost. For now, we'll assume pricing will match that of the Pixel 8 lineup. However, with the addition of an XL model, we're really only able to take a guess.
+
+ Here's how this year's phones might be priced:
+
+* **Pixel 9** \- $699
+* **Pixel 9 Pro** \- $999
+* **Pixel 9 Pro XL** \- $1,199
+* **Pixel 9 Pro Fold** \- $1,799
+
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Pre-Order Information
+
+ You can't pre-order the Pixel 9 just yet. We'll drop the link here when pre-ordering starts, which will likely be the same day Google unveils the phones.
+
+[The Best Waterproof Phone Cases of 2024](https://www.lifewire.com/best-waterproof-phone-cases-4158190)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
+## Google Pixel 9 Features
+
+ The Pixel 9 phones will ship with[Android 15](https://www.lifewire.com/android-15-7547471) . Here are some of the new features that are expected to arrive on the 2024 Pixel phones:
+
+* **Adaptive Touch** : This feature automatically adjusts touch sensitivity to make your phone respond better in certain cases, like when your fingers are wet or there's a screen protector present.
+* **AI tools** : New software features like text-to-image conversion and smart auto-reply abilities are expected to come with the Pixel 9, although these functions might be reserved for the Pro models. A few of these AI capabilities might process on the device, meaning more privacy and quicker results.
+* **Offline location tracking** : Android 15 will introduce Google's Find My Device network for locating compatible items via Bluetooth. The Pixel 9 might be the first Google phone to be findable even when it's turned off.
+* **Satellite messaging** : The Pixel 9 is expected to be the first phone to support Android's satellite communication implementation. This feature will let you text over a satellite even if you don't have a mobile data connection.
+
+## Google Pixel 9 Specs and Hardware
+
+ Nothing is confirmed until Google makes it official in October. But here's what we've gathered so far from supposed leaks and rumors:  
+
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
+### Display
+
+ Interestingly, the Pixel 9's screen might be a little smaller than the one on the Pixel 8\. It's not a huge change—6.03 inches versus 6.1 inches—but it does seem a bit weird when you think about it. One might assume an upgraded phone means it'll be bigger (or at least stay the same size), but not get_smaller_ .
+
+ It makes more sense considering that the Pixel 9 will be the tiniest in the lineup. There's also the Pixel 9 Pro, which will undoubtedly come in a bigger size (we're hearing 6.1 inches). And with the possible inclusion of the 6.7-inch Pixel 9 Pro XL and 8.02-inch Pixel 9 Pro Fold, you definitely have other options if you want a larger display.
+
+ We've also heard that Google could borrow from Apple this year and[use the same display the company will use in the iPhone 16 Pro](https://9to5google.com/2024/07/01/google-pixel-9-display-samsung-iphone-report/) . According to the report's source, the Samsung OLED display is supposed to be brighter and last longer and will be used across the whole lineup, including the Pixel 9 Pro Fold.  
+
+ Below is[MySmartPrice's](https://www.mysmartprice.com/gear/pixel-9-pro-5k-renders-360-degree-video-exclusive/) take on what the Pixel 9 Pro XL might look like. You can see its thin bezels and new camera layout.
+
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Performance
+
+ The Tensor G4 will likely power all four Pixel 9 phones. This is an expected upgrade, given the Pixel 8's Tensor G3 chip.[According to Android Authority](https://www.androidauthority.com/pixel-9-sos-satellite-connectivity-3433498/) , this chip will include the more power-efficient and faster Samsung Modem 5400, which may also introduce support for satellite-based messaging.
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### Cameras
+
+ This year's Pixels are changing up the camera bar. Compared to the Pixel 8's camera housing, it looks a bit more compact and rounded, but also flatter on the sides. It now has a small gap on either end that distinguishes it from last year's phones.
+
+![A render of the Google Pixel 9, showing the rear camera array](https://www.lifewire.com/thmb/Z-Oo9PCfnUvx4aph9Yv2DHMRXVQ=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Google-Pixel-Render-85e42f165c7c447db2d5f9bc9e3a7ef1.jpg)
+
+MySmartPrice
+
+ Based on those renders, it looks like the temperature sensor is returning to the lineup, and the enlarged camera sensor could point to a variable aperture lens (i.e., the aperture adjusts based on focal length).
+
+ At least for the Pixel 9 Pro XL, we're hearing from MySmartPrice that the triple rear cameras will include a telephoto sensor and a periscope telephoto sensor. The selfie camera hardware will likely change, too, since the Pixel 8's remained the same as the Pixel 7's; an upgrade sounds reasonable after a few years.
+
+### Battery
+
+ There haven't been any details about the Pixel 9 battery yet, except that the Pixel 9 series might support the Qi2 wireless charging standard.
+
+ Some evidence to support this comes from the fact that Liyu Yang, one of the board of directors at the Wireless Power Consortium (the publisher of the Qi standard) is a senior hardware engineer at Google who's[leading the design of next-gen wireless charging platforms for future Pixel products](https://www.wirelesspowerconsortium.com/blog-pages/wpc-welcomes-new-board-member/) .
+
+### Other Specs
+
+ Another big change we might see with the Pixel 9 is a new fingerprint sensor. Google's past phones have used an optical fingerprint sensor, but an unnamed source informed_Android Authority_ that[this year's phones could come with an ultrasonic reader](https://www.androidauthority.com/pixel-9-fingerprint-scanner-3456801/) . This is the same technology used in the Samsung Galaxy S24 and other smartphones. Instead of imaging the finger with light, it takes a 3D map using sound waves, which is supposed to make it faster and more secure.
+
+ The Pixel 9 Pro might come with more RAM this year. An unnamed source with access to a purported Pixel 9 Pro (via[Rozetked](https://rozetked.me/news/33143-eksklyuziv-zhivye-foto-google-pixel-9-pro-ot-rozetked) ) claims the phone will have an additional 4 GB of RAM compared to last year's device, shooting it up to 16 GB of total memory.
+
+ There's no word yet on the phone's storage capacity, but we think it will remain the same. That means 128 GB or 256 GB for the base model and up to 1 TB for the Pro models. The first Pixel Fold caps out at 512 GB but we think the Pixel 9 Pro Fold will add a terabyte option.  
+
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## The Latest News About the Google Pixel 9
+
+ You can [get more smartphone news from Lifewire](https://www.lifewire.com/mobile-phone-news-4796390) . Below are stories about Google devices specifically.
+
+[Google Pixel 10: News and Expected Price, Release Date, Specs; and More Rumors](https://www.lifewire.com/google-pixel-10-8664345)
+
+[Surprise: Google's Find My May Be More Private Than Apple's](https://www.lifewire.com/google-find-my-device-better-than-apple-8629920)
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-craft-impressive-content-with-proficient-video-cropping-and-exportation/"><u>[New] Craft Impressive Content with Proficient Video Cropping & Exportation</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-enhancing-your-presence-on-tiktok-from-mac-and-windows-pcs/"><u>[New] In 2024, Enhancing Your Presence on TikTok  From Mac and Windows PCs</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-maximize-learning-free-tools-for-online-video-texts/"><u>[New] Maximize Learning  Free Tools for Online Video Texts</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-tips-for-crafting-an-engaging-fb-timeline-memory/"><u>[Updated] 2024 Approved  Tips for Crafting an Engaging FB Timeline Memory</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-art-of-replaying-twitch-live-streams/"><u>[Updated] The Art of Replaying Twitch Live Streams</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-camtasia-tutorial-implementing-the-classic-ken-burns-effect/"><u>2024 Approved  Camtasia Tutorial  Implementing the Classic Ken Burns Effect</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-5-ultra-hd-screens-mastering-hue-and-shade/"><u>2024 Approved  Top 5 Ultra-HD Screens  Mastering Hue and Shade</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/all-about-the-newly-announced-samsung-galaxy-watch-7-price-guide-launch-date-tech-specs-and-more/"><u>All About the Newly Announced Samsung Galaxy Watch 7 - Price Guide, Launch Date, Tech Specs & More</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/an-in-depth-look-at-organic-light-emitting-diodes-oled-and-their-working-principle/"><u>An In-Depth Look at Organic Light Emitting Diodes (OLED) and Their Working Principle</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/beginners-roadmap-to-crafting-the-ultimate-home-audio-setup/"><u>Beginner's Roadmap to Crafting the Ultimate Home Audio Setup</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/best-registry-management-software-26-no-cost-options-available/"><u>Best Registry Management Software: 26 No-Cost Options Available</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/cant-hear-your-rings-fixing-the-iphone-silent-mode-glitch-easily/"><u>Can't Hear Your Rings: Fixing the iPhone Silent Mode Glitch Easily</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comparing-ipad-pro-mini-m4-and-macbook-air-m3-key-features-and-performance/"><u>Comparing IPad Pro Mini (M4) and MacBook Air (M3): Key Features & Performance</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-how-to-place-coding-segments-inside-a-microsoft-word-document/"><u>Comprehensive Guide: How To Place Coding Segments Inside a Microsoft Word Document</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/differences-between-electric-vehicle-types-bev-phev-fcev-and-hybrids-uncovered/"><u>Differences Between Electric Vehicle Types: BEV, PHEV, FCEV & Hybrids Uncovered</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722894497284-download-free-chat-apps-compatible-with-iphone-and-ipod-touch-today/"><u>Download Free Chat Apps Compatible with iPhone & iPod Touch Today!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-setup-process-for-your-x-x-formerly-twitter-presence-online/"><u>Easy Setup Process for Your X (X Formerly Twitter) Presence Online</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-ways-to-insert-emojis-into-your-imessages-from-iphone/"><u>Easy Ways to Insert Emojis Into Your iMessages From iPhone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/elevate-your-storytelling-with-these-8-androidiphone-apps/"><u>Elevate Your Storytelling with These 8 Android/iPhone Apps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/entdecken-sie-die-welt-der-ki-lifewires-kostenlose-online-kurse-fur-eigenmotivation-und-fortbildung/"><u>Entdecken Sie Die Welt Der KI: Lifewire's Kostenlose Online-Kurse Für Eigenmotivation Und Fortbildung</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-advice-how-to-correctly-resolve-shelldll-cannot-be-found-problems/"><u>Expert Advice: How to Correctly Resolve 'Shell.dll Cannot Be Found' Problems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-potential-connectivity-troubles-is-the-entirety-of-nintendo-switch-online-down-or-just-my-account/"><u>Exploring Potential Connectivity Troubles: Is the Entirety of Nintendo Switch Online Down, or Just My Account?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-fixing-issues-with-missing-or-unavailable-d3dx927dll-on-windows-systems/"><u>Guide: Fixing Issues with Missing or Unavailable d3dx9_27.dll on Windows Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-easily-acquire-and-apply-new-fonts-on-ios-devices/"><u>How to Easily Acquire and Apply New Fonts on iOS Devices</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-poco-x6-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Poco X6 Devices</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-s17-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo S17 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/installation-of-printer-finalized/"><u>Installation of Printer Finalized</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/journey-through-internet-history-discovering-what-is-aol-instant-messenger-aim/"><u>Journey Through Internet History: Discovering What Is AOL Instant Messenger (AIM)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-art-of-fixing-unexpected-shutdowns-in-windows-11-step-by-step-strategies/"><u>Master the Art of Fixing Unexpected Shutdowns in Windows 11 – Step by Step Strategies</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-snapchat-expressions-an-expert-guide-to-emoji-meanings/"><u>Mastering Snapchat Expressions: An Expert Guide to Emoji Meanings</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-d3dx941dll-file-missing-issues-on-your-pc/"><u>Resolving d3dx9_41.dll File Missing Issues on Your PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-your-iphones-silent-call-issue-a-step-by-step-guide/"><u>Solving Your iPhone's Silent Call Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-capturing-images-with-your-xbox-one-controller/"><u>Step-by-Step Guide: Capturing Images with Your Xbox One Controller</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-for-streaming-3d-movies-on-your-device-with-fandango/"><u>Step-by-Step Instructions for Streaming 3D Movies on Your Device with Fandango</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/strategic-game-plays-with-top-casters-for-2024/"><u>Strategic Game Plays with Top Casters for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/strategies-for-teaming-up-and-conquering-pokemon-go-together/"><u>Strategies for Teaming Up and Conquering 'Pokémon Go' Together</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/stream-smart-discover-hitachis-4k-uhd-tvs-featuring-integrated-roku-technology/"><u>Stream Smart: Discover Hitachi's 4K UHD TVs Featuring Integrated Roku Technology</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-definitive-guide-to-repairing-mfc42ddll-not-found-error-in-windows-systems/"><u>The Definitive Guide to Repairing 'mfc42d.dll Not Found' Error in Windows Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722895432055-the-improper-fraction-equivalent-is-frac73/"><u>The Improper Fraction Equivalent Is \\(\\Frac{7}{3}\\)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-revolutionary-world-of-machine-learning-with-googles-ai-gemini-project/"><u>The Revolutionary World of Machine Learning with Google's AI Gemini Project</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-fix-how-to-correct-audio-issues-during-your-powerpoint-presentations/"><u>The Ultimate Fix: How To Correct Audio Issues During Your PowerPoint Presentations</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-selecting-a-free-pdf-editor-top-13-list/"><u>The Ultimate Guide to Selecting a Free PDF Editor (Top 13 List)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-11-complimentary-software-update-tools-you-should-try/"><u>Top 11 Complimentary Software Update Tools You Should Try</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-17-graphics-programs-the-ultimate-guide-to-choosing-the-right-one/"><u>Top 17 Graphics Programs: The Ultimate Guide to Choosing the Right One</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-wireless-router-and-modem-bundles-in-2e24/"><u>Top-Rated Wireless Router and Modem Bundles in 2E24</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-and-fixes-for-when-your-system-cant-find-d3dx940dll/"><u>Troubleshooting and Fixes for When Your System Can't Find d3dx9_40.dll</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-common-reasons-why-youtube-might-not-be-functioning/"><u>Troubleshooting Common Reasons Why YouTube Might Not Be Functioning</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-fixes-for-haldll-errors-across-windows-11-10-8-vista-and-older-systems/"><u>Ultimate Fixes for hal.dll Errors Across Windows 11, 10, 8, Vista & Older Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-choosing-the-perfect-smartwatch-apps-on-android/"><u>Ultimate Guide: Choosing the Perfect Smartwatch Apps on Android</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-wi-fi-protocols-dive-into-80211be-ax-ac-bgn-and-a/"><u>Understanding Wi-Fi Protocols: Dive Into 802.11Be, Ax, Ac, B/G/N & A</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-oneplus-ace-2v-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your OnePlus Ace 2V Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-honor-x8b-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Honor X8b? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/your-first-steps-to-joining-x-detailed-instructions-for-signing-up-and-connecting/"><u>Your First Steps to Joining X: Detailed Instructions for Signing Up and Connecting</u></a></li>
+</ul></div>

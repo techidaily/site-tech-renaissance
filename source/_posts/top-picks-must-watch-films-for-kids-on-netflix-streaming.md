@@ -1,0 +1,634 @@
+---
+title: "Top Picks: Must-Watch Films for Kids on Netflix Streaming"
+date: 2024-08-30T14:49:31.568Z
+updated: 2024-08-31T14:49:31.568Z
+categories:
+  - BestProducts
+description: "This Article Describes Top Picks: Must-Watch Films for Kids on Netflix Streaming"
+excerpt: "This Article Describes Top Picks: Must-Watch Films for Kids on Netflix Streaming"
+thumbnail: https://thmb.techidaily.com/0a6fdf457b7ae04c7271bb5ef452861b60d681e9fcfecf39700de5889b22829e.jpg
+---
+
+## Teen Flick Treasures: Amazing Titles Available Now on Netflix
+ Teen movies have been making a comeback in recent years, especially on Netflix, but they’ve never really gone out of style. These films include Netflix originals and some old-school picks and serve everything you’d expect from the genre: heartache, romance, coming-of-age lessons, and the timeless tradition of parties without parental supervision.
+
+01
+
+of 17
+
+## [Skater Girl (2021): A Film About Blazing Your Own Path](https://www.imdb.com/title/tt6964940)
+
+![Rachel Saanchita Gupta and Shafin Patel in 'Skater Girl' ](https://www.lifewire.com/thmb/cwZVQ7uYBiAYcvdPSlqVmqpHVNI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SkaterGirl-cdec994a3ed64e5ab479557cf51f0478.jpg)
+
+Netflix
+
+**IMDb Rating** : 6.7/10
+
+**Genre** : Drama
+
+**Starring** : Amy Maghera, Waheeda Rehman, Rachel Saanchita Gupta
+
+**Director** : Manjari Makijany
+
+**Motion Picture Rating** : PG
+
+**Runtime** : 1 hour, 47 minutes
+
+ This Indian film is about a young girl who discovers skateboarding and dreams of competing in the sport but faces opposition from her traditional parents and the rest of her village.
+
+ Meanwhile, the young woman who introduced her to skateboarding seeks to support her and the other village girls by building a skatepark._Skater Girl_ promises to be a heartwarming story about following your dreams.
+
+[Watch 'Skater Girl' on Netflix](https://www.netflix.com/title/81283585)
+
+02
+
+of 17
+
+## [Mixtape (2021): A Movie About Discovering Who Your Parents Were](https://www.imdb.com/title/tt1587420/)
+
+![Julie Bowen and Gemma Brooke Allen in 'Mixtape'](https://www.lifewire.com/thmb/lMkzTX1zgLG41ZAfMCe1D6LmKVI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Mixtape-33f184e70c8d4d1980e8239fe79e8669.jpg)
+
+Netflix
+
+**IMDb Rating** : 6.6/10
+
+**Genre** : Comedy, Drama
+
+**Starring** : Julie Bowen, Gemma Brooke Allen, Nick Thune
+
+**Director** : Valerie Weiss
+
+**Motion Picture Rating** : TV-G
+
+**Runtime** : 1 hour, 33 minutes
+
+ Beverly Moody (Gemma Brooke Allen) is an orphan teen raised by her grandmother. One day, she discovers a broken mixtape her parents made before they died.
+
+ Seeing this as an opportunity to learn more about her parents, she seeks to find all the songs on the tape with the help of a quirky neighbor and curmudgeonly record store owner.
+
+[Watch 'Mixtape' on Netflix](https://www.netflix.com/title/80994277)
+
+03
+
+of 17
+
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## [We Have a Ghost (2023): Beetlejuice Meets E.T.](https://www.imdb.com/title/tt7798604/)
+
+![We Have a Ghost (2023)](https://www.lifewire.com/thmb/1EGVI2Nq-mma4U_gQew-CGQ3RnM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-teen-movies-on-netflix-march-2023-5104880-ac5a5db9161a4853868564d1f68312a4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+Netflix
+
+**IMDb Rating** : 6.1/10
+
+**Genre** : Adventure, Comedy, Family
+
+**Starring** : Jahi Di'Allo Winston, Anthony Mackie, David Harbour
+
+**Director** : Christopher Landon
+
+**Motion Picture Rating** : PG-13
+
+**Runtime** : 2 hours, 6 minutes
+
+ Kevin (Jahi Di'Allo Winston) moves into a new home with his family only to discover that it's already occupied by a ghost named Ernest (David Harbour). When his video of Ernest goes viral, they end up in the government's crosshairs.
+
+_We Have a Ghost_ , a fun comedy for teens and adults, puts a modern spin on age-old movie tropes.
+
+[Watch 'We Have a Ghost' on Netflix](https://www.netflix.com/title/80230619)
+
+04
+
+of 17
+
+## [Moxie (2021): A Film About Fighting Toxic School Culture](https://www.imdb.com/title/tt6432466/)
+
+![ Hadley Robinson in 'Moxie'](https://www.lifewire.com/thmb/cViIoDSZOArw-tKkr8FQPrdCLoM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Moxie-68d4df625f46471dae9ab5360bfbddb8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
+Netflix
+
+**IMDb Rating** : 6.7/10
+
+**Genre** : Comedy
+
+**Starring** : Hadley Robinson, Lauren Tsai, Alycia Pascual-Pena
+
+**Director** : Amy Poehler
+
+**Motion Picture Rating** : PG-13
+
+**Runtime** : 1 hour, 51 minutes
+
+ This teen comedy from_Parks and Recreation's_ Amy Poehler stars Hadley Robinson as Vivian, a shy 16-year-old who decides to rebel against her school's toxic atmosphere by publishing an underground zine called Moxie.
+
+ Her writing sparks a movement amongst female students and throughout the entire school. Fans of Poehler will appreciate her writing and comedy influence on this project—and her on-screen presence as Vivian's mom.
+
+[Watch 'Moxie' on Netflix](https://www.netflix.com/title/81078393)
+
+05
+
+of 17
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## [Enola Holmes (2020): There’s a New Holmes Detective In Town](https://www.imdb.com/title/tt7846844/)
+
+![Enola Holmes on Netflix](https://www.lifewire.com/thmb/OslOCb_Qk4p9Meum1H4mUSf1cik=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/0018_21-best-teen-movies-on-netflix-5104880-452d2fa59e1745bf8a3fc0af6a9ce1b8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
+Netflix
+
+**IMDb Rating** : 6.6/10
+
+**Genre** : Action, Adventure, Crime
+
+**Starring** : Millie Bobby Brown, Henry Cavill, Sam Claflin
+
+**Director** : Harry Bradbeer
+
+**Motion Picture Rating** : PG-13
+
+**Runtime** : 2 hours, 3 minutes
+
+ When 16-year-old Enola's older brothers refuse to help her find their recently missing mother, she heads to London alone to solve the mystery.
+
+ This spirited caper will appeal to true mystery-loving Sherlock Holmes fans or Millie Bobby Brown (from_Stranger Things_ ) fans alike.
+
+[Watch 'Enola Holmes' on Netflix](https://www.netflix.com/title/81277950)
+
+06
+
+of 17
+
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
+## [The Magician's Elephant (2023): A Fairy Tale in the Fallout of War](https://www.imdb.com/title/tt2560092/)
+
+![The Magician's Elephant](https://www.lifewire.com/thmb/BYDCI1aumRw0Qx2xYvORWFnC82o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-teen-movies-on-netflix-april-2023-5104880-13571319bc4b43eeb24f8b8deab24e58.jpg)
+
+Netflix
+
+**IMDb Rating** : 6.6/10
+
+**Genre** : Animation, Adventure, Comedy
+
+**Starring** : Noah Jupe, Benedict Wong, Natasia Demetriou
+
+**Director** : Wendy Rogers
+
+**Motion Picture Rating** : PG
+
+**Runtime** : 1 hour, 39 minutes
+
+ After a war that left him an orphan, Peter (Noah Jupe) desperately searches for his sister Adele (Pixie Davies). Following the advice of a fortune teller, he sets out in search of an elephant.
+
+_The Magician's Elephant_ is an adaptation of a 2009 book by Kate DiCamillo. The movie isn't quite as dark as the novel, but in the tradition of classic kid's films like_Bambi_ ,_Lion King_ , and_Land Before Time_ , it has a serious message about coping with loss.  
+
+[Watch 'The Magician's Elephant' on Netflix](https://www.netflix.com/title/80234520)
+
+[The Best Kids' Movies on Netflix](https://www.lifewire.com/best-kids-movies-on-netflix-5114365)
+
+07
+
+of 17
+
+## [To All the Boys I’ve Loved Before: A Charming Rom-Com for Fans of All Ages](https://www.imdb.com/title/tt3846674/)
+
+![To All the Boys I've Loved Before on Netflix](https://www.lifewire.com/thmb/BXg7CDR7BLKjiUukbuA2r21khqk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_21-best-teen-movies-on-netflix-5104880-cc5b047f4b8542538254a01d002f4867.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
+Netflix
+
+**IMDb Rating** : 7.0/10
+
+**Genre** : Comedy, Drama, Romance
+
+**Starring** : Lana Condor, Noah Centineo, Janel Parrish
+
+**Director** : Susan Johnson
+
+**Motion Picture Rating** : TV-14
+
+**Runtime** : 1 hour, 39 minutes
+
+ The setup: Lara Jean's young sister secretly mails the love letters she's written to five crushes. Lara Jean enlists the help of one letter recipient, Peter, to convince neighbor and crush Josh (and fellow letter recipient) that she and Peter are in a relationship and that she's moved on.
+
+ If you're a rom-com fan of any age, there's plenty to love in this sweet movie with two follow-up installments.
+
+[Watch 'To All the Boys I've Loved Before' on Netflix](https://www.netflix.com/title/80203147)
+
+08
+
+of 17
+
+## [Dog Gone (2023): A Boy, His Dog, and His Dad](https://www.imdb.com/title/tt15334430/)
+
+![Rob Lowe and Johnny Berchtold in Dog Gone](https://www.lifewire.com/thmb/IiyivN5ibGrvcZQvEXKm0b2z9-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-teen-movies-on-netflix-february-2023-5104880-6888bdbae46b47a99f08eba800da5a1a.jpg)
+
+Netflix
+
+**IMDb Rating** : 6.1/10
+
+**Genre** : Biography, Drama, Family
+
+**Starring** : Rob Lowe, Johnny Berchtold, Kimberly Williams-Paisley
+
+**Director** : Stephen Herek
+
+**Rating** : TV-PG
+
+**Runtime** : 1 hour, 35 minutes
+
+ A wayward college student sets out on the Appalachian Trail to find his missing best friend. Determined to heal their strained relationship, his dad joins the search.  
+
+ Based on a true story,_Dog Gone_ is a feel-good movie that boasts impressive performances from the human and canine cast.  
+
+[Watch 'Dog Gone' on Netflix](https://www.netflix.com/title/81155175)
+
+09
+
+of 17
+
+## [All the Bright Places (2020): An Important Mental Health Conversation Starter](https://www.imdb.com/title/tt3907584/)
+
+![All the Bright Places on Netflix](https://www.lifewire.com/thmb/UQR6HggGGWRlE9y9NJB51lFwSfM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/0010_21-best-teen-movies-on-netflix-5104880-b0e9832746854cabb4f33cafef96214b.jpg)
+
+Netflix
+
+**IMDb Rating** : 6.6/10
+
+**Genre** : Drama, Romance
+
+**Starring** : Elle Fanning, Justice Smith, Alexandra Shipp
+
+**Director** : Brett Haley
+
+**Motion Picture Rating** : TV-MA
+
+**Runtime** : 1 hour, 47 minutes
+
+ Violet and Finch start spending more time together while working on a school project about the wonders of Indiana. While both struggle differently, they look to each other for solace and hope for the future.
+
+ This story highlights the importance of finding support and looking out for one another—a meaningful message for all ages.
+
+[Watch 'All the Bright Places' on Netflix](https://www.netflix.com/title/80208802)
+
+10
+
+of 17
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## [Finding 'Ohana (2021): For Anyone Who Misses The Goonies](https://www.imdb.com/title/tt10332588/)
+
+![Owen Vaccaro, Alex Aiono, Lindsay Watson, and Kea Peahu in 'Finding Ohana'](https://www.lifewire.com/thmb/IMA9uc_Ow-aeDZhjS9PkhC8dBZw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FindingOhana-52f29856683f46fbbfed9a6c1fd854d7.jpg)
+
+Netflix
+
+**IMDb Rating** : 6.1/10
+
+**Genre** : Action, Adventure
+
+**Starring** : Kelly Hu, Ke Huy Quan, Lindsay Watson
+
+**Director** : Jude Weng
+
+**Motion Picture Rating** : PG
+
+**Runtime** : 2 hours, 3 minutes
+
+ If you're a fan of movies where precocious teens go on an adventure for hidden treasures, you may want to spend a weekend watching_Finding 'Ohana_ . It just might fill that_Goonies_ \-sized hole in your heart.
+
+ The film is about two Brooklyn kids who go to Oahu to care for their ailing grandfather and discover a pirate's journal leading to a 200-year-old shipwreck. But they also learn to appreciate their Hawaiian heritage along the way.
+
+[Watch 'Finding 'Ohana' on Netflix](https://www.netflix.com/title/81023618)
+
+11
+
+of 17
+
+## [The Half of It (2020): A Hopeful Love Story](https://www.imdb.com/title/tt9683478/)
+
+![The Half of It on Netflix](https://www.lifewire.com/thmb/l1vZZWf5BReHAjCjKdpN5mZHSLw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_21-best-teen-movies-on-netflix-5104880-8edd4d191d0745a688eb870a34fbb57f.jpg)
+
+Netflix
+
+**IMDb Rating** : 6.9/10
+
+**Genre** : Comedy, Drama, Romance
+
+**Starring** : Leah Lewis, Daniel Diemer, Alexxis Lemire
+
+**Director** : Alice Wu
+
+**Motion Picture Rating** : PG-13
+
+**Runtime** : 1 hour, 44 minutes
+
+ When a lovesick football player named Paul begs loner Ellie to help him woo popular-girl Aster with a love letter, Ellie finds herself in a confusing love triangle.
+
+ This intelligent and sincere story tackles friendship and self-discovery and offers a texting-era twist on_Cyrano de Bergerac_ \-style love letters and mistaken identity.
+
+[Watch 'The Half of It' on Netflix](https://www.netflix.com/title/81005150)
+
+12
+
+of 17
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## [Home Team (2022): A Feel-Good Football Comedy Loosely Based on a True Story](https://www.imdb.com/title/tt14592064)
+
+![Sean Payton (Kevin James) gives an inspirational speech in 'Home Team' (2022)](https://www.lifewire.com/thmb/2YVXMtN3msfyVfW5qUiKAIsU-XA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HomeTeam-c6180d4339ab4cd2805a35caa1456475.jpg)
+
+Netflix
+
+**IMDb Rating** : 6.0/10
+
+**Genre** : Comedy, Sport
+
+**Starring** : Kevin James, Taylor Lautner
+
+**Director** : Charles Francis Kinnane, Daniel Kinnane
+
+**Motion Picture Rating** : PG
+
+**Runtime** : 1 hour, 35 minutes
+
+ Sean Payton has the dubious honor of being the first modern NFL football coach suspended for an entire season. During his downtime, he took over coaching his son's football team.
+
+ This comedy sports film starring Kevin James is based on real-life events.  
+
+[Watch 'Home Team' on Netflix](https://www.netflix.com/title/81414099)
+
+13
+
+of 17
+
+## [Rise of the Teenage Mutant Ninja Turtles: The Movie (2022) — Heroes in a Half Shell Go Intergalactic](https://www.imdb.com/title/tt9784708/)
+
+![Rise of the Teenage Mutant Ninja Turtles: The Movie](https://www.lifewire.com/thmb/vSNgLzG1Ijiq5w4dFHGznUdeRKQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-teen-movies-on-netflix-june-2023-5104880-01c11eb2fa8243438f006498fc9f8feb.jpg)
+
+Netflix
+
+**IMDb Rating** : 6.2/10
+
+**Genre** : Animation, Action, Adventure
+
+**Starring** : Ben Schwartz, Jim Pirri, Haley Joel Osment
+
+**Director** : Andy Suriano, Ant Ward
+
+**Motion Picture Rating** : TV-Y7
+
+**Runtime** : 1 hour, 22 minutes
+
+ Casey Jones (Haley Joel Osment) travels through time to warn Leonardo (Ben Schwartz) and his brothers about an extraterrestrial threat. Will the team rise to protect the world from Krang (Jim Pirri) and his army?
+
+ This movie is based on the 2018 Nickelodeon TMNT series, not to be confused with the 2012 Nickelodeon TMNT series. If you like the movie, you can watch all of[_Rise of the Teenage Mutant Ninja Turtles_](https://www.netflix.com/title/80242517) on Netflix.
+
+[Watch 'Rise of the Teenage Mutant Ninja Turtles' on Netflix](https://www.netflix.com/title/81068803)
+
+14
+
+of 17
+
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## [You Are So Not Invited to My Bat Mitzvah (2023): A Different Shade of Sandler](https://www.imdb.com/title/tt21276878/)
+
+![The cast of You Are So Not Invited to My Bat Mitzvah](https://www.lifewire.com/thmb/vqhAW0B9TQKgUPnrAMxAjDFO9Bw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-teen-movies-on-netflix-october-2023-5104880-3c4ee21786b64df693bfeebd65701d8e.jpg)
+
+Netflix
+
+**IMDb Rating** : 6.0/10
+
+**Genre** : Comedy
+
+**Starring** : Sunny Sandler, Idina Menzel, Adam Sandler
+
+**Director** : Sammi Cohen
+
+**Motion Picture Rating** : PG-13
+
+**Runtime** : 1 hour, 43 minutes
+
+ With their coming-of-age ceremonies quickly approaching, lifelong friends Stacy (Sunny Sandler) and Lydia (Samantha Lorraine) begin to feud over boys and who will have the bigger bat mitzvah.  
+
+_You Are So Not Invited to My Bat Mitzvah_ is a more grown-up Adam Sandler movie than say,_The Waterboy_ , but it's targeted toward young adults like his daughter (who plays the lead role).  
+
+[Watch 'You Are So Not Invited to My Bat Mitzvah' on Netflix](https://www.netflix.com/title/81416306)
+
+15
+
+of 17
+
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## [JJ+E (2021): A Swedish Romance About Class and Cultural Barriers](https://www.imdb.com/title/tt12299824/)
+
+![Mustapha Aarab and Elsa Öhrn in "JJ+E"](https://www.lifewire.com/thmb/GsSfiMPeEZqpEPSOK7aqlmavCik=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/JJE-c301e6e36bcb4f299aafd793f7dd3c25.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Netflix
+
+**IMDb Rating** : 5.4/10
+
+**Genre** : Romance
+
+**Starring** : Mustapha Aarab, Elsa Öhrn, Magnus Krepper
+
+**Director** : Alexis Almström
+
+**Motion Picture Rating** : TV-14
+
+**Runtime** : 1 hour, 30 minutes
+
+ Based on one of the most famous books by the award-winning Swedish author Mats Wahl,_JJ+E_ is a modern-day story about two young people who fall in love despite the cultural and class barriers between them.
+
+ Elisabeth and John-John couldn't be more different economically and socially, but when they start in the same high school class, they become friends and fall in love. The Swedish setting and actors help put a fresher spin on an old romance trope.
+
+[Watch 'JJ+E' on Netflix](https://www.netflix.com/title/81248121)
+
+16
+
+of 17
+
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## [Vampires vs. The Bronx (2020): Best Gentrification Metaphor Since Candyman](https://www.imdb.com/title/tt8976576/)
+
+![Jaden Michael, Gerald Jones III, and Gregory Diaz IV in 'Vampires vs. the Bronx'](https://www.lifewire.com/thmb/npr8WvdVzX6W7Rt5rDoo8LidXI8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/VampiresvsTheBronx-914ba870a286419c9c1d0469cd624cd0.jpg)
+
+Netflix
+
+**IMDb Rating** : 5.7/10
+
+**Genre** : Comedy, Horror
+
+**Starring** : Jaden Michael, Gerald Jones III, Gregory Diaz IV
+
+**Director** : Oz Rodriguez
+
+**Motion Picture Rating** : PG-13
+
+**Runtime** : 1 hour, 25 minutes
+
+ Miguel, Bobby, and Luis are a bunch of normal teens with an unusual problem—vampires have invaded their Bronx community and are eating their neighbors.
+
+ Plucky teens protect their neighborhood from invading monsters is not a new concept._Vampires vs. the Bronx_ wears that trope like a comfy blanket. But in between the fun frights and the witty one-liners is a clever meditation on gentrification and whitewashing.
+
+[Watch 'Vampires vs. the Bronx' on Netflix](https://www.netflix.com/title/80998174)
+
+17
+
+of 17
+
+## [Chupa (2023): E.T. Meets Mexican Folklore](https://www.imdb.com/title/tt14923260/)
+
+![Evan Whitten in Chupa](https://www.lifewire.com/thmb/sUX_JwO30yy67jVEclJSrCm4eB8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-teen-movies-on-netflix-may-2023-5104880-2dd49594c2524672a5c74e066681cbff.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Netflix
+
+**IMDb Rating** : 5.5/10
+
+**Genre** : Action, Adventure, Drama
+
+**Starring** : Demián Bichir, Christian Slater, Evan Whitten
+
+**Director** : Jonás Cuarón
+
+**Rating** : PG
+
+**Runtime** : 1 hour, 35 minutes
+
+ While visiting his family in Mexico, Alex (Evan Whitten) meets a baby chupacabra. Although he believes Chupacabras to be ferocious, Chupa is adorable and friendly, so Alex vows to protect his new friend from the scientists who want to experiment on him.
+
+ In the long tradition of “boy and his (fill in the blank)” movies,_Chupa_ hits all the familiar notes, but the connection to Mexican folklore puts a fresh spin on the concept.  
+
+[Watch 'Chupa' on Netflix](https://www.netflix.com/title/80992263)
+
+[The Best Streaming Devices of 2024](https://www.lifewire.com/best-streaming-devices-8682806)
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-maximizing-video-quality-in-steam-game-recording/"><u>[New] In 2024, Maximizing Video Quality in Steam Game Recording</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ransform-videos-into-stories-discover-the-top-10-reactions-for-2024/"><u>[New] Transform Videos Into Stories  Discover the Top 10 Reactions for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-virtual-broadcast-battle-pitting-obs-against-twitchs-channel-space/"><u>[New] Virtual Broadcast Battle  Pitting OBS Against Twitch's Channel Space</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-cutting-edge-techniques-for-improved-ram-in-minecraft/"><u>[Updated] 2024 Approved  Cutting-Edge Techniques for Improved Ram in Minecraft</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-discovering-the-essence-of-excellent-screen-capture-with-recmeister/"><u>[Updated] 2024 Approved  Discovering the Essence of Excellent Screen Capture with Recmeister</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-an-elaborate-review-unveiling-lgs-ultrafine-4k-wonders/"><u>[Updated] An Elaborate Review  Unveiling LG's UltraFine 4K Wonders</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-googles-goldmine-a-simplified-three-step-blueprint-for-calculating-subscriber-earning-potential/"><u>[Updated] In 2024, Google's Goldmine  A Simplified Three-Step Blueprint for Calculating Subscriber Earning Potential</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-high-definition-vision-recorder-devices/"><u>[Updated] In 2024, High Definition Vision Recorder Devices</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-improve-your-virtual-engagement-mastering-snap-photography/"><u>[Updated] In 2024, Improve Your Virtual Engagement  Mastering Snap Photography</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-poptoons-ultimate-insight-24-annual/"><u>[Updated] In 2024, PopToons Ultimate Insight '24 Annual</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-the-ultimate-bundle-6-powerful-apps-to-remove-signature-borders/"><u>[Updated] In 2024, The Ultimate Bundle – 6 Powerful Apps to Remove Signature Borders</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-iphone-and-android-edition-compile-the-most-useful-top-8-edits-tools/"><u>[Updated] IPhone and Android Edition  Compile the Most Useful Top 8 Edits Tools</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-optimizing-visuals-aspect-ratio-alteration/"><u>[Updated] Optimizing Visuals  Aspect Ratio Alteration</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-pros-verdict-4-superior-fullscreen-capture-applications/"><u>[Updated] Pro's Verdict  4 Superior Fullscreen Capture Applications</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-techniques-for-epochal-transition-scenes/"><u>[Updated] Techniques for Epochal Transition Scenes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-determine-ideal-frame-rates-in-slow-mo-filmmaking/"><u>2024 Approved  How to Determine Ideal Frame Rates in Slow-Mo Filmmaking</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-photo-layouts-in-your-insta-feed-ultimate-tips-and-tricks/"><u>Complete Photo Layouts in Your Insta Feed: Ultimate Tips & Tricks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/connect-your-computers-zoom-meetings-with-your-flat-screen-for-easy-presentations/"><u>Connect Your Computer's Zoom Meetings With Your Flat Screen For Easy Presentations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/create-stunning-presentations-easily-using-these-7-leading-ai-based-platforms/"><u>Create Stunning Presentations Easily Using These 7 Leading AI-Based Platforms</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/dealing-with-normalizdll-not-found-effective-solutions-and-tips/"><u>Dealing with 'Normaliz.dll Not Found': Effective Solutions and Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-8-most-popular-mobile-phone-games/"><u>Discover the 8 Most Popular Mobile Phone Games</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/do-you-retweet-or-re-tweet/"><u>Do You Retweet or Re-Tweet?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/electric-vehicle-durability-debate-are-they-as-resilient-as-combustion-engine-cars/"><u>Electric Vehicle Durability Debate - Are They as Resilient as Combustion Engine Cars?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exclusive-verizon-upgrade-promotions-for-current-customers/"><u>Exclusive Verizon Upgrade Promotions for Current Customers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-advice-selecting-the-perfect-selfie-accessory-in-6-steps/"><u>Expert Advice: Selecting the Perfect Selfie Accessory in 6 Steps</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/explore-androids-leading-music-video-watching-tools-for-2024/"><u>Explore Android's Leading Music Video Watching Tools for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-get-started-with-fandango-streaming-on-your-amazon-fire-tv-a-comprehensive-guide/"><u>How to Get Started With Fandango Streaming on Your Amazon Fire TV – A Comprehensive Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-11-pro-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 11 Pro to other iPhone 11 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-stream-hd-content-from-firestick-via-projector-connection/"><u>How To: Stream HD Content From Firestick via Projector Connection</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-infinix-hot-40i-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Infinix Hot 40i to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/innovative-4-app-ideas-for-simplifying-everyones-dream-home-renovation-a-touch-up-at-your-fingertips/"><u>Innovative 4 App Ideas for Simplifying Everyone's Dream Home Renovation: A Touch-Up at Your Fingertips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/m4-mac-mini-anticipated-market-entrance-date-and-price-point-comprehensive-specs-review-latest-leaks-and-theories/"><u>M4 Mac Mini - Anticipated Market Entrance Date & Price Point; Comprehensive Specs Review, Latest Leaks, and Theories</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-dragon-ball-saga-the-correct-sequence-for-ultimate-enjoyment/"><u>Mastering the Dragon Ball Saga: The Correct Sequence for Ultimate Enjoyment</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/microsoft-teams-not-working-how-to-tell-if-its-a-system-outage-or-personal-connection-problem/"><u>Microsoft Teams Not Working - How to Tell If It's a System Outage or Personal Connection Problem</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-top-5-effects-for-reshaping-sound-tracks/"><u>New 2024 Approved Top 5 Effects for Reshaping Sound Tracks</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-video-editing-essentials-top-5-splitter-tools/"><u>New Free Video Editing Essentials Top 5 Splitter Tools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-hardware-insight-and-analysis-by-team-tom/"><u>Pioneering Hardware Insight and Analysis by Team Tom</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/samsungs-big-reveal-schedule-fresh-news-announcements-and-rumor-roundup/"><u>Samsung's Big Reveal : Schedule, Fresh News, Announcements, and Rumor Roundup</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/samsungs-latest-marvel-galaxy-z-fold-6-specs-news-and-availability-date-revealed/"><u>Samsung's Latest Marvel: Galaxy Z Fold 6 Specs, News, and Availability Date Revealed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solutions-to-avoid-auto-sleep-on-mac-an-in-depth-explanation/"><u>Solutions to Avoid Auto-Sleep on Mac: An In-Depth Explanation</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-your-iphones-phantom-touch-issue-with-these-10-effective-strategies/"><u>Solve Your iPhone's Phantom Touch Issue with These 10 Effective Strategies</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-cygwin1dll-missing-file-issue-a-comprehensive-guide/"><u>Solving the 'Cygwin1.dll' Missing File Issue: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-troubleshooting-tips-to-correct-your-realtek-rtl8723be-wireless-adapter-drivers/"><u>Step-by-Step Troubleshooting Tips to Correct Your Realtek RTL8723BE Wireless Adapter Drivers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/steps-to-remove-manual-feed-curation-suggestions-for-you-in-insta/"><u>Steps to Remove Manual Feed Curation 'Suggestions for You' In Insta</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722887058900-student-savings-alert-how-to-score-big-on-youtube-premium-with-an-educational-discount/"><u>Student Savings Alert: How to Score Big on YouTube Premium With an Educational Discount</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-complete-walkthrough-to-establish-yourself-on-the-revamped-x-network/"><u>The Complete Walkthrough to Establish Yourself on the Revamped X Network</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-future-is-bright-a-closer-look-at-sonys-announcements-and-prospects/"><u>The Future Is Bright: A Closer Look at Sony's Announcements & Prospects</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-13-must-listen-true-crime-podcast-episodes/"><u>Top 13 Must-Listen True Crime Podcast Episodes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-5-safe-and-reliable-email-providers-for-enhanced-security/"><u>Top 5 Safe and Reliable Email Providers for Enhanced Security</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-iphone-photography-tips-for-enhancing-lens-focus-functionality/"><u>Troubleshooting iPhone Photography: Tips for Enhancing Lens Focus Functionality</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-the-service-unavailable-503-message-on-websites/"><u>Troubleshooting the 'Service Unavailable (503)' Message on Websites</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-the-distinctions-cat5-vs-cat6-networking-cables-explained/"><u>Understanding the Distinctions: Cat5 Vs. Cat6 Networking Cables Explained</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-the-full-potential-of-your-ipad-with-ipados-1nvite-to-version-18-complimentary-upgrade-release-calendar-and-feature-spotlights/"><u>Unlock the Full Potential of Your iPad with IPadOS 1Nvite to Version 18 - Complimentary Upgrade, Release Calendar & Feature Spotlights</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/unveiling-wintv-magic-compre-written-guide-to-capturing-live-on-windows-pc/"><u>Unveiling WinTV Magic  Compre Written Guide to Capturing Live on Windows PC</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-in-2024-guide-to-generating-speech-in-different-languages-with-the-best-tools/"><u>Updated In 2024, Guide to Generating Speech in Different Languages With the Best Tools</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/watching-3d-films-from-home-a-comprehensive-guide-using-fandango/"><u>Watching 3D Films From Home: A Comprehensive Guide Using Fandango</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/winning-strategies-for-troubleshooting-dark-monitor-scenarios-in-windows-11/"><u>Winning Strategies for Troubleshooting Dark Monitor Scenarios in Windows 11</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Exploring Changes: A Comprehensive MidJourney v5.2 Vs. V6 Alpha Showdown"
-date: 2024-08-26 15:12:21
-updated: 2024-08-29 11:20:17
+date: 2024-08-30T14:41:07.800Z
+updated: 2024-08-31T14:41:07.800Z
 tags:
   - cutting-edge
 categories:
@@ -58,14 +58,23 @@ A fabric flag with the words "How To Geek" on it.
 
 ![Four AI-generated flags in each quadrant of the image, with garbled text.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/gendowasright_a_fabric_flag_with_the_words_how_to_geek_on_it_0bcc3c5e-f1c0-4ab8-bf6e-23aa90a614d2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Sydney Louw Butler/How-To Geek/MidJourney
 
  With V6 however, it was 75% successful on the first attempt, and you can clearly see the text is properly integrated into the image, rather than simply overlaid.
 
 ![Four AI-generated flags that have the words How-To Geek on them.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/flag-v6.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 Sydney Louw Butler/How-To Geek/MidJourney
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Artistic Quality
 
  While we can more or less objectively test how well V6 can follow a prompt or integrate text, artistic quality is much harder to nail down. In my [comparison of MidJourney models V1 to V5.2](https://instagram-clips.techidaily.com/2024-approved-visual-storytelling-on-social-media-crafting-an-effective-plan/), it was clear that with every new model the AI was becoming more "imaginative" for lack of a better word. Composition and detail also drastically improved, and honestly, V5.2 still came out on top when it comes to artistic flair, as I noted when I [compared MidJourney to DALL-E 3](https://screen-activity-recording.techidaily.com/new-the-complete-user-manual-how-to-use-screen-recording-on-mac-for-2024/).
@@ -74,18 +83,27 @@ Sydney Louw Butler/How-To Geek/MidJourney
 
 ![Two side-by-side AI-generated images of idyllic elven villages featuring whimsical houses and lush greenery.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-4.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Sydney Louw Butler/How-To Geek/MidJourney
 
 Prompt: An epic and beatiful fantasy scene of an elvish village where the elves are going about their business. Make it an oil painting
 
 ![Two side-by-side images of a futuristic street scene with aliens, robots, and humans all living in the same city.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-5.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Sydney Louw Butler/How-To Geek/MidJourney
 
 Prompt: A futuristic street scene with aliens, robots, and humans all living in the same city. Make it in the style of a digital speed painting.
 
 ![An AI-generated pair of images side-by-side of A nature photograph of mountains as seen from the beach, with a large visible moon in the sky.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-4.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 Sydney Louw Butler/How-To Geek/MidJourney
 
 Prompt: A nature photograph of mountains as seen from the beach, with a large visible moon in the sky.
@@ -110,3 +128,64 @@ Prompt: A nature photograph of mountains as seen from the beach, with a large vi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-mastering-luts-in-obs-for-premium-visual-output/"><u>[New] Mastering LUTs in OBS for Premium Visual Output</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-ensuring-security-in-converting-youtube-tracks-to-mp3-format/"><u>[Updated] Ensuring Security in Converting YouTube Tracks to MP3 Format</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-free-green-screens-for-cinematic-artists-for-2024/"><u>[Updated] Free Green Screens for Cinematic Artists for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-the-quintessential-new-wave-of-facebook-updates/"><u>[Updated] The Quintessential New Wave of Facebook Updates</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-a-novices-guide-to-making-unforgettable-snaps-on-snapchat/"><u>2024 Approved  A Novice's Guide to Making Unforgettable Snaps on Snapchat</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-saving-pc-views-with-a-single-click-win/"><u>2024 Approved  Saving PC Views with a Single Click (Win)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-itel-p55t-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/best-young-adult-cinema-available-on-netflix/"><u>Best Young Adult Cinema Available on Netflix</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/bringing-back-your-deleted-snapchat-tips-for-reactivation/"><u>Bringing Back Your Deleted Snapchat - Tips for Reactivation</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/budget-friendly-binge-watching-how-to-legally-stream-netflix-for-free/"><u>Budget-Friendly Binge Watching: How to Legally Stream Netflix for Free</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comprehensive-fujitsn-scansnap-ix1600-assessment-top-tier-desktop-document-scanner-unveiled/"><u>Comprehensive Fujitsn ScanSnap iX1600 Assessment: Top-Tier Desktop Document Scanner Unveiled</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/connect-and-conquer-easy-tips-for-linking-your-logitech-mouse-to-pclaptop/"><u>Connect and Conquer: Easy Tips for Linking Your Logitech Mouse to PC/Laptop</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/decoding-msidll-errors-a-comprehensive-guide-to-restoring-system-files/"><u>Decoding MSI.DLL Errors: A Comprehensive Guide to Restoring System Files</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/direct-from-phone-to-fire-stick-a-comprehensive-guide-for-streaming/"><u>Direct From Phone to Fire Stick: A Comprehensive Guide for Streaming</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/double-lock-protocol-secure-your-icloud-email-through-advanced-authentication-measures/"><u>Double Lock Protocol: Secure Your iCloud Email Through Advanced Authentication Measures</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722896783939-electric-vehicle-efficiency-during-extreme-climates-a-comprehensive-analysis/"><u>Electric Vehicle Efficiency During Extreme Climates: A Comprehensive Analysis</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enabling-apple-apps-for-enhanced-viewing-experience-on-your-fire-stick/"><u>Enabling Apple Apps for Enhanced Viewing Experience on Your Fire Stick</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-5-points-to-ponder-prior-to-acquiring-pre-owned-laptops/"><u>Essential 5 Points to Ponder Prior to Acquiring Pre-Owned Laptops</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-instructions-installing-new-battery-into-an-older-ipad-model/"><u>Expert Instructions: Installing New Battery Into an Older iPad Model</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-untrusted-website-alerts-ensure-safe-internet-browsing/"><u>Fixing Untrusted Website Alerts: Ensure Safe Internet Browsing</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/forgot-iphone-12-mini-password-here-are-the-best-solutions-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Forgot iPhone 12 mini Password? – Here are the Best Solutions | Stellar</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/google-pixel-2023-leak-scoop-predicted-specs-expected-cost-and-launch-window-rumors-unpacked/"><u>Google Pixel 2023 Leak Scoop: Predicted Specs, Expected Cost & Launch Window Rumors Unpacked</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-connect-a-samsung-soundbar-to-a-tv/"><u>How to Connect a Samsung Soundbar to a TV</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-realme-c51-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Realme C51? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-se-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset iPhone SE to Factory Settings? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-set-up-a-multi-speaker-bluetooth-sound-system-in-minutes/"><u>How to Set Up a Multi-Speaker Bluetooth Sound System in Minutes!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-choosing-your-content-companion-the-future-in-podcasts-or-youtube/"><u>In 2024, Choosing Your Content Companion  The Future in Podcasts or YouTube</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-tips-for-effortless-green-screening-in-kinemaster-software/"><u>In 2024, Expert Tips for Effortless Green Screening in KineMaster Software</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-infinix-zero-30-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Infinix Zero 30 5G Phones with/without a PC</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-luminary-pixels-masterful-lighting-secrets-unveiled/"><u>In 2024, Luminary Pixels  Masterful Lighting Secrets Unveiled</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mkv-mastery-top-mac-apps/"><u>In 2024, MKV Mastery  Top Mac Apps</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-morning-judgment-creative-viewpoints/"><u>In 2024, Morning Judgment  Creative Viewpoints</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-poco-c55-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Poco C55 Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/iphone-tips-avoiding-mystery-calls-by-managing-contacts-with-hidden-numbers/"><u>IPhone Tips: Avoiding Mystery Calls by Managing Contacts with Hidden Numbers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/leading-cable-modemrouter-combos-for-optimal-internet-performance/"><u>Leading Cable Modem/Router Combos for Optimal Internet Performance</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-pet-portrait-retouching-solutions-for-oversaturated-or-reflective-eye-issues/"><u>Mastering Pet Portrait Retouching: Solutions for Oversaturated or Reflective Eye Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcome-silent-hurdles-in-cs-go-expert-tips-on-microphone-repair/"><u>Overcome Silent Hurdles in CS: GO - Expert Tips on Microphone Repair</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-the-504-gateway-timeout-issue-a-step-by-step-guide/"><u>Resolving the 504 Gateway Timeout Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/simplifying-cinematics-in-filmora-answering-the-core-questions/"><u>Simplifying Cinematics in Filmora  Answering the Core Questions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-fix-for-when-your-samsung-galaxy-cant-find-a-network-expert-advice-inside/"><u>Step-by-Step Fix for When Your Samsung Galaxy Can't Find a Network: Expert Advice Inside!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-on-thoroughly-cleaning-a-mechanical-keyboard/"><u>Step-by-Step Tutorial on Thoroughly Cleaning a Mechanical Keyboard</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/step-by-step-tutorial-to-elevate-your-slow-motion-videos/"><u>Step-by-Step Tutorial to Elevate Your Slow Motion Videos</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/student-savings-alert-how-to-score-big-on-youtube-premium-with-an-educational-discount/"><u>Student Savings Alert: How to Score Big on YouTube Premium With an Educational Discount!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-essentials-of-rtx-cards-by-nvidia-unveiling-high-performance-gaming-graphics/"><u>The Essentials of RTX Cards by NVIDIA: Unveiling High-Performance Gaming Graphics</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-guide-to-interpreting-led-light-patterns-on-playstation-4-controllers/"><u>The Guide to Interpreting LED Light Patterns on PlayStation 4 Controllers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ins-and-outs-of-duckduckgo-search-engine-security/"><u>The Ins and Outs of DuckDuckGo Search Engine Security</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-next-frontier-of-classroom-technology-vr/"><u>The Next Frontier of Classroom Technology - VR</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-poco-c51-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Poco C51 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-how-to-fix-a-non-responsive-iphone-mail-app/"><u>Troubleshooting Guide: How to Fix a Non-Responsive iPhone Mail App</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-troubleshooting-technique-how-to-access-the-recovery-partition-on-macs/"><u>Ultimate Troubleshooting Technique: How to Access the Recovery Partition on Macs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-troubleshooting-technique-master-the-complete-ipad-factory-reset/"><u>Ultimate Troubleshooting Technique: Master the Complete iPad Factory Reset</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unboxing-the-future-with-samsung-2025-event-date-confirmed-breaking-announcements-and-industry-rumors/"><u>Unboxing the Future with Samsung 2025 Event - Date Confirmed, Breaking Announcements & Industry Rumors</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-zoom-problems-tech-failures-or-personal-perceptions/"><u>Understanding Zoom Problems: Tech Failures or Personal Perceptions?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-rationale-behind-more-robust-ai-governance-insights-from-openais-executive-appeal/"><u>Unveiling the Rationale Behind More Robust AI Governance: Insights From OpenAI’s Executive Appeal</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/what-is-talking-avatar-in-2024/"><u>What Is Talking Avatar, In 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>Which is the Best Fake GPS Joystick App On Apple iPhone 14 Plus? | Dr.fone</u></a></li>
+</ul></div>
