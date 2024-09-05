@@ -1,0 +1,209 @@
+---
+title: "Xiaomi Mi 12 Rumors: Predicted Price Range, Expected Arrival, and Technical Specs Revealed"
+date: 2024-09-04T01:19:32.969Z
+updated: 2024-09-05T01:19:32.969Z
+categories:
+  - BestProducts
+description: "This Article Describes Xiaomi Mi 12 Rumors: Predicted Price Range, Expected Arrival, and Technical Specs Revealed"
+excerpt: "This Article Describes Xiaomi Mi 12 Rumors: Predicted Price Range, Expected Arrival, and Technical Specs Revealed"
+thumbnail: https://thmb.techidaily.com/5b4d01ebebfd0c2dd6853b7b90449cefc701dfbe2f41b747bf89f0bfa4fc6d71.jpg
+---
+
+## Xiaomi Mi 12 Rumors: Predicted Price Range, Expected Arrival, and Technical Specs Revealed
+
+ In This Article
+
+* [Expected Release Date](https://www.lifewire.com/#toc-when-will-the-nothing-phone-3-be-released)
+* [Pricing Rumors](https://www.lifewire.com/#toc-nothing-phone-3-price-rumors)
+* [Pre-Order Information](https://www.lifewire.com/#toc-pre-order-information)
+* [Specs and Features](https://www.lifewire.com/#toc-nothing-phone-3-specs-and-features)
+* [The Latest News](https://www.lifewire.com/#toc-the-latest-news-about-the-nothing-phone-3)
+
+ Nothing is having a banner year with the release of the Nothing Ear (a) and the Nothing Phone 2a—and shows no signs of losing that momentum: The buzzed-about Nothing Phone 3 is expected to arrive next year. Details are hard to come by, but here’s what we anticipate so far about the debut of this next-gen phone.
+
+## When Will the Nothing Phone 3 Be Released?
+
+[9to5Google reports](https://9to5google.com/2024/06/05/nothing-phone-3-2025-ai/) that Nothing confirmed over email that it won't be releasing its next flagship until 2025.
+
+ Given that hint, we suspect a July 2025 reveal based on prior Nothing phone flagship releases: The Nothing Phone 1 arrived in July 2022, followed by the Nothing Phone 2 in July 2023.
+
+### Lifewire's Release Date Estimate
+
+We're betting on a July 2025 release date for the Nothing Phone 3.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Nothing Phone 3 Price Rumors
+
+ Since release and ordering details are slim to none, pricing information is still forthcoming as well.
+
+ However, based on past trends, it’s not unreasonable to believe that the Nothing Phone 3 will be priced similarly to the Phone 2, which starts at $599.
+
+ The Phone 2 received a significant boost to the hardware, camera, and Glyph options and a considerable price bump from the Phone 1, which was offered for a limited time in the U.S. for $299 and launched at €469 in Europe.
+
+ We see the Phone 3 trending toward similar upgrades, which might warrant a higher price, considering that the recent Phone 2a was meant to serve as a more budget-friendly step down from the flagship Phone 2.
+
+ The Phone 3 could see a steeper starting price as the next full flagship model, especially if one of those changes comes in the form of a chip level-up.
+
+![Nothing Phone 2 on a glass tabletop](https://www.lifewire.com/thmb/PY8rVS-IBLbcIzX2pej9YWVT6Jg=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/NothingPhone2.7-bdc100925d154e10aa175c63ba8cddca.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Nothing Phone 2.
+
+Lifewire / Rob LeFebvre
+
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Pre-Order Information
+
+ The Nothing Phone 3 hasn't yet been announced by Nothing, which means we don't have any pre-order information. Once we know more, we’ll update details here, so stay tuned. We’ll also detail how widely available the Phone 3 will be for pre-ordering.
+
+## Nothing Phone 3 Specs and Features
+
+ Since the Phone 3 isn't an official product, it’s hard to say for sure what we’ll see in the Phone 3\. But here’s some reliable chatter so far.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### A Newer Chip (but Just How New)?
+
+ It’s still early stages, but a lot of buzz surrounds the processor Nothing will land on for its third-generation flagship phone.
+
+ The Phone 2 leveled up from the Phone 1’s Snapdragon 778G+ to the Snapdragon 8+ Gen 1\. Some speculation says that the Phone 3 will get a considerable upgrade. A leak on[91mobiles.com](https://www.91mobiles.com/hub/nothing-phone-3-india-price-range-snapdragon-8s-gen-3-chip-report/) points to a Phone 3 with a Snapdragon 8s Gen 3, two big rungs above the Phone 2’s processor.
+
+ Another speculation is that the[Phone 3 will stick to the trend of previous-generation chips](https://www.gizchina.com/2024/04/23/nothing-phone-3-expected-this-summer-but-not-a-flagship-killer/) , which would point toward a Snapdragon 8 Gen 2 Phone 3.
+
+### Better Battery
+
+ The Phone 2 made significant strides with a 4,700-mAh battery, an impressive boost compared to the Phone 1's 4500 mAh (for comparison, the iPhone 15 Plus has a 4,383-mAh battery). The newest model is likely to improve upon these gains and catch up with competitors by offering faster wired charging and bigger capacity.
+
+### Improved Camera
+
+ The dual-camera design of the Phone 1 and Phone 2 will likely carry over.[Phone Arena reports that the Phone 3 might get Sony's latest LYTIA sensor lineup](https://www.phonearena.com/nothing-phone-3-release-date-price-upgtades) , which could mean even more control and a richer photo-taking experience in various lighting conditions and environments.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Signature Glyph, Improved
+
+ While the overall look is likely going to remain untouched, If we had to put our money on one sure thing for the Phone 3, we’d say the signature Nothing Phone Glyph interface will see improvements akin to what we’ve seen from the Phone 1 to Phone 2\. The Phone 2 added six more LED panels, customizable notifications, and a composer for arranging ringtones.  
+
+![A render of the Nothing Phone 1 in black against a grey background. The rear Glyph lights are on and the home screen shows off the new features of Nothing OS 2.0. ](https://www.lifewire.com/thmb/RSttfod0lFQvSSIOh_trYZHRJnA=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/nothing-phone-update-a48070f52beb4a9d8c8792a6e44bb927.jpg)
+
+Nothing OS 2.0.
+
+Nothing
+
+### An Action Button
+
+ Nothing CEO Carl Pei teased several shots of an updated design on X. Though the below post asks for feedback on Nothing OS user interface updates, many suspect that Pei might have leaked the Nothing Phone 3.
+
+ In this rendering, it has an additional external button on the right side. Some speculate this button[could mimic the iPhone 15's Action Button](https://beebom.com/did-carl-pei-leak-nothing-phone-3-with-action-button/) .
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Integrated AI
+
+ Pei also released a video on X announcing the company's AI prototyping. Pei alluded to a[heavy AI presence on the Nothing Phone 3](https://www.lifewire.com/carl-pei-nothing-ai-phone-3-8658876) .
+
+ The only timing clue Pei offered was a "next year" tag for the slow rollout of AI, starting with the Nothing Phone 3.  
+
+ We’ll continue to make updates as we learn about more rumors, leaks, and official word from Nothing.
+
+## The Latest News About the Nothing Phone 3
+
+ You can find a lot more[smartphone news on Lifewire](https://www.lifewire.com/mobile-phones-4781509) . Here are several stories about previous Nothing Phone releases, rumors, and hands-on impressions.
+
+[Nothing's New Phone(2a) Drops in London, Dubai, and Delhi](https://www.lifewire.com/nothing-phone-2a-drops-8604335)
+
+[Hands On: Nothing Phone 2 Is a Gadget Lover's Dream Device](https://www.lifewire.com/nothing-phone-2-hands-on-impressions-7558679)
+
+[Nothing Phone 2 Gets a System Update With New Features and Camera Improvements](https://www.lifewire.com/nothing-phone-2-gets-a-system-update-with-new-features-and-camera-improvements-7562000)
+
+[Nothing's Phone (1) Is All About Those Lights](https://www.lifewire.com/nothings-phone-1-is-all-about-those-lights-5667426)
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-enhanced-team-collaboration-with-slack-plus-filmora-timelines/"><u>[New] 2024 Approved  Enhanced Team Collaboration with Slack + Filmora Timelines</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/iscover-the-best-8-mirrorless-cameras-that-transform-vlogging-for-2024/"><u>[New] Discover the Best  8 Mirrorless Cameras That Transform Vlogging for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-capturing-every-moment-with-switch-hd-tech/"><u>[New] In 2024, Capturing Every Moment with Switch HD Tech</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-through-the-codec-complexity-av1-vs-vp9/"><u>[New] Navigating Through the Codec Complexity  AV1 Vs. VP9</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastering-instagrams-most-appreciated-ae-layouts-for-2024/"><u>[Updated] Mastering Instagram's Most Appreciated AE Layouts for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-thorough-investigation-dji-inspire-1-reviewed/"><u>2024 Approved  Thorough Investigation  DJI Inspire 1 Reviewed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/beat-the-lag-in-fortnite-instant-fixes-for-optimal-gameplay-performance/"><u>Beat the Lag in Fortnite: Instant Fixes for Optimal Gameplay Performance!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-call-logs-on-oppo-reno-11-5g-by-fonelab-android-recover-call-logs/"><u>Complete guide for recovering call logs on Oppo Reno 11 5G</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/creative-image-distortion-a-compre-written-by-dr-john-doe/"><u>Creative Image Distortion  A Compre Written by Dr. John Doe</u></a></li>
+<li><a href="https://facebook.techidaily.com/decoding-fb-success-top-8-advantages-for-corporate-profiles-over-personal/"><u>Decoding FB Success: Top 8 Advantages for Corporate Profiles over Personal</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/decoding-roblox-connectivity-issues-how-to-tell-if-its-you-or-the-game-server/"><u>Decoding Roblox Connectivity Issues - How to Tell if It's You or the Game Server</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/defining-digital-culture-an-in-depth-exploration-of-memes/"><u>Defining Digital Culture: An In-Depth Exploration of Memes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/driving-performance-up-surface-pro-4-in-windows-os/"><u>Driving Performance Up: Surface Pro 4 in Windows OS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enhancing-your-super-bowl-experience-with-a-perfect-home-cinema-set-up/"><u>Enhancing Your Super Bowl Experience with a Perfect Home Cinema Set-Up</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/evolution-of-apples-ios-a-comprehensive-timeline-from-v10-through-v18n/"><u>Evolution of Apple's iOS: A Comprehensive Timeline From v1.0 Through v18.n</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/home-entertainment-ideas-how-to-set-up-a-successful-house-karaoke-night/"><u>Home Entertainment Ideas: How To Set Up A Successful House Karaoke Night</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-cast-disneys-entertainment-a-step-by-step-guide-to-chromecast-integration/"><u>How To Cast Disney's Entertainment: A Step-by-Step Guide to Chromecast Integration</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-resolve-issues-with-non-ejectable-cd-dvd-and-blu-ray-drives-in-computers/"><u>How to Resolve Issues with Non-Ejectable CD, DVD & Blu-Ray Drives in Computers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-successfully-concoct-awkward-potions-in-minecraft-without-a-hitch/"><u>How to Successfully Concoct Awkward Potions in Minecraft Without a Hitch</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/identifying-inauthentic-connection-invitations-a-guide/"><u>Identifying Inauthentic Connection Invitations: A Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-capturing-action-choosing-from-5-leading-game-stream-webcams/"><u>In 2024, Capturing Action  Choosing From 5 Leading Game Stream Webcams</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Honor Magic 6? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-prime-selection-optimal-free-and-paid-bd-players-for-windows-macos/"><u>In 2024, Prime Selection  Optimal Free & Paid BD Players for Windows, macOS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/inside-the-hype-unveiling-details-on-the-upcoming-samsung-galaxy-s25-price-leaks-and-official-launch-timeline-revealed/"><u>Inside the Hype: Unveiling Details on the Upcoming Samsung Galaxy S25 - Price Leaks & Official Launch Timeline Revealed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/live-coverage-of-mens-ncaa-tournament-march-madness-and-final-four-highlights/"><u>Live Coverage of Men's NCAA Tournament: March Madness & Final Four Highlights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/macbook-air-and-airpods-a-perfect-match-connecting-instructions/"><u>MacBook Air and AirPods: A Perfect Match - Connecting Instructions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-microsoft-teams-with-github-copilot-a-step-by-step-guide/"><u>Mastering Microsoft Teams with GitHub Copilot: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-the-world-of-samsung-smart-tv-apps-a-comprehensive-guide/"><u>Navigating the World of Samsung Smart TV Apps – A Comprehensive Guide</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/navigating-tiktok-crashes-fix-guide-for-androidios-users-for-2024/"><u>Navigating TikTok Crashes  Fix Guide for Android/iOS Users for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/retro-film-roundup-best-movies-from-the-80s-for-a-blast-from-the-past/"><u>Retro Film Roundup: Best Movies From the 80S for a Blast From the Past!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/striking-setups-to-impress-online-audiences-for-2024/"><u>Striking Setups to Impress Online Audiences for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-revolutionary-impact-of-ai-redefining-societys-future/"><u>The Revolutionary Impact of AI: Redefining Society's Future</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-vivo-v29e-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Vivo V29e Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-8-must-have-dual-sim-management-apps/"><u>Top 8 Must-Have Dual SIM Management Apps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-troubleshooting-and-fixing-helperdll-issues/"><u>Ultimate Guide: Troubleshooting and Fixing Helper.dll Issues</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/unlock-the-potential-of-your-website-with-personalized-advertising-powered-by-cookiebot/"><u>Unlock the Potential of Your Website with Personalized Advertising Powered by Cookiebot</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upcoming-meta-quest-3-launch-details-cost-announcement-timeline-and-hardware-specifications/"><u>Upcoming Meta Quest 3 Launch Details: Cost, Announcement Timeline & Hardware Specifications</u></a></li>
+</ul></div>

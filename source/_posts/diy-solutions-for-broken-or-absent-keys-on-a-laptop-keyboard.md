@@ -1,7 +1,7 @@
 ---
 title: DIY Solutions for Broken or Absent Keys on a Laptop Keyboard
-date: 2024-08-30T14:57:35.938Z
-updated: 2024-08-31T14:57:35.938Z
+date: 2024-09-04T01:12:07.143Z
+updated: 2024-09-05T01:12:07.143Z
 categories:
   - BestProducts
 description: This Article Describes DIY Solutions for Broken or Absent Keys on a Laptop Keyboard
@@ -79,10 +79,22 @@ of 09
 
 of 09
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [Memrise](https://www.memrise.com/)
 
 ![Memrise free language learning courses](https://www.lifewire.com/thmb/2wtAxiwxjUbfdOEZAsiDcyewFRI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/memrise-language-learning-courses-8fae9d27bfc04c5ea1a30b86a3e02ef0.png)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  What We Like
 
 * Speak with an AI-powered language tutor.
@@ -115,9 +127,6 @@ of 09
 
 ![StudyStack Kazakh language learning flashcards](https://www.lifewire.com/thmb/r3Flgq3_9nYQG2CHSelmZfZac9s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/studystack-kazakh-flashcards-824ce43a596749ba86a4691b64aae137.png)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
  What We Like
 
 * Community-created flashcards.
@@ -140,15 +149,15 @@ of 09
 of 09
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## [123TeachMe](https://www.123teachme.com/)
 
 ![123 Teach Me Spanish lessons for work](https://www.lifewire.com/thmb/EOA6d6D6lu-JlmXCDrz4sdwjZ4Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/123-teach-me-spanish-lessons-42f28b242cf0445db745d76528e8fe63.png)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  What We Like
 
 * Registration isn't required to start learning.
@@ -179,9 +188,6 @@ of 09
 
 ![Mango Languages Irish lesson](https://www.lifewire.com/thmb/GMJQXhwrtgMV-fX8tYWki-NylB4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mango-languages-learn-irish-64fa0a50f5e74f8890e288ee61875b8a.png)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  What We Like
 
 * Free in libraries and schools that offer the program.
@@ -206,13 +212,16 @@ of 09
 
 of 09
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ## [FSI Languages Courses](https://www.fsi-language-courses.org/)
 
 ![A list of the most popular language learning lessons at FSI Language Courses](https://www.lifewire.com/thmb/kxllpzsA_C08VvqBNw7T74kIMvI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/fsi-language-courses-9fffc26e481d40d3b6bee51bad0678ce.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  What We Like
 
 * Courses were used by the U.S. government for training.
@@ -235,13 +244,16 @@ of 09
 
 of 09
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## [LearnALanguage.com](https://www.learnalanguage.com/)
 
 ![learnalanguage options](https://www.lifewire.com/thmb/cIoZT0R5D-qf8EFyzsJL_7YeZMg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/learnalanguage-8b3ef3cadcbb48198b1b0554ab06f9b6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  What We Like
 
 * Some lessons are offbeat and fun.
@@ -265,12 +277,21 @@ of 09
 
 of 09
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [MIT OpenCourseWare](https://ocw.mit.edu/search/?d=Global%20Languages&s=department%5Fcourse%5Fnumbers.sort%5Fcoursenum)
 
 ![MIT OpenCourseWare Chinese language learning lessons](https://www.lifewire.com/thmb/1VIFfqh6uBPyhYGR2uICnmwq6fQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mitopencourseware-0fec61fb314f4ab895bcbb79a1ac119e.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  What We Like
 

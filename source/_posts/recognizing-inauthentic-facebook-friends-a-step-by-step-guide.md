@@ -1,7 +1,7 @@
 ---
 title: "Recognizing Inauthentic Facebook Friends: A Step-by-Step Guide"
-date: 2024-08-30T14:57:26.231Z
-updated: 2024-08-31T14:57:26.231Z
+date: 2024-09-04T01:12:07.297Z
+updated: 2024-09-05T01:12:07.297Z
 categories:
   - BestProducts
 description: "This Article Describes Recognizing Inauthentic Facebook Friends: A Step-by-Step Guide"
@@ -33,7 +33,10 @@ Close
 * **Private investigators** : Private investigators can use false profile friend requests to learn more information about you—the kind of information you normally restrict from public view and reserve for friends only.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  How to Spot a Fake Friend Request 
 
@@ -46,7 +49,10 @@ Close
 * **Is there little personal content on their timeline?** You likely won't see a lot of day-to-day activity on a fake profile because of the effort required to generate "real" content. You may see some pictures, perhaps some links, but you probably won't see many location check-ins or status updates. This may or may not be true for scammers of the catfishing type, as they may spend a lot of time and effort making their online personas seem as real as possible.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  What to Do With a Fake Friend Request 
 
@@ -55,7 +61,10 @@ Close
 ![Person viewing a social media profile on a smartphone](https://www.lifewire.com/thmb/6jisheWax_8d--rEBde3lJazSN8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1287186695-e166148abb6e43c7bbe7f2c5a9733ce2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Tero Vesalainen / Getty Images
 

@@ -1,0 +1,206 @@
+---
+title: Expert Advice on Handling STOP 0X000amodelError and Restoring Your PC's Stability
+date: 2024-09-04T01:18:27.510Z
+updated: 2024-09-05T01:18:27.510Z
+categories:
+  - BestProducts
+description: This Article Describes Expert Advice on Handling STOP 0X000amodelError and Restoring Your PC's Stability
+excerpt: This Article Describes Expert Advice on Handling STOP 0X000amodelError and Restoring Your PC's Stability
+thumbnail: https://www.lifewire.com/thmb/isn0ko2HLlTK7WUnMbUXQcunVqg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/blue-screen-of-death-bsod-windows-56a6faab3df78cf772913ee6.png
+---
+
+## Revamp Your File Organizer's Appearance - Changing Folder Colors on a Mac
+### What to Know
+
+* First,**copy** folder >**Preview app** \> go to**File** \>**New from Clipboard** \>**Markup tool** icon.
+* Then,**Adjust Color** icon > adjust with**tint slider** \> copy colored folder >_Folder_ Info box \> select folder >**paste** .
+* You can also use apps like Folder Color to automate the process.
+
+ This article explains how to use Mac's built-in Preview app to color-code your folders to any hue in the rainbow, or even replace the default folder icons with your own images. If that's too complicated, you can also accomplish the same task much faster with a premium app from the[App Store](https://www.lifewire.com/using-mac-app-store-4171845) .
+
+## Ways to Customize Folder Colors on Mac
+
+ Folders in[macOS](https://www.lifewire.com/what-is-macos-4691239) are all a pleasant shade of blue, which can lead to a sea of sameness on your desktop that eventually becomes difficult to navigate. If you have a few important ones you want to keep track of, you can change folder color on Mac without too much trouble.
+
+ Apple gives you a few different ways to change folder colors in macOS, and you can also use custom non-folder icons in place of the traditional folder icon. Here are the main ways to customize your folder icons:
+
+* **Use the built-in Preview app** : This method uses the Preview app to tweak the color of a folder icon.
+* **Copy a different image using the Preview app** : This method copies a photo or icon using the Preview app, so it can change the color of a folder icon, replace it with an image, or even replace it with a custom icon.
+* **Use a premium app like Folder Color** : This method requires a premium app like Folder Color, which you can buy from the App Store. It automates the process and makes it easier.
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="80" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## How to Change Folder Color on Mac Using Preview
+
+ Using the Preview app, you can customize the color of any folder. This is a multi-step process that's complicated enough that you will probably have to refer to this guide the first couple times you do it, but it isn't difficult.
+
+1. **Right-click** or**control-click** on the folder you want to customize.  
+![A screenshot of the macOS desktop.](https://www.lifewire.com/thmb/5aajzf5Id9EX9_Zuji1fQu77zIU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2020-06-25at6.02.02PM-0c7b8bc9a4144830a62b6e87c786aeba.png)
+2. Select**Get Info** from the context menu.  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![A screenshot of a folder context menu.](https://www.lifewire.com/thmb/GEn2Q5Tf1SHsQ9NN3z3au9B37ek=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-ChangeFolderColoronMac-annotated-3385fa419f404cbe941ce346ca4fff72.jpg)
+3. Click the**folder icon** in the upper left of the folder info window so that it is highlighted.  
+![A screenshot of the folder info box on macOS.](https://www.lifewire.com/thmb/3dEqd1G-bbtDdiGsMpSUPtPn-sA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-ChangeFolderColoronMac-annotated-bf971c3eafea41448cee2071f8520c6e.jpg)
+4. Click**Edit** in the menu bar near the top left of the screen and select**Copy** from the drop down menu.  
+![A screenshot of copying an icon on macOS.](https://www.lifewire.com/thmb/4puIgoAvE_ObPrZ4A1_Ht2wNxyQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A4-ChangeFolderColoronMac-annotated-30f95819009f4d888881324def4972cb.jpg)
+5. Locate and open the**Preview** app.  
+![A screenshot of the Applications folder on macOS.](https://www.lifewire.com/thmb/QLXtd-veloVkY8ge5HI9PdIVlA0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A5-ChangeFolderColoronMac-annotated-8465f773aeb74caa9b1dbc0525a419ef.jpg)
+6. With Preview open, click**File** in the menu bar.  
+![The File menu in the Preview app on macOS.](https://www.lifewire.com/thmb/qiZ22LU6m8SiaCUJcNrGLv6kQfk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A6-ChangeFolderColoronMac-annotated-3092277a9357429fa325ccba6b0cb43f.jpg)
+7. Select**New from Clipboard** .  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![New from Clipboard menu item selected in the Preview app on macOS.](https://www.lifewire.com/thmb/jt8ez5osO5KQwiJ5sJdYieKWXTA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A7-ChangeFolderColoronMac-annotated-9876657f8d3f41399b918e61bfb39023.jpg)
+8. Select the**Markup tool** (looks like the tip of a pencil).  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![The Markup tool highlighted in the Preview app on macOS.](https://www.lifewire.com/thmb/l3BVxdPgJm5W8koZRv2XglMO_Os=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A8-ChangeFolderColoronMac-annotated-0249c263cdfc438b89827e3df055280d.jpg)
+9. Select the**Adjust Color** icon, which looks like three sliders or a prism with light passing through it.  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![The Adjust color tool highlighted in the Preview app on macOS.](https://www.lifewire.com/thmb/TMySW-VtU7UNm-ziPdu5TA9ECjY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A9-ChangeFolderColoronMac-annotated-13601116017d42e89eb5c1ac3b9a7d59.jpg)
+10. In the Adjust Color window, adjust the**Tint** ,**Saturation** ,**Tempurature** , and**Sepia** sliders to get a color you want, and then close the window.  
+![A screenshot of Tint slider in Preview app on macOS.](https://www.lifewire.com/thmb/WmhDBeevux4zXDNtHs9-i4BqrBM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A10-ChangeFolderColoronMac-annotated-1e5ee4342431465a953da0717e62b70f.jpg)  
+ Want more options? You can paste the folder icon into any image-editing software you have.
+11. Select the colored folder, and press**Command+C** to copy it.  
+![A screenshot of copying from Preview on macOS.](https://www.lifewire.com/thmb/ldf1VkMQPfhuL1qS5bP9aKcyjos=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1-003a69e747f84b01a9b4ad148b9071cf.jpg)
+12. Return to the Folder Info box from earlier. If you have closed it, get it back by right-clicking the folder you are trying to customize.
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+13. Click the folder in the Folder Info box, and press**Command+V** .  
+![A screenshot of a customized folder color on macOS.](https://www.lifewire.com/thmb/VI5EKewsKE1LGj0OEbsL44ijJnY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A13-ChangeFolderColoronMac-annotation-5bd8b4aff78648508db5492dbe49a580.jpg)
+14. You can now close the Folder Info box, and your folder will have the new color. If you want, you can repeat this process to customize as many folders as you like.
+
+## Customizing Folders With Images and Icons
+
+ You can[customize your folders with your own images and custom icons](https://www.lifewire.com/personalize-mac-by-changing-desktop-icons-2260911) using this same basic process.
+
+ Instead of pasting a copy of your original folder into Preview, you need to open a photo or icon with Preview, and copy it. You can then paste it into the Folder Info box just like you did in step 11 above.
+
+ These steps will replace the original folder icon with a custom photo or any other icon you like.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Changing Folder Colors on Mac With Apps
+
+ If the process outlined above seems too complicated or time consuming, you will find apps like[Folder Color](https://apps.apple.com/us/app/folder-color-design-custom-folder-icons/id918402174?mt=12) in the app store that are designed to automate the process.
+
+ Folder Color in particular allows you to change the color of a folder, add small icons and decorations to a folder, replace a folder with an image, or even quickly edit one of your images into the shape of a folder.
+
+[How to Change Folder Icons on a Mac](https://www.lifewire.com/change-folder-icons-on-a-mac-5199936)
+
+ FAQ
+
+* How do you delete folders on a Mac?  
+ Right-click the folder you want to delete and select**Move to Trash** . To permanently delete the folder from your trash, select the**Trash can** icon and choose**Empty** .
+* How do you make a new folder on a Mac?  
+ Click anywhere on your desktop screen. In the top menu, select**File** \>**New Folder** . The folder will appear on your desktop, allowing you to rename it and drag in files or images.
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-farming-secrets-stardew-on-ginger-isles/"><u>[New] Farming Secrets  Stardew on Ginger Isles</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-best-time-lapse-tools-and-techniques-no5/"><u>[New] In 2024, Best Time-Lapse Tools & Techniques - No.5</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-eye-twinkling-jokes-generate-on-kapwing/"><u>[Updated] Eye-Twinkling Jokes  Generate on Kapwing</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-transform-overload-into-order-with-skillful-tiktok-saves-edits/"><u>[Updated] Transform Overload Into Order with Skillful TikTok Saves Edits</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-ultimate-scene-seizing-exploration/"><u>[Updated] Ultimate Scene Seizing Exploration</u></a></li>
+<li><a href="https://common-error.techidaily.com/achieve-seamless-xbox-one-operation-on-computer/"><u>Achieve Seamless Xbox One Operation on Computer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/achieving-ultra-smooth-gameplay-mastering-120fps-gaming-on-ps5/"><u>Achieving Ultra-Smooth Gameplay: Mastering 120Fps Gaming on PS5</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/becoming-a-reaction-guru-a-complete-guidebook-for-2024/"><u>Becoming a Reaction Guru  A Complete Guidebook for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722887765907-before-you-invest-in-a-smart-tv-here-are-7-crucial-things-to-know-first/"><u>Before You Invest in a Smart TV? Here Are 7 Crucial Things to Know First</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-tips-to-resolve-missing-xinput1ndll-files/"><u>Comprehensive Tips to Resolve Missing Xinput1_n.dll Files</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/erasing-your-digital-footprint-a-comprehensive-guide-to-deleting-your-yahoo-mail-account/"><u>Erasing Your Digital Footprint: A Comprehensive Guide to Deleting Your Yahoo Mail Account.</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/exchange-repair-mastery-successful-interventions/"><u>Exchange Repair Mastery: Successful Interventions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-progress-of-5g-with-a-focus-on-verizons-contributions/"><u>Exploring the Progress of 5G with a Focus on Verizon's Contributions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fixing-the-single-channel-headset-for-2024/"><u>Fixing the Single-Channel Headset for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-best-gaming-experience-steelseries-arctis-5-driver-installation-tutorial/"><u>Get the Best Gaming Experience: SteelSeries Arctis 5 Driver Installation Tutorial</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/holdscreen-rapid-snapshot-manual-for-2024/"><u>HoldScreen  Rapid Snapshot Manual for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-honor-x50-gt-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Honor X50 GT</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-realme-11-proplus-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Realme 11 Pro+ Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-oppo-f23-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Oppo F23 5G FRP Bypass</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/insights-into-how-mobile-network-companies-work-and-serve-you/"><u>Insights Into How Mobile Network Companies Work and Serve You</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/integrating-advanced-movie-capture-on-diverse-tech-environments-for-2024/"><u>Integrating Advanced Movie Capture on Diverse Tech Environments for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/iphone-evolution-continues-analyzing-the-advancements-in-the-new-iphone-15-plus-and-pro-max-models/"><u>IPhone Evolution Continues: Analyzing the Advancements in the New iPhone 15 Plus and Pro Max Models</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/make-an-informed-choice-discover-8-important-aspects-before-getting-your-next-desktop-unit/"><u>Make an Informed Choice: Discover 8 Important Aspects Before Getting Your Next Desktop Unit</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/must-watch-tech-moves-inside-knowledge-on-top-3-emerging-technologies/"><u>Must-Watch Tech Moves: Inside Knowledge on Top 3 Emerging Technologies</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/netflix-not-playing-master-these-1nine-techniques-to-enhance-viewing-on-lg-tvs/"><u>Netflix Not Playing? Master These 1Nine Techniques to Enhance Viewing on LG TVs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722889122080-revolutionize-your-home-painting-with-these-5-must-have-apps/"><u>Revolutionize Your Home Painting with These 5 Must-Have Apps!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/smart-texting-how-to-stay-connected-without-blowing-your-cell-phone-plan/"><u>Smart Texting: How to Stay Connected Without Blowing Your Cell Phone Plan</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-activatingdeactivating-the-touch-typing-display-on-windows-10/"><u>Step-by-Step Guide: Activating/Deactivating the Touch Typing Display on Windows 10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-clearing-your-macos-dns-records/"><u>Step-by-Step Guide: Clearing Your macOS DNS Records</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-process-of-linking-your-nintendo-switch-to-a-television/"><u>Step-by-Step Process of Linking Your Nintendo Switch to a Television</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/steps-to-install-a-new-browser-in-place-of-the-default-one-on-your-smart-tv/"><u>Steps to Install a New Browser in Place of the Default One on Your Smart TV</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-easy-way-to-share-screens-with-your-lg-smart-tv/"><u>The Easy Way to Share Screens with Your LG Smart TV</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-4-methods-for-capturing-screenshots-on-windows-11-a-comprehensive-guide/"><u>Top 4 Methods for Capturing Screenshots on Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/turning-off-sticky-key-functionality-on-your-pc-running-windows-simple-methods-explained/"><u>Turning Off Sticky Key Functionality on Your PC Running Windows – Simple Methods Explained</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-the-secret-seeing-instagram-without-being-logged-in/"><u>Unlock the Secret: Seeing Instagram without Being Logged In</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-the-secrets-eight-steps-to-boost-your-videos-virality-on-youtube/"><u>Unlocking the Secrets: Eight Steps to Boost Your Video's Virality on YouTube</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unpacking-the-need-for-diversification-in-tech-after-recent-microsoft-service-interruptions/"><u>Unpacking the Need for Diversification in Tech After Recent Microsoft Service Interruptions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722889481984-unveiling-2024s-a-list-top-network-server-racks-and-secure-cabinets-compared/"><u>Unveiling 2024'S A-List: Top Network Server Racks and Secure Cabinets Compared</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/updated-drivers-for-canon-mp250-download-tutorial-and-step-by-step-update-guide/"><u>Updated Drivers for Canon MP250: Download Tutorial and Step-by-Step Update Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/virtual-shopping-spree-for-gamers-secrets-of-buying-games-on-the-oculus-quest-2-platform/"><u>Virtual Shopping Spree for Gamers: Secrets of Buying Games on the Oculus Quest 2 Platform</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: How to Fix a Computer That Turns on but Displays Nothing
-date: 2024-08-30T14:54:35.101Z
-updated: 2024-08-31T14:54:35.101Z
+date: 2024-09-04T01:12:09.705Z
+updated: 2024-09-05T01:12:09.705Z
 categories:
   - BestProducts
 description: This Article Describes How to Fix a Computer That Turns on but Displays Nothing
@@ -27,7 +27,10 @@ thumbnail: https://www.lifewire.com/thmb/zRAsXpAQ4JBAf3Kn2f07IUqn1Ro=/400x300/fi
  To make your phone last as long as possible, we recommend protecting it with[a case](https://www.lifewire.com/best-android-cases-4050600) ,[cleaning it regularly](https://www.lifewire.com/how-to-clean-phone-screen-4688907) ,[freeing up storage space](https://www.lifewire.com/free-up-space-on-android-5101088) when you're low, being smart about security,[staying up to date with your operating system](https://www.lifewire.com/update-your-android-os-121662) , and only getting repairs from authorized providers.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2031472/7443" target="_top" id="2031472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2031472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2031472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How Often Should You Get a New Phone?
 
@@ -42,7 +45,10 @@ thumbnail: https://www.lifewire.com/thmb/zRAsXpAQ4JBAf3Kn2f07IUqn1Ro=/400x300/fi
  You should also pay attention to any contracts you signed with your current phone company. Depending on promotions and the terms of your current plan, there may be restrictions on how often you can upgrade.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Do You Need to Upgrade Your Android Smartphone?
 

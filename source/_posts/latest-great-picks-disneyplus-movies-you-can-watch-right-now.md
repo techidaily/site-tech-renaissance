@@ -1,7 +1,7 @@
 ---
 title: "Latest Great Picks: Disney+ Movies You Can Watch Right Now"
-date: 2024-08-30T14:57:32.214Z
-updated: 2024-08-31T14:57:32.214Z
+date: 2024-09-04T01:12:07.206Z
+updated: 2024-09-05T01:12:07.206Z
 categories:
   - BestProducts
 description: "This Article Describes Latest Great Picks: Disney+ Movies You Can Watch Right Now"
@@ -80,8 +80,10 @@ of 24
 ![Hamilton promotional image](https://www.lifewire.com/thmb/fQFXQRg2mCF9bjZ-GVvndMYTmX0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_best-disney-plus-movies-right-now-4846938-1a3dcd75d17c4182b6f1b2759849c4e2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Disney Plus
 
@@ -108,7 +110,16 @@ Disney Plus
 of 24
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<span id="1328683">
+					<video width="125" height="125" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## [ Hidden Figures (2016): Most Inspirational Story About Unsung American Heros](https://www.imdb.com/title/tt4846340/) 
 
@@ -138,16 +149,10 @@ of 24
 
 of 24
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ## [ Isle of Dogs (2018): Best Stop-Motion Comedy for Older Audiences](https://www.imdb.com/title/tt5104604/) 
 
 ![Isle of Dogs](https://www.lifewire.com/thmb/ojDzBYRz6JIKdqhiaAvLa81xjgc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-2fdf69a144ef4adb93e5bdf782058b4b.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Disney
 
 **IMDb Rating** : 7.8/10
@@ -172,6 +177,12 @@ _Isle of Dogs_ isn't a movie for young children, but the humor is tame enough fo
 
 of 24
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [ Remember the Titans (2000): Best Feel-Good Sports Movie](https://www.imdb.com/title/tt0210945/) 
 
 ![Remember the Titans promotional poster](https://www.lifewire.com/thmb/2vTHSQLJKsBjzLSrrXNKsWvis10=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/011_the-16-best-disney-plus-movies-right-now-july-2020-4846938-5324d68d318c43ad93b02e1bffd82337.jpg) 
@@ -200,12 +211,21 @@ Disney
 
 of 24
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [ Shang-Chi and the Legend of the Ten Rings (2021): Marvel's Best Take on the Martial Arts Genre](https://www.imdb.com/title/tt9376612/) 
 
 ![The cast of Shang-Chi And The Legend Of The Ten Rings](https://www.lifewire.com/thmb/GbZizwfgqHQYX9t0zYUsGxEJNWg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_the-best-disney-plus-movies-right-now-november-2021-4846938-a6f4ca72ac4f4e8bacb4c3b03e5781f0.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Disney Plus
 
@@ -231,13 +251,16 @@ _Shang-Chi_ is a Marvel movie with big-budget special effects and action sequenc
 
 of 24
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [ Luca (2021): Best Original Fairy Tale Based on Italian Folklore](https://www.imdb.com/title/tt12801262/) 
 
 ![Luca floats on his back in Disney's Luca](https://www.lifewire.com/thmb/Q2MTA0LUmLDIMZcNUH7SbX14EXc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_best-disney-plus-movies-right-now-4846938-b2b500daaae94653865be829501e9937.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 Disney Plus
 
 **IMDb Rating** : 7.4/10
@@ -266,9 +289,6 @@ of 24
 
 ![Avatar: The Way of the Water](https://www.lifewire.com/thmb/SgdoFwA7_bmzQrmYBmv6e_2T-qA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-disney-plus-movies-right-now-4846938-dc4abb332423405ab7e701615c3cacea.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Disney
 
 **IMDb Rating** : 7.6/10
@@ -293,13 +313,16 @@ Disney
 
 of 24
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [ Cruella (2021): Best Classic Disney Villain Origin Story](https://www.imdb.com/title/tt3228774/) 
 
 ![Emma Stone as Cruella](https://www.lifewire.com/thmb/nAyFA51lHXTf3YZT0Wz01Y_IVaM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Cruella-d678dd3c086942d28a00f3e04a648849.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 **IMDb Rating** : 7.3/10
 
 **Genre** : Comedy, Crime
@@ -323,15 +346,15 @@ of 24
 of 24
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## [ Adventure Thru the Walt Disney Archives (2020): Best Behind-the-Scenes Look at Disney Studios](https://www.imdb.com/title/tt15222206/) 
 
 ![Walt Disney Archives](https://www.lifewire.com/thmb/Arfgw72XVj0y-8PGkuBgz27sSWk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_best-disney-plus-movies-right-now-4846938-2bcea74bb9084878a206fae2cd02f0ff.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Disney
 
 **IMDb Rating** : 7.2/10
@@ -356,6 +379,12 @@ Disney
 
 of 24
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [ Encanto (2021): An Original Fairy Tale Based on Colombian Folklore](https://www.imdb.com/title/tt2953050/) 
 
 ![The animated cast of Encanto 2021](https://www.lifewire.com/thmb/OBlZJC6nVgDpUryjwCgrDUHtYsc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-disney-plus-movies-right-now-december-2021-cdd3183b0a054a3f8003572e01fd06df.jpeg) 
@@ -384,6 +413,12 @@ Disney
 
 of 24
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [ The Little Mermaid (2023): A Faithful Remake of a Beloved Musical](https://www.imdb.com/title/tt5971474/) 
 
 ![Halle Bailey in Little Mermaid 2023](https://www.lifewire.com/thmb/jLN9L6OFbvTQBEeaiWbESNmmAQE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-disney-plus-movies-right-now-4846938-6783e356feb74fb7a09b84953620c5ed.jpg) 
@@ -441,12 +476,21 @@ Disney
 of 24
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## [ Werewolf by Night (2022): Marvel Reimagines Old Hollywood Horror](https://www.imdb.com/title/tt15318872/) 
 
 ![Marvel's Werewolf by Night special presentation](https://www.lifewire.com/thmb/j2q8YnD1FIHm0VFAaoWmMBMYKuI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-disney-plus-movies-right-now-november-2022-4846938-c1d21c1d790345e281394c6309d56cca.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Disney Plus
 
 **IMDb Rating** : 7.1/10
@@ -500,16 +544,20 @@ _Beauty and the Beast: A 30th Celebration_ originally aired live on ABC, but you
 of 24
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## [ Doctor Strange In The Multiverse Of Madness (2022): The Marvel Cinematic Universe Just Got Bigger](https://www.imdb.com/title/tt9419884/) 
 
 ![Benedict Cumberbatch in Dr. Strange in the Multiverse of Madness](https://www.lifewire.com/thmb/3HUL1ly-DTkpdCct9piIRVNOh80=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-disney-plus-movies-right-now-july-2022-4846938-5827b165dcc54a8e942f348a43147da6.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Disney
 
@@ -540,7 +588,10 @@ of 24
 ![A still from Marvel's Black Widow, with Scarlett Johansson and Florence Pugh](https://www.lifewire.com/thmb/w2qPSXOjc995l2IVowWRavVwxAM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/BlackWidowandYelena-61008e80ec1b4eb58b455c4d31882378.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **IMDb Rating** : 6.7/10
 
@@ -562,16 +613,10 @@ of 24
 
 of 24
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ## [ West Side Story (2021): Most Ambitious Musical Adaptation](https://www.imdb.com/title/tt3581652/) 
 
 ![Ansel Elgort and Rachel Zegler in West Side Story](https://www.lifewire.com/thmb/ZFIAobDOnSAT8IhxVJhtWwT1ozY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_best-disney-plus-movies-right-now-4846938-00fab03675f34aaaa5f60fe89fa38b89.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Disney Plus
 
 **IMDb Rating** : 7.1/10
@@ -600,6 +645,18 @@ of 24
 
 ![Beyonce in Black Is King](https://www.lifewire.com/thmb/nxjfGRuYNOpi8NeAjodF6pA_3Ng=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_best-disney-plus-movies-right-now-4846938-56904032ea3c4702b702aeca6edd4a64.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="120" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Disney Plus
 
 **IMDb Rating** : 5.9/10
@@ -624,15 +681,21 @@ Disney Plus
 
 of 24
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## [ Flamin' Hot (2023): A Spicy Take on a True Story](https://www.imdb.com/title/tt8105234/) 
 
 ![Jesse Garcia in Flamin' Hot](https://www.lifewire.com/thmb/Vv91kOxlvsDFmeC6SZUby7Xwmuo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-disney-plus-movies-right-now-4846938-3bbe85de4c9b44e18a126b6ad66d2ddf.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="540" height="960" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Disney
 
@@ -659,7 +722,10 @@ Disney
 of 24
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2030370/7443" target="_top" id="2030370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## [ Muppets Haunted Mansion (2021): Spookiest Original Disney Plus Muppet Special](https://www.imdb.com/title/tt14602326/) 
 
@@ -689,9 +755,6 @@ _Muppets Haunted Mansion_ is an instant holiday classic made for audiences of al
 
 of 24
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ## [ Thor: Love and Thunder (2022): The Gods Crash Phase 4 of the MCU](https://www.imdb.com/title/tt10648342/) 
 
 ![Chris Hemsworth in Thor Love and Thunder](https://www.lifewire.com/thmb/N3nfKTTACUsrfJH3nzzUuihO_KA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-disney-plus-movies-right-now-october-2022-4846938-a9b59d8e222145409d30b7721688e081.jpg) 
@@ -718,10 +781,22 @@ _Love and Thunder_ maintains the same balance of action and humor in previous_Th
 
 of 24
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [ Ant-Man and the Wasp: Quantumania (2023): A New Villain Invades the MCU](https://www.imdb.com/title/tt10954600/) 
 
 ![Ant-Man and the Wasp: Quantumania](https://www.lifewire.com/thmb/ugpTi4_2pz3VU7uE1QgXv5p-9qQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-disney-plus-movies-right-now-4846938-8b5558d07684445cba96ed01bf0a9db7.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Disney Plus. 
 
 **IMDb Rating** : 6.1/10

@@ -1,7 +1,7 @@
 ---
 title: An Introductory Overview Into Maintaining an Open Web with Net Neutrality
-date: 2024-08-30T14:58:12.348Z
-updated: 2024-08-31T14:58:12.348Z
+date: 2024-09-04T01:12:06.648Z
+updated: 2024-09-05T01:12:06.648Z
 categories:
   - BestProducts
 description: This Article Describes An Introductory Overview Into Maintaining an Open Web with Net Neutrality
@@ -37,7 +37,10 @@ thumbnail: https://www.lifewire.com/thmb/bUXbX9S7piPA_AilWCyzuqH420s=/400x300/fi
 6. Now, if a game has an option for 120 frames per second and you turn it on, your PS5 will output at that rate.
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## What You Need to Get 120 FPS on PS5
 
@@ -50,7 +53,10 @@ thumbnail: https://www.lifewire.com/thmb/bUXbX9S7piPA_AilWCyzuqH420s=/400x300/fi
  Lastly, keep in mind that not every game supports 120 FPS. You won't typically see that information on the game box, unfortunately, but you should find it in shop listings. And, of course, you can check the menus for a 120 FPS option.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Which PS5 Games Support 120 FPS?
 

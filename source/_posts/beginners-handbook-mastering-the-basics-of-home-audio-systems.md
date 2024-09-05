@@ -1,7 +1,7 @@
 ---
 title: "Beginner's Handbook: Mastering the Basics of Home Audio Systems"
-date: 2024-08-30T14:57:44.291Z
-updated: 2024-08-31T14:57:44.291Z
+date: 2024-09-04T01:12:07.041Z
+updated: 2024-09-05T01:12:07.041Z
 categories:
   - BestProducts
 description: "This Article Describes Beginner's Handbook: Mastering the Basics of Home Audio Systems"
@@ -26,6 +26,12 @@ thumbnail: https://thmb.techidaily.com/e0d972d2fcbdfdcba3e132e48f8036c4f80fa7e20
 * **Speakers** : Stereo systems require two speakers, one for the left channel and another for the right.
 * **Sources** : Sources provide access to music content. You must plug in external sources on systems with an integrated amplifier. If the system has a receiver, it will have a built-in tuner and, in some cases, Bluetooth or [internet streaming](https://www.lifewire.com/internet-streaming-how-it-works-1999513) . Other sources need to be connected.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Pre-Packaged Stereo Systems
 
  If you're a casual listener, have a small room, or are on a limited budget, a compact pre-packaged system may be the optimal choice. It provides everything you need (including an amplifier, radio tuner, receiver, and speakers) to listen to music.
@@ -33,33 +39,36 @@ thumbnail: https://thmb.techidaily.com/e0d972d2fcbdfdcba3e132e48f8036c4f80fa7e20
 ![Denon DT-1 Mini-System](https://www.lifewire.com/thmb/DTniSkXE9pLE4BURYEi5rT48_Iw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Denon-DT-1-example-348d384b988941d1b26a5adb41043d81.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Denon / Sound United
 
  Depending on the system, additional features can include a built-in CD player, extra inputs for connecting one or more external sources, and Bluetooth to stream music wirelessly. However, one downside of this is that these systems might not have adequate power or good-enough speakers to provide high-quality sound for a larger room.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Assemble Your Own System
 
  You can assemble a system using a separate [receiver or integrated amplifier](https://www.lifewire.com/intro-to-audio-components-3134840) , speakers, and source devices. This type of system provides flexibility for your preferences and budget, as you can choose the individual components and speakers you want.
 
 ![Onkyo TX-8220 Stereo Receiver Front and Rear Views](https://www.lifewire.com/thmb/D_czWjDI-kNBd-5BKczcroVzAtM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Onkyo-TX-8220-front-rear-alt-bbb-2fee10f622de4acd83b4ef4d2c32fad3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Onkyo USA
 
  This increased flexibility may result in your system taking up more space than a pre-packaged system, and adding to your expenses as you customize and upgrade.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Stereo Receiver Core Features
 
@@ -71,6 +80,18 @@ Onkyo USA
 
  The higher the quality of a stereo receiver, the better it is at keeping its different internal components from interfering with each other. In lower quality receivers, this lack of compartmentalization can cause unwanted audio distortion.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="540" height="810" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Additional Stereo Receiver Connection Options
 
  The connection options you may find on a stereo receiver include:
@@ -91,23 +112,14 @@ A 2.1 channel setup is a stereo system with a subwoofer.
 
 ![Onkyo TX-8270 2-Channel Network Stereo Receiver](https://www.lifewire.com/thmb/OJdat3heod-F6yjKRlwnE2tWrGU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/onkyo-tx-nr-8270-front-rear-aaa-58ed29843df78cadab02b2fd.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Onkyo, USA
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Speaker Types and Placement
 
 [Speakers](https://www.lifewire.com/all-about-speakers-4125129) come in various loudspeaker types and sizes, and [speaker placement is essential](https://www.lifewire.com/placing-speakers-correctly-3134857) . If you have limited space, bookshelf speakers may be the best option. Consider[floor-standing speakers](https://www.lifewire.com/floorstanding-and-bookshelf-loudspeaker-answers-4115990) for a large room, especially if the receiver doesn't have a subwoofer output.
 
 ![Cerwin Vega VE Series and LG Tall Boy Speakers](https://www.lifewire.com/thmb/BYqmJd3xQFZd9vKGEpJUaFgPf3I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cv_ve-series_lg-tall-boy-aaa-58333ca95f9b58d5b15ff7f6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 Cerwin Vega and LG
 
  It's best to place the speakers about six to eight feet apart (about three to four feet from the center of a front wall) or in a front corner. However, don't place speakers flat against a wall or corner. You need space between the speaker and the wall or corner.
@@ -140,7 +152,10 @@ Cerwin Vega and LG
  Make sure any video connections on the stereo receiver are compatible with the video connections of the source.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Stereo System vs. Surround Sound
 
@@ -154,6 +169,12 @@ Dolby Labs
 
  Home theater receivers can also process stereo signals for distribution to five or more channels using Dolby ProLogic II, IIx, [DTS Neo:6](https://www.lifewire.com/dts-neo-6-1846892) , or other audio processing. It provides more immersive music listening but changes the character of the original music mix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030373/7443" target="_top" id="2030373">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030373" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030373/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Bottom Line
 
  Before you reach into your wallet, consider the following:

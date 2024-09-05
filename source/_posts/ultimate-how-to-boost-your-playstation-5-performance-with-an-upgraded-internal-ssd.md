@@ -1,7 +1,7 @@
 ---
 title: "Ultimate How-To: Boost Your PlayStation 5 Performance with an Upgraded Internal SSD"
-date: 2024-08-30T14:57:42.409Z
-updated: 2024-08-31T14:57:42.409Z
+date: 2024-09-04T01:12:07.059Z
+updated: 2024-09-05T01:12:07.059Z
 categories:
   - BestProducts
 description: "This Article Describes Ultimate How-To: Boost Your PlayStation 5 Performance with an Upgraded Internal SSD"
@@ -40,9 +40,6 @@ Rob Rich/Lifewire
 
  The next steps will depend on whether you have a launch version or the newer Slim model of the PS5.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  How to Install a New SSD in a PS5 Launch Console 
 
  With your PS5 console, clean surface, and screwdriver ready, it’s time to get to work.  
@@ -52,29 +49,47 @@ Rob Rich/Lifewire
 ![upside down PS5 console next to removed base](https://www.lifewire.com/thmb/7v8OaPPQBNWtSSdZecjNDIaU1rc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ps502-3d42b8c405ad4a74acaac480cea2d4eb.JPG)  
 Rob Rich/Lifewire
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 2. Get your fingers under the top-left corner of the PS5’s cover, gently pull up, and then slide it to the right to unseat it.  
 ![PS5 with partially removed bottom cover piece](https://www.lifewire.com/thmb/DhqL5OfgaoSmxq7eThzy1X3-19Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ps503-766f512399dc43f5b7a4dd6273ccc877.JPG)  
 Rob Rich/Lifewire
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 3. Slowly slide the cover piece off to remove it entirely.
 4. Find the expansion slot (a long and narrow metal cover) toward the front of the open console, just in front of the fan exhaust.  
 ![A launch-edition PS5 with the expansion slot highlighted](https://www.lifewire.com/thmb/kTNrs6Qh5WU9sU3JA63Mi2BGCCw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/PS5-Launch-expansion-slot-41533e8c65cf4aa587b0fc842768777d.jpg)  
 Rob Rich/Lifewire
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5. Loosen and remove the expansion slot’s screw (with the PlayStation symbols on it), and then pull the slot cover slightly to your left and lift it off.  
 ![loosening the expansion slot screw with a screwdriver](https://www.lifewire.com/thmb/eTNdCWWtJHn56YjA5UC1hR6Rlu4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ps505-d246755f5b6547d4ba422b407f951d1f.JPG)  
 Rob Rich/Lifewire
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 6. Remove the smaller expansion slot screw along with the metal spacer ring beneath it.  
 ![removing the inner expansion slot screw and spacer ring](https://www.lifewire.com/thmb/mRwa0xJ5BN7B3-1NkHie60j5nQg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ps507-1645fa76ec43488d905feb813d5e9fc0.JPG)  
 Rob Rich/Lifewire
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<span id="1912746">
+					<video width="150" height="125" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 7. Line the spacer ring up with the expansion slow screw hole that matches the size of your SSD. You may want to hold the SSD up to the expansion slot to double-check the fit.  
 ![A PS5 expansion slot with the screw holes highlighted](https://www.lifewire.com/thmb/qJH9B_a4hchB75RdEwVg3LdYTW8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Expansion-holes-PS5-5be6cc58831940a8a05056e89039ce95.jpg)  
@@ -86,17 +101,23 @@ Rob Rich/Lifewire
 ![screwing in the new SSD](https://www.lifewire.com/thmb/Ar4eheOHhRZ2zVXiF0ZbH88QH6Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ps512-cb195b4417ff4b7cb65efcfb64b16f5e.JPG)  
 Rob Rich/Lifewire
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 10. Slide the expansion slot cover into place, and then screw the larger expansion slot screw (with all the PlayStation symbols) back in.  
 ![replacing expansion slot cover](https://www.lifewire.com/thmb/hVZMs2-ruRXal1s4skWfgrQQHKw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ps506-9a137d0f02c84ffaa7f8d7d742c3afd2.JPG)  
 Rob Rich/Lifewire
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 11. Line the exterior cover piece up with the bottom of the PS5, but about a half-inch or so to the right. Place the cover down and then slide it to the left until it clicks back into place.  
 ![replacing PS5 console bottom cover](https://www.lifewire.com/thmb/hZFwbSRXskuakN5rDw8Z6Eakcc4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ps514-ffc1fd3ad1d248509a699df5806e9471.JPG)  
 Rob Rich/Lifewire
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 12. Put your PS5 back into its usual place and reconnect all the cables, and then turn it on. If you’ve never used this SSD in a PS5 before and you see a formatting prompt, that means the installation was a success.
 13. Follow the on-screen prompts to format and start using your SSD. If the SSD was already formatted for PS5, verify recognition by opening**Settings** \>**Storage** \> and looking for**M.2SSD Storage** in the menu.
 
@@ -108,6 +129,12 @@ Rob Rich/Lifewire
 
 ![illustration of PS5 Slim front, indicating the panel that will be removed to install the SSD](https://www.lifewire.com/thmb/f6bLu_EsgvJLtHFPsDZzzFgW1kw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/pa5slim01-efec593ba589438cb3d7b29417322c62.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Sony Interactive Entertainment LLC
 
 1. Shut off the console (not Sleep Mode; turn it off completely), disconnect all the cables, and give the PS5 a few minutes to cool down.

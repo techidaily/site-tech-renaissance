@@ -1,7 +1,7 @@
 ---
 title: Coming Soon? Pixel Fold 2'S Pricing, Release Info, Specs, and Insider Rumors Decoded
-date: 2024-08-30T14:53:53.110Z
-updated: 2024-08-31T14:53:53.110Z
+date: 2024-09-04T01:12:10.310Z
+updated: 2024-09-05T01:12:10.310Z
 categories:
   - BestProducts
 description: This Article Describes Coming Soon? Pixel Fold 2'S Pricing, Release Info, Specs, and Insider Rumors Decoded
@@ -33,27 +33,36 @@ thumbnail: https://www.lifewire.com/thmb/WhxhowMzefWzS2IbAkC6smyLmbw=/540x405/fi
 
  The Pixel Fold 2 release date will coincide with the[ Pixel 9](https://www.lifewire.com/google-pixel-9-8630767) launch set for August.
 
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Google Pixel Fold 2 Price Rumors 
 
  Google’s latest Pixel Fold came with a hefty price tag, and with hardware improvements expected this year, it's highly unlikely that the cost of the Pixel Fold 2 will decrease. If it remains at a similar price point, anticipate spending $1,799 for this foldable beauty.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Pre-Order Information 
 
  Pre-orders for the first Pixel Fold started the day it was announced. If this is repeated this year, you might be able to pre-order the Pixel Fold 2 on May 14\. We'll drop the link here when it's available.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Google Pixel Fold 2 Specs and Features 
 
  Google won't announce this phone for a bit longer. So, while nothing is technically official yet, here's what we know about the Pixel Fold 2 based on assumptions and reliable leakers:
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ### Bigger Screens 
 
  One of the major selling points of a foldable phone lies in its dual screens. The[ original Pixel Fold](https://www.lifewire.com/google-pixel-fold-5181117) featured a 5.8-inch exterior/cover screen and a 7.6-inch interior/main screen.
@@ -65,15 +74,18 @@ thumbnail: https://www.lifewire.com/thmb/WhxhowMzefWzS2IbAkC6smyLmbw=/540x405/fi
 
  We've seen conflicting information about the size of these screens. A different source says the cover screen is 6.4 inches and the inner screen measures 7.9 inches. Either way, the displays will likely be bigger this year.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Bigger Battery 
 
  Given the larger screens, it’s reasonable to assume that the battery size will also increase.
 
  While there haven’t been any specific rumors about a battery upgrade for the Pixel Fold 2, consider that the original Pixel Fold boasts a 4,821mAh battery, which already outperforms the batteries in other foldable devices, such as Samsung’s[ Galaxy Z Fold 6](https://www.lifewire.com/galaxy-z-fold-6-8418354) .
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Google Tensor G4 
 
  A bigger screen and battery don't always accompany yearly phone upgrades like this one, but a newer, more powerful processor_is_ expected. And that's what we're hearing about the 2024 Pixel Fold.
@@ -82,26 +94,38 @@ thumbnail: https://www.lifewire.com/thmb/WhxhowMzefWzS2IbAkC6smyLmbw=/540x405/fi
 
  If the Tensor G4 is indeed adopted, it's likely to also be featured in the Pixel 9 later this year. This suggests that the Pixel Fold 2 may not hit the market until the fall.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Square Camera Bar 
 
  Another interesting changeup we'll see this year is a new camera layout. Compared to the first Pixel Fold's horizontal camera setup, the next Pixel Fold will have a new, boxy camera bar.[ We first heard about this back in February](https://x.com/OnLeaks/status/1760392252751266272) , and now it's confirmed via photos revealed by the National Communications Commission, a Taiwanese regulatory agency.  
 
 ![Photos of the Pixel Fold 2](https://www.lifewire.com/thmb/zNeBoMC-RN8vTsrPwWu1zdc3rcs=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/pixel-9-pro-fold-ca348ad4a08b473bac4eacb8c3c85dd9.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Smaller Bezels 
 
  If you've used the Pixel Fold, you know the bezels aren't exactly tiny. And that's really unfortunate for a phone that costs this much. In[ these Pixel Fold 2 renders](https://www.smartprix.com/bytes/exclusive-google-pixel-fold-2-360-degree-video-and-5k-renders-reveal-no-more-horizontal-camera-visor/) , it appears that the bezels may shrink this time around. While this design choice could potentially make the phone slightly more challenging to use, there’s no denying that sleeker bezels lend a more elegant and modern look to the phone.  
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Other Changes 
 
 * According to the source of these renders, the top right of the inner screen houses an under-display camera with a new sensor that isn't included in the current Pixel Fold.
 * This Pixel Fold will likely run[ Android 15](https://www.lifewire.com/android-15-7547471) and should get the same seven years of software updates as the Pixel 8.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  The Latest News About Google Pixel Fold 2 
 
