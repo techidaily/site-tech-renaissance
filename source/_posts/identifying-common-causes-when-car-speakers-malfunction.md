@@ -1,7 +1,7 @@
 ---
 title: Identifying Common Causes When Car Speakers Malfunction
-date: 2024-09-04T01:25:07.425Z
-updated: 2024-09-05T01:25:07.425Z
+date: 2024-09-09T15:47:16.604Z
+updated: 2024-09-10T15:47:16.604Z
 categories:
   - BestProducts
 description: This Article Describes Identifying Common Causes When Car Speakers Malfunction
@@ -9,6 +9,12 @@ excerpt: This Article Describes Identifying Common Causes When Car Speakers Malf
 thumbnail: https://www.lifewire.com/thmb/TTS-RcL8CqLoYIA4twvZHBi7Its=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1141216579-d778662ca7314d3bbd14812e64dd49ab.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Identifying Common Causes When Car Speakers Malfunction
 
 Close 
@@ -23,6 +29,18 @@ Close
 
  In order to narrow down the exact cause of this type of car audio problem, some basic troubleshooting is in order.
 
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Ruling Out the Head Unit and Amplifier 
 
  If your head unit turns on just fine, but you don’t get any sound from the speakers, it’s easy to jump to the conclusion that the speakers are the problem.
@@ -48,6 +66,12 @@ Close
 
  In that case, you may need to bypass the amplifier to verify that both the head unit and speakers are working, at which point you can either get by with your head unit’s internal amp or install a new aftermarket amp.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Checking Car Speaker Wiring 
 
  When you checked the fade and pan settings on your head unit, you may have discovered that they were set to a speaker or speakers that had failed and that you were able to get sound by moving to a speaker or speakers that work.
@@ -64,13 +88,25 @@ Close
 
 ![Close-up of round speaker mounted on a car door](https://www.lifewire.com/thmb/jmwmi4I56vlQh-0-NXRf4XS55iE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1141216579-d778662ca7314d3bbd14812e64dd49ab.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Anton Minin / Getty Images
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Testing Car Speakers 
 
@@ -89,10 +125,10 @@ Anton Minin / Getty Images
  This may also be a good time to think about upgrading your car stereo as a whole, although selecting some good aftermarket speakers to replace the blown factory units can actually help a lot by itself.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  How Can You Tell If Car Speakers Are Blown Out? 
 

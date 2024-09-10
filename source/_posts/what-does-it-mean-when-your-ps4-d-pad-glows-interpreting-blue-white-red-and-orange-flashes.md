@@ -1,7 +1,7 @@
 ---
 title: What Does It Mean When Your PS4 D-Pad Glows? Interpreting Blue, White, Red and Orange Flashes
-date: 2024-09-04T01:28:22.540Z
-updated: 2024-09-05T01:28:22.540Z
+date: 2024-09-09T15:47:14.006Z
+updated: 2024-09-10T15:47:14.006Z
 categories:
   - BestProducts
 description: This Article Describes What Does It Mean When Your PS4 D-Pad Glows? Interpreting Blue, White, Red and Orange Flashes
@@ -9,6 +9,12 @@ excerpt: This Article Describes What Does It Mean When Your PS4 D-Pad Glows? Int
 thumbnail: https://www.lifewire.com/thmb/GGTZ0BXa-Os59BSoGo_ab_Mr7qs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ps4-2326616_1280-09912014986f461fbafdce07c1e9fad1.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Does It Mean When Your PS4 D-Pad Glows? Interpreting Blue, White, Red and Orange Flashes
 
 Close 
@@ -30,8 +36,20 @@ Close
 
 ![A Playstation 4 with a controller on a wood-grain surface](https://www.lifewire.com/thmb/g4OChvyP7jnt_kwqFWX5VEdgoBU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ps4-2326616_1280-09912014986f461fbafdce07c1e9fad1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 InspiredImages/Pixabay
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Why Is My PS4 Controller Flashing White? 
 
  If the LED light on your PS4 controller is blinking white, it's due to one of two reasons:
@@ -42,16 +60,10 @@ InspiredImages/Pixabay
  If you continue to have trouble with your console, you can try[ resetting your PS4 to factory settings](https://www.lifewire.com/how-to-reset-your-ps4-4173916) , but you will lose any data on your hard drive that's not backed up to the cloud.  
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Why Is My PS4 Controller Blinking Red? 
 
@@ -62,10 +74,16 @@ InspiredImages/Pixabay
  If you're sure the battery or charging port on your controller is defective, you can replace it. This is an advanced fix that requires you to open up your controller, so you might be better off buying a new one. If the controller is still under warranty, you should send it in for repairs.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Why Is My PS4 Controller Flashing Orange? 
 
@@ -77,10 +95,16 @@ InspiredImages/Pixabay
 ![Supply Power to USB Ports in PlayStation 4 settings](https://www.lifewire.com/thmb/LJDfeunJAa8PB2wou89_OvQhlyQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_why-is-my-ps4-controller-blinking-blue-white-red-or-orange-6754246-0eef66506e3b4750b67651589c886fb9.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  To rule out minor technical hiccups, power cycle the PS4, then reset the controller and let it charge for a couple of hours. If the controller loses its charge too quickly, the internal battery is probably defective.
 

@@ -1,7 +1,7 @@
 ---
 title: "Updating Your Chromecast Device: A Step-by-Step Guide"
-date: 2024-09-04T01:24:47.428Z
-updated: 2024-09-05T01:24:47.428Z
+date: 2024-09-09T15:47:16.876Z
+updated: 2024-09-10T15:47:16.876Z
 categories:
   - BestProducts
 description: "This Article Describes Updating Your Chromecast Device: A Step-by-Step Guide"
@@ -13,6 +13,12 @@ thumbnail: https://thmb.techidaily.com/ebd8fd55586bef5fe806c5a6931ae068dd25745cb
 
 Close 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  What to Know
 
 * Install the**Google Home** app on an iOS or Android device. Power on the Chromecast device and connect it to the same Wi-Fi network.
@@ -21,6 +27,18 @@ Close
 
  This article explains how to prompt an automatic update of the Chromecast firmware using the iOS and Android Google Home app. It also includes information on forcing an update on Windows, Mac, and Linux computers. These instructions apply to all generations of Chromecast and Chromecast Audio.
 
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Update Your Chromecast Firmware Automatically 
 
  Google automatically pushes out new Chromecast firmware, so in most instances you should have the latest available version. However, such rollouts are often staggered, so the latest firmware version may take time to install. Here's what you can do to try and prompt an automatic update.
@@ -35,12 +53,30 @@ Close
 7. Scroll to the bottom of the page to reveal the Cast firmware version. This is the current firmware your device is running.  
 ![Living Room TV, Settings Gear icon, Firmware info in Google Home for iOS](https://www.lifewire.com/thmb/kKB8RQrShQtNz7sRkUDHR5T30A8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-update-chromecast-4628168-8f681ebf21354b27a25dd209fd25fdab.jpg)
 8. Compare your device’s firmware with the latest available version on Google’s Chromecast support page (step 1). If the firmware version on the Chromecast support page is newer (a greater number) than the build you have on your device, you can try to encourage an automatic update via the Google Home app.  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If both versions are the same, you have the latest available firmware and don't need to do anything else.
 9. To try and encourage an automatic update, make sure you’re still in the Device settings page (step 5).
 10. Tap the**three horizontal dots** icon.
 11. A pop-up window will launch with additional options. Tap**Reboot** to[ reset your Chromecast device](https://www.lifewire.com/reset-chromecast-4165369) .  
 ![Menu dots and Reboot option in Google Home app on iOS](https://www.lifewire.com/thmb/6JkzuC7a6vqCKCMypvLk2zJseHk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-to-update-chromecast-4628168-9ae7970733f04b3fb4a7ec8ca35414a5.jpg)
 12. Your Chromecast dongle will shut itself down and automatically restart. During this process, it will try to download and install the latest available firmware.
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 13. If the firmware is available, the installation process will show on your connected TV.  
  Unfortunately, there is no audible indicator for a Chromecast Audio dongle
 14. Once the update is complete, you'll be able to use your Chromecast as normal.
@@ -48,12 +84,6 @@ Close
  As noted, Google rolls out firmware updates in stages. If the update hasn't yet landed for your device, wait a few days and try the process again.
 16. That's it! Your Chromecast should now be automatically updated.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Force a Chromecast Firmware Update 
 
  If new Chromecast firmware is available, but your device hasn't updated, you can try to force your Chromecast to download it. 
@@ -61,10 +91,10 @@ Close
  This process is a little more complicated than an automatic update, and it’s not guaranteed to work. However, it’s certainly worth trying if you can see the firmware is available but it hasn’t yet pushed to your Chromecast.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Force a Chromecast Update on Mac and Linux 
 
@@ -85,10 +115,10 @@ Take note of your Chromecast device's IP address (step 6).
 12. Once finished, you will see “Process Completed” at the bottom of the Terminal window. Your Chromecast should now be running the latest firmware.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Force a Chromecast Update on Windows 
 

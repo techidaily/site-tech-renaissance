@@ -1,0 +1,179 @@
+---
+title: "Modifying Text in Instagram Direct: A Comprehensive Tutorial"
+date: 2024-09-09T15:51:09.405Z
+updated: 2024-09-10T15:51:09.405Z
+categories:
+  - BestProducts
+description: "This Article Describes Modifying Text in Instagram Direct: A Comprehensive Tutorial"
+excerpt: "This Article Describes Modifying Text in Instagram Direct: A Comprehensive Tutorial"
+thumbnail: https://thmb.techidaily.com/986874e17643e7ae409323b1b4781d84760454bfaeee292d2afe0ece59b7e568.jpg
+---
+
+## Erasing Your Digital Footprint: A Comprehensive Guide to Deleting Your Yahoo Mail Account
+### What to Know
+
+* First, cancel premium services you're subscribed to through Yahoo and quit using this email as your recovery address.
+* Log in to the[Yahoo Privacy Dashboard](https://yahoo.mydashboard.oath.com/delete-my-account) and select**Continue delete my account** \>**Yes, delete this account** .
+* You have 30 days to reactivate your Yahoo account if you change your mind. Just log back in to use it again.
+
+ This article explains how to delete a Yahoo account from a web browser.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## How to Delete a Yahoo Mail Account
+
+ You can shut down your entire Yahoo account and revoke access to your email address, remove all your emails, and prevent people from messaging you. This is possible through the Privacy Dashboard:
+
+ It's easy to[migrate your Yahoo Mail data to Gmail](https://www.lifewire.com/import-your-yahoo-mail-messages-and-contacts-into-gmail-1172011) if you plan to switch to Google's email service. Alternatively, maybe you just want to[export your Yahoo Mail contacts](https://www.lifewire.com/export-yahoo-address-book-1174479) so you can import them into a[different email service](https://www.lifewire.com/best-free-email-accounts-1356641) . You must do these things_before_ you cancel.
+
+1. [Open Yahoo Mail](https://mail.yahoo.com/) and log in if asked.  
+ You can[recover your forgotten Yahoo password](https://www.lifewire.com/recover-yahoo-password-1174485) if you're not sure what it is.
+2. Hover over your name at the top right of the page and select**Manage your account** from the menu.  
+![The Yahoo Mail menu showing the Manage your account link](https://www.lifewire.com/thmb/JdqCJ9mVz02xTyooT2W1i0vfh8g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/yahoo-mail-menu-4a8ea92f4deb4b0c9229c9c24ed4c1c9.png)  
+ If you're paying for any Yahoo subscription services, cancel those now to avoid unexpected payments;[open My Subscriptions](https://mysubscriptions.yahoo.com/) to see if you have any active subscriptions.
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+3. Click**Privacy controls** at the top.  
+![The Yahoo Mail account overview page showing the Privacy controls link](https://www.lifewire.com/thmb/XEno_dNrKM6NBukWJoOSU7d_kG4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/yahoo-mail-account-overview-30181da72ca746cca757640663eac4a2.png)
+4. Scroll to the very bottom of the Yahoo Privacy Dashboard page and select**Delete My Account** .  
+![The Delete My Account link on the Yahoo Privacy Dashboard](https://www.lifewire.com/thmb/bWoRgV3FHuL_j-q_oP4FyXY36BM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/delete-your-yahoo-account-bd9a372594cd42e691854358e22bc7d0.png)
+5. Read the text on the page titled "Before continuing, please consider the following information." It details what you will lose when you delete your Yahoo Mail account. Press**Continue delete my account** .  
+![The Continue delete my account button on Yahoo's website](https://www.lifewire.com/thmb/YZPgf_xTtNOSNJ_Hx6n9xW0qCNk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/yahoo-delete-my-account-a59191a0872b4ce19768c7352229f7e8.png)
+6. Enter your email address once more into the field provided.
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+7. Select **Yes, delete this account** .  
+![The final confirmation page for deleting a Yahoo account](https://www.lifewire.com/thmb/4RriqtlFkKYQ5jkHhvT2HRNU2Ew=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/delete-yahoo-account-confirmation-d5b04610003e461287b0a838aa1c57c8.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ In some cases,[Yahoo won't remove everything for up to 180 days](https://legal.yahoo.com/us/en/yahoo/privacy/topics/datastorage/index.html) , but that depends largely on the country you signed up from. Data connected to paid Fantasy Sports products might be kept even longer.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### How to Cancel a BT Yahoo Mail Premium Account
+
+ If you got your Yahoo Mail account with[BT Group](https://www.bt.com/) , you can't cancel your account using the Yahoo website. Instead,[contact BT directly](https://www.bt.com/help/contact-bt#/) to have your Yahoo Mail Premium account deleted.
+
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## What Does It Mean to Delete a Yahoo Mail Account?
+
+ Deleting Yahoo Mail is only possible if you delete the whole Yahoo account. This means, of course, that your emails will get removed, but you'll also lose access to your [My Yahoo](https://my.yahoo.com/) settings, calendars, Yahoo Fantasy teams, Yahoo Finance portfolios, and any other data stored in Yahoo's services.  
+
+ Although it used to be the case, you will not delete your Flickr account if you delete your Yahoo account. This is true, however, only if you've upgraded to the latest login system. If you haven't, or you're not sure,[contact Flickr to ask about this](https://www.flickrhelp.com/hc/en-us/requests/new) .
+
+ Here are some important things to be aware of when it comes to deleting your Yahoo account:
+
+* **What will happen to my Yahoo Mail email address?**  Your username and email address will be available for others to use in the future, so they might receive messages meant for you if senders still use your old email address.
+* **Can I reactivate a closed Yahoo Mail account?**  Yes, you can reactivate your account even after you've marked it for deletion. To reopen a deleted Yahoo account, log in within 30 days of deleting it. You can do this through the regular[Yahoo Mail](https://mail.yahoo.com/) web page. Once you've reactivated the account, you can start getting emails but you will not see messages that were sent to the account while it was closed.
+* **What happens to emails sent to my address after I close my Yahoo Mail account?**  In the meantime (starting as soon as you close your account), senders trying to message your deleted Yahoo Mail account's address will receive a delivery failure message.
+
+ Once you close your Yahoo Mail account, anyone who tries to send a message to your email address will immediately receive a delivery failure message. Also, any online accounts that are using your Yahoo email as the recovery address will no longer be able to send you recovery information.
+
+ To avoid confusion and concern, tell your contacts you are about to close your Yahoo account — both from the email address you plan to use in the future (so they can easily reply to reach you) and from your Yahoo Mail account (to ensure delivery).
+
+ FAQ
+
+* How do you change your Yahoo Mail password?  
+ To[change your password](https://www.lifewire.com/change-yahoo-password-1174508) , log in to Yahoo Mail and select your profile image at the top right. Go to**Manage your account** \>**Security** \>**Change password** .
+* How do you block unwanted senders in Yahoo Mail?  
+ To[block mail from unwanted senders](https://www.lifewire.com/block-sender-yahoo-1174455) , log in to Yahoo Mail and go to**Settings** \>**More Settings** . In the**Security & privacy** section, select**Add** under**Blocked addresses** . Type the sender's address in the box and press**Save** .
+* How do you add a contact in Yahoo Mail?  
+ To automatically[add someone as a contact](https://www.lifewire.com/auto-add-contacts-yahoo-1174459) when they email you, log in to Yahoo Mail and open**Settings** \>**More Settings** . Select**Contacts** \>**Enable** .
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-20-budget-conscious-video-editing-applications-for-2024/"><u>[Updated] Top 20 Budget-Conscious Video Editing Applications for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-finalized-choices-best-10-video-editing-tools-for-reels/"><u>2024 Approved Finalized Choices Best 10 Video Editing Tools for Reels</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-infinity-series-ultra-hd-single-touch-display/"><u>2024 Approved Infinity Series – Ultra HD, Single Touch Display</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-zte-axon-40-lite-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from ZTE Axon 40 Lite to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-beginners-approach-to-creating-text-overlays-on-instagram-stories/"><u>A Beginner's Approach to Creating Text Overlays on Instagram Stories</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/beginner-hacks-for-the-newly-named-x-platform-top-10-instant-guides-to-get-you-started/"><u>Beginner Hacks for the Newly Named X Platform: Top 10 Instant Guides to Get You Started</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/best-free-tunes-streamer-choices-for-android-and-ios-users-our-picks-revealed/"><u>Best Free Tunes Streamer Choices for Android & iOS Users: Our Picks Revealed</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-motorola-moto-g23-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Motorola Moto G23 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/can-you-submerge-an-iphone-15-pro-max-in-water-safely/"><u>Can You Submerge an iPhone 15 Pro Max in Water Safely?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/collaborative-playlist-enjoyment-how-to-use-spotify-with-others-in-real-time/"><u>Collaborative Playlist Enjoyment: How to Use Spotify with Others in Real Time</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/converti-i-tuoi-dischi-da-disco-dvd-in-formato-digitale-con-questa-guida-semplice-per-sistemi-operativi-windowsmac/"><u>Converti I Tuoi Dischi Da Disco DVD in Formato Digitale Con Questa Guida Semplice per Sistemi Operativi Windows/Mac</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/decoding-complex-task-efficient-background-cleansing-in-affinitys-realm/"><u>Decoding Complex Task Efficient Background Cleansing in Affinity's Realm</u></a></li>
+<li><a href="https://fox-http.techidaily.com/digital-stagecraft-unlocking-voice-manipulation-with-affordable-technology-for-2024/"><u>Digital Stagecraft Unlocking Voice Manipulation with Affordable Technology for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-free-online-resources-to-learn-a-new-language-top-picks/"><u>Discover the Best Free Online Resources to Learn a New Language (Top Picks)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-todays-must-watch-uk-dramas-and-comedies-on-netflix/"><u>Discover Today's Must-Watch UK Dramas & Comedies on Netflix</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722901482817-diy-fixes-for-your-mss32dll-error-no-more-file-not-found-woes/"><u>DIY Fixes for Your mss32.dll Error: No More 'File Not Found' Woes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/editing-sentiments-a-comprehensive-tutorial-on-revising-insta-chats/"><u>Editing Sentiments: A Comprehensive Tutorial on Revising Insta Chats</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-features-of-free-versions-of-microsoft-word/"><u>Exploring the Features of Free Versions of Microsoft Word</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-specs-and-pricing-apples-latest-audio-ready-wearable-device-rumors-and-release-dates-revealed/"><u>Exploring the Specs and Pricing: Apple's Latest Audio-Ready Wearable Device Rumors & Release Dates Revealed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-roku-closed-caption-issues-a-step-by-step-guide/"><u>Fixing Roku Closed Caption Issues – A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/future-of-google-wireless-earbuds-pixel-buds-pro-2-speculations-release-details-inside/"><u>Future of Google Wireless Earbuds: Pixel Buds Pro 2 Speculations - Release Details Inside</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/gaming-evolution-unveiled-the-top-contenders-s-best-console-wars/"><u>Gaming Evolution Unveiled: The Top Contenders 'S Best Console Wars</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/hevc-converter-perfetto-per-windows-11-and-mac-ottimo-codificatore-h265/"><u>HEVC Converter Perfetto per Windows 11 & Mac - Ottimo Codificatore H.265</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-xiaomi-redmi-12-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Xiaomi Redmi 12 5G to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/matrix-series-viewing-guide-the-correct-sequential-order/"><u>Matrix Series Viewing Guide: The Correct Sequential Order</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-missing-d3dx924dll-errors-on-your-computer-with-easy-fixes/"><u>Overcoming 'Missing d3dx9_24.dll' Errors on Your Computer with Easy Fixes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-for-entering-macos-recovery/"><u>Step-by-Step Instructions for Entering macOS Recovery</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-advantages-of-evs-over-traditional-gasoline-cars-explained/"><u>The Advantages of EVs Over Traditional Gasoline Cars Explained</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-system-change-access-via-trustedinstaller-in-windows-11-explained/"><u>Unlocking System Change Access via TrustedInstaller in Windows 11 Explained</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/updating-your-chromecast-device-a-step-by-step-guide/"><u>Updating Your Chromecast Device: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upgrade-now-the-newest-thunderbird-update-version-52-available-on-mozilla-platforms/"><u>Upgrade Now: The Newest Thunderbird Update, Version ^52, Available on Mozilla Platforms</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/what-to-expect-at-the-next-big-google-occasion-tidbits-and-major-disclosures/"><u>What to Expect at the Next Big Google Occasion: Tidbits & Major Disclosures</u></a></li>
+<li><a href="https://facebook.techidaily.com/when-to-flip-the-friend-switch-on-facebook-insights-and-strategies/"><u>When to Flip the Friend Switch on Facebook: Insights and Strategies</u></a></li>
+</ul></div>

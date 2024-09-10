@@ -1,7 +1,7 @@
 ---
 title: "Messenger Use Without the Facebook Boundaries: How to Stay Connected Separately"
-date: 2024-09-04T01:22:39.237Z
-updated: 2024-09-05T01:22:39.237Z
+date: 2024-09-09T15:47:18.581Z
+updated: 2024-09-10T15:47:18.581Z
 categories:
   - BestProducts
 description: "This Article Describes Messenger Use Without the Facebook Boundaries: How to Stay Connected Separately"
@@ -9,6 +9,12 @@ excerpt: "This Article Describes Messenger Use Without the Facebook Boundaries: 
 thumbnail: https://thmb.techidaily.com/d37722b399ead697bedbcc110ba522ecee9e4647945e2b3d01fc0e88a66cb913.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Creative Apple Pranks: Amazing Ways to Playfully Confuse Friends with Their Phones
  It doesn't need to be April Fool's Day to pull off a good prank. These ideas are designed for people with an[iPhone](https://www.lifewire.com/pick-best-iphone-for-you-1999293) or[iPad](https://www.lifewire.com/ipad-comparison-chart-1994214) , especially if they keep their device unlocked so you can mess with the settings.
 
@@ -42,6 +48,12 @@ of 06
 
 ![Ipad2 Comparison](https://www.lifewire.com/thmb/jPN69wWYT2zLJfh18NfogwaSrHo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-457316526-57deda085f9b58651650818c.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Credit: Justin Sullivan / Staff Editorial #: 457316526
 
  The screenshot prank involves[taking a screenshot](https://www.lifewire.com/how-to-take-an-ipad-screenshot-4103779) of the home screen and[using it as the wallpaper for the lock screen](https://www.lifewire.com/set-ipads-background-wallpaper-1994638) . This change can cause your unsuspecting victim to think the iPad or iPhone is ready to use, but all the taps in the world won't open an app until they slide to unlock.
@@ -50,21 +62,15 @@ of 06
 
 of 06
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [The Screenshot Home Screen](https://www.lifewire.com/customize-iphone-home-screen-5194141)
 
 ![A woman is using a mobile phone](https://www.lifewire.com/thmb/jjAY5RfCf0bXbyTAiGQR8Hch-IY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1024775444-046154f6b201485c8e1e9159c420b6d3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024351/7443" target="_top" id="2024351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Karl Tapales/Getty Images
 
@@ -86,10 +92,16 @@ of 06
 ![blue-screen-of-death-trick.jpg](https://www.lifewire.com/thmb/_gxotYS62h_k3CB3IJcw8XjirCo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/blue-screen-of-death-trick-56a532a05f9b58b7d0db708b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  This one is funnier if you're targeting an IT professional or anyone that knows a bit about computers. The famed "Blue Screen of Death" is the error screen Windows gives when the operating system crashes.
 
@@ -102,27 +114,15 @@ of 06
 of 06
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## [Invert the Colors](https://www.lifewire.com/how-to-invert-colors-on-iphone-4154078)
 
 ![Computer graphic of a human eye (negative-image)](https://www.lifewire.com/thmb/_a_kXKBXJhuHJ1QPW0N00LOavkE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-680799841-653726185c454bf29f730cce93fcb45a.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 MEHAU KULYK/SCIENCE PHOTO LIBRARY / Getty Images
 
 [iOS's accessibility options](https://www.lifewire.com/ipad-accessibility-guide-1994516) can be a goldmine for pranksters. Inverting the colors can make the iPad look all out of whack with no easy way to put it back to normal. Unless your target has really experimented with all the iPad settings, they probably won't figure it out.
@@ -135,16 +135,16 @@ MEHAU KULYK/SCIENCE PHOTO LIBRARY / Getty Images
 
 of 06
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [Put the Device in Zoom Mode](https://www.lifewire.com/zoom-in-and-out-on-ipad-4103821)
 
 ![Ladybird on girl's hand under magnifying glass](https://www.lifewire.com/thmb/ly93teq_5dn-YxKk4JmXf6WLY7E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-588494079-6d7dfd09ac874928924cdc745685e929.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Westend61 / Getty Images
 
  The iPhone and iPad's accessibility options also have a zoom mode, which is great for those with vision problems and those who want to have a laugh at a friend's expense.

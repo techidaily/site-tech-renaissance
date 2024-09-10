@@ -1,7 +1,7 @@
 ---
 title: Disable Mouse Sensitivity Boost in macOS - A Step-by-Step Guide
-date: 2024-09-04T01:25:33.764Z
-updated: 2024-09-05T01:25:33.764Z
+date: 2024-09-09T15:47:16.260Z
+updated: 2024-09-10T15:47:16.260Z
 categories:
   - BestProducts
 description: This Article Describes Disable Mouse Sensitivity Boost in macOS - A Step-by-Step Guide
@@ -13,6 +13,18 @@ thumbnail: https://www.lifewire.com/thmb/NGt852YzCkbbBejPpQDkxI8KJG4=/540x405/fi
 
 Close 
 
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  What to Know
 
 * To disable, enter **defaults write .GlobalPreferences com.apple.mouse.scaling -1** in Terminal.
@@ -21,6 +33,12 @@ Close
 
  This article teaches you how to turn off mouse acceleration on a Mac. It looks at three methods to do so, as well as highlights why you may need to switch off mouse acceleration.   
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Turn Mouse Acceleration Off on a Mac 
 
  As of macOS Sonoma (14.0), Apple has added additional settings, including mouse acceleration. To turn mouse acceleration off entirely on Mac, you'll need to locate the Pointer acceleration setting.
@@ -28,14 +46,38 @@ Close
 1. Select the Apple icon on the menu bar.  
 ![Mac Desktop with the Apple icon highlighted.](https://www.lifewire.com/thmb/E4tPDXQgM-t3BVe-1vqkzuOx1V0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-turn-off-mouse-acceleration-on-mac-65030473-7ea31658e2f349e2b79c78c81e46b05f.jpg)
 2. Select**System Settings.**  
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Mac Desktop with System Settings highlighted.](https://www.lifewire.com/thmb/4upgb2uoG_udrV7nkf8yxSdMftQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MacSystemSettingscopy-e6d9512a7b5546b3bee7dc28eb422de1.jpg)
 3. Select**Mouse** .  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Mac System Settings with Mouse highlighted.](https://www.lifewire.com/thmb/LLKtiC5lcSV-tRI1LLT6KKw-xQc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MacMouseoption-b7641b2454394154a6c8e58c7334728e.jpg)
 4. Select**Advanced** .  
 ![Mac Mouse settings with the Advanced button highlighted.](https://www.lifewire.com/thmb/aZuMxe9WaT-jr67FrjH4JsVCgK8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macmouseadvancedcopy-019af83909d84639893a747caaa1ea2a.jpg)
 5. Toggle**Pointer acceleration** and select**Done** .  
 ![Mac Pointer acceleration toggle highlighted.](https://www.lifewire.com/thmb/tWPpzXhQJG6vRArC33uSrCYe5DA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mousepointeraccelerationcopy-70baf408c7d64fc1bb54ea11c6352054.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Turn Mouse Acceleration Off on Older macOS 
 
  To turn mouse acceleration off entirely on Mac prior to Sonoma, you'll need to change a command within Mac's Terminal. Here's what to type:  
@@ -46,20 +88,14 @@ Close
 2. Type **defaults write .GlobalPreferences com.apple.mouse.scaling -1** into the Terminal window.  
 ![Mac Terminal with a command highlighted. ](https://www.lifewire.com/thmb/_egyJ5BRDeRY5swLjNoDr_YRx6k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-turn-off-mouse-acceleration-on-mac-65030472-7e5c330e79e746bca4a14432f95f311f.jpg)  
  Change the number to anything between 0 and 3 to turn mouse acceleration back on. You can also enter the command without a number to confirm whether mouse acceleration is activated.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Press**Enter** .
 4. Mouse acceleration has now been switched off until the next time you restart your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  How to Reduce Mouse Acceleration on a Mac 
 
@@ -68,56 +104,20 @@ Close
 1. Select the Apple icon on the menu bar.  
 ![Mac Desktop with the Apple icon highlighted.](https://www.lifewire.com/thmb/E4tPDXQgM-t3BVe-1vqkzuOx1V0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-turn-off-mouse-acceleration-on-mac-65030473-7ea31658e2f349e2b79c78c81e46b05f.jpg)
 2. Select**System Settings.**  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Mac Desktop with System Settings highlighted.](https://www.lifewire.com/thmb/4upgb2uoG_udrV7nkf8yxSdMftQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MacSystemSettingscopy-e6d9512a7b5546b3bee7dc28eb422de1.jpg)
 3. Select**Mouse** .  
 ![Mac System Settings with Mouse highlighted.](https://www.lifewire.com/thmb/LLKtiC5lcSV-tRI1LLT6KKw-xQc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MacMouseoption-b7641b2454394154a6c8e58c7334728e.jpg)  
  If you don't see your mouse, you may need to re-pair it with your Mac or plug it back in.
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 4. Adjust the tracking speed to something that feels more comfortable for your needs.  
 ![Mac Mouse options with Tracking Speed highlighted.](https://www.lifewire.com/thmb/QLyrbbIdv2vcihkbQFo6HGO9Jfk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Macmousetrackingspeedcopy-4c1c86eaa9b1456885d8071ad32de3ed.jpg)
 5. Adjust the scrolling speed for similar effect when scrolling.
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Why Would I Want to Turn off Mouse Acceleration? 
 
  Mouse acceleration makes your pointer move faster, but not everyone wants that. Here's why it can be helpful to disable the feature.   

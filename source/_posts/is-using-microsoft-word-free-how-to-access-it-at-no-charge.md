@@ -1,0 +1,195 @@
+---
+title: Is Using Microsoft Word Free? How To Access It At No Charge
+date: 2024-09-09T15:48:31.066Z
+updated: 2024-09-10T15:48:31.066Z
+categories:
+  - BestProducts
+description: This Article Describes Is Using Microsoft Word Free? How To Access It At No Charge
+excerpt: This Article Describes Is Using Microsoft Word Free? How To Access It At No Charge
+thumbnail: https://www.lifewire.com/thmb/4LAWGdRhL5KUSVQ6A2SremFrAQ0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ed-hardie-xG02JzIBf7o-unsplash-dd8392d71fb84267a756ac47f1e26138.jpg
+---
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## IPhone Silence Issue? Here’s What You Need to Know & Quick Fixes
+ There are many reasons why an iPhone won't ring, but most of these problems are easy to fix. If your iPhone isn't ringing when someone calls you, try these tips before concluding that your iPhone needs an expensive repair.
+
+ The tips in this article apply to all supported iPhone models and recent iOS versions, including iOS 13, 12, and 11.
+
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## How to Fix an iPhone That Won't Ring
+
+ Try these common fixes in the order that we present them:
+
+1. [Restart the iPhone](https://www.lifewire.com/how-to-restart-iphone-2000288) . The first step in troubleshooting any device is to restart it. A restart can fix many glitches.  
+ Another important troubleshooting step is to[update your iPhone](https://www.lifewire.com/upgrade-ios-on-iphone-connecting-itunes-1999188) so it has the latest version of the iOS operating system.
+2. [Clean the iPhone speaker](https://www.lifewire.com/clean-iphone-speakers-4692263) . Every sound your iPhone makes—playing music, watching movies, or the ringer from incoming calls—comes from the speaker at the bottom of the device. If you don't hear the ringer for incoming calls, the speaker may be dirty or broken.  
+ Test the speaker by playing music or a video. Turn up the volume. If you can hear audio, but the volume is too low, or the sound is distorted, clean the speaker.  
+ If you hear no sound, even with the volume turned all the way up, the iPhone speakers may be broken. Learn how to[fix iPhone speakers](https://www.lifewire.com/fix-non-working-iphone-speaker-4177315) .
+3. [Turn off mute](https://www.lifewire.com/how-to-turn-the-iphone-ringer-off-2000565) . Make sure you haven't silenced your iPhone and forgotten to turn the ringer back on.
+4. [Turn off Do Not Disturb](https://www.lifewire.com/use-do-not-disturb-on-iphone-apple-watch-2000547) . DND is a useful feature that enables you to silence sounds from calls, texts, and notifications when you don't want to be bothered. You can turn on DND manually or schedule it, so be sure to check both options.  
+ You can check for DND at a glance. If a moon icon appears in the upper-right corner of the home screen, DND is on. (On[iPhone X](https://www.lifewire.com/iphone-x-4150706) , the moon icon appears only in Control Center.)  
+ If you schedule DND, you may need to adjust the settings.
+5. Unblock a blocked number. If someone says they called you, but there's no sign of the call on your iPhone, you may have blocked that person's number. Apple introduced the ability to block voice calls, FaceTime calls, and text messages in iOS 7\. To[unblock a number on iPhone](https://www.lifewire.com/unblock-number-on-iphone-or-ipad-4169728) , complete these steps:  
+   1. Tap**Settings** \>**Phone** \>**Blocked Contacts** .  
+   2. Tap**Edit** .  
+   3. Tap the red circle beside the blocked number, and then tap**Unblock** .  
+![An iPhone with the Phone settings, Blocked Contacts heading, and Unblock button highlighted](https://www.lifewire.com/thmb/MPfrUdCCr2HLjH9Va4OIkm1zN3o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-2308e3feb71f4c9194900da12675ecb2.jpg)
+6. Disable Silence Unknown Callers. To help users avoid spam calls and robocalls, Apple added a feature in[iOS 13](https://www.lifewire.com/ios-13-4586609) that automatically silences all calls from unknown numbers. If this feature is turned on, you won't hear calls from numbers that aren't in the Contacts app. Instead, the iPhone sends them right to voicemail. To disable this feature, select**Settings** \>**Phone** , and then turn off the**Silence Unknown Callers** switch.  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ If you want to keep Silence Unknown Callers turned on but still get calls from certain numbers,[add those callers to Contacts](https://www.lifewire.com/manage-contacts-iphone-address-book-2000570) .  
+![iPhone showing the Phone settings and Silence Unknown Callers switch](https://www.lifewire.com/thmb/PfmlpvYkxD5z2_TErc_402j9xA8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-b93c2874c9784090a83900ec430caf0b.jpg)
+7. Change your custom ringtone. If your iPhone still doesn't ring for incoming calls, check your ringtone. If you[set up unique ringtones for contacts](https://www.lifewire.com/assign-unique-ringtone-on-iphone-2000557) , a deleted or corrupted ringtone can prevent the phone from ringing when someone calls.  
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ To check the default ringtone, tap**Settings** \>**Sounds & Haptics** \>**Ringtone** , and then select a new ringtone.  
+ If you miss calls from only certain people, open the Phone app, and then complete these steps:  
+   1. Tap**Contacts** .  
+   2. Tap the name of the person whose calls you're missing, and then tap**Edit** .  
+   3. Tap**Ringtone** , and then assign the contact a new ringtone.  
+![Three iOS screens showing Contacts, Edit button and Ringtone area in Phone settings app](https://www.lifewire.com/thmb/dQgktPdfOQV7lnazDKmKLLfIXPI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-5bbe5923c9e77c005156dd60.jpg)  
+ If the unique ringtone is the source of the problem, find all the contacts to whom you assigned that ringtone and select a new ringtone for each.
+8. [Make sure the phone isn't stuck in Headphone mode](https://www.lifewire.com/fix-iphone-stuck-in-headphone-mode-4175912) . It could be that your iPhone is ringing but sending the audio to the wrong place. In this situation, the iPhone thinks that another audio source is attached to it—like headphones or a Bluetooth device—and tries to ring there instead of through your iPhone speaker.
+
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## If None of These Tips Fixed the Problem
+
+ If you tried all these tips and still don't hear your incoming calls, it's time to consult the experts.[Make an Apple Genius Bar appointment](https://www.lifewire.com/how-to-make-an-apple-genius-bar-appointment-1999601) at your local Apple Store or[contact an Apple-authorized service provider](https://support.apple.com/repair) , and bring in your iPhone for inspection and repair.
+
+[How to Fix It When iPhone Call Volume Is Low](https://www.lifewire.com/fix-low-volume-on-call-on-iphone-5186012)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Causes of the iPhone Not Ringing Problem
+
+ If your iPhone isn't ringing, there are several possible culprits:
+
+* A broken speaker.
+* Mute is turned on.
+* Do Not Disturb (DND) is turned on.
+* You blocked the phone number.
+* You silenced all unknown callers.
+* There's a problem with a ringtone.
+* You're stuck in headphone mode.
+
+ FAQ
+
+* How do I make certain contacts ring on silent on my iPhone?  
+ Using the[Do Not Disturb (DND) mode](https://www.lifewire.com/use-do-not-disturb-on-iphone-apple-watch-2000547) , you'll need to add certain contacts to**Favorites** and then set up what DND mode will do with those favorites. To set up favorites, go to**Phone** \>**Favorites** \>**plus** (**+** ) sign > select contact(s). To turn on DND, go to**Settings** \>**Do Not Disturb** \> turn on**Do Not Disturb** \>**Allow Calls From** \>**Favorites** .
+* Why does my iPad ring when my iPhone rings?  
+ This is a feature called Continuity. To[turn off Continuity](https://www.lifewire.com/stop-other-devices-ringing-iphone-call-2000550) on your iPhone, go to**Settings** \>**Phone** \>**Calls on Other Devices** \> toggle off**Allow Calls on Other Devices** . To ensure your iPhone won't ring on your iPad, go to**Settings** \>**FaceTime** \> toggle off**Calls from iPhone** .
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-crisis-on-social-media-managing-negative-feedback-and-maintaining-a-positive-reputation/"><u>[Navigating Crisis on Social Media: Managing Negative Feedback and Maintaining a Positive Reputation]</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-best-windows-video-calls-the-top-8-list/"><u>[New] 2024 Approved Best Windows Video Calls The Top 8 List</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-from-monochrome-to-motion-the-ultimate-guide-to-making-videos-with-pixiz/"><u>[New] From Monochrome to Motion The Ultimate Guide to Making Videos with Pixiz</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-quick-create-excellence-professional-thumbnails-in-gaming-art/"><u>[New] Quick-Create Excellence Professional Thumbnails in Gaming Art</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-crack-your-smile-with-these-laughing-and-tearful-ig-meme-pages/"><u>[Updated] 2024 Approved Crack Your Smile with These Laughing & Tearful IG Meme Pages</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-optimizing-video-creation-in-obs-studio/"><u>[Updated] 2024 Approved Optimizing Video Creation in OBS Studio</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-guide-to-avoidable-exposure-hiding-objects-and-faces-online-for-2024/"><u>[Updated] Guide to Avoidable Exposure Hiding Objects and Faces Online for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-essential-watchers-the-1-10-fb-apps/"><u>[Updated] In 2024, Essential Watchers The #1-#10 FB Apps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-guide-to-customized-text-editing-techniques/"><u>[Updated] The Ultimate Guide to Customized Text Editing Techniques</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/a-complete-walkthrough-for-improving-pc-graphic-capabilities-with-a-new-card/"><u>A Complete Walkthrough for Improving PC Graphic Capabilities with a New Card</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ai-knowledge-without-boundaries-lifewires-essential-guide-to-top-15-free-online-self-directed-courses-in-artificial-intelligence/"><u>AI Knowledge Without Boundaries: Lifewire's Essential Guide to Top 15 Free Online Self-Directed Courses in Artificial Intelligence</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/anticipated-tesla-automaton-price-estimates-projected-debut-and-performance-specs-revealed/"><u>Anticipated Tesla Automaton: Price Estimates, Projected Debut, and Performance Specs Revealed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/can-you-submerge-an-iphone-15-pro-max-in-water-safely/"><u>Can You Submerge an iPhone 15 Pro Max in Water Safely?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/collaborative-playlist-enjoyment-how-to-use-spotify-with-others-in-real-time/"><u>Collaborative Playlist Enjoyment: How to Use Spotify with Others in Real Time</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-nubia-red-magic-9-pro-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Nubia Red Magic 9 Pro</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/control-your-smart-devices-with-ease-using-the-google-home-app-across-multiple-platforms-including-pc/"><u>Control Your Smart Devices with Ease: Using the Google Home App Across Multiple Platforms Including PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/decoding-patch-tuesday-why-it-matters-for-your-cybersecurity/"><u>Decoding Patch Tuesday: Why It Matters for Your Cybersecurity</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-method-for-opening-windows-terminal-in-a-targeted-directory/"><u>Easy Method for Opening Windows Terminal in a Targeted Directory</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/experiencing-connectivity-problems-with-xbox-live-common-fixes-and-solutions/"><u>Experiencing Connectivity Problems with Xbox Live – Common Fixes and Solutions</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-the-markets-finest-pc-companies/"><u>Exploring the Market's Finest PC Companies</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-specs-and-pricing-apples-latest-audio-ready-wearable-device-rumors-and-release-dates-revealed/"><u>Exploring the Specs and Pricing: Apple's Latest Audio-Ready Wearable Device Rumors & Release Dates Revealed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-world-of-pokemon-go-with-a-partner-top-tips/"><u>Exploring the World of Pokémon GO with a Partner: Top Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fresh-start-in-x-previously-twitter-how-to-change-your-access-code/"><u>Fresh Start in X (Previously Twitter): How to Change Your Access Code</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-13-pro-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock iPhone 13 Pro Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-itel-p40-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Itel P40? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/identifying-common-causes-when-car-speakers-malfunction/"><u>Identifying Common Causes When Car Speakers Malfunction</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-best-practices-in-digital-image-creation-for-youtube/"><u>In 2024, Best Practices in Digital Image Creation for YouTube</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-infinix-zero-30-5g-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Infinix Zero 30 5G Through Google Earth?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-smooth-transition-of-short-videos-to-youtube-device-guide/"><u>In 2024, Smooth Transition of Short Videos to YouTube - Device Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/maxs-hottest-tv-programs-streaming-today/"><u>Max's Hottest TV Programs Streaming Today</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-androids-connection-challenges-fixing-authentication-woes-with-wi-fi/"><u>Overcoming Android's Connection Challenges: Fixing Authentication Woes with Wi-Fi</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-most-effective-wi-fi-repeaters-on-the-market/"><u>The Most Effective Wi-Fi Repeaters on the Market</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-role-of-output-impedance-in-audio-and-signal-integrity/"><u>The Role of Output Impedance in Audio and Signal Integrity</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-xiaomi-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Xiaomi</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-and-repairing-wii-disc-drive-issues-a-step-by-nstep-guide/"><u>Troubleshooting and Repairing Wii Disc Drive Issues: A Step-by-nStep Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-tutorial-on-integrating-fire-stick-with-projector-display/"><u>Ultimate Tutorial on Integrating Fire Stick With Projector Display</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-educational-potential-5-innovative-uses-of-chatgpt-for-students/"><u>Unlocking Educational Potential: 5 Innovative Uses of ChatGPT for Students</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-system-change-access-via-trustedinstaller-in-windows-11-explained/"><u>Unlocking System Change Access via TrustedInstaller in Windows 11 Explained</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/updating-your-chromecast-device-a-step-by-step-guide/"><u>Updating Your Chromecast Device: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upgrade-now-the-newest-thunderbird-update-version-52-available-on-mozilla-platforms/"><u>Upgrade Now: The Newest Thunderbird Update, Version ^52, Available on Mozilla Platforms</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/vr-today-and-tomorrow-trends-and-hurdles/"><u>VR Today & Tomorrow Trends & Hurdles</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/webcam-integration-in-gaming-setup-mastery/"><u>Webcam Integration in Gaming Setup Mastery</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/your-go-to-list-of-best-free-game-apps-on-android/"><u>Your Go-To List of Best Free Game Apps on Android</u></a></li>
+</ul></div>
