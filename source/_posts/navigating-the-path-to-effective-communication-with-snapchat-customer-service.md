@@ -1,7 +1,7 @@
 ---
 title: Navigating the Path to Effective Communication with Snapchat Customer Service
-date: 2024-09-09T15:56:44.895Z
-updated: 2024-09-10T15:56:44.895Z
+date: 2024-09-08T17:15:29.525Z
+updated: 2024-09-15T23:45:50.913Z
 categories:
   - BestProducts
 description: This Article Describes Navigating the Path to Effective Communication with Snapchat Customer Service
@@ -9,23 +9,11 @@ excerpt: This Article Describes Navigating the Path to Effective Communication w
 thumbnail: https://www.lifewire.com/thmb/stmM9TOh36-Bc0uOlFng5j-V3cE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/CustomerserviceSnapchat-df47adb7af4b45d88a65d41c16c1d308.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Cleaning the Insertion Site with Soap and Water Is Done to Prevent Infection, but It's Not Specific for Catheter Irrigation
  NETGEAR routers usually have a default password of**password** and a default IP address of either**192.168.1.1** or**192.168.0.1** . However, as the table below shows, there are plenty of exceptions.
 
 [The Best Netgear Routers of 2024](https://www.lifewire.com/best-netgear-routers-4159862)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## NETGEAR Default Passwords (Valid July 2024)
 
  Below is a list of default usernames, passwords, and IP addresses for different NETGEAR models that I've obtained directly from official sources: user manuals and support pages. If you don't see your NETGEAR device listed here, the listed default data doesn't work, you need help changing the password once you're in or have other questions, more help is below the table.
@@ -271,12 +259,6 @@ thumbnail: https://www.lifewire.com/thmb/stmM9TOh36-Bc0uOlFng5j-V3cE=/400x300/fi
 
  If you don't see your NETGEAR router, switch, or other network device listed in the table above,[contact us](https://www.lifewire.com/mailto:feedback@lifewire.com) to have your router added to the list.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What to Do If the NETGEAR Default Password Doesn't Work
 
  When the NETGEAR default password for your device is no longer the configured password, reset the device to the factory defaults.
@@ -287,12 +269,6 @@ thumbnail: https://www.lifewire.com/thmb/stmM9TOh36-Bc0uOlFng5j-V3cE=/400x300/fi
 
  If this process doesn't work, reference the PDF manual for your specific NETGEAR router, available from[NETGEAR Support](https://www.netgear.com/support/) .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What to Do If the NETGEAR Default IP Address Doesn't Work
 
  A factory reset also resets the IP address to the default for your model in the table above.
@@ -304,11 +280,12 @@ thumbnail: https://www.lifewire.com/thmb/stmM9TOh36-Bc0uOlFng5j-V3cE=/400x300/fi
  If this doesn't work,[find the default gateway IP address](https://www.lifewire.com/how-to-find-your-default-gateway-ip-address-2626072) to determine the default gateway on your network, which is also the IP address for the router.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Change Your NETGEAR Default Password
 
  While you can log in to your NETGEAR router or switch with the default data, this information is all public. This means that anyone can access any NETGEAR device and make changes, including injecting malware and doing other damage.
@@ -337,8 +314,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -348,72 +323,16 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-becoming-a-filmora-fcc-the-pathway-explained/"><u>[New] 2024 Approved Becoming a Filmora FCC The Pathway Explained</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-advanced-techniques-developing-elapsed-time-features-in-obs-software/"><u>[New] Advanced Techniques Developing Elapsed Time Features in OBS Software</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-determining-frame-rates-master-choice-between-30fps-and-60fps/"><u>[New] In 2024, Determining Frame Rates Master Choice Between 30Fps and 60Fps</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-lowering-obs-video-encoding-quality/"><u>[New] In 2024, Lowering OBS Video Encoding Quality</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-precision-control-for-incredible-android-time-lapses/"><u>[New] Precision Control for Incredible Android Time-Lapses</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-upload-mp3-quickly-step-by-step-to-youtube-broadcasting/"><u>[New] Upload MP3 Quickly Step-by-Step to YouTube Broadcasting</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-brightening-dark-photos-on-iphone-simple-techniques/"><u>[Updated] Brightening Dark Photos on Iphone - Simple Techniques</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-dive-deep-into-dynamic-dialogue-dives-for-2024/"><u>[Updated] Dive Deep Into Dynamic Dialogue Dives for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-tips-of-recording-time-lapse-video-on-iphone/"><u>[Updated] Tips of Recording Time Lapse Video on iPhone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-under-100-investments-in-action-cameras-top-selections/"><u>[Updated] Under $100 Investments in Action Cameras – Top Selections</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-best-companions-for-podcast-lovers-activities-and-tasks/"><u>2024 Approved Best Companions for Podcast Lovers Activities and Tasks</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expertise-in-the-field-a-complete-guide-to-srt-files/"><u>2024 Approved Expertise in the Field A Complete Guide to SRT Files</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-tiktok-meets-snap-a-comparative-study-of-social-media-platforms/"><u>2024 Approved TikTok Meets Snap A Comparative Study of Social Media Platforms</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/action-camera-essentials-a-novices-purchase-primer/"><u>Action Camera Essentials A Novice’s Purchase Primer</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/alternative-methods-for-removing-an-iphone-sim-without-the-pin/"><u>Alternative Methods for Removing an iPhone SIM Without the Pin</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-oppo-k11-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Oppo K11 5G via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/boost-communication-how-to-use-google-hangouts-on-mobile/"><u>Boost Communication How to Use Google Hangouts on Mobile</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/boost-your-stream-the-ultimate-top-5-applications-for-twitch-stars/"><u>Boost Your Stream: The Ultimate Top 5 Applications for Twitch Stars</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/breaking-down-barriers-your-universal-guide-to-chatgpt-access/"><u>Breaking Down Barriers: Your Universal Guide to ChatGPT Access</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/code-19-errors-in-windows-diagnosis-and-repair-strategies-unveiled/"><u>Code 19 Errors in Windows: Diagnosis and Repair Strategies Unveiled</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/corrected-non-hid-interactive-capability-in-touch-screen/"><u>Corrected Non-HID Interactive Capability in Touch Screen</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-finest-free-software-updater-tools-a-selection-of-11-picks/"><u>Discover the Finest Free Software Updater Tools: A Selection of 11 Picks</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-premier-free-alternatives-to-skype-available-in-202/"><u>Discover the Premier FREE Alternatives to Skype Available in 202</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722891632158-elevate-your-digital-experience-with-our-selection-of-the-best-free-email-services/"><u>Elevate Your Digital Experience with Our Selection of the Best FREE Email Services!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/error-free-windows-a-guide-to-solving-advapi32dll-not-found-issues/"><u>Error-Free Windows: A Guide to Solving advapi32.dll Not Found Issues</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-7-free-educational-apps-every-student-needs-before-the-new-term-begins/"><u>Essential 7 FREE Educational Apps Every Student Needs Before the New Term Begins</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/find-someone-fast-a-guide-to-the-top-8-people-search-platforms/"><u>Find Someone Fast: A Guide to the Top 8 People Search Platforms</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fixed-solutions-when-your-apple-watch-cant-reach-the-cellular-network/"><u>Fixed! Solutions When Your Apple Watch Can't Reach the Cellular Network</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-to-sending-audio-notes-from-your-ios-device/"><u>Guide to Sending Audio Notes From Your iOS Device</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-effective-techniques-on-how-to-check-website-uptime-via-ping/"><u>Guide: Effective Techniques on How To Check Website Uptime Via Ping</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-enhancing-gmail-efficiency-with-advanced-filtering-techniques/"><u>Guide: Enhancing Gmail Efficiency with Advanced Filtering Techniques</u></a></li>
-<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-itel-a60-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Itel A60 | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-fix-lameencdll-not-found-errors/"><u>How to Fix Lame_enc.dll Not Found Errors</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-itel-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Itel</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-update-the-location-on-your-apple-smartphone/"><u>How to Update the Location on Your Apple Smartphone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-article-implementing-robotic-helpers-in-your-discord-channels-efficiently/"><u>How-To Article: Implementing Robotic Helpers in Your Discord Channels Efficiently</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-6ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone 6/iPad | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-filmoras-blueprint-for-stellar-youtube-trailers/"><u>In 2024, Filmora's Blueprint for Stellar YouTube Trailers</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-vivo-s17t-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Vivo S17t Phones? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Google Pixel 7a | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-lava-blaze-pro-5g-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Lava Blaze Pro 5G Screen | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/lost-access-steps-to-retrieve-your-facebook-account-without-using-an-email-or-mobile/"><u>Lost Access: Steps to Retrieve Your Facebook Account Without Using an Email or Mobile</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-saving-wet-iphones-and-ipods-a-comprehensive-tutorial/"><u>Mastering the Art of Saving Wet iPhones and iPods - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/microsoft-teams-outage-identifying-system-glitches-or-user-issues/"><u>Microsoft Teams Outage: Identifying System Glitches or User Issues?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/purchasing-ebooks-via-apples-books-app-a-guide-for-iphone-and-ipad-users/"><u>Purchasing eBooks via Apple's Books App: A Guide for iPhone and iPad Users</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/quick-fix-accessing-your-ipad-sans-password-a-how-to-tutorial/"><u>Quick Fix: Accessing Your iPad Sans Password - A How-To Tutorial</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-d3dx925dll-error-a-comprehensive-guide/"><u>Resolving d3dx9_25.dll Error: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-d3dx927dll-file-not-detected-step-by-step-guide/"><u>Resolving d3dx9_27.dll File Not Detected - Step-by-Step Guide</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/safeguard-your-apple-phone-exploring-6-leading-virus-shield-applications/"><u>Safeguard Your Apple Phone: Exploring 6 Leading Virus Shield Applications</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/samsung-tv-app-troubles-heres-how-to-restore-their-functionality-easily/"><u>Samsung TV App Troubles? Here's How to Restore Their Functionality Easily</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-the-issue-steps-to-take-when-your-amazon-echo-appears-disconnected/"><u>Solving the Issue: Steps to Take When Your Amazon Echo Appears Disconnected</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-setting-up-your-psn-profile/"><u>Step-by-Step Guide: Setting Up Your PSN Profile</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solution-handling-the-absence-of-mfc42dll-file-errors/"><u>Step-by-Step Solution: Handling the Absence of mfc42.dll File Errors</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-5-best-free-sports-streaming-sites-of-2024/"><u>The 5 Best Free Sports Streaming Sites of 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-easy-way-to-use-timer-functionality-in-ios-photography/"><u>The Easy Way to Use Timer Functionality in iOS Photography</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-resolving-your-xbox-ones-no-signal-issue/"><u>Troubleshooting Guide: Resolving Your Xbox One's No Signal Issue</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-resolving-issues-with-samsung-tv-applications/"><u>Troubleshooting Steps: Resolving Issues with Samsung TV Applications</u></a></li>
-<li><a href="https://facebook.techidaily.com/turn-off-facebooks-embedded-web-experience/"><u>Turn Off Facebook's Embedded Web Experience</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-boosting-your-rank-on-apple-tv/"><u>Ultimate Guide: Boosting Your Rank on Apple TV</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-step-by-step-mechanical-keyboard-maintenance/"><u>Ultimate Guide: Step-by-Step Mechanical Keyboard Maintenance</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/understanding-enhanced-functionality-in-nero-waveedito-as/"><u>Understanding Enhanced Functionality in Nero WaveEdito As</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-transport-costs-is-an-uber-really-a-budget-friendly-alternative-to-taxi-services/"><u>Understanding Transport Costs: Is an Uber Really a Budget-Friendly Alternative to Taxi Services?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unmasking-phony-friends-key-tips-for-detecting-fake-friend-queries-online/"><u>Unmasking Phony Friends: Key Tips for Detecting Fake Friend Queries Online</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-unleash-the-drama-top-slow-motion-video-editing-apps-for-2024/"><u>Updated Unleash the Drama Top Slow Motion Video Editing Apps for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/utilizing-advanced-ai-features-from-meta-to-boost-your-instagram-game/"><u>Utilizing Advanced AI Features From Meta to Boost Your Instagram Game</u></a></li>
-<li><a href="https://techtrends.techidaily.com/what-to-do-when-your-automobile-audio-goes-silent/"><u>What to Do When Your Automobile Audio Goes Silent?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/wireless-display-a-comprehensive-tutorial-on-laptop-and-tv-connectivity-via-hdmi/"><u>Wireless Display: A Comprehensive Tutorial on Laptop & TV Connectivity via HDMI</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-elevate-your-content-game-studio-aptitude-essentials/"><u>[Updated] Elevate Your Content Game Studio Aptitude Essentials</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-step-by-step-to-facial-obscurity-in-image-editing/"><u>A Step-by-Step to Facial Obscurity in Image Editing</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-steam-vac-denial-for-gaming-sessions/"><u>Addressing Steam VAC Denial for Gaming Sessions</u></a></li>
+<li><a href="https://techidaily.com/diablo-ii-reimagined-ultimate-tips-and-tricks-for-maximizing-frame-rate/"><u>Diablo II Reimagined: Ultimate Tips & Tricks for Maximizing Frame Rate</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-locked-out-of-iphone-6-5-ways-to-get-into-a-locked-iphone-6-drfone-by-drfone-ios/"><u>In 2024, Locked Out of iPhone 6? 5 Ways to get into a Locked iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-memories-in-motion-a-step-by-step-guide-for-digital-conversion/"><u>In 2024, Memories in Motion A Step-by-Step Guide for Digital Conversion</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/inside-the-future-of-transportation-unpacking-the-tesla-robotaxi-deal-release-info-and-specs-included/"><u>Inside the Future of Transportation: Unpacking the Tesla Robotaxi Deal - Release Info and Specs Included</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mac-multi-screen-mastery-a-step-by-step-guide/"><u>Mac Multi-Screen Mastery: A Step-by-Step Guide</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mediamenderpro-fix-and-mend-vids/"><u>MediaMenderPro: Fix and Mend Vids</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-updating-zoom-on-windowsmac/"><u>Step-by-Step Guide: Updating Zoom on Windows/Mac</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tips-and-tricks-control-the-display-of-the-graphic-keyboard-on-your-windows-10-system/"><u>Tips and Tricks: Control the Display of the Graphic Keyboard on Your Windows 10 System</u></a></li>
 </ul></div>
+

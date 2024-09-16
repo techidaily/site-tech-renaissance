@@ -1,7 +1,7 @@
 ---
 title: "Hitachi's Ultra-Definition TV Range: Seamless Access to Entertainment with Built-In Roku Systems"
-date: 2024-09-09T15:53:44.462Z
-updated: 2024-09-10T15:53:44.462Z
+date: 2024-09-13T23:22:46.487Z
+updated: 2024-09-15T16:26:15.686Z
 categories:
   - BestProducts
 description: "This Article Describes Hitachi's Ultra-Definition TV Range: Seamless Access to Entertainment with Built-In Roku Systems"
@@ -27,57 +27,15 @@ thumbnail: https://thmb.techidaily.com/ab4dfc265d3ec072f529482c24c8089138367c7bb
 1. Turn on your PS5, and open**Settings** from the main menu.  
 ![Playstation 5 dashboard with Settings highlighted](https://www.lifewire.com/thmb/SgkRTTRVRqbxRg0AJLYr6FWqfG4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-remote-play-ps5-games-on-android-50896111-df8a16a465fe41e7aef3d5ad05b4a7c8.jpg)
 2. Then, navigate to**Screen and Video** .  
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Screen and Video in PS5 settings](https://www.lifewire.com/thmb/YCLQ2vGLnavPgpRPNtxhU7n6NFw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Screen-and-Video-Settings-aa8ff277b8254627a1a8c88e1c91f9cf.jpg)
 3. Choose**Video Output** on the left side of the screen.  
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Video Output in PS5 Screen and Video settings](https://www.lifewire.com/thmb/Xgk1MNv2WwvyRO7tv2bHEF4oiqo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Video-Output-46b505f379064535ac4977a29faee336.jpg)
 4. Select**120 Hz Output** .  
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![120 Hz Output in PS5 settings](https://www.lifewire.com/thmb/hxj9hKX_96UCkA07Y8Rzo91hvKo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/120-Output-9e18a336656f4caf97cc91724b032df2.jpg)
 5. Select**Automatic** (you won't have an**On** option because not every game supports 120 Hz output).  
 ![The "Automatic" option ](https://www.lifewire.com/thmb/N0N2mbCdwDADtM0UH7Q50TlNT2U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Automatic-8261fa6f79014410bb3948ebcbcac568.jpg)
 6. Now, if a game has an option for 120 frames per second and you turn it on, your PS5 will output at that rate.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What You Need to Get 120 FPS on PS5
 
  The most important requirement is a display with a 120 Hz refresh rate. You can use a TV or a monitor, and displays with 120 Hz support are pretty common today, so you shouldn't have trouble finding one.
@@ -89,11 +47,18 @@ thumbnail: https://thmb.techidaily.com/ab4dfc265d3ec072f529482c24c8089138367c7bb
  Lastly, keep in mind that not every game supports 120 FPS. You won't typically see that information on the game box, unfortunately, but you should find it in shop listings. And, of course, you can check the menus for a 120 FPS option.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Which PS5 Games Support 120 FPS?
 
  There are over 100 PlayStation 5 games that support 120Hz, with more coming out all the time. Here are some popular ones:
@@ -131,8 +96,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,47 +105,15 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-proficient-movie-recording-multiplatform-devices-unveiled/"><u>[New] 2024 Approved Proficient Movie Recording Multiplatform Devices Unveiled</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-unveil-image-by-removing-surroundings-for-2024/"><u>[New] Unveil Image by Removing Surroundings for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-yuneecs-typhoon-h-an-aerial-powerhouse-review/"><u>2024 Approved Unveiling Yuneec’s Typhoon H An Aerial Powerhouse Review</u></a></li>
-<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Huawei Nova Y71 | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/a-journey-through-aether-insights-and-how-you-can-be-a-part-of-it/"><u>A Journey Through Aether: Insights and How You Can Be a Part of It</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-itel-a60-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Itel A60 | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/best-5-minute-timelapse-video-maker-top-for-2024/"><u>Best 5-Minute Timelapse Video Maker #Top for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722856512919-best-childrens-movie-selection-for-disneyplus-watch-party-july-2024-edition/"><u>Best Children's Movie Selection for Disney+ Watch Party - July 2024 Edition</u></a></li>
-<li><a href="https://windows11.techidaily.com/big-byte-in-mini-pcs-but-barely-booming/"><u>Big Byte in Mini PCs, But Barely Booming</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-selection-of-7-free-internet-fax-providers/"><u>Discover the Ultimate Selection of 7 Free Internet Fax Providers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-ways-to-play-apple-tvplus-on-your-smart-tvs-chromecast-feature/"><u>Easy Ways to Play Apple TV+ on Your Smart TV's Chromecast Feature</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/eliminating-unwanted-emergency-and-amber-warnings-from-your-apple-device/"><u>Eliminating Unwanted Emergency and Amber Warnings From Your Apple Device</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ensuring-a-safe-chat-environment-implementing-family-friendly-restrictions-on-discord/"><u>Ensuring a Safe Chat Environment: Implementing Family-Friendly Restrictions on Discord</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-advice-the-ultimate-techniques-for-purging-cache-on-android-devices/"><u>Expert Advice: The Ultimate Techniques for Purging Cache on Android Devices</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/explore-these-exceptional-free-online-calendars-ranked-1-to-4/"><u>Explore These Exceptional Free Online Calendars: Ranked #1 to #4</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-features-and-benefits-of-rtx-video-cards/"><u>Exploring the Features and Benefits of RTX Video Cards</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fix-a-freezing-chromebook-8-effective-solutions/"><u>Fix a Freezing Chromebook: 8 Effective Solutions</u></a></li>
-<li><a href="https://win-dash.techidaily.com/free-canon-ip110-printer-drivers-for-windows-11-10-8-and-7-download-now/"><u>Free Canon IP110 Printer Drivers for Windows 11, 10, 8 & 7 - Download Now</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-to-switching-off-iphone-15-propro-max-devices-easy-steps-inside/"><u>Guide to Switching Off iPhone 15 Pro/Pro Max Devices: Easy Steps Inside</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-is-verizon-shaping-the-future-of-5g-technology/"><u>How Is Verizon Shaping the Future of 5G Technology?</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-get-your-pc-to-recognize-razer-devices-again/"><u>How to Get Your PC to Recognize Razer Devices Again</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-install-the-latest-drivers-for-your-logitech-m310-mouse/"><u>How To Install The Latest Drivers For Your Logitech M310 Mouse</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-xiaomi-redmi-k70-pro-phone-by-drfone-android/"><u>How to Reset a Locked Xiaomi Redmi K70 Pro Phone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/immerse-yourself-in-audio-excellence-a-curated-selection-of-the-15-best-movies-with-dolby-atmos-for-home-viewers/"><u>Immerse Yourself in Audio Excellence – A Curated Selection of the 15 Best Movies with Dolby Atmos for Home Viewers</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-chasing-deals-on-vr-gear-in-china/"><u>In 2024, Chasing Deals on VR Gear in China</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Vivo X100 Pro? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-monetizing-popularity-pay-per-million-views/"><u>In 2024, Monetizing Popularity Pay Per Million Views</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-the-ebb-and-flow-of-trending-tweets/"><u>In 2024, The Ebb and Flow of Trending Tweets</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-iphone-xs-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud On your iPhone XS</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722901513634-macos-15-sequoia-is-coming-find-out-the-announcement-date-enhancements-and-latest-updates/"><u>MacOS 15 Sequoia Is Coming: Find Out the Announcement Date, Enhancements & Latest Updates</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/overcoming-digital-tv-glitches-improve-your-signal-with-a-dedicated-indoor-antenna/"><u>Overcoming Digital TV Glitches? Improve Your Signal with a Dedicated Indoor Antenna</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/perfect-android-companion-top-ranked-applications-for-smartwatches/"><u>Perfect Android Companion: Top-Ranked Applications for Smartwatches</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-gsdll32dll-file-not-found-a-step-by-step-guide/"><u>Resolving gsdll32.dll File Not Found: A Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ing-youtubes-discussions-for-2024/"><u>Scouring YouTubes' Discussions for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-the-mfc42dll-file-not-present-issue-a-step-by-step-guide/"><u>Solving the mfc42.dll File Not Present Issue: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/speaking-the-language-of-voice-memos-a-comprehensive-guide-for-iphone-enthusiasts/"><u>Speaking the Language of Voice Memos – A Comprehensive Guide for iPhone Enthusiasts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/telegram-explained-everything-you-need-to-know-about-this-messaging-app/"><u>Telegram Explained: Everything You Need to Know About This Messaging App</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-definitive-guide-to-linking-your-devices-techniques-for-effective-use-of-bose-soundlink/"><u>The Definitive Guide to Linking Your Devices: Techniques for Effective Use of Bose SoundLink</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-7-engaging-online-game-sites-for-children/"><u>Top 7 Engaging Online Game Sites for Children</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-missing-or-lost-cygwin1dll-errors-in-windows/"><u>Troubleshooting Missing or Lost cygwin1.dll Errors in Windows</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-wii-disc-reading-problems-expert-tips-and-tricks/"><u>Troubleshooting Wii Disc Reading Problems: Expert Tips and Tricks</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-resolving-the-binkw32dll-file-not-found-issue/"><u>Ultimate Guide: Resolving the Binkw32.dll File Not Found Issue</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/what-does-metas-ai-technology-offer/"><u>What Does Meta's AI Technology Offer?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-immaculate-visual-logging-systems/"><u>[New] In 2024, Immaculate Visual Logging Systems</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-streaming-beyond-streamlabs-a-comparative-study/"><u>[New] In 2024, Streaming Beyond StreamLabs A Comparative Study</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-top-picks-for-professional-video-opening-tools/"><u>[New] In 2024, Top Picks for Professional Video Opening Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-spotify-promotion-a-comprehensive-guide/"><u>[New] Mastering Spotify Promotion A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-best-practices-for-embedding-facebook-video-streams-for-2024/"><u>[Updated] Best Practices for Embedding Facebook Video Streams for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-photobooth-lags-steadying-the-playback-journey/"><u>2024 Approved Photobooth Lags Steadying the Playback Journey</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-what-to-watch-now-with-lifewires-expert-picks/"><u>Discover What To Watch Now With Lifewire’s Expert Picks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/permanent-deletion-tips-how-to-erase-your-yahoo-email-address/"><u>Permanent Deletion Tips: How To Erase Your Yahoo Email Address</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-trick-how-to-freeze-unnecessary-android-app-operations-behind-the-scene/"><u>The Ultimate Trick: How to Freeze Unnecessary Android App Operations Behind the Scene</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtube-live-excellence-a-comprehensive-tutorial-for-2024/"><u>YouTube Live Excellence A Comprehensive Tutorial for 2024</u></a></li>
 </ul></div>
+

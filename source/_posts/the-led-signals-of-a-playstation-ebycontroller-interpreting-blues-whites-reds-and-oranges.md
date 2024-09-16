@@ -1,7 +1,7 @@
 ---
 title: "The LED Signals of a PlayStation Ebycontroller: Interpreting Blues, Whites, Reds and Oranges"
-date: 2024-09-09T15:54:33.580Z
-updated: 2024-09-10T15:54:33.580Z
+date: 2024-09-08T22:22:36.961Z
+updated: 2024-09-15T23:48:41.382Z
 categories:
   - BestProducts
 description: "This Article Describes The LED Signals of a PlayStation Ebycontroller: Interpreting Blues, Whites, Reds and Oranges"
@@ -15,12 +15,6 @@ Close
 
  The LED light on top of a PS4 controller can tell you a lot about its status. Whether it's flashing blue, white, red, or orange, the causes and potential fixes are often the same.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Why Is My PS4 Controller Blinking Blue? 
 
  The LED light on your PS4 controller flashes blue when it's trying to connect with the console. The light should turn solid blue shortly after your press the**PS** button.
@@ -36,20 +30,8 @@ Close
 
 ![A Playstation 4 with a controller on a wood-grain surface](https://www.lifewire.com/thmb/g4OChvyP7jnt_kwqFWX5VEdgoBU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ps4-2326616_1280-09912014986f461fbafdce07c1e9fad1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 InspiredImages/Pixabay
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Why Is My PS4 Controller Flashing White? 
 
  If the LED light on your PS4 controller is blinking white, it's due to one of two reasons:
@@ -59,12 +41,6 @@ InspiredImages/Pixabay
 
  If you continue to have trouble with your console, you can try[ resetting your PS4 to factory settings](https://www.lifewire.com/how-to-reset-your-ps4-4173916) , but you will lose any data on your hard drive that's not backed up to the cloud.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Why Is My PS4 Controller Blinking Red? 
 
  A flashing red light on a PS4 controller usually indicates a hardware issue such as a defective charging port, cable, or battery.
@@ -74,11 +50,12 @@ InspiredImages/Pixabay
  If you're sure the battery or charging port on your controller is defective, you can replace it. This is an advanced fix that requires you to open up your controller, so you might be better off buying a new one. If the controller is still under warranty, you should send it in for repairs.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Why Is My PS4 Controller Flashing Orange? 
 
  A blinking orange light on your PS4 means it is charging in rest mode. Try these fixes:
@@ -89,11 +66,18 @@ InspiredImages/Pixabay
 ![Supply Power to USB Ports in PlayStation 4 settings](https://www.lifewire.com/thmb/LJDfeunJAa8PB2wou89_OvQhlyQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_why-is-my-ps4-controller-blinking-blue-white-red-or-orange-6754246-0eef66506e3b4750b67651589c886fb9.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  To rule out minor technical hiccups, power cycle the PS4, then reset the controller and let it charge for a couple of hours. If the controller loses its charge too quickly, the internal battery is probably defective.
 
  FAQ
@@ -129,8 +113,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -140,37 +122,20 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-original-design-potential-utilize-free-logo-templates-and-customization-tools/"><u>[New] 2024 Approved Original Design Potential Utilize FREE Logo Templates & Customization Tools</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-complete-guide-to-slow-down-a-video-on-snapchat/"><u>[New] Complete Guide to Slow Down a Video on Snapchat</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-dji-drone-visor-revolution-an-in-depth-review/"><u>[New] The DJI Drone Visor Revolution An In-Depth Review</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-demystifying-vimeo-top-choice-for-filmmakers/"><u>2024 Approved Demystifying Vimeo Top Choice for Filmmakers</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-essential-guide-to-building-youtube-music-playlists/"><u>2024 Approved The Essential Guide to Building YouTube Music Playlists</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722870555754-anticipating-the-arrival-in-depth-rumors-on-specs-launch-plans-and-potential-costs-of-the-new-samsung-galaxy-z-fold-prise-the-7-edition/"><u>Anticipating the Arrival - In-Depth Rumors on Specs, Launch Plans, and Potential Costs of the New Samsung Galaxy Z Fold Prise: The 7 Edition</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apple-wearable-device-with-direct-audio-news-and-expected-price-release-date-specs-and-more-rumors/"><u>Apple Wearable Device With Direct Audio: News and Expected Price, Release Date, Specs; and More Rumors</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/best-10-smartphone-applications-for-todays-students/"><u>Best 10 Smartphone Applications for Today's Students</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/best-streaming-services-of-2024-ranked-enhancing-your-tv-experience/"><u>Best Streaming Services of 2024 Ranked: Enhancing Your TV Experience</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/common-reasons-behind-iphones-ringless-dialing-and-how-to-solve-them/"><u>Common Reasons Behind iPhone's Ringless Dialing and How to Solve Them</u></a></li>
-<li><a href="https://program-issues.techidaily.com/comprehensive-guide-to-debugging-crossbow-problems-in-minecraft-gameplay/"><u>Comprehensive Guide to Debugging Crossbow Problems in Minecraft Gameplay</u></a></li>
-<li><a href="https://program-issues.techidaily.com/comprehensive-solutions-for-unstable-or-crashed-pacific-drive-applications/"><u>Comprehensive Solutions for Unstable or Crashed Pacific Drive Applications</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/detecting-false-friends-in-your-digital-network/"><u>Detecting False Friends in Your Digital Network</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/diy-approach-to-correcting-inaccessible-msvmctfdll-mistakes-on-your-computer/"><u>DIY Approach to Correcting Inaccessible msvmctf.dll Mistakes on Your Computer</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/te-video-success-gaining-youtube-confidence-skills-for-2024/"><u>Emulate Video Success Gaining YouTube Confidence Skills for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fixing-a-dead-zone-reviving-your-unresponsive-amazon-firestick-control-device/"><u>Fixing a Dead Zone: Reviving Your Unresponsive Amazon Firestick Control Device</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-does-the-roku-express-compare-to-the-classic-roku-stick/"><u>How Does the Roku Express Compare to the Classic Roku Stick?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-successfully-address-and-repair-btballoondll-file-unavailable-mishap/"><u>How to Successfully Address and Repair btballoon.dll File Unavailable Mishap</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Vivo Y100i? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-with-toms-technology-guides/"><u>Mastering Gadgets with Tom's Technology Guides</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-message-control-stop-unsolicited-text-messages-on-apple-phones/"><u>Mastering Message Control: Stop Unsolicited Text Messages on Apple Phones</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-ipad-battery-upgrades-at-home/"><u>Mastering the Art of iPad Battery Upgrades at Home</u></a></li>
-<li><a href="https://facebook.techidaily.com/metas-privacy-features-versus-facebook-in-oculus-quest/"><u>Meta's Privacy Features Versus Facebook in Oculus Quest</u></a></li>
-<li><a href="https://fox-that.techidaily.com/prevent-your-airpods-from-automatically-connecting-to-multiple-iphones/"><u>Prevent Your AirPods From Automatically Connecting to Multiple iPhones</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/steam-refund-procedures-a-step-by-step-guide/"><u>Steam Refund Procedures: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-for-snapping-screenshots-on-nintendo-switch-console/"><u>Step-by-Step Tutorial for Snapping Screenshots on Nintendo Switch Console</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tracking-the-heat-levels-of-your-apple-macbook-proair/"><u>Step-by-Step: Tracking the Heat Levels of Your Apple MacBook Pro/Air</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-10-most-effective-note-taking-apps-for-the-year-2024/"><u>Top 10 Most Effective Note-Taking Apps for the Year 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/tutorial-for-blocking-anonymous-phone-calls-on-iphones-effectively/"><u>Tutorial for Blocking Anonymous Phone Calls on iPhones Effectively</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlocking-your-pc-how-to-disable-the-login-pin-on-windows-10/"><u>Unlocking Your PC: How to Disable the Login Pin on Windows 10</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722887216005-unveiling-the-samsung-galaxy-s25-anticipated-costs-launch-timeline-and-features/"><u>Unveiling the Samsung Galaxy S25 - Anticipated Costs, Launch Timeline & Features</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/what-hugs-chat-the-open-source-twin-to-chatgpts-world/"><u>What Hugs Chat? - The Open Source Twin to ChatGPT's World</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Motorola G54 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-reviewing-the-core-of-magix-photo-framework/"><u>[New] Reviewing the Core of MAGIX Photo Framework</u></a></li>
+<li><a href="https://extra-support.techidaily.com/professional-tips-sharpen-and-brighten-your-iphones-hdri-in-adobe-premiere-pro-for-2024/"><u>[Professional Tips] Sharpen and Brighten Your iPhone's HDRI in Adobe Premiere Pro for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-from-plot-to-post-a-detailed-guide-to-writing-youtube-videos/"><u>[Updated] From Plot to Post A Detailed Guide to Writing YouTube Videos</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/avoid-parsing-failures-8-essential-tips-for-cleaner-android-app-development/"><u>Avoid Parsing Failures: 8 Essential Tips for Cleaner Android App Development</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-aether-understanding-its-nature-and-the-pathways-to-engagement/"><u>Discover Aether: Understanding Its Nature & The Pathways to Engagement</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-monthly-highlights-premium-verizon-device-exchange-options/"><u>Discover Monthly Highlights: Premium Verizon Device Exchange Options</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/free-download-latest-nvidia-gaming-drivers-compatible-with-windows/"><u>Free Download: Latest NVIDIA Gaming Drivers Compatible with Windows</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/from-first-steps-to-proficiency-in-iphone-voice-memos-for-2024/"><u>From First Steps to Proficiency in iPhone Voice Memos for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-take-a-screenshot-on-windows-8-easily/"><u>How to Take a Screenshot on Windows 8 [Easily!]</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/innovative-crypto-mining-cpu-the-latest-breakthrough-by-intel/"><u>Innovative Crypto-Mining CPU: The Latest Breakthrough by Intel</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/mastering-fair-use-navigating-youtube-copyright-challenges/"><u>Mastering Fair Use Navigating YouTube Copyright Challenges</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-full-image-uploads-a-complete-guide-for-instagram/"><u>Mastering Full Image Uploads: A Complete Guide for Instagram</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/microsofts-decision-phasing-out-more-built-in-utilities-in-windows-11/"><u>Microsoft's Decision: Phasing Out More Built-In Utilities in Windows 11</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/stanley-j5c09-5-in-1-jobsite-compact-crawler-saw-strength-and-efficiency-in-one-unit/"><u>Stanley J5C09 5-in-1 JobSite Compact Crawler Saw: Strength and Efficiency in One Unit</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-bypassing-your-ipads-security-lock/"><u>Ultimate Guide: Bypassing Your iPad's Security Lock</u></a></li>
 </ul></div>
+

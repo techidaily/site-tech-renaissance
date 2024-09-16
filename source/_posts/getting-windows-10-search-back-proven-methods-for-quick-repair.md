@@ -1,7 +1,7 @@
 ---
 title: "Getting Windows 10 Search Back: Proven Methods for Quick Repair"
-date: 2024-09-09T15:52:30.456Z
-updated: 2024-09-10T15:52:30.456Z
+date: 2024-09-10T16:40:53.501Z
+updated: 2024-09-15T23:21:12.727Z
 categories:
   - BestProducts
 description: "This Article Describes Getting Windows 10 Search Back: Proven Methods for Quick Repair"
@@ -18,18 +18,6 @@ thumbnail: https://thmb.techidaily.com/b23bb1390888971501bf6f6573871e6ccaea8d685
 
  This article explains all the different ways to make Windows 11 screenshots.
 
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Use PrtScn to Screenshot the Whole Screen
 
  There are many ways to make screenshots in Windows 11, the most basic being to use the**PrtScn** (aka**PrtSc** ) button on your keyboard. This captures the entire screen, including multiple displays if you have them, plus all visible windows, the taskbar, the Start button, etc. You can then paste the screenshot into any program that supports image pasting.
@@ -40,12 +28,6 @@ thumbnail: https://thmb.techidaily.com/b23bb1390888971501bf6f6573871e6ccaea8d685
 
 [16 Ways To Fix It When Print Screen Is Not Working in Windows](https://www.lifewire.com/fix-print-screen-not-working-5442833)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fullscreen Screenshot and Auto-save to Folder
 
  `Win+PrtSc`
@@ -59,11 +41,12 @@ thumbnail: https://thmb.techidaily.com/b23bb1390888971501bf6f6573871e6ccaea8d685
 [How to Screenshot on a Logitech Keyboard](https://www.lifewire.com/take-screenshot-with-logitech-keyboard-5186441)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Screenshot Part of the Screen
 
  `Win+Shift+S`
@@ -88,17 +71,12 @@ thumbnail: https://thmb.techidaily.com/b23bb1390888971501bf6f6573871e6ccaea8d685
 ![A Windows 11 screenshot open in Snipping Tool](https://www.lifewire.com/thmb/n8hloKQGZfQTHNEMKqTmWZC4D_M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-snipping-tool-cfcc4b1e0c154d509e2d312ce4538e4e.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## Delayed Screenshots With Snipping Tool
 
  Pull up the search button from the taskbar and enter**Snipping Tool** to open the app. This tool was briefly covered above, but what we'll look at now is the delayed screenshot function.
@@ -107,18 +85,6 @@ thumbnail: https://thmb.techidaily.com/b23bb1390888971501bf6f6573871e6ccaea8d685
 
  With the program open, select the**stopwatch** . There are three options:**3-second delay** ,**5-second delay** , and**10-second delay** . Select one, choose**New** , and then quickly arrange the screen in the way you need it for the screenshot. When the time you chose is reached, the four options above will display at the top of the screen.
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Tips for Taking Screenshots in Windows 11
 
 * Once an image is loaded in Snipping Tool, use the crop tool to define further which part you want to keep without needing to retake the screenshot.
@@ -156,8 +122,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,38 +131,19 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-go-global-with-music-transform-your-spotify-lists-into-youtube-videos-for-2024/"><u>[New] Go Global with Music Transform Your Spotify Lists Into YouTube Videos for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-apeak-recording-examined-quality-and-features-decoded/"><u>[New] In 2024, Apeak Recording Examined Quality and Features Decoded</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-zombified-zealotry-artist/"><u>[New] Zombified Zealotry Artist</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-avatar-architecture-your-uncomplicated-guide-to-virtual-existence/"><u>[Updated] Avatar Architecture Your Uncomplicated Guide to Virtual Existence</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-make-any-tiktok-song-a-perfect-fit-for-your-mobile-device/"><u>[Updated] In 2024, Make Any TikTok Song a Perfect Fit for Your Mobile Device</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-instant-insight-method-for-punctuation-of-timelines-in-images/"><u>2024 Approved Instant Insight Method for Punctuation of Timelines in Images</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/accent-journey-delving-into-uk-us-and-australian-speech-patterns/"><u>Accent Journey: Delving Into UK, US, and Australian Speech Patterns</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/are-blu-ray-players-still-relevant-in-the-streaming-age/"><u>Are Blu-Ray Players Still Relevant in the Streaming Age?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/best-practices-for-downloading-and-installing-nvidia-quadro-rtx-4000-drivers-step-by-step-guide/"><u>Best Practices for Downloading & Installing NVIDIA Quadro RTX 4000 Drivers – Step-by-Step Guide</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/customized-ad-targeting-with-cutting-edge-cookiebot-technology/"><u>Customized Ad Targeting with Cutting-Edge Cookiebot Technology</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/customizing-your-iphone-with-dark-mode-features-users-manual/"><u>Customizing Your iPhone with Dark Mode Features: User's Manual</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/eliminating-normalizdll-not-found-messages-expert-tips-and-tricks/"><u>Eliminating 'Normaliz.dll Not Found' Messages: Expert Tips & Tricks</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/experts-choice-4-exceptional-free-cad-programs-for-designers/"><u>Experts' Choice: 4 Exceptional Free CAD Programs for Designers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-how-fast-and-responsive-ram-influences-system-efficiency/"><u>Exploring How Fast and Responsive RAM Influences System Efficiency</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-ultimate-spots-for-your-next-phone-purchase/"><u>Exploring the Ultimate Spots for Your Next Phone Purchase</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/from-keys-to-charms-a-simple-tutorial-on-typing-the-universal-love-sign/"><u>From Keys to Charms: A Simple Tutorial on Typing the Universal Love Sign</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hours-of-videography-expected-gb-usage-for-2024/"><u>Hours of Videography Expected GB Usage for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-correctly-address-and-resolve-xlivedll-file-cannot-be-found-mistake/"><u>How to Correctly Address and Resolve Xlive.dll File Cannot Be Found Mistake</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-analyzing-the-financial-gains-of-podcasting/"><u>In 2024, Analyzing the Financial Gains of Podcasting</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/inside-scoop-on-the-new-m4-mac-mini-pricing-insights-launch-schedule-and-full-feature-breakdown/"><u>Inside Scoop on the New M4 Mac Mini - Pricing Insights, Launch Schedule, and Full Feature Breakdown</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-electronics-the-ultimate-resource-by-toms-hardware-experts/"><u>Mastering Electronics: The Ultimate Resource by Tom's Hardware Experts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-microsoft-teams-a-guide-to-leveraging-copilot/"><u>Mastering Microsoft Teams: A Guide to Leveraging Copilot</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigate-with-ease-the-ultimate-selection-of-iphone-gps-applications/"><u>Navigate with Ease: The Ultimate Selection of iPhone GPS Applications</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigating-your-way-through-buying-a-dash-cam-consider-these-9-key-points-first/"><u>Navigating Your Way Through Buying a Dash Cam? Consider These 9 Key Points First</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/samsung-galaxy-ring-unlocking-information-on-pricing-release-schedule-and-features/"><u>Samsung Galaxy Ring - Unlocking Information on Pricing, Release Schedule & Features</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-devicemanager-code-41-troubleshooting-guide/"><u>Solving DEVICE_MANAGER Code 41 Troubleshooting Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-accessing-the-command-line-within-file-explorer/"><u>Step-by-Step Guide: Accessing the Command Line Within File Explorer</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-connecting-your-samsung-universal-remote-with-any-television/"><u>Step-by-Step Guide: Connecting Your Samsung Universal Remote with Any Television</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-how-to-enable-apple-tv-content-on-your-firestick-device/"><u>Step-by-Step Guide: How to Enable Apple TV Content on Your Firestick Device</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-downloading-free-manuals-for-all-iphone-models-online/"><u>Step-by-Step Instructions: Downloading Free Manuals for All iPhone Models Online</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/to-construct-or-to-acquire-discovering-if-a-self-built-computer-suits-your-needs-better/"><u>To Construct or to Acquire: Discovering if a Self-Built Computer Suits Your Needs Better</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-for-libgdk-win32-20-0dll-not-detected-problem/"><u>Troubleshooting Steps for libgdk-win32-2.0-0.dll Not Detected Problem</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-top-substitutes-to-chatgpt-you-cant-miss/"><u>Unveiling the Top Substitutes to ChatGPT You Can't Miss</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/youtube-thumbnails-top-20-fonts-for-stellar-credits/"><u>YouTube Thumbnails - Top 20 Fonts for Stellar Credits</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-unlock-professional-vimeo-edits-without-paid-software/"><u>[New] 2024 Approved Unlock Professional Vimeo Edits Without Paid Software</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-crafting-content-that-wins-on-ig-unboxing-edition/"><u>2024 Approved Crafting Content That Wins on IG Unboxing Edition</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/clearing-up-lines-on-your-tv-a-comprehensive-repair-guide/"><u>Clearing Up Lines on Your TV: A Comprehensive Repair Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-rainbow-six-extraction-drivers-issues-on-your-pc-top-solutions-revealed/"><u>Fixing 'Rainbow Six Extraction' Drivers Issues on Your PC - Top Solutions Revealed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-easily-link-samsung-wired-earbuds-to-a-desktop-pc/"><u>How To Easily Link Samsung Wired Earbuds to a Desktop PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-restart-an-iphone-15/"><u>How to Restart an iPhone 15</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-samsung-galaxy-a25-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Samsung Galaxy A25 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-x-mix-master-pro-for-computer-users/"><u>In 2024, X-Mix Master Pro for Computer Users</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/language-mastery-and-smart-brain-boosts/"><u>Language Mastery and Smart Brain Boosts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tips-for-overcoming-bumbles-matching-problems/"><u>Step-by-Step Tips for Overcoming Bumble's Matching Problems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-for-creating-stunning-edits-with-iphones-latest-cutout-tool-ios-16-edition/"><u>Step-by-Step Tutorial for Creating Stunning Edits with iPhone's Latest Cutout Tool, iOS 16 Edition</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/transferring-google-photo-library-to-icloud-a-comprehensive-guide/"><u>Transferring Google Photo Library to iCloud: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transforming-plain-words-into-3d-marvels-ps-guide-for-2024/"><u>Transforming Plain Words Into 3D Marvels PS Guide for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722881111596-why-isnt-my-yahoo-mail-getting-new-messages-heres-how-to-fix-it/"><u>Why Isn't My Yahoo Mail Getting New Messages? Here's How to Fix It!</u></a></li>
 </ul></div>
+

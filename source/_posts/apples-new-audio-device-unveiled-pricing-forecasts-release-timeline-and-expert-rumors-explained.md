@@ -1,7 +1,7 @@
 ---
 title: "Apple's New Audio Device Unveiled: Pricing Forecasts, Release Timeline, and Expert Rumors Explained"
-date: 2024-09-09T16:00:08.172Z
-updated: 2024-09-10T16:00:08.172Z
+date: 2024-09-11T19:19:55.246Z
+updated: 2024-09-15T20:57:28.871Z
 categories:
   - BestProducts
 description: "This Article Describes Apple's New Audio Device Unveiled: Pricing Forecasts, Release Timeline, and Expert Rumors Explained"
@@ -28,12 +28,6 @@ In This Article
 * **Price** : $2,000
 * **Specs** : Clamshell form factor, small outer screen
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## When Will the Foldable iPhone Be Released?
 
  Jeff Pu, an analyst at Haitong International Securities,[says Apple's first flip phone could come out](https://www.forbes.com/sites/ewanspence/2024/05/09/apple-folding-iphone-ipad-macbook-release-date/?sh=3862dfed1e98) in 2026\. This is backed up by a[2024 report from The Information](https://www.theinformation.com/articles/apple-moves-forward-with-foldable-iphone) and the Taiwanese newspaper_United Daily News_ which,[according to Patently Apple](https://www.patentlyapple.com/2024/02/a-new-supply-chain-report-claims-that-apples-foldable-iphone-project-is-still-in-the-works-with-vision-pro-team-members-now.html) , reports that part of the[Vision Pro](https://www.lifewire.com/apple-vr-headset-news-and-rumors-6744818) team is working on the foldable iPhone project with the intention of a 2026-2027 launch.
@@ -48,12 +42,6 @@ In This Article
 
 ![Foldable device illustration from patent US8929085B2](https://www.lifewire.com/thmb/wUd3t6RsFQmJnem6udFt2aVqAOw=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/US08929085-foldable-device-dcde96bb968a4de2b7048ee2ea3d4e33.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Patent US8929085B2.
 
  Another[patent filed in 2019](https://patents.google.com/patent/US20190324503A1/en?oq=20190324503) is for a device with a wrap-around display:
@@ -66,12 +54,6 @@ Patent US8929085B2.
 
 We don’t expect a foldable iPhone until at least 2026.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Foldable iPhone Price Rumors
 
  It won’t be cheap. Phones are increasingly approaching or even exceeding $1,000\. Just look at the[iPhone 15 Pro Max](https://www.lifewire.com/iphone-15-5202683) which starts at just over a grand.
@@ -84,38 +66,21 @@ We don’t expect a foldable iPhone until at least 2026.
 
 ![iPhone Fold concept](https://www.lifewire.com/thmb/rZm7q7oXYP54-AV8Jq5MPj1vPos=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Final_1-d0db91df8e834c7ab0aa2da0ab61b943.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 iPhone Fold concept.
 
 Michal Dufka
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Pre-Order Information
 
  It's way too early to suggest a pre-order date, but we'll keep this updated as the launch nears.  
 
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Foldable iPhone Features
 
  Over the years, as phones have gotten larger, we’ve enjoyed more screen real estate for things like reading, watching movies, playing games, and multitasking. A foldable phone is perfect for these activities.
@@ -152,6 +117,19 @@ Michal Dufka
 
  Bolstering the battery, processing power, and RAM will be a must to sustain multiple displays that could all independently multitask. Storage space might not change from the current iPhone lineup.
 
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The Latest News About the Foldable iPhone
 
  You can [get more smartphone news from Lifewire](https://www.lifewire.com/mobile-phone-news-4796390) . Here are some of the latest stories about foldable phones in particular:  
@@ -162,14 +140,11 @@ Michal Dufka
 
 [Sony Foldable Phone: News and Expected Price, Release Date, Specs; and More Rumors](https://www.lifewire.com/sony-foldable-phone-7553435)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -180,44 +155,20 @@ Michal Dufka
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-minimalist-obs-adjustments-for-under-500-pcs/"><u>[New] 2024 Approved Minimalist OBS Adjustments for Under-$500 PCs</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-simple-strategies-upside-down-video-rotation-via-vlc/"><u>[New] In 2024, Simple Strategies Upside-Down Video Rotation via VLC</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-streamline-your-screenshots-using-ezvides-capabilities/"><u>[New] Streamline Your Screenshots Using EZvide's Capabilities</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-journey-to-excellent-ps2-gaming-via-these-5-android-apps/"><u>[Updated] 2024 Approved Journey to Excellent PS2 Gaming via These 5 Android Apps</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-the-ultimate-watch-list-top-10-music-clips-on-facebook/"><u>[Updated] 2024 Approved The Ultimate Watch List Top 10 Music Clips on Facebook</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-precision-in-screen-recording-a-comprehensively-reviewed-list/"><u>[Updated] In 2024, Precision in Screen Recording A Comprehensively Reviewed List</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-streamlining-conversions-mp4-files-with-vlc-media-player/"><u>[Updated] In 2024, Streamlining Conversions MP4 Files with VLC Media Player</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-discovering-dormant-dialogues-among-youtube-watchers/"><u>2024 Approved Discovering Dormant Dialogues Among YouTube Watchers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-create-an-affordable-customizable-virtual-reality-gear/"><u>2024 Approved How to Create an Affordable, Customizable Virtual Reality Gear</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-key-strategies-for-gaining-facebooks-top-marker/"><u>2024 Approved Key Strategies for Gaining Facebook's Top Marker</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-methods-for-eliminating-invisible-youtube-playback/"><u>2024 Approved Methods for Eliminating Invisible YouTube Playback</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-to-multi-device-printer-networking/"><u>Comprehensive Guide to Multi-Device Printer Networking</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/diagnosing-and-repairing-lte-connectivity-failures-for-the-samsung-galaxy-user/"><u>Diagnosing and Repairing LTE Connectivity Failures for the Samsung Galaxy User</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/direct-solutions-expert-advice-to-resolve-the-unavailability-of-xlivedll-file-on-pc/"><u>Direct Solutions: Expert Advice to Resolve the Unavailability of Xlive.dll File on PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/disable-mouse-sensitivity-boost-in-macos-a-step-by-step-guide/"><u>Disable Mouse Sensitivity Boost in macOS - A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-most-enjoyable-kids-online-game-selection/"><u>Discover the Most Enjoyable Kid's Online Game Selection</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easily-set-up-a-distinctive-email-closing-in-godaddys-webmail-platform-a-comprehensive-tutorial/"><u>Easily Set Up a Distinctive Email Closing in GoDaddy's Webmail Platform – A Comprehensive Tutorial</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-lgbt-films-featured-on-netflix-for-july-2024-the-complete-list/"><u>Essential LGBT Films Featured on Netflix for July 2024: The Complete List</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-steps-resolving-issues-when-advapi32dll-cannot-be-located/"><u>Essential Steps: Resolving Issues When Advapi32.dll Cannot Be Located</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-advice-on-correcting-code-41-device-conflicts-in-system-settings/"><u>Expert Advice on Correcting Code 41 Device Conflicts in System Settings</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fixing-visible-line-disturbances-on-modern-televisions-expert-tips-and-tricks/"><u>Fixing Visible Line Disturbances on Modern Televisions: Expert Tips and Tricks</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/free-and-easy-the-best-websites-for-jpg-to-gif-transformation/"><u>Free & Easy The Best Websites for JPG to GIF Transformation</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/handling-the-error-of-non-existent-mfc-42dll-file-on-your-pc/"><u>Handling the Error of Non-Existent MFC 42.dll File on Your PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/harry-potter-movie-marathon-the-ideal-watching-sequence-explained/"><u>Harry Potter Movie Marathon: The Ideal Watching Sequence Explained</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-fix-missing-scanner-and-printer-drivers-on-windows-11-computers/"><u>How to Fix Missing Scanner & Printer Drivers on Windows 11 Computers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-from-silence-to-sounds-windows-10-recorder-use/"><u>In 2024, From Silence to Sounds Windows 10 Recorder Use</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Apple iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-iphone-12-pro-max-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My iPhone 12 Pro Max After Forgetting my PIN Code?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Samsung Galaxy A25 5G? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-itel-s23-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Itel S23 | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-finding-friends-on-facebook-a-guide-to-6-easy-strategies/"><u>Mastering the Art of Finding Friends on Facebook: A Guide to 6 Easy Strategies</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigating-macos-history-identifying-the-most-recent-operating-system-release/"><u>Navigating macOS History: Identifying the Most Recent Operating System Release</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723000268251-no-sound-in-lost-ark-here-are-the-solutions-you-need/"><u>No Sound in Lost Ark? Here Are the Solutions You Need!</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/pinnacle-devices-best-cars-surveillance-tech-for-2024/"><u>Pinnacle Devices Best Cars Surveillance Tech for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/secure-your-email-instructions-for-turning-on-gmails-two-step-verification/"><u>Secure Your Email: Instructions for Turning On Gmail's Two-Step Verification</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-most-effective-wi-fi-repeaters-on-the-market/"><u>The Most Effective Wi-Fi Repeaters on the Market</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-and-resolving-openal32dll-missing-error-in-windows/"><u>Troubleshooting and Resolving openAL32.dll Missing Error in Windows</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-why-someone-cant-see-your-youtube-comment-thread/"><u>Troubleshooting Why Someone Can’t See Your YouTube Comment Thread</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unleash-laughter-with-funny-iphone-and-ipad-gags-for-good-times/"><u>Unleash Laughter with Funny iPhone & iPad Gags for Good Times</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlocking-the-power-of-windows-11s-battery-diagnostic-tool/"><u>Unlocking the Power of Windows 11'S Battery Diagnostic Tool</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-3-tactics-to-enhance-your-instagram-films-look/"><u>[Updated] 2024 Approved 3 Tactics to Enhance Your Instagram Film's Look</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-elite-professionals-drone-choices-top-5/"><u>[Updated] In 2024, Elite Professionals' Drone Choices (Top 5)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-beginners-roadmap-to-planning-and-publishing-tweets-in-advance/"><u>A Beginner's Roadmap to Planning and Publishing Tweets in Advance</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/bringing-life-back-to-frozen-airpods-the-ultimate-fix-and-reset-guide/"><u>Bringing Life Back to Frozen AirPods: The Ultimate Fix and Reset Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/common-issues-and-solutions-for-paused-or-stopped-steam-downloads/"><u>Common Issues and Solutions for Paused or Stopped Steam Downloads</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-and-tricks-sending-images-videos-and-more-from-mac-to-tv-via-airplay-connectivity/"><u>Expert Tips and Tricks: Sending Images, Videos & More From Mac to TV via AirPlay Connectivity</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/galaxy-z-fold-6-announcement-find-out-costs-debut-timeline-and-specifications-now/"><u>Galaxy Z Fold 6 Announcement: Find Out Costs, Debut Timeline & Specifications Now</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-oppo-a18-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Oppo A18</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-taking-screenshots-using-logitech-keyboards/"><u>Mastering the Art of Taking Screenshots Using Logitech Keyboards</u></a></li>
+<li><a href="https://article-helps.techidaily.com/perfecting-iphone-hdr-imaging-step-by-step/"><u>Perfecting iPhone HDR Imaging Step by Step</u></a></li>
+<li><a href="https://blog-min.techidaily.com/strategies-de-recherche-et-reponses-aux-questions-les-plus-courantes-sur-winxvideo-ai/"><u>Stratégies De Recherche Et Réponses Aux Questions Les Plus Courantes Sur WinxVideo AI</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-best-free-skype-alternatives-of-2024/"><u>The Best Free Skype Alternatives of 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-roadmap-to-popularity-expert-tips-for-soaring-on-apple-tv-platform/"><u>The Roadmap to Popularity: Expert Tips for Soaring on Apple TV Platform</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-upgrading-your-raspberry-pi-pico/"><u>The Ultimate Guide to Upgrading Your Raspberry Pi Pico</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-memes-a-comprehensive-guide-what-are-they-and-how-did-they-evolve/"><u>Understanding Memes: A Comprehensive Guide – What Are They and How Did They Evolve?</u></a></li>
 </ul></div>
+

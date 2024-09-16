@@ -1,0 +1,132 @@
+---
+title: "The Ultimate Tutorial: Switch Up That Discord Picture"
+date: 2024-09-12T23:36:33.621Z
+updated: 2024-09-15T16:36:16.508Z
+categories:
+  - BestProducts
+description: "This Article Describes The Ultimate Tutorial: Switch Up That Discord Picture"
+excerpt: "This Article Describes The Ultimate Tutorial: Switch Up That Discord Picture"
+thumbnail: https://thmb.techidaily.com/e788f79a8684ff135a50b06576e0943a8c2779cab90284e9a264c3a4912b0271.png
+---
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## The Ultimate Tutorial: Switch Up That Discord Picture
+### What to Know
+
+* Desktop: Open your account settings and select the image. Click the plus sign next to your profile picture and select a new image.
+* Mobile: Go to the settings, choose**My Account** , tap the image, choose a source, and then select a new image.
+* Note: There are limits on how often you can change your avatar image for security purposes.
+
+ This article covers how to upload a new avatar on[Discord](https://www.lifewire.com/discord-4174046) using the desktop app, browser, and mobile apps.
+
+## How to Update Your Discord Avatar
+
+ The process for adding or updating your profile picture is the same in a browser and the app. You can also remove the image; Discord doesn't require one.
+
+ Discord places limits on changing an avatar image. Users can make no more than two attempts within 10 minutes to prevent people from trying to circumvent Discord's terms of service.
+
+1. Open the app on PC or Mac.
+2. Click settings cog at the bottom left next to the current image.  
+![Changing a Discord profile picture on a desktop.](https://www.lifewire.com/thmb/CtVsFOH3NrM_Osbk4QgSVA-zC_M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DiscordProfileImage1-be91f7e650f246a5b059b8808831e078.jpg)
+3. Select the three-dotted menu to the right of where the image goes.
+4. Select**Change Avatar** .  
+ To delete your avatar, select**Delete Avatar** .  
+![Changing a Discord profile picture on a desktop.](https://www.lifewire.com/thmb/_ubg4ot8XIxsdRiJKl8yi2czZzo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DiscordProfileImage3-ff81b24cf09447b1a89298c27ef9af4a.jpg)
+5. Choose an image.  
+![Changing a Discord profile picture on a desktop.](https://www.lifewire.com/thmb/7p7WSfd6m8IiCjx-Vn3CrNBi5wc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DiscordProfileImage4-a6205545762a49769b025839f0882ec9.jpg)
+6. You can resize or center the image as you see fit.
+7. Click**Apply** .  
+![Changing a Discord profile picture on a desktop.](https://www.lifewire.com/thmb/zPQvP51LFBMX5W5ivjpzObfupIY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DiscordProfileImage5-aedff4a1f42145f3b849fc6608730e95.jpg)
+8. Click**Save Changes** .  
+![Changing a Discord profile picture on a desktop.](https://www.lifewire.com/thmb/zSsiau7LE9NhHuZBkN1EWnu9i48=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DiscordProfileImage7-b6dbbf06f586439d9dcb7d360501836b.jpg)
+
+## How to Update Your Discord Image on Mobile
+
+ The process for changing your avatar via the Discord mobile app is similar. The screenshots below are from Android, but the process is the same on an iPhone, just with a different look. Again, you can remove your avatar altogether if you don't want one.
+
+1. Open the app on an Android or iPhone.
+2. Tap your profile image on the bottom right.
+3. Tap**My Account** .
+4. Select the image or image placeholder. Tap**Remove Icon** to delete your profile image.  
+![Updating a Discord profile picture on mobile.](https://www.lifewire.com/thmb/LRJUnTntO_h20_BNbgEV-ueDPQs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DiscordProfileImageMobile1-3-f0ef1c7128364173b3d659461cd7b74c.jpg)
+5. If this is the first time you've uploaded a profile picture, Discord will ask you for two permissions: to access your camera and your photos and videos. Tap**Allow** or**While using the app** on at least one of these options to proceed.
+6. Select an image app.  
+![Updating a Discord profile picture on mobile.](https://www.lifewire.com/thmb/86Z7ytxgb26C9ZIg9qv92lbXy90=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DiscordProfileImageMobile4-6-e7f871a42b974f36a95af316c6f8d0c3.jpg)
+7. Choose an image and tap**Upload** . You can crop and zoom if you need to, but you have to do it before selecting the**Upload** button (there's a**Crop** button that shows up after you choose the image).
+8. Click the checkmark at the top right when you're satisfied if you cropped your image, then press**Save** to save the changes.  
+![Updating a Discord profile picture on mobile.](https://www.lifewire.com/thmb/VI2elSd14X27hKFsCroqVin3bEI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DiscordProfileImageMobile7-9-0291015a37e24a9b916667e373b615e4.jpg)
+
+ FAQ
+
+* Why can't I change my profile picture on Discord?  
+ You can't change your Discord avatar if you've already made changes within the last few minutes. You must wait five minutes or so before you can change it again.
+* How do I have a GIF profile picture on Discord?  
+ To choose an animated avatar in Discord, you must pay for Discord Nitro. You'll then have the option to choose GIFs when uploading your profile picture.
+* How do I spoiler a picture on Discord?  
+ When you add an image to the Discord chat window, select the**eye** to hide the image with a spoiler warning. In the mobile app, press and hold the image, then tap the**eye** .
+* How do I get someone's profile picture on Discord?  
+ To download someone else's Discord profile image, you must use a third-party tool or[use inspect element](https://www.lifewire.com/using-inspect-element-on-a-mac-5210014) to copy the image.
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-enhanced-video-clarity-on-iphone-and-android-platforms-for-2024/"><u>[Updated] Enhanced Video Clarity on iPhone & Android Platforms for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-8-best-practices-in-pc-and-microphone-sounds-logging/"><u>[Updated] In 2024, 8 Best Practices in PC and Microphone Sounds Logging</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/best-practices-for-streaming-netflix-together-over-distance/"><u>Best Practices for Streaming Netflix Together Over Distance</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-strategies-to-tackle-and-repair-bsod-glitches-in-your-system/"><u>Comprehensive Strategies to Tackle and Repair BSOD Glitches in Your System</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/dealing-with-absent-wmvcoredll-effective-strategies-and-fixes/"><u>Dealing with Absent Wmvcore.dll: Effective Strategies and Fixes</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-vivo-y27-4g-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Vivo Y27 4G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/error-resolution-what-to-do-when-you-encounter-a-missing-dll-error-message/"><u>Error Resolution: What to Do When You Encounter a Missing DLL Error Message</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-setting-up-your-nintendo-switch-on-the-television/"><u>Guide: Setting Up Your Nintendo Switch on the Television</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-snapshot-surge-no-money-required-image-uplift/"><u>In 2024, Snapshot Surge No Money Required Image Uplift</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-tutorial-for-wm6-setup/"><u>In 2024, Ultimate Tutorial for WM6 Setup</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-common-problems-with-igfx-embedded-modules-a-comprehensive-guide/"><u>Resolving Common Problems with iGFX Embedded Modules - A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-for-acquiring-ebooks-with-iphoneipad-bookstore-application/"><u>Step-by-Step Tutorial for Acquiring eBooks with iPhone/iPad Bookstore Application</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-what-to-try-if-your-email-isnt-synching-on-gmail/"><u>Troubleshooting Steps: What To Try If Your Email Isn't Synching on Gmail</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-playnites-true-impact-on-your-tv/"><u>Unlock Playnite's True Impact on Your TV</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-swift-email-management-with-these/"><u>Unlock Swift Email Management with These</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Accessing Command Line Inside Your File Explorer"
-date: 2024-09-09T15:52:35.085Z
-updated: 2024-09-10T15:52:35.085Z
+date: 2024-09-10T23:51:15.453Z
+updated: 2024-09-15T22:18:50.279Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Tutorial: Accessing Command Line Inside Your File Explorer"
@@ -28,35 +28,11 @@ These instructions apply to PCs running Windows 10 and up.
 2. Hold down the**Windows button** on your keyboard and then press the**. (Period)** . This sequence will bring up a small emoji keyboard.  
 ![Opening emoji keyboard on Windows 10.](https://www.lifewire.com/thmb/-WDCEXTJDwtJV5m28dICzk7cOjI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-to-make-a-heart-on-a-keyboard-215e5e67aeb0414fadcda95a45f78ac4.jpg)
 3. Click the**Symbols** category in the bottom right corner (the heart icon).  
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Selecting heart emoji on Windows 10.](https://www.lifewire.com/thmb/CMP4tPIZk0BE6YGFylNX7stmONg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-make-a-heart-on-a-keyboard-8e8ecaec35874828964402365c012483.jpg)
 4. Click the**Heart Symbol** you’d like to type and it will appear in the text box.  
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Searching for heart symbols in Windows 10 emoji keyboard.](https://www.lifewire.com/thmb/he1nmNHtoHpm3MfjTRVW5syHTL0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-make-a-heart-on-a-keyboard-e23bb514fd57475a8cd26382f42d4f79.jpg)  
  If you can’t find a particular emoji, click the search icon and type the name of the emoji you’re looking for.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Type a Heart on a Mac Keyboard
 
  Here's how it works on a Mac:
@@ -69,27 +45,22 @@ These instructions apply to PCs running Windows 10 and up.
 3. Click the**Symbols** category in the bottom row. It’s located between the**Objects** (lightbulb) and**Flags** categories.  
 ![Selecting Symbols category on Mac emoji keyboard.](https://www.lifewire.com/thmb/rvQxI5-vlnziApmdyIgVo24JizM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-make-a-heart-on-a-keyboard-332f4f0c46524b5cada3fad81d8ee5bb.jpg)
 4. Click the heart you'd like to type and it will appear in the text box.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. To manually search for a heart emoji, type_heart_ in the search bar at the top of the category window.  
 ![Searching for heart emojis on Mac emoji keyboard.](https://www.lifewire.com/thmb/q7yE2Em2aL0wylQuB9cdjMcrqsY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-make-a-heart-on-a-keyboard-042433c18f7a459b838052a676496c9c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## What Is the Alt Code for a Heart?
 
  You can type out a heart symbol instantly on Windows if you know the[alt code](https://www.lifewire.com/typing-symbols-characters-on-windows-mac-4691496) . For example, holding down**Alt+3** on your keyboard’s number pad will produce a simple heart. However, there are many other codes you can use to make different heart emojis.
@@ -99,11 +70,18 @@ These instructions apply to PCs running Windows 10 and up.
  It’s much easier to use**Cmd+Ctrl+Space** and bring up the emoji keyboard, as Unicode is a complicated, somewhat limited method.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How Do You Make a Heart Without a Number Pad?
 
  Unfortunately, alt codes on Windows only work with the numeric keypad. You can't use the numbers across the top of your keyboard.
@@ -156,8 +134,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,41 +143,17 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-how-to-add-effects-to-your-voice-free-voice-changers-here-for-2024/"><u>[New] How to Add Effects to Your Voice? Free Voice Changers Here for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-no-cash-needed-for-youtube-audio-check-out-this-list-of-23-crackers/"><u>[New] No Cash Needed for YouTube Audio? Check Out This List of 23 Crackers</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-prime-routines-for-documenting-live-sports-events/"><u>[New] Prime Routines for Documenting Live Sports Events</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-swift-skim-windows-file-compilation/"><u>[New] Swift Skim Windows File Compilation</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-current-innovations-in-vr-gear/"><u>[Updated] Current Innovations in VR Gear</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-time-travel-through-snapshots-using-camera-roll-on-snapchat/"><u>[Updated] In 2024, Time-Travel Through Snapshots Using Camera Roll on Snapchat</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/a-beginners-guide-to-smart-streaming-equipment-everything-you-need-to-know/"><u>A Beginner's Guide to Smart Streaming Equipment - Everything You Need to Know</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/audio-essentials-explained-understanding-what-sets-home-theater-and-stereo-receivers-apart/"><u>Audio Essentials Explained: Understanding What Sets Home Theater and Stereo Receivers Apart</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-13-free-pdf-editor-applications-for-july-2vee/"><u>Discover the Best 13 Free PDF Editor Applications for July 2Vee</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/diy-solutions-to-reopen-stuck-media-players-in-computers-or-consoles/"><u>DIY Solutions to Reopen Stuck Media Players in Computers or Consoles</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/eliminate-python-24-dll-errors-comprehensive-fixes-for-missing-python24dll/"><u>Eliminate Python 24 DLL Errors – Comprehensive Fixes for Missing python24.dll</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/essential-screen-recording-software-a-comprehensive-analysis-for-2024/"><u>Essential Screen Recording Software A Comprehensive Analysis for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/explore-these-amazing-platforms-for-watching-hit-music-videos/"><u>Explore These Amazing Platforms for Watching Hit Music Videos</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-get-siri-to-read-text-on-ios-and-macos/"><u>How to Get Siri to Read Text on iOS and macOS</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-zte-nubia-flip-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on ZTE Nubia Flip 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/immersive-ios-and-ipad-gaming-experiennces-that-echo-the-charm-of-classics-the-room-and-myst/"><u>Immersive iOS & iPad Gaming Experiennces that Echo the Charm of Classics 'The Room' & 'Myst'</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oppo-a78-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Oppo A78 5G to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-pioneer-bdr-xs06-blu-ray-disc-recorder-balancing-mobility-with-top-notch-functionality/"><u>In-Depth Analysis of Pioneer BDR-XS06 Blu-Ray Disc Recorder: Balancing Mobility with Top-Notch Functionality</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/is-microsoft-word-available-for-free-discover-how-you-can-save-money-on-writing-tools/"><u>Is Microsoft Word Available for Free? Discover How You Can Save Money on Writing Tools</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/is-minecrafts-realm-service-worth-it-a-comprehensive-look-at-its-advantages-and-disadvantages/"><u>Is Minecraft's Realm Service Worth It? A Comprehensive Look at Its Advantages and Disadvantages</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/join-forces-for-movie-night-easy-steps-to-collaborate-and-stream-netflix-simultaneously/"><u>Join Forces for Movie Night: Easy Steps to Collaborate and Stream Netflix Simultaneously</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/making-your-iphone-more-eye-friendly-using-the-dark-mode-functionality/"><u>Making Your iPhone More Eye-Friendly: Using the Dark Mode Functionality</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigating-through-404-errors-explanation-and-remedies-for-lost-pages/"><u>Navigating Through 404 Errors: Explanation and Remedies for Lost Pages</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/order-matters-watching-the-transformers-series-correctly-explained/"><u>Order Matters: Watching the Transformers Series Correctly Explained</u></a></li>
-<li><a href="https://win-blog.techidaily.com/red-dead-redemption-2-fixed-no-more-pc-game-crashes/"><u>Red Dead Redemption 2 Fixed: No More PC Game Crashes</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-the-problem-steps-to-repair-non-responsive-macos-applications/"><u>Solving the Problem: Steps to Repair Non-Responsive macOS Applications</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solutions-for-correcting-display-abnormalities-in-computers/"><u>Step-by-Step Solutions for Correcting Display Abnormalities in Computers</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-complete-roadmap-to-feeding-your-youtube-plays-with-content/"><u>The Complete Roadmap to Feeding Your YouTube Plays with Content</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-insiders-roadmap-to-score-student-deals-on-your-next-lenovo-purchase/"><u>The Insider's Roadmap to Score Student Deals on Your Next Lenovo Purchase</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-fix-for-pdhdll-errors-and-how-to-prevent-them/"><u>The Ultimate Fix for Pdh.dll Errors and How to Prevent Them</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-tracking-gmail-opens-and-responses/"><u>The Ultimate Guide to Tracking Gmail Opens & Responses</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/ultimate-choice-top-tier-webcam-mounts-and-grips/"><u>Ultimate Choice Top-Tier Webcam Mounts & Grips</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlocking-speed-and-efficiency-with-corsair-mp600-mini-1tb-the-premier-review-of-the-leading-m2-nvme-ssd/"><u>Unlocking Speed and Efficiency with Corsair MP600 Mini 1TB: The Premier Review of the Leading M.2 NVMe SSD</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-optimizing-video-output-with-compressor-in-fcpx/"><u>Updated 2024 Approved Optimizing Video Output with Compressor in FCPX</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-oppo-reno-9a-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Oppo Reno 9A Phone Network-Ready</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/whats-next-for-pixel-enthusiasts-unveiling-the-google-pixel-buds-pro-2-price-predictions-and-tech-revelations/"><u>What's Next for Pixel Enthusiasts? Unveiling the Google Pixel Buds Pro 2: Price Predictions & Tech Revelations</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/your-essential-guide-to-11-premium-free-movies-and-tv-shows-websites/"><u>Your Essential Guide to 11 Premium-Free Movies & TV Shows Websites</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-top-strategies-to-boost-your-obs-editing-skills-for-2024/"><u>[Updated] Top Strategies to Boost Your OBS Editing Skills for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-spectacular-gopro-time-lapses-made-easy-for-2024/"><u>Crafting Spectacular GoPro Time-Lapses Made Easy for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-recover-from-a-crash-in-your-amd-graphics-control-panel-wattman/"><u>How to Recover From a Crash in Your AMD Graphics Control Panel (WattMan)</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-x-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone X With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-samsung-cf591-is-it-a-top-contender-for-gamers/"><u>In-Depth Analysis of the Samsung CF591 – Is It a Top Contender for Gamers?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-discord-performance-strategies-to-curb-cpu-overuse/"><u>Mastering Discord Performance : Strategies to Curb CPU Overuse</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-xbox-game-pass-ultimate-the-definitive-guide-to-cloud-based-gaming/"><u>Mastering Xbox Game Pass Ultimate: The Definitive Guide to Cloud-Based Gaming</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-translate-instagram-videos-easily-a-step-by-step-guide-for-2024/"><u>New Translate Instagram Videos Easily A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/samsungs-next-gen-smartphone-revealed-the-galaxy-z-fold-6-price-point-and-launch-forecast/"><u>Samsung's Next-Gen Smartphone Revealed - The Galaxy Z Fold 6 Price Point and Launch Forecast</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-device-wont-boot-issue-fixing-error-10-with-ease/"><u>Troubleshooting Device Won't Boot Issue: Fixing Error 10 with Ease</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-samsung-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Samsung Users</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/virtual-mastery-top-5-karate-and-taekwondo-games/"><u>Virtual Mastery Top 5 Karate and Taekwondo Games</u></a></li>
 </ul></div>
+

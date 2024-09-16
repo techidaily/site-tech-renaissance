@@ -1,7 +1,7 @@
 ---
 title: DIY Installation Process for Windows 10 on a New Hard Disk
-date: 2024-09-09T15:59:00.078Z
-updated: 2024-09-10T15:59:00.078Z
+date: 2024-09-08T23:15:55.705Z
+updated: 2024-09-15T16:33:38.607Z
 categories:
   - BestProducts
 description: This Article Describes DIY Installation Process for Windows 10 on a New Hard Disk
@@ -9,45 +9,15 @@ excerpt: This Article Describes DIY Installation Process for Windows 10 on a New
 thumbnail: https://www.lifewire.com/thmb/vnMoP-bSjTfPETaufR0AJNJSFHg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/installwindowshdd01-2f6e91750ddc486d822f63490b6af482.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix Windows 1N's Broken Search Function with Easy Solutions
  It's hard to find files and apps when the Windows 10 search bar is not working. Below are all the different ways we've been able to fix this problem.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why Search Is Not Working in Windows 10
 
  It's more common than you might think for the Windows search box to stop working. This means there are several possible causes, like a temporary glitch or an unresolved software bug. Another possible reason Windows search isn't working like you want it to is that a very specific setting has been switched off.
 
 ![Windows search not working](https://www.lifewire.com/thmb/eUOincgBNCFIDt1gubIW-meSdKs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windowssearchfix06-5bdc331846e0fb002d90f052.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Fix Windows 10 Search Problems
 
  You'll use a lot of the same methods to fix problems with search as you would other minor errors. Here are some options to try and get the Windows search bar working again:
@@ -99,8 +69,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -110,54 +78,23 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-removing-unwanted-audio-from-videos-essential-steps/"><u>[New] 2024 Approved Removing Unwanted Audio From Videos - Essential Steps</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-the-filmmakers-roadmap-creating-youtube-trailers-using-filmora/"><u>[New] 2024 Approved The Filmmaker's Roadmap Creating YouTube Trailers Using Filmora</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-unveiling-the-best-mp4-saving-software/"><u>[Updated] 2024 Approved Unveiling the Best MP4 Saving Software</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-how-to-record-hulu-on-all-platforms-winmacmobile-for-2024/"><u>[Updated] How To Record Hulu On All Platforms - Win/Mac/Mobile for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-ultimate-screener-tech-the-choice-of-top-youtube-creators-for-2024/"><u>[Updated] Ultimate Screener Tech The Choice of Top YouTube Creators for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-unleashing-creativity-mastering-the-art-of-360-degree-videography-for-youtube-for-2024/"><u>[Updated] Unleashing Creativity Mastering the Art of 360-Degree Videography for YouTube for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/10-viral-tiktok-food-recipes-for-2024/"><u>10 Viral Tiktok Food Recipes for 2024</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/2024-approved-how-to-make-a-memorable-honeymoon-video/"><u>2024 Approved How to Make a Memorable Honeymoon Video</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-instant-photo-edit-focus-only-area-softening/"><u>2024 Approved Instant Photo Edit Focus Only Area Softening</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-next-gen-gpus-for-crystal-clear-4k/"><u>2024 Approved Next-Gen GPUs for Crystal Clear 4K</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/a-guide-to-accessing-free-readable-literature-on-these-top-sites/"><u>A Guide to Accessing FREE Readable Literature on These Top Sites</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/copilot-removal-for-windows-11-users-expert-techniques-and-steps/"><u>Copilot Removal for Windows 11 Users: Expert Techniques and Steps</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/curated-picks-best-youth-films-for-your-netflix-watch-party/"><u>Curated Picks: Best Youth Films for Your Netflix Watch Party</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/enhance-iphone-camera-focus-proven-fixes-for-blurry-images/"><u>Enhance iPhone Camera Focus: Proven Fixes for Blurry Images</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-child-friendly-film-selection-for-netflix-streaming-enthusiasts/"><u>Essential Child-Friendly Film Selection for Netflix Streaming Enthusiasts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-list-of-top-rated-imessage-games-for-iphone-and-android-users/"><u>Essential List of Top-Rated iMessage Games for iPhone & Android Users</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-advice-fixing-mfplatdll-disappearance-and-related-bugs/"><u>Expert Advice: Fixing mfplat.dll Disappearance and Related Bugs</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-common-causes-for-malfunctioning-auto-speakers/"><u>Exploring Common Causes for Malfunctioning Auto Speakers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/facebook-password-recovery-without-the-typical-contact-details-a-step-by-step-guide/"><u>Facebook Password Recovery Without the Typical Contact Details – A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/from-silence-to-symphony-the-ultimate-beginners-roadmap-to-home-audio/"><u>From Silence to Symphony: The Ultimate Beginner's Roadmap to Home Audio</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/get-ready-for-apple-watch-series-8-discover-its-forecasted-release-timeline-detailed-specifications-and-costs/"><u>Get Ready for Apple Watch Series 8 – Discover Its Forecasted Release Timeline, Detailed Specifications and Costs</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-get-permission-from-trustedinstaller-in-windows-10/"><u>How to Get Permission From TrustedInstaller in Windows 10</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-extended-exploration-gopro-slr4-silver-edition/"><u>In 2024, Extended Exploration GoPro SLR4 Silver Edition</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-nokia-c110-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Nokia C110? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-pro-apples-new-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 14 Pro, Apples New iPhone | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-mirthful-mastery-no-pay-all-smiles/"><u>In 2024, Mirthful Mastery No Pay, All Smiles</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-practice-of-progressive-audio-suppression-in-fl-studio/"><u>In 2024, The Practice of Progressive Audio Suppression in FL Studio</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-quintessential-queries-a-highlight-of-reddits-best-threads/"><u>In 2024, The Quintessential Queries A Highlight of Reddit's Best Threads</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/interactive-content-platform-audit-and-rating/"><u>Interactive Content Platform Audit & Rating</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ios-18-unveiled-launch-details-and-pricing-guide-free-download/"><u>IOS 18 Unveiled: Launch Details & Pricing Guide - Free Download</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mac-users-rejoice-how-to-reset-your-dns-records-effortlessly/"><u>Mac Users Rejoice: How to Reset Your DNS Records Effortlessly!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/master-the-connection-setting-up-samsung-earphones-on-your-notebook/"><u>Master the Connection: Setting Up Samsung Earphones on Your Notebook</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigating-cmos-troubles-ultimate-tips-for-resolving-checksum-discrepancies/"><u>Navigating CMOS Troubles: Ultimate Tips for Resolving Checksum Discrepancies</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/personal-coaching-elevated-by-chatgpt-technology/"><u>Personal Coaching Elevated by ChatGPT Technology</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/reviving-your-iphone-15-tips-and-tricks-for-a-fresh-start/"><u>Reviving Your iPhone 15: Tips and Tricks for a Fresh Start</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/reviving-your-samsung-tv-the-ultimate-reset-guide/"><u>Reviving Your Samsung TV: The Ultimate Reset Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/revolutionize-your-paint-job-the-ultimate-guide-to-4-cutting-edge-painting-apps/"><u>Revolutionize Your Paint Job: The Ultimate Guide to 4 Cutting-Edge Painting Apps</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/steam-game-refund-policy-a-step-by-step-guide/"><u>Steam Game Refund Policy: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-setting-up-microsoft-office-365-on-your-computer/"><u>Step-by-Step Guide: Setting Up Microsoft Office 365 on Your Computer</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-switching-to-an-alternative-web-browser-on-your-samsung-television/"><u>Step-by-Step Guide: Switching to an Alternative Web Browser on Your Samsung Television</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-plan-to-binge-watch-star-wars-movies-on-disney-plus/"><u>Step-by-Step Plan to Binge Watch Star Wars Movies on Disney Plus</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solution-for-missing-d3dx933dll-error-on-your-pc/"><u>Step-by-Step Solution for Missing d3dx9_33.dll Error on Your PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solutions-why-your-stadia-headset-isnt-connecting-and-how-to-fix-it/"><u>Step-by-Step Solutions: Why Your Stadia Headset Isn't Connecting and How to Fix It</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-saving-netflix-films-to-your-personal-computer/"><u>Step-by-Step Tutorial: Saving Netflix Films to Your Personal Computer</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Vivo Y27s | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-trick-for-making-siri-read-aloud-any-written-content-on-your-apple-devices/"><u>The Ultimate Trick for Making Siri Read Aloud Any Written Content on Your Apple Devices</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-walkthrough-of-google-maps-live-view-for-effortless-directions/"><u>The Ultimate Walkthrough of Google Maps Live View for Effortless Directions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-and-solutions-for-the-stop-code-0x0000001d/"><u>Troubleshooting and Solutions for the STOP Code 0X0000001D</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-music-from-p55-by-fonelab-android-recover-music/"><u>Undelete lost music from P55</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/year-round-chronicles-top-20-youtubers-for-inspiring-tales/"><u>Year-Round Chronicles Top 20 YouTubers for Inspiring Tales</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-conquer-the-metaverse-top-7-devices-that-matter/"><u>[New] 2024 Approved Conquer the Metaverse Top 7 Devices That Matter</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-top-sandbox-games-for-aspiring-explorers/"><u>[New] Top Sandbox Games for Aspiring Explorers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-prioritize-privacy-in-conversations-the-best-10-free-secure-mobile-calling-apps-for-iosandroid/"><u>[Updated] In 2024, Prioritize Privacy in Conversations – The Best 10 Free, Secure Mobile Calling Apps for iOS/Android</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-extensive-review-gopro-hero4-silver/"><u>2024 Approved Extensive Review GoPro HERO4 Silver</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-unbeatable-free-webcam-matchups/"><u>2024 Approved Unbeatable Free Webcam Matchups</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-join-the-global-audience-for-online-samsung-unpacked-events/"><u>How to Join the Global Audience for Online Samsung Unpacked Events</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-vivo-v27-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Vivo V27 to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-xiaomi-redmi-note-13-pro-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Xiaomi Redmi Note 13 Pro 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tracking-online-traffic-a-complete-overview-of-managing-your-data-usage/"><u>Tracking Online Traffic: A Complete Overview of Managing Your Data Usage</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-strategies-solving-cmos-battery-related-checksum-problems/"><u>Troubleshooting Strategies: Solving CMOS Battery-Related Checksum Problems</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/what-is-ai-text-to-video-in-2024/"><u>What Is AI Text to Video, In 2024</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

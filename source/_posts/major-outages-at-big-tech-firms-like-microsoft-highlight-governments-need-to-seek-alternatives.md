@@ -1,7 +1,7 @@
 ---
 title: Major Outages at Big Tech Firms Like Microsoft Highlight Governments' Need to Seek Alternatives
-date: 2024-09-09T15:55:56.805Z
-updated: 2024-09-10T15:55:56.805Z
+date: 2024-09-14T18:37:34.408Z
+updated: 2024-09-15T18:43:08.006Z
 categories:
   - BestProducts
 description: This Article Describes Major Outages at Big Tech Firms Like Microsoft Highlight Governments' Need to Seek Alternatives
@@ -9,12 +9,6 @@ excerpt: This Article Describes Major Outages at Big Tech Firms Like Microsoft H
 thumbnail: https://www.lifewire.com/thmb/1-A3XIGBICbV1vHaZl_TuBbTuaY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/shekai-vKla95GgAwg-unsplash-1d46c69f3d5f462faee87878fc1e0a57.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Navigating the Intersection of Modern Gadgets and Timeless Tales: Phones, Computers, and Bibliophile Delights
 
 In This Article
@@ -26,12 +20,6 @@ In This Article
 
  _Heading back to school each year involves more than grabbing a backpack and pencils, whether you're studying online, in a building, or via homeschooling. My kids are in middle and high school, with a college student in the mix as well. Our family has found different tech tools helpful at various points in their educational journeys._
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Must-Haves: Computers, Laptops and Peripherals
 
  Does your child need a laptop or a desktop computer? It could be that they need both, plus accessories (known as peripherals) like mice, webcams, and headphones.
@@ -50,24 +38,12 @@ In This Article
 
 ![Students using laptops at tables and in bean bag chairs.](https://www.lifewire.com/thmb/5xqW8ViVbQNgb2VUsUblogbwFco=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Studentswithlaptopsondesksandbeanbags_skynesher_GettyImages-1456220436CROPPED-19c3059f597a4aa1b038835c96bacc75.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Skynesher/Getty
 
  For example, if your child is a STEM kid or a graphic artist, more power and storage are necessary overall. On the other hand, kids who just need to manage basic projects and complete homework on time will probably do fine with a standard Chromebook.  
 
  As you make your purchases, consider how long the item will last with your child. Some kids are rough on technology, while others are more thoughtful and responsible; age often dictates how nice I'm willing to purchase for a specific child.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Look for Student Discounts
 
  Check for discounts before you buy! Several major tech manufacturers offer student discounts, including HP and[Dell](https://www.lifewire.com/dell-student-discount-4686335) . Some retailers, like[Best Buy](https://www.lifewire.com/best-buy-student-discount-4684485) , offer back-to-school deals as well.
@@ -84,12 +60,6 @@ Skynesher/Getty
 
 ![](<https://www.lifewire.com/data:image/svg+xml,%3Csvg> width=%275751%27 height=%272313%27 xmlns=%27<http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E>) ![Hands holding a smartphone with a red smartwatch on wrist over a pencil and paper.](https://www.lifewire.com/thmb/nSqWQLOUlnMzLJD1rc7f4f2qO5g=/1500x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/smartwatchandphone_yacobchuk_GettyImages-693332444_CROPPED-616820cc68f645c09d7153ccc1de07ff.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Connections: The Power of Phones and Smartwatches
 
  Phones can be a bone of contention for parents and kids everywhere, but the simple fact of the matter is they are fast becoming a staple for students from middle school and up.
@@ -117,16 +87,24 @@ Skynesher/Getty
 ![](<https://www.lifewire.com/data:image/svg+xml,%3Csvg> width=%275483%27 height=%272329%27 xmlns=%27<http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E>) ![Composite drawing of books apps and devices against a blue background.](https://www.lifewire.com/thmb/afdEJWLn5Hja0WRtjgBJQP3K-8k=/1500x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Compositedrawingofbooksappsanddevices_grapihcnoi_GettyImages-174551865_CROPPED-17467a01a2e44bf98bfc135e8a7cff43.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Using Apps and Sites Can Support Good Study Habits
 
  Be careful and thoughtful if you're considering using ChatGPT for your child. It can certainly be helpful in some ways (think: helping to spark ideas for a snappy essay title), but AI tools like this essentially scrub the internet for information, which isn't always accurate and can frequently be considered plagiarism if used verbatim. Encourage your child to do their internet research instead.
 
 ![Female student walking with a tablet, smartphone, and headphones.](https://www.lifewire.com/thmb/xlh2OPH52kBp--XJzwjVyR_lZN0=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Studentwithtabletphoneheadphones_COROIMAGE_GettyImages-1429193388_VERTICALCROP-5f30ba23f2f64ada861c3283ce518740.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Back to school means more than finding the right books this year. While those are crucial (and often spendy), a frequently overlooked aspect of getting back into the school groove involves finding and using the right apps to support learning, enhance productivity, and improve organization tactics.
 
@@ -167,14 +145,11 @@ Skynesher/Getty
 * What percentage of schools use technology?  
  About 45 percent of all schools have a computer for every student; another 37 percent provide computers for students in at least some grades or classrooms. More than 70 percent of schools say their teachers use technology for activities usually done in the classroom. Source: The Institute of Education Sciences.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -185,51 +160,16 @@ Skynesher/Getty
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-enhance-your-photo-game-with-top-editors/"><u>[New] Enhance Your Photo Game with Top Editors</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-joining-the-zoom-community-with-ease-on-an-android-device/"><u>[New] Joining the Zoom Community with Ease on an Android Device</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-quick-fix-guide-successful-transmission-of-videos-on-the-social-networking-app-messenger/"><u>[New] Quick Fix Guide Successful Transmission of Videos on the Social Networking App Messenger</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-screen-recording-face-off-bandicam-vs-camtasias-features/"><u>[New] Screen Recording Face-Off Bandicam vs Camtasia's Features</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-advanced-color-grading-techniques-with-luts-for-after-effects-users/"><u>[Updated] Advanced Color Grading Techniques with LUTs for After Effects Users</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-elevate-with-excellence-the-ultimate-guide-to-motivational-films/"><u>[Updated] In 2024, Elevate with Excellence The Ultimate Guide to Motivational Films</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-realme-narzo-60-pro-5g-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-harness-the-power-of-dual-screen-on-apple-devices-via-safari/"><u>2024 Approved Harness the Power of Dual Screen on Apple Devices via Safari</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-entrepreneurial-guide-to-video-content-monetization/"><u>2024 Approved The Entrepreneurial Guide to Video Content Monetization</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-free-clip-art-for-your-designs/"><u>2024 Approved Unlocking Free Clip-Art for Your Designs</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-itel-a05s-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Itel A05s without App | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/analyzing-durability-and-performance-a-complete-guide-to-uniden-r3s-superior-range-detection/"><u>Analyzing Durability & Performance - A Complete Guide to Uniden R3's Superior Range Detection</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722900080196-bridge-the-gap-between-devices-how-to-watch-apple-tvpluss-content-on-chromecast/"><u>Bridge the Gap Between Devices: How to Watch Apple TV+'s Content on Chromecast</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/classic-computing-reimagined-how-one-engineer-masterfully-constructed-a-clone-of-the-iconic-86-apple-machine/"><u>Classic Computing Reimagined: How One Engineer Masterfully Constructed a Clone of the Iconic '86 Apple Machine</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/complete-guide-installing-and-using-handbrake-on-windows-10-and-11-systems/"><u>Complete Guide: Installing & Using HandBrake on Windows 10 and 11 Systems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-steps-to-enlist-your-email-on-privacy-oriented-whois-databases/"><u>Comprehensive Steps to Enlist Your Email on Privacy-Oriented Whois Databases</u></a></li>
-<li><a href="https://driver-install.techidaily.com/convenient-installation-of-asus-usb-bt-drivers-windows-8plus/"><u>Convenient Installation of Asus USB-BT Drivers Windows 8+</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/detailed-instructions-for-adding-external-hdd-to-your-xbox-one-console/"><u>Detailed Instructions for Adding External HDD to Your Xbox One Console</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/disabling-iphones-emergency-broadcast-notifications/"><u>Disabling iPhone's Emergency Broadcast Notifications</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-our-selection-of-lgbtq-content-hits-on-netflix-for-july-2024/"><u>Discover Our Selection of LGBTQ Content Hits on Netflix for July 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/electric-dreams-unveiled-special-perks-of-park-spots-and-hov-lane-priority-for-ev-owners/"><u>Electric Dreams Unveiled: Special Perks of Park Spots & HOV Lane Priority for EV Owners</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/eliminate-mailbox-mapi32dll-errors-effective-fixes-and-solutions-for-windows-users/"><u>Eliminate Mailbox - Mapi32.dll Errors: Effective Fixes & Solutions for Windows Users</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/enhancing-ps5-performance-by-replacing-the-hdd-with-an-ssd/"><u>Enhancing PS5 Performance by Replacing the HDD with an SSD</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/enjoy-movies-and-shows-for-free-top-10-streaming-services-competing-with-netflix/"><u>Enjoy Movies & Shows for Free: Top 10 Streaming Services Competing with Netflix</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/explore-new-horizons-in-technology-dive-into-toms-hardware-reviews/"><u>Explore New Horizons in Technology - Dive Into Tom's Hardware Reviews</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fixing-the-missing-ftd2xxdll-file-comprehensive-troubleshooting-tips/"><u>Fixing the 'Missing' ftd2XX.dll File - Comprehensive Troubleshooting Tips</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/generate-hits-adobe-made-memes/"><u>Generate Hits Adobe-Made Memes</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-to-moving-google-photos-collection-to-apples-icloud-storage/"><u>Guide to Moving Google Photos Collection to Apple's iCloud Storage</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-vivo-x-flip-by-drfone-android/"><u>How to Bypass FRP from Vivo X Flip?</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-get-the-latest-ch340g-usb-serial-device-drivers-in-windows-11/"><u>How to Get the Latest CH340G USB Serial Device Drivers in Windows 11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-implement-a-clean-slate-on-your-lenovo-notebook-with-hardware-restore-options/"><u>How to Implement a Clean Slate on Your Lenovo Notebook with Hardware Restore Options</u></a></li>
-<li><a href="https://extra-information.techidaily.com/how-to-uninstall-geforce-experience-easily/"><u>How to Uninstall Geforce Experience [Easily]</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/in-depth-walkthrough-closing-and-deleting-your-yahoo-email-account-once-and-for-all/"><u>In-Depth Walkthrough: Closing and Deleting Your Yahoo Email Account Once & For All</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/integrate-xp-moviemaker-from-digital-software-suite/"><u>Integrate XP Moviemaker From Digital Software Suite</u></a></li>
-<li><a href="https://techidaily.com/is-your-google-pixel-7a-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Google Pixel 7a working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/master-the-art-of-high-scores-with-apple-tv/"><u>Master the Art of High Scores with Apple TV</u></a></li>
-<li><a href="https://techtrends.techidaily.com/protect-your-child-online-with-effective-discord-parental-supervision-techniques/"><u>Protect Your Child Online with Effective Discord Parental Supervision Techniques</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/samsungs-latest-smartphone-unveiling-what-you-need-to-know/"><u>Samsung's Latest Smartphone Unveiling: What You Need to Know</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-emptying-your-android-devices-cache/"><u>Step-by-Step Guide: Emptying Your Android Device's Cache</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-linking-your-amazon-fire-tv-stick-to-wi-fi-via-mobile-tether/"><u>Step-by-Step Guide: Linking Your Amazon Fire TV Stick to Wi-Fi via Mobile Tether</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/steps-to-correct-ftd2xxdll-is-missing-error-on-your-computer/"><u>Steps to Correct 'ftd2xx.dll' Is Missing Error on Your Computer</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-insiders-route-to-saving-big-scoring-a-lenovo-discount-as-a-scholar/"><u>The Insider's Route to Saving Big: Scoring a Lenovo Discount as a Scholar</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-5-essential-factors-to-evaluate-when-choosing-your-next-set-of-stereo-speakers/"><u>Top 5 Essential Factors to Evaluate When Choosing Your Next Set of Stereo Speakers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-trick-for-undoing-song-preferences-across-your-spotify-library/"><u>Ultimate Trick for Undoing Song Preferences Across Your Spotify Library</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-and-fixing-webpages-500-internal-server-glitches/"><u>Understanding and Fixing Webpage's 500 Internal Server Glitches</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlocking-secure-communications-your-ultimate-guide-to-adding-senders-to-gmails-whitelist/"><u>Unlocking Secure Communications: Your Ultimate Guide to Adding Senders to Gmail's Whitelist</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unraveling-mfc71dll-errors-expert-advice-on-how-to-locate-and-fix-missing-dll-files/"><u>Unraveling mfc71.dll Errors: Expert Advice on How to Locate and Fix Missing DLL Files</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/treaming-success-with-top-tier-tech-for-2024/"><u>[New] Streaming Success with Top-Tier Tech for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-audiovisual-anthems-blending-music-into-instagram-videos/"><u>[Updated] Audiovisual Anthems Blending Music Into Instagram Videos</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-xiaomi-redmi-12-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Xiaomi Redmi 12 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/agriplay-squad-top-10-farming-games-to-bond-over/"><u>AgriPlay Squad Top 10 Farming Games to Bond Over</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/save-time-and-stay-updated-with-these-11-must-have-free-software-update-tools/"><u>Save Time and Stay Updated with These 11 Must-Have, Free Software Update Tools</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/secure-icloud-mailboxes-with-two-step-verification-best-practices-and-tips/"><u>Secure iCloud Mailboxes with Two-Step Verification - Best Practices and Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-linking-your-amazon-fire-tv-stick-with-a-projector/"><u>Step-by-Step Guide: Linking Your Amazon Fire TV Stick with a Projector</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-for-acquiring-ebooks-with-iphoneipad-bookstore-application/"><u>Step-by-Step Tutorial for Acquiring eBooks with iPhone/iPad Bookstore Application</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-what-to-try-if-your-email-isnt-synching-on-gmail/"><u>Troubleshooting Steps: What To Try If Your Email Isn't Synching on Gmail</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-the-secret-to-finding-and-fixing-vanished-wi-fi-signals/"><u>Unlock the Secret to Finding and Fixing Vanished Wi-Fi Signals</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-x-flip-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo X Flip Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
 </ul></div>
+

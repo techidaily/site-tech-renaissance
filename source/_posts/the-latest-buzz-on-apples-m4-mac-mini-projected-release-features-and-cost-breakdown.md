@@ -1,7 +1,7 @@
 ---
 title: The Latest Buzz on Apple’s M4 Mac Mini - Projected Release, Features, and Cost Breakdown
-date: 2024-09-09T15:54:40.485Z
-updated: 2024-09-10T15:54:40.485Z
+date: 2024-09-12T23:30:11.011Z
+updated: 2024-09-15T16:09:43.934Z
 categories:
   - BestProducts
 description: This Article Describes The Latest Buzz on Apple’s M4 Mac Mini - Projected Release, Features, and Cost Breakdown
@@ -9,18 +9,6 @@ excerpt: This Article Describes The Latest Buzz on Apple’s M4 Mac Mini - Proje
 thumbnail: https://www.lifewire.com/thmb/l9rxiBXwehQjH7riKtsRH4G22Ks=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1234777225-63b463f38b2f43b7910f1aa2f1670d35.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Latest Buzz on Apple’s M4 Mac Mini - Projected Release, Features, and Cost Breakdown
 
  In This Article 
@@ -33,18 +21,6 @@ thumbnail: https://www.lifewire.com/thmb/l9rxiBXwehQjH7riKtsRH4G22Ks=/540x405/fi
 
  Apple's next-generation Mac Mini is expected to be built around the[ Apple M4 chip](https://www.lifewire.com/apple-m4-chip-8640914) , come in two versions, and cost the same as current models. This article collects all of the news and rumors about the Mac Mini M4, including its features, price, release date, and more.
 
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  What Is the M4 Mac Mini Release Date? 
 
  We don't know the M4 Mac Mini release date just yet, and Apple doesn't release new Mac Minis on a consistent schedule[ the way it does iPhones](https://www.lifewire.com/iphone-17-8612548) .
@@ -55,18 +31,6 @@ thumbnail: https://www.lifewire.com/thmb/l9rxiBXwehQjH7riKtsRH4G22Ks=/540x405/fi
 
  We expect the M4 Mac Mini to become available in late 2024 or, at the latest, early 2025.
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Pre-Order Information 
 
  The Mac Mini M4 will go on sale soon after its official announcement. We'll update this article with its on-sale date when that's available.
@@ -77,24 +41,12 @@ thumbnail: https://www.lifewire.com/thmb/l9rxiBXwehQjH7riKtsRH4G22Ks=/540x405/fi
 
  If that holds true, expect the Mac Mini M4 to start at $599\. The current entry-level model delivers an[ M2 processor](https://www.lifewire.com/why-the-new-m2-mac-mini-is-the-perfect-second-computer-7098470) , 8GB of RAM, and a 256GB hard drive for that price. At the high end, the current model costs $1,299 for an M2 Pro chip, 16GB of RAM, and a 512GB hard drive. There's also likely to be a model at an in-between price point.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Mac Mini M4 Features 
 
  There aren't a lot of rumors about the Mac Mini M4's features, so we'll update this article as information becomes available. Many features of the Mac Mini are unlikely to change from the current model, however.
 
  Some things to expect from the next-generation Mini are:
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### M4 Processor 
 
  As its name suggests, this Mac Mini will be built around Apple's next-generation M4 processor. That means that the Mac Mini will jump from using the M2 to the M4, without ever offering[ a model built using Apple's M3 chip](https://www.lifewire.com/m3-mac-mini-7571458) .
@@ -106,14 +58,28 @@ thumbnail: https://www.lifewire.com/thmb/l9rxiBXwehQjH7riKtsRH4G22Ks=/540x405/fi
  The M4 Pro model may offer more processor cores and higher performance than the base model.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Same Size and Weight 
 
  The rumor mill says the Mac Mini M4 will use the same enclosure, and thus have the same size and weight, as[ the current M2 models](https://www.apple.com/mac-mini/specs/) . If that's the case, that means the Mac Mini will continue to be a tiny powerhouse, weighing 2.6-2.8 pounds and being 7.75 inches wide, 7.75 inches deep, and 1.41 inches tall.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  The Latest News About the Mac Mini M4 
 
@@ -139,8 +105,6 @@ thumbnail: https://www.lifewire.com/thmb/l9rxiBXwehQjH7riKtsRH4G22Ks=/540x405/fi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -150,44 +114,17 @@ thumbnail: https://www.lifewire.com/thmb/l9rxiBXwehQjH7riKtsRH4G22Ks=/540x405/fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-enhance-video-to-fit-instagrams-visual-taste-for-2024/"><u>[New] Enhance Video to Fit Instagram's Visual Taste for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-what-are-youtube-tags-and-how-can-you-find-great-tags-for-your-videos/"><u>[Updated] 2024 Approved What Are YouTube Tags and How Can You Find Great Tags For Your Videos?</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-essential-banner-design-rules-for-top-youtube-channels/"><u>2024 Approved Essential Banner Design Rules for Top YouTube Channels</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/a-comprehensive-guide-for-viewers-enjoy-espn-plus-content-on-lg-smart-tv-sets/"><u>A Comprehensive Guide for Viewers: Enjoy ESPN Plus Content on LG Smart TV Sets</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/best-free-tools-to-keep-your-devices-hardware-up-to-date-the-top-8-picks-updated-september-2024/"><u>Best FREE Tools to Keep Your Device's Hardware Up-to-Date: The Top 8 Picks (Updated September 2024)</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-fixes-for-the-stop-error-with-id-0x0000001d/"><u>Comprehensive Fixes for the STOP Error with ID 0X0000001D</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/demystifying-biometrics-a-complete-introduction-to-identity-verification-methods/"><u>Demystifying Biometrics: A Complete Introduction to Identity Verification Methods</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/digital-dilemma-unexpectedly-barred-content-for-2024/"><u>Digital Dilemma Unexpectedly Barred Content for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/epic-launcher-uninstallation-hurdles-bust-them-on-windows-11/"><u>Epic Launcher Uninstallation Hurdles, Bust Them On Windows 11!</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/essential-video-communication-tools-list-for-2024/"><u>Essential Video Communication Tools List for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-advice-on-constructing-flexible-and-powerful-gmail-rules-for-various-email-scenarios/"><u>Expert Advice on Constructing Flexible and Powerful Gmail Rules for Various Email Scenarios</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-yahoo-messengers-legacy-and-reasons-behind-its-closure/"><u>Exploring Yahoo! Messenger's Legacy and Reasons Behind Its Closure</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fixing-wi-fi-problems-on-a-microsoft-surface-pro-expert-tips-and-tricks/"><u>Fixing Wi-Fi Problems on a Microsoft Surface Pro - Expert Tips & Tricks</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/from-zero-to-meme-hero-crafting-engaging-gifs-for-2024/"><u>From Zero to Meme Hero Crafting Engaging GIFs for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/gratis-aufwandlose-umrechnung-von-h264-zu-h265-hochwertige-videokompression-bei-reduzierter-dateigrosse/"><u>Gratis Aufwandlose Umrechnung Von H.264 Zu H.265: Hochwertige Videokompression Bei Reduzierter Dateigröße</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-thaw-your-chromebook-8-effective-techniques/"><u>How to Thaw Your Chromebook: 8 Effective Techniques</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722877930219-immersive-indie-gaming-experiences-on-iphoneipad-beyond-the-room-explore-more/"><u>Immersive Indie Gaming Experiences on iPhone/iPad: Beyond 'The Room,' Explore More</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-8-tips-to-prevent-htc-vive-motion-sickness/"><u>In 2024, 8 Tips to Prevent HTC Vive Motion Sickness</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-nokia-c12-pro-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Nokia C12 Pro?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/learn-to-change-an-ipad-battery-for-improved-performance/"><u>Learn to Change an iPad Battery for Improved Performance</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/lock-your-samsung-galaxy-m34-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Samsung Galaxy M34 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/online-performance-enhancer-revolutionary-manycam-software-for-live-videos-and-fake-backgrounds/"><u>Online Performance Enhancer: Revolutionary ManyCam Software for Live Videos and Fake Backgrounds</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/rescue-your-data-top-software-for-restoring-erased-computer-sections/"><u>Rescue Your Data: Top Software for Restoring Erased Computer Sections</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-dnssddll-is-missing-errors-a-step-by-step-guide/"><u>Resolving 'dnssd.dll Is Missing' Errors: A Step-by-Step Guide</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/screen-time-secrets-in-depth-recorder-guide/"><u>Screen Time Secrets In-Depth Recorder Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/setting-up-a-smart-home-theater-connecting-and-enjoying-online-content/"><u>Setting Up a Smart Home Theater: Connecting and Enjoying Online Content</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-downloading-films-with-utorrent-a-beginners-approach/"><u>Step by Step Tutorial: Downloading Films with uTorrent - A Beginner's Approach</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/step-into-a-multilingual-universe-with-mondlys-cutting-edge-vr-app/"><u>Step Into a Multilingual Universe with Mondly's Cutting-Edge VR App</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-fix-for-when-your-computer-cant-find-libxml2dll/"><u>Step-by-Step Fix for When Your Computer Can’t Find libxml2.dll</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-for-dueling-songs-with-tiktoks-duet-feature/"><u>Step-by-Step Instructions for Dueling Songs with TikTok's Duet Feature</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-on-how-to-purchase-and-deliver-a-steam-gift-card-online/"><u>Step-by-Step Instructions on How to Purchase and Deliver a Steam Gift Card Online</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solution-for-iphone-not-producing-ringtones/"><u>Step-by-Step Solution for iPhone Not Producing Ringtones</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solutions-correcting-sound-disturbances-for-smooth-powerpoint-performances/"><u>Step-by-Step Solutions: Correcting Sound Disturbances for Smooth PowerPoint Performances</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/tackling-non-correctable-windows-hardware-errors-effective-strategies/"><u>Tackling Non-Correctable Windows Hardware Errors: Effective Strategies</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/tackling-the-issue-of-absence-of-fm20dll-in-windows-systems/"><u>Tackling the Issue of Absence of fm20.dll in Windows Systems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-essential-troubleshooting-checklist-to-repair-error-messages-on-your-wi-fi-access-device-or-ap/"><u>The Essential Troubleshooting Checklist to Repair Error Messages on Your Wi-Fi Access Device or AP</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-solution-for-handling-missing-and-not-found-opengl32dll-issues/"><u>The Ultimate Solution for Handling 'Missing' And 'Not Found' OpenGL32.dll Issues</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-trick-how-can-you-replace-the-battery-in-your-ipad/"><u>Ultimate Trick: How Can You Replace the Battery in Your iPad?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlocking-the-full-potential-of-iphones-live-activities-in-ios-16-step-by-step-guide/"><u>Unlocking the Full Potential of iPhones Live Activities in iOS 16: Step-by-Step Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Xiaomi Redmi Note 12 4G? | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-superlative-action-video-snapshot-review/"><u>[New] Superlative Action Video Snapshot Review</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-b-roll-builder-kit/"><u>[Updated] B-Roll Builder Kit</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-high-speed-photo-inspector-for-windows-11/"><u>[Updated] High-Speed Photo Inspector for Windows 11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/an-expert-guide-to-clear-up-steamvr-error-message-308/"><u>An Expert Guide to Clear Up SteamVR Error Message 308</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722858384903-awesome-apple-prank-list-unbelievable-tricks-to-pull-off-on-iphone-and-ipad-owners/"><u>Awesome Apple Prank List: Unbelievable Tricks to Pull Off on iPhone and iPad Owners!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comparing-ipad-pro-and-macbook-air-uncover-the-key-distinctions/"><u>Comparing iPad Pro and MacBook Air: Uncover the Key Distinctions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-unresponsive-lenovo-mouse-pads-on-windows-7-8-and-10/"><u>Effective Solutions for Unresponsive Lenovo Mouse Pads on Windows 7, 8 & 10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/embracing-tomorrow-the-power-of-verizons-next-generation-5g-technology/"><u>Embracing Tomorrow: The Power of Verizon's Next-Generation 5G Technology</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-does-telegram-differ-from-other-instant-messaging-services/"><u>How Does Telegram Differ From Other Instant Messaging Services?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-premier-no-8-digital-composers-kit/"><u>In 2024, Premier No. 8 Digital Composer's Kit</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovations-in-ai-discovering-the-distinctive-aspects-of-bert-versus-traditional-gpt-methodologies/"><u>Innovations in AI: Discovering the Distinctive Aspects of BERT Versus Traditional GPT Methodologies</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-504-gateway-timeout-issue-effective-strategies-and-tips/"><u>Solving the 504 Gateway Timeout Issue: Effective Strategies and Tips</u></a></li>
 </ul></div>
+

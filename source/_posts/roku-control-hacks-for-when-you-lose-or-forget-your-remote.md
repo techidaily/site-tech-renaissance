@@ -1,7 +1,7 @@
 ---
 title: Roku Control Hacks for When You Lose or Forget Your Remote
-date: 2024-09-09T15:55:47.198Z
-updated: 2024-09-10T15:55:47.198Z
+date: 2024-09-10T20:49:18.530Z
+updated: 2024-09-15T23:01:34.602Z
 categories:
   - BestProducts
 description: This Article Describes Roku Control Hacks for When You Lose or Forget Your Remote
@@ -9,12 +9,6 @@ excerpt: This Article Describes Roku Control Hacks for When You Lose or Forget Y
 thumbnail: https://www.lifewire.com/thmb/d-rUObg-nE6_Z3dCf-oJYfKYbpE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tcl-6-series-roku-tv-lifestyle-5bb68f9146e0fb0026977d9a.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Configure Anything with These Simple Steps for a Universal Remote Control
 ### What to Know
 
@@ -28,12 +22,6 @@ thumbnail: https://www.lifewire.com/thmb/d-rUObg-nE6_Z3dCf-oJYfKYbpE=/400x300/fi
 
  Specific programming options and steps may vary with each universal remote control brand and model. The following are examples of options you might see and steps that may be required.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Direct Code Entry
 
  The easiest way to program a universal remote is to enter a code that identifies the product you wish to control. Codes may be provided via a "code sheet" or a web page where the codes are listed by brand and type of device (TV, Blu-ray Disc player, Home Theater Receiver, Cable Box, VCRs, and sometimes media streamers).
@@ -47,12 +35,6 @@ thumbnail: https://www.lifewire.com/thmb/d-rUObg-nE6_Z3dCf-oJYfKYbpE=/400x300/fi
 6. After programming, see if the universal remote controls the basic functions of your device. For example, a universal remote should turn a TV off and on, change the volume, channel, and source input.  
  If you're using Direct Code Entry, write the successful code(s) in your user guide for later reference.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Auto Code Search
 
  You can use Auto Code Search if you don't have access to the specific code for the brand or type of device you wish to control. The remote will search through its database, testing several codes at a time.
@@ -68,12 +50,6 @@ thumbnail: https://www.lifewire.com/thmb/d-rUObg-nE6_Z3dCf-oJYfKYbpE=/400x300/fi
 7. Press the**Stop** button to save the code.
 8. Test several functions on the remote and see if they work for your device.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Brand Code Search
 
  Using a similar procedure as Auto Code Search, you may be able to narrow down your search to just a single brand. This search comes in handy if the brand provides more than one code.
@@ -91,12 +67,6 @@ thumbnail: https://www.lifewire.com/thmb/d-rUObg-nE6_Z3dCf-oJYfKYbpE=/400x300/fi
 9. Use several buttons (volume, etc.) to see if your remote can now control the device.
 10. If your device doesn't turn off and the LED light blinks four times, you've exhausted the codes for that brand and need to use another programming method.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Manual Code Search
 
  Instead of having the remote scan through all, or brand, codes automatically, you may also be able to program the remote by having it check each code one at a time. However, keep in mind that this process can take a long time since there are so many codes.
@@ -109,12 +79,6 @@ thumbnail: https://www.lifewire.com/thmb/d-rUObg-nE6_Z3dCf-oJYfKYbpE=/400x300/fi
 4. If the power on your TV or device turns off, the remote has found the correct Code. Press**Stop** to save the code.
 5. If your device fails to turn off, press the**Power** button again so that the remote tests the following code in the database. Perform this step until it finds a code.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Programming via IR Learning
 
  If supported, the IR learning method requires placing your universal remote and the remote of a device you wish to control so that they are pointing at each other. This process allows IR control light beams to transmit from the original device remote to the universal remote.
@@ -125,6 +89,13 @@ thumbnail: https://www.lifewire.com/thmb/d-rUObg-nE6_Z3dCf-oJYfKYbpE=/400x300/fi
 4. Repeat these steps for every function you wish to run, such as volume down, channel up, channel down, and input selection.
 
  This process is long and tedious, especially if you have several devices you want to control. However, if you don't have access to the remote control codes or other methods fail, you may be able to use the IR learning process as your last result, provided your Universal Remote supports this programming option.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Programming via PC
 
@@ -137,6 +108,13 @@ thumbnail: https://www.lifewire.com/thmb/d-rUObg-nE6_Z3dCf-oJYfKYbpE=/400x300/fi
 1. Select or enter your Logitech Harmony Universal Remote Control model number**.**
 2. Designate the types and brands of devices you wish to control.
 3. [Create Activities](https://support.myharmony.com/en-us/understanding-harmony-activities) that allow you to turn on and perform several additional tasks across multiple devices at the same time.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -180,8 +158,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -191,54 +167,16 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-professional-tips-rotate-and-flip-iphone-imagery/"><u>[New] Professional Tips Rotate and Flip iPhone Imagery</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-complete-guide-to-asus-proart-pa-329q-professionals-features/"><u>[New] The Complete Guide to Asus ProArt PA 329Q Professional's Features</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-discover-how-to-share-your-screen-on-discord/"><u>[Updated] 2024 Approved Discover How to Share Your Screen on Discord</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-effortless-facial-obscurity-in-photos/"><u>[Updated] 2024 Approved Effortless Facial Obscurity in Photos</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-streamlined-steps-capturing-your-dell-screen-in-a-minute/"><u>[Updated] 2024 Approved Streamlined Steps Capturing Your Dell Screen in a Minute</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-foundational-codes-for-youtube-enthusiasts/"><u>[Updated] Foundational Codes for YouTube Enthusiasts</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-mastering-tiktoks-economy-with-these-8-profitable-methods/"><u>[Updated] In 2024, Mastering TikTok's Economy with These 8 Profitable Methods</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-advanced-tips-for-maximum-digital-storage/"><u>2024 Approved Advanced Tips for Maximum Digital Storage</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-imagination-unleashed-building-engaging-animated-videos-in-windows-movie-maker/"><u>2024 Approved Imagination Unleashed Building Engaging Animated Videos in Windows Movie Maker</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/a-guide-to-ending-your-paramount-plus-service-seamlessly/"><u>A Guide to Ending Your Paramount Plus Service Seamlessly</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/all-about-college-mens-basketball-catch-every-game-live-from-the-excitement-of-march-madness-to-the-final-four-radio-updates/"><u>All About College Men's Basketball: Catch Every Game Live, From the Excitement of March Madness to The Final Four Radio Updates</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/all-you-need-to-know-about-the-upcoming-iphone-17-price-guess-specs-and-when-it-hits-shelves/"><u>All You Need to Know About the Upcoming iPhone 17 - Price Guess, Specs & When It Hits Shelves</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/an-in-depth-look-at-apples-iphone-15-pro-interactive-test-drive/"><u>An In-Depth Look at Apple's iPhone 15 Pro: Interactive Test Drive</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/anticipated-apple-ring-launch-exploring-the-latest-news-and-speculations-on-price-and-release-timeline/"><u>Anticipated Apple Ring Launch: Exploring The Latest News & Speculations on Price and Release Timeline</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/batch-uploading-photographs-to-your-facebook-profile-the-quick-and-simple-way/"><u>Batch Uploading Photographs to Your Facebook Profile: The Quick and Simple Way</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/clean-up-your-notes-with-ease-microsoft-onenote-introduces-automatic-handwriting-neatening-tool/"><u>Clean Up Your Notes with Ease: Microsoft OneNote Introduces Automatic Handwriting Neatening Tool</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-tutorial-keeping-your-samsung-smart-tv-current-with-the-latest-update/"><u>Comprehensive Tutorial: Keeping Your Samsung Smart TV Current With the Latest Update</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/detailed-review-for-snappydriver-installation-software-version-113/"><u>Detailed Review for SnappyDriver Installation Software - Version 1.13</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/diy-home-karaoke-bash-planning-and-execution-tips-for-an-unforgettable-night/"><u>DIY Home Karaoke Bash: Planning and Execution Tips for an Unforgettable Night</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/enhanced-visual-splendor-adding-filters-to-media-pc-and-mobile/"><u>Enhanced Visual Splendor Adding Filters to Media (PC & Mobile)</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/enhancing-digital-meetings-focus-up-techniques/"><u>Enhancing Digital Meetings Focus Up Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/explaining-and-mending-error-code-0x8007251d-a-guide/"><u>Explaining and Mending Error Code 0X8007251d: A Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/facebook-safety-update-a-quick-walkthrough-for-password-change/"><u>Facebook Safety Update: A Quick Walkthrough for Password Change</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-realme-11-proplus-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Realme 11 Pro+ to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/galaxy-z-flip-7-rumored-release-decode-the-future-phones-specs-cost-and-launch-timeline/"><u>Galaxy Z Flip 7 Rumored Release – Decode the Future Phone’s Specs, Cost, and Launch Timeline</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-address-and-fix-rockaldlldll-file-not-detected-mistakes/"><u>How to Address and Fix Rockaldll.dll File Not Detected Mistakes</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-xs-max-to-other-iphone-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone XS Max to Other iPhone? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-infinix-note-30-vip-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Infinix Note 30 VIP Fingerprint Lock</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/increase-traffic-and-engagement-leveraging-cookiebots-cutting-edge-technology/"><u>Increase Traffic & Engagement: Leveraging Cookiebot's Cutting-Edge Technology</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/inside-look-at-the-samsung-galaxy-ring-costs-debut-dates-specifications-and-updates/"><u>Inside Look at the Samsung Galaxy Ring: Costs, Debut Dates, Specifications & Updates</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-chromecast-software-upgrades/"><u>Mastering the Art of Chromecast Software Upgrades</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigating-the-digital-classroom-a-guide-to-9-key-tech-tools-for-academic-success/"><u>Navigating the Digital Classroom: A Guide to 9 Key Tech Tools for Academic Success</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-a-basic-guidebook-to-live-selling-in-todays-digital-world/"><u>New A Basic Guidebook To Live Selling in Todays Digital World</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/order-matters-how-to-experience-the-complete-storyline-of-superman-movies/"><u>Order Matters! How to Experience the Complete Storyline of Superman Movies</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/reading-between-the-lines-confirming-message-delivery-and-views/"><u>Reading Between the Lines: Confirming Message Delivery and Views</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-vivo-s18-pro-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Vivo S18 Pro</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-the-btballoondll-file-missing-issue-a-step-by-step-guide/"><u>Resolving the 'btballoon.dll File Missing' Issue - A Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-steps-for-logitech-webcam-and-mic-connectivity-issues/"><u>Solution Steps for Logitech Webcam & Mic Connectivity Issues</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/stadia-wont-connect-essential-steps-to-get-your-vr-headset-online-and-ready-to-play/"><u>Stadia Won't Connect? Essential Steps to Get Your VR Headset Online and Ready to Play</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-plan-to-binge-watch-star-wars-movies-on-disney-plus/"><u>Step-by-Step Plan to Binge Watch Star Wars Movies on Disney Plus</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/struggling-with-image-downloads-in-gmail-app-for-android-learn-easy-fixes-today/"><u>Struggling with Image Downloads in Gmail App for Android? Learn Easy Fixes Today!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-buzz-around-meta-quest-3-lite-latest-rumors-on-release-date-cost-estimates-and-device-specifications-revealed/"><u>The Buzz Around Meta Quest 3 Lite - Latest Rumors on Release Date, Cost Estimates & Device Specifications Revealed</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-most-advanced-overhead-speakers-of-2n24-find-your-perfect-match/"><u>The Most Advanced Overhead Speakers of 2N24: Find Your Perfect Match</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/transform-your-desktop-experience-with-different-taskbar-colors-in-windows-cuarto/"><u>Transform Your Desktop Experience with Different Taskbar Colors in Windows Cuarto</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-how-to-resolve-issues-with-spotify-on-android-auto/"><u>Troubleshooting Guide: How to Resolve Issues with Spotify on Android Auto</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-disabling-unnecessary-android-background-processes/"><u>Ultimate Guide: Disabling Unnecessary Android Background Processes</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-installing-apple-tv-app-on-amazon-fire-stick/"><u>Ultimate Guide: Installing Apple TV App on Amazon Fire Stick</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unleash-efficiency-the-ultimate-list-of-18-ios-shortcut-app-tips-and-tricks/"><u>Unleash Efficiency: The Ultimate List of 18 iOS Shortcut App Tips & Tricks</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unraveling-the-mystery-of-facebook-from-inception-to-current-success/"><u>Unraveling the Mystery of Facebook: From Inception to Current Success</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/watch-movies-with-fandango-on-apple-tv-a-step-by-step-tutorial/"><u>Watch Movies with Fandango on Apple TV - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-step-by-step-easy-snapchat-videos-with-multiple-snaps-for-2024/"><u>[New] Step-by-Step Easy Snapchat Videos with Multiple Snaps for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-inside-look-obs-as-a-premier-screen-recorder/"><u>[Updated] In 2024, Inside Look OBS as a Premier Screen Recorder</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-ultimate-guide-to-valheim-sowing-seeds/"><u>[Updated] In 2024, Ultimate Guide to Valheim Sowing Seeds</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-photographic-journey-to-cinematic-expression-using-pixizs-tools/"><u>[Updated] Photographic Journey to Cinematic Expression Using Pixiz's Tools</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apples-new-audio-device-unveiled-pricing-forecasts-release-timeline-and-expert-rumors-explained/"><u>Apple's New Audio Device Unveiled: Pricing Forecasts, Release Timeline, and Expert Rumors Explained</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/avoid-crashing-and-glitches-in-marvels-guardians-of-the-galaxy-with-these-8-tweaks-for-pc-players/"><u>Avoid Crashing and Glitches in Marvel's Guardians of the Galaxy with These 8 Tweaks for PC Players</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/best-8-family-safety-applications-for-web-monitoring/"><u>Best 8 Family Safety Applications for Web Monitoring</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/detailed-breakdown-understanding-how-many-layers-exist-in-royal-match/"><u>Detailed Breakdown: Understanding How Many Layers Exist in 'Royal Match'</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-ultimate-news-collections-the-tops-pick/"><u>Exploring the Ultimate News Collections: The Tops Pick</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722898252339-how-to-diagnose-and-repair-ntdlldll-glitches-on-windows-10-8-7-etc/"><u>How to Diagnose and Repair ntdll.dll Glitches on Windows 10, 8, 7, Etc</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-5-best-free-apps-for-language-acquisition/"><u>Top 5 Best Free Apps for Language Acquisition</u></a></li>
 </ul></div>
+
