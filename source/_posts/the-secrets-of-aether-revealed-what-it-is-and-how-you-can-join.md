@@ -1,7 +1,7 @@
 ---
 title: "The Secrets of Aether Revealed: What It Is & How You Can Join"
-date: 2024-09-08T21:31:13.655Z
-updated: 2024-09-15T22:12:04.935Z
+date: 2024-09-15T18:54:09.275Z
+updated: 2024-09-21T03:59:27.868Z
 categories:
   - BestProducts
 description: "This Article Describes The Secrets of Aether Revealed: What It Is & How You Can Join"
@@ -38,6 +38,13 @@ August 13 is our best guess.
 
  The only reference point we have to price this new[streaming device](https://www.lifewire.com/what-is-a-streaming-device-5208767) is Google's 4K Chromecast with Google TV, which is priced at $50\. They could easily drop that price and slot the Google TV Streamer in its place. If not, the most we can see Google charging for the Google TV Streamer is $70.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Pre-Order Information
 
  Pre-orders for the Google TV Streamer will probably start immediately following its announcement on August 13.
@@ -47,10 +54,10 @@ August 13 is our best guess.
 ![The Google TV Streamer and remote](https://www.lifewire.com/thmb/-vnWbTJuk9OzmaxhkBjEiqhYPRA=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/google-tv-streamer-remote-f778bf371f604247a3e9592a4f4d4f6b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 9to5Google
@@ -68,13 +75,6 @@ August 13 is our best guess.
  The device doesn't look that much bigger than the remote, so we're not sure what, if anything, is different about the internal hardware.  
 
 ![Google TV Streamer remote](https://www.lifewire.com/thmb/a47wfU6UCU7urolc1HR8HsvT2D8=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Google-TV-Streamer-Remote-ee116f9ff7d44f16a632d2414517c129.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 9to5Google
 
@@ -103,18 +103,15 @@ August 13 is our best guess.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/approved-leverage-creative-studio-for-maximum-youtube-reach-and-engagement/"><u>2024 Approved Leverage Creative Studio for Maximum YouTube Reach and Engagement</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-optimizing-conversion-processes-from-xml-to-high-quality-srts/"><u>2024 Approved Optimizing Conversion Processes From XML to High-Quality SRTs</u></a></li>
-<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-vivo-y27-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Vivo Y27 5G to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/begin-discreet-dialogues-with-chatgpt-and-additional-services-on-duckduckgos-ai-chat-tool/"><u>Begin Discreet Dialogues with ChatGPT and Additional Services on DuckDuckGo's AI Chat Tool</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/disabling-amber-alert-notifications-on-your-android-device-a-step-by-step-guide/"><u>Disabling AMBER Alert Notifications on Your Android Device: A Step-by-Step Guide</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-apple-iphone-8-plus-icloud-activation-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing Apple iPhone 8 Plus iCloud Activation Lock</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ps5-storage-enhancement-the-ultimate-tutorial-on-adding-an-ssd-hardware-upgrade/"><u>PS5 Storage Enhancement: The Ultimate Tutorial on Adding an SSD Hardware Upgrade</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/sony-afeela-automobile-launch-details-emerging-anticipated-release-date-pricing-info-and-performance-specs/"><u>Sony Afeela Automobile Launch Details Emerging: Anticipated Release Date, Pricing Info, and Performance Specs</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-to-optimize-your-use-of-slack-reminders/"><u>Step-by-Step Instructions to Optimize Your Use of Slack Reminders</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-revolution-in-motoring-unpacking-the-switch-to-evs/"><u>The Revolution in Motoring: Unpacking the Switch to EVs</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-story-behind-aim-an-in-depth-look-at-aol-instant-messengers-legacy/"><u>The Story Behind AIM: An In-Depth Look at AOL Instant Messenger’s Legacy</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-pick-for-apple-lovers-a-comprehensive-review-of-the-blue-freestyle2-on-macos/"><u>Top Pick for Apple Lovers: A Comprehensive Review of the Blue Freestyle2 on macOS</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-the-secrets-to-hd-classic-quests-top-tips-and-tricks-on-windows-plus-scummvm/"><u>Unlock the Secrets to HD Classic Quests: Top Tips and Tricks on Windows + ScummVM</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-battle-of-broadcasting-is-obs-or-twitch-studio-superior/"><u>[Updated] Battle of Broadcasting Is OBS or Twitch Studio Superior?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-discovering-the-best-drone-motor-choices-for-enhanced-control/"><u>2024 Approved Discovering the Best Drone Motor Choices for Enhanced Control</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/creativity-unleashed-ai-tools-for-perfect-podcast-names/"><u>Creativity Unleashed AI Tools for Perfect Podcast Names</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/examining-librevid-recorder-for-live-streaming-for-2024/"><u>Examining LibreVid Recorder for Live Streaming for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-find-my-friends-work-on-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-rise-and-shine-wake-up-to-savings-with-our-filmora-easter-sale/"><u>New 2024 Approved Rise and Shine Wake Up to Savings with Our Filmora Easter Sale</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-infinix-hot-30i-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Infinix Hot 30i</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-samsung-phone-launch/"><u>The Samsung Phone Launch</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-what-to-do-when-your-instagram-stories-wont-upload/"><u>Troubleshooting Guide: What to Do When Your Instagram Stories Won’t Upload</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-for-the-missing-ac1st16dll-error-message/"><u>Troubleshooting Steps for the Missing Ac1st16.dll Error Message</u></a></li>
 </ul></div>
 

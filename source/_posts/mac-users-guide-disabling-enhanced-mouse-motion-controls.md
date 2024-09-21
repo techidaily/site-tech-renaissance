@@ -1,7 +1,7 @@
 ---
 title: "Mac Users' Guide: Disabling Enhanced Mouse Motion Controls"
-date: 2024-09-14T17:23:48.836Z
-updated: 2024-09-15T17:24:46.782Z
+date: 2024-09-20T02:49:29.707Z
+updated: 2024-09-20T16:30:14.627Z
 categories:
   - BestProducts
 description: "This Article Describes Mac Users' Guide: Disabling Enhanced Mouse Motion Controls"
@@ -51,13 +51,6 @@ thumbnail: https://thmb.techidaily.com/bedeaab43df1b8b5afd8fae799c1b0ff2cb5a9adc
 6. Tap**All Contacts** or**Contacts Only** . With this done, you'll get calls from anyone in your iPhone address book app, but all other calls from any number not in your address book will be silenced and sent directly to voicemail.  
 ![Phone Allowed Notifications settings ](https://www.lifewire.com/thmb/MF_6-ygs0kbDXfviYsmvoGHZISs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B2-Block-No-Caller-ID-Calls-fefc0be0effd4178864279a2b72354d3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Block No Caller ID Calls on iPhone with a Fake Contact
 
  This is a cool trick that takes advantage of how the iPhone handles contacts in your[Contacts app](https://www.lifewire.com/manage-contacts-iphone-address-book-2000570) .
@@ -69,16 +62,10 @@ thumbnail: https://thmb.techidaily.com/bedeaab43df1b8b5afd8fae799c1b0ff2cb5a9adc
 4. Enter**000 000 0000** for the phone number.
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Tap**Done** to save the contact.
@@ -88,15 +75,22 @@ thumbnail: https://thmb.techidaily.com/bedeaab43df1b8b5afd8fae799c1b0ff2cb5a9adc
 8. Scroll to the bottom and tap**Add New...**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 9. Scroll through your contact list and tap the new**No Caller ID** contact you just created.  
 ![iPhone Blocked Contacts settings](https://www.lifewire.com/thmb/ZcE9oZjWSyX7Hkbaz7fMhP9cS-Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/C3-Block-No-Caller-ID-Calls-72d776e97d284d39a8e7164bc3cec9f9.jpg)
 10. With the No Caller ID contact now added to the blocked contacts list, any caller who has no caller ID info—which is a hallmark of spammers—will be sent right to voicemail.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also get help in blocking unknown callers from the U.S. government (if you live in the United States, that is). Add your number to the national[Do Not Call Registry](https://www.donotcall.gov) .
 
@@ -138,18 +132,21 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-top-strategies-capturing-saving-and-sharing-ps4-experiences-for-2024/"><u>[New] Top Strategies Capturing, Saving & Sharing PS4 Experiences for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-critique-free2x-app-for-webcam-capture/"><u>[Updated] Critique Free2X App for Webcam Capture</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/buyers-picks-highest-ranked-impermeable-smartphone-covers-of-the-year-2024/"><u>Buyer's Picks: Highest-Ranked Impermeable Smartphone Covers of the Year 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/enhance-your-streaming-experience-adding-fubotv-to-fire-stick/"><u>Enhance Your Streaming Experience: Adding FuboTV to Fire Stick</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/galaxy-z-fold-6-announcement-find-out-costs-debut-timeline-and-specifications-now/"><u>Galaxy Z Fold 6 Announcement: Find Out Costs, Debut Timeline & Specifications Now</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-my-xiaomi-13-ultra-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Xiaomi 13 Ultra Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-nubia-red-magic-8s-proplus-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Nubia Red Magic 8S Pro+</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-xiaomi-redmi-a2-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Xiaomi Redmi A2 Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/master-your-mornings-a-selection-of-our-top-7-alarm-clock-apps/"><u>Master Your Mornings: A Selection of Our Top 7 Alarm Clock Apps</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/revive-your-iphone-ipad-and-macs-airdrop-functionality-with-quick-tips/"><u>Revive Your iPhone, iPad & Mac's Airdrop Functionality with Quick Tips</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/1720600525873-stellar-restoration-at-breakneck-speed-for-missing-files/"><u>Stellar Restoration at Breakneck Speed for Missing Files!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solution-restoring-wi-fi-access-for-your-surface-pro-device/"><u>Step-by-Step Solution: Restoring Wi-Fi Access for Your Surface Pro Device</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/turbocharge-your-tech-seven-proven-methods-for-faster-computer-performance/"><u>Turbocharge Your Tech: Seven Proven Methods for Faster Computer Performance</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-gain-money-on-youtube-understanding-required-number-of-views-for-2024/"><u>[New] Gain Money on YouTube Understanding Required Number of Views for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-ultimate-toolbox-what-every-youtube-newbie-needs/"><u>[Updated] In 2024, The Ultimate Toolbox What Every YouTube Newbie Needs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-curated-selection-of-11-amazing-sites-for-free-movie-downloads-no-payments-required/"><u>A Curated Selection of 11 Amazing Sites for Free Movie Downloads – No Payments Required</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/a-practical-guide-to-downloading-audio-content-from-pinterest-for-2024/"><u>A Practical Guide to Downloading Audio Content From Pinterest for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/alexa-not-talking-heres-how-you-can-make-her-respond-again/"><u>Alexa Not Talking? Here's How You Can Make Her Respond Again!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-steps-to-eliminate-line-distortions-on-your-television-display/"><u>Easy Steps to Eliminate Line Distortions on Your Television Display</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-an-unavailable-instagram-account-what-you-need-to-know/"><u>Fixing an Unavailable Instagram Account: What You Need to Know</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-lava-yuva-2-pro-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Lava Yuva 2 Pro Lock Screen Password</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/protect-your-online-connection-with-t-mobiles-reliable-service-at-just-30month/"><u>Protect Your Online Connection with T-Mobile's Reliable Service at Just $30/Month</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-steams-error-code-130-a-comprehensive-solution-guide/"><u>Resolving Steam's Error Code 130: A Comprehensive Solution Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-instructions-addressing-missing-or-corrupted-dbghelpdll-errors/"><u>Step-by-Step Instructions: Addressing Missing or Corrupted Dbghelp.dll Errors</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/teslas-robotaxi-revealed-latest-updates-on-launch-date-pricing-and-features/"><u>Tesla's Robotaxi Revealed: Latest Updates on Launch Date, Pricing & Features</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-10-accessory-collection-for-sj4000-for-2024/"><u>The Ultimate 10 Accessory Collection for SJ4000 for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tips-for-preventing-unwanted-android-application-activity-in-the-background/"><u>Tips for Preventing Unwanted Android Application Activity in the Background</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-vivo-y100i-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Vivo Y100i | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/trouble-with-netflix-try-these-19-handy-solutions-specifically-for-your-lg-smart-tv/"><u>Trouble with Netflix? Try These 19 Handy Solutions Specifically for Your LG Smart TV</u></a></li>
 </ul></div>
 

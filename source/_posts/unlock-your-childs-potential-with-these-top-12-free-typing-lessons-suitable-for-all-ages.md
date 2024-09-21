@@ -1,7 +1,7 @@
 ---
 title: Unlock Your Child’s Potential with These Top 12 Free Typing Lessons Suitable for All Ages
-date: 2024-09-09T21:08:54.507Z
-updated: 2024-09-16T00:06:14.026Z
+date: 2024-09-18T20:29:39.355Z
+updated: 2024-09-20T17:02:03.190Z
 categories:
   - BestProducts
 description: This Article Describes Unlock Your Child’s Potential with These Top 12 Free Typing Lessons Suitable for All Ages
@@ -43,24 +43,18 @@ thumbnail: https://www.lifewire.com/thmb/DJpX03Q4FDZYSDfA5XS0Kb2dw9w=/400x300/fi
 
 ![Command Prompt menu item in Windows System folder in Start menu on Windows 10](https://www.lifewire.com/thmb/M8TRCTyz0ujUzmDzFZsFJjffiq4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-open-command-prompt-2618089-5c6468a146e0fb0001f25667.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Open Command Prompt Using Power User Menu
 
  One more method is through the[Power User Menu](https://www.lifewire.com/what-is-the-power-user-menu-2625968) . If you're using a keyboard or mouse, choose**Terminal** (Windows 11) or**Command Prompt** (Windows 10) from the menu that appears after pressing**Win** +**X** or right-clicking the**Start** **Menu** .
 
 ![Command Prompt in Windows 10 Power User menu](https://www.lifewire.com/thmb/7_8z-AOur7jJSd6_2bz9Yp2VnDA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-open-command-prompt-2618089-5c646ad746e0fb0001dcd81a.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You might see PowerShell options in the Power User Menu instead of Command Prompt. In more recent versions of Windows 10, Command Prompt has been replaced by PowerShell, but you can[switch between PowerShell and Command Prompt](https://www.lifewire.com/switch-command-prompt-and-powershell-on-the-win-x-menu-2626247) from the Power User Menu. Terminal is the replacement in Windows 11.
 
@@ -76,19 +70,6 @@ thumbnail: https://www.lifewire.com/thmb/DJpX03Q4FDZYSDfA5XS0Kb2dw9w=/400x300/fi
 
  See our [list of Windows 8 Command Prompt commands](https://www.lifewire.com/windows-8-command-prompt-commands-4172073) for all of the commands available through Command Prompt in Windows 8, including short descriptions and links to more in-depth information if we have it.
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Open Command Prompt in Windows 7, Vista, or XP
 
  In these versions of Windows, Command Prompt is found through a folder group in the Start menu.
@@ -99,6 +80,13 @@ thumbnail: https://www.lifewire.com/thmb/DJpX03Q4FDZYSDfA5XS0Kb2dw9w=/400x300/fi
 3. Choose**Command Prompt** from the list of programs.
 
  See our [list of Windows 7 commands](https://www.lifewire.com/list-of-windows-7-command-prompt-commands-4107370) and[list of Windows XP commands](https://www.lifewire.com/windows-xp-commands-4687695) if you need a command reference for any of those versions of Windows.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Other Ways to Open Command Prompt
 
@@ -121,10 +109,10 @@ thumbnail: https://www.lifewire.com/thmb/DJpX03Q4FDZYSDfA5XS0Kb2dw9w=/400x300/fi
 ![sfc scannow elevated prompt message](https://www.lifewire.com/thmb/PmVejDjk3-H5ABhTpR5vFhEpxXE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sfc-scannow-administrator-command-prompt-775fe2bfbdd54342813261652a3de86f.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  See[How to Open an Elevated Command Prompt](https://www.lifewire.com/how-to-open-an-elevated-command-prompt-2618088) for help starting Command Prompt as an administrator, a process that's a bit more complicated than what's outlined above.
@@ -171,17 +159,19 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-3-simple-methods-for-color-correction-in-photoshop/"><u>[New] 3 Simple Methods for Color Correction in PhotoShop</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-strategize-and-succeed-a-stepwise-approach-to-impactful-reddit-sharing/"><u>[New] Strategize & Succeed A Stepwise Approach to Impactful Reddit Sharing</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-beats-and-briefs-music-incorporation-guide-on-fb-stories/"><u>[Updated] 2024 Approved Beats and Briefs Music Incorporation Guide on FB Stories</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/best-interactive-web-based-games-for-kids-entertainment/"><u>Best Interactive Web-Based Games for Kids' Entertainment</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/budget-vs-quality-is-the-thermopro-tp67-a-dependable-option-for-home-cooks/"><u>Budget vs Quality - Is The ThermoPro TP67 a Dependable Option for Home Cooks?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-top-curved-4k-gaming-monitors-with-impressive-144hz-for-your-ultimate-pc-experience-in-2024/"><u>Discover the Top Curved 4K Gaming Monitors with Impressive 144Hz for Your Ultimate PC Experience in 202[4]</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-honor-80-pro-straight-screen-edition-easily-by-drfone-android/"><u>How To Unlock a Honor 80 Pro Straight Screen Edition Easily?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-realme-gt-3-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Realme GT 3 for Parents | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/m-audio-fast-track-driver-installers-for-windows-operating-systems-10-7-8-and-81/"><u>M-Audio Fast Track Driver Installers for Windows Operating Systems: 10, 7, 8 & 8.1</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ps5-value-assessment-why-procurement-pays-off-a-deep-dive-into-4-compelling-reasons/"><u>PS5 Value Assessment: Why Procurement Pays Off - A Deep Dive Into 4 Compelling Reasons</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/rectifying-the-non-delivery-of-emails-in-yahoo-mail-account/"><u>Rectifying the Non-Delivery of Emails in Yahoo Mail Account</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-10-inspiring-sports-films-perfect-for-a-movie-night/"><u>Top 10 Inspiring Sports Films Perfect for a Movie Night</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-top-8-youtube-imagery-techniques-for-higher-engagement/"><u>[New] 2024 Approved Top 8 YouTube Imagery Techniques for Higher Engagement</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-top-10-live-streamers-an-analytical-comparison-review/"><u>[Updated] In 2024, Top 10 Live Streamers An Analytical Comparison Review</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-steady-your-screen-the-key-to-slowdown-in-youtube-videos-48-chars/"><u>[Updated] Steady Your Screen The Key to Slowdown in YouTube Videos (48 Chars)</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/flair-and-finesse-in-your-gaming-youtube-channel-for-2024/"><u>Flair and Finesse in Your Gaming YouTube Channel for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-experience-the-full-storyline-of-dragon-ball-in-order/"><u>How To Experience The Full Storyline Of Dragon Ball In Order</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-join-the-global-audience-for-online-samsung-unpacked-events/"><u>How to Join the Global Audience for Online Samsung Unpacked Events</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-harnessing-the-power-of-gratuitous-text-animations/"><u>In 2024, Harnessing the Power of Gratuitous Text Animations</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-itel-s23-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Itel S23 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-binkw32dll-troubleshooting-process-for-flawless-operations/"><u>Mastering the binkw32.dll Troubleshooting Process for Flawless Operations</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tiltingscreensolution-steps/"><u>TiltingScreenSolution Steps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tracking-online-traffic-a-complete-overview-of-managing-your-data-usage/"><u>Tracking Online Traffic: A Complete Overview of Managing Your Data Usage</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-strategies-solving-cmos-battery-related-checksum-problems/"><u>Troubleshooting Strategies: Solving CMOS Battery-Related Checksum Problems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-building-a-larger-instagram-community/"><u>Ultimate Guide to Building a Larger Instagram Community</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-pc-download-rtx-2080-drivers-now-supporting-windows-1178/"><u>Update Your PC: Download RTX 2080 Drivers Now Supporting Windows 11/7/8</u></a></li>
 </ul></div>
 

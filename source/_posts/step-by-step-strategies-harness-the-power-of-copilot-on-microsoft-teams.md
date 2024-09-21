@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Strategies: Harness the Power of Copilot on Microsoft Teams"
-date: 2024-09-08T21:38:06.532Z
-updated: 2024-09-15T22:32:03.852Z
+date: 2024-09-18T03:56:14.172Z
+updated: 2024-09-20T22:04:32.686Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Strategies: Harness the Power of Copilot on Microsoft Teams"
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/20c69587162d153f03eefa64dab5fb5356740a9d4
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Scroll Through Emails
 
  These shortcuts are handy for navigating through your messages and long email threads:
@@ -62,13 +69,6 @@ thumbnail: https://thmb.techidaily.com/20c69587162d153f03eefa64dab5fb5356740a9d4
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Add Formatting to Email Text
 
  Use these commands to apply text formatting while you compose a message. Perform the same actions to undo the formatting:
@@ -81,16 +81,10 @@ thumbnail: https://thmb.techidaily.com/20c69587162d153f03eefa64dab5fb5356740a9d4
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add Elements to an Email
@@ -113,13 +107,6 @@ thumbnail: https://thmb.techidaily.com/20c69587162d153f03eefa64dab5fb5356740a9d4
 * **Mark an email as unread (Shift** +**U)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**U** to mark it as unread.
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## "Go to" Shortcuts in Gmail
 
  The following shortcuts can be used for[navigating Gmail](https://www.lifewire.com/go-to-the-next-or-previous-message-in-gmail-1172068) . Unlike the shortcuts above, the individual keys must be pressed separately rather than simultaneously
@@ -139,6 +126,13 @@ thumbnail: https://thmb.techidaily.com/20c69587162d153f03eefa64dab5fb5356740a9d4
 * **Open keyboard shortcut help (Shift** +**?)** : Press**Shift** +**?** to get the full list of Gmail keyboard shortcuts.
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Was this page helpful?
 
@@ -169,19 +163,17 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-redirect-mac-images-to-custom-folder/"><u>[New] In 2024, Redirect Mac Images to Custom Folder</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-novice-to-expert-selecting-best-yt-cameras-for-2024/"><u>[Updated] From Novice to Expert Selecting Best YT Cameras for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-making-magic-transforming-ordinary-posts-into-social-sensations/"><u>[Updated] In 2024, Making Magic Transforming Ordinary Posts Into Social Sensations</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-6-figure-success-starts-with-smart-hashtagging/"><u>2024 Approved 6-Figure Success Starts with Smart #Hashtagging</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fixing-lameencdll-errors-a-user-friendly-approach-with-audacity-and-lame-software/"><u>Fixing lame_enc.dll Errors: A User-Friendly Approach with Audacity and LAME Software</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-your-lenovos-fingerprint-sensor-issues-in-no-time/"><u>Fixing Your Lenovo's Fingerprint Sensor Issues in No Time</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-to-correcting-rpcrt4dll-not-detected-system-issues/"><u>Guide to Correcting Rpcrt4.dll Not Detected System Issues</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/just-started-with-x-here-are-10-must-know-tips-for-rookies/"><u>Just Started with X? Here Are 10 Must-Know Tips for Rookies!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721449979207-optimize-your-camera-roll-on-iphone-using-our-expert-advice/"><u>Optimize Your Camera Roll on iPhone Using Our Expert Advice</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/pivotal-techniques-for-reworking-windows-via-shortcuts/"><u>Pivotal Techniques for Reworking Windows via Shortcuts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solutions-for-resolving-msvcr100dll-file-cannot-be-found/"><u>Solutions for Resolving 'MSVCR100.DLL' File Cannot Be Found</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/steam-refund-policy-explained-how-to-get-money-for-unhappy-purchases/"><u>Steam Refund Policy Explained - How to Get Money for Unhappy Purchases</u></a></li>
-<li><a href="https://discover-best.techidaily.com/top-rated-dvd-to-mp4-converter-for-windows-11-streamline-your-media-transformation/"><u>Top Rated DVD to MP4 Converter for Windows 11 : Streamline Your Media Transformation!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-steps-to-free-up-space-by-emptying-your-androids-cache/"><u>Ultimate Guide: Steps to Free Up Space by Emptying Your Android's Cache</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-splitcam-vs-competitors-top-tier-video-recording/"><u>[Updated] 2024 Approved SplitCam Vs. Competitors Top-Tier Video Recording?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-essential-how-to-securely-downloading-gratis-vlc-on-macos/"><u>[Updated] The Essential How-To Securely Downloading Gratis VLC on MACOS</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-oneplus-ace-3-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For OnePlus Ace 3</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cinematic-scale-optimizer/"><u>Cinematic Scale Optimizer</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/crafting-coolest-mini-houses-in-mc-world-for-2024/"><u>Crafting Coolest Mini-Houses in MC World for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/cross-platform-messaging-how-to-use-imessage-with-android-phones/"><u>Cross-Platform Messaging: How to Use iMessage with Android Phones</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-mario-bros-saga-a-guide-to-the-top-1220-best-pc-editions-you-must-play/"><u>Essential Mario Bros Saga: A Guide to the Top 12/20 Best PC Editions You Must Play</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/join-the-bug-sniffers-club-at-openai-where-expertise-meets-rewards/"><u>Join the Bug-Sniffers Club at OpenAI, Where Expertise Meets Rewards</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/mastering-mac-best-screen-capture-applications-reviewed-for-2024/"><u>Mastering Mac Best Screen Capture Applications Reviewed for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-python24dll-missing-a-comprehensive-guide/"><u>Solving 'Python24.dll' Missing - A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/watching-3d-films-from-comfort-your-guide-to-enjoying-fandangos-at-home-experience/"><u>Watching 3D Films From Comfort: Your Guide to Enjoying Fandango's At-Home Experience</u></a></li>
 </ul></div>
 

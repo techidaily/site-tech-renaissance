@@ -1,7 +1,7 @@
 ---
 title: How to Switch Your Screen's On-Board Typing Feature ON/OFF on Windows 11
-date: 2024-09-09T20:29:28.187Z
-updated: 2024-09-15T22:05:46.617Z
+date: 2024-09-19T02:26:17.270Z
+updated: 2024-09-21T04:25:51.598Z
 categories:
   - BestProducts
 description: This Article Describes How to Switch Your Screen's On-Board Typing Feature ON/OFF on Windows 11
@@ -69,10 +69,17 @@ thumbnail: https://www.lifewire.com/thmb/k3_1sospmHadLdMZjMmUrMcPTnI=/400x300/fi
 ![A Windows 11 screenshot open in Snipping Tool](https://www.lifewire.com/thmb/n8hloKQGZfQTHNEMKqTmWZC4D_M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-snipping-tool-cfcc4b1e0c154d509e2d312ce4538e4e.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Delayed Screenshots With Snipping Tool
@@ -82,13 +89,6 @@ thumbnail: https://www.lifewire.com/thmb/k3_1sospmHadLdMZjMmUrMcPTnI=/400x300/fi
  Taking screenshots of open menus and other areas of Windows can sometimes be difficult if triggering the screenshot breaks whatever it is you're doing. Snipping Tool has a timed screenshot option, so you can do what you need to and then wait for the screenshot to happen automatically, hands-free.
 
  With the program open, select the**stopwatch** . There are three options:**3-second delay** ,**5-second delay** , and**10-second delay** . Select one, choose**New** , and then quickly arrange the screen in the way you need it for the screenshot. When the time you chose is reached, the four options above will display at the top of the screen.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Tips for Taking Screenshots in Windows 11
 
@@ -136,16 +136,21 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-setting-up-your-google-meet-profile/"><u>[New] 2024 Approved Setting Up Your Google Meet Profile</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-pioneering-3-approaches-to-ipad-voice-capture/"><u>[New] In 2024, Pioneering 3 Approaches to iPad Voice Capture</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-enhancing-communication-snap-camera-in-microsoft-teams/"><u>2024 Approved Enhancing Communication Snap Camera in Microsoft Teams</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-strategies-for-flawless-transfer-of-mmc-productions-to-vimeo/"><u>2024 Approved Strategies for Flawless Transfer of MMC Productions to Vimeo</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/explore-the-superiority-topmost-ai-tools-revolutionizing-your-online-searches/"><u>Explore the Superiority: Topmost AI Tools Revolutionizing Your Online Searches</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-make-your-content-explode-10-tips-for-instagram-fame/"><u>How to Make Your Content Explode: 10 Tips for Instagram Fame</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/in-depth-look-at-the-hisense-40h5590f-smart-features-on-a-budget/"><u>In-Depth Look at the Hisense 40H5590F - Smart Features on a Budget</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/jumpstart-your-valorant-pace-on-windows-pc/"><u>Jumpstart Your Valorant Pace on Windows PC</u></a></li>
-<li><a href="https://facebook.techidaily.com/pal-activist-power-one-star-review-trend-tarnishes-fb-store-ratings/"><u>Pal-Activist Power: One Star Review Trend Tarnishes FB Store Ratings</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-best-ups-battery-backups-of-2024/"><u>The Best UPS Battery Backups of 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-list-of-mario-gaming-adventures-for-your-computer/"><u>Ultimate List of Mario Gaming Adventures for Your Computer</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-elevate-your-video-presentation-with-these-7-free-makers/"><u>[New] 2024 Approved Elevate Your Video Presentation with These 7 Free Makers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-elevating-your-youtube-profile-with-high-impact-artwork-guide/"><u>[New] In 2024, Elevating Your YouTube Profile with High-Impact Artwork Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-the-5-must-try-samsung-gear-vr-games/"><u>[Updated] 2024 Approved The 5 Must-Try Samsung Gear VR Games</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exclusive-lineup-all-angle-recorders/"><u>[Updated] Exclusive Lineup All-Angle Recorders</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-skyline-spectacle-top-10-websites-for-dynamic-hdr-images/"><u>[Updated] Skyline Spectacle Top 10 Websites for Dynamic HDR Images</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-broadcasting-hidden-voices-on-instagram-live/"><u>2024 Approved Broadcasting Hidden Voices on Instagram Live</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/diving-into-dragons-lair-a-full-review-of-the-remastered-spyro-trilogys-epic-value-proposition/"><u>Diving Into Dragon's Lair: A Full Review of the Remastered Spyro Trilogy's Epic Value Proposition</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-apple-iphone-se-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On Apple iPhone SE</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/maximizing-your-experience-ultimate-guide-to-enhancing-apple-tv/"><u>Maximizing Your Experience: Ultimate Guide to Enhancing Apple TV</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/secrets-to-successfully-purchasing-iphoneipad-ebooks-with-apple-books-application/"><u>Secrets to Successfully Purchasing iPhone/iPad eBooks with Apple Books Application</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/setting-up-fubotv-streaming-on-your-amazon-firestick-a-step-by-step-guide/"><u>Setting Up FuboTV Streaming on Your Amazon Firestick: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-disappearing-act-of-fbs-dark-mode-quick-troubleshooting-tips/"><u>Solving the Disappearing Act of FB's Dark Mode - Quick Troubleshooting Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-correcting-the-absence-of-x3daudiodll-on-your-pc/"><u>Step-by-Step Guide: Correcting the Absence of X3DAudio.dll on Your PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/t-mobiles-unlimited-data-plan-and-comprehensive-roaming-agreement-with-metropcs/"><u>T-Mobile's Unlimited Data Plan and Comprehensive Roaming Agreement with MetroPCS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-sonys-future-exclusive-updates-from-the-202n4-state-of-play-event/"><u>Unveiling Sony's Future: Exclusive Updates From the 202N4 State of Play Event</u></a></li>
 </ul></div>
 

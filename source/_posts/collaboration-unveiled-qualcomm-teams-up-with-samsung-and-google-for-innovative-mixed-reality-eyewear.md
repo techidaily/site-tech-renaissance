@@ -1,7 +1,7 @@
 ---
 title: "Collaboration Unveiled: Qualcomm Teams Up With Samsung & Google For Innovative Mixed Reality Eyewear"
-date: 2024-09-17 13:56:35
-updated: 2024-09-20 10:16:40
+date: 2024-09-16T16:48:11.111Z
+updated: 2024-09-20T18:22:59.657Z
 tags:
   - ar+vr
 categories:
@@ -60,11 +60,36 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-elevate-your-digital-footprint-strategies-for-effective-fb-video-marketing/"><u>[New] 2024 Approved Elevate Your Digital Footprint Strategies for Effective FB Video Marketing</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/dd-a-professional-touch-youtube-video-image-crafting-for-2024/"><u>[New] Add a Professional Touch YouTube Video Image Crafting for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-tips-for-making-facebook-ad-videos-memorable/"><u>[Updated] 2024 Approved Tips for Making Facebook Ad Videos Memorable</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-inside-and-out-a-full-guide-to-theta-s-features-for-2024/"><u>[Updated] Inside & Out A Full Guide to Theta S Features for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-enhancing-visual-storytelling-utilizing-luts-techniques/"><u>2024 Approved Enhancing Visual Storytelling Utilizing Luts Techniques</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-instructions-customizing-font-preferences-on-your-windows-11-machine/"><u>Easy Instructions: Customizing Font Preferences on Your Windows 11 Machine</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/elevate-your-gameplay-the-quintessential-5-tools-every-twitch-broadcaster-needs/"><u>Elevate Your Gameplay: The Quintessential 5 Tools Every Twitch Broadcaster Needs</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hassle-free-guide-to-finding-and-installing-canon-software-on-windows/"><u>Hassle-Free Guide to Finding and Installing Canon Software on Windows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-does-transfer-learning-empower-ai-an-intuitive-approach/"><u>How Does Transfer Learning Empower AI? An Intuitive Approach</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-samsung-galaxy-m34-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Samsung Galaxy M34 5G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/perfect-binge-watching-strategy-for-fans-of-dragon-ball/"><u>Perfect Binge-Watching Strategy for Fans of Dragon Ball</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-samsung-phone-launch/"><u>The Samsung Phone Launch</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-what-to-do-when-your-instagram-stories-wont-upload/"><u>Troubleshooting Guide: What to Do When Your Instagram Stories Won’t Upload</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-for-the-missing-ac1st16dll-error-message/"><u>Troubleshooting Steps for the Missing Ac1st16.dll Error Message</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-amr-audio-converter-complete-guide-to-amr-files/"><u>Updated 2024 Approved AMR Audio Converter Complete Guide to AMR Files</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

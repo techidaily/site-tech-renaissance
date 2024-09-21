@@ -1,7 +1,7 @@
 ---
 title: Ordered Viewing Experience for All Indiana Jones Movies – A Step by Step Tutorial
-date: 2024-09-09T21:12:46.633Z
-updated: 2024-09-15T22:29:28.547Z
+date: 2024-09-18T18:00:10.758Z
+updated: 2024-09-20T19:00:22.333Z
 categories:
   - BestProducts
 description: This Article Describes Ordered Viewing Experience for All Indiana Jones Movies – A Step by Step Tutorial
@@ -43,18 +43,18 @@ thumbnail: https://www.lifewire.com/thmb/OYmxReCW_5yL0PArDIGp1IWE_Os=/400x300/fi
 
 ![Command Prompt menu item in Windows System folder in Start menu on Windows 10](https://www.lifewire.com/thmb/M8TRCTyz0ujUzmDzFZsFJjffiq4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-open-command-prompt-2618089-5c6468a146e0fb0001f25667.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Open Command Prompt Using Power User Menu
 
  One more method is through the[Power User Menu](https://www.lifewire.com/what-is-the-power-user-menu-2625968) . If you're using a keyboard or mouse, choose**Terminal** (Windows 11) or**Command Prompt** (Windows 10) from the menu that appears after pressing**Win** +**X** or right-clicking the**Start** **Menu** .
 
 ![Command Prompt in Windows 10 Power User menu](https://www.lifewire.com/thmb/7_8z-AOur7jJSd6_2bz9Yp2VnDA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-open-command-prompt-2618089-5c646ad746e0fb0001dcd81a.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You might see PowerShell options in the Power User Menu instead of Command Prompt. In more recent versions of Windows 10, Command Prompt has been replaced by PowerShell, but you can[switch between PowerShell and Command Prompt](https://www.lifewire.com/switch-command-prompt-and-powershell-on-the-win-x-menu-2626247) from the Power User Menu. Terminal is the replacement in Windows 11.
 
@@ -70,6 +70,13 @@ thumbnail: https://www.lifewire.com/thmb/OYmxReCW_5yL0PArDIGp1IWE_Os=/400x300/fi
 
  See our [list of Windows 8 Command Prompt commands](https://www.lifewire.com/windows-8-command-prompt-commands-4172073) for all of the commands available through Command Prompt in Windows 8, including short descriptions and links to more in-depth information if we have it.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Open Command Prompt in Windows 7, Vista, or XP
 
  In these versions of Windows, Command Prompt is found through a folder group in the Start menu.
@@ -81,6 +88,13 @@ thumbnail: https://www.lifewire.com/thmb/OYmxReCW_5yL0PArDIGp1IWE_Os=/400x300/fi
 
  See our [list of Windows 7 commands](https://www.lifewire.com/list-of-windows-7-command-prompt-commands-4107370) and[list of Windows XP commands](https://www.lifewire.com/windows-xp-commands-4687695) if you need a command reference for any of those versions of Windows.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Other Ways to Open Command Prompt
 
  Command Prompt in Windows 11 through Windows XP can also be opened with a command. This is especially helpful if you like using the Run dialog box or if File Explorer has crashed and the Start menu is inaccessible (and thus the directions above don't work).
@@ -88,13 +102,6 @@ thumbnail: https://www.lifewire.com/thmb/OYmxReCW_5yL0PArDIGp1IWE_Os=/400x300/fi
  To do this, enter**cmd** into the command-line interface. This can be in the Run dialog box (**WIN** +**R** ) or[Task Manager's](https://www.lifewire.com/task-manager-2626025) **Run new task** option (go to**File** \>**Run new task** if you're not using Windows 11).
 
 ![cmd command in Windows task manager](https://www.lifewire.com/thmb/vmaNGH1y0PVAMe1joTnnpWVqJ-Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cmd-command-task-manager-da3a31f675de41198c4948fbaff46829.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Elevated Command Prompts and Old Windows Versions
 
@@ -107,13 +114,6 @@ thumbnail: https://www.lifewire.com/thmb/OYmxReCW_5yL0PArDIGp1IWE_Os=/400x300/fi
 * **you must be an administrator**
 
 ![sfc scannow elevated prompt message](https://www.lifewire.com/thmb/PmVejDjk3-H5ABhTpR5vFhEpxXE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sfc-scannow-administrator-command-prompt-775fe2bfbdd54342813261652a3de86f.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  See[How to Open an Elevated Command Prompt](https://www.lifewire.com/how-to-open-an-elevated-command-prompt-2618088) for help starting Command Prompt as an administrator, a process that's a bit more complicated than what's outlined above.
 
@@ -159,17 +159,20 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-starting-your-journey-as-an-online-gaming-star/"><u>[New] 2024 Approved Starting Your Journey as an Online Gaming Star</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-beginners-backstage-pass-to-photo-tricks/"><u>[Updated] Beginner's Backstage Pass to Photo Tricks</u></a></li>
-<li><a href="https://win-blog.techidaily.com/bypassing-the-error-successful-startup-strategies-for-team-fortress-2/"><u>Bypassing the Error: Successful Startup Strategies for Team Fortress 2</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/gary-weighs-in-exceptional-ms-sql-support-by-stellar-experts/"><u>Gary Weighs In: Exceptional MS SQL Support by Stellar Experts</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-apple-iphone-14-pro-max-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your Apple iPhone 14 Pro Max When You Forget the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Motorola Moto G73 5G? | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-strategies-for-editing-and-elevating-youtube-profiles/"><u>In 2024, Strategies for Editing and Elevating YouTube Profiles</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/master-android-flip-digital-content-sequence/"><u>Master Android Flip Digital Content Sequence</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-xbox-game-pass-ultimate-the-definitive-guide-to-cloud-based-gaming/"><u>Mastering Xbox Game Pass Ultimate: The Definitive Guide to Cloud-Based Gaming</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/overcome-apple-watch-pairing-glitches-with-these-6-strategies/"><u>Overcome Apple Watch Pairing Glitches with These 6 Strategies</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/samsungs-next-gen-smartphone-revealed-the-galaxy-z-fold-6-price-point-and-launch-forecast/"><u>Samsung's Next-Gen Smartphone Revealed - The Galaxy Z Fold 6 Price Point and Launch Forecast</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-device-wont-boot-issue-fixing-error-10-with-ease/"><u>Troubleshooting Device Won't Boot Issue: Fixing Error 10 with Ease</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-free-your-cameras-potential-best-screens-recording-apps-reviewed-for-2024/"><u>[Updated] Free Your Camera's Potential Best Screens Recording Apps Reviewed for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-from-tape-to-trending-seamless-mp3-to-youtube-transition/"><u>[Updated] From Tape to Trending Seamless MP3 to YouTube Transition</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-unwind-with-our-top-10-serene-games/"><u>2024 Approved Unwind With Our Top 10 Serene Games</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-on-apple-iphone-8-by-drfone-ios/"><u>3 Effective Ways to Bypass Activation Lock on Apple iPhone 8</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/building-vs-buying-a-pc-which-one-is-right-for-you/"><u>Building Vs. Buying a PC: Which One Is Right For You?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/common-problems-and-fixes-for-broken-usb-internet-connection/"><u>Common Problems and Fixes for Broken USB Internet Connection</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ghostly-replay-techniques-for-editors-for-2024/"><u>Ghostly Replay Techniques for Editors for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-nokia-c12-by-fonelab-android-recover-photos/"><u>How to recover deleted photos from Nokia C12.</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-pioneering-techniques-in-the-world-of-gif-animation/"><u>In 2024, Pioneering Techniques in the World of GIF Animation</u></a></li>
+<li><a href="https://win-answers.techidaily.com/red-dead-online-no-longer-freezing-fixes-and-solutions-unveiled/"><u>Red Dead Online No Longer Freezing: Fixes and Solutions Unveiled</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionize-your-home-entertainment-with-hitachis-high-definition-4k-tvs-and-seamless-roku-integration/"><u>Revolutionize Your Home Entertainment with Hitachi's High-Definition 4K TVs and Seamless Roku Integration</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-to-repair-unresponsive-applications-on-your-mac/"><u>Step-by-Step Guide to Repair Unresponsive Applications on Your Mac</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-watching-dragon-ball-z-sequentially/"><u>The Ultimate Guide: Watching Dragon Ball Z Sequentially</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-instagram-its-features-and-functionality-explained/"><u>Unveiling Instagram: Its Features and Functionality Explained</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/what-to-expect-from-the-apple-watch-ultra-2-insights-on-price-points-launch-date-and-latest-tech-specs/"><u>What to Expect From the Apple Watch Ultra 2: Insights on Price Points, Launch Date & Latest Tech Specs</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Discord Server Status: Troubleshooting Connectivity Issues – Is It a Global Outage or User-Specific?"
-date: 2024-09-08T17:11:57.233Z
-updated: 2024-09-16T00:00:36.782Z
+date: 2024-09-18T00:09:48.938Z
+updated: 2024-09-20T18:50:14.060Z
 categories:
   - BestProducts
 description: "This Article Describes Discord Server Status: Troubleshooting Connectivity Issues – Is It a Global Outage or User-Specific?"
@@ -133,10 +133,10 @@ of 10
 ![OneNote website](https://www.lifewire.com/thmb/xpLJA58kh0a8DmchVzkQwbWvgBo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2017-04-12at3.38.09PM-58ee827d3df78cd3fc5f8576.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  What We Like
@@ -209,9 +209,29 @@ of 10
 
 of 10
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## [A Stunningly Visual Note-Taking Experience: Zoho Notebook](https://www.zoho.com/notebook/)
 
 ![Zoho.com Notebook website](https://www.lifewire.com/thmb/i99lX_6eh9Cpzoh3YeJ4FdYCpa0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2017-04-15at5.17.45PM-58f28e545f9b582c4d61fae6.png)
+
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ​
 
@@ -246,22 +266,16 @@ of 10
 
 of 10
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## [A Collaborative Note-Taking App for Your Whole Team: Dropbox Paper](https://www.dropbox.com/paper/start)
 
 ![Dropbox Paper website](https://www.lifewire.com/thmb/3Y9VYshyhwfzEAhYUQo6qfLW-v8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2017-04-17at9.13.18PM-58f5693f5f9b581d59046520.png)
-
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  What We Like
 
@@ -292,16 +306,16 @@ of 10
 
 of 10
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## [Best App for Taking Digital Handwritten Notes: Squid](https://www.squidnotes.com/)
 
 ![SquidNotes website](https://www.lifewire.com/thmb/elX17TRYlBrhykILBHZdUnmrAzY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2017-04-18at3.28.23PM-58f669393df78ca159210743.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  What We Like
 
@@ -360,23 +374,9 @@ of 10
 
 of 10
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## [Basic, Minimal, and Possibly All You Need: Notes](https://apps.apple.com/app/notes/id1110145109)
 
 ![Apple Notes website](https://www.lifewire.com/thmb/a3hdmF_cqcF1RmxUS5cVmozIgpM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2017-04-25at7.10.21PM-58ffd86f5f9b581d59b97459.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ​
 
@@ -436,20 +436,15 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-crafting-a-compelling-profile-visual-experience-for-2024/"><u>[New] Crafting a Compelling Profile Visual Experience for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/astering-the-art-of-aspect-ratios-on-youtube-videosshortsads/"><u>[New] Mastering the Art of Aspect Ratios on YouTube Videos/Shorts/Ads</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-chromebook-real-time-screenshot-app/"><u>[Updated] In 2024, Chromebook Real-Time Screenshot App</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-thorough-examination-capturing-life-in-full-with-gear-360/"><u>2024 Approved Thorough Examination Capturing Life in Full with Gear 360</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/asus-rog-phone-7-ultimate-messages-recovery-recover-deleted-messages-from-asus-rog-phone-7-ultimate-by-fonelab-android-recover-messages/"><u>Asus ROG Phone 7 Ultimate Messages Recovery - Recover Deleted Messages from Asus ROG Phone 7 Ultimate</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/claude-3-unveiled-exploring-its-capabilities/"><u>Claude 3 Unveiled: Exploring Its Capabilities</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/complete-walkthrough-how-to-take-quick-shots-on-an-hp-desktoplaptop/"><u>Complete Walkthrough: How to Take Quick Shots on an HP Desktop/Laptop</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-solutions-for-when-your-computer-says-wmvcoredll-is-missing/"><u>Easy Solutions for when Your Computer Says wmvcore.dll Is Missing</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/edit-like-a-pro-on-macos-or-linux-using-free-darktable-your-ultimate-raw-photo-conversion-toolkit-online/"><u>Edit Like a Pro on macOS or Linux Using Free Darktable: Your Ultimate Raw Photo Conversion Toolkit Online</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-aspects-to-think-about-prior-to-investing-in-a-health-monitor-gadget/"><u>Essential Aspects to Think About Prior to Investing in a Health Monitor Gadget</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-efficiently-managing-gmail-with-advanced-filtering-and-adding-multiple-addresses/"><u>Guide: Efficiently Managing Gmail with Advanced Filtering & Adding Multiple Addresses</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-interpret-your-laptopamoor-power-statistics-on-windows-10-insights-and-advice/"><u>How to Interpret Your Laptop'amoor Power Statistics on Windows 10: Insights & Advice</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/pros-and-cons-to-purchase-or-not-to-purchase-a-blu-ray-player/"><u>Pros and Cons: To Purchase or Not to Purchase a Blu-Ray Player?</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solution-to-cyberpunk-2077s-prevailing-latency-issues/"><u>Solution to Cyberpunk 2077'S Prevailing Latency Issues</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-the-mystery-effective-ways-to-resolve-advapi32dll-file-missing-error/"><u>Solving the Mystery: Effective Ways to Resolve 'Advapi32.dll' File Missing Error</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-smooth-sailing-with-instagram-fixes-for-frustrations/"><u>[New] 2024 Approved Smooth Sailing with Instagram Fixes for Frustrations</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-iphones-simple-guide-for-efficient-screen-recording/"><u>[New] In 2024, IPhone's Simple Guide for Efficient Screen Recording</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apples-new-audio-device-unveiled-pricing-forecasts-release-timeline-and-expert-rumors-explained/"><u>Apple's New Audio Device Unveiled: Pricing Forecasts, Release Timeline, and Expert Rumors Explained</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/deconstructing-the-limits-to-longer-instagram-videos/"><u>Deconstructing the Limits to Longer Instagram Videos</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-on-bluehost-thorough-testing-of-cloud-virtual-private-server-vps-and-shared-hosting-services/"><u>Expert Insights on Bluehost: Thorough Testing of Cloud, Virtual Private Server (VPS), and Shared Hosting Services</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-up-to-date-drivers-for-epson-all-in-one-scanners-download-here/"><u>Get Up-to-Date Drivers for Epson All-in-One Scanners – Download Here!</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-honor-play-40c-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-vivo-t2-5g-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Vivo T2 5G Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-5-best-free-apps-for-language-acquisition/"><u>Top 5 Best Free Apps for Language Acquisition</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/what-does-a-502-bad-gateway-issue-mean-a-simple-fixing-manual/"><u>What Does a 502 Bad Gateway Issue Mean? A Simple Fixing Manual</u></a></li>
 </ul></div>
 

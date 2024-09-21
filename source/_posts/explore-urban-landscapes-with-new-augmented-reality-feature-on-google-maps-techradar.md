@@ -1,7 +1,7 @@
 ---
 title: Explore Urban Landscapes with New Augmented Reality Feature on Google Maps | TechRadar
-date: 2024-09-17 16:25:50
-updated: 2024-09-20 12:27:11
+date: 2024-09-15T02:23:05.176Z
+updated: 2024-09-20T16:31:17.006Z
 tags:
   - ar+vr
 categories:
@@ -60,11 +60,36 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/-free-online-video-editors-for-youtube-for-2024/"><u>[New] 8 Free Online Video Editors for YouTube for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-a-blueprint-for-boosting-business-results-with-better-offices/"><u>[New] A Blueprint for Boosting Business Results with Better Offices</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-enhance-youtube-video-speed-fast-render-and-upload-techniques/"><u>[Updated] In 2024, Enhance YouTube Video Speed - Fast Render and Upload Techniques</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-best-alternatives-to-microsofts-game-bar-recording-features/"><u>2024 Approved Best Alternatives to Microsoft's Game Bar Recording Features</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ethical-practices-for-handling-contact-geolocation-data-on-ios-devices/"><u>Ethical Practices for Handling Contact Geolocation Data on iOS Devices</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guide-on-consolidating-refining-shape-and-modifying-size-of-worksheets-within-excel-spreadsheets/"><u>Guide on Consolidating, Refining Shape, and Modifying Size of Worksheets Within Excel Spreadsheets</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-car-stereo-problems-discover-why-your-speakers-arent-working-anymore/"><u>Solving Car Stereo Problems: Discover Why Your Speakers Aren't Working Anymore</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/strengthening-your-icloud-mail-implementing-multi-step-verification/"><u>Strengthening Your iCloud Mail: Implementing Multi-Step Verification</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/uncover-the-causes-behind-avcodecdll-absence-and-how-to-rectify-them/"><u>Uncover the Causes Behind Avcodec.dll Absence and How to Rectify Them</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

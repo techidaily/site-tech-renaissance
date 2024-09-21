@@ -1,7 +1,7 @@
 ---
 title: 'NulloPhone' Version 3 - What to Expect in Terms of Launch Date, Estimated Costs and Potential Device Specifications
-date: 2024-09-09T22:49:28.386Z
-updated: 2024-09-15T17:12:28.578Z
+date: 2024-09-19T19:01:26.441Z
+updated: 2024-09-20T20:37:57.692Z
 categories:
   - BestProducts
 description: This Article Describes 'NulloPhone' Version 3 - What to Expect in Terms of Launch Date, Estimated Costs and Potential Device Specifications
@@ -54,6 +54,13 @@ Nothing Phone 2.
 
 Lifewire / Rob LeFebvre
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Pre-Order Information
 
  The Nothing Phone 3 hasn't yet been announced by Nothing, which means we don't have any pre-order information. Once we know more, we’ll update details here, so stay tuned. We’ll also detail how widely available the Phone 3 will be for pre-ordering.
@@ -61,13 +68,6 @@ Lifewire / Rob LeFebvre
 ## Nothing Phone 3 Specs and Features
 
  Since the Phone 3 isn't an official product, it’s hard to say for sure what we’ll see in the Phone 3\. But here’s some reliable chatter so far.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### A Newer Chip (but Just How New)?
 
@@ -77,6 +77,19 @@ Lifewire / Rob LeFebvre
 
  Another speculation is that the[Phone 3 will stick to the trend of previous-generation chips](https://www.gizchina.com/2024/04/23/nothing-phone-3-expected-this-summer-but-not-a-flagship-killer/) , which would point toward a Snapdragon 8 Gen 2 Phone 3.
 
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Better Battery
 
  The Phone 2 made significant strides with a 4,700-mAh battery, an impressive boost compared to the Phone 1's 4500 mAh (for comparison, the iPhone 15 Plus has a 4,383-mAh battery). The newest model is likely to improve upon these gains and catch up with competitors by offering faster wired charging and bigger capacity.
@@ -84,13 +97,6 @@ Lifewire / Rob LeFebvre
 ### Improved Camera
 
  The dual-camera design of the Phone 1 and Phone 2 will likely carry over.[Phone Arena reports that the Phone 3 might get Sony's latest LYTIA sensor lineup](https://www.phonearena.com/nothing-phone-3-release-date-price-upgtades) , which could mean even more control and a richer photo-taking experience in various lighting conditions and environments.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Signature Glyph, Improved
 
@@ -103,16 +109,10 @@ Nothing OS 2.0.
 Nothing
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### An Action Button
@@ -121,6 +121,13 @@ Nothing
 
  In this rendering, it has an additional external button on the right side. Some speculate this button[could mimic the iPhone 15's Action Button](https://beebom.com/did-carl-pei-leak-nothing-phone-3-with-action-button/) .
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Integrated AI
 
  Pei also released a video on X announcing the company's AI prototyping. Pei alluded to a[heavy AI presence on the Nothing Phone 3](https://www.lifewire.com/carl-pei-nothing-ai-phone-3-8658876) .
@@ -128,13 +135,6 @@ Nothing
  The only timing clue Pei offered was a "next year" tag for the slow rollout of AI, starting with the Nothing Phone 3.  
 
  We’ll continue to make updates as we learn about more rumors, leaks, and official word from Nothing.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Latest News About the Nothing Phone 3
 
@@ -163,17 +163,17 @@ Nothing
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-streamlining-your-gaming-sessions-recording-made-easy/"><u>[New] In 2024, Streamlining Your Gaming Sessions Recording Made Easy</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-streamlined-savings-for-cloud-storage-costs-analysis/"><u>[Updated] Streamlined Savings for Cloud Storage Costs Analysis</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-strategies-to-streamline-your-google-meet-calendar/"><u>2024 Approved Strategies to Streamline Your Google Meet Calendar</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/best-free-hard-drive-defrag-software-selection-for-july-2024-reviewed/"><u>Best Free Hard Drive Defrag Software Selection for July 2024 Reviewed</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/bypassing-digital-locks-on-pdf-documents-a-comprehensive-guide-to-drm-free-access/"><u>Bypassing Digital Locks on PDF Documents: A Comprehensive Guide to DRM-Free Access</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-hottest-kids-and-family-shows-available-on-amazon-prime-video-in-june-2024/"><u>Discover the Hottest Kids' And Family Shows Available on Amazon Prime Video in June 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-break-free-from-the-endless-loading-loop-of-red-dead-redemption-2-gameplay/"><u>How to Break Free From the Endless Loading Loop of Red Dead Redemption ^2 Gameplay</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-revive-a-dead-computer-a-step-by-step-guide/"><u>How to Revive a Dead Computer - A Step by Step Guide</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-11-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone 11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722875473245-projector-shopping-heres-what-you-need-to-know/"><u>Projector Shopping? Here's What You Need To Know!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-photoshop-scratch-disk-overfill-a-comprehensive-guide/"><u>Solving Photoshop Scratch Disk Overfill: A Comprehensive Guide</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-avs-video-editor-a-detailed-review-for-beginners-and-pros-for-2024/"><u>Updated AVS Video Editor A Detailed Review for Beginners and Pros for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-unveiling-the-top-6-mac-capture-software-options/"><u>[Updated] In 2024, Unveiling the Top 6 Mac Capture Software Options</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-your-youtube-woes-making-those-missing-comments-reappear/"><u>Fixing Your YouTube Woes: Making Those Missing Comments Reappear</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-poco-c51-lock-screen-password-by-drfone-android/"><u>How To Change Poco C51 Lock Screen Password?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Poco M6 Pro 4G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-sony-xperia-5-v-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Sony Xperia 5 V working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-connection-between-samsung-audio-devices-and-pcs/"><u>Mastering the Connection Between Samsung Audio Devices & PCs</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-galaxy-s23-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Galaxy S23 unlock screen</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Infinix Zero 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-tracking-snags-on-apple-watch-effective-solutions-and-tips/"><u>Step Tracking Snags on Apple Watch: Effective Solutions and Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-resolving-issues-with-non-uploading-instagram-stories/"><u>Troubleshooting Guide: Resolving Issues with Non-Uploading Instagram Stories</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/twitch-account-disposal-a-detailed-tutorial/"><u>Twitch Account Disposal: A Detailed Tutorial</u></a></li>
 </ul></div>
 

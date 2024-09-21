@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: How to Grab a Screenshot Using Windows or Mac"
-date: 2024-09-14T20:50:59.295Z
-updated: 2024-09-15T23:56:44.304Z
+date: 2024-09-19T04:30:59.153Z
+updated: 2024-09-20T16:26:20.613Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Tutorial: How to Grab a Screenshot Using Windows or Mac"
@@ -45,19 +45,6 @@ thumbnail: https://thmb.techidaily.com/dc4a82d976964b1f2e7b859f5b2f6939dbc4ceccf
 
 [How to Screenshot on a Logitech Keyboard](https://www.lifewire.com/take-screenshot-with-logitech-keyboard-5186441)
 
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Screenshot Part of the Screen
 
  `Win+Shift+S`
@@ -95,6 +82,13 @@ thumbnail: https://thmb.techidaily.com/dc4a82d976964b1f2e7b859f5b2f6939dbc4ceccf
  Taking screenshots of open menus and other areas of Windows can sometimes be difficult if triggering the screenshot breaks whatever it is you're doing. Snipping Tool has a timed screenshot option, so you can do what you need to and then wait for the screenshot to happen automatically, hands-free.
 
  With the program open, select the**stopwatch** . There are three options:**3-second delay** ,**5-second delay** , and**10-second delay** . Select one, choose**New** , and then quickly arrange the screen in the way you need it for the screenshot. When the time you chose is reached, the four options above will display at the top of the screen.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Tips for Taking Screenshots in Windows 11
 
@@ -142,20 +136,20 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-renaissance.techidaily.com/apples-upcoming-home-robot-revealed-potential-launch-date-cost-estimates-detailed-features-and-latest-gossip/"><u>Apple's Upcoming Home Robot Revealed: Potential Launch Date, Cost Estimates, Detailed Features & Latest Gossip</u></a></li>
-<li><a href="https://fox-access.techidaily.com/dreamweaver-ai-design-your-masterpieces/"><u>DreamWeaver AI Design Your Masterpieces</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-factors-in-picking-the-best-selfie-extender-for-epic-shots/"><u>Essential Factors in Picking the Best Selfie Extender for Epic Shots</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/expected-daily-video-consumption-gb-calculation-for-2024/"><u>Expected Daily Video Consumption GB Calculation for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-successfully-address-and-repair-a-missing-or-not-found-mapi32dll-file/"><u>How to Successfully Address and Repair a Missing or Not Found Mapi32.dll File</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-textual-transformation-enrich-your-images-with-words-pcmac-style/"><u>In 2024, Textual Transformation Enrich Your Images with Words, PC/Mac Style</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Apple iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/locating-electric-vehicle-charger-spots-with-google-maps-a-step-by-step-guide/"><u>Locating Electric Vehicle Charger Spots with Google Maps: A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/playchoice-pondering-over-dacast/"><u>PlayChoice Pondering Over DaCast</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/premier-live-chat-platforms-for-virtual-gatherings/"><u>Premier Live-Chat Platforms for Virtual Gatherings</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solve-your-wii-game-disc-problems-with-these-expert-tips-and-tricks/"><u>Solve Your Wii Game Disc Problems with These Expert Tips and Tricks</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-2024-top-50-energetic-workout-songs/"><u>The 2024 Top 50 Energetic Workout Songs</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-creating-your-new-x-previously-known-as-twitter-profile/"><u>Ultimate Guide: Creating Your New X (Previously Known as Twitter) Profile</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unraveling-the-mystery-behind-chatgpts-ownership/"><u>Unraveling the Mystery Behind ChatGPT's Ownership</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-effortless-transferring-5-pathways-to-download-igtv-on-computers/"><u>[New] In 2024, Effortless Transferring 5 Pathways to Download IGTV on Computers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-eyedome-xtreme-ultimate-os-video-snapper/"><u>2024 Approved EyeDome Xtreme Ultimate OS Video Snapper</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-the-ultimate-guide-to-automated-mac-lecture-recording/"><u>2024 Approved The Ultimate Guide to Automated Mac Lecture Recording</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beat-startup-blues-effective-ways-to-resolve-freezing-problems-in-your-windows-10-system/"><u>Beat Startup Blues: Effective Ways to Resolve Freezing Problems in Your Windows 10 System</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehvew-to-executing-commands-with-cmd-a-guide-from-windows-7-to-windows-11/"><u>Comprehvew to Executing Commands with CMD: A Guide From Windows 7 to Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/contemplating-a-ps5-uncover-four-persuasive-factors-that-make-it-a-smart-choice-for-gamers/"><u>Contemplating a PS5? Uncover Four Persuasive Factors That Make It a Smart Choice for Gamers</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/t-download-of-youtube-videos-for-2024/"><u>Direct Download of YouTube Videos for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-the-best-lgbt-cinema-lineup-on-netflix-for-july-2024/"><u>Explore the Best LGBT Cinema Lineup on Netflix for July 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-correctly-address-and-repair-missing-nspr4dll-file-issues/"><u>How to Correctly Address and Repair Missing Nspr4.dll File Issues</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-use-facebooks-daily-time-reminder-to-take-a-break/"><u>How to Use Facebook's Daily Time Reminder to Take a Break</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/precision-leap-in-education-pearsons-updated-gsl-with-mondly/"><u>Precision Leap in Education: Pearson's Updated GSL with Mondly</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-to-restore-wi-fi-on-your-disconnected-surface-pro/"><u>Step-by-Step Guide to Restore Wi-Fi on Your Disconnected Surface Pro</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/streaming-live-a-guide-to-viewing-the-latest-samsung-unboxing-event-online/"><u>Streaming Live: A Guide to Viewing the Latest Samsung Unboxing Event Online</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-making-your-iphones-alarm-work-again/"><u>Troubleshooting Guide: Making Your iPhone's Alarm Work Again</u></a></li>
+<li><a href="https://win-blog.techidaily.com/warzone-woes-solve-the-problem-when-your-pc-cant-find-competitive-battles/"><u>Warzone Woes? Solve the Problem When Your PC Can't Find Competitive Battles</u></a></li>
 </ul></div>
 

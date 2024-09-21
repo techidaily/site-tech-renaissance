@@ -1,7 +1,7 @@
 ---
 title: "Tech Giants Join Forces in XR Space: Anticipation Builds as Apple Prepares to Unveil Its Own Headset, According to ZDNet Reports"
-date: 2024-09-17 11:24:45
-updated: 2024-09-20 10:27:41
+date: 2024-09-17T21:11:39.370Z
+updated: 2024-09-20T22:47:26.327Z
 tags:
   - ar+vr
 categories:
@@ -60,11 +60,33 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-reel-ready-content-best-insta-downloaders-explored-for-2024/"><u>[New] Reel-Ready Content Best Insta Downloaders Explored for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-10-innovative-desktopmobile-conferencing-tools/"><u>2024 Approved 10 Innovative Desktop/Mobile Conferencing Tools</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-tailoring-recording-techniques-in-audacity-for-professionals/"><u>2024 Approved Tailoring Recording Techniques in Audacity for Professionals</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-itel-a60-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/asus-vivobook-11-insightful-review-small-form-factor-meets-big-savings-in-laptops/"><u>Asus VivoBook 11 Insightful Review: Small Form Factor Meets Big Savings in Laptops</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-poco-c50-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/eliminate-python24dll-not-found-errors-with-these-simple-steps/"><u>Eliminate 'Python24.dll Not Found' Errors with These Simple Steps</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/future-fusion-unlocking-mac-with-smartwatches/"><u>Future Fusion Unlocking Mac With Smartwatches</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/harnessing-the-power-of-ai-with-chatgpt-on-your-mac-computer/"><u>Harnessing the Power of AI with ChatGPT on Your Mac Computer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-can-i-successfully-run-several-youtube-channels-at-once/"><u>How Can I Successfully Run Several YouTube Channels at Once?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-iphone-8-plus-when-phone-is-broken-drfone-by-drfone-ios/"><u>In 2024, How to Turn Off Find My iPhone 8 Plus when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ios-app-store-vs-google-play-store-which-is-better-for-app-developers/"><u>IOS App Store Vs. Google Play Store: Which Is Better for App Developers?</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

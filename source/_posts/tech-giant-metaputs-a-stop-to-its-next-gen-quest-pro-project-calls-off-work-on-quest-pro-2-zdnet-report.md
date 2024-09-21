@@ -1,7 +1,7 @@
 ---
 title: Tech Giant Metaputs a Stop to Its Next-Gen Quest Pro Project, Calls Off Work on Quest Pro 2 | ZDNET Report
-date: 2024-09-19 20:53:36
-updated: 2024-09-20 10:50:50
+date: 2024-09-18T00:49:03.846Z
+updated: 2024-09-21T02:24:05.244Z
 tags:
   - ar+vr
 categories:
@@ -60,11 +60,32 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-mastering-iphone-screen-capture-with-simplicity/"><u>[New] In 2024, Mastering iPhone Screen Capture with Simplicity</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-curated-selection-of-11-amazing-sites-for-free-movie-downloads-no-payments-required/"><u>A Curated Selection of 11 Amazing Sites for Free Movie Downloads – No Payments Required</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/alexa-not-talking-heres-how-you-can-make-her-respond-again/"><u>Alexa Not Talking? Here's How You Can Make Her Respond Again!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/capture-the-moment-an-examination-of-camstudio/"><u>Capture the Moment An Examination of CamStudio</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-steps-to-eliminate-line-distortions-on-your-television-display/"><u>Easy Steps to Eliminate Line Distortions on Your Television Display</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-an-unavailable-instagram-account-what-you-need-to-know/"><u>Fixing an Unavailable Instagram Account: What You Need to Know</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-tecno-pop-7-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Tecno Pop 7 Pro</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-the-ultimate-list-8-professional-audio-editors-for-high-quality-results/"><u>New In 2024, The Ultimate List 8 Professional Audio Editors for High-Quality Results</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pinnacle-solution-for-virtual-realms/"><u>Pinnacle Solution for Virtual Realms</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/professional-recorder-capture-studio-win10-edition/"><u>Professional Recorder Capture Studio Win10 Edition</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/trouble-with-netflix-try-these-19-handy-solutions-specifically-for-your-lg-smart-tv/"><u>Trouble with Netflix? Try These 19 Handy Solutions Specifically for Your LG Smart TV</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

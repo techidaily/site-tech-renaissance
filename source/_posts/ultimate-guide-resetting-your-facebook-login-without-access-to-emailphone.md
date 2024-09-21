@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Resetting Your Facebook Login without Access to Email/Phone"
-date: 2024-09-11T19:51:59.791Z
-updated: 2024-09-15T19:19:58.452Z
+date: 2024-09-19T00:14:25.964Z
+updated: 2024-09-21T03:32:04.851Z
 categories:
   - BestProducts
 description: "This Article Describes Ultimate Guide: Resetting Your Facebook Login without Access to Email/Phone"
@@ -56,19 +56,6 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 
  You can completely ignore the Pokémon buddy feature if you like, but it is required if you want to 100 percent complete your Pokédex and challenges.
 
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Play Together With Your Buddy in 'Pokémon Go'
 
  The Play Together feature in_Pokémon Go_ lets you interact with your buddy Pokémon by patting it. The feature works much like the similar features in the various mainline Pokémon video games on the[Nintendo Switch](https://www.lifewire.com/what-is-the-nintendo-switch-4148184) and[3DS consoles](https://www.lifewire.com/nintendo-3ds-overview-1126249) . The main difference is that playing with your buddy Pokémon in_Pokémon Go_ lets you earn hearts, which in turn helps level up your buddy Pokémon to higher friendship levels.  
@@ -81,22 +68,23 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 5. After several seconds of patting, a bright light should surround your buddy, and a heart will appear. This heart will go toward your buddy’s friendship level. You can only earn one heart by playing with your buddy Pokémon every day, though you can play with them as many times as you like.
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Tap the**Exit** icon in the top-left corner to return to the map, or tap the**Berry** icon in the lower-left corner to feed your Pokémon berries to get it to appear on the map.
 7. To feed your Pokémon buddy, tap and drag berries from the lower menu to your Pokémon. Three regular Razz, Nanab, or Pinap berries will be enough to have your buddy join you on the map. One Silver Pinap Berry, one Golden Razz Berry, or one Poffin will also do the job.  
  Once your buddy Pokémon is on the map with you, the distance required to walk to earn candy is reduced. Your buddy may also direct you to spin certain Pokéstops to earn hidden prizes and earn bonus hearts.  
 ![Pokemon GO buddy screens with Exit and Berry icons highlighted, berry to buddy swipe gesture added.](https://www.lifewire.com/thmb/7fPUcRq4cguvQ2HkO9UqgBsgHUU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Feeding-buddy-Pokemon-664324e020424c63a8b97f9500ce6a11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Does Swapping Buddies Lose Progress?
 
@@ -143,18 +131,16 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-best-asmr-apps-for-android-and-ios/"><u>[New] In 2024, Best ASMR Apps for Android and iOS</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-essential-tips-for-final-cut-pro-proficiency/"><u>[New] In 2024, Essential Tips for Final Cut Pro Proficiency</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-essential-action-triumphs-the-top-games-compilation-for-2024/"><u>[Updated] Essential Action Triumphs The Top Games Compilation for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/anticipating-apples-latest-innovation-the-sx-series-watch-price-estimates-and-launch-predictions-amidst-swirling-rumors/"><u>Anticipating Apple's Latest Innovation: The SX Series Watch, Price Estimates & Launch Predictions Amidst Swirling Rumors</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/australian-dialect-demystified/"><u>Australian Dialect Demystified</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/best-applications-for-expanding-your-circle-and-making-pals/"><u>Best Applications for Expanding Your Circle & Making Pals</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/complete-guide-to-restore-or-replace-missing-binkw32dll-for-optimal-performance/"><u>Complete Guide to Restore or Replace Missing binkw32.dll for Optimal Performance</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-tutorial-safelisting-messages-and-protecting-your-gmail-account/"><u>Comprehensive Tutorial: Safelisting Messages & Protecting Your Gmail Account</u></a></li>
-<li><a href="https://blog-min.techidaily.com/die-bevorzugten-youtube-herunterlader-fur-mac-os-x-unsere-testergebnisse-von-2018/"><u>Die Bevorzugten YouTube Herunterlader Für Mac OS X – Unsere Testergebnisse Von 2018</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-nubia-z50s-pro-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Nubia Z50S Pro to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/navigating-cities-swiftly-on-a-gotrax-gxl-v2-a-thorough-performance-assessment/"><u>Navigating Cities Swiftly on a Gotrax GXL V2 - A Thorough Performance Assessment</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-narrative-nebula-deciphering-the-viking-dialect/"><u>The Narrative Nebula: Deciphering the Viking Dialect</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-list-of-free-mkv-cutters-for-2024/"><u>Updated The Ultimate List of Free MKV Cutters for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-best-video-making-smartphones-announced-here/"><u>[New] Best Video-Making Smartphones Announced Here</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-self-verification-on-instagram-what-does-it-mean-for-us/"><u>[Updated] Self-Verification on Instagram - What Does It Mean for Us?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-20-essential-free-online-photo-tinkering-apps/"><u>2024 Approved 20 Essential Free Online Photo Tinkering Apps</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/8-engaging-exercise-routines-for-active-viewership-for-2024/"><u>8 Engaging Exercise Routines for Active Viewership for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/all-about-home-based-electric-car-power-up-techniques/"><u>All About Home-Based Electric Car Power Up Techniques</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/capturecrafter-your-ultimate-guide-to-screen-recording/"><u>CaptureCrafter Your Ultimate Guide to Screen Recording</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-special-features-virtual-location-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On OnePlus Nord 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-the-fix-for-persistent-code-error-n43-expert-advice/"><u>Master the Fix for Persistent Code Error N43 - Expert Advice</u></a></li>
+<li><a href="https://driver-download.techidaily.com/seamless-setup-secure-your-wacom-intuos-pro-driver-for-optimal-use-on-windows-10-platforms/"><u>Seamless Setup: Secure Your Wacom Intuos Pro Driver for Optimal Use on Windows 10 Platforms</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-reset-procedures-for-samsung-audio-systems/"><u>Troubleshooting Tips: Reset Procedures for Samsung Audio Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/utilizing-free-clip-art-for-graphic-designs-for-2024/"><u>Utilizing Free Clip Art for Graphic Designs for 2024</u></a></li>
 </ul></div>
 

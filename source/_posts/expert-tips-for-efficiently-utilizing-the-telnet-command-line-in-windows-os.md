@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Efficiently Utilizing the Telnet Command Line in Windows OS
-date: 2024-09-08T23:18:30.083Z
-updated: 2024-09-15T19:34:58.929Z
+date: 2024-09-16T22:00:07.760Z
+updated: 2024-09-20T21:30:09.048Z
 categories:
   - BestProducts
 description: This Article Describes Expert Tips for Efficiently Utilizing the Telnet Command Line in Windows OS
@@ -56,13 +56,6 @@ thumbnail: https://www.lifewire.com/thmb/rC4f9mrMp1ec8VvSlENPhTOtdGg=/400x300/fi
 
 [Microsoft keeps a list of Telnet commands](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-xp/bb491013%28v=technet.10%29) if you'd like to learn more about how to do things like open and close a Telnet connection, display the Telnet Client settings, and more.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How Does Telnet Work?
 
  Telnet is a[network protocol](https://www.lifewire.com/definition-of-protocol-network-817949) that provides a[command-line interpreter](https://www.lifewire.com/what-is-a-command-line-interpreter-2625827) to communicate with a device. It's used most often for remote management, but also sometimes for the initial setup for some devices, especially network hardware such as switches and access points.
@@ -87,24 +80,31 @@ thumbnail: https://www.lifewire.com/thmb/rC4f9mrMp1ec8VvSlENPhTOtdGg=/400x300/fi
 
 ![A chess game running in Windows Telnet Client](https://www.lifewire.com/thmb/EciFE2SjQRCaaIte_4vHmdIEL4E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/telnet-chess-8ffd285206f248bc95f96426542c8a9b.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Use Telnet to talk to an artificially intelligent psychotherapist named Eliza. After connecting to Telehack with the command below, enter**eliza** when asked to choose one of the listed commands.  
 
  `telnet telehack.com`
 
 ![Eliza telnet AI commands](https://www.lifewire.com/thmb/imUhU7b-O1UeF8V030UxAM4PmQ4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/telnet-eliza-bot-31a1c00d36ac49b5aa00257acfe50825.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Watch an ASCII version of the full_Star Wars Episode IV_ movie by entering this in Command Prompt:  
 
  `telnet towel.blinkenlights.nl`
 
 ![Telnet Star Wars in Windows 11 Command Prompt](https://www.lifewire.com/thmb/aCvqfCY70EKW5f0_zXgujKXyx2M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/telnet-star-wars-062c8b8250534ecc96e7f10906b9638f.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Beyond the fun things that can be done in Telnet are a number of Bulletin Board Systems (BBS). A BBS provides a way to message other users, view news, share files, and more. The[Telnet BBS Guide](https://www.telnetbbsguide.com/bbs/connection/telnet/list/detail/) lists hundreds of servers you can connect to using this protocol.  
 
@@ -144,17 +144,19 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-cost-effective-video-enhancement-vimeo-edition/"><u>[New] In 2024, Cost-Effective Video Enhancement Vimeo Edition</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-what-is-the-best-mp4-cutter-for-youtubers-on-mac/"><u>[New] What Is the Best MP4 Cutter for YouTubers On Mac?</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-maximize-your-google-meet-experience-without-paying-a-penny/"><u>[Updated] Maximize Your Google Meet Experience, Without Paying a Penny</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-infinix-smart-8-plus-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Infinix Smart 8 Plus Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/4k-clarity-comes-closer-with-asuss-innovative-mg28uq-display-for-2024/"><u>4K Clarity Comes Closer with ASUS's Innovative MG28UQ Display for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-locating-or-restoring-missing-ac1st16dll-files/"><u>Comprehensive Guide: Locating or Restoring Missing ac1st16.dll Files</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/does-spotify-allow-two-users-to-experience-live-music-playback-together/"><u>Does Spotify Allow Two Users to Experience Live Music Playback Together?</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-a-journey-through-time-best-history-youtubes-for-scholars-and-enthusiasts/"><u>In 2024, A Journey Through Time Best History YouTubes for Scholars & Enthusiasts</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-scrutinizing-vrs-enchantment-and-challenges-ahead/"><u>In 2024, Scrutinizing VR's Enchantment and Challenges Ahead</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-the-most-downloaded-and-loved-iphone-apps-a-comprehensive-review/"><u>New The Most Downloaded and Loved iPhone Apps A Comprehensive Review</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-atandts-mobile-network-roaming-rules-a-detailed-overview/"><u>Understanding AT&T's Mobile Network Roaming Rules: A Detailed Overview</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/wireless-earbud-tips-using-airpods-as-an-alternative-headset-on-the-nintendo-switch/"><u>Wireless Earbud Tips: Using AirPods as an Alternative Headset on the Nintendo Switch</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-ultimate-funny-photo-editor/"><u>[New] 2024 Approved Ultimate Funny Photo Editor</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-essential-techniques-for-ps3-gameplay-screencasts/"><u>[New] Essential Techniques for PS3 Gameplay Screencasts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-everything-about-metaverse-marketing-example-strategies-and-more/"><u>[New] Everything About Metaverse Marketing Example, Strategies, and More</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-mastering-the-art-of-sniping-on-mac-with-these-tools/"><u>[Updated] In 2024, Mastering the Art of Sniping on Mac with These Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-uav-technology-unveiled-the-yuneec-4k-journey/"><u>[Updated] UAV Technology Unveiled The Yuneec 4K Journey</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-beginners-guide-to-navigating-and-utilizing-copilot-on-microsoft-teams/"><u>A Beginner's Guide to Navigating and Utilizing Copilot on Microsoft Teams</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/are-ps4-titles-compatible-with-ps5-consoles/"><u>Are PS4 Titles Compatible with PS5 Consoles?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/championed-by-artists-the-top-6-nft-maker-tools/"><u>Championed by Artists The Top 6 NFT Maker Tools</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-to-turn-off-urgent-alerts-on-iphones-no-more-unwanted-interruptions/"><u>Guide to Turn Off Urgent Alerts on iPhones – No More Unwanted Interruptions!</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-on-iphone-6-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out On iPhone 6 How to Bypass?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/savvy-shoppers-secret-the-six-best-websites-for-incredible-savings/"><u>Savvy Shoppers' Secret: The Six Best Websites for Incredible Savings!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/streamlining-your-videography-with-adobe-connects-features-for-2024/"><u>Streamlining Your Videography with Adobe Connect's Features for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-8-people-locator-services-comprehensive-guide/"><u>Top 8 People Locator Services: Comprehensive Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/top-strategies-for-a-smoothly-running-google-drive-in-windows/"><u>Top Strategies for a Smoothly Running Google Drive in Windows</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Avid Gamer's Guide: Effective Methods to Deep Clean a Mechanical Keyboard"
-date: 2024-09-09T21:07:00.721Z
-updated: 2024-09-15T21:19:00.522Z
+date: 2024-09-14T17:08:52.528Z
+updated: 2024-09-21T01:38:09.014Z
 categories:
   - BestProducts
 description: "This Article Describes Avid Gamer's Guide: Effective Methods to Deep Clean a Mechanical Keyboard"
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/c9a6389a75e39b0704a742bad64a540518e449e3f
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Scroll Through Emails
 
  These shortcuts are handy for navigating through your messages and long email threads:
@@ -55,19 +62,6 @@ thumbnail: https://thmb.techidaily.com/c9a6389a75e39b0704a742bad64a540518e449e3f
 * **Scroll down an email list (J)** : Press the**J** key to scroll down.
 * **Scroll up an email list (K)** : Press the**K** key to scroll up.
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
-
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Select Multiple Emails
 
@@ -87,16 +81,10 @@ thumbnail: https://thmb.techidaily.com/c9a6389a75e39b0704a742bad64a540518e449e3f
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add Elements to an Email
@@ -119,19 +107,6 @@ thumbnail: https://thmb.techidaily.com/c9a6389a75e39b0704a742bad64a540518e449e3f
 * **Mark an email as unread (Shift** +**U)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**U** to mark it as unread.
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
 
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## "Go to" Shortcuts in Gmail
 
  The following shortcuts can be used for[navigating Gmail](https://www.lifewire.com/go-to-the-next-or-previous-message-in-gmail-1172068) . Unlike the shortcuts above, the individual keys must be pressed separately rather than simultaneously
@@ -151,6 +126,13 @@ thumbnail: https://thmb.techidaily.com/c9a6389a75e39b0704a742bad64a540518e449e3f
 * **Open keyboard shortcut help (Shift** +**?)** : Press**Shift** +**?** to get the full list of Gmail keyboard shortcuts.
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Was this page helpful?
 
@@ -181,18 +163,21 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-behind-the-scenes-professional-steam-capture-methods/"><u>[New] Behind the Scenes Professional Steam Capture Methods</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-home-cinematic-excellence-with-5-quick-tips-for-2024/"><u>[New] Home Cinematic Excellence with 5 Quick Tips for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-navigate-your-way-to-the-best-idevice-apps-for-extracting-content-from-facebook/"><u>[Updated] 2024 Approved Navigate Your Way to the Best iDevice Apps for Extracting Content From Facebook</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-11-popular-video-extractors-online/"><u>[Updated] In 2024, 11 Popular Video Extractors Online</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-go-big-or-go-home-full-screen-fb-videos/"><u>[Updated] In 2024, Go Big or Go Home Full-Screen FB Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-starting-zoom-chats-on-android/"><u>[Updated] The Ultimate Guide to Starting Zoom Chats on Android</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/a-beginners-guide-to-navigating-and-utilizing-copilot-on-microsoft-teams/"><u>A Beginner's Guide to Navigating and Utilizing Copilot on Microsoft Teams</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/are-ps4-titles-compatible-with-ps5-consoles/"><u>Are PS4 Titles Compatible with PS5 Consoles?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-tecno-spark-go-2024-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Tecno Spark Go (2024) | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-to-turn-off-urgent-alerts-on-iphones-no-more-unwanted-interruptions/"><u>Guide to Turn Off Urgent Alerts on iPhones – No More Unwanted Interruptions!</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-peering-into-the-future-of-video-capturing-with-apeaksoft/"><u>In 2024, Peering Into the Future of Video Capturing with Apeaksoft</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/savvy-shoppers-secret-the-six-best-websites-for-incredible-savings/"><u>Savvy Shoppers' Secret: The Six Best Websites for Incredible Savings!</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-five-principles-to-a-clean-feed/"><u>The Five Principles to a Clean Feed</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/isualize-your-vision-access-no-cost-templates-for-youtube-creators-for-2024/"><u>[New] Visualize Your Vision – Access No-Cost Templates for YouTube Creators for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-exploring-the-most-reliable-cost-free-tiktok-mp3-converter-apps-6/"><u>[Updated] 2024 Approved Exploring the Most Reliable, Cost-Free TikTok MP3 Converter Apps (6)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-macpros-screenflow-insight-a-comprehensive-guide/"><u>[Updated] MacPro's ScreenFlow Insight A Comprehensive Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-seamless-change-of-screen-capture-types-on-macos/"><u>[Updated] Seamless Change of Screen Capture Types on MacOS</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-silent-streamers-academy-learn-to-broadcast-on-ig-without-attention/"><u>2024 Approved Silent Streamers Academy Learn to Broadcast on IG without Attention</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-instructions-customizing-font-preferences-on-your-windows-11-machine/"><u>Easy Instructions: Customizing Font Preferences on Your Windows 11 Machine</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/elevate-your-gameplay-the-quintessential-5-tools-every-twitch-broadcaster-needs/"><u>Elevate Your Gameplay: The Quintessential 5 Tools Every Twitch Broadcaster Needs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-influence-of-artificial-intelligence-reshaping-civilizations-path/"><u>Exploring the Influence of Artificial Intelligence: Reshaping Civilization's Path</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/extensive-movement-analysis-2023/"><u>Extensive Movement Analysis 2023</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-efficiently-implementing-youtube-end-screens/"><u>In 2024, Efficiently Implementing Youtube End Screens</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-samsung-phone-launch/"><u>The Samsung Phone Launch</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722857473723-the-ultimate-guide-to-samsung-unpacked-2025-what-you-need-to-know-before-the-big-reveal/"><u>The Ultimate Guide to Samsung Unpacked 2025: What You Need to Know Before the Big Reveal!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-what-to-do-when-your-instagram-stories-wont-upload/"><u>Troubleshooting Guide: What to Do When Your Instagram Stories Won’t Upload</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-for-the-missing-ac1st16dll-error-message/"><u>Troubleshooting Steps for the Missing Ac1st16.dll Error Message</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/where-to-buy-a-monetized-youtube-channel-a-complete-guide-for-2024/"><u>Where to Buy a Monetized YouTube Channel A Complete Guide for 2024</u></a></li>
 </ul></div>
 

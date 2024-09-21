@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Explores the Future of Navigation: Immersive Cities Revealed Through Google's Augmented Reality on Maps"
-date: 2024-09-18 17:14:10
-updated: 2024-09-20 10:58:36
+date: 2024-09-15T00:18:42.077Z
+updated: 2024-09-20T21:16:00.169Z
 tags:
   - ar+vr
 categories:
@@ -60,11 +60,36 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-iphone-ringtone-alterations/"><u>[New] The Ultimate Guide to iPhone Ringtone Alterations</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-learn-to-turn-your-photos-into-their-opposites/"><u>2024 Approved Learn to Turn Your Photos Into Their Opposites</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/convert-your-mkv-files-into-m2ts-for-compatible-viewing-on-sony-playstation-4-and-blu-ray-systems/"><u>Convert Your MKV Files Into M2TS for Compatible Viewing on Sony PlayStation 4 & Blu-Ray Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/download-the-ultimate-list-of-15-free-windows-11-themes-here/"><u>Download the Ultimate List of 15 Free Windows 11 Themes Here!</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/elite-list-of-best-online-sound-capturing-devices-2023/"><u>Elite List of Best Online Sound Capturing Devices 2023</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exclusive-insights-on-apples-imminent-wearable-earpiece-anticipated-features-price-points-and-speculative-news/"><u>Exclusive Insights on Apple's Imminent Wearable Earpiece: Anticipated Features, Price Points & Speculative News</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722981802051-god-of-war-fps-the-ultimate-action-experience-now-drops-for-your-pc/"><u>God of War FPS: The Ultimate Action Experience Now Drops for Your PC!</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-oppo-a59-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Oppo A59 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ipad-pro-mini-2021-vs-macbook-air-the-ultimate-tech-face-off-explained/"><u>IPad Pro Mini 2021 Vs. MacBook Air - The Ultimate Tech Face-Off Explained</u></a></li>
+<li><a href="https://techtrends.techidaily.com/is-it-possible-to-stream-netflix-on-nintendo-switch-platforms/"><u>Is It Possible to Stream Netflix on Nintendo Switch Platforms?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/maximize-your-insta-presence-with-these-high-performance-hashtags/"><u>Maximize Your Insta-Presence with These High-Performance Hashtags</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/seamlessly-integrate-iphone-and-apple-watch-for-convenient-cashless-purchases/"><u>Seamlessly Integrate iPhone & Apple Watch for Convenient Cashless Purchases</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-great-debate-understanding-the-contrast-between-cable-tv-and-live-streaming-services/"><u>The Great Debate: Understanding the Contrast Between Cable TV and Live Streaming Services</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tune-into-exciting-ncaa-march-madness-action-with-live-scores/"><u>Tune Into Exciting NCAA March Madness Action with Live Scores!</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

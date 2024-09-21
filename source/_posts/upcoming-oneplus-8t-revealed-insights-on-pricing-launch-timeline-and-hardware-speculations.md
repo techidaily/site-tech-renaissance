@@ -1,7 +1,7 @@
 ---
 title: Upcoming OnePlus 8T Revealed? Insights on Pricing, Launch Timeline & Hardware Speculations
-date: 2024-09-13T23:20:48.305Z
-updated: 2024-09-15T16:06:01.015Z
+date: 2024-09-15T19:57:26.577Z
+updated: 2024-09-20T19:48:35.576Z
 categories:
   - BestProducts
 description: This Article Describes Upcoming OnePlus 8T Revealed? Insights on Pricing, Launch Timeline & Hardware Speculations
@@ -62,13 +62,6 @@ Lifewire / Rob LeFebvre
 
  Since the Phone 3 isn't an official product, it’s hard to say for sure what we’ll see in the Phone 3\. But here’s some reliable chatter so far.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### A Newer Chip (but Just How New)?
 
  It’s still early stages, but a lot of buzz surrounds the processor Nothing will land on for its third-generation flagship phone.
@@ -81,13 +74,6 @@ Lifewire / Rob LeFebvre
 
  The Phone 2 made significant strides with a 4,700-mAh battery, an impressive boost compared to the Phone 1's 4500 mAh (for comparison, the iPhone 15 Plus has a 4,383-mAh battery). The newest model is likely to improve upon these gains and catch up with competitors by offering faster wired charging and bigger capacity.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Improved Camera
 
  The dual-camera design of the Phone 1 and Phone 2 will likely carry over.[Phone Arena reports that the Phone 3 might get Sony's latest LYTIA sensor lineup](https://www.phonearena.com/nothing-phone-3-release-date-price-upgtades) , which could mean even more control and a richer photo-taking experience in various lighting conditions and environments.
@@ -99,21 +85,22 @@ Lifewire / Rob LeFebvre
 ![A render of the Nothing Phone 1 in black against a grey background. The rear Glyph lights are on and the home screen shows off the new features of Nothing OS 2.0. ](https://www.lifewire.com/thmb/RSttfod0lFQvSSIOh_trYZHRJnA=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/nothing-phone-update-a48070f52beb4a9d8c8792a6e44bb927.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Nothing OS 2.0.
 
 Nothing
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### An Action Button
 
@@ -122,10 +109,10 @@ Nothing
  In this rendering, it has an additional external button on the right side. Some speculate this button[could mimic the iPhone 15's Action Button](https://beebom.com/did-carl-pei-leak-nothing-phone-3-with-action-button/) .
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Integrated AI
@@ -135,6 +122,13 @@ Nothing
  The only timing clue Pei offered was a "next year" tag for the slow rollout of AI, starting with the Nothing Phone 3.  
 
  We’ll continue to make updates as we learn about more rumors, leaks, and official word from Nothing.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Latest News About the Nothing Phone 3
 
@@ -163,17 +157,20 @@ Nothing
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-leading-streamers-top-ten-picks-revealed/"><u>[New] 2024 Approved Leading Streamers' Top Ten Picks Revealed</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-full-screen-glitch-resolved-in-obs-for-2024/"><u>[Updated] Full-Screen Glitch Resolved in Obs for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-sound-digitization-audiovisual-preservation/"><u>[Updated] Sound Digitization Audiovisual Preservation</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-vivo-v30-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Vivo V30 via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/future-of-driving-the-top-manufacturers-innovating-with-driverless-technology/"><u>Future of Driving: The Top Manufacturers Innovating with Driverless Technology</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/get-the-inside-scoop-on-samsung-galaxy-s2-expected-pricing-launch-dates-and-device-specs-revealed/"><u>Get the Inside Scoop on Samsung Galaxy S2지! Expected Pricing, Launch Dates & Device Specs Revealed</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-honor-magic-5-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Honor Magic 5 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-perfecting-video-chapters-on-youtube-a-professionals-blueprint/"><u>In 2024, Perfecting Video Chapters on YouTube A Professional's Blueprint</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-screenshotting-your-desktop-views/"><u>Mastering the Art of Screenshotting Your Desktop Views</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/meet-froreamoors-your-new-go-to-for-a-submersible-sport-cooler-featuring-waterproof-and-fanless-active-cooling-technology/"><u>Meet Frore'amoors: Your New Go-To for a Submersible Sport Cooler Featuring Waterproof and Fanless Active Cooling Technology</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlock-entertainment-your-picks-for-8-superior-free-roku-platforms/"><u>Unlock Entertainment: Your Picks for 8 Superior Free Roku Platforms</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-samsungs-future-tech-key-dates-latest-updates-and-anticipated-innovations/"><u>Unveiling Samsung's Future Tech : Key Dates, Latest Updates & Anticipated Innovations</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-a-close-look-at-triller-its-distinctive-features-and-positioning/"><u>[New] A Close Look at Triller Its Distinctive Features and Positioning</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-analyzed-the-finest-screen-capture-software-for-macos-for-2024/"><u>[Updated] Analyzed The Finest Screen Capture Software for macOS for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/icks-for-turning-youtube-watchlists-around/"><u>10 Tricks for Turning YouTube Watchlists Around</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-showdown-evaluating-chatgpt-against-googles-bard-for-best-performance/"><u>AI Showdown: Evaluating ChatGPT Against Google's Bard for Best Performance</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/avoiding-common-pitfalls-ensuring-successful-ipad-to-printer-connections/"><u>Avoiding Common Pitfalls: Ensuring Successful iPad-to-Printer Connections</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-tutorial-snapping-photos-during-ps4-gaming-sessions/"><u>Complete Tutorial: Snapping Photos During PS4 Gaming Sessions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/eliminate-missing-oleaut32dll-error-with-these-troubleshooting-steps/"><u>Eliminate 'Missing Oleaut32.dll' Error with These Troubleshooting Steps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/image-timestamping-techniques-unveiled-for-2024/"><u>Image Timestamping Techniques Unveiled for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/important-aspects-to-keep-in-mind-before-acquiring-a-pre-owned-portable-pc/"><u>Important Aspects to Keep in Mind Before Acquiring a Pre-Owned Portable PC</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-vivo-y200e-5g-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Vivo Y200e 5G to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-tecno-camon-20-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Tecno Camon 20 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/inside-look-at-the-asus-rog-swift-pg3nce-oled-monitor-a-game-changer-reviewed/"><u>Inside Look at the Asus ROG Swift PG3nce OLED Monitor – A Game Changer Reviewed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/speak-fluent-snapchat-a-complete-compendium-of-emoji-interpretations/"><u>Speak Fluent Snapchat: A Complete Compendium of Emoji Interpretations</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-resolving-issues-with-a-non-functional-microsoft-edge-browser/"><u>Troubleshooting Tips: Resolving Issues with a Non-Functional Microsoft Edge Browser</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-editing-videos-on-snapchat-tutorials-and-tricks/"><u>Ultimate Guide: Editing Videos on Snapchat - Tutorials & Tricks</u></a></li>
 </ul></div>
 

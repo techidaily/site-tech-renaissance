@@ -1,7 +1,7 @@
 ---
 title: Building the Foundations of Your Digital Enterprise with Six Key Elements & The Role of Artificial Intelligence | ZDNet
-date: 2024-09-17 20:46:26
-updated: 2024-09-20 11:31:14
+date: 2024-09-16T21:24:33.909Z
+updated: 2024-09-20T16:29:40.977Z
 tags:
   - ar+vr
 categories:
@@ -60,11 +60,33 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-tactical-approach-to-effortless-ipad-screen-records/"><u>[New] 2024 Approved Tactical Approach to Effortless iPad Screen Records</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-where-to-buy-tiktok-followers-safe-and-secure-for-2024/"><u>[New] Where to Buy TikTok Followers [Safe and Secure] for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/eliminate-missing-oleaut32dll-error-with-these-troubleshooting-steps/"><u>Eliminate 'Missing Oleaut32.dll' Error with These Troubleshooting Steps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/important-aspects-to-keep-in-mind-before-acquiring-a-pre-owned-portable-pc/"><u>Important Aspects to Keep in Mind Before Acquiring a Pre-Owned Portable PC</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-strategies-for-engaging-elite-videography-talent/"><u>In 2024, Strategies for Engaging Elite Videography Talent</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/optimizing-websites-for-better-success-after-initial-failures-in-lead-generation/"><u>Optimizing Websites for Better Success After Initial Failures in Lead Generation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-premier-free-srt-to-video-subtitle-tools/"><u>The Premier Free SRT to Video Subtitle Tools</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-12-tools-for-extracting-sound-from-videos-across-pc-mac-mobile-and-online-platforms/"><u>Top 12 Tools for Extracting Sound From Videos Across PC, Mac, Mobile & Online Platforms</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-microphone-issues-on-windows-11-step-by-step-guide/"><u>Troubleshooting Microphone Issues on Windows 11 - Step by Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-resolving-issues-with-a-non-functional-microsoft-edge-browser/"><u>Troubleshooting Tips: Resolving Issues with a Non-Functional Microsoft Edge Browser</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-editing-videos-on-snapchat-tutorials-and-tricks/"><u>Ultimate Guide: Editing Videos on Snapchat - Tutorials & Tricks</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

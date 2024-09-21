@@ -1,7 +1,7 @@
 ---
 title: Google Ditches Smartglasses Ambition, Targets Expansive XR Software Frontier | Tech News on ZDNet
-date: 2024-09-17 14:23:50
-updated: 2024-09-20 10:45:13
+date: 2024-09-18T23:21:10.819Z
+updated: 2024-09-20T23:19:06.882Z
 tags:
   - ar+vr
 categories:
@@ -60,11 +60,37 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-elevate-your-online-presence-with-fb-tweets-from-twitter-for-2024/"><u>[New] Elevate Your Online Presence with FB Tweets From Twitter for 2024</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/4-effective-methods-fake-gps-location-on-apple-iphone-7-plusipad-drfone-by-drfone-virtual-ios/"><u>4 Effective Methods Fake GPS Location on Apple iPhone 7 Plus/iPad | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/complete-solution-resolving-star-wars-jedi-fallen-order-pc-launch-issues/"><u>Complete Solution: Resolving Star Wars Jedi: Fallen Order PC Launch Issues</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-steps-to-resolve-msxml4dll-disappearance-problems-on-your-pc/"><u>Easy Steps to Resolve 'MsXML4.dll' Disappearance Problems on Your PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-for-detaching-devices-from-your-google-home-setup/"><u>Expert Tips for Detaching Devices From Your Google Home Setup</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-realme-12plus-5g-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Realme 12+ 5G Pattern Lock Screen</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/highly-ranked-drone-selections-for-gopro-videos-and-shoots-for-2024/"><u>Highly Ranked Drone Selections for GoPro Videos & Shoots for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722859117470-how-to-repair-libgdk-win32-20-0dll-file-missing-issues-a-guide/"><u>How to Repair Libgdk-win32-2.0-0.dll File Missing Issues – A Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-restore-visibility-of-a-non-appearing-wi-fi-network-on-your-device/"><u>How to Restore Visibility of a Non-Appearing Wi-Fi Network on Your Device</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-from-iphone-13-pro-max-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID From iPhone 13 Pro Max without Password?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Samsung Galaxy S23 Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/must-watch-british-originals-on-netflix-what-were-lovin/"><u>Must-Watch British Originals on Netflix: What We're Lovin’!</u></a></li>
+<li><a href="https://windows11.techidaily.com/reclaim-shift-control-with-easy-fixes/"><u>Reclaim Shift Control with Easy Fixes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolve-this-issue-dealing-with-a-non-functional-wii-disc-reader/"><u>Resolve This Issue: Dealing with a Non-Functional Wii Disc Reader</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-accessing-command-line-inside-your-file-explorer/"><u>Step-by-Step Tutorial: Accessing Command Line Inside Your File Explorer</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/the-ultimate-guide-to-online-streaming-audio-logging/"><u>The Ultimate Guide to Online Streaming Audio Logging</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
