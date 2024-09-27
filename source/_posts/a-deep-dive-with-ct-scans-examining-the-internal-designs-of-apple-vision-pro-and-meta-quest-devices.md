@@ -67,16 +67,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-brainless-beats-continue-selecting-top-8-zombie-masterpieces-for-2024/"><u>[New] Brainless Beats Continue Selecting Top 8 Zombie Masterpieces for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-the-ultimate-guide-to-meme-design-props/"><u>2024 Approved The Ultimate Guide to Meme Design Props</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/complete-the-wizards-journey-watching-harry-potter-movies-sequentially/"><u>Complete the Wizard's Journey: Watching Harry Potter Movies Sequentially.</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-steps-to-correct-the-absence-of-avcodecdll-on-your-system/"><u>Easy Steps to Correct the Absence of Avcodec.dll on Your System</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-a-step-by-step-review-of-using-showmore-for-video-capture/"><u>In 2024, A Step-by-Step Review of Using ShowMore for Video Capture</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-huawei-p10-review-unpacking-its-impressive-specs-and-features/"><u>In 2024, Huawei P10 Review Unpacking Its Impressive Specs and Features</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-32-complimentary-data-safety-applications-a-detailed-rating-and-analysis/"><u>Top 32 Complimentary Data Safety Applications: A Detailed Rating & Analysis</u></a></li>
-</ul></div>
+
 
 <!-- affiliate ads begin -->
 <span id="1975562">

@@ -67,16 +67,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-essential-insights-using-tiktok-web-on-macos/"><u>[New] 2024 Approved Essential Insights Using TikTok Web on macOS</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-unveiling-the-unexpected-10-truths-about-instagram-reels/"><u>[New] 2024 Approved Unveiling the Unexpected 10 Truths About Instagram Reels</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/1721202585179-enhance-data-security-on-mac-using-stellar-file-eraser-5-set-up-regular-clean-up-sessions-now/"><u>Enhance Data Security on Mac Using Stellar File Eraser 5 - Set Up Regular Clean-Up Sessions Now</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-set-up-do-not-disturb-for-specific-contacts-in-apple-iphones/"><u>How to Set Up Do Not Disturb for Specific Contacts in Apple iPhones</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/navigating-the-best-free-srt-translator-tools-expert-insight-for-2024/"><u>Navigating the Best Free SRT Translator Tools – Expert Insight for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/overcoming-initialization-problems-with-mozilla-thunderbird-a-comprehensive-fix/"><u>Overcoming Initialization Problems with Mozilla Thunderbird: A Comprehensive Fix</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-taking-a-screenshot-with-logitechs-comfort-keys/"><u>Step-by-Step Guide: Taking a Screenshot with Logitech's Comfort Keys</u></a></li>
-</ul></div>
+
 
 <!-- affiliate ads begin -->
 <a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
