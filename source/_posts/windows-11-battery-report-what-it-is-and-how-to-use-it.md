@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Battery Report: What It Is and How to Use It"
-date: 2024-09-18T22:03:26.037Z
-updated: 2024-09-20T17:16:59.308Z
+date: 2024-09-24T17:07:08.577Z
+updated: 2024-09-26T17:41:05.050Z
 categories:
   - BestProducts
 description: "This Article Describes Windows 11 Battery Report: What It Is and How to Use It"
@@ -30,6 +30,14 @@ thumbnail: https://thmb.techidaily.com/20c69587162d153f03eefa64dab5fb5356740a9d4
 1. Open Settings, then select**Personalization** on the left, followed by**Fonts** on the right. Another way to get there is through the Run command:**ms-settings:fonts** .  
 ![The Personalization settings in Windows 11](https://www.lifewire.com/thmb/SJdYi81a1Rm29jJ6p7V24JP49ss=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/personalization-settings-windows-11-83afd8d0867d4d39a1b87dff59dd8fae.png)
 2. Scroll down to**Available fonts** , and find and select the font you're interested in using.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you don't see the font you want, you can take this time to download it. Lots of websites have free fonts, but you can also[buy fonts online](https://www.lifewire.com/buy-fonts-for-desktop-publishing-1077714) . Then, return to this area of Settings to see it. Our[How to Install Fonts in Windows 11](https://www.lifewire.com/install-fonts-in-windows-11-5192443) guide can help if you need it.
 3. Locate the**Full name** line in the**Metadata** section, and write it down exactly as it's written. In our example, we recorded**Franklin Gothic Medium** .  
 ![Full Name and Franklin Gothic Medium highlighted in Windows 11 font settings](https://www.lifewire.com/thmb/TLWCZLK0sdGg9XBIj1y4Ma1EuAA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-change-the-font-in-windows-11-6827640-97099a55349a45e392459345af24caf1.jpg)
@@ -53,6 +61,14 @@ thumbnail: https://thmb.techidaily.com/20c69587162d153f03eefa64dab5fb5356740a9d4
 9. Choose a folder on your computer to save the file (the Desktop folder works), and then select**Save** .  
 ![FranklinGothic.reg and Save highlighted in a Notepad document with REG file extension](https://www.lifewire.com/thmb/4p0dmSoOCDSVSqxK6o9QnPtNX1U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-change-the-font-in-windows-11-6827640-9563197f19ae4d848482def07b741adc.jpg)
 10. Close the text editor, and then double-click or double-tap the REG file from the folder you just saved it to.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 11. Press**Yes** on the User Account Control window, then**Yes** again on the Registry Editor prompt (pictured below), and finally**OK** on the success message.  
 ![Yes highlighted in the Registry Editor prompt in Windows 11](https://www.lifewire.com/thmb/tViUCj2SD1eHRKNxSY2gP3-IusQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-change-the-font-in-windows-11-6827640-acbf618a85854ff58bb4ca6f3a0d7384.jpg)
 12. [Reboot your computer](https://www.lifewire.com/how-to-reboot-a-computer-2624568) to see the font changes. The quickest method is to right-click the Start button and go to**Shut down or sign out** \>**Restart** .
@@ -68,10 +84,10 @@ thumbnail: https://thmb.techidaily.com/20c69587162d153f03eefa64dab5fb5356740a9d4
 [Troubleshooting Installed Fonts That Won't Work](https://www.lifewire.com/cant-use-installed-fonts-1074154)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Restore the Default Font in Windows 11
@@ -112,10 +128,10 @@ thumbnail: https://thmb.techidaily.com/20c69587162d153f03eefa64dab5fb5356740a9d4
  If you don't have the original REG file readily available to edit, just repeat the steps at the top of this page. When you get to the part about pasting the code into Notepad, use the modified code from Step 2 above, and don't make any changes to it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Changing Other Fonts in Windows 11
@@ -168,5 +184,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-ai-driven-naming-tools-for-dynamic-podcast-titles-for-2024/"><u>[New] AI-Driven Naming Tools for Dynamic Podcast Titles for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-enhancing-visual-storytelling-utilizing-luts-techniques/"><u>[New] Enhancing Visual Storytelling Utilizing Luts Techniques</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-unblocking-the-pathway-for-an-obs-camera-feed-for-2024/"><u>[New] Unblocking the Pathway for an OBS Camera Feed for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-elevate-the-art-of-storytelling-6-leading-snapchat-apps/"><u>[Updated] In 2024, Elevate the Art of Storytelling 6 Leading Snapchat Apps</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-expertly-selected-360-cameras-for-youtube-and-facebook/"><u>[Updated] In 2024, Expertly Selected 360° Cameras for YouTube & Facebook</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-top-screener-solution-for-flawless-youtube-content-creation/"><u>[Updated] Top Screener Solution For Flawless YouTube Content Creation</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-the-best-11-first-timer-kids-cameras-for-rainy-day-vlogging/"><u>2024 Approved The Best 11 First-Timer Kids' Cameras for Rainy Day Vlogging</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expertly-curated-the-best-7-alarm-clock-applications-for-you/"><u>Expertly Curated: The Best 7 Alarm Clock Applications for You</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/from-streams-to-screen-a-comprehensive-guide-on-integrating-disney-plus-with-chromecast/"><u>From Streams to Screen: A Comprehensive Guide on Integrating Disney + with Chromecast</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-overcome-the-troublesome-0x80070570-mistake-on-your-device/"><u>How to Overcome the Troublesome 0X80070570 Mistake on Your Device</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/regain-control-of-your-pcs-search-tool-in-windows-11-top-remedies-revealed/"><u>Regain Control of Your PC's Search Tool in Windows 11 - Top Remedies Revealed</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-unleash-your-creativity-top-video-animation-apps-for-smartphone-and-tablet-users/"><u>Updated Unleash Your Creativity Top Video Animation Apps for Smartphone and Tablet Users</u></a></li>
+</ul></div>
 

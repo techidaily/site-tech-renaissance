@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Mending a Computer That Powers Up Without Displaying Anything
-date: 2024-09-19T02:57:18.952Z
-updated: 2024-09-20T21:12:13.648Z
+date: 2024-09-21T16:09:32.279Z
+updated: 2024-09-27T06:03:33.366Z
 categories:
   - BestProducts
 description: This Article Describes Diagnosing and Mending a Computer That Powers Up Without Displaying Anything
@@ -35,6 +35,13 @@ thumbnail: https://www.lifewire.com/thmb/zRAsXpAQ4JBAf3Kn2f07IUqn1Ro=/400x300/fi
 ![Discord Downdetector page](https://www.lifewire.com/thmb/Dkbd1Gn7UxOCVbebPQPG9QuzVpQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256954-e47fef8c259d4a9d805e652ae722fcbd.jpg)  
  If no one else is having an issue with Discord, then the problem is likely something on your end.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What to Do When You Can't Connect to Discord
 
  There are several things you can try if Discord seems to be working fine for everyone else, but you're still having[connection issues](https://www.lifewire.com/fix-connection-issues-discord-5086484) :
@@ -50,6 +57,13 @@ thumbnail: https://www.lifewire.com/thmb/zRAsXpAQ4JBAf3Kn2f07IUqn1Ro=/400x300/fi
 8. It's unlikely, but there could be an issue with your[DNS server](https://www.lifewire.com/what-is-a-dns-server-2625854) . If you want to try[switching DNS servers](https://www.lifewire.com/how-to-change-dns-server-settings-2617979) , there are plenty of ways to do so with a[free and public option](https://www.lifewire.com/free-and-public-dns-servers-2626062) , although bear in mind that it's quite an advanced solution.
 
  If nothing has worked yet, you're probably dealing with an internet issue on your end. Contact your[ISP](https://www.lifewire.com/internet-service-provider-isp-2625924) to request further help.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Discord Error Messages
 
@@ -89,18 +103,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-unlocking-clear-communication-zooms-best-transcription-services/"><u>[New] 2024 Approved Unlocking Clear Communication Zoom's Best Transcription Services</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-trendsetters-in-instagram-ae-best-selling-template-collections/"><u>[Updated] 2024 Approved Trendsetters in Instagram AE Best-Selling Template Collections</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-how-to-change-voice-on-ps5ps4-software-and-hardware-solutions-here/"><u>2024 Approved How to Change Voice on PS5/PS4? Software & Hardware Solutions Here</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-how-to-keep-your-videos-quiet-and-clear/"><u>2024 Approved How to Keep Your Videos Quiet and Clear</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-photo-and-video-shows-from-x-to-ios14/"><u>2024 Approved Ideal Photo & Video Shows From X to IOS14</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-complete-walkthrough-for-retrieving-gone-texts-in-various-mobile-phones/"><u>A Complete Walkthrough for Retrieving Gone Texts in Various Mobile Phones</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/all-you-need-to-know-about-the-apple-watch-series-8-announcement-day-specs-breakdown-price-range-and-news-recap/"><u>All You Need to Know About the Apple Watch Series 8: Announcement Day, Specs Breakdown, Price Range & News Recap</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effortless-mobility-in-minecraft-mastering-the-teleport-function-for-streamlined-gameplay/"><u>Effortless Mobility in Minecraft: Mastering the Teleport Function for Streamlined Gameplay</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fix-the-openal32dll-missing-issue-on-windows-systems-easy-steps-to-follow/"><u>Fix the OpenAL32.dll Missing Issue on Windows Systems: Easy Steps to Follow</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-realme-12-pro-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Realme 12 Pro 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/perfecting-your-pics-kinemaster-methods-for-2024/"><u>Perfecting Your Pics KineMaster Methods for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-dll-errors-easily-a-comprehensive-guide-to-restoring-btballoondll/"><u>Resolving DLL Errors Easily: A Comprehensive Guide to Restoring 'btballoon.dll'</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/step-by-step-guide-to-linking-obs-and-streamlabs-mac/"><u>Step-by-Step Guide to Linking OBS & Streamlabs (Mac)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-to-personalize-taskbar-colors-in-windows-11/"><u>Step-by-Step Tutorial to Personalize Taskbar Colors in Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-and-repairing-dauntless-pc-crashes-effectively/"><u>Troubleshooting and Repairing Dauntless PC Crashes Effectively</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-preventing-and-repairing-screen-burn-in-across-all-displays/"><u>Ultimate Guide: Preventing and Repairing Screen Burn-In Across All Displays</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-the-lifespan-of-your-mailcom-email-what-you-need-to-know/"><u>Understanding the Lifespan of Your Mail.com Email: What You Need to Know</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/windows-10-search-problems-explore-our-step-by-step-fixes-here/"><u>Windows 10 Search Problems? Explore Our Step-by-Step Fixes Here</u></a></li>
+</ul></div>
 

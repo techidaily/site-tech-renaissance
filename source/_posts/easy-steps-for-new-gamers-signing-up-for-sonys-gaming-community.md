@@ -1,7 +1,7 @@
 ---
 title: "Easy Steps for New Gamers: Signing up for Sony’s Gaming Community"
-date: 2024-09-13T22:41:48.261Z
-updated: 2024-09-20T20:01:22.177Z
+date: 2024-09-19T19:19:34.455Z
+updated: 2024-09-27T04:27:30.670Z
 categories:
   - BestProducts
 description: "This Article Describes Easy Steps for New Gamers: Signing up for Sony’s Gaming Community"
@@ -34,18 +34,49 @@ These instructions only work with a single page of code.
 2. In the**Text** group, select**Object** .  
 ![A Word document with the Object option highlighted in the Insert menu](https://www.lifewire.com/thmb/opt-Q1YQfqT2MaDUICEGskPbmMs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-insert-source-code-into-word-document-3994582-939bbef12a77474cbc646e7bfca9da48.jpg)
 3. From the**Create New** tab, select**Microsoft Word Document** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Create New Object box in Word with the Microsoft Word Document option highlighted](https://www.lifewire.com/thmb/ubtpMlrpJY0mh1rhIZL7mTUeCd0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-insert-source-code-into-word-document-3994582-1f1467fff74c4365913779c89a44dbaa.jpg)  
  In Word 2007, select**OpenDocument Text** .
 4. Clear the**Display as icon** check box.  
 ![Create New Object window in Word with the Display as icon box highlighted](https://www.lifewire.com/thmb/WfEAUTUH0LAddtO-6cyGBZT-mD0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-insert-source-code-into-word-document-3994582-4b2746dea1ed49bcada5827d208e1b0e.jpg)
 5. Select**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Create New Object window in Word with the OK button highlighted](https://www.lifewire.com/thmb/8N0g_QZk5AJ8wFNEQ383YZ-mRsQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-insert-source-code-into-word-document-3994582-14b9900cd90341d1a925d63b07c467df.jpg)
 6. A new document opens, titled **Document in \[_target document file name_ \]** . Save the document in the same folder as the original document.
 7. [Copy and paste the source code](https://www.lifewire.com/cut-copy-and-paste-in-microsoft-word-4159583) into the new document. Word automatically ignores the spaces, tabs, and other formatting problems. Spelling errors and grammatical errors are highlighted in the document, but these errors are ignored when the code is inserted in the original document.  
 ![Microsoft Word displaying source code to insert into a Word presentation document](https://www.lifewire.com/thmb/AxWUG0N0zvb3wxwA_zIcMWY9qiI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NewSourceCode-d276da35f0ba4f36aafddaa578cad3b0.jpg)
 8. Save and close the source code document. The code automatically appears in the main document.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Microsoft Word document with source code inserted](https://www.lifewire.com/thmb/7dbJ_9k3xe_LaP-2rOEy3ktFY-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/PresentationWithCode-dc19c6dcca694a798e9e41a2be2eac71.jpg)  
  You can't edit this object directly because it's really just an embedded document. Double-click the object to quickly open the document with the code.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Using Different Paste Types in Word
 
@@ -56,13 +87,6 @@ These instructions only work with a single page of code.
 * **Unformatted Text** : All code is pasted as unformatted, so you'll lose indenting, color, typeface, and related contextual clues.
 * **HTML Format** : This renders what appears to be a photo of the code, complete with the text editor's background color. This code block is editable, and you can remove the background color if you wish.
 * **Unformatted Unicode Text** : Pastes the text as is but strips the text and background colors. Re-format the code as needed.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Problem With Using Source Code in Word
 
@@ -108,5 +132,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-solving-the-yous-problem-seeing-myself-on-social-media/"><u>[New] Solving the 'You's Problem Seeing Myself on Social Media</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-stay-on-top-of-your-streaks-must-try-techniques-for-2024/"><u>[New] Stay on Top of Your Streaks Must-Try Techniques for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/outubing-upstarts-the-ideal-gadgets-list/"><u>[New] YouTubing Upstarts The Ideal Gadgets List</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-altering-meeting-screens-in-microsoft-teams/"><u>[Updated] Altering Meeting Screens in Microsoft Teams</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-bridging-gaps-preventing-video-holds-in-photoshoots/"><u>[Updated] Bridging Gaps Preventing Video Holds in Photoshoots</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-honor-x9b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-propel-your-youtube-content-faster-render-and-efficient-upload-processes/"><u>2024 Approved Propel Your YouTube Content Faster Render & Efficient Upload Processes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/achieving-digital-readiness-with-these-9-indispensable-tech-accessories-for-schoolgoers/"><u>Achieving Digital Readiness with These 9 Indispensable Tech Accessories for Schoolgoers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-watch-wont-connect-to-cellular-service-heres-how-to-fix-it/"><u>Apple Watch Won't Connect to Cellular Service? Here's How to Fix It</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-the-world-of-ai-unlocking-knowledge-through-lifewires-15-free-online-self-taught-courses/"><u>Explore the World of AI: Unlocking Knowledge Through Lifewire's 15 Free Online Self-Taught Courses</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/five-effective-ways-to-speed-up-your-sluggish-wi-fi-network/"><u>Five Effective Ways to Speed Up Your Sluggish Wi-Fi Network</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/les-meilleurs-convertisseurs-videos-gratuites-vers-mp4-pour-2024-top-liste/"><u>Les Meilleurs Convertisseurs Vidéos Gratuites Vers MP4 Pour 2024 : Top Liste</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/metro-by-t-mobile-nationwide-wireless-agreement-understanding-roaming-features/"><u>Metro by T-Mobile Nationwide Wireless Agreement: Understanding Roaming Features</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/obtaining-trusty-installer-approval-on-windows-11-a-step-by-step-guide/"><u>Obtaining Trusty Installer Approval on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quick-fixes-for-dealing-with-missing-boot-manager-challenges/"><u>Quick Fixes for Dealing with Missing Boot Manager Challenges</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722888539502-revolutionize-your-email-workflow-learn-the-30-most-important-gmail-hotkeys/"><u>Revolutionize Your Email Workflow: Learn the 30 Most Important Gmail Hotkeys!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-cleansing-your-android-devices-cache/"><u>Step-by-Step Guide: Cleansing Your Android Device's Cache</u></a></li>
+<li><a href="https://win-blog.techidaily.com/understanding-the-initial-confusion-how-elden-ring-finally-hit-shelves/"><u>Understanding the Initial Confusion: How Elden Ring Finally Hit Shelves</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-10-free-online-sticker-makers-to-make-your-own-stickers/"><u>Updated 10 Free Online Sticker Makers to Make Your Own Stickers</u></a></li>
+</ul></div>
 

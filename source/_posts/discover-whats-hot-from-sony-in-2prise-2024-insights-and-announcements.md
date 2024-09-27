@@ -1,7 +1,7 @@
 ---
 title: Discover What's Hot From Sony in 2Prise 2024 - Insights & Announcements
-date: 2024-09-14T00:39:19.538Z
-updated: 2024-09-20T16:59:45.350Z
+date: 2024-09-24T00:37:36.860Z
+updated: 2024-09-27T01:02:46.314Z
 categories:
   - BestProducts
 description: This Article Describes Discover What's Hot From Sony in 2Prise 2024 - Insights & Announcements
@@ -30,11 +30,31 @@ thumbnail: https://www.lifewire.com/thmb/KJ_dXsrrGXjPT6jDqp-rB3PUzfM=/400x300/fi
 
  Sony hasn't announced its next State of Play. The most recent one was May 30, 2024.
 
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Which Products Will Be Announced?
 
  Sony typically tells us what they'll show when they announce a State of Play, but we don't have the details for the next one yet.
 
  The last event introduced 14 PS5 and PS VR2 titles from both PlayStation Studios developers and third-party companies.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What Did Sony Announce at the Last State of Play?
 
@@ -60,10 +80,10 @@ thumbnail: https://www.lifewire.com/thmb/KJ_dXsrrGXjPT6jDqp-rB3PUzfM=/400x300/fi
 * Mascot character Astro Bot, who taught us all how to play our PlayStation 5s in_Astro's Playroom_ , is back for a new adventure in_Astro Bot_ . This platformer will feature new worlds, costumes based on iconic PlayStation characters like Nathan Drake, Kratos, and Aloy, and a huge starship shaped like the PS5 console. It's coming September 6.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Stream and Watch Sony State of Play
@@ -71,10 +91,10 @@ thumbnail: https://www.lifewire.com/thmb/KJ_dXsrrGXjPT6jDqp-rB3PUzfM=/400x300/fi
  State of Play events are streamed on PlayStation's[ Twitch](https://www.twitch.tv/playstation) ,[ YouTube](https://www.youtube.com/channel/UC-2Y8dQb0S6DtpxNgAKoJKA) , and[ TikTok](https://www.tiktok.com/@playstation) channels. You can watch the May 30 event below:
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The Latest Sony and Other Gaming News
@@ -100,5 +120,18 @@ thumbnail: https://www.lifewire.com/thmb/KJ_dXsrrGXjPT6jDqp-rB3PUzfM=/400x300/fi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-perfect-pc-video-grabbers-a-comprehensible-selection/"><u>[New] In 2024, Perfect PC Video Grabbers A Comprehensible Selection</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-the-unseen-facts-instagram-reels-demystified-ten-points/"><u>[Updated] The Unseen Facts Instagram Reels Demystified (Ten Points)</u></a></li>
+<li><a href="https://os-tips.techidaily.com/download-altstore-pal-version-completely-gratis-exclusive-offer-for-european-audiences/"><u>Download AltStore PAL Version Completely Gratis: Exclusive Offer for European Audiences</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effortless-icloud-photo-removal-strategy-while-keeping-iphone-snapshots-intact/"><u>Effortless iCloud Photo Removal Strategy While Keeping iPhone Snapshots Intact</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-fresh-film-enthusiasts-primer-on-visual-quality/"><u>In 2024, The Fresh Film Enthusiast’s Primer on Visual Quality</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/next-gen-console-comparison-who-reigns-supreme-in-202n4/"><u>Next-Gen Console Comparison: Who Reigns Supreme in 202N4?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/optimize-your-planning-skills-with-4-fantastic-zero-cost-online-calendars/"><u>Optimize Your Planning Skills With 4 Fantastic, Zero-Cost Online Calendars</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/steps-to-transform-your-stereo-into-a-51-channel-audio-system/"><u>Steps to Transform Your Stereo Into a 5.1 Channel Audio System</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-troubleshooting-guide-resolving-red-dead-redemption-iis-pc-game-freezes/"><u>Ultimate Troubleshooting Guide: Resolving Red Dead Redemption II's PC Game Freezes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-tutorial-adding-straight-lines-in-microsoft-word-efficiently/"><u>Ultimate Tutorial: Adding Straight Lines in Microsoft Word Efficiently</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/understanding-podcast-profit-margins/"><u>Understanding Podcast Profit Margins</u></a></li>
+</ul></div>
 

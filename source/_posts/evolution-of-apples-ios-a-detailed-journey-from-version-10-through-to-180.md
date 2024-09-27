@@ -1,7 +1,7 @@
 ---
 title: "Evolution of Apple's iOS: A Detailed Journey From Version 1.0 Through to 18.0"
-date: 2024-09-13T20:51:52.713Z
-updated: 2024-09-20T16:05:24.269Z
+date: 2024-09-22T03:35:26.289Z
+updated: 2024-09-27T02:25:39.395Z
 categories:
   - BestProducts
 description: "This Article Describes Evolution of Apple's iOS: A Detailed Journey From Version 1.0 Through to 18.0"
@@ -36,6 +36,13 @@ Close
 
  Other notable updates include a new Passwords app for managing credentials, Game Mode for optimizing gaming performance, improved photo organization with topics and carousels, and enhanced Safari features like Highlights and Reader. The Wallet app adds Tap to Cash for easy Apple Cash transfers and new options for accessing credit card rewards and installment plans.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## iOS 17
 
  Apple announced[ iOS 17](https://www.lifewire.com/ios-17-news-and-rumors-6753498) at the June 2023 WWDC and then rolled it out to the public in Fall 2023.
@@ -57,10 +64,10 @@ Close
  iOS 16 also featured an Apple Maps redesign and new features, such as cycling, lookaround, and multi-stop routing. The iOS upgrade also offers improvements to Spatial Audio that allow for the personalization of audio on AirPods.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iOS 15
@@ -142,6 +149,13 @@ Apple
 
 ![An array of iOS 13 screenshots on iPhones](https://www.lifewire.com/thmb/09vYI34mTgNoQ3N2N-Bn09JecpI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ios-13-ed889386f01841408610f9362b47ba25.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Apple Inc.
 
 **Support ended:** n/a  
@@ -172,6 +186,13 @@ Apple Inc.
 ## [ iOS 12](https://www.lifewire.com/ios-12-4169622)
 
 ![Features of iOS 12](https://www.lifewire.com/thmb/1Q9BifOc0NdTPjfkWg7grW3i_XM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ios-12-5b1c0c993418c60036b4faa0.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Apple Inc.
 
@@ -229,10 +250,10 @@ Apple Inc.
 ![Promo material for iOS 10](https://www.lifewire.com/thmb/z0aT2Ca68KrhjYRraX2WhogEgy0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ios-10-575f1faf3df78c98dc4256c1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Apple Inc.
@@ -265,13 +286,6 @@ Apple Inc.
 
 ![Screenshots of Apple Maps](https://www.lifewire.com/thmb/dWh60jzQRA2AOcGfOil5hyKG5po=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iOS9_apps-5728cddf5f9b589e34bfb973.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Apple, Inc. 
 
 **Support ended:** 2018  
@@ -297,13 +311,6 @@ Apple, Inc.
 ## [ iOS 8](https://www.lifewire.com/iphone-compatible-ios-8-1999214)
 
 ![iPhone 5s with iOS 8](https://www.lifewire.com/thmb/zi_LhQ-7cFRXzy0FrNnFdA-ZHnI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iphone5-ios8-56a5352e3df78cf77286eecf.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Apple, Inc. 
 
@@ -335,6 +342,13 @@ Apple, Inc.
 
 ![Material design in iOS 7](https://www.lifewire.com/thmb/NBSZqBzI5HlyCyrOTwS0mCE36fo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ios-7-598c78e0054ad90011729fb8.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Corbis News / Getty Images
 
 **Support ended:** 2016  
@@ -364,6 +378,13 @@ Corbis News / Getty Images
 
 ![Screenshot of iOS 6](https://www.lifewire.com/thmb/SD_9xRCw9TcGf31icSpQQ5LQkQQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ios-6-598c7e60b501e80012fa1a48.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 marco\_1186 / Flickr
 
 **Support ended:** 2015  
@@ -385,6 +406,13 @@ marco\_1186 / Flickr
 **Dropped Support For:** 
 
 * ​None, but iPhone 3GS, iPhone 4, and iPad 2 couldn't use all features of iOS 6
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## [ iOS 5](https://www.lifewire.com/compare-iphone-models-1999430)
 
@@ -487,13 +515,6 @@ Jason Kempin / Getty Images
 * [ App Store​](https://www.lifewire.com/download-iphone-apps-at-app-store-2000650)
 * Improved Maps app​
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## iOS 1
 
 ![Original iPhone](https://www.lifewire.com/thmb/cIRcqbxNRi2yVJtxV2sQGKdY3qg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/original-iphone-598c81a1396e5a001026cc8b.jpg) 
@@ -555,5 +576,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-the-full-features-sony-fdr-x1000-model/"><u>[New] Exploring the Full Features Sony FDR-X1000 Model</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-macpc-vmix-bridge-software/"><u>[Updated] MacPC VMix Bridge Software</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-reimagine-your-snapchat-chats-with-ease-voice-change-guides-here/"><u>2024 Approved Reimagine Your Snapchat Chats with Ease Voice Change Guides Here</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/6-chatgpt-plugins-that-arent-worth-your-time/"><u>6 ChatGPT Plugins That Aren't Worth Your Time</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-tecno-pova-6-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Tecno Pova 6 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/best-8-travel-planning-apps-recommended-by-us/"><u>Best 8 Travel Planning Apps Recommended by Us</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/building-a-solo-superman-saga-timeline-the-best-way-to-enjoy-all-the-superman-movies-in-sequence/"><u>Building a Solo Superman Saga Timeline: The Best Way to Enjoy All the 'Superman' Movies in Sequence</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/complete-macxdvd-suite-unlock-full-features-with-an-official-licensed-upgrade-at-no-cost/"><u>Complete MacXDVD Suite: Unlock Full Features with an Official Licensed Upgrade at No Cost</u></a></li>
+<li><a href="https://program-issues.techidaily.com/defeating-lag-and-glitches-a-players-manual-for-fixing-fifa-19-pc-stability-problems/"><u>Defeating Lag and Glitches: A Player's Manual for Fixing FIFA 19 PC Stability Problems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easily-troubleshoot-jscriptdll-not-found-errors-on-your-pc/"><u>Easily Troubleshoot Jscript.dll Not Found Errors on Your PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enable-and-use-facetime-on-a-non-apple-device-with-windows/"><u>Enable and Use FaceTime on a Non-Apple Device with Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-launchdllnotfound-issues-tips-for-a-smooth-system-operation/"><u>Fixing LaunchDllNotFound Issues: Tips for a Smooth System Operation</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/free-texting-solutions-for-ipod-touch-owners-top-picks/"><u>Free Texting Solutions for iPod Touch Owners - Top Picks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-cursor-control-turning-off-acceleration-settings-on-your-mac-device/"><u>Mastering Cursor Control: Turning Off Acceleration Settings on Your Mac Device</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/quintessential-stop-motion-gems-for-cinephiles-for-2024/"><u>Quintessential Stop-Motion Gems for Cinephiles for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-resolving-missing-haldll-file-issues-on-windows-xp/"><u>Ultimate Guide: Resolving Missing hal.dll File Issues on Windows XP</u></a></li>
+</ul></div>
 

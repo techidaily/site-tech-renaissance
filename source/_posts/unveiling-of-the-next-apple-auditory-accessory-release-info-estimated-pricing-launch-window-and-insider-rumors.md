@@ -1,7 +1,7 @@
 ---
 title: Unveiling of the Next Apple Auditory Accessory - Release Info, Estimated Pricing, Launch Window & Insider Rumors
-date: 2024-09-15T21:45:20.381Z
-updated: 2024-09-21T03:58:29.196Z
+date: 2024-09-21T08:24:26.138Z
+updated: 2024-09-26T16:23:51.110Z
 categories:
   - BestProducts
 description: This Article Describes Unveiling of the Next Apple Auditory Accessory - Release Info, Estimated Pricing, Launch Window & Insider Rumors
@@ -36,9 +36,23 @@ thumbnail: https://www.lifewire.com/thmb/pJ3j07mu0IBk2CogSudtG2sLkUI=/540x405/fi
 
  We don't expect to see this direct audio device until late 2025 or 2026 (or maybe even later).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Pre-Order Information
 
  Given that there aren't even rumors of a product here, there's no pre-order information to share right now. We'll update this article if that changes.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Apple Wearable Device With Direct Audio Price Rumors
 
@@ -49,6 +63,13 @@ thumbnail: https://www.lifewire.com/thmb/pJ3j07mu0IBk2CogSudtG2sLkUI=/540x405/fi
  Apple's patent for this wearable computing device ([Patent #US 11979721 B2](https://ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11979721) ) describes a gadget that can be worn on clothes and contains a set of speakers and microphones. The speakers beam audio to the wearer's ears, while the microphones take voice commands (probably to Apple's digital assistant, Siri).
 
 ![Patent drawing of an Apple wearable device with direct audio](https://www.lifewire.com/thmb/bpw_abDVlHe6Q57SQBo0eDLP8K8=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/apple-wearable-audio-device-e517a826f13a414dbecdc3bca50d826b.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Apple, Inc / USPTO
 
@@ -67,13 +88,6 @@ Apple, Inc / USPTO
 
  Directional audio using parametric speakers may sound futuristic, but it already exists in a few products.  
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Microphones for Commands, User Identification, and Callibration
 
  The patented device would also contain microphones. These could be used for commands with a[virtual assistant](https://www.lifewire.com/virtual-assistants-4138533) like Apple Intelligence or Siri.
@@ -81,10 +95,10 @@ Apple, Inc / USPTO
  The patent also mentions user identification—presumably the device would get to know your voice and maybe even use it as a password (the HomePod does something similar with[Personal Requests](https://www.lifewire.com/how-to-set-up-apple-homepod-4800071) )—and calibration (likely to gauge background noise and vocal volume to attune the device to the user and its surroundings).
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Latest News About the Apple Wearable Device With Direct Audio
@@ -110,5 +124,23 @@ Apple, Inc / USPTO
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-quickest-windowed-image-analyzer/"><u>[New] In 2024, Quickest Windowed Image Analyzer</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-quick-tips-for-editing-igtv-content-to-stand-out/"><u>[Updated] In 2024, Quick Tips for Editing IGTV Content to Stand Out</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-investors-guide-to-choosing-yt-channels/"><u>[Updated] The Investor's Guide to Choosing YT Channels</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/crafting-a-story-unique-to-you-amongst-tiktok-titans-for-2024/"><u>Crafting a Story Unique to You Amongst TikTok Titans for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discovering-your-hidden-instagram-reels-a-step-by-step-guide/"><u>Discovering Your Hidden Instagram Reels: A Step-by-Step Guide</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/effortless-ways-to-transfer-data-from-your-apple-iphone-15-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Effortless Ways to Transfer Data from Your Apple iPhone 15 to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/1725287024490-foobar2000/"><u>Foobar2000で日本語対応は？設定変更不能時の解決策、ユーザフレンドリーな特徴詳細ガイド</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722887600467-how-to-securely-update-your-facebook-password-today/"><u>How To Securely Update Your Facebook Password Today</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, All You Need To Know About Mega Greninja For Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-lava-blaze-curve-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Lava Blaze Curve 5G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/latest-m3-macbook-pro-info-release-schedule-costs-and-full-tech-specifications/"><u>Latest M3 MacBook Pro Info - Release Schedule, Costs & Full Tech Specifications</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/lenovo-laptop-refresh-the-essential-walkthrough-to-reinstall-system-settings/"><u>Lenovo Laptop Refresh: The Essential Walkthrough to Reinstall System Settings</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/pioneering-the-future-of-wireless-unveiling-verizons-5g-potential/"><u>Pioneering the Future of Wireless: Unveiling Verizon's 5G Potential</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-errors-with-outlooks-automatic-spell-correction-feature/"><u>Troubleshooting Errors with Outlook's Automatic Spell Correction Feature</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/why-government-entities-should-consider-alternatives-to-leading-technology-firms-like-microsoft-during-outages/"><u>Why Government Entities Should Consider Alternatives to Leading Technology Firms Like Microsoft During Outages</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-realme-11-proplus-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Realme 11 Pro+ Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+</ul></div>
 
