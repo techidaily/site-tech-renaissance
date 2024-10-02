@@ -1,7 +1,7 @@
 ---
 title: "Configuring macOS Finder Preferences: A Comprehensive Guide to Optimize Directory Navigation"
-date: 2024-09-20T08:37:36.504Z
-updated: 2024-09-26T22:51:46.748Z
+date: 2024-09-28T02:29:11.342Z
+updated: 2024-10-02T13:13:32.597Z
 categories:
   - BestProducts
 description: "This Article Describes Configuring macOS Finder Preferences: A Comprehensive Guide to Optimize Directory Navigation"
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/bc869d9d43a6e8eaba8010b4b670a5dfb48692bba
 
  If you'd rather, you can[make a totally new Skype account](https://www.lifewire.com/how-to-create-a-skype-account-on-windows-4800185) .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Step 2: Check to See if It's Skype's Problem
 
  See if others are having troubles with Skype, too. There isn't much you can do to fix it if it's not your problem to fix. Sometimes things go wrong on Skype's end and the only thing you can do is wait it out.
@@ -45,9 +52,23 @@ thumbnail: https://thmb.techidaily.com/bc869d9d43a6e8eaba8010b4b670a5dfb48692bba
 
 ![Skype Status Normal Service](https://www.lifewire.com/thmb/gelce_nk6NZFVOXIBopwnyukvrE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/skype-status-normal-service-002401f4bdd54451a46e388b733ee6d5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Something else you can do to troubleshoot the problem is to check[Skype's status on Down Detector](https://downdetector.com/status/skype/) to see if other users are reporting that it's down or having some other connection problem.
 
  If either website shows a problem, it most likely means that you're not the only one that can't use Skype. Just wait an hour or so and try again.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Step 3: Check Your Network Connection
 
@@ -56,19 +77,6 @@ thumbnail: https://thmb.techidaily.com/bc869d9d43a6e8eaba8010b4b670a5dfb48692bba
  If you can't open the websites from Step 1 or nothing else works, then your whole network is probably not working. Try [restarting your router](https://www.lifewire.com/how-to-properly-restart-a-router-modem-2624570) or following our[troubleshooting steps for Wi-Fi issues](https://www.lifewire.com/what-to-do-when-theres-no-wi-fi-internet-connection-2378240) .
 
  If other websites are working normally, the reason Skype can't make calls or why it's experiencing dropped calls could be related to[bandwidth](https://www.lifewire.com/what-is-bandwidth-2625809) usage. If there are multiple other people on your network that are using the internet at the same time, pause or stop the activity on those devices and then see if Skype starts working again.
-
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Step 4: Check Skype's Audio Settings and Permissions
 
@@ -89,6 +97,13 @@ thumbnail: https://thmb.techidaily.com/bc869d9d43a6e8eaba8010b4b670a5dfb48692bba
 * If you don't hear anything when you play the sample sound, make sure your speakers or headphones are turned all the way up (some headphones have physical volume buttons) and that the on-screen settings are at**10** .
 * If the volume is fine, double-check the menu next to**Speakers** and see if there's another option to pick from, and then try the sample sound again.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Using Skype for Mobile Devices
 
  If you're using Skype on a tablet or phone, then your speakers and microphone are built-in to your device and can't be manually adjusted. However, there are still proper permissions that Skype requires in order to use your microphone, and if it doesn't have them, it won't let anyone hear what you say through it.
@@ -105,18 +120,18 @@ thumbnail: https://thmb.techidaily.com/bc869d9d43a6e8eaba8010b4b670a5dfb48692bba
 2. Find and open**Skype** and then**Permissions** .
 3. Tap**Microphone** , and then choose**Allow only while using the app** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Step 5: Check Skype's Video Settings and Permissions
 
  Problems with how Skype accesses the camera might be the reason the person you're talking with can't see your video.
 
 [What to Do When Your Skype Camera Is Not Working](https://www.lifewire.com/skype-camera-not-working-4589105)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Skype for Computers
 
@@ -128,13 +143,6 @@ thumbnail: https://thmb.techidaily.com/bc869d9d43a6e8eaba8010b4b670a5dfb48692bba
 * Make sure that there's nothing physically blocking the camera.
 * Use the menu to the right of the**Camera** area in the settings to choose a different camera if you have more than one.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Skype for Mobile Devices
 
  If Skype video is not working on your iPad, iPhone, or other iOS devices, go into the**Settings** app and find**Skype** from the list, then turn on**Camera** access if it's not already.
@@ -144,13 +152,6 @@ thumbnail: https://thmb.techidaily.com/bc869d9d43a6e8eaba8010b4b670a5dfb48692bba
  If the device still doesn't let you use video in Skype, remember that it's really easy to switch between the front and back camera. If your phone is down on a table, or you're holding it in a certain way, it can completely block the video and make it seem like the camera isn't working.
 
  Try tapping the small camera toggle button during the call to swap between the front-facing and back-facing camera. If you're not on a call right now, you can use the**Camera**  option to test the video from your device.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Step 6: Make a Test Call in Skype
 
@@ -165,10 +166,10 @@ thumbnail: https://thmb.techidaily.com/bc869d9d43a6e8eaba8010b4b670a5dfb48692bba
  You can also use the Echo/Sound Test Service contact to make a test video call, but all this really does is shows you your own video during the audio call. This is another way to test Skype video calls.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Step 7: Reinstall Skype
@@ -178,13 +179,6 @@ thumbnail: https://thmb.techidaily.com/bc869d9d43a6e8eaba8010b4b670a5dfb48692bba
  When you delete and reinstall Skype, you're basically resetting the program and all of its connections with your camera and microphone, which should resolve any issues. You're also getting the freshest version that's available, which could address whatever was causing the problem in the first place. However, you might then have to follow the steps outlined above once more to make sure the new connections are set up properly.
 
  You should definitely[update to the latest version of Skype](https://www.lifewire.com/how-to-update-skype-4173260) if you can[use it through the web version](https://www.lifewire.com/using-skype-in-browser-4000450) normally but not the desktop version. If the webcam and mic work through your web browser just fine, then there's a problem with the offline version that needs to be taken care of through a reinstallation.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Step 8: Update Device Drivers
 
@@ -237,22 +231,15 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-az-capture-tool-full-app-testing-and-options-guide/"><u>[New] AZ Capture Tool Full App Testing & Options Guide</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-masterclass-reclaiming-personal-eyes-only-images/"><u>[New] In 2024, Masterclass Reclaiming Personal Eyes-Only Images</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-synergizing-social-media-exporting-fb-videos-to-whatsapp/"><u>2024 Approved Synergizing Social Media Exporting FB Videos to WhatsApp</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-unlock-youtube-ad-revenue-recent-policy-insights/"><u>2024 Approved Unlock YouTube Ad Revenue Recent Policy Insights</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/comet-bookkeeper-system-fixes/"><u>Comet Bookkeeper System Fixes</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-solutions-for-resolving-the-steam-disk-write-error-on-your-pc/"><u>Comprehensive Solutions for Resolving the Steam Disk Write Error on Your PC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/decoding-the-blue-your-ultimate-reference-to-every-windows-stop-bsod-code-explained/"><u>Decoding the Blue: Your Ultimate Reference to Every Windows STOP (BSOD) Code Explained</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fixing-the-not-found-error-for-mfc42dll-in-windows-systems/"><u>Fixing the Not Found Error for mfc42.dll in Windows Systems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-diagnose-and-repair-noisy-pc-chassis-fans-effectively/"><u>How to Diagnose and Repair Noisy PC Chassis Fans Effectively</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-duet-on-tiktok/"><u>How to Duet on TikTok</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/how-to-elevate-your-tiktok-footage-with-enhanced-heads-a-guide-3-steps-for-2024/"><u>How To Elevate Your TikTok Footage with Enhanced Heads A Guide (3 Steps) for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-vid-wizards-guide-to-glitter-and-glamour-creating-your-chanel/"><u>In 2024, Vid-Wizards Guide to Glitter and Glamour Creating Your Chanel</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ipados-103-launch-details-revealed-dates-costs-and-latest-updates/"><u>IPadOS 10.3 - Launch Details Revealed: Dates, Costs & Latest Updates</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-the-issue-when-ac1st16dll-is-not-available-on-your-pc/"><u>Solving The Issue When ac1st16.dll Is Not Available on Your PC</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Infinix Smart 8 Pro? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/stop-0x00000078-phase0exception-bugs-solutions-to-get-your-system-running-smoothly-again/"><u>Stop 0X00000078 (PHASE0_EXCEPTION) Bugs: Solutions to Get Your System Running Smoothly Again</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-repairing-gsdll32dll-errors-on-your-pc/"><u>The Ultimate Guide to Repairing gsdll32.dll Errors on Your PC</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-aerial-titans-clash-dji-and-gopros-quest/"><u>[New] Aerial Titans Clash DJI and GoPro's Quest</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-attention-grabber-designer/"><u>2024 Approved Innovative Attention Grabber Designer</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-your-pathway-to-personalized-youtube-music-selections/"><u>2024 Approved Your Pathway to Personalized YouTube Music Selections</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diagnosing-and-repairing-usb-connectivity-for-internet-sharing/"><u>Diagnosing and Repairing USB Connectivity for Internet Sharing</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-code-80240020-explained-a-step-by-step-solution-for-windows-11-installation-problems/"><u>Error Code 80240020 Explained - A Step-by-Step Solution for Windows 11 Installation Problems</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/expert-level-bootstrap-pro-ui-framework-for-vue-developers-ultimate-admin-template-by-creative-tim/"><u>Expert-Level Bootstrap PRO UI Framework for Vue Developers - Ultimate Admin Template by Creative Tim</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-harmonizing-designs-using-color-principles-wisely/"><u>In 2024, Harmonizing Designs Using Color Principles Wisely</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-fixm20dll-file-not-found-comprehensive-troubleshooting-guide/"><u>Resolving 'FixM20.DLL' File Not Found: Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-solving-common-problems-with-spotify-and-android-auto/"><u>Step-by-Step Guide: Solving Common Problems with Spotify and Android Auto</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-getting-the-microsoft-outlook-spell-checker-back-on-track/"><u>Troubleshooting Tips: Getting the Microsoft Outlook Spell Checker Back on Track</u></a></li>
 </ul></div>
 

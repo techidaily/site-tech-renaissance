@@ -1,7 +1,7 @@
 ---
 title: "Disabling iPhone Notifications: A Guide to Opting Out of Emergency & Amber Alerts"
-date: 2024-09-21T18:25:13.758Z
-updated: 2024-09-27T00:50:20.818Z
+date: 2024-09-28T18:13:13.080Z
+updated: 2024-10-01T16:59:26.349Z
 categories:
   - BestProducts
 description: "This Article Describes Disabling iPhone Notifications: A Guide to Opting Out of Emergency & Amber Alerts"
@@ -29,19 +29,6 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 
 ![Pokemon Go trainer screen with Buddy History icon highlighted.](https://www.lifewire.com/thmb/BdiPfIa8oWBYka7UEwDkhYUEZlU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Buddy-icon-in-Pokemon-Go-0b51206346d144a0b55dda8d337fcc18.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you don’t see a**Buddy History** or**Buddy** option, you may need to update the_Pokémon Go_ app to its latest version.
 
 ## How to Change Your ‘Pokémon Go’ Buddy Pokémon
@@ -55,14 +42,28 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 3. Tap**Yes** .
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Find the Pokémon you want to add as your new buddy and tap it. If successful, the selected Pokémon will be shown in a brief fullscreen announcement and then appear on the Pokémon buddy screen as your new buddy.  
 ![Pokemon Go app showing how to swap your Buddy Pokémon](https://www.lifewire.com/thmb/BoGpxHgNU6FVRwfj_E4L0CrpefQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-play-with-your-buddy-in-pokemon-go-02-e064b240ebdf48fa89583f0851d42bcd.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Is the Point of Having a Buddy in Pokémon Go?
 
@@ -88,13 +89,6 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 ![Pokemon GO with buddy Pokemon and Play icons highlighted](https://www.lifewire.com/thmb/ZJo8o9TObp3SUocJtYPzmQ-r3VA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Play-with-buddy-Pokemon-5d81ad40271c49dba320d76c94d2ae10.jpg)
 5. After several seconds of patting, a bright light should surround your buddy, and a heart will appear. This heart will go toward your buddy’s friendship level. You can only earn one heart by playing with your buddy Pokémon every day, though you can play with them as many times as you like.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Tap the**Exit** icon in the top-left corner to return to the map, or tap the**Berry** icon in the lower-left corner to feed your Pokémon berries to get it to appear on the map.
 7. To feed your Pokémon buddy, tap and drag berries from the lower menu to your Pokémon. Three regular Razz, Nanab, or Pinap berries will be enough to have your buddy join you on the map. One Silver Pinap Berry, one Golden Razz Berry, or one Poffin will also do the job.  
  Once your buddy Pokémon is on the map with you, the distance required to walk to earn candy is reduced. Your buddy may also direct you to spin certain Pokéstops to earn hidden prizes and earn bonus hearts.  
@@ -107,10 +101,10 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
  However, if this buddy has reached Great Buddy or some other friendship level status, that progress will remain no matter how many times you swap the buddy out.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Does It Matter Who Your Buddy Is in 'Pokémon Go'?
@@ -152,15 +146,17 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-evolving-your-tiktok-conclusion-designs-for-2024/"><u>[New] Evolving Your TikTok Conclusion Designs for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solved-windows-11-100-disk-usage-in-task-manager/"><u>[SOLVED] Windows 11 100% Disk Usage in Task Manager</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-cross-platform-capture-made-simple-for-pc-mac-and-ios/"><u>[Updated] In 2024, Cross-Platform Capture Made Simple for PC, Mac & iOS</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-funny-facades-top-quality-free-meme-files/"><u>2024 Approved Funny Facades Top-Quality, FREE Meme Files</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-motorola-moto-g14-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Motorola Moto G14 to New Android? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-real-time-proportion-alteration-tool/"><u>In 2024, Real-Time Proportion Alteration Tool</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solved-step-by-step-guide-for-when-your-laptops-usb-ports-stop-working/"><u>Solved! Step-By-Step Guide for When Your Laptop's USB Ports Stop Working</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-the-persistent-slow-stream-on-netflix-effective-troubleshooting-steps/"><u>Solving the Persistent Slow Stream on Netflix: Effective Troubleshooting Steps</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/start-anew-with-windows-11-mastering-the-art-of-system-restoration-in-just-4-steps/"><u>Start Anew with Windows 11: Mastering the Art of System Restoration in Just 4 Steps</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-setting-up-the-superrepo-addon-in-kodi/"><u>Step-by-Step Guide: Setting Up the SuperRepo Addon in Kodi</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/levating-your-youtube-presence-with-strategic-post-publish-video-updates-for-2024/"><u>[New] Elevating Your YouTube Presence with Strategic Post-Publish Video Updates for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-high-quality-8-cam-transformations-for-streaming/"><u>[Updated] High-Quality 8 Cam Transformations for Streaming</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-the-brawlers-domain-vs-twitch-territory/"><u>2024 Approved The Brawler's Domain Vs. Twitch Territory</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/2024s-elite-collection-of-imessage-games-find-your-perfect-match-in-the-top-7/"><u>2024'S Elite Collection of iMessage Games: Find Your Perfect Match in the Top 7</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/claude-pros-evolution-how-it-measures-up-against-gptplus/"><u>Claude Pro's Evolution: How It Measures Up Against GPT+</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/eliminate-kernel-inpage-troubles-proven-strategies-and-solutions/"><u>Eliminate 'Kernel Inpage' Troubles: Proven Strategies and Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/facebook-marketplace-not-showing-up-learn-about-possible-causes-and-fixes-today/"><u>Facebook Marketplace Not Showing Up? Learn About Possible Causes & Fixes Today!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-access-live-fm-broadcasts-using-your-ios-or-android-device-a-comprehensive-walkthrough/"><u>How to Access Live FM Broadcasts Using Your iOS or Android Device – A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/ifoifo-ifodvd/"><u>Ifoファイルガイドのすべてを解明：iFOファイルから始める - iFO再生、変換術、DVDへの書き込み手順</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-decoding-youtubes-best-video-editing-practices/"><u>In 2024, Decoding YouTube's Best Video Editing Practices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-leveraging-chatgpt/"><u>Step-by-Step: Leveraging ChatGPT</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125154751-unbeatable-price-elegoo-neptone-4-pro-laser-cutter-just-284/"><u>Unbeatable Price: Elegoo Neptone 4 Pro Laser Cutter - Just $284</u></a></li>
 </ul></div>
 

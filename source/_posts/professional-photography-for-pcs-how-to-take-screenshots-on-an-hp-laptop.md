@@ -1,7 +1,7 @@
 ---
 title: "Professional Photography for PCs: How To Take Screenshots On An HP Laptop"
-date: 2024-09-17T19:19:19.237Z
-updated: 2024-09-21T02:40:38.456Z
+date: 2024-09-29T17:04:37.002Z
+updated: 2024-10-02T10:19:30.611Z
 categories:
   - BestProducts
 description: "This Article Describes Professional Photography for PCs: How To Take Screenshots On An HP Laptop"
@@ -23,6 +23,19 @@ thumbnail: https://thmb.techidaily.com/42a3217d9873863c48091846f5f8a9e9b9b645644
 
  This article teaches you how to change the Windows 11 system font so that various areas of the OS will use the font type you prefer. It also covers how to undo these steps to restore the default font.
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Change the System Font in Windows 11
 
  The quickest way to change the Windows 11 font is through a Windows Registry edit, which we'll do by creating a[REG file](https://www.lifewire.com/how-to-create-edit-and-use-reg-files-2622817) .
@@ -34,6 +47,14 @@ thumbnail: https://thmb.techidaily.com/42a3217d9873863c48091846f5f8a9e9b9b645644
 3. Locate the**Full name** line in the**Metadata** section, and write it down exactly as it's written. In our example, we recorded**Franklin Gothic Medium** .  
 ![Full Name and Franklin Gothic Medium highlighted in Windows 11 font settings](https://www.lifewire.com/thmb/TLWCZLK0sdGg9XBIj1y4Ma1EuAA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-change-the-font-in-windows-11-6827640-97099a55349a45e392459345af24caf1.jpg)
 4. Open Notepad, or a[different text editor](https://www.lifewire.com/best-free-text-editors-4155819) if you prefer, and paste the following:  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  `Windows Registry Editor Version 5.00`  
 `[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts]`  
 `"Segoe UI (TrueType)"=""`  
@@ -48,6 +69,14 @@ thumbnail: https://thmb.techidaily.com/42a3217d9873863c48091846f5f8a9e9b9b645644
 5. In the last line of the document, replace**Franklin Gothic Medium** with the name of the font you recorded in Step 3 (keep the quotes around the name).  
 ![Franklin Gothic Medium highlighted in Windows Notepad with REG file contents](https://www.lifewire.com/thmb/5UM6sKcUZ5_xlc9vkHeFpUtlwpk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-to-change-the-font-in-windows-11-6827640-babf346069c14d8caa00e4c43d7992b6.jpg)
 6. If you're using Notepad, go to**File** \>**Save as** , and type a name in the**File name** box.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Choose**All files** from the**Save as type** menu.
 8. Type**.reg** at the end of the file name. Our example reads**Franklin Gothic.reg** , but yours can be called whatever you want; just make sure it ends with that file extension.
 9. Choose a folder on your computer to save the file (the Desktop folder works), and then select**Save** .  
@@ -68,10 +97,10 @@ thumbnail: https://thmb.techidaily.com/42a3217d9873863c48091846f5f8a9e9b9b645644
 [Troubleshooting Installed Fonts That Won't Work](https://www.lifewire.com/cant-use-installed-fonts-1074154)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Restore the Default Font in Windows 11
@@ -110,13 +139,6 @@ thumbnail: https://thmb.techidaily.com/42a3217d9873863c48091846f5f8a9e9b9b645644
 5. If the changes don't take effect immediately (they did for us), reboot your computer.
 
  If you don't have the original REG file readily available to edit, just repeat the steps at the top of this page. When you get to the part about pasting the code into Notepad, use the modified code from Step 2 above, and don't make any changes to it.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Changing Other Fonts in Windows 11
 
@@ -168,5 +190,16 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-epicplayback-expert-analysis/"><u>[New] In 2024, EpicPlayback Expert Analysis</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-the-essence-of-depth-crafting-3d-text-art/"><u>[New] In 2024, The Essence of Depth Crafting 3D Text Art</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-best-8-linux-platforms-for-video-mastery/"><u>[Updated] 2024 Approved Best 8 Linux Platforms for Video Mastery</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-funhouse-laughs-top-10-meme-blueprints-explained/"><u>[Updated] In 2024, Funhouse Laughs Top 10 Meme Blueprints Explained</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Vivo Y100t? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/migrating-sony-ebooks-to-your-kobo-device-a-step-by-step-guide/"><u>Migrating Sony eBooks to Your Kobo Device: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-service-policies-a-deep-dive-into-usage-guidelnates/"><u>Navigating Service Policies: A Deep Dive Into Usage Guidelnates</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/nexus-showdown-a-detailed-look-at-the-features-and-performance-between-nexus-7-and-nexus-10-models/"><u>Nexus Showdown: A Detailed Look at the Features and Performance Between Nexus 7 and Nexus 10 Models</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/responsive-web-design-implementation/"><u>Responsive Web Design Implementation</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Inside Scoop on the Upcoming Google Pixel Phase: Anticipated Costs, Launch Timeline & Tech Specs"
-date: 2024-09-19T19:45:30.540Z
-updated: 2024-09-21T05:41:23.621Z
+date: 2024-09-29T03:15:04.619Z
+updated: 2024-10-02T00:10:10.166Z
 categories:
   - BestProducts
 description: "This Article Describes Inside Scoop on the Upcoming Google Pixel Phase: Anticipated Costs, Launch Timeline & Tech Specs"
@@ -46,19 +46,6 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 * **Pixel 9 Pro XL** \- $1,199
 * **Pixel 9 Pro Fold** \- $1,799
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Pre-Order Information
 
  You can't pre-order the Pixel 9 just yet. We'll drop the link here when pre-ordering starts, which will likely be the same day Google unveils the phones.
@@ -74,16 +61,16 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 * **Offline location tracking** : Android 15 will introduce Google's Find My Device network for locating compatible items via Bluetooth. The Pixel 9 might be the first Google phone to be findable even when it's turned off.
 * **Satellite messaging** : The Pixel 9 is expected to be the first phone to support Android's satellite communication implementation. This feature will let you text over a satellite even if you don't have a mobile data connection.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Google Pixel 9 Specs and Hardware
 
  Nothing is confirmed until Google makes it official in October. But here's what we've gathered so far from supposed leaks and rumors:  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Display
 
@@ -95,22 +82,15 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 
  Below is[MySmartPrice's](https://www.mysmartprice.com/gear/pixel-9-pro-5k-renders-360-degree-video-exclusive/) take on what the Pixel 9 Pro XL might look like. You can see its thin bezels and new camera layout.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Performance
 
  The Tensor G4 will likely power all four Pixel 9 phones. This is an expected upgrade, given the Pixel 8's Tensor G3 chip.[According to Android Authority](https://www.androidauthority.com/pixel-9-sos-satellite-connectivity-3433498/) , this chip will include the more power-efficient and faster Samsung Modem 5400, which may also introduce support for satellite-based messaging.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Cameras
@@ -125,11 +105,25 @@ MySmartPrice
 
  At least for the Pixel 9 Pro XL, we're hearing from MySmartPrice that the triple rear cameras will include a telephoto sensor and a periscope telephoto sensor. The selfie camera hardware will likely change, too, since the Pixel 8's remained the same as the Pixel 7's; an upgrade sounds reasonable after a few years.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Battery
 
  There haven't been any details about the Pixel 9 battery yet, except that the Pixel 9 series might support the Qi2 wireless charging standard.
 
  Some evidence to support this comes from the fact that Liyu Yang, one of the board of directors at the Wireless Power Consortium (the publisher of the Qi standard) is a senior hardware engineer at Google who's[leading the design of next-gen wireless charging platforms for future Pixel products](https://www.wirelesspowerconsortium.com/blog-pages/wpc-welcomes-new-board-member/) .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Other Specs
 
@@ -160,5 +154,17 @@ MySmartPrice
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-mkv-playback-mac-app-selection-guide/"><u>[Updated] 2024 Approved MKV Playback Mac App Selection Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-premier-selection-ultimate-omnidirectional-cameras/"><u>2024 Approved Premier Selection Ultimate Omnidirectional Cameras</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjust-dpi-settings-for-optimal-display-performance/"><u>Adjust DPI Settings for Optimal Display Performance</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fast-track-solutions-for-enhancing-your-computers-speed/"><u>Fast-Track Solutions for Enhancing Your Computer’s Speed</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/free-darkroom-mastery-with-lightzone-a-versatile-editing-experience-for-all-operating-systems/"><u>Free Darkroom Mastery with LightZone: A Versatile Editing Experience for All Operating Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-use-photo-cutout-on-an-iphone-ios-16/"><u>How to Use Photo Cutout on an iPhone (iOS 16)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-gmail-protection-how-to-set-up-a-safe-list-of-contacts/"><u>Mastering Gmail Protection: How to Set Up a Safe List of Contacts</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-seek-out-terrifying-auditory-images/"><u>New 2024 Approved Seek Out Terrifying Auditory Images</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tech-hack-operate-your-roku-without-a-traditional-remote-a-comprehensive-guide/"><u>Tech Hack: Operate Your Roku Without a Traditional Remote - A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/transforming-your-wake-up-routine-with-ihomes-zenergy-an-in-depth-sleep-therapy-solution-evaluation/"><u>Transforming Your Wake-Up Routine with iHome's Zenergy: An In-Depth Sleep Therapy Solution Evaluation</u></a></li>
+</ul></div>
 

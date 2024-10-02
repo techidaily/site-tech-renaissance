@@ -1,7 +1,7 @@
 ---
 title: Discovering How the Wii U Became an Industry Hit Against All Odds
-date: 2024-09-19T00:15:34.429Z
-updated: 2024-09-20T17:19:38.393Z
+date: 2024-09-27T06:58:26.913Z
+updated: 2024-10-01T19:31:43.460Z
 categories:
   - BestProducts
 description: This Article Describes Discovering How the Wii U Became an Industry Hit Against All Odds
@@ -42,6 +42,13 @@ Lifewire / Jonno Hill
 
 4.3
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ClearStream 2V Indoor/Outdoor HDTV Antenna
 
 ![ClearStream 2V HDTV Antenna](https://www.lifewire.com/thmb/q2B57F3c717qLOPlnokMF7al1pA=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4LW4078201-AntennasDirect_TVAntennas_ClearStream_HeroSquare-b07d5067648049ecb987e39b62796406.jpg)
@@ -73,6 +80,13 @@ Lifewire / Jonno Hill
 
  Lifewire / Jonno Hill
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Design: Glimpsing an ugly future**
 
  The ClearStream 2V Indoor/Outdoor HDTV Antenna looks something like what I would imagine a space prison to look like. It’s far larger than any of the other antennas that I tested, and during every step of the assembly I kept thinking to myself “well that part can’t possibly be necessary.” From the comically long antennas and giant metal grate, to the bulbous hollowed out spheres, there is a lot going on here.
@@ -89,13 +103,6 @@ Lifewire / Jonno Hill
 
  Once the entire device is assembled, the real work begins in my opinion. Now you have to figure out how and where to mount this beast of an antenna. Antenna’s Direct has you covered here, including a hefty bracket and swiveling mast that will help you mount the antenna to just about anywhere with a flat surface that you don’t mind screwing some bolts into.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Performance: Top tier**
 
  The ClearStream 2V Indoor/Outdoor HDTV Antenna might be an unsightly space jail, but it sure gets good reception. I tested the antenna indoors along with the rest of the suite of indoor antennas, and in the same orientation. Perhaps it would have benefited from being placed outside, but in the interest of fairness I used the same method for all.
@@ -104,31 +111,31 @@ Lifewire / Jonno Hill
 
  In my channel acquisition test, the ClearStream managed 76 channels consistently, far and away the best result from any of the devices I tested. The worst antenna I tested picked up just 47 channels, and the second best, 69\. Needless to say, all the wires, cages, and bulbous plastic spheres are clearly doing something here, because this was the best result I saw.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Range: Extensive**
 
  The ClearStream 2V Indoor/Outdoor HDTV Antenna is rated for up to 60 miles. These ratings are generally based on relatively unobstructed paths between the signal and your device. There is a lot less than 60 miles between me and my local TV broadcast source, but if the other results are any indication, the ClearStream has a fighting chance at living up to these claims.
 
 ![ClearStream 2V Indoor/Outdoor HDTV Antenna](https://www.lifewire.com/thmb/NoQoQy3-EFUpi1z9oMTpD2JGWHQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4LW4078201-AntennasDirect_TVAntennas_ClearStream_04-70f5a48ac9a347d286c71240b85cbc1c.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Jonno Hill
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Price: Performance doesn’t come cheap**
 
  The ClearStream 2V Indoor/Outdoor HDTV Antenna has a list price of $120 and a 90-day rolling average price on Amazon of $83\. This is significantly more than any of the other antennas I tested, some of which could be had for around $25\. If you live far enough that you need a better performing antenna, however, it could easily be worth every penny. I would only caution buyers to make sure they really do need this performance before pulling the trigger on this very large antenna.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **ClearStream 2V Indoor/Outdoor HDTV Antenna vs 1byone Digital Amplified Indoor HD TV Antenna**
 
@@ -165,5 +172,26 @@ Lifewire / Jonno Hill
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-the-blue-bands-promise-tips-for-longevity/"><u>[New] 2024 Approved The Blue Bands Promise Tips for Longevity</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-interactive-vs-passive-entertainment-twitch-vs-youtube/"><u>[Updated] Interactive vs Passive Entertainment Twitch vs YouTube</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-step-by-step-on-azure-speech-transcription-services/"><u>[Updated] Step-by-Step on Azure Speech Transcription Services</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/accessing-microsoft-word-for-free-tips-and-alternatives-to-save-money/"><u>Accessing Microsoft Word for Free: Tips and Alternatives to Save Money</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/broadcasting-wisdom-share-screen-seamlessly-on-fb-live-for-2024/"><u>Broadcasting Wisdom Share Screen Seamlessly on FB Live for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/cutting-edge-technology-released-meet-the-new-iphone-series/"><u>Cutting-Edge Technology Released: Meet the New iPhone Series</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fix-guide-for-users-encountering-the-non-existent-fm2n0dll-issue/"><u>Fix Guide for Users Encountering the Non-Existent fm2n0.dll Issue</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/improving-reach-on-social-media-a-how-to-for-captioning-your-insta-story-posts/"><u>Improving Reach on Social Media: A How-To for Captioning Your Insta Story Posts</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-samsung-galaxy-a05s-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Samsung Galaxy A05s FRP Bypass</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-typographical-troubles-resetting-spellcheck-on-microsoft-outlook/"><u>Overcoming Typographical Troubles: Resetting Spellcheck on Microsoft Outlook</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/cient-content-tagging-made-simple-the-best-7-budget-friendly-online-taggification-apps-reviewed/"><u>Proficient Content Tagging Made Simple The Best 7 Budget-Friendly Online Taggification Apps Reviewed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quick-fix-for-better-protection-learn-how-to-change-your-password-on-x-app/"><u>Quick Fix for Better Protection: Learn How to Change Your Password on X App</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-iphone-12-by-drfone-ios/"><u>Remove Device Supervision From your iPhone 12</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-hp-laptops-soundscape-expert-fixes-for-windows-10-sound-failures/"><u>Revive Your HP Laptop's Soundscape: Expert Fixes for Windows 10 Sound Failures</u></a></li>
+<li><a href="https://network-issues.techidaily.com/stop-the-stutter-fix-monitor-refresh-rate/"><u>Stop the Stutter: Fix Monitor Refresh Rate</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/successful-techniques-for-restoring-your-vizio-tvs-wi-fi-connection/"><u>Successful Techniques for Restoring Your Vizio TV's Wi-Fi Connection</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-30-essential-gmail-hotkeys-for-increased-productivity/"><u>Top 30 Essential Gmail Hotkeys for Increased Productivity</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722859211974-turn-the-virtual-keyboard-on-and-off-in-windows-11-easy-instructions-for-users/"><u>Turn the Virtual Keyboard on and Off in Windows 11 – Easy Instructions for Users</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-convert-photo-to-cartoon-style/"><u>Updated In 2024, Convert Photo to Cartoon Style</u></a></li>
+</ul></div>
 

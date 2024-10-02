@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Instructions for Activating/Deactivating Network Sight on Windows 11
-date: 2024-09-26T05:59:30.546Z
-updated: 2024-09-27T09:02:36.289Z
+date: 2024-09-26T10:33:26.773Z
+updated: 2024-10-02T13:05:28.509Z
 categories:
   - BestProducts
 description: This Article Describes Comprehensive Instructions for Activating/Deactivating Network Sight on Windows 11
@@ -23,13 +23,6 @@ thumbnail: https://www.lifewire.com/thmb/qM1nNnmQahuj0QFb4ZrHH5hMw1k=/400x300/fi
 
  This article will walk you through the steps for how to reset network settings on a Mac. Unlike resetting network settings on an iPhone or Windows 10 computer, there’s no specific function on Macs for refreshing internet and wireless connection preferences, but it can still be done via the two methods shown below.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How Do You Reset Network Settings in macOS?
 
  There are two different ways to reset the network settings on a Mac. The first method is relatively simple and should be tried first if you’re experiencing any connectivity or internet issues.
@@ -50,14 +43,28 @@ thumbnail: https://www.lifewire.com/thmb/qM1nNnmQahuj0QFb4ZrHH5hMw1k=/400x300/fi
 3. Select**Details** beside the network to forget.  
 ![Details button beside a network connection from Wi-Fi settings in macOS.](https://www.lifewire.com/thmb/FNdDQZBdPQIHnN_v6Yd40aZSEaw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_reset-network-settings-on-mac-5184072-a10316d0d1fa4b5e85f2b1516cdaece4.jpg)
 4. Choose**Forget This Network** at the bottom left.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Forget This Network option from a connected network in macOS Wi-Fi settings.](https://www.lifewire.com/thmb/g_e1r5-LZ5pTqtOVemfyL7io_yk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_reset-network-settings-on-mac-5184072-550c670121d048ad9b36bf5c3711f38f.jpg)
 5. Click**Remove** to confirm the deletion.  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The Remove option when deleting a connected network from Wi-Fi settings in macOS.](https://www.lifewire.com/thmb/7sXgyQ4pvZ0APV5IYNb9a0YbIVQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_reset-network-settings-on-mac-5184072-d33999e98f4f41a9b5865dca38234821.jpg)  
@@ -73,12 +80,42 @@ thumbnail: https://www.lifewire.com/thmb/qM1nNnmQahuj0QFb4ZrHH5hMw1k=/400x300/fi
 2. Click the switch to turn Wi-Fi off.  
 ![Mac desktop with Wi-Fi switch turned on and toggle highlighted](https://www.lifewire.com/thmb/Djr4uGfLmro0bitPwJrNPK8si9E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/202-reset-network-settings-on-mac-5184072-72380288b1504d889574a5463faa398b.jpg)
 3. With Wi-Fi off, click**Go** .  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Mac desktop with Wi-Fi off and Go highlighted](https://www.lifewire.com/thmb/c7krTBV2WzWM6wsQcEyD81P-gMM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/203-reset-network-settings-on-mac-5184072-b8edc379dfbf4d488636aa9946738cea.jpg)
 4. From the Go menu, click**Go to Folder** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Mac Go menu with Go to Folder highlighted](https://www.lifewire.com/thmb/ltrHX0TSFM8xzCtAJYBX0Gye-qM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/204-reset-network-settings-on-mac-5184072-6e152a92bd3b4f5f9ba473ba76127c8c.jpg)
 5. Type**/Library/Preferences/SystemConfiguration/** into the text field and Enter.  
 ![Mac Go to Field](https://www.lifewire.com/thmb/oInJvndiGGUBjiVV4dCuYipWrK4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/205-reset-network-settings-on-mac-5184072-01298987aa224234b7e9e2f8faa9633d.jpg)
 6. Select the following five files:  
+
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    * **com.apple.airport.preferences.plist**  
    * **com.apple.network.identification.plist** or**com.apple.network.eapolclient/configuration.plist**  
    * **com.apple.wifi.message-tracer.plist**  
@@ -88,21 +125,14 @@ thumbnail: https://www.lifewire.com/thmb/qM1nNnmQahuj0QFb4ZrHH5hMw1k=/400x300/fi
 ![Mac network settings with five files highlighted](https://www.lifewire.com/thmb/4knKSgQkHK2UZGhEN6af3HgOVf0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/206-reset-network-settings-on-mac-5184072-b943ca5296604916a56612a49afabb87.jpg)
 7. **Command+click** to choose the select files, select**Copy** , then right-click the desktop and select**Paste** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Five Mac files selected and and Paste highlighted](https://www.lifewire.com/thmb/BIuvI7-mjZvRyw2DUhbjeF6nbsk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/207-reset-network-settings-on-mac-5184072-bbc93c2a2a934c8dbc520bf40201ff4b.jpg)
 8. Right-click the files in their original location and select**Move to Trash** to delete them.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If prompted to confirm the deletion with a password or an action on your Apple Watch, do so.  
@@ -110,20 +140,6 @@ thumbnail: https://www.lifewire.com/thmb/qM1nNnmQahuj0QFb4ZrHH5hMw1k=/400x300/fi
 9. Restart your Mac as usual and turn its Wi-Fi back on. The deleted files should be recreated within their original location, and all your network settings should now be reset.  
 ![Mac network settings files in folder](https://www.lifewire.com/thmb/TFIJTKhjr13-gJm5a2b7c1Qvs1I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/209-reset-network-settings-on-mac-5184072-6ccf3e11aa614ea6b334efc3bb44c1ec.jpg)  
  If everything is working fine, feel free to delete the copies of the files on your desktop.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What Will Resetting My Network Settings Do?
 
@@ -168,21 +184,21 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-hidden-treasures-non-top-films-that-shine/"><u>[New] 2024 Approved Hidden Treasures Non-Top Films That Shine</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-mastery-made-easy-10-best-mac-drawing-programs-complimentary/"><u>[New] Mastery Made Easy 10 Best Mac Drawing Programs (Complimentary)</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-professional-insights-top-10-igtv-pros/"><u>[New] Professional Insights Top 10 IGTV Pros</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-understanding-youtubes-monetization-schedule/"><u>[Updated] 2024 Approved Understanding YouTube's Monetization Schedule</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-comprehensive-razer-video-feedback/"><u>[Updated] Comprehensive Razer Video Feedback</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-peering-behind-recordcasts-curtain/"><u>2024 Approved Peering Behind RecordCast's Curtain</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/combine-photos-like-a-pro-in-just-5-straightforward-steps/"><u>Combine Photos Like a Pro in Just 5 Straightforward Steps</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/experience-superior-cooling-with-thermaltakes-latest-innovation-powerful-120mm140mm-reversible-fans-equipped-with-stronger-magnets-free-of-rgb-lighting/"><u>Experience Superior Cooling with Thermaltake's Latest Innovation: Powerful 120Mm/140mm Reversible Fans Equipped With Stronger Magnets, Free of RGB Lighting</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/experience-the-thrill-of-competition-with-our-pick-of-top-rated-sports-movies-today/"><u>Experience the Thrill of Competition with Our Pick of Top-Rated Sports Movies Today</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/explore-the-specs-of-samsung-galaxy-z-fold-6-anticipated-price-point-and-availability-date-announced/"><u>Explore the Specs of Samsung Galaxy Z Fold 6: Anticipated Price Point & Availability Date Announced</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fix-guide-correcting-your-systems-missing-binkw32dll-mistake/"><u>Fix Guide: Correcting Your System's Missing BinkW32.DLL Mistake</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-change-location-on-facebook-dating-for-your-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Infinix Note 30 VIP | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-vivo-y17s-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Vivo Y17s Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-motherboard-selection-a-checklist-of-seven-crucial-points/"><u>Mastering Motherboard Selection: A Checklist of Seven Crucial Points</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/revive-your-disappeared-connections-restoring-removed-phone-numbers-on-android-phones/"><u>Revive Your Disappeared Connections: Restoring Removed Phone Numbers on Android Phones</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722897568445-switching-from-gmail-discover-the-leading-8-mail-providers-for-2n25/"><u>Switching From Gmail? Discover the Leading 8 Mail Providers for 2N25</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-ranking-the-best-free-passport-picture-services-worldwide/"><u>[New] Ranking the Best Free Passport Picture Services Worldwide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-xiaomi-mi-11-crafting-memories-in-unprecedented-detail-for-2024/"><u>[New] Xiaomi Mi 11 Crafting Memories in Unprecedented Detail for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-incorporate-soundtrack-elements-into-premiere-pro/"><u>[Updated] Incorporate Soundtrack Elements Into Premiere Pro</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-preserve-precision-4-advanced-screen-recording-for-gamers-for-2024/"><u>[Updated] Preserve Precision 4 Advanced Screen Recording for Gamers for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-reducing-loudness-gradually-techniques-for-logic-pro-users/"><u>2024 Approved Reducing Loudness Gradually Techniques for Logic Pro Users</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-honor-90-gt-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Honor 90 GT</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-creme-de-la-creme-of-mobile-gaming-ranked-list/"><u>Discover the Crème De La Crème of Mobile Gaming: Ranked List</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-most-popular-shows-on-discovery-plus-in-july-2024/"><u>Discover the Most Popular Shows on Discovery + in July 2024!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/eclipse-antenna-by-clearstream-unmatched-performance-in-an-effortlessly-user-friendly-design/"><u>Eclipse Antenna by ClearStream: Unmatched Performance in an Effortlessly User-Friendly Design</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-solutions-to-overcome-code-39-issues-on-your-windows-machine/"><u>Effective Solutions to Overcome Code 39 Issues on Your Windows Machine</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastery-in-maintenance-proven-techniques-for-a-pristine-home-sound-system-through-speaker-care/"><u>Mastery in Maintenance: Proven Techniques for a Pristine Home Sound System Through Speaker Care</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/no-cost-endless-chuckles-the-meme-makers-manual/"><u>No Cost, Endless Chuckles The Meme Makers' Manual</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/secure-the-best-a-list-of-top-free-mac-screen-recorders/"><u>Secure the Best A List of Top Free Mac Screen Recorders</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-fooling-friends-side-splitting-iphone-and-ipad-trickery-tips/"><u>The Ultimate Guide to Fooling Friends: Side-Splitting iPhone & iPad Trickery Tips!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-walkthrough-for-handling-trustedinstaller-rights-on-windows-cuarto/"><u>The Ultimate Walkthrough for Handling TrustedInstaller Rights on Windows Cuarto</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/transforming-social-media-viewing-displaying-tiktok-content-on-the-big-screen/"><u>Transforming Social Media Viewing: Displaying TikTok Content on the Big Screen</u></a></li>
 </ul></div>
 

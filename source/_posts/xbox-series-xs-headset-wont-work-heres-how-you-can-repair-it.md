@@ -1,7 +1,7 @@
 ---
 title: Xbox Series X/S Headset Won't Work? Here’s How You Can Repair It
-date: 2024-09-19T22:36:18.093Z
-updated: 2024-09-20T22:20:35.335Z
+date: 2024-09-27T16:02:35.605Z
+updated: 2024-10-02T01:23:52.892Z
 categories:
   - BestProducts
 description: This Article Describes Xbox Series X/S Headset Won't Work? Here’s How You Can Repair It
@@ -49,6 +49,19 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
 15. If your headset still doesn’t work after trying everything, then you may just have a bad headset. Try contacting the manufacturer for further assistance, or to see if repairs are available.  
  Due to the typical cost of repairs compared to replacement cost, it often makes more sense to just buy a new Xbox headset rather than pay for repairs
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Causes an Xbox Series X or S Headset to Stop Working?
 
  This type of problem can be caused by issues with the headset itself, the controller, the adapter if you’re using a wireless headset, and even incorrectly configured privacy settings on your[Xbox Series X or S](https://www.lifewire.com/xbox-series-x-vs-xbox-series-s-5083862) .
@@ -91,12 +104,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-enhance-snaps-with-quick-voice-customization-techniques-on-snapchat-for-2024/"><u>[New] Enhance Snaps with Quick Voice Customization Techniques on Snapchat for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-optimal-metaverse-displays-the-ultimate-8-picks/"><u>[New] Optimal Metaverse Displays The Ultimate 8 Picks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ape-m4a-movavi/"><u>免费在线APE M4A转换专业解决方案 - 利用Movavi视频编码器</u></a></li>
+<li><a href="https://win-blog.techidaily.com/best-free-video-editing-software-top-10-options-for-windows-and-mac-os/"><u>Best Free Video Editing Software: Top 10 Options for Windows & Mac OS</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/conquer-the-blue-death-syndrome-a-players-handbook-for-helldivers-2-recovery/"><u>Conquer the Blue Death Syndrome: A Player’s Handbook for Helldivers 2 Recovery</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-correctly-stabilize-your-microsoft-surface-pros-fluctuating-display/"><u>How to Correctly Stabilize Your Microsoft Surface Pro's Fluctuating Display</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-11-best-pokemon-go-spoofers-for-gps-spoofing-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, 11 Best Pokemon Go Spoofers for GPS Spoofing on Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-microsoft-teams-a-step-by-step-guide-to-using-copilot/"><u>Mastering Microsoft Teams: A Step-by-Step Guide to Using Copilot</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-facebook-marketplace-availability-whats-stopping-you/"><u>Navigating Facebook Marketplace Availability - What's Stopping You?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/steps-to-correct-error-messages-d3dx933dll-is-missing/"><u>Steps to Correct Error Messages: 'd3dx9_33.dll Is Missing'</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-tier-virtual-reality-gear-comprehensive-tests-and-evaluations-by-tech-specialists-zdnet/"><u>Top-Tier Virtual Reality Gear : Comprehensive Tests & Evaluations by Tech Specialists | ZDNet</u></a></li>
+</ul></div>
 

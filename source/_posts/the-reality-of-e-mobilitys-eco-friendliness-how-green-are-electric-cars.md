@@ -1,7 +1,7 @@
 ---
 title: "The Reality of E-Mobility's Eco-Friendliness: How 'Green' Are Electric Cars?"
-date: 2024-09-21T05:20:03.494Z
-updated: 2024-09-27T08:43:20.832Z
+date: 2024-09-25T23:40:20.797Z
+updated: 2024-10-01T23:49:04.756Z
 categories:
   - BestProducts
 description: "This Article Describes The Reality of E-Mobility's Eco-Friendliness: How 'Green' Are Electric Cars?"
@@ -91,13 +91,6 @@ PHOTO: Amazon
 
  The sturdy four-post design ensures that everything will stay in place, with an 881-pound weight capacity, and you can either floor-mount it in your server room or use the included four casters to keep it more mobile, although the 82-inch height means that you likely won’t be able to move it from room to room.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best Wall Mount
 
 [Navepoint 12U](https://www.amazon.com/dp/B00JZVUDLQ/?tag=lifewire-onsite-prod-20&ascsubtag=4140723%7Cn1ac49d1aa339442e887f513668a9fa4c20%7CB00JZVUDLQ)
@@ -151,6 +144,13 @@ PHOTO: Amazon
  Capable of supporting up to 1,200 pounds of equipment, the Startech 25U offers a wide range of mounting depth adjustments from 22 to 40 inches deep. The four-post rack is entirely customizable depending on your needs, while optional accessories such as casters, leveling feet, or cable management hooks are all included in the box.
 
  The open nature of the Startech 25U does mean there's no security at the rack level, so it's best for an already secure area. Ultimately, the Startech 25U offers excellent storage in a not-too-large package, but it's still within industry rack standards, so it'll fit most equipment.
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Best Cabinet Enclosure
 
@@ -235,13 +235,6 @@ PHOTO: Walmart
 
  The open design makes it easy to access cabling and equipment, yet the posts are made of high-quality cold-rolled steel for ultimate durability. The only catch with this one is that it's so tall that you'll want to ensure you have enough clearance above it for air circulation, and depending on your server room layout and what you mount in it, you may need to bolt it down to keep it from tipping over.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best Floor-Standing
 
 [Navepoint 25U](https://www.amazon.com/Navepoint-Professional-2-Post-Server-Network/dp/B00BTRCW3Q/?tag=lifewire-onsite-prod-20&ascsubtag=4140723%7Cn1ac49d1aa339442e887f513668a9fa4c20%7CB00BTRCW3Q)
@@ -268,13 +261,6 @@ PHOTO: Amazon
 
  Fortunately, all the cables that result from 4.5 feet of floor-standing server space are managed well with attachable cable mounts that can easily organize and keep your[network cables](https://www.lifewire.com/introduction-to-network-cables-817868) out of the way while servers are in use. You can use it with castors or bolted to the floor.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What to Look For in Network Server Racks and Enclosures
 
  If you have even a couple of network servers in your office, a good rack can be indispensable in helping keep things organized, and it's important to remember that these aren't just for servers either; network switches and hubs, telecom equipment, and even uninterruptible power supplies can all be neatly organized into a rack or enclosure to keep them under control.
@@ -287,14 +273,14 @@ PHOTO: Amazon
 
 ![Laptop and server panels in dark server room](https://www.lifewire.com/thmb/KHYZadtoYJXXQRAqJJ2eK-vARbA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/laptop-and-server-panels-in-dark-server-room-719877853-593c59005f9b58d58a307499.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Hero Images / Getty Images
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Why Buy a Network Server Rack?**
 
@@ -326,13 +312,20 @@ PHOTO: Amazon
 
 ![Cables connected to an internet server](https://www.lifewire.com/thmb/6x-gscBbM80wErSJGlLp98lz_Ys=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1082815270-5a4cd9fb94c04dfd96fadbb026d84463.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Alextov via Getty Images
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Installation Location**
@@ -350,10 +343,10 @@ PHOTO: Amazon
  It's also possible to buy rack-mountable fans that generally fit into a 1U space to provide additional cooling support, but you'll still need to leave room around these for airflow.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Physical Security**
@@ -378,13 +371,6 @@ PHOTO: Amazon
 
 ![server-rack-units-Maciej-Frolow-Photographers-Choice-RF-Getty-Images.jpg](https://www.lifewire.com/thmb/rc_q9ofTd5pecAGouEFQSLea2-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/server-rack-units-Maciej-Frolow-Photographers-Choice-RF-Getty-Images-56a6f9905f9b58b7d0e5ca48.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  © Maciej Frolow / Photographer's Choice RF / Getty Images
 
 ### **Mounting Parts**
@@ -405,6 +391,13 @@ PHOTO: Amazon
 
  Startech is a well-known “jack-of-all-trades” Canadian company that’s been making a wealth of computer accessories since the mid-eighties, ranging from cables to docking stations, USB hubs, mounts, video adapters, and pretty much every other accessory you could imagine needing for your computer system. Naturally, this includes server management hardware, too. While they don’t offer quite the same wealth of higher-end racks and enclosures, they provide some great, affordable options for smaller businesses that aren’t looking to outfit a large, dedicated server room.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Accessories**
 
  In addition to the mounting gear that you’ll need to get your equipment into your rack, you’ll find that several other rack-mountable components can be used to make for a smoother installation, and depending on your setup, you’ll want to consider at least some of these, too.
@@ -414,6 +407,13 @@ PHOTO: Amazon
  If you’re installing servers into a rack, you’ll also want to add a keyboard and a monitor. While you can use a shelf for this if you have the space, rack-mountable keyboard trays and even flatscreen LCD panels can fold down into a 1U rack space when not in use.
 
 ![A young network administrator looks at a server rack.](https://www.lifewire.com/thmb/79BQVP2qDwj-SidNe_AGPqbL8Oc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-719877855-5a99f44dba61770037a02ede.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you’re looking to install more than a few servers, you’ll also want to consider adding a keyboard-video-mouse (KVM) switch into the mix so you can easily switch between controlling different servers without juggling multiple keyboards and screens.
 
@@ -457,14 +457,20 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-camrecorder-essential-techniques-for-gaming-pros/"><u>[Updated] 2024 Approved CamRecorder Essential Techniques for Gaming Pros</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-achieving-youtube-financial-goals-via-viewer-statistics/"><u>2024 Approved Achieving Youtube Financial Goals via Viewer Statistics</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-beyond-flying-fun-in-depth-dji-phantom-4-examination/"><u>2024 Approved Beyond Flying Fun In-Depth DJI Phantom 4 Examination</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-realme-12-pro-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Realme 12 Pro 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Xiaomi Redmi K70 | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-mobile-gaming-stream-your-ps4-games-on-android-with-just-3-simple-steps/"><u>Mastering Mobile Gaming: Stream Your PS4 Games on Android with Just 3 Simple Steps</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/maximize-speed-and-productivity-expert-strategies-for-a-fully-functional-windows-aturated-with-keywords-clear-language-and-action-oriented-phrases/"><u>Maximize Speed and Productivity: Expert Strategies for a Fully Functional Windows Aturated with Keywords, Clear Language, and Action-Oriented Phrases</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/online-anonymity-matters-explore-why-you-need-a-vpn-and-learn-about-its-working-process/"><u>Online Anonymity Matters: Explore Why You Need a VPN and Learn About Its Working Process</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/pairing-your-sony-bluetooth-headset-made-easy-step-by-step-instructions/"><u>Pairing Your Sony Bluetooth Headset Made Easy - Step-by-Step Instructions</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-charting-the-course-for-unmatched-cloud-storage/"><u>[New] Charting the Course for Unmatched Cloud Storage</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-motionmaster-win8-edition-for-2024/"><u>[New] MotionMaster Win8 Edition for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-extract-youtube-soundtracks-for-free-with-this-list-of-25-rippers/"><u>[Updated] Extract YouTube Soundtracks for Free With This List of 25 Rippers</u></a></li>
+<li><a href="https://os-tips.techidaily.com/create-your-own-custom-iphone-ringtones-with-our-free-m4r-editor/"><u>Create Your Own Custom iPhone Ringtones with Our Free M4R Editor</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/differences-between-signal-and-whatsapp-for-secure-communication/"><u>Differences Between Signal and WhatsApp for Secure Communication</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/free-cross-platform-messaging-solutions-for-apple-users/"><u>Free Cross-Platform Messaging Solutions for Apple Users</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Samsung Galaxy A14 5G? | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/novice-film-capture-scrutiny-report/"><u>Novice Film Capture Scrutiny Report</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ps5-upgrade-step-by-step-guide-to-inserting-your-own-solid-state-drive/"><u>PS5 Upgrade: Step-by-Step Guide to Inserting Your Own Solid State Drive</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quick-tips-to-launch-command-prompt-in-windows-xp-through-11/"><u>Quick Tips to Launch Command Prompt in Windows XP Through 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/savor-these-amazing-chefs-creations-with-our-pick-of-top-netflix-kitchen-series/"><u>Savor These Amazing Chef's Creations with Our Pick of Top Netflix Kitchen Series</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-to-correct-the-missing-shell32dll-file/"><u>Step-by-Step Instructions to Correct the Missing Shell32.dll File</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-homeowners-handbook-to-speaker-maintenance-preserving-quality-audio-in-a-dust-free-environment/"><u>The Homeowner's Handbook to Speaker Maintenance: Preserving Quality Audio in a Dust-Free Environment</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-drone-picks-available-now/"><u>Top Drone Picks Available Now</u></a></li>
 </ul></div>
 

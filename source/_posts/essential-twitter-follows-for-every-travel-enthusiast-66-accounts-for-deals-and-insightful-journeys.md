@@ -1,7 +1,7 @@
 ---
 title: "Essential Twitter Follows for Every Travel Enthusiast: 66 Accounts for Deals & Insightful Journeys"
-date: 2024-09-15T02:33:45.288Z
-updated: 2024-09-20T20:11:14.397Z
+date: 2024-10-01T06:36:09.044Z
+updated: 2024-10-02T09:08:22.152Z
 categories:
   - BestProducts
 description: "This Article Describes Essential Twitter Follows for Every Travel Enthusiast: 66 Accounts for Deals & Insightful Journeys"
@@ -46,31 +46,11 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 * **Pixel 9 Pro XL** \- $1,199
 * **Pixel 9 Pro Fold** \- $1,799
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Pre-Order Information
 
  You can't pre-order the Pixel 9 just yet. We'll drop the link here when pre-ordering starts, which will likely be the same day Google unveils the phones.
 
 [The Best Waterproof Phone Cases of 2024](https://www.lifewire.com/best-waterproof-phone-cases-4158190)
-
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Google Pixel 9 Features
 
@@ -80,6 +60,13 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 * **AI tools** : New software features like text-to-image conversion and smart auto-reply abilities are expected to come with the Pixel 9, although these functions might be reserved for the Pro models. A few of these AI capabilities might process on the device, meaning more privacy and quicker results.
 * **Offline location tracking** : Android 15 will introduce Google's Find My Device network for locating compatible items via Bluetooth. The Pixel 9 might be the first Google phone to be findable even when it's turned off.
 * **Satellite messaging** : The Pixel 9 is expected to be the first phone to support Android's satellite communication implementation. This feature will let you text over a satellite even if you don't have a mobile data connection.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Google Pixel 9 Specs and Hardware
 
@@ -99,24 +86,31 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 
  The Tensor G4 will likely power all four Pixel 9 phones. This is an expected upgrade, given the Pixel 8's Tensor G3 chip.[According to Android Authority](https://www.androidauthority.com/pixel-9-sos-satellite-connectivity-3433498/) , this chip will include the more power-efficient and faster Samsung Modem 5400, which may also introduce support for satellite-based messaging.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Cameras
 
  This year's Pixels are changing up the camera bar. Compared to the Pixel 8's camera housing, it looks a bit more compact and rounded, but also flatter on the sides. It now has a small gap on either end that distinguishes it from last year's phones.
 
 ![A render of the Google Pixel 9, showing the rear camera array](https://www.lifewire.com/thmb/Z-Oo9PCfnUvx4aph9Yv2DHMRXVQ=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Google-Pixel-Render-85e42f165c7c447db2d5f9bc9e3a7ef1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 MySmartPrice
 
  Based on those renders, it looks like the temperature sensor is returning to the lineup, and the enlarged camera sensor could point to a variable aperture lens (i.e., the aperture adjusts based on focal length).
 
  At least for the Pixel 9 Pro XL, we're hearing from MySmartPrice that the triple rear cameras will include a telephoto sensor and a periscope telephoto sensor. The selfie camera hardware will likely change, too, since the Pixel 8's remained the same as the Pixel 7's; an upgrade sounds reasonable after a few years.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Battery
 
@@ -133,10 +127,10 @@ MySmartPrice
  There's no word yet on the phone's storage capacity, but we think it will remain the same. That means 128 GB or 256 GB for the base model and up to 1 TB for the Pro models. The first Pixel Fold caps out at 512 GB but we think the Pixel 9 Pro Fold will add a terabyte option.  
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Latest News About the Google Pixel 9
@@ -160,5 +154,17 @@ MySmartPrice
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-best-hash-tracking-apps-on-major-platforms-like-fb-tweet-and-insta-for-2024/"><u>[New] The Best Hash Tracking Apps on Major Platforms Like FB, Tweet & Insta for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/aerial-imaging-face-off-dji-fpv-vs-gopro-max-x/"><u>Aerial Imaging Face-Off DJi FPV vs GoPro Max X</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-understanding-and-maximizing-your-netflix-experience/"><u>Comprehensive Guide: Understanding and Maximizing Your Netflix Experience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-everything-you-need-to-know-about-the-imminent-google-pixel-tablet-specs-features-and-arrival-date-exposed/"><u>Discover Everything You Need to Know About the Imminent Google Pixel Tablet - Specs, Features & Arrival Date Exposed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-stop-macs-mouse-from-hovering-too-fast-or-slowly/"><u>How To Stop Mac's Mouse From Hovering Too Fast or Slowly</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/identifying-inauthentic-connection-offers-a-guide/"><u>Identifying Inauthentic Connection Offers: A Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-infinix-smart-8-pro-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Infinix Smart 8 Pro Phone Pattern Lock</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-spontaneous-system-shutdown-on-w11/"><u>Overcoming Spontaneous System Shutdown on W11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/top-ranked-pdf-printing-solutions-for-mac-users-in-2020/"><u>Top-Ranked PDF Printing Solutions for Mac Users in 2020</u></a></li>
+</ul></div>
 

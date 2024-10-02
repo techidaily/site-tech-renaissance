@@ -1,7 +1,7 @@
 ---
 title: Top 10 Classic '80S Films You Should Catch on the Big Screen
-date: 2024-09-18T20:10:39.730Z
-updated: 2024-09-20T17:20:31.004Z
+date: 2024-09-28T03:59:06.295Z
+updated: 2024-10-01T21:16:20.688Z
 categories:
   - BestProducts
 description: This Article Describes Top 10 Classic '80S Films You Should Catch on the Big Screen
@@ -65,6 +65,20 @@ Skynesher/Getty
 
 ![](<https://www.lifewire.com/data:image/svg+xml,%3Csvg> width=%275751%27 height=%272313%27 xmlns=%27<http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E>) ![Hands holding a smartphone with a red smartwatch on wrist over a pencil and paper.](https://www.lifewire.com/thmb/nSqWQLOUlnMzLJD1rc7f4f2qO5g=/1500x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/smartwatchandphone_yacobchuk_GettyImages-693332444_CROPPED-616820cc68f645c09d7153ccc1de07ff.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Connections: The Power of Phones and Smartwatches
 
  Phones can be a bone of contention for parents and kids everywhere, but the simple fact of the matter is they are fast becoming a staple for students from middle school and up.
@@ -92,10 +106,29 @@ Skynesher/Getty
 ![](<https://www.lifewire.com/data:image/svg+xml,%3Csvg> width=%275483%27 height=%272329%27 xmlns=%27<http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E>) ![Composite drawing of books apps and devices against a blue background.](https://www.lifewire.com/thmb/afdEJWLn5Hja0WRtjgBJQP3K-8k=/1500x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Compositedrawingofbooksappsanddevices_grapihcnoi_GettyImages-174551865_CROPPED-17467a01a2e44bf98bfc135e8a7cff43.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Using Apps and Sites Can Support Good Study Habits
@@ -103,19 +136,6 @@ Skynesher/Getty
  Be careful and thoughtful if you're considering using ChatGPT for your child. It can certainly be helpful in some ways (think: helping to spark ideas for a snappy essay title), but AI tools like this essentially scrub the internet for information, which isn't always accurate and can frequently be considered plagiarism if used verbatim. Encourage your child to do their internet research instead.
 
 ![Female student walking with a tablet, smartphone, and headphones.](https://www.lifewire.com/thmb/xlh2OPH52kBp--XJzwjVyR_lZN0=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Studentwithtabletphoneheadphones_COROIMAGE_GettyImages-1429193388_VERTICALCROP-5f30ba23f2f64ada861c3283ce518740.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Back to school means more than finding the right books this year. While those are crucial (and often spendy), a frequently overlooked aspect of getting back into the school groove involves finding and using the right apps to support learning, enhance productivity, and improve organization tactics.
 
@@ -169,5 +189,26 @@ Skynesher/Getty
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-from-silence-to-significance-replying-in-discord-chats/"><u>[New] From Silence to Significance Replying in Discord Chats</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-video-sharing-showdown-deciding-between-vimeo-youtube-and-dailymotion/"><u>[New] Video Sharing Showdown Deciding Between Vimeo, YouTube & DailyMotion</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-strategic-first-impressions-the-unpacking-edge/"><u>[Updated] Strategic First Impressions The Unpacking Edge</u></a></li>
+<li><a href="https://win-answers.techidaily.com/achieve-lagless-warzone-20-gaming-in-202amo-your-ultimate-fix-it-checklist/"><u>Achieve Lagless Warzone 2.0 Gaming in 202Amo - Your Ultimate Fix-It Checklist</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/awaken-to-excellence-with-these-top-7-alarm-app-picks/"><u>Awaken to Excellence with These Top 7 Alarm App Picks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-review-32-premium-yet-free-backup-tools-for-data-security/"><u>Comprehensive Review: 32 Premium Yet Free Backup Tools for Data Security</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-easily-open-and-edit-a-pages-file-in-microsoft-office-compatible-format-on-your-computer/"><u>How to Easily Open and Edit a Pages File in Microsoft Office Compatible Format on Your Computer</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-tecno-camon-20-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Tecno Camon 20 to Protect Your Individual Information</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-skip-the-onedrive-icon-on-windows-11-file-explorer/"><u>How To Skip the OneDrive Icon on Windows 11 File Explorer</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-sonywithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Sonywith/without a PC</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-m6-5g-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Poco M6 5G Phone with Broken Screen</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-navigating-youtubes-tagging-system-tips-for-finding-prime-video-labels/"><u>In 2024, Navigating YouTube's Tagging System Tips for Finding Prime Video Labels</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/maximize-your-twitch-presence-with-the-best-5-streaming-platforms-and-plugins/"><u>Maximize Your Twitch Presence with the Best 5 Streaming Platforms and Plugins</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-device-hang-on-windows-11-zerodxgieror/"><u>Overcoming the Device Hang on Windows 11 (ZeroDXGIEror)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-fixes-for-the-critical-mapi32dll-missing-or-cannot-be-found-error-on-windows-systems/"><u>Step-by-Step Fixes for the Critical 'Mapi32.dll Missing or Cannot Be Found' Error on Windows Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshoot-microsoft-edge-issues-quick-fixes-and-solutions/"><u>Troubleshoot Microsoft Edge Issues: Quick Fixes & Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-strategies-for-sharing-high-resolution-photos-on-instagram/"><u>Ultimate Strategies for Sharing High-Resolution Photos on Instagram</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-hidden-advantages-access-to-parking-and-hov-lanes-with-electric-vehicles/"><u>Unlocking Hidden Advantages: Access to Parking & HOV Lanes with Electric Vehicles</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/watching-lord-of-the-rings-a-guide-to-experience-it-as-released/"><u>Watching 'Lord of the Rings': A Guide to Experience It as Released</u></a></li>
+</ul></div>
 

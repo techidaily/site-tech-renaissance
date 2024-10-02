@@ -1,7 +1,7 @@
 ---
 title: Get Ahead of The Curve with PlayStation Portal - Release Timeline, Price Range & Specifications Reviewed
-date: 2024-09-19T20:17:38.836Z
-updated: 2024-09-26T20:09:41.182Z
+date: 2024-09-30T11:07:59.561Z
+updated: 2024-10-02T03:23:23.161Z
 categories:
   - BestProducts
 description: This Article Describes Get Ahead of The Curve with PlayStation Portal - Release Timeline, Price Range & Specifications Reviewed
@@ -31,16 +31,10 @@ thumbnail: https://www.lifewire.com/thmb/7u-yGGkv8opvFKXgYgl5GmH7PQU=/400x300/fi
  The Playstation Portal launched November 15, 2023\. Sony first revealed the handheld device at its showcase in May 2023.
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## PlayStation Portal Price
@@ -48,10 +42,10 @@ thumbnail: https://www.lifewire.com/thmb/7u-yGGkv8opvFKXgYgl5GmH7PQU=/400x300/fi
  The PlayStation Portal costs $199.99.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Where to Buy
@@ -59,16 +53,10 @@ thumbnail: https://www.lifewire.com/thmb/7u-yGGkv8opvFKXgYgl5GmH7PQU=/400x300/fi
  You can[ order PlayStation Portal directly from Sony](https://direct.playstation.com/en-us/buy-accessories/playstation-portal-remote-player) . You can also pick it up from other electronics retailers like Target, Amazon, and Best Buy.
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  PlayStation Portal Specs and Features
@@ -89,10 +77,10 @@ thumbnail: https://www.lifewire.com/thmb/7u-yGGkv8opvFKXgYgl5GmH7PQU=/400x300/fi
 [  Sony Pulse Elite Headset: News, Price, Release Date, and Specs ](https://www.lifewire.com/sony-pulse-elite-headset-8419539) 
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The Latest News About the PlayStation Portal
@@ -122,24 +110,24 @@ thumbnail: https://www.lifewire.com/thmb/7u-yGGkv8opvFKXgYgl5GmH7PQU=/400x300/fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-conquer-the-digital-landscape-10-steps-towards-dominating-smm/"><u>[New] Conquer the Digital Landscape 10 Steps Towards Dominating SMM</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/outube-thumbnail-mastery-size-and-ratio-tactics-for-2024/"><u>[New] Youtube Thumbnail Mastery Size & Ratio Tactics for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-going-vertical-post-production-strategies-with-fcpx-and-insta/"><u>[Updated] 2024 Approved Going Vertical Post-Production Strategies with FCPX and Insta</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-zoom-savvy-key-techniques-for-clear-and-confident-remote-conversations/"><u>[Updated] 2024 Approved Zoom Savvy Key Techniques for Clear and Confident Remote Conversations</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-enhancing-aural-experience-fading-techniques-in-lumafusion/"><u>2024 Approved Enhancing Aural Experience Fading Techniques in Lumafusion</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/beginners-blueprint-for-crafting-your-psn-signup/"><u>Beginner's Blueprint for Crafting Your PSN Signup</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/dciman32dll-missing-heres-how-to-correctly-fix-it/"><u>dciman32.dll Missing? Here’s How to Correctly Fix It</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/deciphering-the-buzz-on-the-tesla-cellphone-predicted-price-tag-launch-date-and-technical-specifications/"><u>Deciphering the Buzz on the Tesla Cellphone - Predicted Price Tag, Launch Date & Technical Specifications</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/enabling-and-disabling-on-screen-keyboards-in-windows-11-easy-tips-and-tricks/"><u>Enabling and Disabling On-Screen Keyboards in Windows 11 - Easy Tips & Tricks</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/from-silence-to-symphony-the-ultimate-beginners-manual-on-home-audio-systems/"><u>From Silence to Symphony: The Ultimate Beginner's Manual on Home Audio Systems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-fix-problems-with-usb-tethering-on-android-devices/"><u>How To Fix Problems With USB Tethering On Android Devices</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-se-2020-to-androidios-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone SE (2020) to Android/iOS? | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-explore-the-best-video-cameras-of-the-future/"><u>In 2024, Explore the Best Video Cameras of the Future</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-navigating-the-world-of-amr-wmas-an-in-depth-guide-to-file-conversion-techniques-2023/"><u>In 2024, Navigating the World of AMR WMAs An In-Depth Guide to File Conversion Techniques 2023</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Itel P55+ | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigating-network-paths-with-ease-expert-insights-into-using-tracert-on-your-pc/"><u>Navigating Network Paths with Ease: Expert Insights Into Using 'Tracert' On Your PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/steps-to-including-your-email-in-protected-distribution-networks/"><u>Steps to Including Your Email in Protected Distribution Networks</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-vivo-s17-pro-by-drfone-android/"><u>Universal Unlock Pattern for Vivo S17 Pro</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-quintessential-free-tools-for-malware-removal-2024-edition/"><u>Unveiling the Quintessential Free Tools for Malware Removal, 2024 Edition</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-social-network-showdown-tiktok-vs-snap-for-2024/"><u>[New] Social Network Showdown TikTok Vs Snap for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-top-tips-lipo-power-sources-for-aerial-vehicles/"><u>[Updated] 2024 Approved Top Tips LiPo Power Sources for Aerial Vehicles</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-advanced-mac-photo-tips-5-efficient-snapshot-techniques/"><u>[Updated] Advanced Mac Photo Tips 5 Efficient Snapshot Techniques</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-unwinding-on-your-device-easy-phone-games-for-2024/"><u>[Updated] Unwinding on Your Device Easy Phone Games for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/boosting-gaming-engagement-with-high-quality-steam-captures-for-2024/"><u>Boosting Gaming Engagement with High Quality Steam Captures for 2024</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/complete-guide-capturing-screenshots-and-recording-your-screen-on-an-msi-laptop/"><u>Complete Guide: Capturing Screenshots and Recording Your Screen on an MSI Laptop</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/control-your-smart-devices-with-ease-using-the-google-home-app-across-multiple-platforms-including-pc/"><u>Control Your Smart Devices with Ease: Using the Google Home App Across Multiple Platforms Including PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-world-of-pokemon-go-with-a-partner-top-tips/"><u>Exploring the World of Pokémon GO with a Partner: Top Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-visible-line-disturbances-on-modern-televisions-expert-tips-and-tricks/"><u>Fixing Visible Line Disturbances on Modern Televisions: Expert Tips and Tricks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fresh-start-in-x-previously-twitter-how-to-change-your-access-code/"><u>Fresh Start in X (Previously Twitter): How to Change Your Access Code</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/handling-the-error-of-non-existent-mfc-42dll-file-on-your-pc/"><u>Handling the Error of Non-Existent MFC 42.dll File on Your PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/harry-potter-movie-marathon-the-ideal-watching-sequence-explained/"><u>Harry Potter Movie Marathon: The Ideal Watching Sequence Explained</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/outubes-creative-commons-shapes-video-production/"><u>How YouTube's Creative Commons Shapes Video Production</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/identifying-common-causes-when-car-speakers-malfunction/"><u>Identifying Common Causes When Car Speakers Malfunction</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-creating-content-from-home-macbook-cam-guide/"><u>In 2024, Creating Content From Home MacBook Cam Guide</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-change-gps-location-on-google-pixel-8-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Google Pixel 8 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-most-effective-wi-fi-repeaters-on-the-market/"><u>The Most Effective Wi-Fi Repeaters on the Market</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-and-fixes-steelseries-gg-engine-issues-on-windows-pcs/"><u>Troubleshooting & Fixes: SteelSeries GG Engine Issues on Windows PCs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-and-resolving-openal32dll-missing-error-in-windows/"><u>Troubleshooting and Resolving openAL32.dll Missing Error in Windows</u></a></li>
 </ul></div>
 

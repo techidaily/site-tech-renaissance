@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Adding Subtitles to Your Instagram Story Highlights"
-date: 2024-09-23T16:55:43.468Z
-updated: 2024-09-26T18:23:36.331Z
+date: 2024-09-30T16:10:35.205Z
+updated: 2024-10-01T21:48:33.000Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Guide: Adding Subtitles to Your Instagram Story Highlights"
@@ -40,29 +40,31 @@ thumbnail: https://thmb.techidaily.com/c96841199ff180b06a551ff8b5da580eafb5a9f00
 3. Select**Info** .  
 ![A texter's icon and the info button on an iPhone](https://www.lifewire.com/thmb/P75NPpBTK_0vlrHu03pBRw_tAAg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Icon-and-Info-844223a1fe094d1dbed1b2c012e11592.jpg)
 4. Tap**Block Caller** .
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. In the confirmation pop up, tap**Block Contact** .  
 ![A caller info screen with the Block Caller and Block Contact options highlighted](https://www.lifewire.com/thmb/ahanpniveoIJjKlwY-anZVzDqOg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Block-Caller-options-iPhone-3736febbadac40f7bbc9288793690309.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To unblock a contact and get their texts again, go to**Settings** \>**Messages** \>**Blocked Contacts** \> swipe right to left across contact >**Unblock** .
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Stop Unwanted Text Messages on iPhone By Filtering Unknown Senders
@@ -78,21 +80,14 @@ thumbnail: https://thmb.techidaily.com/c96841199ff180b06a551ff8b5da580eafb5a9f00
 4. To see your filtered text messages, tap the arrow in the top left-corner until you get to the main Messages screen.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Tap**Unknown Senders** to view all texts from numbers not in your contacts.  
 ![The back button and "Unknown Senders" folder in Messages on an iPhone](https://www.lifewire.com/thmb/lyjFQaH6CejDFydiYQ4jJ9dyv2Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Messages-filters-a02cdd8bbb4d48f7b705d997f0567522.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Stop Unwanted Group Texts on an iPhone
 
@@ -146,24 +141,14 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-transform-online-sales-with-these-premier-15-facebook-monitoring-tools/"><u>[New] In 2024, Transform Online Sales with These Premier 15 Facebook Monitoring Tools</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solved-god-of-war-fps-drops-on-pc/"><u>[SOLVED] God of War FPS Drops on PC</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-launching-your-sports-network-from-a-mac-desktop/"><u>[Updated] Launching Your Sports Network From a Mac Desktop</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-honor-70-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Honor 70 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-samsung-galaxy-a05-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Samsung Galaxy A05 | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/best-free-html-designer-applications-for-windows-top-picks-revealed/"><u>Best Free HTML Designer Applications for Windows - Top Picks Revealed</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-analysis-of-western-digitals-data-lifeguard-a-diagnostics-software-review/"><u>Comprehensive Analysis of Western Digital's Data Lifeguard: A Diagnostics Software Review</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722875584214-get-ahead-of-the-curve-with-insider-details-on-googles-next-streaming-marvel-budget-availability-and-tech-breakdown/"><u>Get Ahead of the Curve with Insider Details on Google's Next Streaming Marvel - Budget, Availability & Tech Breakdown</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-change-another-users-password-in-windows/"><u>How to Change Another User's Password in Windows</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-on-iphone-xr-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account On iPhone XR?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-future-insight-alternate-pathways/"><u>In 2024, Future Insight Alternate Pathways</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-samsung-galaxy-m14-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Samsung Galaxy M14 5G? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/marvel-gamers-rejoice-fix-these-crashes-in-guardians-of-the-galaxy-for-pc/"><u>Marvel Gamers Rejoice! - Fix These Crashes in Guardians of the Galaxy for PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722855443137-nintendo-switch-and-tv-connection-a-complete-walkthrough/"><u>Nintendo Switch and TV Connection - A Complete Walkthrough</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/oneplus-10-rumors-unveiled-anticipate-the-new-specs-launch-dates-and-pricing-insights/"><u>OnePlus 10 Rumors Unveiled: Anticipate the New Specs, Launch Dates, and Pricing Insights</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-resetting-your-facebook-account-password/"><u>Step-by-Step Guide: Resetting Your Facebook Account Password</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-explanation-of-a-blue-screen-of-death-in-windows-systems/"><u>The Ultimate Explanation of a Blue Screen of Death in Windows Systems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/transform-your-office-efficiency-with-expert-strategies-for-using-slack/"><u>Transform Your Office Efficiency with Expert Strategies for Using Slack</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshoot-and-fix-the-not-available-itbm-driver-error-easily/"><u>Troubleshoot and Fix the Not Available ITBM Driver Error Easily</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-cutting-edge-channels-to-watch-in-a-post-tiktok-world/"><u>[Updated] Cutting Edge Channels to Watch in a Post-TikTok World</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-the-like-factor-techniques-for-traffic-driving-facebook-content-for-2024/"><u>[Updated] The Like Factor Techniques for Traffic-Driving Facebook Content for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-perfecting-projects-through-music-addition-in-premiere-pro/"><u>2024 Approved Perfecting Projects Through Music Addition in Premiere Pro</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/copilot-removal-for-windows-11-users-expert-techniques-and-steps/"><u>Copilot Removal for Windows 11 Users: Expert Techniques and Steps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enhance-iphone-camera-focus-proven-fixes-for-blurry-images/"><u>Enhance iPhone Camera Focus: Proven Fixes for Blurry Images</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/facebook-password-recovery-without-the-typical-contact-details-a-step-by-step-guide/"><u>Facebook Password Recovery Without the Typical Contact Details – A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/simplify-tech-transitions-smartphone-vr-integration-guide/"><u>Simplify Tech Transitions Smartphone-VR Integration Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-saving-netflix-films-to-your-personal-computer/"><u>Step-by-Step Tutorial: Saving Netflix Films to Your Personal Computer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/wireless-wifi-solutions-your-guide-to-a-cable-and-phone-free-internet-experience/"><u>Wireless WiFi Solutions - Your Guide to a Cable and Phone-Free Internet Experience</u></a></li>
 </ul></div>
 

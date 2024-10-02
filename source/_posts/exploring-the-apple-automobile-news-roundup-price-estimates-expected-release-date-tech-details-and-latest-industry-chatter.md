@@ -1,7 +1,7 @@
 ---
 title: Exploring the Apple Automobile - News Roundup, Price Estimates, Expected Release Date, Tech Details and Latest Industry Chatter
-date: 2024-09-20T03:25:51.979Z
-updated: 2024-09-26T21:36:25.737Z
+date: 2024-09-30T02:14:58.465Z
+updated: 2024-10-01T17:27:18.075Z
 categories:
   - BestProducts
 description: This Article Describes Exploring the Apple Automobile - News Roundup, Price Estimates, Expected Release Date, Tech Details and Latest Industry Chatter
@@ -46,9 +46,23 @@ thumbnail: https://thmb.techidaily.com/74113c2d83645a48c9d2ad195371cc6a07bee43db
 * In 2023,[ Ming-Chi Kuo surmised](https://twitter.com/mingchikuo/status/1707091228528201754) that "the development of the Apple Car seems to have lost all visibility" and doubts that the car will enter mass production even within the next few years.
 * In 2024, Bloomberg reported on Apple's plans to[ delay the car's launch until at least 2028](https://www.bloomberg.com/tosv2.html?vid=&uuid=5fcc037a-db73-11ee-bb95-8a0d88c2ae76&url=L25ld3MvYXJ0aWNsZXMvMjAyNC0wMS0yMy9hcHBsZS1jYXItZXYtc2V0LXRvLWRlYnV0LWluLTIwMjgtd2l0aC1saW1pdGVkLWF1dG9ub21vdXMtZHJpdmluZw==) .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Lifewire's Release Date Estimate
 
  If Apple wants to make their car idea happen, we could see a revival by 2028 or 2029\. But it'll only happen if they can strike a deal with Rivian or another car company.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Apple Car Price Rumors
 
@@ -98,13 +112,6 @@ Vanarama
 
  With the Apple car dead in its tracks, we're left wondering where Apple might put this powerful chip if not in a car. Mark Gurman says the development of the chip was almost finished before the car project ended, so instead of scrapping this (likely very expensive) feat of engineering, we could see Apple incorporate it in future products like the next Vision Pro or Mac Studio.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Interior
 
  If the Apple car were to have no steering wheel, it must mean you wouldn't need to watch the road, so how would you spend your time in such a vehicle?
@@ -113,19 +120,6 @@ Vanarama
 
 ![Canoo Lifestyle Vehicle rear lounge seating](https://www.lifewire.com/thmb/MbfMZiAe5CjoTAbib9NM6GF0llQ=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/key-4-e8b0605712f24e2e9ea9f995de1812e1.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Canoo Lifestyle Vehicle rear lounge seating. 
 
 Canoo
@@ -133,6 +127,13 @@ Canoo
  In that car's iteration of this setup, it's just the backseat passengers riding in this kind of luxury. It's known that[ EVs are roomier than other vehicles](https://www.lifewire.com/why-evs-are-roomier-5202177) , and an even more comfortable picture is painted when you consider the "driver" here doesn't need to be driving or monitoring the road full time, so the front seats could just as easily spin so you can stretch your legs and face everyone at once, no rearview mirror required.[ Apple was granted a patent in 2022](https://www.patentlyapple.com/patently-apple/2022/01/apple-won-two-project-titan-patents-today-covering-a-futuristic-multi-linkage-vehicle-door-hinge-vehicle-seat-with-reclinin.html) for a vehicle seat with a reclining mechanism.  
 
 ![Apple Car concept](https://www.lifewire.com/thmb/yuMXwEwEQAzyjbSQ8ylet0M1fIY=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/apple-car-interior-concept-seats-9e3296e29e3a4d3698d7efa0bb2ddb0c.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Seating concept for Apple Car. 
 
@@ -148,6 +149,13 @@ Vanarama
 
 ![Tesla Model S interior](https://www.lifewire.com/thmb/NPVBJ4YfqwxOgEUAKGACGcEjaGI=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/tesla-model-s-interior-b6b6f02203a341b99b65090f8fe733a0.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Tesla Model S interior. 
 
 Tesla
@@ -155,10 +163,10 @@ Tesla
  There was even talk that the Apple car would include a detachable infotainment device so the driver can still access climate control, music, etc. when they swivel the chair around.[ Incorporating a headset](https://www.patentlyapple.com/2024/02/8-hmd-patents-were-published-this-week-including-one-for-using-vision-pro-when-driving-a-vehicle-that-supports-in-air-gesture.html) like the[ Vision Pro](https://www.lifewire.com/apple-vr-headset-news-and-rumors-6744818) into the driving experience would have been interesting as well.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Range
@@ -194,19 +202,6 @@ Vanarama
 
  With passengers potentially facing each other while in motion, collision risks sound even more dangerous than they do in a traditional vehicle where everyone faces the same direction. Apple had a solution to that problem—a[ patent uncovered by Patently Apple](https://www.patentlyapple.com/2020/05/apple-wins-a-project-titan-patent-illustrating-next-gen-seat-belt-systems-that-includes-roof-and-lapbelt-airbags.html) in 2020 describes ample airbags and rail-mounted seats that can move in response to a collision to create distance between the occupants. Another[ patent for reinforced windows](https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=11,446,986.PN.&OS=PN/11,446,986&RS=PN/11,446,986) was reported in 2022.
 
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Charging
 
  A[ charging station patent spotted by Patently Apple](https://www.patentlyapple.com/2022/05/apple-has-won-a-patent-for-a-future-automated-electric-vehicle-charging-station.html) confirms that Apple was interested in adding some sort of automated charging mechanism to the vehicle for it to attach to a charging station without any manual input by the passengers. For illustrations and other details,[ check out patent 11,325,491 at USPTO](http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=11,325,491) .
@@ -238,17 +233,10 @@ Vanarama
 ![vehicle's external display that says waiting for you to cross](https://www.lifewire.com/thmb/O65adpyjUraRfkZdBski5i1WVoU=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/waiting-for-you-to-cross-external-display-776df2ff6f8246b4a252208f7380009b.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The Latest News About the Apple Car
@@ -282,22 +270,18 @@ Vanarama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-cutting-edge-techniques-for-saving-insta-videos/"><u>[New] 2024 Approved Cutting-Edge Techniques for Saving Insta Videos</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-perfecting-post-production-on-tiktok-via-zoom/"><u>[Updated] 2024 Approved Perfecting Post-Production on TikTok via Zoom</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-journey-through-puzzles-the-top-10-websites-buying-mystery-boxes/"><u>[Updated] Journey Through Puzzles The Top 10 Websites Buying Mystery Boxes</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-navigating-the-world-of-instant-twitreaction-content/"><u>[Updated] Navigating the World of Instant TwitReaction Content</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723012070358-eliminate-stutter-in-elden-ring-fast-fixes-you-can-do-today/"><u>Eliminate Stutter in Elden Ring - Fast Fixes You Can Do Today!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/free-trial-and-student-discounts-for-microsoft-word-everything-you-need-to-know/"><u>Free Trial & Student Discounts for Microsoft Word – Everything You Need to Know</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mp4-files-on-samsung-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How do you play MP4 files on Samsung ?</u></a></li>
-<li><a href="https://change-location.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Vivo Y27 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/protecting-your-mobile-number-a-comprehensive-android-tutorial/"><u>Protecting Your Mobile Number - A Comprehensive Android Tutorial</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/reattaching-a-missing-keys-a-guide-to-restoring-your-laptop-keyboard/"><u>Reattaching a Missing Keys: A Guide to Restoring Your Laptop Keyboard</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/tecno-pova-6-pro-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Tecno Pova 6 Pro 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-foremost-workout-logging-tools-for-athletes-and-gym-buffs-in-the-landmark-year-of-2024/"><u>The Foremost Workout Logging Tools for Athletes and Gym Buffs in the Landmark Year of 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-tutorial-on-keeping-your-mechanical-keyboard-spotless-and-functional/"><u>The Ultimate Tutorial on Keeping Your Mechanical Keyboard Spotless and Functional</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-5-best-free-antivirus-utilities-for-malware-protection/"><u>Top 5 Best Free Antivirus Utilities for Malware Protection</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-for-fixing-mfplatdll-missing-errors-effectively/"><u>Troubleshooting Steps for Fixing Mfplat.dll Missing Errors Effectively</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/uncover-hidden-data-steps-to-restore-removed-phone-numbers-in-android-devices/"><u>Uncover Hidden Data: Steps to Restore Removed Phone Numbers in Android Devices</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-fix-when-your-wi-fi-wont-show-up/"><u>Unveiling the Fix: When Your Wi-Fi Won't Show Up</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-indulge-in-9-holiday-blockbusters-free-online-christmas-viewing/"><u>[New] 2024 Approved Indulge in 9 Holiday Blockbusters Free Online Christmas Viewing</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-the-ultimate-method-for-making-tiktok-audio-your-ringtone-for-2024/"><u>[New] The Ultimate Method for Making TikTok Audio Your Ringtone for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-live-streaming-guide-facebook-via-androidios-devices/"><u>2024 Approved Live Streaming Guide Facebook via Android/iOS Devices</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-professional-audio-setup-unveiling-our-picks-for-6-excellent-mics/"><u>2024 Approved Professional Audio Setup Unveiling Our Picks for 6 Excellent Mics</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-walkthrough-registering-for-access-to-the-playstation-community/"><u>Complete Walkthrough: Registering for Access to the PlayStation Community</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722895033601-discover-these-4-amazing-free-online-planners-that-will-organize-your-life/"><u>Discover These 4 Amazing Free Online Planners That Will Organize Your Life!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-fix-a-computer-that-turns-on-but-displays-nothing/"><u>How to Fix a Computer That Turns on but Displays Nothing</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-apple-iphone-6-plus-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock Apple iPhone 6 Plus to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ipad-users-guide-effective-methods-to-prevent-access-to-youtube/"><u>IPad Users Guide: Effective Methods to Prevent Access to YouTube</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/samsung-unveils-revolutionary-phones-a-glimpse-into-tomorrows-tech/"><u>Samsung Unveils Revolutionary Phones: A Glimpse Into Tomorrow's Tech</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solutions-to-address-avcodecdll-file-not-found-or-lost-mishaps/"><u>Step-by-Step Solutions to Address Avcodec.dll File Not Found or Lost Mishaps</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-3-simple-ways-to-free-up-space-by-deleting-unnecessary-ios-apps/"><u>Top 3 Simple Ways to Free Up Space by Deleting Unnecessary iOS Apps</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Complete Epic of Dragons and Riders - Ordering the How to Train Your Dragon Movie Series
-date: 2024-09-25T01:43:41.038Z
-updated: 2024-09-27T05:41:23.736Z
+date: 2024-09-28T07:54:56.554Z
+updated: 2024-10-01T19:41:01.904Z
 categories:
   - BestProducts
 description: This Article Describes Complete Epic of Dragons and Riders - Ordering the How to Train Your Dragon Movie Series
@@ -38,38 +38,48 @@ lolostock / Getty Images
 ![The Windows "Power User" Menu](https://www.lifewire.com/thmb/kgpd2560_TwRJkuY7a59tVapXF0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-scan-from-printer-computer-2-fddf79dcabde4333869b9e58bb271f87.jpg)
 3. Select**Settings** .
 
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Select**Devices** from the main Settings screen.  
 ![The Windows 10 Settings App Home Screen with Devices highlighted](https://www.lifewire.com/thmb/eDONGxJf7R2qCHBGD978GGxclL4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Devices-d1d66147ad624e268dbeba04e5b237ca.jpg)
 5. Next, click**Printers & Scanners** .  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Windows 10 Settings App Devices Screen with Printers & Scanners highlighted](https://www.lifewire.com/thmb/x9HL3nDN07axKHJsiygffYWVwYo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/printersandscanners-0b40e3c4f97a4e998c6fb41cd89cd739.jpg)
 6. Click on your desired printer, then click**Manage** .  
 ![The Windows 10 Settings App Printers & scanners Screen with Manage highlighted](https://www.lifewire.com/thmb/Bufectav3Z2SYkpSnHtUajfbvLI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Manage-93049873ca554c60adb81714a71c063f.jpg)
 7. If the printer is a multi-function device, it will include a drop-down menu. Select the entry starting with**Scanner** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Windows 10 Settings App Printer Configuration Screen with Scanner function highlighted](https://www.lifewire.com/thmb/Y-QajltiFDvfDF-v2ir44sI--SI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Scanner-84125b5402814c6987469662d6d379c3.jpg)
 8. Click**Open scanner** , which will also open the**Scan** Windows app.  
+
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Windows 10 Settings App Scanner Configuration Screen with Open Scanner highlighted](https://www.lifewire.com/thmb/JsnzRlGh3OYThkvTZjjRhC3XJtc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/OpenScanner-3eaf187241ed41408030d883203845f3.jpg)
 9. Arrange your document's page(s) either on the flatbed or in the feeder, making sure they're aligned correctly.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 10. Click the**Scan** button in the app.  
 ![The Windows 10 Scan App with the Scan button highlighted](https://www.lifewire.com/thmb/WLr6RpHDDLddotjF9KKk8SDNUEo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ClickScan-c4149a12b3204f6aaba63680ccbfd6b7.jpg)  
  The Scan app's**Source** setting dictates if it will scan from the device's document feeder (if there is one), or from the flatbed. Unless you know you need to change it, it's a good idea to leave this set on**Auto** . Document feeders typically have a lever to detect if there are pages inside, and leaving this set to**Auto** will scan from the feeder if there’s something loaded, and the flatbed otherwise. Note that when scanning with the flatbed, you'll need to scan one page at a time.  
@@ -84,25 +94,19 @@ lolostock / Getty Images
 13. Select your printer, then click**Scan** .  
 ![The macOS System Preferences Printers & Scanners Screen with Scan button highlighted](https://www.lifewire.com/thmb/ktR2WSWzlEpbc2NybPodItSivPc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ClickScan-c2dda167a6f64532b0d662ba60fbfe31.jpg)
 14. Click**Open Scanner** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The macOS System Preferences Scan Dialog with Open Scanner highlighted](https://www.lifewire.com/thmb/4DMwvMWBnIx8IPv3Hgkl-uBcm_s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/OpenScanner-14267d0b3c344e82bb76d483242ca332.jpg)
 15. In the Scanner program, you can select the folder to which your scans will be saved by making a select in the**Scan to** drop-down menu (shown as**Pictures** in the below image).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The macOS Scanner Application with the Picture folder highlighted](https://www.lifewire.com/thmb/4Q2yOFaCL5sBUADyZYmgtNYn9o8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Pictures-be3197066428416cb2444bb85fdf59dd.jpg)
 16. To the right, the**Size** drop-down menu (shown as**US Letter** in the above screenshot) will also let you choose the size of the item.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 17. If your scanner has a document feeder and you want to use it, select**Use Document Feeder** .
 18. Clicking on**Show Details** will display a number of additional options, as follows:**Scan Mode** (Flatbed or Document Feeder),**Kind** (Text, Black & White, or Color),**Resolution** (quality of the image in DPI),**Rotation Angle** (to change the rotation of the saved image),**Auto Selection** (which can try to detect multiple items on the flatbed and save them separately, for example),**Name** ,**Format** , and**Image Correction** (which provides options to adjust coloring).  
@@ -110,10 +114,10 @@ lolostock / Getty Images
 19. Click**Scan** to start your scanning job.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  FAQ
@@ -154,14 +158,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-key-techniques-to-optimize-igtv-video-dimensions/"><u>[New] Key Techniques to Optimize IGTV Video Dimensions</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-integrating-twitter-promotions-into-your-digital-strategy/"><u>[Updated] In 2024, Integrating Twitter Promotions Into Your Digital Strategy</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dont-just-compare-learn-how-siri-stands-out-from-chatgpt/"><u>Don't Just Compare! Learn How Siri Stands Out From ChatGPT</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/master-the-art-of-connecting-your-printer-to-a-computer-running-windows-10/"><u>Master the Art of Connecting Your Printer to a Computer Running Windows 10</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/master-the-art-of-taking-screenshots-on-your-acer-laptop/"><u>Master the Art of Taking Screenshots on Your Acer Laptop</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/master-the-connection-wireless-xbox-one-controllers-setup-for-pc/"><u>Master the Connection: Wireless Xbox One Controllers Setup for PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-gameplay-clarity-fixing-second-monitor-hiccups-for-flawless-gaming-in-windows-11-systems/"><u>Mastering Gameplay Clarity: Fixing Second Monitor Hiccups for Flawless Gaming in Windows 11 Systems</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/prevent-ai-content-harvesting-efforts/"><u>Prevent AI Content Harvesting Efforts</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/tailor-topical-laughs/"><u>Tailor Topical Laughs</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-find-the-best-options-to-apply-vhs-photo-effects-on-computeronline-for-2024/"><u>[New] Find The Best Options to Apply VHS Photo Effects on Computer/Online for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/outube-revenue-per-million-viewer-count/"><u>[New] Youtube Revenue Per Million Viewer Count</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-comprehensive-reference-for-efficient-screenshotting-with-zd-softwares-tools/"><u>2024 Approved Comprehensive Reference for Efficient Screenshotting with ZD Software's Tools</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/beat-code-28-errors-on-your-pc-expert-strategies-and-solutions-unveiled/"><u>Beat Code 28 Errors on Your PC: Expert Strategies and Solutions Unveiled</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-realme-12-pro-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Realme 12 Pro 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/best-methods-to-install-the-av1-codec-on-your-pc-a-guide-for-windows-10-and-11-users/"><u>Best Methods to Install the AV1 Codec on Your PC: A Guide for Windows 10 & 11 Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-practices-for-finding-your-ideal-smartphone-selfie-accessory/"><u>Best Practices for Finding Your Ideal Smartphone Selfie Accessory</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/can-you-submerge-an-iphone-15-pro-max-without-damage/"><u>Can You Submerge an iPhone 15 Pro Max Without Damage?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/d-link-security-access-points-revealed-for-july-2024-models/"><u>D-Link Security Access Points Revealed for July 2024 Models</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-11-free-tools-for-seamless-software-updates-and-patch-management/"><u>Discover 11 Free Tools for Seamless Software Updates and Patch Management</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-fixes-for-when-your-samsung-device-cant-connect-to-wi-fi/"><u>Easy Fixes for When Your Samsung Device Can’t Connect to Wi-Fi</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-tips-and-tricks-for-saving-screenshots-on-your-hp-desktop-computer/"><u>Easy Tips & Tricks for Saving Screenshots on Your HP Desktop Computer</u></a></li>
+<li><a href="https://win11.techidaily.com/from-old-extensions-to-new-ones-the-windows-way/"><u>From Old Extensions to New Ones: The Windows Way</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-faster-memory-contributes-to-improved-computing-experience-a-deep-dive/"><u>How Faster Memory Contributes to Improved Computing Experience: A Deep Dive</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/parking-and-hov-lanes-the-secret-perks-of-ev-ownership/"><u>Parking and HOV Lanes: The Secret Perks of EV Ownership</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/selecting-perfect-dimensions-video-aspect-ratios-for-2024/"><u>Selecting Perfect Dimensions Video Aspect Ratios for 2024</u></a></li>
 </ul></div>
 

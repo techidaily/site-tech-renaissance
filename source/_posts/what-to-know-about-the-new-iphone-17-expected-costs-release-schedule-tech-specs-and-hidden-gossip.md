@@ -1,7 +1,7 @@
 ---
 title: "What to Know About the New iPhone 17: Expected Costs, Release Schedule, Tech Specs & Hidden Gossip"
-date: 2024-09-21T08:59:35.764Z
-updated: 2024-09-26T20:29:23.073Z
+date: 2024-09-27T10:39:38.453Z
+updated: 2024-10-01T22:20:14.606Z
 categories:
   - BestProducts
 description: "This Article Describes What to Know About the New iPhone 17: Expected Costs, Release Schedule, Tech Specs & Hidden Gossip"
@@ -33,13 +33,6 @@ In This Article
 * **Price** : $2,000
 * **Specs** : Clamshell form factor, small outer screen
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## When Will the Foldable iPhone Be Released?
 
  Jeff Pu, an analyst at Haitong International Securities,[says Apple's first flip phone could come out](https://www.forbes.com/sites/ewanspence/2024/05/09/apple-folding-iphone-ipad-macbook-release-date/?sh=3862dfed1e98) in 2026\. This is backed up by a[2024 report from The Information](https://www.theinformation.com/articles/apple-moves-forward-with-foldable-iphone) and the Taiwanese newspaper_United Daily News_ which,[according to Patently Apple](https://www.patentlyapple.com/2024/02/a-new-supply-chain-report-claims-that-apples-foldable-iphone-project-is-still-in-the-works-with-vision-pro-team-members-now.html) , reports that part of the[Vision Pro](https://www.lifewire.com/apple-vr-headset-news-and-rumors-6744818) team is working on the foldable iPhone project with the intention of a 2026-2027 launch.
@@ -54,13 +47,6 @@ In This Article
 
 ![Foldable device illustration from patent US8929085B2](https://www.lifewire.com/thmb/wUd3t6RsFQmJnem6udFt2aVqAOw=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/US08929085-foldable-device-dcde96bb968a4de2b7048ee2ea3d4e33.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Patent US8929085B2.
 
  Another[patent filed in 2019](https://patents.google.com/patent/US20190324503A1/en?oq=20190324503) is for a device with a wrap-around display:
@@ -72,13 +58,6 @@ Patent US8929085B2.
 ### Lifewire's Release Date Estimate
 
 We don’t expect a foldable iPhone until at least 2026.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Foldable iPhone Price Rumors
 
@@ -92,20 +71,27 @@ We don’t expect a foldable iPhone until at least 2026.
 
 ![iPhone Fold concept](https://www.lifewire.com/thmb/rZm7q7oXYP54-AV8Jq5MPj1vPos=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Final_1-d0db91df8e834c7ab0aa2da0ab61b943.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 iPhone Fold concept.
 
 Michal Dufka
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Pre-Order Information
 
  It's way too early to suggest a pre-order date, but we'll keep this updated as the launch nears.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Foldable iPhone Features
 
@@ -118,6 +104,13 @@ Michal Dufka
  Given a larger phone could resemble a tablet, it makes sense that it would support the[Apple Pencil](https://www.lifewire.com/review-apple-pencil-3887601) . The latest version currently works only on a small selection of iPads, but expect a new version for the foldable iPhone (unless it's more of a flip phone than a tablet).
 
  When it comes down to it, a foldable phone is beneficial purely for its bigger screen. Since this would be Apple’s first attempt at this kind of phone, it’d probably be the only significant change to the iPhone that year. Meaning: no stunning new camera, massive storage capacity boost, etc. (though maybe a big battery boost).
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Foldable iPhone Specs and Hardware
 
@@ -142,6 +135,13 @@ Michal Dufka
  All brand-new phones, including the latest iPads and iPhones, support[5G](https://www.lifewire.com/5g-wireless-4155905) for faster data transfers on mobile connections. Expect the same for the foldable iPhone.
 
  Bolstering the battery, processing power, and RAM will be a must to sustain multiple displays that could all independently multitask. Storage space might not change from the current iPhone lineup.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Latest News About the Foldable iPhone
 
@@ -168,19 +168,21 @@ Michal Dufka
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-elevate-your-igtv-presence-with-edited-titles-and-descriptions/"><u>[New] Elevate Your IGTV Presence with Edited Titles and Descriptions</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-sharecast-extracting-fb-media/"><u>[New] In 2024, ShareCast Extracting Fb Media</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-the-verdict-on-splitcam-premium-recording-experience/"><u>[New] The Verdict on SplitCam - Premium Recording Experience?</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/achieve-your-fitness-goals-with-ease-using-the-innovative-samsung-galaxy-fit2-wearable-device/"><u>Achieve Your Fitness Goals with Ease Using the Innovative Samsung Galaxy Fit2 Wearable Device</u></a></li>
-<li><a href="https://network-issues.techidaily.com/brightening-blacked-out-win10-post-release/"><u>Brightening Blacked-Out Win10 Post Release</u></a></li>
-<li><a href="https://discover-help.techidaily.com/1725289919474-dvd/"><u>DVD書き込みで発生する音ズれ対策と修正手順</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/get-ready-for-game-day-essential-tips-for-a-perfect-tvhome-theater-setup-during-super-bowl-festivities/"><u>Get Ready for Game Day: Essential Tips for a Perfect TV/Home Theater Setup During Super Bowl Festivities</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-enjoy-apple-tv-services-using-your-amazon-firestick-a-detailed-tutorial/"><u>How to Enjoy Apple TV Services Using Your Amazon Firestick - A Detailed Tutorial</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-advanced-editing-perfecting-transitions-in-kinemaster/"><u>In 2024, Advanced Editing Perfecting Transitions in Kinemaster</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/maximize-battery-life-and-speed-a-user-friendly-guide-to-clearing-your-androids-cache/"><u>Maximize Battery Life and Speed: A User-Friendly Guide to Clearing Your Android's Cache</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/netgear-nighthawk-x10-ad7200-in-depth-review-for-unmatched-internet-speed-and-connectivity/"><u>Netgear Nighthawk X10 AD7200: In-Depth Review for Unmatched Internet Speed and Connectivity</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/syncing-your-mobile-number-to-all-your-electronics-for-seamless-connectivity/"><u>Syncing Your Mobile Number to All Your Electronics for Seamless Connectivity</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshoot-blue-screen-essential-fixes-for-win10/"><u>Troubleshoot Blue Screen: Essential Fixes for Win10</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unmatched-quality-tested-the-fugetek-ft-568-selfie-stick-review/"><u>Unmatched Quality Tested: The Fugetek FT-568 Selfie Stick Review</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-formulate-funny-imagery-with-adobe/"><u>[New] In 2024, Formulate Funny Imagery with Adobe</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-practical-approach-switching-video-orientation-in-vlc/"><u>[New] Practical Approach Switching Video Orientation in VLC</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-full-screen-feature-on-facebook-what-you-need-to-know/"><u>[Updated] Full-Screen Feature on Facebook What You Need to Know</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-a-gamers-guide-easy-and-effective-ways-to-record-your-minecraft-games-macos/"><u>2024 Approved A Gamer's Guide Easy & Effective Ways to Record Your Minecraft Games (MacOS)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-pixels-to-blockchain-gold-choosing-the-right-nft-engines/"><u>2024 Approved From Pixels to Blockchain Gold Choosing the Right NFT Engines</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-peakquality-resizer-cross-platform-edition/"><u>2024 Approved PeakQuality Resizer – Cross-Platform Edition</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/decode-the-mystery-your-ultimate-tutorial-for-handling-phase0exception-errors/"><u>Decode the Mystery: Your Ultimate Tutorial for Handling PHASE0_EXCEPTION Errors</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-latest-canon-mf8200c-drivers-compatible-with-windows-7-81-and-10/"><u>Download the Latest Canon MF8200C Drivers: Compatible with Windows 7, 8.1 & 10</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-economic-alternatives-for-petcube-technology/"><u>Evaluating Economic Alternatives for Petcube Technology</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/join-and-mix-spotify-plays-like-a-pro-your-step-by-step-guide/"><u>Join and Mix Spotify Plays Like a Pro – Your Step-by-Step Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/lenovo-unveils-the-future-of-portable-computing-the-revolutionary-l-series-lineup/"><u>Lenovo Unveils the Future of Portable Computing: The Revolutionary L-Series Lineup</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-customizing-folder-colors-in-macos/"><u>Step-by-Step Guide: Customizing Folder Colors in macOS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-definitive-ipad-operating-system-upgrade-handbook-what-you-need-to-know/"><u>The Definitive iPad Operating System Upgrade Handbook – What You Need to Know</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-for-fixing-a-504-timeout-mishap-on-your-site/"><u>Troubleshooting Tips for Fixing a 504 Timeout Mishap on Your Site</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-ultimate-selection-of-gratis-tunes-apps-for-your-smartphone-and-tablet/"><u>Unveiling The Ultimate Selection of Gratis Tunes Apps for Your Smartphone and Tablet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/wireless-success-mastering-the-setup-of-your-logitech-peripheral/"><u>Wireless Success: Mastering the Setup of Your Logitech Peripheral</u></a></li>
 </ul></div>
 

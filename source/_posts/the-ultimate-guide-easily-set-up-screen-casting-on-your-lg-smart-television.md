@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide: Easily Set Up Screen Casting on Your LG Smart Television"
-date: 2024-09-23T00:01:04.413Z
-updated: 2024-09-27T01:49:32.345Z
+date: 2024-09-28T19:42:32.789Z
+updated: 2024-10-01T20:36:30.228Z
 categories:
   - BestProducts
 description: "This Article Describes The Ultimate Guide: Easily Set Up Screen Casting on Your LG Smart Television"
@@ -41,26 +41,12 @@ thumbnail: https://thmb.techidaily.com/f46e328f69e7058f8174d54a80cf567c4a8edb28d
 
  On Macs, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Reply to Email
 
  By using the**R** and**A** keys, you can quickly reply to[email messages](https://www.lifewire.com/electronic-mail-overview-1164107) or send to multiple recipients:
 
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Scroll Through Emails
 
@@ -71,10 +57,10 @@ thumbnail: https://thmb.techidaily.com/f46e328f69e7058f8174d54a80cf567c4a8edb28d
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Select Multiple Emails
@@ -82,6 +68,13 @@ thumbnail: https://thmb.techidaily.com/f46e328f69e7058f8174d54a80cf567c4a8edb28d
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Add Formatting to Email Text
 
@@ -105,10 +98,10 @@ thumbnail: https://thmb.techidaily.com/f46e328f69e7058f8174d54a80cf567c4a8edb28d
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Email Maintenance Shortcuts
@@ -141,6 +134,13 @@ thumbnail: https://thmb.techidaily.com/f46e328f69e7058f8174d54a80cf567c4a8edb28d
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Was this page helpful?
 
 Thanks for letting us know!
@@ -170,18 +170,24 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/2024-approved-exploring-depth-and-shadow-in-ai-text-art/"><u>2024 Approved Exploring Depth and Shadow in AI Text Art</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-to-follow-steps-for-downloading-and-installing-canons-mx340-drivers-on-windows-11-8-or-7-devices/"><u>Easy-to-Follow Steps for Downloading & Installing Canon's MX340 Drivers on Windows 11, 8, or 7 Devices</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-sending-your-friend-the-perfect-steam-wallet-present/"><u>Guide: Sending Your Friend the Perfect Steam Wallet Present</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-y02t-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Vivo Y02T Location by Number | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-excel-2000-files-from-virus-infected-pen-drives-for-free-stellar-by-stellar-guide/"><u>Recover Excel 2000 Files from Virus-Infected Pen Drives for Free | Stellar</u></a></li>
-<li><a href="https://some-skills.techidaily.com/reviewing-microsoft-hololens-the-3d-interactive-future-for-2024/"><u>Reviewing Microsoft HoloLens The 3D Interactive Future for 2024</u></a></li>
-<li><a href="https://techidaily.com/some-mp4-wont-play-on-my-galaxy-s23-fe-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Some MP4 won't play on my Galaxy S23 FE</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-to-implementing-effective-reminders-in-your-slack-channels/"><u>Step-by-Step Guide to Implementing Effective Reminders in Your Slack Channels</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/stereo-vs-home-theater-a-guide-to-audio-system-variations/"><u>Stereo Vs. Home Theater: A Guide to Audio System Variations</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-metas-artificial-intelligence-the-future-of-technology/"><u>Understanding Meta's Artificial Intelligence: The Future of Technology</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-tecno-spark-20-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Tecno Spark 20 Device</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unstoppable-energy-on-wheels-reviewing-the-power-of-the-peak-18000mah-jumper-by-m-mock/"><u>Unstoppable Energy on Wheels: Reviewing the Power of the Peak 18,000mAh Jumper by M MOCK</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/video-hub-significance-crafting-memorable-names-for-2024/"><u>Video Hub Significance Crafting Memorable Names for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2023s-social-media-shopping-top-tiktok-and-amazon-picks-for-2024/"><u>[New] 2023’S Social Media Shopping Top TikTok and Amazon Picks for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-masterclass-navigating-through-the-best-cricket-livestreams/"><u>[Updated] 2024 Approved Masterclass Navigating Through the Best Cricket Livestreams</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-cutting-edge-editing-solutions-just-for-vimeo/"><u>[Updated] Cutting-Edge Editing Solutions Just for Vimeo</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-leading-tech-premium-choices-of-mac-videograbbers/"><u>[Updated] In 2024, Leading Tech Premium Choices of Mac Videograbbers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-tailored-gaming-experience-without-cross-play-in-apex/"><u>[Updated] In 2024, Tailored Gaming Experience without Cross-Play in Apex</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-oppo-reno-10-5g-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-seamless-ppt-showcase-across-tablets-and-laptops-for-gmeet/"><u>2024 Approved Seamless PPT Showcase Across Tablets & Laptops for GMeet</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-14-pro-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone 14 Pro with a Broken Screen?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/from-passive-to-active-earnings-with-instagram-expertise-for-2024/"><u>From Passive to Active Earnings with Instagram Expertise for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-ipads-have-evolved-reformatting-drives-made-possible-yet-struggling-with-key-computing-functions/"><u>How iPads Have Evolved: Reformatting Drives Made Possible Yet Struggling with Key Computing Functions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/introducing-the-newest-addition-to-your-android-arsenal-the-google-weather-app/"><u>Introducing the Newest Addition to Your Android Arsenal - The Google Weather App!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/iphone-component-supply-chains-expand-as-apple-relaxes-control-over-spare-part-procurement/"><u>IPhone Component Supply Chains Expand as Apple Relaxes Control Over Spare Part Procurement</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/new-iphone-reveal-rumors-surrounding-iphone-16-series-uncovered/"><u>New iPhone Reveal - Rumors Surrounding iPhone 16 Series Uncovered!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/pixel-vs-samsung-galaxy-s24-ultra-the-definitive-guide-to-choosing-your-top-android-flagship/"><u>Pixel 지각 Vs. Samsung Galaxy S24 Ultra - The Definitive Guide to Choosing Your Top Android Flagship</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/practically-always-on-power-saving-mastering-smartphone-efficiency/"><u>Practically Always on Power Saving: Mastering Smartphone Efficiency</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionize-your-mobile-experience-unleash-the-power-of-live-wallpapers-that-serve-as-interactive-dashboards/"><u>Revolutionize Your Mobile Experience: Unleash the Power of Live Wallpapers That Serve as Interactive Dashboards!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/run-windows-apps-seamlessly-on-your-iphone-with-new-compatibility-technology/"><u>Run Windows Apps Seamlessly on Your iPhone with New Compatibility Technology</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/section-4b-five-factsis/"><u>Section 4B: Five Fact.sis</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-ultimate-guide-to-propel-engagement-in-fb-discussions/"><u>The Ultimate Guide to Propel Engagement in FB Discussions</u></a></li>
 </ul></div>
 

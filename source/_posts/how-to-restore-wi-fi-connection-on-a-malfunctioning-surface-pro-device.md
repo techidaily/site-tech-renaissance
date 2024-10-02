@@ -1,7 +1,7 @@
 ---
 title: How To Restore Wi-Fi Connection On A Malfunctioning Surface Pro Device
-date: 2024-09-15T18:35:46.721Z
-updated: 2024-09-20T19:02:26.355Z
+date: 2024-09-25T07:09:50.131Z
+updated: 2024-10-02T05:02:20.536Z
 categories:
   - BestProducts
 description: This Article Describes How To Restore Wi-Fi Connection On A Malfunctioning Surface Pro Device
@@ -28,6 +28,13 @@ thumbnail: https://www.lifewire.com/thmb/bNBDYoBX-RsnR8bDJaJ89YVTYl0=/540x405/fi
 * Malfunctioning VPN
 * Wi-Fi adapter driver or hardware failure
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fixes for Surface Pro Not Connecting to Wi-Fi
 
  The long list of potential problems can make Wi-Fi issues intimidating. Fortunately, the fix is often simple. Follow these solutions in the order you see them here, which are ranked from least to most complex:
@@ -36,6 +43,14 @@ thumbnail: https://www.lifewire.com/thmb/bNBDYoBX-RsnR8bDJaJ89YVTYl0=/540x405/fi
  To check, select the**Wi-Fi icon** next to the clock. If the tile is not highlighted, then Wi-Fi is off. Select it once to switch it on.  
 ![Windows Wi-Fi manager open with wireless networks visible.](https://www.lifewire.com/thmb/OGtupdHh609ektjxSxXByPO0yp0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A1-FixSurfaceProNotConnectingtoWi-Fi-annotated-b9aea0142cbe4240a164d03b898f401b.jpg)
 2. [Turn off Airplane Mode](https://www.lifewire.com/windows-10-and-android-airplane-modes-4148142) . This is a useful feature, but only in very specific situations. When it's on, this mode turns_off_ Wi-Fi.  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Sometimes you can toggle Airplane Mode on and off to fix Wi-Fi problems. For example, if it's already off, go ahead and switch it on for five seconds. Then, turn it back off and see if Wi-Fi works.
 3. [Make sure you've connected to the correct network](https://www.lifewire.com/connecting-to-a-wireless-home-network-3506902) . If it's your neighbor's Wi-Fi you accidentally got onto, it might be too far away to work reliably. Or maybe the other network is having its own issues. The fix here is to disconnect from it and choose_your_ Wi-Fi network.  
 [Can't See Your Wi-Fi Network? Here's What to Do](https://www.lifewire.com/fix-wifi-network-not-showing-up-4628122)  
@@ -53,6 +68,14 @@ thumbnail: https://www.lifewire.com/thmb/bNBDYoBX-RsnR8bDJaJ89YVTYl0=/540x405/fi
 [Disable the adapter](https://www.lifewire.com/how-do-i-disable-a-device-in-device-manager-in-windows-2619212) , wait a few seconds, and then[enable it again](https://www.lifewire.com/how-do-i-enable-a-device-in-device-manager-in-windows-2619215) . Finally,[restart your Surface Pro](https://www.lifewire.com/restart-surface-pro-5112628) .  
 ![A screenshot of Windows Device Manager open with a Wi-Fi adapter selected](https://www.lifewire.com/thmb/oJzAm3YseVTxhCuIR_aYn3ZgLy4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how_to_fix_surface_wifi_1-0ca9b10f52a840159d218d1f87895137.jpg)  
 Matthew S. Smith / Lifewire  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If none of the above Wi-Fi adapters are listed, it likely means your Surface Pro's Wi-Fi adapter has a hardware issue.[Microsoft suggests you contact customer support](https://support.microsoft.com/contactus) for further troubleshooting and repair.
 10. [Run Windows Update](https://www.lifewire.com/how-to-check-for-install-windows-updates-2624596) . Microsoft updates occasionally include fixes for issues like this one. This will correct your Surface Pro's Wi-Fi problem if it's due to a bug that an update addresses.  
  Windows Update only works if you have an internet connection, so you'll need to connect your Surface Pro to the internet over[a wired Ethernet connection](https://www.lifewire.com/what-is-ethernet-3426740) . For this, you'll need a USB to Ethernet adapter. Unless you already have one, we recommend you skip this step.
@@ -97,18 +120,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-a-visual-journey-uncovering-the-best-icons-and-logos-online/"><u>[New] 2024 Approved A Visual Journey Uncovering the Best Icons & Logos Online</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-rgb-to-srgb-transition-what-it-means-for-visual-media/"><u>[New] Rgb to Srgb Transition What It Means for Visual Media</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-transforming-photo-genders-on-instagram-snapchat-and-facebook-for-2024/"><u>[New] Transforming Photo Genders on Instagram, Snapchat & Facebook for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-tailoring-snaps-the-science-behind-compelling-advertising/"><u>[Updated] 2024 Approved Tailoring Snaps The Science Behind Compelling Advertising</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-the-ultimate-conquest-celebrating-the-most-stellar-7-total-wars/"><u>[Updated] 2024 Approved The Ultimate Conquest Celebrating the Most Stellar 7 Total Wars</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-prime-racing-game-selection-top-five-for-2024/"><u>[Updated] Prime Racing Game Selection Top Five for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-discovering-pathways-to-access-apples-audio-treasury/"><u>2024 Approved Discovering Pathways to Access Apple's Audio Treasury</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/chromecast-theming-basics-how-to-update-and-enhance-your-screen-image/"><u>Chromecast Theming Basics: How To Update and Enhance Your Screen Image</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/fb-video-highlights-our-top-5-favorites/"><u>FB Video Highlights Our Top 5 Favorites</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722858464054-get-your-hands-on-youtube-premium-with-student-savings-plans/"><u>Get Your Hands-On YouTube Premium with Student Savings Plans</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guidelines-for-hosting-multiple-video-streaming-portals-can-you-have-2plus-youtube-channels/"><u>Guidelines for Hosting Multiple Video Streaming Portals: Can You Have 2+ YouTube Channels?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-the-techniques-to-eliminate-ie-frame-dll-errors-on-windows-systems/"><u>Master the Techniques to Eliminate IE Frame DLL Errors on Windows Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-participating-in-xtwitter-chats-for-newbies/"><u>Mastering The Art Of Participating In X/Twitter Chats For Newbies</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-disabling-your-secure-pin-on-windows-11/"><u>Step-by-Step Guide: Disabling Your Secure Pin on Windows 11</u></a></li>
+</ul></div>
 

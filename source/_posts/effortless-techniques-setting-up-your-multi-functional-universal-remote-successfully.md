@@ -1,7 +1,7 @@
 ---
 title: "Effortless Techniques: Setting Up Your Multi-Functional Universal Remote Successfully"
-date: 2024-09-23T02:39:39.824Z
-updated: 2024-09-26T21:30:26.070Z
+date: 2024-09-25T01:51:59.939Z
+updated: 2024-10-01T18:32:36.908Z
 categories:
   - BestProducts
 description: "This Article Describes Effortless Techniques: Setting Up Your Multi-Functional Universal Remote Successfully"
@@ -22,6 +22,13 @@ thumbnail: https://thmb.techidaily.com/805432a26a63c24a3ad7f94c306f1a1291a2364be
 * For an iPhone, some LG Smart TVs support Apple AirPlay 2\. Tap the**AirPlay** button on your phone to find your TV.
 
  Watching videos on a smartphone or tablet is convenient. However, if you have an LG Smart TV, you can enjoy those videos on a larger screen instead of a small smartphone display.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Use LG Screen Share With Android
 
@@ -44,21 +51,14 @@ thumbnail: https://thmb.techidaily.com/805432a26a63c24a3ad7f94c306f1a1291a2364be
 2. On your phone, open the**Settings** app and select the screen mirroring feature.  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Android phone choose screen mirroring to LG Smart TV](https://www.lifewire.com/thmb/NyKRXMCTWL8cpXHkvLIPnvK91l4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HTC-ONE-settings-choose-select-lg-tv-520c045367fe43e7a9e3a1bf247cac72.jpg)  
  In the remaining steps, the phone (HTC Android) is on the left and the LG TV screen is on the right.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Select your TV to initiate the connection. It might take a few moments for the phone to detect the TV. Both devices will display their connection status.  
 ![Example of Android phone establishing screen mirroring connection with LG Smart TV](https://www.lifewire.com/thmb/mpy75cW_zM7zcsj8V9wWwfQWP1c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/android-home-screen-mirroring-connect-lg-tv-altbbb-9f7601ec0edf4860981c734e2794e301.jpg)
@@ -67,13 +67,6 @@ thumbnail: https://thmb.techidaily.com/805432a26a63c24a3ad7f94c306f1a1291a2364be
 5. Here's how mirrored content from a smartphone looks on an LG Smart TV with Screen Share.  
 ![Mirroring Smartphone to LG TV with Miracast](https://www.lifewire.com/thmb/ruHP7IIx9N-BcA725jjrtPQJAjI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/android-lg-tv-screen-mirroringexample-xxbb-841baa900fec41bdab2998235167f774.jpg)
 6. To end a screen mirroring session, tap**Disconnect** in your phone's screen mirroring settings (if provided), turn the device off, change to a different function on the TV, or turn the TV off. If you're playing content from a specific app, it will cease playing if you use another function on your smartphone.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Screen Mirroring With iPhones and iPads
 
@@ -96,13 +89,6 @@ thumbnail: https://thmb.techidaily.com/805432a26a63c24a3ad7f94c306f1a1291a2364be
 ![Window Settings on PC – Devices Highlighted](https://www.lifewire.com/thmb/9PeiuIQccHykMbh2DA1BCdgmvlo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-settings-yellow-aaa-8de67d373ba54a53b4d8d0491d32a618.jpg)
 3. If you're on Windows 10, select**Bluetooth & other devices** \>**Add Bluetooth or other device** .  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![PC/LG TV Mirroring – Add Bluetooth or Other Devices](https://www.lifewire.com/thmb/IcQXrZnu6gn6U_DrnWZhhdf0FAI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/add-bluetooth-or-other-devices-cu-dark-yellow-577fc6c576c843c181f8b73cc3c99fa5.jpg)
 4. Choose**Add device** (Windows 11) or**Add a device** (Windows 10), then select**Wireless display or dock** .  
 ![PC/LG TV Mirroring – Choose a Device](https://www.lifewire.com/thmb/1c4dzWS071ZzmcGBd7RHxKYEUJ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/select-device-type-dark-wc-e-8d2b6aa322af4219ac846991525ea656.jpg)
@@ -110,19 +96,34 @@ thumbnail: https://thmb.techidaily.com/805432a26a63c24a3ad7f94c306f1a1291a2364be
 ![PC Connecting to LG TV Screen Mirroring](https://www.lifewire.com/thmb/9lwYMBlwtr4T0jtgl0uLgQ6I9bk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/lg-tv-connectiing-640-dark-yellow-d-ba969575c6254a22b5009b2ee77d5d99.jpg)
 6. Once your connection is confirmed, make sure the projection mode is set to**Duplicate** so that you will get an exact mirror of your PC screen on the TV.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![PC/LG TV Mirroring – Device Connection Confirmed](https://www.lifewire.com/thmb/DdqNIFKjpoJwGTVMlMB7NnRy4-w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/device-ready-to-go-2-dark-yellow-3e33344164384c48b1325945f03f0406.jpg)
 7. Once the PC steps are complete, everything visible on your PC screen is mirrored on the LG Smart TV.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![PC Screen Mirroring to LG TV with Miracast](https://www.lifewire.com/thmb/olpSOMHbRQoMziI_46ZqaneUjX0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/pc-on-lg-tv-flowers-1500-xxx-30f2b584940b421da1c8a21fb4079ed3.jpg)
 8. To end a screen mirroring session, select the**Disconnect** prompt in the small black rectangular box on the top of the PC screen, change to a different function on the TV, or turn the TV off.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Attach your TV and computer with an HDMI cable](https://www.lifewire.com/connect-windows-pc-to-a-tv-3506883) for a wired solution to seeing your computer screen on your TV.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Cast Smartphone Content to an LG Smart TV
 
@@ -147,13 +148,6 @@ thumbnail: https://thmb.techidaily.com/805432a26a63c24a3ad7f94c306f1a1291a2364be
 ![Cast YouTube to LG Smart TV](https://www.lifewire.com/thmb/jWT5sXqTMWE8Bg-V39yWX-CCogc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cast-you-tube-to-lg-smart-tv-1-2-yellow-efd95f194cdb4908a3321b98e97bb2de.jpg)  
  If you see the cast icon but your TV isn't listed as an available device, then the content can't be cast to the LG TV without an external Chromecast device.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The Content Share Option
 
  While Screen Share is the most direct way to mirror a smartphone or PC screen on your smart TV, LG provides additional options via the TV's Device Connector settings.
@@ -164,14 +158,14 @@ thumbnail: https://thmb.techidaily.com/805432a26a63c24a3ad7f94c306f1a1291a2364be
 
 ![LG TV Device Connector Menu – Smartphone and PC Highlighted](https://www.lifewire.com/thmb/UcrKTZRJKkxZfNIqdbkvv8ublUY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/lg-tv-device-connector-alt-a-31cba54fe9934fd6b86358d1f57037b6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The Screen Share app can also be accessed by the LG TV's Device Connector in addition to direct access from the home menu. However, since its function was discussed earlier, the following focuses on the**Content Share** option, which can only be accessed within the Device Connector.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Device Connector Smartphone Connection Prompt
 
@@ -179,16 +173,16 @@ thumbnail: https://thmb.techidaily.com/805432a26a63c24a3ad7f94c306f1a1291a2364be
 
 ![LG TV Device Connector – Content Share with Smartphone](https://www.lifewire.com/thmb/jStMxmPgQcaxHCK4lVDAwKD2_vc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/smartphone-lg-content-share-device-connector-www-66da205e88264eeeb540a751245e2b6c.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When the steps are completed, you'll see a photo, music, and video file sharing menu on your LG TV screen. This allows you to play compatible files in those categories from your smartphone on your LG TV.
 
 ![LG Smart TV Content Share – HTC Media Share](https://www.lifewire.com/thmb/mhpEm7CV8AqoRFqO4BMEncu8b_c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/lg-tv-htc-media-share-bb-1800-fb271df2b1f74df09d9c3c081fba7d66.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Device Connector PC Connection Prompt
 
@@ -201,6 +195,13 @@ thumbnail: https://thmb.techidaily.com/805432a26a63c24a3ad7f94c306f1a1291a2364be
  After selecting Content Share for PCs and going through prompted connection steps on your PC and TV, you'll see a photo, music, and video file sharing menu on your TV. When you select a category, you'll be able to display compatible files stored on your PC.
 
 ![PC Content Sharing on LG Smart TV](https://www.lifewire.com/thmb/5gXH5Ah7bMt6xVWsXrl9tlz67r8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/PC-content-sharing-LG-TV-blur-alt-e9f52cdd15c945b2900e8896ec73e1bb.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Streaming Devices](https://www.lifewire.com/best-devices-to-buy-for-streaming-tv-4061016)
 
@@ -244,16 +245,24 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-how-to-add-music-to-facebook-videos-find-the-guide-here/"><u>[Updated] How to Add Music to Facebook Videos? Find The Guide Here</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-premier-funny-picture-tinker-for-2024/"><u>[Updated] Premier Funny Picture Tinker for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-elevating-gameplay-tips-for-using-the-steam-switch-controller/"><u>2024 Approved Elevating Gameplay Tips for Using the Steam Switch Controller</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1725290154151-dvdwindows-11/"><u>究極のDVD動画ソフトでWindows 11のパワーアップ - こちらのリンクから即座に無料版を入手</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/effortless-downloads-at-zero-cost-find-the-top-20-tools-for-youtube-sound-ripping-for-2024/"><u>Effortless Downloads at Zero Cost Find the Top 20 Tools for YouTube Sound Ripping for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-opinion-the-third-generation-apple-tv-4k-performance-and-features-breakdown/"><u>Expert Opinion: The Third Generation Apple TV 4K - Performance & Features Breakdown</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/find-your-perfect-ipad-at-record-breaking-prices-today/"><u>Find Your Perfect iPad at Record-Breaking Prices Today</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-are-e-motorcycles-powered-unveiling-their-inner-workings/"><u>How Are E-Motorcycles Powered? Unveiling Their Inner Workings</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-capture-music-from-facebook-streams/"><u>In 2024, Capture Music From Facebook Streams</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/mastering-macs-green-screen-fix-for-youtube-videos-for-2024/"><u>Mastering Mac's Green Screen Fix for YouTube Videos for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-for-snapping-images-on-your-xbox-one-console/"><u>Step-by-Step Instructions for Snapping Images on Your Xbox One Console</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-avoiding-instagrams-pitfalls-crafting-perfect-puzzle-posts/"><u>[New] 2024 Approved Avoiding Instagram's Pitfalls Crafting Perfect Puzzle Posts</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-instagram-illuminations-mastering-three-highlight-techniques/"><u>[New] In 2024, Instagram Illuminations Mastering Three Highlight Techniques</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-explore-the-world-of-tiny-screens-top-6-online-tools-for-free-and-complimentary-youtube-short-downloads/"><u>[Updated] Explore the World of Tiny Screens Top 6 Online Tools for Free & Complimentary YouTube Short Downloads</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-making-a-mark-creating-standout-slideshows-for-facebook-networks/"><u>[Updated] Making a Mark Creating Standout Slideshows for Facebook Networks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/all-about-the-next-gen-playstation-portal-availability-dates-cost-estimates-and-hardware-details/"><u>All About the Next-Gen PlayStation Portal: Availability Dates, Cost Estimates & Hardware Details</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comparing-hulu-and-hulu-plus-unveiling-key-distinctions/"><u>Comparing Hulu and Hulu + - Unveiling Key Distinctions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722121628255-eager-for-a-chatgpt-like-experience-on-your-pc-discover-this-top-rated-open-source-option/"><u>Eager For a ChatGPT-Like Experience on Your PC? Discover This Top-Rated Open Source Option</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/google-unveils-future-plans-comprehensive-coverage-of-next-event-and-speculation/"><u>Google Unveils Future Plans: Comprehensive Coverage of Next Event & Speculation</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-update-your-windows-device-with-new-ch340g-usb-chip-drivers/"><u>How to Update Your Windows ^Device with New CH340G USB Chip Drivers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/nikon-d500-unveiled-the-frontier-of-high-definition-photography-for-2024/"><u>Nikon D500 Unveiled The Frontier of High-Definition Photography for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/persistent-troubles-get-your-monster-hunter-rise-game-running-again/"><u>Persistent Troubles? Get Your Monster Hunter Rise Game Running Again</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-the-netflix-ui-800-3-issue-a-step-by-step-guide/"><u>Resolving the Netflix UI-800-3 Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solution-steps-resetting-and-repairing-issues-with-firestick-controllers/"><u>Solution Steps: Resetting and Repairing Issues with Firestick Controllers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-role-of-dac-in-audio-systems-do-you-need-to-upgrade-your-setup/"><u>The Role of DAC in Audio Systems: Do You Need to Upgrade Your Setup?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-5-must-watch-documentaries-featuring-max-in-july-2024/"><u>Top 5 Must-Watch Documentaries Featuring Max in July 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-picks-the-best-iphone-email-clients-of-2024/"><u>Top Picks: The Best iPhone Email Clients of 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unraveling-the-secrets-behind-the-successful-netflix-video-streaming-service/"><u>Unraveling the Secrets Behind the Successful Netflix Video Streaming Service</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/webp-em-png-por-alavancar-gratuita-simples-e-direta-na-web/"><u>Webp Em PNG Por Alavancar: Gratuita, Simples E Direta Na Web!</u></a></li>
+<li><a href="https://win-docs.techidaily.com/wimp-downloader-effortless-video-retrieval-from-wimp-platforms-for-pc-and-mac-users/"><u>Wimp Downloader: Effortless Video Retrieval From Wimp Platforms for PC & MAC Users</u></a></li>
 </ul></div>
 

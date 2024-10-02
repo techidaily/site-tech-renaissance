@@ -1,7 +1,7 @@
 ---
 title: The Complete How-To for Snapping Game Images on Sony's PS4 Console
-date: 2024-09-22T07:26:16.860Z
-updated: 2024-09-27T02:19:03.729Z
+date: 2024-09-24T16:48:50.816Z
+updated: 2024-10-02T08:46:20.446Z
 categories:
   - BestProducts
 description: This Article Describes The Complete How-To for Snapping Game Images on Sony's PS4 Console
@@ -25,6 +25,13 @@ Close
 
  This article covers how to take a screenshot on your PS4, where to find those screenshots, and how to share your screenshots on X.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Save a Screenshot to the PS4
 
  This will save a screenshot to your PS4\. You can view it on the PlayStation 4 or transfer it to a USB storage device.
@@ -42,28 +49,21 @@ Close
 ![PlayStation 4 Capture Gallery with option menu open, Copy to USB Storage Device selected.](https://www.lifewire.com/thmb/jnGosDMQbmlWzAn2GW7mBXX0kzM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A5-ScreenshotonPS4-annotated-3f232473d63d47259900bfeb8a70d3c6.jpg)
 6. The list of screenshots will now include checkboxes, with the screenshot you previously selected already checked. Select**Ok** .
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. A prompt will appear to tell you the folder directory where the screenshot will be saved. Select**Ok** and relax while the screenshot transfers.  
  Once transferred, screenshots can be found on the USB storage device in the folder directory**PS4/SHARE/Screenshots** .
 
 [ Can You Play PS4 Games on the PS5? ](https://www.lifewire.com/backwards-compatibility-ps5-5084149) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Where to Find Older Screenshots
 
  If you’re looking for an older screenshot, navigate to the folder corresponding to the game in which you took the screenshot, as you'll no longer have to wade through screenshots from every game.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Share a Screenshot Directly to X
 
@@ -74,26 +74,27 @@ Close
 1. Quickly tap the**Share** button on the PlayStation 4 controller. Don’t hold it down. This will open the PlayStation 4’s**Share** menu on the left-hand side of your display.
 2. Select**Screenshot** , which is the second option from the top.  
 ![PlayStation 4 Share menu open with Screenshot selected.](https://www.lifewire.com/thmb/TwHEbDMuEmpG0COI1qbF9T0oico=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B2-ScreenshotonPS4-annotated-d09b135eb74344a6963f7bd0b677ab67.jpg)  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Special note
  You can also select**Save Screenshot** from the Share menu to save it to the Capture Gallery.
 3. You’ll now face a choice of the social media platform on which you’d like to share the screenshot. The only compatible social media platform for screenshots is**X** , so select that.  
 ![PlayStation 4 Share Screenshot menu open with Twitter selected.](https://www.lifewire.com/thmb/_A-3Ahr76efuT6-8kIYRCZ3GJmI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B3-ScreenshotonPS4-annotated-ddfe04138c1f4a37b7683c8fa5cb0426.jpg)
 4. You'll now be able to[ fill in the details of your Tweet](https://www.lifewire.com/tutorial-intro-to-using-twitter-2654622) . Once you’re finished, select**Share** . You’ll soon see the Tweet, with screenshot attached, appear on X.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![PlayStation 4 Share Screenshot open to share a Tweet on Twitter.](https://www.lifewire.com/thmb/cl-z4j1rz5GYdGnxi_dQHCKBX1U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B4-ScreenshotonPS4-annotated-5e4432cd0ed84941bfa961be4e9e88bf.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [ How to Record Gameplay on PS4 ](https://www.lifewire.com/record-gameplay-on-ps4-5074215) 
@@ -127,20 +128,18 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-mastering-the-art-of-locating-concealed-youtube-media/"><u>[Updated] Mastering the Art of Locating Concealed YouTube Media</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-reviewing-bandicams-effectiveness-in-professional-video-editing/"><u>[Updated] Reviewing Bandicam's Effectiveness in Professional Video Editing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/achieving-holistic-health-setting-clear-targets-with-chatgpt/"><u>Achieving Holistic Health: Setting Clear Targets with ChatGPT</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-best-video-joiners-with-no-watermark-limitations/"><u>New 2024 Approved The Best Video Joiners with No Watermark Limitations</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-combine-wmv-videos-without-cost-top-free-tools/"><u>New In 2024, Combine WMV Videos Without Cost Top Free Tools</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/quick-guide-how-to-seamlessly-link-laptop-and-bluetooth-speaker/"><u>Quick Guide: How to Seamlessly Link Laptop and Bluetooth Speaker</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/quickly-customize-your-browser-settings-for-a-google-homepage-setup/"><u>Quickly Customize Your Browser Settings for a Google Homepage Setup</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolved-optimizing-your-computers-performance-when-it-keeps-lagging-or-hanging/"><u>Resolved: Optimizing Your Computer's Performance When It Keeps Lagging or Hanging</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/revolutionize-your-video-content-high-quality-made-simple/"><u>Revolutionize Your Video Content High-Quality Made Simple</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/seamless-direct3d-extraction-quick-effective-methods/"><u>Seamless Direct3D Extraction - Quick, Effective Methods!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/share-and-enjoy-a-step-by-step-tutorial-for-gamers-using-steam/"><u>Share & Enjoy: A Step-by-Step Tutorial for Gamers Using Steam</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/simple-steps-capturing-screenshots-quickly-on-your-windows-8-pc/"><u>Simple Steps: Capturing Screenshots Quickly on Your Windows 8 PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/simple-steps-switch-your-pcs-network-from-public-to-private-on-windows-11/"><u>Simple Steps: Switch Your PC's Network From Public to Private on Windows 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/top-strategies-fixing-rocket-league-game-crashes-in-2nd4/"><u>Top Strategies: Fixing Rocket League Game Crashes in 2nD4</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unleash-maximum-power-in-your-gameplay-with-the-ideal-gaming-cpus/"><u>Unleash Maximum Power in Your Gameplay with the Ideal Gaming CPUs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-football-inscriptions-premier-fifa-youtube-insights/"><u>[New] 2024 Approved Football Inscriptions Premier FIFA YouTube Insights</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-smooth-transitions-and-precision-capture-analyzing-top-obs-recorders-for-2024/"><u>[New] Smooth Transitions & Precision Capture Analyzing Top OBS Recorders for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diagnose-and-fix-your-pcs-blue-screen-of-death-with-these-proven-methods/"><u>Diagnose & Fix Your PC's Blue Screen of Death with These Proven Methods</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expertly-selected-quintet-of-iphone-global-positioning-systems/"><u>Expertly Selected Quintet of iPhone Global Positioning Systems</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-12-mini-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 12 mini without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-on-apple-iphone-6-plus-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons On Apple iPhone 6 Plus? Find the Best Solution Here</u></a></li>
+<li><a href="https://techtrends.techidaily.com/installing-a-faster-storage-option-how-to-add-an-ssd-to-your-playstation-5/"><u>Installing a Faster Storage Option: How to Add an SSD to Your PlayStation 5</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-education-through-technology-a-guide-to-9-indispensable-items-every-student-should-own/"><u>Mastering Education Through Technology: A Guide to 9 Indispensable Items Every Student Should Own</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/microsoft-shifts-strategy-to-charge-for-windows-10-updates-from-next-year-learn-the-cost-details-zdnet/"><u>Microsoft Shifts Strategy to Charge for Windows 지엠티 10 Updates From Next Year; Learn the Cost Details | ZDNET</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-standard-operations-in-managed-organizational-browsers-chromeedge/"><u>Restoring Standard Operations in Managed Organizational Browsers (Chrome/Edge)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-activating-browser-cookie-settings/"><u>Step-by-Step Guide: Activating Browser Cookie Settings</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-for-connecting-your-firestick-controller/"><u>Step-by-Step Instructions for Connecting Your Firestick Controller</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshoot-and-resolve-msstdfmtdll-cannot-be-found/"><u>Troubleshoot and Resolve 'Msstdfmt.dll Cannot Be Found'</u></a></li>
 </ul></div>
 

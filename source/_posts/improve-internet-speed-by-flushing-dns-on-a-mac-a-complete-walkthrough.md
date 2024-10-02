@@ -1,7 +1,7 @@
 ---
 title: Improve Internet Speed by Flushing DNS on a Mac - A Complete Walkthrough
-date: 2024-09-13T21:35:35.333Z
-updated: 2024-09-21T02:45:02.977Z
+date: 2024-09-30T19:06:12.607Z
+updated: 2024-10-02T03:46:44.870Z
 categories:
   - BestProducts
 description: This Article Describes Improve Internet Speed by Flushing DNS on a Mac - A Complete Walkthrough
@@ -23,6 +23,13 @@ thumbnail: https://www.lifewire.com/thmb/zSQcjmrvSKGApZnR2FXBp1D3DC4=/400x300/fi
 
  This article explains how to delete the[DNS cache](https://www.lifewire.com/what-is-a-dns-cache-817514) on a Mac.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Use the macOS Flush DNS Command
 
  If you’re experiencing internet connectivity issues, you may be able to fix them by resetting the[DNS](https://www.lifewire.com/what-is-dns-domain-name-system-2625855) cache with a[Terminal command](https://www.lifewire.com/mac-terminal-commands-4774997) . It should only take a few moments.  
@@ -30,6 +37,20 @@ thumbnail: https://www.lifewire.com/thmb/zSQcjmrvSKGApZnR2FXBp1D3DC4=/400x300/fi
 1. [Open Terminal](https://www.lifewire.com/macos-terminal-4774149) . One quick way is to press**Command** +**Space** to launch[Spotlight](https://www.lifewire.com/use-spotlight-mac-4586951) . Then, type**Terminal** and select it from the results.  
 ![Terminal highlighted in Spotlight on a Mac.](https://www.lifewire.com/thmb/QGngs7Naa2bQVtWQWVaRG0K34yc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Terminal-6e4ba7528a4c4220a28542f84f214676.jpg)  
  You can also access Terminal by navigating to**Go** \>**Utilities** \>**Terminal** .
+
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. Type (or[copy and paste](https://www.lifewire.com/cut-copy-paste-on-mac-4427671) ) this command into Terminal and then press**Enter** :  
  `sudo dscacheutil -flushcache; sudo killall -HUP mDNSResponder`  
 ![Command highlighted in Terminal window](https://www.lifewire.com/thmb/S2U8vSx5U_PgZI2ZZR_uTWdGHcw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Command-e05651de1b2f44e7b99903d8f00910f5.jpg)  
@@ -37,6 +58,13 @@ thumbnail: https://www.lifewire.com/thmb/zSQcjmrvSKGApZnR2FXBp1D3DC4=/400x300/fi
 3. Type your password and then press**return** . The DNS cache will be reset immediately, but there will be no message to that effect. When a new line appears, it indicates the command has been carried out.  
 ![Entering a password in Terminal on a Mac.](https://www.lifewire.com/thmb/hvFn07N8xnjZ9XJQvgMitPvCTVQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Password-902f4015f672459598066969c7900b2f.jpg)  
 The password will not appear in Terminal as you type it.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Flush DNS on Mac OS X
 
@@ -50,10 +78,10 @@ The password will not appear in Terminal as you type it.
 * **Tiger** : lookupd -flushcache
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Does Flushing DNS Do?
@@ -102,5 +130,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://technical-tips.techidaily.com/before-purchasing-a-fitness-tracker-the-5-crucial-aspects-everyone-should-know/"><u>Before Purchasing a Fitness Tracker: The 5 Crucial Aspects Everyone Should Know</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/command-your-digital-assistant-with-voice-5-techniques/"><u>Command Your Digital Assistant with Voice (5 Techniques)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-play-40c-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Play 40C</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discover-the-exciting-world-of-ddpai-mini3-the-best-dashcam-fun-youll-have/"><u>Discover the Exciting World of DDpai Mini3 - The Best Dashcam Fun You'll Have</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ditch-the-cords-how-to-secure-your-internet-access-independent-of-cable-and-telephone-services/"><u>Ditch the Cords: How to Secure Your Internet Access Independent of Cable and Telephone Services</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diy-guide-resolving-line-issues-on-your-television-display/"><u>DIY Guide: Resolving Line Issues on Your Television Display</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-for-solving-your-stadia-headsets-connectivity-problems/"><u>Expert Tips for Solving Your Stadia Headset's Connectivity Problems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/get-enhanced-gaming-with-updated-amd-radeon-video-card-software-version-2410/"><u>Get Enhanced Gaming with Updated AMD Radeon Video Card Software (Version 24.10)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-x-to-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone X To Android devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/step-into-visual-storytelling-xp-edition-installation-for-2024/"><u>Step Into Visual Storytelling XP Edition Installation for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-premium-servers-racks-and-cabinets/"><u>Ultimate Guide to Premium Servers Racks & Cabinets</u></a></li>
+</ul></div>
 

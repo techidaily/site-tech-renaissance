@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Thawing Your Frozen MacBook Air - Quick Fixes & Tips"
-date: 2024-09-19T23:03:41.714Z
-updated: 2024-09-20T20:53:47.395Z
+date: 2024-09-30T10:22:27.977Z
+updated: 2024-10-02T05:39:47.807Z
 categories:
   - BestProducts
 description: "This Article Describes Ultimate Guide: Thawing Your Frozen MacBook Air - Quick Fixes & Tips"
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/bbd20210fc5074f713b02b244d2b1993bd6b418ee
 
  On Macs, use the**Command** key in place of the**Ctrl** key.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Reply to Email
 
  By using the**R** and**A** keys, you can quickly reply to[email messages](https://www.lifewire.com/electronic-mail-overview-1164107) or send to multiple recipients:
@@ -61,19 +68,6 @@ thumbnail: https://thmb.techidaily.com/bbd20210fc5074f713b02b244d2b1993bd6b418ee
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
-
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Add Formatting to Email Text
 
@@ -97,10 +91,10 @@ thumbnail: https://thmb.techidaily.com/bbd20210fc5074f713b02b244d2b1993bd6b418ee
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Email Maintenance Shortcuts
@@ -114,10 +108,10 @@ thumbnail: https://thmb.techidaily.com/bbd20210fc5074f713b02b244d2b1993bd6b418ee
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## "Go to" Shortcuts in Gmail
@@ -131,6 +125,13 @@ thumbnail: https://thmb.techidaily.com/bbd20210fc5074f713b02b244d2b1993bd6b418ee
 * **Go to Drafts (G, then D)** : Press the**G** key, then press**D** to see your message drafts.
 * **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to View All Gmail Shortcuts
 
@@ -167,5 +168,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-crafting-compelling-narratives-with-wmm-and-animation-techniques/"><u>[New] 2024 Approved Crafting Compelling Narratives with WMM and Animation Techniques</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-learn-efficiently-how-to-use-zero-cost-timers/"><u>[New] Learn Efficiently How To Use Zero Cost Timers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-fundamental-blueprints-to-enhance-facebook-ad-engagement/"><u>[Updated] Fundamental Blueprints to Enhance Facebook Ad Engagement</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-discover-unique-features-of-the-missing-iphone-x/"><u>2024 Approved Discover Unique Features of the Missing iPhone X</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-honor-magic-5-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726029259222-mp4mp3/"><u>専門家が教える! MP4から最適な音質を持つMP3にアップグレード方法</u></a></li>
+<li><a href="https://games-able.techidaily.com/engage-in-high-stakes-action-browsings-top-10-fps-games/"><u>Engage in High-Stakes Action: Browsing's Top 10 FPS Games</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/rev-up-your-mobile-vids-with-top-speed-apps-for-2024/"><u>Rev Up Your Mobile Vids with Top Speed Apps for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tips-for-ensuring-smooth-playthroughs-with-reduced-processor-stress-on-modern-warfare/"><u>Tips for Ensuring Smooth Playthroughs with Reduced Processor Stress on Modern Warfare</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/trouble-connecting-to-oculus-runtime-step-by-step-guide-to-resolve-issues-with-your-vr-headset/"><u>Trouble Connecting to Oculus Runtime? Step-by-Step Guide to Resolve Issues with Your VR Headset</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016725544-troubleshoot-fortnites-voice-chatting-glitches-fast-and-efficiently/"><u>Troubleshoot Fortnite's Voice Chatting Glitches Fast & Efficiently</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-the-monochrome-mode-on-windows-10-quick-fixes-for-a-colored-screen/"><u>Troubleshooting the Monochrome Mode on Windows 10 - Quick Fixes for a Colored Screen</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-complete-guide-to-amd-driver-removal-for-windows-users/"><u>Troubleshooting Tips: Complete Guide to AMD Driver Removal for Windows Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-overcoming-format-unfinished-issues-in-windows-os/"><u>Troubleshooting: Overcoming 'Format Unfinished' Issues in Windows OS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/what-to-do-to-delete-and-remove-a-virus-from-your-iphone/"><u>What to Do to Delete & Remove a Virus From Your iPhone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/windows-10-quick-start-guide-enhancing-your-boot-time-efficiency/"><u>Windows 10 Quick Start Guide: Enhancing Your Boot Time Efficiency</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/windows-11-time-wrong-issue-solved/"><u>Windows 11 Time Wrong Issue [Solved]</u></a></li>
+</ul></div>
 

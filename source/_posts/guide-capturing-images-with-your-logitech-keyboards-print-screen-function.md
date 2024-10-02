@@ -1,7 +1,7 @@
 ---
 title: "Guide: Capturing Images with Your Logitech Keyboard's Print Screen Function"
-date: 2024-09-20T22:23:24.606Z
-updated: 2024-09-27T09:20:47.417Z
+date: 2024-09-30T18:57:02.820Z
+updated: 2024-10-02T02:50:58.378Z
 categories:
   - BestProducts
 description: "This Article Describes Guide: Capturing Images with Your Logitech Keyboard's Print Screen Function"
@@ -25,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/b9d202f17312addc4751b6c7718b8073b057f0ff7
 
  Make sure you're signed in to your iPad and iPhone with the same Apple ID to enable text forwarding.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Set up Text Forwarding
 
  When you set up text forwarding between your iPad and iPhone, you can text people from your iPad even if they have an Android device or a phone without smart features.
@@ -41,10 +48,16 @@ thumbnail: https://thmb.techidaily.com/b9d202f17312addc4751b6c7718b8073b057f0ff7
  The iPad uses the same stickers, animations, and drawings that are included with the iPhone text messaging app.[Upgrade to the latest operating system](https://www.lifewire.com/upgrade-iphones-operating-system-2000293) to ensure you have the recent features.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Text on Your iPad if You Don't Own an iPhone
@@ -63,22 +76,15 @@ thumbnail: https://thmb.techidaily.com/b9d202f17312addc4751b6c7718b8073b057f0ff7
 
  If you have friends or family that use Android or a Windows Phone, send them messages using the Facebook Messenger app. Anyone who has a Facebook account can be reached via Facebook Messenger.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Skype
 
  Skype allows you to use your iPad as a phone. In addition to sending text messages, you can send video messages, place phone calls, and video conference. If you want to stay in touch with someone and can't use Messages because they don't own an iOS device, Skype is a great alternative.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Snapchat
@@ -89,18 +95,18 @@ thumbnail: https://thmb.techidaily.com/b9d202f17312addc4751b6c7718b8073b057f0ff7
 
  Snapchat isn't true text messaging because you can only message people who signed up for the service, but it offers a fun alternative to traditional text messaging.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Viber
 
  Viber has all the bells and whistles you would expect in a social messaging service, including Viber Wink, which deletes the message after it is viewed.
 
  You can also place phone calls and video calls and get involved in public chats. Viber also supports[split-view multitasking](https://www.lifewire.com/how-to-use-ipad-split-screen-4687495) .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### More Free Texting Apps
 
@@ -148,16 +154,20 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-vital-6-social-media-channels-for-commercial-success/"><u>[New] 2024 Approved Vital 6 Social Media Channels for Commercial Success</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/enhancing-heads-in-tiktok-videos-3-efficient-techniques/"><u>Enhancing Heads in TikTok Videos 3 Efficient Techniques</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-best-online-audio-solutions-2023-guide/"><u>In 2024, Best Online Audio Solutions 2023 Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Poco M6 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1723807980591-step-by-step-guide-hooking-up-your-laptop-to-a-television-via-hdmi-includes-images/"><u>Step-by-Step Guide: Hooking Up Your Laptop to a Television via HDMI - Includes Images</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On OnePlus 12? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-for-when-spotify-freezes-or-crashes-in-windows/"><u>Troubleshooting Steps for When Spotify Freezes or Crashes in Windows</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-for-repairing-a-broken-snipping-tool-on-windows-11/"><u>Troubleshooting Tips for Repairing a Broken Snipping Tool on Windows 11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/uncover-the-details-of-your-video-card-the-fastest-5-techniques-to-learn-them/"><u>Uncover the Details of Your Video Card – The Fastest 5 Techniques to Learn Them</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-and-tracking-your-online-data-use-with-ease/"><u>Understanding and Tracking Your Online Data Use with Ease</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/winning-against-battlenet-lag-download-speed-solutions-for-the-current-gaming-era/"><u>Winning Against Battle.net Lag: Download Speed Solutions for the Current Gaming Era</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-crafting-perfection-an-essential-guide-to-hdr-imaging-for-2024/"><u>[New] Crafting Perfection An Essential Guide to HDR Imaging for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-five-iphone-podcast-services-to-streaming/"><u>2024 Approved Five iPhone Podcast Services to Streaming</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/bypassing-the-need-for-a-roku-device-to-enjoy-streaming-services-online/"><u>Bypassing the Need for a Roku Device to Enjoy Streaming Services Online</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-max-right-now-documentaries-of-july-2024-curated-list-inside/"><u>Discover the Best Max Right Now Documentaries of July 2024 – Curated List Inside!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/download-high-quality-mp3-music-files-fast-and-easy/"><u>Download High-Quality Mp3 Music Files Fast & Easy</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-se-2022-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone SE (2022) Lock Screen with Notifications?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-vivo-y36-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Vivo Y36 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-iphone-14-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your iPhone 14 in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-the-art-of-finding-contacts-on-facebook-with-these-simple-steps/"><u>Master the Art of Finding Contacts on Facebook with These Simple Steps</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/mastering-video-descriptions-on-instagram-for-2024/"><u>Mastering Video Descriptions on Instagram for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quick-and-easy-methods-enhance-your-laptop-speed-in-minutes/"><u>Quick & Easy Methods: Enhance Your Laptop Speed in Minutes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quick-fixes-for-android-users-struggling-with-calls-and-sms/"><u>Quick Fixes for Android Users Struggling with Calls and SMS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-features-in-depth-analysis-of-snappydriver-v113/"><u>Unveiling the Features: In-Depth Analysis of SnappyDriver V1.13</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-adobe-premiere-pro-cs6-for-macos-free-download-and-install-guide-for-2024/"><u>Updated Adobe Premiere Pro CS6 for macOS Free Download and Install Guide for 2024</u></a></li>
 </ul></div>
 

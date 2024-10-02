@@ -1,7 +1,7 @@
 ---
 title: "The Concealed Treasure: Mastering the Art of Using Finders Sidebar on Your Mac"
-date: 2024-09-15T22:13:55.403Z
-updated: 2024-09-20T21:04:37.895Z
+date: 2024-09-27T22:04:10.364Z
+updated: 2024-10-01T23:53:46.973Z
 categories:
   - BestProducts
 description: "This Article Describes The Concealed Treasure: Mastering the Art of Using Finders Sidebar on Your Mac"
@@ -29,7 +29,21 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 
 ![Pokemon Go trainer screen with Buddy History icon highlighted.](https://www.lifewire.com/thmb/BdiPfIa8oWBYka7UEwDkhYUEZlU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Buddy-icon-in-Pokemon-Go-0b51206346d144a0b55dda8d337fcc18.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you don’t see a**Buddy History** or**Buddy** option, you may need to update the_Pokémon Go_ app to its latest version.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Change Your ‘Pokémon Go’ Buddy Pokémon
 
@@ -42,6 +56,13 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 3. Tap**Yes** .
 4. Find the Pokémon you want to add as your new buddy and tap it. If successful, the selected Pokémon will be shown in a brief fullscreen announcement and then appear on the Pokémon buddy screen as your new buddy.  
 ![Pokemon Go app showing how to swap your Buddy Pokémon](https://www.lifewire.com/thmb/BoGpxHgNU6FVRwfj_E4L0CrpefQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-play-with-your-buddy-in-pokemon-go-02-e064b240ebdf48fa89583f0851d42bcd.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Is the Point of Having a Buddy in Pokémon Go?
 
@@ -71,13 +92,6 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
  Once your buddy Pokémon is on the map with you, the distance required to walk to earn candy is reduced. Your buddy may also direct you to spin certain Pokéstops to earn hidden prizes and earn bonus hearts.  
 ![Pokemon GO buddy screens with Exit and Berry icons highlighted, berry to buddy swipe gesture added.](https://www.lifewire.com/thmb/7fPUcRq4cguvQ2HkO9UqgBsgHUU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Feeding-buddy-Pokemon-664324e020424c63a8b97f9500ce6a11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Does Swapping Buddies Lose Progress?
 
  Swapping a_Pokémon Go_ buddy for another one will delete any unfinished progress that’s currently in action, but it won’t remove any gained friendship level status. For example, if your buddy Pokémon is halfway into unlocking a candy, swapping the buddy out will remove this progress. The usual stats that reset at the end of each day will also clear with a swap.
@@ -85,16 +99,10 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
  However, if this buddy has reached Great Buddy or some other friendship level status, that progress will remain no matter how many times you swap the buddy out.
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Does It Matter Who Your Buddy Is in 'Pokémon Go'?
@@ -134,5 +142,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-creating-captivating-tiktok-outro-sequences/"><u>[New] In 2024, Creating Captivating TikTok Outro Sequences</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-crack-the-code-of-content-discovery-on-facebook/"><u>[Updated] 2024 Approved Crack the Code of Content Discovery on Facebook</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-exploring-the-world-of-aspect-ratios-in-youtube-content/"><u>[Updated] Exploring the World of ASPECT RATIOS in YOUTUBE Content</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-capture-youtube-live-a-comprehensive-guide-for-all-tech-enthusiasts/"><u>[Updated] In 2024, Capture YouTube Live A Comprehensive Guide for All Tech Enthusiasts</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-infinix-smart-7-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/charge-through-time-key-events-shaping-the-world-of-electric-transportation/"><u>Charge Through Time: Key Events Shaping the World of Electric Transportation</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-instructions-transferring-your-system-with-windows-10/"><u>Easy Instructions: Transferring Your System with Windows 10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/futures-finest-top-5-driverless-automobile-brands-of-2024/"><u>Future's Finest: Top 5 Driverless Automobile Brands of 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-serene-strums-and-dance-steps-tiktoks-country-playlist/"><u>In 2024, Serene Strums and Dance Steps TikTok's Country Playlist</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-vivo-y100-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Vivo Y100 5G Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-technique-of-forcing-your-windows-machine-to-boot-safely-in-recovery-mode/"><u>Mastering the Technique of Forcing Your Windows Machine to Boot Safely in Recovery Mode</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-viewing-the-latest-samsung-product-launches-online/"><u>Step-by-Step Tutorial: Viewing the Latest Samsung Product Launches Online</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-wifi-signal-boosters-in-2/"><u>Top Rated WiFi Signal Boosters in 2</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/your-ultimate-checklist-for-watching-the-2024-summer-olympics-online/"><u>Your Ultimate Checklist for Watching the 2024 Summer Olympics Online</u></a></li>
+</ul></div>
 

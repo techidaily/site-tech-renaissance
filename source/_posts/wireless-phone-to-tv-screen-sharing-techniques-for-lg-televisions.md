@@ -1,7 +1,7 @@
 ---
 title: Wireless Phone-to-TV Screen Sharing Techniques for LG Televisions
-date: 2024-09-19T01:17:31.326Z
-updated: 2024-09-21T00:57:03.715Z
+date: 2024-09-26T23:55:26.704Z
+updated: 2024-10-01T23:18:57.563Z
 categories:
   - BestProducts
 description: This Article Describes Wireless Phone-to-TV Screen Sharing Techniques for LG Televisions
@@ -23,6 +23,13 @@ thumbnail: https://www.lifewire.com/thmb/mnBtHCewpeIJVkgTNNOuIuM5wHs=/400x300/fi
 
  This article explains how to insert code in Word. Directions apply to Word 2010 and newer, including Word 2021 and Microsoft 365.  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Insert Code in Word With an Embedded Document
 
  While there isn't an 'insert code' option or a dedicated code block in Word, there is a way to insert one document into another. This effectively creates an isolated section that houses all the code. Here's how to make this work with your code:
@@ -32,8 +39,24 @@ These instructions only work with a single page of code.
 1. Open the document you want the code to appear in, and select**Insert** .  
 ![A Word document with the Insert field highlighted](https://www.lifewire.com/thmb/hhaKemMmX0vrIo89Vh-8tqrp0Z8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-insert-source-code-into-word-document-3994582-1a2d127c226f4846bf9bec7d9a281fc5.jpg)
 2. In the**Text** group, select**Object** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![A Word document with the Object option highlighted in the Insert menu](https://www.lifewire.com/thmb/opt-Q1YQfqT2MaDUICEGskPbmMs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-insert-source-code-into-word-document-3994582-939bbef12a77474cbc646e7bfca9da48.jpg)
 3. From the**Create New** tab, select**Microsoft Word Document** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Create New Object box in Word with the Microsoft Word Document option highlighted](https://www.lifewire.com/thmb/ubtpMlrpJY0mh1rhIZL7mTUeCd0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-insert-source-code-into-word-document-3994582-1f1467fff74c4365913779c89a44dbaa.jpg)  
  In Word 2007, select**OpenDocument Text** .
 4. Clear the**Display as icon** check box.  
@@ -47,6 +70,13 @@ These instructions only work with a single page of code.
 ![Microsoft Word document with source code inserted](https://www.lifewire.com/thmb/7dbJ_9k3xe_LaP-2rOEy3ktFY-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/PresentationWithCode-dc19c6dcca694a798e9e41a2be2eac71.jpg)  
  You can't edit this object directly because it's really just an embedded document. Double-click the object to quickly open the document with the code.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Using Different Paste Types in Word
 
  Modern versions of Word handle code better than they used to. Word for[Microsoft 365](https://www.lifewire.com/microsoft-office-4156573) supports several forms of pasting, including with and without source formatting. So pasting a block of code from your code-editing app will look different based on the paste type.
@@ -56,19 +86,6 @@ These instructions only work with a single page of code.
 * **Unformatted Text** : All code is pasted as unformatted, so you'll lose indenting, color, typeface, and related contextual clues.
 * **HTML Format** : This renders what appears to be a photo of the code, complete with the text editor's background color. This code block is editable, and you can remove the background color if you wish.
 * **Unformatted Unicode Text** : Pastes the text as is but strips the text and background colors. Re-format the code as needed.
-
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Problem With Using Source Code in Word
 
@@ -114,5 +131,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-gigglegridiron-craft-memes-from-anywhere-anytime/"><u>[New] 2024 Approved GiggleGridiron Craft Memes From Anywhere, Anytime</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/ai-breakthroughs-by-tech-giants-microsoft-and-google-lead-the-way-as-smaller-companies-struggle-exclusive-analysis-on-zdnet/"><u>AI Breakthroughs by Tech Giants: Microsoft and Google Lead the Way as Smaller Companies Struggle | Exclusive Analysis on ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/buying-blockbuster-virtual-reality-games-for-meta-quest-2-a-comprehensive-guide/"><u>Buying Blockbuster Virtual Reality Games for Meta Quest 2 - A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/experiencing-the-full-potential-of-dolby-atmos-is-your-system-up-to-it/"><u>Experiencing the Full Potential of Dolby Atmos – Is Your System Up to It?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-world-of-memes-a-detailed-overview/"><u>Exploring the World of Memes – A Detailed Overview</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-tecno-camon-20-premier-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Tecno Camon 20 Premier 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-xiaomi-redmi-a2-lock-screen-password-by-drfone-android/"><u>How To Change Xiaomi Redmi A2 Lock Screen Password?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-boost-your-tunes-quickly-top-phone-app-selection/"><u>In 2024, Boost Your Tunes Quickly Top Phone App Selection</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/managing-icloud-and-iphone-images-safe-removal-from-cloud-storage/"><u>Managing iCloud and iPhone Images: Safe Removal From Cloud Storage</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-the-art-of-line-insertion-in-word-with-this-simple-tutorial/"><u>Master the Art of Line Insertion in Word with This Simple Tutorial</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/mastering-valheim-agriculture-seed-selection-insights-for-2024/"><u>Mastering Valheim Agriculture Seed Selection Insights for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-chatgpt-potential-via-apples-siri/"><u>Maximizing ChatGPT Potential via Apple's Siri</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/scarlett-solo-top-tier-windows-audio-interface-download-ready-now/"><u>Scarlett Solo - Top-Tier Windows Audio Interface Download Ready Now!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-finest-free-roku-options-8-stellar-channels-of-2024/"><u>The Finest Free Roku Options – 8 Stellar Channels of 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-selection-5-expert-recommended-video-editing-applications/"><u>The Ultimate Selection: 5 Expert Recommended Video Editing Applications</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/updated-linksys-standard-login-credentials-for-july-2024-a-complete-list/"><u>Updated Linksys Standard Login Credentials for July 2024 – A Complete List</u></a></li>
+</ul></div>
 

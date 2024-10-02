@@ -1,7 +1,7 @@
 ---
 title: Effective Fixes for the 'Reset Failed Due to an Unexpected Issue' Message on PCs
-date: 2024-09-15T23:49:47.886Z
-updated: 2024-09-20T20:00:06.374Z
+date: 2024-09-30T16:58:49.486Z
+updated: 2024-10-01T17:59:41.274Z
 categories:
   - BestProducts
 description: This Article Describes Effective Fixes for the 'Reset Failed Due to an Unexpected Issue' Message on PCs
@@ -34,6 +34,13 @@ _Why_ you're getting the error is simple: Reset This PC didn't work. You're clea
 
  Reset This PC errors can happen in[Windows 11](https://www.lifewire.com/windows-11-5188930) ,[Windows 10](https://www.lifewire.com/windows-10-2626217) , and[Windows 8](https://www.lifewire.com/windows-8-2626235) . The directions below apply to both operating systems.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Fix the 'There Was a Problem Resetting Your PC' Error
 
  Follow these steps in the order they're presented to try the simpler fixes first:
@@ -46,14 +53,44 @@ _Why_ you're getting the error is simple: Reset This PC didn't work. You're clea
 3. [Repair system files with the sfc /scannow command](https://www.lifewire.com/how-to-use-sfc-scannow-to-repair-windows-system-files-2626161) . Reset This PC might be trying to use some important Windows files that are corrupt, which is why you’re seeing this error.  
 ![sfc scannow command in Command Prompt](https://www.lifewire.com/thmb/rCEGFztnnEGe2OokQxLPfPKG6Po=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sfc-scannow-a32db075f41b417d9f9116107fdc6c2b.png)  
  You’ll need to run a command to do this, which you can do in an[elevated Command Prompt](https://www.lifewire.com/how-to-open-an-elevated-command-prompt-2618088) from within Windows. If you can’t get as far as your desktop, use the Command Prompt in the ASO menu. Instructions for both methods are available in that link above.
+
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. [Run System Restore](https://www.lifewire.com/how-to-use-system-restore-in-windows-2626131) . This will undo any changes made to Windows files that might be the cause for the “_There was a problem resetting your PC_ ” error. Just be sure to restore your computer to a point before the error starting occurring.  
 ![Windows 10 System Restore screen](https://www.lifewire.com/thmb/YNdyS4A1lLE09hn7V9RJ3Rm-Kc8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/restore-point-windows-10-ecd60e49098a45c7ad8687986904d818.png)  
  If you can’t log in to Windows to run[System Restore](https://www.lifewire.com/what-is-system-restore-2626022) , you can also do it from the ASO menu via**Troubleshoot** \>**System Restore** or from bootable installation media (see the last step below).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Repair Windows Recovery Environment. If the WinRE image is, for whatever reason, missing or corrupt, it might be throwing the “_There was a problem resetting your PC_ ” error.  
  To repair it, open an elevated Command Prompt and enter this command:  
  `reagentc /disable`  
 ![reagentc disable command in Command Prompt](https://www.lifewire.com/thmb/d5zO43p4ZIJfMESMS8Q9H8kNBPU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/reagentc-disable-command-2ad577ae139f435da2305cc3d34dfd5b.png)  
  Reboot your computer, open Command Prompt again, and enter this command:  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  `reagentc /enable`  
  This fix is only relevant for a very specific situation, which might be unrelated to what's causing the problem. Be sure to complete the other steps above before moving on to this one.
 6. If after trying all of these suggestions, you’ve still been unable to fix the error, you can bypass it entirely by[installing Windows from a disc or a flash drive](https://www.lifewire.com/how-to-clean-install-windows-2624904) . Since your goal from the beginning was to wipe the whole drive and reinstall Windows, you can do so from installation media.  
@@ -87,12 +124,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-decreasing-volume-gradually-in-garageband/"><u>[Updated] 2024 Approved Decreasing Volume Gradually in Garageband</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-leading-5-audio-caps-for-streaming-enthusiasts/"><u>[Updated] In 2024, Leading 5 Audio Caps for Streaming Enthusiasts</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-to-mp4-perfection-uncover-2-most-effective-techniques/"><u>[Updated] Instagram to MP4 Perfection Uncover 2 Most Effective Techniques</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-infinix-gt-10-pro-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Infinix GT 10 Pro by Name | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-realme-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beat-assassins-creed-unity-launch-error-proven-strategies-and-solutions-for-gamers/"><u>Beat Assassin's Creed Unity Launch Error: Proven Strategies and Solutions for Gamers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/essential-soundbass-insights-amazing-bargain-from-amazon-basics/"><u>Essential Soundbass Insights: Amazing Bargain From Amazon Basics</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-your-android-phones-quick-settings-panel-a-beginners-guide/"><u>Mastering Your Android Phone's Quick Settings Panel - A Beginner's Guide</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reclaiming-ravaged-recordings-a-sample-method/"><u>Reclaiming Ravaged Recordings: A Sample Method</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-8-free-roku-streaming-channels-in-24-must-watch-list/"><u>Top 8 Free Roku Streaming Channels in 2#4 - Must-Watch List!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-choosing-and-purchasing-the-perfect-television-for-your-living-space/"><u>Ultimate Guide: Choosing and Purchasing the Perfect Television for Your Living Space</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-list-of-amazing-free-preschool-activities-and-games/"><u>Ultimate List of Amazing Free Preschool Activities and Games</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/vintage-vs-modern-ranking-radio-sound-effects/"><u>Vintage Vs. Modern Ranking Radio Sound Effects</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/windows-compatible-apps-seamless-facetime-like-video-calls-explained/"><u>Windows Compatible Apps: Seamless FaceTime-Like Video Calls Explained</u></a></li>
+</ul></div>
 

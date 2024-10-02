@@ -1,7 +1,7 @@
 ---
 title: Comparing Neo QLED and OLED Technology in Modern Displays
-date: 2024-09-17T01:06:30.533Z
-updated: 2024-09-21T04:49:19.292Z
+date: 2024-09-25T22:18:34.200Z
+updated: 2024-10-02T03:27:54.832Z
 categories:
   - BestProducts
 description: This Article Describes Comparing Neo QLED and OLED Technology in Modern Displays
@@ -33,6 +33,13 @@ thumbnail: https://www.lifewire.com/thmb/tEhcmtiSXc1a_cflXuXlnsqfFro=/400x300/fi
 * **Copy a different image using the Preview app** : This method copies a photo or icon using the Preview app, so it can change the color of a folder icon, replace it with an image, or even replace it with a custom icon.
 * **Use a premium app like Folder Color** : This method requires a premium app like Folder Color, which you can buy from the App Store. It automates the process and makes it easier.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Change Folder Color on Mac Using Preview
 
  Using the Preview app, you can customize the color of any folder. This is a multi-step process that's complicated enough that you will probably have to refer to this guide the first couple times you do it, but it isn't difficult.
@@ -48,28 +55,72 @@ thumbnail: https://www.lifewire.com/thmb/tEhcmtiSXc1a_cflXuXlnsqfFro=/400x300/fi
 5. Locate and open the**Preview** app.  
 ![A screenshot of the Applications folder on macOS.](https://www.lifewire.com/thmb/QLXtd-veloVkY8ge5HI9PdIVlA0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A5-ChangeFolderColoronMac-annotated-8465f773aeb74caa9b1dbc0525a419ef.jpg)
 6. With Preview open, click**File** in the menu bar.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The File menu in the Preview app on macOS.](https://www.lifewire.com/thmb/qiZ22LU6m8SiaCUJcNrGLv6kQfk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A6-ChangeFolderColoronMac-annotated-3092277a9357429fa325ccba6b0cb43f.jpg)
 7. Select**New from Clipboard** .  
+
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![New from Clipboard menu item selected in the Preview app on macOS.](https://www.lifewire.com/thmb/jt8ez5osO5KQwiJ5sJdYieKWXTA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A7-ChangeFolderColoronMac-annotated-9876657f8d3f41399b918e61bfb39023.jpg)
 8. Select the**Markup tool** (looks like the tip of a pencil).  
 ![The Markup tool highlighted in the Preview app on macOS.](https://www.lifewire.com/thmb/l3BVxdPgJm5W8koZRv2XglMO_Os=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A8-ChangeFolderColoronMac-annotated-0249c263cdfc438b89827e3df055280d.jpg)
 9. Select the**Adjust Color** icon, which looks like three sliders or a prism with light passing through it.  
 ![The Adjust color tool highlighted in the Preview app on macOS.](https://www.lifewire.com/thmb/TMySW-VtU7UNm-ziPdu5TA9ECjY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A9-ChangeFolderColoronMac-annotated-13601116017d42e89eb5c1ac3b9a7d59.jpg)
 10. In the Adjust Color window, adjust the**Tint** ,**Saturation** ,**Tempurature** , and**Sepia** sliders to get a color you want, and then close the window.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![A screenshot of Tint slider in Preview app on macOS.](https://www.lifewire.com/thmb/WmhDBeevux4zXDNtHs9-i4BqrBM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A10-ChangeFolderColoronMac-annotated-1e5ee4342431465a953da0717e62b70f.jpg)  
  Want more options? You can paste the folder icon into any image-editing software you have.
 11. Select the colored folder, and press**Command+C** to copy it.  
 ![A screenshot of copying from Preview on macOS.](https://www.lifewire.com/thmb/ldf1VkMQPfhuL1qS5bP9aKcyjos=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1-003a69e747f84b01a9b4ad148b9071cf.jpg)
 12. Return to the Folder Info box from earlier. If you have closed it, get it back by right-clicking the folder you are trying to customize.
+
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 13. Click the folder in the Folder Info box, and press**Command+V** .  
 ![A screenshot of a customized folder color on macOS.](https://www.lifewire.com/thmb/VI5EKewsKE1LGj0OEbsL44ijJnY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A13-ChangeFolderColoronMac-annotation-5bd8b4aff78648508db5492dbe49a580.jpg)
 14. You can now close the Folder Info box, and your folder will have the new color. If you want, you can repeat this process to customize as many folders as you like.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Customizing Folders With Images and Icons
@@ -79,13 +130,6 @@ thumbnail: https://www.lifewire.com/thmb/tEhcmtiSXc1a_cflXuXlnsqfFro=/400x300/fi
  Instead of pasting a copy of your original folder into Preview, you need to open a photo or icon with Preview, and copy it. You can then paste it into the Folder Info box just like you did in step 11 above.
 
  These steps will replace the original folder icon with a custom photo or any other icon you like.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Changing Folder Colors on Mac With Apps
 
@@ -129,5 +173,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-cutting-down-video-lengths-the-ultimate-mac-guide-for-insta/"><u>[New] Cutting Down Video Lengths The Ultimate Mac Guide for Insta</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-tips-for-optimizing-your-srt-setup/"><u>[Updated] Expert Tips for Optimizing Your SRT Setup</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-streamlined-video-conferencing-utilizing-the-power-of-zoom-in-win10/"><u>[Updated] In 2024, Streamlined Video Conferencing Utilizing the Power of Zoom in Win10</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-insta-wealth-tactics-for-transforming-passion-projects-into-paid-opportunities-for-2024/"><u>[Updated] Insta-Wealth Tactics for Transforming Passion Projects Into Paid Opportunities for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1-comprehensive-official-winxvideo-ai-technical-specifications-overview/"><u>1. Comprehensive Official WinXVideo AI Technical Specifications Overview</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-comprehensive-guide-to-chatgpt-api-use/"><u>A Comprehensive Guide to ChatGPT API Use</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/charting-new-horizebs-with-cutting-edge-verizon-5g-solutions/"><u>Charting New Horizebs with Cutting-Edge Verizon 5G Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-methods-to-fix-corrupted-or-lost-d3dx934dll-in-windows/"><u>Effective Methods to Fix Corrupted or Lost d3dx9_34.dll in Windows</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/expert-advice-on-efficient-webp-images-transition-to-jpeg/"><u>Expert Advice on Efficient WebP Images Transition to JPEG</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-apples-evolution-a-complete-breakdown-of-each-macos-release/"><u>Exploring Apple's Evolution: A Complete Breakdown of Each macOS Release</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-motorola-moto-g24-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Motorola Moto G24 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-nokia-c12-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Nokia C12 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-future-unfolds-with-samsung-galaxy-z-fold-n7-release-info-expected-rrp-and-whats-inside-this-flexible-marvel/"><u>The Future Unfolds with Samsung Galaxy Z Fold N°7: Release Info, Expected RRP, and What's Inside This Flexible Marvel?</u></a></li>
+</ul></div>
 

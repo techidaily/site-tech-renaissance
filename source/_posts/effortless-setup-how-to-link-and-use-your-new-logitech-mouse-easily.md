@@ -1,7 +1,7 @@
 ---
 title: "Effortless Setup: How to Link and Use Your New Logitech Mouse Easily"
-date: 2024-09-23T04:01:12.891Z
-updated: 2024-09-27T06:03:47.103Z
+date: 2024-09-29T01:35:45.087Z
+updated: 2024-10-01T22:39:10.721Z
 categories:
   - BestProducts
 description: "This Article Describes Effortless Setup: How to Link and Use Your New Logitech Mouse Easily"
@@ -24,10 +24,10 @@ thumbnail: https://thmb.techidaily.com/7f58c54be3fb446b417c67b3b88e71900b79dad1a
  This article explains how to delete the[DNS cache](https://www.lifewire.com/what-is-a-dns-cache-817514) on a Mac.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Use the macOS Flush DNS Command
@@ -39,26 +39,27 @@ thumbnail: https://thmb.techidaily.com/7f58c54be3fb446b417c67b3b88e71900b79dad1a
  You can also access Terminal by navigating to**Go** \>**Utilities** \>**Terminal** .
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2. Type (or[copy and paste](https://www.lifewire.com/cut-copy-paste-on-mac-4427671) ) this command into Terminal and then press**Enter** :  
  `sudo dscacheutil -flushcache; sudo killall -HUP mDNSResponder`  
 ![Command highlighted in Terminal window](https://www.lifewire.com/thmb/S2U8vSx5U_PgZI2ZZR_uTWdGHcw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Command-e05651de1b2f44e7b99903d8f00910f5.jpg)  
  This command only works in[macOS](https://www.lifewire.com/what-is-macos-4691239) 10.12 Sierra and newer. If you have an older version, check the next section for the correct command.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Type your password and then press**return** . The DNS cache will be reset immediately, but there will be no message to that effect. When a new line appears, it indicates the command has been carried out.  
 ![Entering a password in Terminal on a Mac.](https://www.lifewire.com/thmb/hvFn07N8xnjZ9XJQvgMitPvCTVQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Password-902f4015f672459598066969c7900b2f.jpg)  
 The password will not appear in Terminal as you type it.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Flush DNS on Mac OS X
 
@@ -72,10 +73,10 @@ The password will not appear in Terminal as you type it.
 * **Tiger** : lookupd -flushcache
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Does Flushing DNS Do?
@@ -126,22 +127,15 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-increase-video-playback-speed-on-instagram-for-2024/"><u>[New] Increase Video Playback Speed on Instagram for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-premier-12-video-capture-goes-on-forever-in-2024/"><u>[Updated] Premier 12 Video Capture - Goes On Forever, In 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-premier-hd-picks-for-impeccable-video-recorders-for-2024/"><u>[Updated] Premier HD Picks for Impeccable Video Recorders for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-key-strategies-to-craft-persuasive-testimonials-that-resonate/"><u>2024 Approved Key Strategies to Craft Persuasive Testimonials That Resonate</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1723808167177-best-torrenting-platforms-for-gaming-enthusiasts-ranked-and-reviewed/"><u>Best Torrenting Platforms for Gaming Enthusiasts: Ranked and Reviewed</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1723808243727-change-your-gmail-password-quickly-and-easily/"><u>Change Your Gmail Password. Quickly & Easily!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/connect-and-use-any-printer-with-easy-tips-for-windows-11-users/"><u>Connect and Use Any Printer with Easy Tips for Windows 11 Users</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/direct-ps3-controller-connection-for-gaming-on-pc-no-need-for-motioninjoy/"><u>Direct PS3 Controller Connection for Gaming on PC: No Need for MotionINJoy</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1723808113704-dont-miss-out-grab-your-20-off-driver-easy-offer-with-the-official-coupon/"><u>Don't Miss Out: Grab Your 20% Off Driver Easy Offer with the Official Coupon !</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-visual-splendor-of-blade-cameras-in-full-hd/"><u>In 2024, The Visual Splendor of Blade Cameras in Full HD</u></a></li>
-<li><a href="https://win-blog.techidaily.com/masterclass-overcoming-connection-loss-problems-in-escape-from-tarkov/"><u>Masterclass: Overcoming Connection Loss Problems in Escape From Tarkov</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1723808256375-navigate-with-confidence-and-cut-costs-take-advantage-of-our-official-2n04-driver-easy-promo-offer-save-20-today/"><u>Navigate with Confidence & Cut Costs: Take Advantage of Our Official 2N04 Driver Easy Promo Offer - Save 20% Today!</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/quick-guide-splitting-your-youtube-footage-with-expert-precision-techniques/"><u>Quick Guide: Splitting Your YouTube Footage with Expert Precision Techniques</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-realm-of-melodies-where-to-get-hearing-heroes-ringtones-for-2024/"><u>The Realm of Melodies Where to Get Hearing Heroes' Ringtones for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-non-functional-function-key-issues-on-your-asus-laptop/"><u>Troubleshooting Non-Functional Function Key Issues on Your ASUS Laptop</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/windows-11-troubleshooting-effective-solutions-for-defrosting-frozen-systems/"><u>Windows 11 Troubleshooting: Effective Solutions for Defrosting Frozen Systems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/wiring-basics-how-to-link-an-external-monitor-with-your-notebook/"><u>Wiring Basics: How to Link an External Monitor with Your Notebook</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-unraveling-time-reverse-video-on-instagram-secrets/"><u>[New] 2024 Approved Unraveling Time Reverse Video on Instagram Secrets</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-mastering-mac-screenshots-and-screen-recording/"><u>[Updated] 2024 Approved Mastering Mac Screenshots & Screen Recording</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-samsung-galaxy-m14-4g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Samsung Galaxy M14 4G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-watch-lte-woes-heres-how-to-restore-connection-and-get-back-online/"><u>Apple Watch LTE Woes? Here’s How to Restore Connection and Get Back Online</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/budget-friendly-ais-on-par-with-soras-capabilities/"><u>Budget-Friendly AIs on Par with Sora's Capabilities</u></a></li>
+<li><a href="https://win11.techidaily.com/guiding-through-hidden-icons-in-windows-11/"><u>Guiding Through Hidden Icons in Windows 11</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-achieving-pristine-audio-quality-utilizing-the-ideal-tools-to-suppress-unwanted-noise/"><u>New Achieving Pristine Audio Quality Utilizing the Ideal Tools to Suppress Unwanted Noise</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-checklist-for-a-stellar-super-bowl-experience-at-home-tv-and-theatre-tech-tips/"><u>The Ultimate Checklist for a Stellar Super Bowl Experience at Home: TV and Theatre Tech Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unraveling-code-28-mishaps-effective-solutions-for-windows-users/"><u>Unraveling Code 28 Mishaps: Effective Solutions for Windows Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/wireless-ways-exploring-no-cable-internet-options/"><u>Wireless Ways: Exploring No-Cable Internet Options</u></a></li>
 </ul></div>
 
