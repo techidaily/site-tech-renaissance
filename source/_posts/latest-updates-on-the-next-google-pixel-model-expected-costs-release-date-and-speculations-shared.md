@@ -1,7 +1,7 @@
 ---
 title: Latest Updates on the Next Google Pixel Model - Expected Costs, Release Date, and Speculations Shared!
-date: 2024-09-13T17:41:46.800Z
-updated: 2024-09-21T04:08:48.095Z
+date: 2024-10-05T19:31:21.262Z
+updated: 2024-10-07T19:04:50.390Z
 categories:
   - BestProducts
 description: This Article Describes Latest Updates on the Next Google Pixel Model - Expected Costs, Release Date, and Speculations Shared!
@@ -35,6 +35,13 @@ thumbnail: https://www.lifewire.com/thmb/Jo4mnrs5lS0gqULHjPpUT9FYXk0=/400x300/fi
 
 We anticipate an August 2024 event to showcase the Pixel 9 phones.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Google Pixel 9 Price Rumors
 
  We haven't seen any rumors or leaks about what the Pixel 9 will cost. For now, we'll assume pricing will match that of the Pixel 8 lineup. However, with the addition of an XL model, we're really only able to take a guess.
@@ -52,13 +59,6 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 
 [The Best Waterproof Phone Cases of 2024](https://www.lifewire.com/best-waterproof-phone-cases-4158190)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Google Pixel 9 Features
 
  The Pixel 9 phones will ship with[Android 15](https://www.lifewire.com/android-15-7547471) . Here are some of the new features that are expected to arrive on the 2024 Pixel phones:
@@ -67,6 +67,19 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 * **AI tools** : New software features like text-to-image conversion and smart auto-reply abilities are expected to come with the Pixel 9, although these functions might be reserved for the Pro models. A few of these AI capabilities might process on the device, meaning more privacy and quicker results.
 * **Offline location tracking** : Android 15 will introduce Google's Find My Device network for locating compatible items via Bluetooth. The Pixel 9 might be the first Google phone to be findable even when it's turned off.
 * **Satellite messaging** : The Pixel 9 is expected to be the first phone to support Android's satellite communication implementation. This feature will let you text over a satellite even if you don't have a mobile data connection.
+
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Google Pixel 9 Specs and Hardware
 
@@ -83,10 +96,10 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
  Below is[MySmartPrice's](https://www.mysmartprice.com/gear/pixel-9-pro-5k-renders-360-degree-video-exclusive/) take on what the Pixel 9 Pro XL might look like. You can see its thin bezels and new camera layout.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Performance
@@ -111,13 +124,6 @@ MySmartPrice
 
  Some evidence to support this comes from the fact that Liyu Yang, one of the board of directors at the Wireless Power Consortium (the publisher of the Qi standard) is a senior hardware engineer at Google who's[leading the design of next-gen wireless charging platforms for future Pixel products](https://www.wirelesspowerconsortium.com/blog-pages/wpc-welcomes-new-board-member/) .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Other Specs
 
  Another big change we might see with the Pixel 9 is a new fingerprint sensor. Google's past phones have used an optical fingerprint sensor, but an unnamed source informed_Android Authority_ that[this year's phones could come with an ultrasonic reader](https://www.androidauthority.com/pixel-9-fingerprint-scanner-3456801/) . This is the same technology used in the Samsung Galaxy S24 and other smartphones. Instead of imaging the finger with light, it takes a 3D map using sound waves, which is supposed to make it faster and more secure.
@@ -127,10 +133,10 @@ MySmartPrice
  There's no word yet on the phone's storage capacity, but we think it will remain the same. That means 128 GB or 256 GB for the base model and up to 1 TB for the Pro models. The first Pixel Fold caps out at 512 GB but we think the Pixel 9 Pro Fold will add a terabyte option.  
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Latest News About the Google Pixel 9
@@ -154,5 +160,24 @@ MySmartPrice
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-efficiently-shortening-youtube-content/"><u>[New] 2024 Approved Efficiently Shortening YouTube Content</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/airpods-evolved-discover-apples-latest-innovations-across-all-models-and-the-most-impressive-upgrades-you-should-know/"><u>AirPods Evolved: Discover Apple's Latest Innovations Across All Models & The Most Impressive Upgrades You Should Know</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-lovers-rejoice-lg-tvs-now-feature-premium-sound-upgrades-according-to-the-latest-zdnet-report/"><u>Apple Lovers Rejoice! LG TVs Now Feature Premium Sound Upgrades, According to the Latest ZDNet Report</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apples-subtle-powerhouse-the-top-understated-ai-innovation-expected-at-wwdc-revealed/"><u>Apple's Subtle Powerhouse: The Top Understated AI Innovation Expected at WWDC Revealed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-guide-to-apple-gadgets-manuals-technical-specs-and-diy-repairs-access-them-all/"><u>Complete Guide to Apple Gadgets: Manuals, Technical Specs & DIY Repairs - Access Them All</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/elevate-your-digital-life-top-wins11-experiences-for-2024/"><u>Elevate Your Digital Life Top Wins11 Experiences for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-infamous-black-screen-of-death-in-cyberpunk-2077-solutions-that-work/"><u>Fixing the Infamous Black Screen of Death in Cyberpunk 2077: Solutions That Work</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-lava-blaze-2-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Lava Blaze 2 Contacts An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-civi-3-disney-100th-anniversary-edition-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi Civi 3 Disney 100th Anniversary Edition to Outlook | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-apple-iphone-11-screen-mirroring-you-must-know-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 11 Screen Mirroring You Must Know | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ios-17-update-resolves-compatibility-woes-now-bmws-wireless-charger-works-flawlessly-with-iphone-15-exclusive-report-by-zdnet/"><u>IOS 17 Update Resolves Compatibility Woes: Now BMW's Wireless Charger Works Flawlessly With iPhone 15 | Exclusive Report by ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/july-2024s-ultimate-savings-on-apple-watches-a-comprehensive-guide-from-zdnet/"><u>July 2024'S Ultimate Savings on Apple Watches: A Comprehensive Guide From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722963997404-randd-investments-and-their-role-in-maintaining-hahron-spices-competitive-edge/"><u>R&D Investments and Their Role in Maintaining HAHRON SPICE's Competitive Edge</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-instructions-to-refresh-your-ralink-driver-software-on-microsoft-windows-systems/"><u>Step-by-Step Instructions to Refresh Your Ralink Driver Software on Microsoft Windows Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-11-unbeatable-discounts-on-apple-watches-in-june-july-2024-exclusive-offers-from-zdnet/"><u>Top 11 Unbeatable Discounts on Apple Watches in June-July 2024: Exclusive Offers From ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-the-finest-apple-band-styles-of-2024-expertly-evaluated-and-ranked-gadgetpundit/"><u>Ultimate Guide to the Finest Apple Band Styles of 2024 – Expertly Evaluated & Ranked | GadgetPundit</u></a></li>
+<li><a href="https://techidaily.com/understanding-your-apple-id-the-truth-behind-its-continued-existence/"><u>Understanding Your Apple ID: The Truth Behind Its Continued Existence</u></a></li>
+</ul></div>
 

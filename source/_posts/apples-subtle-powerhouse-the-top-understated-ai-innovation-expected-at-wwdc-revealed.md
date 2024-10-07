@@ -1,7 +1,7 @@
 ---
 title: "Apple's Subtle Powerhouse: The Top Understated AI Innovation Expected at WWDC Revealed"
-date: 2024-09-26T20:58:34.587Z
-updated: 2024-10-01T22:03:25.326Z
+date: 2024-10-03T16:50:09.254Z
+updated: 2024-10-07T16:56:24.196Z
 tags:
   - apple
 categories:
@@ -43,16 +43,10 @@ Now, here's the thing. I tried watching a couple of Marvel 3D movies via Disney+
 I'm guessing that Apple's 3Difying of a 2D image will be at about the same level. 
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Watch those images together using SharePlay in the Photos app
@@ -70,10 +64,10 @@ In VisionOS 2, there are gestures. Holding your hand palm up and tapping fingers
 Unlike the previous two features, this _is_ a quality of life improvement. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Mac virtual display improvements
@@ -90,6 +84,13 @@ To be fair, Apple didn't call it that. We've [talked about the Vision Pro's trav
 
 In VisionOS 2, Apple is announcing that there is dedicated support in travel mode for train travel. We know [people have already been successful using the Vision Pro on the train and even subway](https://www.youtube.com/shorts/8ckKAjAWLw8), but in this case, Apple presumably tweaked performance somewhat. 
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. New developer APIs
 
 There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, Apple is showcasing three new APIs developers can use to gain access to Apple technology. 
@@ -101,16 +102,10 @@ There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, 
 * **Enterprise APIs:** These were described as enterprise-specific APIs, so we can assume they're somewhat special purpose. Examples given were surgical training and manufacturing.
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. New Canon spatial lens for creating spatial video
@@ -139,13 +134,6 @@ Apple didn't cover all the new features during its announcement. At the end of t
 * **Keyboard breakthrough:** This was another feature I felt it was important for Apple to introduce, and apparently it will be available. No mention was made of it, so we have no idea if it's limited solely to Apple's own keyboards (but that's probably the case).
 * **Bora Bora environment:** I wanted to see more environments and we get…one. Personally, I think all the work on spatial photos and spatial videos could have been replaced with the ability for third parties to create 3D environments, but Apple didn't go there. But hey, Bora Bora, right?
 * **Rearrangeable Home View:** This was also not described but I'm guessing this means you can move around the Home icons.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  What do you think?
 
@@ -191,19 +179,19 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-expand-your-online-presence-with-larger-youtube-content-for-2024/"><u>[New] Expand Your Online Presence with Larger YouTube Content for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-downloading-made-simple-discover-the-4-aces/"><u>[New] In 2024, Downloading Made Simple Discover the 4 Aces</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-wintv-guide-effective-techniques-in-windows-based-live-recording-for-2024/"><u>[New] WinTV Guide Effective Techniques in Windows-Based Live Recording for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-dark-sky-iphone-tips-and-tricks/"><u>[Updated] 2024 Approved Dark Sky iPhone Tips & Tricks</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-unseen-aspects-the-hidden-secrets-of-instagram-stories-viewers/"><u>[Updated] 2024 Approved Unseen Aspects The Hidden Secrets of Instagram Stories Viewers</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-dismantle-that-dominating-green-distortion-in-mac-based-videos-for-2024/"><u>[Updated] Dismantle That Dominating Green Distortion in Mac-Based Videos for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/dive-into-chilling-tales-the-ultimate-list-of-top-13-true-crime-narratives-on-podcasts/"><u>Dive Into Chilling Tales: The Ultimate List of Top 13 True Crime Narratives on Podcasts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/diy-fixes-for-ipads-that-wont-print-or-recognize-a-connected-printer/"><u>DIY Fixes for iPads That Won’t Print or Recognize a Connected Printer</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-considerations-a-guide-to-choosing-your-next-desktop-pc/"><u>Essential Considerations: A Guide to Choosing Your Next Desktop PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/from-unverified-to-elite-mastering-the-art-of-profile-verification-on-x/"><u>From Unverified to Elite: Mastering the Art of Profile Verification on X</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-elevate-youtube-video-quality-minimize-distractions/"><u>In 2024, Elevate YouTube Video Quality, Minimize Distractions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/insights-and-pricing-details-on-upcoming-google-tv-streaming-device-release-dates-and-features-revealed/"><u>Insights & Pricing Details on Upcoming Google TV Streaming Device - Release Dates & Features Revealed</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/streamlined-process-for-obtaining-and-upgrading-epson-drivers-on-microsoft-windows/"><u>Streamlined Process for Obtaining and Upgrading Epson Drivers on Microsoft Windows</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/wearing-sterile-gloves-is-essential-for-maintaining-asepsis-during-the-procedure-but-it-doesnt-specify-how-much-sterile-solution-should-be-obtained/"><u>Wearing Sterile Gloves Is Essential for Maintaining Asepsis During the Procedure, but It Doesn't Specify How Much Sterile Solution Should Be Obtained.</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-smartphones-meet-virtual-reality-best-10-models-for-2024/"><u>[New] Smartphones Meet Virtual Reality Best 10 Models for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-webm-transformation-from-tweeted-visuals-for-2024/"><u>[New] WebM Transformation From Tweeted Visuals for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-ensemble-moves-syncing-your-song-collections/"><u>[Updated] In 2024, Ensemble Moves Syncing Your Song Collections</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/audiophiles-handbook-keeping-your-home-stereo-speakers-dust-and-grime-free/"><u>Audiophile's Handbook: Keeping Your Home Stereo Speakers Dust and Grime Free</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-our-top-picks-the-15-best-free-bootable-anti-virus-solutions-available-online/"><u>Explore Our Top Picks: The 15 Best Free Bootable Anti-Virus Solutions Available Online</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-itel-p40plus-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Itel P40+ Without Password | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-apples-new-iphone-by-drfone-ios/"><u>How to Unlock Apple iPhone 6s, Apples New iPhone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/shielding-sensitive-information-from-customized-ai/"><u>Shielding Sensitive Information From Customized AI</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-fix-for-hulu-code-rununk13-tips-and-tricks-revealed/"><u>The Ultimate Fix for Hulu Code RUNUNK13 - Tips and Tricks Revealed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-safeguard-your-files-with-these-5-techniques/"><u>The Ultimate Guide: Safeguard Your Files with These 5 Techniques</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-how-to-retrieve-accidentally-deleted-texts-on-mobile-devices/"><u>Ultimate Guide: How to Retrieve Accidentally Deleted Texts on Mobile Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-ultimate-list-15-complimentary-and-bootable-anti-virus-systems-we-suggest/"><u>Unveiling the Ultimate List: 15 Complimentary and Bootable Anti-Virus Systems We Suggest</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-explainer-video-software-showdown-top-picks-for-2024/"><u>Updated Explainer Video Software Showdown Top Picks for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/why-videographers-embrace-filmoras-premier-traits/"><u>Why Videographers Embrace Filmora's Premier Traits</u></a></li>
 </ul></div>
 

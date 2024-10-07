@@ -1,7 +1,7 @@
 ---
 title: "Leveraging iCloud for Seamless Collaboration on Apple Pages Documents: Tips & Techniques Guide"
-date: 2024-09-24T23:29:36.156Z
-updated: 2024-10-02T10:14:16.581Z
+date: 2024-10-01T20:52:33.332Z
+updated: 2024-10-07T20:43:44.243Z
 tags:
   - apple
 categories:
@@ -27,6 +27,13 @@ I use Apple Pages when collaborating on fiction with my editor and publisher. No
 
 Let me show you how easy it is to use the Collaboration feature found in Apple Pages. Not only is the app free, but the feature is also built in (so you don't have to install any extra software). 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Requirements
 
 The only things you'll need to make this work are a running instance of MacOS (which includes the iWork office suite), and an [iCloud](https://www.icloud.com/) account. Without an iCloud account, you cannot use the collaboration feature. So, before you continue, make sure you have an iCloud account and can log in to it.
@@ -37,13 +44,6 @@ I'll be demonstrating on a [MacBook Pro](https://apple.sjv.io/c/159047/435031/76
 
 Before you can collaborate on a Pages document, you must first enable iCloud Collaboration. To do that, follow these steps.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Open System Preferences
 
 Open System Preferences by clicking the Apple button in the top left corner of your desktop, and click System Preferences. In the resulting window, click Apple ID > iCloud Drive > Options (**Figure 1**).
@@ -51,6 +51,19 @@ Open System Preferences by clicking the Apple button in the top left corner of y
 **Figure 1**: Access to iCloud Drive options is found here.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Enable Pages for iCloud Drive
 
@@ -61,10 +74,10 @@ In the next window (**Figure 2**), click the check box for Pages and then click 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Enable the Collaboration feature
@@ -78,10 +91,10 @@ The first thing you must do is open the Pages document that will be shared with 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Enable the Collaborate feature
@@ -91,13 +104,6 @@ Click Collaborate and you'll be informed the document must be moved to iCloud be
 **Figure 4**: You cannot collaborate on a document until it's been moved to iCloud.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Enable Track Changes
 
@@ -157,18 +163,22 @@ And that's all there is to collaborating with Apple Pages. This is a great featu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-obs-masterclass-for-successful-instagram-broadcasts/"><u>[New] OBS Masterclass for Successful Instagram Broadcasts</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-shuttered-by-darkness-iphone-tips-and-tricks-for-2024/"><u>[Updated] Shuttered by Darkness IPhone Tips & Tricks for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-your-guide-to-affordable-android-recording-with-top-8-free-apps-for-2024/"><u>[Updated] Your Guide to Affordable Android Recording with Top 8 Free Apps for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-apple-iphone-6s-plus-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to Apple iPhone 6s Plus Blacklist Removal Tips and Tools</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/advanced-email-organization-creating-specific-rules-in-gmail-tutorial/"><u>Advanced Email Organization: Creating Specific Rules in Gmail Tutorial</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/android-users-how-to-free-up-space-by-cleaning-the-cache/"><u>Android Users: How to Free Up Space by Cleaning the Cache</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/decoding-playstation-5-variants-a-closer-look-at-ps5-slim-vs-full-size-console/"><u>Decoding PlayStation 5 Variants: A Closer Look at PS5 Slim Vs. Full-Size Console</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-6s-plus-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset iPhone 6s Plus to Factory Settings? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-oppo-a1-5g-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Oppo A1 5G</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-parenting-in-a-connected-age-our-top-8-tools-for-online-safety-2024-edition/"><u>The Ultimate Guide to Parenting in a Connected Age: Our Top 8 Tools for Online Safety, 2024 Edition</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-10-must-watch-culinary-series-on-netflix/"><u>Top 10 Must-Watch Culinary Series on Netflix</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/transformer-film-saga-a-step-by-step-guide-to-watching-them-correctly/"><u>Transformer Film Saga: A Step-by-Step Guide to Watching Them Correctly</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/what-to-expect-at-apple-groovy-wwdc-2025-sneak-peeks-into-future-tech-and-dev-tools/"><u>What to Expect at Apple' Groovy WWDC 2025: Sneak Peeks Into Future Tech & Dev Tools</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-spotifys-1-charting-tunes/"><u>[New] 2024 Approved Spotify's #1 Charting Tunes</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-syncing-tiktok-content-with-twitter/"><u>[New] 2024 Approved Syncing TikTok Content with Twitter</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-adding-sounds-to-your-story-a-premiere-pro-guide/"><u>[New] Adding Sounds to Your Story A Premiere Pro Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-10-online-stores-for-personalized-box-designs/"><u>[New] Top 10 Online Stores for Personalized Box Designs</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-zdsofts-edge-masterful-video-capture-analysis/"><u>[Updated] 2024 Approved ZDSoft's Edge Masterful Video Capture Analysis</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-easy-steps-to-blend-igtv-into-your-stories-for-2024/"><u>[Updated] Easy Steps to Blend IGTV Into Your Stories for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-tips-for-a-seamless-phone-screen-record-for-2024/"><u>[Updated] Tips for a Seamless Phone Screen Record for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-remedies-reviving-your-spotify-experience-on-android-auto/"><u>Effective Remedies: Reviving Your Spotify Experience on Android Auto</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-honor-70-lite-5g-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Honor 70 Lite 5G Phone | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-set-a-new-sound-for-email-arrival-notifications-in-gmail/"><u>How to Set a New Sound for Email Arrival Notifications in Gmail</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/inside-teslas-robotic-innovation-gossip-pricing-predictions-and-specs-revealed/"><u>Inside Tesla's Robotic Innovation: Gossip, Pricing Predictions, and Specs Revealed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-the-fix-for-elusive-d3dx930dll-a-step-by-step-tutorial/"><u>Master the Fix for Elusive d3dx9_30.dll: A Step-By-Step Tutorial</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-the-scratch-disk-full-issue-in-adobe-photoshop/"><u>Resolving the 'Scratch Disk Full' Issue in Adobe Photoshop</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/review-alert-caixuns-stunningly-affordable-4k-android-tv-the-best-bang-for-your-buck/"><u>Review Alert: Caixun’s Stunningly Affordable 4K Android TV - The Best Bang for Your Buck!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solve-unresponsive-samsung-tv-app-problems-quickly-and-easily/"><u>Solve Unresponsive Samsung TV App Problems Quickly and Easily</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-key-tracking-devices-find-your-way-back-home-easily/"><u>Top-Rated Key Tracking Devices - Find Your Way Back Home Easily</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unwanted-ringers-eliminated-tips-for-blocking-hidden-caller-ids-on-apple-phones/"><u>Unwanted Ringers Eliminated: Tips for Blocking Hidden Caller ID's on Apple Phones</u></a></li>
 </ul></div>
 

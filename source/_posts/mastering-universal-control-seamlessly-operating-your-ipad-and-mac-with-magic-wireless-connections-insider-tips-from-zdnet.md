@@ -1,7 +1,7 @@
 ---
 title: "Mastering Universal Control: Seamlessly Operating Your iPad & Mac with Magic Wireless Connections - Insider Tips From ZDNet"
-date: 2024-09-24T16:15:20.345Z
-updated: 2024-10-01T17:20:59.674Z
+date: 2024-10-04T20:37:09.336Z
+updated: 2024-10-07T16:17:15.341Z
 tags:
   - apple
 categories:
@@ -37,10 +37,16 @@ In iPadOS 17, Apple added the ability to customize your iPad's lock screen, and 
 **How to:** Wake up your iPad, unlock it, then press and hold on the lock screen. If you've used an iPhone in the past, you know exactly what to do next. Tap the "Customize" button and begin tweaking the lock screen to your liking.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Configure your focus settings
@@ -61,6 +67,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 **How to**: Go to Settings > Focus on your iPad, and you'll find various options to set up a Focus mode for work, personal, fitness, mindfulness, and more. The interface will guide you through setting up your notification settings, which contacts can ping you, and more. Plus, once you've set it up, it'll sync automatically with your iPhone, Apple Watch, and Mac.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Turn on Stage Manager when you need more multitasking chops
 
 Max Buondonno/ZDNET
@@ -73,13 +86,6 @@ You can customize the size of the window, bring up secondary apps in the same vi
 
 **How to**: Swipe down on the top-right corner to access Control Center, then tap the Stage Manager button to activate it (it looks like a rectangle with three smaller rectangles next to it). Alternatively, you can go to Settings > Multitasking & Gestures and turn on Stage Manager from there. When you're done using it, you can choose either option to turn it off.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Save your eyes at night with Night Shift
 
 Yes, I realize this setting doesn't _actually_ protect your eyesight in the long run, nor is it a life-changing hack that everyone should use. But Night Shift on the iPad does make staring at your screen a bit easier when it's dark out, especially if you have to spend a lot of time staring at a text field (like me). I've felt less eye strain while using the setting at night; it helps to relax my mind a bit since all the colors are much warmer. It's worth giving a shot if you like to use your iPad at night.
@@ -87,6 +93,13 @@ Yes, I realize this setting doesn't _actually_ protect your eyesight in the long
 **Also:** [**What iPad Pro's Tandem OLED tells us about future device screens**](https://www.zdnet.com/article/what-ipad-pros-tandem-oled-tells-us-about-future-device-screens/)
 
 **How to**: Head to Settings > Display & Brightness > Night Shift. From there, you can manually turn it on, schedule it to turn on during certain times, and adjust how warm you want your display to turn.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Low Power Mode can quickly become your best friend
 
@@ -98,18 +111,18 @@ That's where Low Power Mode comes in. With Low Power Mode, your iPad will limit 
 
 **How to**: Swipe down from the top right corner to access Control Center, then tap the battery button to enable it. Your battery meter will then turn yellow, indicating that Low Power Mode is on. To disable it, follow the same steps.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Hide your notifications from prying eyes
 
 Sometimes, you just want to keep the contents of your iPad's notifications to yourself, whether for work reasons or if you're planning a surprise party for someone and they see the email confirming the delivery of their birthday cake. On the iPad, it's easy to lock away your notifications and only make them visible once you've used your fingerprint or face to log in.
 
 **How to**: Go to Settings > Notifications > Show Previews and change it from "Always" to "When Unlocked."
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Split or float your keyboard
 
@@ -124,13 +137,6 @@ If that's your bag, you can also shrink your keyboard and have it float on top o
 **How to split**: Go to Settings > General > Keyboard and tap on "Split Keyboard." Then, when you open an app where the keyboard presents itself, touch and hold on the keyboard button in the bottom right corner and slide your finger to the split option. Your keyboard will then divide in half on either side of the screen. You can follow the same steps in reverse to turn it off.
 
 **How to float**: Open an app where the keyboard will pop up. Then, take two fingers and pinch the keyboard. This will cause it to shrink to iPhone-size. You can then drag it around the screen by touching and holding the gray bar on the bottom. When you want it to return to its normal size, just pinch outward on the keyboard.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Make sure your screen is refreshing as fast as possible
 
@@ -188,21 +194,22 @@ Using the TrueDepth cameras, Attention Awareness can keep tabs on when you're lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-cybernetic-breakthroughs-in-live-video-capture-technology/"><u>[New] Cybernetic Breakthroughs in Live Video Capture Technology</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-5-prime-fb-video-extractor-guide/"><u>[Updated] In 2024, 5 Prime FB Video Extractor Guide</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-the-best-hd-video-screen-recorders/"><u>[Updated] In 2024, The Best HD Video Screen Recorders</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/before-you-buy-5-important-tips-to-keep-in-mind-when-shopping-for-used-ipads/"><u>Before You Buy: 5 Important Tips to Keep in Mind When Shopping for Used iPads</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-recover-my-data-if-my-iphone-11-pro-max-screen-turns-black-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Can I recover my data if my iPhone 11 Pro Max screen turns black? | Stellar</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/can-you-truly-enjoy-the-depth-of-dolby-atmos-sound-in-your-home-theater/"><u>Can You Truly Enjoy the Depth of Dolby Atmos Sound in Your Home Theater?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/convertir-archivos-de-animacion-gif-gratis-al-formato-mpeg-usando-movavi-en-linea/"><u>Convertir Archivos De Animación (GIF) Gratis Al Formato MPEG Usando Movavi en Línea</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/current-must-see-athletic-adventures-on-screen-a-ranking-of-top-10-movies/"><u>Current Must-See Athletic Adventures on Screen: A Ranking of Top 10 Movies</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-markets-finest-a-review-of-superior-ceiling-sound-solutions/"><u>Exploring the Market's Finest: A Review of Superior Ceiling Sound Solutions</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-budget-pc-video-capture-tools-assessed/"><u>In 2024, Budget PC Video Capture Tools Assessed</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Apple iPhone 13 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/perfecting-the-pitch-comprehensive-tips-for-regularly-sanitizing-stereo-loudspeakers-at-home/"><u>Perfecting the Pitch: Comprehensive Tips for Regularly Sanitizing Stereo Loudspeakers at Home</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rectified-problem-full-screen-windows-not-visible-on-monitor-windows-10/"><u>Rectified Problem: Full-Screen Windows Not Visible on Monitor (Windows 10)</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/seamless-print-to-computer-scanning-techniques-unveiled/"><u>Seamless Print-to-Computer Scanning Techniques Unveiled</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-troubleshooting-dll-file-cant-be-found/"><u>Step-by-Step Guide: Troubleshooting 'DLL File Can’t Be Found'</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-5-best-fixes-for-hiberatus-computers/"><u>The 5 Best Fixes for Hiberatus Computers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-sierra-maximizing-your-icloud-drive-experience/"><u>[New] 2024 Approved Sierra Maximizing Your iCloud Drive Experience</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-boost-your-brand-with-expert-led-desktop-tiktok-tips/"><u>[Updated] Boost Your Brand with Expert-Led Desktop TikTok Tips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/2024-approved-youtube-snippet-income-breakdown-whats-your-profit-share/"><u>2024 Approved YouTube Snippet Income Breakdown What's Your Profit Share?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/amd-radeon-graphics-driver-update-v2410-installation-and-guide/"><u>AMD Radeon Graphics Driver Update v24.10: Installation and Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/cambiar-archivo-aiff-por-wav-sin-coste-soluciones-en-linea-de-movavi-gratis/"><u>Cambiar Archivo AIFF Por WAV Sin Coste: Soluciones en Línea De Movavi Gratis</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-handling-widget-notifications-win-11-style/"><u>Efficiently Handling Widget Notifications Win 11 Style</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-correcting-columnar-line-artifacts-in-your-samsung-tvs-picture/"><u>Expert Tips: Correcting Columnar Line Artifacts in Your Samsung TV's Picture</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/iphone-tips-how-to-access-and-enjoy-shared-albums/"><u>IPhone Tips: How to Access and Enjoy Shared Albums</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/is-streaming-netflix-possible-on-nintendo-switch-platform/"><u>Is Streaming Netflix Possible on Nintendo Switch Platform?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/share-the-entertainment-screen-casting-techniques-for-netflix-sessions/"><u>Share the Entertainment - Screen Casting Techniques for Netflix Sessions</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/starter-studio-luxe-limostudio-agg814-analysis/"><u>Starter Studio Luxe: LimoStudio AGG814 Analysis</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-fix-for-lameencdll-crashes-in-audacity-mp3-converter/"><u>Step-by-Step Fix for lame_enc.dll Crashes in Audacity MP3 Converter</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/the-ultimate-guide-key-drone-upgrades-and-supplies-for-2024/"><u>The Ultimate Guide Key Drone Upgrades & Supplies for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-what-to-do-when-your-zoom-camera-fails/"><u>Troubleshooting Guide: What to Do When Your Zoom Camera Fails</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722860324198-troubleshooting-tips-restoring-color-to-your-android-phones-darkened-screen/"><u>Troubleshooting Tips: Restoring Color to Your Android Phone’s Darkened Screen</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/unleash-the-potential-of-your-gopro-streaming-made-easy-on-facebookperiscope-for-2024/"><u>Unleash the Potential of Your Gopro Streaming Made Easy on Facebook/Periscope for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unmasking-deception-steps-towards-resolving-bogus-google-chrome-alerts/"><u>Unmasking Deception: Steps Towards Resolving Bogus Google Chrome Alerts</u></a></li>
 </ul></div>
 

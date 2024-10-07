@@ -1,7 +1,7 @@
 ---
 title: Tech Giant Metaputs a Stop to Its Next-Gen Quest Pro Project, Calls Off Work on Quest Pro 2 | ZDNET Report
-date: 2024-09-18T00:49:03.846Z
-updated: 2024-09-21T02:24:05.244Z
+date: 2024-10-05T19:05:06.675Z
+updated: 2024-10-07T16:31:38.516Z
 tags:
   - ar+vr
 categories:
@@ -67,12 +67,33 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-exploring-youtubes-ownership-vs-cc-freedom/"><u>[New] 2024 Approved Exploring YouTube's Ownership Vs. CC Freedom</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-skyrocket-your-e-commerce-game-with-these-essential-15-social-media-insights/"><u>[New] Skyrocket Your E-Commerce Game with These Essential 15 Social Media Insights</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-best-free-webm-players-for-2024/"><u>[Updated] Best Free WebM Players for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mp4-pc/"><u>初心者が始めるMP4ビデオファイル作成 - PCを使って覚える方法</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discovering-the-cutting-edge-model-whats-the-current-gen-ipad/"><u>Discovering the Cutting-Edge Model: What's the Current Gen iPad?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-solutions-for-overcoming-the-dhcp-error-code-e30-on-your-windows-pc/"><u>Effective Solutions for Overcoming the DHCP Error (Code E30) on Your Windows PC</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/fixing-sudden-disconnections-in-pc-speakers-windows-11/"><u>Fixing Sudden Disconnections in PC Speakers (Windows 11)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-enjoy-netflix-content-using-a-nintendo-switch-device/"><u>How To Enjoy Netflix Content Using A Nintendo Switch Device</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-i-screen-mirroring-apple-iphone-12-mini-to-tvlaptop-drfone-by-drfone-ios/"><u>In 2024, How Can I Screen Mirroring Apple iPhone 12 mini to TV/Laptop? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-focus-with-iphone-how-to-efficiently-zoom-in-and-out/"><u>Mastering Focus with iPhone: How to Efficiently Zoom In and Out</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-converting-soundcloud-to-mp3-a-simple-step-by-step-guide/"><u>Mastering the Art of Converting SoundCloud to MP3 – A Simple, Step-by-Step Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/monitoring-your-instagram-exit-strategy/"><u>Monitoring Your Instagram Exit Strategy</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-audio-interruptions-and-glitches-in-powerpoint-slideshows/"><u>Overcoming Audio Interruptions and Glitches in PowerPoint Slideshows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/snapchat-helpline-your-comprehensive-guide-for-reaching-out-to-support/"><u>Snapchat Helpline: Your Comprehensive Guide for Reaching Out to Support</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/sony-afeela-car-unveiling-the-latest-updates-on-price-and-release-schedule-detailed-insights/"><u>Sony Afeela Car: Unveiling the Latest Updates on Price & Release Schedule – Detailed Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-for-utilizing-androids-fast-access-features/"><u>Step-by-Step Tutorial for Utilizing Android's Fast Access Features</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-6-essential-tips-for-selecting-an-ideal-selfie-stick/"><u>Top 6 Essential Tips for Selecting an Ideal Selfie Stick</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-tecno-spark-20-pro-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Tecno Spark 20 Pro Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

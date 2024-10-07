@@ -1,7 +1,7 @@
 ---
 title: "All the Games for PS VR 2: Detailed Catalog of Titles Publicly Announced"
-date: 2024-09-16T20:57:28.598Z
-updated: 2024-09-21T03:14:09.274Z
+date: 2024-10-04T16:16:23.957Z
+updated: 2024-10-07T16:53:13.500Z
 categories:
   - BestProducts
 description: "This Article Describes All the Games for PS VR 2: Detailed Catalog of Titles Publicly Announced"
@@ -269,6 +269,20 @@ These games have all been announced, but some may not be out yet.
 
 ![Screenshot from Resident Evil: The Village](https://www.lifewire.com/thmb/V6jQIWVtc6zr6YWGV4yhA1rhuhw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/RE_Village_Apr_2021_Screens_05-4177f157cd1d4760bf3ca5e7b5475d66.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  The Dark Pictures: Switchback VR
 
 _The Dark Pictures_ developer Supermassive Games' original rail shooter,_Until Dawn: Rush of Blood_ , put players onto a terrifying rollercoaster ride full of scares and monsters from that title. The follow-up is the same idea, only it has four episodes to draw from the first "season" of_The Dark Pictures Anthology_ .
@@ -299,14 +313,14 @@ _The Dark Pictures_ developer Supermassive Games' original rail shooter,_Until D
 
 ![Gran Turismo 7](https://www.lifewire.com/thmb/2IloMRqyYwZJGkYuG2qezVvq02E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/gran-turismo-7-psvr2-screenshot-eyetracking-display-en-14feb23-8e143b334e9f46329010b96db4526f72.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Polyphony Digital
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Creed: Rise to Glory – Championship Edition
 
@@ -322,13 +336,6 @@ Polyphony Digital
 
 **Release Date** : March 2022
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  2MD: VR Football Unleashed All-Star
 
  While you don't have to do all the running yourself in this VR football game (that's what analog sticks are for), it will be up to you to block the defenders as you head for the end zone. This title prides itself on its passing physics, which will also exercise your arm.
@@ -338,13 +345,6 @@ Polyphony Digital
  Your VR gaming time doesn't have to be non-stop action. Plenty of options are available that will help you unwind at the end of your day.
 
 ![Tetris Effect: Connected video game on Xbox One, Xbox Series X, PS4, PS5, and Windows PC.](https://www.lifewire.com/thmb/7roJV1mYBrPIndXhqDXNT8DVyhM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tetris-effect-cheats-codes-and-secrets-04-09ea72d3f9a04970859a00d6f72e798f.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Puzzling Places
 
@@ -368,18 +368,18 @@ _Kayak VR: Mirage_ is a relaxing exploration game that takes you to Antarctica, 
 
 **Release Date** : February 2023
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The Best PSVR 2 Action Games
 
  PlayStation VR 2 owners who want to push their action skills should check out these games.
 
 ![Horizon: Call of the Mountain](https://www.lifewire.com/thmb/jD6wdUnV4hFDEByl5uWOt1b1YBc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HorizonCalloftheMountain-702c4adc02cf4e5daf6e7de3702753f2.jpeg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Horizon: Call of the Mountain
 
@@ -407,13 +407,34 @@ _Kayak VR: Mirage_ is a relaxing exploration game that takes you to Antarctica, 
 
 ![Moss: Book II](https://www.lifewire.com/thmb/TGEAq5sFoTL_YrBre8udckU2X64=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MossBook2-04fb9afd7f324c0c941778ea0926ede6.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Polyarc
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Moss and Moss: Book II
 
  This fantasy series teams you up with Quill, a heroic mouse who goes on adventures. You'll help her solve puzzles and fight monsters along the way, and the whole story is fully narrated. It's whimsical and fun, and the mouse is so brave. I think these are some of the best all-around games for the PSVR 2, and I highly recommend them even if you aren't looking for a
 
 **Release Date** : March 2022
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Humanity
 
@@ -422,10 +443,10 @@ Polyarc
 **Release Date** : May 2023
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Tentacular
@@ -468,5 +489,16 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-ideal-suggestions-superior-mobile-melody-designers/"><u>[New] 2024 Approved Ideal Suggestions Superior Mobile Melody Designers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-free-online-subtitle-converters-our-recommended-10/"><u>[New] Free Online Subtitle Converters Our Recommended 10</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-pixel-perfection-leading-ps5-compatible-hdmi-21-monitors-for-2024/"><u>[New] Pixel Perfection Leading PS5 Compatible HDMI 2.1 Monitors for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/boost-your-fps-and-smooth-out-stutters-ultimate-guide-to-enhancing-fortnite-warzone-performance/"><u>Boost Your FPS & Smooth Out Stutters: Ultimate Guide to Enhancing Fortnite Warzone Performance</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-ideal-iphone-mail-apps-our-selection/"><u>Exploring the Ideal iPhone Mail Apps - Our Selection</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-optimal-income-mastering-youtube-channel-profitability-on-mobile/"><u>In 2024, Optimal Income Mastering YouTube Channel Profitability on Mobile</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/scorching-savings-alert-apples-new-m2-macbook-air-on-sale-at-amazon-for-a-steal-at-799-dont-miss-out-pre-october-prime-frenzy/"><u>Scorching Savings Alert: Apple's New M2 MacBook Air on Sale at Amazon for a Steal at $799 – Don’t Miss Out Pre-October Prime Frenzy!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-showdown-deciding-between-ipad-pro-versions-for-tech-savvy-users-insights-from-zdnet/"><u>The Ultimate Showdown: Deciding Between iPad Pro Versions for Tech-Savvy Users | Insights From ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/why-i-became-a-believer-in-the-apple-watch-series-10-the-three-game-changing-features-revealed/"><u>Why I Became a Believer in the Apple Watch Series 10: The Three Game-Changing Features Revealed</u></a></li>
+</ul></div>
 

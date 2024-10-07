@@ -1,7 +1,7 @@
 ---
 title: "Camera Face-Off: Pixel eXtreme Vs. IPhone 15 - Who Wins and Who Shocks in Photographic Battle?"
-date: 2024-09-30T17:50:14.805Z
-updated: 2024-10-02T11:24:41.249Z
+date: 2024-10-03T20:50:06.990Z
+updated: 2024-10-07T18:42:08.107Z
 tags:
   - apple
 categories:
@@ -77,10 +77,10 @@ I use the ultrawide camera to take architecture shots or group photos. While I d
 I would prefer the iPhone shot for this particular image, but I can see myself using the wider FoV and fisheye effect on the Pixel 9 Pro when I'm traveling. The Google phone also fared better in low light with the ultrawide camera. That being said, the colors were consistent across three lenses on both phones.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## A clear winner in night time
@@ -110,10 +110,16 @@ The iPhone 15 Pro holds up well in indoor and artificial lighting conditions but
 The iPhone 15 Pro shot looks bad, despite the dog not moving, while the Pixel 9 Pro XL was able to capture the subject when it was about to move by the time the shutter was processed. I would pick the new Google phone for night shots unless the iPhone 16 Pro comes with better Night Mode algorithms. 
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Pixel 9 Pro XL gets good at selfies
@@ -127,10 +133,10 @@ I like the selfie shooter on the iPhone 15 Pro and have found it better than And
 I like the Pixel 9 Pro XL selfie here but the iPhone was able to get more details around the hair. But you can see areas around my forehead and cheeks where the highlights are blown out. However, both look social media worthy and I'm impressed by the selfie camera on the Pixel 9 Pro. It does a better job than the iPhone when the light source is behind you.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Pixel 9 Pro XL vs iPhone 15 Pro camera: Which one is better?
@@ -175,24 +181,24 @@ I expect the iPhone 16 Pro to do better in the aspects where the iPhone 15 Pro l
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-high-speed-race-replicas-our-top-picks/"><u>[Updated] 2024 Approved High-Speed Race Replicas Our Top Picks</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-premium-virtual-meetup-software-titles/"><u>[Updated] 2024 Approved Premium Virtual Meetup Software Titles</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-premium-top-11-list-best-audio-tech-showcase/"><u>[Updated] Premium Top 11 List - Best Audio Tech Showcase</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-the-recorders-eye-a-snapshot-of-best-tools/"><u>[Updated] The Recorder's Eye A Snapshot of Best Tools</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-not-just-carjacking-fun-the-best-non-gta-games/"><u>2024 Approved Not Just Carjacking Fun The Best Non-GTA Games</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722899020307-dive-into-the-secrets-of-nothing-phones-latest-model-anticipated-costs-arrival-date-features-stay-ahead-with-our-insights/"><u>Dive Into the Secrets of Nothing Phone's Latest Model: Anticipated Costs, Arrival Date, Features - Stay Ahead with Our Insights</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/ensuring-unblemished-movie-magic/"><u>Ensuring Unblemished Movie Magic</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-on-fixing-borderlands-3-not-starting-in-11-simple-ways/"><u>Expert Advice on Fixing 'Borderlands 3 Not Starting' In 11 Simple Ways</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-enhance-indoor-tv-signals-with-an-effective-indoor-antenna-solution/"><u>How to Enhance Indoor TV Signals with an Effective Indoor Antenna Solution</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Nokia C02 | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/logic-pro-xs-audio-magic-tricks-for-seamless-sounds/"><u>Logic Pro X's Audio Magic Tricks for Seamless Sounds</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-lg-channels-crucial-details-uncovered-for-success/"><u>Mastering LG Channels: Crucial Details Uncovered for Success</u></a></li>
-<li><a href="https://blog-min.techidaily.com/projetos-originais-com-seiva-carvalho-no-movavi-autor-and-artista-visual/"><u>Projetos Originais Com Seiva Carvalho No Movavi: Autor & Artista Visual</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-missing-libgdk-win32-20-0dll-errors-on-your-windows-pc/"><u>Resolving Missing libgdk-win32-2.0-0.dll Errors on Your Windows PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/revive-your-chromebook-from-freezing-8-key-solutions-to-try/"><u>Revive Your Chromebook From Freezing: 8 Key Solutions to Try</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/simple-tricks-for-resolving-your-magic-mouses-tracking-issues/"><u>Simple Tricks For Resolving Your Magic Mouse's Tracking Issues</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solutions-for-when-your-computer-says-msvcr7dll-is-missing/"><u>Solutions for When Your Computer Says 'MSVCR7#.dll Is Missing'</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-the-dilemma-of-apple-watch-without-cellular-service/"><u>Solving the Dilemma of Apple Watch Without Cellular Service</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-retrieve-your-archived-instagram-reels-with-ease/"><u>Ultimate Guide: Retrieve Your Archived Instagram Reels with Ease</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-boosting-connectivity-with-creative-fb-slideshow-ideas/"><u>[New] Boosting Connectivity with Creative FB Slideshow Ideas</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-streamline-filming-borders-on-instagram-videos/"><u>[Updated] 2024 Approved Streamline Filming Borders on Instagram Videos</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-leading-tools-for-extracting-fb-videos-top-5-for-2024/"><u>[Updated] Leading Tools for Extracting FB Videos - TOP 5 for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-free-apps-for-learning-new-languages-this-year/"><u>Discover the Best Free Apps for Learning New Languages This Year</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dissolving-barriers-with-artificial-insight/"><u>Dissolving Barriers with Artificial Insight</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/efficiently-recover-saved-instagram-reels-a-comprehensive-how-to-guide/"><u>Efficiently Recover Saved Instagram Reels - A Comprehensive How-To Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/future-on-wheels-ranking-the-top-4-autonomous-vehicle-brands-for-2eet4/"><u>Future on Wheels: Ranking the Top 4 Autonomous Vehicle Brands for 2Eet4</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-a-beginners-guide-to-adding-depth-with-text-in-photoshop/"><u>In 2024, A Beginner's Guide to Adding Depth with Text in Photoshop</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-expert-tips-for-changing-mac-screenshot-formats/"><u>In 2024, Expert Tips for Changing Mac Screenshot Formats</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-seamless-shoot-and-capture-with-tracker-tech/"><u>In 2024, Seamless Shoot-and-Capture with Tracker Tech</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/live-coverage-of-mens-ncaa-tournament-bracket-busting-stories-from-march-madness-to-final-four/"><u>Live Coverage of Men's NCAA Tournament: Bracket-Busting Stories From March Madness to Final Four!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-ps4-screen-captures-a-step-by-step-guide/"><u>Mastering PS4 Screen Captures: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-transferring-your-entire-dvd-library-to-amazons-secure-cloud-storage/"><u>Step-by-Step Guide: Transferring Your Entire DVD Library to Amazon's Secure Cloud Storage</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-process-converting-grouped-jpegs-to-a-single-pdf-document/"><u>Step-by-Step Process: Converting Grouped JPEGs to a Single PDF Document</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-evolution-of-google-hangouts-from-launch-to-discontinuation/"><u>The Evolution of Google Hangouts: From Launch to Discontinuation</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-next-generation-of-timepieces-unveiling-potential-specs-for-googles-new-watch-release-info-included/"><u>The Next Generation of Timepieces: Unveiling Potential Specs for Google's New Watch – Release Info Included</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-perfect-fix-how-to-alter-your-stories-text-on-insta/"><u>The Perfect Fix: How to Alter Your Stories Text on Insta</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-what-to-do-when-your-keyboard-isnt-typing/"><u>Troubleshooting Guide: What to Do When Your Keyboard Isn't Typing</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-techniques-to-fix-win11-system-call-errors/"><u>Troubleshooting Techniques to Fix Win11 System Call Errors</u></a></li>
 </ul></div>
 

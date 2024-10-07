@@ -1,7 +1,7 @@
 ---
 title: "No More Need for Extra Apps: How iOS 18 Enables Direct Call Recording on Apple Devices | TechSpot"
-date: 2024-09-25T20:23:49.478Z
-updated: 2024-10-02T05:53:25.880Z
+date: 2024-10-03T16:54:01.735Z
+updated: 2024-10-07T18:16:38.454Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ In this article, I'll show you how to take both screenshots and screen recording
 ## How to take a screenshot or screen recording with your Vision Pro
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The two ways to take a screenshot on Vision Pro
@@ -64,10 +64,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 So that's how it's done. Now for the weird part.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to handle screenshot weirdness on Vision Pro
@@ -109,10 +109,10 @@ I carefully lined up the horizon of the lake (I'm using the Mount Hood environme
 It's quite frustrating, and either an artifact of the Vision Pro or of my slightly tilted psyche. Either way, it's weird and annoying. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to capture a screen recording on Vision Pro
@@ -162,21 +162,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-transform-your-footage-best-free-android-editors-reviewed/"><u>[New] 2024 Approved Transform Your Footage Best Free Android Editors Reviewed</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-capturing-every-moment-unveiling-5-exceptional-streamer-webcams-for-2024/"><u>[New] Capturing Every Moment Unveiling 5 Exceptional Streamer Webcams for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-unleashing-classic-psp-gaming-best-ios-emulators-ranked/"><u>[Updated] 2024 Approved Unleashing Classic PSP Gaming Best iOS Emulators Ranked</u></a></li>
-<li><a href="https://driver-install.techidaily.com/amdradeon5770windows11update/"><u>AMDRADEON5770Windows11Update</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/audio-alert-understanding-why-your-vehicles-speakers-fail/"><u>Audio Alert! Understanding Why Your Vehicle's Speakers Fail</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-review-on-flsun-solar-panel-s1-with-warp-speed-efficiency/"><u>Comprehensive Review on FLSun Solar Panel S1 with Warp Speed Efficiency</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/ensure-compatibility-and-optimize-your-pc-download-the-newest-nvidia-quadro-graphics-drivers-for-windows-10/"><u>Ensure Compatibility and Optimize Your PC: Download the Newest NVIDIA Quadro Graphics Drivers for Windows 10</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/error-0xc0000185-explained-causes-and-fixes-demystified/"><u>Error 0Xc0000185 Explained: Causes and Fixes Demystified</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-no-cost-methods-for-enjoying-netflix-streams/"><u>Exploring No-Cost Methods for Enjoying Netflix Streams</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722891461810-exploring-the-best-tv-streaming-options-our-pick-of-the-top-8/"><u>Exploring the Best TV Streaming Options: Our Pick of the Top 8</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-6-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 6 without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/inside-scoop-can-you-believe-these-specs-for-the-new-foldable-iphone/"><u>Inside Scoop: Can You Believe These Specs for The New Foldable iPhone?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/maximizing-your-post-a-step-by-step-guide-to-fitting-the-full-image-in-an-instagram-story/"><u>Maximizing Your Post: A Step-by-Step Guide to Fitting the Full Image in an Instagram Story</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-secret-behind-timeless-game-aesthetics-retroarcs-shaders/"><u>The Secret Behind Timeless Game Aesthetics - RetroArc's Shaders</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ultimate-guide-to-the-best-top-race-rc-rock-crawler-mastering-off-road-adventures/"><u>Ultimate Guide to the Best Top Race RC Rock Crawler: Mastering Off-Road Adventures</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/uncover-the-best-ios-delightful-brain-teasers-inspired-by-classic-titles-the-room-and-myst/"><u>Uncover the Best iOS Delightful Brain-Teasers Inspired by Classic Titles 'The Room' And 'Myst'</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-channel-naming-excellence-tips-and-strategies/"><u>[New] 2024 Approved Channel Naming Excellence Tips & Strategies</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-sci-fis-virtual-frontiers-top-10-metaverse-escapes/"><u>[New] Sci-Fi's Virtual Frontiers Top 10 Metaverse Escapes</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-the-right-to-appeal-steps-following-abrupt-video-content-suspension-for-2024/"><u>[New] The Right to Appeal Steps Following Abrupt Video Content Suspension for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-break-barriers-enhancing-live-social-media-collaborations/"><u>[Updated] Break Barriers Enhancing Live Social Media Collaborations</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-spotifys-top-10-viral-songs/"><u>[Updated] Spotify’s Top 10 Viral Songs</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-perfect-360-rotation-visual-exploration/"><u>2024 Approved Perfect 360° Rotation Visual Exploration</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-8-mobile-tools-for-smart-traveling/"><u>Discover the Ultimate 8 Mobile Tools for Smart Traveling</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-connectivity-mastering-the-use-of-winnettools/"><u>Enhance Connectivity: Mastering the Use of WinNetTools</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enhancing-audio-clarity-fixes-for-muted-iphone-calls/"><u>Enhancing Audio Clarity: Fixes for Muted iPhone Calls</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gigglegif-genius-for-2024/"><u>GiggleGif Genius for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-address-and-correct-missing-binkw32dll-files-in-your-computer-system/"><u>How to Address and Correct Missing Binkw32.dll Files in Your Computer System</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-securely-silence-unwanted-imessages-and-sms-on-iphone/"><u>How to Securely Silence Unwanted iMessages and SMS on iPhone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-make-a-lasting-impression-top-10-free-animated-logo-makers/"><u>In 2024, Make a Lasting Impression Top 10 Free Animated Logo Makers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-propstsydll-file-unavailable-step-by-step-troubleshooting-guide/"><u>Resolving 'Propstsy.dll' File Unavailable: Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/steps-to-disable-youtube-access-on-your-ipad-device/"><u>Steps to Disable YouTube Access on Your iPad Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ins-and-outs-of-ray-tracing-technology-explained/"><u>The Ins and Outs of Ray Tracing Technology Explained</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-fix-for-btballoondll-not-found-issues/"><u>The Ultimate Fix for 'btballoon.dll Not Found' Issues</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-strategies-for-correcting-syntax-issues-on-android-platforms/"><u>Top Strategies for Correcting Syntax Issues on Android Platforms</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/turn-up-the-volume-a-guide-to-personalizing-ringtone-and-sound-settings-on-android-devices-for-2024/"><u>Turn Up the Volume A Guide to Personalizing Ringtone & Sound Settings on Android Devices for 2024</u></a></li>
 </ul></div>
 

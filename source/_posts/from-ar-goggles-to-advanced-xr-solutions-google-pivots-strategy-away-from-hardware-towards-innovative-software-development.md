@@ -1,7 +1,7 @@
 ---
 title: "From AR Goggles to Advanced XR Solutions: Google Pivots Strategy Away From Hardware Towards Innovative Software Development"
-date: 2024-09-19T22:31:20.706Z
-updated: 2024-09-21T02:47:34.747Z
+date: 2024-10-03T17:00:08.892Z
+updated: 2024-10-07T18:14:19.584Z
 tags:
   - ar+vr
 categories:
@@ -67,12 +67,27 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-best-practices-in-finding-quality-photo-and-video-banners/"><u>[New] 2024 Approved Best Practices in Finding Quality Photo & Video Banners</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-high-definition-screen-memory-tools/"><u>[New] 2024 Approved High Definition Screen Memory Tools</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-free-visual-templates-to-upgrade-your-profile/"><u>[Updated] 2024 Approved Free Visual Templates to Upgrade Your Profile</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-mastering-smart-exposure-the-ultimate-guide-to-hdr-tech-in-cameras/"><u>[Updated] 2024 Approved Mastering Smart Exposure The Ultimate Guide to HDR Tech in Cameras</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-build-your-wealth-on-youtube-a-guide-to-creating-content-without-ads-for-2024/"><u>[Updated] Build Your Wealth on YouTube A Guide to Creating Content Without Ads for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-precision-and-savings-combined-top-asmr-microphones-within-reach/"><u>[Updated] Precision & Savings Combined Top ASMR Microphones Within Reach</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/electric-cars-versus-climate-extremes-a-durability-test/"><u>Electric Cars Versus Climate Extremes: A Durability Test</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-schedule-an-expert-consultation-at-the-apple-genius-bar-effectively/"><u>How to Schedule an Expert Consultation at the Apple Genius Bar Effectively</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-the-art-of-bulk-removal-for-your-snapchat-friends-list/"><u>Master the Art of Bulk Removal for Your Snapchat Friends List</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/oneplus-nology-buzz-projected-pricing-release-window-and-potential-upgrades-for-next-gen-device/"><u>OnePlus Nology Buzz: Projected Pricing, Release Window & Potential Upgrades for Next-Gen Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-essentials-of-ar-vr-mr-and-xr-explained-knowing-their-key-characteristics/"><u>The Essentials of AR, VR, MR & XR Explained - Knowing Their Key Characteristics</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/troubleshoot-your-youtube-video-problems-with-quick-fixes-for-fullscreen-glitches-and-dark-background-issues/"><u>Troubleshoot Your YouTube Video Problems with Quick Fixes for Fullscreen Glitches and Dark Background Issues</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-selection-10-premier-sports-films-ideal-for-your-next-viewing-session/"><u>Ultimate Selection: 10 Premier Sports Films Ideal for Your Next Viewing Session</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

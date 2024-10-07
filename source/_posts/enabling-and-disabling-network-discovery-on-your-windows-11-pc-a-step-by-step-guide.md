@@ -1,7 +1,7 @@
 ---
 title: "Enabling and Disabling Network Discovery on Your Windows 11 PC: A Step-by-Step Guide"
-date: 2024-09-27T18:36:28.031Z
-updated: 2024-10-01T18:10:46.590Z
+date: 2024-10-06T18:00:14.916Z
+updated: 2024-10-07T16:43:04.041Z
 categories:
   - BestProducts
 description: "This Article Describes Enabling and Disabling Network Discovery on Your Windows 11 PC: A Step-by-Step Guide"
@@ -50,10 +50,10 @@ of 15
 ![Free Windows 11 World Oceans Day PREMIUM theme.](https://www.lifewire.com/thmb/Pxnj6J-PdBe7vOrp0n0DsarZaR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/15-best-windows-11-themes-to-download-for-free-14-9e0df8be2f2b4db3b7d1832af3051150.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Microsoft
@@ -101,6 +101,13 @@ of 15
 
 ![Xbox Series X Windows 11 desktop theme.](https://www.lifewire.com/thmb/ApO2Qm8k5GCWuF4tmFgJlMmocdQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/15-best-windows-11-themes-to-download-for-free-01-97887803bbed4a17afcd021c4e0acd2a.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Microsoft
 
  What We Like
@@ -144,15 +151,22 @@ Microsoft
 of 15
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## [Most Cheerful: Springtime Art](https://apps.microsoft.com/detail/9nb94bhphhtv)
 
 ![Windows 11 Springtime Art desktop theme.](https://www.lifewire.com/thmb/Rl8atfR3H66J3LsBCZFVMG4I6FY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/15-best-windows-11-themes-to-download-for-free-03-571f1cc7d3be4479bae463eac891f889.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Microsoft
 
@@ -177,13 +191,6 @@ of 15
 
 ![Windows 11 Architectural Structures PREMIUM desktop theme.](https://www.lifewire.com/thmb/W-MGDIODiOFai8aJpPL1KNSBvnw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/15-best-windows-11-themes-to-download-for-free-04-8bbb54c3900747f3bb91d4305bccf967.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Microsoft
 
  What We Like
@@ -207,13 +214,6 @@ of 15
 
 ![Bing Wallpaper app on Windows 11 desktop.](https://www.lifewire.com/thmb/js_juFKx8Nb9e8nNeVfQogW_bXg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/15-best-windows-11-themes-to-download-for-free-05-5c98705b50d742dc95db64064a0681af.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Microsoft
 
  What We Like
@@ -233,6 +233,13 @@ Microsoft
 09
 
 of 15
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## [Best Easter Theme: Chicks and Bunnies](https://apps.microsoft.com/detail/9p73cv0wfg37)
 
@@ -261,6 +268,13 @@ of 15
 
 ![Fireworks on New Years Windows 11 theme.](https://www.lifewire.com/thmb/SF392yfsUkMYpBYe3FcgyeaA1Os=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/15-best-windows-11-themes-to-download-for-free-07-138d93b2e67a4c3686810dcd17f237ea.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Microsoft
 
  What We Like
@@ -279,13 +293,6 @@ Microsoft
 11
 
 of 15
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## [Best Halloween Theme: Pumpkin Season](https://apps.microsoft.com/detail/9msz4smskq4z)
 
@@ -332,15 +339,22 @@ Microsoft
 
 of 15
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## [Best for Diwali: Festival of Lights](https://apps.microsoft.com/detail/9p5ms5vk11dm)
 
 ![Festival of Lights Windows 11 free theme.](https://www.lifewire.com/thmb/4gDgrHCbFqMyMklqHUIsDwf92is=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/15-best-windows-11-themes-to-download-for-free-10-8acc34bb46764a06809365d6a3ebe412.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Microsoft
@@ -365,13 +379,6 @@ of 15
 
 ![Windows 11 free Pride 2020 Flags theme.](https://www.lifewire.com/thmb/7zs90KviHrR3wjX-1P2OD6YUivU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/15-best-windows-11-themes-to-download-for-free-11-40cf91f1021149978d6e1b3d235f48ed.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Microsoft
 
  What We Like
@@ -390,13 +397,6 @@ Microsoft
 15
 
 of 15
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## [Best for Otter Lovers: Otters](https://apps.microsoft.com/detail/9n8n2lghzl36)
 
@@ -454,22 +454,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-unveiling-the-10-best-free-os-agnostic-video-solutions/"><u>[New] In 2024, Unveiling the 10 Best Free OS-Agnostic Video Solutions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovating-audio-visuals-podcast-covers-explained/"><u>[Updated] Innovating Audio Visuals Podcast Covers Explained</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-key-fixes-for-stabilizing-windows-10-photos-display/"><u>2024 Approved Key Fixes for Stabilizing Windows 10 Photos Display</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-streamlining-your-subtitle-workflow-with-leading-online-tools/"><u>2024 Approved Streamlining Your Subtitle Workflow with Leading Online Tools</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-honor-x50-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Honor X50 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fortnite-troubleshooting-what-to-do-if-you-cant-play-due-to-permission-issues/"><u>Fortnite Troubleshooting: What to Do If You Can’t Play Due to Permission Issues</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-finding-your-ideal-facial-editor-ios-vs-android/"><u>In 2024, Finding Your Ideal Facial Editor IOS vs Android</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Vivo Y100? | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/innovative-connectivity-simplified-an-insightful-look-at-the-tp-link-deco-p9-router/"><u>Innovative Connectivity Simplified: An Insightful Look at the TP-Link Deco P9 Router</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-choosing-the-ideal-battery-packs-for-campers-in-depth-analysis-and-expert-opinions/"><u>Ultimate Guide to Choosing the Ideal Battery Packs for Campers: In-Depth Analysis and Expert Opinions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-the-highest-quality-portable-projecrors-on-zdnet/"><u>Ultimate Guide to the Highest Quality Portable Projecrors on ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-list-of-aplus-metal-detection-gadgets-for-202n4-tech-pros-weigh-in-zdnet/"><u>Ultimate List of A+ Metal Detection Gadgets for 202N4: Tech Pros Weigh In | ZDNET</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-surprising-delights-the-ring-spotlight-cam-pro-review-on-zdnet/"><u>Unveiling Surprising Delights: The Ring Spotlight Cam Pro Review on ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/why-the-arlo-pro-5s-almost-made-it-as-my-ideal-home-surveillance-system-an-in-depth-review-on-zdnet/"><u>Why the Arlo Pro 5S Almost Made It As My Ideal Home Surveillance System – An In-Depth Review on ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/zdnet-exclusive-why-ecoflow-river-3-dominates-as-the-ideal-starter-battery/"><u>ZDNet Exclusive: Why EcoFlow River 3 Dominates as the Ideal Starter Battery</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/zdnet-review-discover-why-ecoflow-river-amoeba-is-a-top-pick-for-beginners-in-portable-power-solutions/"><u>ZDNet Review: Discover Why EcoFlow River Amoeba Is a Top Pick for Beginners in Portable Power Solutions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/zdnets-complete-guide-to-the-april-2024-lunar-eclipse-tips-for-viewing-essential-gear-and-key-facts-you-should-be-aware-of/"><u>ZDNet's Complete Guide to the April 2024 Lunar Eclipse: Tips for Viewing, Essential Gear & Key Facts You Should Be Aware Of</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-navigating-the-trending-tiktok-landscape-with-hashes-for-2024/"><u>[New] Navigating the Trending TikTok Landscape with Hashes for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-social-media-mastery-surpassing-the-competition-in-popularity-rankings-for-2024/"><u>[New] Social Media Mastery Surpassing the Competition in Popularity Rankings for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-grandest-clash-of-titans-a-compilation-of-the-top-7-total-war-skirmishes/"><u>[Updated] In 2024, Grandest Clash of Titans A Compilation of the Top 7 Total War Skirmishes</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-assessing-luminance-for-hd-raises-questions/"><u>2024 Approved Assessing Luminance for HD Raises Questions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/all-you-need-to-know-about-the-latest-rumored-sony-virtual-reality-headset/"><u>All You Need to Know About the Latest Rumored Sony Virtual Reality Headset</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-ways-to-navigate-zoom-features-for-ios-devices/"><u>Easy Ways to Navigate Zoom Features for iOS Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/elevate-your-stream-with-our-picks-8-premier-free-roku-channels/"><u>Elevate Your Stream with Our Picks: 8 Premier Free Roku Channels</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/essential-zoom-skills-for-exceptional-audio-capture-in-podcasting/"><u>Essential Zoom Skills for Exceptional Audio Capture in Podcasting</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-14-pro-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 14 Pro Data From iOS iCloud? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/is-the-twitch-service-down-how-to-distinguish-between-platform-and-individual-connection-errors/"><u>Is the Twitch Service Down? How to Distinguish Between Platform and Individual Connection Errors</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/mastering-instagram-video-edits-using-top-mobile-video-editing-applications/"><u>Mastering Instagram Video Edits Using Top Mobile Video Editing Applications</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/pokemon-go-companions-101-enhancing-your-game-experience-through-teamwork-and-social-play/"><u>Pokemon GO Companions 101: Enhancing Your Game Experience Through Teamwork and Social Play</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-missing-osetupdll-errors-on-your-pc-step-by-step-guide/"><u>Resolving Missing osetup.dll Errors on Your PC - Step by Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/restore-your-windows-10-touchscreen-functionality-with-these-five-remedies/"><u>Restore Your Windows 10 Touchscreen Functionality with These Five Remedies</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-to-email-categorization-using-labels-in-gmail/"><u>Step-by-Step Guide to Email Categorization Using Labels in Gmail</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-to-correct-the-absence-of-avcodecdll-files-in-windows/"><u>Troubleshooting Guide to Correct the Absence of Avcodec.dll Files in Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-wlanapidll-not-found-issues-on-your-pc/"><u>Troubleshooting Wlanapi.dll Not Found Issues on Your PC</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Apple Pioneers AI Progress with New Model Releases: Unveiling Their Potential Impact | CNET News"
-date: 2024-09-30T11:05:14.969Z
-updated: 2024-10-01T20:30:06.385Z
+date: 2024-10-03T17:36:41.135Z
+updated: 2024-10-07T16:28:55.221Z
 tags:
   - apple
 categories:
@@ -35,16 +35,10 @@ Apple announced an innovative feature coming to AirPods Pro 2 when iOS 18 is rel
 Then, if needed, the AirPods Pro 2 can use the wearer's results and double as an over-the-counter hearing aid. This feature will allow the Pro 2 earbuds to use their directional microphones to amplify conversational noises for users who have difficulty hearing conversations in noisy environments. Apple is still waiting for the FDA to approve this feature, but the company expects the approval to be ready for iOS 18's release.
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Find My speaker
@@ -54,10 +48,10 @@ Apple's AirPods Pro 2 feature a small speaker on the bottom of the charging case
 Jada Jones/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. AirPods Max wired listening
@@ -77,10 +71,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 Now, if you have an iPhone 15 or newer, you can plug a USB-C cable into your iPhone and AirPods Max and begin listening. If you have an iPhone 14 or older, you can use a Lightning-to-USB-C adapter to plug into the new AirPods Max.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. A 'Goldilocks' pair of AirPods
@@ -121,24 +115,20 @@ Now, you can buy the AirPods 4 with noise cancellation, which offer upgraded aud
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-tiktok-malfunctions-resetting-or-repairing/"><u>[New] 2024 Approved TikTok Malfunctions Resetting or Repairing?</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-speaking-with-impact-in-google-meet-the-guidebook/"><u>[New] Speaking with Impact in Google Meet The Guidebook</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-typographic-tactics-for-advanced-ae-users/"><u>[Updated] Typographic Tactics for Advanced AE Users</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-oppo-a1-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Oppo A1 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ace-your-artwork-navigate-through-our-selection-of-the-top-17-graphic-design-platforms/"><u>Ace Your Artwork: Navigate Through Our Selection of the Top 17 Graphic Design Platforms</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722889355374-blown-away-by-emojis-10-startling-truths-you-need-to-see/"><u>Blown Away by Emojis? 10 Startling Truths You Need to See!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-tutorial-identifying-and-correcting-problem-0x80070570/"><u>Comprehensive Tutorial: Identifying & Correcting Problem 0X80070570</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-lgbtq-viewing-selection-for-netflix-as-of-july-2024/"><u>Discover the Best LGBTQ Viewing Selection for Netflix as of July 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-picks-top-gaming-consoles-dominating-2024/"><u>Expert Picks: Top Gaming Consoles Dominating 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/from-antennas-to-apps-a-comprehensive-guide-on-cable-vs-streaming-services/"><u>From Antennas to Apps: A Comprehensive Guide on Cable Vs. Streaming Services</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-honor-play-7t-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Honor Play 7T Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Asus ROG Phone 8 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-honor-magic-v2-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Honor Magic V2 Through Google Earth?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-strategies-for-mastering-teleport-commands-in-minecraft/"><u>Step-by-Step Strategies for Mastering Teleport Commands in Minecraft</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-comprehensive-guide-to-differentiating-ar-from-vr-mr-and-xr-technologies/"><u>The Comprehensive Guide to Differentiating AR From VR, MR & XR Technologies</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-unseen-cost-10-dangers-of-digital-networking/"><u>The Unseen Cost: 10 Dangers of Digital Networking</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-5-most-trusted-encrypted-email-providers/"><u>Top 5 Most Trusted Encrypted Email Providers</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-10-recommended-sites-for-downloading-creative-end-credit-melodies-lawfully/"><u>Updated 10 Recommended Sites for Downloading Creative End Credit Melodies Lawfully</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/be-tv-demystified-your-complete-reference-for-2024/"><u>YouTube TV Demystified Your Complete Reference for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-superior-desktop-video-recorders-for-pcmacos/"><u>[New] 2024 Approved Superior Desktop Video Recorders for PC/macOS</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-accelerating-the-playback-of-instagram-videos-tips/"><u>[New] Accelerating the Playback of Instagram Videos (Tips)</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-the-messenger-maestros-guide-to-capturing-social-media-videos/"><u>2024 Approved The Messenger Maestro's Guide to Capturing Social Media Videos</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/2024s-top-26-freeware-registry-sanitizers-the-definitive-rankings-for-a-streamlined-pc/"><u>2024’S Top 26 Freeware Registry Sanitizers: The Definitive Rankings for a Streamlined PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/a-simple-way-to-disengage-sound-effects-in-your-pc-running-windows-10/"><u>A Simple Way to Disengage Sound Effects in Your PC Running Windows 10</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/assessing-the-apex-of-video-recording-is-it-splitcam/"><u>Assessing the Apex of Video Recording Is It SplitCam?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-infinix-note-30-pro-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Infinix Note 30 Pro</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/dealing-with-a-silent-laptop-step-by-step-solution-for-no-audio-problems/"><u>Dealing with a Silent Laptop – Step-by-Step Solution for 'No Audio' Problems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-publicly-available-instagram-content-without-signing-up/"><u>Discover Publicly Available Instagram Content without Signing Up</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-restore-true-colors-on-your-tv-a-guide-with-eight-essential-fixes/"><u>How to Restore True Colors on Your TV: A Guide with Eight Essential Fixes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-seamlessly-update-your-powerpoint-presentation-software/"><u>How to Seamlessly Update Your PowerPoint Presentation Software</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-how-to-add-youtube-end-screen-and-cards-effectively/"><u>In 2024, How to Add YouTube End Screen and Cards Effectively</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/remedying-d3dx939dll-is-missing-easy-solutions-for-users/"><u>Remedying 'd3dx9_39.dll Is Missing' - Easy Solutions for Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-leading-triad-of-breakthrough-tech-trends-in-play/"><u>Unveiling the Leading Triad of Breakthrough Tech Trends in Play</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722903177773-why-isnt-my-iphone-rings-uncover-the-reasons-and-fix-them-now/"><u>Why Isn't My iPhone Rings? Uncover the Reasons & Fix Them Now</u></a></li>
 </ul></div>
 

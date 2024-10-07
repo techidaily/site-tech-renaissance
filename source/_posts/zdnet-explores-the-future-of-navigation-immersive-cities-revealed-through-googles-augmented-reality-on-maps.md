@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Explores the Future of Navigation: Immersive Cities Revealed Through Google's Augmented Reality on Maps"
-date: 2024-09-15T00:18:42.077Z
-updated: 2024-09-20T21:16:00.169Z
+date: 2024-09-30T16:58:47.818Z
+updated: 2024-10-07T18:07:07.573Z
 tags:
   - ar+vr
 categories:
@@ -67,12 +67,28 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-earning-stream-start-small-see-big-on-youtube-for-2024/"><u>[New] Earning Stream Start Small, See Big on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-closing-powerhouses-free-top-6-video-closers-for-2024/"><u>[Updated] Closing Powerhouses Free Top 6 Video Closers for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-youtubes-first-visual-hook-creating-personalized-thumbnails/"><u>2024 Approved YouTube's First Visual Hook Creating Personalized Thumbnails</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-beginners-tutorial-to-switch-network-discovery-on-or-off-on-windows-10-systems/"><u>A Beginner's Tutorial to Switch Network Discovery On or Off on Windows 10 Systems</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/does-blog-anonymity-persist/"><u>Does Blog Anonymity Persist?</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-vivo-s18e-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Vivo S18e Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-hidden-history-unveiled-understanding-off-facebook-data/"><u>In 2024, Hidden History Unveiled Understanding Off-Facebook Data</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/iphone-versus-android-phones-a-comprehensive-look-at-whats-best-for-you/"><u>IPhone Versus Android Phones: A Comprehensive Look at What's Best for You</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/step-by-step-guide-sharing-your-videos-on-facebook-from-pc-or-phone/"><u>Step-by-Step Guide: Sharing Your Videos on Facebook From PC or Phone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-trick-for-a-professional-look-blurring-your-backdrop-on-google-meet/"><u>The Ultimate Trick for a Professional Look: Blurring Your Backdrop on Google Meet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-6-must-have-food-tracking-mobile-apps-for-healthy-eating/"><u>Top 6 Must-Have Food Tracking Mobile Apps for Healthy Eating</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-choosing-the-ideal-apple-watch-band-tested-and-reviewed-see-what-zdnet-says/"><u>Ultimate Guide to Choosing the Ideal Apple Watch Band | Tested & Reviewed - See What ZDNET Says</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-the-secrets-remotely-checking-whereabouts-on-an-iphone-device/"><u>Unlock the Secrets: Remotely Checking Whereabouts on an iPhone Device</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

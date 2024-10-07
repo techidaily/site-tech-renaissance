@@ -1,7 +1,7 @@
 ---
 title: "Exploring Smartphone Assessment Techniques: Inside ZDNet's Mobile Lab"
-date: 2024-09-27T10:20:58.853Z
-updated: 2024-10-01T17:09:00.825Z
+date: 2024-09-30T20:50:17.167Z
+updated: 2024-10-07T16:51:06.193Z
 tags:
   - apple
 categories:
@@ -38,13 +38,6 @@ Within the embargoed time frame, ZDNET reviewers can test the latest features (i
 
 While ZDNET primarily covers smartphone releases in the US market, we also evaluate international handsets to understand the competitive landscape better and have a frame of reference when making recommendations to international readers. We also attend trade shows, including [CES](https://www.zdnet.com/collection/ces-2024-whats-next-in-tech/) and [Mobile World Congress](https://www.zdnet.com/collection/mwc-2024/), to connect with industry experts and analysts.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What makes a phone ZDNET recommended?
 
 For hands-on testing, five aspects determine whether or not a phone gets recommended : design, performance, cameras, battery life, and special features. The importance of each aspect will vary across users; some will value camera quality over battery life, and others just want a phone that's unique and different. Generally, the order of importance is cameras, battery life, design, performance, and then special features.
@@ -52,10 +45,10 @@ For hands-on testing, five aspects determine whether or not a phone gets recomme
 To be included in our [buying guides](https://www.zdnet.com/best-products/), the best smartphones must achieve above-average marks on all five criteria (with a reviewed score of over 3.5 out of 5), especially when compared to other devices priced similarly. Reviewers also consider the key differences between the latest phone models and their predecessors during the grading process.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Design and ergonomics
@@ -68,6 +61,13 @@ But also, how does the phone feel when it's tucked in your tight jeans or lightw
 
 To truly test the real-world experience of using the latest iPhones and Androids, ZDNET reviewers often don't accessorize the handsets with silicone or rubberized cases; instead, we browse, take pictures, and roam around with them as is. Phones get brownie points if they're rated IP68, the industry standard for water and dust resistance.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Performance
 
 Kerry Wan/ZDNET
@@ -77,13 +77,6 @@ Several factors affect a phone's performance, including LTE/5G signal, battery l
 Performance testing also includes putting phones through varying levels of graphic-intensive tasks, including importing and exporting spreadsheets, photo-editing in Adobe Lightroom, and playing mobile games like _Genshin Impact_ and _Asphalt 9\._ I'll oftentimes have a music player app running in the background or YouTube Picture-in-Picture just to push the mobile processor a little more.
 
 Of course, reviewers also consider the price of the tested devices, adjusting their standards and expectations accordingly.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Cameras
 
@@ -96,16 +89,10 @@ Arguably the most valuable aspect of today's smartphones, built-in cameras have 
 Having a larger sample size to reference and compare with images from other phone models gives us the most accurate assessment of what phone camera is best at preserving details, colors, contrast, and more. Whether we're evaluating the latest [Samsung Galaxy phones](https://www.zdnet.com/article/best-samsung-phone/) to each other or with the [latest iPhone](https://www.zdnet.com/article/best-iphone/), ZDNET reviewers can typically be found with more than one device in their pockets, both for comparison reasons and because we're simply tech geeks.
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Battery life and charging
@@ -115,6 +102,19 @@ Kerry Wan/ZDNET
 It's also important for us to evaluate how long phones last under light, moderate, and heavy usage, how long they take to recharge, and how they do it (wired, wireless, or both). We typically judge the endurance of phones based on screen-on time (SOT); that's the total amount of time the screen is turned on, whether you're scrolling through TikTok or typing an email. The higher the SOT, the longer the phone lasts.
 
 On average, phones can score from three hours of SOT to upwards of nine hours of SOT, with the value resetting after 24 hours or when the phone is fully recharged. However, remember that a high SOT value is not always correlated to top-tier battery life; being able to play a Netflix video at full brightness for four hours straight is more impressive, endurance-wise, than leaving a text document on the screen for nine hours. Therefore, when speaking to the battery life of phones, we also describe it in a more practical sense -- mentioning if a device can last one full day of usage, more or less.
+
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Special features
 
@@ -162,18 +162,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-leading-list-the-10-cost-effective-mobile-video-conferencing/"><u>[New] 2024 Approved Leading List The 10 Cost-Effective Mobile Video Conferencing</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-sharp-as-a-razor-toptools-to-unblur-and-enhance-images-online-for-2024/"><u>[New] Sharp as a Razor #TopTools to Unblur & Enhance Images Online for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-nature-backdrop-sketches-essential-downloads-for-videographers/"><u>2024 Approved Nature Backdrop Sketches Essential Downloads for Videographers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/complete-tutorial-to-access-and-listen-to-local-stations-via-smartphone-radio/"><u>Complete Tutorial to Access and Listen to Local Stations via Smartphone Radio</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-to-solving-the-error-144-in-livekernelevents-successfully/"><u>Guide to Solving the Error 144 in LiveKernelEvents Successfully</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-realme-gt-5-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Realme GT 5 Pro to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/maximize-your-mobile-presence-with-using-the-same-number-for-all-your-electronics/"><u>Maximize Your Mobile Presence with Using the Same Number for All Your Electronics</u></a></li>
-<li><a href="https://win-dash.techidaily.com/optimize-your-print-quality-download-the-compatible-epson-ds-53eboxer-driver-x64-for-windows-10-systems-now/"><u>Optimize Your Print Quality: Download the Compatible Epson DS-53eboxer Driver (X64) for Windows 10 Systems Now</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/revamp-your-zoom-experience-seamless-desktop-update-tips-for-pc-and-mac-users/"><u>Revamp Your Zoom Experience - Seamless Desktop Update Tips for PC & MAC Users</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-to-fix-the-unverified-developer-warning-on-macos/"><u>Step-by-Step Guide to Fix the Unverified Developer Warning on macOS</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-breakdown-of-what-streaming-devices-are/"><u>The Ultimate Breakdown of What Streaming Devices Are</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-xiaomi-redmi-k70-pro-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Xiaomi Redmi K70 Pro Location | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/what-makes-duckduckgo-different-privacy-and-security-insights/"><u>What Makes DuckDuckGo Different? Privacy & Security Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solved-nier-replicant-fps-drops/"><u>[SOLVED] NieR Replicant FPS Drops</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solved-windows-11-wont-sleep-issue/"><u>[SOLVED] Windows 11 Won't Sleep Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-activation-in-windows-11-laptops-complete/"><u>GPU Activation in Windows 11 Laptops Complete</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-face-fluidity-masterclass-perfecting-the-art-of-motion-blur-via-picsart/"><u>In 2024, Face Fluidity Masterclass Perfecting the Art of Motion Blur via Picsart</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-from-overflow-to-perfection-edit-large-tiktok-drafts-quickly-and-effectively/"><u>In 2024, From Overflow to Perfection Edit Large TikTok Drafts Quickly & Effectively</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-xr-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone XR</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-oppo-reno-11f-5g-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Oppo Reno 11F 5G</u></a></li>
+<li><a href="https://techtrends.techidaily.com/iphone-revolutionized-explore-the-advantages-of-extended-nfc-capabilities-through-third-party-app-support-zdnet-insights/"><u>IPhone Revolutionized: Explore the Advantages of Extended NFC Capabilities Through Third-Party App Support | ZDNet Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/speedy-computing-effective-fixes-for-a-sluggish-windows-1110-experience-fixed/"><u>Speedy Computing: Effective Fixes for a Sluggish Windows 11/10 Experience [FIXED]</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-removing-specific-updates-from-your-windows-11-system/"><u>Step-by-Step Guide: Removing Specific Updates From Your Windows 11 System</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transformative-ux-building-dynamic-persons-with-chatgpt/"><u>Transformative UX: Building Dynamic Persons with ChatGPT</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transformez-votre-contenu-visuel-grace-a-winxvideo-ai-une-solution-damelioration-video-avancee/"><u>Transformez Votre Contenu Visuel Grâce À Winxvideo AI : Une Solution D'amélioration Vidéo Avancée</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/translating-a-webpage-in-chrome-firefox-and-edge-easily/"><u>Translating a Webpage in Chrome, Firefox and Edge, Easily!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/trouble-with-your-logitech-clicker-heres-how-you-can-make-it-work-again/"><u>Trouble with Your Logitech Clicker? Here's How You Can Make It Work Again!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-grayed-sync-functions-on-windows-11-a-step-by-step-guide/"><u>Troubleshooting Grayed Sync Functions on Windows 11 – A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-resolving-camera-error-0xa00f4244-in-windows-11-operating-system/"><u>Troubleshooting Guide: Resolving Camera Error 0Xa00f4244 in Windows 11 Operating System</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/windows-files-reviewed-in-a-flash-for-2024/"><u>Windows Files Reviewed in a Flash for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Boosting Efficiency: Expert Advice on Key Productivity Apps & Strategies for Streamlining Your Daily Tasks"
-date: 2024-09-30T21:55:06.124Z
-updated: 2024-10-01T21:22:05.628Z
+date: 2024-10-04T20:55:37.043Z
+updated: 2024-10-07T18:43:55.510Z
 tags:
   - apple
 categories:
@@ -54,23 +54,9 @@ Now, [mostly I'm home](https://www.zdnet.com/article/whats-inside-gewirtzs-home-
 
 In any case, what that means is that instead of my escalating ranking of phones, tablets, Chromebooks and laptops, I just carry my [iPhone 12 Pro Max](https://www.zdnet.com/article/dont-buy-that-expensive-new-iphone-13-how-used-iphones-can-deliver-huge-savings/). It will keep me up to speed until I get back home and can pick up where I left off.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Tools for my daily flow
 
 Now that you understand how my working environment has changed and how I structure my work day, let's discuss the tools I use in my daily flow. It all starts with Gmail... 
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## First morning Gmail
 
@@ -88,6 +74,13 @@ The boy
 
 The way I have Gmail set up, only the most important messages show up on my watch. Same with Slack notifications. Basically, unless there's something urgent from one of my editors, I can start my day in peace. If there's nothing urgent, I hit the snooze button. After repeating this ritual two or three times, I get up, do my morning necessaries, and zombie-walk to the coffee maker. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best smartwatches Apple, Samsung, and others battle for your wrist.  Read now](https://www.zdnet.com/article/best-smartwatch/)
@@ -99,10 +92,10 @@ At this point, I tend to take note of what's in my inbox, but I neither process 
 I also take a quick look at my calendar and my to-do list to make sure I know what's on deck for the day. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Daily must-reads with Pocket
@@ -120,6 +113,13 @@ The nice part about this is I can easily do this while drinking coffee. I can ge
 By this point, I'm somewhere between 30 and 60 minutes into my day, I've had one or two cups of coffee, and I have a pretty solid feel for both what's going on in my own various domains as well as what's going on in the rest of the world. It's a very good, very quick way to come up to speed while waking up.
 
 Depending on the importance and urgency of the messages in my Gmail inbox, I'll either go straight into my morning email cycle or begin my morning reading. I prefer to do morning reading before email, so I'll discuss that next. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Pocket-read-post-archive cycle
 
@@ -147,13 +147,6 @@ Rinse, wash, repeat.
 I'm relatively holistic about my morning reading process. I do it until I'm bored or hungry, or feel like switching gears and moving on to managing my email and schedule. 
 
 The key point to all of this is that ever since I moved to this Pocket-read-post-archive cycle for my daily reading, my productivity and flexibility has gone up tremendously. I'm getting more done, and the quality of the process is far more pleasant. I'm no longer tied to my desktop browser, because all of these tools work on all my devices. 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Connecting and scheduling
 
@@ -201,10 +194,16 @@ By the way, this is also a great way to think about users, which I initially was
 Here's another little trick I use: I get a lot of feature requests (which I call "cool feature ideas") from the plugin users. The go into [the bug tracking system I manage in Notion](https://www.zdnet.com/article/notion-app-review/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## To-doing my to-do list
@@ -242,6 +241,13 @@ That, by the way, is the entire key to keeping your to-do list under control. If
 [The best 3D printers If you're in the market for a 3D printer, you'll find one here that fits your needs.  Read now](https://www.zdnet.com/article/best-3d-printer/)
 
 I've also set up Notion pages for each 3D printer, and for managing and tracking my reviews and video projects. It's great as a catch-all for lots of details, but unlike previous catch-alls like Evernote, Notion allows you to assign some structure and layout to the stuff you're working with. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Blocking out time for my projects
 
@@ -286,19 +292,14 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-ideal-screen-capturing-solutions-for-igadgets-for-2024/"><u>[New] Ideal Screen Capturing Solutions for iGadgets for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-understanding-video-storage-in-24-hours-for-2024/"><u>[New] Understanding Video Storage in 24-Hours for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-discover-10-swift-growing-youtube-sources-for-inspiration/"><u>[Updated] In 2024, Discover 10 Swift-Growing YouTube Sources for Inspiration</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-xiaomi-redmi-a2plus-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Xiaomi Redmi A2+ is off? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-my-apple-iphone-12-location-is-wrong-drfone-by-drfone-virtual-ios/"><u>How to Fix My Apple iPhone 12 Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-navigating-the-nuances-zoom-and-youtube-live-streaming-explored/"><u>In 2024, Navigating the Nuances Zoom and YouTube Live Streaming Explored</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-spark-innovation-with-these-androids-top-graphic-designers/"><u>In 2024, Spark Innovation with These Android's Top Graphic Designers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/introducing-latest-upgrades-the-all-new-arlo-video-doorbells-and-top-tier-home-surveillance-cameras-techzed/"><u>Introducing Latest Upgrades: The All-New Arlo Video Doorbells & Top-Tier Home Surveillance Cameras | TechZed</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/labor-day-sale-how-the-ring-spotlight-cam-pro-exceeded-my-expectations-insights-from-zdnet/"><u>Labor Day Sale: How the Ring Spotlight Cam Pro Exceeded My Expectations - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/labor-day-savings-secure-your-home-with-a-25-discount-on-the-top-ranked-blink-mini-2-camera/"><u>Labor Day Savings: Secure Your Home with a 25% Discount on the Top-Ranked Blink Mini 2 Camera</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/maximize-safety-and-savings-this-labor-day-with-blink-mini-2s-stellar-deal-get-yours-at-an-unbeatable-25-off-now/"><u>Maximize Safety and Savings This Labor Day with Blink Mini 2'S Stellar Deal – Get Yours at an Unbeatable 25% Off Now!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/optimizing-your-home-office-space-with-the-top-5-healthiest-indoor-greenery-picks-insights-for-productive-living/"><u>Optimizing Your Home Office Space with the Top 5 Healthiest Indoor Greenery Picks - Insights for Productive Living</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/save-big-with-a-box-of-12-solar-eclipse-sunglasses-at-only-15-from-amazon-zdnets-top-deal/"><u>Save Big with a Box of 12 Solar Eclipse Sunglasses at Only $15 From Amazon - ZDNet's Top Deal!</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-made-simple-overcome-your-disappointing-discord-install-failure/"><u>Troubleshooting Made Simple: Overcome Your Disappointing Discord Install Failure</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-leveraging-fb-platforms-for-public-health-initiatives/"><u>[Updated] Leveraging FB Platforms for Public Health Initiatives</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-strategies-for-compelling-facebook-video-content/"><u>[Updated] Strategies for Compelling Facebook Video Content</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-a-step-by-step-framework-for-iconic-podcast-visuals/"><u>2024 Approved A Step-by-Step Framework for Iconic Podcast Visuals</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/get-ready-for-ios-18-unpack-the-release-moment-zero-expense-feature-rich-experience-and-newest-developments/"><u>Get Ready for iOS 18: Unpack the Release Moment, Zero Expense, Feature-Rich Experience & Newest Developments</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722859011260-macbook-pro-keyboard-malfunction-heres-how-you-can-repair-it/"><u>MacBook Pro Keyboard Malfunction? Here’s How You Can Repair It</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-fix-steps-to-reactivate-your-samsung-tv-apps-and-enjoy-uninterrupted-entertainment/"><u>Mastering the Fix: Steps to Reactivate Your Samsung TV Apps and Enjoy Uninterrupted Entertainment</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722899206482-troubleshooting-tips-resolving-no-sound-issues-with-your-stereo-receiver/"><u>Troubleshooting Tips: Resolving No-Sound Issues with Your Stereo Receiver</u></a></li>
 </ul></div>
 

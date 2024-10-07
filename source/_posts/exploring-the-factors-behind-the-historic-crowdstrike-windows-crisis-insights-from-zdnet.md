@@ -1,7 +1,7 @@
 ---
 title: Exploring the Factors Behind the Historic CrowdStrike Windows Crisis - Insights From ZDNet
-date: 2024-09-26T22:10:32.252Z
-updated: 2024-10-02T10:05:27.987Z
+date: 2024-10-01T17:02:31.545Z
+updated: 2024-10-07T19:58:59.129Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -94,10 +94,10 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -127,10 +127,10 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -181,22 +181,20 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-10-premium-text-tricks-for-videos/"><u>[New] 10 Premium Text Tricks for Videos</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-unleash-gaming-potential-using-obs-recording-features/"><u>[Updated] 2024 Approved Unleash Gaming Potential - Using OBS Recording Features</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-quick-cover-art-crafting-for-fighting-games-for-2024/"><u>[Updated] Quick Cover Art Crafting for Fighting Games for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-kinemasters-secret-to-meme-making-mastery/"><u>2024 Approved KineMaster's Secret to Meme-Making Mastery</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-reverse-the-ordinary-turning-images-upside-down/"><u>2024 Approved Reverse the Ordinary Turning Images Upside Down</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/anticipating-the-new-wave-insightful-predictions-on-samsung-galaxy-s25-price-and-specifications/"><u>Anticipating the New Wave: Insightful Predictions on Samsung Galaxy S25 Price & Specifications</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/conquering-the-battlefield-in-pokemon-unite-an-in-depth-how-to-for-gamers/"><u>Conquering the Battlefield in Pokémon Unite: An In-Depth How-To for Gamers</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-12-pro-max-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 12 Pro Max With Forgotten Passcode Different Methods You Can Try</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/inside-the-rumored-google-pixel-10-specs-estimated-price-points-and-scheduled-launch-dates/"><u>Inside the Rumored Google Pixel 10 Specs, Estimated Price Points, and Scheduled Launch Dates</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionizing-refrigeration-aseteks-launch-of-an-innovative-ai-powered-ecam-cold-plate-crafted-through-state-of-the-art-3d-metal-printing-in-teamwork-with11/"><u>Revolutionizing Refrigeration: Asetek's Launch of an Innovative AI-Powered ECAM Cold Plate, Crafted Through State-of-the-Art 3D Metal Printing in Teamwork with Fabric8Labs</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/star-trek-movie-marathon-the-ultimate-viewing-guide/"><u>Star Trek Movie Marathon: The Ultimate Viewing Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-strategy-for-discovering-your-car-audio-code/"><u>The Ultimate Strategy for Discovering Your Car Audio Code</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/tracing-back-on-facebook-a-laptop-and-mobile-recipe/"><u>Tracing Back on Facebook A Laptop & Mobile Recipe</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-for-resolving-issues-with-shutting-down-windows-11/"><u>Troubleshooting Steps for Resolving Issues with Shutting Down Windows 11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/twitter-conversation-management-4-must-have-tools-for-hashtag-tracking/"><u>Twitter Conversation Management: 4 Must-Have Tools for Hashtag Tracking</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/unlock-growth-potential-with-savvy-analysis-of-youtube-data/"><u>Unlock Growth Potential with Savvy Analysis of YouTube Data</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/where-to-locate-saved-instagram-reels-top-tips-and-tricks/"><u>Where to Locate Saved Instagram Reels: Top Tips and Tricks</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-unveiled-process-how-to-save-instagram-videos-with-computermac-os/"><u>[Updated] 2024 Approved The Unveiled Process How to Save Instagram Videos with Computer/Mac OS</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tackling-text-transformations-converting-xmlttml-for-voice-outputs/"><u>2024 Approved Tackling Text Transformations Converting XML/TTML for Voice Outputs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/bypass-the-frustration-tips-for-correcting-a-401-restricted-error/"><u>Bypass the Frustration: Tips for Correcting a 401 Restricted Error</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/choosing-your-digital-helper-alexa-vs-google-assistant-the-ultimate-comparison/"><u>Choosing Your Digital Helper: Alexa Vs. Google Assistant – The Ultimate Comparison</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/decoding-the-perks-of-asmr-for-2024/"><u>Decoding the Perks of ASMR for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/embracing-digital-learning-a-teachers-resource/"><u>Embracing Digital Learning A Teacher's Resource</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enhancing-virtual-connections-with-your-oculus-quest-a-guide-to-microphone-usage/"><u>Enhancing Virtual Connections with Your Oculus Quest - A Guide to Microphone Usage</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-prevent-unwanted-playbacks-in-your-apple-music-library/"><u>How to Prevent Unwanted Playbacks in Your Apple Music Library</u></a></li>
+<li><a href="https://video-capture.techidaily.com/ranked-linuxs-foremost-screenshot-programs/"><u>Ranked Linux's Foremost Screenshot Programs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/simplify-your-daily-routine-activating-fast-user-switching-and-auto-login-in-windows-systems/"><u>Simplify Your Daily Routine: Activating Fast User Switching & Auto Login in Windows Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-problem-what-to-do-when-your-mac-app-wont-launch/"><u>Solving the Problem: What to Do When Your Mac App Won’t Launch</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/switch-edition-review-the-elder-scrolls-v-skyrim-a-masterful-role-playing-quest/"><u>Switch Edition Review: The Elder Scrolls V: Skyrim, a Masterful Role-Playing Quest</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-the-missing-d3d9dll-file-on-your-pc/"><u>Troubleshooting the 'Missing' d3d9.dll File on Your PC</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ultimate-guide-free-methods-to-save-high-definition-youtuber-content-on-your-mac/"><u>Ultimate Guide: Free Methods to Save High-Definition YouTuber Content on Your Mac</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-secrets-in-depth-analysis-and-reviews-of-affordable-6-sheet-amazonbasics-document-destroyer/"><u>Unveiling the Secrets: In-Depth Analysis and Reviews of Affordable 6-Sheet AmazonBasics Document Destroyer</u></a></li>
 </ul></div>
 

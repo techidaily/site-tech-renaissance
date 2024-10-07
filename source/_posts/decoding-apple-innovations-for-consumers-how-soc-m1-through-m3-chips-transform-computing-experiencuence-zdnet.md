@@ -1,7 +1,7 @@
 ---
 title: "Decoding Apple Innovations for Consumers: How SoC, M1 Through M3 Chips Transform Computing Experiencuence | ZDNet"
-date: 2024-09-26T04:46:28.514Z
-updated: 2024-10-02T09:44:10.837Z
+date: 2024-10-03T19:23:41.219Z
+updated: 2024-10-07T17:50:57.661Z
 tags:
   - apple
 categories:
@@ -60,6 +60,19 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -69,16 +82,10 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -99,6 +106,13 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -112,13 +126,6 @@ Adam Breeden/ZDNET
 * With watchOS, users will get suggestions on the best photo options for their **watch face** from their photo library based on criteria such as aesthetics, composition, facial expressions, and more. The face can also be customized with different sizes, layouts, and fonts.
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## iPadOS 18
 
@@ -141,13 +148,6 @@ Adam Breeden/ZDNET
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## VisionOS 2
 
 Jason Hiner/ZDNET
@@ -165,6 +165,13 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -172,13 +179,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -224,16 +224,21 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-how-to-create-a-new-twitter-account-for-2024/"><u>[New] How to Create a New Twitter Account for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-make-money-from-youtube-shorts-requirements-and-earning-potential/"><u>[Updated] How to Make Money From YouTube Shorts Requirements and Earning Potential</u></a></li>
-<li><a href="https://extra-information.techidaily.com/crafting-audio-narratives-best-backdrop-tunes-for-2024/"><u>Crafting Audio Narratives Best Backdrop Tunes for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/historic-tech-find-first-desktop-pcs-uncovered-in-abandoned-boxes-featuring-early-intel-architecture-and-modest-processing-speeds/"><u>Historic Tech Find: First Desktop PCs Uncovered in Abandoned Boxes Featuring Early Intel Architecture and Modest Processing Speeds</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-realme-11x-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Realme 11X 5G</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-gopro-time-lapse-tips-create-epic-time-lapse-video/"><u>In 2024, GoPro Time Lapse Tips Create Epic Time Lapse Video</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/is-collaborative-music-streaming-achievable-with-the-spotify-app/"><u>Is Collaborative Music Streaming Achievable with the Spotify App?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722852168028-is-your-iphone-15-splash-proof-or-flood-proof-discover-the-facts/"><u>Is Your IPhone 15 Splash Proof or Flood Proof? Discover the Facts</u></a></li>
-<li><a href="https://win11.techidaily.com/preserve-your-dvd-collection-effortlessly-with-wonderfox-dvd-ripper-and-converter-technology/"><u>Preserve Your DVD Collection Effortlessly with WonderFox DVD Ripper & Converter Technology</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-verizon-phone-promotions-this-month/"><u>Top Verizon Phone Promotions This Month</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/what-exactly-is-duckduckgo-and-how-does-it-ensure-user-safety/"><u>What Exactly Is DuckDuckGo and How Does It Ensure User Safety?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-brief-bliss-in-photo-collage-crafting-the-google-way/"><u>[New] Brief Bliss in Photo Collage Crafting - The Google Way</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-channel-your-inner-narrative-impactful-life-stories-yt/"><u>[New] In 2024, Channel Your Inner Narrative Impactful Life Stories YT</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-calculating-youtubes-income-potential-with-cpm-rates/"><u>[Updated] In 2024, Calculating YouTube's Income Potential with CPM Rates</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-next-gen-gaming-the-best-oculus-players-uncovered-for-2024/"><u>[Updated] Next-Gen Gaming The Best Oculus Players Uncovered for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-ideal-5k-tactile-gaming-sets-8/"><u>2024 Approved Ideal 5K Tactile Gaming Sets (#8)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-step-by-step-guide-to-restoring-blacked-out-webcam-in-windows/"><u>A Step-by-Step Guide to Restoring Blacked-Out Webcam in Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/avoiding-phishing-traps-top-techniques-to-safeguard-against-fraudulent-emails/"><u>Avoiding Phishing Traps: Top Techniques to Safeguard Against Fraudulent Emails</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/beyond-light-understanding-the-reasons-behind-frame-rate-dip/"><u>Beyond Light: Understanding the Reasons Behind Frame Rate Dip</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/chrome-tweaks-eliminating-pop-up-ads-without-using-adblock/"><u>Chrome Tweaks: Eliminating Pop-Up Ads Without Using AdBlock</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/crack-the-code-of-the-windows-update-0x80070422-error-in-windows-11-heres-how-you-can-solve-it/"><u>Crack the Code of the Windows Update 0X80070422 Error in Windows 11 – Here’s How You Can Solve It</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/desktop-icons-missing-in-windows-10-solved/"><u>Desktop Icons Missing in Windows 10 [Solved]</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/effortless-movie-downloads-from-noswebsite-convert-and-save-as-mp4-avi-or-wmv-files/"><u>Effortless Movie Downloads From Noswebsite: Convert and Save as MP4, AVI or WMV Files</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/oxford-3000-modern-mobile-learning-for-vocabulary-growth/"><u>Oxford 3000: Modern, Mobile Learning for Vocabulary Growth</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-minecraft-from-freezing-and-crashing-with-these-quick-solutions/"><u>Stop Minecraft From Freezing & Crashing with These Quick Solutions!</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ssentials-everyone-needs-to-know-about-youtube-tv-services/"><u>The Essentials Everyone Needs to Know About YouTube TV Services</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1723808316161-update-drivers-on-windows-7-8-10-easily/"><u>Update Drivers on Windows 7 / 8 / 10. Easily</u></a></li>
 </ul></div>
 

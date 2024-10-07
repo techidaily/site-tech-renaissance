@@ -1,7 +1,7 @@
 ---
 title: "Apple Resurrects Advanced AI Technology: Progress and Pitfalls Explored"
-date: 2024-09-27T09:30:39.867Z
-updated: 2024-10-02T07:32:50.988Z
+date: 2024-10-05T16:46:59.871Z
+updated: 2024-10-07T19:16:27.865Z
 tags:
   - apple
 categories:
@@ -30,6 +30,13 @@ In a [previous article](https://www.zdnet.com/article/6-ways-apple-can-leapfrog-
 
 ## What Apple Intelligence will bring to the company's operating system platforms
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### AI on the device and in the cloud
 
 Apple Intelligence brings powerful generative models to iPhone, iPad, and [Mac](https://www.zdnet.com/article/best-mac/). On-device capabilities require an A17 Pro chip, limiting them to [iPhone 15 Pro](https://www.zdnet.com/article/iphone-15-plus-review/) and Pro Max users for enhanced security and privacy. Similarly, only iPads with M-series chips (like the latest iPad Air and iPad Pro) and Macs running Apple Silicon will be compatible. Many users with older devices or non-Pro models will miss these advanced features.
@@ -53,10 +60,10 @@ In terms of AI infrastructure, Apple also introduced its [Foundation Models](htt
 **Room for Improvement:** Apple fell short in AI infrastructure leadership by not announcing AI-accelerated server appliances at the edge, which would allow less capable devices, like the base iPhone 15 and earlier iOS 18-supported models, to use Apple Intelligence's more advanced features. While the hybrid AI model with on-device and PCC is a step in the right direction, AI-accelerated edge network devices were not mentioned to enhance performance and reduce latency. Apple is typically not transparent about deploying resources in its data centers, so it may plan to deploy these appliances at the edge without disclosing specifics. While the short list of Responsible AI Principles that the company [has documented here](https://machinelearning.apple.com/research/introducing-apple-foundation-models) is a good start, an AI [ethical disclosure](https://www.adobe.com/content/dam/cc/en/ai-ethics/pdfs/Adobe-AI-Ethics-Principles.pdf) statement [along the lines of what Adobe is doing](https://www.adobe.com/ai/overview/ethics.html) would further bolster trust and transparency.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Embracing third-party AI providers
@@ -67,13 +74,6 @@ Apple has dipped its toes into [ChatGPT](https://www.zdnet.com/article/what-is-c
 
 **Room for improvement:** While Apple's intention to be LLM-agnostic is a positive sign for the company's AI strategy, I had hoped for a broader embrace of third-party platforms, particularly health, finance, and education, with AI integration. However, this shift will have to come with developers embracing the new [SiriKit, App Intents, Core ML, Create ML, and other APIs](https://www.zdnet.com/article/apple-coders-rejoice-your-programming-tools-just-got-a-big-free-ai-boost/). Deeper integration with specialized AI providers could significantly enhance Apple Intelligence's functionality and versatility.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Smart notifications and writing tools
 
 Smart notifications in Apple's operating systems will leverage on-device LLMs to sift through the noise and ensure that only the most important alerts make it through. This is part of the new Reduce Interruptions Focus, which shows users key details for each notification. System-wide writing tools can write, proofread, and summarize text for users, from short messages to long blog posts, with the Rewrite feature providing multiple versions of text based on the intended audience.
@@ -83,10 +83,10 @@ Smart notifications in Apple's operating systems will leverage on-device LLMs to
 **Room for improvement:** Building on the Reduce Interruptions Focus, further development in proactive assistance features that anticipate user needs based on past behavior and context would be beneficial.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### AI image generation and Genmoji
@@ -142,10 +142,10 @@ Finally, the new Translation API will be unveiled. It will help developers build
 By equipping developers with these resources, Apple is ensuring that the potential of Apple Intelligence can be fully realized across its ecosystem, driving innovation and enhancing user experiences.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Did Apple go far enough with AI improvements?
@@ -188,18 +188,22 @@ Addressing the remaining gaps could enhance Apple's competitive position in the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-tonal-triumphs-the-art-of-hue-enhancement/"><u>[New] Tonal Triumphs The Art of Hue Enhancement</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/nveiling-the-world-through-your-lens-how-to-become-a-professional-travel-vlogger-for-2024/"><u>[New] Unveiling the World Through Your Lens How To Become A Professional Travel Vlogger for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-hourly-video-footage-gb-needed-per-day/"><u>2024 Approved Hourly Video Footage GB Needed Per Day</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-to-wi-fi-standards-from-802nagiac-to-the-new-wave-of-802be-and-ax/"><u>Comprehensive Guide to Wi-Fi Standards: From 802.n/aG/iAc to the New Wave of 802.bE & aX</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722844885294-demystifying-the-contrast-between-regular-hulu-and-enhanced-huluplus/"><u>Demystifying the Contrast Between Regular Hulu & Enhanced Hulu+</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/enhancing-twitter-video-experience-to-fhd/"><u>Enhancing Twitter Video Experience to FHD</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-tips-correcting-d3d9dll-absence-in-windows-systems/"><u>Expert Tips: Correcting 'D3D9.DLL' Absence in Windows Systems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-updating-text-display-with-custom-fonts-on-windows-11/"><u>Guide: Updating Text Display with Custom Fonts on Windows 11</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-comparative-overview-of-googles-ar-stickers-and-its-counterparts/"><u>In 2024, Comparative Overview of Google's AR Stickers & Its Counterparts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/reclaiming-memories-a-users-tutorial-to-locate-stored-reels-on-instagram/"><u>Reclaiming Memories: A User’s Tutorial to Locate Stored Reels on Instagram</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/regaining-full-functionality-of-your-windows-scanner/"><u>Regaining Full Functionality of Your Windows Scanner</u></a></li>
-<li><a href="https://games-able.techidaily.com/simplifying-ps5-pc-control-connection-the-complete-manual/"><u>Simplifying PS5-PC Control Connection: The Complete Manual</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/watching-dragons-a-fans-journey-through-the-how-to-train-your-dragon-film-sequences/"><u>Watching Dragons: A Fan's Journey Through the How to Train Your Dragon Film Sequences</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-manipulating-fonts-in-visual-media-for-2024/"><u>[New] Manipulating Fonts in Visual Media for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-navigating-discords-streaming-features-desktopmobile-for-2024/"><u>[Updated] Navigating Discord's Streaming Features (Desktop/Mobile) for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-audiocapture-pro-a-comprehensive-guide-and-test/"><u>2024 Approved AudioCapture Pro A Comprehensive Guide & Test</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/best-camcorder-selections-for-snowboardingskiing/"><u>Best Camcorder Selections for Snowboarding/Skiing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/beyond-basic-editing-innovative-use-of-luts-for-photography/"><u>Beyond Basic Editing Innovative Use of LUTs for Photography</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/dominate-apple-tv-secrets-to-skyrocketing-success/"><u>Dominate Apple TV - Secrets to Skyrocketing Success</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-advice-on-fixing-non-recoverable-system-malfunctions-in-uefi-bios/"><u>Expert Advice on Fixing Non-Recoverable System Malfunctions in UEFI BIOS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-evolution-from-streaming-giant-to-dvd-rentals-a-look-at-netflixs-former-business-model/"><u>Exploring the Evolution From Streaming Giant to DVD Rentals: A Look at Netflix's Former Business Model</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-installing-imessage-on-your-android-device/"><u>Guide: Installing iMessage on Your Android Device</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-realme-gt-neo-5-se-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Realme GT Neo 5 SE by Name | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-vivo-g2-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Vivo G2 and Browser | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-the-new-era-of-authenticity-understanding-the-algorithm-update/"><u>In 2024, The New Era of Authenticity Understanding the Algorithm Update</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/is-it-possible-to-move-personalized-themes-from-other-platforms-to-flipbuilder/"><u>Is It Possible to Move Personalized Themes From Other Platforms to FlipBuilder?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/keep-your-macbook-active-with-lid-closed-a-step-by-step-guide/"><u>Keep Your MacBook Active with Lid Closed: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/sonys-automotort-ambition-the-afeela-car-insider-info-on-cost-estimates-market-entry-date-and-technical-specifications/"><u>Sony's Automotort Ambition - The Afeela Car: Insider Info on Cost Estimates, Market Entry Date & Technical Specifications!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-for-opening-apple-pages-format-on-pc/"><u>Step-by-Step Instructions for Opening Apple Pages Format on PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solutions-for-fixing-stop-code-0x0000003d-on-windows/"><u>Step-by-Step Solutions for Fixing Stop Code 0X0000003D on Windows</u></a></li>
 </ul></div>
 

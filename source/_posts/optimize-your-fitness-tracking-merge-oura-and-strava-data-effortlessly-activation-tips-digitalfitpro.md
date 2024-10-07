@@ -1,7 +1,7 @@
 ---
 title: "Optimize Your Fitness Tracking: Merge Oura & Strava Data Effortlessly - Activation Tips | DigitalFitPro"
-date: 2024-09-28T05:33:19.337Z
-updated: 2024-10-02T03:28:43.539Z
+date: 2024-09-30T18:47:20.655Z
+updated: 2024-10-07T17:44:24.644Z
 tags:
   - apple
 categories:
@@ -38,13 +38,6 @@ Image: Maria Diaz / ZDNet
 
 Image: Maria Diaz / ZDNet
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 4: Enable iCloud Backup and select Back up Now
 
 Image: Maria Diaz / ZDNet
@@ -59,11 +52,31 @@ Tap on the toggle to enable iCloud backups, and **Back Up Now** will appear, sel
 
 Image: Maria Diaz / ZDNet
 
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 2: Open Finder to find your iPhone in Locations
 
 Image: Maria Diaz / ZDNet
 
 Gone are the days when iTunes was the go-to to get data out of your iPhone. Open **Finder** to view your iPhone in **Locations,** and there will be a snapshot of the current storage information, current iOS and any updates, and backup options.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 3: Select Back up to this Mac and click on Back Up Now
 
@@ -72,13 +85,6 @@ Image: Maria Diaz / ZDNet
 Be sure to select **Back up all of the data on your iPhone to this Mac** before clicking on **Back Up Now**.
 
 Creating a backup could take a few minutes or a couple of hours, depending on how much data you have to back up. Mine took a little over an hour, but I hadn't backed up my iPhone in over a year. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How much does iCloud cost?
 
@@ -92,10 +98,10 @@ Here are the [different plans iCloud offers](https://apple.sjv.io/c/159047/43503
 * iCloud+: 2TB of storage $9.99
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is it better to back up iPhone on a computer or iCloud?
@@ -103,10 +109,10 @@ Here are the [different plans iCloud offers](https://apple.sjv.io/c/159047/43503
 Both options have their pros and cons, but I personally prefer a cloud service backup. I like having my photos and videos easily accessible through an app on my phone without occupying storage space. This beats having to get into a computer to find an old photo every time I want one. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Do I need to back up iPhone apps?
@@ -149,22 +155,24 @@ There are a lot of cloud options, but it's important to make sure you're giving 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-digital-footprints-recording-nintendo-switch-sessions/"><u>[New] Digital Footprints Recording Nintendo Switch Sessions</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-mastery-of-instagram-video-marketing-the-ultimate-plan-crafted-here/"><u>[New] Mastery of Instagram Video Marketing The Ultimate Plan Crafted Here</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/boosting-productivity-setting-up-multiple-monitors-for-your-mac/"><u>Boosting Productivity: Setting Up Multiple Monitors for Your Mac</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-fixes-for-computers-that-boot-up-but-dont-show-any-video-output/"><u>Expert Fixes for Computers That Boot Up but Don't Show Any Video Output</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/huggingchat-explored-an-open-source-and-ethical-ai-option/"><u>HuggingChat Explored: An Open-Source and Ethical AI Option</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-sailing-the-skies-easily-how-to-pair-drones-and-propellers/"><u>In 2024, Sailing the Skies Easily How to Pair Drones and Propellers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/masterful-methods-for-identifying-and-retrieving-email-addresses/"><u>Masterful Methods for Identifying and Retrieving Email Addresses</u></a></li>
-<li><a href="https://techidaily.com/overcoming-the-error-how-to-address-a-missing-cddvd-drive-device-driver-issue/"><u>Overcoming the Error: How To Address a Missing CD/DVD Drive Device Driver Issue</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/overcoming-zlibdll-missing-errors-with-simple-solutions/"><u>Overcoming Zlib.dll Missing Errors with Simple Solutions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tips-for-managing-active-background-processes-on-your-android-device/"><u>Step-by-Step Tips for Managing Active Background Processes on Your Android Device</u></a></li>
-<li><a href="https://win11.techidaily.com/tame-windows-sound-enhancement-effects/"><u>Tame Windows Sound Enhancement Effects</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-leveraging-the-quick-settings-menu-on-your-android-phone/"><u>The Ultimate Guide to Leveraging the Quick Settings Menu on Your Android Phone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-notch-ultimate-savings-unmissable-amazon-prime-day-bargains/"><u>Top-Notch Ultimate Savings: Unmissable Amazon Prime Day Bargains</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/top-ranked-essential-gadgets-for-your-iphone/"><u>Top-Ranked Essential Gadgets for Your iPhone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-for-when-msodll-is-missing-or-inaccessible/"><u>Troubleshooting Steps for When mso.dll Is Missing or Inaccessible</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlock-the-power-of-multilingualism-for-free-on-these-9-top-languages-sites/"><u>Unlock the Power of Multilingualism for Free on These 9 Top Languages Sites</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlock-workspace-potential-discover-the-best-window-folder-methods/"><u>Unlock Workspace Potential: Discover the Best Window Folder Methods</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-convenient-alias-adjustment-in-google-meet-devices-for-2024/"><u>[New] Convenient Alias Adjustment in Google Meet Devices for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-vimeo-record-how-to-use-vimeo-record-to-capture-screen-and-webcam-for-2024/"><u>[New] Vimeo Record How to Use Vimeo Record to Capture Screen and Webcam for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-channel-saving-techniques-youtube-meets-igtv/"><u>[Updated] Channel-Saving Techniques YouTube Meets IGTV</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-correcting-new-world-connection-issues/"><u>Effective Solutions for Correcting New World Connection Issues</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effortless-correction-techniques-for-overcoming-code-28-in-windows-systems/"><u>Effortless Correction Techniques for Overcoming Code 28 in Windows Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enabling-and-disabling-on-screen-keyboards-in-windows-11-easy-tips-and-tricks/"><u>Enabling and Disabling On-Screen Keyboards in Windows 11 - Easy Tips & Tricks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enhancing-your-icloud-email-security-with-dual-authentication-methods/"><u>Enhancing Your iCloud Email Security with Dual Authentication Methods</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enjoy-family-classics-with-amazon-prime-videos-curated-selection-for-july-2e-e4/"><u>Enjoy Family Classics with Amazon Prime Video's Curated Selection for July 2E-E4</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-tips-for-overcoming-common-televisual-malfunctions/"><u>Essential Tips for Overcoming Common Televisual Malfunctions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-tecno-pova-5-pro-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Tecno Pova 5 Pro to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-infinix-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Infinix Phone When You Forget the Password</u></a></li>
+<li><a href="https://fox-access.techidaily.com/seamless-conversion-from-iphonepc-explore-the-8-best-apps/"><u>Seamless Conversion From iPhone/PC Explore the #8 Best Apps</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-download-for-lenovo-monitor-drivers-and-recent-version-update/"><u>Step-by-Step Download for Lenovo Monitor Drivers & Recent Version Update</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/steps-to-including-your-email-in-protected-distribution-networks/"><u>Steps to Including Your Email in Protected Distribution Networks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-future-of-wi-fi-connectivity-unveiled-a-detailed-overview-of-ieees-newest-standards-80211be-ax-ac-bgn/"><u>The Future of Wi-Fi Connectivity Unveiled: A Detailed Overview of IEEE's Newest Standards (802.11Be, Ax, Ac, B/G/N)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-potential-advanced-techniques-for-slug-line-creation-for-2024/"><u>Unlocking Potential Advanced Techniques for Slug Line Creation for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upcoming-innovations-unveiling-specs-and-forecasts-for-apples-personal-household-robotic-assistant/"><u>Upcoming Innovations: Unveiling Specs and Forecasts for Apple's Personal Household Robotic Assistant</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/verklaring-en-methode-van-het-creeren-van-een-storyboard-de-7-essentiu00eble-fases-ernaast/"><u>Verklaring en Methode Van Het Creëren Van Een Storyboard: De 7 Essenti u00eble Fases Ernaast</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/windows-11-and-battery-health-unveiling-the-secrets-of-system-reports/"><u>Windows 11 and Battery Health: Unveiling the Secrets of System Reports</u></a></li>
 </ul></div>
 

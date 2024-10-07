@@ -1,7 +1,7 @@
 ---
 title: "IMessage Guide: Sending & Receiving on a PC with Windows (ZDNet)"
-date: 2024-09-25T00:23:30.855Z
-updated: 2024-10-02T04:37:55.648Z
+date: 2024-10-02T20:34:36.467Z
+updated: 2024-10-07T20:47:37.269Z
 tags:
   - apple
 categories:
@@ -44,6 +44,19 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 
 ## How to send and receive iMessages on Windows
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Use Microsoft Phone Link
 
 Before you can use Phone Link, you'll have to take care of a few items on your phone and your PC.
@@ -63,10 +76,10 @@ Click the Start button, go to All Apps, and select Phone Link from the list. The
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Scan the QR codes
@@ -97,13 +110,6 @@ To access your iPhone's text messages in Phone Link, tap the Messages heading at
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Start a new chat
 
 You can also start a new conversation. To do this, select one of your displayed contacts and then compose and send your text. To chat with someone else, click the New Message icon and type the name or phone number of the recipient. Compose and send your message.
@@ -111,16 +117,10 @@ You can also start a new conversation. To do this, select one of your displayed 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Use Intel Unison
@@ -134,10 +134,16 @@ Launch the app and click the Accept & Continue button. You'll be asked how you'd
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Pair your phone and computer
@@ -158,6 +164,13 @@ At the "Let's get started" screen in the Windows Unison app, click the icon for 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  4\. Go to the Messages screen
 
 At the Messages screen, click the icon for "Compose a new message." Choose the recipient from your list of contacts or type the name, email address, or phone number for someone not in your contact list.
@@ -169,19 +182,6 @@ Screenshot by Lance Whitney/ZDNET
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -219,16 +219,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-smooth-operations-screen-recording-basics-for-lenovo-users/"><u>[New] 2024 Approved Smooth Operations Screen Recording Basics for Lenovo Users</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-premium-caller-id-changers-the-magic-app-series/"><u>In 2024, Premium Caller ID Changers The Magic App Series</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/mastering-yourselfie-instagrams-verification-essentials/"><u>Mastering Yourselfie Instagram's Verification Essentials</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-issues-with-a-malfunctioning-paradox-launcher/"><u>Resolving Issues with a Malfunctioning Paradox Launcher</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/smoothly-record-your-desktop-on-win11/"><u>Smoothly Record Your Desktop on Win11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/tired-of-teslas-battery-solution-discover-the-alternative-the-anker-solix-x1/"><u>Tired of Tesla's Battery Solution? Discover the Alternative: The Anker Solix X1</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-5-affordable-lawn-mowers-expert-reviews-and-buyers-guide-zdnet/"><u>Top 5 Affordable Lawn Mowers : Expert Reviews and Buyer's Guide - ZDNET</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-5-premium-gas-grills-expert-picks-featured-on-zdnet/"><u>Top 5 Premium Gas Grills : Expert Picks Featured on ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-5-premium-headlamp-picks-a-comprehensive-review-by-zdnet/"><u>Top 5 Premium Headlamp Picks - A Comprehensive Review by ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-ranked-smart-irrigation-controllers-comparing-rachio-rainmachine-wyze-and-beyond-insights-from-zdnet/"><u>Top-Ranked Smart Irrigation Controllers : Comparing Rachio, RainMachine, Wyze, and Beyond - Insights From ZDNet</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/top-rated-aiff-encoder-seamless-conversion-from-aiff-to-multiple-formats-including-mp3-wav-and-flac/"><u>Top-Rated AIFF Encoder: Seamless Conversion From AIFF to Multiple Formats Including MP3, WAV, and FLAC</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-how-to-create-a-youtube-channel-today/"><u>[New] 2024 Approved How to Create A YouTube Channel Today</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-masterclass-in-design-upgrading-igtv-backgrounds/"><u>[New] 2024 Approved Masterclass in Design Upgrading IGTV Backgrounds</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-compiling-the-best-12-cost-free-video-apps-for-all-platforms/"><u>[New] Compiling the Best 12 Cost-Free Video Apps for All Platforms</u></a></li>
+<li><a href="https://win11.techidaily.com/combating-app-not-uploading-issue-a-guide-to-microsofts-store/"><u>Combating App Not Uploading Issue: A Guide to Microsoft's Store</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/experience-superior-cooling-with-thermaltakes-latest-innovation-powerful-120mm140mm-reversible-fans-equipped-with-stronger-magnets-free-of-rgb-lighting/"><u>Experience Superior Cooling with Thermaltake's Latest Innovation: Powerful 120Mm/140mm Reversible Fans Equipped With Stronger Magnets, Free of RGB Lighting</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/experience-the-thrill-of-competition-with-our-pick-of-top-rated-sports-movies-today/"><u>Experience the Thrill of Competition with Our Pick of Top-Rated Sports Movies Today</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-the-specs-of-samsung-galaxy-z-fold-6-anticipated-price-point-and-availability-date-announced/"><u>Explore the Specs of Samsung Galaxy Z Fold 6: Anticipated Price Point & Availability Date Announced</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fix-guide-correcting-your-systems-missing-binkw32dll-mistake/"><u>Fix Guide: Correcting Your System's Missing BinkW32.DLL Mistake</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/foremost-funny-image-maker/"><u>Foremost Funny Image Maker</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-glow-up-guide-for-the-social-savvy-top-three-highlighters-on-instagram/"><u>In 2024, Glow-Up Guide for the Social Savvy Top Three Highlighters on Instagram</u></a></li>
+<li><a href="https://blog-min.techidaily.com/installing-the-cyanfluence-extension-in-kodi-19-matrix-a-comprehensive-tutorial/"><u>Installing the Cyanfluence Extension in Kodi 19 Matrix - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-motherboard-selection-a-checklist-of-seven-crucial-points/"><u>Mastering Motherboard Selection: A Checklist of Seven Crucial Points</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revive-your-disappeared-connections-restoring-removed-phone-numbers-on-android-phones/"><u>Revive Your Disappeared Connections: Restoring Removed Phone Numbers on Android Phones</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/streamline-your-pc-maintenance-using-our-top-picks-for-free-update-applications/"><u>Streamline Your PC Maintenance Using Our Top Picks for Free Update Applications</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722897568445-switching-from-gmail-discover-the-leading-8-mail-providers-for-2n25/"><u>Switching From Gmail? Discover the Leading 8 Mail Providers for 2N25</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-workings-of-intrinsic-computerized-thinking-models/"><u>The Workings of Intrinsic Computerized Thinking Models</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unpacking-artistry-and-precision-in-microsofts-new-surface-studio-2-is-it-worth-the-investment/"><u>Unpacking Artistry and Precision in Microsoft’s New Surface Studio 2: Is It Worth The Investment?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Top 5 Must-See Advantages of the New iPhone 16 That Justify an Upgrade From Your Old Device
-date: 2024-09-25T11:50:53.947Z
-updated: 2024-10-02T07:16:47.932Z
+date: 2024-09-30T17:13:31.870Z
+updated: 2024-10-07T16:06:13.215Z
 tags:
   - apple
 categories:
@@ -46,19 +46,6 @@ The Camera Control uses [Apple's Visual Intelligence](https://www.zdnet.com/arti
 
 "I have the biggest one-sided beef in the world with the iPhone 14\. I can give you material for years. Primarily because the camera is the worst thing I ever experienced on an iPhone. Even the base iPhone 16 model looks way better," Ortiz says.
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Trade-in deals and carrier offers
 
 I told you we're really all just like you. Some ZDNET tech experts are ready to jump to the new iPhone 16 thanks to great carrier and trade-in offers on the models and are even more enthusiastic if they're ready for an upgrade. 
@@ -72,10 +59,10 @@ And if you're looking to change carriers, like managing editor Alison DeNisco Ra
 Verizon and T-Mobile have [similar offers](https://www.zdnet.com/article/how-to-preorder-the-new-iphone-16-and-get-one-free/) right now, and they're pretty sweet. At T-Mobile, new and existing customers can get a free iPhone 16 Pro with a trade-in on the Go5G Next plan, or up to $1,000 off on any iPhone 16 model. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. For work
@@ -100,6 +87,13 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 ZDNET's Jason Perlow is bumping up for similar reasons. "I am upgrading from my 15 Pro Max to a 16 Pro Max because I am on the iPhone Upgrade Program, and as I cover developments with Apple, it is a business expense and \[ultimately\] it's trading one loan payment for another. No other reason, although the camera improvements seem nice. I debated skipping, but there wasn't much of a downside," he says. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Here's why ZDNET editors won't be upgrading to the iPhone 16
 
 Jason Hiner/ZDNET
@@ -114,13 +108,6 @@ Essentially, this is Apple's first iPhone marketed with an AI push, and like eve
 
 Jason Perlow is on the same page. "Let's not diminish the product for what it is: the iPhone 16 is undeniably great hardware. But unless you're using a old phone -- like my colleague [David Gewirtz's iPhone 12](https://www.zdnet.com/article/6-reasons-why-ios-18-makes-the-iphone-16-a-must-upgrade-for-me/), which is four generations behind -- you should strongly consider skipping this generation. Why? Because Apple Intelligence, while promising, is still in its infancy," Perlow wrote in one of his [recent pieces](https://www.zdnet.com/article/the-iphone-16-is-undeniably-great-hardware-but-you-should-still-probably-skip-it/). 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Not compelled enough to upgrade
 
 As reviews editor Kyle Kucharski says, it's never a good idea to blindly update your mobile tech every year without thinking. You've got to have at least one good reason to payout for a new model when the one you have is working perfectly fine. 
@@ -129,6 +116,13 @@ As reviews editor Kyle Kucharski says, it's never a good idea to blindly update 
 
 Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am still happy with it. It performs just as well as when I got it. I wish the camera were better (but the BlackMagic app helps a lot with this) and I would like the convenience of a USB-C port, but it's still working well enough that I don't feel compelled at all to get an iPhone 16\. I'm holding out for next year, at least," Diaz says. Kucharski is on the same page. "I still have the 12, and the bottom line: it still works fine," he says. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Expense and hassle
 
 Sometimes it's the most obvious factors that influence our choices. The expense and hassle of coordinating a new phone may not be in some people's budgets just yet (literally and figuratively). I'm in this department. It would be really cool to have that shiny, beautiful, and gloriously pink iPhone 16, but my iPhone 14 Pro works completely fine (even though its battery grinds my gears), and I have no good reason to upgrade beyond wanting a pink phone. It would be an added expense on both my wallet and my time (setting up a new phone is not a one-day process; change my mind). Plus, I usually keep my phones until they crap out anyway, so an upgrade right now is just not in the cards. 
@@ -136,10 +130,10 @@ Sometimes it's the most obvious factors that influence our choices. The expense 
 ZDNET's Adrian Kingsley-Hughes is still on the fence, but we agree on one thing. "It's a ton of money," he says.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to preorder the iPhone 16
@@ -182,17 +176,24 @@ The [iPhone 16 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-nocostscreen-record-your-game-share-freely-2024/"><u>[New] NoCostScreen Record Your Game, Share Freely, 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-best-free-screen-recording-apps-reviewed-and-ranked/"><u>[Updated] In 2024, Best Free Screen Recording Apps Reviewed & Ranked</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Vivo X Flip | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/anticipating-apples-vision-pro-release-in-feb-revolutionizing-the-purchase-experience-techradar/"><u>Anticipating Apple's Vision Pro Release in Feb: Revolutionizing the Purchase Experience | TechRadar</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/meta-quest-3-with-prescription-lens-are-they-necessary-for-all-glasses-wearers/"><u>Meta Quest 3 with Prescription Lens - Are They Necessary for All Glasses Wearers?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/protect-your-digital-realm-how-apple-innovates-with-a-patent-to-erase-vandalism-in-the-metaverse/"><u>Protect Your Digital Realm: How Apple Innovates with a Patent to Erase Vandalism in the Metaverse</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/snap-it-up-innovative-ig-images-that-inspire/"><u>Snap It Up! Innovative IG Images That Inspire</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-stop-motion-animation-software-for-mac-and-pc/"><u>The Ultimate Guide to Stop Motion Animation Software for Mac and PC</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/tier-5-speedy-screen-recorders-for-2024/"><u>Tier 5 Speedy Screen Recorders for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-future-of-augmented-interaction-qualcomms-pioneering-project-with-samsung-and-google-in-creating-next-gen-smart-glasses-exclusive-analysis-by-5/"><u>Unveiling the Future of Augmented Interaction: Qualcomm's Pioneering Project with Samsung and Google in Creating Next-Gen Smart Glasses – Exclusive Analysis by ZDNet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726028142967-windows-10dvd/"><u>Windows 10でレンタルDVDを効率よくパソコンへインポートする手順</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/zdnet-highlights-meta-quest-3-as-most-innovative-product-a-stealthy-triumph/"><u>ZDNET Highlights Meta Quest 3 as Most Innovative Product : A Stealthy Triumph!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-amplify-video-impact-leading-trackers-for-youtube-ranks/"><u>[New] 2024 Approved Amplify Video Impact Leading Trackers for YouTube Ranks</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-screen-snatching-solution/"><u>[New] 2024 Approved Screen Snatching Solution</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harnessing-social-potential-a-compreenasculated-blueprint-for-smm-mastery/"><u>[New] Harnessing Social Potential A Compreenasculated Blueprint for SMM Mastery</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-simplified-process-for-posting-imovie-videos-on-vimeo/"><u>[Updated] In 2024, Simplified Process for Posting iMovie Videos on Vimeo</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/efficiently-organizing-your-inbox-with-gmail-category-labels/"><u>Efficiently Organizing Your Inbox with Gmail Category Labels</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fresh-features-alert-learn-to-update-a-samsung-television-system/"><u>Fresh Features Alert! Learn to Update a Samsung Television System</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/from-play-to-post-how-to-snap-and-share-game-images-from-your-nintendo-switch/"><u>From Play to Post: How to Snap and Share Game Images From Your Nintendo Switch</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-the-iphone-8-icloud-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing the iPhone 8 iCloud Lock</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-cutting-edge-tips-for-capturing-movies-on-everyday-tech/"><u>In 2024, Cutting-Edge Tips for Capturing Movies on Everyday Tech</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-getting-started-macbook-cam-recording/"><u>In 2024, Getting Started MacBook Cam Recording</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-oppo-a78-5g-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Oppo A78 5G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y78plus-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y78+ Phone without Google Account?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mac-personalization-made-easy-how-to-assign-new-colors-to-your-folders/"><u>Mac Personalization Made Easy: How to Assign New Colors to Your Folders</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/seamless-streaming-setup-how-to-connect-and-use-a-chromecast-remote-like-a-pro/"><u>Seamless Streaming Setup: How to Connect and Use a Chromecast Remote Like a Pro</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/server-snafus-no-more-the-definitive-handbook-to-overcoming-internal-error-codes-500/"><u>Server Snafus No More: The Definitive Handbook to Overcoming Internal Error Codes 500</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-how-to-correctly-deal-with-facetimes-black-display-problem/"><u>Step-by-Step Guide: How to Correctly Deal with FaceTime's Black Display Problem</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-restoring-functionality-to-your-zoom-camera/"><u>Step-by-Step Guide: Restoring Functionality to Your Zoom Camera</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/understanding-the-role-of-ntuserdat-in-windows-systems/"><u>Understanding the Role of NTUSER.DAT in Windows Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/wwdc-2025-highlights-apples-big-reveals-and-latest-tech-news/"><u>WWDC 2025 Highlights: Apple's Big Reveals and Latest Tech News</u></a></li>
 </ul></div>
 

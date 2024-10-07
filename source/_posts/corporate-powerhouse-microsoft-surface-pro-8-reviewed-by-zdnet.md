@@ -1,7 +1,7 @@
 ---
 title: "Corporate Powerhouse: Microsoft Surface Pro 8 Reviewed by ZDNet"
-date: 2024-09-27T07:17:33.238Z
-updated: 2024-10-02T14:01:00.037Z
+date: 2024-10-05T18:07:06.932Z
+updated: 2024-10-07T16:21:02.598Z
 tags:
   - apple
 categories:
@@ -48,13 +48,6 @@ Jason Cipriani/ZDNet
 
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best Surface PCs Microsoft's lineup of Surface PCs now covers a wide range of hardware factors and price points -- and every model is Windows 11-ready.  Read now](https://www.zdnet.com/article/best-surface-pc/)
@@ -77,6 +70,13 @@ You don't have to use a physical SIM card thanks to the Pro 8's support for an e
 
 **Also:** [**eSIM vs. SIM: What's the difference?**](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best tablets (aren't all iPads) Choosing the best tablet can be tricky. Yes, the top picks include the Apple iPad and iPad Pro, but we also love the Samsung Galaxy Tab S8 Ultra, Microsoft Surface Go 3, and others.  Read now](https://www.zdnet.com/article/best-tablet/)
@@ -93,13 +93,6 @@ Regardless of which keyboard you pick up, all of them have a slot for a Surface 
 
 Overall, I love the design of the Pro 8\. I've actually found myself using it as a tablet more than I do the iPad Pro simply because the kickstand is built into the housing. There isn't another cover or case I have to manage. It's fantastic. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## But can it replace an iPad Pro?
 
 Jason Cipriani/ZDNet
@@ -107,6 +100,13 @@ Jason Cipriani/ZDNet
 Inside the Surface Pro 8 I've been testing is an 11th Generation Intel Core i7 processor, 16GB of memory, and a 256GB SSD. It was running Windows 11 Pro out of the box. 
 
 The LTE options range in price from $1,349 for an Intel Core i5, 8GB of memory, and 128GB of storage up to the build I tested, which normally retails for $1,849 but is currently on sale for $1,599\. Again, those prices don't include a keyboard. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### More Microsoft
 
@@ -143,13 +143,6 @@ I realize that the Pro 8 is running a full-fledged operating system in Windows 1
 
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## There are still many things the iPad Pro does better
 
 Jason Cipriani/ZDNet
@@ -174,19 +167,20 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQ
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Should I get a Surface Pro 8 or an iPad Pro?
@@ -226,18 +220,16 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-maximize-your-access-to-fb-videos-with-our-top-5-picks/"><u>[New] 2024 Approved Maximize Your Access to FB Videos with Our Top 5 Picks</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-podcast-promotion-unlocked-the-seo-guide-to-top-spotings-for-2024/"><u>[New] Podcast Promotion Unlocked The SEO Guide to Top Spotings for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-evolution-of-dynamic-range-control-in-digital-photography/"><u>[New] The Evolution of Dynamic Range Control in Digital Photography</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-augmented-eyes-seeing-the-unseen-enhanced-way/"><u>[Updated] Augmented Eyes Seeing the Unseen Enhanced Way</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-essential-methods-streaming-audio-recording-made-easy-online-for-2024/"><u>[Updated] Essential Methods Streaming Audio Recording Made Easy Online for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/3-insight-on-zdnet/"><u>3 - Insight on ZDNet</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-vivo-y200e-5g-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Vivo Y200e 5G online without jailbreak</u></a></li>
-<li><a href="https://windows11.techidaily.com/lost-features-a-step-by-step-guide-to-find-windows-11s-enhancement/"><u>Lost Features? A Step-by-Step Guide to Find Windows 11'S Enhancement</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/maximize-your-clean-dyson-unveils-innovative-ar-technology-for-flawless-vacuuming-experience/"><u>Maximize Your Clean: Dyson Unveils Innovative AR Technology for Flawless Vacuuming Experience</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/overcoming-tech-envy-with-budget-friendly-xr-glasses-my-journey-from-vision-pro-to-freedom-from-fomo-insights-by-zdnet/"><u>Overcoming Tech Envy with Budget-Friendly XR Glasses: My Journey From Vision Pro to Freedom From FOMO | Insights by ZDNET</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/recommended-fixes-for-non-responsive-windows-scanner/"><u>Recommended Fixes for Non-Responsive Windows Scanner</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-secret-brilliance-behind-apple-vision-pro-discover-why-its-a-game-changer-insights-from-zdnet/"><u>The Secret Brilliance Behind Apple Vision Pro - Discover Why It's a Game Changer (Insights From ZDNet)</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-waiting-game-for-meta-ai-understanding-the-hold-up-on-lying-down-mode-feature-in-metas-upcoming-quest-evolution-tech-analysis-by-zdnet/"><u>The Waiting Game for Meta AI: Understanding the Hold-Up on 'Lying Down Mode' Feature in Meta’s Upcoming Quest Evolution | Tech Analysis by ZDNET</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-step-by-step-excellence-optimal-software-use-and-no-software-strategies-for-vimeo/"><u>[New] In 2024, Step-by-Step Excellence Optimal Software Use & No-Software Strategies for Vimeo</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-elite-top-10-4k-monitors-list/"><u>[Updated] 2024 Approved Elite Top 10 4K Monitors List</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/5-must-use-instagram-hashtags-to-skyrocket-your-reach/"><u>5 Must-Use Instagram Hashtags to Skyrocket Your Reach</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-history-and-analysis-of-ios-from-version-10-up-to-180/"><u>Comprehensive History and Analysis of iOS From Version 1.0 up to 18.0</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/te-your-ears-10-pro-tips-for-excellent-sound-quality/"><u>Elevate Your Ears 10 Pro Tips for Excellent Sound Quality</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-integrate-soundtracks-into-instagram-storytelling/"><u>In 2024, Integrate Soundtracks Into Instagram Storytelling</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/prime-picks-best-photo-displayers/"><u>Prime Picks Best Photo Displayers</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-your-digital-experience-using-window-11s-search-box/"><u>Streamline Your Digital Experience: Using Window 11'S Search Box</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-simple-way-to-get-your-logitech-mouse-ready-to-go/"><u>The Simple Way to Get Your Logitech Mouse Ready to Go</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/toms-tech-review-in-depth-insights-on-top-hardware/"><u>Tom's Tech Review: In-Depth Insights on Top Hardware</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-setting-up-advanced-filters-in-gmail/"><u>Ultimate Guide to Setting Up Advanced Filters in Gmail</u></a></li>
 </ul></div>
 

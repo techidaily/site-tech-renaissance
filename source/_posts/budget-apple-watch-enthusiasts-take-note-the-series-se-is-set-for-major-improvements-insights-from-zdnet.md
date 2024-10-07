@@ -1,7 +1,7 @@
 ---
 title: Budget Apple Watch Enthusiasts, Take Note! The Series SE Is Set for Major Improvements - Insights From ZDNet
-date: 2024-09-24T23:25:45.719Z
-updated: 2024-10-01T22:41:32.703Z
+date: 2024-10-01T18:28:46.032Z
+updated: 2024-10-07T19:15:37.652Z
 tags:
   - apple
 categories:
@@ -71,10 +71,10 @@ Adam Singer, VP of marketing at billboard measurement company AdQuick, [offered 
 The Wall Street Journal's Katie Deighton [felt similarly distressed](https://twitter.com/dollydeighton/status/1788176047134876101?s=43&t=1QeKgm6aFAVhMUF6f9rEKA): "This ad perfectly encapsulates the insight that people think technology is killing everything we ever found joy in. And then presents that as a good thing. I haven't seen such a visceral backlash to a spot in a long time."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The role of TikTok?
@@ -94,10 +94,10 @@ It's even odder that Apple would release an ad that makes the company come acros
 Occasionally, though, a sort of groupthink can take over between the creatives and client executives if they think an idea is somehow "cool."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Sorry, why is thin so good?
@@ -148,16 +148,17 @@ And make us like them.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-crafting-engaging-youtube-thumbnails-a-step-by-step-guide-for-2024/"><u>[Updated] Crafting Engaging YouTube Thumbnails A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-implementing-gradual-diminishing-techniques-on-soundtracks-with-audacity/"><u>[Updated] Implementing Gradual Diminishing Techniques on Soundtracks with Audacity</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/advanced-tips-from-toms-hardware-mastering-your-devices-potential/"><u>Advanced Tips From Tom's Hardware: Mastering Your Device's Potential</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-fixes-for-the-binkw32dll-error-not-found-warning/"><u>Comprehensive Fixes for the binkw32.dll Error Not Found Warning</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-oneplus-ace-2-device-sim-by-drfone-android/"><u>Easily Unlock Your OnePlus Ace 2 Device SIM</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-resolve-msvcr80dll-not-found-issues-on-your-pc-easily/"><u>How To Resolve 'MSVCR80.DLL Not Found' Issues On Your PC Easily</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-fading-techniques-for-less-intensity-in-logic-pro-tracks/"><u>In 2024, Mastering Fading Techniques for Less Intensity in Logic Pro Tracks</u></a></li>
-<li><a href="https://extra-information.techidaily.com/milliseconds-and-megabits-deconstructing-20mb-videos/"><u>Milliseconds & Megabits Deconstructing 20MB Videos</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ps4-led-signals-explained-why-does-my-controller-flash-blue-white-red-or-orange/"><u>PS4 LED Signals Explained - Why Does My Controller Flash Blue, White, Red or Orange?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-the-mystery-a-step-by-step-guide-to-correcting-stop-0x0000003d-errors/"><u>Resolving the Mystery: A Step-by-Step Guide to Correcting STOP 0X0000003D Errors</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-the-binkw32dll-not-found-issue-on-your-computer/"><u>Troubleshooting the binkw32.dll Not Found Issue on Your Computer</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-choosing-your-first-camera-the-2024-bestseller-list/"><u>[New] Choosing Your First Camera The 2024 Bestseller List</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-extracting-youtube-songs-safely-a-free-guide-explored/"><u>[Updated] 2024 Approved Extracting YouTube Songs Safely A Free Guide Explored</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-headset-face-off-rift-vive-and-playstations-vr-standards/"><u>[Updated] Headset Face-Off Rift, Vive & PlayStation's VR Standards</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-instructions-on-changing-fb-page-backdrop/"><u>[Updated] Instructions on Changing FB Page Backdrop</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-social-media-whizs-playbook-analyzing-user-behavior-with-insta-insights/"><u>[Updated] The Social Media Whiz's Playbook Analyzing User Behavior with Insta Insights</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-tutorial-updating-gmail-passwords-safely-with-a-code-of-verification/"><u>Comprehensive Tutorial: Updating Gmail Passwords Safely With a Code of Verification</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-how-to-refresh-atheros-driver-software-for-seamless-connectivity-in-windows-10/"><u>Easy How-To: Refresh Atheros Driver Software for Seamless Connectivity in Windows 10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-methods-for-disabling-your-windows-10-lock-screen-instantly/"><u>Easy Methods for Disabling Your Windows 10 Lock Screen Instantly!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-solutions-for-the-windows-module-installer-causing-elevated-cpu-usage-on-win10/"><u>Effective Solutions for the Window's Module Installer Causing Elevated CPU Usage on Win10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-winsxs-directory-management-free-up-disk-space-on-windows-11-in-a-flash/"><u>Effective Winsxs Directory Management: Free Up Disk Space on Windows 11 in a Flash</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-6-5-ways-to-get-into-a-locked-apple-iphone-6-drfone-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone 6? 5 Ways to get into a Locked Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-vivo-y17s-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Vivo Y17s and Browser | Dr.fone</u></a></li>
 </ul></div>
 

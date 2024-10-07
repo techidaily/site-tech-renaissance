@@ -1,7 +1,7 @@
 ---
 title: "1) Mastering Mac-Based Document Management: Unleash the Power of Craft | Tips and Insights"
-date: 2024-09-26T04:35:16.511Z
-updated: 2024-10-01T18:04:01.207Z
+date: 2024-10-04T19:52:42.547Z
+updated: 2024-10-07T19:30:11.147Z
 tags:
   - apple
 categories:
@@ -36,10 +36,10 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -63,10 +63,10 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -80,10 +80,10 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -134,20 +134,18 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-guidance-to-youtube-music-mix/"><u>[New] In 2024, Guidance to YouTube Music Mix</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-mastering-mac-content-for-snapchat-compatibility/"><u>[New] In 2024, Mastering Mac Content for Snapchat Compatibility</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-pros-best-top-8-tripods-excelling-at-4k-video-capture/"><u>[New] Pro's Best Top 8 Tripods Excelling at 4K Video Capture</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-ignite-the-spark-inspiration-in-every-video-concept-for-2024/"><u>[Updated] Ignite the Spark Inspiration in Every Video Concept for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-top-platform-trio-which-one-triumphs-vimeo-youtube-dailymotion-for-2024/"><u>[Updated] The Top Platform Trio Which One Triumphs – Vimeo, YouTube, Dailymotion for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-open-world-opus-top-10-similar-video-games/"><u>2024 Approved Open World Opus Top 10 Similar Video Games</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/distinguishing-between-ev-types-battery-electric-plug-in-hybrid-hydrogen-fuel-cell-and-standard-hybrid-explained/"><u>Distinguishing Between EV Types: Battery Electric, Plug-In Hybrid, Hydrogen Fuel Cell, and Standard Hybrid Explained</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/future-of-flexible-phones-what-to-expect-from-the-new-google-pixel-fold-price-guess-release-window-hardware-info-and-buzzed-theories/"><u>Future of Flexible Phones: What to Expect From the New Google Pixel Fold - Price Guess, Release Window, Hardware Info, and Buzzed Theories</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-apple-iphone-15-plus-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your Apple iPhone 15 Plus Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-nokia-150-2023-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Nokia 150 (2023) Location | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/is-there-a-widespread-problem-with-aol-mail-accessibility/"><u>Is There a Widespread Problem with AOL Mail Accessibility?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/overcoming-lameencdll-error-messages-when-using-audacity-for-mp3s/"><u>Overcoming lame_enc.dll Error Messages When Using Audacity for MP3s</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-next-big-thing-in-technology-a-sneak-peek-into-apples-wwdc-2025/"><u>The Next Big Thing in Technology – A Sneak Peek Into Apple's WWDC 2025</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-starting-fresh-with-your-new-iphone-15/"><u>The Ultimate Guide: Starting Fresh with Your New iPhone 15</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlocking-the-secrets-a-comprehensive-overview-of-snapchat-emojis/"><u>Unlocking the Secrets: A Comprehensive Overview of Snapchat Emojis</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-windows-media-player-alternative-for-2024/"><u>[New] Windows Media Player Alternative for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-unlock-google-meets-potential-on-youtube-with-this-guide/"><u>[Updated] 2024 Approved Unlock Google Meet's Potential on YouTube with This Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-detailed-breakdown-of-espnplus-services-for-sports-fans-understanding-its-operations/"><u>A Detailed Breakdown of ESPN+ Services for Sports Fans – Understanding Its Operations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-your-coding-game-on-a-budget-tapping-into-the-power-of-gpt-4-via-copilots-free-toolkit/"><u>Elevate Your Coding Game on a Budget: Tapping Into the Power of GPT-4 via Copilot's Free Toolkit</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-calendar-solutions-for-time-management-in-large-households/"><u>Essential Calendar Solutions for Time Management in Large Households</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-bridge-your-tv-with-a-samsung-soundbar-easy-methods-explained/"><u>How To Bridge Your TV With a Samsung Soundbar – Easy Methods Explained</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-any-realme-11-pro-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Realme 11 Pro Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-pricing-outline-the-cost-to-film-melodies-visually/"><u>In 2024, Pricing Outline The Cost to Film Melodies Visually</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-cooldown-chart-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/screen-time-storytelling-before-sleep-analysis-and-reviews/"><u>Screen-Time Storytelling Before Sleep Analysis and Reviews</u></a></li>
+<li><a href="https://techidaily.com/sign-dot-file-online-with-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .dot file Online with DigiSigner</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-disabling-the-security-pin-on-windows-11/"><u>Step-by-Step Guide: Disabling the Security PIN on Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-tutorial-for-stealth-mode-in-chrome-edge-firefox-safari-and-opera/"><u>The Ultimate Tutorial for Stealth Mode in Chrome, Edge, Firefox, Safari & Opera</u></a></li>
 </ul></div>
 

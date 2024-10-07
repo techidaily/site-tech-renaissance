@@ -1,7 +1,7 @@
 ---
 title: Apple's Revolutionary Move? New Camera-Enabled AirPods on the Horizon for 2Eighty-Six, According to ZDNET Coverage
-date: 2024-09-25T12:33:45.273Z
-updated: 2024-10-02T05:56:59.429Z
+date: 2024-10-02T16:25:15.259Z
+updated: 2024-10-07T19:37:27.513Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ This year, five topics will likely dominate the headlines, dictate the next indu
 And that's just the beginning, as you'll find more notable trends in the list below, all of which have already begun to take shape.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. On-device AI puts the 'smart' in smartphone
@@ -50,13 +50,6 @@ Samsung's just-released [Galaxy S24 smartphones](https://www.zdnet.com/article/e
 **Also: [Apple research reveals some dazzling AI tech could be headed to your iPhone](https://www.zdnet.com/article/apple-research-reveals-some-dazzling-ai-tech-headed-to-your-iphone/)**
 
 Qualcomm is playing a major role here as well, with its flagship [Snapdragon 8 Gen 3 chipset](https://www.zdnet.com/article/qualcomms-new-snapdragon-8-gen-3-mobile-chip-brings-generative-ai-to-smartphones/) enabling performance gains across the board on smartphones, from a 20% improvement in CPU, 30% in GPU, and 41% in NPU -- the latter of which is critical for devices to perform generative AI tasks in a power-efficient manner. Expect more flagship [Android phones](https://www.zdnet.com/article/best-android-phone/) this year -- as well as [VR and XR headsets](https://www.zdnet.com/article/best-vr-headset/) \-- to field Qualcomm's new processor, with plenty of AI-enabled capabilities in tow.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Foldables are getting better (and cheaper)
 
@@ -75,10 +68,10 @@ Now that the major players have entered the competition, the big question this y
 But there's hope. Carrier providers, who often discount the latest devices aggressively in exchange for customer loyalty (read: agreement to long-term installment plans), remain a primary source of US smartphone sales. Motorola's [standard Razr model](https://www.zdnet.com/article/this-motorola-is-still-200-off-and-its-surprisingly-capable/), which can be purchased for [as low as $499](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmotorola-razr-2023-128gb-unlocked-sage-green%2F6557867.p%3F&publisher_slug=itechdaily19598&exclusive=1) at the time of writing, is another sign of good things to come. With that in mind, 2024 is looking to be a promising sequel to foldables' breakout year in 2023.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Qi2 bridges a long-standing gap in charging
@@ -98,10 +91,10 @@ The adoption of such technology bridges a longstanding gap between MagSafe-compa
 **Also: [The best wireless chargers for iPhone and Android phones](https://www.zdnet.com/article/best-wireless-charger/)**
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Periscope lenses push cameras to further distances
@@ -121,6 +114,13 @@ Companies like Samsung have long adopted periscope lenses to improve their camer
 As manufacturers continue to figure out ways to shrink and fit better components within the framework of smartphones, expect better, more capable cameras in 2024 and beyond.
 
 **Also:** [**The evolution of smartphone cameras: From megapixels to AI-driven photography**](https://www.zdnet.com/article/the-evolution-of-smartphone-cameras-from-megapixels-to-ai-driven-photography/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. A new class of mobile devices
 
@@ -176,24 +176,18 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-content-creators-dilemrante-podcasts-vs-youtube-as-a-platform/"><u>[New] Content Creators' Dilemrante Podcasts Vs. YouTube as a Platform</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-how-to-edit-vertical-videos-for-instagram-in-final-cut-pro-x-in-2024/"><u>[New] How to Edit Vertical Videos for Instagram in Final Cut Pro X, In 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/android-measure-app-essentials-expert-techniques-for-perfect-precision/"><u>Android Measure App Essentials: Expert Techniques for Perfect Precision</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/clear-recording-software-for-windows-10-users/"><u>Clear Recording Software for Windows 10 Users</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-whats-new-in-mozilla-thunderbird-version-52-get-it-now/"><u>Discover What's New in Mozilla Thunderbird Version 52 - Get It Now</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/expert-guide-to-perfectly-shaped-objects-minecraft-circles-and-spheres/"><u>Expert Guide to Perfectly Shaped Objects Minecraft Circles & Spheres</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fixing-msodll-is-missing-or-not-found-errors/"><u>Fixing Mso.dll Is Missing or Not Found Errors</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-y56-5g-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Y56 5G</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Honor X8b | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-sourav-joshis-approach-to-youtube-monetization/"><u>In 2024, Sourav Joshi's Approach to YouTube Monetization</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-the-channel-selection-on-your-lg-smart-devices/"><u>Mastering the Channel Selection on Your LG Smart Devices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ordering-your-movie-night-a-guide-to-viewing-the-transformers-series-sequentially/"><u>Ordering Your Movie Night: A Guide to Viewing The Transformers Series Sequentially</u></a></li>
-<li><a href="https://some-tips.techidaily.com/tailored-interventions-for-2024/"><u>Tailored Interventions for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/tech-temptation-ais-role-in-romance-risk/"><u>Tech Temptation: AI's Role in Romance Risk</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-method-for-consolidating-your-jpg-pictures-into-an-organized-pdf-file/"><u>The Ultimate Method for Consolidating Your JPG Pictures Into an Organized PDF File</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/time-management-tips-how-to-modify-the-display-time-on-a-kindle-paperwhite/"><u>Time Management Tips: How to Modify the Display Time on a Kindle Paperwhite</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-15-must-try-free-software-uninstallers/"><u>Top 15 Must-Try Free Software Uninstallers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-8-email-services-to-replace-gmail/"><u>Top 8 Email Services to Replace Gmail</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-apple-watch-promotions-and-discounts-available-in-april/"><u>Top Apple Watch Promotions and Discounts Available in April</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-in-depth-guide-to-frozen-indulgence-capture-tech/"><u>[New] 2024 Approved In-Depth Guide to Frozen Indulgence Capture Tech</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-reinforcing-photo-viewing-functionality-with-windows-10-solutions/"><u>[New] 2024 Approved Reinforcing Photo Viewing Functionality with Windows 10 Solutions</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-all-inclusive-list-best-downloader-software-for-vimeo/"><u>[New] In 2024, All-Inclusive List Best Downloader Software for Vimeo</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-step-by-step-guide-to-master-gratuitous-timer-software/"><u>[New] Step-by-Step Guide to Master Gratuitous Timer Software</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-toolwiz-evaluation-the-top-choice-in-mobile-editing-for-2024/"><u>[Updated] Toolwiz Evaluation The Top Choice in Mobile Editing for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-how-to-capture-the-essence-of-rl-gaming-experience/"><u>2024 Approved How to Capture the Essence of RL Gaming Experience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/bridge-platforms-steps-to-access-icloud-images-anywhere/"><u>Bridge Platforms: Steps to Access iCloud Images Anywhere</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diy-battery-swap-techniques-for-revitalizing-your-ipad/"><u>DIY Battery Swap Techniques for Revitalizing Your iPad</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-honor-play-7t-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Honor Play 7T</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solve-your-windows-11-search-problems-with-these-effective-solutions/"><u>Solve Your Windows 11 Search Problems with These Effective Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-photoshop-scratch-disks-at-capacity-effective-solutions/"><u>Solving Photoshop Scratch Disks at Capacity: Effective Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-your-access-a-comprehensive-guide-on-how-to-secure-a-spotify-student-discount/"><u>Unlocking Your Access: A Comprehensive Guide on How to Secure a Spotify Student Discount</u></a></li>
+<li><a href="https://discover-help.techidaily.com/nvidia-geforce-experience/"><u>ゲーム音専用動画作成: NVIDIA GeForce Experienceでの設定ガイド</u></a></li>
 </ul></div>
 

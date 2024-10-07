@@ -1,7 +1,7 @@
 ---
 title: Google Ditches Smartglasses Ambition, Targets Expansive XR Software Frontier | Tech News on ZDNet
-date: 2024-09-18T23:21:10.819Z
-updated: 2024-09-20T23:19:06.882Z
+date: 2024-10-03T17:48:47.951Z
+updated: 2024-10-07T16:04:42.050Z
 tags:
   - ar+vr
 categories:
@@ -67,12 +67,31 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-instant-impact-applying-motion-blur-to-ai-artwork/"><u>[New] 2024 Approved Instant Impact Applying Motion Blur to AI Artwork</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tailoring-your-iphone-photographs-size-alteration/"><u>[New] Tailoring Your iPhone Photographs Size Alteration</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-top-8-proven-methods-for-earnings-on-tiktok-for-2024/"><u>[New] Top 8 Proven Methods for Earnings on TikTok for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-creating-compelling-thumbnails-that-stand-out/"><u>[Updated] In 2024, Creating Compelling Thumbnails that Stand Out</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unveiling-the-secrets-of-successful-travel-vloggers/"><u>[Updated] Unveiling the Secrets of Successful Travel Vloggers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-vision-pro-released-but-where-are-the-big-names-discover-the-absences-that-matter/"><u>Apple Vision Pro Released, but Where Are the Big Names? Discover the Absences That Matter</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-samsung-galaxy-m14-4g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Samsung Galaxy M14 4G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://win-docs.techidaily.com/effortless-entertainment-streaming-fetch-your-favorite-episodes-and-tunes-from-maniatv/"><u>Effortless Entertainment Streaming: Fetch Your Favorite Episodes & Tunes From ManiaTV</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-quip-collection-event-specific-jest-compilation/"><u>In 2024, Quip Collection Event-Specific Jest Compilation</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/leveraging-icloud-for-seamless-collaboration-on-apple-pages-documents-tips-and-techniques-guide/"><u>Leveraging iCloud for Seamless Collaboration on Apple Pages Documents: Tips & Techniques Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/macbook-pro-start-up-hacks-effective-methods-for-power-restoration/"><u>MacBook Pro Start-Up Hacks: Effective Methods for Power Restoration</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/no-more-need-for-extra-apps-how-ios-18-enables-direct-call-recording-on-apple-devices-techspot/"><u>No More Need for Extra Apps: How iOS 18 Enables Direct Call Recording on Apple Devices | TechSpot</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-a-502-error-insightful-solutions-to-restore-your-site/"><u>Overcoming a 502 Error: Insightful Solutions to Restore Your Site</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/plate-tectonics-explains-the-movement-of-earths-lithospheric-plates-which-can-cause-metamorphism/"><u>Plate Tectonics Explains the Movement of Earth's Lithospheric Plates, Which Can Cause Metamorphism.</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionary-safety-message-feature-coming-to-your-iphone-with-ios-18-learn-more-inside/"><u>Revolutionary Safety Message Feature Coming to Your iPhone with iOS 18 | Learn More Inside</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-exclusive-deals-for-macbook-air-m3-a-step-by-step-guide-to-snagging-freebies-at-best-buy/"><u>Unlock Exclusive Deals for MacBook Air M3: A Step-by-Step Guide to Snagging Freebies at Best Buy!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upgrade-your-journey-with-the-must-have-magsafe-3-in-1-charging-wizard-qi2-supported/"><u>Upgrade Your Journey with the Must-Have MagSafe 3-in-1 Charging Wizard | Qi2 Supported</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

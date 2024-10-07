@@ -1,7 +1,7 @@
 ---
 title: "Download IOS 18: Complete Guide on Installation & Compatible iPhone Models | ZDNET"
-date: 2024-09-25T10:19:23.564Z
-updated: 2024-10-02T00:21:44.946Z
+date: 2024-10-05T18:46:50.479Z
+updated: 2024-10-07T20:33:00.775Z
 tags:
   - apple
 categories:
@@ -32,16 +32,16 @@ Jason Hiner/ZDNET
 
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Go to General in your iPhone Settings
 
 Go to your iPhone's Settings and select General. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Go to Software Update in Settings
 
@@ -64,10 +64,10 @@ After installing the latest iOS update, your iPhone will restart.
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### When was iOS 18 released?
@@ -84,6 +84,13 @@ You can always be part of the Apple Beta program to get the latest beta versions
 * Don't download beta software, which will likely have bugs and glitches, on your everyday iPhone.
 * You should go into the experience to test new features and share feedback to improve iOS, which is why beta versions are released.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How do I install the iOS 18 beta version?
 
 You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
@@ -96,10 +103,10 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 Screenshot: Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to download the iOS 18 developer beta?
@@ -117,13 +124,6 @@ If you can't see this option, go to your **Settings,** select **Privacy & Securi
 **Also: [How to use and customize your iPhone's new Control Center with iOS 18](https://www.zdnet.com/article/how-to-use-and-customize-your-iphones-new-control-center-with-ios-18/)**
 
 If you aren't already a member of the Apple Developer Program, you can sign up to become one in the app. An annual membership costs $99.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### What is in iOS 18 beta 3?
 
@@ -169,16 +169,22 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-jokesters-journal-the-top-10-hilarious-tweet-threads-for-2024/"><u>[New] Jokester's Journal The Top 10 Hilarious Tweet Threads for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-photos-from-vivo-y100i-power-5g-by-fonelab-android-recover-photos/"><u>Best Android Data Recovery - Retrieve Lost Photos from Vivo Y100i Power 5G.</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722973497232-download-and-update-canon-mx492-printer-drivers-for-windows-complete-guide/"><u>Download & Update Canon MX492 Printer Drivers for Windows: Complete Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/explore-the-leading-8-digital-library-platforms-for-avid-readers/"><u>Explore the Leading 8 Digital Library Platforms for Avid Readers</u></a></li>
-<li><a href="https://win-forum.techidaily.com/explore-the-world-of-connectivity-with-facebook-twitter-instagram-and-youtube/"><u>Explore the World of Connectivity with Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-can-i-uninstall-preinstalled-apple-apps-on-my-iphone-device/"><u>How Can I Uninstall Preinstalled Apple Apps on My iPhone Device?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-oppo-a78-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Oppo A78 to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-honor-play-8t-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Honor Play 8T Phone FRP Lock</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-vivo-x-flip-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Vivo X Flip to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/splendor-without-spending-big-best-value-luxury-tech-picks-revealed/"><u>Splendor Without Spending Big: Best Value Luxury Tech Picks Revealed</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/whats-coming-in-macos-15-sequoia-explore-upcoming-innovations-and-launch-date-details/"><u>What's Coming in macOS 15 (Sequoia)? Explore Upcoming Innovations & Launch Date Details</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-camstudio-screen-recorder-complete-review/"><u>[New] CamStudio Screen Recorder Complete Review</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-future-proofing-in-the-metaverse-essential-device-lineup/"><u>[New] Future-Proofing in the Metaverse Essential Device Lineup</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-best-android-options-10-gb-emulation-tools/"><u>[New] In 2024, Best Android Options 10 GB Emulation Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-clear-and-bright-optimizing-visuals-in-zoom-calls/"><u>[Updated] In 2024, Clear and Bright Optimizing Visuals in Zoom Calls</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-exclusive-insiders-take-on-best-3d-blu-ray-players/"><u>[Updated] In 2024, Exclusive Insider's Take on Best 3D Blu-Ray Players</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-in-pursuit-of-quality-a-deep-dive-into-sonys-x1000v/"><u>[Updated] In 2024, In Pursuit of Quality A Deep Dive Into Sony's X1000V</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-unlocking-the-potential-of-harmonics-in-your-facebook-videos-for-2024/"><u>[Updated] Unlocking the Potential of Harmonics in Your Facebook Videos for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ace-your-tech-savings-steps-to-accessing-affordable-microsoft-products-with-a-student-id/"><u>Ace Your Tech Savings: Steps to Accessing Affordable Microsoft Products with a Student ID</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/bridge-your-computer-and-television-casting-windows-to-a-smart-tv-via-chromecast/"><u>Bridge Your Computer and Television: Casting Windows to a Smart TV via Chromecast</u></a></li>
+<li><a href="https://fox-links.techidaily.com/budget-friendly-asmr-solutions-premium-quality-mics-awaiting-you-for-2024/"><u>Budget-Friendly ASMR Solutions Premium Quality Mics Awaiting You for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-smartwatch-innovations-what-can-these-wearable-devices-do/"><u>Exploring Smartwatch Innovations: What Can These Wearable Devices Do?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/improve-android-performance-by-flushing-cache-memory/"><u>Improve Android Performance by Flushing Cache Memory</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/online-gratuito-transforme-e-salve-videos-para-formatos-amvflv-usando-o-servico-de-conversao-do-movavi/"><u>Online Gratuito - Transforme E Salve Vídeos Para Formatos AMV/FLV Usando O Serviço De Conversão Do Movavi</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/streaming-tiktok-videos-on-the-big-screen-easy-setup-steps/"><u>Streaming TikTok Videos on the Big Screen: Easy Setup Steps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-student-tech-checklist-navigating-the-top-9-required-electronics-for-school/"><u>The Student Tech Checklist: Navigating the Top 9 Required Electronics for School</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-five-essentials-getting-started-with-your-brand-new-pc/"><u>Top Five Essentials: Getting Started with Your Brand-New PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-recuva-the-leading-solution-for-data-deletion-reversal/"><u>Unveiling Recuva: The Leading Solution for Data Deletion Reversal</u></a></li>
 </ul></div>
 

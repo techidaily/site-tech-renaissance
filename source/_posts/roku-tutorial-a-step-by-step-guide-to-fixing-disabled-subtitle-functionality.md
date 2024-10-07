@@ -1,7 +1,7 @@
 ---
 title: "Roku Tutorial: A Step-by-Step Guide to Fixing Disabled Subtitle Functionality"
-date: 2024-09-29T10:30:46.789Z
-updated: 2024-10-01T19:06:17.246Z
+date: 2024-09-30T18:27:00.349Z
+updated: 2024-10-07T17:47:15.127Z
 categories:
   - BestProducts
 description: "This Article Describes Roku Tutorial: A Step-by-Step Guide to Fixing Disabled Subtitle Functionality"
@@ -32,10 +32,10 @@ thumbnail: https://thmb.techidaily.com/df49fa8741560cd4a2c304321a86cf5312094c292
  Reply to the message with the suggested option—if there isn't one, Stop is the best thing to try—and you should be unsubscribed.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Block Text Messages on iPhone
@@ -47,17 +47,25 @@ thumbnail: https://thmb.techidaily.com/df49fa8741560cd4a2c304321a86cf5312094c292
 3. Select**Info** .  
 ![A texter's icon and the info button on an iPhone](https://www.lifewire.com/thmb/P75NPpBTK_0vlrHu03pBRw_tAAg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Icon-and-Info-844223a1fe094d1dbed1b2c012e11592.jpg)
 4. Tap**Block Caller** .
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. In the confirmation pop up, tap**Block Contact** .  
 ![A caller info screen with the Block Caller and Block Contact options highlighted](https://www.lifewire.com/thmb/ahanpniveoIJjKlwY-anZVzDqOg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Block-Caller-options-iPhone-3736febbadac40f7bbc9288793690309.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To unblock a contact and get their texts again, go to**Settings** \>**Messages** \>**Blocked Contacts** \> swipe right to left across contact >**Unblock** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Stop Unwanted Text Messages on iPhone By Filtering Unknown Senders
 
@@ -73,13 +81,6 @@ thumbnail: https://thmb.techidaily.com/df49fa8741560cd4a2c304321a86cf5312094c292
 5. Tap**Unknown Senders** to view all texts from numbers not in your contacts.  
 ![The back button and "Unknown Senders" folder in Messages on an iPhone](https://www.lifewire.com/thmb/lyjFQaH6CejDFydiYQ4jJ9dyv2Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Messages-filters-a02cdd8bbb4d48f7b705d997f0567522.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Stop Unwanted Group Texts on an iPhone
 
  If you're in a[group text](https://www.lifewire.com/text-multiple-people-using-iphone-2000555) that's just too chatty, you can silence notifications of messages or leave the group entirely by following these steps
@@ -91,14 +92,14 @@ thumbnail: https://thmb.techidaily.com/df49fa8741560cd4a2c304321a86cf5312094c292
  If everyone has an iPhone (blue message bubbles) and the chat has more than three other people in it, tap**Leave This Conversation** and then tap the confirmation pop-up.  
 ![A group chat on an iPhone with the name of the chat, the "Hide Alerts" option, and the "Leave this Conversation" commands highlighted](https://www.lifewire.com/thmb/HQ28TmHbL1M_I1yxXgoej2uiqFA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Group-Text-options-1eb1d9e175f1471ea3a04ef674873699.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Change your mind and want to rejoin the group text? You can ask one of the other people in the chat to add you back. Or, if the thread has both iPhone and Android users and it's been less than 30 days since you left, tap the arrow in the top left until you get to the main Messages screen >**Recently Deleted** \> tap the thread >**Recover** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Block Texts With the Do Not Call Registry
 
@@ -139,17 +140,21 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-comprehensive-assessment-of-frozen-treats-on-display/"><u>[New] Comprehensive Assessment of Frozen Treats on Display</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-simple-routines-for-saving-instagram-stories-efficiently-for-2024/"><u>[New] Simple Routines for Saving Instagram Stories Efficiently for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-commercial-cloud-repository-standouts/"><u>[Updated] Commercial Cloud Repository Standouts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-top-youtube-fonts-for-striking-shareable-thumbnails/"><u>[Updated] Top YouTube Fonts for Striking, Shareable Thumbnails</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-oppo-f25-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Oppo F25 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/code-39-glitches-on-your-pc-heres-how-you-can-fix-them/"><u>Code 39 Glitches on Your PC? Here's How You Can Fix Them</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/featuring-favorite-programmes-to-watch-right-now-on-max-network/"><u>Featuring Favorite Programmes to Watch Right Now on Max Network 🌟</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-raw-footage-to-professionals-finest-a-gopro-journey-for-2024/"><u>From Raw Footage to Professionals' Finest A Gopro Journey for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-x100-pro-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo X100 Pro to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-role-of-creative-commons-in-youtube-content-sharing-for-2024/"><u>The Role of Creative Commons in YouTube Content Sharing for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-unregistered-network-errors-in-samsung-phones-and-tablets/"><u>Troubleshooting: Unregistered Network Errors in Samsung Phones & Tablets</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/why-does-my-car-battery-keep-going-bad-6-key-culprits-explained/"><u>Why Does My Car Battery Keep Going Bad? 6 Key Culprits Explained</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-photographic-precision-optimal-websites-and-tools-for-frame-upgrades/"><u>[New] Photographic Precision Optimal Websites and Tools for Frame Upgrades</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-ultimate-handbook-for-morphvox-transformers/"><u>[New] Ultimate Handbook for MorphVOX Transformers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-acquiring-large-format-fb-videos-effortlessly/"><u>[Updated] 2024 Approved Acquiring Large-Format FB Videos Effortlessly</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-ultimate-mac-guide-to-saving-roblox-adventures/"><u>[Updated] 2024 Approved Ultimate Mac Guide to Saving Roblox Adventures</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1717714308466-updated-in-2024-how-to-fix-the-green-screen-on-youtube-on-mac/"><u>[Updated] In 2024, How to Fix the Green Screen on YouTube on Mac</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-leveraging-slack-and-filmora-a-path-to-scheduling-excellence-for-2024/"><u>[Updated] Leveraging Slack and Filmora A Path to Scheduling Excellence for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-to-recovering-or-replacing-a-missing-wpcapdll-file/"><u>Guide to Recovering or Replacing a Missing Wpcap.dll File</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-from-apple-iphone-xr-smoothly-by-drfone-ios/"><u>How To Remove iCloud From Apple iPhone XR Smoothly</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-restore-fftd2xxdll-when-it-is-lost-or-cannot-be-found-by-system/"><u>How to Restore fFtd2xx.dll When It Is Lost or Cannot Be Found by System</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/inside-scoop-on-the-latest-google-pixel-model-projected-costs-scheduled-debut-and-potential-features/"><u>Inside Scoop on the Latest Google Pixel Model: Projected Costs, Scheduled Debut, and Potential Features</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-the-ultimate-guide-to-recording-your-desktop-with-filmora-scrn/"><u>New The Ultimate Guide to Recording Your Desktop with Filmora Scrn</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/podcast-perfection-for-the-modern-iphone-user-for-2024/"><u>Podcast Perfection for the Modern iPhone User for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-handy-guide-for-crafting-the-perfect-projector-screen-in-your-own-garage/"><u>The Handy Guide for Crafting the Perfect Projector Screen in Your Own Garage</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-power-of-virality-on-instagram-revealed-10-essential-techniques/"><u>The Power of Virality on Instagram Revealed: 10 Essential Techniques</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-implementing-new-features-in-powerpoint-presentations/"><u>The Ultimate Guide to Implementing New Features in PowerPoint Presentations</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-list-of-the-8-premier-no-cost-html-editors-for-windows-devices/"><u>The Ultimate List of the 8 Premier No-Cost HTML Editors for Windows Devices</u></a></li>
 </ul></div>
 

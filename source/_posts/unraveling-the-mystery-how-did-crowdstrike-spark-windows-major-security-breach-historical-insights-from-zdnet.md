@@ -1,7 +1,7 @@
 ---
 title: "Unraveling the Mystery: How Did CrowdStrike Spark Windows' Major Security Breach ? Historical Insights From ZDNet"
-date: 2024-09-25T23:52:54.199Z
-updated: 2024-10-02T11:20:12.528Z
+date: 2024-10-02T19:46:43.691Z
+updated: 2024-10-07T17:56:54.637Z
 tags:
   - apple
 categories:
@@ -51,10 +51,16 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -94,10 +100,10 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -127,16 +133,10 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -187,19 +187,24 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-elevate-your-profile-with-vimeo-on-instagram/"><u>[New] 2024 Approved Elevate Your Profile with Vimeo on Instagram</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-launch-your-live-stream-a-comprehensive-beginners-manual-for-2024/"><u>[New] Launch Your Live Stream A Comprehensive Beginner's Manual for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-ultimate-guide-to-purging-youtube-videos/"><u>[Updated] The Ultimate Guide to Purging YouTube Videos</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-ultimate-strategy-for-developing-and-managing-youtube-collaborations/"><u>[Updated] The Ultimate Strategy for Developing & Managing YouTube Collaborations</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ais-role-in-mastering-the-core-elements-of-a-digital-twin-framework-for-business-success-zdnet/"><u>AI's Role in Mastering the Core Elements of a Digital Twin Framework for Business Success | ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/collaboration-unveiled-qualcomm-teams-up-with-samsung-and-google-for-innovative-mixed-reality-eyewear/"><u>Collaboration Unveiled: Qualcomm Teams Up With Samsung & Google For Innovative Mixed Reality Eyewear</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-errors-to-steer-clear-from-with-the-new-apple-vision-pro-secrets-for-success-revealed/"><u>Essential Errors to Steer Clear From With the New Apple Vision Pro: Secrets for Success Revealed!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-tips-on-building-and-personalizing-funnel-charts-with-microsoft-excel-tools/"><u>Expert Tips on Building & Personalizing Funnel Charts with Microsoft Excel Tools</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723006237914-how-to-fix-compiling-shaders-in-call-of-duty-black-ops-cold-war-problem-no-more/"><u>How to Fix 'Compiling Shaders' In Call of Duty Black Ops Cold War – Problem No More!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/revolutionizing-distance-jobs-in-tech-with-vr-and-digital-twins-a-deep-dive-by-zdnet/"><u>Revolutionizing Distance Jobs in Tech with VR and Digital Twins – A Deep Dive by ZDNET</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ripristina-i-tuoi-file-audio-mp3wav-come-formato-wma-gratuitamente-su-internet-con-convertitore-wma-di-movavi/"><u>Ripristina I Tuoi File Audio MP3/WAV Come Formato WMA Gratuitamente Su Internet Con Convertitore WMA Di Movavi</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/secure-your-discounted-oculus-quest-2-at-just-199-dont-miss-out-tech-insights/"><u>Secure Your Discounted Oculus Quest 2 at Just $199 - Don't Miss Out! | Tech Insights</u></a></li>
-<li><a href="https://win-able.techidaily.com/solutions-for-when-your-alienware-command-center-freezes-or-crashes/"><u>Solutions for When Your Alienware Command Center Freezes or Crashes</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-restoring-your-apple-vision-pro-tips-from-zdnet/"><u>Step-by-Step Guide: Restoring Your Apple Vision Pro - Tips From ZDNet</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-ultimate-review-comparing-screen-recorders-for-professionals/"><u>[Updated] The Ultimate Review Comparing Screen Recorders for Professionals</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-vlogventures-in-cosmetics-how-to-create-your-fashion-forward-channel/"><u>[Updated] Vlogventures in Cosmetics How to Create Your Fashion-Forward Channel</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-youtube-masterclass-choose-your-development-stage-for-2024/"><u>[Updated] YouTube Masterclass Choose Your Development Stage for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/best-news-curators-the-ultimate-list/"><u>Best News Curators: The Ultimate List</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/boosting-your-instagram-success-through-advanced-ai-techniques-by-meta/"><u>Boosting Your Instagram Success Through Advanced AI Techniques by Meta</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-samsung-galaxy-m34-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Samsung Galaxy M34 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-techniques-to-recover-from-a-libcurldll-not-detected-problem/"><u>Effective Techniques to Recover From a 'libcurl.dll Not Detected' Problem</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-hashtag-monitoring-solutions-on-twitter-a-list-of-4-must-try-tools/"><u>Essential Hashtag Monitoring Solutions on Twitter: A List of 4 Must-Try Tools</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-picks-the-best-5-gps-tracking-tools-on-your-ios-device/"><u>Expert Picks: The Best 5 GPS Tracking Tools on Your iOS Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-how-to-deal-with-a-missing-ksuserdll-error-message/"><u>Guide: How To Deal With A Missing ksuser.dll Error Message</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-correctly-address-and-repair-the-msvbvm50dll-could-not-be-loaded-error/"><u>How To Correctly Address and Repair The 'MSVBVM50.DLL Could Not Be Loaded' Error</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-gmail-password-on-oneplus-devices-by-drfone-android/"><u>How to Reset Gmail Password on OnePlus Devices</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-14-pro-max-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 14 Pro Max Without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/portraying-paradoxes-with-teleportation-cgi-for-2024/"><u>Portraying Paradoxes with Teleportation CGI for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quick-fixes-for-sync-issues-between-tv-and-chromecast-audio-devices/"><u>Quick Fixes for Sync Issues Between TV and Chromecast Audio Devices</u></a></li>
+<li><a href="https://facebook.techidaily.com/tech-leaders-to-address-scam-ad-proliferation-more-effectively/"><u>Tech Leaders to Address Scam Ad Proliferation More Effectively</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-8-email-services-that-outshine-gmail/"><u>Top 8 Email Services That Outshine Gmail</u></a></li>
+<li><a href="https://discover-best.techidaily.com/transform-your-workflow-with-abbyy-free-video-chat-advanced-ocr-technology-and-a-ticking-clockwork-tomato-surprise/"><u>Transform Your Workflow with ABBYY: Free Video Chat, Advanced OCR Technology and a Ticking Clockwork Tomato Surprise!</u></a></li>
 </ul></div>
 

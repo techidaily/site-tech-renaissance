@@ -1,7 +1,7 @@
 ---
 title: Exploring How Ray Tracing Works in Graphics Rendering
-date: 2024-09-26T04:29:35.280Z
-updated: 2024-10-02T07:40:11.509Z
+date: 2024-10-06T19:53:08.967Z
+updated: 2024-10-07T19:08:41.461Z
 categories:
   - BestProducts
 description: This Article Describes Exploring How Ray Tracing Works in Graphics Rendering
@@ -44,20 +44,13 @@ thumbnail: https://www.lifewire.com/thmb/1-Yp1JIoL4O5iudaQ-YSTZFzypk=/400x300/fi
 ![ Screenshot folder with picture inside on Windows 11.](https://www.lifewire.com/thmb/9JnkOkVNK4-g810E3yMqwhOjIcY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-screenshots-615d31976db445bb9f725b510becd850.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [How to Screenshot on a Logitech Keyboard](https://www.lifewire.com/take-screenshot-with-logitech-keyboard-5186441)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Screenshot Part of the Screen
 
@@ -75,10 +68,10 @@ thumbnail: https://www.lifewire.com/thmb/1-Yp1JIoL4O5iudaQ-YSTZFzypk=/400x300/fi
 ![Windows 11 snip tool capturing calculator. ](https://www.lifewire.com/thmb/DxIz1nlXgizX8YqQ1wgTdi_r9eE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/snip-tool-windows-11-30e70f87ddfc45799a2dc78ebd4dc0b0.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To avoid memorizing this shortcut, you can tie it to the PrtSc button so that when you press it, this same menu shows up automatically. To do this, go to**Settings** \>**Accessibility** \>**Keyboard** , and then turn on**Use the Print screen key to open screen capture** .
@@ -89,6 +82,20 @@ thumbnail: https://www.lifewire.com/thmb/1-Yp1JIoL4O5iudaQ-YSTZFzypk=/400x300/fi
 
 ![A Windows 11 screenshot open in Snipping Tool](https://www.lifewire.com/thmb/n8hloKQGZfQTHNEMKqTmWZC4D_M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-snipping-tool-cfcc4b1e0c154d509e2d312ce4538e4e.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Delayed Screenshots With Snipping Tool
 
  Pull up the search button from the taskbar and enter**Snipping Tool** to open the app. This tool was briefly covered above, but what we'll look at now is the delayed screenshot function.
@@ -96,13 +103,6 @@ thumbnail: https://www.lifewire.com/thmb/1-Yp1JIoL4O5iudaQ-YSTZFzypk=/400x300/fi
  Taking screenshots of open menus and other areas of Windows can sometimes be difficult if triggering the screenshot breaks whatever it is you're doing. Snipping Tool has a timed screenshot option, so you can do what you need to and then wait for the screenshot to happen automatically, hands-free.
 
  With the program open, select the**stopwatch** . There are three options:**3-second delay** ,**5-second delay** , and**10-second delay** . Select one, choose**New** , and then quickly arrange the screen in the way you need it for the screenshot. When the time you chose is reached, the four options above will display at the top of the screen.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Tips for Taking Screenshots in Windows 11
 
@@ -150,20 +150,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-tips-to-effortlessly-insert-music-into-video-editing-sessions/"><u>[New] 2024 Approved Tips to Effortlessly Insert Music Into Video Editing Sessions</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-expertly-engineered-10-tiktok-creators-essentials-wpc/"><u>[Updated] In 2024, Expertly Engineered 10 TikTok Creators' Essentials (W/PC)</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-melodymentor-detailed-sound-review/"><u>[Updated] In 2024, MelodyMentor Detailed Sound Review</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Nokia C300? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/chatgpt-plus-membership-is-it-right-for-you-discover-these-5-benefits-first/"><u>ChatGPT Plus Membership - Is It Right for You? Discover These 5 Benefits First!</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/chuckle-cache-discovering-twitters-humor-treasures-for-2024/"><u>Chuckle Cache Discovering Twitters Humor Treasures for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/decoding-the-matrix-series-watch-in-the-right-order/"><u>Decoding the Matrix Series: Watch in The Right Order</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/diy-fixes-to-correct-and-prevent-windows-hardware-exception-whea-errors/"><u>DIY Fixes to Correct and Prevent Windows Hardware Exception (WHEA) Errors</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/effective-techniques-for-equalizing-mp3-audio-levels/"><u>Effective Techniques for Equalizing MP3 Audio Levels</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/our-favorite-kids-movies-on-disney-plus-july-2024/"><u>Our Favorite Kids Movies on Disney Plus (July 2024)</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolve-your-mfc71dll-could-not-be-loaded-or-is-damaged-error-easily/"><u>Resolve Your 'mfc71.dll' Could Not Be Loaded or Is Damaged Error Easily</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/solutions-for-missing-shorts-thumbnails-on-youtube/"><u>Solutions for Missing Shorts Thumbnails on YouTube</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/stream-high-quality-movies-and-tv-without-charge-with-crackle-your-ultimate-free-viewing-app/"><u>Stream High-Quality Movies and TV Without Charge with 'Crackle': Your Ultimate Free Viewing App</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/travel-friendly-folding-moko-bluetooth-typewriter/"><u>Travel-Friendly Folding MoKo Bluetooth Typewriter</u></a></li>
-<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-honor-x50-gt-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Honor X50 GT</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-top-8-innovative-glasses-for-entering-metaverse-worlds-for-2024/"><u>[New] Top 8 Innovative Glasses for Entering Metaverse Worlds for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-discover-dynamic-channels-advanced-youtube-naming-guides-for-2024/"><u>[Updated] Discover Dynamic Channels Advanced YouTube Naming Guides for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/2024s-elite-lineup-of-high-quality-in-ceiling-speakers-reviewed/"><u>2024'S Elite Lineup of High-Quality In-Ceiling Speakers Reviewed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/crackle-unveiled-the-ultimate-platform-to-watch-movies-and-tv-at-zero-cost/"><u>Crackle Unveiled: The Ultimate Platform to Watch Movies and TV at Zero Cost</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/hands-of-honour-versus-followers-faith/"><u>Hands of Honour Versus Followers’ Faith</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-and-update-hardware-device-drivers-manually-on-windows-10-and-7-by-drivereasy-guide/"><u>How to install and update hardware device drivers manually on Windows 10 & 7</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-xiaomi-redmi-13c-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Xiaomi Redmi 13C 5G Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-frame-rate-fluctuations-and-smooth-out-gameplay-in-battlefield-2042-for-pc-players/"><u>How to Resolve Frame Rate Fluctuations and Smooth Out Gameplay in Battlefield 2042 for PC Players</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/remove-automatically-suggested-podcasts-from-your-spotify-playlist-for-2024/"><u>Remove Automatically Suggested Podcasts From Your Spotify Playlist for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-oppo-find-x7-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Oppo Find X7</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-accessing-instagram-stories-and-posts-without-creating-an-account/"><u>Step-by-Step Guide: Accessing Instagram Stories and Posts without Creating an Account</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-future-of-meta-quest-price-predictions-expected-arrival-date-and-insider-info-on-tech-specs/"><u>The Future of Meta Quest: Price Predictions, Expected Arrival Date, and Insider Info on Tech Specs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-4-twitter-apps-for-easily-tracking-and-engaging-in-trending-topics/"><u>Top 4 Twitter Apps for Easily Tracking and Engaging in Trending Topics</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-7-essential-factors-when-selecting-your-perfect-motherboard/"><u>Top 7 Essential Factors When Selecting Your Perfect Motherboard</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/transforming-chats-with-animated-gifs-a-complete-walkthrough-for-snapchat/"><u>Transforming Chats with Animated Gifs – A Complete Walkthrough for Snapchat</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-troubleshooting-and-repairing-stuck-dvd-bd-or-cd-drives/"><u>Ultimate Guide: Troubleshooting and Repairing Stuck DVD, BD, or CD Drives</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-efficiency-a-guide-to-activating-your-file-explorers-quick-access-toolbar/"><u>Unlocking Efficiency: A Guide to Activating Your File Explorer's Quick Access Toolbar</u></a></li>
 </ul></div>
 

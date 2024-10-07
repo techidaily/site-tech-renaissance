@@ -1,7 +1,7 @@
 ---
 title: Flexible Connection Setup on macOS with Multiple Network Locations - Tips From ZDNet
-date: 2024-09-29T05:29:11.988Z
-updated: 2024-10-01T16:38:21.678Z
+date: 2024-10-02T20:22:54.226Z
+updated: 2024-10-07T17:58:20.226Z
 tags:
   - apple
 categories:
@@ -36,6 +36,13 @@ Let me show you how it works.
 
 **Also:** [**How to manage SSH connections on MacOS with Termius**](https://www.zdnet.com/article/how-to-manage-ssh-connections-on-macos-with-termius/) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to create different network locations in MacOS
 
 ## Requirements
@@ -43,10 +50,10 @@ Let me show you how it works.
 The only thing you'll need is a device running an updated version of MacOS. This feature works with both wired and wireless connections.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Open System Preferences
@@ -54,22 +61,15 @@ The only thing you'll need is a device running an updated version of MacOS. This
 Click the Apple menu at the top right of your display and select System Preferences from the menu.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Open Network
 
 From within System Preferences, click the Network icon to open the Network section.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Create a new network location
 
@@ -90,10 +90,10 @@ Image: Jack Wallen
 Once you've configured the location exactly how you need it, click Apply to save everything.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Switching to a different Network Location
@@ -139,16 +139,18 @@ Fortunately, you are now empowered to more easily make that switch.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-able.techidaily.com/solved-steam-unable-to-sync-cloud-error/"><u>[Solved] Steam Unable to Sync Cloud Error</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-exemplary-6-skyline-minecraft-abodes/"><u>[Updated] Exemplary 6 Skyline Minecraft Abodes</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-advice-on-restoring-proper-functionality-to-your-amazon-prime-subtitles/"><u>Expert Advice on Restoring Proper Functionality to Your Amazon Prime Subtitles</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ideal-gaming-gear-for-kids-choosing-the-right-consoles-and-extras/"><u>Ideal Gaming Gear for Kids: Choosing the Right Consoles and Extras</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Vivo Y17s | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-xiaomi-redmi-note-13-pro-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Xiaomi Redmi Note 13 Pro 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/increase-engagement-by-linking-your-pinterest-board-directly-from-your-facebook-page/"><u>Increase Engagement by Linking Your Pinterest Board Directly From Your Facebook Page</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/re-energizing-eg2-a-guide-to-reactivating-in-game-audio-features/"><u>Re-Energizing EG2: A Guide to Reactivating In-Game Audio Features</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/resolved-step-by-step-guide-to-updating-amd-radeon-drivers/"><u>Resolved: Step-by-Step Guide to Updating AMD Radeon Drivers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-most-exceptional-samsung-smart-tv-app-picks-of-2024/"><u>The Most Exceptional Samsung Smart TV App Picks of 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-simple-solution-to-refresh-your-samsung-tvs-configuration/"><u>The Simple Solution to Refresh Your Samsung TV's Configuration</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-inventory-guide-to-videography-devices/"><u>[New] In 2024, Inventory Guide to Videography Devices</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-top-15-tools-for-boosting-fb-sales-through-data-analysis/"><u>[Updated] 2024 Approved Top 15 Tools for Boosting FB Sales Through Data Analysis</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-unpacking-the-rules-instagrams-video-length-caps/"><u>[Updated] 2024 Approved Unpacking the Rules Instagram's Video Length Caps</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-your-blueprint-to-youtube-success-top-tips-for-outstanding-shorts/"><u>2024 Approved Your Blueprint to Youtube Success Top Tips for Outstanding Shorts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/get-ahead-of-the-curve-everything-you-need-to-know-about-apples-series-8-smartwatch-specs-release-timeline-and-price-tag/"><u>Get Ahead of the Curve: Everything You Need to Know About Apple's Series 8 Smartwatch – Specs, Release Timeline & Price Tag</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-ios-system-of-apple-iphone-13-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of Apple iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/masterclass-in-merging-movies-with-modern-education/"><u>Masterclass in Merging Movies with Modern Education</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/powerdirector-app-2024-in-depth-review-and-step-by-step-guide/"><u>PowerDirector App 2024 In-Depth Review & Step-by-Step Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamlining-time-lapse-photography-with-gopro-software-for-2024/"><u>Streamlining Time-Lapse Photography with GoPro Software for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-viewing-the-transformers-film-series-sequentially/"><u>The Ultimate Guide: Viewing The Transformers Film Series Sequentially</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-8-solutions-for-correcting-the-unwanted-blue-hue-on-your-television-display/"><u>Top 8 Solutions for Correcting the Unwanted Blue Hue on Your Television Display</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-to-correct-the-not-found-problem-with-mapi32dll-files/"><u>Troubleshooting Steps to Correct the 'Not Found' Problem with Mapi32.dll Files</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722900532737-unlock-hidden-gems-a-list-of-10-striking-emoji-revelations-you-wont-believe/"><u>Unlock Hidden Gems: A List of 10 Striking Emoji Revelations You Won't Believe!</u></a></li>
 </ul></div>
 

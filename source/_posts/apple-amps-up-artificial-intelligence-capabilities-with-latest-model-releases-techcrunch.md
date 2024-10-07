@@ -1,7 +1,7 @@
 ---
 title: Apple Amps Up Artificial Intelligence Capabilities with Latest Model Releases | TechCrunch
-date: 2024-09-26T08:49:28.000Z
-updated: 2024-10-02T05:57:43.216Z
+date: 2024-10-03T20:32:53.125Z
+updated: 2024-10-07T18:30:51.922Z
 tags:
   - apple
 categories:
@@ -69,25 +69,27 @@ This isn't Apple's first go-around with AI models, having released others such a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-optimize-social-media-visual-clarity-for-iphoneandroid-users/"><u>[Updated] Optimize Social Media Visual Clarity for iPhone/Android Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/anticipated-m4-mac-mini-launch-insider-info-on-costs-release-dates-specifications/"><u>Anticipated M4 Mac Mini Launch - Insider Info on Costs, Release Dates, Specifications</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/best-childrens-movie-selection-for-disneyplus-watch-party-july-2024-edition/"><u>Best Children's Movie Selection for Disney+ Watch Party - July 2024 Edition</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-selection-top-5-free-offline-race-simulators-of-2024-my-recommendations/"><u>Discover the Ultimate Selection: Top 5 FREE Offline Race Simulators of 2024 - My Recommendations!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/enhance-your-gaming-experience-by-replacing-the-ps5-drives-with-a-solid-state-drive/"><u>Enhance Your Gaming Experience by Replacing the PS5 Drives with a Solid State Drive</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-motorola-edge-40-neo-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Motorola Edge 40 Neo Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-x100-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Vivo X100 Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/inside-the-art-of-youtube-video-earnings/"><u>Inside the Art of YouTube Video Earnings</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/is-the-cost-effective-hewlett-packards-amd-laptop-up-to-the-task-in-depth-review-inside/"><u>Is the Cost-Effective Hewlett-Packard's AMD Laptop Up to the Task? In-Depth Review Inside</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/mastering-visual-narratives-essential-snapchat-video-editors/"><u>Mastering Visual Narratives Essential Snapchat Video Editors</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-role-of-ussd-in-telecommunications-comprehending-unstructured-supplementary-services/"><u>The Role of USSD in Telecommunications: Comprehending Unstructured Supplementary Services</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-15-no-cost-preinstallation-anti-virus-software-selections/"><u>Top 15 No-Cost, Preinstallation Anti-Virus Software Selections</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-the-ultimate-guide-to-learning-all-the-details-about-voice-cloning/"><u>Updated 2024 Approved The Ultimate Guide to Learning All the Details About Voice Cloning</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-the-essential-guide-to-filming-timelapse-on-ios-devices/"><u>[New] In 2024, The Essential Guide to Filming Timelapse on iOS Devices</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-your-pathway-to-audio-mastery-download-and-install-vrecorder/"><u>[Updated] 2024 Approved Your Pathway to Audio Mastery - Download & Install VRecorder</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-hues-harmony-an-editors-guide-to-perfect-grading/"><u>2024 Approved Hues Harmony An Editor's Guide to Perfect Grading</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/affordable-and-free-top-netflix-replacements-to-watch-shows/"><u>Affordable and Free: Top Netflix Replacements to Watch Shows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/chatgpt-plus-uncover-if-its-a-game-changer-with-these-5-must-know-reasons-to-subscribe/"><u>ChatGPT Plus: Uncover if It's a Game-Changer with These 5 Must-Know Reasons to Subscribe!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-tutorial-on-incorporating-text-overlays-in-instagram-story-videos/"><u>Complete Tutorial on Incorporating Text Overlays in Instagram Story Videos</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/decode-and-resolve-why-isnt-my-apple-watch-capturing-every-move/"><u>Decode and Resolve: Why Isn't My Apple Watch Capturing Every Move?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-locate-and-restore-erased-phone-numbers-from-your-android-device/"><u>How to Locate and Restore Erased Phone Numbers From Your Android Device</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-oppo-a2-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Oppo A2?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-samsung-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Samsung</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-portals-a-step-by-step-guide-to-teleportation-in-minecraft/"><u>Mastering Portals: A Step-by-Step Guide to Teleportation in Minecraft</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-art-of-global-chatgpt-usage/"><u>Mastering the Art of Global ChatGPT Usage</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-microsofts-discount-programs-the-ultimate-student-guide/"><u>Navigating Microsoft's Discount Programs: The Ultimate Student Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/rhythm-route-redistribution-your-playlist-anywhere-for-2024/"><u>Rhythm Route Redistribution Your Playlist, Anywhere for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-unforgettable-charms-of-the-huawei-p30-pro-an-updated-smartphone-review-you-cant-miss/"><u>The Unforgettable Charms of the Huawei P30 Pro: An Updated Smartphone Review You Can't Miss</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

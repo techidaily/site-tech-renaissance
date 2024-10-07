@@ -1,7 +1,7 @@
 ---
 title: "Continue to Score Huge Savings: Ongoing Presidents’ Day Offers at Major Retailers Including Best Buy | ZDNet"
-date: 2024-09-29T05:47:39.327Z
-updated: 2024-10-02T03:07:42.974Z
+date: 2024-10-02T20:13:51.672Z
+updated: 2024-10-07T20:16:31.530Z
 tags:
   - apple
 categories:
@@ -41,10 +41,10 @@ From headphones to robot vacuums to TVs, now's your chance to snag savings that 
 * [Blink Outdoor 4 Floodlight Camera](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB0BBX45V5B%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C49a9cd49-10f3-402f-88bc-95c766be6c30%7Cdtp&dtb=1): $85 (save $45 at Amazon)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The best Presidents Day tech deals still live
@@ -85,13 +85,6 @@ Jason Hiner/ZDNET
 * [Jabra Elite 4 Active Wireless Earbuds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB09MVGQRDD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C49a9cd49-10f3-402f-88bc-95c766be6c30%7Cdtp&dtb=1): $90 (save $30 at Amazon)
 * [Jabra Elite 10 Wireless Earbuds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB0CB91VRGV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C49a9cd49-10f3-402f-88bc-95c766be6c30%7Cdtp&dtb=1): $200 (save $50 at Amazon)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The best Presidents Day TV deals still live
 
 Maria Diaz/ZDNET
@@ -106,19 +99,6 @@ Maria Diaz/ZDNET
 * [Hisense 75-inch 4K UHD Fire TV](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHisense-75-Inch-Class-Smart-75U6HF%2Fdp%2FB0CHJ7GQ2Q%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C49a9cd49-10f3-402f-88bc-95c766be6c30%7Cdtp&dtb=1): $750 (save $400 at Amazon)
 * [Samsung 85-inch Class TU690T UHD 4K Smart Tizen TV](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-85-class-tu690t-crystal-uhd-4k-smart-tizen-tv%2F6527338.p%3F&publisher_slug=itechdaily19598&exclusive=1): $1,000 (save $300 at Best Buy)
 * [Samsung 75-inch Class QN85C UHD 4K Smart Tizen TV](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-75-class-qn85c-neo-qled-4k-uhd-smart-tizen-tv%2F6536416.p%3F&publisher_slug=itechdaily19598&exclusive=1): $1,800 (save $500 at Best Buy)
-
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The best Presidents Day robot vacuum deals still live
 
@@ -150,15 +130,22 @@ Arlo
 * [Eve Light Strip](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEve-Light-Strip-Full-Spectrum-Necessary%2Fdp%2FB07MTX8MR4%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C49a9cd49-10f3-402f-88bc-95c766be6c30%7Cdtp&dtb=1): $40 (save $40 at Amazon)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When is President's Day?
 
 President's Day is always celebrated on the third Monday of February. This year, it falls on Feb. 19\. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How did we choose these deals?
 
@@ -169,6 +156,13 @@ We also looked over customer reviews to find out what matters to real people who
 ## When will these deals expire?
 
 Deals are subject to sell-out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on a deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Does Amazon have a Presidents' Day sale?
 
@@ -216,24 +210,17 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-explore-all-content-jointly-shared-photos-and-vids-for-2024/"><u>[New] Explore All Content Jointly Shared Photos & Vids for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-post-resurrecting-made-simple/"><u>[Updated] Post Resurrecting Made Simple</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/complete-guide-removing-your-song-likes-across-spotify/"><u>Complete Guide: Removing Your Song Likes Across Spotify</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-tutorial-setting-up-bluetooth-audio-for-your-apple-earbuds-with-an-hp-desktop-machine/"><u>Comprehensive Tutorial: Setting Up Bluetooth Audio for Your Apple Earbuds with an HP Desktop Machine</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-light-functionality-on-your-malfunctioning-corsair-led-keypad/"><u>How to Restore Light Functionality on Your Malfunctioning Corsair LED Keypad</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-ranking-the-leading-video-conferencing-applications/"><u>In 2024, Ranking the Leading Video Conferencing Applications</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-virtual-cinema-12-hd-streaming-on-demand-platform/"><u>In 2024, Virtual Cinema 12 HD Streaming on Demand Platform</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ram-in-formato-wma-trasformare-online-e-gratuito-la-guida-completa-al-metodo-movavi/"><u>RAM in Formato WMA: Trasformare Online E Gratuito - La Guida Completa Al Metodo Movavi</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-the-msvcr70dll-file-a-step-by-step-guide/"><u>Resolving the MSVCR70.dll File: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/secure-and-swift-methods-for-converting-your-instagram-vids-into-audio-format-mp3/"><u>Secure & Swift Methods for Converting Your Instagram Vids Into Audio Format (MP3)</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-the-problem-of-microsoft-word-not-launching/"><u>Solving the Problem of Microsoft Word Not Launching</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-list-of-9-crucial-electronic-devices-every-student-needs-now/"><u>The Ultimate List of 9 Crucial Electronic Devices Every Student Needs Now</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-missing-gsdll32dll-errors-in-windows-systems/"><u>Troubleshooting Missing gsdll32.dll Errors in Windows Systems</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unleashing-your-digital-creativity-a-guide-to-using-a-free-restricted-free-gpt-variant-on-windows/"><u>Unleashing Your Digital Creativity: A Guide to Using a Free, Restricted-Free GPT Variant on Windows</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-this-article-will-tell-you-some-adobe-premiere-tips-for-you-to-edit-videos-in-a-better-way-using-adobe-premiere-just-enjoy-adobe-premiere-vi/"><u>Updated In 2024, This Article Will Tell You some Adobe Premiere Tips for You to Edit Videos in a Better Way Using Adobe Premiere. Just Enjoy Adobe Premiere Video Editing</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/upgrading-to-rtx-gpus-are-they-a-smart-move-for-serious-gamers-and-professionals/"><u>Upgrading to RTX GPUs: Are They a Smart Move for Serious Gamers and Professionals?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/wallet-friendly-options-for-starting-your-home-cinema-experience/"><u>Wallet-Friendly Options for Starting Your Home Cinema Experience</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/what-is-patch-tuesday/"><u>What Is Patch Tuesday?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/iuodouodkoodtoocoeocpoocquocsoodqeodleocoplusodgplusocrplusocueoduplusocsplusodsplusodhuodsplusodhowitus9noodgeodvoododrjg5fjg63jga7lsilplodnn6xorzjjgplmtlv5/"><u>モバヴァイオグラフィックス・コンテンツ制作チーム:プロの専門知識を活かしたビジネス戦略</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/advancing-into-a-new-era-of-high-speed-internet-with-verizon-ebg/"><u>Advancing Into a New Era of High-Speed Internet with Verizon Ebg</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boosting-household-efficiency-with-ai-assistance/"><u>Boosting Household Efficiency with AI Assistance</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/cygwin1dll-not-found-discover-effective-fixes-and-solutions-today/"><u>Cygwin1.dll Not Found? Discover Effective Fixes and Solutions Today!</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/enrich-tweets-with-videos-your-quick-reference-for-2024/"><u>Enrich Tweets with Videos Your Quick Reference for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enter-the-viral-world-of-tiktoks-on-your-flat-screen-a-step-by-step-guide-to-connect-your-phone-and-tv/"><u>Enter the Viral World of TikToks on Your Flat Screen - A Step-by-Step Guide to Connect Your Phone and TV</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-razr-40-ultra-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Razr 40 Ultra.</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-oppo-reno-11-pro-5g-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Oppo Reno 11 Pro 5G Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-internet-searches-methods-to-retrieve-phone-numbers-ethically/"><u>Mastering Internet Searches: Methods to Retrieve Phone Numbers Ethically</u></a></li>
+<li><a href="https://blog-min.techidaily.com/passos-faceis-para-inserir-legendas-em-um-gif-tecnicas-top-de-seo/"><u>Passos Fáceis Para Inserir Legendas Em Um GIF: Técnicas Top De SEO</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/securely-save-your-windows-8-screenshots-for-2024/"><u>Securely Save Your Windows 8 Screenshots for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/the-final-word-on-powerdirector-a-complete-review-for-2024/"><u>The Final Word on PowerDirector A Complete Review for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-pathway-to-academia-thriftiness-claiming-your-rightful-place-with-a-tidal-institutional-offset/"><u>The Pathway to Academia Thriftiness: Claiming Your Rightful Place with a Tidal Institutional Offset</u></a></li>
 </ul></div>
 

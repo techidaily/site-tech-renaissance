@@ -1,7 +1,7 @@
 ---
 title: ZDNet Reveals Apple Pushes Back Intelligent Features Release to Oct – What You Need to Know
-date: 2024-10-01T13:36:43.201Z
-updated: 2024-10-02T06:40:49.547Z
+date: 2024-10-01T18:24:23.391Z
+updated: 2024-10-07T19:21:19.541Z
 tags:
   - apple
 categories:
@@ -37,10 +37,10 @@ Apple was expected to focus on incorporating AI into its apps to simplify users'
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What does Apple Intelligence do?
@@ -78,6 +78,13 @@ The voice assistant will also be able to perform hundreds of new actions across 
 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What's new in Apple's photo editing & search?
 
 Apple
@@ -103,16 +110,10 @@ The same feature can help users make major edits to text, such as changing the t
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is Image Playground?
@@ -126,13 +127,6 @@ Apple will let users generate images using AI in Messages, Photos Notes, Keynote
 In the Notes app, for example, a new tool called Image Wand will let you circle a rough sketch and use on-device AI to have Image Playground pull ideas from the surrounding areas to generate an image. 
 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
 
@@ -162,6 +156,13 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is Apple Intelligence actually private and secure?
 
 Apple
@@ -176,13 +177,6 @@ The company is striving to keep the AI features secure through several mechanism
 * **Independent code review:** With Private Cloud Compute, Apple explained that the code is available for independent experts to inspect and verify it meets privacy standards.
 * **Data encryption:** Apple encrypts all data sent to and from its servers as another layer of security.
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
 
@@ -224,20 +218,15 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-essential-tips-for-obs-on-android-platforms/"><u>[Updated] In 2024, Essential Tips for OBS on Android Platforms</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-store-complete-online-interface/"><u>[Updated] In 2024, Store Complete Online Interface</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-youtube-ascension-from-a-niche-channel-to-million-sub-haven-for-2024/"><u>[Updated] Youtube Ascension From a Niche Channel to Million-Sub Haven for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/budget-friendly-beats-solo-in-ear-headphones-a-comprehensive-product-review/"><u>Budget-Friendly Beats Solo In-Ear Headphones - A Comprehensive Product Review</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-overcome-delay-challenges-with-google-chromecast-audio/"><u>How to Overcome Delay Challenges with Google Chromecast Audio</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-from-basics-to-advanced-crafting-powerful-instagram-hashtags/"><u>In 2024, From Basics to Advanced Crafting Powerful Instagram Hashtags</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-infinix-hot-40-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Infinix Hot 40?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/is-electronic-mail-utilized-by-pope-francis-in-his-papal-duties/"><u>Is Electronic Mail Utilized by Pope Francis in His Papal Duties?</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-explore-the-best-free-soundtrack-libraries-for-your-videos-and-films-for-2024/"><u>New Explore the Best-Free Soundtrack Libraries for Your Videos and Films for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/phone-upgrading-strategy-how-frequent-should-you-switch-to-new-tech/"><u>Phone Upgrading Strategy: How Frequent Should You Switch to New Tech?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/safeguard-against-unidentified-phone-numbers-iphone-call-blocking-methods-revealed/"><u>Safeguard Against Unidentified Phone Numbers: IPhone Call-Blocking Methods Revealed</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/seamless-sync-how-to-link-your-airpods-with-an-hp-system-effortlessly/"><u>Seamless Sync: How to Link Your AirPods with an HP System Effortlessly</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/uncovering-concealed-files-in-macos-with-terminal-tricks/"><u>Uncovering Concealed Files in macOS with Terminal Tricks</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-6-exceptional-free-options-like-photoshop-you-should-try/"><u>Unveiling 6 Exceptional Free Options Like Photoshop You Should Try</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/win11-rev-fixes-resurrected-non-printing-printer/"><u>Win11 Rev Fixes: Resurrected Non-Printing Printer</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-stars-brief-moment-analysis/"><u>[New] In 2024, Star's Brief Moment Analysis</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-web-add-on-fb-stories-repository-app-for-2024/"><u>[Updated] Web Add-On FB Stories Repository App for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-poco-x5-pro-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Poco X5 Pro Phone When You Forget the Password</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-netflix-errors-how-to-tackle-and-resolve-ui-80n-troubles/"><u>Navigating Netflix Errors: How to Tackle and Resolve UI-80n Troubles</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/reviving-the-audio-solutions-when-your-stereo-receiver-fails-to-produce-sound/"><u>Reviving the Audio: Solutions When Your Stereo Receiver Fails to Produce Sound</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-resolution-overcoming-bluetooth-mouse-connection-problems-in-windows/"><u>Step-by-Step Resolution: Overcoming Bluetooth Mouse Connection Problems in Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-activating-and-deactivating-windows-10s-network-discovery/"><u>Step-by-Step Tutorial: Activating and Deactivating Windows 10'S Network Discovery</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/the-ultimate-broadcast-blueprint-for-enthralling-cricket-matches-for-2024/"><u>The Ultimate Broadcast Blueprint for Enthralling Cricket Matches for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-instagrams-potential-effective-tags-to-skyrocket-your-exposure/"><u>Unlocking Instagram's Potential: Effective Tags to Skyrocket Your Exposure</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Samsung Galaxy A54 5G? | Dr.fone</u></a></li>
 </ul></div>
 

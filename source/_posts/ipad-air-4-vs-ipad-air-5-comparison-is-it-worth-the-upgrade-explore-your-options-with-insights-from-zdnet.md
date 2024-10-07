@@ -1,7 +1,7 @@
 ---
 title: "IPad Air 4 vs iPad Air 5 Comparison: Is It Worth the Upgrade? Explore Your Options with Insights From ZDNet"
-date: 2024-09-27T08:04:42.931Z
-updated: 2024-10-02T01:28:58.926Z
+date: 2024-10-02T16:45:06.964Z
+updated: 2024-10-07T20:36:42.731Z
 tags:
   - apple
 categories:
@@ -34,13 +34,6 @@ Here are the top reasons why we are (or aren't) upgrading to the iPhone 16 in th
 
 Kerry Wan/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. The camera
 
 Perhaps one of the most important features of any smartphone these days is the camera, so it is no surprise that camera quality is a big consideration for ZDNET editors. It probably is for you, too. The iPhone 16 lineup includes a new [Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/) feature that works in landscape or portrait mode with a button on the side of the iPhone. In addition, you can lightly press the button to show camera functions you can choose from, such as zoom, exposure, or focal lengths, by swiping between the options. 
@@ -54,10 +47,10 @@ The Camera Control uses [Apple's Visual Intelligence](https://www.zdnet.com/arti
 "I have the biggest one-sided beef in the world with the iPhone 14\. I can give you material for years. Primarily because the camera is the worst thing I ever experienced on an iPhone. Even the base iPhone 16 model looks way better," Ortiz says.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Trade-in deals and carrier offers
@@ -71,13 +64,6 @@ ZDNET contributor Ed Bott is planning to upgrade his iPhone 12 Pro Max for a new
 And if you're looking to change carriers, like managing editor Alison DeNisco Rayome, some of the trade-in offers make it hard to resist. "I still have the 13, and the trade-in deals are making it worth it for me to upgrade to the 16 (plus we want to switch carriers, so even better)," she says. 
 
 Verizon and T-Mobile have [similar offers](https://www.zdnet.com/article/how-to-preorder-the-new-iphone-16-and-get-one-free/) right now, and they're pretty sweet. At T-Mobile, new and existing customers can get a free iPhone 16 Pro with a trade-in on the Go5G Next plan, or up to $1,000 off on any iPhone 16 model. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. For work
 
@@ -101,22 +87,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 ZDNET's Jason Perlow is bumping up for similar reasons. "I am upgrading from my 15 Pro Max to a 16 Pro Max because I am on the iPhone Upgrade Program, and as I cover developments with Apple, it is a business expense and \[ultimately\] it's trading one loan payment for another. No other reason, although the camera improvements seem nice. I debated skipping, but there wasn't much of a downside," he says. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Here's why ZDNET editors won't be upgrading to the iPhone 16
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. The Apple Intelligence features aren't perfect
 
@@ -136,11 +116,25 @@ As reviews editor Kyle Kucharski says, it's never a good idea to blindly update 
 
 Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am still happy with it. It performs just as well as when I got it. I wish the camera were better (but the BlackMagic app helps a lot with this) and I would like the convenience of a USB-C port, but it's still working well enough that I don't feel compelled at all to get an iPhone 16\. I'm holding out for next year, at least," Diaz says. Kucharski is on the same page. "I still have the 12, and the bottom line: it still works fine," he says. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Expense and hassle
 
 Sometimes it's the most obvious factors that influence our choices. The expense and hassle of coordinating a new phone may not be in some people's budgets just yet (literally and figuratively). I'm in this department. It would be really cool to have that shiny, beautiful, and gloriously pink iPhone 16, but my iPhone 14 Pro works completely fine (even though its battery grinds my gears), and I have no good reason to upgrade beyond wanting a pink phone. It would be an added expense on both my wallet and my time (setting up a new phone is not a one-day process; change my mind). Plus, I usually keep my phones until they crap out anyway, so an upgrade right now is just not in the cards. 
 
 ZDNET's Adrian Kingsley-Hughes is still on the fence, but we agree on one thing. "It's a ton of money," he says.
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to preorder the iPhone 16
 
@@ -182,20 +176,20 @@ The [iPhone 16 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-facetime-made-simple-for-android-users/"><u>[New] FaceTime Made Simple for Android Users</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-stellar-stories-celebrating-youtubes-best-narratives/"><u>[New] In 2024, Stellar Stories Celebrating YouTube's Best Narratives</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-enhance-your-listeners-experience-with-great-summaries/"><u>[Updated] Enhance Your Listeners' Experience with Great Summaries</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-adobe-advice-brighten-up-faded-iphone-videos-using-four-critical-techniques/"><u>2024 Approved [Adobe Advice] Brighten Up Faded iPhone Videos Using Four Critical Techniques</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/from-science-fiction-to-reality-how-artifice-intelligence-is-altering-our-lives/"><u>From Science Fiction to Reality: How Artifice Intelligence Is Altering Our Lives</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-free-drivers-for-your-hp-thunderbolt-dock-g2-supports-120w-and-230w-options/"><u>Get Free Drivers for Your HP Thunderbolt Dock G2 - Supports 120W and 230W Options</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-identify-the-best-projector-for-your-home-or-office/"><u>How to Identify the Best Projector for Your Home or Office</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-exclusive-selection-of-cutting-edge-online-platforms-for-facebook-covers/"><u>In 2024, Exclusive Selection of Cutting-Edge Online Platforms for Facebook Covers</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/-techniques-to-elevate-your-youtube-summaries-for-2024/"><u>Smart Techniques to Elevate Your Youtube Summaries for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/snag-unbeatable-prices-leading-technology-offers-for-your-amazon-prime-day-haul/"><u>Snag Unbeatable Prices: Leading Technology Offers for Your Amazon Prime Day Haul</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-the-issue-of-missing-dnssddll-file-step-by-step-guide/"><u>Solving the Issue of Missing dnssd.dll File – Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-mastering-split-screen-functionality-on-your-macbook-air/"><u>Step-by-Step Guide: Mastering Split Screen Functionality on Your MacBook Air</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/toms-gear-diary-top-picks-for-modern-computer-components/"><u>Tom's Gear Diary: Top Picks for Modern Computer Components</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-to-fix-turtle-beach-recon-70-microphone-issues/"><u>Troubleshooting Steps to Fix Turtle Beach Recon 70 Microphone Issues</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-and-fixing-error-messages-related-to-missing-x3daudiodll/"><u>Understanding and Fixing Error Messages Related to Missing X3DAudio.DLL</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-crafting-winning-titles-and-tags-for-your-youtube-videos/"><u>[New] 2024 Approved Crafting Winning Titles & Tags for Your YouTube Videos</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-lg-360-camera-full-review-for-2024/"><u>[New] LG 360 Camera Full Review for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-decoding-advanced-techniques-for-flawless-snapchat-edits/"><u>[Updated] In 2024, Decoding Advanced Techniques for Flawless Snapchat Edits</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-greening-the-grid-paving-the-way-for-sustainable-metropolises/"><u>[Updated] In 2024, Greening the Grid Paving the Way for Sustainable Metropolises</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-shedding-light-techniques-for-improving-youtube-video-quality-for-2024/"><u>[Updated] Shedding Light Techniques for Improving YouTube Video Quality for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-effortless-audio-transfer-on-iphone-pick-top-6-tools-to-convert-youtube/"><u>2024 Approved Effortless Audio Transfer on iPhone Pick Top 6 Tools to Convert YouTube</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-expert-review-of-the-leading-no-cost-cam-software-options/"><u>2024 Approved Expert Review of the Leading No-Cost Cam Software Options</u></a></li>
+<li><a href="https://win-answers.techidaily.com/isops3ps4ps5/"><u>最新プレイステーションのゲームISOファイル再生手順：PS3、PS4、PS5用</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-use-ps3-controller-on-pc-no-motioninjoy/"><u>How to Use PS3 Controller on PC (NO MotioninJoy)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/hxtsrexe-in-windows-11-what-is-it-and-how-to-fix-it-solved/"><u>HxTsr.exe in Windows 11 - What Is It and How to Fix It? [Solved]</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-basics-of-pc-drivers-proven-methods-for-correcting-windows-driver-glitches/"><u>Mastering the Basics of PC Drivers: Proven Methods for Correcting Window's Driver Glitches</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-brother-printer-configuration-in-minutes/"><u>Mastering the Brother Printer Configuration in Minutes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/nordvpn-exclusive-offer-grab-your-vpn-at-a-steal-with-75-savings-and-extra-10-off/"><u>NordVPN Exclusive Offer: Grab Your VPN at a Steal With 75% Savings & Extra $10 Off!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quick-guide-how-to-identify-your-motherboard-model-effortlessly/"><u>Quick Guide: How to Identify Your Motherboard Model Effortlessly</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-ultimate-playbook-for-youtube-content-innovation-for-2024/"><u>The Ultimate Playbook for YouTube Content Innovation for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Qualcomm, Samsung & Google Unite for Revolutionary AR Smart Glasses: The Untold Story Behind This Game-Changing Partnership"
-date: 2024-09-18T02:58:10.837Z
-updated: 2024-09-20T23:15:12.699Z
+date: 2024-10-05T19:41:54.278Z
+updated: 2024-10-07T18:30:57.189Z
 tags:
   - ar+vr
 categories:
@@ -67,12 +67,30 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-clear-cut-content-how-to-minimize-unwanted-elements-in-video-for-2024/"><u>[New] Clear Cut Content How to Minimize Unwanted Elements in Video for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-elite-8-video-transformations-for-virtual-events-for-2024/"><u>[New] Elite 8 Video Transformations for Virtual Events for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-premier-8-free-roku-channels-of-2024/"><u>Discover the Premier 8 Free Roku Channels of 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/electric-cars-and-climate-endurance-working-efficiently-in-hot-or-cold-environments/"><u>Electric Cars and Climate Endurance: Working Efficiently in Hot or Cold Environments?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-history-of-googles-messaging-and-video-call-platform-hangouts/"><u>Exploring the History of Google's Messaging and Video Call Platform: Hangouts</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-create-a-facebook-cover-photo-using-your-avatar/"><u>How to Create a Facebook Cover Photo Using Your Avatar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-y100i-by-fonelab-android-recover-video/"><u>How to recover old videos from your Y100i</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-expert-tactics-for-designing-attention-grabbing-thumbnails/"><u>In 2024, Expert Tactics for Designing Attention-Grabbing Thumbnails</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/inside-the-apple-watch-ultra-2-leak-release-dates-price-forecasts-and-cutting-edge-technology-sneak-peek/"><u>Inside the Apple Watch Ultra 2 Leak: Release Dates, Price Forecasts, and Cutting-Edge Technology Sneak Peek</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-viewing-the-complete-dragon-ball-saga/"><u>Step-by-Step Guide: Viewing the Complete Dragon Ball Saga</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/swiftrecord-the-quick-windows-11-recorder-for-2024/"><u>SwiftRecord - The Quick Windows 11 Recorder for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-art-of-flawless-audio-capture-mic-free-for-2024/"><u>The Art of Flawless Audio Capture, Mic-Free for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-unseen-potential-of-previous-iphones-to-support-core-apple-features-like-siri-revealed/"><u>The Unseen Potential of Previous iPhones to Support Core Apple Features Like SIRI Revealed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-5-free-substitutes-for-skype/"><u>Top 5 Free Substitutes for Skype</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-immersion-technologies-distinguishing-ar-vr-mr-and-xr/"><u>Understanding Immersion Technologies: Distinguishing AR, VR, MR & XR</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

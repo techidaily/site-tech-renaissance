@@ -1,7 +1,7 @@
 ---
 title: "How to Experience Apple's Revolutionary 3D Videos with Meta Quest 3: The Ultimate Tutorial | ZDNET"
-date: 2024-09-27T16:18:23.101Z
-updated: 2024-10-02T02:12:05.641Z
+date: 2024-10-05T19:48:11.719Z
+updated: 2024-10-07T17:04:34.040Z
 tags:
   - apple
 categories:
@@ -57,16 +57,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 Multiple cores can increase performance considerably for problems that can be split into parallel processes. Many modern processes work well in parallel, especially graphics, data crunching, AI, ML, and AR-related tasks. 
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  CPU vs. SoC
@@ -91,13 +85,6 @@ SoCs have enormous performance benefits because all the electrical impulses have
 
 It wasn't until SoCs could be successfully fabricated with tens of billions of transistors that they were suitable for high-performance personal computers. They can be now, so now they are. 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Apple Silicon
 
 You've heard that Apple has stopped building Intel-based Macs and instead is building them based on something called Apple Silicon. Chips are made out of silicon ([number 14 on the Periodic Table, symbol Si](https://en.wikipedia.org/wiki/Silicon#)). So Apple Silicon is silicon chips from Apple. But what does that really mean? 
@@ -119,10 +106,10 @@ They're a win for Apple because the company no longer has to rely on Intel for i
 However, the Silicon transition was a win for Apple and its customers solely because of something called Rosetta 2\. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Rosetta 2
@@ -167,6 +154,13 @@ It's a win for both developers and users when code is compiled for Apple Silicon
 
 I found, for example, that Rosetta-translated Chrome was OK but a bit sluggish. When I replaced that with the Apple Silicon version of Chrome, it was far faster. For help finding out which of your applications are Native, Intel, or "Universal" (meaning the application contains native code for both Intel and Apple Silicon), read "[Sluggish apps on your M1 Mac? Check this first for a possible fix](https://www.zdnet.com/article/the-first-thing-to-check-if-an-app-seems-sluggish-on-your-m1-mac/)." 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  M1, M2, M3, Pro, Max, and Ultra
 
 M1 was the first Apple Silicon processor model that Apple used inside its computers. As of this writing, Apple has shipped an M2 generation of processors, and [just announced the M3 generation](https://www.zdnet.com/article/m3-apple-silicon-is-here-and-theres-more-to-it-than-new-laptops-and-all-in-ones/). In addition to the base-model processors, Apple has created higher performance versions, which are labeled Pro, Max, and -- for the M1 and M2 -- Ultra. We haven't seen the Ultra on the M3 family, at least yet.
@@ -190,10 +184,10 @@ The M-series processors are SoCs, so memory and storage come right on the chip. 
 The sizes of the chips differ considerably. The base chip is about a quarter the size of the Max model. This makes sense because the Max crams a lot more onto its die. It got smaller between the M2 and M3 generations when the die-production process went from 5-nanometer to 3-nanometer components. But for now, it's just interesting to note that the M3 Max has 92 billion transistors, while the double-chip M2 Ultra has 134 billion transistors -- all in the space of about the size of a fingernail. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Final thoughts
@@ -236,24 +230,24 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-how-to-record-a-twitch-gameplay-stream/"><u>[Updated] 2024 Approved How to Record a Twitch Gameplay Stream</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-going-against-gravity-reversing-your-vids/"><u>[Updated] In 2024, Going Against Gravity Reversing Your Vids</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/20-most-popular-memes-on-reddit-and-twitter-for-2024/"><u>20 Most Popular Memes on Reddit and Twitter for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Vivo Y78t | Dr.fone</u></a></li>
-<li><a href="https://win-web.techidaily.com/defend-your-desktops-expert-strategies-for-windows-pc-safety-in-homes-and-startups-digitalguardian/"><u>Defend Your Desktops: Expert Strategies for Windows PC Safety in Homes and Startups | DigitalGuardian</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/diagnosing-and-repairing-call-drops-an-android-users-handbook/"><u>Diagnosing and Repairing Call Drops: An Android User's Handbook</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/diy-repair-how-to-restore-smooth-operation-of-your-surface-pros-screen/"><u>DIY Repair: How to Restore Smooth Operation of Your Surface Pro's Screen</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-solutions-repairing-ntldr-is-missing-problems-in-windows-systems/"><u>Easy Solutions: Repairing 'NTLDR Is Missing' Problems in Windows Systems</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/ensuring-clear-audio-in-remote-recording/"><u>Ensuring Clear Audio in Remote Recording</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-fixes-to-get-your-spotify-working-again-on-android-auto/"><u>Essential Fixes to Get Your Spotify Working Again on Android Auto</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/instructive-tutorial-how-not-to-see-news-in-windows-11s-taskbar-widgets/"><u>Instructive Tutorial: How Not to See News in Windows 11'S Taskbar Widgets</u></a></li>
-<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Motorola Moto G84 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-resolving-the-dark-display-issue-in-your-android-device/"><u>Step-by-Step Guide: Resolving the Dark Display Issue in Your Android Device</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-next-gen-m4-mac-mini-whats-the-price-tag-release-dates-and-technical-specs-covered/"><u>The Next-Gen M4 Mac Mini: What's the Price Tag? Release Dates & Technical Specs Covered!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-strategies-for-the-best-home-entertainment-during-the-super-bowl/"><u>Top Strategies for the Best Home Entertainment During the Super Bowl</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unlocking-brightness-and-saturation-in-ps-basics/"><u>Unlocking Brightness and Saturation in PS Basics</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-66-top-twitter-accounts-for-savvy-travelers-seeking-exceptional-deals-and-insider-tips/"><u>Unveiling 66 Top Twitter Accounts for Savvy Travelers Seeking Exceptional Deals and Insider Tips</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722899060291-why-isnt-mozilla-thunderbird-launching-find-out-how-to-rectify-it/"><u>Why Isn't Mozilla Thunderbird Launching? Find Out How to Rectify It</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-mastering-live-online-broadcasts-recording-techniques/"><u>[New] 2024 Approved Mastering Live Online Broadcasts Recording Techniques</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-sound-symphony-music-within-whatsapp-statuses/"><u>[New] In 2024, Sound Symphony Music Within WhatsApp Statuses</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-seamless-integration-of-movies-and-animations-using-movie-maker/"><u>[New] Seamless Integration of Movies and Animations Using Movie Maker</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-content-creation-to-revenue-recognition-the-systematic-3-step-formula-for-youtube-income-examination/"><u>[Updated] 2024 Approved From Content Creation to Revenue Recognition The Systematic 3-Step Formula for YouTube Income Examination</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-stepwise-guide-to-windows-11-sound-capture-setup/"><u>[Updated] In 2024, Stepwise Guide to Windows 11 Sound Capture Setup</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-and-google-showdown-differences-between-app-store-offerings/"><u>Apple and Google Showdown: Differences Between App Store Offerings</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/aural-alchemy-transforming-sound-tracks-in-logic-pro-x-for-2024/"><u>Aural Alchemy Transforming Sound Tracks In Logic Pro X for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/from-quiet-to-queendom-elevate-your-ig-videos-with-perfect-audio-matches/"><u>From Quiet to Queendom: Elevate Your IG Videos with Perfect Audio Matches</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-nokia-c02-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-honor-play-8t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mavic-air-ushers-in-new-era-confronting-dji-sparks-legacy/"><u>In 2024, Mavic Air Ushers in New Era, Confronting DJI Spark’s Legacy</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/new-age-of-apple-previewing-the-touchscreen-macbooks-arrival-with-forecasted-prices-launch-schedule-and-expected-features/"><u>New Age of Apple: Previewing the Touchscreen MacBook's Arrival with Forecasted Prices, Launch Schedule & Expected Features!</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/overcome-youtube-tweet-buffer-in-chromebook/"><u>Overcome YouTube Tweet Buffer in Chromebook</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/signal-vs-whatsapp-a-comprehensive-comparison-for-users/"><u>Signal Vs. WhatsApp – A Comprehensive Comparison for Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/strategies-for-efficiently-checking-your-internet-usage-statistics/"><u>Strategies for Efficiently Checking Your Internet Usage Statistics</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/this-title-appeals-to-users-looking-to-master-or-learn-about-command-prompt-across-different-windows-environments-suggesting-comprehensive-guidance/"><u>This Title Appeals to Users Looking to Master or Learn About Command Prompt Across Different Windows Environments, Suggesting Comprehensive Guidance</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-6-study-aid-applications-for-student-success-and-parent-support/"><u>Top 6 Study Aid Applications for Student Success & Parent Support</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tutorial-setting-up-offline-watches-of-popular-movies-from-netflix-on-your-pc/"><u>Tutorial: Setting Up Offline Watches of Popular Movies From Netflix on Your PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-verification-success-tips-and-tricks-for-recognition-on-the-rebranded-microblogging-giant-formerly-twitter/"><u>Unlocking Verification Success: Tips and Tricks for Recognition on the Rebranded Microblogging Giant, Formerly Twitter</u></a></li>
 </ul></div>
 

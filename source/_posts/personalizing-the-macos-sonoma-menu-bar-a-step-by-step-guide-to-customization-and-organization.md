@@ -1,7 +1,7 @@
 ---
 title: "Personalizing the MacOS Sonoma Menu Bar: A Step-by-Step Guide to Customization & Organization"
-date: 2024-09-25T07:50:23.039Z
-updated: 2024-10-02T07:23:58.581Z
+date: 2024-10-02T19:43:02.148Z
+updated: 2024-10-07T19:28:16.579Z
 tags:
   - apple
 categories:
@@ -59,10 +59,10 @@ Before you move on to the next step, be sure that Xcode is fully installed, that
 Once all of that is done, we can move on. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Configure the VM hosting app in Xcode
@@ -98,10 +98,16 @@ You're ready to start running the VM. Hit the little arrow to build and run.
 Screenshot by David Gewirtz/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Installing Ubuntu
@@ -137,16 +143,16 @@ Use the default, which is to allow the installer to erase the virtual disk and s
 Screenshot by David Gewirtz/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Run Ubuntu
@@ -160,10 +166,10 @@ Once you restart, you'll be in a standard environment, with a nice little virtua
 Screenshot by David Gewirtz/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Final thoughts
@@ -210,24 +216,22 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-dive-into-quality-tips-for-shooting-crystal-clear-gopro-video-below-the-surface/"><u>[New] Dive Into Quality Tips for Shooting Crystal Clear GoPro Video Below the Surface</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-flv-to-youtubes-master-the-art-of-video-transformation-with-these-top-tools-for-2024/"><u>[Updated] Flv to Youtubes Master the Art of Video Transformation with These Top Tools for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-exclusive-guide-to-affordable-premium-video-editors/"><u>[Updated] In 2024, Exclusive Guide to Affordable, Premium Video Editors</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/mp4-72024/"><u>【無料ガイド】MP4 ファイルを超えた圧縮方法の達人7選【2024年新春特大版】</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-editing-magic-transformative-strategies-for-youtube-creators/"><u>2024 Approved Editing Magic Transformative Strategies for YouTube Creators</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-choices-for-action-camera-gear-in-202-groovy-year-expert-insights-from-zdnet/"><u>Discover the Ultimate Choices for Action Camera Gear in 202 Groovy Year – Expert Insights From ZDNET</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-selection-of-zero-emission-fire-pits-for-2ebutry-your-outdoor-space/"><u>Discover the Ultimate Selection of Zero Emission Fire Pits for 2Ebutry Your Outdoor Space</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-solar-charger-rankings-on-zdnet-the-top-picks/"><u>Discover the Ultimate Solar Charger Rankings on ZDNET: The Top Picks</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/diy-guide-crafting-your-own-camera-obscura-for-safe-solar-eclipse-viewing-tips-and-tricks/"><u>DIY Guide: Crafting Your Own Camera Obscura for Safe Solar Eclipse Viewing – Tips & Tricks</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/durability-and-water-resistance/"><u>Durability & Water Resistance</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/eufycam-2c-pro-security-camera-bundle-substantial-discounts-of-38-off-available-now/"><u>EufyCam 2C Pro Security Camera Bundle - Substantial Discounts of $38 Off Available Now!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exclusive-ge-cync-offer-save-up-to-61-on-innovative-lighting-and-controls-smart-devices-galore/"><u>Exclusive GE Cync Offer: Save Up to 61% on Innovative Lighting & Controls - Smart Devices Galore!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/experience-the-spectacular-april-2024-solar-eclipse-comprehensive-guide-on-how-to-watch-safely-and-what-equipment-youll-require-digitalobserver/"><u>Experience the Spectacular April 2024 Solar Eclipse - Comprehensive Guide on How to Watch Safely and What Equipment You'll Require | DigitalObserver</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/explore-the-ultimate-selection-the-5-highest-quality-no-smoke-fire-pits-of-20212022-according-to-zdnet/"><u>Explore the Ultimate Selection: The 5 Highest Quality No-Smoke Fire Pits of 2021/2022 According to ZDNET</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-crafting-characters-and-settings/"><u>In 2024, Crafting Characters and Settings</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Vivo Y78 5G | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-secret-sauce-for-a-viral-tiktok-unboxer-masterpiece/"><u>In 2024, The Secret Sauce for a Viral TikTok Unboxer Masterpiece</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-overcoming-persistent-crashes-of-fuser-in-windows-environment/"><u>Troubleshooting: Overcoming Persistent Crashes of Fuser in Windows Environment</u></a></li>
-<li><a href="https://win-help.techidaily.com/what-you-need-to-know-microsoft-announces-paid-pricing-plan-for-windows-11-updates-cost-breakdown/"><u>What You Need To Know: Microsoft Announces Paid Pricing Plan For Windows 11 Updates - Cost Breakdown</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-fusionvisualizer-ipadplusmacmedia-combining-tool/"><u>[Updated] 2024 Approved FusionVisualizer IPad+MacMedia Combining Tool</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-chrome-pip-integration-a-cross-platform-tutorial/"><u>[Updated] Chrome PIP Integration A Cross-Platform Tutorial</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-get-ahead-with-these-must-know-pixlr-techniques/"><u>[Updated] Get Ahead with These Must-Know Pixlr Techniques</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-metaverse-life-your-ultimate-device-list/"><u>2024 Approved Mastering Metaverse Life Your Ultimate Device List</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-guide-twitter-video-enhancers/"><u>2024 Approved Ultimate Guide Twitter Video Enhancers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/all-you-need-to-know-about-espnpluss-online-sports-viewing-experience/"><u>All You Need To Know About ESPN+'s Online Sports Viewing Experience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/crucial-considerations-before-investing-in-restored-notebooks/"><u>Crucial Considerations Before Investing in Restored Notebooks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/data-saving-techniques-for-efficient-sms-communication/"><u>Data-Saving Techniques for Efficient SMS Communication</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/demystifying-oled-mechanisms-for-enhanced-visual-experience/"><u>Demystifying OLED Mechanisms for Enhanced Visual Experience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-animated-and-live-action-movies-for-kids-on-netflix/"><u>Discover the Best Animated and Live-Action Movies for Kids on Netflix</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-advice-correcting-tremors-and-erratic-display-behavior-in-your-surface-pro/"><u>Expert Advice: Correcting Tremors and Erratic Display Behavior in Your Surface Pro</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/fitbit-sense-the-ultimate-health-and-fitness-companion-beyond-the-apple-watch/"><u>Fitbit Sense: The Ultimate Health and Fitness Companion, Beyond the Apple Watch</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-to-correct-the-dbghelpdll-error-in-windows-operating-systems/"><u>Guide to Correct the 'dBghelp.dll Error' In Windows Operating Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-access-to-windows-odbc-settings/"><u>Mastering Access to Windows' ODBC Settings</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solution-to-correct-d3dx925dll-not-found-errors-on-your-system/"><u>Step-by-Step Solution to Correct 'd3dx9_25.dll' Not Found Errors on Your System</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/system-requirements-guide-for-the-latest-mac-os-release/"><u>System Requirements Guide for the Latest Mac OS Release</u></a></li>
 </ul></div>
 

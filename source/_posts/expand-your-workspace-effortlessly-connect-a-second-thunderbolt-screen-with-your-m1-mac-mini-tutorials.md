@@ -1,7 +1,7 @@
 ---
 title: "Expand Your Workspace: Effortlessly Connect a Second Thunderbolt Screen with Your M1 Mac Mini Tutorials"
-date: 2024-09-28T08:55:33.549Z
-updated: 2024-10-01T23:05:12.901Z
+date: 2024-10-04T18:01:42.875Z
+updated: 2024-10-07T19:47:03.005Z
 tags:
   - apple
 categories:
@@ -37,18 +37,18 @@ That's why it was such a surprise to me, and many other unsuspecting Mac Mini bu
 
 Sure, the diminutive PC does come equipped with an HDMI port as well. But what about folks upgrading from an Intel-based Mac Mini who were already using two Thunderbolt displays? Or those, like me, who had wrongly assumed when placing an order for the new Mac Mini that it would support two displays? Unfortunately, Apple has never provided a solution, unless you want to upgrade to a much more expensive, M1 Pro- or M1 Max-powered system like the [Mac Studio](https://www.zdnet.com/article/apple-mac-studio-review/). So, it's up to us to find a way to make up for the M1 Mini's problematic downgrade. Apple might hope you'll drop hundreds, or thousands, more on an upgraded Mac to power your secondary Thunderbolt displays. I'll show you how to do it for less than $30\. 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to add a second Thunderbolt display to your M1 Mac Mini
 
 My personal Mac Mini with the required HDMI-to-Thunderbolt adapter (bottom left), its included USB-A-to-Micro-USB cable (top left), and the Thunderbolt 3 cable we'll be using to connect to our monitor (right).
 
 Michael Gariffo/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Materials needed:
 
@@ -56,20 +56,27 @@ Michael Gariffo/ZDNET
 * Two Thunderbolt-enabled displays
 * An HDMI-to-Thunderbolt adapter
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Estimated time:
 
 5 minutes 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Estimated cost:
 
 $30 (assuming you already have the Mac Mini and displays needed)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 1: Acquire the specialized adapter
 
@@ -84,13 +91,6 @@ The adapter I chose for my own setup was this one:
 [HDMI Male to USB-C Female Cable Adapter with Micro USB Power Cable $27.99 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB08VDT3YGK%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5ec2a133-301f-43e8-97e9-22b750eeddee%7Cdtp&dtb=1)
 
 I have seen other models available for sale on Amazon and elsewhere. But, if you shop for one of those, be very careful to make sure you're not buying one of the more common USB-C-to-HDMI adapters, as they're useless for our purpose today. You can typically recognize the correct adapter type by the fact that it requires 5V power input, usually via a Mmicro-USB cable, and mentions that the USB-C side of this is an **output, not an input**. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Step 2: Connect the adapter to your Mac Mini
 
@@ -126,13 +126,6 @@ If you're interested in the specific 43-inch M7 display I use, it can be found b
 
 From here, you should be able to use the newly connected display like any other Thunderbolt monitor, with the only exception being that it won't receive any power from the Mac Mini.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FAQs
 
 ## Are there other ways to add additional displays to a Mac Mini?
@@ -144,6 +137,13 @@ That said, if you want to turn your Mac Mini into the heart of a massive, multim
 * [Plugable 4K USB C Docking Station Triple Monitor with 100W Charging](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPlugable-Universal-Laptop-Docking-Station-Usb-C-Triple-Monitor%2Fdp%2FB0779K9DG2%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5ec2a133-301f-43e8-97e9-22b750eeddee%7Cdtp&dtb=1) \-- $280
 * [MediaGear 60W Power Delivery USB C Dual 4K Ultra Docking Station](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMEDIAGEAR-Power-Delivery-Docking-Station%2Fdp%2FB08CWP6FNR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5ec2a133-301f-43e8-97e9-22b750eeddee%7Cdtp&dtb=1) \-- $165
 * [WAVLINK USB C Dual 4K HDMI&DP Universal Docking Station](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FWAVLINK-Universal-Delivery-Displaylink-2xDisplay%2Fdp%2FB01AXY4RS8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5ec2a133-301f-43e8-97e9-22b750eeddee%7Cdtp&dtb=1) \-- $230
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Are there any benefits to using Thunderbolt over HDMI, if I can choose either?
 
@@ -189,22 +189,19 @@ Displays with Thunderbolt inputs are also made by Acer, Samsung, LG, Viewsonic, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/approved-premium-screen-reporter-the-ultimate-youtubers-friend/"><u>2024 Approved Premium Screen Reporter The Ultimate YouTuber's Friend</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-top-list-of-video-recording-apps-for-iphone/"><u>2024 Approved Top List of Video Recording Apps for iPhone</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-honor-70-lite-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Honor 70 Lite 5G to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/correcting-d3dx933dll-file-absence-best-practices-and-solutions/"><u>Correcting d3dx9_33.dll File Absence: Best Practices and Solutions</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/effortless-installation-of-insignia-drivers-on-your-windows-pc-get-started-now/"><u>Effortless Installation of Insignia Drivers on Your Windows PC – Get Started Now!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/experience-next-gen-viewing-hitachis-4k-uhd-tvs-featuring-integrated-roku/"><u>Experience Next-Gen Viewing: Hitachi's 4K UHD TVs Featuring Integrated Roku</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-diagnose-and-solve-the-unknown-usb-device-detected-port-reset-issue-on-your-windows-11-pc/"><u>How to Diagnose and Solve the ‘Unknown USB Device Detected: Port Reset’ Issue on Your Windows 11 PC</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-vivo-v27e-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Vivo V27e Phone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-finding-whos-double-tapped-on-your-insta-posts/"><u>Mastering the Art of Finding Whos Double-Tapped on Your Insta Posts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-issues-what-to-do-when-your-amazon-echo-alexa-wont-respond/"><u>Resolving Issues: What to Do When Your Amazon Echo (Alexa) Won't Respond</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/skew-and-warp-a-photographers-guide-for-2024/"><u>Skew and Warp A Photographer's Guide for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solutions-to-start-your-mozilla-thunderbird-email-client-if-it-fails-to-open-correctly/"><u>Solutions to Start Your Mozilla Thunderbird Email Client if It Fails to Open Correctly</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-comprehensive-overview-of-nvidias-rtx-graphics-card-series/"><u>The Comprehensive Overview of NVIDIA's RTX Graphics Card Series</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-10-strategies-to-achieve-viral-success-on-tiktok/"><u>Top 10 Strategies to Achieve Viral Success on TikTok</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Google Pixel 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-is-shap-e-exploring-interpretability-in-ml/"><u>What Is SHAP E? Exploring Interpretability in ML</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/xbox-online-services-down-or-localized-internet-trouble-find-out-here/"><u>Xbox Online Services Down or Localized Internet Trouble? Find Out Here</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-quick-and-easy-increase-or-decrease-story-video-speed/"><u>[Updated] 2024 Approved Quick and Easy Increase or Decrease Story Video Speed</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-beat-bloggers-base-downloads-for-analysis/"><u>[Updated] In 2024, Beat Bloggers' Base Downloads for Analysis</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-value-in-4k-cameras-for-under-1000/"><u>Best Value in 4K Cameras for Under $1,000</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-to-recovering-or-replacing-missing-winhttpdll-files-on-windows-pcs/"><u>Comprehensive Guide to Recovering or Replacing Missing Winhttp.dll Files on Windows PCs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enhancing-your-viewing-experience-how-to-link-apple-homepod-with-your-television-set/"><u>Enhancing Your Viewing Experience: How To Link Apple HomePod with Your Television Set</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/high-viewers-the-best-of-youtube-now/"><u>Hour-High Viewers The Best of YouTube Now</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-pokemon-unite-a-step-by-step-guide-for-pc-gaming/"><u>Mastering Pokémon Unite: A Step-by-Step Guide for PC Gaming</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximizing-efficiency-prioritizing-terminal-over-others/"><u>Maximizing Efficiency: Prioritizing Terminal Over Others</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/optimal-lens-selection-for-smooth-vlogging-experience/"><u>Optimal Lens Selection for Smooth Vlogging Experience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/restoring-functionality-how-to-replace-lost-or-damaged-keys-on-your-laptop/"><u>Restoring Functionality: How To Replace Lost or Damaged Keys On Your Laptop</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/roku-not-responding-solutions-for-getting-your-smart-tv-back-online/"><u>Roku Not Responding? Solutions for Getting Your Smart TV Back Online</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/samsung-galaxy-fit2-the-ultimate-portable-workout-companion/"><u>Samsung Galaxy Fit2: The Ultimate Portable Workout Companion</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-making-your-videos-playable-on-itunes-using-movavi-video-converter-tools/"><u>Step-by-Step Tutorial: Making Your Videos Playable on iTunes Using Movavi Video Converter Tools</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-for-fixing-wmvcoredll-absence-errors-effectively/"><u>Troubleshooting Steps for Fixing Wmvcore.dll Absence Errors Effectively</u></a></li>
 </ul></div>
 

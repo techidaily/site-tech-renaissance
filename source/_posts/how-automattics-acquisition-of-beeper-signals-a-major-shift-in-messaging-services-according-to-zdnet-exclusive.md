@@ -1,7 +1,7 @@
 ---
 title: How Automattic's Acquisition of Beeper Signals a Major Shift in Messaging Services, According to ZDNet Exclusive
-date: 2024-09-27T02:37:27.796Z
-updated: 2024-10-02T11:53:43.532Z
+date: 2024-10-04T19:08:39.977Z
+updated: 2024-10-07T17:26:39.901Z
 tags:
   - apple
 categories:
@@ -71,25 +71,24 @@ In October 2023, Automattic acquired Texts.com, another messaging app, for $50 m
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-top-10-hilarious-and-emotional-instagram-memes-journey/"><u>[New] Top 10 Hilarious & Emotional Instagram Memes Journey</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/adapt-video-dimensions-anytime-anywhere-for-2024/"><u>Adapt Video Dimensions Anytime, Anywhere for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-to-clear-out-mac-applications/"><u>Comprehensive Guide to Clear Out Mac Applications</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/discover-the-most-advanced-game-console-releases-of-2024/"><u>Discover the Most Advanced Game Console Releases of 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/expressive-element-enhancers-for-2024/"><u>Expressive Element Enhancers for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-restore-your-netflix-streams-overcoming-roku-connectivity-issues/"><u>How to Restore Your Netflix Streams: Overcoming Roku Connectivity Issues</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-apple-iphone-7-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My Apple iPhone 7 After Forgetting my PIN Code?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-from-your-iphone-11-pro-max-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock From your iPhone 11 Pro Max</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/plan-your-tech-consultation-making-an-appointment-at-the-apple-store/"><u>Plan Your Tech Consultation: Making an Appointment at the Apple Store</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/seamless-setup-how-to-pair-your-samsung-soundbar-with-the-tv/"><u>Seamless Setup: How to Pair Your Samsung Soundbar with the TV</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-missing-osetupdll-errors-in-windows-systems/"><u>Troubleshooting Missing osetup.dll Errors in Windows Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-clean-boot-a-beginners-approach/"><u>Windows 11 Clean Boot: A Beginner's Approach</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/windows-11-security-easy-tutorial-for-turning-off-your-pcs-pin-access/"><u>Windows 11 Security: Easy Tutorial for Turning Off Your PC's PIN Access</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-a-decade-of-dreamy-vacation-flicks-top-10-titles/"><u>[New] A Decade of Dreamy Vacation Flicks Top 10 Titles</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-building-business-via-beauty-vlogs-for-2024/"><u>[New] Building Business via Beauty Vlogs for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-budget-friendly-recorder-options-1-to-10-free-software-guide-for-2024/"><u>[Updated] Budget-Friendly Recorder Options #1 to #10 Free Software Guide for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-the-artisans-choice-a-curated-list-of-the-8-premier-drawing-apps-for-iphones/"><u>2024 Approved The Artisan’s Choice A Curated List of the 8 Premier Drawing Apps for iPhones</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-from-your-apple-iphone-8-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status From Your Apple iPhone 8</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/maximize-your-workout-the-10-most-effective-fitness-progress-trackers/"><u>Maximize Your Workout: The 10 Most Effective Fitness Progress Trackers</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/my-transformative-language-journey-powered-by-mondly-the-essential-10-techniques/"><u>My Transformative Language Journey Powered by Mondly - The Essential 10 Techniques</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-through-net-neutrality-a-comprehensive-overview/"><u>Navigating Through Net Neutrality - A Comprehensive Overview</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-complete-2024-guide-solving-common-issues-with-jabra-wireless-headsets/"><u>The Complete 2024 Guide: Solving Common Issues with Jabra Wireless Headsets</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-pick-childrens-films-streaming-on-disneyplus-in-july-2024/"><u>Top Pick Children's Films Streaming on Disney+ in July 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unboxing-the-samsung-galaxy-z-flip-6-insights-on-cost-launch-timeline-and-latest-updates/"><u>Unboxing the Samsung Galaxy Z Flip 6: Insights on Cost, Launch Timeline & Latest Updates</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unveiling-the-secrets-to-producing-popular-youtube-shorts-for-2024/"><u>Unveiling the Secrets to Producing Popular YouTube Shorts for 2024</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "3 Simple Ways to Block Unwanted Messages on iPhone: A Step-by-Step Guide (ZDNet)"
-date: 2024-09-30T02:56:14.162Z
-updated: 2024-10-02T05:08:05.436Z
+date: 2024-10-05T18:45:43.086Z
+updated: 2024-10-07T20:07:31.747Z
 tags:
   - apple
 categories:
@@ -30,13 +30,6 @@ The good news is that you can stop these text messages using a feature already i
 
 **What you'll need:** To follow this tutorial, you'll need the latest version of iOS available for your device.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Open Settings
 
 Open the Settings app on your iPhone, scroll down until you can access Apps, and tap on the Messages option.
@@ -56,10 +49,10 @@ Scroll to the end of the Messages settings to find "Filter Unknown Senders."
 Screenshot by Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Check your Messages app
@@ -85,16 +78,10 @@ The message inbox will now default to show messages from people in your contact 
 Screenshot by Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQ
@@ -114,6 +101,13 @@ When you do this, unknown callers will go straight to voicemail and can leave yo
 
 Remember that if someone calls you from a number that is not saved in your contacts, you may miss important calls.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How do I report junk messages on iPhone?
 
 The tutorial above will let you live in ignorant bliss of whoever is trying to reach you, but you can also go a step further and report messages as junk. Here's how you can report junk messages on your iPhone:
@@ -132,18 +126,18 @@ If you keep getting messages from the same sender after reporting them, you can 
 3. Tap on the Info button on the right.
 4. Select Block this caller.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why is the 'Filter Unknown Senders' option turned off?
 
 The necessity for increased vigilance in certain situations -- like deliveries and communication with certain organizations -- when someone is expecting a message, is likely why Apple turns the Filter Unknown Senders feature off by default. After all, this option is meant for iPhone users who don't want to be bothered by messages from people they don't know or scammers. It can't be on by default, given that a new iPhone is void of any contacts in the address book. 
 
 **Also: [My 4 favorite iOS 18 features make the iPhone a lot better, and more fun](https://www.zdnet.com/article/my-4-favorite-ios-18-features/)**
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Why am I getting so many spam text messages?
 
@@ -181,20 +175,22 @@ Some phone companies started flagging incoming calls as "Spam Caller" or "Scam L
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-renaissance.techidaily.com/affordable-iphone-and-ipod-chatting-apps-enjoy-unlimited-texting/"><u>Affordable iPhone & iPod Chatting Apps - Enjoy Unlimited Texting!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/clear-the-unwanted-blues-from-your-screen-the-ultimate-8-step-tv-color-correction-guide/"><u>Clear the Unwanted Blues From Your Screen: The Ultimate 8-Step TV Color Correction Guide</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-realme-12-pro-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme 12 Pro 5G in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-motorola-edgeplus-2023-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Motorola Edge+ (2023)</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/increasing-your-youtube-traffic-with-100kplus-view-goals/"><u>Increasing Your YouTube Traffic with 100K+ View Goals</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/joketileart-imagehumorhub-for-2024/"><u>JokeTileArt ImageHumorHub for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/master-the-visuals-top-tips-for-dynamic-and-appealing-live-videos/"><u>Master the Visuals Top Tips for Dynamic and Appealing Live Videos</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-the-easiest-way-to-edit-avi-files-split-trim-and-cut-with-ease/"><u>New The Easiest Way to Edit AVI Files Split, Trim, and Cut with Ease</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ntdlldll-troubleshooting-a-comprehensive-fix-manual-for-windows-platforms/"><u>Ntdll.dll Troubleshooting: A Comprehensive Fix Manual for Windows Platforms</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/reconnect-your-microsoft-surface-pro-a-comprehensive-guide-to-solving-wi-fi-woes/"><u>Reconnect Your Microsoft Surface Pro: A Comprehensive Guide to Solving Wi-Fi Woes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-ring-of-elysium-crash-issues-a-comprehensive-guide/"><u>Resolving 'Ring of Elysium' Crash Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-savings-on-ipads-exclusive-offers-just-for-you/"><u>Top Savings on iPads: Exclusive Offers Just For You</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-problems-in-the-latest-game-update/"><u>Troubleshooting Audio Problems in the Latest Game Update</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-solving-apple-watchs-cellular-connectivity-issues/"><u>Troubleshooting Guide: Solving Apple Watch's Cellular Connectivity Issues</u></a></li>
-<li><a href="https://driver-error.techidaily.com/wireless-keyboard-failure-on-pcs-running-windows-comprehensive-solutions-available-now/"><u>Wireless Keyboard Failure on PCs Running Windows - Comprehensive Solutions Available Now</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-high-quality-streaming-choice-go-with-obs-or-fraps/"><u>[New] High-Quality Streaming Choice Go With OBS or Fraps?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-breaking-down-the-animation-process-a-movie-maker-approach/"><u>[New] In 2024, Breaking Down the Animation Process A Movie Maker Approach</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-best-4k-display-selection-the-creme-de-la-creme-list/"><u>[Updated] In 2024, Best 4K Display Selection The Crème De La Crème List</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-webcam-wonders-innovative-home-tech-use/"><u>[Updated] In 2024, Webcam Wonders Innovative Home Tech Use</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-guide-to-economical-high-performance-asmr-microphones/"><u>[Updated] Ultimate Guide to Economical, High-Performance ASMR Microphones</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-from-apple-iphone-15-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock From Apple iPhone 15 - 4 Easy Ways</u></a></li>
+<li><a href="https://driver-error.techidaily.com/enhanced-connectivity-asus-webcam-on-windows-10-revamped/"><u>Enhanced Connectivity: ASUS Webcam on Windows 10 Revamped</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expanding-your-workspace-setting-up-secondary-screens-on-macos/"><u>Expanding Your Workspace: Setting Up Secondary Screens on macOS</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-oneplus-nord-3-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset OnePlus Nord 3 5G phone? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/joining-forces-in-pokemon-go-a-friends-journey-to-mastery/"><u>Joining Forces in 'Pokémon Go': A Friend's Journey to Mastery</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/logitech-keyboards-unveiled-the-simple-way-to-capture-your-screen-perfectly-in-every-shot/"><u>Logitech Keyboards Unveiled: The Simple Way to Capture Your Screen Perfectly in Every Shot</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/pro-tips-keeping-your-laptop-stocked-with-popular-netflix-shows-and-movies/"><u>Pro Tips: Keeping Your Laptop Stocked With Popular Netflix Shows and Movies</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-the-missing-binkw32dll-file-issue-a-step-by-step-guide/"><u>Resolving the 'Missing binkw32.dll File' Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-next-level-in-autonomous-rides-explore-rumored-details-about-teslas-upcoming-robotaxi/"><u>The Next Level in Autonomous Rides: Explore Rumored Details About Tesla's Upcoming Robotaxi</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-techniques-for-recording-and-sharing-ps4-gameplay-footage/"><u>Ultimate Techniques for Recording and Sharing PS4 Gameplay Footage</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/whats-new-in-ipados-18-discover-release-information-zero-cost-feature-upgrades-and-fresh-news/"><u>What's New in iPadOS 18? Discover Release Information, Zero Cost Feature Upgrades & Fresh News!</u></a></li>
 </ul></div>
 

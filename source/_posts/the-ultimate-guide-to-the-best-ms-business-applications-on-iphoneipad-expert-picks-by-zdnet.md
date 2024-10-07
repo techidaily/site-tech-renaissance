@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to the Best MS Business Applications on iPhone/iPad - Expert Picks by ZDNet
-date: 2024-09-30T09:42:08.535Z
-updated: 2024-10-02T06:25:07.214Z
+date: 2024-10-01T17:45:34.317Z
+updated: 2024-10-07T16:13:47.190Z
 tags:
   - apple
 categories:
@@ -30,19 +30,6 @@ The [Zugu iPad Air case](https://www.zugucase.com/collections/ipad-cases/product
 
 **Also:** [**The best note-taking apps for iPad: Digitize your notes**](https://www.zdnet.com/article/best-note-taking-app-for-ipad/)
 
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The best iPad Air cases of 2024
 
 Show less 
@@ -68,10 +55,16 @@ Cons
 ## Zugu iPad Air Case
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Best iPad Air case overall
@@ -144,13 +137,6 @@ Cons
 
 ## Moft Snap Float Folio Case
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Best versatile iPad Air case
 
 The Moft Snap Float Folio case is one of the most unique iPad Air cases I've tested in the last few months, which doesn't come as a surprise. Moft makes some of the most innovative, origami-inspired mobile and tech accessories I've seen. 
@@ -181,14 +167,14 @@ Cons
 * Still pricey
 * Limited color options
 
-## Logitech Combo Touch Keyboard Case
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Logitech Combo Touch Keyboard Case
 
 ### Best iPad Air case with a keyboard
 
@@ -223,10 +209,16 @@ Cons
 * A bit bulky
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## OtterBox Defender Series Pro Case
@@ -259,6 +251,13 @@ Cons
 * Expensive
 * Limited drop protection
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apple Smart Folio
 
 ### Best iPad Air case for Apple lovers
@@ -280,6 +279,13 @@ Current Amazon users said they liked the quality, appearance, and fit of the App
 **Apple Smart Folio features:** Auto sleep-wake feature | Magnetically connects to your iPad | Two-stand design 
 
 Show Expert Take Show less 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What's the best iPad Air case?
 
@@ -308,6 +314,13 @@ Finding the right iPad Air case for you can be a challenge. Here's how all our t
 | Logitech Combo Touch iPad Keyboard Case | To convert your iPad Air into a workable laptop. Coming with a keyboard with backlit keys and a trackpad, this model converts your iPad Air into the ultimate productivity tool. |
 | OtterBox's Defender Series Pro Case     | A durable iPad Air case built for protection. With raised edges, an included screen protector, and port covers, it's perfect to take to a job site.                              |
 | Apple Smart Folio Case                  | The best overall iPad Air case. This option comes straight from Apple, brings a perfect fit, and saves battery via an automatic wake/sleep function.                             |
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Factors to consider when choosing an iPad Air case:
 
@@ -366,6 +379,13 @@ If you just use your iPad Air for entertainment like catching up on your favorit
 
 While it's not a hard-and-fast rule that an iPad Air case must include a stand, the vast majority of the products on the market today do. If a stand is a feature you aren't willing to compromise on, be sure to use that as a way to narrow your search parameters. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## If I buy a case from a company other than Apple, will it fit?
 
 The trick here is confirming that you're buying a case designed to fit the generation of iPad Air that you've purchased. If you bought the 2020 4th Generation Air, it will fit cases for the 2022 5th Generation iPad Air and vice versa. Both the 4th and 5th Gen iPad Airs have the same dimensions and the same button and camera placements. 
@@ -379,41 +399,21 @@ None of the cases we've discussed here will make it safe to dunk your iPad Air. 
 It's also worth noting that Apple doesn't build in the same level of water resistance as many people might expect. While their later-model iPhones generally offer some water resistance, they make no such claim with their iPad Air. Long story short, your new tablet and water don't mix. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Where can I find iPad Air cases?
 
 Most major retailers like Best Buy, Walmart, and Amazon have several iPad Air cases for sale in-store and online. If you're looking for more bespoke brands, such as Casetify, you may have to look directly at those individual retailers' sites to see their iPad Air case offerings. But don't fret -- starting your search at ZDNET is always a good decision. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Are there alternative iPad Air cases to consider?
 
 Yes, there are tons of iPad Air cases on the market, each with different offerings. While we rounded up some of our top picks above, here's some other great options you can consider. 
 
 [Best iPad Air keyboard case alternative Apple Magic Keyboard Apple's Magic Keyboard case is the tech giant's companion for the iPad Pro and iPad Air. It comes in white or black and features a trackpad, USB-C port for charging, backlit keys, and front and back protection. Thanks to a magnetic hold, you can also adjust it to a comfortable viewing angle. View at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-magic-keyboard-for-11-inch-ipad-pro-1st-2nd-or-3rd-generation-and-ipad-air-4th-or-5th-generation-black%2F6340356.p%3FskuId%3D6340356&publisher_slug=itechdaily19598&exclusive=1)[Best basic iPad Air case for 2024 iPad Air ESR iPad Air Magnetic Shift Case for 10.9, 11, 13-inch If you're upgrading to the newest iPad Air models or need a case for the 10.9-inch display, ESR already has cases available to fit. This folio case comes in five colors, has a built-in holder for the Apple Pencil, features a raised screen view, and is configured for nine different viewing angles. View at Esrgear](https://shareasale.com/r.cfm?b=1200223&u=4338022&m=80610&afftrack=techidaily&urllink=https%3A%2F%2Ftinyland.pxf.io%2Forg4ra)[Best simple iPad Air case Casetify Impact Case When I tested the Impact case on the iPad Air I liked its light weight, handy Apple Penil storage, and numerous prints and designs. It's a great basic case to protect from everyday bumps and scratches, but there's no screen protection (unless you upgrade to the folio style). And it's quite pricey. View at Casetify](https://casetify.hyyc7q.net/c/159047/228232/3937?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.casetify.com%2Fproduct%2Fipad-case-customization%2Fipad-air-109-2020%2Fipad-ultra-impact-case%2F16005425%3F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
-
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## More iPad accessories
 
@@ -471,21 +471,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-nailing-the-perfect-timelapse-with-ios-devices/"><u>[Updated] Nailing the Perfect Timelapse with iOS Devices</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/a-comprehensive-guide-to-leveraging-the-power-of-google-gemini/"><u>A Comprehensive Guide to Leveraging the Power of Google Gemini</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/access-openais-new-gpt-powered-shop-immediate-steps-and-usage-guide/"><u>Access OpenAI's New GPT-Powered Shop: Immediate Steps & Usage Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/an-overview-of-electric-vehicle-progression-in-history/"><u>An Overview of Electric Vehicle Progression in History</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/best-free-software-for-transforming-videos-into-ios-formats-ipad-iphone-and-more/"><u>Best Free Software for Transforming Videos Into iOS Formats: IPad, iPhone, and More!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-methods-to-restore-malfunctioning-programs-on-macos-systems/"><u>Comprehensive Methods to Restore Malfunctioning Programs on macOS Systems</u></a></li>
-<li><a href="https://blog-min.techidaily.com/create-gifs-from-apng-files-at-no-cost-discover-how-with-movavis-simple-tool/"><u>Create GIFs From APNG Files at No Cost - Discover How with Movavi's Simple Tool!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dvd-iso/"><u>DVD ISOイメージ作成：基本的な操作ガイド</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/enjoy-endless-entertainment-with-these-10-affordable-alternatives-to-netflix/"><u>Enjoy Endless Entertainment with These 10 Affordable Alternatives to Netflix</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-computing-gear-with-tom-a-deep-dive-into-modern-hardware-solutions/"><u>Exploring Computing Gear with Tom: A Deep Dive Into Modern Hardware Solutions</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-tecno-camon-20-premier-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Tecno Camon 20 Premier 5G Quickly? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Oppo A1x 5G? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-sparkling-ideas-creating-engaging-fb-ad-videos/"><u>In 2024, Sparkling Ideas Creating Engaging FB Ad Videos</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-the-issue-of-unanswered-calls-on-your-samsung-galaxy-smartwatch/"><u>Solving the Issue of Unanswered Calls on Your Samsung Galaxy Smartwatch</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-how-to-successfully-catch-em-all-in-pokemon-go/"><u>Step-by-Step Instructions: How to Successfully Catch 'Em All in Pokémon Go</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-next-big-thing-uncovered-secrets-of-samsungs-galaxy-s25-ultra-including-release-dates-and-estimated-costs/"><u>The Next Big Thing: Uncovered Secrets of Samsung's Galaxy S25 Ultra Including Release Dates and Estimated Costs</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-essential-steps-to-producing-a-youtube-hit-music-reaction-video-guide/"><u>[New] 2024 Approved Essential Steps to Producing a YouTube Hit Music Reaction Video Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-horizontal-vs-vertical-deciding-the-right-face-for-vids/"><u>[Updated] 2024 Approved Horizontal Vs. Vertical - Deciding the Right Face for Vids</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-10plus-video-presentation-ideas-to-delight-your-audience/"><u>2024 Approved 10+ Video Presentation Ideas to Delight Your Audience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-step-by-step-approach-to-strengthen-digital-television-signal-in-your-living-room/"><u>A Step-by-Step Approach to Strengthen Digital Television Signal in Your Living Room</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avoid-getting-scammed-by-genuine-vs-faux-bingchat-coins/"><u>Avoid Getting Scammed by Genuine vs Faux BingChat Coins</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/code-43-bug-fixes-advanced-techniques-for-developers/"><u>Code 43 Bug Fixes: Advanced Techniques for Developers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/decode-and-repair-expert-strategies-to-tackle-code-28-failures/"><u>Decode and Repair: Expert Strategies to Tackle Code 28 Failures</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effortless-image-retrieval-from-facebook-expert-seo-strategies-for-flawless-results/"><u>Effortless Image Retrieval From Facebook – Expert SEO Strategies for Flawless Results</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-complete-tutorial-for-mac-managing-and-opening-rar-compressed-files/"><u>The Complete Tutorial for Mac: Managing & Opening RAR Compressed Files</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-premier-top-ten-creative-av-media-maker-directory-for-2024/"><u>The Premier Top-Ten Creative Av Media Maker Directory for 2024</u></a></li>
 </ul></div>
 

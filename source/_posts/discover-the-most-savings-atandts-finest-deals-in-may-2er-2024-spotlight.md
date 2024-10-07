@@ -1,7 +1,7 @@
 ---
 title: "Discover the Most Savings: AT&T's Finest Deals in May 2Er 2024 | Spotlight"
-date: 2024-09-26T04:41:38.745Z
-updated: 2024-10-01T16:41:33.535Z
+date: 2024-10-05T20:40:13.824Z
+updated: 2024-10-07T16:15:15.166Z
 tags:
   - apple
 categories:
@@ -81,13 +81,6 @@ The iPad Pro also supports the new [Apple Pencil Pro](https://apple.sjv.io/c/159
 
 **Review: [M4 iPad Pro](https://www.zdnet.com/article/ipad-pro-2024-review/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Prime Day deals on tablet accessories still available
 
 Kayla Solino/ZDNET
@@ -102,6 +95,13 @@ Kayla Solino/ZDNET
 * [Tablet Pillow Stand for $12 (save $8)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FOntel-Pillow-Ultra-Multi-Angle-Tablet%2Fdp%2FB091SL5XPB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd741b4a2-50d5-4678-9d0e-17107e97111f%7Cdtp&dtb=1): Easily view your tablet in bed or while sitting on the couch with this plush tablet stand that provides an angled view and is compatible with tablets of all sizes.
 * [Logitech Crayon for $50 (save $20)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLogitech-Crayon-Digital-12-9-Inch-11-Inch%2Fdp%2FB08VS7QLTG%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd741b4a2-50d5-4678-9d0e-17107e97111f%7Cdtp&dtb=1): Compatible with all iPad models, this stylus has palm-rejection technology and 7.5 hours of battery life, with a quick charge feature.
 * [OtterBox Defender Series Case for iPad Mini for $58 (save $12)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FOTTERBOX-DEFENDER-Case-iPad-Mini%2Fdp%2FB09QT66TB6%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd741b4a2-50d5-4678-9d0e-17107e97111f%7Cdtp&dtb=1): This rugged case will protect your iPad Mini from drops, debris, dust, and dirt.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## More Prime Day tablet deals still available
 
@@ -122,40 +122,40 @@ June Wan/ZDNET
 * [Contixo Kids K102 Tablet for $70 (save $10)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FContixo-Parental-Learning-Children-Kid-Proof%2Fdp%2FB098TYMC77%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd741b4a2-50d5-4678-9d0e-17107e97111f%7Cdtp&dtb=1): This kids' tablet is built for ages 3-12 and includes 50 Disney E-books and 30 Disney videos.
 * [Acer Enduro T1 Rugged Tablet for $270 (save $80)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAcer-ET108-11A-80PZ-Octa-Core-Processor-Handstrap%2Fdp%2FB08G8WYYFW%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd741b4a2-50d5-4678-9d0e-17107e97111f%7Cdtp&dtb=1): This tablet is tested against MIL-STD-810G standards and is resistant to drops from up to 4 feet high as well as moisture, dirt, shocks, and extreme temperatures.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FAQs
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### When was Amazon Prime Day 2024?
 
 Amazon Prime Day is a two-day sales event for Prime members. This year, sales were live from Tuesday, July 16, through Wednesday, July 17.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Are tablets really cheaper on Prime Day?
 
 Yes. Prime Day is a great time to look for deals on tablets that aren't usually on sale, such as iPads or Kindles.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How did we choose these Prime Day deals?
 
 ZDNET only recommends the devices we can stand behind, so when we say you're getting a good deal, we want to ensure your hard-earned money goes towards excellent value. To choose the top deals, we comb through the best sales available and make thorough price comparisons with historical data, combined with our personal experience with these products, to determine which ones are worth buying. Our hope is to help you make the best choice to stretch your dollar.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### What are the best Prime Day 2024 deals still available?
 
@@ -221,17 +221,24 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-crafting-an-impactful-waterway-teaser/"><u>[New] Crafting an Impactful Waterway Teaser</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-4-time-saving-ways-to-perfect-loops-in-your-instagram-videos/"><u>[New] In 2024, 4 Time-Saving Ways to Perfect Loops in Your Instagram Videos</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-navigating-gameplay-preservation-in-windows-10/"><u>[Updated] 2024 Approved Navigating Gameplay Preservation in Windows 10</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/4-ways-to-unlock-iphone-12-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>4 Ways to Unlock iPhone 12 to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/britlish-english-mastering-the-local-language/"><u>Britlish English: Mastering the Local Language</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/downloads-gratuitos-de-transcodificacion-ogv-a-mp4-con-movavi-metodo-rapido-y-seguro/"><u>Downloads Gratuitos De Transcodificación OGV a MP4 Con Movavi - Método Rápido Y Seguro</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/inside-look-at-the-future-of-foldables-predicted-cost-and-timeline-for-the-samsung-galaxy-z-fold-7/"><u>Inside Look at the Future of Foldables: Predicted Cost & Timeline for the Samsung Galaxy Z Fold 7</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/is-it-possible-to-uninstall-preinstalled-iphone-applications/"><u>Is It Possible to Uninstall Preinstalled iPhone Applications?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/overcoming-bandwidth-bottlenecks-steps-to-improve-internet-performance/"><u>Overcoming Bandwidth Bottlenecks: Steps to Improve Internet Performance</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/steps-to-secure-official-badge-status-on-your-instagram-profile/"><u>Steps to Secure Official Badge Status on Your Instagram Profile</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-guide-to-aether-unveiling-its-mystery-and-integration-techniques/"><u>The Guide to Aether: Unveiling Its Mystery & Integration Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/will-chatgpt-pioneer-the-next-wave-of-healthtech/"><u>Will ChatGPT Pioneer the Next Wave of Healthtech?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-leverage-these-top-12-tactics-to-surge-your-youtube-views/"><u>[New] 2024 Approved Leverage These Top 12 Tactics to Surge Your YouTube Views</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-roadmap-to-your-own-instagram-corporate-identity/"><u>[New] The Roadmap to Your Own Instagram Corporate Identity</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-exploring-hidden-realms-a-comprehensive-guide-to-youtubes-unlisted-videos-for-2024/"><u>[Updated] Exploring Hidden Realms A Comprehensive Guide to YouTube’s ‘Unlisted’ Videos for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-split-screen-audio-logging-for-2024/"><u>[Updated] Split Screen Audio Logging for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-through-the-10-leading-countdown-clock-apps-for-your-big-day-androidios/"><u>2024 Approved Navigating Through the 10 Leading Countdown Clock Apps for Your Big Day (Android/iOS)</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/crafting-memes-the-ultimate-guide-to-gif-creation/"><u>Crafting Memes The Ultimate Guide to GIF Creation</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-the-art-of-reversed-color-photography-for-2024/"><u>Mastering the Art of Reversed Color Photography for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/premier-high-definition-recording-discs-for-2024/"><u>Premier High Definition Recording Discs for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quickly-get-operating-system-version-windows/"><u>Quickly Get Operating System Version (Windows)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/rapid-fix-simple-steps-for-revamping-your-facebook-password-asap/"><u>Rapid Fix: Simple Steps for Revamping Your Facebook Password ASAP</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-fortnites-persistent-sound-problems-lags-glitches-and-more/"><u>Solving Fortnite's Persistent Sound Problems: Lags, Glitches, and More</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-ssl-version-or-cipher-mismatch-error-in-windows/"><u>Solving the SSL Version or Cipher Mismatch Error in Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/speeding-up-your-system-effective-strategies-to-enhance-computer-performance/"><u>Speeding Up Your System: Effective Strategies to Enhance Computer Performance</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-installing-the-anker-bluetooth-mouse-drivers/"><u>Step-by-Step Guide: Installing the Anker Bluetooth Mouse Drivers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-reclaiming-disk-space-on-windows-11-systems/"><u>Step-by-Step Guide: Reclaiming Disk Space on Windows 11 Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-for-turning-onoff-cookies-on-popular-browsers-chrome-firefox-opera-and-edge-running-on-windows-ebox/"><u>Step-by-Step Instructions for Turning On/Off Cookies on Popular Browsers (Chrome, Firefox, Opera & Edge) Running on Windows Ebox</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-activating-miracast-feature-and-fixing-common-hurdles-on-your-pc-with-windows-10-or-11/"><u>Step-by-Step Tutorial: Activating Miracast Feature & Fixing Common Hurdles on Your PC with Windows 10 or 11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-your-tablets-unresponsive-screen-top-8-solutions/"><u>Troubleshoot Your Tablet's Unresponsive Screen: Top 8 Solutions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/troubleshooting-your-device-fix-apple-music-not-transferring-to-iphone-ipad-or-ipod/"><u>Troubleshooting Your Device: Fix Apple Music Not Transferring to iPhone, iPad, or iPod</u></a></li>
 </ul></div>
 

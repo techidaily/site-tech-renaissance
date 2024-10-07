@@ -1,7 +1,7 @@
 ---
 title: "Decoding Silicon Evolution at Apple: How Rosetta, M-Series SoCs Influence Choices in Computer Shopping | Tech Insights by ZDNet"
-date: 2024-09-30T03:54:56.790Z
-updated: 2024-10-02T10:40:54.753Z
+date: 2024-10-06T17:40:01.427Z
+updated: 2024-10-07T18:04:54.669Z
 tags:
   - apple
 categories:
@@ -57,16 +57,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 Multiple cores can increase performance considerably for problems that can be split into parallel processes. Many modern processes work well in parallel, especially graphics, data crunching, AI, ML, and AR-related tasks. 
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  CPU vs. SoC
@@ -92,10 +86,10 @@ SoCs have enormous performance benefits because all the electrical impulses have
 It wasn't until SoCs could be successfully fabricated with tens of billions of transistors that they were suitable for high-performance personal computers. They can be now, so now they are. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Apple Silicon
@@ -119,10 +113,10 @@ They're a win for Apple because the company no longer has to rely on Intel for i
 However, the Silicon transition was a win for Apple and its customers solely because of something called Rosetta 2\. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Rosetta 2
@@ -167,6 +161,13 @@ It's a win for both developers and users when code is compiled for Apple Silicon
 
 I found, for example, that Rosetta-translated Chrome was OK but a bit sluggish. When I replaced that with the Apple Silicon version of Chrome, it was far faster. For help finding out which of your applications are Native, Intel, or "Universal" (meaning the application contains native code for both Intel and Apple Silicon), read "[Sluggish apps on your M1 Mac? Check this first for a possible fix](https://www.zdnet.com/article/the-first-thing-to-check-if-an-app-seems-sluggish-on-your-m1-mac/)." 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  M1, M2, M3, Pro, Max, and Ultra
 
 M1 was the first Apple Silicon processor model that Apple used inside its computers. As of this writing, Apple has shipped an M2 generation of processors, and [just announced the M3 generation](https://www.zdnet.com/article/m3-apple-silicon-is-here-and-theres-more-to-it-than-new-laptops-and-all-in-ones/). In addition to the base-model processors, Apple has created higher performance versions, which are labeled Pro, Max, and -- for the M1 and M2 -- Ultra. We haven't seen the Ultra on the M3 family, at least yet.
@@ -188,13 +189,6 @@ David Gewirtz/ZDNET
 The M-series processors are SoCs, so memory and storage come right on the chip. Depending on the chip, you can go from 8GB RAM up to 192GB RAM and 256GB of flash storage up to a whopping 8TB on the 16-inch MacBook Pro with M3 Max. That additional storage will cost you, to the tune of a few thousand bucks more. But if you need it, you need it.
 
 The sizes of the chips differ considerably. The base chip is about a quarter the size of the Max model. This makes sense because the Max crams a lot more onto its die. It got smaller between the M2 and M3 generations when the die-production process went from 5-nanometer to 3-nanometer components. But for now, it's just interesting to note that the M3 Max has 92 billion transistors, while the double-chip M2 Ultra has 134 billion transistors -- all in the space of about the size of a fingernail. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Final thoughts
 
@@ -236,24 +230,22 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-the-ultimate-guide-to-effortless-zooming-on-snapchat/"><u>[New] 2024 Approved The Ultimate Guide to Effortless Zooming on Snapchat</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-samsung-galaxy-xcover-6-pro-tactical-edition-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Samsung Galaxy XCover 6 Pro Tactical Edition without App | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/bridging-services-a-comprehensive-guide-on-shifting-from-google-photos-to-icloud-storage/"><u>Bridging Services: A Comprehensive Guide on Shifting From Google Photos to iCloud Storage</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/creating-the-perfect-viewing-experience-with-a-self-made-projector-screen/"><u>Creating the Perfect Viewing Experience with a Self-Made Projector Screen</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-six-greatest-super-mario-rpgs-available-on-pc/"><u>Discover the Six Greatest Super Mario RPGs Available on PC</u></a></li>
-<li><a href="https://win-forum.techidaily.com/diy-windows-alerts-setting-up-an-easy-event-log-notification-tool/"><u>DIY Windows Alerts: Setting Up an Easy Event Log Notification Tool</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-tips-for-repairing-access-pointwireless-adapter-malfunctions-5-stars/"><u>Expert Tips for Repairing Access Point/Wireless Adapter Malfunctions (5 Stars)</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/graphic-animation-basic-knowledge-and-practices-for-2024/"><u>Graphic Animation Basic Knowledge & Practices for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-honor-v-purse-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Honor V Purse to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-exemplary-6-skyline-minecraft-abodes/"><u>In 2024, Exemplary 6 Skyline Minecraft Abodes</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-the-apple-iphone-14-plus-sim-lock-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock The Apple iPhone 14 Plus SIM Lock 4 Easy Methods</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-vimeo-unveiled-the-premier-video-platform/"><u>In 2024, Vimeo Unveiled The Premier Video Platform</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/inside-lameencdll-error-correction-tips-and-tricks-for-audacity-mp3-users/"><u>Inside Lame_Enc.DLL Error Correction: Tips and Tricks for Audacity MP3 Users</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/interpreting-tags-an-insight-into-labeling-people-or-items-online/"><u>Interpreting 'Tags': An Insight Into Labeling People or Items Online</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/quick-fixes-for-soggy-ios-devices-dry-and-repair-tips/"><u>Quick Fixes for Soggy iOS Devices: Dry and Repair Tips</u></a></li>
-<li><a href="https://windows11.techidaily.com/quickly-prep-your-pc-with-win-11-via-these-3-usb-steps/"><u>Quickly Prep Your PC with Win 11 via These 3 USB Steps</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-5-strategies-for-boosting-your-facebook-usage-efficiency/"><u>Top 5 Strategies for Boosting Your Facebook Usage Efficiency</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-resolving-no-text-messages-issue-on-your-android-device/"><u>Troubleshooting Steps: Resolving No-Text Messages Issue on Your Android Device</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-easy-video-flipping-tips-and-tricks-for-a-pro-look/"><u>Updated Easy Video Flipping Tips and Tricks for a Pro-Look</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-quick-share-of-pics-heres-how-you-do-it-right-for-2024/"><u>[New] Quick Share of Pics? Here's How You Do It Right for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-top-10-overlooked-yet-best-free-speech-transcribers-for-mac/"><u>[Updated] In 2024, Top 10 Overlooked, Yet Best Free Speech Transcribers for Mac</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/a-simple-tutorial-starting-screen-recording-on-mac-for-2024/"><u>A Simple Tutorial Starting Screen Recording on Mac for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-cursor-signal-strength-in-win-11-os/"><u>Boosting Cursor Signal Strength in Win 11 OS</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comprehensive-review-of-googles-ar-stickers-for-2024/"><u>Comprehensive Review of Google's AR Stickers for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/deciphering-twitter-terminology-the-meaning-of-retweet-versus-re-tweet/"><u>Deciphering Twitter Terminology: The Meaning of 'Retweet' Versus 'Re-Tweet'</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-fixes-to-address-the-wlanapidll-error-and-improve-system-stability/"><u>Effective Fixes to Address the WLANAPI.DLL Error and Improve System Stability</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-correctly-handle-missing-or-not-detected-jscriptdll-problems-on-your-pc/"><u>How to Correctly Handle 'Missing or Not Detected' JScript.dll Problems on Your PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-export-spotify-playlists-to-text-files/"><u>How to Export Spotify Playlists to Text Files</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-techniques-for-youtube-video-format-switching/"><u>In 2024, Ultimate Techniques for YouTube Video Format Switching</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/in-depth-analysis-and-insights-on-the-line-messaging-service/"><u>In-Depth Analysis and Insights on the Line Messaging Service</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726223014825-movavi/"><u>Movavi</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-startup-failures-solving-battlefield-4s-launch-issues-on-windows-machines/"><u>Overcoming Startup Failures: Solving Battlefield 4'S Launch Issues on Windows Machines</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-techniques-for-sanitizing-your-tv-clicker-safely-and-effectively/"><u>The Ultimate Techniques For Sanitizing Your TV Clicker Safely & Effectively</u></a></li>
+<li><a href="https://techtrends.techidaily.com/trouble-with-netflix-discover-19-essential-tips-to-restore-functionality-on-your-lg-tv-set/"><u>Trouble with Netflix? Discover 19 Essential Tips to Restore Functionality on Your LG TV Set</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-microsoft-word-when-files-refuse-to-launch/"><u>Troubleshooting Microsoft Word: When Files Refuse to Launch</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/watch-our-handpicked-favorites-for-family-viewing-on-amazon-prime-video-july-2024/"><u>Watch Our Handpicked Favorites for Family Viewing on Amazon Prime Video (July 2024)</u></a></li>
 </ul></div>
 

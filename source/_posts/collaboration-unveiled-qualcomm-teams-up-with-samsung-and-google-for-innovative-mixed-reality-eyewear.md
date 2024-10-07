@@ -1,7 +1,7 @@
 ---
 title: "Collaboration Unveiled: Qualcomm Teams Up With Samsung & Google For Innovative Mixed Reality Eyewear"
-date: 2024-09-16T16:48:11.111Z
-updated: 2024-09-20T18:22:59.657Z
+date: 2024-10-06T20:38:44.760Z
+updated: 2024-10-07T16:33:53.568Z
 tags:
   - ar+vr
 categories:
@@ -67,12 +67,34 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-action-camera-face-off-comparing-pro-3-models-on-market/"><u>[New] In 2024, Action Camera Face-Off Comparing Pro 3 Models on Market</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-create-a-youtube-music-playlist-on-web-and-mobile-a-detailed-guidance/"><u>[Updated] 2024 Approved Create a YouTube Music Playlist on Web and Mobile - A Detailed Guidance</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/cant-connect-to-xbox-online-server-outage-or-local-internet-problems/"><u>Can't Connect to Xbox Online - Server Outage or Local Internet Problems?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/confused-about-psn-outages-is-it-a-global-problem-or-are-you-singularly-disconnected/"><u>Confused About PSN Outages - Is It a Global Problem or Are You Singularly Disconnected?</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/descubra-os-melhores-12-aplicativos-de-chat-pela-web-para-pc-e-mac/"><u>Descubra Os Melhores 12 Aplicativos De Chat Pela Web Para PC E Mac</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-the-world-from-home-discover-66-inspiring-tweeters-offering-travel-deals-and-guidance/"><u>Explore The World From Home: Discover 66 Inspiring Tweeters Offering Travel Deals & Guidance</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-launches-ray-ban-stories-what-are-they-and-how-much-do-they-cost/"><u>Facebook Launches Ray-Ban Stories: What Are They and How Much Do They Cost?</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-kobo-clara-colours-features-and-performance/"><u>In-Depth Analysis of Kobo Clara Colour's Features and Performance</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/must-have-technology-tools-the-ultimate-list-of-9-key-products-for-todays-learners/"><u>Must-Have Technology Tools: The Ultimate List of 9 Key Products for Today's Learners</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-best-video-translator-app-for-pc-you-cannot-miss/"><u>New In 2024, Best Video Translator App for PC You Cannot Miss</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/resume-your-tiktok-journey-post-reload-error/"><u>Resume Your TikTok Journey Post-Reload Error</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/seamless-communication-tips-how-to-link-your-mobile-number-with-all-your-electronics/"><u>Seamless Communication Tips: How to Link Your Mobile Number with All Your Electronics</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-tutorial-for-terminating-frozen-applications-quickly-on-your-windows-nvme-ssd-computer/"><u>Step-by-Step Tutorial for Terminating Frozen Applications Quickly on Your Windows Nvme SSD Computer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-6-best-offline-language-translation-applications/"><u>Top 6 Best Offline Language Translation Applications</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

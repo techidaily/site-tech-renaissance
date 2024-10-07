@@ -1,7 +1,7 @@
 ---
 title: "IOS 18 Unveiled: Personalize & Optimize Your iPhone's Control Panel with Simple Steps | ZDNET"
-date: 2024-09-27T09:42:08.361Z
-updated: 2024-10-02T02:25:30.233Z
+date: 2024-09-30T19:18:32.676Z
+updated: 2024-10-07T18:42:20.928Z
 tags:
   - apple
 categories:
@@ -36,13 +36,6 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Move the available controls
 
 You can move any of the current controls on the first screen. To start, tap the plus icon in the upper-left corner to segue to edit mode. Notice that the controls all have a border around them with the familiar minus sign at the top. Drag and drop each control to a new spot until you've reorganized them all. Swipe up on the screen when you're done.
@@ -52,10 +45,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -65,16 +58,10 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -84,10 +71,10 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -97,6 +84,13 @@ You can easily add a control to any screen that has available space. Pick a scre
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
 
@@ -140,22 +134,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-leading-edge-imaging-the-most-excellent-4k-cams/"><u>[New] 2024 Approved Leading Edge Imaging The Most Excellent 4K Cams</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-best-in-class-writing-workshop/"><u>[Updated] 2024 Approved Best-in-Class Writing Workshop</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-from-channels-to-champions-leveraging-lingo-in-telegram-marketing/"><u>2024 Approved From Channels to Champions Leveraging Lingo in Telegram Marketing</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-the-power-of-your-iphone-photo-mosaic-mastery/"><u>2024 Approved Unlock the Power of Your iPhone Photo Mosaic Mastery</u></a></li>
-<li><a href="https://video-capture.techidaily.com/m4v/"><u>高品質なままM4Vビデオファイルを連続してマージするステップバイステップガイド</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/macwindows-11-handbrake-libdvdcs-dvd/"><u>如何在Mac/Windows 11平台安装并使用 HandBrake Libdvdcs DVD翻制工具</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/affordably-priced-effectively-designed-discover-the-benefits-of-this-exceptional-xr-media-and-gaming-portal-insights-from-zdnet/"><u>Affordably Priced, Effectively Designed: Discover the Benefits of This Exceptional XR Media & Gaming Portal – Insights From ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/elevate-your-vr-sound-experience-with-logitechs-new-chorus-audio-add-on-for-oculus-quest-2-zdnet/"><u>Elevate Your VR Sound Experience with Logitech's New Chorus Audio Add-On for Oculus Quest 2 | ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-untapped-growth-opportunities-of-5g-technology-amidst-initial-setbacks/"><u>Exploring the Untapped Growth Opportunities of 5G Technology Amidst Initial Setbacks</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-oppo-a59-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo A59 5G in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/instant-access-to-pioneer-dj-ddj-sx2-software-speedy-download-steps/"><u>Instant Access to Pioneer DJ DDJ-SX2 Software - Speedy Download Steps</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/overcoming-obstacles-in-implementing-digital-twin-technology-a-guide-to-the-top-7-business-hurdles-and-solutions-zdnet/"><u>Overcoming Obstacles in Implementing Digital Twin Technology: A Guide to the Top 7 Business Hurdles & Solutions | ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/returns-the-angle-in-degrees-by-converting-it-from-radians-to-degrees-with-radiantodegree-function/"><u>Returns the Angle in Degrees by Converting It From Radians to Degrees with `Radian_to_degree` Function.</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/surprising-tech-trend-how-virtual-reality-headsets-bested-apples-airpods-on-black-friday-sales/"><u>Surprising Tech Trend: How Virtual Reality Headsets Bested Apple's AirPods on Black Friday Sales</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-price-of-progress-pursuing-a-business-degree-on-the-cutting-edge-apple-vision-pro/"><u>The Price of Progress: Pursuing a Business Degree on the Cutting-Edge Apple Vision Pro</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-power-of-matterport-axis-in-depth-zdnet-review-and-evaluation/"><u>Unveiling the Power of Matterport Axis: In-Depth ZDNet Review and Evaluation</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-best-free-video-merger-software-without-watermarks-for-2024/"><u>Updated Best Free Video Merger Software Without Watermarks for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expertise-in-easel-alterations-color-command/"><u>[Updated] Expertise in Easel Alterations - Color Command</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-quick-tip-to-uncover-your-recently-watched-movies-on-fb-for-2024/"><u>[Updated] Quick Tip to Uncover Your Recently Watched Movies on FB for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/best-10-tech-tools-and-apps-every-student-needs-in-high-school/"><u>Best 10 Tech Tools and Apps Every Student Needs in High School</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/coding-command-central-how-to-program-a-one-stop-remote-control-gadget/"><u>Coding Command Central: How to Program a One-Stop Remote Control Gadget</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comparing-outlook-and-gmail-determining-the-top-choice-for-your-email-needs/"><u>Comparing Outlook and Gmail: Determining the Top Choice for Your Email Needs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-setup-automating-login-processes-in-windows-operating-systems/"><u>Easy Setup: Automating Login Processes in Windows Operating Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-our-picks-the-best-15-antivirus-programs-available-for-free/"><u>Explore Our Picks: The Best 15 Antivirus Programs Available for Free</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-update-your-windows-pc-with-broadcoms-bluetooth-device-driver/"><u>How to Update Your Windows PC with Broadcom's Bluetooth Device Driver</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-detailed-strategies-for-altering-facial-gender-display-in-digital-media/"><u>In 2024, Detailed Strategies for Altering Facial Gender Display in Digital Media</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-tecno-spark-20-pro-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Tecno Spark 20 Pro to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-se-2022-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone SE (2022) to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Nokia Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-apple-iphone-11-pro-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud On your Apple iPhone 11 Pro</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/no-cost-full-joy-find-your-favorite-melodies-on-these-15-free-music-platforms/"><u>No Cost, Full Joy: Find Your Favorite Melodies on These 15 Free Music Platforms</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/streaming-with-fubo-on-fire-stick-heres-how-you-can-do-it/"><u>Streaming with Fubo on Fire Stick? Here's How You Can Do It!</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-complete-set-of-romance-language-nations/"><u>The Complete Set of Romance Language Nations</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-comprehensive-tutorial-on-tuning-into-hulu-from-your-lg-smart-tv-screen/"><u>The Comprehensive Tutorial on Tuning Into Hulu From Your LG Smart TV Screen</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-instagram-the-definitive-guide/"><u>Understanding Instagram: The Definitive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-streamlined-browsing-on-your-android-the-leading-5-no-root-clickers/"><u>Unlock Streamlined Browsing on Your Android: The Leading 5 No-Root Clickers</u></a></li>
 </ul></div>
 

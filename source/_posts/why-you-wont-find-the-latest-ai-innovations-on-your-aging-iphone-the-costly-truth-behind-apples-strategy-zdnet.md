@@ -1,7 +1,7 @@
 ---
 title: "Why You Won't Find the Latest AI Innovations on Your Aging iPhone: The Costly Truth Behind Apple's Strategy | ZDNet"
-date: 2024-09-30T17:02:28.027Z
-updated: 2024-10-01T23:31:15.430Z
+date: 2024-09-30T19:15:25.012Z
+updated: 2024-10-07T18:48:49.672Z
 tags:
   - apple
 categories:
@@ -45,10 +45,10 @@ Advanced AI features require substantial computational power, typically provided
 Even [major AI service providers](https://www.zdnet.com/article/best-ai-chatbot/) such as OpenAI, Microsoft, and Google encounter challenges in offering dependable and quick access to LLM and Generative AI models to the general public without downtime and overcommitting resources. The shortage and cost of GPU-enabled servers make these issues worse. To maintain the rapid response times expected by its customers, Apple will need to invest substantially in servers, data centers, and edge infrastructure -- an infrastructure level it likely does not currently possess.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple's approach to Private Cloud Compute (PCC)
@@ -60,10 +60,10 @@ For the initial rollout of Apple Intelligence, the company has chosen a hybrid a
 Apple is currently focused on rolling out its [Generative AI services](https://www.zdnet.com/article/apple-unveils-on-device-ai-image-generator-for-iphone-ipad-and-mac/) to high-end devices as part of the initial phase of Apple Intelligence deployment. This allows Apple to enhance its AI capabilities and infrastructure before expanding to a wider range of devices. To bring Apple Intelligence to the rest of its ecosystem, the company will likely deploy AI-accelerated server appliances at the edge, enabling less capable devices to benefit from advanced AI features. However, this infrastructure is not yet ready for large-scale deployment, as Apple's shift towards AI development is still recent.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The challenges of edge computing
@@ -77,10 +77,10 @@ While NVIDIA is a major player in the GPU server space, others include tradition
 As reported by _The Register_, Apple is [developing its own AI servers](https://www.theregister.com/2024/06/11/apple%5Fbuilt%5Fai%5Fcloud%5Fservers%5Fos/), which are expected to be more cost-effective and better integrated with its ecosystem. These servers are currently being tested in data centers for foundation model use, and a broader rollout is anticipated in 2025\. This phased approach ensures Apple can maintain high privacy, security, and user experience standards while gradually expanding its AI capabilities across its device lineup.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Broader implications for IoT and other devices
@@ -125,18 +125,20 @@ As Apple continues developing its AI infrastructure, including potential edge co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win11-tips.techidaily.com/bouncing-back-from-excessive-life-enthusiasm-on-windows-systems/"><u>Bouncing Back From Excessive Life Enthusiasm on Windows Systems</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/cambiar-facilmente-mxf-a-formato-mov-usando-la-herramienta-online-de-movavi-sin-costo-alguno/"><u>Cambiar Fácilmente MXF a Formato MOV Usando La Herramienta Online De Movavi Sin Costo Alguno</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/complete-guide-to-flushing-cache-on-popular-internet-browsers/"><u>Complete Guide to Flushing Cache on Popular Internet Browsers</u></a></li>
-<li><a href="https://extra-information.techidaily.com/converting-images-into-harmonious-videography-for-2024/"><u>Converting Images Into Harmonious Videography for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/effortless-techniques-setting-up-your-multi-functional-universal-remote-successfully/"><u>Effortless Techniques: Setting Up Your Multi-Functional Universal Remote Successfully</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/free-online-converter-transform-wmv-files-into-mp4-format-for-windows-and-macos/"><u>Free Online Converter: Transform WMV Files Into MP4 Format for Windows and macOS</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/guide-converting-magic-stream-files-into-mp4avi-formats-for-mac-and-pc/"><u>Guide: Converting Magic Stream Files Into MP4/AVI Formats for Mac & PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-safely-swap-out-the-battery-in-your-ipad/"><u>How To Safely Swap Out The Battery in Your iPad</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-on-apple-iphone-14-pro-max-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock on Apple iPhone 14 Pro Max</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/perfect-guide-to-excel-in-tiktok-live-shopping/"><u>Perfect Guide To Excel in TikTok Live Shopping</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/streamline-your-snapchat-chat-and-calls-with-3-key-steps-for-2024/"><u>Streamline Your Snapchat Chat and Calls with 3 Key Steps for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-5-ai-powered-tools-to-spark-creative-writing-ideas/"><u>Top 5 AI-Powered Tools to Spark Creative Writing Ideas</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-phone-stores-find-your-perfect-device/"><u>Top-Rated Phone Stores: Find Your Perfect Device</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-essential-podcast-mics-ranked-in-the-top-10/"><u>[Updated] 2024 Approved Essential Podcast Mics Ranked in the Top 10</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-android-and-ios-guide-capturing-google-meet-sessions/"><u>[Updated] Android & iOS Guide Capturing Google Meet Sessions</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-achieve-youtube-stardom-top-strategies-for-recognition-and-growth/"><u>2024 Approved Achieve YouTube Stardom Top Strategies for Recognition and Growth</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/avoiding-pitfalls-when-selecting-a-dashcam-understanding-the-9-most-important-criteria/"><u>Avoiding Pitfalls When Selecting a Dashcam: Understanding the 9 Most Important Criteria</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-strategies-to-correct-missing-haldll-errors-in-your-windows-xp-machine/"><u>Effective Strategies to Correct Missing Hal.dll Errors in Your Windows XP Machine</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevate-your-editing-the-ultimate-list-of-lightroom-luts/"><u>Elevate Your Editing The Ultimate List of LightRoom LUTs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-do-i-fix-0xc1900101-error-when-installing-windows-11/"><u>How Do I Fix 0xC1900101 Error When Installing Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-infinix-hot-40-pro-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Infinix Hot 40 Pro?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/iphone-and-android-sharp-portraits-soft-backdrops-for-2024/"><u>IPhone & Android Sharp Portraits, Soft Backdrops for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quick-fixes-and-expert-advice-dealing-with-the-elusive-winhttpdll-problem/"><u>Quick Fixes and Expert Advice: Dealing With the Elusive Winhttp.dll Problem</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-motorola-g24-power-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Motorola G24 Power Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solve-your-websites-error-500-comprehensive-troubleshooting-tips/"><u>Solve Your Website's 'Error 500': Comprehensive Troubleshooting Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-dilemma-avoid-and-repair-non-charging-issues-with-airpods-9-tips/"><u>Solving the Dilemma: Avoid and Repair Non-Charging Issues with AirPods (9 Tips)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-resolving-spotify-issues-on-android-auto/"><u>Ultimate Guide: Resolving Spotify Issues on Android Auto</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-the-secrets-top-10-surprising-emoji-tidbits-revealed/"><u>Unlock the Secrets: Top 10 Surprising Emoji Tidbits Revealed</u></a></li>
 </ul></div>
 

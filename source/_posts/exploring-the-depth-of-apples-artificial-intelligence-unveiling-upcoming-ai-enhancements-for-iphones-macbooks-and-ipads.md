@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Depth of Apple's Artificial Intelligence: Unveiling Upcoming AI Enhancements for iPhones, MacBooks, & iPads"
-date: 2024-09-26T12:38:56.359Z
-updated: 2024-10-02T12:29:50.651Z
+date: 2024-10-03T18:35:31.141Z
+updated: 2024-10-07T17:07:51.445Z
 tags:
   - apple
 categories:
@@ -60,6 +60,13 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -67,6 +74,13 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -87,16 +101,16 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -123,13 +137,6 @@ Adam Breeden/ZDNET
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## MacOS 15 (Sequoia)
 
 Adam Breeden/ZDNET
@@ -142,16 +149,10 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -170,13 +171,6 @@ Jason Hiner/ZDNET
 * Apple TV brings **multiview to Vision Pro**, which is especially useful when watching sports games.
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## AirPods
 
@@ -230,24 +224,21 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-a-comprehensible-approach-uploading-snapchat-images-offline/"><u>[Updated] 2024 Approved A Comprehensible Approach Uploading Snapchat Images Offline</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-iphones-high-dynamic-range-step-by-step-guide/"><u>2024 Approved IPhone's High Dynamic Range Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-the-best-gopro-accessories/"><u>2024 Approved The Best GoPro Accessories</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-youtube-short-mastery-from-idea-to-final-product/"><u>2024 Approved YouTube Short Mastery From Idea to Final Product</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-to-restoring-d3dx924dll-file-on-windows/"><u>Comprehensive Guide to Restoring d3dx9_24.dll File on Windows</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/decoding-tags-the-complete-guide-to-understanding-how-they-function-online/"><u>Decoding Tags: The Complete Guide to Understanding How They Function Online</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exploring-smartwatches-what-they-are-and-how-they-enhance-your-life/"><u>Exploring Smartwatches – What They Are and How They Enhance Your Life</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Motorola Moto G84 5G | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-iobit-screen-recorder-review/"><u>In 2024, IObit Screen Recorder Review</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/master-tips-to-correctly-handle-missing-user32dll-files-error/"><u>Master Tips to Correctly Handle Missing User32.dll Files Error</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/maximize-your-movie-night-how-to-access-and-enjoy-3d-films-with-fandango-at-home/"><u>Maximize Your Movie Night: How To Access and Enjoy 3D Films with Fandango at Home</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-noise-issues-in-your-stereo-system-restore-the-sound/"><u>Resolving Noise Issues in Your Stereo System - Restore the Sound!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/roam-freely-with-unlimited-data-understanding-t-mobiles-metro-wireless-agreement/"><u>Roam Freely with Unlimited Data - Understanding T-Mobile's Metro Wireless Agreement</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/spiral-fabricator-package-for-2024/"><u>Spiral Fabricator Package for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/step-by-step-roadmap-for-rectifying-your-hawki-car-concerns/"><u>Step-by-Step Roadmap for Rectifying Your Hawki Car Concerns</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-insiders-technique-to-liven-up-your-feed-how-to-use-gifs-in-instagram-comments/"><u>The Insider's Technique to Liven Up Your Feed – How to Use GIFs in Instagram Comments</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-7-entertaining-web-based-adventures-for-children/"><u>Top 7 Entertaining Web-Based Adventures for Children</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-making-bluetooth-appear-in-your-computers-device-manager/"><u>Troubleshooting Tips for Making Bluetooth Appear in Your Computer's Device Manager</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/watch-movies-on-a-budget-top-12-free-film-streaming-platforms-to-enjoy-now/"><u>Watch Movies on a Budget: Top 12 Free Film-Streaming Platforms to Enjoy Now</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-socialvideo-saver-messenger-edition/"><u>[New] SocialVideo Saver – Messenger Edition</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-unveiling-windows-media-seamless-cd-extraction/"><u>[Updated] In 2024, Unveiling Windows Media Seamless CD Extraction</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-how-to-convert-instagram-video-to-mp4-2-proven-ways/"><u>2024 Approved How to Convert Instagram Video to MP4 [ 2 Proven Ways]</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-jumpstart-your-channel-key-hashtags-for-6-figure-impact/"><u>2024 Approved Jumpstart Your Channel Key Hashtags for 6-Figure Impact</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/all-about-ps-vr-2-an-in-depth-look-at-release-timing-cost-estimates-and-hardware-specs/"><u>All About PS VR 2 - An In-Depth Look at Release Timing, Cost Estimates, and Hardware Specs</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-must-have-accessories-for-your-new-ipad-pro-11/"><u>Comprehensive Review: Must-Have Accessories for Your New iPad Pro 11''</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-solution-to-correct-d3dx941dll-errors-on-your-pc/"><u>Comprehensive Solution to Correct 'd3dx9_41.dll' Errors on Your PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/desktop-configuration-mastery-embedding-this-pc-symbols/"><u>Desktop Configuration Mastery: Embedding 'This PC' Symbols</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-honor-x7b-by-drfone-android-unlock-android-unlock/"><u>Device unlock Honor X7b</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effortless-workflow-enabling-and-using-split-screen-on-macbook-air/"><u>Effortless Workflow: Enabling and Using Split Screen on MacBook Air</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/get-informed-the-most-recent-windows-updates-and-service-packs-for-july-2024/"><u>Get Informed: The Most Recent Windows Updates and Service Packs for July 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-nokia-g42-5g-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Nokia G42 5G Without PUK Codes</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-huawei-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Huawei to Protect Your Individual Information</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ipad-showdown-analyzing-the-distinctive-traits-of-mini-and-air-versions/"><u>IPad Showdown: Analyzing the Distinctive Traits of Mini and Air Versions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/learn-sign-language-for-free-ultimate-list-of-16-resources/"><u>Learn Sign Language For Free: Ultimate List of 16 Resources</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/simplified-process-for-deleting-multiple-connections-in-snapchat/"><u>Simplified Process for Deleting Multiple Connections in Snapchat</u></a></li>
 </ul></div>
 

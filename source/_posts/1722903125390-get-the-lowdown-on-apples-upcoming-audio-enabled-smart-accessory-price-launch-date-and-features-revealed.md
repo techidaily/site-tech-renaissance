@@ -1,7 +1,7 @@
 ---
 title: "Get the Lowdown on Apple’s Upcoming Audio-Enabled Smart Accessory: Price, Launch Date & Features Revealed"
-date: 2024-09-28T17:26:19.558Z
-updated: 2024-10-02T11:11:27.719Z
+date: 2024-10-06T19:05:39.666Z
+updated: 2024-10-07T17:59:48.922Z
 categories:
   - BestProducts
 description: "This Article Describes Get the Lowdown on Apple’s Upcoming Audio-Enabled Smart Accessory: Price, Launch Date & Features Revealed"
@@ -32,44 +32,37 @@ thumbnail: https://thmb.techidaily.com/65300c988d41879c46efcdc0b8a7f4ebdd53e06fe
 
  Given that there are no rumors of an actual product using this technology, it's too early to know a release date for this unnamed device (if it gets released at all).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Lifewire's Release Date Estimate
 
  We don't expect to see this direct audio device until late 2025 or 2026 (or maybe even later).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Pre-Order Information
 
  Given that there aren't even rumors of a product here, there's no pre-order information to share right now. We'll update this article if that changes.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Apple Wearable Device With Direct Audio Price Rumors
 
  The rumor mill doesn't have anything to say about prices for an Apple wearable with direct audio. If and when such a product is released, we expect it would cost at least as much as AirPods Pro ($249). It wouldn't surprise us if the price tag were higher.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Apple Wearable Device With Direct Audio Features
 
  Apple's patent for this wearable computing device ([Patent #US 11979721 B2](https://ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11979721) ) describes a gadget that can be worn on clothes and contains a set of speakers and microphones. The speakers beam audio to the wearer's ears, while the microphones take voice commands (probably to Apple's digital assistant, Siri).
 
 ![Patent drawing of an Apple wearable device with direct audio](https://www.lifewire.com/thmb/bpw_abDVlHe6Q57SQBo0eDLP8K8=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/apple-wearable-audio-device-e517a826f13a414dbecdc3bca50d826b.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Apple, Inc / USPTO
 
@@ -80,6 +73,13 @@ Apple, Inc / USPTO
 * Directional audio
 * Microphones for commands, user identification, and calibration.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Directional Audio
 
  The patent discusses an array of parametric speakers that send sound beams to the wearer's ears (this is called directional audio).
@@ -88,18 +88,18 @@ Apple, Inc / USPTO
 
  Directional audio using parametric speakers may sound futuristic, but it already exists in a few products.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Microphones for Commands, User Identification, and Callibration
 
  The patented device would also contain microphones. These could be used for commands with a[virtual assistant](https://www.lifewire.com/virtual-assistants-4138533) like Apple Intelligence or Siri.
 
  The patent also mentions user identification—presumably the device would get to know your voice and maybe even use it as a password (the HomePod does something similar with[Personal Requests](https://www.lifewire.com/how-to-set-up-apple-homepod-4800071) )—and calibration (likely to gauge background noise and vocal volume to attune the device to the user and its surroundings).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Latest News About the Apple Wearable Device With Direct Audio
 
@@ -126,24 +126,21 @@ Apple, Inc / USPTO
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/updated-best-buys-for-extreme-weather-shooting-top-7-edition/"><u>[Updated] Best Buys for Extreme Weather Shooting, Top 7 Edition</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-best-websites-for-downloading-youtube-intro-templates/"><u>[Updated] Best Websites for Downloading YouTube Intro Templates</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Nokia 130 Music | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-instructions-for-linking-up-multiple-bose-soundlink-units-efficiently/"><u>Comprehensive Instructions for Linking Up Multiple Bose SoundLink Units Efficiently</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/diy-fixes-for-a-usb-tethering-connection-that-wont-start/"><u>DIY Fixes for a USB Tethering Connection That Won't Start</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-the-canon-mx920-all-in-one-inkjet-printer-drivers-for-windows/"><u>Download the Canon MX920 All-in-One Inkjet Printer Drivers for Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-solutions-for-fixing-your-software-after-an-unexpected-shutdown/"><u>Easy Solutions for Fixing Your Software After an Unexpected Shutdown</u></a></li>
-<li><a href="https://techtrends.techidaily.com/essential-10-steps-every-beginner-should-know-about-the-once-called-twitter-platform/"><u>Essential 10 Steps Every Beginner Should Know About the Once-Called Twitter Platform</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/explore-the-secrets-of-crafting-contagious-content-on-youtube-learn-with-us/"><u>Explore the Secrets of Crafting Contagious Content on YouTube – Learn with Us!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/get-ahead-of-the-curve-with-playstation-portal-release-timeline-price-range-and-specifications-reviewed/"><u>Get Ahead of The Curve with PlayStation Portal - Release Timeline, Price Range & Specifications Reviewed</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-find-companionship-5-unique-apps-that-help-you-forge-new-bonds/"><u>How to Find Companionship: 5 Unique Apps That Help You Forge New Bonds</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-fix-nvidia-control-panel-crashingnot-opening/"><u>How to Fix NVIDIA Control Panel Crashing/Not Opening</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-maintenance-effective-tips-for-resolving-liquid-in-usb-c-connector-alerts/"><u>IPhone Maintenance: Effective Tips for Resolving Liquid in USB-C Connector Alerts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-e-book-downloads-on-iphones-and-ipads-using-the-built-in-books-app/"><u>Mastering E-Book Downloads on iPhones and iPads Using the Built-In Books App</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/mend-mpeg-video-glitches-top-tool-to-repair-and-resurrect-your-corrupt-movie-files/"><u>Mend MPEG Video Glitches – Top Tool to Repair and Resurrect Your Corrupt Movie Files</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/quick-guide-making-your-roku-device-work-with-paramountplus-streaming/"><u>Quick Guide: Making Your Roku Device Work With Paramount+ Streaming</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/repair-techniques-for-macos-apps-that-refuse-to-open/"><u>Repair Techniques for macOS Apps that Refuse to Open</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/slow-down-time-10-exceptional-video-editing-software/"><u>Slow Down Time 10 Exceptional Video Editing Software</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-top-rated-cinema-treasures-on-disneyplus-at-present/"><u>Unveiling Top-Rated Cinema Treasures on Disney+ at Present</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-the-symphony-of-social-sharing-adding-audio-to-instagram/"><u>[New] 2024 Approved The Symphony of Social Sharing Adding Audio to Instagram</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-optimal-low-cost-screen-recording-options-for-chromebook/"><u>[New] Optimal Low-Cost Screen Recording Options for Chromebook</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-chorus-collective-recordings-downloads-and-evaluation-for-2024/"><u>[Updated] Chorus Collective Recordings, Downloads & Evaluation for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-step-by-step-guide-ps4-gaming-streams-using-obs/"><u>[Updated] In 2024, Step-by-Step Guide PS4 Gaming Streams Using OBS</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-mastering-the-melody-incorporating-music-seamlessly-in-youtube/"><u>2024 Approved Mastering the Melody Incorporating Music Seamlessly in YouTube</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-stay-snappin-strategies-for-unbroken-streaks/"><u>2024 Approved Stay Snappin' Strategies for Unbroken Streaks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disabling-windows-update-messages-completely/"><u>Disabling Windows Update Messages Completely</u></a></li>
+<li><a href="https://some-skills.techidaily.com/discover-printed-classics-accessible-edition-of-google-books/"><u>Discover Printed Classics: Accessible Edition of Google Books</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/evaluating-the-value-of-minecraft-realms-for-gamers-are-they-justifiable-expenses/"><u>Evaluating the Value of Minecraft Realms for Gamers: Are They Justifiable Expenses?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-fix-code-43-errors/"><u>How to Fix Code 43 Errors</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-6s-plus-to-ipad-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 6s Plus to iPad? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-property-listings-the-10-best-sites-for-smart-apartment-searches/"><u>Navigating Property Listings - The 10 Best Sites for Smart Apartment Searches</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-and-resolving-missing-user32dll-issues/"><u>Troubleshooting and Resolving 'Missing User32.dll' Issues</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-steps-to-remove-images-from-your-facebook-timeline/"><u>Ultimate Guide: Steps to Remove Images From Your Facebook Timeline</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-patch-tuesday-what-does-it-mean-in-cybersecurity/"><u>Understanding Patch Tuesday: What Does It Mean in Cybersecurity?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upcoming-android-amidst-anticipation-prospective-pricing-details-and-expected-release-timeline-uncovered/"><u>Upcoming Android Amidst Anticipation: Prospective Pricing Details & Expected Release Timeline Uncovered</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Capturing Images with Your HP Notebook"
-date: 2024-09-30T03:15:21.437Z
-updated: 2024-10-02T01:48:22.348Z
+date: 2024-10-03T19:29:59.410Z
+updated: 2024-10-07T20:07:08.617Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Guide: Capturing Images with Your HP Notebook"
@@ -29,21 +29,7 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 
 ![Pokemon Go trainer screen with Buddy History icon highlighted.](https://www.lifewire.com/thmb/BdiPfIa8oWBYka7UEwDkhYUEZlU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Buddy-icon-in-Pokemon-Go-0b51206346d144a0b55dda8d337fcc18.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you don’t see a**Buddy History** or**Buddy** option, you may need to update the_Pokémon Go_ app to its latest version.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Change Your ‘Pokémon Go’ Buddy Pokémon
 
@@ -70,13 +56,6 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 
  You can completely ignore the Pokémon buddy feature if you like, but it is required if you want to 100 percent complete your Pokédex and challenges.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Play Together With Your Buddy in 'Pokémon Go'
 
  The Play Together feature in_Pokémon Go_ lets you interact with your buddy Pokémon by patting it. The feature works much like the similar features in the various mainline Pokémon video games on the[Nintendo Switch](https://www.lifewire.com/what-is-the-nintendo-switch-4148184) and[3DS consoles](https://www.lifewire.com/nintendo-3ds-overview-1126249) . The main difference is that playing with your buddy Pokémon in_Pokémon Go_ lets you earn hearts, which in turn helps level up your buddy Pokémon to higher friendship levels.  
@@ -89,10 +68,10 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 5. After several seconds of patting, a bright light should surround your buddy, and a heart will appear. This heart will go toward your buddy’s friendship level. You can only earn one heart by playing with your buddy Pokémon every day, though you can play with them as many times as you like.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Tap the**Exit** icon in the top-left corner to return to the map, or tap the**Berry** icon in the lower-left corner to feed your Pokémon berries to get it to appear on the map.
@@ -100,11 +79,32 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
  Once your buddy Pokémon is on the map with you, the distance required to walk to earn candy is reduced. Your buddy may also direct you to spin certain Pokéstops to earn hidden prizes and earn bonus hearts.  
 ![Pokemon GO buddy screens with Exit and Berry icons highlighted, berry to buddy swipe gesture added.](https://www.lifewire.com/thmb/7fPUcRq4cguvQ2HkO9UqgBsgHUU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Feeding-buddy-Pokemon-664324e020424c63a8b97f9500ce6a11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Does Swapping Buddies Lose Progress?
 
  Swapping a_Pokémon Go_ buddy for another one will delete any unfinished progress that’s currently in action, but it won’t remove any gained friendship level status. For example, if your buddy Pokémon is halfway into unlocking a candy, swapping the buddy out will remove this progress. The usual stats that reset at the end of each day will also clear with a swap.
 
  However, if this buddy has reached Great Buddy or some other friendship level status, that progress will remain no matter how many times you swap the buddy out.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Does It Matter Who Your Buddy Is in 'Pokémon Go'?
 
@@ -145,15 +145,15 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-expert-strategies-for-tackling-copyright-claims-on-youtube/"><u>[New] 2024 Approved Expert Strategies for Tackling Copyright Claims on YouTube</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-echo-of-past-interactions-unraveling-your-facebook-history/"><u>[New] The Echo of Past Interactions Unraveling Your Facebook History</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-the-ultimate-tech-manual-for-saving-web-streamed-television/"><u>[Updated] In 2024, The Ultimate Tech Manual for Saving Web-Streamed Television</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-whats-hot-from-sony-in-2prise-2024-insights-and-announcements/"><u>Discover What's Hot From Sony in 2Prise 2024 - Insights & Announcements</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722869802787-get-the-lowdown-on-apples-anticipated-domestic-companion-bot-price-estimates-release-windows-and-tech-insights/"><u>Get the Lowdown on Apple's Anticipated Domestic Companion Bot: Price Estimates, Release Windows, and Tech Insights!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harnessing-the-power-of-slow-motion-pro-level-gopro-hero-10-techniques-for-2024/"><u>Harnessing the Power of Slow Motion Pro-Level GoPro Hero 10 Techniques for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-on-iphone-14-pro-max-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID On iPhone 14 Pro Max without Password?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-techniques-for-a-stable-computer-overcoming-the-blue-screen-of-death/"><u>Troubleshooting Techniques for a Stable Computer: Overcoming the Blue Screen of Death</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-roblox-outages-how-do-i-know-if-the-problem-lies-with-the-game/"><u>Understanding Roblox Outages – How Do I Know If the Problem Lies with the Game?</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-top-5-best-free-avi-video-rotators/"><u>Updated Top 5 Best Free AVI Video Rotators</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-a-beginner-friendly-introduction-to-io-screen-recorder-for-2024/"><u>[New] A Beginner-Friendly Introduction to IO Screen Recorder for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-breaking-down-the-fundamentals-of-mixed-reality/"><u>[New] Breaking Down the Fundamentals of Mixed Reality</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-best-free-video-player-vlc-versus-mpc/"><u>2024 Approved Unveiling the Best Free Video Player VLC versus MPC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/addressing-iphone-remote-access-problems-with-easy-diy-fixes/"><u>Addressing iPhone Remote Access Problems with Easy DIY Fixes</u></a></li>
+<li><a href="https://video-capture.techidaily.com/efficient-and-sturdy-tablet-holders-an-in-depth-look-at-amazons-portable-tablet-support/"><u>Efficient and Sturdy Tablet Holders – An In-Depth Look at Amazon's Portable Tablet Support</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-techniques-for-effective-hard-drive-scans-with-windows-chkdsk-function/"><u>Essential Techniques for Effective Hard Drive Scans with Windows' Chkdsk Function</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-infinix-smart-8-pro-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Infinix Smart 8 Pro Android SIM Unlock APK</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solution-overcoming-windows-11-unshutdown-challenges/"><u>Step-by-Step Solution: Overcoming Windows 11 Unshutdown Challenges</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-5-must-have-iphone-navigation-apps-your-ultimate-guide/"><u>Top 5 Must-Have iPhone Navigation Apps: Your Ultimate Guide</u></a></li>
 </ul></div>
 

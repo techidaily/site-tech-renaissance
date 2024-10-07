@@ -1,7 +1,7 @@
 ---
 title: Explore Urban Landscapes with New Augmented Reality Feature on Google Maps | TechRadar
-date: 2024-09-15T02:23:05.176Z
-updated: 2024-09-20T16:31:17.006Z
+date: 2024-10-01T19:41:51.835Z
+updated: 2024-10-07T17:24:37.386Z
 tags:
   - ar+vr
 categories:
@@ -67,18 +67,33 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/reating-cost-effective-youtube-closure-elements/"><u>[New] Creating Cost-Effective YouTube Closure Elements</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-biometric-battleground-face-id-vs-samsungs-facial-identification/"><u>[New] In 2024, Biometric Battleground Face ID Vs. Samsung's Facial Identification</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-a-step-by-step-guide-to-outstanding-color-grading-top-11/"><u>[Updated] In 2024, A Step-by-Step Guide to Outstanding Color Grading (Top 11)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-journey-to-stickers-full-tutorial-for-turning-gifs-in-chat-apps-like-discord-and-telegram/"><u>[Updated] Journey to Stickers Full Tutorial for Turning GIFs in Chat Apps Like Discord and Telegram</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-unlocking-your-instagrams-virtual-meet-up-potential/"><u>2024 Approved Unlocking Your Instagram's Virtual Meet-Up Potential</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-comprehensive-overview-of-instagram-from-basics-to-advanced-techniques/"><u>A Comprehensive Overview of Instagram: From Basics to Advanced Techniques</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ace-your-adventures-expert-strategies-to-overcome-wows-low-frame-rate-challenge-this-year/"><u>Ace Your Adventures: Expert Strategies to Overcome WoW's Low Frame Rate Challenge This Year</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/boosting-iphoneipad-photo-quality-a-step-by-step-guide/"><u>Boosting iPhone/iPad Photo Quality: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-solutions-for-correcting-a-504-gateway-timeout-error/"><u>Comprehensive Solutions for Correcting a 504 Gateway Timeout Error</u></a></li>
+<li><a href="https://win-answers.techidaily.com/conquering-the-league-wont-start-error-expert-solutions-for-players-in-2eight-fourteen/"><u>Conquering the 'League Won't Start' Error: Expert Solutions for Players in 2Eight Fourteen</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-5-must-try-free-apps-to-learn-a-new-language/"><u>Discover 5 Must-Try Free Apps to Learn a New Language</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-tips-and-tricks-for-removing-cached-data-on-android-phones/"><u>Easy Tips and Tricks for Removing Cached Data on Android Phones</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-methods-to-correct-the-error-zlibdll-couldnt-be-loaded/"><u>Essential Methods to Correct the Error: 'zlib.dll Couldn't Be Loaded'</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Apple iPhone 15 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/instant-impressions-fast-forwarding-ppt-slide-showtimes-for-2024/"><u>Instant Impressions Fast-Forwarding PPT Slide Showtimes for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-the-art-of-smart-television-selection-and-purchase-ideal-options-for-your-home-viewing-pleasure/"><u>Master the Art of Smart Television Selection & Purchase - Ideal Options for Your Home Viewing Pleasure</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/pros-and-cons-of-using-minecraft-realms-worth-your-time-or-money/"><u>Pros and Cons of Using Minecraft Realms - Worth Your Time or Money?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-jvmdll-cannot-be-launched-a-step-by-step-fix-guide-for-windows-users/"><u>Resolving 'JVM.dll Cannot Be Launched': A Step-by-Step Fix Guide for Windows Users</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-interactive-sphere-instagram-tiktok-synergy-guide/"><u>The Interactive Sphere Instagram-TikTok Synergy Guide</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

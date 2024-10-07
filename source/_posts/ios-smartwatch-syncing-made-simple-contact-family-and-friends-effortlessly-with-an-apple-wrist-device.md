@@ -1,7 +1,7 @@
 ---
 title: "IOS Smartwatch Syncing Made Simple: Contact Family & Friends Effortlessly with an Apple Wrist Device"
-date: 2024-09-27T20:23:01.791Z
-updated: 2024-10-02T11:28:45.981Z
+date: 2024-10-06T16:46:41.991Z
+updated: 2024-10-07T20:29:10.733Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Update your devices
@@ -76,10 +76,10 @@ When the timer is up to indicate that you should have reached your destination, 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Change the time for a Check In
@@ -93,10 +93,10 @@ If you still wish to use a timer for the Check In option but change the amount o
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Send a customized Check In through the Messages app
@@ -105,13 +105,6 @@ To further customize the Check In, tap the Edit button at the Check In screen. T
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Add a destination and send the text
 
 Next, tap the link for "Add a Destination." Start typing the address of the destination. Select the full name when it appears on the screen. Swipe down the Check In screen and select or confirm your mode of transportation -- driving, transit, or walking. Swipe down further. Tap the link for "Add Extra Time" if you need to add more time. When done, tap the yellow checkmark at the top and then tap Send to send the text. Your recipient will then receive the notification when you reach your destination and stop the Check In.
@@ -119,6 +112,13 @@ Next, tap the link for "Add a Destination." Start typing the address of the dest
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Set a Check In for a workout in the Messages app
 
@@ -162,17 +162,16 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-task-mastery-top-picks-for-efficient-calendar-management-in-fb/"><u>[New] In 2024, Task Mastery Top Picks for Efficient Calendar Management in FB</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-uncharted-territories-in-video-streamer-realm/"><u>[Updated] 2024 Approved Uncharted Territories in Video Streamer Realm</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-enhancing-visuals-through-selective-zooming-for-2024/"><u>[Updated] Enhancing Visuals Through Selective Zooming for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/before-you-invest-the-5-most-important-aspects-of-choosing-the-right-game-console/"><u>Before You Invest: The 5 Most Important Aspects of Choosing the Right Game Console</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-top-rated-waterproof-blink-mini-nv2-the-premier-non-wyze-wireless-surveillance-option/"><u>Discover Top-Rated Waterproof Blink Mini Nv2: The Premier Non-Wyze Wireless Surveillance Option</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ecobright-trailblazer/"><u>EcoBright Trailblazer</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-toolkit-selection-for-a-handy-dad-a-comprehensive-fathers-day-gift-ideas-list-from-zdnet/"><u>Essential Toolkit Selection for a Handy Dad: A Comprehensive Father's Day Gift Ideas List From ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-recommendations-on-high-tech-pet-gadgets-find-your-perfect-match-with-zdnets-best/"><u>Expert Recommendations on High-Tech Pet Gadgets - Find Your Perfect Match with ZDNet's Best!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-new-horizons-in-home-energy-storage-meet-the-anker-solix-x1-beyond-powerwall/"><u>Exploring New Horizons in Home Energy Storage: Meet the Anker Solix X1 Beyond Powerwall</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-xiaomi-redmi-12-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Xiaomi Redmi 12 Devices</u></a></li>
-<li><a href="https://fox-that.techidaily.com/mastering-bluetooth-pairing-and-use-on-your-ios-device/"><u>Mastering Bluetooth Pairing and Use on Your iOS Device</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/overcoming-obscured-viewing-fix-for-youtube-for-2024/"><u>Overcoming Obscured Viewing Fix for Youtube for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-essential-tips-for-using-switch-pro-controller-with-steam/"><u>[New] In 2024, Essential Tips for Using Switch Pro Controller with Steam</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-free-music-for-videos-finding-the-right-sources/"><u>[Updated] Free Music for Videos Finding the Right Sources</u></a></li>
+<li><a href="https://driver-error.techidaily.com/clearing-up-elan-input-discrepanrancies-in-w11-os/"><u>Clearing Up Elan Input Discrepanrancies in W11 OS</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-cooldown-chart-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolve-windows-explorer-not-responding-errors-on-your-windows-7-system/"><u>Resolve 'Windows Explorer Not Responding' Errors on Your Windows 7 System</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolved-overcoming-mouse-delays-and-irregular-movements-in-windows-11-environments/"><u>Resolved: Overcoming Mouse Delays & Irregular Movements in Windows 11 Environments</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-logitech-mouse-issues-on-windows-11-a-comprehensive-guide/"><u>Resolving Logitech Mouse Issues on Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/roblox-gaming-optimized-increase-fps-with-these-2024-best-practices/"><u>Roblox Gaming Optimized: Increase FPS with These 2024 Best Practices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/secrets-to-browsing-the-net-invisibly-protect-your-digital-footprint/"><u>Secrets to Browsing the Net Invisibly: Protect Your Digital Footprint</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-the-ultimate-adobe-premiere-shortcut-guide-20-essentials-for-2024/"><u>Updated The Ultimate Adobe Premiere Shortcut Guide 20 Essentials for 2024</u></a></li>
 </ul></div>
 

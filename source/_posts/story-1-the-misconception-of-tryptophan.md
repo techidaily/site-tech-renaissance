@@ -1,7 +1,7 @@
 ---
 title: "Story 1: The Misconception of Tryptophan"
-date: 2024-09-27T22:57:08.091Z
-updated: 2024-10-02T01:21:21.864Z
+date: 2024-10-03T17:59:17.239Z
+updated: 2024-10-07T16:53:57.811Z
 tags:
   - apple
 categories:
@@ -52,6 +52,13 @@ The feature plays into the Apple Watch's cycle-tracking experience, so everythin
 
 Apple
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. More widgets for your Smart Stack, including Live Activities
 
 The Smart Stack, introduced in WatchOS 10, is improving slightly with some new widgets.
@@ -76,6 +83,13 @@ Double tap gesture on Apple Watch Series 9.
 
 Jason Hiner/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Check In comes to your wrist
 
 With WatchOS 11, Apple is adding Check In. Originally launched in iOS 17, Check In allows you to keep track of a friend or loved one by having them confirm when they've reached their destination or have finished something like a gym session. Check In works within the Workout app and Messages.
@@ -87,44 +101,30 @@ Move over, Venmo. Also in iOS 18, Apple is bringing Tap to Cash to WatchOS 11\. 
 **Also: [How to use 'Tap to Cash' to send money in iOS 18](https://www.zdnet.com/article/how-to-use-tap-to-cash-to-send-money-in-ios-18/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Translate on the fly
 
 Apple is adding the Translate app to WatchOS 11, allowing you to translate in any of 20 supported languages. Previously, the app was available only on the iPhone and iPad. When you're traveling abroad where a supported language is spoken, it'll automatically pop up in your watch's Smart Stack. Otherwise, choose the target and source languages and speak the words you want to be translated. Tap the Play button, and the translation plays through your watch's internal speaker.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 10\. Improved workout tracking for GPS-specific workouts
 
 Soccer, American Football, Australian Football, Outdoor Hockey, Lacrosse, Downhill Skiing, Cross Country Skiing, Snowboarding, Golf, Outdoor Rowing, and other activities are being updated in WatchOS 11 to take advantage of enhancements in GPS positioning for more accurate results. You can also view your route maps for more workout types.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 11\. Tickets in your Wallet get an upgrade
 
 If you often use your digital wallet on your Apple Watch, you'll be intrigued by the improved ticketing experience. In WatchOS 11, Apple is adding more information on the event you're going to see, such as when the venue opens, what time it starts, and more. Plus, once you've loaded a ticket into your wallet and that special day approaches, you'll find seating information and other notable tidbits in a widget in your Smart Stack automatically.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## When does WatchOS 11 come out?
 
@@ -160,22 +160,24 @@ Right now, [WatchOS 11 is available as a public beta](https://www.zdnet.com/arti
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-assessing-if-sns-hdr-deserves-your-investment-time/"><u>[New] 2024 Approved Assessing If SNS HDR Deserves Your Investment Time</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-television-and-social-media-4-ways-to-broadcast-fb-live-for-2024/"><u>[New] Television & Social Media 4 Ways To Broadcast FB Live for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-playbook-of-youtubes-innovative-approach-to-video-shorts/"><u>[New] The Playbook of YouTube’s Innovative Approach to Video Shorts</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-from-chords-to-chart-toppers-essential-musician-focused-youtube-content/"><u>[Updated] From Chords to Chart-Toppers Essential Musician-Focused YouTube Content</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/best-websites-for-free-tune-tracks-discover-15/"><u>Best Websites for Free Tune Tracks - Discover 15!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-enjoy-the-matrix-movies-from-start-to-finish-correctly/"><u>How To Enjoy the Matrix Movies From Start to Finish Correctly</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-retrieve-missing-events-from-your-iphone-schedule/"><u>How to Retrieve Missing Events From Your iPhone Schedule</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/is-it-safe-to-get-your-iphone-13-wet-understanding-its-protection-level/"><u>Is It Safe to Get Your iPhone 13 Wet? Understanding Its Protection Level</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/launchpad-for-aspiring-prompt-innovators/"><u>Launchpad for Aspiring Prompt Innovators</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/master-the-art-of-fixing-your-magic-mouses-sensitivity-problem/"><u>Master the Art of Fixing Your Magic Mouse's Sensitivity Problem</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-creativity-discover-6-ways-to-utilize-chatgpt-for-your-written-works/"><u>Mastering Creativity: Discover 6 Ways to Utilize ChatGPT for Your Written Works</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/premier-ai-driven-picture-editing-suite-for-2024/"><u>Premier AI-Driven Picture Editing Suite for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/samsung-unveiling-2025-lineup-exclusive-date-latest-updates-and-speculations/"><u>Samsung Unveiling 2025 Lineup: Exclusive Date, Latest Updates & Speculations</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-connecting-and-configuring-a-network-drive-in-macos/"><u>Step-by-Step Guide: Connecting and Configuring a Network Drive in macOS</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-walkthrough-to-initiate-your-mac-into-recovery-mode-instructions/"><u>The Ultimate Walkthrough to Initiate Your Mac Into Recovery Mode Instructions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/triple-use-cases-for-chatgpts-integration-with-wolframalpha/"><u>Triple Use Cases for ChatGPT's Integration with WolframAlpha</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-apple-watch-sync-errors-addressing-unrecognized-activity-detection/"><u>Troubleshooting Apple Watch Sync Errors: Addressing Unrecognized Activity Detection</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-unlocking-photo-magic-the-role-of-luts-in-editing/"><u>[New] In 2024, Unlocking Photo Magic The Role of LUTs in Editing</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-basic-gamers-guide-to-outstanding-video-editing-software/"><u>[Updated] 2024 Approved Basic Gamers' Guide to Outstanding Video Editing Software</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/1-fix-distorted-aspect-ratio-convert-dvd-vob-files-to-mp4-with-handbrake/"><u>1. Fix Distorted Aspect Ratio: Convert DVD VOB Files to MP4 with Handbrake</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-lava-blaze-2-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Lava Blaze 2 Phone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-new-world-conquered-the-easy-anti-cheat-challenge-now-launching-smoothly/"><u>How New World Conquered the Easy Anti-Cheat Challenge, Now Launching Smoothly</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-google-pixel-8-pro-by-drfone-android/"><u>How to Show Wi-Fi Password on Google Pixel 8 Pro</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-elevate-your-videos-the-top-10-editing-software-options/"><u>New Elevate Your Videos The Top 10 Editing Software Options</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/online-rmvb-naar-m4v-convertie-kostenloos-gebruik-de-movavi-tool/"><u>Online RMVB Naar M4V Convertie Kostenloos - Gebruik De Movavi-Tool</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pixel-pop-goes-the-laptop-screen-with-these-websites/"><u>Pixel Pop Goes the Laptop Screen with These Websites</u></a></li>
+<li><a href="https://facebook.techidaily.com/stripping-personal-pages-of-religiouspolitical-content/"><u>Stripping Personal Pages of Religious/Political Content</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-walkthrough-setting-up-your-wifi-mouse-for-computers-and-macs/"><u>The Ultimate Walkthrough: Setting Up Your WiFi Mouse for Computers and Macs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/transform-your-computer-experience-asus-aura-graphics-packages-for-windows-1011-ready-to-download/"><u>Transform Your Computer Experience - ASUS Aura Graphics Packages for Windows 10/11 Ready to Download!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshoot-and-resolve-windows-10-taskbar-problems-a-comprehensive-step-by-step-guide/"><u>Troubleshoot and Resolve Windows 10 Taskbar Problems: A Comprehensive, Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-and-fixing-excessive-cpu-consumption-by-desktop-window-manager-on-windows-11-systems/"><u>Troubleshooting and Fixing Excessive CPU Consumption by Desktop Window Manager on Windows 11 Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-and-resolving-graphics-card-acceleration-errors-on-your-pc/"><u>Troubleshooting and Resolving Graphics Card Acceleration Errors on Your PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-for-when-your-seagate-external-drops-off-windows-11s-radar/"><u>Troubleshooting Tips for When Your Seagate External Drops Off Windows 11'S Radar</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-disabling-mouse-acceleration-easily/"><u>Ultimate Guide: Disabling Mouse Acceleration Easily</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-setting-up-your-keyboard-and-mouse-compatibly-with-ps4/"><u>Ultimate Guide: Setting Up Your Keyboard & Mouse Compatibly with PS4</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/windows-11-installation-now-successfully-completed-after-previous-failures/"><u>Windows 11 Installation Now Successfully Completed After Previous Failures</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Inside Scoop on the Sony Car (Afeela): Pricing Insights, Release Timeline, Feature Breakdown & Rumor Roundup"
-date: 2024-09-19T22:57:15.251Z
-updated: 2024-09-20T16:38:31.453Z
+date: 2024-10-04T16:14:19.487Z
+updated: 2024-10-07T20:12:24.969Z
 categories:
   - BestProducts
 description: "This Article Describes Inside Scoop on the Sony Car (Afeela): Pricing Insights, Release Timeline, Feature Breakdown & Rumor Roundup"
@@ -37,6 +37,19 @@ thumbnail: https://thmb.techidaily.com/01a9c6a754e21b99c858623b51177464f69009a94
 
  The Afeela looks poised to be available in North America by spring 2026.
 
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Sony Car (Afeela) Price Rumors
 
 [ According to The Verge's early reporting](https://www.theverge.com/2023/1/4/23539863/sony-honda-electric-vehicle-afeela-ces-reveal-photos) , the Afeela’s pricing will match competitors in the luxury vehicle space, like Mercedes-Benz, Volvo, and Porsche, including possible subscription models to some of its services. But competition with and resemblance to the Tesla, specifically the Tesla Model S, feels pretty undeniable. Some even see similarities to models such as the Porsche 911.
@@ -45,18 +58,18 @@ thumbnail: https://thmb.techidaily.com/01a9c6a754e21b99c858623b51177464f69009a94
 
  As concept-to-production details take shape, we expect to hear more rumors about pricing, so stay tuned.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Pre-Order Information
 
  Sony Car pre-ordering looks like it will start in the first few months of 2025\. All signs point to US orders first, followed by pre-orders and debuts in the Japanese and European markets. 
 
  We’ll make updates here as we learn more.
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Sony Car (Afeela) Features
 
@@ -71,10 +84,10 @@ thumbnail: https://thmb.techidaily.com/01a9c6a754e21b99c858623b51177464f69009a94
 ![Sony Honda Mobility and Epic Games collaboration demo in the Afeela prototype.](https://www.lifewire.com/thmb/l9bUlpS2wIPA00FBpEUvK6M-tPw=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-Hond-Car-Afeela-EpicGames-Collaboration-4978e86ca0f048c2858c0bd4e757562c.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 AR navigation. 
@@ -111,6 +124,13 @@ Sony Interactive Entertainment
 
  Check back for updates about the Sony car release date and more features and specs chatter. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The Latest News About the Sony Car (Afeela)
 
  There’s a lot more[ tech news from Lifewire](https://www.lifewire.com/news-4795879) . Here are a few stories of interest about Sony and EVs specifically.
@@ -136,5 +156,20 @@ Sony Interactive Entertainment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/updated-mastering-windows-pc-live-tv-recording-tips-and-tricks/"><u>[Updated] Mastering Windows PC Live TV Recording Tips & Tricks</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-optimize-your-online-presence-with-linked-fb-stories/"><u>[Updated] Optimize Your Online Presence with Linked FB Stories</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-lgs-ultrafine-vision-a-thorough-4k-screen-evaluation/"><u>2024 Approved LG's UltraFine Vision A Thorough 4K Screen Evaluation</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-facebook-cover-video-best-practices-and-setup/"><u>In 2024, Facebook Cover Video | Best Practices and Setup</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/in-depth-analysis-of-apples-latest-airpods-pro-gen-3-spotlight-on-key-enhancements-a-detailed-review-by-zdnet/"><u>In-Depth Analysis of Apple's Latest AirPods Pro (Gen 3): Spotlight on Key Enhancements - A Detailed Review by ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-window-11s-screen-configurations-a-guide-to-10-methods/"><u>Mastering Window 11'S Screen Configurations: A Guide to 10 Methods</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/os-top-16-utilitarios-mais-eficientes-para-captura-de-tela-no-windows-11-guia-completo/"><u>Os Top 16 Utilitários Mais Eficientes Para Captura De Tela No Windows 11: Guia Completo</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/protecting-your-new-iphone/"><u>Protecting Your New iPhone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/snag-the-perfect-pair-premium-earbud-and-over-ear-deals-for-march-2-insider-tips/"><u>Snag the Perfect Pair: Premium Earbud and Over-Ear Deals for March 2^ | Insider Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-main-complaint-how-pixel-watch-3-addresses-user-concerns-in-googles-line-of-smartwatches-insights-from-zdnet/"><u>Solving the Main Complaint: How Pixel Watch 3 Addresses User Concerns in Google’s Line of Smartwatches - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-fitness-companion-arrives-unveiling-airpods-pro-with-built-in-heart-monitoring-for-enhanced-training-cnet/"><u>The Ultimate Fitness Companion Arrives: Unveiling AirPods Pro with Built-In Heart Monitoring for Enhanced Training | CNET</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-unlock-your-chromebook-how-to-run-linux-for-2024/"><u>Updated Unlock Your Chromebook How to Run Linux for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/why-you-wont-find-the-latest-ai-innovations-on-your-aging-iphone-the-costly-truth-behind-apples-strategy-zdnet/"><u>Why You Won't Find the Latest AI Innovations on Your Aging iPhone: The Costly Truth Behind Apple's Strategy | ZDNet</u></a></li>
+</ul></div>
 

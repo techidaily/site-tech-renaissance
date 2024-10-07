@@ -1,7 +1,7 @@
 ---
 title: Apple Enhances CarPlay Experience with New Upgrades Announced at WWDC 2024 - The Latest Innovations Explained | Gizmodo
-date: 2024-09-24T21:20:26.104Z
-updated: 2024-10-02T08:14:38.217Z
+date: 2024-09-30T20:47:22.967Z
+updated: 2024-10-07T16:01:35.295Z
 tags:
   - apple
 categories:
@@ -39,16 +39,10 @@ The updates don't stop there. Apple Intelligence enables so much more. They incl
 Apple Intelligence will not be available at launch. It'll roll out in October as a software upgrade in the United States and in English only. It'll be available in more countries like the United Kingdom later this December. And in 2025, it'll expand to other languages like Spanish.
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Camera Upgrades
@@ -72,16 +66,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Eye-catching colors
@@ -93,10 +81,10 @@ Every generation of iPhones brings with it new colors. For this release, Apple d
 The Pro models go for a more striking design. Desert Titanium adorns their brushed metal, making the iPhones look like they've been forged from bronze. If you prefer something a little more low-key, the Pro models are available in the equally impressive Black, White, and Natural Titanium too.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Design changes bring other benefits
@@ -139,19 +127,24 @@ Apple even updated the iPhone 16's internal design, allowing the device to dissi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-solutions.techidaily.com/from-the-ashes-fixed-performance-issues-ensure-a-crisp-experience-in-remnant-game/"><u>'From the Ashes': Fixed Performance Issues Ensure a Crisp Experience in Remnant Game</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-advanced-strategies-for-saving-vr-gameplay-moments/"><u>[Updated] 2024 Approved Advanced Strategies for Saving VR Gameplay Moments</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-posting-vimeo-video-masterclass-for-instagramers/"><u>[Updated] 2024 Approved Posting Vimeo Video Masterclass for Instagramers</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-home-sweet-habitat-6-basic-mc-dwellings-demystified/"><u>[Updated] Home Sweet Habitat 6 Basic MC Dwellings Demystified</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-in-depth-look-lg-bp350-screen-resolution-and-aspect-ratio/"><u>2024 Approved In-Depth Look LG BP350 Screen Resolution and Aspect Ratio</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-pioneering-immersive-tech-firms/"><u>2024 Approved Pioneering Immersive Tech Firms</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-the-fix-strategies-for-handling-missing-osetupdll-errors/"><u>Mastering the Fix: Strategies for Handling Missing osetup.dll Errors</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/no-phone-number-necessary-step-by-step-guide-to-signing-up-on-chatgpt-telegram-and-more/"><u>No-Phone-Number Necessary: Step-by-Step Guide to Signing Up on ChatGPT, Telegram & More</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-9-essential-factors-for-choosing-the-perfect-dash-cam/"><u>Top 9 Essential Factors for Choosing the Perfect Dash Cam</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-free-and-open-source-dns-services-a-comprehensive-guide/"><u>Top Free & Open-Source DNS Services: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-the-top-6-causes-of-frequent-car-battery-failure/"><u>Understanding the Top 6 Causes of Frequent Car Battery Failure</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unmasking-ms-bda-via-visual-rendering/"><u>Unmasking MS BDA via Visual Rendering</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-wmv-file-format-has-many-benefits-over-the-video-industry-if-you-are-excited-to-know-more-about-the-format-and-its-pros-and-cons-then-lets-s/"><u>Updated In 2024, WMV File Format Has Many Benefits over the Video Industry. If You Are Excited to Know More About the Format and Its Pros and Cons, Then Lets Start the Discussion</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/vehicle-vigilance-the-definitive-guide-to-finding-and-entering-your-auto-radio-unlock-codes/"><u>Vehicle Vigilance: The Definitive Guide to Finding and Entering Your Auto Radio Unlock Codes</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-unleash-the-potential-of-your-video-with-best-thumbnail-fonts/"><u>[New] In 2024, Unleash the Potential of Your Video with Best Thumbnail Fonts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-picarts-quick-shield-for-facial-features/"><u>[New] PicArt's Quick Shield for Facial Features</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-top-tips-for-capturing-clear-facetime-dialogues-on-screen/"><u>[New] Top Tips for Capturing Clear FaceTime Dialogues on Screen</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-facebook-story-complete-guide-for-2024/"><u>[Updated] Facebook Story Complete Guide for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-which-creator-are-you-find-out-through-these-pioneering-6-quizzes-for-2024/"><u>[Updated] Which Creator Are You? Find Out Through These Pioneering 6 Quizzes for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/connecting-your-external-hdd-to-xbox-one-a-comprehensive-guide/"><u>Connecting Your External HDD to Xbox One: A Comprehensive Guide</u></a></li>
+<li><a href="https://solve-news.techidaily.com/cookiebot-enhanced-experience-the-power-of-automated-ppc-advertising/"><u>Cookiebot-Enhanced: Experience the Power of Automated PPC Advertising</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dell-laptops-display-no-more-intermittent-flashing/"><u>Dell Laptop's Display: No More Intermittent Flashing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-ways-to-refresh-the-firmware-on-your-samsung-television/"><u>Easy Ways to Refresh the Firmware on Your Samsung Television</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevating-convenience-top-4-plugin-store-enhancements-that-chatgpt-must-integrate-soon/"><u>Elevating Convenience: Top 4 Plugin Store Enhancements That ChatGPT Must Integrate Soon</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mac-users-alert-how-to-securely-add-your-domain-to-googles-safe-list-using-mail-on-macos/"><u>Mac Users Alert! How to Securely Add Your Domain to Google’s Safe List Using Mail on macOS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-mac-maintenance-a-comprehensive-guide-to-uninstalling-software/"><u>Mastering Mac Maintenance: A Comprehensive Guide to Uninstalling Software</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-secondhand-ipad-shopping-5-crucial-aspects-to-evaluate-beforehand/"><u>Mastering Secondhand iPad Shopping: 5 Crucial Aspects to Evaluate Beforehand</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722887814103-migrating-to-android-heres-how-you-can-still-access-imessage/"><u>Migrating to Android? Here's How You Can Still Access iMessage</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/streaming-on-the-go-casting-your-favorite-shows-from-disneyplus-to-chromecast/"><u>Streaming on the Go: Casting Your Favorite Shows From Disney+ to Chromecast</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-upcoming-oneplus-10-insider-information-on-when-to-expect-it-what-it-may-offer-and-how-much-youll-pay/"><u>The Upcoming OnePlus 10 – Insider Information on When to Expect It, What It May Offer, and How Much You'll Pay!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-cost-effective-diy-home-theaters/"><u>Ultimate Guide: Cost-Effective DIY Home Theaters</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-the-lifespan-of-your-mailcom-email-address-when-might-it-end/"><u>Understanding the Lifespan of Your mail.com Email Address - When Might It End?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>Which is the Best Fake GPS Joystick App On Apple iPhone 12? | Dr.fone</u></a></li>
 </ul></div>
 

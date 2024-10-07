@@ -1,7 +1,7 @@
 ---
 title: Score Free Cash for School Tech! Get an Extra $150 Off on Your Next Mac or iPad (Guide Inside) | ZDNet
-date: 2024-09-27T07:37:29.527Z
-updated: 2024-10-02T04:26:59.535Z
+date: 2024-10-05T19:50:58.633Z
+updated: 2024-10-07T20:38:05.565Z
 tags:
   - apple
 categories:
@@ -65,10 +65,16 @@ Apple isn't the only brand offering student discounts this summer. Here are the 
 [Pro Apps Bundle for Education View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fus-edu%2Fshop%2Fproduct%2FBMGE2Z%2FA%2Fpro-apps-bundle-for-education&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will these deals expire?
@@ -115,18 +121,17 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-best-rated-wedding-timekeepers-a-comprehensive-android-and-ios-app-review/"><u>[New] Best-Rated Wedding Timekeepers A Comprehensive Android & iOS App Review</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-avoiding-poverty-earning-in-beauty-media/"><u>[New] In 2024, Avoiding Poverty Earning in Beauty Media</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-best-low-cost-subtitles-and-downloader-companion/"><u>[New] In 2024, Best Low-Cost Subtitles & Downloader Companion</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-principles-of-filming-inspirational-daily-living-documentaries/"><u>[New] In 2024, Principles of Filming Inspirational Daily Living Documentaries</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-crafting-a-winning-windowsmac-skype-chat-circle/"><u>[Updated] 2024 Approved Crafting a Winning Windows/Mac Skype Chat Circle</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-constructing-an-affordable-google-vr-helmet-at-home/"><u>[Updated] Constructing an Affordable Google VR Helmet at Home</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-easy-techniques-for-archiving-group-discussions/"><u>[Updated] Easy Techniques for Archiving Group Discussions</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-quintessential-guide-to-selecting-video-apps-for-reels/"><u>[Updated] In 2024, The Quintessential Guide to Selecting Video Apps for Reels</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/cut-trim-and-edit-top-10-free-mp4-video-editing-solutions/"><u>Cut, Trim, and Edit Top 10 Free MP4 Video Editing Solutions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/diy-video-setup-made-easy-how-to-bridge-your-laptop-with-a-television-using-an-hdmi-cable/"><u>DIY Video Setup Made Easy: How to Bridge Your Laptop with a Television Using an HDMI Cable</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-free-defrag-utilities-to-optimize-performance-best-of-2n4/"><u>Essential Free Defrag Utilities to Optimize Performance - Best of 2N4</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/inside-scoop-on-the-upcoming-google-pixel-phase-anticipated-costs-launch-timeline-and-tech-specs/"><u>Inside Scoop on the Upcoming Google Pixel Phase: Anticipated Costs, Launch Timeline & Tech Specs</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-hdcp-errors-causes-solutions-and-prevention/"><u>Understanding HDCP Errors: Causes, Solutions & Prevention</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-enhanced-entertainment-tv-ready-looping-techniques-for-video-content/"><u>[New] In 2024, Enhanced Entertainment Tv-Ready Looping Techniques for Video Content</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-motivational-lens-capturing-stirring-scenes-on-ig-for-2024/"><u>[Updated] The Motivational Lens Capturing Stirring Scenes on IG for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-optimizing-youtube-profits-understanding-your-adsense-earnings-per-kv/"><u>2024 Approved Optimizing Youtube Profits Understanding Your AdSense Earnings per KV</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerate-your-hd-content-transfer-no-loss-h2-cuffing-guide-using-windows-tools/"><u>Accelerate Your HD Content Transfer: No-Loss H.2 Cuffing Guide Using Windows Tools</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diy-solutions-repairing-top-issues-with-your-television/"><u>DIY Solutions: Repairing Top Issues with Your Television</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-steps-for-mastering-the-art-of-screenshotting-on-your-hp-computer/"><u>Easy Steps for Mastering the Art of Screenshotting on Your HP Computer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/efficiently-unlike-all-songs-on-spotify-a-users-guide/"><u>Efficiently Unlike All Songs on Spotify: A User's Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-p40-phone-without-pin-by-drfone-android/"><u>How to Unlock Itel P40 Phone without PIN</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-oppo-reno-10-pro-5g-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Oppo Reno 10 Pro 5G to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-time-online-a-comprehensive-guide-to-using-the-internet-archives-wayback-machine/"><u>Navigating Time Online: A Comprehensive Guide to Using the Internet Archive's Wayback Machine</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/premium-enterprise-sky-saver-guide/"><u>Premium Enterprise Sky Saver Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-the-503-service-unavailable-error-causes-and-solutions/"><u>Understanding the 503 Service Unavailable Error - Causes and Solutions</u></a></li>
 </ul></div>
 

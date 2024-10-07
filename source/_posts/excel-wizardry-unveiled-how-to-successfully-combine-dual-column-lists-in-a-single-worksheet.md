@@ -1,7 +1,7 @@
 ---
 title: "Excel Wizardry Unveiled: How to Successfully Combine Dual Column Lists in a Single Worksheet"
-date: 2024-09-19T23:14:13.395Z
-updated: 2024-09-20T22:43:02.343Z
+date: 2024-10-04T17:04:55.981Z
+updated: 2024-10-07T19:44:14.483Z
 categories:
   - BestProducts
 description: "This Article Describes Excel Wizardry Unveiled: How to Successfully Combine Dual Column Lists in a Single Worksheet"
@@ -27,6 +27,19 @@ thumbnail: https://thmb.techidaily.com/517296fb76b2495d3ca7ac9af3e02d36cfd22dc3a
 
 Dean Pugh / Unsplash
 
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Combine Columns in Excel Without Losing Data
 
  If you just want to merge two empty columns in Excel, that's easy enough to do using the Merge option, but if those columns contain data, you'll lose all the data except what's in the uppermost left cell. If what you're actually trying to do is merge the data from two columns into a single column, the merge command won't work. Instead, you need to use the**CONCATENATE** formula to combine that data.
@@ -41,14 +54,38 @@ Dean Pugh / Unsplash
  For example, if a comma were between the quotation marks, like this:**\=CONCATENATE(A2,","B2)** then the data from cell A would be separated from the data in cell B by a comma.  
 ![The CONCATENATE formula in Microsoft Excel.](https://www.lifewire.com/thmb/nm_g5q7qFrqjiTG1U2qn2pioUDs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Excel_01-60e150b9f37a4835862036139397bc3f.jpg)
 4. Once you've completed the formula, press**Enter** on your keyboard to activate it. The new data combination should appear in the cell.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The results of the CONCATENATE formula in Microsoft Excel.](https://www.lifewire.com/thmb/lrpZXUMOgKEYWsx163xnNjDFz6E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Excel_02-8b69ebb739dd4721a90babcd0465d135.jpg)
 5. Now, you can copy the formula down the length of the column to combine all the desired entries. To do that, place your cursor bac in the previous cell (C2 in the example), grab the green dot (called the**Fill Handle** ) in the lower right corner of the screen and drag down the length of the column you want to use.  
  This will apply the formula to all selected rows.  
 ![An illustration of how to use the Fill Handle in Microsoft Excel.](https://www.lifewire.com/thmb/jRYAhCFQTgZj888CujHR4w9QvUQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Excel_03-674a233d08ec4ea0bcf80e3bec90d68b.jpg)
 6. Now, the data in the new column is part of a formula, and as such, if you delete any of the data used in the formula (in this example, any data in columns A or B) it will cause the combined data in column C to disappear.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To prevent this, you need to save all the new entries as a value so they won't disappear. So first, highlight all the combined data you just created and use the keyboard shortcut**Ctrl + C** on Windows or**Command + C** on Mac to copy it.  
 ![Data selection in Microsoft Excel.](https://www.lifewire.com/thmb/dJvhnrsFHFqq9jYyuvPDvP6vD_8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Excel_04-0f81b1dc8ff5485cb2adf07a5f4262e3.jpg)
 7. Then, in the first corresponding cell of the column you copied the data from, right click and select**Paste Value** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Past Value option in Microsoft Excel.](https://www.lifewire.com/thmb/PZ3_xakgfZ_JtN1mmM00mCW8m7Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Excel_05-054201d683a14effbdab321008554e88.jpg)
 8. The combined data will be pasted into the column as a value and you can change or delete the data from the original columns without changing the new, combined data.
 
@@ -79,12 +116,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-powerful-techniques-including-yt-videos-in-slides/"><u>[Updated] Powerful Techniques Including YT Videos in Slides</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-top-30-pro-freefire-hashtags-for-boosting-video-popularity/"><u>2024 Approved Top 30 Pro-FreeFire Hashtags for Boosting Video Popularity</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beyond-chatgpt-how-claude-elevates-ai-conversations-with-four-key-benefits/"><u>Beyond ChatGPT: How Claude Elevates AI Conversations with Four Key Benefits</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-fix-a-connection-is-not-secure-error/"><u>How to Fix a ‘Connection Is Not Secure’ Error</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-get-and-use-amds-newest-video-card-drivers-version-2410-release/"><u>How to Get and Use AMD's Newest Video Card Drivers - Version 24.10 Release</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-watch-apples-latest-spatial-videos-in-stunning-3d-using-the-meta-quest-device-a-comprehensive-tutorial-tech-insights/"><u>How to Watch Apple's Latest Spatial Videos in Stunning 3D Using the Meta Quest Device - A Comprehensive Tutorial | Tech Insights</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tips-and-tricks-to-tell-if-your-apple-iphone-8-is-unlocked-by-drfone-ios/"><u>In 2024, Tips And Tricks To Tell if Your Apple iPhone 8 Is Unlocked</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-the-future-of-intelligence-how-apple-must-evolve-its-ai-features-to-challenge-tech-giants-openai-and-google-expert-analysis-by-zdnet/"><u>Navigating the Future of Intelligence: How Apple Must Evolve Its AI Features to Challenge Tech Giants OpenAI and Google – Expert Analysis by ZDNet</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/perfect-your-strategy-top-rated-techniques-for-video-marketing-for-2024/"><u>Perfect Your Strategy Top-Rated Techniques for Video Marketing for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/potential-facebook-improvement-more-engaging-story-panels-with-reels-and-rooms/"><u>Potential Facebook Improvement: More Engaging Story Panels with Reels & Rooms</u></a></li>
+<li><a href="https://blog-min.techidaily.com/simplify-digital-study-transform-books-into-pdf-format-via-vitalsource-solutions/"><u>Simplify Digital Study: Transform Books Into PDF Format via Vitalsource Solutions</u></a></li>
+</ul></div>
 

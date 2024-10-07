@@ -1,7 +1,7 @@
 ---
 title: "Apple Revitalizes Artificial Intelligence: Promising Developments and Areas Needing Improvement – Insights From ZDNet"
-date: 2024-09-29T07:34:37.553Z
-updated: 2024-10-02T10:37:50.575Z
+date: 2024-10-06T18:54:00.866Z
+updated: 2024-10-07T16:57:26.755Z
 tags:
   - apple
 categories:
@@ -37,10 +37,16 @@ Apple was expected to focus on incorporating AI into its apps to simplify users'
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What does Apple Intelligence do?
@@ -78,13 +84,6 @@ The voice assistant will also be able to perform hundreds of new actions across 
 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What's new in Apple's photo editing & search?
 
 Apple
@@ -96,6 +95,13 @@ Like the Google Pixel's Magic Eraser, Apple is giving its devices a new, AI-powe
 Apple is adding natural language photo and video search to its Photos app. This will let users enter a prompt to search for a picture, video, or even a segment of a video. Users can say, "Find a photo of that starfish we found at the beach last summer," and have their iPhone pull up a photo without having to scroll through thousands of photos to find the one.
 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How does systemwide AI text generation work?
 
@@ -122,10 +128,10 @@ In the Notes app, for example, a new tool called Image Wand will let you circle 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
@@ -157,10 +163,10 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is Apple Intelligence actually private and secure?
@@ -218,22 +224,18 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-best-camera-lenses-for-youtube/"><u>[Updated] 2024 Approved Best Camera Lenses for YouTube</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-advanced-mp4-to-facebook-converter/"><u>[Updated] Advanced MP4-to-Facebook Converter</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-essential-tips-enhancing-focus-in-your-youtube-video-for-2024/"><u>[Updated] Essential Tips Enhancing Focus in Your YouTube Video for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/best-iphone-gps-applications-our-ultimate-picks/"><u>Best iPhone GPS Applications: Our Ultimate Picks</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/discover-top-django-templates-and-skins-8plus-innovative-styles-by-creative-tim/"><u>Discover Top Django Templates & Skins - 8+ Innovative Styles by Creative Tim</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/diving-deeper-into-instagram-functions-features-and-user-experience/"><u>Diving Deeper Into Instagram: Functions, Features & User Experience</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-steps-disabling-access-to-youtube-on-your-ipad/"><u>Easy Steps: Disabling Access to YouTube on Your iPad</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-determine-if-someone-has-read-your-gmail-messages-a-step-by-step-tutorial/"><u>How to Determine If Someone Has Read Your Gmail Messages: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/ig-tik-combined-expertise-for-smooth-integration/"><u>IG-Tik Combined Expertise for Smooth Integration</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-avoid-common-pitfalls-in-ppt-recording/"><u>In 2024, Avoid Common Pitfalls in PPT Recording</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-samsung-galaxy-m34-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Samsung Galaxy M34 5G Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/leading-visual-voice-message-apps-this-year/"><u>Leading Visual Voice Message Apps This Year</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/master-the-art-of-finding-individuals-with-these-8-powerful-engines/"><u>Master the Art of Finding Individuals with These 8 Powerful Engines</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-misidentified-gaming-feature-within-discord-windows-edition/"><u>Resolving Misidentified Gaming Feature Within Discord, Windows Edition</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-4-free-cad-software-options-the-best-pick-for-your-design-needs/"><u>Top 4 Free CAD Software Options: The Best Pick for Your Design Needs</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722853105075-top-gadgets-and-literature-laptops-phones-and-reading-materials-galore/"><u>Top Gadgets & Literature: Laptops, Phones & Reading Materials Galore</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-revelations-on-identifying-outstanding-film-making-talents/"><u>[New] 2024 Approved Revelations on Identifying Outstanding Film Making Talents</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-facebook-featured-best-10-music-clips-today-for-2024/"><u>[Updated] Facebook Featured Best 10 Music Clips Today for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-masterclass-review-top-tier-professional-cameras-spin-full-circle-2023/"><u>2024 Approved Masterclass Review Top-Tier Professional Cameras Spin Full Circle - 2023</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/disabling-closed-captions-on-amazon-prime-streaming/"><u>Disabling Closed Captions on Amazon Prime Streaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-the-unable-to-connect-error-on-your-minecraft-server-a-comprehensive-guide/"><u>Fixing the 'Unable to Connect' Error on Your Minecraft Server – A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/from-traditional-broadcast-to-next-gen-entertainment-exploring-how-espn-evolved-into-espnplus/"><u>From Traditional Broadcast to Next-Gen Entertainment: Exploring How ESPN Evolved Into ESPN+</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-keeping-your-mac-awake-and-active-tips-and-tricks/"><u>Guide: Keeping Your Mac Awake and Active - Tips & Tricks</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-essential-watch-top-8-internet-gems/"><u>In 2024, Essential Watch Top 8 Internet Gems</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-tecno-phantom-v-fold-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Tecno Phantom V Fold to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-stellar-tiktok-handles-the-ultimate-guide-to-30-impactful-names/"><u>In 2024, Stellar TikTok Handles The Ultimate Guide to 30 Impactful Names</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-siri-a-step-by-step-guide-to-reading-out-text-on-iphone-and-mac/"><u>Mastering Siri: A Step-by-Step Guide to Reading Out Text on iPhone & Mac</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-joining-an-icloud-shared-photo-library/"><u>Step-by-Step Guide: Joining an iCloud Shared Photo Library</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-honor-100-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Honor 100 | Dr.fone</u></a></li>
 </ul></div>
 
