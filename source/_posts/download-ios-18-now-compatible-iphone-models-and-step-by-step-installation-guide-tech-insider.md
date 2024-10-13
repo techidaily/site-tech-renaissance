@@ -1,7 +1,7 @@
 ---
 title: Download IOS 18 Now! Compatible iPhone Models & Step-by-Step Installation Guide | Tech Insider
-date: 2024-10-06T19:27:43.289Z
-updated: 2024-10-07T17:56:24.622Z
+date: 2024-10-06T21:48:56.877Z
+updated: 2024-10-13T06:17:12.089Z
 tags:
   - apple
 categories:
@@ -32,6 +32,13 @@ Jason Hiner/ZDNET
 
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Go to General in your iPhone Settings
 
 Go to your iPhone's Settings and select General. 
@@ -45,10 +52,10 @@ Within General, tap on Software Update. This will show you if the iOS 18 update 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Enter your passcode and follow steps to install
@@ -57,31 +64,24 @@ Enter your passcode, if necessary, to authorize the installation of the new iOS 
 
 After installing the latest iOS update, your iPhone will restart.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FAQs
 
 ### When is Apple Intelligence coming out?
 
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### When was iOS 18 released?
 
 Apple released the iOS 18 developer beta during WWDC 2024 in June, and the public beta version was released on July 15\. The general release of iOS 18 is September 16.
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
 
@@ -102,13 +102,6 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 
 Screenshot: Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to download the iOS 18 developer beta?
 
 To download the iOS 18 developer beta version, navigate to your settings to install the iOS 18 developer beta if your device runs iOS 16.4 and is used with an Apple ID enrolled in the Apple Developer Program:
@@ -124,6 +117,13 @@ If you can't see this option, go to your **Settings,** select **Privacy & Securi
 **Also: [How to use and customize your iPhone's new Control Center with iOS 18](https://www.zdnet.com/article/how-to-use-and-customize-your-iphones-new-control-center-with-ios-18/)**
 
 If you aren't already a member of the Apple Developer Program, you can sign up to become one in the app. An annual membership costs $99.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What is in iOS 18 beta 3?
 
@@ -169,19 +169,21 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/a-practical-guide-to-downloading-audio-content-from-pinterest-for-2024/"><u>A Practical Guide to Downloading Audio Content From Pinterest for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comctl3-3-dll-error-diagnosis-and-remedies-explained/"><u>Comctl3 3 DLL Error: Diagnosis and Remedies Explained</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-tutorial-for-activating-and-using-ms-365-on-personal-laptopsdesktops/"><u>Comprehensive Tutorial for Activating and Using MS 365 on Personal Laptops/Desktops</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/cutting-edge-converter-elevate-your-screen-viewing/"><u>Cutting Edge Converter Elevate Your Screen Viewing</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/evaluation-iphone-14-delivers-just-what-was-necessary/"><u>Evaluation - iPhone 14 Delivers Just What Was Necessary</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fix-your-system-error-with-missing-or-not-found-d3d9dll/"><u>Fix Your System Error with Missing or Not Found d3d9.dll</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/freshen-up-your-computer-with-these-8-free-driver-updater-utilities-july-2024-edition/"><u>Freshen Up Your Computer with These 8 Free Driver Updater Utilities - July 2024 Edition</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-infinix-hot-30-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Infinix Hot 30 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/to-purchase-or-not-to-purchase-a-blu-ray-player-guide/"><u>To Purchase or Not to Purchase – A Blu-Ray Player Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-selection-of-premium-vertical-computer-mice-for-the-year-2024/"><u>Ultimate Selection of Premium Vertical Computer Mice for the Year 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-creative-potential-using-luts-for-color-grading-in-ae-for-2024/"><u>Unlocking Creative Potential Using LUTs for Color Grading in AE for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/visual-mastery-best-camera-lenses-1-10-for-unrivaled-imagery-2024/"><u>Visual Mastery Best Camera Lenses #1-10 for Unrivaled Imagery 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/why-wont-my-ipad-connect-to-wi-fi-tips-and-solutions-for-seamless-internet-access/"><u>Why Won't My iPad Connect to Wi-Fi? Tips and Solutions for Seamless Internet Access</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-installation-microsoft-surface-pro-4-drivers/"><u>Windows Installation: Microsoft Surface Pro 4 Drivers</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-melodies-for-memories-music-tips-for-reels-on-instagram/"><u>[New] Melodies for Memories Music Tips for Reels on Instagram</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-clarifying-misleading-self-representations-on-fb/"><u>[Updated] Clarifying Misleading Self-Representations on FB</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-digital-diaries-top-picks-for-personal-recorders-for-2024/"><u>[Updated] Digital Diaries Top Picks for Personal Recorders for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/99-pre-order-snap-up-the-newest-apple-watch-series-10-exclusive-at-best-buy-step-by-step-guide-zdnet/"><u>$99 Pre-Order: Snap Up the Newest Apple Watch Series 10 Exclusive at Best Buy – Step-by-Step Guide | ZDNet</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-breathtaking-stunts-and-jumps-2022-fig-skates/"><u>2024 Approved Breathtaking Stunts and Jumps - 2022 Fig Skates</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-laughs-teardrops-and-snickers-in-10-best-ig-memes-groups/"><u>2024 Approved Laughs, Teardrops & Snickers in 10 Best IG Memes Groups</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-apple-airpods-pro-3rd-gen-evaluation-spot-on-enhancements-and-features-revealed-techinsight/"><u>Comprehensive Apple AirPods Pro 3Rd Gen Evaluation: Spot-On Enhancements & Features Revealed | TechInsight</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/essential-knowledge-for-engaging-with-asmr-videos-for-2024/"><u>Essential Knowledge for Engaging with ASMR Videos for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-technology-tools-top-9-gadgets-students-cant-do-without/"><u>Essential Technology Tools: Top 9 Gadgets Students Can't Do Without</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-infinix-note-30-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-asus-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Asus FRP Bypass</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mac-dual-screen-setup-a-step-by-step-guide/"><u>Mac Dual Screen Setup: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tiny-and-portable-how-much-smaller-is-this-apple-vision-pro-case-compared-to-original-apple/"><u>Tiny & Portable: How Much Smaller Is This Apple Vision Pro Case Compared to Original Apple?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-in-depth-reviews-and-comparisons/"><u>Tom's Tech Insights: In-Depth Reviews and Comparisons</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-10-must-have-fitness-logging-apps-for-your-training/"><u>Top 10 Must-Have Fitness Logging Apps for Your Training</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-4-apple-devices-why-waiting-before-purchase-might-be-wise-insights/"><u>Top 4 Apple Devices: Why Waiting Before Purchase Might Be Wise – Insights</u></a></li>
 </ul></div>
 

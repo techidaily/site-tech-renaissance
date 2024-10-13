@@ -1,7 +1,7 @@
 ---
 title: Discover the Most Inspirational Movie Picks to Boost Your Spirit
-date: 2024-10-02T17:29:08.473Z
-updated: 2024-10-07T19:29:54.721Z
+date: 2024-10-12T13:31:05.704Z
+updated: 2024-10-13T03:38:18.682Z
 categories:
   - BestProducts
 description: This Article Describes Discover the Most Inspirational Movie Picks to Boost Your Spirit
@@ -30,13 +30,6 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
 3. Scroll to the bottom of the page and select **Save Changes** .  
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Create, Send, and Forward Email
 
  With Gmail[keyboard](https://www.lifewire.com/what-is-a-keyboard-2618153) shortcuts, you can quickly create, send, and forward Gmail messages:
@@ -48,19 +41,19 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
 
  On Macs, use the**Command** key in place of the**Ctrl** key.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Reply to Email
 
  By using the**R** and**A** keys, you can quickly reply to[email messages](https://www.lifewire.com/electronic-mail-overview-1164107) or send to multiple recipients:
 
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Scroll Through Emails
 
@@ -71,10 +64,16 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Select Multiple Emails
@@ -82,19 +81,6 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
-
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Add Formatting to Email Text
 
@@ -117,6 +103,13 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Email Maintenance Shortcuts
 
  Use these shortcuts to help manage your inbox:
@@ -138,6 +131,13 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
 * **Go to Drafts (G, then D)** : Press the**G** key, then press**D** to see your message drafts.
 * **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to View All Gmail Shortcuts
 
@@ -176,18 +176,16 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-renaissance.techidaily.com/are-blu-ray-players-still-relevant-in-the-streaming-age/"><u>Are Blu-Ray Players Still Relevant in the Streaming Age?</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/evaluating-the-sound-experience-bose-quiet-control-30-insights/"><u>Evaluating the Sound Experience: Bose Quiet Control 30 Insights</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-correctly-address-and-resolve-xlivedll-file-cannot-be-found-mistake/"><u>How to Correctly Address and Resolve Xlive.dll File Cannot Be Found Mistake</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-fix-common-glitches-with-your-realtek-hd-graphic-cards-driver-software/"><u>How to Fix Common Glitches with Your Realtek HD Graphic Card's Driver Software</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/in-2024-add-emojis-to-videos-on-youtubefacebooksnapchat-2023-guide/"><u>In 2024, Add Emojis to Videos on YouTube/Facebook/Snapchat 2023 Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-motivating-moments-on-the-silver-screen/"><u>In 2024, Motivating Moments on the Silver Screen</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-electronics-the-ultimate-resource-by-toms-hardware-experts/"><u>Mastering Electronics: The Ultimate Resource by Tom's Hardware Experts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigating-your-way-through-buying-a-dash-cam-consider-these-9-key-points-first/"><u>Navigating Your Way Through Buying a Dash Cam? Consider These 9 Key Points First</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/scale-down-hd4k8k-videos-by-up-to-90-top-techniques-and-tools/"><u>Scale Down HD/4K/8K Videos by Up to 90%: Top Techniques and Tools</u></a></li>
-<li><a href="https://extra-support.techidaily.com/share-audio-waves-with-followers-on-instagram-for-2024/"><u>Share Audio Waves with Followers on Instagram for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/the-ultimate-handbook-ios-photo-alignment-and-cloud-synchronization/"><u>The Ultimate Handbook IOS Photo Alignment & Cloud Synchronization</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/to-construct-or-to-acquire-discovering-if-a-self-built-computer-suits-your-needs-better/"><u>To Construct or to Acquire: Discovering if a Self-Built Computer Suits Your Needs Better</u></a></li>
-<li><a href="https://video-capture.techidaily.com/windows-11/"><u>Windows 11 利用時のフルスクリーン環境下での画像記録手法</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1-step-by-step-guide-integrating-your-id-and-driving-permit-into-apple-wallet-location-specific-instructions/"><u>1. Step-by-Step Guide: Integrating Your ID and Driving Permit Into Apple Wallet - Location-Specific Instructions</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-preserving-every-moment-of-your-switch-gaming/"><u>2024 Approved Preserving Every Moment of Your Switch Gaming</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/android-access-windows-shared-folders/"><u>Android: Access Windows Shared Folders</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/essential-steps-to-boost-your-instagram-unboxings-for-2024/"><u>Essential Steps to Boost Your Instagram Unboxings for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-motorola-razr-40-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Motorola Razr 40</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-fcp-2023-the-ultimate-guide-to-reversing-video-footage/"><u>New In 2024, FCP 2023 The Ultimate Guide to Reversing Video Footage</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/the-video-money-roadmap-dailymotion-and-youtube-compared/"><u>The Video Money Roadmap Dailymotion & YouTube Compared</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-tier-earbud-face-off-galaxy-buds-eby-pro-pixel-buds-pro-and-airpods-pro-revealed/"><u>Top-Tier Earbud Face-Off: Galaxy Buds Eby Pro, Pixel Buds Pro and AirPods Pro Revealed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-future-tech-empower-your-meta-quest-3-with-ai-capabilities-faster-than-the-vision-pro-in-depth-guide/"><u>Unlocking Future Tech: Empower Your Meta Quest 3 with AI Capabilities Faster Than the Vision Pro | In-Depth Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/watching-dragon-ball-z-in-order-your-comprehensive-viewing-strategy/"><u>Watching Dragon Ball Z in Order: Your Comprehensive Viewing Strategy</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/why-were-falling-in-love-with-the-new-ipad-air-over-our-ipad-pro-the-ultimate-tech-showdown/"><u>Why We're Falling in Love with the New iPad Air Over Our iPad Pro - The Ultimate Tech Showdown</u></a></li>
 </ul></div>
 

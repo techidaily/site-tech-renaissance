@@ -1,7 +1,7 @@
 ---
 title: Is It Worth the Upgrade? Expert Opinions on Why You Should or Shouldn't Get an iPhone 16 - Featuring Thoughts by Top Editors at ZDNet
-date: 2024-10-06T20:46:54.742Z
-updated: 2024-10-07T18:46:38.988Z
+date: 2024-10-06T14:53:25.783Z
+updated: 2024-10-12T16:15:13.123Z
 tags:
   - apple
 categories:
@@ -53,6 +53,13 @@ Apple's artificial intelligence push, aptly named Apple Intelligence, will be av
 
 To run smoothly, the Apple Intelligence features require an A17 chip or newer and at least 8GB of RAM, but the iPhone 14 Pro has the A16 chip and only 6GB of RAM. The iPhone 16 Pro features an A18 Pro chip and 8GB of RAM, making it a good device to run Apple's AI features. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. You'd like to get your hands on the bigger screen
 
 Apple has thinned out the iPhone 16 Pro's bezels to the bare minimum and stretched the Pro models' displays to 6.3 and 6.9 inches for the 16 Pro and 16 Pro Max, respectively. This gives users more screen real estate to watch videos, play games, view and edit documents, and read shared screens on video conferences.
@@ -62,10 +69,10 @@ Apple has thinned out the iPhone 16 Pro's bezels to the bare minimum and stretch
 The larger smartphone also means that the iPhone 16 Pro has a larger battery than the 14 Pro, at 3,355 mAh compared to 3,200 mAh. But even without the welcome battery upgrade, the new Pro models support faster charging than ever. The iPhone 16 Pro supports 40W wired charging and 20W of MagSafe charging, so if you find the iPhone 14 Pro's charging slow, it could be time to upgrade.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. You love taking beautiful photos
@@ -79,10 +86,10 @@ If you love taking photos with your smartphone, the camera upgrades alone may be
 [Pre-order the iPhone 16 Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-16-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## You should buy (or keep) the iPhone 14 Pro if…
@@ -90,10 +97,10 @@ If you love taking photos with your smartphone, the camera upgrades alone may be
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. You'd rather wait for bigger upgrades
@@ -113,13 +120,6 @@ One of the biggest reasons to hold off on an upgrade is financial. The iPhone 14
 As an iPhone 14 Pro Max user, I'm still pretty happy with how my iPhone performs, its battery life, and charging time. While USB-C charging would be convenient, I don't see myself springing for the new iPhone 16 Pro, though I may go for the iPhone 17 when it's launched.
 
 [iPhone 14 Pro (Pre-owned) $627.45 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BN95FRW9%2Fref%3Dasc%5Fdf%5FB0BN95FRW91727175600000%3Fcreative%3D395261%26creativeASIN%3DB0BN95FRW9%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccf2a1f8e-7998-4030-8126-5bbd5cde7cd1%7Cdtp&dtb=1)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -155,20 +155,22 @@ As an iPhone 14 Pro Max user, I'm still pretty happy with how my iPhone performs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-maximize-your-impact-strategic-approaches-to-facebook-bios-for-2024/"><u>[Updated] Maximize Your Impact Strategic Approaches to Facebook Bios for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-tracing-trending-commentary-across-videos/"><u>[Updated] Tracing Trending Commentary Across Videos</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/best-foodie-entertainment-our-pick-of-the-top-10-netflix-cooking-shows/"><u>Best Foodie Entertainment: Our Pick of the Top 10 Netflix Cooking Shows</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/connecting-your-airpods-a-step-by-step-guide-for-hp-notebook-users/"><u>Connecting Your AirPods: A Step-by-Step Guide for HP Notebook Users</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/disable-mouse-sensitivity-boost-a-step-by-step-guide-for-macos/"><u>Disable Mouse Sensitivity Boost: A Step-by-Step Guide for macOS</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/iphone-15s-resistance-how-well-does-it-handle-moisture/"><u>IPhone 15'S Resistance: How Well Does It Handle Moisture?</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-updates-for-canon-mx-series-printing-obtain-your-mx492-drivers-here/"><u>Latest Updates for Canon MX Series Printing - Obtain Your MX492 Drivers Here!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/logitech-mice-how-to-connect-with-non-original-receivers-successfully/"><u>Logitech Mice: How to Connect with Non-Original Receivers Successfully</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-pc-restoration-how-to-address-reset-operation-couldnt-be-completed-error/"><u>Mastering PC Restoration: How to Address Reset Operation Couldn't Be Completed Error</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigating-apple-support-securing-official-user-manuals-for-each-iphone-version/"><u>Navigating Apple Support: Securing Official User Manuals for Each iPhone Version</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/professional-gimbals-and-tripods-for-youtube-starters/"><u>Professional Gimbals & Tripods for YouTube Starters</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-scales-of-ai-capability-comparing-strong-and-weak/"><u>The Scales of AI Capability: Comparing Strong and Weak</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-vivo-s18e-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Vivo S18e for Streaming | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-fix-guide-resolving-dota-2-vac-bans/"><u>Ultimate Fix Guide: Resolving Dota 2 VAC Bans</u></a></li>
-<li><a href="https://tools.techidaily.com/zoolz/products/"><u>Zoolz's Products</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-revolutionize-your-memories-old-photos-new-video-life/"><u>[New] Revolutionize Your Memories Old Photos, New Video Life</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-essential-list-critical-6-fb-lite-downloads/"><u>[Updated] 2024 Approved Essential List Critical 6 FB Lite Downloads</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-mastering-seamless-music-segmentation-the-art-of-crossfade/"><u>2024 Approved Mastering Seamless Music Segmentation The Art of Crossfade</u></a></li>
+<li><a href="https://win-studio.techidaily.com/crafting-privacy-for-your-flipbuilder-site-guide-to-avoiding-appearances-in-virtual-bibliography-searches/"><u>Crafting Privacy for Your FlipBuilder Site – Guide to Avoiding Appearances in Virtual Bibliography Searches</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-7-free-learning-applications-to-enhance-your-childs-education/"><u>Discover 7 FREE Learning Applications to Enhance Your Child’s Education</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/dive-into-chilling-tales-the-ultimate-list-of-top-13-true-crime-narratives-on-podcasts/"><u>Dive Into Chilling Tales: The Ultimate List of Top 13 True Crime Narratives on Podcasts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diy-fixes-for-ipads-that-wont-print-or-recognize-a-connected-printer/"><u>DIY Fixes for iPads That Won’t Print or Recognize a Connected Printer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-considerations-a-guide-to-choosing-your-next-desktop-pc/"><u>Essential Considerations: A Guide to Choosing Your Next Desktop PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/from-unverified-to-elite-mastering-the-art-of-profile-verification-on-x/"><u>From Unverified to Elite: Mastering the Art of Profile Verification on X</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Motorola Edge 40? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/insights-and-pricing-details-on-upcoming-google-tv-streaming-device-release-dates-and-features-revealed/"><u>Insights & Pricing Details on Upcoming Google TV Streaming Device - Release Dates & Features Revealed</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-sas-driver-versions-for-windows-operating-systems-windows-11-8-and-7/"><u>Latest SAS Driver Versions for Windows Operating Systems: Windows 11, 8, & 7</u></a></li>
+<li><a href="https://win-answers.techidaily.com/maximizing-performance-enabling-gpu-functionality-for-warzone-on-windows-11-systems/"><u>Maximizing Performance: Enabling GPU Functionality for Warzone on Windows 11 Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mp3-m4a/"><u>MP3への変換 - M4Aファイル対応マガジン</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/streaming-made-easy-getting-apple-tv-services-on-your-amazon-firestick/"><u>Streaming Made Easy: Getting Apple TV Services on Your Amazon Firestick</u></a></li>
+<li><a href="https://fox-search.techidaily.com/ultimate-guide-top-rated-software-for-mirroring-m2-nvme-ssds-with-aomei-backupper/"><u>Ultimate Guide: Top Rated Software for Mirroring M.2 NVMe SSDs with AOMEI Backupper</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/wearing-sterile-gloves-is-essential-for-maintaining-asepsis-during-the-procedure-but-it-doesnt-specify-how-much-sterile-solution-should-be-obtained/"><u>Wearing Sterile Gloves Is Essential for Maintaining Asepsis During the Procedure, but It Doesn't Specify How Much Sterile Solution Should Be Obtained.</u></a></li>
 </ul></div>
 

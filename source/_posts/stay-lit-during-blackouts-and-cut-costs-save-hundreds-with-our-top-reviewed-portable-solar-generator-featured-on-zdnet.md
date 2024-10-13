@@ -1,7 +1,7 @@
 ---
 title: "Stay Lit During Blackouts & Cut Costs: Save Hundreds with Our Top-Reviewed Portable Solar Generator - Featured on ZDNet"
-date: 2024-09-19 22:52:19
-updated: 2024-09-20 11:50:10
+date: 2024-10-08T21:18:14.622Z
+updated: 2024-10-12T21:31:13.984Z
 tags:
   - yard-outdoors
 categories:
@@ -20,6 +20,13 @@ Maria Diaz/ZDNET
 The [Ring Spotlight Cam Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRing-Spotlight-Cam-Pro-Battery-White%2Fdp%2FB09DRX62ZV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfc654aac-451d-4428-990d-834c2c6ab84a%7Cdtp&dtb=1) is $30 off, available for $200 through [Labor Day](https://www.zdnet.com/article/best-labor-day-deals-2024-8-29/).
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways  
 
@@ -79,6 +86,13 @@ Maria Diaz/ZDNET
 
 The Ring Protect plan ranges from $5-$20 monthly, and aside from the mentioned features, it includes person alerts, the ability to arm and disarm the Ring system digitally, rich notifications, snapshot capture, and video history stored in the cloud for up to six months.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After using the [Ring Spotlight Cam Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRing-Spotlight-Cam-Pro-Battery-White%2Fdp%2FB09DRX62ZV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfc654aac-451d-4428-990d-834c2c6ab84a%7Cdtp&dtb=1) for a few weeks, I found it to be a reliable home security camera with all the extra features worth the price. The two-way talk audio quality was the most impressive I've ever tried, delivering crystal clear audio without echo. 
@@ -90,6 +104,13 @@ However, I was slightly disappointed by the video quality, which only goes up to
 A security camera of that resolution is not disappointing on its own, but it's a noticeable difference compared to the 2K-resolution Arlo Pro 5S that I previously had overlooking that area of my yard, though the Arlo is a little pricier, at $250\. To top it off, the [floodlight camera](https://www.zdnet.com/home-and-office/smart-home/eufys-new-floodlight-cam-e340-is-the-hardest-working-security-camera-ive-tested/) on the other side of my yard can go up to 3K resolution and is $10 cheaper than this Ring camera. 
 
 Additionally, many smart home users aren't prepared to pay monthly subscription fees to access plan-exclusive features, but plenty of users prefer the convenience of not having to worry about local storage and enjoy the extra perks a paid plan offers. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -116,11 +137,31 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/he-essential-guide-to-smartphone-based-youtube-thumbnails-for-2024/"><u>[New] The Essential Guide to Smartphone-Based YouTube Thumbnails for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-8-premier-no-lag-screen-capture-tools/"><u>[Updated] 2024 Approved 8 Premier No-Lag Screen Capture Tools</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-how-video-testimonials-shape-perception-and-trust/"><u>[Updated] How Video Testimonials Shape Perception and Trust</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-integrating-chroma-keying-into-your-edit-suite/"><u>2024 Approved Integrating Chroma Keying Into Your Edit Suite</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-mastering-tiktok-update-your-video-framing/"><u>2024 Approved Mastering TikTok Update Your Video Framing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-watch-series-9-at-record-low-prices-post-prime-day-exclusive-offer-on-zdnet/"><u>Apple Watch Series 9 at Record Low Prices Post-Prime Day - Exclusive Offer on ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1727788944820-choosing-the-right-apple-tablet-ipad-pro-vs-ipad-air-find-your-perfect-match/"><u>Choosing the Right Apple Tablet: IPad Pro Vs. IPad Air - Find Your Perfect Match!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-most-inspirational-movie-picks-to-boost-your-spirit/"><u>Discover the Most Inspirational Movie Picks to Boost Your Spirit</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-the-apple-vision-pro-empowers-enterprises-with-advanced-device-management-insights-from-zdnet/"><u>How the Apple Vision Pro Empowers Enterprises with Advanced Device Management - Insights From ZDNet</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-motorola-moto-g14-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Motorola Moto G14? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/m3-apple-silicon-revolutionizes-computing-discover-its-far-reaching-effects-beyond-macbooks-and-imacs-zdnet/"><u>M3 Apple Silicon Revolutionizes Computing – Discover Its Far-Reaching Effects Beyond MacBooks & iMacs | ZDNet</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-this-article-shows-the-detail-steps-to-crop-an-image-in-final-cut-pro-with-screenshots-for-2024/"><u>New This Article Shows the Detail Steps to Crop an Image in Final Cut Pro with Screenshots for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionizing-bike-rides-using-adaptive-lenses-and-display-technology-insights-s-test-run/"><u>Revolutionizing Bike Rides Using Adaptive Lenses & Display Technology, Insights 'S Test Run</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/struggling-with-poor-iphone-battery-life-after-updating-to-ios-1751-discover-these-7-power-saving-tips-gadgetguru/"><u>Struggling with Poor iPhone Battery Life After Updating to iOS 17.5.1? Discover These 7 Power-Saving Tips | GadgetGuru</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/the-cutting-edge-in-photo-framing-techniques-2023-software-guide-for-2024/"><u>The Cutting Edge in Photo Framing Techniques, 2023 Software Guide for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-apples-secret-an-unknown-but-incredible-feature-on-the-latest-iphones-revealed/"><u>Unveiling Apple's Secret: An Unknown but Incredible Feature on the Latest iPhones Revealed</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-the-editors-beat-pairing-visual-sequences-with-musical-tempo-using-adobe-premiere-pro/"><u>Updated 2024 Approved The Editors Beat Pairing Visual Sequences with Musical Tempo Using Adobe Premiere Pro</u></a></li>
+</ul></div>
+

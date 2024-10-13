@@ -1,7 +1,7 @@
 ---
 title: "New in iOS 18: Record Phone Conversations Directly Without Needing External Apps - Insights From ZDNet"
-date: 2024-10-02T18:05:10.514Z
-updated: 2024-10-07T16:02:39.886Z
+date: 2024-10-06T04:30:00.924Z
+updated: 2024-10-13T09:14:27.297Z
 tags:
   - apple
 categories:
@@ -71,29 +71,27 @@ The transcription capability will support English, Spanish, French, German, Japa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-masterclass-navigating-through-the-best-cricket-livestreams/"><u>[New] Masterclass Navigating Through the Best Cricket Livestreams</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-line-app-evaluation-features-and-usability/"><u>Comprehensive Line App Evaluation: Features & Usability</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fix-your-stalled-gadget-effective-solutions-for-dealing-with-a-code-10-not-responding-situation/"><u>Fix Your Stalled Gadget: Effective Solutions for Dealing with a Code 10 Not Responding Situation</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fixing-lameencdll-errors-a-user-friendly-approach-with-audacity-and-lame-software/"><u>Fixing lame_enc.dll Errors: A User-Friendly Approach with Audacity and LAME Software</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/from-confusion-to-clarity-overcoming-the-challenge-of-windows-code-28-malfunctions/"><u>From Confusion to Clarity: Overcoming the Challenge of Windows 'Code 28' Malfunctions</u></a></li>
-<li><a href="https://change-location.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Samsung Galaxy M34 5G | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-se-2022-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone SE (2022) Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/in-depth-analysis-neo-qled-vs-oled-what-sets-them-apart/"><u>In-Depth Analysis: Neo QLED Vs. OLED - What Sets Them Apart?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-hardware-comparisons-and-reviews-toms-technology-insights/"><u>In-Depth Hardware Comparisons and Reviews - Tom's Technology Insights</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/just-started-with-x-here-are-10-must-know-tips-for-rookies/"><u>Just Started with X? Here Are 10 Must-Know Tips for Rookies!</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/m1-chip-wins-smoothness-in-every-edit-every-time-for-2024/"><u>M1 Chip Wins Smoothness in Every Edit, Every Time for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mastering-japanese-language-without-spending-money/"><u>Mastering Japanese Language Without Spending Money</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-your-path-to-becoming-a-verified-instagram-user/"><u>Mastering Your Path to Becoming a Verified Instagram User</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-sony-vegas-not-cutting-it-find-the-perfect-windows-alternative-here-for-2024/"><u>New Sony Vegas Not Cutting It? Find the Perfect Windows Alternative Here for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/secrets-of-high-quality-steam-gameplay-footage/"><u>Secrets of High-Quality Steam Gameplay Footage</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/steam-refund-policy-explained-how-to-get-money-for-unhappy-purchases/"><u>Steam Refund Policy Explained - How to Get Money for Unhappy Purchases</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-future-is-now-transformative-metaverse-techniques-for-2024/"><u>The Future Is Now Transformative Metaverse Techniques for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-writers-who-defined-genres-through-exceptional-works/"><u>[New] Writers Who Defined Genres Through Exceptional Works</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-unveiling-the-secrets-of-lut-customization-in-premiere/"><u>[Updated] In 2024, Unveiling the Secrets of LUT Customization in Premiere</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-crafting-compelling-youtube-profile-definitions/"><u>2024 Approved Crafting Compelling YouTube Profile Definitions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/choosing-the-ideal-stylus-a-detailed-comparison-between-apple-pencil-and-apple-pencil-2nd-gen-for-enhanced-ipad-productivity/"><u>Choosing the Ideal Stylus: A Detailed Comparison Between Apple Pencil and Apple Pencil (2Nd Gen) for Enhanced iPad Productivity</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enhance-your-apple-watchs-endurance-with-these-eight-crucial-battery-life-tweaks-learn-the-tips-inside/"><u>Enhance Your Apple Watch's Endurance with These Eight Crucial Battery Life Tweaks - Learn the Tips Inside</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/googles-latest-breakthrough-the-pixel-9-introduces-satellite-enabled-sos-messaging-for-enhanced-safety/"><u>Google's Latest Breakthrough: The Pixel 9 Introduces Satellite-Enabled SOS Messaging for Enhanced Safety</u></a></li>
+<li><a href="https://facebook.techidaily.com/high-tech-hustlers-defending-your-digital-self/"><u>High-Tech Hustlers: Defending Your Digital Self</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-create-a-digital-signature-and-certificate-for-xlsx-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to create a digital signature and certificate for .xlsx files</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/masterclass-in-image-detail-removing-obscuring-elements-with-photopea/"><u>Masterclass in Image Detail Removing Obscuring Elements with Photopea</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/maxs-spotlight-the-best-documentaries-featuring-him-in-july-2024/"><u>Max's Spotlight: The Best Documentaries Featuring Him in July 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-the-latest-iphone-app-store-policies-with-macpaws-revolutionary-alternate-platform-exclusive-coverage/"><u>Navigating the Latest iPhone App Store Policies with MacPaw's Revolutionary Alternate Platform | Exclusive Coverage</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/professional-insights-into-fugeteks-premium-ft-568-selfie-extension-gadget/"><u>Professional Insights Into Fugetek's Premium FT-568 Selfie Extension Gadget</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionizing-hotel-entertainment-discover-how-selected-hotels-are-embracing-apple-airplay-for-pristine-remotes-and-seamless-streaming-experiences/"><u>Revolutionizing Hotel Entertainment: Discover How Selected Hotels Are Embracing Apple AirPlay for Pristine Remotes and Seamless Streaming Experiences</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshoot-your-iphones-draining-battery-post-ios-1751-update-with-7-effective-solutions/"><u>Troubleshoot Your iPhone's Draining Battery Post-iOS 17.5.1 Update with 7 Effective Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-o365-sync-issues-on-windows/"><u>Troubleshooting O365 Sync Issues on Windows</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

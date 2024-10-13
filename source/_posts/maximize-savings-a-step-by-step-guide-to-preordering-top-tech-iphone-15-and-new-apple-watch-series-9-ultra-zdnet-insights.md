@@ -1,7 +1,7 @@
 ---
 title: "Maximize Savings: A Step-by-Step Guide to Preordering Top Tech: IPhone 15 and New Apple Watch Series 9 Ultra | ZDNet Insights"
-date: 2024-10-03T17:57:34.087Z
-updated: 2024-10-07T19:48:44.815Z
+date: 2024-10-05T17:05:14.611Z
+updated: 2024-10-13T02:26:57.670Z
 tags:
   - apple
 categories:
@@ -41,10 +41,10 @@ Apple's entry-level iPhone models received new upgrades like a Dynamic Island di
 [PREORDER NOW Apple Store The iPhone 15 and iPhone 15 Plus are available for preorder now, starting at $799 and $899, respectively. On the Apple Store, you can also get up to $800 off on a new iPhone 15 or iPhone 15 Plus when you trade in an iPhone 11 or newer model. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)[PREORDER NOW Best Buy Preorder for the iPhone 15 and iPhone 15 Plus starts Friday, September 15, at Best Buy. View at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-iphone-15-128gb-blue-verizon%2F6418073.p%3FskuId%3D6418073&publisher_slug=itechdaily19598&exclusive=1)[PREORDER NOW Verizon New or existing Verizon customers adding a new line on the Unlimited Ultimate plan can get up to $1,000 off the new iPhone 15 line-up when you trade in any old iPhone in any condition. If you are already a Verizon customer and are looking to upgrade, you can get up to $830 off the iPhone 15 line-up with select trade-in and select Unlimited plans. View at Verizon](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.verizon.com/wireless-devices/smartphones/apple-iphone-15-announcement)[PREORDER NOW AT&T At AT&T, both new and existing customers can get the new iPhone 15 through the carrier, as long as they have an eligible trade-in. View at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/browse/apple/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iPhone 15 Pro and iPhone 15 Pro Max
@@ -57,13 +57,6 @@ Meanwhile, Apple's more premium iPhone models have a new Titanium design that's 
 
 [PREORDER NOW Apple Store The iPhone 15 Pro and iPhone 15 Pro Max are available to preorder on Friday, September 15, starting at $999 and $1,199, respectively. On the Apple Store, you can also get up to $1,000 off on a new iPhone 15 Pro or iPhone 15 Pro Max when you trade in an iPhone 11 or newer model. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)[PREORDER NOW Best Buy Preorder for the iPhone 15 Pro and iPhone 15 Pro Max starts Friday, September 15, at Best Buy. View at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-iphone-15-pro-max-256gb-black-titanium-at-t%2F6525421.p%3FskuId%3D6525421&publisher_slug=itechdaily19598&exclusive=1)[PREORDER NOW Verizon New or existing Verizon customers adding a new line on the Unlimited Ultimate plan can get up to $1,000 off the new iPhone 15 line-up when you trade in any old iPhone in any condition. If you are already a Verizon customer and are looking to upgrade, you can get up to $830 off the iPhone 15 line-up with select trade-in and select Unlimited plans. View at Verizon](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.verizon.com/wireless-devices/smartphones/apple-iphone-15-announcement)[PREORDER NOW T-Mobile New and existing T-Mobile customers can get the iPhone 15 Pro for free (via 24 monthly bill credits when you trade in an eligible device on a Go5G Plus or Go5G Next plan). View at T-mobile](https://tmobile.prf.hn/click/camref:1100l3XZFI/pubref:zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/destination:https%3A%2F%2Fwww.t-mobile.com%2F)[PREORDER NOW AT&T New and existing customers at AT&T can get the iPhone 15 Pro for $1,000 off when they bring in an eligible trade-in. View at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/browse/apple/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Apple Watch Series 9
 
 Jason Hiner/ZDNET
@@ -73,6 +66,13 @@ The new [Apple Watch Series 9](https://www.zdnet.com/article/apple-watch-series-
 **Also: [Apple Watch Series 9: Top 4 new features we're excited about](https://www.zdnet.com/article/apple-watch-series-9-top-4-new-features-were-excited-about/)**
 
 [PREORDER NOW Apple Store The Apple Watch Series 9 is available to preorder now and will be available officially on Friday, September 22\. Pricing starts at $399. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)[PREORDER NOW Best Buy Preorder for the Apple Watch Series 9 starts Friday, September 15, at Best Buy. View at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-watch-series9-gps-45mm-pink-aluminum-case-with-light-pink-sport-band-s-m-pink%2F6340289.p%3FskuId%3D6340289&publisher_slug=itechdaily19598&exclusive=1)[PREORDER NOW Verizon At Verizon, you can get the new Apple Watch Series 9 for less than $6 a month when you purchase select iPhones (with qualified watch trade-in). View at Verizon](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.verizon.com/wireless-devices/smart-watches/apple-watch-series-9-announcement/)[PREORDER NOW AT&T AT&T is offering a sort of "Buy one, get one free" deal for all Apple Watches. When you buy an Apple Watch Series 9, you can get the second one for $300 off. View at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/wearables/browse/apple/)
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Apple Watch Ultra 2
 
@@ -85,19 +85,19 @@ Apple announced the [Apple Watch Ultra](https://www.zdnet.com/article/apple-watc
 [PREORDER NOW Apple Store The Apple Watch Ultra 2 is available to preorder now, and will be officially available on Friday, September 22\. It starts at $799. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch-ultra&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)[PREORDER NOW Best Buy Preorder for the Apple Watch Ultra 2 starts Friday, September 15, at Best Buy. View at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-watch-ultra-2-gps-cellular-49mm-titanium-case-with-orange-beige-trail-loop-m-l-titanium%2F6560077.p%3FskuId%3D6560077&publisher_slug=itechdaily19598&exclusive=1)[PREORDER NOW Verizon At Verizon, you can get the new Apple Watch Ultra 2 for $14 a month when you purchase select iPhones (with qualified watch trade-in). View at Verizon](https://www.tkqlhce.com/click-9041660-15498661-1682437093000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### PREORDER NOW
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AT&T
@@ -146,20 +146,17 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-transformative-tactics-for-impeccable-hue-correction/"><u>[New] 2024 Approved Transformative Tactics for Impeccable Hue Correction</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-infinite-twitterscape-embracing-the-hd-experience-for-2024/"><u>[New] Infinite Twitterscape - Embracing the HD Experience for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-tutorial-editing-photos-by-cutting-out-the-surround/"><u>[New] Ultimate Tutorial Editing Photos by Cutting Out the Surround</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-pathway-to-crafting-a-viral-video-introduction/"><u>[Updated] The Pathway to Crafting a Viral Video Introduction</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-hue-harmony-masterclass-for-audience-enthusiasts/"><u>2024 Approved Hue Harmony Masterclass for Audience Enthusiasts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-most-enjoyable-kids-online-game-selection/"><u>Discover the Most Enjoyable Kid's Online Game Selection</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-lgbt-films-featured-on-netflix-for-july-2024-the-complete-list/"><u>Essential LGBT Films Featured on Netflix for July 2024: The Complete List</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-steps-resolving-issues-when-advapi32dll-cannot-be-located/"><u>Essential Steps: Resolving Issues When Advapi32.dll Cannot Be Located</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-advice-on-correcting-code-41-device-conflicts-in-system-settings/"><u>Expert Advice on Correcting Code 41 Device Conflicts in System Settings</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-wipe-clean-your-gmail-app-a-comprehensive-approach/"><u>How To Wipe Clean Your Gmail App - A Comprehensive Approach</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Poco F5 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-finding-friends-on-facebook-a-guide-to-6-easy-strategies/"><u>Mastering the Art of Finding Friends on Facebook: A Guide to 6 Easy Strategies</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-picks-ultimate-ebook-reader-seamlessly-converts-and-unlocks-ebook-content-everywhere/"><u>Top Picks: Ultimate eBook Reader - Seamlessly Converts and Unlocks eBook Content Everywhere!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unleash-laughter-with-funny-iphone-and-ipad-gags-for-good-times/"><u>Unleash Laughter with Funny iPhone & iPad Gags for Good Times</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlocking-the-power-of-windows-11s-battery-diagnostic-tool/"><u>Unlocking the Power of Windows 11'S Battery Diagnostic Tool</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevate-youtube-video-quality-minimize-distractions/"><u>[New] In 2024, Elevate YouTube Video Quality, Minimize Distractions</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-the-essential-blueprint-for-scheduling-success-with-slack-plus-filmora/"><u>[Updated] 2024 Approved The Essential Blueprint for Scheduling Success with Slack + Filmora</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-beam-your-content-upward-perfecting-youtube-seo-techniques/"><u>[Updated] In 2024, Beam Your Content Upward Perfecting YouTube SEO Techniques</u></a></li>
+<li><a href="https://fox-place.techidaily.com/failed-to-find-url-encountered-an-unavailable-page-http-error-404/"><u>Failed to Find URL: Encountered an Unavailable Page (HTTP Error #404)</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-samsung-galaxy-a25-5g-by-drfone-android/"><u>How to Bypass FRP from Samsung Galaxy A25 5G?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ios-18-upgrade-enables-direct-voice-recording-feature-without-external-apps-insights/"><u>IOS 18 Upgrade Enables Direct Voice Recording Feature Without External Apps - Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/julys-ultimate-iphone-savings-smart-shopping-with-zdnet-insights-models/"><u>July's Ultimate iPhone Savings - Smart Shopping with ZDNet Insights Models</u></a></li>
+<li><a href="https://fox-links.techidaily.com/navigating-through-gopro-and-time-lapse-synergy-for-2024/"><u>Navigating Through GoPro and Time-Lapse Synergy for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/reviving-your-vanished-photos-with-ios-175-insights-from-apple-and-practical-advice-for-iphone-owners/"><u>Reviving Your Vanished Photos with iOS 17.5 - Insights From Apple and Practical Advice for iPhone Owners</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-future-of-tech-explore-how-artificial-intelligence-is-revolutionizing-iphones-macbooks-and-ipads-with-apples-latest-ai-innovations-insights/"><u>Unveiling the Future of Tech: Explore How Artificial Intelligence Is Revolutionizing iPhones, MacBooks & iPads with Apple's Latest AI Innovations | Insights</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Avid Gamer's Guide: Effective Methods to Deep Clean a Mechanical Keyboard"
-date: 2024-09-14T17:08:52.528Z
-updated: 2024-09-21T01:38:09.014Z
+date: 2024-10-12T05:07:55.240Z
+updated: 2024-10-12T16:30:43.594Z
 categories:
   - BestProducts
 description: "This Article Describes Avid Gamer's Guide: Effective Methods to Deep Clean a Mechanical Keyboard"
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/c9a6389a75e39b0704a742bad64a540518e449e3f
 3. Scroll to the bottom of the page and select **Save Changes** .  
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Create, Send, and Forward Email
 
  With Gmail[keyboard](https://www.lifewire.com/what-is-a-keyboard-2618153) shortcuts, you can quickly create, send, and forward Gmail messages:
@@ -48,13 +55,6 @@ thumbnail: https://thmb.techidaily.com/c9a6389a75e39b0704a742bad64a540518e449e3f
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Scroll Through Emails
 
  These shortcuts are handy for navigating through your messages and long email threads:
@@ -69,6 +69,13 @@ thumbnail: https://thmb.techidaily.com/c9a6389a75e39b0704a742bad64a540518e449e3f
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Add Formatting to Email Text
 
  Use these commands to apply text formatting while you compose a message. Perform the same actions to undo the formatting:
@@ -79,13 +86,6 @@ thumbnail: https://thmb.techidaily.com/c9a6389a75e39b0704a742bad64a540518e449e3f
 * **Undo last action (Ctrl** +**Z)** : Press**Ctrl** +**Z** to undo the previous action.
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Add Elements to an Email
 
@@ -107,6 +107,19 @@ thumbnail: https://thmb.techidaily.com/c9a6389a75e39b0704a742bad64a540518e449e3f
 * **Mark an email as unread (Shift** +**U)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**U** to mark it as unread.
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
 
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## "Go to" Shortcuts in Gmail
 
  The following shortcuts can be used for[navigating Gmail](https://www.lifewire.com/go-to-the-next-or-previous-message-in-gmail-1172068) . Unlike the shortcuts above, the individual keys must be pressed separately rather than simultaneously
@@ -119,6 +132,13 @@ thumbnail: https://thmb.techidaily.com/c9a6389a75e39b0704a742bad64a540518e449e3f
 * **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to View All Gmail Shortcuts
 
  Need help remembering a shortcut? You can quickly pull up the entire list with a keyboard shortcut:
@@ -126,13 +146,6 @@ thumbnail: https://thmb.techidaily.com/c9a6389a75e39b0704a742bad64a540518e449e3f
 * **Open keyboard shortcut help (Shift** +**?)** : Press**Shift** +**?** to get the full list of Gmail keyboard shortcuts.
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Was this page helpful?
 
@@ -161,5 +174,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-harnessing-hashtag-magic-for-more-followers/"><u>[New] 2024 Approved Harnessing Hashtag Magic for More Followers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-audio-aficionados-curated-selection-of-free-lut-links-for-2024/"><u>[New] Audio Aficionados' Curated Selection of Free LUT Links for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ehind-the-scenes-creating-successful-youtube-shorts-videos-for-2024/"><u>[New] Behind the Scenes Creating Successful YouTube Shorts Videos for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transforming-your-shots-with-ease-in-photoshop/"><u>[New] Transforming Your Shots with Ease in Photoshop</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-xiaomi-13t-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Xiaomi 13T Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win-hot.techidaily.com/1728499768663-windows-11/"><u>解決策：如何克服Windows 11安裝時出現問題</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/beyond-the-price-tag-understanding-and-planning-for-extra-charges-when-investing-in-an-apple-vision-pro-xr-experience-tips-and-analysis-by-zdnet/"><u>Beyond the Price Tag: Understanding and Planning for Extra Charges When Investing in an Apple Vision Pro XR Experience – Tips & Analysis by ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/elevate-your-vr-sound-experience-with-logitechs-new-chorus-audio-add-on-for-oculus-quest-2-zdnet/"><u>Elevate Your VR Sound Experience with Logitech's New Chorus Audio Add-On for Oculus Quest 2 | ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/endless-blinking-cursor-learn-how-to-make-it-disappear-now/"><u>Endless Blinking Cursor? Learn How to Make It Disappear Now</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-motorola-moto-e13-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Motorola Moto E13</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-the-feature-a-step-by-step-guide-to-using-picture-in-picture-mode-on-your-android-device/"><u>Mastering the Feature: A Step-by-Step Guide to Using Picture-in-Picture Mode on Your Android Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-obstacles-in-implementing-digital-twin-technology-a-guide-to-the-top-7-business-hurdles-and-solutions-zdnet/"><u>Overcoming Obstacles in Implementing Digital Twin Technology: A Guide to the Top 7 Business Hurdles & Solutions | ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/returns-the-angle-in-degrees-by-converting-it-from-radians-to-degrees-with-radiantodegree-function/"><u>Returns the Angle in Degrees by Converting It From Radians to Degrees with `Radian_to_degree` Function.</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-future-of-interaction-mastering-xr-and-digital-twins-in-business-for-enhanced-user-experiences-expert-tips-by-zdnet/"><u>The Future of Interaction: Mastering XR and Digital Twins in Business for Enhanced User Experiences | Expert Tips by ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-firms-driving-the-evolution-of-the-metaverse-a-deep-dive-by-zdnet/"><u>Top Firms Driving the Evolution of the Metaverse - A Deep Dive by ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-metas-advanced-ai-model-for-object-detection-in-images-implications-and-benefits-zdnet/"><u>Understanding Meta's Advanced AI Model for Object Detection in Images – Implications and Benefits | ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upcoming-launch-samsung-gears-up-a-direct-challenge-to-the-apple-vision-pro-exclusive-insights-awaiting/"><u>Upcoming Launch: Samsung Gears Up a Direct Challenge to the Apple Vision Pro - Exclusive Insights Awaiting</u></a></li>
+</ul></div>
 

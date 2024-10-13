@@ -1,7 +1,7 @@
 ---
 title: Discover How Apple's Revolutionary Self Service Repair Includes Remote Tools for iPhone 15, M2 Mac Upgrades - Insights From ZDNET
-date: 2024-10-06T20:20:54.135Z
-updated: 2024-10-07T17:59:05.523Z
+date: 2024-10-09T10:26:50.560Z
+updated: 2024-10-13T13:58:47.795Z
 tags:
   - apple
 categories:
@@ -35,10 +35,16 @@ Read on for a look at some of the new accessibility features coming to Apple har
 Apple is bringing a new feature to both iOS and iPadOS that will let you navigate your iPhone and iPad with just your eye movements. The feature uses the device's front-facing camera to track your eye movements and let you move through apps. Apple said that its new Eye Tracking feature will work across both its own and third-party apps, and will work with gestures powered solely by eye movements.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Apple Music haptics
@@ -46,10 +52,10 @@ Apple is bringing a new feature to both iOS and iPadOS that will let you navigat
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Addressing motion sickness
@@ -67,10 +73,10 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### New CarPlay features
@@ -80,10 +86,10 @@ Apple's in-car CarPlay software is also getting new accessibility features, incl
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Some other updates
@@ -120,16 +126,22 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-construct-a-careerscape-on-camera-by-critiquing-closets/"><u>[Updated] 2024 Approved Construct a Careerscape on Camera by Critiquing Closets</u></a></li>
-<li><a href="https://video-capture.techidaily.com/beat-bloggers-base-downloads-for-analysis/"><u>Beat Bloggers' Base Downloads for Analysis</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-to-restoring-your-mac-via-recovery-mode-instructions/"><u>Comprehensive Guide to Restoring Your Mac via Recovery Mode Instructions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-instructions-customizing-font-preferences-on-your-windows-11-machine/"><u>Easy Instructions: Customizing Font Preferences on Your Windows 11 Machine</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/get-premium-video-openers-here/"><u>Get Premium Video Openers Here</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-on-apple-iphone-13-pro-max-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled On Apple iPhone 13 Pro Max? 7 Mehtods You Cant-Miss</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-screenflow-for-mac-full-review/"><u>In 2024, ScreenFlow for Mac Full Review</u></a></li>
-<li><a href="https://win-answers.techidaily.com/maximize-your-cs-2-performance-strategies-to-fix-fps-dips-and-stutters-during-play/"><u>Maximize Your CS 2 Performance: Strategies to Fix FPS Dips & Stutters During Play</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/overcoming-openal32dll-cannot-be-found-strategies-and-solutions/"><u>Overcoming 'OpenAL32.dll Cannot Be Found' - Strategies and Solutions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/perfect-binge-watching-strategy-for-fans-of-dragon-ball/"><u>Perfect Binge-Watching Strategy for Fans of Dragon Ball</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-what-to-do-when-your-instagram-stories-wont-upload/"><u>Troubleshooting Guide: What to Do When Your Instagram Stories Won’t Upload</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/it-explanation-of-dxgkrnlsys-bluescreen/"><u>[IT] Explanation of dxgkrnl.sys BlueScreen</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-framework-for-employing-videos-in-educational-settings/"><u>2024 Approved A Framework for Employing Videos in Educational Settings</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-revolutionizes-iphone-usage-by-enabling-nfc-for-external-applications-discover-the-incredible-benefits-awaiting-you-zdnet/"><u>Apple Revolutionizes iPhone Usage by Enabling NFC for External Applications - Discover the Incredible Benefits Awaiting You | ZDNET</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/best-practices-for-boosting-views-on-freefire-gaming-channels-for-2024/"><u>Best Practices for Boosting Views on FreeFire Gaming Channels for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/chinas-homegrown-cpu-success-story-featuring-lenovos-cutting-edge-computer-lineup-and-four-additional-oem-partners/"><u>China's Homegrown CPU Success Story - Featuring Lenovo's Cutting-Edge Computer Lineup and Four Additional OEM Partners</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-no-cost-drives-test-suites-expert-picks-for-q3-2024/"><u>Essential No-Cost Drives Test Suites: Expert Picks for Q3 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-how-ray-tracing-works-in-graphics-rendering/"><u>Exploring How Ray Tracing Works in Graphics Rendering</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/high-quality-speech-to-text-solutions-for-2024/"><u>High-Quality Speech-to-Text Solutions for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-well-does-the-iphone-nemeet-standards-insights-and-evaluation/"><u>How Well Does the iPhone nEmeet Standards? Insights and Evaluation</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-top-screen-recorder-alternatives-to-xboxs-game-bar/"><u>In 2024, Top Screen Recorder Alternatives to Xbox’s Game Bar</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/market-15-could-mean-missing-essential-advancements-revealed-by-zdnet-analysis/"><u>Market 15 Could Mean Missing Essential Advancements, Revealed by ZDNET Analysis</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/navigating-video-uploads-and-enhancements-in-instagram/"><u>Navigating Video Uploads and Enhancements in Instagram</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/quick-fix-guide-converting-handbrake-iso-files-to-mp4mkv-without-a-hitch/"><u>Quick Fix Guide: Converting HandBrake ISO Files to MP4/MKV Without a Hitch</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-7-no-cost-school-supply-apps-every-student-needs/"><u>Top 7 No-Cost School Supply Apps Every Student Needs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-picks-in-the-market-unbeatable-apple-bargains-on-iphones-iwatches-and-ipad-pros-for-july-2024-exclusive-offers-techradar/"><u>Top Picks in the Market: Unbeatable Apple Bargains on iPhones, iWatches & iPad Pros for July 2024 - Exclusive Offers | TechRadar</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-three-iphone-13-care-essentials-for-long-lasting-freshness-insights/"><u>Top Three iPhone 13 Care Essentials for Long-Lasting Freshness - Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upping-your-social-game-with-a-blue-badge-on-x-platform/"><u>Upping Your Social Game with a Blue Badge on X Platform</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How To Enable and Use Game Sharing Features on Sony's PS5 Platform
-date: 2024-09-15T03:14:43.968Z
-updated: 2024-09-20T22:59:15.323Z
+date: 2024-10-06T05:24:04.304Z
+updated: 2024-10-13T02:20:41.980Z
 categories:
   - BestProducts
 description: This Article Describes How To Enable and Use Game Sharing Features on Sony's PS5 Platform
@@ -38,6 +38,20 @@ Close
 1. From the Home screen, tap the**PS button** on your PS5 controller.  
 ![The PS button on the PlayStation 5 controller](https://www.lifewire.com/thmb/5mmpZ2KvrSfhX-5JnCqgZ3wgMpQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-sync-ps5-controller-5087332-3aa55161467c4cee9810620719c0af1f.jpg)
 2. Select**Game Base** from the menu at the bottom of the screen.  
+
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Game Base in the PS5 Home menu](https://www.lifewire.com/thmb/jVGTt5o8__HlkKnPi_7Hm6sKiLk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/PS5-Game-Base-6597b9856ba844f1ad1d4b18a406b291.jpg)
 3. Choose the**Friends** tab.  
  If you're in a party, select the**Party Voice Chat** card.  
@@ -48,41 +62,56 @@ Close
 6. Select**Share My Screen** if you’re the host or**Request Share Screen** to join a friend’s session.  
 ![The "Share My Screen" and "Request Share Screen" options on a PS5](https://www.lifewire.com/thmb/zATKis4w6vbR-0hgkeu_BC9DDBk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Share-My-Screen-Request-8bac069fd874472ea2664620e2e7b0e7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Share Play
 
 1. Open**Game Base** and select**Friends** .  
 ![The Friends tab in the PS5 Game Base](https://www.lifewire.com/thmb/LUw4y6zrb_QtOIZ2N8fYTamU3kQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Friends-tab-in-Game-Base-3d87b1fe27c34007aedc57417f128806.jpg)
 2. Find the friend you want to play with and select**Voice Chat** . This will start a party and send them an invite.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The "Start Voice Chat" icon on a PS5 user profile](https://www.lifewire.com/thmb/wzU9JndHoLvcPWv_em-b9JKEZ-U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Start-Voice-Chat-50e136002deb4ffd8447cc0dd8668527.jpg)
 3. Select**Start Share Screen** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Start Share Screen button](https://www.lifewire.com/thmb/0PmJQx0WhTF65cZrNbpLV85cR7w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007-how-to-gameshare-on-the-ps5-5089202-ca6c9f1d8403425d9d919038af313bca.jpg)
 4. After your friend accepts the invite, choose**Share Play** from the party screen.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The "Share Screen | Share Play" options](https://www.lifewire.com/thmb/JglcWpexrE4cQ--G3WpWd7YHCW8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008-how-to-gameshare-on-the-ps5-5089202-b1d7bcfa720d46bb97087b20a2d43371.jpg)
 5. Choose**Visitor Plays as You** or**Play With the Visitor** , depending on what you want to do.  
+
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Share Play options](https://www.lifewire.com/thmb/jLogLnmeHKrIlh0X5xIFMPLwY2I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/011-how-to-gameshare-on-the-ps5-5089202-76c5232c73f84d438c63eb8338034ede.jpg)
 6. To finish a Share Play session, navigate back to the party chat card and select**Stop Share Play** .
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is Share Play?
@@ -134,5 +163,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-clips.techidaily.com/new-effortless-extraction-of-twitter-jokes-3-ways-for-2024/"><u>[New] Effortless Extraction of Twitter Jokes 3 Ways for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-best-practices-for-documenting-live-streamed-sporting-matches/"><u>2024 Approved Best Practices for Documenting Live-Streamed Sporting Matches</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-incorporating-zoom-for-video-conferencing-a-guide-for-gmail-professionals/"><u>2024 Approved Incorporating Zoom for Video Conferencing A Guide for Gmail Professionals</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-for-libgdk-win32-20-0dll-dll-error-fix-file-not-found/"><u>Expert Tips for Libgdk-Win32-2.0-0.dll DLL Error Fix: File Not Found</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-oppo-reno-8t-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Oppo Reno 8T 5G Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-itel-p55plus-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Itel P55+ to Mac? | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-mobile-apps-to-extract-audio-from-videos-ios-and-android/"><u>New Best Mobile Apps to Extract Audio From Videos (iOS and Android)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revamping-privacy-learn-how-to-alter-your-fb-access-code/"><u>Revamping Privacy: Learn How to Alter Your FB Access Code</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/setting-up-your-ps-vr-headset-a-comprehensive-guide-for-pc-connection/"><u>Setting Up Your PS VR Headset: A Comprehensive Guide for PC Connection</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-complete-how-to-on-selecting-and-using-effective-selfie-lighting-techniques/"><u>The Complete How-To on Selecting & Using Effective Selfie Lighting Techniques</u></a></li>
+<li><a href="https://article-tips.techidaily.com/the-riders-eye-view-unveiling-23s-finest-action-camera-hats-for-bike-enthusiasts/"><u>The Rider's Eye View – Unveiling '23’S Finest Action Camera Hats for Bike Enthusiasts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-viewing-guide-superman-film-series-watch-them-sequentially/"><u>The Ultimate Viewing Guide: Superman Film Series - Watch Them Sequentially</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-12-no-cost-movie-streaming-applications/"><u>Top 12 No-Cost Movie Streaming Applications</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-and-fix-eac-error-ensuring-successful-setup-of-easy-anti-cheat-software/"><u>Troubleshoot and Fix EAC Error: Ensuring Successful Setup of Easy Anti-Cheat Software</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-fixing-errors-with-missing-or-lost-msvcrt10dll-on-your-computer/"><u>Ultimate Guide: Fixing Errors with Missing or Lost msvcrt10.dll on Your Computer</u></a></li>
+</ul></div>
 

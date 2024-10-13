@@ -1,7 +1,7 @@
 ---
 title: "Section 3A: Series Capacitor Arrangements and Energy Storage"
-date: 2024-10-04T20:26:46.997Z
-updated: 2024-10-07T16:39:31.839Z
+date: 2024-10-05T20:12:15.015Z
+updated: 2024-10-13T05:17:42.199Z
 tags:
   - apple
 categories:
@@ -49,16 +49,10 @@ The event provides developers with access to experts, along with highlights of n
 "We're so excited to connect with developers from around the world for an extraordinary week of technology and community at WWDC24," Susan Prescott, Apple's VP of Worldwide Developer Relations, said in a news release. "WWDC is all about sharing new ideas and providing our amazing developers with innovative tools and resources to help them make something even more wonderful." 
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. You'll be hearing AI (or Apple Intelligence) a lot
@@ -78,10 +72,10 @@ Apple has also allegedly been seeking a partner for outside help, possibly teami
 More recently, rumors have suggested that some new AI features will include more intelligent and helpful searches in Safari, AI-generated emojis based on conversations in Messages, and an AI-powered [photo editing app](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/) similar to Google's Magic Eraser. It's worth noting that such features are believed to only function on the more recent Apple products, including the iPhone 15 Pro with its A17 Pro chip and M-series iPads and MacBooks.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Don't forget the other acronym: RCS
@@ -95,10 +89,10 @@ To the surprise of many, except for the European Commission, Apple [announced la
 The decision to bring RCS to the iPhone came after mounting pressure from the European Union's Digital Markets Act (DMA), which stressed cross-platform compatibility. While a more [recent statement from Google](https://www.zdnet.com/article/google-seems-to-have-leaked-apples-timeframe-for-bringing-rcs-to-the-iphone/) suggested that Apple would integrate RCS later this fall, highlighting the transition at WWDC could potentially help Apple's defense against the [DOJ's antitrust lawsuit](https://x.com/getpeid/status/1798369533889302576), filed in March. Regardless of when and how Apple chooses to announce the new feature, it'll be big news for both iOS and Android users.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. MacOS 15, iPadOS 18, WatchOS 11, VisionOS 2, tvOS 18
@@ -139,22 +133,22 @@ As for [VisionOS](https://www.zdnet.com/article/10-things-id-like-to-see-in-visi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-best-6-mc-survival-home-blueprints/"><u>[New] 2024 Approved Best 6 MC Survival Home Blueprints</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-ps5-gaming-setup-top-5-display-recommendations/"><u>[New] 2024 Approved PS5 Gaming Setup Top 5 Display Recommendations</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-revive-your-photo-viewer-two-methods-to-try-in-win-11/"><u>[New] Revive Your Photo Viewer Two Methods to Try in Win 11</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-unveiling-the-art-of-4k-video-submission-to-youtube/"><u>[Updated] Unveiling the Art of 4K Video Submission to YouTube</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/accessing-roku-channel-content-on-other-devices-your-guide/"><u>Accessing Roku Channel Content on Other Devices - Your Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/android-nightmare-no-more-effective-solutions-for-the-black-screen-dilemma/"><u>Android Nightmare No More: Effective Solutions for the Black Screen Dilemma</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/effective-solutions-for-handling-launchdllerror-on-your-pc/"><u>Effective Solutions for Handling LaunchDllError on Your PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/effective-solutions-to-fix-lameencdll-error-messages-in-your-audacity-setup/"><u>Effective Solutions to Fix lame_enc.dll Error Messages in Your Audacity Setup</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722897052811-exclusive-savings-hunt-for-the-finest-apple-watch-offers-now/"><u>Exclusive Savings: Hunt for the Finest Apple Watch Offers Now</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-advice-for-effectively-cleaning-a-mechanical-key-switchboard/"><u>Expert Advice for Effectively Cleaning a Mechanical Key Switchboard</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-samsung-galaxy-xcover-7-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Samsung Galaxy XCover 7? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/macmastery-steps-for-successfully-restarting-your-macbook-pro/"><u>MacMastery: Steps for Successfully Restarting Your MacBook Pro</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/pc-velocity-essentials-finding-the-perfect-processing-speed/"><u>PC Velocity Essentials: Finding the Perfect Processing Speed</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/seamless-chat-experiences-unlocking-the-full-potential-of-meta-quest-mic/"><u>Seamless Chat Experiences: Unlocking the Full Potential of Meta Quest Mic</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-tutorial-effortless-texting-with-your-ipad-device/"><u>The Ultimate Tutorial: Effortless Texting with Your iPad Device</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-rated-picture-messaging-platforms/"><u>Top-Rated Picture Messaging Platforms</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-power-of-ai-thumbnail-generators/"><u>Updated In 2024, Power of AI Thumbnail Generators</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-virality-to-value-gauge-your-content-against-competing-craftsmen/"><u>[New] In 2024, From Virality to Value Gauge Your Content Against Competing Craftsmen</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-next-level-content-workshop-for-2024/"><u>[Updated] Next Level Content Workshop for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/beginners-tutorial-configuring-timer-functions-on-an-iphone-for-perfect-photos/"><u>Beginner's Tutorial: Configuring Timer Functions on an iPhone for Perfect Photos</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-oppo-reno-10-proplus-5g-device-sim-by-drfone-android/"><u>Easily Unlock Your Oppo Reno 10 Pro+ 5G Device SIM</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-tips-for-addressing-and-repairing-d3dx9tutuary-missing-files/"><u>Essential Tips for Addressing and Repairing D3dx9_tutuary Missing Files</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/gamers-alert-call-of-duty-modern-warfare-3-could-face-lag-challenges-throughout-2024/"><u>Gamers Alert: Call of Duty Modern Warfare 3 Could Face Lag Challenges Throughout 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-apple-iphone-13-pro-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix Apple iPhone 13 Pro Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/inside-google-hangouts-the-tools-history-and-capabilities-explained/"><u>Inside Google Hangouts: The Tool's History and Capabilities Explained</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/jolt-dampening-snapcam-accessory-kit/"><u>Jolt Dampening SnapCam Accessory Kit</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-battle-against-lynels-in-the-legend-of-zelda-breath-of-the-wild/"><u>Mastering the Battle Against Lynels in The Legend of Zelda: Breath of the Wild</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/no-text-only-paper-the-epson-printer-glitch/"><u>No Text, Only Paper: The Epson Printer Glitch</u></a></li>
+<li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-iphone-13-by-drfone-ios/"><u>Removing Device From Apple ID For your iPhone 13</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tesla-rumors-unleashed-an-insightful-guide-to-the-proposed-price-point-release-timeline-and-cutting-edge-specifications-of-their-newest-invention/"><u>Tesla Rumors Unleashed: An Insightful Guide to the Proposed Price Point, Release Timeline & Cutting-Edge Specifications of Their Newest Invention</u></a></li>
+<li><a href="https://techidaily.com/top-iphone-xs-message-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top iPhone XS Message Recovery Software | Stellar</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-reactivating-an-unresponsive-amazon-echo-alexa/"><u>Troubleshooting Guide: Reactivating an Unresponsive Amazon Echo (Alexa)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-usb-20-speeds-wireless-options-and-plug-ins-explained/"><u>Understanding USB 2.0: Speeds, Wireless Options, and Plug-Ins Explained</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/xbox-one-displays-nothing-quick-fix-guide-to-tackle-screen-free-issues/"><u>Xbox One Displays Nothing? Quick Fix Guide to Tackle Screen-Free Issues</u></a></li>
 </ul></div>
 

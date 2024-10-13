@@ -1,7 +1,7 @@
 ---
 title: "Thinner than Ever: A Hands-On Review of the World’s Slimmest iPads at an Apple Store | Insights by ZDNET"
-date: 2024-10-03T17:45:25.690Z
-updated: 2024-10-07T19:00:37.244Z
+date: 2024-10-06T23:19:44.770Z
+updated: 2024-10-13T03:28:58.656Z
 tags:
   - apple
 categories:
@@ -55,16 +55,10 @@ The stems each have a force sensor embedded. Squeezing either one will do things
 The charging case also looks more like the AirPods Pro case -- only smaller. There's a single indicator light on the front of the case to let you know when it's charging or in pairing mode. On the back of the case is a button that you'll use to reset the AirPods or pair them to a non-Apple device. 
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -82,10 +76,10 @@ For me, the AirPods fit and stayed in without any issues. I'm not a runner, but 
 My advice is to give these a try, even if the original AirPods gave you issues. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## More than improved sound quality and battery life
@@ -115,10 +109,10 @@ The new AirPods use the same H1 chip that Apple has used in previous AirPods, wh
 One missing feature that might be a deal-breaker for some is the lack of active-noise cancellation (ANC). That means the 3rd generation AirPods also lack a transparency mode to let in some environmental sounds. For those who don't consistently need or use ANC, it's likely to be a non-issue. But during the last few weeks, I've found myself wishing they had ANC. Whether it's blocking the background noise of my kids arguing over who gets the last piece of candy, or the _clickety-clack_ of my mechanical keyboard that randomly gets on my nerves, ANC has become a feature I don't want to go without. 
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -148,20 +142,20 @@ If you've been holding out on upgrading your AirPods for something better, the 3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-essential-guide-to-creating-popularity-with-youtube-opens/"><u>[New] In 2024, Essential Guide to Creating Popularity with YouTube Opens</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-earning-potential-unveiled-youtube-adsense-earning-per-thousand-video-observations/"><u>2024 Approved Earning Potential Unveiled YouTube AdSense Earning per Thousand Video Observations</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/boosting-your-spam-defense-a-comprehensive-guide-to-adding-emails-to-the-safe-list/"><u>Boosting Your Spam Defense: A Comprehensive Guide to Adding Emails to the Safe List</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/complete-tutorial-access-and-extract-rar-files-using-macos/"><u>Complete Tutorial: Access and Extract RAR Files Using macOS</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/download-the-most-popular-30-karaoke-tracks-and-their-lyrics-for-free-in-2017/"><u>Download the Most Popular 30 Karaoke Tracks & Their Lyrics for Free in 2017!</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/downloadable-mp4-converter-tool-easily-switch-your-mov-videos-to-mp4-on-any-device-including-mac-and-windows-11/"><u>Downloadable MP4 Converter Tool - Easily Switch Your MOV Videos to MP4 on Any Device Including MAC & Windows 11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/enjoy-immersive-cinema-experience-at-home-streaming-in-3d-on-fandango/"><u>Enjoy Immersive Cinema Experience at Home - Streaming in 3D on Fandango</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-oppo-a38-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Oppo A38</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-honor-magic-5-lite-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Honor Magic 5 Lite</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Itel P55 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722896493297-pixel-watch-releasing-soon-get-the-lowdown-on-latest-price-estimates-specs-and-release-plans/"><u>Pixel Watch Releasing Soon? Get the Lowdown on Latest Price Estimates, Specs & Release Plans!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-beginners-tutorial-on-clearing-the-cmos-for-effective-bios-management/"><u>The Beginner’s Tutorial on Clearing the CMOS for Effective BIOS Management</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-complete-guide-fixing-the-temporary-server-overload-503-error-on-your-site/"><u>The Complete Guide: Fixing the 'Temporary Server Overload' (503) Error on Your Site</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-techniques-for-stabilizing-shaky-and-flashing-screens-on-surface-devices/"><u>Troubleshooting Techniques for Stabilizing Shaky & Flashing Screens on Surface Devices</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-the-ultimate-list-10-best-free-avi-joiner-software-for-windows-and-mac-for-2024/"><u>Updated The Ultimate List 10 Best Free AVI Joiner Software for Windows and Mac for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/irecting-content-flow-uploading-imovie-films-to-youtube-for-2024/"><u>[New] Directing Content Flow Uploading IMovie Films to YouTube for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-cross-platform-connections-effortless-insta-facebook-linkup/"><u>[Updated] 2024 Approved Cross-Platform Connections Effortless Insta-Facebook Linkup</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-mastering-zoom-the-ultimate-guide-to-audio-recording-for-podcasts/"><u>[Updated] 2024 Approved Mastering Zoom The Ultimate Guide to Audio Recording for Podcasts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/clear-the-slate-a-step-by-step-process-on-resetting-samsung-soundbars-effectively/"><u>Clear the Slate: A Step-by-Step Process on Resetting Samsung Soundbars Effectively</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-update-geforce-rtx-3070-drivers-compatible-with-windows-11-and-10/"><u>Download & Update GeForce RTX 3070 Drivers: Compatible with Windows 11 and 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-make-a-digital-signature-for-wbk-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to make a digital signature for .wbk file</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-motorola-moto-g24-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-the-fix-overcoming-divison-2s-startup-issues/"><u>Mastering the Fix: Overcoming Divison 2'S Startup Issues</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-laugh-out-loud-top-video-dubbing-apps-for-comedy-gold/"><u>New 2024 Approved Laugh Out Loud Top Video Dubbing Apps for Comedy Gold</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722870796505-resolve-your-python-24-dll-issues-fix-missing-python24dll-error-effortlessly/"><u>Resolve Your Python 24 DLL Issues – Fix Missing python24.dll Error Effortlessly</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/samsung-smart-tv-factory-reset-instructions-how-to/"><u>Samsung Smart TV Factory Reset Instructions - How To</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/smart-shopping-the-7-key-aspects-everyone-needs-to-know-about-smart-tvs-before-buying-one/"><u>Smart Shopping: The 7 Key Aspects Everyone Needs To Know About Smart TVs Before Buying One</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-dsounddll-file-missing-a-step-by-step-guide/"><u>Solving dsound.dll File Missing: A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/by-step-methodology-effortless-youtube-playlist-embedding-on-websites/"><u>Step-by-Step Methodology Effortless YouTube Playlist Embedding on Websites</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-wlanapidll-not-found-easy-solutions-for-windows-users/"><u>Troubleshooting 'wlanapi.dll Not Found': Easy Solutions for Windows Users</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Navigating Past the TrustedInstaller Barrier on Windows 10"
-date: 2024-09-18T04:56:51.587Z
-updated: 2024-09-20T22:53:22.546Z
+date: 2024-10-06T21:08:49.820Z
+updated: 2024-10-13T09:50:42.430Z
 categories:
   - BestProducts
 description: "This Article Describes Ultimate Guide: Navigating Past the TrustedInstaller Barrier on Windows 10"
@@ -56,18 +56,18 @@ thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc
 * **Scroll up an email list (K)** : Press the**K** key to scroll up.
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Select Multiple Emails
 
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Add Formatting to Email Text
 
@@ -80,13 +80,6 @@ thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Add Elements to an Email
 
  Addling links, numbered lists, and bullet points to your emails can also be done using keyboard shortcuts:
@@ -97,6 +90,13 @@ thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Email Maintenance Shortcuts
 
  Use these shortcuts to help manage your inbox:
@@ -106,6 +106,13 @@ thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc
 * **Delete an email (Shift** +**3)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**3** to[send the email to the trash](https://www.lifewire.com/how-to-delete-with-a-swift-keyboard-shortcut-in-gmail-1172079) .
 * **Mark an email as unread (Shift** +**U)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**U** to mark it as unread.
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## "Go to" Shortcuts in Gmail
 
@@ -119,6 +126,13 @@ thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc
 * **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to View All Gmail Shortcuts
 
  Need help remembering a shortcut? You can quickly pull up the entire list with a keyboard shortcut:
@@ -126,13 +140,6 @@ thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc
 * **Open keyboard shortcut help (Shift** +**?)** : Press**Shift** +**?** to get the full list of Gmail keyboard shortcuts.
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Was this page helpful?
 
@@ -161,5 +168,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ind-out-the-best-8-youtube-engagement-tools-for-2024/"><u>[New] Find Out The Best 8 Youtube Engagement Tools for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-frameinspector-appraisal-suite-for-2024/"><u>[New] FrameInspector Appraisal Suite for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-elevate-your-visual-storytelling-ios-and-androids-best-image-stickers/"><u>[Updated] 2024 Approved Elevate Your Visual Storytelling IOS & Android's Best Image Stickers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-what-happens-to-your-facebook-live-if-its-flagged-for-copyright/"><u>[Updated] In 2024, What Happens to Your Facebook Live if It’s Flagged for Copyright?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-techniques-for-syncing-your-chromecast-device-with-a-firestick/"><u>Easy Techniques for Syncing Your Chromecast Device with a Firestick</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effortless-purchases-at-a-glance-setting-up-and-using-apple-pay-on-your-timepiece/"><u>Effortless Purchases at a Glance: Setting Up and Using Apple Pay on Your Timepiece</u></a></li>
+<li><a href="https://win-answers.techidaily.com/error-solved-successful-steps-for-connecting-to-live-configuration-servers/"><u>Error Solved: Successful Steps for Connecting to Live Configuration Servers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/everything-you-need-to-know-about-rich-communication-services-rcs/"><u>Everything You Need to Know About Rich Communication Services (RCS)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-for-successfully-uninstalling-software-on-macos/"><u>Expert Tips for Successfully Uninstalling Software on macOS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-evolution-a-comprehensive-journey-from-ios-10-through-to-180/"><u>Exploring the Evolution: A Comprehensive Journey From iOS 1.0 Through to 18.0</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-latest-canon-mf8500c-printer-drivers-for-windows-operating-systems/"><u>How to Get the Latest Canon MF8500C Printer Drivers for Windows Operating Systems</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-itel-p55plus-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-from-basic-to-brilliant-adding-fcp-x-effects-in-3-easy-steps/"><u>New From Basic to Brilliant Adding FCP X Effects in 3 Easy Steps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quick-fixes-mastering-the-art-of-samsung-tv-resets/"><u>Quick Fixes: Mastering The Art Of Samsung TV Resets</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-5-complimentary-languages-course-tools/"><u>Top 5 Complimentary Languages Course Tools</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-secrets-of-archiving-past-websites-the-ultimate-walkthrough-for-using-the-wayback-machine-effectively/"><u>Unveiling the Secrets of Archiving Past Websites: The Ultimate Walkthrough for Using the Wayback Machine Effectively</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/zoomed-success-on-set-harnessing-kinemasters-viewer-focus/"><u>Zoomed Success on Set Harnessing Kinemaster’s Viewer Focus</u></a></li>
+</ul></div>
 

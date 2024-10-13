@@ -1,7 +1,7 @@
 ---
 title: 'NulloPhone' Version 3 - What to Expect in Terms of Launch Date, Estimated Costs and Potential Device Specifications
-date: 2024-09-19T19:01:26.441Z
-updated: 2024-09-20T20:37:57.692Z
+date: 2024-10-10T22:51:36.778Z
+updated: 2024-10-13T03:59:53.140Z
 categories:
   - BestProducts
 description: This Article Describes 'NulloPhone' Version 3 - What to Expect in Terms of Launch Date, Estimated Costs and Potential Device Specifications
@@ -32,6 +32,13 @@ thumbnail: https://www.lifewire.com/thmb/tVOQWJT0brLysxt2ZKkyrT-R0qo=/400x300/fi
 
  Given that hint, we suspect a July 2025 reveal based on prior Nothing phone flagship releases: The Nothing Phone 1 arrived in July 2022, followed by the Nothing Phone 2 in July 2023.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Lifewire's Release Date Estimate
 
 We're betting on a July 2025 release date for the Nothing Phone 3.
@@ -50,16 +57,16 @@ We're betting on a July 2025 release date for the Nothing Phone 3.
 
 ![Nothing Phone 2 on a glass tabletop](https://www.lifewire.com/thmb/PY8rVS-IBLbcIzX2pej9YWVT6Jg=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/NothingPhone2.7-bdc100925d154e10aa175c63ba8cddca.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Nothing Phone 2.
 
 Lifewire / Rob LeFebvre
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Pre-Order Information
 
@@ -78,16 +85,10 @@ Lifewire / Rob LeFebvre
  Another speculation is that the[Phone 3 will stick to the trend of previous-generation chips](https://www.gizchina.com/2024/04/23/nothing-phone-3-expected-this-summer-but-not-a-flagship-killer/) , which would point toward a Snapdragon 8 Gen 2 Phone 3.
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Better Battery
@@ -109,10 +110,10 @@ Nothing OS 2.0.
 Nothing
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### An Action Button
@@ -121,13 +122,6 @@ Nothing
 
  In this rendering, it has an additional external button on the right side. Some speculate this button[could mimic the iPhone 15's Action Button](https://beebom.com/did-carl-pei-leak-nothing-phone-3-with-action-button/) .
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Integrated AI
 
  Pei also released a video on X announcing the company's AI prototyping. Pei alluded to a[heavy AI presence on the Nothing Phone 3](https://www.lifewire.com/carl-pei-nothing-ai-phone-3-8658876) .
@@ -135,6 +129,13 @@ Nothing
  The only timing clue Pei offered was a "next year" tag for the slow rollout of AI, starting with the Nothing Phone 3.  
 
  We’ll continue to make updates as we learn about more rumors, leaks, and official word from Nothing.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Latest News About the Nothing Phone 3
 
@@ -161,5 +162,18 @@ Nothing
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-click-into-art-ultimate-edits-for-stunning-snaps-for-2024/"><u>[Updated] Click Into Art Ultimate Edits for Stunning Snaps for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-srt-decoding-for-windows-and-mac-users-for-2024/"><u>[Updated] SRT Decoding for Windows & Mac Users for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-streaming-star-status-buttons-and-growth-accolades/"><u>[Updated] Streaming Star Status - Buttons & Growth Accolades</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-easy-steam-capture-for-cyberpunk-2077-adventures/"><u>2024 Approved Easy Steam Capture for Cyberpunk 2077 Adventures</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/adapting-to-climate-extremes-assessing-electric-vehicle-resilience-and-functionality/"><u>Adapting to Climate Extremes: Assessing Electric Vehicle Resilience and Functionality</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/all-the-games-for-ps-vr-2-detailed-catalog-of-titles-publicly-announced/"><u>All the Games for PS VR 2: Detailed Catalog of Titles Publicly Announced</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-walkthrough-how-to-harness-the-power-of-google-gemini/"><u>Comprehensive Walkthrough: How to Harness the Power of Google Gemini</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/languages-of-communication-an-israeli-insight/"><u>Languages of Communication: An Israeli Insight?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/netflix-nuisance-no-more-resolving-error-nw-1-19-for-uninterrupted-viewing-pleasure/"><u>Netflix Nuisance No More: Resolving Error NW-1-19 for Uninterrupted Viewing Pleasure</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solution-to-recover-missing-or-lost-steamdll-files-effectively/"><u>Step-by-Step Solution to Recover Missing or Lost Steam.dll Files Effectively</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-11-mais-eficientes-tecnicas-de-apagamento-vocalico-aprenda-como-desabilitar-sua-voz-online/"><u>Top 11 Mais Eficientes Técnicas De Apagamento Vocálico - Aprenda Como Desabilitar Sua Voz Online</u></a></li>
+</ul></div>
 

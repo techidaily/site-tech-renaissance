@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Desired VisionOS Enhancements: What We Hope Apple Unveils at the Upcoming WWDC | TechExplorer"
-date: 2024-10-02T19:34:27.188Z
-updated: 2024-10-07T16:17:25.374Z
+date: 2024-10-07T19:43:00.399Z
+updated: 2024-10-13T14:40:14.179Z
 tags:
   - apple
 categories:
@@ -34,13 +34,6 @@ I previously showed [how to connect a trackpad and keyboard to the Vision Pro](h
 
 I'd like to see Apple introduce full mouse support to the Vision Pro. And, Apple, please don't limit it to the not-so-Magic Mouse or [Magic Mouse 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Magic-Mouse-Wireless-Rechargeable%2Fdp%2FB08PL57CBR%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc38e9c1f-6415-47cc-be35-e1ce57791800%7Cdtp&dtb=1). Since Apple is still shipping a less-than-optimal mouse design from 2009, only slightly updated way back in 2015, many users have moved on to better models, like the various [Logitech devices](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09HM94VDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc38e9c1f-6415-47cc-be35-e1ce57791800%7Cdtp&dtb=1). 
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  2\. Better Bluetooth support for non-Apple devices
 
 You can [easily pair your AirPods to the Vision Pro](https://www.zdnet.com/article/i-watched-my-favorite-tv-show-on-apple-vision-pro-and-it-was-glorious-strange-and-tiring/). But when I tried to pair an inexpensive set of non-Apple Bluetooth earbuds to the Vision Pro, I couldn't get it to work. Those earbuds did, however, work with my iPhone and iPad, so they're good enough. 
@@ -64,10 +57,10 @@ Working in any of the virtual environments (I prefer Mount Hood) is great, but t
 I'd like the ability to create a passthrough opening that allows me to see the keyboard and the mouse (and I wouldn't mind one that lets me also see my coffee cup) while in virtual space. Ideally, an AI would be smart enough to recognize my keyboard (even if it's not Apple branded), but a reasonable first step would be merely allowing users to define passthrough zones by hand in the Vision Pro. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  4\. Less draconian media restrictions
@@ -87,6 +80,13 @@ Apple still ships Books, Calendar, Clock, Home, Maps, Podcasts, Reminders, Short
 **Also: [Apple to give Control Center its most useful customization feature ever with iOS 18](https://www.zdnet.com/article/apple-to-give-control-center-its-most-useful-customization-feature-ever-with-ios-18/)**
 
 But I also think it might be nice to have some clocks you could actually place in mixed reality or a calendar you could hang on the wall. And where could Books go if the interactive features that are already so great in Books could be extended to a fully 3D world? Oh, the stories we could show and tell! 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  6\. More environments and third-party environments
 
@@ -124,19 +124,6 @@ While many reviewers have described the Vision Pro's hand and eye tracking as "m
 
 This needs to improve, and I hope to see an upgrade in VisionOS 2.0\. 
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  10\. Find My support
 
 It's weird, but there's no Find My app for the Apple Vision Pro. You can't even download it. It's just not there. Now, given [how important it is to be able to use AirPods with the Vision Pro](https://www.zdnet.com/article/i-watched-my-favorite-tv-show-on-apple-vision-pro-and-it-was-glorious-strange-and-tiring/) when around family members, I would think Find My (which regularly helps me find one or the other of my dropped AirPods) would be a necessity. But it's not available. 
@@ -144,15 +131,22 @@ It's weird, but there's no Find My app for the Apple Vision Pro. You can't even 
 Even cooler would be a heads-up display version of Find My that puts an arrow in your field of view as you look for what's missing. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Bonus: Better personas
 
 Wow, those things are creepy. We need to get them out of the uncanny valley. 'Nuff said. 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Looking forward to VisionOS 2.0
 
@@ -192,18 +186,18 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-achieve-video-perfection-youtube-studio-edition-tips-and-tricks/"><u>[New] 2024 Approved Achieve Video Perfection YouTube Studio Edition Tips & Tricks</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-best-affordable-pc-video-grabbing-software-for-2024/"><u>[Updated] Best Affordable PC Video Grabbing Software for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-essential-steps-to-record-your-macbooks-display-for-2024/"><u>[Updated] Essential Steps to Record Your MacBook's Display for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-future-filming-top-15-video-cameras-to-watch/"><u>[Updated] Future Filming – Top 15 Video Cameras to Watch</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/arrange-your-horror-marathon-the-right-way-to-experience-the-conjuring/"><u>Arrange Your Horror Marathon: The Right Way to Experience 'The Conjuring'</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/chronological-voyage-into-starfleet-lore-how-to-experience-every-star-trek-film-from-start-to-finish/"><u>Chronological Voyage Into Starfleet Lore: How to Experience Every Star Trek Film From Start to Finish</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/essential-guide-incorporating-visual-annotations-in-edits/"><u>Essential Guide Incorporating Visual Annotations in Edits</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-hot-40-pro-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Hot 40 Pro</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/overcoming-windows-11-search-problems-effective-strategies-and-tips/"><u>Overcoming Windows 11 Search Problems: Effective Strategies & Tips</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/protecting-privacy-keeping-your-contact-info-secret-on-android-devices/"><u>Protecting Privacy: Keeping Your Contact Info Secret on Android Devices</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ultimate-exercise-companion-tuning-your-fitness-routine-on-the-garmin-vivoactive-3/"><u>The Ultimate Exercise Companion: Tuning Your Fitness Routine on the Garmin Vivoactive 3</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-the-pdhdll-not-detected-issue-effectively/"><u>Troubleshooting the 'pdh.dll Not Detected' Issue Effectively</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/your-guide-to-sonys-next-gen-vr-psvr2s-specs-forecasted-launch-date-and-pricing-analysis/"><u>Your Guide to Sony's Next-Gen VR – PSVR2's Specs, Forecasted Launch Date & Pricing Analysis</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-essential-guide-to-understanding-youtubes-earnings-mechanics-cpm/"><u>[New] The Essential Guide to Understanding YouTube's Earnings Mechanics (CPM)</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-unveiling-the-ultimate-editor-sets-for-macos-sierra-users/"><u>[New] Unveiling the Ultimate Editor Sets for macOS Sierra Users</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solved-stop-0x0000001e-blue-screen-error-code/"><u>[Solved] Stop: 0X0000001E Blue Screen Error Code</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722998369273-diablo-ii-resurrected-wont-boot-here-are-your-top-solutions/"><u>Diablo II Resurrected Won't Boot? Here Are Your Top Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-advice-for-resolving-windows-11-blackout-problems-with-ease/"><u>Expert Advice for Resolving Windows 11 Blackout Problems with Ease</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-computer-components-with-tom-insights-from-toms-hardware/"><u>Exploring Computer Components with Tom - Insights From Tom's Hardware</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/1716803484168-in-2024-how-to-make-collab-videos-and-grow-your-channel/"><u>In 2024, How to Make Collab Videos And Grow Your Channel?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721451728240-iphone-not-connecting-to-the-cellular-network-discover-10-reliable-fixes/"><u>IPhone Not Connecting to the Cellular Network? Discover 10 Reliable Fixes!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/is-it-beneficial-to-join-minecraft-realms-insights-and-advice/"><u>Is It Beneficial to Join Minecraft Realms? Insights and Advice</u></a></li>
+<li><a href="https://win-best.techidaily.com/procedimiento-paso-a-paso-para-la-reparacion-de-particiones-gpt-un-guia-completa/"><u>Procedimiento Paso a Paso Para La Reparación De Particiones GPT: Un Guía Completa</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-how-to-retrieve-hidden-login-credentials-on-macos/"><u>Step-by-Step Tutorial: How to Retrieve Hidden Login Credentials on macOS</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-ai-potential-how-to-effortlessly-implement-gpt-3-in-openais-simulated-environment/"><u>Unlocking AI Potential: How to Effortlessly Implement GPT-3 in OpenAI's Simulated Environment</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unraveling-the-mystery-of-error-43-a-comprehensive-solver-guide/"><u>Unraveling the Mystery of Error 43: A Comprehensive Solver Guide</u></a></li>
 </ul></div>
 

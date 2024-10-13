@@ -1,7 +1,7 @@
 ---
 title: "Guide: Modifying Passwords of Other Users on Windows Systems"
-date: 2024-10-03T19:56:44.569Z
-updated: 2024-10-07T19:27:47.500Z
+date: 2024-10-07T02:31:35.857Z
+updated: 2024-10-13T10:26:54.421Z
 categories:
   - BestProducts
 description: "This Article Describes Guide: Modifying Passwords of Other Users on Windows Systems"
@@ -24,16 +24,10 @@ thumbnail: https://thmb.techidaily.com/412d065764cb0ba50733f600b7a0dabb6c2d4fd11
  This article explains how to open[Command Prompt](https://www.lifewire.com/command-prompt-2625840) , which is one of the[command-line interface](https://www.lifewire.com/what-is-a-command-line-interpreter-2625827) programs used to execute[commands](https://www.lifewire.com/what-is-a-command-2625828) in Windows operating systems. These directions apply to Windows 11, Windows 10, Windows 8, Windows 7, Windows Vista, and Windows XP.  
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Open Command Prompt in Windows 11 or 10
@@ -56,20 +50,27 @@ thumbnail: https://thmb.techidaily.com/412d065764cb0ba50733f600b7a0dabb6c2d4fd11
 
 ![Command Prompt menu item in Windows System folder in Start menu on Windows 10](https://www.lifewire.com/thmb/M8TRCTyz0ujUzmDzFZsFJjffiq4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-open-command-prompt-2618089-5c6468a146e0fb0001f25667.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Open Command Prompt Using Power User Menu
 
  One more method is through the[Power User Menu](https://www.lifewire.com/what-is-the-power-user-menu-2625968) . If you're using a keyboard or mouse, choose**Terminal** (Windows 11) or**Command Prompt** (Windows 10) from the menu that appears after pressing**Win** +**X** or right-clicking the**Start** **Menu** .
 
 ![Command Prompt in Windows 10 Power User menu](https://www.lifewire.com/thmb/7_8z-AOur7jJSd6_2bz9Yp2VnDA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-open-command-prompt-2618089-5c646ad746e0fb0001dcd81a.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You might see PowerShell options in the Power User Menu instead of Command Prompt. In more recent versions of Windows 10, Command Prompt has been replaced by PowerShell, but you can[switch between PowerShell and Command Prompt](https://www.lifewire.com/switch-command-prompt-and-powershell-on-the-win-x-menu-2626247) from the Power User Menu. Terminal is the replacement in Windows 11.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Open Command Prompt in Windows 8 or 8.1
 
@@ -84,10 +85,10 @@ thumbnail: https://thmb.techidaily.com/412d065764cb0ba50733f600b7a0dabb6c2d4fd11
  See our [list of Windows 8 Command Prompt commands](https://www.lifewire.com/windows-8-command-prompt-commands-4172073) for all of the commands available through Command Prompt in Windows 8, including short descriptions and links to more in-depth information if we have it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Open Command Prompt in Windows 7, Vista, or XP
@@ -100,13 +101,6 @@ thumbnail: https://thmb.techidaily.com/412d065764cb0ba50733f600b7a0dabb6c2d4fd11
 3. Choose**Command Prompt** from the list of programs.
 
  See our [list of Windows 7 commands](https://www.lifewire.com/list-of-windows-7-command-prompt-commands-4107370) and[list of Windows XP commands](https://www.lifewire.com/windows-xp-commands-4687695) if you need a command reference for any of those versions of Windows.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Other Ways to Open Command Prompt
 
@@ -172,14 +166,16 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-the-power-of-hashtags-in-growing-your-instagram-reel-presence/"><u>[New] 2024 Approved The Power of Hashtags in Growing Your Instagram Reel Presence</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/cost-effective-essential-packages-for-crafting-the-perfect-home-movie-space/"><u>Cost-Effective Essential Packages for Crafting the Perfect Home Movie Space</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/cutting-costs-in-your-college-years-with-lenovos-student-exclusive-deals/"><u>Cutting Costs in Your College Years with Lenovo's Student-Exclusive Deals</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/effective-strategies-for-fixing-your-iphone-remote-app-problems/"><u>Effective Strategies for Fixing Your iPhone Remote App Problems</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/favorite-list-ideal-mac-devices-for-video-grabbing/"><u>Favorite List Ideal Mac Devices for Video Grabbing</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/gopro-hero5-vs-yi-4k-the-ultimate-showdown-in-cam-tech/"><u>GoPro Hero5 Vs. Yi 4K The Ultimate Showdown in Cam Tech</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-a-found-iphone-8-drfone-by-drfone-ios/"><u>How To Unlock A Found iPhone 8? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Tecno Spark 10 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-top-cost-free-cad-applications-for-engineers-and-designers-alike/"><u>Unveiling the Top ⅔ Cost-Free CAD Applications for Engineers and Designers Alike</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-epicurean-envoys-the-best-food-vloggers-to-watch/"><u>[New] 2024 Approved Epicurean Envoys The Best Food Vloggers to Watch</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/5-must-have-platforms-for-mastering-hashtag-discussions-on-twitter/"><u>5 Must-Have Platforms for Mastering Hashtag Discussions on Twitter</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/arc-blow-can-lead-to-weld-defects-like-lack-of-fusion-porosity-or-undercutting/"><u>Arc Blow Can Lead to Weld Defects Like Lack of Fusion, Porosity, or Undercutting</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expanded-raspberry-pi-connect-enhances-ssh-capabilities-and-welcomes-legacy-model-compatibility/"><u>Expanded Raspberry Pi Connect Enhances SSH Capabilities and Welcomes Legacy Model Compatibility</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-alter-another-persons-security-key-on-a-windows-machine/"><u>How To Alter Another Person's Security Key On A Windows Machine</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-vivo-s17-pro-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Vivo S17 Pro Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/proven-elements-for-optimal-bot-assisted-support-systems/"><u>Proven Elements for Optimal Bot-Assisted Support Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-python24dll-file-missing-dilemma-a-step-by-step-guide/"><u>Solving the 'Python24.dll File Missing' Dilemma: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-essential-collection-of-super-mario-bros-games-to-play-on-windows-and-mac/"><u>The Essential Collection of Super Mario Bros Games to Play on Windows and Mac</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tips-for-improving-windows-11s-response-time-troubleshooting-speed-reduction-problems/"><u>Tips for Improving Windows 11'S Response Time: Troubleshooting Speed Reduction Problems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/zero-cost-full-functionality-download-the-qualcomm-atheros-ar938x-driver-now/"><u>Zero Cost, Full Functionality - Download the Qualcomm Atheros AR938X Driver Now</u></a></li>
 </ul></div>
 

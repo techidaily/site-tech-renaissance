@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Comparison: The Mighty Samsung Galaxy Book Vs. Apple's Prodigious MacBook - Who Wins? | CNET"
-date: 2024-10-03T20:03:22.611Z
-updated: 2024-10-07T19:30:28.086Z
+date: 2024-10-12T03:56:21.109Z
+updated: 2024-10-13T03:33:17.348Z
 tags:
   - apple
 categories:
@@ -46,23 +46,9 @@ But if you have the M1 MacBook Pro, the question of upgrading becomes a little t
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  You should buy the M1 MacBook Pro if...
 
 Jason Cipriani/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  1\. You need more battery life
 
@@ -71,6 +57,13 @@ While you might expect the newest device to have the [better battery life](https
 **Also: [MacBook Pro vs MacBook Air: How to decide which Apple laptop to buy](https://www.zdnet.com/article/macbook-air-vs-macbook-pro-how-to-decide-which-apple-laptop-to-buy/)**
 
 Now, it's worth noting that most people do use their MacBooks plugged in, and going more than half a day without access to an outlet is pretty rare. But, in the event that you often find yourself in situations where a power supply isn't readily available and you work very long days, the M1 should be your choice. This is, of course, by Apple's numbers.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  2\. You're doing mostly web-based work or don't need the absolute fastest option
 
@@ -89,10 +82,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  3\. You prefer a smaller overall size and touch bar
@@ -100,13 +93,6 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 The M1 and M2 versions of the MacBook Pro had a 13-inch option, but that choice is missing from the M3\. So, if you prefer a smaller layout for your MacBook, you'll want to look to the M1\. Perhaps the bigger loss here, though, is the [touch bar](https://www.zdnet.com/article/apple-finally-admits-it-made-a-mistake-and-backtracks-on-three-foolish-macbook-pro-design-decisions/), which is no longer available on any M3 model. While most people weren't fans of the touch bar, which was essentially an OLED strip of buttons that changed depending on context, it still had its core users. Are you one of them?
 
 [Buy the M1 MacBook Pro View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-14-inch-10%E2%80%91core-16%E2%80%91core%2Fdp%2FB09JQWSQK7%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Caa003a5d-2fbe-4f3c-aafd-87bf6b8f53fe%7Cdtp&dtb=1)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  You should buy the M3 MacBook Pro if...
 
@@ -118,6 +104,13 @@ Jason Hiner/ZDNET
 
 One of the biggest differences between the M1 and the M3 is the overall brightness. For SDR content, the M1 tops out at 500 nits while the M3 triples that with 1,600 nits. In a standard office environment, the former would be just fine. But in a sunny outdoor environment or a very bright indoor setting, this is going to be a noticeable difference. There are some third-party apps that let you increase the screen brightness of the M1, but if you want the best brightness, you'll need to get the newest device.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  2\. You're doing very intensive or time-sensitive tasks
 
 While there's very little the M3 can do that the M1 just can't, the biggest difference comes down to how fast those tasks take. Finds 's [full review](https://www.zdnet.com/article/macbook-pro-m3-max-review/) suggest the M3 renders at more than twice the speed of the M1, which is crucial for users in more content creation occupations. 
@@ -125,6 +118,13 @@ While there's very little the M3 can do that the M1 just can't, the biggest diff
 **Also: [MacBook Pro (M3 Max) review: A desktop-class laptop for an AI-powered age](https://www.zdnet.com/article/macbook-pro-m3-max-review/)**
 
 If you're working in a very fast-paced environment (say, live sports or entertainment) and seconds make the difference, it might be worth springing for the M3\. Of course, you'll likely only notice the performance difference when dealing with high-end graphics and video. But power users will be right at home with the M3.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  3\. You want a new-conditioned laptop
 
@@ -166,24 +166,24 @@ It's been almost three years since Apple launched its M1-powered systems, so the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-2024-approved-how-to-establish-and-run-a-discochannel-successfully/"><u>[New] 2024 Approved How to Establish and Run a DiscoChannel Successfully</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-speed-dial-for-vimeo-video-loading/"><u>[New] 2024 Approved Speed Dial for Vimeo Video Loading</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-captivate-with-time-lapse-artistry-on-samsung-phones/"><u>[New] In 2024, Captivate with Time-Lapse Artistry on Samsung Phones</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-best-livestream-capturing-solutions-for-content-makers/"><u>[Updated] 2024 Approved Best Livestream Capturing Solutions for Content Makers</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-cutting-to-a-consensus-in-news-endings/"><u>[Updated] Cutting to a Consensus in News Endings</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-perfect-pairing-of-livestream-tech-top-recommendations-for-youtubers/"><u>2024 Approved Perfect Pairing of Livestream Tech Top Recommendations for Youtubers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/battle-of-the-beats-analyzing-google-nest-audio-and-apple-homepod-head-to-head/"><u>Battle of the Beats: Analyzing Google Nest Audio and Apple HomePod Head-to-Head</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-what-to-do-when-you-encounter-a-missing-msvcr80dll-error/"><u>Guide: What to Do When You Encounter a Missing msvcr80.dll Error</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-set-up-do-not-disturb-for-specific-contacts-in-apple-iphones/"><u>How to Set Up Do Not Disturb for Specific Contacts in Apple iPhones</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-v30-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Vivo V30 Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Samsung Galaxy F04 | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/instagrams-video-length-limit-a-compre-written-for-you-for-2024/"><u>Instagram’s Video Length Limit - A Compre Written for You for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/overcoming-initialization-problems-with-mozilla-thunderbird-a-comprehensive-fix/"><u>Overcoming Initialization Problems with Mozilla Thunderbird: A Comprehensive Fix</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722899309635-rpcrt4-dll-file-missing-heres-how-you-can-rectify-it/"><u>RPCRT4 DLL File Missing? Here's How You Can Rectify It!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/simple-steps-to-connect-your-apple-homepod-to-the-tv-an-easy-guide/"><u>Simple Steps to Connect Your Apple HomePod to the TV: An Easy Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-taking-a-screenshot-with-logitechs-comfort-keys/"><u>Step-by-Step Guide: Taking a Screenshot with Logitech's Comfort Keys</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-best-ways-to-watch-spider-man-no-way-home-at-home/"><u>The Best Ways to Watch 'Spider-Man: No Way Home' At Home</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-setting-up-automatic-text-reminders-on-your-iphone/"><u>The Ultimate Guide: Setting Up Automatic Text Reminders on Your iPhone</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-live-shopping-in-china-major-changes-in-the-industry/"><u>Updated In 2024, Live Shopping in China Major Changes in the Industry</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-elevate-your-freefire-gameplay-on-youtube-channels/"><u>[Updated] 2024 Approved Elevate Your FreeFire Gameplay on YouTube Channels</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-figure-skatings-top-talent-review-of-22-moments/"><u>[Updated] In 2024, Figure Skating's Top Talent Review of '22 Moments</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-simple-steps-to-great-videos-crafting-10-basic-concepts-easily/"><u>[Updated] Simple Steps to Great Videos Crafting 10 Basic Concepts Easily</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024ai8/"><u>2024年版最新無料AI画像修正ツールベスト8選</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-to-revolutionize-wearable-tech-with-cameras-in-future-airpods-by-2026-find-out-more-here/"><u>Apple to Revolutionize Wearable Tech with Cameras in Future AirPods by 2026? Find Out More Here</u></a></li>
+<li><a href="https://app-tips.techidaily.com/collaboration-between-sony-research-and-ai-singapore-targets-advancements-in-language-models/"><u>Collaboration Between Sony Research and AI Singapore Targets Advancements in Language Models</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-apple-product-support-manuals-specifications-and-repair-tips-centralized-on-zdnet/"><u>Comprehensive Apple Product Support: Manuals, Specifications & Repair Tips - Centralized on ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/corrective-measures-for-overcoming-a-faulty-cmos-checksum-error/"><u>Corrective Measures for Overcoming a Faulty CMOS Checksum Error</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/early-entry-into-apple-vision-pro-secure-your-spot-with-testflight-now-a-step-by-step-guide/"><u>Early Entry Into Apple Vision Pro: Secure Your Spot with TestFlight Now! – A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-to-correct-the-missing-msstdfmtdll-file-error/"><u>Expert Tips to Correct the Missing Msstdfmt.dll File Error</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-realme-note-50-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/introducing-apples-ultimate-leap-in-viewing-experience-the-vision-pro-a-game-changer-in-home-cinema-technology/"><u>Introducing Apple's Ultimate Leap in Viewing Experience - The 'Vision Pro': A Game-Changer in Home Cinema Technology</u></a></li>
+<li><a href="https://extra-information.techidaily.com/laughlens-pictorial-humor-studio/"><u>LaughLens Pictorial Humor Studio</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-between-macs-essential-tips-to-pick-your-ideal-laptop-macbook-air-or-macbook-pro-zdnet/"><u>Navigating Between Macs: Essential Tips to Pick Your Ideal Laptop - MacBook Air or MacBook Pro | ZDNet</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Honor Magic5 Ultimate? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionary-return-mophies-juice-pack-resurfaces-with-enhanced-features/"><u>Revolutionary Return: Mophie's Juice Pack Resurfaces with Enhanced Features!</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/cket-your-youtube-rankings-with-these-insider-moves/"><u>Skyrocket Your YouTube Rankings with These Insider Moves</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-productivity-apps-for-your-ipad-streamline-and-enhance-your-efficiency-with-the-latest-picks/"><u>Top-Rated Productivity Apps for Your iPad: Streamline & Enhance Your Efficiency with the Latest Picks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleashing-potential-with-ai-harnessing-the-power-of-chabtgpt-for-inspired-content-creation/"><u>Unleashing Potential with AI: Harnessing the Power of ChabtGPT for Inspired Content Creation</u></a></li>
 </ul></div>
 

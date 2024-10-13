@@ -1,7 +1,7 @@
 ---
 title: "Harness the Power of Craft on Your Mac: A Step-by-Step Tutorial for Optimal Document Handling - Insights From ZDNet"
-date: 2024-10-01T19:45:38.547Z
-updated: 2024-10-07T17:33:51.503Z
+date: 2024-10-07T13:51:14.968Z
+updated: 2024-10-13T03:43:18.692Z
 tags:
   - apple
 categories:
@@ -36,10 +36,10 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -63,10 +63,10 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -80,10 +80,16 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -134,16 +140,20 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-boosting-visuals-high-definition-on-twitter-vids/"><u>[New] 2024 Approved Boosting Visuals High-Definition on Twitter Vids</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-dynamic-background-adaptation-in-microsoft-teams-beforeafter-calls/"><u>[New] 2024 Approved Dynamic Background Adaptation in Microsoft Teams Before/After Calls</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-understanding-key-differences-in-panoramic-and-vr-cinematography/"><u>[New] Understanding Key Differences in Panoramic and VR Cinematography</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/discovering-excellence-top-cable-modem-picks-for-2eplus24/"><u>Discovering Excellence: Top Cable Modem Picks for 2E+24</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722901560469-samsungs-new-innovation-the-galaxy-z-fold-6-unveiled-discover-pricing-info-release-schedule-and-specifications-today/"><u>Samsung's New Innovation: The Galaxy Z Fold 6 Unveiled! Discover Pricing Info, Release Schedule and Specifications Today</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-updating-your-pcs-bios-on-windows-11/"><u>Step-by-Step Guide: Updating Your PC's BIOS on Windows 11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/steps-to-resolve-non-syncing-gmail-problems-on-your-device/"><u>Steps to Resolve Non-Syncing Gmail Problems on Your Device</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/tackling-tech-troubles-expert-tips-on-correcting-the-notorious-500-error-issue/"><u>Tackling Tech Troubles: Expert Tips on Correcting the Notorious 500 Error Issue</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-honor-v-purse-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Honor V Purse Phone Hassle-Free</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-8-no-cost-driver-update-utilities-latest-picks-august-2024/"><u>Top 8 No-Cost Driver Update Utilities - Latest Picks (August 2024)</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlock-enigmatic-worlds-with-iphoneipad-puzzle-games-reminiscent-of-the-room/"><u>Unlock Enigmatic Worlds with iPhone/iPad Puzzle Games Reminiscent of 'The Room'</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-from-concept-to-screen-channel-yt-for-pioneering-filmmaking-techniques/"><u>[New] From Concept to Screen Channel YT for Pioneering Filmmaking Techniques</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-10-innovative-desktopmobile-conferencing-tools/"><u>[New] In 2024, 10 Innovative Desktop/Mobile Conferencing Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/android-blackout-heres-how-to-restore-your-devices-visibility/"><u>Android Blackout? Here's How to Restore Your Device's Visibility</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-unlock-from-iphone-xs-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock From iPhone XS? How to Fix it?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-reveals-enhanced-airpods-with-cutting-edge-find-my-speaker-functionality-and-usb-c-connectivity-coverage/"><u>Apple Reveals Enhanced AirPods with Cutting-Edge Find My Speaker Functionality and USB-C Connectivity – Coverage</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/efficient-file-transfers-5-methods-for-pc-for-2024/"><u>Efficient File Transfers 5 Methods for PC for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-analysis-unveiling-the-power-of-apples-ipad-pro-a-formidable-contender-yet-not-a-laptop-replacement/"><u>Expert Analysis: Unveiling the Power of Apple’s IPad Pro – A Formidable Contender, Yet Not a Laptop Replacement</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/june-2024s-unbeatable-electronics-deals-discover-best-buy-steals-on-zdnet/"><u>June 2024'S Unbeatable Electronics Deals - Discover Best Buy Steals on ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/live-streaming-mastery-ultimate-guide-to-manycam-and-virtual-cam-tech/"><u>Live Streaming Mastery: Ultimate Guide to ManyCam and Virtual Cam Tech</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondlys-global-reach-touches-70-million-lifelong-learners/"><u>Mondly's Global Reach Touches 70 Million Lifelong Learners</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/t6-camera-breakdown-affordable-dslr-starter/"><u>T6 Camera Breakdown: Affordable DSLR Starter</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-lgbtqplus-entertainment-on-netflix-for-july-2024/"><u>The Ultimate Guide to LGBTQ+ Entertainment on Netflix for July 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-5-recommended-apple-watch-sleep-tracking-apps/"><u>Top 5 Recommended Apple Watch Sleep Tracking Apps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-mac-maintenance-software-of-2022-the-ultimate-list-of-tools-for-peak-performance/"><u>Top Rated Mac Maintenance Software of 2022: The Ultimate List of Tools for Peak Performance</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-timeline-all-you-need-to-know-about-new-airpods-launch-and-pre-order-info-exclusive/"><u>Unveiling Timeline: All You Need To Know About New AirPods Launch & Pre-Order Info Exclusive</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "DIY Guide: Constructing a Homemade Camera Obscura to Safely Enjoy the Next Solar Eclipse | ZDNET"
-date: 2024-09-17 17:13:45
-updated: 2024-09-20 10:41:42
+date: 2024-10-07T22:49:18.392Z
+updated: 2024-10-13T00:46:04.596Z
 tags:
   - yard-outdoors
 categories:
@@ -170,6 +170,13 @@ My pick for the best electric leaf blower is the Kobalt 40V Max cordless model. 
 | Milwaukee M18 Fuel cordless | $319      | 120 mph / 450cfm       | 20 minutes   |
 | Ryobi 40V Whisper           | $329      | 190 mph / 730cfm       | 20 minutes   |
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Which is the right electric leaf blower for you?
 
 When shopping for an electric leaf blower, you want to choose a model that offers a balance of battery life, air speed, and air volume. If you have a larger yard or lots of outdoor entertainment space, you'll want a model with a long run-time, high air volume, and high air speed to handle both dry and wet debris. If you only need to clear your walkways occasionally or have a small yard, a less powerful model will suit your needs.
@@ -182,9 +189,23 @@ When shopping for an electric leaf blower, you want to choose a model that offer
 | Milwaukee M18 Fuel 450cfm                    | A high-end electric leaf blower                          |
 | Ryobi 40V Whisper 730cfm                     | A powerful electric leaf blower for endless leaves       |
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How did we choose these electric leaf blowers?
 
 When analyzing options, I chose battery-powered electric leaf blowers for their power and ease of use. Battery-powered leaf blowers are safer to use than models that require an extension cord, especially if you have a large yard where unwieldy electrical cables could get damaged. I also chose both budget-friendly and high-end models that suit different climates and types of debris.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is an electric leaf blower worth it?
 
@@ -199,6 +220,13 @@ Both factors are equally important. Decent wind speed and air volume are both ne
 Unfortunately, no. But electric leaf blowers have come a long way since they first hit the market, with most brands offering models just as powerful as gas models. 
 
 Also, battery-powered electric leaf blowers have more power than models that require extension cords, since they have brushless motors for efficient power consumption and operation. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Are there alternative electric leaf blowers worth considering?
 
@@ -231,11 +259,28 @@ If you're in the market for an electric leaf blower, there are tons of models to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-leveraging-regular-content-posts-for-enhanced-youtube-traffic/"><u>[Updated] 2024 Approved Leveraging Regular Content Posts for Enhanced YouTube Traffic</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-rhythm-and-reels-for-music-masters-on-ig/"><u>[Updated] 2024 Approved Rhythm & Reels for Music Masters on IG</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/claiming-your-share-from-apples-massive-25-million-legal-settlement-for-family-plans-digital-insights-blog/"><u>Claiming Your Share From Apple’s Massive $25 Million Legal Settlement for Family Plans | Digital Insights Blog</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/enhancing-slideshow-impact-with-webcam-integration-for-2024/"><u>Enhancing Slideshow Impact with Webcam Integration for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/experience-effortless-charging-on-the-go-with-our-top-pick-for-a-favorite-magsafe-charger-qi2-support-s-expert-review/"><u>Experience Effortless Charging on The Go With Our Top Pick for a Favorite MagSafe Charger (QI2 Support) 'S Expert Review!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-apples-on-device-ai-system-realm-triumphantly-beats-gpt-4-tech-insights-by-zdnet/"><u>How Apple's On-Device AI System ReaLM Triumphantly Beats GPT-4 - Tech Insights by ZDNET</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-life360-from-tracking-you-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Vivo Y78t? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-on-your-iphone-11-pro-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID On your iPhone 11 Pro without Security Questions?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/precise-approach-to-blend-gopro-videos-with-surrounding-virtual-landscapes/"><u>Precise Approach to Blend GoPro Videos with Surrounding Virtual Landscapes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/snag-apple-airtags-on-sale-save-24-on-a-4-pack-during-the-walmart-labor-day-discount-event-tech-news/"><u>Snag Apple AirTags on Sale - Save $24 on a 4-Pack During the Walmart Labor Day Discount Event | Tech News</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/softening-sonic-surge-gradual-volume-reduction-tutorial/"><u>Softening Sonic Surge Gradual Volume Reduction Tutorial</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/surprise-hit-discover-the-most-compatible-and-affordable-magsafe-wallet-thats-not-from-apple-or-anker-limited-time-offer-exclusive-to-zdnet-readers/"><u>Surprise Hit: Discover the Most Compatible and Affordable MagSafe Wallet That's Not From Apple or Anker – Limited Time Offer Exclusive to ZDNET Readers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-6-persuasive-benefits-of-owning-an-apple-watch-insights-from-a-leading-wearable-tech-analyst-zdnet/"><u>Top 6 Persuasive Benefits of Owning an Apple Watch: Insights From a Leading Wearable Tech Analyst | ZDNet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-creativity-8-powerful-dall-e-3-text-prompts-to-generate-astonishing-images/"><u>Unlock Creativity: 8 Powerful DALL-E 3 Text Prompts to Generate Astonishing Images</u></a></li>
+</ul></div>
+

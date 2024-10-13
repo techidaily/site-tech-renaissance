@@ -1,7 +1,7 @@
 ---
 title: "Navigating Pre-Orders: Essential Queries for Potential Apple Vision Pro Buyers Explored"
-date: 2024-10-05T16:19:42.327Z
-updated: 2024-10-07T17:30:04.905Z
+date: 2024-10-10T23:04:01.214Z
+updated: 2024-10-13T01:42:57.897Z
 tags:
   - apple
 categories:
@@ -52,10 +52,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Goldman Sachs's consumer business: A lot to swallow
@@ -68,10 +74,10 @@ Goldman Sachs' consumer business, a complex portfolio valued at about $106.7 bil
 * **GreenSky:** A $2.2 billion merchant lending platform, expanding Goldman's footprint in point-of-sale financing.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The potential acquisition scenarios
@@ -79,6 +85,13 @@ Goldman Sachs' consumer business, a complex portfolio valued at about $106.7 bil
 * **Complete portfolio acquisition:** This scenario would involve a financial giant like Chase or Bank of America acquiring the entire portfolio, leveraging their extensive consumer banking operations.
 * **Piecemeal acquisition:** Various segments of Goldman's business could appeal to different players, such as regional banks, fintech companies, or specialized credit card issuers.
 * **Tokenization technology:** This is a critical aspect, especially for the Apple Card segment. With strong digital banking capabilities, potential partners like Chase or Citi may be better equipped to integrate or replicate this technology.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The potential new partners
 
@@ -89,13 +102,6 @@ Goldman Sachs' consumer business, a complex portfolio valued at about $106.7 bil
 * **Bank of America:** Its $480.6 billion in assets and significant technological investments position it as a strong contender for managing the Apple Card and integrating Goldman's broader consumer business. However, it would require extensive strategic planning.
 * **Synchrony Financial:** Per the [Wall Street Journal](https://www.wsj.com/finance/banking/apple-pulls-plug-on-goldman-credit-card-partnership-ca1dfb45?mod=djemalertNEWS), the financial services company has expressed interest in taking over Apple Card. Synchrony, [the largest issuer of store credit cards in the US](https://upgradedpoints.com/credit-cards/synchrony-bank-store-credit-cards/), lends to a broad category of consumers, including those with bad credit. The company vied against Goldman during the inception of the Apple credit card program but lost during the bidding process. I tend to feel that Synchrony is a wildcard compared with the giants above, as implementing the technology that Apple Card needs will be a significant challenge.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Customer expectations will remain high
 
 The transition will have significant implications for Apple Card users. Maintaining the card's security, functionality, and user trust is crucial. Apple Card customers are used to excellent tech support and issue resolution, [something that I personally have experienced, especially during the worst of COVID-19 pandemic](https://www.zdnet.com/article/why-i-love-apple-card-in-the-age-of-covid/). Whoever takes over the banking relationship must also provide the [same great backend for Apple's UX in Wallet](https://www.zdnet.com/article/insanely-great-apple-card-is-a-few-features-away-from-conquering-everything/) and great phone support.
@@ -103,10 +109,10 @@ The transition will have significant implications for Apple Card users. Maintain
 Still, I do not expect there to be many real concerns on the part of Apple's customers. Apple is not the sort of company to leave its customers high and dry or to burden them with a shift that would give them less functionality or alter the product's ease of use for the worse. If anything, I expect the situation to improve, such as making it easier for people to apply and get approved -- [an issue that the service has dealt with while under Goldman's stewardship.](https://www.zdnet.com/article/apple-card-issuer-investigated-over-gender-bias-in-credit-algorithm/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## It won't be easy for Apple Card's new partner
@@ -151,19 +157,24 @@ The decision to acquire parts or all of Goldman Sachs' consumer business, includ
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://techtrends.techidaily.com/easy-steps-to-project-your-windows-computer-display-onto-a-television-via-chromecast/"><u>Easy Steps to Project Your Windows Computer Display Onto a Television via Chromecast</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/elden-ring-wont-start-here-are-fixes-for-your-consoles-black-screen-dilemma/"><u>Elden Ring Won't Start? Here Are Fixes for Your Console's Black Screen Dilemma!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/free-viewing-options-the-leading-sports-streaming-services-of-2024-unveiled/"><u>Free Viewing Options: The Leading Sports Streaming Services of 2024 Unveiled</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-use-special-features-virtual-location-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Xiaomi Redmi Note 12 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastering-telegram-a-step-by-step-walkthrough-for-2024/"><u>Mastering Telegram A Step-By-Step Walkthrough for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/mysteries-of-ufos-through-aminys-lens/"><u>Mysteries of UFOs Through Aminy’s Lens</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/pinnacle-plots-and-dialogues-for-radios/"><u>Pinnacle Plots & Dialogues for Radios</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/preserving-digital-footprints-your-complete-guide-to-the-wayback-machine/"><u>Preserving Digital Footprints: Your Complete Guide to the Wayback Machine</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/scopri-i-migliori-convertitori-video-gratuiti-4k-per-pcmac-guida-sugli-editor-di-livello-superiore-che-consentono-il-passaggio-tra-risoluzioni-da-1080p-a-4k19/"><u>Scopri I Migliori Convertitori Video Gratuiti 4K per PC/Mac: Guida Sugli Editor Di Livello Superiore Che Consentono Il Passaggio Tra Risoluzioni Da 1080P a 4K</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/speed-up-your-creative-workflow-with-fast-wacom-driver-download/"><u>Speed-Up Your Creative Workflow with Fast Wacom Driver Download</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-fixes-for-iphone-remote-application-errors-and-bugs/"><u>Step-by-Step Fixes for iPhone Remote Application Errors and Bugs</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/trasforma-file-acc-in-formato-vob-online-e-gratuitamente-con-movavi/"><u>Trasforma File ACC in Formato VOB Online E Gratuitamente Con Movavi</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-hulus-error-code-rununk13-for-smooth-viewing-experience/"><u>Troubleshooting Hulu's Error Code RUNUNK13 for Smooth Viewing Experience</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-steps-to-thoroughly-clean-your-mechanical-keyboard/"><u>Ultimate Guide: Steps to Thoroughly Clean Your Mechanical Keyboard</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-jolly-jingles-list-of-laugh-out-loud-short-video-suggestions/"><u>[New] 2024 Approved Jolly Jingles List of Laugh Out Loud, Short Video Suggestions</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ain-1000-followers-on-youtube-with-agile-strategies-for-2024/"><u>[New] Gain 1,000 Followers on YouTube with Agile Strategies for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-seek-out-stimulating-youtube-snippets/"><u>[Updated] 2024 Approved Seek Out Stimulating YouTube Snippets</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-navigating-freezing-of-fb-video-ads/"><u>[Updated] In 2024, Navigating Freezing of FB Video Ads</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-premium-video-experience-best-tools-to-upgrade-your-downloads/"><u>2024 Approved Premium Video Experience Best Tools to Upgrade Your Downloads</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/2024s-elite-list-of-smartwatches-in-depth-analysis-and-ratings-zdnet/"><u>2024'S Elite List of Smartwatches: In-Depth Analysis and Ratings | ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/add-your-ca-drivers-license-to-digital-wallets-easy-instructions-for-apple-and-google-users-insights/"><u>Add Your CA Driver’s License to Digital Wallets: Easy Instructions for Apple and Google Users Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-troubleshooting-steps-to-overcome-wireless-apadapter-errors/"><u>Essential Troubleshooting Steps to Overcome Wireless AP/Adapter Errors</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/important-questions-answered-is-chatgpt-suitable-for-your-mental-health-needs/"><u>Important Questions Answered: Is ChatGPT Suitable for Your Mental Health Needs?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ipad-pro-versus-macbook-air-determining-the-ideal-device-for-your-needs-insights-by-zdnet/"><u>IPad Pro versus MacBook Air: Determining the Ideal Device for Your Needs - Insights by ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/iphone-16-pro-vs-iphone/"><u>IPhone 16 Pro vs iPhone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/labor-day-special-save-24-on-apples-airtag-4-pack-exclusive-offer-at-walmart-shop-now/"><u>Labor Day Special: Save $24 on Apple's AirTag 4-Pack Exclusive Offer at Walmart - Shop Now!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/prime-aviation-gadgets-purchase-now-for-2024/"><u>Prime Aviation Gadgets, Purchase Now for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-ultimate-collection-of-robin-williams-greatest-films-comprehensive-viewing-guide-and-dvd-copies/"><u>The Ultimate Collection of Robin Williams' Greatest Films - Comprehensive Viewing Guide & DVD Copies</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-oneplus-nord-ce-3-lite-5g-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on OnePlus Nord CE 3 Lite 5G Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-magsafe-chargers-and-batteries-comprehensive-reviews-by-tech-experts/"><u>Top-Rated MagSafe Chargers & Batteries : Comprehensive Reviews by Tech Experts</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-vivo-s17-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Vivo S17 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-new-worlds-the-top-5-free-language-acquisition-apps-of-2024/"><u>Unlocking New Worlds: The Top 5 Free Language Acquisition Apps of 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-top-3-exciting-iphone-16-enhancements-that-make-an-immediate-upgrade-worth-it-insights/"><u>Unveiling the Top 3 Exciting iPhone 16 Enhancements That Make an Immediate Upgrade Worth It: Insights</u></a></li>
 </ul></div>
 

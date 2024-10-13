@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide to Choosing Durable iPhones 12 and 12 Pro Cases in 202N: Expert Reviews & Ratings"
-date: 2024-10-03T18:56:52.598Z
-updated: 2024-10-07T18:12:06.866Z
+date: 2024-10-12T09:13:51.405Z
+updated: 2024-10-13T04:26:45.644Z
 tags:
   - apple
 categories:
@@ -46,6 +46,19 @@ Cons
 
 ## Pela case
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Best iPhone 12 case overall
 
 Pela cases are made of Flaxstic, a plastic alternative made of flax straw that's non-toxic and free of phthalates, BPA, cadmium, and lead. The material is soft to the touch, flexible, and able to survive a 20-foot drop test. That means Pela cases are both shock-absorbing and biodegradable. And when you no longer need it, you can send it back to Pela. The company will turn it into a new product or compost it to promote a circular economy. The case is also packaged in recycled paper material (no plastic!).
@@ -65,6 +78,13 @@ Pros
 
 Cons 
 * Pricier
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Apple Silicone Case with MagSafe
 
@@ -93,10 +113,10 @@ Cons
 * Clear design may yellow
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bodyguardz Ace Pro
@@ -147,19 +167,6 @@ Pros
 Cons 
 * May still yellow over time
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ESR Air Armor
 
 ### Best clear iPhone 12 case
@@ -187,10 +194,10 @@ Cons
 * Price varies
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Incipio Organicore
@@ -215,6 +222,13 @@ Pros
 
 Cons 
 * May show scratches easily
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Nomad Rugged case
 
@@ -241,13 +255,6 @@ Pros
 Cons 
 * Fingerprints may show up easily
 * Colors may not be vibrant against a darker color phone
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Speck Presidio Edition
 
@@ -302,13 +309,6 @@ The best iPhone 12 case is the Pela case, chosen for its environmental safety, d
 | Speck Products Presidio Edition  | $23       | 13 feet             |
 | Totallee case                    | $19       | Unspecified         |
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Which iPhone case is right for you?
 
 Each case on this list has unique pros and cons. One case might be a better choice for you, depending on the features you can't live without. 
@@ -325,6 +325,13 @@ Each case on this list has unique pros and cons. One case might be a better choi
 | Speck Products Presidio Edition   | The best slim iPhone 12 case                                                          |
 | Totallee case                     | The best ultra thin case that protects your phone and camera from nicks and scratches |
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What should I look for in an iPhone case?
 
 If you've invested in a top-notch smartphone like an iPhone 12 or 12 Pro, you'll likely want to protect it. There are many features you can look for, but I consider protection, size, style, and features the most important:
@@ -333,13 +340,6 @@ If you've invested in a top-notch smartphone like an iPhone 12 or 12 Pro, you'll
 * **Size:** Some iPhone users prefer maintaining the slim contours of their phones, while others don't mind sacrificing slimness for added protection. On the sliding scale of slim to extremely bulky, where does your ideal case fall?
 * **Style:** Custom cases, like Casetify cases, emphasize personalization, while cases made of leather or compostable materials emphasize lifestyle choices or texture preferences. Your phone case can be a reflection of you and your values. Make sure to choose a case that feels good and looks good -- chances are, you'll be looking at it a lot.
 * **Features:** The cases on this list come with a number of added features, including antimicrobial protection and MagSafe compatibility.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Does wireless charging work with a case?
 
@@ -350,22 +350,15 @@ Wireless charging does work with phone cases. Almost all of the cases on this li
 The Pela case is my favorite because it combines drop protection with environmental friendliness and durability. The flax-based material is unique and 100% compostable -- and the case protects your phone from drops of up to 20 feet. It comes in a variety of colors and ships free to the United States and Canada in plastic-free packaging. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is OtterBox good for iPhone 12?
 
 Yes. OtterBox cases are durable, and I added an OtterBox option to my list of favorite alternatives. Some OtterBox lines are made with partially recycled materials. You can also alter the bulkiness of your OtterBox, depending on how much protection you need.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What is the safest case for iPhone 12 Pro?
 
@@ -374,6 +367,13 @@ The Pela case is made out of non-toxic materials and has been tested for safety.
 ## Do you need a case for iPhone 12?
 
 Apple markets the iPhone 12 as durable enough to handle tough use. However, if you want to avoid scratches and cracks, you need a case. The iPhone is slick, which means it's easy to drop. You can survive without a case, but if you want to keep your iPhone in the best shape possible, you should go with a case.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Are there alternative iPhone 12 cases worth considering?
 
@@ -415,18 +415,19 @@ Of course. Here are a few options to consider.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-whispers-from-the-past-secrets-unveiled-in-age-old-texts/"><u>[New] Whispers From the Past Secrets Unveiled in Age-Old Texts</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-step-by-step-guide-to-producing-quality-mobile-videos/"><u>[Updated] 2024 Approved Step-by-Step Guide to Producing Quality Mobile Videos</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-comprehensive-kinetics-study-2023/"><u>[Updated] Comprehensive Kinetics Study 2023</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-essential-guide-to-recording-gotomeet-sessions/"><u>[Updated] In 2024, Essential Guide to Recording GoToMeet Sessions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/bard-emerges-googles-latest-ai-to-rival-chatgpt/"><u>Bard Emerges: Google's Latest AI to Rival ChatGPT</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/convert-mov-files-into-3gp-format-for-free-on-movavi-web-platform/"><u>Convert MOV Files Into 3GP Format for Free on Movavi Web Platform</u></a></li>
-<li><a href="https://facebook.techidaily.com/cryptocurrencys-ascendancy-in-social-media-marketing/"><u>Cryptocurrency's Ascendancy in Social Media Marketing</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/electric-vs-gasoline-how-evs-take-the-lead-in-performance-and-sustainability/"><u>Electric Vs. Gasoline: How EVs Take the Lead in Performance and Sustainability</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fixing-the-not-found-error-for-python2edll-on-your-computer-easily/"><u>Fixing the Not Found Error for Python2e.dll on Your Computer Easily</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/header-tags-and-content-structure-break-content-into-sections-using-header-tags-from-h1-to-h6-the-main-title-should-include-your-primary-keyword-while-subhe72/"><u>Header Tags and Content Structure: Break Content Into Sections Using Header Tags From H1 to H6. The Main Title Should Include Your Primary Keyword, While Subheadings Can Incorporate Secondary Keywords or Long Tail Terms.</u></a></li>
-<li><a href="https://fox-access.techidaily.com/innovating-visual-content-mastery-of-windows-11-editing-tools-for-2024/"><u>Innovating Visual Content Mastery of Windows 11 Editing Tools for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/instagram-insights-who-gave-likes-and-left-comments-on-your-posts/"><u>Instagram Insights: Who Gave Likes and Left Comments on Your Posts?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-fix-for-msodll-file-unavailability-in-windows/"><u>The Ultimate Fix for 'mso.dll' File Unavailability in Windows</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-facebook-media-optimization-for-television-use/"><u>[New] Facebook Media Optimization for Television Use</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-mcb-channel-theme-images-and-templates/"><u>[New] MCB Channel Theme Images and Templates</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-motion-magic-quick-photography-tricks-for-samsung-users/"><u>[New] Motion Magic Quick Photography Tricks for Samsung Users</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-effective-strategies-for-twitter-marketing/"><u>[Updated] In 2024, Effective Strategies for Twitter Marketing</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-swift-and-simple-acquiring-itunes-radio-episodes/"><u>[Updated] In 2024, Swift and Simple Acquiring iTunes Radio Episodes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1-seamless-transition-expert-advice-on-migrating-to-your-new-iphone-with-ease-insights-from-zdnet/"><u>1. Seamless Transition: Expert Advice on Migrating to Your New iPhone with Ease - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/2024s-elite-range-of-suspended-audio-systems/"><u>2024'S Elite Range of Suspended Audio Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/email-retrieval-explained-tactics-for-recovering-forgotten-addresses/"><u>Email Retrieval Explained: Tactics for Recovering Forgotten Addresses</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-vivo-y77t-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Vivo Y77t and Browser | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/score-an-ipad-9th-gen-for-only-250-post-apple-event-exclusive-offer-featured-in-zdnets-latest-update/"><u>Score an iPad (9Th Gen) for Only $250 Post-Apple Event - Exclusive Offer Featured in ZDNET's Latest Update</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-essentials-of-net-neutrality-unveiled/"><u>The Essentials of Net Neutrality Unveiled</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-the-dts-play-fi-audio-experience/"><u>Understanding the DTS Play-Fi Audio Experience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unifying-individual-jpeg-pictures-into-one-convenient-pdf-document-tips-and-tricks/"><u>Unifying Individual JPEG Pictures Into One Convenient PDF Document - Tips & Tricks</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-now-canon-pixma-ts3322-printer-software-and-drivers-available-for-free/"><u>Update Now: Canon PIXMA TS3322 Printer Software & Drivers Available for Free</u></a></li>
 </ul></div>
 

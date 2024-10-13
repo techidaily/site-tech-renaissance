@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Strategies: Harness the Power of Copilot on Microsoft Teams"
-date: 2024-09-18T03:56:14.172Z
-updated: 2024-09-20T22:04:32.686Z
+date: 2024-10-09T06:41:55.190Z
+updated: 2024-10-13T05:03:43.786Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Strategies: Harness the Power of Copilot on Microsoft Teams"
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/20c69587162d153f03eefa64dab5fb5356740a9d4
 3. Scroll to the bottom of the page and select **Save Changes** .  
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Create, Send, and Forward Email
 
  With Gmail[keyboard](https://www.lifewire.com/what-is-a-keyboard-2618153) shortcuts, you can quickly create, send, and forward Gmail messages:
@@ -48,13 +55,6 @@ thumbnail: https://thmb.techidaily.com/20c69587162d153f03eefa64dab5fb5356740a9d4
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Scroll Through Emails
 
  These shortcuts are handy for navigating through your messages and long email threads:
@@ -62,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/20c69587162d153f03eefa64dab5fb5356740a9d4
 * **Scroll down an email list (J)** : Press the**J** key to scroll down.
 * **Scroll up an email list (K)** : Press the**K** key to scroll up.
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Select Multiple Emails
 
@@ -80,13 +87,6 @@ thumbnail: https://thmb.techidaily.com/20c69587162d153f03eefa64dab5fb5356740a9d4
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Add Elements to an Email
 
  Addling links, numbered lists, and bullet points to your emails can also be done using keyboard shortcuts:
@@ -96,6 +96,13 @@ thumbnail: https://thmb.techidaily.com/20c69587162d153f03eefa64dab5fb5356740a9d4
 * **Insert bullet points (Ctrl** +**Shift** +**8)** : Insert the cursor where you want the bullet list to appear, then press**Ctrl** +**Shift** +**8** .
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Email Maintenance Shortcuts
 
@@ -128,10 +135,10 @@ thumbnail: https://thmb.techidaily.com/20c69587162d153f03eefa64dab5fb5356740a9d4
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Was this page helpful?
@@ -161,5 +168,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-beyond-boundaries-top-10-titles-without-gta-roots-for-2024/"><u>[Updated] Beyond Boundaries Top 10 Titles Without GTA Roots for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-comprehensive-guide-to-integrating-skype-with-obs/"><u>2024 Approved Comprehensive Guide to Integrating Skype with OBS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/audiophiles-guide-distinguishing-features-of-ht-vs-sr-amplifiers/"><u>Audiophile's Guide: Distinguishing Features of HT Vs. SR Amplifiers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/crafting-the-perfect-efficacy-potion-a-step-by-step-guide-in-minecraft/"><u>Crafting the Perfect Efficacy Potion: A Step-by-Step Guide in Minecraft</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-this-why-are-your-iphone-calls-and-sms-silent-in-do-not-disturb-mode-answer-with-8-fixes/"><u>Fix This! Why Are Your iPhone Calls and SMS Silent in Do Not Disturb Mode? (Answer with 8 Fixes)</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-on-your-apple-iphone-7-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock on your Apple iPhone 7 and iPad</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-11-pro-to-android-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 11 Pro To Android? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-vivo-v30-lite-5g-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Vivo V30 Lite 5G Device</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-free-from-watermarks-7-reliable-video-merger-solutions/"><u>New In 2024, Free From Watermarks 7 Reliable Video Merger Solutions</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-online-video-creation-made-easy-with-wevideo/"><u>New Online Video Creation Made Easy with WeVideo</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionizing-connectivity-get-insight-into-samsungs-fresh-phone-collection/"><u>Revolutionizing Connectivity: Get Insight Into Samsung's Fresh Phone Collection</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/scala-il-tuo-video-avi-per-una-risoluzione-e-qualita-superiore-con-avi-video-resizer/"><u>Scala Il Tuo Video AVI per Una Risoluzione E Qualità Superiore Con AVI Video Resizer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-list-of-safest-email-solutions-ranked/"><u>The Ultimate List of Safest Email Solutions - Ranked</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-a-missing-page-404-error-a-comprehensive-guide/"><u>Troubleshooting a Missing Page (404 Error): A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/twitch-outage-determining-if-the-service-is-down-or-user-specific/"><u>Twitch Outage: Determining If The Service Is Down or User-Specific</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-and-controlling-macbook-overheating-a-comprehensive-guide-to-internal-temperatures/"><u>Understanding and Controlling MacBook Overheating: A Comprehensive Guide to Internal Temperatures</u></a></li>
+</ul></div>
 

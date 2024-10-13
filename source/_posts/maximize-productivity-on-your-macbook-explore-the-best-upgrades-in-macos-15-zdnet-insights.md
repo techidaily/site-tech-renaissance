@@ -1,7 +1,7 @@
 ---
 title: "Maximize Productivity on Your MacBook: Explore the Best Upgrades in MacOS 15 | ZDNET Insights"
-date: 2024-10-02T19:06:37.607Z
-updated: 2024-10-07T19:30:43.211Z
+date: 2024-10-11T20:44:07.860Z
+updated: 2024-10-13T09:50:24.772Z
 tags:
   - apple
 categories:
@@ -28,15 +28,28 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 
 ## Create a custom Focus
 
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
@@ -47,6 +60,13 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 
 Image: Jack Wallen
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Open the Focus tab
 
 Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
@@ -54,13 +74,6 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 **Figure 2:** You'll find a single pre-configured Focus for Do Not Disturb already available.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
 
@@ -79,10 +92,10 @@ Image: Jack Wallen
 After naming and selecting a color/icon, click Add to save the new Focus.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Allowing specific notifications
@@ -98,19 +111,6 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 **Figure 6:** Adding contacts to a Focus in macOS Monterey.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
 
@@ -154,22 +154,20 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-easy-setup-routines-to-preserve-gotomeeting-discussions-for-2024/"><u>[New] Easy Setup Routines to Preserve GoToMeeting Discussions for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-boosting-your-short-form-video-content-on-youtube/"><u>[Updated] 2024 Approved Boosting Your Short-Form Video Content on Youtube</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-delving-into-how-t-series-earnings-work-on-youtube/"><u>[Updated] 2024 Approved Delving Into How T-Series Earnings Work on Youtube</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-twitters-guide-posting-tiktok-videos/"><u>[Updated] In 2024, Twitter's Guide Posting TikTok Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-new-frontier-a-comparative-study-on-tiktok-and-triller/"><u>2024 Approved Exploring the New Frontier A Comparative Study on TikTok & Triller</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722880289319-ac1st16dll-error-heres-how-you-can-fix-it/"><u>ac1st16.dll Error? Here's How You Can Fix It</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/all-about-sonys-upcoming-afeela-model-price-predictions-and-speculations-revealed/"><u>All About Sony's Upcoming Afeela Model – Price Predictions and Speculations Revealed</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/common-fixes-for-when-your-apple-watch-fails-to-track-activity/"><u>Common Fixes for When Your Apple Watch Fails to Track Activity</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comparing-iphone-15-pro-max-and-samsung-galaxy-s24-ultra-unveiling-key-distinctions/"><u>Comparing iPhone 15 Pro Max and Samsung Galaxy S24 Ultra: Unveiling Key Distinctions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722846618614-embark-on-epic-adventures-meet-your-new-favorite-twitter-travel-gurus-for-exceptional-deals-and-advice/"><u>Embark on Epic Adventures: Meet Your New Favorite Twitter Travel Gurus for Exceptional Deals & Advice</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-that-frustrating-frame-rate-drop-in-overwatch-instantly/"><u>Fix That Frustrating Frame-Rate Drop in Overwatch, Instantly</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Infinix Zero 30 5G | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/language-mastery-made-easy-netflix-series-dark/"><u>Language Mastery Made Easy: Netflix Series 'Dark'</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-your-audio-experience-with-effective-bass-management-techniques/"><u>Mastering Your Audio Experience with Effective Bass Management Techniques</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/netflix-downloads-made-simple-a-comprehensive-guide-for-viewing-movies-offline-on-desktop-computers/"><u>Netflix Downloads Made Simple: A Comprehensive Guide for Viewing Movies Offline on Desktop Computers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-years-best-unveiling-the-top-10-notetaking-apps-of-2n4/"><u>The Year's Best: Unveiling the Top 10 Notetaking Apps of 2N4</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-66-twitter-accounts-for-savvy-travelers-insider-tips-and-exciting-journeys/"><u>Top 66 Twitter Accounts for Savvy Travelers - Insider Tips and Exciting Journeys</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-top-5-high-quality-online-meeting-capture-devices/"><u>[New] 2024 Approved Top 5 High-Quality Online Meeting Capture Devices</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-your-ultimate-guide-to-top-5-ios-tools-for-extracting-facebook-videos/"><u>[New] In 2024, Your Ultimate Guide to Top 5 iOS Tools for Extracting Facebook Videos</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-premier-alternatives-to-youtubes-top-5-video-editors/"><u>[Updated] Premier Alternatives to YouTube's Top 5 Video Editors</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/299-apple-ipad-10th-generation-now-available-after-prime-day-sale-exclusive-deal-coverage-at-zdnet/"><u>$299 Apple iPad 10Th Generation Now Available After Prime Day Sale – Exclusive Deal Coverage at ZDNet</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/webmmov-movavi/"><u>將WEBM格式自網上快速轉換成MOV影片 - Movavi最佳工具選擇</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/find-out-which-colleagues-viewed-your-google-documents-with-these-tips/"><u>Find Out Which Colleagues Viewed Your Google Documents with These Tips</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-lava-blaze-2-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Lava Blaze 2 Pattern Lock Screen</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-optimize-your-viewing-a-guide-to-high-definition-cricket-live-streaming/"><u>How to Optimize Your Viewing A Guide to High-Definition Cricket Live Streaming</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-g54-5g-phone-without-google-account-by-drfone-android/"><u>How to Unlock Motorola G54 5G Phone without Google Account?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-redmi-note-12t-profrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi Redmi Note 12T ProFRP Lock</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-the-basics-of-samsung-soundbar-factory-resets-with-this-guide/"><u>Master the Basics of Samsung Soundbar Factory Resets with This Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/picsart-app-analysis-and-tutorial-for-its-latest-release-for-2024/"><u>PicsArt App Analysis & Tutorial for Its Latest Release for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-10-cutting-edge-technology-presents-featured/"><u>Top 10 Cutting-Edge Technology Presents - Featured</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-5-essential-airpods-pro-accessories-to-upgrade-your-audio-experience-zdnet/"><u>Top 5 Essential AirPods Pro Accessories to Upgrade Your Audio Experience - ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-fresh-upgrades-a-closer-look-at-the-4-most-impressive-new-specs-for-apples-airpods/"><u>Unveiling Fresh Upgrades: A Closer Look at the 4 Most Impressive New Specs for Apple's AirPods</u></a></li>
 </ul></div>
 

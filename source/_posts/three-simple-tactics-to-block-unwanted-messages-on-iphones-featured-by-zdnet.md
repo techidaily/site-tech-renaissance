@@ -1,7 +1,7 @@
 ---
 title: Three Simple Tactics to Block Unwanted Messages on iPhones, Featured by ZDNet
-date: 2024-10-04T20:16:46.209Z
-updated: 2024-10-07T17:11:27.191Z
+date: 2024-10-12T08:36:05.661Z
+updated: 2024-10-13T04:53:03.943Z
 tags:
   - apple
 categories:
@@ -61,10 +61,10 @@ The camera system has also been upgraded on the Pro line, featuring a new 48MP F
 The iPhone 16 Pro and iPhone 16 Pro Max are available for preorder on September 13 at $999 and $1,099 respectively, starting at 128GB of storage. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Apple Watch Series 10
@@ -88,16 +88,10 @@ Alongside the Watch Series 10, Apple announced a new satin black finish for its 
 Apple also launched an array of new watch bands, including new offerings from Hermes and Nike Sport Loop. 
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. AirPods 4
@@ -125,10 +119,10 @@ Lastly, Apple announced new hearing health features for AirPods Pro 2 coming thi
 These features will be available in the fall for AirPods Pro 2 via the software update when paired with an iPhone running on iOS 18 or iPad running on iPadOS 18\. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Apple Intelligence updates
@@ -146,10 +140,10 @@ The biggest highlight was the launch of Visual Intelligence, Apple's answer to G
 Users who purchase a device from the new iPhone 16 lineup will be able to access Visual Intelligence from the new Camera Control option "later this year," according to Apple, though the company did not clarify an exact launch date. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Everything to know about iOS 18
@@ -198,24 +192,15 @@ ZDNET is at Apple headquarters in Cupertino now, so stay tuned for the latest ne
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-capture-clarity-at-no-cost-top-screen-recorder-for-windows-and-macos/"><u>[New] 2024 Approved Capture Clarity at No Cost - Top Screen Recorder for Windows & MacOS</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/iscovering-clarity-in-your-craft-our-choice-of-top-12-vlogging-cameras/"><u>[New] Discovering Clarity in Your Craft Our Choice of Top 12 Vlogging Cameras</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-essential-call-customization-applications-ranked/"><u>[New] Essential Call Customization Applications Ranked</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-a-comprehensive-list-of-top-video-making-software-iphone-android/"><u>[New] In 2024, A Comprehensive List of Top Video-Making Software (iPhone, Android)</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-essential-youtube-strategies-compiling-10-basic-yet-engaging-ideas-for-everyone-for-2024/"><u>[Updated] Essential YouTube Strategies Compiling 10 Basic Yet Engaging Ideas for Everyone for 2024</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/iuoajoodhplusocuoocvplusodqplusodleocqeodvoodoos9noaikoobruwwgumwgowutuodquocueodidrkv53pmbrjgrvjgqjgrjg7zjgplkuk3lv4pjgajjgzfjgzjg4hjgqfjg4pjgqjg6rjgrnjg4j1/"><u>「デジタルフォーム作成の専門家リスト:保険セクターを中心としたチェックリストガイド」</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/apple-iphone-xr-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>Apple iPhone XR Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-change-your-iphone-6-apple-id-on-macbook-by-drfone-ios/"><u>How To Change Your iPhone 6 Apple ID on MacBook</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-easily-link-samsung-wired-earbuds-to-a-desktop-pc/"><u>How To Easily Link Samsung Wired Earbuds to a Desktop PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-restart-an-iphone-15/"><u>How to Restart an iPhone 15</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/sneak-peek-into-2025-exclusive-insights-on-upcoming-gadgets-at-the-next-big-samsung-unveiling/"><u>Sneak Peek Into 2025: Exclusive Insights on Upcoming Gadgets at the Next Big Samsung Unveiling</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tips-for-overcoming-bumbles-matching-problems/"><u>Step-by-Step Tips for Overcoming Bumble's Matching Problems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-for-creating-stunning-edits-with-iphones-latest-cutout-tool-ios-16-edition/"><u>Step-by-Step Tutorial for Creating Stunning Edits with iPhone's Latest Cutout Tool, iOS 16 Edition</u></a></li>
-<li><a href="https://fox-access.techidaily.com/the-definitive-iphone-podcast-download-guide/"><u>The Definitive iPhone Podcast Download Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-lowdown-on-lg-channels-crucial-points-everyone-should-know/"><u>The Lowdown on LG Channels: Crucial Points Everyone Should Know</u></a></li>
-<li><a href="https://blog-min.techidaily.com/top-strategies-for-capturing-your-apex-legends-battles-on-pc-step-by-step-guide/"><u>Top Strategies for Capturing Your Apex Legends Battles on PC: Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/transferring-google-photo-library-to-icloud-a-comprehensive-guide/"><u>Transferring Google Photo Library to iCloud: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-and-controlling-your-personal-data-usage-habits/"><u>Understanding and Controlling Your Personal Data Usage Habits</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722881111596-why-isnt-my-yahoo-mail-getting-new-messages-heres-how-to-fix-it/"><u>Why Isn't My Yahoo Mail Getting New Messages? Here's How to Fix It!</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-perfecting-your-video-with-story-remix-and-windows-photos/"><u>[Updated] Perfecting Your Video with Story Remix & Windows Photos</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://win-updates.techidaily.com/comprehensive-guide-top-android-malware-threats-and-prevention-strategies/"><u>Comprehensive Guide: Top Android Malware Threats & Prevention Strategies</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-2022-without-passcode-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone SE (2022) Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/issue-alert-water-damage-suspected-in-iphones-effective-remedies-and-prevention-tips/"><u>Issue Alert: Water Damage Suspected in iPhones – Effective Remedies & Prevention Tips!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-windows-11-spotlight-malfunction-a-step-by-step-guide/"><u>Overcoming Windows 11 Spotlight Malfunction: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/shock-sale-alert-apple-m2-macbook-air-slashed-to-800-on-amazon-well-ahead-of-october-prime-day-tech-news-roundup/"><u>Shock Sale Alert: Apple M2 MacBook Air Slashed to $800 on Amazon, Well Ahead of October Prime Day | Tech News Roundup</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/simplifying-cinematics-in-filmora-answering-the-core-questions-for-2024/"><u>Simplifying Cinematics in Filmora Answering the Core Questions for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-rise-and-fall-of-yahoo-messenger-why-did-it-cease-operations/"><u>The Rise and Fall of Yahoo! Messenger: Why Did It Cease Operations?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-magsafe-peripherals-comprehensive-testing-and-reviews-by-tech-experts-at-zdnet/"><u>Top-Rated MagSafe Peripherals : Comprehensive Testing & Reviews by Tech Experts at ZDNet</u></a></li>
 </ul></div>
 

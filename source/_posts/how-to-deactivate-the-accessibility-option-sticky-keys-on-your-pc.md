@@ -1,7 +1,7 @@
 ---
 title: How To Deactivate the Accessibility Option 'Sticky Keys' On Your PC
-date: 2024-09-16T22:56:35.653Z
-updated: 2024-09-21T00:36:14.453Z
+date: 2024-10-06T17:53:47.451Z
+updated: 2024-10-13T08:01:58.638Z
 categories:
   - BestProducts
 description: This Article Describes How To Deactivate the Accessibility Option 'Sticky Keys' On Your PC
@@ -37,8 +37,23 @@ Close
 2. Go to**Accessibility** \>**Keyboard** in Windows 11, or**Ease of Access** \>**Keyboard** in Windows 10.  
 ![The Ease of Access category](https://www.lifewire.com/thmb/z_kqWyAg-_UTZGXiXkPeXb9WapY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-turn-off-sticky-keys-windows-4692841-840a6b1cb7db4b70895ba6637346c0b8.jpg)
 3. Select the toggle next to**Sticky Keys** (Windows 11) or**Use Sticky Keys** (Windows 10) to set it to off.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Sticky Keys switch](https://www.lifewire.com/thmb/XOJ32fVrt1wxHEdQDSHGfIlNgIw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-turn-off-sticky-keys-windows-4692841-3c1464a02cd44a8b9d0c6876ae676e67.jpg)  
  You can also disable the shortcut so that pressing Shift a few times doesn't enable Sticky Keys. Some other options you'll find in Settings let you disable the Sticky Keys sound and hide its icon from the taskbar.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Turn Sticky Keys off in Windows 8 & 7
 
@@ -48,14 +63,22 @@ Close
 2. Go to**Ease of Access** \>**Ease of Access Center** \>**Make the keyboard easier to use** .  
 ![The Windows 7 Ease of Access Center](https://www.lifewire.com/thmb/Rfr4zGRYCxpclHyRXkhXQtB-gIc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ease-of-access-center-windows-7-784ad0ed588c4e7fa1c537d9895a1744.png)
 3. Clear the checkbox next to**Turn on Sticky Keys** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Sticky Keys settings in Windows 7 Ease of Access Center](https://www.lifewire.com/thmb/PiK5kNmkvgNDVlFyF0m7aV4cnpc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/turn-off-sticky-keys-windows-7-c4a38e1ba7db4e5a9aec36053b7fed3d.png)
 4. Select**Apply** to save.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Are Sticky Keys?
@@ -106,5 +129,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-the-samsung-revolution-diving-deep-into-the-ue590-monitor-review/"><u>[New] 2024 Approved The Samsung Revolution - Diving Deep Into the UE590 Monitor Review</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ourney-through-the-stars-with-these-innovative-science-youtubers/"><u>[New] Journey Through the Stars with These Innovative Science YouTubers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-exploring-bandicam-ultimate-guide-to-screen-capture/"><u>[Updated] In 2024, Exploring Bandicam Ultimate Guide to Screen Capture</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-the-aesthetic-almanac-makeup-hair-and-more-on-youtube/"><u>[Updated] The Aesthetic Almanac Makeup, Hair & More on YouTube</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-photo-viewer-revival-techniques-for-enhanced-windows-11-experience/"><u>2024 Approved Photo Viewer Revival Techniques for Enhanced Windows 11 Experience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/2024s-leading-uninterruptible-power-supplies-our-ultimate-guide-and-selection/"><u>2024'S Leading Uninterruptible Power Supplies: Our Ultimate Guide and Selection</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-step-by-step-tutorial-for-rectifying-discoloration-on-pc-screens/"><u>A Step-by-Step Tutorial for Rectifying Discoloration on PC Screens</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/facebook-login-troubles-get-back-in-by-forgetting-password-no-contact-info-needed/"><u>Facebook Login Troubles? Get Back In By Forgetting Password - No Contact Info Needed!</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/free-software-showdown-the-leading-10-audio-capture-utilities-for-2024/"><u>Free Software Showdown The Leading 10 Audio Capture Utilities for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-echoing-ethos-with-closing-credits/"><u>In 2024, Echoing Ethos with Closing Credits</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-professional-thumbnail-creation-for-youtube-macos-style/"><u>In 2024, Professional Thumbnail Creation for YouTube (macOS Style)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-your-pathway-to-personalized-youtube-music-selections/"><u>In 2024, Your Pathway to Personalized YouTube Music Selections</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/macos-version-15-sequoia-unveiling-the-launch-timeline-innovative-capabilities-and-latest-updates/"><u>MacOS Version 15 'Sequoia': Unveiling the Launch Timeline, Innovative Capabilities & Latest Updates</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-recovery-of-vanished-contact-info-from-android-handsets/"><u>Mastering the Recovery of Vanished Contact Info From Android Handsets</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-fixes-for-a-silent-stereo-system-audiophiles-handbook/"><u>Step-by-Step Fixes for a Silent Stereo System - Audiophile's Handbook</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-connecting-your-samsung-remote-to-your-television/"><u>Ultimate Guide: Connecting Your Samsung Remote to Your Television</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Massive GE Lighting Sale: Save Up to 61%% on Smart Home Devices - Learn How From ZDNet"
-date: 2024-09-17 12:47:56
-updated: 2024-09-20 11:19:20
+date: 2024-10-12T06:38:52.995Z
+updated: 2024-10-13T14:20:57.423Z
 tags:
   - yard-outdoors
 categories:
@@ -20,6 +20,13 @@ Maria Diaz/ZDNET
 The [Ring Spotlight Cam Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRing-Spotlight-Cam-Pro-Battery-White%2Fdp%2FB09DRX62ZV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfc654aac-451d-4428-990d-834c2c6ab84a%7Cdtp&dtb=1) is $30 off, available for $200 through [Labor Day](https://www.zdnet.com/article/best-labor-day-deals-2024-8-29/).
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways  
 
@@ -79,6 +86,13 @@ Maria Diaz/ZDNET
 
 The Ring Protect plan ranges from $5-$20 monthly, and aside from the mentioned features, it includes person alerts, the ability to arm and disarm the Ring system digitally, rich notifications, snapshot capture, and video history stored in the cloud for up to six months.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After using the [Ring Spotlight Cam Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRing-Spotlight-Cam-Pro-Battery-White%2Fdp%2FB09DRX62ZV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfc654aac-451d-4428-990d-834c2c6ab84a%7Cdtp&dtb=1) for a few weeks, I found it to be a reliable home security camera with all the extra features worth the price. The two-way talk audio quality was the most impressive I've ever tried, delivering crystal clear audio without echo. 
@@ -90,6 +104,13 @@ However, I was slightly disappointed by the video quality, which only goes up to
 A security camera of that resolution is not disappointing on its own, but it's a noticeable difference compared to the 2K-resolution Arlo Pro 5S that I previously had overlooking that area of my yard, though the Arlo is a little pricier, at $250\. To top it off, the [floodlight camera](https://www.zdnet.com/home-and-office/smart-home/eufys-new-floodlight-cam-e340-is-the-hardest-working-security-camera-ive-tested/) on the other side of my yard can go up to 3K resolution and is $10 cheaper than this Ring camera. 
 
 Additionally, many smart home users aren't prepared to pay monthly subscription fees to access plan-exclusive features, but plenty of users prefer the convenience of not having to worry about local storage and enjoy the extra perks a paid plan offers. 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -116,11 +137,29 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-win-and-mac-mp3-converter-unlock-your-music-from-youtube/"><u>[New] 2024 Approved Win & Mac MP3 Converter Unlock Your Music From YouTube</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-ad-profits-unveiled-how-much-do-creators-make-on-youtube/"><u>[New] Ad Profits Unveiled How Much Do Creators Make on Youtube?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-visionary-vistas-the-ultimate-list-of-motivating-ig-images/"><u>[New] Visionary Vistas The Ultimate List of Motivating IG Images</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-dive-deep-with-these-6-extraordinary-metaverse-models/"><u>[Updated] 2024 Approved Dive Deep with These 6 Extraordinary Metaverse Models</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/automatically-manage-your-safari-browser-windows-on-macos-mojave-for-a-clean-desktop-experience/"><u>Automatically Manage Your Safari Browser Windows on macOS Mojave for a Clean Desktop Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/converte-i-file-mp4-nel-formato-avi-utilizzando-lestesa-gamma-di-funzionalita-gratuite-online-di-movavi/"><u>Converte I File MP4 Nel Formato AVI Utilizzando L'Estesa Gamma Di Funzionalità Gratuite Online Di Movavi</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/delving-into-vimeo-your-ultimate-video-partner/"><u>Delving Into Vimeo Your Ultimate Video Partner</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/elevate-your-writing-on-macos-discover-the-power-of-craft-an-exceptional-document-tool-tips-and-tricks-zdnet/"><u>Elevate Your Writing on macOS: Discover the Power of Craft, an Exceptional Document Tool - Tips & Tricks | ZDNet</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-dominating-the-sky-with-heavylift-drones/"><u>In 2024, Dominating the Sky with Heavylift Drones</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/is-paying-up-to-20-a-month-for-enhanced-apple-features-worth-it-industry-predictions-revealed-by-zdnet/"><u>Is Paying Up to $20 a Month for Enhanced Apple Features Worth It? Industry Predictions Revealed by ZDNet</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-the-troubleshooting-of-days-gone-ensure-smooth-launch-on-pc/"><u>Mastering the Troubleshooting of 'Days Gone': Ensure Smooth Launch on PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/secure-your-new-ipad-pro-air-and-pencil-pro-before-launch-top-deals-on-zdnet-now/"><u>Secure Your New iPad Pro, Air, and Pencil Pro Before Launch - Top Deals on ZDNET Now!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-10-no-cost-email-services-we-recommend/"><u>Top 10 No-Cost Email Services We Recommend</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-the-years-finest-mp3-devices-featured-by-zdnet/"><u>Ultimate Guide to the Year's Finest MP3 Devices – Featured by ZDNet</u></a></li>
+<li><a href="https://techidaily.com/unlock-locked-iphone-11-pro-by-restoring-it-to-factory-settings-by-drfone-ios-unlock-ios-unlock/"><u>Unlock locked iPhone 11 Pro by restoring it to factory settings</u></a></li>
+</ul></div>
+

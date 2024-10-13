@@ -1,7 +1,7 @@
 ---
 title: "Explore Innovation in Tech: The 'Let Loose' Showdown Reveals a Mighty M4 iPad Pro, Updated Air Tablet & Superior Apple Pencil - Detailed ZDNet Coverage"
-date: 2024-10-05T20:02:18.523Z
-updated: 2024-10-07T20:26:35.635Z
+date: 2024-10-10T00:04:16.805Z
+updated: 2024-10-12T22:54:41.494Z
 tags:
   - apple
 categories:
@@ -33,10 +33,10 @@ Apple's "Let Loose" was a virtual product launch event that took place on May 7,
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. iPad Pro, now with OLED displays and M4
@@ -92,10 +92,10 @@ Apple
 The Apple Pencil Pro costs $129 and supports Apple's Find My service, letting you track the location of the accessory should you drop or misplace it. You can purchase the [Apple Pencil Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) today, and it will start shipping next week.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Magic Keyboard
@@ -104,16 +104,22 @@ Apple
 
 The iPad event also included a new, more durable Magic Keyboard, featuring a larger trackpad and a function row along the top. The Magic Keyboard's new look and upgraded aluminum construction is meant to make the iPad Pro look and feel more like a laptop, rather than a tablet with an optional keyboard case.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why would Apple host an event before WWDC?
 
 Although Apple is hosting its [Worldwide Developers Conference (WWDC)](https://www.zdnet.com/article/apple-confirms-wwdc-2024-for-june-10-will-ai-steal-the-show/) on June 10, that event is reserved for new iOS, iPadOS, visionOS, and macOS announcements, plus Apple's new AI strategy. The Let Loose event was focused on the latest hardware offerings, with the [OLED iPad Pro](https://www.zdnet.com/article/7-ipad-pro-features-that-would-make-me-instantly-upgrade-to-apples-next-model/) being the main star.
+
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Did the Let Loose event cover iPadOS 17.5 or iPadOS 18?
 
@@ -128,10 +134,10 @@ Logic Pro 2 introduces Session Players, an AI-created Bass and Keyboard player a
 iOS 17.5 doesn't have many exciting new features outside of the European Union, where iPhone users can now [download apps directly from websites](https://www.zdnet.com/article/apple-to-let-eu-users-download-apps-from-the-web-with-ios-17-5-beta-2-how-it-works/). The new devices are expected to ship with iPadOS 17.5, but these features are available for iPadOS 17.4.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How do I watch Apple's Let Loose event?
@@ -168,18 +174,17 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-craft-the-ultimate-outro-with-pro-maker-advice/"><u>[New] 2024 Approved Craft the Ultimate Outro with Pro Maker Advice</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ownloader-essentials-the-best-tools-for-offline-viewing/"><u>[New] Downloader Essentials The Best Tools For Offline Viewing</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-gimbal-guide-for-smooth-flights/"><u>[New] Gimbal Guide for Smooth Flights</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-unlock-3d-text-magic-with-adobes-creative-suite/"><u>[Updated] In 2024, Unlock 3D Text Magic with Adobe's Creative Suite</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/10-game-changing-mobile-apps-to-help-you-succeed-in-high-school/"><u>10 Game-Changing Mobile Apps to Help You Succeed in High School</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-cutting-edge-6-solutions-for-audiovisual-translation/"><u>2024 Approved Cutting-Edge 6 Solutions for Audio/Visual Translation</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/decoding-and-overcoming-stop-code-0x0000003d-a-step-by-step-fixing-strategy-for-windows-users/"><u>Decoding and Overcoming Stop Code 0X0000003D: A Step-by-Step Fixing Strategy for Windows Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722872294906-diy-making-an-easy-appointment-at-your-local-apple-store-today/"><u>DIY: Making an Easy Appointment at Your Local Apple Store Today!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/home-charging-basics-for-electric-vehicles-a-complete-guide/"><u>Home Charging Basics for Electric Vehicles: A Complete Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722892226771-is-it-time-to-switch-to-an-rtx-gpu-making-the-right-choice/"><u>Is It Time to Switch to an RTX GPU? - Making the Right Choice</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-multilingual-conversations-with-chatgpt/"><u>Mastering Multilingual Conversations with ChatGPT</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigating-the-digital-classroom-a-guide-to-9-key-tech-tools-for-academic-success/"><u>Navigating the Digital Classroom: A Guide to 9 Key Tech Tools for Academic Success</u></a></li>
-<li><a href="https://win11.techidaily.com/reimagining-windows-11-a-look-at-updates-xx-series-changes/"><u>Reimagining Windows 11: A Look at Updates X.x Series Changes</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-a-compre-written-by-daniel-kelley/"><u>2024 Approved A Compre Written by Daniel Kelley</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>Can I use iTools gpx file to catch the rare Pokemon On Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Samsung Galaxy S24? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ensuring-security-exploring-how-apple-protects-your-ai-data-on-the-cloud-insights-for-tech-enthusiasts/"><u>Ensuring Security: Exploring How Apple Protects Your AI Data on the Cloud - Insights for Tech Enthusiasts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-spot-and-stop-an-airtag-from-trailing-behind-you-a-comprehensive-guide-for-privacy-seekers/"><u>How to Spot and Stop an AirTag From Trailing Behind You: A Comprehensive Guide for Privacy Seekers</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-honor-x50-gt-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Honor X50 GT Fingerprint Lock</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-vivo-y78plus-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Vivo Y78+ Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/seamless-integration-move-apple-music-playlists-between-youtube-music-platforms-explore-the-transition/"><u>Seamless Integration: Move Apple Music Playlists Between YouTube Music Platforms – Explore the Transition</u></a></li>
+<li><a href="https://fox-info.techidaily.com/tag-friends-listen-to-this-podcast-story/"><u>Tag Friends Listen to This Podcast Story</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-evolution-of-echo-dots-the-third-generation-review-with-all-alexa-features-in-a-compact-package/"><u>Unveiling the Evolution of Echo Dots - The Third Generation Review with All Alexa Features in a Compact Package</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upgrading-from-iphone-13-pro-to-iphone-15-pro-heres-what-you-need-to-know/"><u>Upgrading From iPhone 13 Pro to iPhone 15 Pro? Here's What You Need to Know</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/whats-new-in-macos-15-sequoia-launch-details-and-exciting-updates/"><u>What's New in macOS 15 Sequoia: Launch Details & Exciting Updates</u></a></li>
 </ul></div>
 

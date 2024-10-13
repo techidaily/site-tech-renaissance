@@ -1,7 +1,7 @@
 ---
 title: Secure Your New iPad Pro, Air, and Pencil Pro Before Launch - Top Deals on ZDNET Now!
-date: 2024-10-01T19:57:31.293Z
-updated: 2024-10-07T16:22:49.148Z
+date: 2024-10-12T13:57:19.251Z
+updated: 2024-10-13T13:03:03.496Z
 tags:
   - apple
 categories:
@@ -35,10 +35,10 @@ For the first time, Apple's lightest iPad model comes in two different sizes: 11
 [PREORDER NOW Apple The iPad Air comes in Space Gray, Blue, Purple, and Starlight. Prices range from $599 for 128GB all the way to $1,299 for 1TB. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)[PREORDER NOW Amazon You can preorder both sizes of the new iPad Air model on Amazon. Plus, if you apply and get approved for a Prime Visa, you can receive $100 off the 11-inch model. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J5VFYQ%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C88cb4d13-5737-4ae1-8ffb-a3f06dd85979%7Cdtp&dtb=1)[PREORDER NOW Best Buy When you buy either size of the new iPad Air at Best Buy, you can save up to $310 on your new tablet by trading in a similar device. View at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-11-inch-ipad-air-latest-model-m2-chip-wi-fi-128gb-blue%2F6533554.p%3FskuId%3D6533554&publisher_slug=itechdaily19598&exclusive=1)[PREORDER NOW Adorama The 11-inch and 13-inch iPad Air models are available for preorder on Adorama's website. View at Adorama](https://adorama.rfvk.net/c/159047/51926/1036?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.adorama.com%2Facipa11.html&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iPad Pro (7th generation)
@@ -54,10 +54,10 @@ The new iPad Pro also features an Ultra Retina XDR screen, which Apple called "t
 [PREORDER NOW Apple You can purchase both iPad Pro models on Apple's website in either Silver or Space Black. Storage options range from 256GB to 2TB. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)[PREORDER NOW Amazon Preorder both sizes of the iPad Pro on Amazon to receive them by May 15\. You can even add an optional 2- or 4-year protection plan with your purchase. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J6L2ZC%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C88cb4d13-5737-4ae1-8ffb-a3f06dd85979%7Cdtp&dtb=1)[PREORDER NOW Best Buy If you preorder the new iPad Pro at Best Buy, you can save up to $600 on your new tablet by trading in a similar device. In addition, you can save an extra $50 with a My Best Buy membership. View at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-11-inch-ipad-pro-latest-model-m4-chip-wi-fi-256gb-with-oled-space-black%2F5495362.p%3FskuId%3D5495362&publisher_slug=itechdaily19598&exclusive=1)[PREORDER NOW Adorama Preorder the 11-inch and 13-inch iPad Pro M4 models on Adorama's website to get them when they release May 15. View at Adorama](https://adorama.rfvk.net/c/159047/51926/1036?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.adorama.com%2Facipp11.html&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple Magic Keyboard
@@ -69,10 +69,10 @@ There's an all-new Magic Keyboard to go with the new iPad Pro models. It is thin
 [PREORDER NOW Apple The new Apple Magic Keyboard is compatible with the iPad Pro M4 models. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMWR43LL%2FA%2Fmagic-keyboard-for-ipad-pro-13%25E2%2580%2591inch-m4-us-english-white&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)[PREORDER NOW Best Buy Both sizes of the new Magic Keyboard are available to preorder on Best Buy's website. View at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-magic-keyboard-for-ipad-pro-13inch-m4-black%2F6535089.p%3FskuId%3D6535089&publisher_slug=itechdaily19598&exclusive=1)[PREORDER NOW Adorama You can preorder the new Apple Magic Keyboard that is compatible with both the new iPad Air and the new iPad Pro models. View at Adorama](https://adorama.rfvk.net/c/159047/51926/1036?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.adorama.com%2Facmkipp.html&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple Pencil Pro
@@ -115,19 +115,22 @@ Finally, Apple announced a third-generation Apple Pencil that it's dubbing the A
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-benq-bl2711u-masterpiece-in-the-realm-of-high-definition-monitors/"><u>[New] In 2024, BenQ BL2711U - Masterpiece in the Realm of High-Definition Monitors</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-full-review-of-razers-high-definition-webcam/"><u>[Updated] Full Review of Razer's High Definition Webcam</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722889008774-apples-revolutionary-foldable-iphone-explore-release-schedules-pricing-forecasts-and-leaked-specifications/"><u>Apple's Revolutionary Foldable iPhone? Explore Release Schedules, Pricing Forecasts, and Leaked Specifications</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/best-in-class-find-the-perfect-video-editing-suite-among-these-5-picks/"><u>Best in Class: Find the Perfect Video Editing Suite Among These 5 Picks</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/channel-growth-essential-steps-for-youtube-backlink-creation/"><u>Channel Growth Essential Steps for YouTube Backlink Creation</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/improve-engagement-with-captions-complete-guide-to-transcribing-instagram-stories/"><u>Improve Engagement with Captions - Complete Guide to Transcribing Instagram Stories</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-capture-moments-access-the-worlds-best-12-livestreams/"><u>In 2024, Capture Moments Access the World's Best 12 Livestreams</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For ZTE Axon 40 Lite | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-honor-magic-5-pro-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Honor Magic 5 Pro to PC? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-masterclass-review-unpacking-the-features-of-android-lightroom/"><u>In 2024, Masterclass Review Unpacking the Features of Android Lightroom</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/seamless-synchronization-linking-gmail-to-your-apple-watch/"><u>Seamless Synchronization: Linking Gmail to Your Apple Watch</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-definitive-resource-for-deciphering-blue-screen-stop-error-messages/"><u>The Definitive Resource for Deciphering Blue Screen (Stop) Error Messages</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-wi-fi-protocols-a-comprehensive-guide-to-ieee-80211-standards/"><u>Understanding Wi-Fi Protocols: A Comprehensive Guide to IEEE 802.11 Standards</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unlocking-wi-fi-sharing-the-ultimate-trick-for-windows-10-usb-tethering/"><u>Unlocking Wi-Fi Sharing: The Ultimate Trick for Windows 10 USB Tethering</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-enhancing-viewer-engagement-with-smart-end-screen-techniques/"><u>[New] 2024 Approved Enhancing Viewer Engagement with Smart End Screen Techniques</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-quick-scan-maker-chrome-os/"><u>[New] In 2024, Quick Scan Maker (Chrome OS)</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-unleash-potential-with-sj7s-superior-4k-action-camera-review/"><u>2024 Approved Unleash Potential with SJ7's Superior 4K Action Camera Review</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-meizu-21-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ai-revolution-unveiling-the-astounding-advancements-in-smartphone-photography-the-path-towards-an-imaginative-tomorrow-techinsight/"><u>AI Revolution: Unveiling the Astounding Advancements in Smartphone Photography - The Path Towards an Imaginative Tomorrow | TechInsight</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/efficient-productivity-setting-up-personalized-focus-filters-on-mac-os-monterey-for-enhanced-concentration/"><u>Efficient Productivity: Setting Up Personalized Focus Filters on Mac OS Monterey for Enhanced Concentration</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/expand-the-display-adapters-section-by-clicking-on-the-arrow-next-to-it-if-you-see-a-yellow-exclamation-mark-beside-any-of-them-that-indicates-an-issue-with110/"><u>Expand the Display Adapters Section by Clicking on the Arrow Next to It. If You See a Yellow Exclamation Mark Beside Any of Them, that Indicates an Issue with the Driver.</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-upcoming-apple-pay-later-transactions-could-impact-your-experian-credit-score-insights-from-zdnet/"><u>How Upcoming 'Apple Pay Later' Transactions Could Impact Your Experian Credit Score – Insights From ZDNet</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-64gb-ideal-for-light-video-content/"><u>In 2024, 64Gb Ideal for Light Video Content?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-leading-eights-imagery-fusion-platform/"><u>In 2024, The Leading Eight’s Imagery Fusion Platform</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/iphone-15-evaluation-the-ultimate-choice-for-professionals-and-enthusiasts-alike-insights/"><u>IPhone 15 Evaluation: The Ultimate Choice for Professionals and Enthusiasts Alike - Insights</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/lullabies-of-relaxation-prime-asmr-talents/"><u>Lullabies of Relaxation Prime ASMR Talents</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quick-solutions-for-when-you-cant-find-d3dx933dll-on-your-computer/"><u>Quick Solutions for When You Can't Find d3dx9_33.dll on Your Computer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/samsung-leads-as-google-faces-setback-in-antitrust-rulings-amidst-galaxy-ai-advancements-tops-tech-innovation-chart/"><u>Samsung Leads as Google Faces Setback in Antitrust Rulings Amidst Galaxy AI Advancements - Tops Tech Innovation Chart</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-6-cutting-edge-discount-sites-to-slash-your-spending/"><u>Top 6 Cutting-Edge Discount Sites to Slash Your Spending</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upcoming-apple-event-detailed-coverage-on-timings-latest-gossip-and-expectations/"><u>Upcoming Apple Event - Detailed Coverage on Timings, Latest Gossip & Expectations</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Future Tech News: Apple Aims to Integrate Cameras in Next-Gen AirPods by 2026 – Insights From ZDNet"
-date: 2024-10-06T17:15:37.446Z
-updated: 2024-10-07T17:58:33.083Z
+date: 2024-10-06T10:01:06.470Z
+updated: 2024-10-13T07:53:28.511Z
 tags:
   - apple
 categories:
@@ -71,37 +71,31 @@ Apple partner and supplier Foxconn will be making the IR camera with a goal of 1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-ideal-screen-capturing-solutions-for-igadgets/"><u>[Updated] 2024 Approved Ideal Screen Capturing Solutions for iGadgets</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-essential-tips-for-live-video-features-on-websites-for-2024/"><u>[Updated] Essential Tips for Live Video Features on Websites for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-undisclosed-snapshotting-mastering-invisible-image-capture-on-snapchat/"><u>[Updated] Undisclosed Snapshotting Mastering Invisible Image Capture on Snapchat</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/gratuit-migrate-avi-to-ogg-formats-via-web-movavis-comprehensive-guide/"><u>Gratuit Migrate AVI To Ogg Formats via Web - Movavi's Comprehensive Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/gratuit-mp3-vers-mp4-convertisseur-online-convertissez-vos-chansons-facilement-avec-movavi/"><u>Gratuit MP3 Vers MP4 Convertisseur Online - Convertissez Vos Chansons Facilement Avec Movavi</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/gratuit-online-convertereen-van-tga-naar-tiff-professioneel-service-enkel-movavi/"><u>Gratuit Online Convertereen Van TGA Naar TIFF - Professioneel Service Enkel Movavi</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guia-facil-para-converter-voz-de-whatsapp-a-formato-mp3-y-sin-costo/"><u>Guía Fácil Para Converter Voz De WhatsApp a Formato MP3 Y Sin Costo</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guia-facil-y-rapida-mejorar-tus-videos-de-android-en-seis-pases-simples-con-movavi-clips/"><u>Guía Fácil Y Rápida: Mejorar Tus Videos De Android en Seis Pases Simples Con Movavi Clips</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guia-facil-transformar-archivos-de-audio-m4b-en-formatos-mp3-y-otros-tipos/"><u>Guía Fácil: Transformar Archivos De Audio M4B en Formatos MP3 Y Otros Tipos</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/i-migliori-12-strumenti-di-acquisizione-schermate-gratis-per-il-2024-movavis-selection/"><u>I Migliori 12 Strumenti Di Acquisizione Schermate Gratis per Il 2024 – Movavi's Selection</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/i-migliori-strumenti-per-la-fusione-musicale-del-2024-scelta-definitiva-secondo-movavi/"><u>I Migliori Strumenti per La Fusione Musicale Del 2024: Scelta Definitiva Secondo Movavi</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Nokia G22 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Meizu 21 Pro? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-asus-rog-phone-7frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Asus ROG Phone 7FRP Lock</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/m4r-naar-m4a-omzetten-online-gratis-movavi-audioro/"><u>M4R Naar M4A Omzetten Online Gratis - Movavi Audioro</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/personalized-ringtone-crafting-from-tiktok-beats-to-cellphone-alerts-for-2024/"><u>Personalized Ringtone Crafting From TikTok Beats to Cellphone Alerts for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/srgb-efficiency-against-basic-rgb-for-2024/"><u>Srgb Efficiency Against Basic Rgb for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/step-by-step-guide-downloading-and-updating-xp-pen-graphics-tablet-drivers/"><u>Step-by-Step Guide: Downloading & Updating XP-Pen Graphics Tablet Drivers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722878269803-the-best-6-food-monitoring-applications-for-a-healthier-you/"><u>The Best 6 Food Monitoring Applications for a Healthier You</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-seeking-freebies-learn-instagrams-secret-for-additional-filters/"><u>[New] 2024 Approved Seeking Freebies? Learn Instagram’s Secret for Additional Filters</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ro-tips-optimal-videography-with-these-top-12-portable-cams/"><u>[New] Pro Tips Optimal Videography with These Top 12 Portable Cams</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-shuttered-creations-sudden-delete-incidents-for-2024/"><u>[New] Shuttered Creations Sudden Delete Incidents for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-insta-explosion-supercharge-with-content-likes-and-videos/"><u>[Updated] 2024 Approved Insta Explosion Supercharge with Content, Likes & Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-lens-perspective-filmographys-top-cinematic-techniques-and-tips-of-2024/"><u>[Updated] The Lens Perspective Filmography’s Top Cinematic Techniques and Tips of 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apples-latest-showdown-choosing-between-the-m3-and-m2-macbook-air-expert-comparisons-revealed/"><u>Apple's Latest Showdown: Choosing Between the M3 and M2 MacBook Air - Expert Comparisons Revealed</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/are-you-prepared-for-the-changed-facebook-algorithm-for-2024/"><u>Are You Prepared for the Changed Facebook Algorithm for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/choosing-the-perfect-phone-for-your-child-see-our-expert-picks-on-zdnets-best-list/"><u>Choosing the Perfect Phone for Your Child? See Our Expert Picks on ZDNet's Best List!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comparing-home-theatre-vs-stereo-receivers-understanding-the-key-distinctions/"><u>Comparing Home Theatre Vs. Stereo Receivers: Understanding the Key Distinctions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/future-siri-improvements-with-apples-advanced-intelligence-set-reveal-zdnet-news/"><u>Future Siri Improvements with Apple's Advanced Intelligence Set Reveal | ZDNet News</u></a></li>
+<li><a href="https://win-net.techidaily.com/how-to-resolve-windows-update-error-code-0x80070643-with-simple-fixes/"><u>How to Resolve Windows Update Error Code 0X80070643 with Simple Fixes</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-apple-iphone-x-when-phone-is-broken-drfone-by-drfone-ios/"><u>In 2024, How to Turn Off Find My Apple iPhone X when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Motorola Moto G 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/labor-day-savings-alert-score-an-unprecedented-700-off-the-new-202-ipad-pro-check-out-our-report-at-zdnet/"><u>Labor Day Savings Alert: Score an Unprecedented $700 Off the New 202# iPad Pro! Check Out Our Report at ZDNET.</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/resolucion-al-problema-de-archivos-grandes-que-no-caben-en-una-memoria-externa-4-estrategias-utiles/"><u>Resolución Al Problema De Archivos Grandes Que No Caben en Una Memoria Externa - 4 Estrategias Útiles</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revitalizing-vision-pro-requires-apples-strategic-move-in-three-essential-areas-zdnet-insight/"><u>Revitalizing Vision Pro Requires Apple's Strategic Move in Three Essential Areas | ZDNet Insight</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-mac-computers-expert-reviews-and-buying-guide-zdnet/"><u>Top Rated Mac Computers : Expert Reviews & Buying Guide | ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-macbook-peripherals-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated MacBook Peripherals - Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-iphone-vpn-providers-in-depth-analysis-by-industry-experts-pcmag/"><u>Ultimate Guide to iPhone VPN Providers: In-Depth Analysis by Industry Experts | PCMag</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
