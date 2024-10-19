@@ -1,7 +1,7 @@
 ---
 title: "Top Titles Only Available on PlayStation 5: The Ultimate Game Collection"
-date: 2024-09-18T00:42:07.744Z
-updated: 2024-09-21T01:12:27.470Z
+date: 2024-10-18T14:48:50.218Z
+updated: 2024-10-18T23:38:14.174Z
 categories:
   - BestProducts
 description: "This Article Describes Top Titles Only Available on PlayStation 5: The Ultimate Game Collection"
@@ -51,6 +51,13 @@ of 28
 
 of 28
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Dark Life Excalibur
 
  This heavily _Dark Souls_\-inspired action-adventure title sets main character Aron off on a quest of vengeance with the legendary sword Excalibur. You'll customize and power up both your character and the mythical blade to take on fearsome enemies and uncover a great mystery.
@@ -70,6 +77,19 @@ of 28
 05
 
 of 28
+
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Destruction AllStars
 
@@ -100,13 +120,6 @@ _Final Fantasy 7 Remake_ is an enhanced and updated version of the PS4 original.
 08
 
 of 28
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Final Fantasy 7 Rebirth
 
@@ -152,6 +165,13 @@ of 28
 
 of 28
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Horizon: Forbidden West – Burning Shores
 
  This DLC for Guerilla Games' _Horizon: Forbidden West_ is a PS5 exclusive, even though the base game is available on both that console and the last-gen PS4\. It takes Aloy to post-apocalyptic Los Angeles to face new threats in the form of rogue, animal-themed robots.
@@ -162,13 +182,6 @@ of 28
 
 of 28
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  The Last of Us: Part 1
 
  The PlayStation 5 is the third console to have _The Last of Us_; it debuted on the PS3 in 2013\. However, _The Last of Us: Part 1_ seems to be the definitive version of the title, and it's exclusive to the PS5\. Developer Naughty Dog rebuilt the original from scratch to make full use of the hardware's power and features. This remake has improved combat and exploration along with a speedrunning mode and more accessibility options.
@@ -178,13 +191,6 @@ of 28
 14
 
 of 28
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Marvel's Spider-Man: Remastered
 
@@ -230,6 +236,13 @@ of 28
 
 of 28
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Phantom Blade Zero
 
  This action game takes an approach the developer calls "Kung-fu Punk." It's a mashup of fighting styles, cultural elements, and aesthetics, including some steampunk, samurai characters, and the occult.
@@ -239,13 +252,6 @@ of 28
 19
 
 of 28
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Quantum Error
 
@@ -281,6 +287,13 @@ of 28
 
 of 28
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Rise of the Rōnin
 
  This action-role-playing game comes courtesy of Team Ninja (_Ninja Gaiden_, _Nioh_) and puts you in the middle of the events leading to the Boshin War that ended Japan's Edo period.
@@ -292,6 +305,13 @@ _Rise of the Rōnin_ has heavy _Assassin's Creed_ vibes; you even play as an ass
 23
 
 of 28
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Silent Hill 2 (Remake)
 
@@ -326,10 +346,10 @@ of 28
 of 28
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Sword of the Sea
@@ -351,6 +371,13 @@ of 28
 28
 
 of 28
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Uncharted: Legacy of Thieves Collection
 
@@ -402,5 +429,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-capture-every-moment-top-budget-friendly-cam-recorders/"><u>[New] In 2024, Capture Every Moment Top Budget-Friendly Cam Recorders</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-the-best-game-video-recording-and-editing-software-for-beginners/"><u>[Updated] The Best Game Video Recording and Editing Software for Beginners</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/battle-of-the-titans-how-iphone-15-pro-max-stacks-up-against-the-samsung-galaxy-s2-64gb-ultra/"><u>Battle of the Titans: How iPhone 15 Pro Max Stacks Up Against the Samsung Galaxy S2지네타임 64GB Ultra?</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/beyond-boundaries-how-to-validate-your-tiktok-video-rights-for-2024/"><u>Beyond Boundaries How to Validate Your TikTok Video Rights for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/o-profit-from-youtube-shorts-key-requirements-and-possible-returns-for-2024/"><u>How to Profit From YouTube Shorts Key Requirements & Possible Returns for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-honor-90-phone-by-drfone-android/"><u>How to Unlock a Network Locked Honor 90 Phone?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-15-pro-max-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone 15 Pro Max Passcode not Working?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 14 without Passcode or Face ID</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-vivo-v30-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Vivo V30 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/instagram-stories-woes-heres-how-to-fix-your-upload-problems/"><u>Instagram Stories Woes? Here's How to Fix Your Upload Problems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/iphone-backup-essentials-secure-your-memories-on-icloud-and-mac-insights/"><u>IPhone Backup Essentials: Secure Your Memories on iCloud and Mac | Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-override-windows-antivirusfirewall-blocking-chrome/"><u>Steps to Override Windows Antivirus/Firewall Blocking Chrome</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-5-benefits-of-using-apple-pages-insights-review/"><u>Top 5 Benefits of Using Apple Pages: Insights Review</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-tricks-to-upgrade-iphoneipad-photo-shooting-techniques/"><u>Ultimate Tricks to Upgrade iPhone/iPad Photo Shooting Techniques</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/why-the-latest-ipados-18-update-could-be-your-key-reason-to-choose-an-apple-tablet-insights-from-wwdc/"><u>Why the Latest iPadOS 18 Update Could Be Your Key Reason to Choose an Apple Tablet - Insights From WWDC!</u></a></li>
+</ul></div>
 

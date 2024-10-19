@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Resetting Your Facebook Login without Access to Email/Phone"
-date: 2024-09-19T00:14:25.964Z
-updated: 2024-09-21T03:32:04.851Z
+date: 2024-10-18T10:47:06.698Z
+updated: 2024-10-19T08:42:17.598Z
 categories:
   - BestProducts
 description: "This Article Describes Ultimate Guide: Resetting Your Facebook Login without Access to Email/Phone"
@@ -23,6 +23,13 @@ thumbnail: https://thmb.techidaily.com/92035b859f2a33cbba619018ad1ce9e04183738fe
 
  The_Pokémon Go_ buddy system is a feature that lets you show off your favorite Pokémon, earn candy, and receive in-app gifts and souvenirs. This guide explains how to play together with your buddy in_Pokémon Go_ , how to swap Pokémon buddies, and how to best use the buddy system to get the most out of the game.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Adding a ‘Pokémon Go’ Buddy for the First Time
 
 _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it significantly in 2019 by letting your buddy appear on the map. The app directed all players through the process of adding a buddy Pokémon after each feature update, but if for some reason you managed to bypass these in-app tutorials, you can add your first Pokémon buddy by selecting your trainer profile icon from the lower-left corner of the map screen and tapping**Buddy History** or**Buddy** .
@@ -43,6 +50,13 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 4. Find the Pokémon you want to add as your new buddy and tap it. If successful, the selected Pokémon will be shown in a brief fullscreen announcement and then appear on the Pokémon buddy screen as your new buddy.  
 ![Pokemon Go app showing how to swap your Buddy Pokémon](https://www.lifewire.com/thmb/BoGpxHgNU6FVRwfj_E4L0CrpefQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-play-with-your-buddy-in-pokemon-go-02-e064b240ebdf48fa89583f0851d42bcd.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Is the Point of Having a Buddy in Pokémon Go?
 
  While having your favorite Pokémon appear alongside you on your trainer profile and walk on the map can be cool, there are several more practical benefits to having a buddy Pokémon.
@@ -56,6 +70,13 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 
  You can completely ignore the Pokémon buddy feature if you like, but it is required if you want to 100 percent complete your Pokédex and challenges.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Play Together With Your Buddy in 'Pokémon Go'
 
  The Play Together feature in_Pokémon Go_ lets you interact with your buddy Pokémon by patting it. The feature works much like the similar features in the various mainline Pokémon video games on the[Nintendo Switch](https://www.lifewire.com/what-is-the-nintendo-switch-4148184) and[3DS consoles](https://www.lifewire.com/nintendo-3ds-overview-1126249) . The main difference is that playing with your buddy Pokémon in_Pokémon Go_ lets you earn hearts, which in turn helps level up your buddy Pokémon to higher friendship levels.  
@@ -67,30 +88,29 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 ![Pokemon GO with buddy Pokemon and Play icons highlighted](https://www.lifewire.com/thmb/ZJo8o9TObp3SUocJtYPzmQ-r3VA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Play-with-buddy-Pokemon-5d81ad40271c49dba320d76c94d2ae10.jpg)
 5. After several seconds of patting, a bright light should surround your buddy, and a heart will appear. This heart will go toward your buddy’s friendship level. You can only earn one heart by playing with your buddy Pokémon every day, though you can play with them as many times as you like.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Tap the**Exit** icon in the top-left corner to return to the map, or tap the**Berry** icon in the lower-left corner to feed your Pokémon berries to get it to appear on the map.
 7. To feed your Pokémon buddy, tap and drag berries from the lower menu to your Pokémon. Three regular Razz, Nanab, or Pinap berries will be enough to have your buddy join you on the map. One Silver Pinap Berry, one Golden Razz Berry, or one Poffin will also do the job.  
  Once your buddy Pokémon is on the map with you, the distance required to walk to earn candy is reduced. Your buddy may also direct you to spin certain Pokéstops to earn hidden prizes and earn bonus hearts.  
 ![Pokemon GO buddy screens with Exit and Berry icons highlighted, berry to buddy swipe gesture added.](https://www.lifewire.com/thmb/7fPUcRq4cguvQ2HkO9UqgBsgHUU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Feeding-buddy-Pokemon-664324e020424c63a8b97f9500ce6a11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Does Swapping Buddies Lose Progress?
 
  Swapping a_Pokémon Go_ buddy for another one will delete any unfinished progress that’s currently in action, but it won’t remove any gained friendship level status. For example, if your buddy Pokémon is halfway into unlocking a candy, swapping the buddy out will remove this progress. The usual stats that reset at the end of each day will also clear with a swap.
 
  However, if this buddy has reached Great Buddy or some other friendship level status, that progress will remain no matter how many times you swap the buddy out.
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Does It Matter Who Your Buddy Is in 'Pokémon Go'?
 
@@ -129,5 +149,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-clips.techidaily.com/new-unified-platforms-for-sharing-videos-for-2024/"><u>[New] Unified Platforms for Sharing Videos for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-significant-aspects-in-techno-narrative-design/"><u>2024 Approved Significant Aspects in Techno Narrative Design</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-your-ultimate-guide-to-distinguishing-your-youtube-shorts/"><u>2024 Approved Your Ultimate Guide to Distinguishing Your Youtube Shorts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enhancing-iphone-utility-the-impact-of-integrating-googles-gemini-into-ios-insights-from-zdnet/"><u>Enhancing iPhone Utility: The Impact of Integrating Google's Gemini Into iOS - Insights From ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-put-iphone-11-or-ipad-on-recovery-mode-step-by-step-tutorial-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Put iPhone 11 or iPad on Recovery mode? (Step by Step Tutorial) | Stellar</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-ispoofer-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Vivo Y17s? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-top-5-alternative-editors-beyond-youtubes-limits/"><u>In 2024, Top 5 Alternative Editors Beyond Youtube's Limits</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/in-depth-comparison-why-the-ipad-air-outshines-the-ipad-pro-a-personal-review-by-techexpert/"><u>In-Depth Comparison: Why the iPad Air Outshines the iPad Pro - A Personal Review by TechExpert</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/learn-to-bring-text-alive-free-animation-for-vids/"><u>Learn to Bring Text Alive Free Animation for Vids</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-universal-control-seamlessly-operating-your-ipad-and-mac-with-magic-wireless-connections-insider-tips/"><u>Mastering Universal Control: Seamlessly Operating Your iPad & Mac with Magic Wireless Connections - Insider Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/pollution-control-measures-are-crucial-in-preventing-contaminants-from-harming-ecosystems-and-human-health-these-include-the-clean-air-act-and-clean-water-a202/"><u>Pollution Control Measures Are Crucial in Preventing Contaminants From Harming Ecosystems and Human Health; These Include the Clean Air Act and Clean Water Act in the United States.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/say-goodbye-to-auto-lock-shutdowns-keeping-your-spotify-running-smoothly-on-ios-devices/"><u>Say Goodbye to Auto-Lock Shutdowns: Keeping Your Spotify Running Smoothly on iOS Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tech-buzz-alert-anticipated-launch-timeline-for-apples-latest-devices-including-macbook-air-ipad-pro-and-ipad-air-in-march-detailed-analysis/"><u>Tech Buzz Alert: Anticipated Launch Timeline for Apple's Latest Devices Including MacBook Air, iPad Pro & iPad Air in March? Detailed Analysis</u></a></li>
+</ul></div>
 

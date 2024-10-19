@@ -1,7 +1,7 @@
 ---
 title: "Windows Users Guide: Comprehensive Steps to Sending/Receiving iMessages - Insights From ZDNet"
-date: 2024-10-10T13:26:20.585Z
-updated: 2024-10-13T08:58:04.627Z
+date: 2024-10-16T23:39:24.123Z
+updated: 2024-10-19T12:44:29.942Z
 tags:
   - apple
 categories:
@@ -44,13 +44,6 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 
 ## How to send and receive iMessages on Windows
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Use Microsoft Phone Link
 
 Before you can use Phone Link, you'll have to take care of a few items on your phone and your PC.
@@ -64,10 +57,10 @@ Next, confirm that you're running the latest version of Phone Link. To do this, 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Open Phone Link
@@ -75,6 +68,13 @@ Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings,
 Click the Start button, go to All Apps, and select Phone Link from the list. The first screen prompts you to select your device. Click the button for iPhone.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Scan the QR codes
 
@@ -85,6 +85,19 @@ At the screen to pair your devices, tap "Link to Windows" to download and instal
 You should see pairing prompts on both your iPhone and your Windows 11 computer. Select the Pair button on both devices and wait for the two to pair.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Sync your iPhone data
 
@@ -104,13 +117,6 @@ To access your iPhone's text messages in Phone Link, tap the Messages heading at
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Start a new chat
 
 You can also start a new conversation. To do this, select one of your displayed contacts and then compose and send your text. To chat with someone else, click the New Message icon and type the name or phone number of the recipient. Compose and send your message.
@@ -128,10 +134,10 @@ Launch the app and click the Accept & Continue button. You'll be asked how you'd
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Pair your phone and computer
@@ -158,18 +164,24 @@ At the Messages screen, click the icon for "Compose a new message." Choose the r
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Send a message
 
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -207,22 +219,16 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-dissecting-backwards-image-trails-on-social-media-giant-facebook-for-2024/"><u>[New] Dissecting Backwards Image Trails on Social Media Giant Facebook for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-the-essential-blueprint-for-breathtaking-instagram-films-for-2024/"><u>[New] The Essential Blueprint for Breathtaking Instagram Films for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-discover-the-power-of-5-editors-beyond-youtubes-boundaries-for-2024/"><u>[Updated] Discover the Power of 5 Editors Beyond Youtube's Boundaries for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-top-selections-best-mac-applications-for-videography-for-2024/"><u>[Updated] Top Selections Best Mac Applications for Videography for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/elevating-your-selfie-game-expert-advice-on-choosing-and-using-the-right-selfie-flashlights/"><u>Elevating Your Selfie Game: Expert Advice on Choosing and Using the Right Selfie Flashlights</u></a></li>
-<li><a href="https://win-blog.techidaily.com/end-web-browsing-disruptions-chrome-window-flickering-solutions-on-windows/"><u>End Web Browsing Disruptions: Chrome Window Flickering Solutions on Windows</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/handling-the-not-found-error-how-to-restore-nspr4dll-quickly/"><u>Handling the 'Not Found' Error: How to Restore nspr4.dll Quickly</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-your-meizu-21-lock-screen-password-by-drfone-android/"><u>How to Reset your Meizu 21 Lock Screen Password</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-locked-iphone-13-by-restoring-it-to-factory-settings-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock locked iPhone 13 by restoring it to factory settings</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/key-aspects-to-contemplate-prior-to-investing-in-a-video-recording-gadget/"><u>Key Aspects to Contemplate Prior to Investing in a Video Recording Gadget</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-ios-updates-how-to-download-and-seamlessly-install-the-latest-system-improvements/"><u>Mastering iOS Updates: How to Download & Seamlessly Install the Latest System Improvements</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/precision-and-durability-sabrents-compact-travel-mouse-with-optimized-cord-set/"><u>Precision & Durability: Sabrent's Compact Travel Mouse with Optimized Cord Set</u></a></li>
-<li><a href="https://facebook.techidaily.com/strategic-liking-a-guide-for-the-discreet-user/"><u>Strategic Liking: A Guide for the Discreet User</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-best-7-note-capturing-applications-for-apples-ipad-devices/"><u>The Best 7 Note-Capturing Applications for Apple's iPad Devices</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-dangers-of-big-tech-monopolies-in-public-sector-operations-insights-from-recent-microsoft-outages/"><u>The Dangers of Big Tech Monopolies in Public Sector Operations: Insights From Recent Microsoft Outages</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/uncovering-your-hidden-email-id-the-ultimate-how-to/"><u>Uncovering Your Hidden Email ID – The Ultimate How-To</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/wireless-audio-mastery-how-to-pair-computers-with-bluetooth-speakers/"><u>Wireless Audio Mastery: How To Pair Computers With Bluetooth Speakers</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-a-practical-approach-to-streaming-fb-content-on-your-apple-setup-for-2024/"><u>[New] A Practical Approach to Streaming FB Content on Your Apple Setup for 2024</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/1-scan-and-convert-documents-and-literature-into-editable-text-with-readerpro-seamless-ios-app-experience/"><u>1. Scan & Convert Documents & Literature Into Editable Text with ReaderPro: Seamless iOS App Experience</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-honor-90-lite-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Honor 90 Lite? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-intel-wi-fi-ax210-ac-9560-network-adapter-drivers/"><u>Download & Install Intel Wi-Fi AX210 (AC 9560) Network Adapter Drivers</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/experience-the-future-of-computing-m1-powered-ipad-pro-2n-review-a-new-era-for-high-performance-tablets/"><u>Experience the Future of Computing: M1-Powered iPad Pro (2N) Review – A New Era for High-Performance Tablets!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-mute-a-users-guide-to-restoring-sound-on-google-chromecast/"><u>Fixing Mute: A User's Guide to Restoring Sound on Google Chromecast</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fixing-youtube-video-glitches-on-apple-devices/"><u>Fixing YouTube Video Glitches on Apple Devices</u></a></li>
+<li><a href="https://win-forum.techidaily.com/movavi-web-convertir-archivo-pcx-a-formato-bmp-gratuito-por-internet/"><u>Movavi Web: Convertir Archivo PCX a Formato BMP Gratuito Por Internet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-best-6-free-image-editors-to-boost-your-photography-skills/"><u>The Best 6 Free Image Editors to Boost Your Photography Skills</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-comprehensive-breakdown-of-what-to-expect-on-amazon-prime-day/"><u>The Comprehensive Breakdown of What to Expect on Amazon Prime Day</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/uncovering-the-secret-connecting-your-airpods-to-a-nintendo-console/"><u>Uncovering the Secret: Connecting Your AirPods to a Nintendo Console</u></a></li>
 </ul></div>
 

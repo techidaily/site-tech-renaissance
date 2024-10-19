@@ -1,7 +1,7 @@
 ---
 title: "New Apple Gadgets Debut Stealthily, Packing Personality - Discover the Latest From WWDC: A Techie's Guide"
-date: 2024-10-07T01:12:32.664Z
-updated: 2024-10-12T17:46:30.036Z
+date: 2024-10-17T12:04:25.192Z
+updated: 2024-10-19T01:31:20.733Z
 tags:
   - apple
 categories:
@@ -79,10 +79,10 @@ She began to play a demonstration video that, dare I confess, is quite moving.
 The fact that someone else can see (a digital version of) your eyes is a touchingly humane feature, even if imperfect. But the simple gesturing and the apparent power of that gesturing is, even on video, quite something.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Suddenly, it's all business
@@ -124,10 +124,10 @@ I asked if she thought this would become the new way of living, where people wan
 (Well, not quite all the apps. Netflix and YouTube [aren't there](https://www.zdnet.com/article/what-apps-will-be-on-apple-vision-pro-not-these-two-major-ones/).)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Was I sold? Not quite yet
@@ -193,22 +193,17 @@ I asked the female store employee whether she'd be able to try one on before the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-how-to-create-stunning-igtv-video-footage-using-smartphones-and-dslr/"><u>2024 Approved How to Create Stunning IGTV Video Footage Using Smartphones and DSLR</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/capturing-sims-4-adventures-a-guide-for-2024/"><u>Capturing Sims 4 Adventures A Guide for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-school-computing-a-step-by-step-purchase-manual/"><u>Comprehensive School Computing: A Step-by-Step Purchase Manual</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/demystifying-oled-functionality-and-design-insights-revealed/"><u>Demystifying OLED: Functionality & Design Insights Revealed</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/diy-guide-steps-to-successfully-change-your-ipads-battery/"><u>DIY Guide: Steps to Successfully Change Your iPad's Battery</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722888827110-how-to-get-netflix-up-and-running-again-on-your-lg-hdtv/"><u>How To Get Netflix Up and Running Again on Your LG HDTV</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-oppo-k11x-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Oppo K11x</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Realme GT Neo 5 SE? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-lenovo-thinkphone-by-drfone-android/"><u>In 2024, How to Bypass FRP from Lenovo ThinkPhone?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-apple-iphone-8-plus-with-7-methods-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for Apple iPhone 8 Plus With 7 Methods</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-sony-xperia-10-v-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Sony Xperia 10 V Phone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/synchronizing-samsung-audiobuds-with-your-pc-a-complete-walkthrough/"><u>Synchronizing Samsung Audiobuds with Your PC: A Complete Walkthrough</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlock-administrative-access-a-guide-to-dealing-with-trustedinstaller-in-windows-11/"><u>Unlock Administrative Access: A Guide to Dealing with TrustedInstaller in Windows 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unraveling-the-mystery-behind-large-language-models-llms-and-their-operations/"><u>Unraveling the Mystery Behind Large Language Models (LLMs) and Their Operations</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-facebook-from-inception-to-favorites-and-essential-characteristics/"><u>Unveiling Facebook: From Inception to Favorites and Essential Characteristics</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/upcoming-google-pixel-9-unveiled-preliminary-pricing-launch-timeline-and-latest-leaks/"><u>Upcoming Google Pixel 9 Unveiled - Preliminary Pricing, Launch Timeline & Latest Leaks</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-find-the-best-sony-vegas-alternative-for-windows-for-2024/"><u>Updated Find the Best Sony Vegas Alternative for Windows for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-exploring-successful-strategies-to-elevate-audience-numbers-on-youtube-shorts/"><u>[New] 2024 Approved Exploring Successful Strategies to Elevate Audience Numbers on YouTube Shorts</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-expert-insights-on-forging-youtube-sponsorship-bonds-using-famebit-for-2024/"><u>[Updated] Expert Insights on Forging YouTube Sponsorship Bonds Using FameBit for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-convenient-ways-to-document-game-sessions/"><u>[Updated] In 2024, Convenient Ways to Document Game Sessions</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-perfect-your-skype-interviews-with-professional-recording-tactics-for-2024/"><u>[Updated] Perfect Your Skype Interviews with Professional Recording Tactics for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-instagram-editors-companion-for-effective-video-cropping/"><u>2024 Approved The Instagram Editor's Companion for Effective Video Cropping</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ing-youtube-engagement-top-11-seo-strategies-revealed-for-2024/"><u>Boosting YouTube Engagement Top 11 SEO Strategies Revealed for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-ensure-smooth-gaming-fixing-the-assassins-creed-odyssey-freeze-glitch-on-windows-pc/"><u>How to Ensure Smooth Gaming: Fixing the Assassin's Creed Odyssey Freeze Glitch on Windows PC</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-spark-go-2024-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Tecno Spark Go (2024) Phone Without Password?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/is-it-just-you-or-has-the-twitch-streaming-service-temporarily-stopped/"><u>Is It Just You, or Has the Twitch Streaming Service Temporarily Stopped?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-fixing-binkw32dll-errors-on-your-pc/"><u>Troubleshooting Tips: Fixing Binkw32.dll Errors on Your PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-apples-os-milestone-the-progression-of-ios-from-genesis-version-10-to-present-day-version-180/"><u>Understanding Apple's OS Milestone: The Progression of iOS From Genesis (Version 1.0) To Present Day (Version 18.0)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-expressive-text-messaging-a-guide-to-iphones-emoji-features/"><u>Unlocking Expressive Text Messaging: A Guide to iPhone's Emoji Features</u></a></li>
 </ul></div>
 

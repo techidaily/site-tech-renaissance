@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Digital Audio Workstations: Apple's Logic Pro Now Includes Intelligent 'AI Band Members' For Composers on iPads and Macs | ZDNET Exclusive Insights"
-date: 2024-10-11T22:08:18.763Z
-updated: 2024-10-12T16:44:23.414Z
+date: 2024-10-14T14:24:18.536Z
+updated: 2024-10-19T13:52:03.928Z
 tags:
   - apple
 categories:
@@ -55,6 +55,13 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is Siri getting an Apple Intelligence makeover?
 
 Apple
@@ -84,10 +91,10 @@ Apple is adding natural language photo and video search to its Photos app. This 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How does systemwide AI text generation work?
@@ -114,13 +121,6 @@ In the Notes app, for example, a new tool called Image Wand will let you circle 
 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
 
 Apple
@@ -132,6 +132,19 @@ When users make a Siri request that the voice assistant determines would be bett
 **Also: [Apple finally gave us the iPad app we've waited 14 years for at WWDC 2024](https://www.zdnet.com/article/apple-finally-gave-us-the-ipad-app-weve-waited-14-years-for-at-wwdc-2024/)**
 
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
+
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Apple Intelligence be processed on-device or in the cloud?
 
@@ -149,13 +162,6 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is Apple Intelligence actually private and secure?
 
 Apple
@@ -172,10 +178,10 @@ The company is striving to keep the AI features secure through several mechanism
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
@@ -218,24 +224,16 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-how-to-add-music-to-facebook-profile-iphone-and-android/"><u>[New] 2024 Approved How to Add Music to Facebook Profile (iPhone & Android)？</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-cutting-edge-creativity-unleashed-by-magix-vpx/"><u>[New] Cutting-Edge Creativity Unleashed by Magix VPX</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-audiovisual-elevation-leading-high-definition-hdmi-21-displays/"><u>[New] In 2024, Audiovisual Elevation Leading High-Definition (HDMI 2.1) Displays</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-downloading-and-archiving-facebook-gifs-a-unified-approach/"><u>[Updated] 2024 Approved Downloading and Archiving Facebook GIFs A Unified Approach</u></a></li>
-<li><a href="https://techtrends.techidaily.com/conversione-gratuita-avi-a-mov-con-vlc-come-eseguirla-on-e-offline/"><u>Conversione Gratuita AVI a MOV Con VLC - Come Eseguirla On E Offline</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/decoding-the-blinking-lights-on-your-ps4-controller-a-guide-to-color-meanings/"><u>Decoding the Blinking Lights on Your PS4 Controller: A Guide to Color Meanings</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/diy-dorm-room-entertainment-building-your-wireless-movie-haven/"><u>DIY Dorm Room Entertainment: Building Your Wireless Movie Haven</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-disable-accessibility-mode-sticky-keys-tutorial-for-windows-operating-systems/"><u>How to Disable Accessibility Mode – Sticky Keys Tutorial for Windows Operating Systems</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-honor-magic-vs-2-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Honor Magic Vs 2 Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/leading-note-taking-applications-of-2024-you-cant-miss-out-on/"><u>Leading Note Taking Applications of 2024 You Can't Miss Out On</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigate-in-and-out-of-ios-device-rescue-settings-with-ease/"><u>Navigate In & Out of iOS Device Rescue Settings with Ease</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/open-mac-pages-workbook-using-compatible-software-for-windows-users/"><u>Open Mac Pages Workbook Using Compatible Software for Windows Users</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tips-on-selecting-and-utilizing-self-portrait-illumination-gear/"><u>Step-by-Step Tips on Selecting and Utilizing Self Portrait Illumination Gear</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-beginners-blueprint-to-master-message-spaces/"><u>The Beginner's Blueprint to Master Message Spaces</u></a></li>
-<li><a href="https://windows11.techidaily.com/time-capsule-trick-the-use-of-windows-7-key-for-activating-11/"><u>Time Capsule Trick: The Use of Windows 7 Key for Activating 11</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/top-10-portable-tools-dominating-video-editing-landscape-for-2024/"><u>Top 10 Portable Tools Dominating Video Editing Landscape for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-to-correct-missing-mfc42dll-error/"><u>Troubleshooting Steps to Correct Missing mfc42.dll Error</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unifying-calls-and-messages-the-ultimate-guide-to-using-one-phone-number-on-various-devices/"><u>Unifying Calls and Messages: The Ultimate Guide to Using One Phone Number on Various Devices</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-s-hottest-ipad-video-editors-top-rated-and-reviewed/"><u>Updated S Hottest iPad Video Editors Top-Rated and Reviewed</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-how-to-make-awesome-youtube-channel-art-ultimate-guide/"><u>[New] How to Make Awesome YouTube Channel Art [Ultimate Guide]</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-conquer-your-screen-top-10-simple-youtube-projects-for-all-creators/"><u>2024 Approved Conquer Your Screen Top 10 Simple YouTube Projects for All Creators</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/5-ways-to-record-gameplay-and-webcam-for-2024/"><u>5 Ways to Record Gameplay and Webcam for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/economical-pc-screen-grab-utilities/"><u>Economical PC Screen Grab Utilities</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/hiberfilsys-and-pagefilesys-high-local-disk-usage-on-windows-117-solved/"><u>hiberfil.sys and pagefile.sys High Local Disk Usage on Windows 11/7 [Solved]</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-fix-logitech-k750-not-working-step-by-step/"><u>How to Fix Logitech K750 Not Working | Step by Step</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-fix-windows-updates-not-installing/"><u>How to Fix Windows Updates Not Installing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-modify-picture-scales-on-your-desktop-computer-and-laptop/"><u>How to Modify Picture Scales on Your Desktop Computer & Laptop</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-perform-a-complete-system-restore-on-windows-7-without-using-a-disc/"><u>How to Perform a Complete System Restore on Windows 7 Without Using a Disc</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-axon-40-lite-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Axon 40 Lite?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-motorola-moto-g-5g-2023-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Motorola Moto G 5G (2023)?</u></a></li>
 </ul></div>
 

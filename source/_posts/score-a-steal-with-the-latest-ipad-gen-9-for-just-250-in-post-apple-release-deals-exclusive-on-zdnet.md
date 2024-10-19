@@ -1,7 +1,7 @@
 ---
 title: Score a Steal with the Latest iPad (Gen 9) for Just $250 in Post-Apple Release Deals | Exclusive on ZDNet
-date: 2024-10-09T16:06:05.618Z
-updated: 2024-10-13T01:21:27.665Z
+date: 2024-10-12T12:46:56.410Z
+updated: 2024-10-19T00:57:22.567Z
 tags:
   - apple
 categories:
@@ -96,19 +96,6 @@ If you're in the market for a powerful, portable laptop, you can save $200 on a 
 * [Apple AirTag for $24 (save $4)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MX532LL-A-AirTag%2Fdp%2FB0CWXNS552%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd1ff84a7-3502-4210-9d7e-5d074af3852f%7Cdtp&dtb=1): AirTags are our pick for the [best Bluetooth tracker](https://www.zdnet.com/article/best-bluetooth-tracker/) you can buy -- get one on sale to keep track of your wallet, your keys, or even your pet.
 * [Apple AirTag 4 pack for $85 (save $14)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MX542LL-A-AirTag-pack%2Fdp%2FB0D54JZTHY%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd1ff84a7-3502-4210-9d7e-5d074af3852f%7Cdtp&dtb=1): If you need more than one AirTag, you can get this 4-pack for $14 off right now, too.
 
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Prime Day iPad deals still available
 
 * [Apple iPad Pro for $929 (save $70)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-iPad-Pro-11-Inch-Landscape%2Fdp%2FB0D3J9XDMQ%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd1ff84a7-3502-4210-9d7e-5d074af3852f%7Cdtp&dtb=1): For a small saving on an iPad Pro, consider this model, which comes with an 11-inch display, an M4 chip, an Ultra Retina XDR display, 8GB of RAM, and 256GB of storage.
@@ -118,13 +105,6 @@ If you're in the market for a powerful, portable laptop, you can save $200 on a 
 * [Apple iPad Air 11-inch (M2) for $654 (save $46)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-iPad-Air-11-inch-Landscape%2Fdp%2FB0D3J6WPXK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd1ff84a7-3502-4210-9d7e-5d074af3852f%7Cdtp&dtb=1): You can save $50 on a thin and light iPad Air, bringing the cost of this 256GB model down to $649.
 * [Apple iPad Pro 13-inch (M4) for $1,749 (save $150)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-iPad-Pro-13-Inch-Landscape%2Fdp%2FB0D3J82K45%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd1ff84a7-3502-4210-9d7e-5d074af3852f%7Cdtp&dtb=1): For a top-quality iPad, consider this Pro model with a 13-inch Ultra Retina XDR display and 1TB of storage, powered by Apple's M4 chip.
 * [Apple iPad Pro 13-inch (M4) for $2,304 (save $196)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-iPad-Pro-13-Inch-Landscape%2Fdp%2FB0D3J9H49F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd1ff84a7-3502-4210-9d7e-5d074af3852f%7Cdtp&dtb=1): This iPad Pro, available with a discount of over $100, offers a 13-inch Ultra Retina XDR display, 2TB of storage space, and an M4 processor.
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Prime Day Apple Watch deals still available
 
@@ -142,13 +122,20 @@ Adam Breeden/ZDNET
 * [Apple Magic Mouse for $88 (save $11)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Magic-Mouse-Wireless-Rechargable%2Fdp%2FB09V4LZS9S%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd1ff84a7-3502-4210-9d7e-5d074af3852f%7Cdtp&dtb=1): To go with your new trackpad, Apple's branded mouse, a sleek, modern device, is available for a small discount.
 * [Apple TV 4K for $145 (save $5 at B&H Photo)](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1731227-REG%2Fapple%5Fmn893ll%5Fa%5Fapple%5Ftv%5F4k%5F3rd.html): We haven't seen many Apple TV deals during Prime Day, but if you're in the market, you can find a small discount here.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### When is Amazon Prime Day 2024?
@@ -159,21 +146,22 @@ Amazon Prime Day 2024 [officially ran](https://www.zdnet.com/article/amazon-prim
 
 Apple rarely offers sales and discounts on its products, and considering the generally high price point, you might wait a while before upgrading your gear. So events such as Prime Day and Black Friday are great opportunities to save -- but discounts are often still low, with many deals we've observed offering roughly 5% to 20% off, at most. 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Will iPads be on sale on Prime Day?
 
 Yes. Even after Prime Day, there are many iPad deals still live. These tablets are popular and considering how many options are now on the market -- including iPad minis, the standard iPad, and iPad Pro models -- we can reliably expect discounts to appear each year.
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How did we choose these Prime Day deals?
@@ -246,18 +234,19 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-does-active-presenter-8-outperform-its-rivals/"><u>[New] In 2024, Does Active Presenter 8 Outperform Its Rivals?</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-transformative-techniques-looping-videos-that-engage-instagram-users-for-2024/"><u>[New] Transformative Techniques Looping Videos That Engage Instagram Users for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-honor-x7b-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Honor X7b | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/cutting-through-traditional-boundaries-in-image-processing-for-2024/"><u>Cutting Through Traditional Boundaries in Image Processing for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/global-elite-top-12-tools-with-no-time-limit-for-2024/"><u>Global Elite Top 12 Tools With No Time Limit for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-slash-your-spending-with-these-6-must-visit-coupon-portals/"><u>How to Slash Your Spending with These 6 Must-Visit Coupon Portals</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Infinix Note 30i | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-the-top-10-rainmeter-errors-on-windows/"><u>Overcoming the Top 10 Rainmeter Errors on Windows</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/seamless-ways-to-view-your-icloud-pictures-across-all-devices/"><u>Seamless Ways to View Your iCloud Pictures Across All Devices</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/steps-to-locate-your-personal-email-address/"><u>Steps To Locate Your Personal Email Address</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-list-of-childrens-favorite-movies-to-watch-on-netflix/"><u>Ultimate List of Children's Favorite Movies to Watch on Netflix</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlocking-the-world-of-wireless-essential-tips-for-novice-home-audio-enthusiasts/"><u>Unlocking the World of Wireless: Essential Tips for Novice Home Audio Enthusiasts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/why-investing-in-a-ps5-is-a-smart-choice-top-4-benefits-explained/"><u>Why Investing in a PS5 Is a Smart Choice: Top 4 Benefits Explained</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-earning-in-a-world-dominated-by-youtubers-for-2024/"><u>[New] Earning in a World Dominated by YouTubers for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-media-conversion-youtube-to-mp3-on-appleos/"><u>[Updated] Mastering Media Conversion YouTube to MP3 on AppleOS</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-nubia-red-magic-9-proplus-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Nubia Red Magic 9 Pro+ to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/6-proven-ways-to-unlock-oppo-a58-4g-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Oppo A58 4G Phone When You Forget the Password</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/beginners-blueprint-how-to-establish-an-oculus-quest-user-profile/"><u>Beginner's Blueprint: How to Establish an Oculus Quest User Profile</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-top-free-tools-to-check-your-hard-drives-in-july-2024/"><u>Discover the Top Free Tools to Check Your Hard Drives in July 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-tips-for-dealing-with-mfc42dll-missing-error-messages/"><u>Essential Tips for Dealing with MFC42.DLL Missing Error Messages</u></a></li>
+<li><a href="https://win-able.techidaily.com/free-from-glitches-fixing-lag-in-call-of-duty-vanguard-effortlessly/"><u>Free From Glitches: Fixing Lag in Call of Duty: Vanguard Effortlessly</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-track-and-blur-faces-in-premiere-pro/"><u>How To Track and Blur Faces in Premiere Pro</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-current-drone-applications-vs-future-technological-paradigm/"><u>In 2024, Current Drone Applications vs Future Technological Paradigm</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-zte-nubia-z60-ultra-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your ZTE Nubia Z60 Ultra</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-premier-20-anime-theme-melodies/"><u>In 2024, Premier 20 Anime Theme Melodies</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-turn-on-voice-over-with-siri-for-ios-and-macos-devices/"><u>Step-by-Step Instructions: Turn On Voice Over with Siri for iOS and macOS Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-5-must-have-gps-applications-for-your-iphone/"><u>Top 5 Must-Have GPS Applications for Your iPhone</u></a></li>
 </ul></div>
 

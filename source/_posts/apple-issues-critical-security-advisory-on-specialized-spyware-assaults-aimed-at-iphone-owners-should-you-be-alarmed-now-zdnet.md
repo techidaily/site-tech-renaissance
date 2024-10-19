@@ -1,7 +1,7 @@
 ---
 title: Apple Issues Critical Security Advisory on Specialized Spyware Assaults Aimed at iPhone Owners – Should You Be Alarmed Now? | ZDNET
-date: 2024-10-10T08:19:58.017Z
-updated: 2024-10-13T12:35:27.371Z
+date: 2024-10-16T17:38:59.449Z
+updated: 2024-10-19T00:00:05.343Z
 tags:
   - apple
 categories:
@@ -32,27 +32,27 @@ Jason Hiner/ZDNET
 
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Go to General in your iPhone Settings
 
 Go to your iPhone's Settings and select General. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Go to Software Update in Settings
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Download and install
 
@@ -67,10 +67,10 @@ After installing the latest iOS update, your iPhone will restart.
 ## FAQs
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### When is Apple Intelligence coming out?
@@ -82,13 +82,6 @@ Apple Intelligence, featuring the company's AI tools, will begin to roll out for
 Apple released the iOS 18 developer beta during WWDC 2024 in June, and the public beta version was released on July 15\. The general release of iOS 18 is September 16.
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
 
@@ -124,6 +117,19 @@ If you can't see this option, go to your **Settings,** select **Privacy & Securi
 **Also: [How to use and customize your iPhone's new Control Center with iOS 18](https://www.zdnet.com/article/how-to-use-and-customize-your-iphones-new-control-center-with-ios-18/)**
 
 If you aren't already a member of the Apple Developer Program, you can sign up to become one in the app. An annual membership costs $99.
+
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What is in iOS 18 beta 3?
 
@@ -169,19 +175,17 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-tackling-massed-up-tiktoks-expert-edits-for-less-chaos/"><u>[New] In 2024, Tackling Massed-Up TikToks Expert Edits for Less Chaos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-seamless-video-editing-turning-avi-into-easily-shareable-gifs-with-filmora/"><u>[New] Seamless Video Editing Turning AVI Into Easily Shareable GIFs with Filmora</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-restoring-iphone-x-identity-check-reviving-face-recognition-for-2024/"><u>[Updated] Restoring iPhone X Identity Check Reviving Face Recognition for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/earn-big-on-youtube-shorts-tips-for-profitable-content-creation-for-2024/"><u>Earn Big on YouTube Shorts Tips for Profitable Content Creation for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-duckduckgos-secure-browsing-benefits-and-overview/"><u>Exploring DuckDuckGo's Secure Browsing: Benefits and Overview</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/hd-video-editing-made-easy-top-5-software-recommendations/"><u>HD Video Editing Made Easy Top 5 Software Recommendations</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-realme-note-50-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Realme Note 50 to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Apple iPhone 8 Plus? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Vivo V30 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/simple-steps-to-power-cycle-your-iphone-15-troubleshooting-tips/"><u>Simple Steps to Power Cycle Your iPhone 15 - Troubleshooting Tips</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-list-6-favorite-cost-free-alternatives-to-adobe-photoshop/"><u>The Ultimate List: 6 Favorite Cost-Free Alternatives to Adobe Photoshop</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-effortless-steps-to-remove-images-from-your-facebook-account/"><u>Ultimate Guide: Effortless Steps to Remove Images From Your Facebook Account</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unifying-jpeg-photos-into-a-unified-pdf-document-best-techniques-and-tools/"><u>Unifying JPEG Photos Into a Unified PDF Document - Best Techniques and Tools</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-11-pro-max-i-do-get-answers-here-drfone-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone 11 Pro Max i Do? Get Answers here | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-efficiently-using-background-footage-in-projects/"><u>[New] In 2024, Efficiently Using Background Footage in Projects</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-logitech-webcam-101-a-beginners-guide-to-video/"><u>[Updated] In 2024, Logitech Webcam 101 A Beginner's Guide to Video</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-is-it-time-to-upgrade-to-an-itop-equipped-system-in-2024/"><u>[Updated] Is It Time to Upgrade to an ITop-Equipped System, In 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-masterful-audio-selection-optimal-mics-for-intense-4k-shooting/"><u>[Updated] Masterful Audio Selection Optimal Mics for Intense 4K Shooting</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-swiftly-verify-the-version-of-your-nvidia-graphics-card-driver/"><u>How to Swiftly Verify the Version of Your NVIDIA Graphics Card Driver</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-use-ps3-controller-on-pc-no-motioninjoy/"><u>How to Use PS3 Controller on PC (NO MotioninJoy)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/hxtsrexe-in-windows-11-what-is-it-and-how-to-fix-it-solved/"><u>HxTsr.exe in Windows 11 - What Is It and How to Fix It? [Solved]</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-basics-of-pc-drivers-proven-methods-for-correcting-windows-driver-glitches/"><u>Mastering the Basics of PC Drivers: Proven Methods for Correcting Window's Driver Glitches</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-brother-printer-configuration-in-minutes/"><u>Mastering the Brother Printer Configuration in Minutes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/simplifying-onestream-techniques-for-effective-streaming/"><u>Simplifying OneStream Techniques for Effective Streaming</u></a></li>
 </ul></div>
 

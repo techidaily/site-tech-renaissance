@@ -1,7 +1,7 @@
 ---
 title: Discover the Most Thrilling Aspects of iOS 18 Revealed at WWDC 2024, with a Spotlight on AI Advancements | GizmoDaily
-date: 2024-10-07T11:46:52.671Z
-updated: 2024-10-12T17:54:34.482Z
+date: 2024-10-13T14:38:39.830Z
+updated: 2024-10-18T21:06:44.737Z
 tags:
   - apple
 categories:
@@ -43,10 +43,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Try a different Home screen theme
@@ -56,10 +56,10 @@ Next, you can apply different themes to the Home screen. Press down on any empty
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
@@ -71,10 +71,10 @@ You can now apply bold, italics, underline, or strikethrough for the selected te
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Schedule a text
@@ -86,10 +86,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Lock down an app
@@ -128,20 +128,16 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-essential-gear-to-enhance-yi-4k-cinematography/"><u>[New] In 2024, Essential Gear to Enhance YI 4K Cinematography</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-softening-effects-in-ableton-live/"><u>[Updated] In 2024, Softening Effects in Ableton Live</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your OnePlus Nord N30 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/complete-chronological-guide-the-ultimate-way-to-experience-james-bond-films/"><u>Complete Chronological Guide: The Ultimate Way to Experience James Bond Films</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-analysis-of-mingda-magician-pro2-powerful-performance-in-stealth-mode/"><u>Comprehensive Analysis of Mingda Magician Pro2: Powerful Performance in Stealth Mode</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-list-heartwarming-family-films-available-on-amazon-prime-video-in-july-2024/"><u>Essential List: Heartwarming Family Films Available On Amazon Prime Video in July 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-review-of-vivacuts-latest-edits-and-enhancements-for-2024/"><u>Expert Review of VivaCut's Latest Edits and Enhancements for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-waterproof-capabilities-of-iphone-13/"><u>Exploring the Waterproof Capabilities of iPhone 13</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transitioning-video-content-into-stills-with-windows-11/"><u>In 2024, Transitioning Video Content Into Stills with Windows 11</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-11-exceptional-free-music-recording-programs-for-beginners-and-pros-for-2024/"><u>New 11 Exceptional Free Music Recording Programs for Beginners and Pros for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solutions-for-resolving-advapi32dll-file-missing-bugs/"><u>Solutions for Resolving 'Advapi32.dll File Missing' Bugs</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/techniques-to-trace-personal-phone-details-via-online-platforms/"><u>Techniques to Trace Personal Phone Details Via Online Platforms</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-evolution-of-artifice-intelligence-examining-5-innovative-approaches-that-might-outshine-the-turing-trial/"><u>The Evolution of Artifice Intelligence: Examining 5 Innovative Approaches That Might Outshine the Turing Trial</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-the-leading-wet-proof-phones-shields/"><u>Ultimate Guide: The Leading Wet-Proof Phones Shields</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-the-key-differences-between-home-theater-and-traditional-stereo-receivers/"><u>Understanding the Key Differences Between Home Theater and Traditional Stereo Receivers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/beat-the-server-blues-expert-advice-to-correct-a-500-error-code/"><u>Beat the Server Blues: Expert Advice to Correct a 500 Error Code</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/decode-408-timeout-a-guide-to-recognizing-and-resolving-this-http-status-code/"><u>Decode '408 Timeout': A Guide to Recognizing & Resolving This HTTP Status Code</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-solutions-for-missing-msodll-error-fixes/"><u>Effective Solutions for Missing mso.dll Error Fixes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-ways-to-improve-your-iphones-camera-autofocus-functionality/"><u>Expert Ways to Improve Your iPhone's Camera Autofocus Functionality</u></a></li>
+<li><a href="https://extra-information.techidaily.com/expertise-in-iphone-the-ultimate-hdr-photo-journey/"><u>Expertise in iPhone The Ultimate HDR Photo Journey</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-your-airplay-problems-a-step-by-step-guide/"><u>Fixing Your AirPlay Problems: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/high-school-heroes-and-heartbreaks-must-watch-teen-films-on-netflix/"><u>High School Heroes and Heartbreaks: Must-Watch Teen Films on Netflix</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/how-to-delete-files-irreversibly-using-seven-secure-algorithms/"><u>How To Delete Files Irreversibly Using Seven Secure Algorithms</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-xiaomi-redmi-k70-pro-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Xiaomi Redmi K70 Pro – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/optimizing-your-music-library-transitioning-from-spotify-to-youtube-music/"><u>Optimizing Your Music Library Transitioning From Spotify To YouTube Music</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-discords-devastating-javascript-problems-in-w10w11-systems/"><u>Overcoming Discord's Devastating Javascript Problems in W10/W11 Systems</u></a></li>
 </ul></div>
 

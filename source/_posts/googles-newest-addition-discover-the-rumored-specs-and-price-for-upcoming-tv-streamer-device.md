@@ -1,7 +1,7 @@
 ---
 title: Google's Newest Addition? Discover the Rumored Specs & Price for Upcoming TV Streamer Device
-date: 2024-09-19T16:15:04.161Z
-updated: 2024-09-21T02:05:13.187Z
+date: 2024-10-14T09:46:53.232Z
+updated: 2024-10-18T23:09:24.969Z
 categories:
   - BestProducts
 description: This Article Describes Google's Newest Addition? Discover the Rumored Specs & Price for Upcoming TV Streamer Device
@@ -30,6 +30,13 @@ In This Article
 
  Rumors say the company will announce this Google TV streaming device at[the next Google event](https://www.lifewire.com/google-event-5205756) in August. This is the same event poised to introduce several other Google products like the[Pixel Watch 3](https://www.lifewire.com/google-pixel-watch-3-8431024) and[Pixel 9 smartphone](https://www.lifewire.com/google-pixel-9-8630767) .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Lifewire's Release Date Estimate
 
 August 13 is our best guess.
@@ -37,6 +44,13 @@ August 13 is our best guess.
 ## Google TV Streamer Price Rumors
 
  The only reference point we have to price this new[streaming device](https://www.lifewire.com/what-is-a-streaming-device-5208767) is Google's 4K Chromecast with Google TV, which is priced at $50\. They could easily drop that price and slot the Google TV Streamer in its place. If not, the most we can see Google charging for the Google TV Streamer is $70.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Pre-Order Information
 
@@ -47,13 +61,6 @@ August 13 is our best guess.
 ![The Google TV Streamer and remote](https://www.lifewire.com/thmb/-vnWbTJuk9OzmaxhkBjEiqhYPRA=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/google-tv-streamer-remote-f778bf371f604247a3e9592a4f4d4f6b.jpg)
 
 9to5Google
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Google TV Streamer Specs & Features
 
@@ -69,19 +76,20 @@ August 13 is our best guess.
 
 ![Google TV Streamer remote](https://www.lifewire.com/thmb/a47wfU6UCU7urolc1HR8HsvT2D8=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Google-TV-Streamer-Remote-ee116f9ff7d44f16a632d2414517c129.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 9to5Google
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Latest News About the Google TV Streamer
@@ -107,5 +115,21 @@ August 13 is our best guess.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-recording-skype-best-practices-for-pcs-and-macs-for-2024/"><u>[New] Recording Skype Best Practices for PCs & Macs for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-top-5-tactics-from-experts-a-journey-of-online-brand-growth/"><u>[Updated] 2024 Approved Top 5 Tactics From Experts A Journey of Online Brand Growth</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/all-about-sonys-plans-for-tomorrow-a-deep-dive-into-their-2024-state-of-play-reveals/"><u>All About Sony's Plans for Tomorrow: A Deep Dive Into Their 2024 State of Play Reveals</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/breaking-tech-news-stellar-introduces-revolutionary-image-retrieval-and-correction-software/"><u>Breaking Tech News: Stellar Introduces Revolutionary Image Retrieval and Correction Software</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/bulk-download-convert-and-save-zuzkas-video-collection-in-various-formats-mp4-mov-avi-etc/"><u>Bulk Download: Convert and Save Zuzka's Video Collection in Various Formats (MP4, MOV, AVI, Etc.)</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/crafting-winning-twitter-sponsored-content/"><u>Crafting Winning Twitter Sponsored Content</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/cross-generation-gaming-can-ps4-games-work-with-sonys-latest-ps5/"><u>Cross-Generation Gaming: Can PS4 Games Work with Sony's Latest PS5?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-leading-10-websites-dominating-internet-traffic-today/"><u>Discover the Leading 10 Websites Dominating Internet Traffic Today</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-methods-for-networked-printing-across-various-electronics/"><u>Easy Methods for Networked Printing Across Various Electronics</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-palm-2-upgrades-will-elevate-googles-bard-ai-top-7-insights/"><u>How PaLM 2 Upgrades Will Elevate Google's Bard AI: Top 7 Insights</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/how-to-troubleshoot-and-repair-wi-fi-connectivity-issues-on-windows-11-a-step-by-step-guide/"><u>How to Troubleshoot and Repair Wi-Fi Connectivity Issues on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/in-the-us-climate-change-law-often-operates-under-existing-statutes-like-the-clean-air-act-which-is-enforced-by-federal-agencies-such-as-the-epa-while-state3/"><u>In the U.S., Climate Change Law Often Operates Under Existing Statutes Like the Clean Air Act, Which Is Enforced by Federal Agencies Such as the EPA, While States May Implement Stricter Regulations Independently.</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-infinix-hot-30i-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Infinix Hot 30i Reset Code | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-correcting-missing-mscsctpdll-issues/"><u>Troubleshooting Guide: Correcting Missing mscsctp.dll Issues</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Apple's Big Reveals at WWDC: Unpacking the Latest in AI, Siri Updates, and iOS 18 Enhancements - Insights From ZDNet"
-date: 2024-10-06T11:32:01.390Z
-updated: 2024-10-13T04:56:53.159Z
+date: 2024-10-16T17:56:53.857Z
+updated: 2024-10-18T16:32:05.298Z
 tags:
   - apple
 categories:
@@ -60,13 +60,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -74,6 +67,13 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -93,6 +93,19 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -106,13 +119,6 @@ Adam Breeden/ZDNET
 * With watchOS, users will get suggestions on the best photo options for their **watch face** from their photo library based on criteria such as aesthetics, composition, facial expressions, and more. The face can also be customized with different sizes, layouts, and fonts.
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## iPadOS 18
 
@@ -135,6 +141,13 @@ Adam Breeden/ZDNET
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## VisionOS 2
 
 Jason Hiner/ZDNET
@@ -152,13 +165,6 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -168,10 +174,10 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -218,14 +224,20 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-honor-90-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Honor 90 Pro | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620191219-7-must-try-costless-faxing-solutions-on-android-phones-find-out-which-one-suits-you/"><u>7 Must-Try Costless Faxing Solutions on Android Phones - Find Out Which One Suits You!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/80211-standards-explained-80211be-80211ax-80211ac-80211bgn-80211a/"><u>802.11 Standards Explained: 802.11Be, 802.11Ax, 802.11Ac, 802.11B/G/N, 802.11A</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/diy-methods-for-rectifying-uneven-colors-and-warped-images-on-your-pc-display/"><u>DIY Methods for Rectifying Uneven Colors & Warped Images on Your PC Display</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-can-you-stop-your-mac-from-going-into-sleep-mode-easily/"><u>How Can You Stop Your Mac From Going Into Sleep Mode Easily?</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-the-ultimate-list-top-ps1-emulators-for-pc-gamers/"><u>In 2024, The Ultimate List Top PS1 Emulators for PC Gamers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-the-ios-update-process-with-expert-tips-and-tricks/"><u>Navigating the iOS Update Process with Expert Tips and Tricks</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/preserving-the-past-digitally-how-to-efficiently-use-wayback-machine/"><u>Preserving the Past Digitally: How to Efficiently Use Wayback Machine</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/spotlight-on-max-the-ultimate-list-of-documentary-films-for-july-2024/"><u>Spotlight on Max: The Ultimate List of Documentary Films for July 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-leading-websites-for-free-game-of-thrones-ringtones/"><u>[Updated] Leading Websites for Free Game of Thrones Ringtones</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-the-ultimate-guide-to-ios-auditory-pleasures-for-2024/"><u>[Updated] The Ultimate Guide to iOS Auditory Pleasures for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/achieving-audio-harmony-expert-advice-on-fixing-chromecast-sound-latency-problems/"><u>Achieving Audio Harmony: Expert Advice on Fixing Chromecast Sound Latency Problems</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/beyond-marketing-honest-review-of-recordcast/"><u>Beyond Marketing Honest Review of RecordCast</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/complimentary-realtek-pci-e-feature-device-controllers-software-for-win11-systems/"><u>Complimentary Realtek PCI-E Feature Device Controllers Software for Win11 Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/dealing-with-nspr4dll-not-detected-top-strategies-and-tips/"><u>Dealing with 'Nspr4.dll Not Detected' - Top Strategies and Tips</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-samsung-galaxy-f54-5g-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Samsung Galaxy F54 5G to Protect Your Individual Information</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-blend-media-items-for-enhanced-youtube-organization/"><u>In 2024, Blend Media Items for Enhanced YouTube Organization</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-leveraging-s2t-technology-in-professional-decks/"><u>In 2024, Leveraging S2T Technology in Professional Decks</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-valheims-optimal-seed-selection-strategies/"><u>In 2024, Valheim's Optimal Seed Selection Strategies</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/seamlessly-moving-your-memories-a-guide-to-uploading-google-photos-into-icloud/"><u>Seamlessly Moving Your Memories: A Guide to Uploading Google Photos Into iCloud</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/simple-steps-to-successfully-pair-and-use-a-logitech-mouse/"><u>Simple Steps to Successfully Pair and Use a Logitech Mouse</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-power-issues-reviving-your-roku-tv-from-black-screen/"><u>Solving Power Issues: Reviving Your Roku TV From Black Screen</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-art-of-spotting-phony-friends-in-the-digital-world-tips-and-tricks/"><u>The Art of Spotting Phony Friends in the Digital World – Tips & Tricks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-your-creativity-with-these-6-fantastic-adobe-alternatives-for-free/"><u>Unlock Your Creativity with These 6 Fantastic Adobe Alternatives for Free</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Iron Out Unwanted SMS: A 3-Step Guide to Blocking Spam on iOS Devices - Insights From ZDNet"
-date: 2024-10-06T05:56:27.178Z
-updated: 2024-10-13T01:54:26.907Z
+date: 2024-10-14T22:04:16.670Z
+updated: 2024-10-19T09:23:19.441Z
 tags:
   - apple
 categories:
@@ -30,6 +30,13 @@ The good news is that you can stop these text messages using a feature already i
 
 **What you'll need:** To follow this tutorial, you'll need the latest version of iOS available for your device.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Open Settings
 
 Open the Settings app on your iPhone, scroll down until you can access Apps, and tap on the Messages option.
@@ -37,13 +44,6 @@ Open the Settings app on your iPhone, scroll down until you can access Apps, and
 Tap on Messages to access the settings for your Messages app.
 
 Screenshot by Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Scroll until you find 'Filter Unknown Messages'
 
@@ -54,6 +54,13 @@ Scroll down to find the Filter Unknown Messages option and turn it on. This opti
 Scroll to the end of the Messages settings to find "Filter Unknown Senders."
 
 Screenshot by Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Check your Messages app
 
@@ -78,20 +85,13 @@ The message inbox will now default to show messages from people in your contact 
 Screenshot by Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQ
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How do I stop spam calls on iPhone?
 
@@ -118,10 +118,10 @@ The tutorial above will let you live in ignorant bliss of whoever is trying to r
 iPhone messages from unknown senders display a text below them saying, "This sender is not in your contact list. Report Junk." This is where you can report the message.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How do I block a sender on my iPhone?
@@ -175,21 +175,21 @@ Some phone companies started flagging incoming calls as "Spam Caller" or "Scam L
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-m1-deciphered-apples-computing-game-changer/"><u>[New] M1 Deciphered Apple's Computing Game-Changer</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-elevate-your-content-game-best-practices-for-mac-based-tiktok-intros/"><u>[Updated] In 2024, Elevate Your Content Game Best Practices for Mac-Based TikTok Intros</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-navigating-the-world-of-mp4-edits-on-apple-devices/"><u>[Updated] In 2024, Navigating the World of MP4 Edits on Apple Devices</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/a-look-inside-vidmas-screen-recording-mechanics-for-2024/"><u>A Look Inside Vidma's Screen Recording Mechanics for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/breaking-down-the-fundamentals-of-lut-design/"><u>Breaking Down the Fundamentals of LUT Design</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone 15 Pro Max</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-depth-examination-the-dji-phantom-3-experience-for-2024/"><u>In-Depth Examination The DJI Phantom 3 Experience for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/indiana-jones-franchise-a-comprehensive-guide-on-viewing-sequences/"><u>Indiana Jones Franchise: A Comprehensive Guide on Viewing Sequences</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/retrieve-accidentally-deleted-numbers-on-android-with-these-effective-strategies/"><u>Retrieve Accidentally Deleted Numbers on Android with These Effective Strategies</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/stay-connected-best-practices-for-using-roku-in-hotels-and-dorms/"><u>Stay Connected: Best Practices for Using Roku in Hotels and Dorms</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/surviving-the-elements-electric-vehicle-functionality-in-harsh-temperatures/"><u>Surviving the Elements: Electric Vehicle Functionality in Harsh Temperatures</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-checklist-for-selecting-prime-streaming-services-of-cricket-for-2024/"><u>The Ultimate Checklist for Selecting Prime Streaming Services of Cricket for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-tech-parenting-hack-setting-up-restrictions-on-discord-chat-rooms/"><u>The Ultimate Tech Parenting Hack: Setting up Restrictions on Discord Chat Rooms</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-picks-the-best-series-streaming-on-max-at-this-moment/"><u>Top Picks: The Best Series Streaming on MAX at This Moment</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/twirl-off-tiktoks-top-country-hits-for-serene-sessions-for-2024/"><u>Twirl Off TikTok's Top Country Hits for Serene Sessions for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/where-can-you-enjoy-free-films-for-kids-check-out-our-expertly-chosen-best-6-kid-friendly-streaming-sites/"><u>Where Can You Enjoy Free Films for Kids? Check Out Our Expertly Chosen Best 6 Kid-Friendly Streaming Sites!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-transforming-photos-adding-motion-blur-to-peoples-portraits-with-picsart/"><u>[New] 2024 Approved Transforming Photos Adding Motion Blur to People's Portraits with Picsart</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-elite-collection-of-online-video-grabbers-and-savers-for-2024/"><u>[New] Elite Collection of Online Video Grabbers & Savers for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-fringe-to-mainstream-highlighting-top-10-gender-balanced-youtubers/"><u>[New] In 2024, From Fringe to Mainstream Highlighting Top 10 Gender-Balanced YouTubers</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-strategies-for-incorporating-secondary-shots-in-filmmaking/"><u>[New] In 2024, Strategies for Incorporating Secondary Shots in Filmmaking</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-crafting-traditional-eastern-abodes-in-mc-world/"><u>[Updated] 2024 Approved Crafting Traditional Eastern Abodes in MC World</u></a></li>
+<li><a href="https://apple-account.techidaily.com/detailed-guide-on-removing-iphone-xs-max-activation-lock-without-previous-owner-by-drfone-ios/"><u>Detailed Guide on Removing iPhone XS Max Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fifa-21-initialization-error-solved-ready-to-play-now/"><u>FIFA 21 Initialization Error Solved – Ready to Play Now</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-convert-your-kobo-e-books-into-kindle-format-seamlessly/"><u>How to Convert Your Kobo E-Books Into Kindle Format Seamlessly</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-malfunctioning-hardware-drivers-with-windows-device-manager-on-windows-11-and-10-by-drivereasy-guide/"><u>How to identify malfunctioning hardware drivers with Windows Device Manager on Windows 11 & 10</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/inquire-now-gain-clarity-direct-qanda-for-immediate-solutions/"><u>Inquire Now, Gain Clarity: Direct Q&A for Immediate Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/liberate-ebooks-from-drm-comprehensive-guide-to-safe-epub-decryption-techniques/"><u>Liberate eBooks From DRM - Comprehensive Guide to Safe EPub Decryption Techniques</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revitalize-your-online-presence-with-the-latest-updates-and-tweaks/"><u>Revitalize Your Online Presence with the Latest Updates and Tweaks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-to-setting-up-koreader-application-on-your-kindle-device/"><u>Step-by-Step Guide to Setting Up Koreader Application on Your Kindle Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-adding-a-protective-watermark-to-your-pdf-documents/"><u>Step-by-Step Guide: Adding a Protective Watermark to Your PDF Documents</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-moving-ebooks-from-your-computer-to-a-kindle-reader/"><u>Step-by-Step Guide: Moving eBooks From Your Computer to a Kindle Reader</u></a></li>
 </ul></div>
 

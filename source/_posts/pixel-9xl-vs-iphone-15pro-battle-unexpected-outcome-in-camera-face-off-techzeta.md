@@ -1,7 +1,7 @@
 ---
 title: "Pixel 9XL vs iPhone 15Pro Battle: Unexpected Outcome in Camera Face-Off | TechZeta"
-date: 2024-10-07T21:54:19.731Z
-updated: 2024-10-13T01:28:11.284Z
+date: 2024-10-12T20:30:35.884Z
+updated: 2024-10-19T00:43:45.900Z
 tags:
   - apple
 categories:
@@ -77,10 +77,10 @@ I use the ultrawide camera to take architecture shots or group photos. While I d
 I would prefer the iPhone shot for this particular image, but I can see myself using the wider FoV and fisheye effect on the Pixel 9 Pro when I'm traveling. The Google phone also fared better in low light with the ultrawide camera. That being said, the colors were consistent across three lenses on both phones.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## A clear winner in night time
@@ -110,10 +110,10 @@ The iPhone 15 Pro holds up well in indoor and artificial lighting conditions but
 The iPhone 15 Pro shot looks bad, despite the dog not moving, while the Pixel 9 Pro XL was able to capture the subject when it was about to move by the time the shutter was processed. I would pick the new Google phone for night shots unless the iPhone 16 Pro comes with better Night Mode algorithms. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Pixel 9 Pro XL gets good at selfies
@@ -127,10 +127,10 @@ I like the selfie shooter on the iPhone 15 Pro and have found it better than And
 I like the Pixel 9 Pro XL selfie here but the iPhone was able to get more details around the hair. But you can see areas around my forehead and cheeks where the highlights are blown out. However, both look social media worthy and I'm impressed by the selfie camera on the Pixel 9 Pro. It does a better job than the iPhone when the light source is behind you.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Pixel 9 Pro XL vs iPhone 15 Pro camera: Which one is better?
@@ -175,22 +175,24 @@ I expect the iPhone 16 Pro to do better in the aspects where the iPhone 15 Pro l
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-game-on-with-the-samsung-ue590-a-freesync-dream-tv-review/"><u>[New] Game On with the Samsung UE590 A FreeSync Dream TV Review</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-the-podcasters-guide-to-high-quality-home-recordings-for-2024/"><u>[New] The Podcaster’s Guide to High-Quality Home Recordings for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-elevating-your-footage-imovie-videos-for-youtube-enthusiasts/"><u>[Updated] Elevating Your Footage IMovie Videos for YouTube Enthusiasts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722874071792-add-a-splash-of-personality-to-your-mac-learn-to-change-folder-colors-today/"><u>Add a Splash of Personality to Your Mac: Learn to Change Folder Colors Today</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/best-iphone-and-android-photo-and-video-capture-applications-reviewed-for-2024/"><u>Best iPhone & Android Photo & Video Capture Applications Reviewed for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/connecting-apples-wireless-earbuds-to-a-nintendo-gaming-system/"><u>Connecting Apple's Wireless Earbuds to a Nintendo Gaming System</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-history-of-googles-messaging-and-video-call-platform-hangouts/"><u>Exploring the History of Google's Messaging and Video Call Platform: Hangouts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-address-and-repair-wlanapidll-error-messages-effectively/"><u>How to Address and Repair wlanapi.dll Error Messages Effectively</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-vivo-y27s-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Vivo Y27s Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-se-2020-with-imei-code-by-drfone-ios/"><u>How to Unlock Apple iPhone SE (2020) with IMEI Code?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/inside-the-apple-watch-ultra-2-leak-release-dates-price-forecasts-and-cutting-edge-technology-sneak-peek/"><u>Inside the Apple Watch Ultra 2 Leak: Release Dates, Price Forecasts, and Cutting-Edge Technology Sneak Peek</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-from-chrome-os-to-linux-a-beginners-guide-to-installation-2023-edition/"><u>New 2024 Approved From Chrome OS to Linux A Beginners Guide to Installation (2023 Edition)</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722891184723-prepare-for-the-newest-apple-occasion-exclusive-insights-into-date-announcements-and-rumored-gadgets/"><u>Prepare for the Newest Apple Occasion: Exclusive Insights Into Date Announcements and Rumored Gadgets</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/remote-screen-resizing-facility/"><u>Remote Screen Resizing Facility</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/rumors-unfurl-on-googles-latest-gadget-the-pixel-fold-2-with-predicted-price-release-date-and-features-to-watch-for/"><u>Rumors Unfurl on Google's Latest Gadget: The Pixel Fold 2 with Predicted Price, Release Date and Features to Watch For</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-boosting-internet-performance-at-home-or-work/"><u>The Ultimate Guide to Boosting Internet Performance at Home or Work</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unleash-your-excel-potential-triumph-where-chatgpt-falls-short/"><u>Unleash Your Excel Potential: Triumph Where ChatGPT Falls Short</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-advanced-strategies-for-youtube-audio-editing-mastery/"><u>[New] 2024 Approved Advanced Strategies for YouTube Audio Editing Mastery</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-cinema-for-all-a-comparative-look-at-vimeo-and-youtube-for-2024/"><u>[New] Cinema for All? A Comparative Look at Vimeo & YouTube for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-game-capture-faceoff-evaluate-obs-and-shadowplay-for-2024/"><u>[New] Game Capture Faceoff Evaluate OBS & ShadowPlay for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-how-to-edit-facebook-look-back-video/"><u>[Updated] 2024 Approved How to Edit Facebook Look Back Video</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-top-offline-mobile-world-choose-the-ultimate-game-for-fun-for-2024/"><u>[Updated] Top Offline Mobile World - Choose the Ultimate Game for Fun for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-enhance-tiktok-engagement-by-altering-user-numbers/"><u>2024 Approved Enhance TikTok Engagement by Altering User Numbers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-steps-for-modifying-your-facebook-passcode-online/"><u>Easy Steps for Modifying Your Facebook Passcode Online</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/facebook-cleanup-how-to-erase-photos-from-your-profile-with-ease/"><u>Facebook Cleanup: How To Erase Photos From Your Profile With Ease</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-integrate-command-prompt-functionality-into-your-pcs-explorer-interface/"><u>How to Integrate Command Prompt Functionality Into Your PC's Explorer Interface</u></a></li>
+<li><a href="https://solve-info.techidaily.com/how-to-transfer-and-share-your-dvd-files-on-the-vimeo-platform-easily/"><u>How To Transfer And Share Your DVD Files On The Vimeo Platform Easily</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-eclipse-etiquette-secrets-to-stunning-night-photos/"><u>In 2024, Eclipse Etiquette Secrets to Stunning Night Photos</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-itel-a70-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Itel A70 Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solution-restoring-calling-capabilities-to-a-dysfunctional-android-phone/"><u>Step-by-Step Solution: Restoring Calling Capabilities to a Dysfunctional Android Phone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-complete-walkthrough-for-connecting-a-fire-stick-remote-in-no-time/"><u>The Complete Walkthrough for Connecting a Fire Stick Remote in No Time</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/the-ultimate-guide-to-implementing-chatgpt-for-better-work-efficiency/"><u>The Ultimate Guide to Implementing ChatGPT for Better Work Efficiency</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-organizing-your-gmail-filters-and-addresses-explained/"><u>The Ultimate Guide to Organizing Your Gmail: Filters & Addresses Explained</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-selection-of-10-delightful-cooking-tv-show-gems-on-netflix/"><u>The Ultimate Selection of 10 Delightful Cooking TV Show Gems on Netflix</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-windows-11-solutions-for-non-responsive-search-function/"><u>Troubleshooting Windows 11: Solutions for Non-Responsive Search Function</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-kids-favorite-movies-featured-on-disneyplus-in-july-2024-familyfriendlyfilms/"><u>Ultimate Guide to Kid's Favorite Movies Featured on Disney+ in July 2024 #FamilyFriendlyFilms</u></a></li>
 </ul></div>
 

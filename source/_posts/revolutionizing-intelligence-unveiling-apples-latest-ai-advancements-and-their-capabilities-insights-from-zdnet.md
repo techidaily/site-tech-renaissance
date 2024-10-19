@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Intelligence: Unveiling Apple's Latest AI Advancements and Their Capabilities - Insights From ZDNet"
-date: 2024-10-05T19:06:45.083Z
-updated: 2024-10-12T18:45:25.133Z
+date: 2024-10-11T20:25:01.135Z
+updated: 2024-10-18T21:42:50.048Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ In a [previous article](https://www.zdnet.com/article/6-ways-apple-can-leapfrog-
 ## What Apple Intelligence will bring to the company's operating system platforms
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### AI on the device and in the cloud
@@ -60,10 +60,10 @@ In terms of AI infrastructure, Apple also introduced its [Foundation Models](htt
 **Room for Improvement:** Apple fell short in AI infrastructure leadership by not announcing AI-accelerated server appliances at the edge, which would allow less capable devices, like the base iPhone 15 and earlier iOS 18-supported models, to use Apple Intelligence's more advanced features. While the hybrid AI model with on-device and PCC is a step in the right direction, AI-accelerated edge network devices were not mentioned to enhance performance and reduce latency. Apple is typically not transparent about deploying resources in its data centers, so it may plan to deploy these appliances at the edge without disclosing specifics. While the short list of Responsible AI Principles that the company [has documented here](https://machinelearning.apple.com/research/introducing-apple-foundation-models) is a good start, an AI [ethical disclosure](https://www.adobe.com/content/dam/cc/en/ai-ethics/pdfs/Adobe-AI-Ethics-Principles.pdf) statement [along the lines of what Adobe is doing](https://www.adobe.com/ai/overview/ethics.html) would further bolster trust and transparency.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Embracing third-party AI providers
@@ -88,13 +88,6 @@ Apple has opened up a world of creative possibilities by integrating the [Image 
 
 **Room for improvement:** Providing more granular controls and customization options for the generated images and Genmojis, such as fine-tuning styles and attributes, could cater to more specific user preferences. Additionally, implementing features that suggest image enhancements or emoji creations based on user activity and context could further streamline the creative process.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Enhanced Siri and task automation
 
 Siri, the voice assistant we've come to know and tolerate, is finally getting a much-needed upgrade. With advanced natural language processing (NLP), Siri can understand users even if they stutter and maintain conversational context, making interactions more seamless and intuitive. You can now type requests to Siri, a feature bound to be a hit in noisy environments. Siri's new look, with a light wrapping around the screen edges when tapped, adds a modern touch.
@@ -116,6 +109,13 @@ Lastly, enhancing AI capabilities across all Apple products, including Siri, App
 **Also: [What is Apple Intelligence? How the iPhone's on-device and cloud-based AI works](https://www.zdnet.com/article/what-is-apple-intelligence-how-the-iphones-on-device-and-cloud-based-ai-will-work/)**
 
 **Room for improvement:** We also haven't heard anything about [HomePod](https://www.zdnet.com/home-and-office/home-entertainment/homepod-vs-homepod-mini-which-one-of-apples-smart-speakers-is-right-for-you/) or Apple TV with Apple Intelligence, although neither of these products has the computational power to perform on-device generative AI. Similarly, there were no mentions of new AI capabilities in [WatchOS](https://www.zdnet.com/article/every-apple-watch-model-that-will-support-watchos-11-and-which-ones-wont/). While these devices might be able to use some of the cloud capabilities of Apple Intelligence, this was not brought up in the keynote. Additionally, with its M2 chip, the [Vision Pro](https://www.zdnet.com/article/apple-vision-pro-faq-price-features-hands-on-insights-and-everything-you-need-to-know/) is powerful enough to handle Apple Intelligence on-device features. Still, the keynote did not discuss what would be coming to that device specifically.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The developer story
 
@@ -142,10 +142,10 @@ Finally, the new Translation API will be unveiled. It will help developers build
 By equipping developers with these resources, Apple is ensuring that the potential of Apple Intelligence can be fully realized across its ecosystem, driving innovation and enhancing user experiences.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Did Apple go far enough with AI improvements?
@@ -188,24 +188,20 @@ Addressing the remaining gaps could enhance Apple's competitive position in the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-from-basics-to-brilliance-mastering-the-art-of-macbook-air-screen-capture/"><u>[New] From Basics to Brilliance Mastering the Art of MacBook Air Screen Capture</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-revolutionizing-photos-through-automated-hdr-techniques/"><u>[Updated] 2024 Approved Revolutionizing Photos Through Automated HDR Techniques</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-the-art-with-sony-fdr-x1000v-action-footage/"><u>[Updated] Mastering the Art with Sony FDR-X1000V Action Footage</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-fix-what-to-do-if-your-osdtcpdll-file-is-gone/"><u>Comprehensive Fix: What to Do If Your OSDTCP.dll File Is Gone</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-solutions-for-preventing-gas-station-simulator-from-frequently-crashing-on-windows/"><u>Effective Solutions for Preventing Gas Station Simulator From Frequently Crashing on Windows</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-steps-in-optimizing-your-smartphone-photography-with-a-selfie-ring-light/"><u>Essential Steps in Optimizing Your Smartphone Photography with a Selfie Ring Light</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-effortlessly-edit-and-crop-images-using-iphones-ios-16-tools/"><u>How to Effortlessly Edit and Crop Images Using iPhone's iOS 16 Tools</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-motorola-defy-2-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Motorola Defy 2?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-iphone-11-pro-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On iPhone 11 Pro</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-infinix-smart-7-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Infinix Smart 7 Screen | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/july-2024-showcase-selecting-the-top-13-free-pdf-manipulation-programs/"><u>July 2024 Showcase: Selecting the Top 13 Free PDF Manipulation Programs</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/master-the-art-of-controlling-internet-usage-how-to-prevent-youtube-access-on-an-ipad/"><u>Master the Art of Controlling Internet Usage: How to Prevent YouTube Access on an iPad</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-gpt-8-essential-methods/"><u>Mastering GPT: 8 Essential Methods</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/maximize-your-home-internet-range-with-the-best-extenders-of-2024/"><u>Maximize Your Home Internet Range with the Best Extenders of 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/pros-and-cons-of-using-a-local-language-learning-model-what-to-consider/"><u>Pros and Cons of Using a Local Language Learning Model – What to Consider</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-joining-an-icloud-shared-photo-library/"><u>Step-by-Step Guide: Joining an iCloud Shared Photo Library</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/steps-to-determine-a-users-position-with-iphone-gps-features/"><u>Steps to Determine a User's Position with iPhone GPS Features</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/watch-your-favorite-shows-on-hulu-with-this-simple-setup-for-lg-tvs/"><u>Watch Your Favorite Shows on Hulu with This Simple Setup for LG TVs</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/your-phones-call-archive-iphone-2024/"><u>Your Phone's Call Archive - iPhone 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-essential-guidelines-to-create-impactful-youtube-banners/"><u>[New] 2024 Approved Essential Guidelines to Create Impactful YouTube Banners</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-essential-tips-for-navigating-zoom-on-windows-11-for-2024/"><u>[Updated] Essential Tips for Navigating Zoom on Windows 11 for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-perfect-thumbnail-size-for-click-through-rates/"><u>[Updated] Perfect Thumbnail Size for Click-Through Rates</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/control-your-input-enablingdisabling-the-in-built-keyboard-on-windows-10-simplified/"><u>Control Your Input: Enabling/Disabling the In-Built Keyboard on Windows 10 Simplified</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-latest-broadcom-bluetooth-drivers-compatible-with-windows-11-8-and-7/"><u>Download the Latest Broadcom Bluetooth Drivers Compatible with Windows 11, 8 & 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-poco-m6-pro-4g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Poco M6 Pro 4G Phone? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-measuring-your-macbooks-internal-heat-levels/"><u>Guide: Measuring Your MacBook's Internal Heat Levels</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-secure-your-spot-in-the-apple-genius-bar-a-comprehensive-tutorial/"><u>How to Secure Your Spot in the Apple Genius Bar: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-realme-note-50-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/nonewsubs-when-will-chatgpt-welcome-again/"><u>NoNewSubs: When Will ChatGPT Welcome Again?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/prime-locations-to-shop-for-mobile-devices-online-and-offline/"><u>Prime Locations to Shop for Mobile Devices Online and Offline</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/screen-capture-essentials-the-finest-zero-cost-apps-for-win-10-users/"><u>Screen Capture Essentials The Finest Zero-Cost Apps for Win 10 Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-display-defects-eliminating-color-imbalances-and-visual-warping-on-your-pc-monitor/"><u>Solving Display Defects: Eliminating Color Imbalances & Visual Warping on Your PC Monitor</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-list-of-free-online-movie-platforms/"><u>Ultimate List of Free Online Movie Platforms</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-the-secrets-to-identifying-your-macbook-serial-and-model-number/"><u>Unlocking the Secrets to Identifying Your MacBook Serial and Model Number</u></a></li>
 </ul></div>
 

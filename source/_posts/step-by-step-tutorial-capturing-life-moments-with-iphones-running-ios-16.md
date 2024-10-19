@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Capturing Life Moments with iPhones Running iOS 16"
-date: 2024-10-12T12:15:12.130Z
-updated: 2024-10-13T07:01:51.879Z
+date: 2024-10-14T19:24:34.449Z
+updated: 2024-10-19T13:15:36.069Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Tutorial: Capturing Life Moments with iPhones Running iOS 16"
@@ -24,16 +24,10 @@ thumbnail: https://thmb.techidaily.com/1e6fd3a5a3ea0e5e8f5fb33cf394d624bcb419dee
  This article explains how to enable Gmail sound notifications using the Notifier for Gmail extension for Chrome. It includes information for enabling a pop-up notification for Gmail and sound notifications for other email providers.
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Enable a New Mail Sound for Gmail
@@ -49,10 +43,10 @@ thumbnail: https://thmb.techidaily.com/1e6fd3a5a3ea0e5e8f5fb33cf394d624bcb419dee
 2. Scroll down to the Notifications section and make sure **Play alert sound for new emails** is selected.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Play alert sound for new emails.](https://www.lifewire.com/thmb/EaGNTDoH2lcLO8QxHT0Z1KVeUPk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-add-a-new-mail-sound-for-gmail-1e074c5a399d403aab64b2ec37afbbf8.jpg)
@@ -61,10 +55,10 @@ thumbnail: https://thmb.techidaily.com/1e6fd3a5a3ea0e5e8f5fb33cf394d624bcb419dee
 4. Exit the window when you're done. The changes are saved automatically.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also[change your notification sounds on Android](https://www.lifewire.com/how-to-change-create-android-notification-sounds-4783114) or[change the new mail sound on iOS](https://www.lifewire.com/how-to-change-the-new-mail-sound-in-ios-mail-1172501) to achieve a similar effect in those mobile apps.
@@ -76,10 +70,10 @@ thumbnail: https://thmb.techidaily.com/1e6fd3a5a3ea0e5e8f5fb33cf394d624bcb419dee
  You can set Gmail to display a pop-up notification when new email messages arrive in Chrome, Firefox, or Safari when you are signed in to Gmail and have it open in the browser. Just turn on that setting in Gmail by selecting the **Settings**  icon then choosing **See all settings** and going to **General** \> **Desktop Notifications** . The notification is not accompanied by a sound.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Change Gmail Notification Sounds in Other Email Clients
@@ -128,19 +122,21 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-high-altitude-heroes-aerospaces-persistent-innovations-top-10/"><u>[New] High Altitude Heroes Aerospace's Persistent Innovations (Top 10)</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-pro-3-the-new-standard-for-action-video-recording-by-ion-for-2024/"><u>[New] Pro 3 - The New Standard for Action Video Recording by ION for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-the-top-12-tycoon-games-worthy-of-every-business-strategists-time/"><u>[Updated] 2024 Approved The Top 12 Tycoon Games Worthy of Every Business Strategist's Time</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-expert-advice-for-flawless-recordings-on-mi-11-phones/"><u>[Updated] Expert Advice for Flawless Recordings on Mi 11 Phones</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/all-you-need-to-know-about-teslas-innovative-botataxi-latest-news-cost-estimates-launch-dates-and-feature-rumors/"><u>All You Need to Know About Tesla's Innovative Botataxi - Latest News, Cost Estimates, Launch Dates & Feature Rumors</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-fixes-when-your-computers-touchpad-stops-functioning/"><u>Effective Fixes When Your Computer's Touchpad Stops Functioning</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-samsung-galaxy-a15-4g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Samsung Galaxy A15 4G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/insight-into-samsung-galaxy-ring-cost-analysis-release-forecast-hardware-specs-and-breaking-news-stories/"><u>Insight Into Samsung Galaxy Ring: Cost Analysis, Release Forecast, Hardware Specs & Breaking News Stories</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/stellar-unveils-the-first-photo-restoration-and-fix-tool/"><u>Stellar Unveils: The First Photo Restoration & Fix Tool</u></a></li>
-<li><a href="https://howto.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-oppo-find-x7-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Oppo Find X7 Ultra | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-best-no-cost-malware-scrubbers-to-protect-your-pc-this-year/"><u>The Best No-Cost Malware Scrubbers to Protect Your PC This Year</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/trouble-with-disc-on-your-wii-heres-how-to-fix-it/"><u>Trouble with Disc on Your Wii? Here's How to Fix It</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-merging-excel-columns-seamlessly/"><u>Ultimate Guide: Merging Excel Columns Seamlessly</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-elevate-presentations-with-melodic-additions/"><u>[New] 2024 Approved Elevate Presentations with Melodic Additions</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-seeking-the-perfect-cut-choose-between-filmora-or-democreator/"><u>[New] 2024 Approved Seeking the Perfect Cut? Choose Between Filmora or Democreator</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-crafting-team-videos-to-foster-viewership-and-following-for-2024/"><u>[New] Crafting Team Videos to Foster Viewership and Following for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-apple-tv-and-facebook-integration-watching-videos-easily/"><u>[Updated] Apple TV and Facebook Integration Watching Videos Easily</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/13-tactics-for-successfully-repairing-spotify-connectivity-on-android-auto-systems/"><u>13 Tactics for Successfully Repairing Spotify Connectivity on Android Auto Systems</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-explore-elite-data-vaults-best-storages-reviewed/"><u>2024 Approved Explore Elite Data Vaults Best Storages Reviewed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apples-audio-wearable-unveiling-the-future-of-direct-sound-price-predictions-and-launch-details-revealed/"><u>Apple's Audio Wearable: Unveiling the Future of Direct Sound – Price Predictions and Launch Details Revealed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/are-users-experiencing-issues-with-aol-email-service/"><u>Are Users Experiencing Issues with AOL Email Service?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/crafting-new-dimensions-a-look-at-mixed-reality/"><u>Crafting New Dimensions A Look at Mixed Reality</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-connection-tips-hooking-up-your-firestick-device-to-any-modern-projector-model/"><u>Easy Connection Tips: Hooking up Your Firestick Device to Any Modern Projector Model</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-external-display-detection-issues-on-your-mac-computer/"><u>Fixing External Display Detection Issues on Your Mac Computer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-msi-b350-tomahawk-chip-set-drivers-compatible-with-windows-11-and-windows-7/"><u>Free MSI B350 Tomahawk Chip Set Drivers: Compatible with Windows 11 and Windows 7</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-honor-90-gt-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Honor 90 GT to iPad | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-top-tools-to-upscale-video-resolution-enhance-your-footage/"><u>New Top Tools to Upscale Video Resolution Enhance Your Footage</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/seamless-connectivity-bringing-the-web-to-your-living-room-theaters/"><u>Seamless Connectivity: Bringing the Web to Your Living Room Theaters</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-our-selection-top-12-free-online-phone-services/"><u>Unveiling Our Selection: Top 12 Free Online Phone Services</u></a></li>
 </ul></div>
 

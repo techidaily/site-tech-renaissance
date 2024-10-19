@@ -1,7 +1,7 @@
 ---
 title: ZDNet's Comprehensive Analysis of the Microsoft Surface Pro 8 for Enterprise Use
-date: 2024-10-09T05:24:46.427Z
-updated: 2024-10-13T02:49:38.453Z
+date: 2024-10-16T21:04:25.821Z
+updated: 2024-10-19T07:47:47.771Z
 tags:
   - apple
 categories:
@@ -48,13 +48,6 @@ Jason Cipriani/ZDNet
 
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best Surface PCs Microsoft's lineup of Surface PCs now covers a wide range of hardware factors and price points -- and every model is Windows 11-ready.  Read now](https://www.zdnet.com/article/best-surface-pc/)
@@ -76,6 +69,13 @@ When you open the kickstand, you'll find a small door in the bottom left corner 
 You don't have to use a physical SIM card thanks to the Pro 8's support for an eSIM, but since I often switch between the Pro X and iPad Pro, I already had a dedicated SIM card with a data-only plan tied to it. 
 
 **Also:** [**eSIM vs. SIM: What's the difference?**](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -101,6 +101,13 @@ Inside the Surface Pro 8 I've been testing is an 11th Generation Intel Core i7 p
 
 The LTE options range in price from $1,349 for an Intel Core i5, 8GB of memory, and 128GB of storage up to the build I tested, which normally retails for $1,849 but is currently on sale for $1,599\. Again, those prices don't include a keyboard. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### More Microsoft
 
 * [The best Windows laptop models: Comparing Dell, Samsung, Lenovo, and more](https://www.zdnet.com/article/best-windows-laptop/)
@@ -125,10 +132,10 @@ The ability to connect a tablet to an external display and have it actually work
 When working on my iPad Pro connected to a monitor, whatever's on the iPad's screen is mirrored on the larger display. There are some apps that use Apple's rudimentary API for external displays, but it's not great. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -140,13 +147,6 @@ Also, I have a lot of workarounds for completing certain tasks on the iPad. For 
 I realize that the Pro 8 is running a full-fledged operating system in Windows 11, whereas the iPad Pro is running a mobile-first operating system in iPadOS, but the devices are relatively the same size and target the same type of user. Even the prices are close enough that the comparison is warranted. 
 
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## There are still many things the iPad Pro does better
 
@@ -173,10 +173,10 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQ
@@ -218,19 +218,18 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-ultimate-guide-to-gopro-karma-performance/"><u>[New] In 2024, The Ultimate Guide to GoPro Karma Performance</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-motorola-g24-power-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Motorola G24 Power to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/block-mystery-callers-on-your-iphone-a-step-by-step-instructional-article/"><u>Block Mystery Callers on Your iPhone: A Step-by-Step Instructional Article</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-nubia-red-magic-8s-proplusmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Nubia Red Magic 8S Pro+Mirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-90-pro-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on 90 Pro?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-set-up-dual-security-for-gmail-with-2-factor-auth/"><u>How to Set Up Dual Security for Gmail with 2 Factor Auth</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-realme-11-pro-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Realme 11 Pro Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-poco-m6-pro-5g-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Poco M6 Pro 5G for Free? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-meizu-21-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Meizu 21 Phone Without Password?</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/merge-worlds-easily-linking-instagram-and-facebook-accounts/"><u>Merge Worlds Easily Linking Instagram & Facebook Accounts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigating-cloud-entertainment-the-definitive-guide-for-xbox-game-pass-ultimate-users/"><u>Navigating Cloud Entertainment: The Definitive Guide for Xbox Game Pass Ultimate Users</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/pro-collage-techniques-handbook-for-2024/"><u>Pro Collage Techniques Handbook for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-boot-failures-a-guide-to-diagnosing-post-related-errors/"><u>Resolving Boot Failures: A Guide to Diagnosing Post-Related Errors</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-for-optimizing-your-digital-television-signal-using-interior-antennas/"><u>The Ultimate Guide for Optimizing Your Digital Television Signal Using Interior Antennas</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-daily-deeds-for-digital-diaries-tips-on-virtual-journeys-for-2024/"><u>[New] Daily Deeds for Digital Diaries Tips on Virtual Journeys for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-elite-choices-top-8-tripods-for-cinematic-4k-experiences-for-2024/"><u>[New] Elite Choices Top 8 Tripods for Cinematic 4K Experiences for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-19-secrets-to-free-capture-of-virtual-learning-sessions/"><u>[Updated] 2024 Approved 19 Secrets to FREE Capture of Virtual Learning Sessions</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-gastronomic-genius-ideal-culinary-network-name-strategies/"><u>[Updated] Gastronomic Genius Ideal Culinary Network Name Strategies</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-the-fundamentals-of-successful-instagram-video-promotion-planning/"><u>In 2024, The Fundamentals of Successful Instagram Video Promotion Planning</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/simple-steps-for-a-quick-fix-how-to-refresh-graphics-drivers-in-win-10/"><u>Simple Steps for a Quick Fix: How to Refresh Graphics Drivers in Win 10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/simple-steps-unlinking-your-microsoft-account-from-windows-10-a-complete-guide/"><u>Simple Steps: Unlinking Your Microsoft Account From Windows 10 - A Complete Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/stay-anonymous-and-speed-up-torrents-using-worlds-best-vpn-services/"><u>Stay Anonymous & Speed Up Torrents Using World's Best VPN Services</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/stay-protected-online-5-key-tips-every-newbie-should-know/"><u>Stay Protected Online: 5 Key Tips Every Newbie Should Know</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-removing-nvidia-graphics-driver-from-your-windows-11-pc/"><u>Step-by-Step Guide: Removing NVIDIA Graphics Driver From Your Windows 11 PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-removing-nvidia-graphics-drivers-from-your-windows-11-pc/"><u>Step-by-Step Guide: Removing NVIDIA Graphics Drivers From Your Windows 11 PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-the-power-of-beyerdynamics-mmx-200/"><u>Unlocking the Power of Beyerdynamic's MMX 200</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Samsung Galaxy A05s | Dr.fone</u></a></li>
 </ul></div>
 

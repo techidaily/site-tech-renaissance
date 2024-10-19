@@ -1,7 +1,7 @@
 ---
 title: "Expertly Curated Selection: Leading iPad Software Solutions for Enhanced Productivity & Seamless Workflow Integration | Wired"
-date: 2024-10-09T11:03:09.493Z
-updated: 2024-10-13T14:33:29.203Z
+date: 2024-10-17T01:23:25.920Z
+updated: 2024-10-18T16:51:13.056Z
 tags:
   - apple
 categories:
@@ -44,6 +44,19 @@ That whole process is my flow. Over my many various iterations, I've managed to 
 
 The other half of my day is project time. This is when I work on everything from academic papers to the presentations, white papers, and webcasts I do for ZDNet to developing code to most of the projects I write about for DIY-IT. I tend to work on projects in the late afternoon and the late evening, with a break in the early evening for family time and lunch or dinner. 
 
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Changes due to the pandemic
 
 The last time I updated this guide was in early 2019\. Obviously, a few things have happened since then. In terms of my daily productivity, I go out a lot less than I used to. Back then, I was often running from place to place and had to build up an everyday carry (EDC) that could allow me to dive into any project or work with any team no matter where I was. I had EDC kits for a coffee shop programming run and EDC kits for week long conference work. I even built an EDC for [emergency evacuation of an indeterminate time](https://www.zdnet.com/article/road-tech-how-i-left-florida-to-escape-irma-and-never-went-back/).
@@ -75,10 +88,10 @@ The boy
 The way I have Gmail set up, only the most important messages show up on my watch. Same with Slack notifications. Basically, unless there's something urgent from one of my editors, I can start my day in peace. If there's nothing urgent, I hit the snooze button. After repeating this ritual two or three times, I get up, do my morning necessaries, and zombie-walk to the coffee maker. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -92,10 +105,10 @@ At this point, I tend to take note of what's in my inbox, but I neither process 
 I also take a quick look at my calendar and my to-do list to make sure I know what's on deck for the day. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Daily must-reads with Pocket
@@ -141,19 +154,6 @@ I'm relatively holistic about my morning reading process. I do it until I'm bore
 
 The key point to all of this is that ever since I moved to this Pocket-read-post-archive cycle for my daily reading, my productivity and flexibility has gone up tremendously. I'm getting more done, and the quality of the process is far more pleasant. I'm no longer tied to my desktop browser, because all of these tools work on all my devices. 
 
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Connecting and scheduling
 
 Assuming there's nothing on fire that I've had to handle first thing, at some point during the morning, I'll switch from reading to communicating. I'll switch out of Pocket and into Gmail and work my way through my email. 
@@ -176,13 +176,6 @@ Now, to be fair, I have a slight email fetish, so I do check back in to my inbox
 
 In fact, now that I have email notifications integrated into my watch, I'm finding I'm actually breaking myself of the habit, because unless I hear the notification tone, I don't have any important emails coming in. I have actually gone a few hours without checking my email inbox, which is something of a record for me. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Managing my daily teaching opportunities
 
 As it turns out, supporting users is a lot like teaching online students.
@@ -197,13 +190,6 @@ I just think of those users like more of my students. If any questions show up i
 
 By the way, this is also a great way to think about users, which I initially was a bit unhappy about adding to my daily workload. But the reframe is this: I'm an educator and these are more people in need of assistance while they're learning to use these plugins. So, rather than thinking about providing user support as an added workload, I think of the users as more of my students and their questions as simply more teaching opportunities. It's also a great way to keep up on what people are doing out there, and gives me a much more "on the street" dialog with users, which is invaluable as a tech journalist.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Featured
 
 * [We've used every iPhone 16 model and here's our best buying advice for 2024](https://www.zdnet.com/article/iphone-16-pro-max-buying-advice-2024/)
@@ -212,6 +198,13 @@ By the way, this is also a great way to think about users, which I initially was
 * [Want a programming job? Learn these three languages](https://www.zdnet.com/article/want-a-programming-job-learn-these-three-languages/)
 
 Here's another little trick I use: I get a lot of feature requests (which I call "cool feature ideas") from the plugin users. The go into [the bug tracking system I manage in Notion](https://www.zdnet.com/article/notion-app-review/).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## To-doing my to-do list
 
@@ -242,6 +235,13 @@ Notion is also available on Android and iOS as well as web platforms, so once ag
 I've set up a bunch of Notion pages and all the items that "should be on the list" but aren't actionable this week or next go onto a Notion. I regularly dig into those pages, particularly when I'm working on a corresponding project, and pull items from the page and assign them to Todoist -- but only if I intend to work on them right away, that week. 
 
 That, by the way, is the entire key to keeping your to-do list under control. If you actually intend to do an item within a reasonably short period of time, put it on your to-do list. If you expect to do it someday, it's not a to-do list item, not an actionable item, and you should write them on another list somewhere. I use Trello for that. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -292,20 +292,19 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-superior-sites-for-selecting-storied-soundtracks-for-2024/"><u>[New] Superior Sites for Selecting Storied Soundtracks for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-enhance-your-vlogs-pacing-using-jump-cuts-for-2024/"><u>[Updated] How to Enhance Your Vlog's Pacing Using Jump Cuts for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/50-price-tag-to-rescue-mobile-from-ransomware-plus-how-chatgpt-scripts-our-engaging-podcast-dialogues/"><u>$50 Price Tag to Rescue Mobile From Ransomware - Plus, How ChatGPT Scripts Our Engaging Podcast Dialogues</u></a></li>
-<li><a href="https://fox-within.techidaily.com/comment-aller-de-lavant-avec-les-drives-amovibles-sous-windows-11-une-masterclass-sur-la-creation-dun-disque-dur-bootable/"><u>Comment Aller De L'Avant Avec Les Drives Amovibles Sous Windows 11 : Une Masterclass Sur La Création D'un Disque Dur Bootable</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-newest-rtx-2080-graphics-card-drivers-for-your-windows-11-pc/"><u>Get the Newest RTX 2080 Graphics Card Drivers for Your Windows 11 PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-resolve-paramountplus-playback-problems-on-amazon-fire-stick/"><u>How to Resolve Paramount+ Playback Problems on Amazon Fire Stick</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-in-depth-scrutiny-the-hero4-black-universe/"><u>In 2024, In-Depth Scrutiny The Hero4 Black Universe</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-ai-independently-explore-15-costless-flexible-learning-opportunities-by-lifewire/"><u>Mastering AI Independently? Explore 15 Costless, Flexible Learning Opportunities by Lifewire</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-breaking-language-barriers-elevate-your-content-with-the-best-free-video-translator-apps/"><u>New In 2024, Breaking Language Barriers Elevate Your Content with the Best Free Video Translator Apps</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/overcoming-audio-interruptions-and-glitches-in-powerpoint-slideshows/"><u>Overcoming Audio Interruptions and Glitches in PowerPoint Slideshows</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/snapchat-helpline-your-comprehensive-guide-for-reaching-out-to-support/"><u>Snapchat Helpline: Your Comprehensive Guide for Reaching Out to Support</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/stunning-affordable-innovations-the-best-of-elite-technologies-within-reach/"><u>Stunning Affordable Innovations: The Best of Elite Technologies Within Reach</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-list-6-exceptional-no-internet-required-translation-apps/"><u>The Ultimate List: 6 Exceptional No-Internet Required Translation Apps</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/what-sets-apart-apples-ipad-from-the-rest-of-the-tablet-market/"><u>What Sets Apart Apple's iPad From The Rest Of The Tablet Market?</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-11-bridging-gaps-between-pc-and-phone/"><u>Windows 11: Bridging Gaps Between PC and Phone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-from-twitter-to-snaps-a-guide-to-cross-platform-posting/"><u>[New] From Twitter to Snaps A Guide to Cross-Platform Posting</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-revitalize-your-day-with-these-top-10-yoga-videos/"><u>[Updated] 2024 Approved Revitalize Your Day with These Top 10 Yoga Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-insert-audio-files-into-powerpoint-sequences/"><u>[Updated] Insert Audio Files Into PowerPoint Sequences</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-tutorial-enabling-and-using-remote-desktop-on-your-windows-10-pc/"><u>Complete Tutorial: Enabling and Using Remote Desktop on Your Windows 10 PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-to-reviving-non-working-usb-ports-on-laptops/"><u>Comprehensive Guide To Reviving Non-Working USB Ports On Laptops</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/deciphering-rundll32exe-purpose-and-appropriate-measures-to-take/"><u>Deciphering rundll32.exe: Purpose & Appropriate Measures to Take</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-tutorial-for-setting-up-a-second-monitor-with-your-notebook/"><u>Easy Tutorial for Setting Up a Second Monitor with Your Notebook</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-video-recording-techniques-for-computer-users-a-comprehensive-guide/"><u>Easy Video Recording Techniques for Computer Users: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enabling-mobile-internet-sharing-on-your-iphone-for-wireless-connectivity/"><u>Enabling Mobile Internet Sharing on Your iPhone for Wireless Connectivity</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/explore-tamriels-beauty-with-the-elder-scrolls-v-skyrim-switch-version-reviewed/"><u>Explore Tamriel's Beauty with The Elder Scrolls V: Skyrim - Switch Version Reviewed</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-latest-version-of-wacom-intuos-pro-hd-drivers-download-now/"><u>Get Latest Version of Wacom Intuos Pro HD Drivers - Download Now!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-lenovo-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Lenovo FRP Bypass</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/masterclass-refining-youtube-videos-through-imovie/"><u>Masterclass Refining YouTube Videos Through iMovie</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Google Pixel 8 Pro | Dr.fone</u></a></li>
 </ul></div>
 

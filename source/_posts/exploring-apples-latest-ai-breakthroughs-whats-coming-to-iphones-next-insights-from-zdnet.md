@@ -1,7 +1,7 @@
 ---
 title: "Exploring Apple's Latest AI Breakthroughs: What’s Coming to iPhones Next - Insights From ZDNet"
-date: 2024-10-10T20:54:18.357Z
-updated: 2024-10-13T06:18:26.500Z
+date: 2024-10-16T10:21:45.373Z
+updated: 2024-10-18T16:23:15.820Z
 tags:
   - apple
 categories:
@@ -60,13 +60,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -74,6 +67,13 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -92,6 +92,19 @@ Adam Breeden/ZDNET
 * The Messages app now supports [**Rich Communication Services (RCS).**](https://www.zdnet.com/article/apple-is-finally-adding-rcs-to-the-iphone-and-i-couldnt-be-more-excited/)
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
+
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## WatchOS 11
 
@@ -117,13 +130,6 @@ Adam Breeden/ZDNET
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## MacOS 15 (Sequoia)
 
 Adam Breeden/ZDNET
@@ -134,13 +140,6 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -160,10 +159,10 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -173,6 +172,13 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -218,18 +224,18 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-enhancing-video-aesthetics-with-bb-and-lc-overlays-on-facebook/"><u>[Updated] 2024 Approved Enhancing Video Aesthetics with BB and LC Overlays on Facebook</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-vivo-y28-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Vivo Y28 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/download-any-song-from-youtube-legally-and-for-free-top-charts-of-free-youtube-music-extractors/"><u>Download Any Song From YouTube Legally and for Free: Top Charts of Free YouTube Music Extractors</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-to-transform-avi-and-wmv-files-into-mp4-format-a-comprehensive-guide/"><u>How to Transform AVI and WMV Files Into MP4 Format: A Comprehensive Guide</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-honor-magic5-ultimate-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Honor Magic5 Ultimate Device</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-pinning-messages-in-your-instagram-stories/"><u>Mastering the Art of Pinning Messages in Your Instagram Stories</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-the-remedy-of-kernel32dll-failures-on-windows-platform/"><u>Mastering the Remedy of Kernel32.dll Failures on Windows Platform</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-reviving-your-waterlogged-apple-device/"><u>Step-by-Step Guide: Reviving Your Waterlogged Apple Device</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-motorola-razr-40-ultra-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Motorola Razr 40 Ultra without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722890047303-trouble-with-physxloaderdll-heres-how-you-can-solve-the-absence-issue/"><u>Trouble with PhysXLoader.dll? Here’s How You Can Solve the Absence Issue</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-fixing-your-non-responsive-apple-watch-display/"><u>Troubleshooting Guide: Fixing Your Non-Responsive Apple Watch Display</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-iphone-15-pro-maxs-resilience-to-water-fact-or-myth/"><u>Understanding iPhone 15 Pro Max's Resilience to Water – Fact or Myth?</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/unleash-your-creativity-10-public-domain-image-sites/"><u>Unleash Your Creativity 10 Public Domain Image Sites</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-audfreetechunveiled-detailed-look-at-the-new-audio-tool/"><u>[Updated] AudFreeTechUnveiled Detailed Look at the New Audio Tool</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/cultivate-a-thriving-igtv-community-5-key-increase-strategies-for-2024/"><u>Cultivate a Thriving IGTV Community 5 Key Increase Strategies for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-your-iphone-when-the-screen-wont-work-step-by-step-guide/"><u>How To Fix Your iPhone When The Screen Won't Work – Step By Step Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-nokia-150-2023-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Nokia 150 (2023)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-screen-capture-a-step-by-step-guide-for-windows-10-users/"><u>Mastering Screen Capture: A Step-by-Step Guide for Windows 10 Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-in-gaming-3-methods-for-directory-unlock/"><u>Mastery in Gaming: 3 Methods for Directory Unlock</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/maximize-pc-gaming-experience-with-newly-updated-nvidia-gpu-drivers-for-windows-10/"><u>Maximize PC Gaming Experience with Newly Updated Nvidia GPU Drivers for Windows 10</u></a></li>
+<li><a href="https://howto.techidaily.com/oppo-find-x6-pro-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Find X6 Pro Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overwatch-system-requirements-check-it-out/"><u>Overwatch System Requirements [Check It Out]</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/proficient-approaches-to-purge-stickers-from-tiktoks-for-2024/"><u>Proficient Approaches to Purge Stickers From TikToks for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolve-your-webcams-dark-display-dilemma-on-pc-windows-1110/"><u>Resolve Your Webcam's Dark Display Dilemma on PC (Windows 11/10)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/save-passwords-in-chrome-swiftly-a-simple-guide/"><u>Save Passwords in Chrome Swiftly: A Simple Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Poco M6 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
 

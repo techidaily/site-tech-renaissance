@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide to iPhone 16/Pro Defenders : Expert Verified Picks | CNET"
-date: 2024-10-06T12:13:45.937Z
-updated: 2024-10-13T02:44:16.163Z
+date: 2024-10-18T05:45:58.028Z
+updated: 2024-10-19T05:44:22.582Z
 tags:
   - apple
 categories:
@@ -44,13 +44,6 @@ Pros
 Cons 
 * Slightly pricey
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Pela case
 
 ### Best iPhone 12 case overall
@@ -72,13 +65,6 @@ Pros
 
 Cons 
 * Pricier
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Apple Silicone Case with MagSafe
 
@@ -106,6 +92,19 @@ Pros
 Cons 
 * Clear design may yellow
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bodyguardz Ace Pro
 
 ### Best budget iPhone 12 case
@@ -130,6 +129,13 @@ Pros
 
 Cons 
 * Shipping can take up to 12 business days for US orders and up to 23 business days for non-US orders
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Casetify cases
 
@@ -180,6 +186,13 @@ Pros
 Cons 
 * Price varies
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Incipio Organicore
 
 ### Best eco-friendly iPhone 12 case
@@ -204,10 +217,10 @@ Cons
 * May show scratches easily
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Nomad Rugged case
@@ -236,14 +249,14 @@ Cons
 * Fingerprints may show up easily
 * Colors may not be vibrant against a darker color phone
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Speck Presidio Edition
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best iPhone 12 case for drop protection
 
@@ -270,14 +283,20 @@ Cons
 * No drop protection
 * Original price ($39) is too expensive for what it is
 
-## Totallee case
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Totallee case
 
 ### Best slim iPhone 12 case
 
@@ -302,13 +321,6 @@ The best iPhone 12 case is the Pela case, chosen for its environmental safety, d
 | Nomad Rugged case                | $25       | 10 feet             |
 | Speck Products Presidio Edition  | $23       | 13 feet             |
 | Totallee case                    | $19       | Unspecified         |
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Which iPhone case is right for you?
 
@@ -339,6 +351,13 @@ If you've invested in a top-notch smartphone like an iPhone 12 or 12 Pro, you'll
 
 Wireless charging does work with phone cases. Almost all of the cases on this list are MagSafe-compatible. Usually, cases with a slimmer profile are more likely to be compatible. Most cases specify whether or not they are MagSafe-compatible, so make sure to check out the product specifications to verify if wireless charging works with the case of your choice. 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Which case is best for iPhone 12?
 
 The Pela case is my favorite because it combines drop protection with environmental friendliness and durability. The flax-based material is unique and 100% compostable -- and the case protects your phone from drops of up to 20 feet. It comes in a variety of colors and ships free to the United States and Canada in plastic-free packaging. 
@@ -348,22 +367,15 @@ The Pela case is my favorite because it combines drop protection with environmen
 Yes. OtterBox cases are durable, and I added an OtterBox option to my list of favorite alternatives. Some OtterBox lines are made with partially recycled materials. You can also alter the bulkiness of your OtterBox, depending on how much protection you need.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is the safest case for iPhone 12 Pro?
 
 The Pela case is made out of non-toxic materials and has been tested for safety. It's free of phthalates, BPA, cadmium, and lead and is verified to meet child safety standards in the U.S., Canada, Europe, Australia, and New Zealand. You can compost it in a home composting environment or an industrial composting facility. Each case on this list keeps your phone safe to varying degrees.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Do you need a case for iPhone 12?
 
@@ -409,15 +421,22 @@ Of course. Here are a few options to consider.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-interpreting-the-significance-of-a-blue-image-on-fb-chat-for-2024/"><u>[New] Interpreting the Significance of a Blue Image on FB Chat for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-elevate-views-with-optimal-youtube-thumbnails-and-ratios/"><u>2024 Approved Elevate Views with Optimal YouTube Thumbnails & Ratios</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-instructions-for-acquiring-and-implementing-new-ios-version-updates/"><u>Easy Instructions for Acquiring and Implementing New iOS Version Updates</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-advice-for-repairing-missing-wininetdll-on-windows-systems/"><u>Expert Advice for Repairing 'Missing wininet.dll' On Windows Systems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-world-of-biometrics-a-comprehensive-guide/"><u>Exploring the World of Biometrics: A Comprehensive Guide</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-on-apple-iphone-6-plus-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code On Apple iPhone 6 Plus in the Best Ways</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-vivo-y56-5g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Vivo Y56 5G? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/png-tiff/"><u>PNG 및 TIFF 파일을 무료로 바꾸는 - 컴퓨터 화상 라이브리스</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/quick-guide-how-to-transform-mov-video-into-mpeg-on-your-pc-windows-10-or-11/"><u>Quick Guide: How to Transform MOV Video Into MPEG on Your PC (Windows 10 or 11)</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/windows-users-discover-the-best-methods-for-using-facetime/"><u>Windows Users: Discover the Best Methods for Using FaceTime</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-elevate-your-content-visibility-discover-6-thumbnail-designers-best-tools-for-2024/"><u>[New] Elevate Your Content Visibility - Discover 6 Thumbnail Designers' Best Tools for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-experts-choice-top-10-best-free-lut-downloads/"><u>[New] Expert's Choice - Top 10 Best Free LUT Downloads</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-key-digital-platforms-enhance-your-youtube-traffic/"><u>[New] Key Digital Platforms Enhance Your YouTube Traffic</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-maximizing-efficiency-streamlined-methods-to-download-vimeo-videos/"><u>2024 Approved Maximizing Efficiency Streamlined Methods to Download Vimeo Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/capturing-excellence-a-full-breakdown-of-sj-cam-s6/"><u>Capturing Excellence A Full Breakdown of SJ-CAM S6</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/cracking-the-0x80070422-update-error-on-windows-10-step-by-step-tutorial/"><u>Cracking the 0X80070422 Update Error on Windows 10 - Step-by-Step Tutorial</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/driver-updates-made-easy-alternatives-when-the-original-site-doesnt-have-windows-10-versions/"><u>Driver Updates Made Easy: Alternatives When the Original Site Doesn't Have Windows 10 Versions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-methods-for-directx-update-in-windows-1110-step-by-step-instructions/"><u>Easy Methods for DirectX Update in Windows 11/10 – Step-by-Step Instructions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-techniques-to-free-up-space-by-deleting-cache-in-windows-11/"><u>Effective Techniques to Free Up Space by Deleting Cache in Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-free-malware-elimination-software-and-step-by-step-detoxification-instructions/"><u>Essential Free Malware Elimination Software and Step-by-Step Detoxification Instructions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-necessary-hardware-configurations-for-playing-fallout/"><u>Exploring the Necessary Hardware Configurations for Playing Fallout</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fast-track-solution-fixing-slow-windows-11-updates/"><u>Fast Track Solution: Fixing Slow Windows 11 Updates</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fix-common-problems-with-oculus-air-link-on-windows-expert-advice-and-solutions/"><u>Fix Common Problems with Oculus Air Link on Windows - Expert Advice & Solutions</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-oppo-a2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722964493521-latest-supported-intel-wireless-ac-9560-drivers-secure-your-downloads-today/"><u>Latest Supported Intel Wireless AC ^9560 Drivers – Secure Your Downloads Today</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/troubleshooting-mp4-playback-issues-in-vlc-a-comprehensive-guide/"><u>Troubleshooting MP4 Playback Issues in VLC: A Comprehensive Guide</u></a></li>
 </ul></div>
 

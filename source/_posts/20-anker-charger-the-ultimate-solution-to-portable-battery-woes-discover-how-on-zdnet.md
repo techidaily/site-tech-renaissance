@@ -1,7 +1,7 @@
 ---
 title: "$20 Anker Charger: The Ultimate Solution to Portable Battery Woes - Discover How on ZDNet"
-date: 2024-10-10T11:33:05.283Z
-updated: 2024-10-13T14:33:18.521Z
+date: 2024-10-15T00:22:10.186Z
+updated: 2024-10-19T00:30:59.025Z
 tags:
   - apple
 categories:
@@ -39,10 +39,10 @@ To Android users and new (or incoming) iPhone users who are looking to add a USB
 See, I have quibbles with many portable chargers. Those include forgetting a wire, not knowing where to hold the charger while it's charging my phone, and feeling like it takes forever to increase the battery percentage at all. This charger addresses all of the issues and more. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 
@@ -70,6 +70,13 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Impressive charging power for its size
 
 The 22.5W Power Bank packs 5,000mAh capacity, which is enough to charge an [iPhone 15 Pro](https://www.zdnet.com/article/iphone-15-pro-hands-on-review/) to 68%, according to Anker. In my experience, it charged my Samsung Z Flip 4 from zero to 30% in half an hour. 
@@ -79,10 +86,10 @@ The 22.5W Power Bank packs 5,000mAh capacity, which is enough to charge an [iPho
 Although it might not seem like a tremendous boost, remember that this portable charger is meant to get you out of a pinch. If your phone died on you while you were out, getting a quarter of your battery back in under 30 minutes would be a lifesaver. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Charging the power bank is hassle-free
@@ -97,28 +104,15 @@ Sabrina Ortiz/ZDNET
 
 The charger comes in five colors: blue, black, white, green, and pink, matching every iPhone 15 color besides the yellow, which the white could be paired with instead.
 
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 If you are searching for a new portable charger for your new iPhone or just because you are due for an upgrade, the [Anker Nano 22.5W Power Bank](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C6XK77HJ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfdc9ef05-43fd-4fe9-9779-fb1c208791b1%7Cdtp&dtb=1) is a good choice because it won't break the bank and will get the job done. The fun color options, effectiveness, size, and low price point even make it a good choice for gifting.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -155,16 +149,17 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-comprehensive-manual-on-gesture-controls/"><u>[New] 2024 Approved Comprehensive Manual on Gesture Controls</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-easyvidwin11-the-simplest-way-to-record-your-pc-screen-for-2024/"><u>[Updated] EasyVidWin11 The Simplest Way to Record Your PC Screen for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-comprehensible-guide-to-selecting-popular-youtube-openings/"><u>[Updated] The Comprehensible Guide to Selecting Popular YouTube Openings</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-magic-6-lite-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Honor Magic 6 Lite Phone with Broken Screen</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/july-2024-updated-d-link-default-passwords-guide/"><u>July 2024 Updated D-Link Default Passwords Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/remedying-the-cannot-find-dbghelpdll-error-an-in-depth-fix-guide/"><u>Remedying the Cannot Find dBghelp.dll Error: An In-Depth Fix Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-resource-for-contacting-snapchat-support-services/"><u>The Ultimate Resource for Contacting Snapchat Support Services</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722866007851-troubleshooting-propsysdll-errors-strategies-and-solutions-to-fix-missing-files-on-your-pc/"><u>Troubleshooting Propsys.dll Errors: Strategies and Solutions to Fix Missing Files on Your PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-when-your-vizio-tv-fails-wi-fi-signal-detection/"><u>Troubleshooting Steps When Your Vizio TV Fails Wi-Fi Signal Detection</u></a></li>
-<li><a href="https://win-community.techidaily.com/44oh44oq44kk44k544gu5yan6lw35yuv5pa55rov77ya44or44o844og44kj44k344on44oz5o6s6zmk5b6m44gr55m655sf44gz44kl44oi44op44ow44or6kej5rg6/"><u>デバイスの再起動方法：パーティション排除後に発生するトラブル解決</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2023-how-to-download-facebook-status-videos/"><u>2023 | How to Download Facebook Status Videos?</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/cultivating-community-communication-tips-for-youtube-enthusiasts/"><u>Cultivating Community Communication Tips for YouTube Enthusiasts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/cutting-through-pixels-disable-mouse-acceleration-in-5-simple-steps/"><u>Cutting Through Pixels: Disable Mouse Acceleration in 5 Simple Steps</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-oppo-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Oppo</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/disabling-cortana-in-windows-10-your-ultimate-how-to-guide/"><u>Disabling Cortana in Windows 10 - Your Ultimate How-To Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-steps-for-taking-screenshots-on-your-windows-pc-fast-method/"><u>Easy Steps for Taking Screenshots on Your Windows PC - Fast Method</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-solutions-for-lowering-high-system-demands-on-modern-warfare/"><u>Effective Solutions for Lowering High System Demands on Modern Warfare</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effortless-yahoo-password-retrieval-a-step-by-step-guide/"><u>Effortless Yahoo Password Retrieval: A Step-by-Step Guide</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/eliminating-video-freezing-phenomena/"><u>Eliminating Video Freezing Phenomena</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-find-n3-flip-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Oppo Find N3 Flip Phone with Broken Screen</u></a></li>
+<li><a href="https://review-topics.techidaily.com/insert-signature-in-wpd-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>Insert signature in .wpd file</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-rpc-server-unreachable-errors-on-pc/"><u>Troubleshooting Steps for 'RPC Server Unreachable' Errors on PC</u></a></li>
 </ul></div>
 

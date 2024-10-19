@@ -1,7 +1,7 @@
 ---
 title: Top 13 Must-Listen True Crime Podcasts You Can't Miss
-date: 2024-10-10T17:47:43.274Z
-updated: 2024-10-12T19:20:28.566Z
+date: 2024-10-13T11:58:59.064Z
+updated: 2024-10-19T14:30:53.264Z
 categories:
   - BestProducts
 description: This Article Describes Top 13 Must-Listen True Crime Podcasts You Can't Miss
@@ -52,10 +52,10 @@ of 07
 ![Game Pigeon app for iMessage](https://www.lifewire.com/thmb/jbD4WokUSaGl5CFnj2NSV3RDNWM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_best-imessage-games-2018-4176445-d0028c3554c14c2f89c52741e32cf15e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  What We Like
@@ -99,6 +99,13 @@ of 07
 04
 
 of 07
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## [Best iMessage Chess Game: Checkmate!](https://apps.apple.com/app/id1143204905)
 
@@ -146,10 +153,10 @@ _WIT Puzzles_ turns your photos into slide puzzles for your friends to unscrambl
 of 07
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## [Best Icebreaker Game for iMessage: Truth Truth Lie](https://truthtruthlie.co/)
@@ -157,10 +164,10 @@ of 07
 ![Truth Truth Lie app for iMessage](https://www.lifewire.com/thmb/zke4O_mQS1ibr8X1Ee2u1PGkyYk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007_best-imessage-games-2018-4176445-41f30965c86440ce842f4ef11db1c0e2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  What We Like
@@ -181,22 +188,16 @@ of 07
 
 of 07
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## [Air Hockey With a Twist: Let's Puck It!](https://apps.apple.com/app/lets-puck-it/id1163033961)
 
 ![Let's Puck It! app for iMessage](https://www.lifewire.com/thmb/5vzBEYum7O1TKZFvmHqdHQRaicM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-imessage-games-2018-4176445-eef48fecf87b445f99a3a24e2a82034f.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  What We Like
 
@@ -212,6 +213,13 @@ _Let’s Puck It!_ puts an interesting spin on an old American pastime by encour
 
 [Download Let's Puck It!](https://apps.apple.com/app/lets-puck-it/id1163033961)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Get iMessage Games
 
  The interface for the new iOS is slightly different from its predecessors. However, the instructions are basically the same for iOS 10 and up. Older versions of iOS don't support iMessage games.
@@ -225,13 +233,6 @@ _Let’s Puck It!_ puts an interesting spin on an old American pastime by encour
 
 ![Downloading iMessage games on an iPhone](https://www.lifewire.com/thmb/NyUyS4sS2l4N7s41wdvAWyaKIiM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Download-iMessage-Game-227e0b0ecd064c8e99a78b92ae6588a8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Play iMessage Games
 
  After downloading your game of choice, it's added to the end of your apps list. To challenge your friends within iMessage:
@@ -244,13 +245,6 @@ _Let’s Puck It!_ puts an interesting spin on an old American pastime by encour
  You can start playing right away. When your turn is finished, your friend receives a message letting them know it's their turn.  
 
 ![How to play games in iMessage](https://www.lifewire.com/thmb/luvHEB4PHsSwoAHGXD1-jiuyLBg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Play-iMessage-Games-e0a953a704da42058ab48577af3d1cdd.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Which iPhone Is Best for Gaming?](https://www.lifewire.com/best-iphone-for-gaming-8619563)
 
@@ -290,19 +284,19 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-framing-the-frame-top-camera-techniques-for-visuals/"><u>[New] Framing the Frame Top Camera Techniques for Visuals</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-go-digital-capturing-lifes-motion-with-ios-device/"><u>[New] Go Digital Capturing Life's Motion with iOS Device</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-expert-techniques-for-perfect-green-screen-cinematography-for-2024/"><u>[Updated] Expert Techniques for Perfect Green-Screen Cinematography for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-honor-magic-6-lite-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Honor Magic 6 Lite</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/beginners-blueprint-for-crafting-your-psn-signup/"><u>Beginner's Blueprint for Crafting Your PSN Signup</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/dciman32dll-missing-heres-how-to-correctly-fix-it/"><u>dciman32.dll Missing? Here’s How to Correctly Fix It</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/deciphering-the-buzz-on-the-tesla-cellphone-predicted-price-tag-launch-date-and-technical-specifications/"><u>Deciphering the Buzz on the Tesla Cellphone - Predicted Price Tag, Launch Date & Technical Specifications</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/fb-video-shape-study-overview-for-2024/"><u>FB Video Shape Study Overview for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-fix-problems-with-usb-tethering-on-android-devices/"><u>How To Fix Problems With USB Tethering On Android Devices</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Xiaomi 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/is-xbox-live-functional-a-quick-guide-to-assess-server-uptime/"><u>Is Xbox Live Functional? A Quick Guide to Assess Server Uptime</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/steps-to-including-your-email-in-protected-distribution-networks/"><u>Steps to Including Your Email in Protected Distribution Networks</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unparalleled-camera-tech-s-filmmaking/"><u>Unparalleled Camera Tech 'S Filmmaking</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-quintessential-free-tools-for-malware-removal-2024-edition/"><u>Unveiling the Quintessential Free Tools for Malware Removal, 2024 Edition</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-essential-video-editors-for-cutting-edge-webcams/"><u>[New] Essential Video Editors for Cutting-Edge Webcams</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-optimal-gear-for-enhanced-live-video-quality-for-2024/"><u>[Updated] Optimal Gear for Enhanced Live Video Quality for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-best-podcasts-on-google-podcasts/"><u>2024 Approved Best Podcasts on Google Podcasts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/best-of-the-bunch-ps5-games-only-available-here/"><u>Best of the Bunch: PS5 Games Only Available Here</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diagnosing-and-repairing-a-cmos-checksum-failure-on-your-pc/"><u>Diagnosing and Repairing a CMOS Checksum Failure on Your PC</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-meizu-21-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Meizu 21 to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/is-it-possible-to-stream-netflix-on-nintendo-switch/"><u>Is It Possible To Stream Netflix On Nintendo Switch?</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-best-of-both-worlds-top-10-free-and-paid-android-video-editing-apps-2023/"><u>New The Best of Both Worlds Top 10 Free and Paid Android Video Editing Apps 2023</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revamping-your-online-presence-on-discord-change-profile-pic-guide/"><u>Revamping Your Online Presence on Discord – Change Profile Pic Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/sharpen-your-visual-storytelling-advanced-kinemaster-zoom-techniques/"><u>Sharpen Your Visual Storytelling Advanced Kinemaster Zoom Techniques</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/stop-the-loop-effective-steps-to-end-automatic-playback-on-apple-music/"><u>Stop the Loop: Effective Steps to End Automatic Playback on Apple Music</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-oneplus-12r-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-vivo-v29-frp-by-drfone-android/"><u>The Updated Method to Bypass Vivo V29 FRP</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-resolving-issues-with-unresponsive-macos-applications/"><u>Troubleshooting Tips: Resolving Issues with Unresponsive macOS Applications</u></a></li>
 </ul></div>
 

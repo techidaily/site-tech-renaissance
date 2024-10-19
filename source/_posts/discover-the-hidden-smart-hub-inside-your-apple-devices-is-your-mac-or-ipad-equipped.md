@@ -1,7 +1,7 @@
 ---
 title: "Discover the Hidden Smart Hub Inside Your Apple Devices: Is Your Mac or iPad Equipped?"
-date: 2024-10-10T03:33:56.357Z
-updated: 2024-10-13T12:02:10.908Z
+date: 2024-10-16T22:06:57.971Z
+updated: 2024-10-18T19:17:40.443Z
 tags:
   - apple
 categories:
@@ -64,6 +64,13 @@ The app also streamlines your devices by bringing your iPhone's notifications st
   
 Alternatively, the new standby mode on the iPhone displays a host of at-a-glance (but un-interactable) data like a clock and calendar while you're using the Continuity app on the Mac. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Siri 2.0
 
 Screenshot by Nina Raemont
@@ -75,13 +82,6 @@ Apple has played the long game when it comes to its virtual assistant, Siri. As 
 During the WWDC keynote, Apple showed off Siri's new look as an ever-present AI assistant integrated into every thread of the UI, not a standalone app. Siri will have access to ChatGPT's LLM, allowing the AI to be functionally ready to communicate in a more natural context, following up with previous conversations and messages instead of providing full context in every single prompt. 
 
 The new Siri also comes with on-screen awareness, allowing the AI to respond to what you're looking at on the screen without requiring the user to provide specific context with each prompt. This also allows Siri to take in-app actions in a way that wasn't possible before. In MacOS Sequoia, Siri's integration with OpenAI's LLM propels the virtual assistant to the top players in the field alongside [ChatGPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt-plus-from-gpt-4o-to-interactive-tables/) and [Google's Gemini](https://www.zdnet.com/article/what-is-google-gemini/). 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. AI-fueled productivity apps
 
@@ -96,10 +96,10 @@ Apple Intelligence has been integrated across all of the big productivity apps i
 * **Notes:** Voice functionality is coming to the Notes app, with the ability to add voice memos directly embedded into your notes. AI will also support audio transcription and transcripts of audio recordings. You can record and transcribe audio, and when your recording is finished, the AI will create a summary on its own.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. New and improved Safari
@@ -113,16 +113,10 @@ Safari will see a host of improvements powered by AI functionality, including an
 Apple demoed Safari's machine learning capability to automatically detect relevant information on a webpage, including things like quick links, directions, and quick summaries with logistical information like phone numbers and addresses. 
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Standalone Passwords app
@@ -136,10 +130,10 @@ Aligning with Apple's positioning of its AI features as secure and trustworthy, 
 This standalone app is an extension of the existing iCloud Keychain, and seeks to simplify password storage by employing Face ID and Touch ID alongside character-string passwords. Much of it is designed to work automatically and seamlessly in an effort to solve what is a huge UX headache that everyone has experienced at one point or another. 
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Gaming
@@ -176,20 +170,19 @@ Apple wants to create a "unified gaming platform" across the iPhone, iPad, and M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-action-reel-extravaganza-7-premium-4k-cameras/"><u>[New] 2024 Approved Action Reel Extravaganza 7 Premium 4K Cameras</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-leading-laughter-photo-maker/"><u>[New] Leading Laughter Photo Maker</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-optimal-camera-balance-for-drone-use/"><u>[New] Optimal Camera Balance for Drone Use</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-the-ultimate-guide-to-watching-fb-live-on-roku/"><u>[New] The Ultimate Guide to Watching FB Live on Roku</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/directly-casting-windows-desktop-outputs-to-tv-with-googles-chromecast-device/"><u>Directly Casting Windows Desktop Outputs to TV with Google's Chromecast Device</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/first-steps-in-gopro-gear-selection/"><u>First Steps in GoPro Gear Selection</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/from-humble-beginnings-to-modern-marvels-exploring-ios-evolution-from-10-to-180/"><u>From Humble Beginnings to Modern Marvels: Exploring iOS Evolution From 1.0 to 18.0</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-master-full-length-youtube-watching-mode/"><u>In 2024, Master Full-Length YouTube Watching Mode</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/struggling-to-pair-your-apple-watch-discover-these-pressent-solutions/"><u>Struggling to Pair Your Apple Watch? Discover These Pressent Solutions!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-underlying-factors-pushing-forward-the-electrification-of-transport/"><u>The Underlying Factors Pushing Forward the Electrification of Transport</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-6-must-see-websites-for-enjoying-music-videos-streaming/"><u>Top 6 Must-See Websites for Enjoying Music Videos Streaming</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/utilizing-top-users-to-increase-visibility-for-2024/"><u>Utilizing Top Users to Increase Visibility for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/winning-the-battle-against-bad-image-errors-in-microsofts-latest-operating-systems/"><u>Winning the Battle Against Bad Image Errors in Microsoft's Latest Operating Systems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/xbox-live-status-how-can-you-tell-if-the-service-is-down-or-your-connection-is-faulty/"><u>Xbox Live Status: How Can You Tell If the Service Is Down or Your Connection Is Faulty?</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/1728486894329-windows-1011/"><u>パーティションテーブル修復: Windows 10と11におすすめの解決策</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-sensory-overload-vr-transforming-viewing-habits-for-2024/"><u>[New] Sensory Overload VR Transforming Viewing Habits for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-exclusive-ig-edits-for-apple-and-android-users/"><u>[Updated] 2024 Approved Exclusive IG Edits for Apple & Android Users</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-click-magic-secrets-to-stunning-polished-pics/"><u>2024 Approved Click Magic Secrets to Stunning, Polished Pics</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/academic-citation-techniques-for-using-gpt-3-powered-chatbots/"><u>Academic Citation Techniques for Using GPT-3 Powered Chatbots</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/accelerate-your-pc-effective-solutions-to-boost-performance-in-windows-11/"><u>Accelerate Your PC: Effective Solutions to Boost Performance in Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-hp-deskjet-2540-drivers-download-and-firmware-update-tutorial/"><u>Complete HP Deskjet 2540 Drivers Download & Firmware Update Tutorial</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ensuring-seamless-entry-for-your-show/"><u>Ensuring Seamless Entry for Your Show</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-samsung-galaxy-m34-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Samsung Galaxy M34 to PC? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/microsoft-outlook-alert-what-you-need-to-know-about-recalling-a-message-after-sending/"><u>Microsoft Outlook Alert: What You Need To Know About Recalling a Message After Sending</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/pro-tips-keeping-an-eye-on-your-macbooks-thermal-status/"><u>Pro Tips: Keeping an Eye on Your MacBook's Thermal Status</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-the-error-code-0xc19001e1-on-windows-11-a-step-by-step-guide/"><u>Resolving the 'Error Code 0xC19001E1' On Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/stepwise-process-for-clearing-out-ps5-user-info/"><u>Stepwise Process for Clearing Out PS5 User Info</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-java-virtual-machine-dll-errors-efficiently/"><u>Troubleshooting Java Virtual Machine DLL Errors Efficiently</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-electric-vehicle-benefits-complimentary-parking-and-express-highway-lanes/"><u>Unlock Electric Vehicle Benefits: Complimentary Parking and Express Highway Lanes</u></a></li>
 </ul></div>
 

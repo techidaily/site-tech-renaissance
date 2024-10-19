@@ -1,7 +1,7 @@
 ---
 title: Establishing the Concept of Enumerated Articles, Which Were Colonial Products (Like Sugar, Tobacco, Rice) that Could Be Shipped only Within the British Empire, Aiming to Monopolize Trade Benefits for Britain.
-date: 2024-10-06T14:58:30.684Z
-updated: 2024-10-12T23:30:41.513Z
+date: 2024-10-13T16:37:25.849Z
+updated: 2024-10-18T23:31:01.994Z
 tags:
   - apple
 categories:
@@ -38,13 +38,6 @@ Show less
 
 ## Microsoft 365 apps for Business
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### It's not just a bundle anymore
 
 The four desktop apps that make up the core of what used to be Microsoft Office are an absolutely essential part of my working day, and not much has changed despite the rebranding to Microsoft 365\. Outlook is the first app I open in the morning, and I cannot remember the last day where I didn't use Excel and Word. (I typically only use PowerPoint a few times a year.) These apps are available for Windows and MacOS as part of my Microsoft 365 Business Standard (formerly Office 365) subscription, for which I pay $150 annually. The package also includes support for my custom email domain and a terabyte of cloud storage. (For more on what's included, see: [Microsoft 365 vs Google Workspace (formerly G Suite): Which productivity suite is best for your business?](https://www.zdnet.com/article/office-365-vs-g-suite-which-productivity-suite-is-best-for-your-business/))
@@ -73,6 +66,13 @@ Show less
 
 ## OneNote
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### An infinitely expandable notebook
 
 I have been keeping my life in OneNote since at least 2003\. It is the digital equivalent of a tattered old Moleskine that is, through some sort of ineffable magic, infinitely expandable. I use OneNote to keep track of receipts, meeting notes, important emails, travel documents, recipes, and so many "notes to self" that I've lost count.
@@ -87,14 +87,14 @@ Show less
 
 [View now at Adobe Acrobat](https://www.adobe.com/products/catalog.html#category=pdf)
 
-## Adobe Acrobat Pro DC
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Adobe Acrobat Pro DC
 
 ### From the inventor of the PDF standard
 
@@ -108,6 +108,13 @@ Show less
 
 [View now at Quicken](https://go.shopyourlikes.com/pi/de0d8ba2852fb0f3e2424bb37baf8478e8f2e34e?afId=614548&afCampaignId=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&afCreativeId=2993&afPlacementId=2)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Quicken Home and Business
 
 ### I hate it, but I use it
@@ -119,10 +126,10 @@ The good news is that Quicken's support staff is responsive and knowledgeable, a
 Show Expert Take Show less 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Browser and extensions
@@ -132,13 +139,6 @@ Show less
 [View now at Microsoft Edge](https://click.linksynergy.com/deeplink?id=IokOf8qagZo&mid=24542&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&murl=https://www.microsoft.com/edge)
 
 ## Microsoft Edge (Chromium)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### The only browser I need on the desktop
 
@@ -151,6 +151,13 @@ Show Expert Take Show less
 Show less 
 
 [View now at 1Password](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://1password.com/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1Password
 
@@ -166,14 +173,20 @@ Show less
 
 [View now at Workona](https://workona.com/)
 
-## Workona
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Workona
 
 ### The cleanest way to organize browser tabs
 
@@ -189,27 +202,7 @@ Show less
 
 [View now at Spotify](https://www.spotify.com/us/premium/?referral=cbs&utm%5Fcampaign=cbs)
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Spotify Music
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### No music app is perfect, but Spotify is best all around
 
@@ -223,14 +216,14 @@ Show less
 
 [View now at VLC Media Player](https://www.videolan.org/vlc/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## VLC Media Player
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Free, open source, handles every format imaginable
 
@@ -241,6 +234,13 @@ Show Expert Take Show less
 Show less 
 
 [View now at MediaMonkey](https://www.mediamonkey.com/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## MediaMonkey
 
@@ -282,24 +282,20 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-from-noob-to-pro-making-the-list-of-popular-fb-songs-and-videos-for-2024/"><u>[New] From Noob to Pro Making the List of Popular FB Songs and Videos for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-best-webcam-technology-boosting-audio-fidelity/"><u>[Updated] 2024 Approved Best Webcam Technology Boosting Audio Fidelity</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-cost-efficient-top-screen-recorder-apps-for-chromeos/"><u>[Updated] In 2024, Cost-Efficient Top Screen Recorder Apps for ChromeOS</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-sprint-to-stunning-photos-in-win-11-edition/"><u>2024 Approved Sprint to Stunning Photos in Win 11 Edition</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/all-about-the-new-tesla-robotaxi-whats-it-gonna-cost-when-will-it-roll-out-and-what-we-know-so-far/"><u>All About the New Tesla Robotaxi: What's It Gonna Cost? When Will It Roll Out & What We Know So Far</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/beginners-guide-10-essential-strategies-for-success-on-x-network/"><u>Beginner's Guide: 10 Essential Strategies for Success on X Network</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/boosting-engagement-on-facebook-with-a-seamless-pinterest-tab-setup/"><u>Boosting Engagement on Facebook with a Seamless Pinterest Tab Setup</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/debugging-made-easy-what-to-do-when-avcodecdll-wont-show-up/"><u>Debugging Made Easy: What to Do When avcodec.dll Won't Show Up</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-install-aoc-monitor-drivers-on-windows-11-10-or-8/"><u>Download and Install AOC Monitor Drivers on Windows 11, 10 or 8</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722900228888-enhance-your-ui-personalize-the-color-of-your-windows-10-taskbar-heres-how/"><u>Enhance Your UI: Personalize the Color of Your Windows 10 Taskbar Here's How</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/green-walls-in-grey-buildings-a-step-towards-eco-cities/"><u>Green Walls in Grey Buildings A Step Towards Eco-Cities</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-motorola-moto-g73-5g-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Motorola Moto G73 5G</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-strategies-for-prominent-personalities-on-snapchat/"><u>In 2024, Strategies for Prominent Personalities on Snapchat</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/introducing-aether-comprehensive-guide-on-what-it-entails-and-uniting-with-it/"><u>Introducing Aether - Comprehensive Guide on What It Entails & Uniting with It</u></a></li>
-<li><a href="https://extra-support.techidaily.com/prime-windows-rapid-photo-displayer-for-2024/"><u>Prime Window's Rapid Photo Displayer for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-mastering-the-art-of-splitting-your-screen-on-macbook-air/"><u>Step-by-Step Guide: Mastering the Art of Splitting Your Screen on MacBook Air</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solutions-for-the-wlanapidll-not-found-error-message/"><u>Step-by-Step Solutions for the 'WLANAPI.DLL Not Found' Error Message</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-xiaomi-redmi-note-12t-pro-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Xiaomi Redmi Note 12T Pro FRP</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-correcting-the-d3dx941dll-missing-problem/"><u>The Ultimate Guide to Correcting the d3dx9_41.dll Missing Problem</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-how-to-optimize-your-social-media-presence-post-facebook-change-for-2024/"><u>[New] How to Optimize Your Social Media Presence Post-Facebook Change for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1723808087378-solved-how-to-fix-windows-detected-a-hard-disk-problem/"><u>[Solved] How to Fix “Windows Detected a Hard Disk Problem</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-apple-device-exclusive-reviews-top-voice-recorders-unveiled/"><u>[Updated] Apple Device Exclusive Reviews Top Voice Recorders Unveiled</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-maximize-your-engagement-with-full-screen-facebook-videos/"><u>[Updated] Maximize Your Engagement with Full-Screen Facebook Videos</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725286218608-iphone/"><u>最新のiPhoneビデオ圧縮ソフトウェアおすすめ！容量を抑えて楽に保存する方法</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/amazons-biggest-labor-day-offer-grab-an-ipad-for-just-199-insights-from-zdnet/"><u>Amazon's Biggest Labor Day Offer: Grab an iPad for Just $199! - Insights From ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-enhance-your-hid-keyboard-performance-with-updated-drivers/"><u>Download & Enhance Your HID Keyboard Performance with Updated Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-the-latest-in-computer-components-with-toms-hardware/"><u>Exploring the Latest in Computer Components with Tom's Hardware</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1723808183231-how-to-speed-up-your-slow-performing-frequently-freezing-pc-expert-tips/"><u>How to Speed Up Your Slow-Performing, Frequently Freezing PC - Expert Tips!</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1723808150529-install-essential-dell-drivers-on-your-windows-operating-system-easily/"><u>Install Essential Dell Drivers on Your Windows # Operating System Easily!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Sony Xperia 1 V? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1723808259321-pubg-mobile-everything-you-need-to-know/"><u>PUBG MOBILE: Everything You Need to Know!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1723807980591-step-by-step-guide-hooking-up-your-laptop-to-a-television-via-hdmi-includes-images/"><u>Step-by-Step Guide: Hooking Up Your Laptop to a Television via HDMI - Includes Images</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1723808279422-whats-my-ip-address-free-ip-address-lookup/"><u>What's My IP Address - Free IP Address Lookup</u></a></li>
 </ul></div>
 

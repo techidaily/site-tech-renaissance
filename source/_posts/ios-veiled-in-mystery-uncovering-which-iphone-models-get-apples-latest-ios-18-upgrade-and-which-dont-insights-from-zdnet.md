@@ -1,7 +1,7 @@
 ---
 title: "IOS Veiled in Mystery: Uncovering Which iPhone Models Get Apple's Latest iOS 18 Upgrade and Which Don't – Insights From ZDNet"
-date: 2024-10-11T08:55:25.028Z
-updated: 2024-10-13T07:57:37.805Z
+date: 2024-10-16T09:39:09.036Z
+updated: 2024-10-18T20:25:02.934Z
 tags:
   - apple
 categories:
@@ -60,22 +60,21 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Notification assistance
 
 Instead of having to read all the notifications that appear on your screen, you'll be able to browse through AI-generated summaries of them. Plus, a new Focus mode will display only the notifications that need your immediate attention.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Mail assistance
@@ -100,39 +99,46 @@ Beyond using your voice to chat with Siri, you'll also be able to type your requ
 
 Those are a fair number of AI-powered features and upgrades, but Apple Intelligence has more in store for the months and years ahead. 
 
-## What will come later
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## What will come later
 
 ### Image playground
 
 Using the AI-powered [Image Playground](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/), you'll be able to generate images based on a description, suggestions, or even a person from one of your photos. You can then tweak the style and make other changes based on how you plan to use or share the image.
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Image wand
 
 The [image wand](https://www.zdnet.com/article/forget-dall-e-apples-new-ai-image-generator-runs-on-device-and-works-like-magic/) will attempt to turn rough sketches into full images. When you circle an empty area on a virtual canvas or other screen, the image wand will generate an image based on the surrounding area.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Genmoji
 
 You'll be able to [create new emojis](https://www.zdnet.com/article/apples-new-ai-generated-genmoji-solve-a-problem-weve-all-had-before/) on-demand by entering a description or selecting a photo of you or another person. In response, the AI will generate a more accurate and lively kind of emoji.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### More Siri tricks
 
@@ -172,24 +178,15 @@ The big question, though, is not so much when the new AI features will arrive bu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-next-gen-tracker-seamless-camera-movement-coordination/"><u>[New] 2024 Approved Next-Gen Tracker Seamless Camera Movement Coordination</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-stylish-shots-top-trending-instagram-filters-for-2024/"><u>[New] Stylish Shots Top Trending Instagram Filters for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-innovative-frame-tools-and-websites-image-editors/"><u>2024 Approved Innovative Frame Tools and Websites Image Editors</u></a></li>
-<li><a href="https://driver-error.techidaily.com/addressing-usb-not-detected-issue-in-windows-7-and-8/"><u>Addressing USB Not Detected Issue in Windows 7 & 8</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/choosing-your-digital-helper-the-ultimate-battle-between-google-assistant-and-alexe/"><u>Choosing Your Digital Helper: The Ultimate Battle Between Google Assistant and Alexe</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comparing-traditional-cable-and-modern-streaming-platforms/"><u>Comparing Traditional Cable and Modern Streaming Platforms</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/comprehensive-troubleshooting-steps-for-dolby-atmos-non-responsiveness-in-modern-windows-os/"><u>Comprehensive Troubleshooting Steps for Dolby Atmos Non-Responsiveness in Modern Windows OS</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/diagnosing-microsoft-teams-issues-determining-if-its-the-service-or-your-setup/"><u>Diagnosing Microsoft Teams Issues - Determining If It's the Service or Your Setup</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1725287467906-dvdmp4/"><u>DVD落ち着かせて！容易なMP4への変換手順は？</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/effective-solutions-to-overcome-the-504-gateway-timeout-issue/"><u>Effective Solutions to Overcome the 504 Gateway Timeout Issue</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-advice-overcoming-playback-issues-of-spotify-in-your-cars-android-auto-system/"><u>Expert Advice: Overcoming Playback Issues of Spotify in Your Car's Android Auto System</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/explore-the-13-leading-gratis-hddssd-benchmark-utilities-of-july-2024/"><u>Explore the 13 Leading Gratis HDD/SSD Benchmark Utilities of July 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-realme-gt-5-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Realme GT 5</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/innovative-synergy-mondly-enhances-pearsons-buttons/"><u>Innovative Synergy: Mondly Enhances Pearson's Buttons</u></a></li>
-<li><a href="https://win-blog.techidaily.com/lego-star-wars-the-skywalker-saga-fixed-pc-version-for-optimal-performance/"><u>Lego Star Wars: The Skywalker Saga - Fixed PC Version for Optimal Performance</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-get-ready-for-the-big-screen-top-10-movie-trailer-apps-for-ios/"><u>New In 2024, Get Ready for the Big Screen Top 10 Movie Trailer Apps for iOS</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722901621827-prospect-of-a-new-era-with-apples-touchscreen-macbook-price-estimates-release-dates-and-rumored-capabilities-inside/"><u>Prospect of a New Era with Apple's Touchscreen MacBook – Price Estimates, Release Dates and Rumored Capabilities Inside.</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/seamless-integration-of-several-jpeg-images-into-one-unified-pdf-the-ultimate-method/"><u>Seamless Integration of Several JPEG Images Into One Unified PDF: The Ultimate Method</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-enable-gameplay-streaming-on-playstation-5/"><u>Step-by-Step: Enable Gameplay Streaming on PlayStation 5</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ffortless-entertainment-looping-youtube-videos-for-tv-viewers/"><u>[New] Effortless Entertainment Looping YouTube Videos for TV Viewers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-procedure-of-ending-linkedin-services-and-deletion-process/"><u>[New] In 2024, Procedure of Ending LinkedIn Services and Deletion Process</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-master-the-art-of-movie-capture-on-any-device/"><u>2024 Approved Master the Art of Movie Capture on Any Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/coding-command-central-how-to-program-a-one-stop-remote-control-gadget/"><u>Coding Command Central: How to Program a One-Stop Remote Control Gadget</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-canoscan-lide-220-scanner-software-latest-drivers-and-updates/"><u>Free CanoScan LiDE 220 Scanner Software - Latest Drivers & Updates</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-fix-the-apple-iphone-8-plus-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>How to Fix the Apple iPhone 8 Plus GPS not Working Issue | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/it-surprise-youtube-recommendations/"><u>Inhibit Surprise YouTube Recommendations</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/streaming-with-fubo-on-fire-stick-heres-how-you-can-do-it/"><u>Streaming with Fubo on Fire Stick? Here's How You Can Do It!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-tactics-to-overcome-compatibility-hurdles-in-realtek-universal-drivers/"><u>Top Tactics to Overcome Compatibility Hurdles in Realtek Universal Drivers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-instagram-the-definitive-guide/"><u>Understanding Instagram: The Definitive Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "AirPods Series Continues with AirPods 4: Discover the Updates and Enhancements in Apple's Recent Release | ZDNET"
-date: 2024-10-08T13:28:09.815Z
-updated: 2024-10-13T14:40:56.955Z
+date: 2024-10-15T16:38:24.705Z
+updated: 2024-10-18T17:22:03.820Z
 tags:
   - apple
 categories:
@@ -35,10 +35,16 @@ Apple announced an innovative feature coming to AirPods Pro 2 when iOS 18 is rel
 Then, if needed, the AirPods Pro 2 can use the wearer's results and double as an over-the-counter hearing aid. This feature will allow the Pro 2 earbuds to use their directional microphones to amplify conversational noises for users who have difficulty hearing conversations in noisy environments. Apple is still waiting for the FDA to approve this feature, but the company expects the approval to be ready for iOS 18's release.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Find My speaker
@@ -48,10 +54,10 @@ Apple's AirPods Pro 2 feature a small speaker on the bottom of the charging case
 Jada Jones/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. AirPods Max wired listening
@@ -71,10 +77,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 Now, if you have an iPhone 15 or newer, you can plug a USB-C cable into your iPhone and AirPods Max and begin listening. If you have an iPhone 14 or older, you can use a Lightning-to-USB-C adapter to plug into the new AirPods Max.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. A 'Goldilocks' pair of AirPods
@@ -115,19 +121,17 @@ Now, you can buy the AirPods 4 with noise cancellation, which offer upgraded aud
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-channeling-tweets-to-facebook-viewers-efficiently/"><u>[New] 2024 Approved Channeling Tweets to Facebook Viewers Efficiently</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-ultimate-tips-for-mobile-content-capture/"><u>[New] 2024 Approved Ultimate Tips for Mobile Content Capture</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-effortless-ios-screen-recording-techniques/"><u>[New] Effortless iOS Screen Recording Techniques</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-analysis-of-nokia35-review-surpassing-expectations-for-value-conscious-shoppers/"><u>Comprehensive Analysis of Nokia'35 Review: Surpassing Expectations for Value-Conscious Shoppers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/demystifying-hdcp-issues-causes-solutions-and-prevention-tips/"><u>Demystifying HDCP Issues: Causes, Solutions & Prevention Tips</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/discover-the-potential-of-screencastify-recorder-for-2024/"><u>Discover the Potential of Screencastify Recorder for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-honor-magic-vs-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Honor Magic Vs 2 | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-to-casting-content-from-apple-devices-to-hdtvs-using-airplay/"><u>Guide to Casting Content From Apple Devices to HDTVs Using AirPlay</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-swap-out-your-avatar-in-discord-quick-and-easy-steps/"><u>How to Swap Out Your Avatar in Discord – Quick & Easy Steps</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-cache-purification-in-multiple-browsing-environments/"><u>Mastering the Art of Cache Purification in Multiple Browsing Environments</u></a></li>
-<li><a href="https://fox-within.techidaily.com/seagate-portable-hdd-troubleshooting-top-10-fixes-for-driving-issues/"><u>Seagate Portable HDD Troubleshooting: Top 10 Fixes for Driving Issues</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/step-by-step-guide-to-infectious-internet-memes-gifs/"><u>Step-by-Step Guide to Infectious Internet Memes (GIFs)</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/transform-your-computers-appearance-adjust-the-color-of-your-windows-10-taskbar/"><u>Transform Your Computer's Appearance: Adjust the Color of Your Windows 10 Taskbar</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-resolving-ntdlldll-issues-on-various-windows-versions-10-8-7/"><u>Ultimate Guide: Resolving ntdll.dll Issues on Various Windows Versions (10, 8, 7)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-apples-role-in-simplifying-educational-audio-archives/"><u>[New] In 2024, Apple's Role in Simplifying Educational Audio Archives</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-tips-for-efficient-music-import-in-inshot-app/"><u>[New] Tips for Efficient Music Import in InShot App</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-check-your-youtube-channels-for-accurate-monetization-practices/"><u>[Updated] Check Your YouTube Channels for Accurate Monetization Practices</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabled-apple-iphone-11-pro-how-to-unlock-a-disabled-apple-iphone-11-pro-by-drfone-ios/"><u>In 2024, Disabled Apple iPhone 11 Pro How to Unlock a Disabled Apple iPhone 11 Pro?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-the-essential-guide-to-iphone-screen-recordings/"><u>In 2024, The Essential Guide to IPhone Screen Recordings</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-haldll-fixes-for-windows-11-10-8-vista-and-7-users/"><u>Mastering Hal.dll Fixes for Windows 11, 10, 8, Vista & 7 Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/netflix-downloads-made-easy-a-comprehensive-guide-for-laptop-users/"><u>Netflix Downloads Made Easy: A Comprehensive Guide for Laptop Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-essential-breakdown-of-ev-chargers-from-level-1-to-level-3/"><u>The Essential Breakdown of EV Chargers – From Level 1 to Level 3</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-30-essential-gmail-shortcut-keys/"><u>Top 30 Essential Gmail Shortcut Keys</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-for-dealing-with-launchdll-file-disappearances/"><u>Troubleshooting Tips for Dealing with 'Launch.dll' File Disappearances</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-waterproof-ratings-for-the-revolutionary-iphone-15/"><u>Unveiling the Waterproof Ratings for the Revolutionary iPhone 15</u></a></li>
 </ul></div>
 

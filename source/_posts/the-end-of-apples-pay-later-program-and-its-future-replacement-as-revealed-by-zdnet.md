@@ -1,7 +1,7 @@
 ---
 title: The End of Apple's Pay Later Program & Its Future Replacement as Revealed by ZDNet
-date: 2024-10-08T10:16:32.814Z
-updated: 2024-10-12T23:50:35.476Z
+date: 2024-10-12T22:07:34.028Z
+updated: 2024-10-19T14:36:12.062Z
 tags:
   - apple
 categories:
@@ -32,13 +32,6 @@ Before you get started using Apple Pay in stores and online, here's what you nee
 
 **What you need:** iPhone, banking information
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Set up Apple Pay in the Wallet app
 
 Before using Apple Pay as your contactless payment form, you need to set it up by adding your credit or debit cards to your iPhone. You can set up Apple Pay from your [iPhone's settings](https://www.zdnet.com/article/dont-change-five-these-iphone-settings/) or simply by going to the Wallet app and adding your cards there. 
@@ -46,6 +39,13 @@ Before using Apple Pay as your contactless payment form, you need to set it up b
 Tap on the Wallet app to open it.
 
 Screenshot by Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Tap on the Add Card button and enter Apple Pay info
 
@@ -78,10 +78,10 @@ Double-press the iPhone's right-side button to access Apple Pay.
 Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Enter your Apple Pay passcode or use Face ID to confirm payment
@@ -91,13 +91,6 @@ Once you've tapped on a card from your iPhone's Wallet, you'll be prompted to en
 Enter your passcode to confirm Apple Pay payment.
 
 Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Hold your iPhone near the payment terminal
 
@@ -116,10 +109,10 @@ That's it! Apple Pay is as easy as apple pie. (Sorry, I had to.)
 ## FAQ
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How do I set up Apple Pay from my iPhone Settings?
@@ -130,6 +123,13 @@ To set up Apple Pay, you go to your iPhone's Settings and follow these steps:
 2. Tap on Add Card and follow the prompts to add your new card.
 
 Once you add your card to your Wallet, you can edit your settings to suit your needs. You can choose to enable Apple Cash; enable the double-click side button to work as a shortcut for Apple Pay' add Express Transit Cards to pay for transit automatically without a passcode or Face ID; edit your transaction information like default card, shipping address, and contact info; and toggle payments on your Mac on and off. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Where can I use Apple Pay to pay in stores and online?
 
@@ -158,10 +158,16 @@ To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other 
 Some services from Apple offer rewards, like cash back on its credit cards, which also translate into Apple Cash. 
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to use Apple Pay on your Apple Watch
@@ -212,24 +218,20 @@ Using Apple Pay or [Google Pay](https://www.zdnet.com/finance/google-pay-vs-sams
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-renaissance.techidaily.com/month-score-the-best-value-on-apple-watches-with-our-top-pick-of-savings/"><u>[Month]: Score the Best Value on Apple Watches with Our Top Pick of Savings</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/he-secrets-of-effective-free-youtube-video-transcriptions-revealed/"><u>[New] The Secrets of Effective, FREE YouTube Video Transcriptions Revealed</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-total-circles-capture-systems/"><u>[New] Total Circles Capture Systems</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-highlight-hubs-choosing-the-right-online-aids/"><u>[Updated] Highlight Hubs Choosing the Right Online Aids</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-final-goodbye-to-youtubes-minis-a-step-by-step-process/"><u>[Updated] In 2024, Final Goodbye to YouTube's Minis A Step-by-Step Process</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-unleashing-creativity-in-youtube-banner-and-thumbnail-design/"><u>[Updated] Unleashing Creativity in YouTube Banner & Thumbnail Design</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/convert-mp4-video-files-into-mpeg-format-for-free-using-movavis-web-service-sicuro/"><u>Convert MP4 Video Files Into MPEG Format for Free Using Movavi's Web Service - Sicuro</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/effortless-techniques-for-pairing-a-samsung-universal-remote-to-your-televisions/"><u>Effortless Techniques for Pairing a Samsung Universal Remote to Your Televisions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/explore-my-picks-for-the-ultimate-six-off-the-grid-translator-apps/"><u>Explore My Picks for the Ultimate Six Off-the-Grid Translator Apps</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-infinix-smart-8-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Infinix Smart 8 Pattern Lock Screen</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-smart-8-hd-s-lock-screen-pattern-pin-or-password-by-drfone-android-unlock-android-unlock/"><u>How to bypass Smart 8 HD’s lock screen pattern, PIN or password</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Vivo Y100i Power 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/master-your-match-in-gifting-choosing-premium-playthings-consoles-and-accessories-for-little-gamers/"><u>Master Your Match in Gifting: Choosing Premium Playthings - Consoles & Accessories for Little Gamers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/no-roku-no-problem-watching-roku-channels-on-other-devices-simplified/"><u>No Roku? No Problem! Watching Roku Channels on Other Devices Simplified</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-lenovo-n130s-notebook-a-look-at-its-restricted-performance-and-unexpected-functionality/"><u>The Lenovo N130s Notebook – A Look at Its Restricted Performance and Unexpected Functionality</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-selection-8-leading-reading-apps-of-2024/"><u>The Ultimate Selection: 8 Leading Reading Apps of 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-connecting-and-using-an-external-hdd-with-your-xbox-one/"><u>Ultimate Guide: Connecting and Using an External HDD with Your Xbox One</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unbeatable-options-the-best-no-cost-alternatives-to-skype/"><u>Unbeatable Options: The Best No-Cost Alternatives to Skype</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/xbox-one-screen-capture-guide-easy-steps-to-save-your-gameplay/"><u>Xbox One Screen Capture Guide: Easy Steps to Save Your Gameplay</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-secure-and-speedy-transfer-of-big-video-files-between-ios-and-os-x/"><u>[New] Secure and Speedy Transfer of Big Video Files Between iOS & OS X</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-icy-images-cozier-cinematics-best-bgs-selection/"><u>[Updated] Icy Images, Cozier Cinematics Best Bgs Selection</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-nextgen-video-upscaler-mobiledesktop-edition-for-2024/"><u>[Updated] NextGen Video Upscaler Mobile/Desktop Edition for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-poco-c65-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/comment-supprimer-la-partition-de-demarrage-dans-windows-10-guide-complet/"><u>Comment Supprimer La Partition De Démarrage Dans Windows 10 : Guide Complet</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-realme-narzo-60-pro-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Realme Narzo 60 Pro 5G? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/keep-confidential-matters-from-the-prying-eyes-of-ai/"><u>Keep Confidential Matters From the Prying Eyes of AI</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/seamlessly-continue-reading-transfer-your-last-kindle-page-between-computer-ios-and-android/"><u>Seamlessly Continue Reading: Transfer Your Last Kindle Page Between Computer, iOS & Android</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/secure-a-no-cost-licensing-pass-unlock-the-guide-now/"><u>Secure a No-Cost Licensing Pass – Unlock the Guide Now!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/seek-answers-explore-insights-on-our-qanda-page-3/"><u>Seek Answers? Explore Insights on Our Q&A Page 3</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-transferring-your-epub-files-to-the-apple-ipads-ibooks/"><u>Step-by-Step Guide: Transferring Your EPUB Files to the Apple iPad's iBooks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-transforming-your-epub-books-into-mobi-format-using-calibre/"><u>Step-by-Step Guide: Transforming Your EPUB Books Into MOBI Format Using Calibre</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-for-reading-digital-publications-from-amazon-kindle-on-a-blackberry-10-smartphone-or-tablet/"><u>Step-by-Step Instructions for Reading Digital Publications From Amazon Kindle on a BlackBerry 10 Smartphone or Tablet</u></a></li>
+<li><a href="https://games-able.techidaily.com/unjamming-steams-content-stream-process/"><u>Unjamming Steam's Content Stream Process</u></a></li>
+<li><a href="https://win11.techidaily.com/unseen-potentials-windows-reliability-and-performance-metrics/"><u>Unseen Potentials: Windows' Reliability & Performance Metrics</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Ultimate Tricks to Upgrade iPhone/iPad Photo Shooting Techniques
-date: 2024-10-09T01:55:59.696Z
-updated: 2024-10-13T05:13:21.717Z
+date: 2024-10-14T07:17:24.945Z
+updated: 2024-10-18T20:10:51.678Z
 categories:
   - BestProducts
 description: This Article Describes Ultimate Tricks to Upgrade iPhone/iPad Photo Shooting Techniques
@@ -30,6 +30,13 @@ thumbnail: https://www.lifewire.com/thmb/LvEp9E7pBJQy3A7OQeHRmCBc3YA=/400x300/fi
 3. Scroll to the bottom of the page and select **Save Changes** .  
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Create, Send, and Forward Email
 
  With Gmail[keyboard](https://www.lifewire.com/what-is-a-keyboard-2618153) shortcuts, you can quickly create, send, and forward Gmail messages:
@@ -48,13 +55,6 @@ thumbnail: https://www.lifewire.com/thmb/LvEp9E7pBJQy3A7OQeHRmCBc3YA=/400x300/fi
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Scroll Through Emails
 
  These shortcuts are handy for navigating through your messages and long email threads:
@@ -63,31 +63,11 @@ thumbnail: https://www.lifewire.com/thmb/LvEp9E7pBJQy3A7OQeHRmCBc3YA=/400x300/fi
 * **Scroll up an email list (K)** : Press the**K** key to scroll up.
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Select Multiple Emails
 
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
-
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Add Formatting to Email Text
 
@@ -101,10 +81,10 @@ thumbnail: https://www.lifewire.com/thmb/LvEp9E7pBJQy3A7OQeHRmCBc3YA=/400x300/fi
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add Elements to an Email
@@ -139,6 +119,13 @@ thumbnail: https://www.lifewire.com/thmb/LvEp9E7pBJQy3A7OQeHRmCBc3YA=/400x300/fi
 * **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to View All Gmail Shortcuts
 
  Need help remembering a shortcut? You can quickly pull up the entire list with a keyboard shortcut:
@@ -146,6 +133,19 @@ thumbnail: https://www.lifewire.com/thmb/LvEp9E7pBJQy3A7OQeHRmCBc3YA=/400x300/fi
 * **Open keyboard shortcut help (Shift** +**?)** : Press**Shift** +**?** to get the full list of Gmail keyboard shortcuts.
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Was this page helpful?
 
@@ -176,21 +176,24 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-graphic-design-evolution-post-acid-review-for-2024/"><u>[New] Graphic Design Evolution Post-ACID Review for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-streamlining-the-process-of-webinars-to-video/"><u>[Updated] In 2024, Streamlining the Process of Webinars to Video</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-portable-gyro-assisted-visual-soother/"><u>[Updated] Portable Gyro-Assisted Visual Soother</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-oppo-reno-10-pro-5g-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Oppo Reno 10 Pro 5G</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/confused-about-psn-outages-is-it-a-global-problem-or-are-you-singularly-disconnected/"><u>Confused About PSN Outages - Is It a Global Problem or Are You Singularly Disconnected?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/deepcools-silent-guardian-a-comprehensive-review-of-the-assassin-4s-cooler/"><u>DeepCool's Silent Guardian: A Comprehensive Review of the Assassin 4S Cooler</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-installation-tips-for-microsoft-365-on-desktop-computers/"><u>Easy Installation Tips for Microsoft 365 on Desktop Computers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-advice-on-protecting-and-polishing-flat-screen-monitors-for-optimal-performance/"><u>Expert Advice on Protecting and Polishing Flat Screen Monitors for Optimal Performance</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/explore-the-world-from-home-discover-66-inspiring-tweeters-offering-travel-deals-and-guidance/"><u>Explore The World From Home: Discover 66 Inspiring Tweeters Offering Travel Deals & Guidance</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-blur-your-images-soul-the-best-face-pixelation-techniques/"><u>In 2024, Blur Your Image's Soul The Best Face Pixelation Techniques</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-curating-best-audio-relaxation-tools-asmr/"><u>In 2024, Curating Best Audio Relaxation Tools (ASMR)</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/must-have-technology-tools-the-ultimate-list-of-9-key-products-for-todays-learners/"><u>Must-Have Technology Tools: The Ultimate List of 9 Key Products for Today's Learners</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-poco-c51-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Poco C51 Black and White | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-hiding-your-tracks-on-major-browsers-like-chrome-edge-firefox-safari-and-opera/"><u>The Ultimate Guide: Hiding Your Tracks on Major Browsers Like Chrome, Edge, FireFox, Safari & Opera</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-6-best-offline-language-translation-applications/"><u>Top 6 Best Offline Language Translation Applications</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-mac-audio-cd-ripper-software-for-seamless-drm-protected-music-conversion/"><u>Top Mac Audio CD Ripper Software for Seamless DRM-Protected Music Conversion</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-efficient-writing-techniques-for-impactful-ad-creation/"><u>[New] In 2024, Efficient Writing Techniques for Impactful Ad Creation</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-echo-enthusiasts-emporium-obtain-and-review-sound-files/"><u>[Updated] Echo Enthusiasts Emporium Obtain & Review Sound Files</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-insta-tones-101-learn-to-design-and-download-on-your-own/"><u>[Updated] In 2024, Insta Tones 101 Learn to Design and Download on Your Own</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-revealing-clarity-mastering-the-eraser-feature-in-psx/"><u>[Updated] In 2024, Revealing Clarity Mastering the Eraser Feature in PSX</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-master-digital-design-integrating-text-with-visuals-for-improved-clarity-for-2024/"><u>[Updated] Master Digital Design Integrating Text with Visuals for Improved Clarity for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-comprehensive-guide-to-professional-level-video-editing-on-windows-11/"><u>A Comprehensive Guide to Professional-Level Video Editing on Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/bridging-devices-and-desktops-how-to-operate-google-home-features-from-your-pc/"><u>Bridging Devices and Desktops: How to Operate Google Home Features From Your PC</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/delight-in-facebooks-forgotten-meme-kingdoms-for-2024/"><u>Delight in Facebook's Forgotten Meme Kingdoms for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-tips-for-engaging-in-live-messages-within-mozilla-thunderbird/"><u>Easy Tips for Engaging in Live Messages Within Mozilla Thunderbird</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/eco-conscious-speedsters-unveiled-in-depth-analysis-of-teamgroups-t-force-vulcan-ddr5-6000-2x16gb-stick-set-a-comprehensive-review/"><u>Eco-Conscious Speedsters Unveiled: In-Depth Analysis of TeamGroup's T-Force Vulcan DDR5-6000, 2X16GB Stick Set - A Comprehensive Review</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-customization-adjusting-the-control-center-in-ios-18-on-your-iphone-expert-tips-by-zdnet/"><u>Mastering Customization: Adjusting the Control Center in iOS 18 on Your iPhone – Expert Tips by ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigate-the-decades-with-our-pick-of-the-best-80s-movies-to-watch-now/"><u>Navigate the Decades with Our Pick of the Best '80S Movies to Watch Now</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-android-communication-glitches-no-more-missed-texts/"><u>Overcoming Android Communication Glitches: No More Missed Texts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/reconnect-with-anonymous-callers-how-to-call-a-blocked-or-private-phone-number/"><u>Reconnect with Anonymous Callers: How to Call a Blocked or Private Phone Number</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-network-not-registered-issue-a-step-by-step-guide-for-samsung-galaxy-users/"><u>Solving the 'Network Not Registered' Issue: A Step-by-Step Guide for Samsung Galaxy Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-issue-why-isnt-netflix-functioning-properly-on-your-roku-device/"><u>Solving the Issue: Why Isn't Netflix Functioning Properly on Your Roku Device?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/streaming-the-roku-channel-on-other-devices-a-comprehensive-guide/"><u>Streaming the Roku Channel on Other Devices: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/sync-up-disneyplus-with-chromecast-for-the-ultimate-media-experience-heres-how/"><u>Sync Up Disney+ with Chromecast for the Ultimate Media Experience – Here’s How!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unleashing-potential-with-the-vida-editing-suite-for-2024/"><u>Unleashing Potential with the Vida Editing Suite for 2024</u></a></li>
 </ul></div>
 

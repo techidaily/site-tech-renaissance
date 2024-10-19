@@ -1,7 +1,7 @@
 ---
 title: "Resolving the Mystery: A Step-by-Step Guide to Correcting STOP 0X0000003D Errors"
-date: 2024-09-17T23:16:57.799Z
-updated: 2024-09-20T17:28:50.228Z
+date: 2024-10-18T02:38:41.292Z
+updated: 2024-10-18T20:10:12.132Z
 categories:
   - BestProducts
 description: "This Article Describes Resolving the Mystery: A Step-by-Step Guide to Correcting STOP 0X0000003D Errors"
@@ -23,6 +23,13 @@ thumbnail: https://thmb.techidaily.com/28b1ebd463673cb8f4ec1dcff8b4e8726440d728e
 
  This article explains how to get 120 frames per second—which you'll also see as "FPS" or "Hz"–on PS5\. Not every game on PS5 supports this option, so while you can prep your console for it, it won't work for every title.  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Turn On 120 FPS on PS5
 
  Most games that support 120 FPS also have other graphical modes that run at different frame rates, like 30 FPS and 60 FPS. You'll want to check your in-game settings for a 120 FPS toggle or a "Performance Mode" that you can turn on.
@@ -36,10 +43,33 @@ thumbnail: https://thmb.techidaily.com/28b1ebd463673cb8f4ec1dcff8b4e8726440d728e
 3. Choose**Video Output** on the left side of the screen.  
 ![Video Output in PS5 Screen and Video settings](https://www.lifewire.com/thmb/Xgk1MNv2WwvyRO7tv2bHEF4oiqo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Video-Output-46b505f379064535ac4977a29faee336.jpg)
 4. Select**120 Hz Output** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![120 Hz Output in PS5 settings](https://www.lifewire.com/thmb/hxj9hKX_96UCkA07Y8Rzo91hvKo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/120-Output-9e18a336656f4caf97cc91724b032df2.jpg)
 5. Select**Automatic** (you won't have an**On** option because not every game supports 120 Hz output).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The "Automatic" option ](https://www.lifewire.com/thmb/N0N2mbCdwDADtM0UH7Q50TlNT2U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Automatic-8261fa6f79014410bb3948ebcbcac568.jpg)
 6. Now, if a game has an option for 120 frames per second and you turn it on, your PS5 will output at that rate.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What You Need to Get 120 FPS on PS5
 
@@ -50,13 +80,6 @@ thumbnail: https://thmb.techidaily.com/28b1ebd463673cb8f4ec1dcff8b4e8726440d728e
  You'll also need an HDMI 2.1 cable. You can use the HDMI cable that comes with the PS5, which is a 2.1\. However, if you're using a different cord (because the included one wasn't long enough, for example), you'll need to make sure it's that type.
 
  Lastly, keep in mind that not every game supports 120 FPS. You won't typically see that information on the game box, unfortunately, but you should find it in shop listings. And, of course, you can check the menus for a 120 FPS option.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Which PS5 Games Support 120 FPS?
 
@@ -102,5 +125,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-drone-trailblazers-the-most-attentive-models/"><u>[New] In 2024, Drone Trailblazers The Most Attentive Models</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-channel-upgrade-marking-chapters-in-youtube-video-files/"><u>[Updated] Channel Upgrade Marking Chapters in YouTube Video Files</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-cost-free-win-10-screencast-solutions-top-5-picks/"><u>[Updated] Cost-Free Win 10 Screencast Solutions Top 5 Picks</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-bright-ideas-top-17-lighting-setups-for-youtubers/"><u>[Updated] In 2024, Bright Ideas Top 17 Lighting Setups for YouTubers</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-cutting-edge-editing-with-youtubes-studio-editor/"><u>[Updated] In 2024, Cutting-Edge Editing with YouTube's Studio Editor</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-the-future-of-virtual-health-advice-7-compelling-reasons-to-trust-ai-in-wellness/"><u>ChatGPT: The Future of Virtual Health Advice - 7 Compelling Reasons to Trust AI in Wellness</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-tutorial-switching-the-screen-keyboard-functionality-on-and-off-for-windows-10-users/"><u>Comprehensive Tutorial: Switching the Screen Keyboard Functionality on and Off for Windows 10 Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easily-switch-off-facebook-on-android-quick-tips-and-tricks/"><u>Easily Switch Off Facebook on Android: Quick Tips & Tricks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-solutions-to-repair-color-inaccuracies-and-warping-issues-in-monitor-display/"><u>Effective Solutions to Repair Color Inaccuracies & Warping Issues in Monitor Display</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effortless-conversion-exporting-your-favorite-spotify-tunes-as-readable-texts/"><u>Effortless Conversion: Exporting Your Favorite Spotify Tunes as Readable Texts</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-activate-windows-xp-movie-creation-toolkit/"><u>In 2024, Activate Windows XP Movie Creation Toolkit</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-virtual-playstation-experience-at-your-fingertips-top-5/"><u>In 2024, Virtual PlayStation Experience at Your Fingertips (Top 5)</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/optimizing-techniques-broadcasting-via-obs-to-facebook-for-2024/"><u>Optimizing Techniques Broadcasting via OBS to Facebook for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-mystery-steps-to-resolve-msvcr100dll-file-cannot-be-found/"><u>Solving the Mystery: Steps to Resolve 'Msvcr100.dll' File Cannot Be Found</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/stream-disneys-magic-on-the-big-screen-a-simple-guide-to-connect-disney-plus-with-chromecast/"><u>Stream Disney's Magic on the Big Screen: A Simple Guide to Connect Disney Plus with Chromecast</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-trick-for-making-apples-hidden-apps-reappear/"><u>The Ultimate Trick for Making Apple's Hidden Apps Reappear</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/yahoo-mail-disposal-a-comprehensive-walkthrough-to-erase-it-completely/"><u>Yahoo Mail Disposal: A Comprehensive Walkthrough to Erase It Completely</u></a></li>
+</ul></div>
 

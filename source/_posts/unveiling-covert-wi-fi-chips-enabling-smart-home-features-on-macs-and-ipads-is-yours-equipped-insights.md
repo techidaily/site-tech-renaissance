@@ -1,7 +1,7 @@
 ---
 title: Unveiling Covert Wi-Fi Chips Enabling Smart Home Features on Macs and iPads | Is Yours Equipped? Insights
-date: 2024-10-11T01:40:35.267Z
-updated: 2024-10-13T08:34:36.051Z
+date: 2024-10-14T11:51:51.344Z
+updated: 2024-10-19T10:02:04.317Z
 tags:
   - apple
 categories:
@@ -58,6 +58,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 Since the iPad and Mac run Apple's Home app, they could function as Thread border routers, integrating more seamlessly with smart home networks. This could indicate the iPad's return to functioning as a smart home hub. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to check if your iPad or Mac has a Thread radio
 
 The best way to determine if your device has a Thread radio built-in is to look for evidence of Thread testing in the device's [FCC reports](https://fcc.report/). 
@@ -70,16 +77,22 @@ You can also look for your [iPad](https://support.apple.com/en-us/108043), [MacB
 
 **Also: [The M4 iPad Pro's true potential will be realized at WWDC, and AI will have a lot to do with it](https://www.zdnet.com/article/the-m4-ipad-pros-true-potential-will-be-realized-at-wwdc-and-ai-will-have-a-lot-to-do-with-it/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Access the Apple FCC database
 
 You can access the Apple FCC database by clicking [FCC.Report/company/Apple](https://fcc.report/company/apple). This will bring up a complete list of the company's FCC reports, from the first one in 1981 through today.
+
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Search for your device's model number or FCC ID
 
@@ -92,10 +105,16 @@ Clicking on the device's report will bring up a list of all the reports created 
 **Also: [iPad Air (2024) review: Apple's M2 tablet is even better than my $1,200 Android](https://www.zdnet.com/article/ipad-air-2024-review/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Find the Thread testing report
@@ -105,10 +124,10 @@ Search for any test reports mentioning "Thread" or "IEEE 802.15.4," which is the
 If a Thread radio exists in that device, you should find a report of its compliance testing since a non-existent feature wouldn't be tested.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQ
@@ -137,19 +156,6 @@ Thread creates a self-healing mesh network, so having more border routers in a s
 
 For example, if you have a Thread smart lock and temperature sensor and a Wi-Fi smart thermostat, a Thread border router like the HomePod mini connects the smart lock and sensor to the Wi-Fi network and enables communication between the sensor and thermostat. It also would allow you to control all three devices through a single app -- in this case, Apple Home -- even if you're not home.
 
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why would Apple give some iPads and Macs Thread radios and not all?
 
 No Thread protocol information was found for the [11-inch M2 Wi-Fi iPad Air](https://fcc.report/FCC-ID/BCGA2902/) or the [13-inch M3 Macbook Air](https://fcc.report/FCC-ID/BCGA3113/). This doesn't guarantee that a Thread radio isn't included in these devices, but Apple likely used a simpler chip for these starter models.
@@ -158,13 +164,6 @@ No Thread protocol information was found for the [11-inch M2 Wi-Fi iPad Air](htt
 
 While Apple hasn't explicitly confirmed this information, the company may have used tri-band radio chips in the iPads and Macs with Thread radios. These integrated circuits support three different frequency bands for wireless communication, combining Wi-Fi, Bluetooth, and Thread into a single chip to make it more energy-efficient and compact. The multi-protocol support helps future-proof devices by supporting emerging wireless protocols.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Will iPads and Macs be Thread border routers?
 
 It's unclear whether iPads and Macs will eventually function as Thread border routers because Apple hasn't announced or confirmed this functionality. However, future software updates could enable this capability to enhance smart home ecosystems and improve the performance of a smart home network, especially as the Matter standard becomes more widely adopted in the Apple ecosystem.
@@ -172,6 +171,13 @@ It's unclear whether iPads and Macs will eventually function as Thread border ro
 **Also: [Govee's new smart outdoor lights brighten your home in three colorful ways](https://www.zdnet.com/home-and-office/smart-home/govees-new-smart-outdoor-lights-brighten-your-home-in-three-colorful-ways/)**
 
 The new iPads and Macs with Thread radios have the necessary hardware to act as Thread border routers, but Apple needs to enable this functionality. 
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is the iPad a smart home hub?
 
@@ -225,22 +231,20 @@ The Apple Watch primarily uses Bluetooth to connect to the iPhone, but when Blue
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-easy-ways-to-transfer-photos-and-videos-from-an-iphone-to-a-pc/"><u>[New] Easy Ways to Transfer Photos and Videos From an iPhone to a PC</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/resh-footage-frequent-flows-dos-and-donts-for-streamlining-video-content/"><u>[New] Fresh Footage, Frequent Flows Do's & Don'ts for Streamlining Video Content</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-ushering-bliss-in-unboxing-7-strategies/"><u>[New] In 2024, Ushering Bliss in Unboxing 7 Strategies</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-the-huawei-p10-examining-its-durability-and-build-quality/"><u>[New] The Huawei P10 Examining Its Durability & Build Quality</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-from-monochrome-to-vibrance-a-film-graders-journey/"><u>[Updated] From Monochrome to Vibrance A Film Grader's Journey</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-harmony-hub-capture-store-and-review-sounds/"><u>[Updated] In 2024, Harmony Hub Capture, Store & Review Sounds</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-a-complete-guide-to-aspect-ratios-about-youtube-videosshortsads/"><u>2024 Approved A Complete Guide to Aspect Ratios About YouTube Videos/Shorts/Ads</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-say-goodbye-to-vertical-and-horizontal-bars-in-youtube-movies/"><u>2024 Approved Say Goodbye to Vertical and Horizontal Bars in YouTube Movies</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-picks-the-ultimate-list-of-alarm-clock-apps/"><u>Essential Picks: The Ultimate List of Alarm Clock Apps</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-how-to-discover-an-individuals-phone-number-online-safely-and-responsibly/"><u>Guide: How to Discover an Individual’s Phone Number Online Safely and Responsibly</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-resolving-horizontal-and-vertical-lines-on-your-tv-screen/"><u>Guide: Resolving Horizontal and Vertical Lines on Your TV Screen</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-the-problem-why-isnt-my-gmail-synchronizing/"><u>Solving the Problem: Why Isn't My Gmail Synchronizing?</u></a></li>
-<li><a href="https://windows11.techidaily.com/surviving-windows-11-blue-screen-adopting-11-key-approaches/"><u>Surviving Windows 11 Blue Screen: Adopting 11 Key Approaches</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-how-to-using-gifs-to-amplify-your-presence-in-the-instagram-conversation/"><u>The Ultimate How-To: Using GIFs to Amplify Your Presence in the Instagram Conversation</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-tutorial-to-activate-and-use-screen-mirroring-on-samsung-televisions/"><u>The Ultimate Tutorial to Activate and Use Screen Mirroring on Samsung Televisions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-the-missing-mfc42ddll-error-on-your-pc-easy-fixes-inside/"><u>Troubleshooting the Missing mfc42d.dll Error on Your PC - Easy Fixes Inside</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-car-speaker-problems-and-how-to-fix-them/"><u>Understanding Car Speaker Problems and How to Fix Them</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-the-beginners-pathway-to-fashionable-snaps-and-lenses/"><u>[New] 2024 Approved The Beginner's Pathway to Fashionable Snaps & Lenses</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-youtubes-rules-the-creators-perspective-for-2024/"><u>[Updated] YouTube’s Rules The Creator's Perspective for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/boost-your-sites-performance-using-cookiebot-tools/"><u>Boost Your Site's Performance Using Cookiebot Tools</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-discover-the-top-strategies-for-watching-global-cricket-events-online/"><u>In 2024, Discover the Top Strategies for Watching Global Cricket Events Online</u></a></li>
+<li><a href="https://techtrends.techidaily.com/new-and-guarded-dvd-cannot-be-ripped-uncover-our-solutions-for-seamless-extraction/"><u>New & Guarded DVD Cannot Be Ripped? Uncover Our Solutions for Seamless Extraction!</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-bring-your-photos-to-life-a-detailed-ken-burns-effect-tutorial/"><u>New Bring Your Photos to Life A Detailed Ken Burns Effect Tutorial</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-how-to-quickly-fix-video-drivers-on-windows-10/"><u>Step-by-Step Tutorial: How To Quickly Fix Video Drivers On Windows 10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-using-application-compatibility-mode-in-windows-10/"><u>Step-by-Step: Using Application Compatibility Mode in Windows 10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/struggling-with-oculus-software-connection-expert-tips-for-getting-back-online/"><u>Struggling with Oculus Software Connection? Expert Tips for Getting Back Online</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-best-techniques-for-audio-enhancement-with-a-windows-11-equalizer/"><u>The Best Techniques for Audio Enhancement with a Windows 11 Equalizer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-moody-chart-is-used-to-find-the-friction-factor-f-for-calculating-pressure-drops-in-both-laminar-and-turbulent-flows-within-pipes/"><u>The Moody Chart Is Used to Find the Friction Factor (F) for Calculating Pressure Drops in Both Laminar and Turbulent Flows Within Pipes</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-realme-c55-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Realme C55 without backup.</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-fixing-a-non-functional-oculus-contoller/"><u>Troubleshooting Guide: Fixing a Non-Functional Oculus Contoller</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-fixing-your-logitech-g923-when-it-wont-connect-updated-guide/"><u>Troubleshooting Steps: Fixing Your Logitech G923 When It Won't Connect - Updated Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unbox-test-and-review-navigating-features-on-the-hisense-40h5590f-led-set/"><u>Unbox, Test and Review: Navigating Features on the Hisense 40H5590F LED Set</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unlock Your MacBook's Potential with macOS 15: Top New Features Revealed on ZDNet"
-date: 2024-10-09T20:49:16.579Z
-updated: 2024-10-13T12:54:32.225Z
+date: 2024-10-13T02:08:25.872Z
+updated: 2024-10-19T14:37:54.114Z
 tags:
   - apple
 categories:
@@ -53,10 +53,10 @@ Apple's approach to AI is markedly different from that of its competitors, howev
 This lets Apple disengage from the chaotic rat race to a degree, positioning itself as the careful, more ethical actor when it comes to AI, particularly in light of [recent debilitating security concerns](https://www.zdnet.com/article/after-brutal-critiques-microsoft-recall-will-get-these-major-privacy-and-security-changes/) from Microsoft's Recall feature, which is delaying the release of a host of its new [Copilot+ PCs](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/).
 
 <!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Continuity
@@ -72,10 +72,10 @@ The app also streamlines your devices by bringing your iPhone's notifications st
 Alternatively, the new standby mode on the iPhone displays a host of at-a-glance (but un-interactable) data like a clock and calendar while you're using the Continuity app on the Mac. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Siri 2.0
@@ -90,19 +90,6 @@ During the WWDC keynote, Apple showed off Siri's new look as an ever-present AI 
 
 The new Siri also comes with on-screen awareness, allowing the AI to respond to what you're looking at on the screen without requiring the user to provide specific context with each prompt. This also allows Siri to take in-app actions in a way that wasn't possible before. In MacOS Sequoia, Siri's integration with OpenAI's LLM propels the virtual assistant to the top players in the field alongside [ChatGPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt-plus-from-gpt-4o-to-interactive-tables/) and [Google's Gemini](https://www.zdnet.com/article/what-is-google-gemini/). 
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. AI-fueled productivity apps
 
 Screenshot by Nina Raemont
@@ -115,6 +102,13 @@ Apple Intelligence has been integrated across all of the big productivity apps i
 * **Photos:** AI-based photo editing features in the Photos app allow users to make touch-ups, remove backgrounds, and do editing instantaneously. Additionally, searching for specific photos and videos using natural language will bring up images of specific people or events.
 * **Notes:** Voice functionality is coming to the Notes app, with the ability to add voice memos directly embedded into your notes. AI will also support audio transcription and transcripts of audio recordings. You can record and transcribe audio, and when your recording is finished, the AI will create a summary on its own.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. New and improved Safari
 
 Screenshot by Nina Raemont
@@ -125,6 +119,13 @@ Safari will see a host of improvements powered by AI functionality, including an
 
 Apple demoed Safari's machine learning capability to automatically detect relevant information on a webpage, including things like quick links, directions, and quick summaries with logistical information like phone numbers and addresses. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Standalone Passwords app
 
 Screenshot by Nina Raemont
@@ -134,13 +135,6 @@ Aligning with Apple's positioning of its AI features as secure and trustworthy, 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
 This standalone app is an extension of the existing iCloud Keychain, and seeks to simplify password storage by employing Face ID and Touch ID alongside character-string passwords. Much of it is designed to work automatically and seamlessly in an effort to solve what is a huge UX headache that everyone has experienced at one point or another. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Gaming
 
@@ -176,19 +170,14 @@ Apple wants to create a "unified gaming platform" across the iPhone, iPad, and M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-the-ultimate-agri-game-guide-for-social-playtime-with-pals/"><u>[New] 2024 Approved The Ultimate Agri-Game Guide for Social Playtime with Pals</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-streaming-made-simple-convert-and-broadcast-mp3-songs-online/"><u>[Updated] Streaming Made Simple Convert and Broadcast MP3 Songs Online</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/access-local-fm-channels-using-your-smartphone-tips-for-iphoneandroid-users/"><u>Access Local FM Channels Using Your Smartphone: Tips for iPhone/Android Users</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/cross-platform-accessibility-for-apple-icloud-photographs/"><u>Cross-Platform Accessibility for Apple iCloud Photographs</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-erroneous-dual-camera-access-error-code-a00f4243/"><u>Fixing Erroneous Dual-Camera Access (Error Code: A00F4243)</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/full-featured-insight-mac-meets-screenflow-v4/"><u>Full-Featured Insight Mac Meets ScreenFlow V4</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ideal-online-places-to-raise-audience-numbers/"><u>Ideal Online Places to Raise Audience Numbers</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-best-offline-ios-game-selection-for-screen-time-savor/"><u>In 2024, Best Offline iOS Game Selection for Screen Time Savor</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mac-users-handbook-effortlessly-deleting-programs-and-apps/"><u>Mac Users' Handbook: Effortlessly Deleting Programs and Apps</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-ev-home-charge-stations-essential-tips-and-insights/"><u>Mastering the Art of EV Home Charge Stations: Essential Tips & Insights</u></a></li>
-<li><a href="https://win-answers.techidaily.com/nba-2k21-launch-issues-fixing-the-perpetual-black-screen-problem-for-a-smooth-game/"><u>NBA 2K21 Launch Issues: Fixing the Perpetual Black Screen Problem for a Smooth Game</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-the-mfc42dll-error-a-comprehensive-guide/"><u>Solving the mfc42.dll Error: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722862141671-troubleshooting-steps-for-resolving-missing-binkw32dll-errors/"><u>Troubleshooting Steps for Resolving Missing binkw32.dll Errors</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-lego-animation-masters-the-best/"><u>Updated 2024 Approved Lego Animation Masters The Best</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-how-to-find-muted-conversations-on-snapchat/"><u>[New] 2024 Approved How to Find Muted Conversations on Snapchat</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-viral-video-round-up-a-list-of-todays-favorites-on-fb-for-2024/"><u>[New] Viral Video Round-Up A List of Today's Favorites on FB for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/debunking-ai-dependence-for-financial-data-study/"><u>Debunking AI Dependence for Financial Data Study</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-superior-graphic-software-solutions-your-essential-selection-of-17/"><u>Exploring Superior Graphic Software Solutions: Your Essential Selection of 17</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-nokia-c300-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Nokia C300 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/maximizing-connectivity-a-user-friendly-guide-to-monitoring-internet-data-usage/"><u>Maximizing Connectivity: A User-Friendly Guide to Monitoring Internet Data Usage</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/reclaiming-control-over-your-ipad-a-guide-for-a-locked-screen-scenario/"><u>Reclaiming Control Over Your iPad: A Guide for a Locked Screen Scenario</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-crafting-and-sending-voice-notes-on-iphone/"><u>Step-by-Step Instructions: Crafting and Sending Voice Notes on iPhone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/top-5-mid-range-gaming-keyboards-costing-99plus/"><u>Top 5 Mid-Range Gaming Keyboards Costing $99+</u></a></li>
 </ul></div>
 

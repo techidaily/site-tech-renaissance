@@ -1,7 +1,7 @@
 ---
 title: How Apple Is Redefining Artificial Intelligence – Promising Strides with Room for Growth | ZDNET
-date: 2024-10-10T00:44:01.332Z
-updated: 2024-10-12T20:20:06.409Z
+date: 2024-10-12T19:38:35.913Z
+updated: 2024-10-19T02:17:10.579Z
 tags:
   - apple
 categories:
@@ -35,13 +35,6 @@ While we weren't expecting the company to unveil a slew of [flashy generative AI
 Apple was expected to focus on incorporating AI into its apps to simplify users' daily tasks, categorizing such AI features under the name "Apple Intelligence." We didn't miss the wordplay.
 
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What does Apple Intelligence do?
 
@@ -79,10 +72,10 @@ The voice assistant will also be able to perform hundreds of new actions across 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What's new in Apple's photo editing & search?
@@ -109,6 +102,13 @@ The same feature can help users make major edits to text, such as changing the t
 
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What is Image Playground?
 
 Apple
@@ -134,16 +134,10 @@ When users make a Siri request that the voice assistant determines would be bett
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Apple Intelligence be processed on-device or in the cloud?
@@ -162,13 +156,6 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is Apple Intelligence actually private and secure?
 
 Apple
@@ -183,6 +170,19 @@ The company is striving to keep the AI features secure through several mechanism
 * **Independent code review:** With Private Cloud Compute, Apple explained that the code is available for independent experts to inspect and verify it meets privacy standards.
 * **Data encryption:** Apple encrypts all data sent to and from its servers as another layer of security.
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
+
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
 
@@ -224,14 +224,24 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/asy-to-use-platforms-for-free-youtube-thumbnail-extracting-for-2024/"><u>[New] Easy-to-Use Platforms for Free YouTube Thumbnail Extracting for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-google-meet-recording-made-easy-for-smartphone-users/"><u>[New] In 2024, Google Meet Recording Made Easy for Smartphone Users</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-most-popular-fb-videos-download-now/"><u>[Updated] In 2024, Most Popular FB Videos - Download Now</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discovering-the-latest-macos-a-comprehensive-guide-to-apples-operating-system-versions/"><u>Discovering the Latest macOS: A Comprehensive Guide to Apple's Operating System Versions</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-nokia-c12-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Nokia C12?</u></a></li>
-<li><a href="https://facebook.techidaily.com/resetting-your-facebook-password-on-lockout/"><u>Resetting Your Facebook Password on Lockout</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/sequential-watchlist-for-fans-the-ultimate-dragon-ball-viewing-experience/"><u>Sequential Watchlist for Fans: The Ultimate Dragon Ball Viewing Experience</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-18-time-saving-tips-mastering-apples-ios-shortcuts-app/"><u>Top 18 Time-Saving Tips: Mastering Apple's iOS Shortcuts App</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/updating-zoom-step-by-step-guide-for-windows-and-macos-users/"><u>Updating Zoom: Step-by-Step Guide for Windows and macOS Users</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-integrating-virtual-boards-into-remote-discussions-iphoneipadandroid-and-computers/"><u>[New] Integrating Virtual Boards Into Remote Discussions IPhone/iPad/Android and Computers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-step-by-step-to-a-tailored-facebook-memory-reel/"><u>[Updated] 2024 Approved Step-by-Step to a Tailored Facebook Memory Reel</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-nokia-105-classic-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-iphone-8-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone 8</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-intuitive-usb-30-driver-software-for-windows-10/"><u>Download & Install Intuitive USB 3.0 Driver Software for Windows 10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/find-out-how-fast-your-ram-really-is-in-a-windows-11-environment-expert-tips-and-tricks/"><u>Find Out How Fast Your RAM Really Is in a Windows 11 Environment: Expert Tips & Tricks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/future-of-smartphones-delve-into-the-expected-arrival-cost-estimates-and-characteristics-of-oneplus-ebonyphone-10/"><u>Future of Smartphones: Delve Into the Expected Arrival, Cost Estimates & Characteristics of OnePlus Ebonyphone 10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-to-seamlessly-move-chrome-bookmarks-step-by-step-tutorial/"><u>Guide to Seamlessly Move Chrome Bookmarks – Step by Step Tutorial</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-prtscn-take-a-screenshot-with-the-print-screen-key/"><u>How to PrtScn? Take a Screenshot with the Print Screen Key</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-recover-yahoo-password-easily/"><u>How to Recover Yahoo Password Easily</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-restore-and-update-realtek-hd-sound-driver-in-windows-11/"><u>How to Restore & Update Realtek HD Sound Driver in Windows 11</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-motorola-edge-2023-by-drfone-android/"><u>In 2024, How to Bypass FRP from Motorola Edge 2023?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-how-to-make-your-linkedin-profile-professional/"><u>In 2024, How To Make Your LinkedIn Profile Professional</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-fast-play-on-minecraft-top-speeding-techniques-revealed/"><u>Master Fast Play on Minecraft - Top Speeding Techniques Revealed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-the-art-of-windows-1n-graphics-drivers-quick-and-easy-guide-to-keep-your-visuals-flawless/"><u>Master the Art of Windows 1N Graphics Drivers: Quick and Easy Guide to Keep Your Visuals Flawless</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-ai-image-creation-leveraging-dall-e-with-chatgpt-4/"><u>Mastering AI Image Creation: Leveraging DALL-E with ChatGPT-4</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/optimizing-system-performance-addressing-the-window-modules-installers-heavy-load-in-windows-11/"><u>Optimizing System Performance: Addressing the Window Modules Installer's Heavy Load in Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/optimizing-your-pc-effective-techniques-to-minimize-cpu-load-on-windows/"><u>Optimizing Your PC: Effective Techniques to Minimize CPU Load on Windows</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/youtubes-monetization-a-deep-dive/"><u>YouTube's Monetization A Deep Dive</u></a></li>
 </ul></div>
 

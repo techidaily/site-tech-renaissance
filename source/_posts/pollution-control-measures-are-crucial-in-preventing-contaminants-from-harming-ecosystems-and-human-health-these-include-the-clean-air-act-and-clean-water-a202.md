@@ -1,7 +1,7 @@
 ---
 title: Pollution Control Measures Are Crucial in Preventing Contaminants From Harming Ecosystems and Human Health; These Include the Clean Air Act and Clean Water Act in the United States.
-date: 2024-10-09T00:38:22.056Z
-updated: 2024-10-12T19:09:04.283Z
+date: 2024-10-15T01:37:49.665Z
+updated: 2024-10-19T10:29:29.507Z
 tags:
   - apple
 categories:
@@ -60,6 +60,19 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -67,13 +80,6 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -108,10 +114,10 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -124,13 +130,6 @@ Adam Breeden/ZDNET
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## MacOS 15 (Sequoia)
 
 Adam Breeden/ZDNET
@@ -141,6 +140,13 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -159,13 +165,6 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -173,6 +172,13 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -218,24 +224,20 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-explore-the-world-of-mobile-video-editing-with-snapchat-favorites-for-2024/"><u>[New] Explore the World of Mobile Video Editing with Snapchat Favorites for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-express-screen-snag-aural-elements/"><u>[New] In 2024, Express Screen Snag Aural Elements</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-master-the-art-of-easy-webinar-recordings-windows-and-macos-advice/"><u>[New] In 2024, Master the Art of Easy Webinar Recordings Windows & macOS Advice</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-10-tips-and-tricks-to-better-use-pixlr-editor/"><u>2024 Approved 10 Tips and Tricks to Better Use Pixlr Editor</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1726223992995-m4rogg-movavi/"><u>網路上免費M4R到OGG格式自動轉化 - 使用Movavi音頻轉換工巧</u></a></li>
-<li><a href="https://techtrends.techidaily.com/boosting-your-apple-tv-presence-the-ultimate-guide/"><u>Boosting Your Apple TV Presence: The Ultimate Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/clearing-up-confusion-how-ev-types-differ-from-bevs-and-phevs-to-fcevs-and-hybrids/"><u>Clearing Up Confusion: How EV Types Differ - From BEVs and PHEVs to FCEVs & Hybrids</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/complete-guide-successfully-upgrading-to-windows-11-with-a-fresh-hard-drive/"><u>Complete Guide: Successfully Upgrading to Windows 11 with a Fresh Hard Drive</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-breakdown-decoding-every-windows-bsod-error-code/"><u>Comprehensive Breakdown: Decoding Every Windows BSOD Error Code</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-fixes-for-the-disk-write-failed-problem-on-steam/"><u>Comprehensive Fixes for the 'Disk Write Failed' Problem on Steam</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/express-or-stick-a-comprehensive-guide-to-choosing-your-roku-model/"><u>Express or Stick? A Comprehensive Guide to Choosing Your Roku Model</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-successfully-reset-your-computer-despite-errors/"><u>How to Successfully Reset Your Computer Despite Errors</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-sony-xperia-5-v-phone-without-pin-by-drfone-android/"><u>How to Unlock Sony Xperia 5 V Phone without PIN</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-disabling-iphone-7-plus-parental-restrictions-withwithout-password-by-drfone-ios/"><u>In 2024, Disabling iPhone 7 Plus Parental Restrictions With/Without Password</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-editors-workshop-enhancing-your-youtube-video-visibility/"><u>In 2024, Editor's Workshop Enhancing Your Youtube Video Visibility</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722882052175-iphone-not-ringtoning-here-are-quick-solutions-to-bring-back-sounds/"><u>IPhone Not Ringtoning? Here Are Quick Solutions to Bring Back Sounds</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/one-step-bavarder-setup-procedure-for-linux-users/"><u>One-Step Bavarder Setup Procedure for Linux Users</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-the-dilemma-when-your-surface-pro-cant-connect-to-wi-fi/"><u>Solving the Dilemma: When Your Surface Pro Can't Connect to Wi-Fi</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlocking-the-secrets-to-mastering-the-netflix-experience-for-unforgettable-viewing-pleasure/"><u>Unlocking the Secrets to Mastering the Netflix Experience for Unforgettable Viewing Pleasure</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-keep-and-store-your-linkedin-videos-with-these-high-quality-downloader-apps-for-2024/"><u>[Updated] Keep and Store Your LinkedIn Videos with These High-Quality Downloader Apps for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-surging-up-the-search-results-with-effective-podcast-seo/"><u>[Updated] Surging Up the Search Results with Effective Podcast SEO</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-fusion-of-video-files-for-ios-devices/"><u>2024 Approved Fusion of Video Files for iOS Devices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/defeat-the-dreaded-crash-repair-strategies-for-helldivers-n-blue-screen-mishap/"><u>Defeat the Dreaded Crash: Repair Strategies for Helldivers N Blue Screen Mishap</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-steps-capturing-images-with-your-playstation-4-console/"><u>Easy Steps: Capturing Images with Your PlayStation 4 Console</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/experiencing-issues-in-roblox-determining-if-this-is-a-widespeare-outage-or-personal-connectivity-challenge/"><u>Experiencing Issues in Roblox? Determining if This Is a Widespeare Outage or Personal Connectivity Challenge.</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-communication-history-the-rise-and-fall-of-google-hangouts/"><u>Exploring Communication History: The Rise and Fall of Google Hangouts</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-advanced-io-screen-capturing-techniques/"><u>In 2024, Advanced IO Screen Capturing Techniques</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-icloud-separation-how-to-disconnect-apple-iphone-6s-and-ipad-by-drfone-ios/"><u>In 2024, iCloud Separation How To Disconnect Apple iPhone 6s and iPad</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-archival-searches-on-the-wayback-machine-for-research-purposes/"><u>Mastering Archival Searches on the Wayback Machine for Research Purposes</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-2024-approved-how-to-make-a-talking-ai-avatar-from-photos-easy-guide/"><u>New 2024 Approved How to Make a Talking AI Avatar From Photos Easy Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-quickest-quads-2022-olympics-skate/"><u>The Quickest Quads 2022 Olympics Skate</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-resolving-advapi32dll-file-missing-error/"><u>Troubleshooting Guide: Resolving 'Advapi32.dll' File Missing Error</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-endless-entertainment-the-ultimate-list-of-free-preschool-game-destinations/"><u>Unlock Endless Entertainment: The Ultimate List of Free Preschool Game Destinations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-the-power-of-spreadsheets-3-excel-tricks-beyond-ai-capabilities/"><u>Unlocking the Power of Spreadsheets: 3 Excel Tricks Beyond AI Capabilities</u></a></li>
 </ul></div>
 

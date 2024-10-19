@@ -1,7 +1,7 @@
 ---
 title: Top Savings on Amazon in August 2024 - Exclusive Offers Featured
-date: 2024-10-09T04:13:29.589Z
-updated: 2024-10-13T02:27:38.256Z
+date: 2024-10-18T06:55:27.245Z
+updated: 2024-10-18T16:44:01.905Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ Jason Hiner/ZDNET
 * [JBL Tune Flex Earbuds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FJBL-Tune-Flex-Wireless-Cancelling%2Fdp%2FB0C1QNRGHC%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB0C1QNRGHC%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0742b2d5-6455-4cf2-9e79-c9e92162c382%7Cdtp&dtb=1) for $50 (save $50)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The best Amazon TV deals
@@ -68,13 +68,6 @@ Jason Hiner/ZDNET
 * [Sony 65-inch OLED 4K Ultra Bravia 8 TV](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSony-Exclusive-Features-PlayStation-K-65XR80%2Fdp%2FB0CVQ6YLH7%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0742b2d5-6455-4cf2-9e79-c9e92162c382%7Cdtp&dtb=1) for $1,1998 (save $502)
 * [LG 75-inch QNED80T LED Smart TV](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLG-75-Inch-Processor-AI-Powered-75QNED80TUC%2Fdp%2FB0CVSK2F85%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB0CVSK2F85%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0742b2d5-6455-4cf2-9e79-c9e92162c382%7Cdtp&dtb=1) for $1,197 (save $203)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The best Amazon robot vacuum deals
 
 Maria Diaz/ZDNET
@@ -86,6 +79,13 @@ Maria Diaz/ZDNET
 * [Eufy L60 Robot Vacuum](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Feufy-Vacuum-Suction-Navigation-Cleaning%2Fdp%2FB0CDB56ZWV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0742b2d5-6455-4cf2-9e79-c9e92162c382%7Cdtp&dtb=1) for $200 (save $80 with on-page coupon)
 * [Roborock S8 Pro Ultra Robot Vacuum and Mop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPro-Ultra-Self-Washing-Self-Refilling-Self-Emptying%2Fdp%2FB0BVB5PTDK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0742b2d5-6455-4cf2-9e79-c9e92162c382%7Cdtp&dtb=1) for $950 (save $650)
 * [Roborock Q8 Max Robot Vacuum and Mop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Froborock-Q8-Max-Navigation-Multi-Level%2Fdp%2FB0C7VFD9Q4%2Fref%3Dsxin%5F15%5Fpa%5Fsp%5Fsearch%5Fthematic%5Fsspa%3Fcontent-id%3Damzn1.sym.60b0c4ef-0fd2-46d0-8724-84b6f746d062%3Aamzn1.sym.60b0c4ef-0fd2-46d0-8724-84b6f746d062%26crid%3D37DMVM6CIU4Y0%26cv%5Fct%5Fcx%3Drobot%2Bvacuum%26dib%3DeyJ2IjoiMSJ9.A4bejnO1HqJM%5FozbrGpsoYI205q99h9DoNEZVmg9dNI-ILQl1J-mSnznl4IKQtzDgOTGYo%5Fa7rpT3PH-A2Mpiw.a4a0hgwCDw4CmRSsqS2wHRhfJu%5FuKKwf5z-r8S-VJok%26dib%5Ftag%3Dse%26keywords%3Drobot%2Bvacuum%26pd%5Frd%5Fi%3DB0C7VFD9Q4%26pd%5Frd%5Fr%3Dc5436de8-abf5-4537-95f0-9cc48163f596%26pd%5Frd%5Fw%3DOlqAp%26pd%5Frd%5Fwg%3DQ2Iuk%26pf%5Frd%5Fp%3D60b0c4ef-0fd2-46d0-8724-84b6f746d062%26pf%5Frd%5Fr%3DAKHVV8K35XC7VV3MS5S3%26qid%3D1723557736%26sbo%3DRZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D%26sprefix%3Drobot%2Bvacuum%2B%2Caps%2C104%26sr%3D1-20-f853d353-bf33-45e7-b5c2-2cb2b31abc9b-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0742b2d5-6455-4cf2-9e79-c9e92162c382%7Cdtp&dtb=1) for $320 (save $280)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The best Amazon home deals
 
@@ -100,14 +100,14 @@ Maria Diaz/ZDNET
 * [Jackery Explorer 240 v2 Portable Power Station](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FJackery-v2-Versatile-Scenarios-Outdoor-Emergency%2Fdp%2FB0D2L1B7PK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0742b2d5-6455-4cf2-9e79-c9e92162c382%7Cdtp&dtb=1) for $189 (save $60)
 * [Bluetti EB3A Portable Power Station](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBLUETTI-Portable-EB3A-Recharge-Generator%2Fdp%2FB09WW3CTF4%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB09WW3CTF4%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0742b2d5-6455-4cf2-9e79-c9e92162c382%7Cdtp&dtb=1) for $198 (save $102)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##   
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How did we choose these Amazon deals?
 
@@ -115,22 +115,16 @@ ZDNET only writes about deals we want to buy -- devices and products we desire, 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## When will these deals expire?
 
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on a deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How much is an Amazon Prime membership?
 
@@ -180,22 +174,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-seamless-music-addition-for-social-media-iphoneandroid/"><u>[New] 2024 Approved Seamless Music Addition for Social Media IPhone/Android</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-digital-dominion-rise-as-a-youtube-guru/"><u>[New] In 2024, Digital Dominion Rise as a YouTube Guru</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-roguelikes-traditional-tactics-vs-modern-mechanics-for-2024/"><u>[New] Roguelike's Traditional Tactics Vs. Modern Mechanics for 2024</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/1726026727722-windows-11/"><u>限定的なオーディオ設定でWindows 11スクリーンを効果的に録画するテクニック</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/amazon-prime-video-subtitles-off-a-comprehensive-guide/"><u>Amazon Prime Video Subtitles Off: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/choosing-your-streaming-platform-hulu-or-hulu-plus-explored/"><u>Choosing Your Streaming Platform: Hulu or Hulu Plus Explored</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/crafting-memories-one-hashtag-at-a-time-discover-the-top-507-caption-gems-for-insta-savvy-users-of-2024/"><u>Crafting Memories, One Hashtag at a Time: Discover the Top 507 Caption Gems for Insta-Savvy Users of 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-tutorial-how-to-change-or-erase-your-pc-password-in-windows-10/"><u>Easy Tutorial: How To Change or Erase Your PC Password in Windows 10</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/essential-steps-to-resolve-icloud-message-disabled-error-on-ios-devices/"><u>Essential Steps to Resolve 'iCloud Message Disabled' Error on iOS Devices</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-harmonizing-hue-and-shade-the-finest-4k-displays-reviewed/"><u>In 2024, Harmonizing Hue and Shade The Finest 4K Displays Reviewed</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-google-pixel-8-pro-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Google Pixel 8 Pro Phone? Unlock It Now</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/master-the-art-of-amassing-a-large-twitter-network/"><u>Master the Art of Amassing a Large Twitter Network</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-modern-tech-toms-essential-guide-to-cutting-edge-hardware/"><u>Mastering Modern Tech: Tom's Essential Guide to Cutting-Edge Hardware</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/teslas-self-driving-taxi-venture-anticipated-cost-structure-projected-market-entry-date-and-detailed-specifications/"><u>Tesla's Self-Driving Taxi Venture - Anticipated Cost Structure, Projected Market Entry Date, and Detailed Specifications</u></a></li>
-<li><a href="https://win11.techidaily.com/the-windows-iscsi-initiator-an-overview-for-network-enthusiasts/"><u>The Windows iSCSI Initiator: An Overview for Network Enthusiasts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-how-to-fix-windows-10-search-issues/"><u>Troubleshooting Guide: How to Fix Windows 10 Search Issues</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-overcoming-a-lynel-boss-fight-in-the-legend-of-zelda-series/"><u>Ultimate Guide to Overcoming a Lynel Boss Fight in The Legend of Zelda Series</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-navigate-to-notoriety-on-facebook-with-10-effective-tactics-for-2024/"><u>[New] Navigate to Notoriety on Facebook with 10 Effective Tactics for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-strategy-for-elevating-your-video-visibility/"><u>[New] The Ultimate Strategy for Elevating Your Video Visibility</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-choose-wisely-the-ultimate-list-of-mac-gif-tools/"><u>2024 Approved Choose Wisely The Ultimate List of Mac GIF Tools</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/analyzing-your-youtube-viewer-demographics-a-step-by-step-approach/"><u>Analyzing Your YouTube Viewer Demographics: A Step-by-Step Approach</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/best-instagram-highlight-cover-makers-online-you-should-know/"><u>Best Instagram Highlight Cover Makers Online You Should Know</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/duelling-digitally-strategies-for-friendly-competition-in-pokemon-go/"><u>Duelling Digitally: Strategies for Friendly Competition in Pokémon GO</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/matrix-series-viewing-guide-watch-all-films-sequentially/"><u>Matrix Series Viewing Guide: Watch All Films Sequentially</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-deploying-chatbots-on-your-discord-platform/"><u>Step-by-Step Tutorial: Deploying Chatbots on Your Discord Platform</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tackling-vpn-issue-step-by-step-guide-for-resolving-error-800-on-clients-and-servers/"><u>Tackling VPN Issue: Step-by-Step Guide for Resolving Error 800 on Clients and Servers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-tutorial-operating-the-measure-application-on-android-phones/"><u>The Ultimate Tutorial: Operating the Measure Application on Android Phones</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>Will the iPogo Get You Banned and How to Solve It On Apple iPhone 6s | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Reconsidering the iPhone 16 Purchase? Explore Alternatives with In-Depth Analysis From Apple Experts at ZDNet
-date: 2024-10-06T07:38:02.006Z
-updated: 2024-10-13T00:21:52.975Z
+date: 2024-10-17T01:12:09.214Z
+updated: 2024-10-19T12:02:07.730Z
 tags:
   - apple
 categories:
@@ -35,10 +35,10 @@ Every year, my wife and I eagerly await the release of the new iPhones. Being pa
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
@@ -65,6 +65,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## New hardware leaks: what to expect from the iPhone 16
 
 Earlier, I discussed how older -- as well as current generation -- iOS devices [aren't powerful enough to handle on-device Generative AI tasks](https://www.zdnet.com/article/the-expensive-reason-why-apples-upcoming-ai-features-arent-coming-to-your-older-iphone/). The [base iPhone 15](https://www.zdnet.com/article/iphone-15-plus-review/), which has only 6GB of RAM, would struggle to meet the demands of Apple Intelligence as it evolves and becomes more integrated into iOS, core Apple applications, and developer applications. Older iPhones have [6GB of RAM or less](https://iosref.com/ram-processor), and are not eligible to run Apple Intelligence in current iOS 18.1 builds. 
@@ -82,16 +89,10 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
@@ -103,10 +104,10 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
@@ -124,13 +125,6 @@ Apple could achieve this by equipping MacOS, iOS, and iPadOS with Apple Intellig
 Enterprises may also employ a mobile device management solution to facilitate access to on-device LLMs with business Macs. Additionally, iPhones or Macs could be used as proxies for Apple Watch or HomePod requests for mobile users. We may also see a more powerful Apple TV with more onboard memory and processing to act as an Apple Intelligence "hub" for every Apple device in a household.
 
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## I'm still optimistic
 
@@ -172,22 +166,21 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-multi-view-magic-is-splitcam-prime/"><u>[New] Multi-View Magic Is SplitCam Prime?</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-banner-bonanza-unlimited-50-free-youtube-designs/"><u>[Updated] 2024 Approved Banner Bonanza Unlimited 50 FREE YouTube Designs</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/boost-productivity-utilizing-gmails-tools-to-filter-messages-and-expand-contact-list-efficiently/"><u>Boost Productivity: Utilizing Gmail's Tools to Filter Messages & Expand Contact List Efficiently</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/comparing-process-intelligence-and-business-intelligence-key-differences-explained/"><u>Comparing Process Intelligence and Business Intelligence: Key Differences Explained</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ing-compelling-youtube-live-content-with-wirecast-for-2024/"><u>Creating Compelling Youtube Live Content with WireCast for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-techniques-to-address-and-repair-ieframedll-malfunctions/"><u>Easy Techniques to Address and Repair Ieframe.dll Malfunctions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/effective-fixes-to-overcome-the-there-was-a-problem-reboot-glitch-on-your-computer/"><u>Effective Fixes to Overcome the 'There Was a Problem' Reboot Glitch on Your Computer</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/find-and-enjoy-the-ultimate-list-of-places-to-view-your-fav-music-clips/"><u>Find & Enjoy: The Ultimate List of Places to View Your Fav Music Clips</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/full-method-how-to-unlike-all-songs-on-spotify-at-once/"><u>Full Method: How to Unlike All Songs on Spotify at Once</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-instagrams-most-trusted-grid-creation-applications-ranked-anew/"><u>In 2024, Instagram's Most Trusted Grid Creation Applications Ranked Anew</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-oppo-reno-10-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Oppo Reno 10 5G Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/overcoming-avcodecdll-cannot-be-found-expert-strategies-and-repairs/"><u>Overcoming 'Avcodec.dll Cannot Be Found' - Expert Strategies and Repairs</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/preparing-your-smart-home-theater-for-the-ultimate-super-bowl-party/"><u>Preparing Your Smart Home Theater for the Ultimate Super Bowl Party</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-bass-management-an-in-depth-guide-on-its-functionality/"><u>Understanding Bass Management: An In-Depth Guide on Its Functionality</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722859884530-unlock-the-power-of-mobile-communication-how-metro-by-t-mobiles-unlimited-plans-work-with-seamless-cellular-and-wi-fi-roaming-across-the-us/"><u>Unlock the Power of Mobile Communication: How Metro by T-Mobile's Unlimited Plans Work With Seamless Cellular and Wi-Fi Roaming Across the U.S.</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-new-tech-secrets-toms-authoritative-reviews-and-advice-on-hardware-purchases/"><u>Unveiling New Tech Secrets: Tom's Authoritative Reviews and Advice on Hardware Purchases</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/weighing-your-options-which-is-better-bing-chat-for-freelancers/"><u>Weighing Your Options: Which Is Better, Bing Chat for Freelancers?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-powerpoint-persona-establishing-your-presentations-voice/"><u>[New] In 2024, PowerPoint Persona Establishing Your Presentation's Voice</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/astering-your-videos-first-moment-with-these-trendy-intros-for-2024/"><u>[New] Mastering Your Video's First Moment with These Trendy Intros for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-framing-the-perfect-waterway-narrative-for-2024/"><u>[Updated] Framing the Perfect Waterway Narrative for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/accessing-microsoft-word-for-free-tips-and-alternatives-to-save-money/"><u>Accessing Microsoft Word for Free: Tips and Alternatives to Save Money</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/chronological-viewing-of-the-wizarding-worlds-harry-potter-series/"><u>Chronological Viewing of The Wizarding World's Harry Potter Series</u></a></li>
+<li><a href="https://win-answers.techidaily.com/civilization-6-launch-problems-solved-tips-for-windows-10-users/"><u>Civilization 6 Launch Problems Solved - Tips for Windows 10 Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/cutting-edge-technology-released-meet-the-new-iphone-series/"><u>Cutting-Edge Technology Released: Meet the New iPhone Series</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-rumors-the-upcoming-samsung-galaxy-s25-pricing-schedule-and-tech-specs/"><u>Exploring Rumors: The Upcoming Samsung Galaxy S25 Pricing, Schedule & Tech Specs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/improving-reach-on-social-media-a-how-to-for-captioning-your-insta-story-posts/"><u>Improving Reach on Social Media: A How-To for Captioning Your Insta Story Posts</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-sony-xperia-5-v-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/meet-the-future-of-sleek-super-light-monitors-with-vaios-groundbreaking-visionplus-14/"><u>Meet the Future of Sleek, Super-Light Monitors with Vaio's Groundbreaking Vision+ 14</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/successful-techniques-for-restoring-your-vizio-tvs-wi-fi-connection/"><u>Successful Techniques for Restoring Your Vizio TV's Wi-Fi Connection</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/the-future-in-your-hands-lgs-vr-gaming-masterpiece/"><u>The Future in Your Hands LG's VR Gaming Masterpiece</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/the-ultimate-guide-to-gestural-recognition-technologies/"><u>The Ultimate Guide to Gestural Recognition Technologies</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722859211974-turn-the-virtual-keyboard-on-and-off-in-windows-11-easy-instructions-for-users/"><u>Turn the Virtual Keyboard on and Off in Windows 11 – Easy Instructions for Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-modifying-your-instagram-texts-step-by-step/"><u>Ultimate Guide: Modifying Your Instagram Texts Step-by-Step</u></a></li>
 </ul></div>
 

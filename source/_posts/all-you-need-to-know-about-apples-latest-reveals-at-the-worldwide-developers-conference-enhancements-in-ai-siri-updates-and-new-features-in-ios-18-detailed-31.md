@@ -1,7 +1,7 @@
 ---
 title: "All You Need to Know About Apple's Latest Reveals at the Worldwide Developers Conference: Enhancements in AI, Siri Updates & New Features in iOS 18 - Detailed Coverage by ZDNet"
-date: 2024-10-08T17:26:25.805Z
-updated: 2024-10-13T00:36:57.127Z
+date: 2024-10-18T10:37:30.546Z
+updated: 2024-10-19T01:52:32.779Z
 tags:
   - apple
 categories:
@@ -69,10 +69,10 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -108,10 +108,10 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -153,10 +153,10 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -168,10 +168,10 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -218,16 +218,15 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-dash.techidaily.com/amd-radeon-rx-6900-xt-graphics-card-drivers-free-download-for-windows-11-10-8-and-7/"><u>AMD Radeon RX 6900 XT Graphics Card Drivers: Free Download for Windows 11, 10, 8 & 7</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-poco-f5-pro-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Poco F5 Pro 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/boost-engagement-with-text-annotations-for-your-instagram-story-posts/"><u>Boost Engagement with Text Annotations for Your Instagram Story Posts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/demystifying-ussd-an-in-depth-look-at-unstructured-supplementary-service-data/"><u>Demystifying USSD: An In-Depth Look at Unstructured Supplementary Service Data</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/experts-picks-the-ultimate-7-traffic-management-applications/"><u>Experts' Picks: The Ultimate 7 Traffic Management Applications</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/making-money-with-media-mastery-of-merchandise-musings/"><u>Making Money with Media Mastery of Merchandise Musings</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/top-10-border-tools-for-professional-instagram-images/"><u>Top 10 Border Tools for Professional Instagram Images</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-realme-11-proplus-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Realme 11 Pro+ IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Tecno Pova 5 | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/uncover-personal-details-top-8-online-databases-for-finding-persons/"><u>Uncover Personal Details: Top 8 Online Databases for Finding Persons</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/waarom-and-hoe-u-bent-in-der-klem-een-handboek-voor-het-herstel-van-de-wechat-geschiedenis/"><u>Waarom & Hoe U Bent In Der Klem: Een Handboek Voor Het Herstel Van De WeChat Geschiedenis</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-grip-it-right-tips-for-eliminating-jitter-in-action-cam-movies/"><u>2024 Approved Grip It Right Tips for Eliminating Jitter in Action Cam Movies</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722874495452-from-splus10-we-get-s-1/"><u>From (S+1=0 ), We Get (S=-1 ).</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hassle-free-guide-to-obtaining-the-latest-canon-drivers-for-windows-devices/"><u>Hassle-Free Guide to Obtaining the Latest Canon Drivers for Windows Devices</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-realme-c55-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Realme C55 Phone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-nokia-g42-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Nokia G42 5G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/protect-and-preserve-your-iphone-es-aesthetics-with-these-3-must-have-accessories-insights-by-zdnet/"><u>Protect and Preserve Your iPhone E's Aesthetics with These 3 Must-Have Accessories | Insights by ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solutions-for-resolving-the-rpcrt4dll-file-doesnt-exist-issue/"><u>Solutions for Resolving the 'Rpcrt4.dll' File Doesn't Exist Issue</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-new-frontier-nothing-phone-3-speculated-price-points-release-calendar-and-rumored-technical-specs-explained/"><u>The New Frontier: 'Nothing Phone 3' Speculated Price Points, Release Calendar & Rumored Technical Specs Explained</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-8-no-cost-driver-update-software-reviewed-july-2024-edition/"><u>Top 8 No-Cost Driver Update Software Reviewed - July 2024 Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unauthorized-access-swiftly-severing-user-ties-in-windows-11/"><u>Unauthorized Access: Swiftly Severing User Ties in Windows 11</u></a></li>
 </ul></div>
 

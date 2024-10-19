@@ -1,7 +1,7 @@
 ---
 title: How to Assign New Audio Cues to Your Gmail Messages
-date: 2024-09-17T05:52:26.674Z
-updated: 2024-09-20T23:40:51.598Z
+date: 2024-10-12T04:41:15.277Z
+updated: 2024-10-19T04:55:07.356Z
 categories:
   - BestProducts
 description: This Article Describes How to Assign New Audio Cues to Your Gmail Messages
@@ -46,6 +46,13 @@ thumbnail: https://www.lifewire.com/thmb/av1h-ZZrU8CSu4aC37M08iMdVXk=/400x300/fi
 2. **Put it in rice.** This is the most famous technique (though not necessarily the best). Get a ziplock bag big enough to hold the wet iPhone or iPod and some rice. Re-insert the SIM card, put the device in the bag, and fill most of the bag with uncooked rice. Leave it in the bag for a couple of days. The rice should draw the moisture out of the device. Many a wet iPhone has been saved this way. Just watch out for pieces of rice getting inside the phone.  
  Don't use enriched rice. It can leave dust behind that can get into your phone.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Try This Only If You're Desperate to Fix Your Wet iPhone
 
  If you're really desperate, or really skilled, you can try this option—but you better know what you're doing. You can ruin your iPhone and[void your warranty](https://www.lifewire.com/iphone-warranty-plus-applecare-1999284) .
@@ -54,10 +61,10 @@ thumbnail: https://www.lifewire.com/thmb/av1h-ZZrU8CSu4aC37M08iMdVXk=/400x300/fi
  This is very risky. Unless you really, really know what you're doing, you're likely to do more harm than good and should avoid this. Don't say we didn't warn you.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Try the Experts on Saving a Wet iPhone
@@ -67,6 +74,13 @@ thumbnail: https://www.lifewire.com/thmb/av1h-ZZrU8CSu4aC37M08iMdVXk=/400x300/fi
 1. **Try a repair company.** If none of these tactics work, there are[iPhone repair](https://www.lifewire.com/repair-options-cracked-iphone-screen-2000276) companies that specialize in saving water-damaged iPhones. A little time at your favorite search engine can put you in touch with a number of good vendors.
 2. **Try Apple.**  While moisture damage isn't covered by Apple's warranty, Apple will repair iPhones that have water damaged. Different models have different repair prices, so[keep an eye on this page on Apple's site](https://support.apple.com/iphone/repair) for the latest details.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Check for Water Damage in a Used iPhone or iPod
 
  If you're[buying a used iPhone or iPod](https://www.lifewire.com/check-if-used-iphone-is-stolen-1999376) or lent someone your device and now it's not working so well, you want to check if it got wet. You can do this using the moisture indicator built into iPods and iPhones.
@@ -75,19 +89,19 @@ thumbnail: https://www.lifewire.com/thmb/av1h-ZZrU8CSu4aC37M08iMdVXk=/400x300/fi
 
 [The moisture indicator is far from foolproof](https://www.cnet.com/tech/tech-industry/apple-settles-iphone-water-damage-lawsuit-for-53m/) . But, if you see the orange dot, you need to at least consider that the device may have had a bad experience with water.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Software Tips for Dealing with a Wet iPhone
 
  After you've dried your iPhone or iPod, it may start up just fine and work as though nothing happened. But many people encounter some software problems when they first try using it. Try these tips, which also apply to[iPod touch](https://www.lifewire.com/ipod-touch-everything-to-know-1999772) and iPad, for dealing with some of the common problems:
 
 * [What To Do with an iPhone That Won't Turn On](https://www.lifewire.com/what-to-do-when-your-iphone-wont-turn-on-2000281)
 * [How to Fix an iPhone Stuck at the Apple Logo](https://www.lifewire.com/how-to-fix-an-iphone-stuck-on-the-apple-logo-2000268) .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Waterproof iPhones: iPhone 7 and Newer
 
@@ -124,5 +138,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-in-video-earnings-techno-gamers-guide/"><u>[New] In 2024, In-Video Earnings Techno Gamers' Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-maximizing-revenue-a-youtube-channelers-guide/"><u>2024 Approved Maximizing Revenue A YouTube Channeler’s Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-enhances-icloud-support-on-windows-platform-introducing-latest-improvements/"><u>Apple Enhances iCloud Support on Windows Platform, Introducing Latest Improvements</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/bring-back-the-faded-step-by-step-on-transforming-prints-to-pixels/"><u>Bring Back the Faded Step-by-Step on Transforming Prints to Pixels</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-macbook-gadgets-expertly-evaluated-and-rated-professional-insights-from-zdnet/"><u>Essential MacBook Gadgets : Expertly Evaluated and Rated | Professional Insights From ZDNET</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-audience-wow-factor-best-stream-cameras-for-your-twitch-channel/"><u>In 2024, Audience Wow Factor Best Stream Cameras for Your Twitch Channel</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-asus-rog-phone-7-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Asus ROG Phone 7</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/maximize-your-apple-watchs-battery-endurance-with-these-simple-adjustments-insider-tips/"><u>Maximize Your Apple Watch's Battery Endurance with These Simple Adjustments - Insider Tips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-fix-for-dysfunctional-closed-captioning-on-amazon-prime-streams/"><u>Step-by-Step Fix for Dysfunctional Closed Captioning on Amazon Prime Streams</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ming-showdown-summary-fb-live-yt-live-and-twitter-spaces-for-2024/"><u>Streaming Showdown Summary FB LIVE, YT Live & Twitter Spaces for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-essentials-of-the-lenovo-ideapad-an-analysis-of-durable-design-and-straightforward-functionality/"><u>The Essentials of the Lenovo Ideapad: An Analysis of Durable Design & Straightforward Functionality</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-latest-innovation-the-camera-button-on-every-iphone-16-explore-its-functionality/"><u>Unveiling the Latest Innovation: The Camera Button on Every iPhone 16 - Explore Its Functionality!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upgrade-dilemma-comparing-the-latest-macbook-procs-which-is-superior-m3-or-m2-zdnet-insights/"><u>Upgrade Dilemma: Comparing the Latest MacBook Procs - Which Is Superior, M3 or M2? | ZDNET Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/what-to-do-when-youre-not-getting-emails-on-yahoo-a-step-by-step-guide/"><u>What to Do When You're Not Getting Emails on Yahoo - A Step-by-Step Guide</u></a></li>
+</ul></div>
 

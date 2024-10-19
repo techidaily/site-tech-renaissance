@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Efficiency: Expert Techniques & Apps I Use for Streamlining Everyday Task Management - Insights"
-date: 2024-10-08T19:28:27.712Z
-updated: 2024-10-13T01:37:28.955Z
+date: 2024-10-16T18:10:21.192Z
+updated: 2024-10-19T12:24:46.628Z
 tags:
   - apple
 categories:
@@ -44,6 +44,19 @@ That whole process is my flow. Over my many various iterations, I've managed to 
 
 The other half of my day is project time. This is when I work on everything from academic papers to the presentations, white papers, and webcasts I do for ZDNet to developing code to most of the projects I write about for DIY-IT. I tend to work on projects in the late afternoon and the late evening, with a break in the early evening for family time and lunch or dinner. 
 
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Changes due to the pandemic
 
 The last time I updated this guide was in early 2019\. Obviously, a few things have happened since then. In terms of my daily productivity, I go out a lot less than I used to. Back then, I was often running from place to place and had to build up an everyday carry (EDC) that could allow me to dive into any project or work with any team no matter where I was. I had EDC kits for a coffee shop programming run and EDC kits for week long conference work. I even built an EDC for [emergency evacuation of an indeterminate time](https://www.zdnet.com/article/road-tech-how-i-left-florida-to-escape-irma-and-never-went-back/).
@@ -54,16 +67,16 @@ Now, [mostly I'm home](https://www.zdnet.com/article/whats-inside-gewirtzs-home-
 
 In any case, what that means is that instead of my escalating ranking of phones, tablets, Chromebooks and laptops, I just carry my [iPhone 12 Pro Max](https://www.zdnet.com/article/dont-buy-that-expensive-new-iphone-13-how-used-iphones-can-deliver-huge-savings/). It will keep me up to speed until I get back home and can pick up where I left off.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Tools for my daily flow
 
 Now that you understand how my working environment has changed and how I structure my work day, let's discuss the tools I use in my daily flow. It all starts with Gmail... 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## First morning Gmail
 
@@ -91,13 +104,6 @@ At this point, I tend to take note of what's in my inbox, but I neither process 
 
 I also take a quick look at my calendar and my to-do list to make sure I know what's on deck for the day. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Daily must-reads with Pocket
 
 Next up, I hit my daily most-reads. Of course, this starts with [_ZDNet_](https://www.zdnet.com/), then usually [_Drudge_](http://www.drudgereport.com/)and [_Techmeme_](http://www.techmeme.com/). I do a quick headline scan and anything that seems worth reading, I right-click and save to [Pocket](http://getpocket.com/). 
@@ -115,16 +121,10 @@ By this point, I'm somewhere between 30 and 60 minutes into my day, I've had one
 Depending on the importance and urgency of the messages in my Gmail inbox, I'll either go straight into my morning email cycle or begin my morning reading. I prefer to do morning reading before email, so I'll discuss that next. 
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Pocket-read-post-archive cycle
@@ -176,19 +176,6 @@ Now, to be fair, I have a slight email fetish, so I do check back in to my inbox
 
 In fact, now that I have email notifications integrated into my watch, I'm finding I'm actually breaking myself of the habit, because unless I hear the notification tone, I don't have any important emails coming in. I have actually gone a few hours without checking my email inbox, which is something of a record for me. 
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Managing my daily teaching opportunities
 
 As it turns out, supporting users is a lot like teaching online students.
@@ -202,6 +189,13 @@ Help Scout also has great team features, but I'm a programming army of one.
 I just think of those users like more of my students. If any questions show up in my inbox, I go into the ticketing system and answer questions. I'm not assigning users letter grades, but otherwise the process is pretty much the same. 
 
 By the way, this is also a great way to think about users, which I initially was a bit unhappy about adding to my daily workload. But the reframe is this: I'm an educator and these are more people in need of assistance while they're learning to use these plugins. So, rather than thinking about providing user support as an added workload, I think of the users as more of my students and their questions as simply more teaching opportunities. It's also a great way to keep up on what people are doing out there, and gives me a much more "on the street" dialog with users, which is invaluable as a tech journalist.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Featured
 
@@ -242,18 +236,18 @@ I've set up a bunch of Notion pages and all the items that "should be on the lis
 
 That, by the way, is the entire key to keeping your to-do list under control. If you actually intend to do an item within a reasonably short period of time, put it on your to-do list. If you expect to do it someday, it's not a to-do list item, not an actionable item, and you should write them on another list somewhere. I use Trello for that. 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best 3D printers If you're in the market for a 3D printer, you'll find one here that fits your needs.  Read now](https://www.zdnet.com/article/best-3d-printer/)
 
 I've also set up Notion pages for each 3D printer, and for managing and tracking my reviews and video projects. It's great as a catch-all for lots of details, but unlike previous catch-alls like Evernote, Notion allows you to assign some structure and layout to the stuff you're working with. 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Blocking out time for my projects
 
@@ -298,22 +292,19 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-enhance-your-reel-with-rhythms-instagrams-music-guide/"><u>[New] Enhance Your Reel with Rhythms Instagram's Music Guide</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-top-tips-navigating-the-latest-facebook-features/"><u>[Updated] In 2024, Top Tips Navigating the Latest Facebook Features</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-ultimate-speed-boost-for-vimeo-videos/"><u>[Updated] In 2024, Ultimate Speed Boost for Vimeo Videos</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-depth-examination-androids-photography-solution-lightroom-for-2024/"><u>[Updated] In-Depth Examination Android's Photography Solution, Lightroom for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-this-costless-voice-changer-to-boost-valorant-skills/"><u>2024 Approved Explore This Costless Voice Changer to Boost Valorant Skills</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-vivo-x-flip-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Vivo X Flip to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-apple-iphone-12-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on Apple iPhone 12 and iPad Securely</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/boost-your-social-media-presence-by-adding-a-pin-tab-on-your-facebook-profile/"><u>Boost Your Social Media Presence by Adding a Pin Tab on Your Facebook Profile</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/continuous-monitoring-during-induction-is-critical-for-the-safety-of-both-mother-and-baby/"><u>Continuous Monitoring During Induction Is Critical for the Safety of Both Mother and Baby.</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/effective-methods-to-prevent-background-applications-from-running-on-your-android-device/"><u>Effective Methods to Prevent Background Applications From Running on Your Android Device</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-analysis-of-the-fugetek-ft-568-premium-quality-and-durability-in-a-top-tier-selfie-stick/"><u>Expert Analysis of the Fugetek FT-568: Premium Quality and Durability in a Top-Tier Selfie Stick</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-xiaomi-redmi-note-13-5g-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Xiaomi Redmi Note 13 5G</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-image-manipulation-learn-to-zoom-inout-with-iphone-and-ipad-devices/"><u>Mastering the Art of Image Manipulation: Learn to Zoom In/Out with iPhone and iPad Devices</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/optimal-frequency-when-is-the-right-time-to-update-your-smartphone/"><u>Optimal Frequency: When Is the Right Time to Update Your Smartphone?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/revealing-the-curious-how-to-identify-readers-of-your-google-docs/"><u>Revealing the Curious: How to Identify Readers of Your Google Docs</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-art-of-profit-from-20-second-videography-a-guide-for-creators-for-2024/"><u>The Art of Profit From 20-Second Videography A Guide for Creators for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-troubleshooting-for-scanning-files-directly-from-a-printer-onto-your-computer/"><u>Ultimate Troubleshooting for Scanning Files Directly From a Printer Onto Your Computer</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-comparing-the-best-updated-review-of-gopro-and-yi-action-cams/"><u>[New] 2024 Approved Comparing the Best Updated Review of GoPro and Yi Action Cams</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-transform-your-youtube-channel-expert-tips-for-adding-chapter-sections/"><u>[New] In 2024, Transform Your YouTube Channel Expert Tips for Adding Chapter Sections</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-crafting-visual-harmony-with-bokeh-techniques-in-storytelling/"><u>[Updated] Crafting Visual Harmony with Bokeh Techniques in Storytelling</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-cooking-chronicles-video-production-insights/"><u>2024 Approved Cooking Chronicles Video Production Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enablingdisabling-the-touch-typing-feature-on-windows-11-a-step-by-step-guide/"><u>Enabling/Disabling the Touch Typing Feature on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-reviews-where-to-find-quality-phones-at-great-prices/"><u>Expert Reviews: Where to Find Quality Phones at Great Prices</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-prime-windows-11-photo-inspector/"><u>In 2024, Prime Windows 11 Photo Inspector</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-tiktok-hits-twitters-viral-top-10-list/"><u>In 2024, TikTok Hits Twitter's Viral Top 10 List</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-transitioning-saved-snaps-from-social-networks-to-personal-archive/"><u>In 2024, Transitioning Saved Snaps From Social Networks to Personal Archive</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-potion-creation-avoid-awkward-outcomes-with-these-pro-tips/"><u>Mastering Potion Creation: Avoid Awkward Outcomes with These Pro Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-disk-repair-how-to-utilize-the-power-of-chkdsk-command-on-windows-operating-systems/"><u>Navigating Disk Repair: How to Utilize the Power of Chkdsk Command on Windows Operating Systems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-hurdles-a-comprehensive-guide-to-iphone-repairs-and-tips/"><u>Overcoming Hurdles: A Comprehensive Guide to iPhone Repairs & Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/tech-tactics-avoiding-counterfeit-creations-on-microsofts-platform/"><u>Tech Tactics: Avoiding Counterfeit Creations on Microsoft's Platform</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-xiaomi-mi-mix-fold-anticipated-costs-launch-timeline-and-specs-insider-gossip/"><u>Unveiling the Xiaomi Mi Mix Fold: Anticipated Costs, Launch Timeline & Specs – Insider Gossip</u></a></li>
 </ul></div>
 

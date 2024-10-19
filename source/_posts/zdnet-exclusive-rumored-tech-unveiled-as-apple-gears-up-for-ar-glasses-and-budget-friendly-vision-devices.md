@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Exclusive: Rumored Tech Unveiled as Apple Gears Up for AR Glasses and Budget-Friendly Vision Devices"
-date: 2024-10-10T17:02:13.652Z
-updated: 2024-10-12T16:37:10.185Z
+date: 2024-10-17T10:28:17.511Z
+updated: 2024-10-19T14:44:06.318Z
 tags:
   - apple
 categories:
@@ -61,7 +61,21 @@ Cons
 * No display included
 * No keyboard or mouse included
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Mac Studio
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Tiny computer, big performance
 
@@ -85,14 +99,14 @@ Cons
 * Very, very expensive
 * Very large and heavy
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Mac Pro
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### A serious workstation for serious professionals
 
@@ -103,39 +117,19 @@ The Mac Pro with the M2 Ultra chipset is one of the most powerful desktops that 
 Show Expert Take Show less 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is it worth upgrading to a new MacBook Air 15, Mac Studio, or Mac Pro?
 
 If you recently made the switch from an Intel-based Mac to one with an M1 or M2 chipset, you might want to hold off on upgrading to these latest models. The M2 Ultra is a brand-new chip from Apple, and will have some growing pains as driver updates get released to smooth over bugs and other performance issues real-world users may have. These new devices are also on the more expensive side, so you might want to wait for a promotional sale or for when your M1/M2 Mac starts to have serious issues. 
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What's the difference between the M2 Max and M2 Ultra?
 
 The biggest difference comes down to how many cores each chip has as well as the maximum amount of supported memory. The M2 Max supports up to 96GB of unified RAM and features an 8-core CPU and 10-core CPU. The M2 Ultra supports up to 192GB of unified memory and features a 24-core CPU, 60-core GPU, and 32-core Neural Engine. This means that the M2 Ultra can perform more processes per second, giving you higher performance over Intel and M1-based Apple models.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## When will these be available?
 
@@ -181,20 +175,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-non-root-android-audio-logging-step-by-step/"><u>[New] Non-Root Android Audio Logging, Step by Step</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-eco-ad-boosting-subscription-and-green-screen-combo/"><u>[Updated] In 2024, Eco Ad Boosting Subscription & Green Screen Combo</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-proiphone-close-ups-techniques-for-captivating-images/"><u>2024 Approved Proiphone Close-Ups Techniques for Captivating Images</u></a></li>
-<li><a href="https://extra-information.techidaily.com/best-options-cheap-but-premium-4k-projector-systems-for-2024/"><u>Best Options Cheap but Premium 4K Projector Systems for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-list-of-12-fantastic-free-online-cinema-platforms/"><u>Discover the Ultimate List of 12 Fantastic Free Online Cinema Platforms</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/enhancing-your-typography-how-to-add-fonts-to-an-iphone-with-ease/"><u>Enhancing Your Typography: How to Add Fonts to an iPhone with Ease</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-tips-what-to-evaluate-when-purchasing-refurbished-computers/"><u>Essential Tips: What to Evaluate When Purchasing Refurbished Computers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/expert-advice-choosing-exceptional-videographers/"><u>Expert Advice Choosing Exceptional Videographers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fix-microsoft-edge-crashes-and-errors-quickly-a-comprehensive-tutorial/"><u>Fix Microsoft Edge Crashes & Errors Quickly - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-top-4-ways-to-trace-apple-iphone-14-location-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 4 Ways to Trace Apple iPhone 14 Location | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/secrets-unveiled-gaining-access-through-the-trustedinstaller-on-windows-10/"><u>Secrets Unveiled: Gaining Access Through the TrustedInstaller on Windows 10</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/snapchats-highlight-an-in-depth-look-for-2024/"><u>Snapchat's Highlight An In-Depth Look for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/-viewers-off-their-feet-templates-that-work-wonders/"><u>Sweep Viewers Off Their Feet Templates That Work Wonders</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unleash-your-inner-movie-buff-with-our-selection-of-the-12-best-free-streaming-apps/"><u>Unleash Your Inner Movie Buff with Our Selection of the 12 Best Free Streaming Apps</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlock-efficient-email-management-with-these-30-gmail-shortcut-tips/"><u>Unlock Efficient Email Management with These 30 Gmail Shortcut Tips</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-how-to-record-gameplay-with-obs-for-2024/"><u>[New] How to Record Gameplay with OBS for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-tailored-transfer-process-for-mobile-camera-roll-on-snapchat/"><u>[New] Tailored Transfer Process for Mobile Camera Roll on Snapchat</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-chrome-to-iphone-a-guide-to-stripping-youtube-ads/"><u>[Updated] In 2024, Chrome to iPhone A Guide to Stripping YouTube Ads</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-take-fullscreen-digital-canvas/"><u>[Updated] In 2024, Take Fullscreen Digital Canvas</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-top-skype-call-techniques-for-effective-recordings-free-and-paid-on-computers/"><u>[Updated] Top Skype Call Techniques for Effective Recordings (Free & Paid) on Computers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/cambia-facilmente-imagenes-webp-a-formato-jpg-sin-coste-guia-de-movavi/"><u>Cambia Fácilmente Imágenes WEBP a Formato JPG Sin Coste: Guía De Movavi</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-view-avchd-mts-files-on-moto-g84-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>Can I view AVCHD .mts files on Moto G84 5G?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/extensive-investigation-into-gecatas-recorder-tech-for-2024/"><u>Extensive Investigation Into Gecata's Recorder Tech for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-beyond-tubes-the-ultimate-video-share-sites/"><u>In 2024, Beyond Tubes The Ultimate Video Share Sites</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-transferring-epubpdf-reads-onto-your-kobo-and-sony-digital-book-devices/"><u>Step-by-Step Guide: Transferring EPUB/PDF Reads Onto Your Kobo & Sony Digital Book Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-transforming-cbr-files-into-mobi-format/"><u>Step-by-Step Guide: Transforming CBR Files Into MOBI Format</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-for-unlocking-your-drm-protected-ebooks-audiobooks-and-pdfs/"><u>Step-by-Step Instructions for Unlocking Your DRM-Protected eBooks, Audiobooks & PDFs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/transform-any-audio-format-with-top-ranking-audible-converters-online/"><u>Transform Any Audio Format with Top-Ranking Audible Converters Online</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/transform-your-word-files-into-ebooks-a-step-by-steps-guide-with-calibres-conversion-tool/"><u>Transform Your Word Files Into eBooks: A Step-by-Steps Guide with Calibre's Conversion Tool</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-how-to-bypass-drm-on-e-books-and-digital-files-epub-pdf-azw/"><u>Ultimate Guide: How to Bypass DRM on E-Books and Digital Files (ePUB, PDF, AZW)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-mastering-search-engine-optimization-seo-strategies/"><u>Ultimate Guide: Mastering Search Engine Optimization (SEO) Strategies</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-list-of-best-reading-applications-for-android-devices-analyzed-and-compared/"><u>Ultimate List of Best Reading Applications for Android Devices Analyzed and Compared</u></a></li>
 </ul></div>
 

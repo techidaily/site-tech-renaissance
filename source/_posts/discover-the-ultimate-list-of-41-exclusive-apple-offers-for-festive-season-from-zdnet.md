@@ -1,7 +1,7 @@
 ---
 title: Discover the Ultimate List of 41 Exclusive Apple Offers for Festive Season From ZDNet
-date: 2024-10-10T16:20:04.912Z
-updated: 2024-10-12T17:21:59.566Z
+date: 2024-10-12T21:57:38.787Z
+updated: 2024-10-19T05:26:47.821Z
 tags:
   - apple
 categories:
@@ -35,10 +35,10 @@ Here's a look at what's new for the 6th generation iPad Air.
 First up, [Apple is introducing](https://www.apple.com/ipad-air/) an all-new bigger size. While previous versions of the [iPad Air](https://www.zdnet.com/article/best-ipad/) only had a single size to choose from, this year's edition has an 11-inch size and a 13-inch size – the larger one giving you 30% more screen to work with. It makes the iPad slightly less portable, but the added real estate will certainly be worth the tradeoff for some.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. An M2 chip for enhanced performance
@@ -60,10 +60,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. New placement for the front camera
@@ -71,10 +71,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 It may seem minor, but the front-facing camera of the latest iPad Air is in a new spot. It's now on the landscape edge, moved from the portrait edge. Previously, you had to use the iPad in portrait mode on a video call as moving it to landscape mode distorted the picture. Now, video calls will look exactly as they do on a laptop.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Bigger base storage
@@ -115,18 +115,22 @@ The iPad Air 6 will begin shipping next week at a starting price of [$599 for th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-from-one-to-many-building-your-reputation-by-cloning-yourself-on-tiktok-for-2024/"><u>[New] From One to Many Building Your Reputation by Cloning Yourself on TikTok for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-optimizing-livestream-videos-on-twitch/"><u>[Updated] 2024 Approved Optimizing Livestream Videos on Twitch</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-mastering-the-art-of-creating-an-original-tiktok-hashtag/"><u>[Updated] In 2024, Mastering the Art of Creating an Original TikTok Hashtag</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/choosing-the-perfect-wrist-rest-the-best-picks-of-2e4/"><u>Choosing the Perfect Wrist Rest: The Best Picks of 2E4</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/comprehensive-guide-webp-to-jpg-conversion-secrets/"><u>Comprehensive Guide WebP to JPG Conversion Secrets</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-tips-for-keeping-your-mechanical-keyboard-spotless-and-functional/"><u>Expert Tips for Keeping Your Mechanical Keyboard Spotless and Functional</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/from-novice-to-pro-a-comprehensive-guide-for-using-googles-measure-app-on-android-phones/"><u>From Novice to Pro: A Comprehensive Guide for Using Google's Measure App on Android Phones</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/gooview-chromes-in-os-screen-recorder-for-2024/"><u>GooView Chrome's In-OS Screen Recorder for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/impact-of-ram-speed-and-access-times-on-computer-performance/"><u>Impact of RAM Speed & Access Times on Computer Performance</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-capturing-eats-a-chefs-handbook-to-food-photography/"><u>In 2024, Capturing Eats A Chef's Handbook to Food Photography</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/must-see-kid-friendly-flicks-streaming-on-netflix/"><u>Must-See Kid-Friendly Flicks Streaming on Netflix</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solutions-to-resolve-dsounddll-error-missing-file-on-your-pc/"><u>Solutions to Resolve dsound.dll Error: Missing File on Your PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-tips-for-picking-out-your-ultimate-cellphone-case/"><u>Top Tips for Picking Out Your Ultimate Cellphone Case</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-ultimate-speech-logging-for-mac-our-top-5-list-unveiled/"><u>[New] In 2024, Ultimate Speech Logging for Mac Our Top 5 List Unveiled</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-extensive-breakdown-what-the-google-podcast-app-means-for-you/"><u>2024 Approved Extensive Breakdown What the Google Podcast App Means for You</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ace-playstation-4-gameplay-capture-tips-and-tricks-for-perfect-recordings/"><u>Ace PlayStation 4 Gameplay Capture: Tips and Tricks for Perfect Recordings</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-review-the-oneplus-amoeba-9-pros-blend-of-trendy-appearance-quick-responsiveness-and-camera-excellence/"><u>Comprehensive Review: The OnePlus Amoeba 9 Pro's Blend of Trendy Appearance, Quick Responsiveness & Camera Excellence</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/demystifying-dac-do-you-really-need-it/"><u>Demystifying DAC - Do You Really Need It?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-ways-to-contact-snapchat-support-services/"><u>Effective Ways to Contact Snapchat Support Services</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-from-iphone-6s-plus-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working From iPhone 6s Plus</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-through-the-differences-between-apples-ipad-pro-and-macbook-air/"><u>Navigating Through the Differences Between Apple's iPad Pro and MacBook Air</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcome-lengthy-display-glitches-on-windows-pc/"><u>Overcome Lengthy Display Glitches on Windows PC</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/see-what-matters-mac-client-videos/"><u>See What Matters: Mac Client Videos</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/streaming-tiktok-videos-onto-your-television-a-comprehensive-guide/"><u>Streaming TikTok Videos Onto Your Television: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-complete-guide-to-navigating-lg-televisions-and-set-top-box-channels/"><u>The Complete Guide to Navigating LG Televisions and Set-Top Box Channels</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-echo-speaker-issues-what-to-do-when-alexa-wont-respond/"><u>Troubleshooting Echo Speaker Issues: What To Do When Alexa Won't Respond</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-what-to-do-when-your-android-phone-says-hello-in-shadows/"><u>Troubleshooting Tips: What to Do When Your Android Phone Says 'Hello' In Shadows</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-configuring-parent-friendly-settings-in-windows-11/"><u>Ultimate Guide: Configuring Parent-Friendly Settings in Windows 11</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/where-is-the-best-place-to-catch-dratini-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Realme Narzo N55 | Dr.fone</u></a></li>
 </ul></div>
 

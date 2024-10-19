@@ -1,7 +1,7 @@
 ---
 title: Lost in Light? Here's How to Switch Your Facebook Back to Dark Theme
-date: 2024-09-15T17:21:47.495Z
-updated: 2024-09-21T02:33:50.598Z
+date: 2024-10-17T23:09:52.525Z
+updated: 2024-10-19T05:12:32.893Z
 categories:
   - BestProducts
 description: This Article Describes Lost in Light? Here's How to Switch Your Facebook Back to Dark Theme
@@ -34,10 +34,34 @@ thumbnail: https://www.lifewire.com/thmb/1N4X4JpApizjRYEPsSnvXsOibYU=/400x300/fi
  If you don't see that option, go to**Battery** \>**Power Adapter** instead, then select the slider and move it to**Never** .  
 ![Power Adapter highlighted in MacBook battery settings.](https://www.lifewire.com/thmb/5fyup25_ft7wTwiyCcWz7UeWulA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_prevent-macbook-from-sleeping-when-lid-is-closed-5203069-1f901024bdd54206baa2bd00c8544065.jpg)
 3. Click**Battery** from the menu, then choose**Options** . Switch on the toggle next to **Prevent automatic sleeping on power adapter when the display is off** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The prevent automatic sleeping on power adapter option toggled on for a MacBook](https://www.lifewire.com/thmb/TdcjINJG4V-giAXqHylO_KVorlQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macbook-prevent-automatic-sleeping-f9b2e9316b674a2090717f4e035ca9b8.png)  
  In some versions of macOS, this option is in the**Power Adapter** menu and it's called **Prevent computer from sleeping automatically when the display is off** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The prevent computer from sleeping checkbox highlighted in MacBook battery settings.](https://www.lifewire.com/thmb/RFati3T9B0Vn3TUJFCgh9KBh2aU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_prevent-macbook-from-sleeping-when-lid-is-closed-5203069-17e72f1f27a841a2b500dee73546c20d.jpg)
 4. Plug your MacBook into power.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Connect your MacBook to an external monitor using an adapter if necessary.
 6. You can now close your MacBook without the external display turning off. Note that the display on the MacBook itself does turn off, just not the external monitor.
 
@@ -50,10 +74,10 @@ thumbnail: https://www.lifewire.com/thmb/1N4X4JpApizjRYEPsSnvXsOibYU=/400x300/fi
  The most common reason to want to keep a MacBook from sleeping when the lid is closed is if you're going to use it with an external monitor and keyboard. Apple makes that reasonably easy if you follow the instructions provided in the previous section.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can You Keep a MacBook From Sleeping With the Lid Closed Without a Monitor?
@@ -98,5 +122,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-enhancing-team-dynamics-through-effective-video-calls/"><u>[New] Enhancing Team Dynamics Through Effective Video Calls</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-living-narratives-interactive-vr-storytelling-for-2024/"><u>[New] Living Narratives Interactive VR Storytelling for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-excellent-camcorders-for-motion-free-videos/"><u>2024 Approved Excellent Camcorders for Motion-Free Videos</u></a></li>
+<li><a href="https://driver-install.techidaily.com/accelerate-radeon-hd-4800-driver-upgrades/"><u>Accelerate Radeon HD 4800 Driver Upgrades</u></a></li>
+<li><a href="https://extra-information.techidaily.com/acid-pro-replacements-a-deep-dive-into-graphics-softwares-for-2024/"><u>ACID Pro Replacements A Deep Dive Into Graphics Softwares for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-navigating-youtubes-revenue-mechanisms/"><u>In 2024, Navigating YouTube's Revenue Mechanisms</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/integrating-pinterest-on-facebook-a-step-by-step-guide/"><u>Integrating Pinterest on Facebook: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205736440-internet-explorer-wont-open-solved/"><u>Internet Explorer Won't Open [SOLVED]</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/lost-your-facebook-password-retrieve-it-using-alternative-methods/"><u>Lost Your Facebook Password? Retrieve It Using Alternative Methods</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-quick-and-secure-sign-in-setting-up-auto-logon-for-windows-users/"><u>Mastering Quick and Secure Sign-In: Setting Up Auto Logon for Windows Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/maximize-your-workout-the-10-most-effective-fitness-progress-trackers/"><u>Maximize Your Workout: The 10 Most Effective Fitness Progress Trackers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-through-net-neutrality-a-comprehensive-overview/"><u>Navigating Through Net Neutrality - A Comprehensive Overview</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-explore-the-best-free-soundtrack-libraries-for-your-videos-and-films/"><u>New Explore the Best-Free Soundtrack Libraries for Your Videos and Films</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/simplify-your-mobile-experience-mastering-the-quick-settings-on-android-devices/"><u>Simplify Your Mobile Experience: Mastering the Quick Settings on Android Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-pairing-and-using-a-chromecast-remote-for-flawless-media-control/"><u>Step-by-Step Tutorial: Pairing and Using a Chromecast Remote for Flawless Media Control</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-subscribe-unlock-and-dive-into-ea-play-on-ps5/"><u>The Ultimate Guide: Subscribe, Unlock, and Dive Into EA Play on PS5</u></a></li>
+</ul></div>
 

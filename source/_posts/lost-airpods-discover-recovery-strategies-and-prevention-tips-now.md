@@ -1,7 +1,7 @@
 ---
 title: Lost AirPods? Discover Recovery Strategies & Prevention Tips Now!
-date: 2024-10-08T02:40:57.806Z
-updated: 2024-10-13T06:03:19.609Z
+date: 2024-10-17T22:00:48.826Z
+updated: 2024-10-19T07:48:56.621Z
 tags:
   - apple
 categories:
@@ -35,10 +35,16 @@ Here's a look at what's new for the 6th generation iPad Air.
 First up, [Apple is introducing](https://www.apple.com/ipad-air/) an all-new bigger size. While previous versions of the [iPad Air](https://www.zdnet.com/article/best-ipad/) only had a single size to choose from, this year's edition has an 11-inch size and a 13-inch size – the larger one giving you 30% more screen to work with. It makes the iPad slightly less portable, but the added real estate will certainly be worth the tradeoff for some.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. An M2 chip for enhanced performance
@@ -60,10 +66,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. New placement for the front camera
@@ -71,10 +77,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 It may seem minor, but the front-facing camera of the latest iPad Air is in a new spot. It's now on the landscape edge, moved from the portrait edge. Previously, you had to use the iPad in portrait mode on a video call as moving it to landscape mode distorted the picture. Now, video calls will look exactly as they do on a laptop.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Bigger base storage
@@ -115,16 +121,17 @@ The iPad Air 6 will begin shipping next week at a starting price of [$599 for th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-top-picks-premium-iphone-tune-selectors/"><u>[New] 2024 Approved Top Picks Premium iPhone Tune Selectors</u></a></li>
-<li><a href="https://fox-that.techidaily.com/bluetooth-basics-for-iphones-a-comprehensive-guide-for-first-timers/"><u>Bluetooth Basics for iPhones: A Comprehensive Guide for First-Timers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-fixes-for-overcoming-error-800-in-vpn-services-a-dual-perspective-approach/"><u>Comprehensive Fixes for Overcoming Error 800 in VPN Services: A Dual-Perspective Approach</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-full-review-capturing-every-angle-in-one-device-samsung/"><u>In 2024, Full Review Capturing Every Angle in One Device - Samsung</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-creating-flawless-passport-photos-for-free/"><u>In 2024, The Ultimate Guide to Creating Flawless Passport Photos for Free</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/install-logitech-gaming-mouse-download-latest-drivers-for-win11win10win8win7/"><u>Install Logitech Gaming Mouse: Download Latest Drivers for Win11/Win10/Win8/Win7</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-converting-your-spotify-playlist-into-a-writable-file/"><u>Step-by-Step Guide: Converting Your Spotify Playlist Into a Writable File</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-hierarchy-of-e-car-charging-stations-exploring-the-various-levels-from-l1-to-l3/"><u>The Hierarchy of E-Car Charging Stations - Exploring the Various Levels From L1 to L3</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/trouble-hearing-sound-in-your-presentation-expert-tips-to-resolve-powerpoint-audio-issues/"><u>Trouble Hearing Sound in Your Presentation? Expert Tips to Resolve PowerPoint Audio Issues</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-ussd-an-overview-of-unstructured-supplementary-service-data/"><u>Understanding USSD: An Overview of Unstructured Supplementary Service Data</u></a></li>
-<li><a href="https://win-web.techidaily.com/tthbyt-ashl-ltshghyl-alhsol-aal-isdar-windows-11-gzaa-mn-tmhydk-baman/"><u>تثبيط أسهل لتشغيل الحصول على إصدار Windows 11 - جزء من تمهيدك بأمان</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-how-to-effortlessly-record-screens-on-your-hp-device/"><u>[New] 2024 Approved How to Effortlessly Record Screens on Your HP Device</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-how-to-create-and-change-video-cover-on-facebook/"><u>[New] In 2024, How to Create and Change Video Cover on Facebook</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-the-filmmakers-blueprint-making-youtube-splitscreen-magic/"><u>[Updated] 2024 Approved The Filmmaker's Blueprint Making YouTube Splitscreen Magic</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-a-guide-to-30-compelling-video-presentation-ideas/"><u>[Updated] A Guide to 30 Compelling Video Presentation Ideas</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-how-to-record-gameplay-on-windows-11/"><u>2024 Approved How to Record Gameplay on Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722878376757-announcement-macos-15-sequoia-launch-date-and-latest-updates-unveiled/"><u>Announcement: MacOS 15 'Sequoia' - Launch Date & Latest Updates Unveiled!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/cant-connect-to-the-internet-on-your-apple-watch-heres-what-to-do/"><u>Can't Connect to the Internet on Your Apple Watch? Here's What to Do!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-fixes-for-unseen-youtube-comments-under-videos/"><u>Comprehensive Fixes for Unseen YouTube Comments Under Videos</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discovering-metas-artificial-intelligence-an-in-depth-look/"><u>Discovering Meta's Artificial Intelligence: An In-Depth Look</u></a></li>
+<li><a href="https://games-able.techidaily.com/effortlessly-power-play-choosing-the-best-ps5-controllers-chargers/"><u>Effortlessly Power Play: Choosing the Best PS5 Controllers Chargers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/navigating-screen-capture-across-pcs-and-mobile-devices/"><u>Navigating Screen Capture Across PCs and Mobile Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/samsung-galaxy-watch-phone-problems-heres-how-to-fix-not-receiving-calls/"><u>Samsung Galaxy Watch Phone Problems? Here's How to Fix Not Receiving Calls!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Concepts Behind Ray Tracing
-date: 2024-10-12T00:28:27.396Z
-updated: 2024-10-13T08:35:02.115Z
+date: 2024-10-13T23:08:40.654Z
+updated: 2024-10-19T02:56:36.766Z
 categories:
   - BestProducts
 description: This Article Describes Unveiling the Concepts Behind Ray Tracing
@@ -24,13 +24,6 @@ Close
 
  Ray tracing is a technique for[ rendering](https://www.lifewire.com/what-is-rendering-1954) computer graphics that creates an image by tracing rays' path through a scene. The rays can interact with objects in the scene, bouncing off them and gaining properties, such as color.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How Ray Tracing Works
 
  Ray tracing emulates real-world lighting. The light we see is the result of photons emitted from energy sources, like the sun. Photons can bounce and scatter as they collide with objects. A mirror is all you need to see this in action. Light hitting a mirror creates a reflection.
@@ -40,10 +33,10 @@ Close
 ![Vending machines in the game Cyberpunk 2077](https://www.lifewire.com/thmb/x9KVYNkfR_Bw9Oh5se9jeI8JiMQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cyberpunk2077-2c97987534994d32afabd764b09bd682.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 CD Projekt Red
@@ -54,6 +47,13 @@ CD Projekt Red
 
  This leads to lighting that can interact with the environment even when the environment isn’t visible to the player. Ray tracing doesn’t require purpose-built hardware to function, but it's only practical on a video card or game console that can accelerate ray tracing because it's very demanding.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Ray Tracing vs. Rasterization
 
  You may still be confused even if you understand this explanation. Reflections were present in past games, even those now several decades old. How is ray tracing different?
@@ -63,10 +63,10 @@ CD Projekt Red
 ![Ray tracing in Battlefield 5](https://www.lifewire.com/thmb/r2mdM8eBZAKw6HdVsRn7mgJq7zQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/rtxraytracebattlefield5-50d78dc8c3a14f9cb996f5d83b2a3726.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Nvidia
@@ -83,13 +83,6 @@ Nvidia
 
 [ What to Look For in a Gaming PC ](https://www.lifewire.com/what-to-consider-before-buying-a-gaming-pc-5221042) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  What Hardware Does Ray Tracing Require?
 
  Ray tracing isn't a new idea.[ Computer scientists experimented with ray tracing in the early 1980s](https://news.developer.nvidia.com/ray-tracing-from-the-1980s-to-today-an-interview-with-morgan-mcguire-nvidia/) , creating static images with realistic lighting, reflections, and shadows. Unfortunately, they took hours to render.
@@ -97,6 +90,13 @@ Nvidia
  A video game needs real-time ray tracing at 30 frames per second or higher. That’s only possible with a video card designed to accelerate ray tracing.
 
 ![Nvidia RTX 3080 graphics card on a black background](https://www.lifewire.com/thmb/QGQ2tBbyAIp9z2q6B2ZLBc7rQyU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/nvidiartx3080-43baad1d3a1e415a8e3760e81b0c5de0.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Nvidia
 
@@ -139,18 +139,20 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-perfect-playtime-footage-with-nvidia-for-2024/"><u>[New] Perfect Playtime Footage with NVIDIA for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/op-ranked-5-game-chat-systems-for-vloggers-for-2024/"><u>[New] Top-Ranked 5 Game Chat Systems for Vloggers for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-10-speed-up-apps-for-mobile-music-and-podcasts/"><u>[Updated] 10 Speed-Up Apps for Mobile Music and Podcasts</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-enhance-call-clarity-choose-from-the-best-10-free-recorders-for-2024/"><u>[Updated] Enhance Call Clarity Choose From the Best 10 Free Recorders for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-honor-v-purse-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Honor V Purse Phone? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exposing-hidden-files-in-macos-the-ultimate-terminal-command-tutorial/"><u>Exposing Hidden Files in macOS - The Ultimate Terminal Command Tutorial</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722898263157-handling-iphone-email-problems-heres-what-you-need-to-know/"><u>Handling iPhone Email Problems? Here's What You Need to Know!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-block-no-caller-id-calls-on-iphone/"><u>How to Block No Caller ID Calls on iPhone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-on-apple-iphone-6s-plus-by-drfone-ios/"><u>How to Fix when Apple Account Locked On Apple iPhone 6s Plus?</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/instagram-growth-strategy-top-15-secure-and-free-apps-for-social-networking-for-2024/"><u>Instagram Growth Strategy - Top 15 Secure & FREE Apps for Social Networking for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/masterful-platformers-the-top-6-super-mario-bros-games-to-play-on-windows-and-mac/"><u>Masterful Platformers: The Top 6 Super Mario Bros Games to Play on Windows and Mac</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solutions-for-resolving-propsysdll-file-cannot-be-located-issues/"><u>Solutions for Resolving 'Propsys.dll File Cannot Be Located' Issues</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-itel-s23plus-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Itel S23+? Fixed | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-free-auditory-gamespace-vaults-copyright-free/"><u>[New] In 2024, Free Auditory Gamespace Vaults (Copyright-Free)</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-tailoring-the-frame-how-to-optimize-videography-for-instagram/"><u>[Updated] Tailoring the Frame How to Optimize Videography for Instagram</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-virtual-streets-best-video-games-mimicking-gta-v/"><u>2024 Approved Virtual Streets Best Video Games Mimicking GTA V</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-create-stunning-movies-online-for-free-top-9-options/"><u>In 2024, Create Stunning Movies Online for Free Top 9 Options</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-language-bridge-builders-top-18-tools-that-turn-videos-into-text/"><u>In 2024, Language Bridge Builders Top 18 Tools That Turn Videos Into Text</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-infinix-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Infinix Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-chrome-profile-correction-for-pc-users/"><u>Mastering Chrome Profile Correction for PC Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-pc-performance-selecting-the-best-five-no-cost-drivers/"><u>Maximizing PC Performance: Selecting the Best Five No-Cost Drivers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-challenges-when-running-the-windows-computer-wellness-app/"><u>Overcoming Challenges When Running the Windows Computer Wellness App</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resetting-your-windows-11-passwords-a-comprehensive-guide-four-methods-explored/"><u>Resetting Your Windows 11 Passwords: A Comprehensive Guide - Four Methods Explored</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-windows-10-monochrome-screen-issues-tips-and-tricks-to-restore-colors/"><u>Resolving Windows 10 Monochrome Screen Issues: Tips & Tricks to Restore Colors</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revive-your-chatgpt-experience-using-our-5-easy-fixes/"><u>Revive Your ChatGPT Experience Using Our 5 Easy Fixes!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/secure-your-connection-detect-and-track-your-ip-address-for-free/"><u>Secure Your Connection: Detect and Track Your IP Address for Free</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/simple-steps-update-your-usb-device-drivers-on-windows-11-and-earlier-versions/"><u>Simple Steps: Update Your USB Device Drivers on Windows 11 and Earlier Versions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-surprising-instantaneous-banning-of-chatgpt-in-italy/"><u>The Surprising Instantaneous Banning of ChatGPT In Italy</u></a></li>
 </ul></div>
 

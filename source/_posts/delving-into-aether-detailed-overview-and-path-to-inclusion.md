@@ -1,7 +1,7 @@
 ---
 title: "Delving Into Aether: Detailed Overview & Path to Inclusion"
-date: 2024-10-12T07:26:15.328Z
-updated: 2024-10-13T09:07:00.668Z
+date: 2024-10-13T02:17:42.269Z
+updated: 2024-10-19T13:28:21.182Z
 categories:
   - BestProducts
 description: "This Article Describes Delving Into Aether: Detailed Overview & Path to Inclusion"
@@ -36,6 +36,13 @@ Close
 
  Aether is intended for a much more technical audience. It's best for people who know what "globs" or stars are when it comes to allow-lists for domains, and who understand crypto and[ blockchain](https://www.lifewire.com/what-is-web3-5271876#toc-are-there-any-examples-of-web3-today) well enough to grasp the explanation of why Aether isn't based on the blockchain.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Aether Pro
 
  The company touts Aether Pro, "a private, team-based version of Aether as a collaboration tool, like Slack." This version of the platform offers live chat rooms, structured discussion threads, email newsletters, and more. However, nothing on the site indicates what it costs or how to sign up for it.
@@ -45,6 +52,13 @@ Close
  The company doesn't publish this information. In[ a 2021 interview with a co-founder of the platform](https://thenewstack.io/aether-a-decentralized-reddit-with-self-moderation-and-privacy/) , he said Aether has about 2,000 users. By contrast, Reddit claims 52 million users.
 
  As of this writing, no Aether community has more than 79 subscribers, and the majority have under 30 users. The last post on the company's web-based forum is from March 2022, though at least one new post per day has appeared in the app for almost every day in 2023.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Does Aether Use the Blockchain?
 
@@ -59,10 +73,10 @@ Close
  The app offers Popular and New posts, somewhat like Reddit. You can also browse or search for subs, which are smaller communities for a specific topic or interest.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Are There Costs for Aether?
@@ -71,20 +85,13 @@ Close
 
  While the app and website both mention that users can support the platform via[ Patreon](https://www.patreon.com) , those links are broken and a search at Patreon doesn't return anything relevant.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How Does Aether Compare to Reddit and X?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Aether vs. Reddit and X
@@ -108,13 +115,6 @@ Close
 * Centralized: The companies maintain control over content, operations, and infrastructure
 * Algorithmic delivery of content (on X)
 * Unique usernames
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -154,16 +154,24 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-navigating-the-2024-cloud-cost-landscape/"><u>[New] Navigating the 2024 Cloud Cost Landscape</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-building-a-professional-online-network-hub/"><u>[Updated] Building a Professional Online Network Hub</u></a></li>
-<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Vivo V30 | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-giggle-grid-curated-list-of-uproarious-ringtone-sites/"><u>In 2024, Giggle Grid Curated List of Uproarious Ringtone Sites</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-streamlining-the-process-of-making-smaller-images-tips-and-tricks/"><u>In 2024, Streamlining the Process of Making Smaller Images Tips & Tricks</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/new-top-6-animated-emoji-video-effects/"><u>New Top 6 Animated Emoji Video Effects</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solutions-for-addressing-504-gateway-errors/"><u>Step-by-Step Solutions for Addressing 504 Gateway Errors</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tips-on-resolving-windows-11-power-off-problems/"><u>Step-by-Step Tips on Resolving Windows 11 Power Off Problems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-top-performing-micro-atx-and-nano-pcs-for-gaming/"><u>The Top Performing Micro ATX & Nano PCs for Gaming</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-viewing-the-complete-indiana-jones-adventures-sequentially/"><u>The Ultimate Guide: Viewing The Complete Indiana Jones Adventures Sequentially</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-infinix-hot-40-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Infinix Hot 40 Phone Network-Ready</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-art-of-sound-transition-in-logic-pro-x/"><u>[New] The Art of Sound Transition in Logic Pro X</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-wired-versus-broadcasted-analyzing-wirecast-and-obs-for-2024/"><u>[New] Wired versus Broadcasted Analyzing Wirecast and OBS for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-cracking-the-code-to-niche-celeb-content-creators-on-insta/"><u>[Updated] Cracking the Code to Niche Celeb Content Creators on Insta</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-curating-capsules-of-gratitude-paidfree-options/"><u>[Updated] In 2024, Curating Capsules of Gratitude Paid/Free Options</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-convenient-method-to-design-original-shorts-thumbnails/"><u>2024 Approved Convenient Method to Design Original Shorts Thumbnails</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-fix-for-when-your-system-cant-find-helperdll/"><u>Comprehensive Fix for When Your System Can't Find Helper.dll</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/discover-the-best-places-for-free-streaming-of-chinese-tv-shows-in-english-voiceovers/"><u>Discover the Best Places for FREE Streaming of Chinese TV Shows in English Voiceovers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-these-stunningly-surprising-emoji-insights/"><u>Discover These Stunningly Surprising Emoji Insights</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1725286017619-dvd-dvd/"><u>DVD再生可能化ガイド - 自宅で安全にDVDリフレッシュ</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enjoy-movie-night-with-kids-using-these-fantastic-free-film-sites/"><u>Enjoy Movie Night with Kids Using These Fantastic Free Film Sites</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expand-your-library-enjoying-wide-range-content-on-apple-tv-with-vlc-tool/"><u>Expand Your Library: Enjoying Wide-Range Content on Apple TV with VLC Tool</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-insignia-ns-pcy5bma2-drivers-complete-compatibility-with-windows-1110-and-windows-7/"><u>Get Insignia NS-PCY5BMA2 Drivers: Complete Compatibility with Windows 11/10 and Windows 7</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-some-outdated-hardware-drivers-with-windows-device-manager-on-windows-11107-by-drivereasy-guide/"><u>Identify some outdated hardware drivers with Windows Device Manager on Windows 11/10/7</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722890335548-is-snappydriver-v113-worth-your-time-detailed-review-inside/"><u>Is SnappyDriver v1.13 Worth Your Time? Detailed Review Inside</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/july-2024-must-watch-series-on-discovery-plus-our-recommendations/"><u>July 2024 Must-Watch Series on Discovery Plus: Our Recommendations</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-airplay-a-step-by-step-tutorial-for-sharing-your-macs-screen-on-a-television/"><u>Mastering AirPlay: A Step-by-Step Tutorial for Sharing Your Mac's Screen on a Television</u></a></li>
+<li><a href="https://windows11.techidaily.com/proven-file-sync-software-the-most-trusted-windows-picks/"><u>Proven File Sync Software: The Most Trusted Windows Picks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-for-screen-casting-onto-your-lg-flat-panel/"><u>Step-by-Step Instructions for Screen Casting Onto Your LG Flat Panel</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/wireless-streaming-connect-your-mac-to-the-tv-with-airplay/"><u>Wireless Streaming: Connect Your Mac to the TV with AirPlay</u></a></li>
 </ul></div>
 

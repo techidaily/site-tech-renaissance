@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for Sharing and Working on Apple Pages Files Through iCloud - Insights From ZDNet
-date: 2024-10-10T13:32:32.919Z
-updated: 2024-10-13T10:33:39.919Z
+date: 2024-10-12T16:20:36.511Z
+updated: 2024-10-18T20:33:39.294Z
 tags:
   - apple
 categories:
@@ -27,18 +27,24 @@ I use Apple Pages when collaborating on fiction with my editor and publisher. No
 
 Let me show you how easy it is to use the Collaboration feature found in Apple Pages. Not only is the app free, but the feature is also built in (so you don't have to install any extra software). 
 
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Requirements
 
 The only things you'll need to make this work are a running instance of MacOS (which includes the iWork office suite), and an [iCloud](https://www.icloud.com/) account. Without an iCloud account, you cannot use the collaboration feature. So, before you continue, make sure you have an iCloud account and can log in to it.
 
 I'll be demonstrating on a [MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fmacbook-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) running MacOS Monterey.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Enable iCloud Collaboration
 
@@ -60,14 +66,14 @@ In the next window (**Figure 2**), click the check box for Pages and then click 
 
 Image: Jack Wallen
 
-## Enable the Collaboration feature
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Enable the Collaboration feature
 
 ### 1\. Open an Apple Pages document
 
@@ -77,6 +83,13 @@ The first thing you must do is open the Pages document that will be shared with 
 
 Image: Jack Wallen
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Enable the Collaborate feature
 
 Click Collaborate and you'll be informed the document must be moved to iCloud before you can collaborate (**Figure 4**).
@@ -84,13 +97,6 @@ Click Collaborate and you'll be informed the document must be moved to iCloud be
 **Figure 4**: You cannot collaborate on a document until it's been moved to iCloud.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Enable Track Changes
 
@@ -111,10 +117,10 @@ Make sure to configure both the Who Can Access and Permission options. Here, you
 Depending on the sharing method you choose, you'll either open Apple Mail, Messages, AirDrop, or Twitter, or you'll copy the link to the file to your clipboard. Make your selection and click Share, at which point the document will be activated for sharing. Whoever is the recipient of the link will then be able to access the file either from within iCloud (if Pages isn't available on their OS) or directly from within Apple Pages.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Stop sharing
@@ -157,16 +163,20 @@ And that's all there is to collaborating with Apple Pages. This is a great featu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-infinite-professional-slideshow-resource-for-businesses/"><u>[Updated] In 2024, Infinite Professional Slideshow Resource for Businesses</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-samsung-galaxy-m34-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Samsung Galaxy M34 | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-leaders-in-the-evolution-of-vr-experiences/"><u>2024 Approved Leaders in the Evolution of VR Experiences</u></a></li>
-<li><a href="https://solve-help.techidaily.com/boost-your-macos-video-conversion-with-handbrakes-fast-synch-feature/"><u>Boost Your macOS Video Conversion with HandBrake's Fast Synch Feature</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/complete-guide-step-by-step-process-on-factory-resetting-your-dell-laptop/"><u>Complete Guide: Step-by-Step Process on Factory Resetting Your Dell Laptop</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ev-advantages-on-the-road-convenient-parking-options-and-hov-lane-freebies-for-eco-friendly-drivers/"><u>EV Advantages on the Road: Convenient Parking Options and HOV Lane Freebies for Eco-Friendly Drivers</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/how-to-create-impactful-valorant-thumbnails-a-compreayers-guide/"><u>How to Create Impactful Valorant Thumbnails A Compreayer's Guide</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-crown-jewels-of-community-engagement-on-reddit-top-10/"><u>In 2024, Crown Jewels of Community Engagement on Reddit - Top 10</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ipad-and-ipad-pro-owners-pick-the-7-best-taking-notes-apps-on-the-market/"><u>IPad & iPad Pro Owners' Pick: The 7 Best Taking Notes Apps on the Market</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-6-sites-for-enjoying-your-favorite-music-videos-anytime/"><u>Top 6 Sites for Enjoying Your Favorite Music Videos Anytime</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-cable-and-streaming-services-key-distinctions/"><u>Understanding Cable and Streaming Services: Key Distinctions</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-techs-elite-selection-the-top-10-video-recorders-online-for-2024/"><u>[Updated] Tech's Elite Selection The Top 10 Video Recorders Online for 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/correction-apportee-erreur-majeure-non-trouvez-de-systemes-dexploitation-sur-ordinateurs-acer/"><u>Correction Apportée - Erreur Majeure : Non-Trouvez De Systèmes D’Exploitation Sur Ordinateurs Acer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diagnosing-silent-car-audio-systems-what-could-be-wrong-with-your-speakers/"><u>Diagnosing Silent Car Audio Systems: What Could Be Wrong with Your Speakers?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exclusive-review-of-fugeteks-advanced-ft-568-a-pinnacle-in-selfie-accessories/"><u>Exclusive Review of Fugetek’s Advanced FT-568: A Pinnacle in Selfie Accessories</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-these-exceptional-alternates-to-chatgpt-our-picks/"><u>Explore These Exceptional Alternates to ChatGPT: Our Picks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-getting-your-surface-pro-back-online-with-wi-fi-troubleshooting-techniques/"><u>Guide: Getting Your Surface Pro Back Online with Wi-Fi Troubleshooting Techniques</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-vivo-v27-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Vivo V27 Pro to iPhone | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-lock-from-your-iphone-12-pro-and-ipad-by-drfone-ios/"><u>In 2024, How to Unlock iCloud lock from your iPhone 12 Pro and iPad?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-beginners-guide-to-editing-content-on-windows-11/"><u>In 2024, The Beginner's Guide to Editing Content on Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolve-your-god-of-war-game-error-tackling-low-memory-problems/"><u>Resolve Your God of War Game Error - Tackling Low Memory Problems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/steam-user-guide-step-by-step-instructions-for-requesting-a-video-game-refund/"><u>Steam User Guide: Step-by-Step Instructions for Requesting a Video Game Refund</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-on-choosing-multiple-messages-in-gmail/"><u>Step-by-Step Instructions on Choosing Multiple Messages in Gmail</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-shell32dll-not-found-quick-fixes-and-tips/"><u>Troubleshooting 'Shell32.dll Not Found': Quick Fixes and Tips</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unleash-creativity-best-free-video-editor-apps-android-edition-for-2024/"><u>Unleash Creativity Best Free Video Editor Apps, Android Edition for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-go-digital-with-your-dvds-a-simple-conversion-process-explained/"><u>Updated In 2024, Go Digital with Your DVDs A Simple Conversion Process Explained</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Decoding The Buzz Around Google’s Latest Television Streamer – What to Expect on Cost, Release & Tech Specs
-date: 2024-10-06T23:26:39.236Z
-updated: 2024-10-13T12:56:13.047Z
+date: 2024-10-14T14:23:05.348Z
+updated: 2024-10-18T16:43:58.486Z
 categories:
   - BestProducts
 description: This Article Describes Decoding The Buzz Around Google’s Latest Television Streamer – What to Expect on Cost, Release & Tech Specs
@@ -31,32 +31,25 @@ In This Article
  Rumors say the company will announce this Google TV streaming device at[the next Google event](https://www.lifewire.com/google-event-5205756) in August. This is the same event poised to introduce several other Google products like the[Pixel Watch 3](https://www.lifewire.com/google-pixel-watch-3-8431024) and[Pixel 9 smartphone](https://www.lifewire.com/google-pixel-9-8630767) .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Lifewire's Release Date Estimate
 
 August 13 is our best guess.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Google TV Streamer Price Rumors
 
  The only reference point we have to price this new[streaming device](https://www.lifewire.com/what-is-a-streaming-device-5208767) is Google's 4K Chromecast with Google TV, which is priced at $50\. They could easily drop that price and slot the Google TV Streamer in its place. If not, the most we can see Google charging for the Google TV Streamer is $70.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Pre-Order Information
@@ -70,10 +63,10 @@ August 13 is our best guess.
 9to5Google
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Google TV Streamer Specs & Features
@@ -89,6 +82,13 @@ August 13 is our best guess.
  The device doesn't look that much bigger than the remote, so we're not sure what, if anything, is different about the internal hardware.  
 
 ![Google TV Streamer remote](https://www.lifewire.com/thmb/a47wfU6UCU7urolc1HR8HsvT2D8=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Google-TV-Streamer-Remote-ee116f9ff7d44f16a632d2414517c129.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 9to5Google
 
@@ -117,15 +117,24 @@ August 13 is our best guess.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-fast-track-to-facebooks-latest-viewing-history-2e23-for-2024/"><u>[New] Fast Track to Facebook’s Latest Viewing History (2E23) for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-virtual-veracity-versus-physical-prowess-in-live-links/"><u>[Updated] Virtual Veracity Versus Physical Prowess in Live Links</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-premier-screensaver-for-your-apple-watch-expert-reviews-by-zdnet/"><u>Discover the Premier Screensaver for Your Apple Watch - Expert Reviews by ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/free-beats-await-you-uncover-the-ultimate-list-of-music-sites/"><u>Free Beats Await You: Uncover the Ultimate List of Music Sites</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-oppo-a18-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Oppo A18 without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/must-watch-max-original-shows-curated-by-us-whats-trending/"><u>Must-Watch Max Original Shows Curated by Us - What's Trending</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-fix-for-osetupdll-missing-file-notifications/"><u>The Ultimate Fix for osetup.dll Missing File Notifications</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-when-you-cant-find-msvbvm50dll-on-your-system/"><u>Troubleshooting Steps When You Can't Find 'Msvbvm50.dll' On Your System</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/viral-success-the-most-loved-ae-themes-for-social-media-for-2024/"><u>Viral Success The Most Loved AE Themes for Social Media for 2024</u></a></li>
-<li><a href="https://win-net.techidaily.com/wd-my-cloud-homepc/"><u>WD My Cloud HomeでPCの自動バックアップ手順</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-navigating-zooms-share-functionality/"><u>[New] Navigating Zoom's Share Functionality</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1723808269703-solved-cant-install-google-chrome-on-windows-10-in-s-mode/"><u>[SOLVED] | Can't Install Google Chrome on Windows 10 in S Mode</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-decoding-game-archiving-mastering-roblox-footage-on-apple-systems-for-2024/"><u>[Updated] Decoding Game Archiving Mastering Roblox Footage on Apple Systems for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-complete-drone-equipment-collection-guide/"><u>[Updated] The Complete Drone Equipment Collection Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-beginners-tutorial-to-fresh-video-drivers-in-windows-11-no-hassle/"><u>A Beginner's Tutorial to Fresh Video Drivers in Windows 11 - No Hassle</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/beginners-manual-for-configuring-wi-fi-calling-features-on-your-tech-gadgets/"><u>Beginner's Manual for Configuring Wi-Fi Calling Features on Your Tech Gadgets</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-guide-step-by-step-process-of-performing-a-factory-restore-on-your-dell-computer/"><u>Complete Guide: Step-by-Step Process of Performing a Factory Restore on Your Dell Computer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-step-by-step-instructions-for-easy-and-safe-torrenting/"><u>Complete Step-by-Step Instructions for Easy and Safe Torrenting</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-installation-guide-for-hp-color-laserjet-pro-m452dn-printer-driver/"><u>Easy Installation Guide for HP Color LaserJet Pro M452dn Printer Driver</u></a></li>
+<li><a href="https://win-dash.techidaily.com/fixing-hp-laserjet-p2035-printer-problems-on-windows-a-comprehensive-guide/"><u>Fixing HP LaserJet P2035 Printer Problems on Windows: A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/hitman-ebx-3-black-screen-problem-on-desktop-fixes-and-workarounds/"><u>Hitman Ebx 3 Black Screen Problem on Desktop - Fixes and Workarounds</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1723808223559-how-to-fix-windows-11-installation-has-failed/"><u>How to Fix Windows 11 Installation Has Failed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1723808264149-how-to-reduce-lag-and-boost-fps-in-genshin-impact-2024-tips/"><u>How to Reduce Lag & Boost FPS in Genshin Impact – 2024 Tips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/is-the-vatican-embracing-modern-technology-with-pope-franciss-email-usage/"><u>Is the Vatican Embracing Modern Technology with Pope Francis's Email Usage?</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/protecting-your-iphone-discover-the-6-leading-antivirus-applications/"><u>Protecting Your iPhone: Discover the 6 Leading Antivirus Applications</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-port-reset-failed-error-on-windows-11-guide-to-resolve-unidentified-usb-devices/"><u>Solving the Port Reset Failed Error on Windows 11: Guide to Resolve Unidentified USB Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1723808346948-split-pdf-3-methods-to-separate-pdf-pages-easily/"><u>Split PDF | 3 Methods to Separate PDF Pages Easily!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unlock-full-potential-with-updated-msi-motherboard-drivers-in-classics/"><u>Unlock Full Potential with Updated MSI Motherboard Drivers in Classics</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/windows-11-audio-troubleshooting-fixing-unresponsive-headphone-problem/"><u>Windows 11 Audio Troubleshooting: Fixing Unresponsive Headphone Problem</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Samsung Pioneers in Artificial Intelligence Amidst Google's Legal Setback - Climbing Up the Tech Innovation Rankings
-date: 2024-10-08T03:00:13.370Z
-updated: 2024-10-12T23:42:30.175Z
+date: 2024-10-17T17:43:25.610Z
+updated: 2024-10-18T22:48:57.013Z
 tags:
   - apple
 categories:
@@ -71,33 +71,23 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-x-recorder-for-pc-user-friendly-audio-logger/"><u>[New] X-Recorder for PC User-Friendly Audio Logger</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-quick-quality-quilting-turning-photographic-patterns-into-cartoons/"><u>2024 Approved Quick Quality Quilting Turning Photographic Patterns Into Cartoons</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/connecting-a-television-to-a-samsung-sound-bar-step-by-step-instructions/"><u>Connecting a Television to a Samsung Sound Bar: Step-By-Step Instructions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/connecting-wireless-earbuds-to-a-hewlett-packard-laptop-easy-steps/"><u>Connecting Wireless Earbuds to a Hewlett Packard Laptop - Easy Steps!</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/discover-why-apples-iphone-12-mini-is-a-game-changer-for-smartphone-lovers/"><u>Discover Why Apple's iPhone 12 Mini Is a Game-Changer for Smartphone Lovers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/effective-strategies-to-correct-x3daudiodll-disappeared-or-undetected-errors/"><u>Effective Strategies to Correct 'x3daudio.dll' Disappeared or Undetected Errors</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/from-silence-to-symphony-the-ultimate-beginners-manual-on-home-audio-systems/"><u>From Silence to Symphony: The Ultimate Beginner's Manual on Home Audio Systems</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-fostering-an-online-oasis-paving-the-way-for-a-prolific-youtube-presence/"><u>In 2024, Fostering an Online Oasis Paving the Way for a Prolific Youtube Presence</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-google-home-a-step-by-step-guide-for-desktop-usage/"><u>Mastering Google Home: A Step-by-Step Guide for Desktop Usage</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigating-network-paths-with-ease-expert-insights-into-using-tracert-on-your-pc/"><u>Navigating Network Paths with Ease: Expert Insights Into Using 'Tracert' On Your PC</u></a></li>
-<li><a href="https://some-tips.techidaily.com/os-14-melhores-tradutores-de-audiomensagem-livres-que-voce-precisa-conhecer-hoje/"><u>Os 14 Melhores Tradutores De Audiomensagem Livres Que Você Precisa Conhecer Hoje</u></a></li>
-<li><a href="https://fox-http.techidaily.com/stealthy-techniques-to-skip-online-classroom-vids/"><u>Stealthy Techniques to Skip Online Classroom Vids</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/terminal-and-powershell-a-study-on-their-contrasting-traits/"><u>Terminal & PowerShell: A Study on Their Contrasting Traits</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-for-reducing-computer-fan-sounds-and-vibrations/"><u>Troubleshooting Steps for Reducing Computer Fan Sounds and Vibrations</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/guide-to-gaining-from-google-a-stepwise-strategy-for-tracking-youtube-income/"><u>Your Guide to Gaining From Google A Stepwise Strategy for Tracking YouTube Income</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-discount-hunting-for-chinese-made-vr-devices/"><u>[New] Discount Hunting for Chinese-Made VR Devices</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/1728487879455-pc/"><u>「PCドキュメントデータ」とは何か、そしてなぜ大事なのか？</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/become-an-iconic-crafter-kapwings-meme-toolkit/"><u>Become an Iconic Crafter Kapwing's Meme Toolkit</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/beginners-guide-mastering-x-in-just-10-simple-steps/"><u>Beginner's Guide: Mastering X in Just 10 Simple Steps!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-top-5-tools-all-successful-twitch-streamers-use/"><u>Essential Top 5 Tools All Successful Twitch Streamers Use</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-tecno-camon-20-premier-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Tecno Camon 20 Premier 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-establish-a-new-identity-in-gmail-the-ultimate-guide-to-using-an-email-alias/"><u>How to Establish a New Identity in Gmail: The Ultimate Guide to Using an Email Alias</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-how-to-stream-your-favorite-games-online/"><u>New In 2024, How To Stream Your Favorite Games Online</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-into-the-mutant-world-the-correct-sequence-to-watch-x-men-movies/"><u>Step Into the Mutant World: The Correct Sequence to Watch X-Men Movies</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-strategies-to-address-missing-msxml4dll-on-your-computer-system/"><u>Step-by-Step Strategies to Address Missing MsXML4.DLL on Your Computer System</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-asus-rog-phone-8-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Asus ROG Phone 8 without backup.</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

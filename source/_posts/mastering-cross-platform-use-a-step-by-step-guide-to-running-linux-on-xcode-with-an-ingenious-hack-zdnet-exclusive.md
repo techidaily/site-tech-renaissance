@@ -1,7 +1,7 @@
 ---
 title: "Mastering Cross-Platform Use: A Step-by-Step Guide to Running Linux on Xcode with an Ingenious Hack - ZDNET Exclusive"
-date: 2024-10-08T06:52:21.707Z
-updated: 2024-10-13T09:04:03.694Z
+date: 2024-10-12T04:26:44.895Z
+updated: 2024-10-18T16:25:06.427Z
 tags:
   - apple
 categories:
@@ -40,6 +40,13 @@ Tap on the Wallet app to open it.
 
 Screenshot by Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Tap on the Add Card button and enter Apple Pay info
 
 From the Wallet app, tap on the + (plus) sign at the top right of your screen to add a card. Then, choose the type of card you're adding; if it's a payment method, select Debit or Credit Card. The other options are for Transit Cards and [Driver's License](https://www.zdnet.com/article/how-to-add-your-drivers-license-to-the-apple-wallet-app/) or [State ID](https://www.zdnet.com/article/apple-adds-drivers-licenses-state-ids-to-apple-wallet/), and are limited to a few states within the US.
@@ -70,13 +77,6 @@ Double-press the iPhone's right-side button to access Apple Pay.
 
 Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Enter your Apple Pay passcode or use Face ID to confirm payment
 
 Once you've tapped on a card from your iPhone's Wallet, you'll be prompted to enter your passcode or use Face ID to authorize and pay for your purchase using Apple Pay. 
@@ -86,10 +86,10 @@ Enter your passcode to confirm Apple Pay payment.
 Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Hold your iPhone near the payment terminal
@@ -106,14 +106,14 @@ Apple
 
 That's it! Apple Pay is as easy as apple pie. (Sorry, I had to.) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FAQ
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How do I set up Apple Pay from my iPhone Settings?
 
@@ -124,6 +124,13 @@ To set up Apple Pay, you go to your iPhone's Settings and follow these steps:
 
 Once you add your card to your Wallet, you can edit your settings to suit your needs. You can choose to enable Apple Cash; enable the double-click side button to work as a shortcut for Apple Pay' add Express Transit Cards to pay for transit automatically without a passcode or Face ID; edit your transaction information like default card, shipping address, and contact info; and toggle payments on your Mac on and off. 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Where can I use Apple Pay to pay in stores and online?
 
 You can use Apple Pay with an iPhone or Apple Watch at checkout wherever there is a payment terminal with NFC. Most retailers have them at the checkout counter, with some exceptions. Just look for the NFC symbol on the card reader or an Apple Pay logo. Some banks even support Apple Pay at NFC-enabled ATMs so you can make withdrawals or access your account. 
@@ -133,10 +140,10 @@ You can use Apple Pay with an iPhone or Apple Watch at checkout wherever there i
 NFC stands for [near-field communication](https://www.zdnet.com/article/near-field-communication-aims-to-simplify-our-lives/). It's a technology that employs magnetic field induction to allow wireless communication between two electronic devices at a short range, typically less than 4 centimeters or 1.5 inches.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can I use Apple Pay online?
@@ -156,13 +163,6 @@ To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other 
 **Also: [Have you used Cash App in the last 6 years? You might be eligible for $2,500](https://www.zdnet.com/article/have-you-used-cash-app-within-the-past-six-years-you-might-be-eligible-for-2500/)**
 
 Some services from Apple offer rewards, like cash back on its credit cards, which also translate into Apple Cash. 
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to use Apple Pay on your Apple Watch
 
@@ -212,20 +212,22 @@ Using Apple Pay or [Google Pay](https://www.zdnet.com/finance/google-pay-vs-sams
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-the-insider-guide-to-instagrams-inquiry-emoji/"><u>[Updated] 2024 Approved The Insider Guide to Instagram's Inquiry Emoji</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-fixing-invisible-areas-within-youtube-videos-for-2024/"><u>[Updated] Fixing Invisible Areas Within YouTube Videos for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-the-ultimate-checklist-for-video-praise-mastery/"><u>[Updated] In 2024, The Ultimate Checklist for Video Praise Mastery</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/crafting-the-perfect-projector-screen-at-home-a-comprehensive-how-to/"><u>Crafting the Perfect Projector Screen at Home: A Comprehensive How-To</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/decoding-roblox-outages-knowing-the-difference-between-you-and-the-platform/"><u>Decoding Roblox Outages: Knowing the Difference Between You & The Platform</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/escape-locked-out-effective-methods-to-reset-your-ipads-forgotten-passcode-or-pin/"><u>Escape Locked Out: Effective Methods to Reset Your iPad's Forgotten Passcode or PIN</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-turning-onoff-windows-10s-touch-keyboard-feature/"><u>Guide: Turning On/Off Windows 10'S Touch Keyboard Feature</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-can-i-play-mov-files-on-14-by-aiseesoft-video-converter-play-mov-on-android/"><u>How can I play .mov files on 14 ?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-on-iphone-15-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server On iPhone 15</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-number-formatting-how-to-precisely-add-prefixes-like-zeroes-in-excel-cells/"><u>Mastering Number Formatting: How To Precisely Add Prefixes Like Zeroes in Excel Cells</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/organize-spending/"><u>Organize Spending</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/regaining-entry-into-facebook-without-using-your-mobile-or-mail/"><u>Regaining Entry Into Facebook without Using Your Mobile or Mail</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/setting-up-windows-11-for-automatic-hdr-activation-for-2024/"><u>Setting Up Windows 11 for Automatic HDR Activation for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-to-fix-user32dll-error-on-your-pc/"><u>Step-by-Step Guide to Fix 'User32.dll' Error on Your PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-using-imessage-or-email-on-your-ipad/"><u>Ultimate Guide to Using iMessage or Email on Your iPad</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-reverse-viewing-crafts-creative-youtube-video-methods/"><u>[Updated] 2024 Approved Reverse Viewing Crafts Creative Youtube Video Methods</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-decoding-the-magic-of-dynamic-range-capture/"><u>2024 Approved Decoding the Magic of Dynamic Range Capture</u></a></li>
+<li><a href="https://win-web3.techidaily.com/windows-11documents4/"><u>如何在Windows 11中迁移Documents磁盘：4个有效方法解析</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-strategies-overcoming-ntdlldll-malfunctions-in-older-and-latest-windows-os/"><u>Comprehensive Strategies: Overcoming ntdll.dll Malfunctions in Older and Latest Windows OS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-dual-display-setup-for-mac-users/"><u>Effective Dual Display Setup for Mac Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/elevate-your-movie-nights-with-these-15-premier-dolby-atmos-titles-for-home-cinema-lovers/"><u>Elevate Your Movie Nights with These 15 Premier Dolby Atmos Titles for Home Cinema Lovers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/get-your-discord-overlay-up-and-running-in-no-time-with-these-simple-tips/"><u>Get Your Discord Overlay Up & Running in No Time with These Simple Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/harnessing-hands-free-help-configuring-siri-for-reading-digital-content-on-ios-and-macos-systems/"><u>Harnessing Hands-Free Help: Configuring Siri for Reading Digital Content on iOS and macOS Systems</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mov-files-on-samsung-galaxy-s24-by-aiseesoft-video-converter-play-mov-on-android/"><u>How do you play .mov files on Samsung Galaxy S24 ?</u></a></li>
+<li><a href="https://win-web3.techidaily.com/how-to-set-up-a-windows-pe-usb-stick-a-step-by-step-guide-for-transitioning-from-windows-pe-to-windows-11/"><u>How to Set Up a Windows PE USB Stick: A Step-by-Step Guide for Transitioning From Windows PE to Windows 11</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-instant-video-creation-uploading-images/"><u>In 2024, Instant Video Creation Uploading Images</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-next-big-thing-in-tech-the-rumored-apple-ring-price-predictions-release-dates-and-specs-discussed/"><u>The Next Big Thing in Tech – The Rumored Apple Ring: Price Predictions, Release Dates, and Specs Discussed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-the-missing-normalizdll-error-comprehensive-solutions/"><u>Troubleshooting the Missing Normaliz.dll Error: Comprehensive Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-step-by-step-process-to-factory-reset-your-dell-device/"><u>Ultimate Guide: Step-by-Step Process to Factory Reset Your Dell Device</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-apple-iphone-14-pro-max-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>Unlocking Apple iPhone 14 Pro Max Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/updated-july-202/"><u>Updated July 202</u></a></li>
 </ul></div>
 

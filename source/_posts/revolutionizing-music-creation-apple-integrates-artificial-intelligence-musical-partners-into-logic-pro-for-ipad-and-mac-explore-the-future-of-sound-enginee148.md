@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Music Creation: Apple Integrates Artificial Intelligence 'Musical Partners' Into Logic Pro for iPad & Mac - Explore the Future of Sound Engineering on ZDNet"
-date: 2024-10-10T02:20:20.451Z
-updated: 2024-10-12T18:57:51.304Z
+date: 2024-10-15T20:47:03.528Z
+updated: 2024-10-19T11:19:22.511Z
 tags:
   - apple
 categories:
@@ -30,19 +30,6 @@ Ever since, those attributes have defined all smartphones, save for one common s
 
 But of all the capabilities and components of these amazing and ubiquitous computing devices, it is the smartphone _camera_ that has seen the most extraordinary evolution. Phone cameras made their first appearance during the era when smartphones started becoming practical, everyday devices. Then, these cameras advanced in an App Store-centric world where companies like [Blackmagic Design could create camera apps](https://www.blackmagicdesign.com/products/blackmagiccamera) that redefine how a smartphone camera works. Now, artificial intelligence (AI) and machine learning (ML) are changing the very nature of what a camera can do.
 
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Pre-modern smartphones
 
 Identifying the first anything is always a tricky undertaking. The very first device labeled as a smartphone (they called it a "Smart Phone") was the [Ericsson 88](https://www.mobilephonemuseum.com/phone-detail/gs-88) from 1997\. Only 200 were made, and it was mostly a personal digital assistant. It most definitely did not have a camera.
@@ -68,13 +55,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 Another phone -- and my personal device for four years -- was the [Palm Treo 600](https://www.zdnet.com/article/treo-600-debuts-with-new-improvements-and-old-design-flaws/), released in 2003\. This device did a lot, including supporting a camera capable of taking 640x480 resolution images. The Treo didn't have Wi-Fi or Bluetooth, limiting its connectivity to a cable connected to the computer for image downloads. Its big claim to fame was that it could run any of the thousands of PalmOS apps that were available for download. Installing those apps, however, also involved connecting a cable to a computer.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2008: The birth of the modern smartphone
 
@@ -117,10 +97,16 @@ Many smartphones today capture 8K video directly into phone storage. These inclu
 Over time, all the increases in storage capacity, processor speed, battery life, and display resolution were accompanied by improvements to the software inside the phones, with vendors adding all sorts of smarts to their camera applications.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2017: The start of the AI/ML smartphone era
@@ -149,6 +135,13 @@ I asked Bob Caniglia, Blackmagic's director of sales operations, about smartphon
 
 Let's now explore the power that machine learning brings to smartphones. Specifically, I'll talk about the machine learning magic incorporated into flagship phones like the iPhone 15 Pro Max, the Google Pixel 8, the Samsung Galaxy S23, and the OnePlus 11.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Image quality
 
 Smartphones are now capable of making substantial enhancements to the quality of images as they are captured in the camera. Here are three examples of machine learning in use in the previously listed flagship phones. 
@@ -162,6 +155,13 @@ This then helps the machine learning algorithms to analyze and adjust parameters
 **Low-light photography and night mode:** Speaking of tough lighting conditions, machine learning provides a powerful assist in low-light photography, where it helps in noise reduction, detail enhancement, and color accuracy. It does this using neural network technology to process multiple exposures, merging them into a single image while enhancing detail and reducing noise. Of course, decisions about what detail to enhance and what noise to reduce is where the AI comes into play.
 
 **HDR processing:** High dynamic range (HDR) processing helps balance the dark and bright areas of an image for an improved dynamic range. Algorithms dynamically adjust the exposure of different regions in a photo, merging multiple exposures for a balanced high dynamic range image, keeping the visual fidelity of the image while allowing for blacker blacks, whiter whites, and other darker and lighter colors to better reflect what the photographer originally aimed to capture.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Object knowledge
 
@@ -184,10 +184,10 @@ This technique pits a "generator" algorithm against a "discriminator" algorithm 
 **Also: [Generative AI: Just don't call it an 'artist'](https://www.zdnet.com/article/generative-ai-just-dont-call-it-an-artist-say-scholars-in-science-magazine/)** 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Quality-of-life enhancements
@@ -268,20 +268,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-exploring-the-world-of-desktop-capturing-a-sprout-review/"><u>[New] 2024 Approved Exploring the World of Desktop Capturing - A Sprout Review</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-resolve-hdr-video-issue-clearing-blank-display/"><u>[New] In 2024, Resolve HDR Video Issue Clearing Blank Display</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-crafting-captivating-content-with-screencast-tactics-for-2024/"><u>[Updated] Crafting Captivating Content with Screencast Tactics for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-7-alarm-clock-apps-on-the-market/"><u>Discover the Best 7 Alarm Clock Apps on the Market</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/effortless-typography-tweaks-in-windows-11-learn-how-to-change-fonts-easily/"><u>Effortless Typography Tweaks in Windows 11 – Learn How to Change Fonts Easily!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/explore-the-markets-finest-our-selection-of-10-leading-non-chatgpt-chatbots/"><u>Explore the Market's Finest: Our Selection of 10 Leading Non-ChatGPT Chatbots</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-react-if-your-instagram-profile-gets-disconnected-steps-and-tips/"><u>How to React if Your Instagram Profile Gets Disconnected: Steps and Tips</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y02t-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y02T to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-the-key-ingredients-for-successful-instagram-unboxing-reels/"><u>In 2024, The Key Ingredients for Successful Instagram Unboxing Reels</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-your-creative-potential-with-windows-11-movie-maker/"><u>In 2024, Unlock Your Creative Potential with Windows 11 Movie Maker</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/in-depth-evaluation-unlocking-insights-with-the-western-digital-datalabs-diagnostics-suite/"><u>In-Depth Evaluation: Unlocking Insights with the Western Digital DataLabs Diagnostics Suite</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-the-worlds-best-travel-accounts-on-twitter-for-unmissable-deals/"><u>Ultimate Guide to the World's Best Travel Accounts on Twitter for Unmissable Deals!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-tutorial-for-shifting-printer-output-directly-onto-your-laptop-or-pc/"><u>Ultimate Tutorial for Shifting Printer Output Directly Onto Your Laptop or PC</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722977530750-ultimate-walkthrough-to-download-and-activate-your-sandisk-ssd-drives-correctly/"><u>Ultimate Walkthrough to Download and Activate Your Sandisk SSD Drives Correctly</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-craft-unique-logos-using-complimentary-stock-graphics/"><u>2024 Approved Craft Unique Logos Using Complimentary Stock Graphics</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-superior-3d-viewing-playback-on-android/"><u>2024 Approved Superior 3D Viewing, Playback on Android</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-walkthrough-snapping-photos-of-your-screen-on-an-hp-device/"><u>Complete Walkthrough: Snapping Photos of Your Screen on an HP Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ditch-the-cords-how-to-secure-your-internet-access-independent-of-cable-and-telephone-services/"><u>Ditch the Cords: How to Secure Your Internet Access Independent of Cable and Telephone Services</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diy-guide-resolving-line-issues-on-your-television-display/"><u>DIY Guide: Resolving Line Issues on Your Television Display</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-for-solving-your-stadia-headsets-connectivity-problems/"><u>Expert Tips for Solving Your Stadia Headset's Connectivity Problems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/get-enhanced-gaming-with-updated-amd-radeon-video-card-software-version-2410/"><u>Get Enhanced Gaming with Updated AMD Radeon Video Card Software (Version 24.10)</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-on-iphone-xr-by-drfone-ios/"><u>How to Fix Locked Apple ID on iPhone XR</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-obtain-corsairs-h80i-v2-gpu-cooling-system-software-update/"><u>How to Obtain Corsair's H80i v2 GPU Cooling System Software Update</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-seamlessly-sync-your-xbox-one-controller-with-a-computer-latest-techniques-for-202-cuyana/"><u>How to Seamlessly Sync Your Xbox One Controller with a Computer - Latest Techniques for 202 Cuyana</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-a-filmmakers-approach-to-classroom-instructional-videos/"><u>In 2024, A Filmmaker’s Approach to Classroom Instructional Videos</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-honor-80-pro-straight-screen-edition-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Honor 80 Pro Straight Screen Edition Location Settings | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-problems-when-iphone-email-wont-send-or-receive-messages/"><u>Overcoming Problems When iPhone Email Won't Send or Receive Messages</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-definitive-guide-to-tech-excellence-by-toms-hardware/"><u>The Definitive Guide to Tech Excellence by Tom's Hardware</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/timeless-tales-of-summer-delight-top-10-kids-movies-for-2024/"><u>Timeless Tales of Summer Delight Top 10 Kid's Movies for 2024</u></a></li>
+<li><a href="https://techidaily.com/turn-off-screen-lock-xiaomi-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Xiaomi</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-premium-servers-racks-and-cabinets/"><u>Ultimate Guide to Premium Servers Racks & Cabinets</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722886808159-unlock-restful-nights-with-these-5-premier-apple-watch-sleep-applications/"><u>Unlock Restful Nights with These 5 Premier Apple Watch Sleep Applications</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-unleash-your-creativity-best-vignette-apps-for-ios-and-android-users/"><u>Updated 2024 Approved Unleash Your Creativity Best Vignette Apps for iOS and Android Users</u></a></li>
 </ul></div>
 

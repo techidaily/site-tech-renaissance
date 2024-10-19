@@ -1,7 +1,7 @@
 ---
 title: "Discovering Apple's Stealthy Standout: The Surprising Success of the $349 iPad Revealed in Latest Event Coverage by ZDNET"
-date: 2024-10-10T22:40:46.725Z
-updated: 2024-10-13T13:21:44.747Z
+date: 2024-10-17T16:31:43.911Z
+updated: 2024-10-18T16:25:13.025Z
 tags:
   - apple
 categories:
@@ -50,6 +50,13 @@ To find the Journal app setting, open your Settings app on your iPhone.
 
 Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Find Privacy & Security
 
 Scroll down and open Privacy & Security within your Apple device's Settings app.
@@ -57,16 +64,10 @@ Scroll down and open Privacy & Security within your Apple device's Settings app.
 Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Tap on Journaling Suggestions
@@ -76,10 +77,10 @@ Tap on Journaling Suggestions. Even if this option is disabled, the "Discoverabl
 Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Turn off Discoverable by Others
@@ -97,10 +98,10 @@ Maria Diaz/ZDNET
 The Journal app was released in December 2023 along with iOS 17.2\. The app was added to iPhones automatically with the software update, so it should have appeared on your iPhone's home screen around that time. If you can't find Journal, search for the app through your iPhone's list of installed apps. If you deleted it, you can redownload it from the App Store.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is the problem with the iPhone Journal app?
@@ -116,19 +117,6 @@ However, some people feel uncomfortable about the app tracking who you've been m
 **Also: [iPhone 16 reports: Spatial video and ultra-thin bezels coming to all models](https://www.zdnet.com/article/iphone-16-reports-spatial-video-and-ultra-thin-bezels-coming-to-all-models/)**
 
 The ability to detect nearby devices is meant to improve the experience by providing personalized suggestions based on your activities and interactions. Apple is adamant that this information is saved on the device and not shared with the company, and says it does not store which of your contacts were detected around you.
-
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What if I've never used the Journal app?
 
@@ -168,20 +156,17 @@ The "Discoverable by Others" setting does not reveal or share your personal info
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-subtle-harmonies-on-desktop-systems/"><u>[New] Subtle Harmonies on Desktop Systems</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-steady-shot-enhancer-for-traveling-filmmakers-for-2024/"><u>[Updated] Steady Shot Enhancer for Traveling Filmmakers for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-strategic-geniuses-unearthing-the-best-7-total-war-masterpieces/"><u>2024 Approved Strategic Geniuses Unearthing the Best 7 Total War Masterpieces</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-july-2024-netgear-default-login-credentials-compilation/"><u>Comprehensive July 2024 NETGEAR Default Login Credentials Compilation</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/critical-technology-trajectories-three-game-changing-developments-to-watch-now/"><u>Critical Technology Trajectories: Three Game-Changing Developments to Watch Now</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/guia-para-la-conversion-gratuita-de-videos-de-wma-a-mov-mediante-herramientas-web-accesibles-hoy/"><u>Guía Para La Conversión Gratuita De Vídeos De WMA a MOV Mediante Herramientas Web Accesibles Hoy</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Samsung Galaxy A34 5G | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-redmi-note-12r-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Redmi Note 12R has been deleted</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solutions-for-resolving-haldll-issues-on-various-versions-of-windows/"><u>Solutions for Resolving hal.dll Issues on Various Versions of Windows</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-right-moments-and-methods-for-dropping-the-follow-on-formerly-known-twitter-accounts/"><u>The Right Moments & Methods for Dropping the Follow on Formerly-Known Twitter Accounts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-role-of-wireless-operators-in-telecommunications-explained/"><u>The Role of Wireless Operators in Telecommunications Explained</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-fixing-windows-10-search-that-isnt-responding/"><u>Troubleshooting Guide: Fixing Windows 10 Search That Isn't Responding</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-resolving-the-error-code-103003-in-tarkov/"><u>Troubleshooting Steps: Resolving the 'Error Code 103003' In Tarkov</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unleash-your-inner-champion-with-effective-royal-match-playing-tips/"><u>Unleash Your Inner Champion with Effective Royal Match Playing Tips</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/whats-next-anticipated-details-for-the-new-google-pixel-tab-coming-soon/"><u>What's Next? Anticipated Details for The New Google Pixel Tab Coming Soon!</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-audience-level-sound-production-using-audacity-for-2024/"><u>[Updated] Audience-Level Sound Production Using Audacity for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-boost-your-blogging-bravery-following-youtuber-leaders/"><u>[Updated] Boost Your Blogging Bravery Following YouTuber Leaders</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/emoji-investment-tips-hacked-video-game-giants-and-the-chatgpt-job-uproar-unraveling-tech-trends/"><u>Emoji Investment Tips, Hacked Video Game Giants & the ChatGPT Job Uproar: Unraveling Tech Trends</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhance-in-home-digital-tv-reception-with-the-right-indoor-antenna/"><u>Enhance In-Home Digital TV Reception with the Right Indoor Antenna</u></a></li>
+<li><a href="https://win-dash.techidaily.com/essential-wacom-intuos-3-driver-installation-instructions-for-optimal-windows-use/"><u>Essential Wacom Intuos 3 Driver Installation Instructions for Optimal Windows Use</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-vivo-v27-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Vivo V27 to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-your-meta-quest-mic-a-comprehensive-guide/"><u>Mastering Your Meta Quest Mic: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-hurdles-with-your-macos-app-a-comprehensive-repair-manual/"><u>Overcoming Hurdles with Your macOS App – A Comprehensive Repair Manual</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-screen-color-shift-and-wave-issues-a-step-by-step-guide/"><u>Solving Screen Color Shift & Wave Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/steelseries-control-center-engine-driver-downloads/"><u>SteelSeries Control Center - Engine Driver Downloads</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-complete-user-guide-to-implementing-picture-in-picture-mode-in-androids-interface/"><u>The Complete User Guide to Implementing Picture-in-Picture Mode in Android's Interface</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/waterproof-or-water-resistant-unpacking-iphone-15s-protection-levels/"><u>Waterproof or Water-Resistant? Unpacking iPhone 15'S Protection Levels</u></a></li>
 </ul></div>
 

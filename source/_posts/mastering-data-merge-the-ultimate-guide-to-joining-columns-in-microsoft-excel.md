@@ -1,7 +1,7 @@
 ---
 title: "Mastering Data Merge: The Ultimate Guide to Joining Columns in Microsoft Excel"
-date: 2024-10-07T16:08:14.076Z
-updated: 2024-10-13T01:20:41.672Z
+date: 2024-10-15T07:53:13.332Z
+updated: 2024-10-19T14:13:15.213Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering Data Merge: The Ultimate Guide to Joining Columns in Microsoft Excel"
@@ -25,6 +25,13 @@ _If you click on links we provide, we may receive compensation._
 
  Some of these are huge courses with many units to teach you the complete sign language, and others are smaller that will just teach you the basics. Whatever class you choose, you'll have a great time building up your skills.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### American Sign Language University's Free Sign Language Classes
 
  There are plenty of great resources available from American Sign Language University (ASLU). On top of the 60 lessons, dictionary search, and numbers guide, you can find a fingerspelling practice tool, quizzes, and several word search puzzles, among other things.
@@ -33,9 +40,23 @@ _If you click on links we provide, we may receive compensation._
 
 ![American Sign Language University home page](https://www.lifewire.com/thmb/MbyvJ8pc2SNxySxyCAAZ7MPY6Dg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/asl-lifeprint-e4a6466dac7c4ede9439817885d46cf5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Be sure to check out the[First 100 Signs](https://www.lifeprint.com/asl101/pages-layout/concepts.htm) videos for a great introduction to common signs used between parents and younger children. There are also some sentences you can practice using the signs you learned from the videos.
 
 [Visit ASLU](https://www.lifeprint.com/)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Sign Language 101's Free Sign Language Classes
 
@@ -63,16 +84,16 @@ _If you click on links we provide, we may receive compensation._
 
 [Visit Start ASL](https://www.startasl.com/learn-sign-language-asl)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### ASL Connect From Gallaudet University
 
 ![Gallaudet University's free sign language resources](https://www.lifewire.com/thmb/xPam_SS5icLvuLUzag30sc-7RFQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/gallaudet-edu-sign-language-cd82c11a907e481f814292940a4c16e9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Gallaudet University, a private school for the deaf and hard of hearing, has this ASL Connect program to help you learn sign language from home.
 
@@ -100,13 +121,6 @@ _If you click on links we provide, we may receive compensation._
 
 ![The ASL App on Android](https://www.lifewire.com/thmb/UD13c1fqTbfIeHrRS5iuAwwe3Bc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-asl-app-android-e6b51ca3ce1249bfa82ab1d271e1e6a1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Learn sign language on the go with the free ASL App that makes it easy to understand new signs and practice ones you already know. You get to set the pace, and you can jump in and out of learning sign language whenever you want.
 
  This app will help you learn the alphabet, numbers, universal gestures, colors, and tons of other basic signs. There are also hand shape exercises to get your hands used to the physical act of signing.
@@ -117,38 +131,37 @@ _If you click on links we provide, we may receive compensation._
 
 [iOS](https://apps.apple.com/us/app/the-asl-app/id921030207)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Teachers Paradise ASL Fingerspelling Game For Android
 
 ![ASL American Sign Language Fingerspelling Game on Android](https://www.lifewire.com/thmb/kOb7gsNW2nTfZRHuDkl4qJ9q0JE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/asl-fingerspelling-alphabet-android-8ce6caef2d2a452da0abe11edb61056a.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Flip through this game to see how to sign every letter of the alphabet using pictures. You can start from A and move through to Z, or you can get random letters to mix it up a little. There are over 140 flashcards to review in this app, plus dozens of other activities.
 
 [Download ASL American Sign Language](https://play.google.com/store/apps/details?id=com.teachersparadise.aslamericansignlanguage)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Marlee Signs for iOS
 
 ![Marlee Signs iPhone app](https://www.lifewire.com/thmb/kN9d-f10xRdExwwsBkk-UZGIZP8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/marlee-signs-iphone-67131d891bd642cea45b2fe49bf881a5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This video-based app shows you how to sign any word, letter-by-letter. There's also a library of conversation starters, numbers, letters, and other common words.
 
@@ -156,16 +169,16 @@ _If you click on links we provide, we may receive compensation._
 
 [Download Marlee Signs](https://apps.apple.com/us/app/marlee-signs/id566054855)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Printable Sign Language Charts
 
 ![Sign language letters and numbers](https://www.lifewire.com/thmb/3F4ZkvdgO6Xxhrfp-TxQ4GlUcHs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sign-language-numbers-letters-lifeprint-7e6dac833d4e44deb202b7b269cdd7e6.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Printable sign language charts are good for instant reference. Put a few in your pocket, place them around the house, or spend some time memorizing them to learn offline.
 
@@ -173,13 +186,6 @@ _If you click on links we provide, we may receive compensation._
 * [Lifeprint's alphabet fingerspelling](http://www.lifeprint.com/asl101/topics/wallpaper1.htm) : Print these two sets of pictures to learn the alphabet. Both sets have the letters on the hands, but they also have a version without the letters for practice.
 * [These numbers/common words/letters](https://www.dummies.com/article/academics-the-arts/language-language-arts/learning-languages/american-sign-language/signing-for-dummies-cheat-sheet-208315/) : This cheatsheet is similar to the other printables here with four images you can print for keywords, such as "how," "which," "where," "yes," "please," "thanks," "goodbye," etc. There are also printables for the alphabet and numbers one through 10.
 * [Print individual letters in sign language](https://www.teachersprintables.net/category/sign%5Flanguage) : These printables includes large letters of the alphabet represented in sign language. One way to use these is to print them off and place them next to objects that start with that letter for passive learning.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Online Sign Language Games
 
@@ -222,22 +228,17 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-simple-steps-for-android-voice-recording-no-root/"><u>[New] 2024 Approved Simple Steps for Android Voice Recording (No Root)</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/new-boosting-video-management-creating-an-effective-youtube-watch-later-list/"><u>[New] Boosting Video Management Creating an Effective YouTube Watch Later List</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-brisksnatch-slowframe-capture/"><u>[New] BriskSnatch SlowFrame Capture</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-whos-watching-your-guide-to-instagram-eye-rolls-count/"><u>[New] In 2024, Who's Watching? Your Guide to Instagram Eye-Rolls Count</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-creating-impactful-twitter-campaigns-for-businesses-for-2024/"><u>[Updated] Creating Impactful Twitter Campaigns for Businesses for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/a-deep-dive-into-the-newest-addition-to-the-samsung-smartphone-lineup/"><u>A Deep Dive Into the Newest Addition to the Samsung Smartphone Lineup</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apple-tv-4k-3rd-generation-review/"><u>Apple TV 4K (3Rd Generation) Review</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/boosting-video-dimensions-on-youtube-platform-for-2024/"><u>Boosting Video Dimensions on YouTube Platform for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/demystifying-lg-channels-the-essentials-for-informed-purchases/"><u>Demystifying LG Channels: The Essentials for Informed Purchases</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/find-out-where-they-are-iphones-and-gps-tracking-explained/"><u>Find Out Where They Are: IPhones and GPS Tracking Explained</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-samsung-galaxy-z-flip-5-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Samsung Galaxy Z Flip 5</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/master-the-art-of-finding-people-with-our-list-of-8-leading-search-engines/"><u>Master the Art of Finding People with Our List of 8 Leading Search Engines</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/systematic-repair-techniques-for-dealing-with-the-vcompdll-not-found-issue/"><u>Systematic Repair Techniques for Dealing with the Vcomp.dll Not Found Issue</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-15-sites-offering-free-music-downloads/"><u>Top 15 Sites Offering Free Music Downloads</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-building-your-own-diy-projector-screen/"><u>Ultimate Guide: Building Your Own DIY Projector Screen</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-resolving-ps4-system-freezes-a-comprehensive-walkthrough/"><u>Ultimate Guide: Resolving PS4 System Freezes – A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixed-lenovo-keyboard-backlight-not-working/"><u>[FIXED] Lenovo Keyboard Backlight Not Working</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-elite-10-virtual-clashes/"><u>[Updated] 2024 Approved Elite 10 Virtual Clashes</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-art-of-featured-channels-an-in-depth-exploration-for-maximizing-engagement-for-2024/"><u>[Updated] The Art of Featured Channels An In-Depth Exploration for Maximizing Engagement for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/doom-eternals-release-postponed-get-ready-with-this-must-know-fix-for-gamers/"><u>DOOM Eternal's Release Postponed? Get Ready with This Must-Know Fix for Gamers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-effortlessly-pairing-your-logitech-wireless-keyboard/"><u>Guide: Effortlessly Pairing Your Logitech Wireless Keyboard</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-connect-logitech-wireless-keyboard/"><u>How to Connect Logitech Wireless Keyboard</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-disable-and-remove-nvidia-graphics-driver-from-your-windows-10-pc/"><u>How To Disable and Remove Nvidia Graphics Driver From Your Windows 10 PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-hook-up-a-new-screen-to-your-portable-computer/"><u>How to Hook Up a New Screen to Your Portable Computer</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-unrivaled-windows-video-calls-top-8-apps/"><u>In 2024, Unrivaled Windows Video Calls Top 8 Apps</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-increased-cpu-usage-following-the-latest-game-patch/"><u>Resolving Increased CPU Usage Following the Latest Game Patch</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/the-ultimate-tutorial-on-retrieving-lost-items-following-an-iphone-factory-reset/"><u>The Ultimate Tutorial on Retrieving Lost Items Following an iPhone Factory Reset</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-honor-x50i-by-fonelab-android-recover-data/"><u>The way to get back lost data from Honor X50i</u></a></li>
 </ul></div>
 

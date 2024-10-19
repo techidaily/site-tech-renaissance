@@ -1,7 +1,7 @@
 ---
 title: "Top Savings: Top AT&T Mobile Plans and Offers in May 2024 - ZDNet's Guide"
-date: 2024-10-07T01:55:30.667Z
-updated: 2024-10-13T10:03:38.316Z
+date: 2024-10-13T00:46:39.296Z
+updated: 2024-10-18T23:42:32.011Z
 tags:
   - apple
 categories:
@@ -130,13 +130,6 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 
 [Motorola moto g stylus, $2.99/month, no trade-in required View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-moto-g-stylus-5g-2023.html)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Accessory and service deals
 
 [Google Pixel Buds A-Series wireless earbuds: Save 50% when you buy a Pixel device View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/accessories/Headphones/google-pixel-buds-a-series-true-wireless-earbuds-clearly-white.html)
@@ -148,16 +141,10 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 [BodyGuardz Pure 2 Edge antimicrobial glass screen protector (iPhone 14 range) for $10 (save $35) $10 at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/accessories/Screen-Protectors/bodyguardz-pure-2-edge-antimicrobial-tempered-glass-screen-protector-iphone-14-13-13-pro.html)
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How did we choose these AT&T phone deals?
@@ -170,36 +157,43 @@ When we made our selection for the best AT&T deals, we wanted to include options
 * **Free products**: Devices drop in value over time, and to offload excess stock, some carriers will launch time-sensitive deals, giving subscribers free products in exchange for signing up for a new contract.
 * **Events**: It's always worth checking retailers after a major event, such as Samsung Unpacked. You will often find that deals will be launched just after, luring customers to agree to preorder their new handset in return for discounts and free storage upgrades.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Does AT&T offer deals for existing customers?
 
 It's true that carriers are the most aggressive with their offers when it's year-end and new customers are shopping around for services to switch to. Still, AT&T has done a fairly balanced job of pushing promotions for new and existing customers, including all the deals we have listed above. If you've been a loyal customer, we'd even recommend reaching out to your local AT&T provider to see if there are any exclusive deals just for you.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Is it cheaper to buy a phone online or in-store?
 
 In general, there is no difference in how much money you save whether you shop online or in stores. Instead, deciding between the two really boils down to your preference for transactions. With how complicated carrier phone deals can be, you may be better off heading down to the local AT&T store and consulting with a product expert to help you navigate the fine print. Otherwise, shopping online can be faster and more convenient.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What are the best deals right now?
 
 ZDNET experts split out the latest and greatest deals for you below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Best deals by retailer**
 
 * [The best AT&T deals](https://www.zdnet.com/article/att-deals/)
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Best deals by category**
 
@@ -250,22 +244,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/asy-and-fast-convert-youtube-music-into-mp3-mac-version-for-2024/"><u>[New] Easy & Fast Convert YouTube Music Into MP3, Mac Version for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-overcoming-common-airdrop-failures-on-ios-and-macos-systems/"><u>[New] In 2024, Overcoming Common Airdrop Failures on iOS and macOS Systems</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-tweaking-image-previews-for-youtube-like-experience-in-twitter-videos-for-2024/"><u>[Updated] Tweaking Image Previews for YouTube-Like Experience in Twitter Videos for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-gratis-system-optimizers-of-2t2024-for-pc-performance-boost/"><u>Discover the Best Gratis System Optimizers of 2T2024 for PC Performance Boost</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-students-can-enjoy-a-home-theater-vibe-in-their-dorms-via-wireless-technology/"><u>How Students Can Enjoy a Home Theater Vibe in Their Dorms via Wireless Technology</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-nubia-red-magic-9-pro-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Nubia Red Magic 9 Pro</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ipad-pro-vs-macbook-air-showdown-which-is-better-for-you/"><u>IPad Pro Vs. MacBook Air Showdown: Which Is Better for You?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-chatgpt-identifying-and-fixing-the-six-most-common-errors/"><u>Mastering ChatGPT: Identifying & Fixing the Six Most Common Errors</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-usb-20-basics-unveiling-the-secrets-of-transfer-speeds-cable-differences-and-plug-variants/"><u>Mastering USB 2.0 Basics: Unveiling the Secrets of Transfer Speeds, Cable Differences, & Plug Variants</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/pairing-perfection-a-tutorial-for-attaching-a-subwoofer-to-a-samsung-soundbar-system/"><u>Pairing Perfection: A Tutorial for Attaching a Subwoofer to a Samsung Soundbar System</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/perfecting-nature-pics-on-iphone-ultimate-photography-guide/"><u>Perfecting Nature Pics on iPhone Ultimate Photography Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-10-tips-and-tricks-for-subway-surfers/"><u>Top 10 Tips and Tricks for ‘Subway Surfers’</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-motorola-defy-2-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Motorola Defy 2 Phone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlock-the-secrets-expert-advice-for-recovering-erased-phone-numbers-from-android-smartphones/"><u>Unlock the Secrets: Expert Advice for Recovering Erased Phone Numbers From Android Smartphones</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/url-structure-create-a-clean-descriptive-url-for-the-page-that-includes-one-of-the-primary-keywords-eg-wwwyourwebsitecomquantum-computing-revolutionizing-ai58/"><u>URL Structure: Create a Clean, Descriptive URL for the Page that Includes One of the Primary Keywords (E.g., www.yourwebsite.com/quantum-computing-revolutionizing-ai).</u></a></li>
-<li><a href="https://techidaily.com/windows-10-tweaks-and-tips-for-a-superior-gaming-setup-enhance-your-play-today/"><u>Windows 10 Tweaks and Tips for a Superior Gaming Setup – Enhance Your Play Today!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/wondering-about-chatgpt-plus-value-discover-five-compelling-reasons-to-join/"><u>Wondering About ChatGPT Plus Value? Discover Five Compelling Reasons to Join!</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-turn-off-chatter-secrets-for-muting-users-on-gomeet/"><u>[New] In 2024, Turn Off Chatter Secrets for Muting Users on GoMeet</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-inside-the-revolutionary-world-of-jaunt-vr-for-2024/"><u>[New] Inside the Revolutionary World of Jaunt VR for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-screensnappers-journey-navigating-the-latest-recorders/"><u>[New] ScreenSnapper's Journey Navigating the Latest Recorders</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-ios-android-unite-how-to-download-and-make-your-own-whatsapp-tones/"><u>[Updated] In 2024, IOS, Android Unite How to Download and Make Your Own WhatsApp Tones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/11-fast-passes-to-the-control-settings-hub/"><u>11 Fast Passes to the Control Settings Hub</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-instructors-resource-for-enhancing-learning-via-video/"><u>2024 Approved Instructor's Resource for Enhancing Learning via Video</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/critical-points-you-need-to-assess-for-a-smart-dash-cam-buy/"><u>Critical Points You Need to Assess for a Smart Dash Cam Buy</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-methods-to-recover-mss32dll-no-more-missing-files-issues/"><u>Effective Methods to Recover Mss32.dll - No More Missing Files Issues</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-to-turning-off-facebook-connectivity-for-android-users/"><u>Guide to Turning Off Facebook Connectivity for Android Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-fix-oleaut32dll-is-missing-or-not-found-errors/"><u>How to Fix Oleaut32.dll Is Missing or Not Found Errors</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-realme-c53-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Nokia C210? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solutions-for-when-you-cant-find-your-wifi-network/"><u>Solutions for When You Can't Find Your WiFi Network</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-halinitializationfailed-error-a-guide-to-overcoming-stop-code-0x0000005c/"><u>Solving the HAL_INITIALIZATION_FAILED Error: A Guide to Overcoming Stop Code 0X0000005C</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-taking-screen-shots-on-a-logitech-keyboard-device/"><u>The Ultimate Guide to Taking Screen Shots on a Logitech Keyboard Device</u></a></li>
 </ul></div>
 

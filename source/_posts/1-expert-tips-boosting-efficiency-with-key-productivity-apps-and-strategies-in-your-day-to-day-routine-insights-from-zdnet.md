@@ -1,7 +1,7 @@
 ---
 title: "1. Expert Tips: Boosting Efficiency with Key Productivity Apps & Strategies in Your Day-to-Day Routine - Insights From ZDNet"
-date: 2024-10-10T18:35:07.925Z
-updated: 2024-10-12T22:04:38.007Z
+date: 2024-10-17T14:47:06.987Z
+updated: 2024-10-18T17:11:07.989Z
 tags:
   - apple
 categories:
@@ -32,6 +32,13 @@ Today, I coordinate with teams, rather than manage them. I have students rather 
 
 I use a tremendous number of tools for my projects, and they often change from project to project. But what I'm going to discuss here are the tools I use on a daily basis to manage my "flow". 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What do I mean by my flow?
 
 I divide my work day into two main chunks of time: Communications and knowledge gathering time, and project time. Every day has pretty much the same communications and knowledge gathering activities, which follows a relatively consistent pattern that has proven to be highly productive for me. These are the daily productivity activities I've been talking about. 
@@ -43,6 +50,13 @@ In my case, morning to mid-afternoon is that daily productivity time. That's whe
 That whole process is my flow. Over my many various iterations, I've managed to optimize this process so I'm able to get a tremendous amount done in a relatively short amount of time.
 
 The other half of my day is project time. This is when I work on everything from academic papers to the presentations, white papers, and webcasts I do for ZDNet to developing code to most of the projects I write about for DIY-IT. I tend to work on projects in the late afternoon and the late evening, with a break in the early evening for family time and lunch or dinner. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Changes due to the pandemic
 
@@ -74,13 +88,6 @@ The boy
 
 The way I have Gmail set up, only the most important messages show up on my watch. Same with Slack notifications. Basically, unless there's something urgent from one of my editors, I can start my day in peace. If there's nothing urgent, I hit the snooze button. After repeating this ritual two or three times, I get up, do my morning necessaries, and zombie-walk to the coffee maker. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best smartwatches Apple, Samsung, and others battle for your wrist.  Read now](https://www.zdnet.com/article/best-smartwatch/)
@@ -108,10 +115,10 @@ By this point, I'm somewhere between 30 and 60 minutes into my day, I've had one
 Depending on the importance and urgency of the messages in my Gmail inbox, I'll either go straight into my morning email cycle or begin my morning reading. I prefer to do morning reading before email, so I'll discuss that next. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Pocket-read-post-archive cycle
@@ -127,16 +134,10 @@ Part of my morning flow is posting to the social networks. Unfortunately, this h
 But Facebook broke that. Facebook no longer allows tools like Buffer and [Hootsuite](https://hootsuite.com/) to to post to personal Facebook pages. I've spent years building up my personal Facebook page following and don't want to start a corporate page (or orphan all my followers), so when Facebook broke auto-posting, it hurt. Now, I hand post to Twitter and then do it again on Facebook. LinkedIn gets a lot less attention, and, frankly, I post less frequently. 
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Featured reviews
@@ -199,13 +200,6 @@ By the way, this is also a great way to think about users, which I initially was
 
 Here's another little trick I use: I get a lot of feature requests (which I call "cool feature ideas") from the plugin users. The go into [the bug tracking system I manage in Notion](https://www.zdnet.com/article/notion-app-review/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## To-doing my to-do list
 
 By this point, I'm usually most of the way through the morning. My email has been processed and actions have been moved to my to-do list and schedule items to my calendar. I've done a considerable amount of reading, and I'm up to speed on the various issues I'm responsible for following. I've graded students and supported users (and added any bugs or key follow-up items to my to-do list). 
@@ -242,6 +236,13 @@ That, by the way, is the entire key to keeping your to-do list under control. If
 
 I've also set up Notion pages for each 3D printer, and for managing and tracking my reviews and video projects. It's great as a catch-all for lots of details, but unlike previous catch-alls like Evernote, Notion allows you to assign some structure and layout to the stuff you're working with. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Blocking out time for my projects
 
 I use Notion for managing the details of my projects, but I visualize them using Google Calendar. I have three special calendars I set up: DG Planner, Planner Tentative, and Project Due.
@@ -255,13 +256,6 @@ Next is DG Planner. I use this to block out a set of days for everything that ha
 Finally, there's Planner Tentative. This is where I block out the approximate time a project I may or may not be working on will probably take. That way, if I'm taking with my team about a bunch of projects, I can block out some tentative time and see how my month is shaping up.
 
 With this system, I rarely lose track of projects and also rarely overbook myself. It's worked quite well for a bunch of years now.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Rethinking your flow
 
@@ -292,20 +286,20 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-straightforward-recorder-app-windows/"><u>[Updated] 2024 Approved Straightforward Recorder App - Windows</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-captivating-conversations-opening-lines-in-audios/"><u>[Updated] Captivating Conversations Opening Lines in Audios</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-roblox-revealed-masterful-methods-for-closer-insight/"><u>[Updated] Roblox Revealed Masterful Methods for Closer Insight</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-8-premier-online-photo-frame-creators-revealed/"><u>2024 Approved 8 Premier Online Photo Frame Creators Revealed</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-maximize-engagement-the-top-14-youtube-gaming-video-strategies/"><u>2024 Approved Maximize Engagement The Top 14 YouTube Gaming Video Strategies</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/22-streamline-communication-leading-free-ai-email-services/"><u>22 Streamline Communication: Leading Free AI Email Services</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apple-and-google-showdown-differences-between-app-store-offerings/"><u>Apple and Google Showdown: Differences Between App Store Offerings</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exclusive-insights-on-the-new-xbox-vr-set-up-projected-prices-and-release-window-unveiled/"><u>Exclusive Insights on the New Xbox VR Set-Up: Projected Prices & Release Window Unveiled</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/from-quiet-to-queendom-elevate-your-ig-videos-with-perfect-audio-matches/"><u>From Quiet to Queendom: Elevate Your IG Videos with Perfect Audio Matches</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ghostrunner-crashes-on-windows-11-heres-how-to-fix-it/"><u>Ghostrunner Crashes on Windows 11? Here's How to Fix It!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/new-age-of-apple-previewing-the-touchscreen-macbooks-arrival-with-forecasted-prices-launch-schedule-and-expected-features/"><u>New Age of Apple: Previewing the Touchscreen MacBook's Arrival with Forecasted Prices, Launch Schedule & Expected Features!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-solutions-resolving-problems-with-your-discord-voice-communication/"><u>Quick Solutions: Resolving Problems with Your Discord Voice Communication</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-list-of-7-no-cost-academic-applications-aimed-at-students/"><u>The Ultimate List of 7 No-Cost Academic Applications Aimed at Students</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/this-title-appeals-to-users-looking-to-master-or-learn-about-command-prompt-across-different-windows-environments-suggesting-comprehensive-guidance/"><u>This Title Appeals to Users Looking to Master or Learn About Command Prompt Across Different Windows Environments, Suggesting Comprehensive Guidance</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-6-study-aid-applications-for-student-success-and-parent-support/"><u>Top 6 Study Aid Applications for Student Success & Parent Support</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-video-lessons-to-vivid-engaging-gifs-no-download-needed/"><u>[New] 2024 Approved From Video Lessons to Vivid, Engaging GIFs – No Download Needed</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-premiere-pro-mastering-full-screen-views/"><u>[New] 2024 Approved Premiere Pro Mastering Full-Screen Views</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-customizing-your-watch-the-art-of-altering-youtube-video-pace/"><u>[Updated] Customizing Your Watch The Art of Altering YouTube Video Pace</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-best-10-virtual-world-games-on-ios-and-android/"><u>2024 Approved Best 10 Virtual World Games on iOS & Android</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-entry-editor-for-seamless-edits-across-all-platforms/"><u>2024 Approved Top Entry Editor for Seamless Edits Across All Platforms</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-visual-stories-a-detailed-magix-video-pro-x-review-for-2024/"><u>Crafting Visual Stories A Detailed Magix Video Pro X Review for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discovering-upgrades-the-features-and-specifications-of-apples-newest-ipad-model/"><u>Discovering Upgrades: The Features and Specifications of Apple's Newest iPad Model</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-to-resolve-when-and-why-you-cant-find-msvcr8cdll/"><u>Expert Tips to Resolve When and Why You Can't Find MSVCR8C.dll</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/how-to-add-photos-to-audio/"><u>How to Add Photos to Audio</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>How to share/fake gps on Uber for Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/installing-the-complete-microsoft-productivity-pack-on-desktop-computers/"><u>Installing the Complete Microsoft Productivity Pack on Desktop Computers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-rockaldlldll-not-found-step-by-step-troubleshooting-guide/"><u>Resolving 'Rockaldll.dll Not Found' - Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-non-receipt-issues-for-your-inbox-on-yahoo-mail-platform/"><u>Resolving Non-Receipt Issues for Your Inbox on Yahoo Mail Platform</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-6-creative-writing-and-note-taking-apps-that-have-transformed-our-lives/"><u>Top 6 Creative Writing and Note-Taking Apps That Have Transformed Our Lives</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/worlds-leading-online-destinations-the-ultimate-ranking-of-top-10-sites/"><u>World's Leading Online Destinations: The Ultimate Ranking of Top 10 Sites</u></a></li>
 </ul></div>
 

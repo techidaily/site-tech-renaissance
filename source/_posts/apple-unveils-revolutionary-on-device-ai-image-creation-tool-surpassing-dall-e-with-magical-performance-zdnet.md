@@ -1,7 +1,7 @@
 ---
 title: Apple Unveils Revolutionary On-Device AI Image Creation Tool, Surpassing DALL-E with Magical Performance | ZDNet
-date: 2024-10-09T01:26:46.039Z
-updated: 2024-10-13T08:17:16.583Z
+date: 2024-10-16T02:56:41.727Z
+updated: 2024-10-19T11:32:18.221Z
 tags:
   - apple
 categories:
@@ -77,29 +77,21 @@ Apple has yet to confirm whether this research will play a role in iOS 18 or its
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-how-to-rewind-a-twitch-live-stream/"><u>[New] 2024 Approved How to Rewind A Twitch Live Stream</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-best-free-video-cutting-apps-your-go-to-list/"><u>2024 Approved Best Free Video Cutting Apps Your Go-To List</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/amd-radeon-graphics-card-firmware-update-v2410/"><u>AMD Radeon Graphics Card Firmware Update V24.10</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/before-you-invest-in-a-wrist-companion-the-five-must-know-criteria-for-smartwatch-shoppers/"><u>Before You Invest in a Wrist Companion: The Five Must-Know Criteria for Smartwatch Shoppers</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/capture-every-word-a-guide-to-recording-in-google-meet-for-2024/"><u>Capture Every Word A Guide to Recording in Google Meet for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-fixes-for-when-you-encounter-a-missing-bootmgr-error/"><u>Easy Fixes for When You Encounter a Missing BOOTMGR Error</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exclusive-tips-for-unrestricted-gpt-access-worldwide/"><u>Exclusive Tips for Unrestricted GPT Access Worldwide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-advice-on-correcting-wmvcoredll-not-found-problems/"><u>Expert Advice on Correcting 'Wmvcore.dll Not Found' Problems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-secrets-of-duckduckgo-how-safe-is-it-really-for-internet-searching/"><u>Exploring the Secrets of DuckDuckGo - How Safe Is It Really for Internet Searching?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-wpd-file-document-with-digital-signature-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .wpd file document with Digital Signature - (Tutorial)</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-tecno-spark-10-4g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Tecno Spark 10 4G Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-xiaomi-redmi-note-13-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Xiaomi Redmi Note 13 5G to iPad | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722875427456-kids-ultimate-game-list-7-amazing-online-adventures-awaits/"><u>Kids' Ultimate Game List: 7 Amazing Online Adventures Awaits</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigating-the-intersection-of-modern-gadgets-and-timeless-tales-phones-computers-and-bibliophile-delights/"><u>Navigating the Intersection of Modern Gadgets and Timeless Tales: Phones, Computers, and Bibliophile Delights</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/srt-to-sub-mastery-unveiling-3-key-strategies/"><u>SRT-to-SUB Mastery Unveiling 3 Key Strategies</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unmasking-your-macs-secret-files-with-easy-terminal-commands/"><u>Unmasking Your Mac's Secret Files with Easy Terminal Commands</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-foundations-of-mixing-adobe-auditions-fade-in-technique/"><u>[New] In 2024, Foundations of Mixing Adobe Audition’s Fade In Technique</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-the-ultimate-guide-to-replacing-bandicam-on-mac-systems/"><u>[New] In 2024, The Ultimate Guide to Replacing Bandicam on Mac Systems</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-smart-strategies-for-iphone-podcast-acquisition/"><u>[Updated] Smart Strategies for iPhone Podcast Acquisition</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/amazon-prime-day-2024-unveiled-essential-details-and-tips/"><u>Amazon Prime Day 2024 Unveiled: Essential Details & Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discovering-past-alerts-a-step-by-step-guide-to-viewing-old-notifications-on-your-iphone/"><u>Discovering Past Alerts: A Step-by-Step Guide to Viewing Old Notifications on Your iPhone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-conversion-of-pdfs-into-kindle-format-a-comprehensive-tutorial/"><u>Easy Conversion of PDFs Into Kindle Format: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-xiaomi-14-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Xiaomi 14 to PC? | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/mastering-youtube-conversion-the-ultimate-4k-guide/"><u>Mastering YouTube Conversion The Ultimate 4K Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/snag-your-dream-ipad-at-unmatched-deals-right-now/"><u>Snag Your Dream iPad at Unmatched Deals Right Now</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

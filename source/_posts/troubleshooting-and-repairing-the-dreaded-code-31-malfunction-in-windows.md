@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Repairing the Dreaded Code 31 Malfunction in Windows
-date: 2024-10-07T14:29:22.744Z
-updated: 2024-10-13T09:47:54.158Z
+date: 2024-10-13T05:49:57.328Z
+updated: 2024-10-18T17:23:02.326Z
 categories:
   - BestProducts
 description: This Article Describes Troubleshooting and Repairing the Dreaded Code 31 Malfunction in Windows
@@ -44,10 +44,10 @@ thumbnail: https://www.lifewire.com/thmb/jMzX-wWbsTL0q9KSlyNYOPV6NTE=/400x300/fi
 9. [Disable sticky and filter keys](https://www.lifewire.com/how-to-turn-off-sticky-keys-windows-4692841) . If your keyboard seems to work but is behaving unexpectedly and doesn't type the keys you're pressing, you may be able to fix it by disabling sticky, filter, and toggle keys.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why the Keyboard Quit Working
@@ -64,10 +64,10 @@ thumbnail: https://www.lifewire.com/thmb/jMzX-wWbsTL0q9KSlyNYOPV6NTE=/400x300/fi
 ![A computer keyboard on white paper](https://www.lifewire.com/thmb/CeM-fcdHU1euNfVLy8semOjckm4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/bryan-natanael-hR8l1s4u8QE-unsplash-bf561a995f8840d29937369560cabfab.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Bryan Natanael / Unsplash
@@ -108,20 +108,24 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-infinite-screen-shot-device-for-2024/"><u>[Updated] Infinite Screen Shot Device for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/does-adobes-premiere-pro-software-enable-av1-format-management-in-editing-workflows/"><u>Does Adobe's Premiere Pro Software Enable AV1 Format Management in Editing Workflows?</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-selecting-the-perfect-wedding-countdown-clock-for-android-and-ios-devices/"><u>In 2024, Selecting the Perfect Wedding Countdown Clock for Android & iOS Devices</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-google-pixel-fold-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Google Pixel Fold Phone Network-Ready</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-snapping-images-from-your-hp-computer-display/"><u>Mastering the Art of Snapping Images From Your HP Computer Display</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/new-hard-drive-new-start-installing-windows-11-made-simple/"><u>New Hard Drive, New Start – Installing Windows 11 Made Simple</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/optimize-with-cookiebot-boost-engagement-and-retargeting/"><u>Optimize with Cookiebot: Boost Engagement and Retargeting</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/recovering-lost-contacts-a-guide-to-retrieving-deleted-numbers-from-your-android-device/"><u>Recovering Lost Contacts: A Guide to Retrieving Deleted Numbers From Your Android Device</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-disrupted-wireless-audio-streaming-on-windows-11-systems/"><u>Resolving Disrupted Wireless Audio Streaming on Windows 11 Systems</u></a></li>
-<li><a href="https://discover-help.techidaily.com/step-by-step-guide-how-to-edit-and-shorten-footage-with-vlc/"><u>Step-by-Step Guide: How to Edit and Shorten Footage with VLC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-abcs-of-rcs-technology-in-modern-mobile-communications/"><u>The ABCs of RCS Technology in Modern Mobile Communications</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/trends-that-triumph-making-your-instagram-content-viral/"><u>Trends That Triumph Making Your Instagram Content Viral</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-the-censorship-mechanisms-in-your-virtual-assistants/"><u>Understanding the Censorship Mechanisms in Your Virtual Assistants</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-ai-revolution-understanding-chatgpt/"><u>Unveiling the AI Revolution: Understanding ChatGPT</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/what-to-know-about-the-upcoming-google-pixel-fold-version-2-estimated-price-points-release-forecast-and-speculative-tech-facts/"><u>What to Know About the Upcoming Google Pixel Fold Version 2: Estimated Price Points, Release Forecast and Speculative Tech Facts</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-aviation-companions-the-drones-guide-to-following/"><u>[New] In 2024, Aviation Companions The Drone's Guide to Following</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-including-youtube-playlist-content-a-step-by-step-tutorial/"><u>[New] In 2024, Including YouTube Playlist Content A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/rime-7-apps-for-smooth-youtube-live-broadcast-from-iphone-and-android-devices/"><u>[New] Prime 7 Apps for Smooth YouTube Live Broadcast From iPhone & Android Devices</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-mastering-video-best-practices-in-game-recording-and-streaming-for-2024/"><u>[Updated] Mastering Video Best Practices in Game Recording & Streaming for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/amd-radeon-graphics-driver-update-v2410-installation-and-guide/"><u>AMD Radeon Graphics Driver Update v24.10: Installation and Guide</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/did-your-iphone-13-mini-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>Did Your iPhone 13 mini Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-correcting-columnar-line-artifacts-in-your-samsung-tvs-picture/"><u>Expert Tips: Correcting Columnar Line Artifacts in Your Samsung TV's Picture</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-honor-90-pro-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Honor 90 Pro Phones with/without a PC</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-unleash-creativity-with-customizable-animated-subscribers-on-youtube-filmora/"><u>In 2024, Unleash Creativity with Customizable Animated Subscribers on YouTube (Filmora)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/is-streaming-netflix-possible-on-nintendo-switch-platform/"><u>Is Streaming Netflix Possible on Nintendo Switch Platform?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mac-mastery-discover-how-to-retrieve-hidden-password-data-with-ease/"><u>Mac Mastery: Discover How to Retrieve Hidden Password Data with Ease</u></a></li>
+<li><a href="https://techidaily.com/sign-word-2000-online-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign Word 2000 Online for Free</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-fix-for-lameencdll-crashes-in-audacity-mp3-converter/"><u>Step-by-Step Fix for lame_enc.dll Crashes in Audacity MP3 Converter</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-advapi32dll-error-cracked-strategies-for-retrieving-or-replacing-missing-files/"><u>The Advapi32.dll Error Cracked: Strategies for Retrieving or Replacing Missing Files</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-list-of-free-offline-car-racing-games-no-internet-required/"><u>The Ultimate List of Free Offline Car Racing Games - No Internet Required!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722860324198-troubleshooting-tips-restoring-color-to-your-android-phones-darkened-screen/"><u>Troubleshooting Tips: Restoring Color to Your Android Phone’s Darkened Screen</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unbeatable-5-photo-backdrop-switchers-for-x8-series/"><u>Unbeatable 5 Photo Backdrop Switchers for X/8 Series</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/k-more-views-the-art-of-crafting-titles-and-tags-for-youtube-for-2024/"><u>Unlock More Views The Art of Crafting Titles & Tags for YouTube for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/water-resistance-explained-how-well-does-the-iphone-13-handle-moisture/"><u>Water Resistance Explained: How Well Does the iPhone 13 Handle Moisture?</u></a></li>
 </ul></div>
 
