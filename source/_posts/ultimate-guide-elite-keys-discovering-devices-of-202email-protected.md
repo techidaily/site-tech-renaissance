@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Elite Keys Discovering Devices of 202([Email Protected])"
-date: 2024-09-10T16:40:10.278Z
-updated: 2024-09-15T16:57:46.835Z
+date: 2024-10-21T05:07:02.418Z
+updated: 2024-10-25T02:21:18.503Z
 categories:
   - BestProducts
 description: "This Article Describes Ultimate Guide: Elite Keys Discovering Devices of 202([Email Protected])"
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/b461869fdc65b7a58affdd23329a3336b55cdb42a
 3. Scroll to the bottom of the page and select **Save Changes** .  
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Create, Send, and Forward Email
 
  With Gmail[keyboard](https://www.lifewire.com/what-is-a-keyboard-2618153) shortcuts, you can quickly create, send, and forward Gmail messages:
@@ -55,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/b461869fdc65b7a58affdd23329a3336b55cdb42a
 * **Scroll down an email list (J)** : Press the**J** key to scroll down.
 * **Scroll up an email list (K)** : Press the**K** key to scroll up.
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Select Multiple Emails
 
@@ -84,16 +98,10 @@ thumbnail: https://thmb.techidaily.com/b461869fdc65b7a58affdd23329a3336b55cdb42a
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Email Maintenance Shortcuts
@@ -119,10 +127,10 @@ thumbnail: https://thmb.techidaily.com/b461869fdc65b7a58affdd23329a3336b55cdb42a
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to View All Gmail Shortcuts
@@ -132,19 +140,6 @@ thumbnail: https://thmb.techidaily.com/b461869fdc65b7a58affdd23329a3336b55cdb42a
 * **Open keyboard shortcut help (Shift** +**?)** : Press**Shift** +**?** to get the full list of Gmail keyboard shortcuts.
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Was this page helpful?
 
@@ -173,5 +168,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-enhancing-historical-value-incorporating-dates-into-images/"><u>[New] 2024 Approved Enhancing Historical Value Incorporating Dates Into Images</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-unveiling-facebook-3-tactics-for-backward-image-scanning/"><u>[New] In 2024, Unveiling Facebook 3 Tactics for Backward Image Scanning</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-diy-lol-gameplay-tapes-mastering-three-methods/"><u>[Updated] 2024 Approved DIY LOL Gameplay Tapes Mastering Three Methods</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/an-in-depth-look-at-organic-light-emitting-diodes-oled/"><u>An In-Depth Look at Organic Light Emitting Diodes (OLED)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/crucial-aspects-for-consideration-before-investing-in-a-used-ipad/"><u>Crucial Aspects for Consideration Before Investing in a Used iPad</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/decoding-the-playstation-4-pros-visual-enhancements-an-expert-critique-of-its-stunning-4k-display-features/"><u>Decoding the PlayStation 4 Pro's Visual Enhancements: An Expert Critique of Its Stunning 4K Display Features</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-to-embracing-collaborative-albums-on-your-iphone-device/"><u>Guide to Embracing Collaborative Albums on Your iPhone Device</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-any-honor-x50-gt-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Honor X50 GT Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Apple iPhone 7? | Dr.fone</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/maximiza-tus-oportunidades-con-la-asistencia-de-copias-de-seguridad-de-asociaciones-de-aomei-para-el-exito-empresarial/"><u>Maximiza Tus Oportunidades Con La Asistencia De Copias De Seguridad De Asociaciones De AOMEI Para El Éxito Empresarial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-steps-for-reactivating-fixed-menu-options-on-pc/"><u>Quick Steps for Reactivating Fixed Menu Options on PC</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/size-it-up-right-instagrams-best-videography-practices-for-2024/"><u>Size It Up Right Instagram's Best Videography Practices for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-problem-what-to-do-when-msvcrtdll-file-cant-be-located/"><u>Solving the Problem: What To Do When MSVCRT.DLL File Can't Be Located</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-and-resolving-visible-horizontal-bars-on-your-display/"><u>Troubleshooting and Resolving Visible Horizontal Bars on Your Display</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-restoring-color-to-your-android-phones-darkened-screen/"><u>Troubleshooting Tips: Restoring Color to Your Android Phone’s Darkened Screen</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-the-potential-of-google-gemini-for-search-success/"><u>Unlocking the Potential of Google Gemini for Search Success</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Apple Bids Farewell to iTunes and Introduces New Media Player Apps on Windows - A Detailed Look by ZDNet
-date: 2024-10-17T05:46:53.391Z
-updated: 2024-10-19T15:02:49.423Z
+date: 2024-10-18T22:50:42.336Z
+updated: 2024-10-24T18:35:03.406Z
 tags:
   - apple
 categories:
@@ -35,10 +35,10 @@ Apple announced an innovative feature coming to AirPods Pro 2 when iOS 18 is rel
 Then, if needed, the AirPods Pro 2 can use the wearer's results and double as an over-the-counter hearing aid. This feature will allow the Pro 2 earbuds to use their directional microphones to amplify conversational noises for users who have difficulty hearing conversations in noisy environments. Apple is still waiting for the FDA to approve this feature, but the company expects the approval to be ready for iOS 18's release.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Find My speaker
@@ -48,10 +48,10 @@ Apple's AirPods Pro 2 feature a small speaker on the bottom of the charging case
 Jada Jones/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. AirPods Max wired listening
@@ -71,10 +71,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 Now, if you have an iPhone 15 or newer, you can plug a USB-C cable into your iPhone and AirPods Max and begin listening. If you have an iPhone 14 or older, you can use a Lightning-to-USB-C adapter to plug into the new AirPods Max.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. A 'Goldilocks' pair of AirPods
@@ -115,24 +115,22 @@ Now, you can buy the AirPods 4 with noise cancellation, which offer upgraded aud
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-quick-video-value-calculation-tools/"><u>[Updated] Quick Video Value Calculation Tools</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-oppo-reno-11-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Oppo Reno 11 5G | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-oneplus-11-5g-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On OnePlus 11 5G</u></a></li>
-<li><a href="https://win-answers.techidaily.com/addressing-and-repairing-your-oculus-graphics-driver-errors-expert-advice-and-tips/"><u>Addressing and Repairing Your Oculus Graphics Driver Errors – Expert Advice & Tips</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/bypassing-and-repairing-code-31-problems-expert-tips-for-windows-users/"><u>Bypassing and Repairing Code 31 Problems: Expert Tips for Windows Users</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/effective-solutions-for-when-libcurldll-cant-be-found-or-is-lost/"><u>Effective Solutions for When libcurl.dll Can’t Be Found or Is Lost</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/enhanced-web-traffic-using-cookiebot-technology/"><u>Enhanced Web Traffic Using Cookiebot Technology</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/explore-the-upcoming-ios-18-beta-unveiling-release-timeline-no-charge-features-update/"><u>Explore the Upcoming iOS 18 Beta - Unveiling Release Timeline, No Charge, Features Update</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Infinix Smart 8 | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/o-maximize-income-a-simplified-3-step-process-for-youtube-revenue-monitoring-for-2024/"><u>How To Maximize Income A Simplified 3-Step Process for YouTube Revenue Monitoring for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/iphone-communication-hacks-inserting-fun-emojis-in-messages-and-emails/"><u>IPhone Communication Hacks: Inserting Fun Emojis in Messages and Emails</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/keyboard-maintennace-correcting-sticky-or-unresponsive-keys-issues/"><u>Keyboard Maintennace: Correcting Sticky or Unresponsive Keys Issues</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722874352538-latest-updates-on-playstation-5-slim-pricing-and-launch-info-revealed/"><u>Latest Updates on PlayStation 5 Slim - Pricing & Launch Info Revealed</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722867741105-new-age-of-apple-previewing-the-touchscreen-macbooks-arrival-with-forecasted-prices-launch-schedule-and-expected-features/"><u>New Age of Apple: Previewing the Touchscreen MacBook's Arrival with Forecasted Prices, Launch Schedule & Expected Features</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/simple-steps-seamlessly-move-your-applications-to-a-new-windows-11-pc/"><u>Simple Steps: Seamlessly Move Your Applications to a New Windows 11 PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-dealing-with-binkw32dll-file-absent-errors-easily/"><u>Troubleshooting Steps: Dealing With binkw32.dll File Absent Errors Easily</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-infinix-zero-5g-2023-turbo-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Infinix Zero 5G 2023 Turbo without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-bandwidth-utilization-techniques-for-assessing-mobile-or-wifi-data-usage/"><u>Understanding Bandwidth Utilization: Techniques for Assessing Mobile or WiFi Data Usage</u></a></li>
-<li><a href="https://fox-that.techidaily.com/why-does-my-data-feel-sluggish-solutions-in-10-essential-steps/"><u>Why Does My Data Feel Sluggish? Solutions in 10 Essential Steps</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-masterful-methods-for-adding-melodies-to-ig-media/"><u>[New] 2024 Approved Masterful Methods for Adding Melodies to IG Media</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-enhanced-interaction-making-skype-calls-on-your-phone/"><u>[New] In 2024, Enhanced Interaction Making Skype Calls on Your Phone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-instagram-mastery-the-top-10-steps-to-optimize-engagement/"><u>[Updated] Instagram Mastery The Top 10 Steps to Optimize Engagement</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-unresolved-problem-viewing-videos-on-sony-a6400/"><u>[Updated] Unresolved Problem Viewing Videos on Sony A6400</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-comprehensive-guide-updating-your-chromecasts-wallpaper/"><u>A Comprehensive Guide: Updating Your Chromecast's Wallpaper</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-infinix-note-30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/halt-luminary-lurches-in-acer-computers/"><u>Halt Luminary Lurches in Acer Computers</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-plus-passcode-screen-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 6s Plus Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Vivo Y77t? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/james-bond-franchise-the-ultimate-viewing-sequence/"><u>James Bond Franchise: The Ultimate Viewing Sequence</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/maintaining-continuous-power-techniques-to-prevent-your-mac-from-going-to-sleep/"><u>Maintaining Continuous Power: Techniques to Prevent Your Mac From Going to Sleep</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/multiple-voices-one-source-the-ultimate-technique-to-connect-varied-bluetooth-speakers-to-a-sole-device/"><u>Multiple Voices, One Source: The Ultimate Technique to Connect Varied Bluetooth Speakers to a Sole Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/samsung-galaxy-s22-ultra-latest-updates-on-pricing-release-timeline-and-features/"><u>Samsung Galaxy S22 Ultra - Latest Updates on Pricing, Release Timeline & Features</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-definitive-list-of-10-cameras-with-anti-shake-tech/"><u>The Definitive List of 10 Cameras with Anti-Shake Tech</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-10-classic-80s-films-you-should-catch-on-the-big-screen/"><u>Top 10 Classic '80S Films You Should Catch on the Big Screen</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-resolving-sound-problems-during-your-powerpoint-show/"><u>Ultimate Guide: Resolving Sound Problems During Your PowerPoint Show</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unleash-musical-bliss-8-amazing-free-melodies-apps-for-ios-devices/"><u>Unleash Musical Bliss: 8 Amazing Free Melodies Apps for iOS Devices</u></a></li>
 </ul></div>
 

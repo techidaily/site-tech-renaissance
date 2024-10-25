@@ -1,7 +1,7 @@
 ---
 title: "Mac Users Guide: Steps to Customize Your Folder Colors"
-date: 2024-09-11T22:01:44.521Z
-updated: 2024-09-15T20:50:12.432Z
+date: 2024-10-21T07:02:52.575Z
+updated: 2024-10-24T20:42:20.202Z
 categories:
   - BestProducts
 description: "This Article Describes Mac Users Guide: Steps to Customize Your Folder Colors"
@@ -48,35 +48,62 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
 5. Locate and open the**Preview** app.  
 ![A screenshot of the Applications folder on macOS.](https://www.lifewire.com/thmb/QLXtd-veloVkY8ge5HI9PdIVlA0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A5-ChangeFolderColoronMac-annotated-8465f773aeb74caa9b1dbc0525a419ef.jpg)
 6. With Preview open, click**File** in the menu bar.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The File menu in the Preview app on macOS.](https://www.lifewire.com/thmb/qiZ22LU6m8SiaCUJcNrGLv6kQfk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A6-ChangeFolderColoronMac-annotated-3092277a9357429fa325ccba6b0cb43f.jpg)
 7. Select**New from Clipboard** .  
 ![New from Clipboard menu item selected in the Preview app on macOS.](https://www.lifewire.com/thmb/jt8ez5osO5KQwiJ5sJdYieKWXTA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A7-ChangeFolderColoronMac-annotated-9876657f8d3f41399b918e61bfb39023.jpg)
 8. Select the**Markup tool** (looks like the tip of a pencil).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Markup tool highlighted in the Preview app on macOS.](https://www.lifewire.com/thmb/l3BVxdPgJm5W8koZRv2XglMO_Os=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A8-ChangeFolderColoronMac-annotated-0249c263cdfc438b89827e3df055280d.jpg)
 9. Select the**Adjust Color** icon, which looks like three sliders or a prism with light passing through it.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Adjust color tool highlighted in the Preview app on macOS.](https://www.lifewire.com/thmb/TMySW-VtU7UNm-ziPdu5TA9ECjY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A9-ChangeFolderColoronMac-annotated-13601116017d42e89eb5c1ac3b9a7d59.jpg)
 10. In the Adjust Color window, adjust the**Tint** ,**Saturation** ,**Tempurature** , and**Sepia** sliders to get a color you want, and then close the window.  
 ![A screenshot of Tint slider in Preview app on macOS.](https://www.lifewire.com/thmb/WmhDBeevux4zXDNtHs9-i4BqrBM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A10-ChangeFolderColoronMac-annotated-1e5ee4342431465a953da0717e62b70f.jpg)  
  Want more options? You can paste the folder icon into any image-editing software you have.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 11. Select the colored folder, and press**Command+C** to copy it.  
 ![A screenshot of copying from Preview on macOS.](https://www.lifewire.com/thmb/ldf1VkMQPfhuL1qS5bP9aKcyjos=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1-003a69e747f84b01a9b4ad148b9071cf.jpg)
 12. Return to the Folder Info box from earlier. If you have closed it, get it back by right-clicking the folder you are trying to customize.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 13. Click the folder in the Folder Info box, and press**Command+V** .  
 ![A screenshot of a customized folder color on macOS.](https://www.lifewire.com/thmb/VI5EKewsKE1LGj0OEbsL44ijJnY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A13-ChangeFolderColoronMac-annotation-5bd8b4aff78648508db5492dbe49a580.jpg)
 14. You can now close the Folder Info box, and your folder will have the new color. If you want, you can repeat this process to customize as many folders as you like.
-
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Customizing Folders With Images and Icons
 
@@ -87,10 +114,10 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
  These steps will replace the original folder icon with a custom photo or any other icon you like.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Changing Folder Colors on Mac With Apps
@@ -135,5 +162,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-easy-steps-how-to-master-the-best-of-9-free-youtube-logomakers-for-2024/"><u>[New] Easy Steps How to Master the Best of 9 Free YouTube Logomakers for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-pro-tips-to-elevate-your-headline-game/"><u>[Updated] Pro Tips to Elevate Your Headline Game</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/choosing-between-macbook-pro-and-macbook-air-a-comprehensive-guide-for-selecting-your-ideal-apple-laptop/"><u>Choosing Between MacBook Pro and MacBook Air: A Comprehensive Guide for Selecting Your Ideal Apple Laptop</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/direct-stream-from-youtube-to-facebook-without-pauses-or-holds-for-2024/"><u>Direct Stream From YouTube to Facebook without Pauses or Holds for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/experience-rapid-iphone-16-charging-esr-releases-next-gen-qi2-magsafe-charger-enhanced-with-innovative-cryoboost-technology-for-cool-fast-power/"><u>Experience Rapid iPhone 16 Charging: ESR Releases Next-Gen Qi2 MagSafe Charger Enhanced with Innovative CryoBoost Technology for Cool, Fast Power</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/in-depth-analysis-of-apples-latest-airpods-pro-gen-3-spotlight-on-key-enhancements-a-detailed-review/"><u>In-Depth Analysis of Apple's Latest AirPods Pro (Gen 3): Spotlight on Key Enhancements - A Detailed Review</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/iphone-call-monitoring-tips-and-legality-by-state-record-conversations-safely/"><u>IPhone Call Monitoring Tips and Legality by State: Record Conversations Safely</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-new-web-capabilities-in-gpt-3s-beta-update/"><u>Navigating New Web Capabilities in GPT-3's Beta Update</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/spotlight-innovation-alert-apple-music-experimenting-with-groundbreaking-feature-to-import-your-favorite-spotify-playlists/"><u>Spotlight Innovation Alert: Apple Music Experimenting with Groundbreaking Feature to Import Your Favorite Spotify Playlists</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/still-using-pattern-locks-with-realme-v30-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Realme V30? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/the-beginners-guide-to-captivating-instagram-video-audiences/"><u>The Beginner's Guide to Captivating Instagram Video Audiences</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-ranking-mini-tablets-professional-evaluations-and-comprehensive-reviews/"><u>Top-Ranking Mini Tablets : Professional Evaluations & Comprehensive Reviews</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-airtag-gear-comprehensive-reviews-and-comparisons-by-tech-experts/"><u>Top-Rated AirTag Gear : Comprehensive Reviews & Comparisons by Tech Experts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-apple-watch-straps-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top-Rated Apple Watch Straps : Comprehensive Reviews by Tech Gurus - ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-keyboards-comprehensive-reviews-by-tech-gurus-pcmag/"><u>Top-Rated Keyboards : Comprehensive Reviews by Tech Gurus | PCMag</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-cyberpunk-2077-ensuring-proper-graphics-card-use-in-windows-10-environments/"><u>Troubleshooting Cyberpunk 2077: Ensuring Proper Graphics Card Use in Windows 10 Environments</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-conceal-faces-with-confidence-professional-video-editing-software/"><u>Updated 2024 Approved Conceal Faces with Confidence Professional Video Editing Software</u></a></li>
+<li><a href="https://fox-where.techidaily.com/1728473580990-windows-server-2012-r2/"><u>Windows Server 2012 R2 から最新版に移行するための包括的なガイド</u></a></li>
+</ul></div>
 

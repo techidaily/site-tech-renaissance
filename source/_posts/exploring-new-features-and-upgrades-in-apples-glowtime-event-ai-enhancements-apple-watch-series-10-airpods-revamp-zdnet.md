@@ -1,7 +1,7 @@
 ---
 title: "Exploring New Features and Upgrades in Apple’s Glowtime Event: AI Enhancements, Apple Watch Series 10, AirPods Revamp | ZDNET"
-date: 2024-10-18T07:22:11.093Z
-updated: 2024-10-19T13:14:40.346Z
+date: 2024-10-19T00:03:20.995Z
+updated: 2024-10-24T21:18:31.386Z
 tags:
   - apple
 categories:
@@ -61,10 +61,10 @@ The camera system has also been upgraded on the Pro line, featuring a new 48MP F
 The iPhone 16 Pro and iPhone 16 Pro Max are available for preorder on September 13 at $999 and $1,099 respectively, starting at 128GB of storage. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Apple Watch Series 10
@@ -88,10 +88,10 @@ Alongside the Watch Series 10, Apple announced a new satin black finish for its 
 Apple also launched an array of new watch bands, including new offerings from Hermes and Nike Sport Loop. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. AirPods 4
@@ -119,10 +119,10 @@ Lastly, Apple announced new hearing health features for AirPods Pro 2 coming thi
 These features will be available in the fall for AirPods Pro 2 via the software update when paired with an iPhone running on iOS 18 or iPad running on iPadOS 18\. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Apple Intelligence updates
@@ -140,10 +140,10 @@ The biggest highlight was the launch of Visual Intelligence, Apple's answer to G
 Users who purchase a device from the new iPhone 16 lineup will be able to access Visual Intelligence from the new Camera Control option "later this year," according to Apple, though the company did not clarify an exact launch date. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Everything to know about iOS 18
@@ -192,19 +192,18 @@ ZDNET is at Apple headquarters in Cupertino now, so stay tuned for the latest ne
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-easy-steps-for-stellar-youtube-thumbnails/"><u>[New] 2024 Approved Easy Steps for Stellar YouTube Thumbnails</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-navigating-the-world-of-apex-legends-on-a-personal-platform-quest/"><u>[New] Navigating the World of Apex Legends on a Personal Platform Quest</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-unleashing-oral-clarity-in-ppt-creations-for-2024/"><u>[New] Unleashing Oral Clarity in PPT Creations for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/enhancing-visual-performance-a-tutorial-on-graphics-card-replacement/"><u>Enhancing Visual Performance: A Tutorial on Graphics Card Replacement</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722869373755-error-free-searching-on-windows-11-a-comprehensive-troubleshooting-guide/"><u>Error-Free Searching on Windows 11: A Comprehensive Troubleshooting Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/facilmente-risolvibile-perche-non-puoi-aggiungere-i-video-hevc-ad-adobe-premiere/"><u>Facilmente Risolvibile: Perché Non Puoi Aggiungere I Video HEVC Ad Adobe Premiere</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-xiaomi-redmi-note-13-5g-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Xiaomi Redmi Note 13 5G? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/innovating-poetry-through-chatgpt-interactions/"><u>Innovating Poetry Through ChatGPT Interactions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/los-santos-confidential-resolved-the-missing-pc-release-of-la-noire/"><u>Los Santos Confidential: Resolved – The Missing PC Release of L.A. Noire</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/overcoming-initialization-problems-with-mozilla-thunderbird-a-comprehensive-fix/"><u>Overcoming Initialization Problems with Mozilla Thunderbird: A Comprehensive Fix</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/simple-steps-to-connect-your-apple-homepod-to-the-tv-an-easy-guide/"><u>Simple Steps to Connect Your Apple HomePod to the TV: An Easy Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-taking-a-screenshot-with-logitechs-comfort-keys/"><u>Step-by-Step Guide: Taking a Screenshot with Logitech's Comfort Keys</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-best-ways-to-watch-spider-man-no-way-home-at-home/"><u>The Best Ways to Watch 'Spider-Man: No Way Home' At Home</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlocking-history-with-the-wayback-machine-step-by-step-tutorial/"><u>Unlocking History with The Wayback Machine - Step by Step Tutorial</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-gimp-ultimate-editing-course-review/"><u>[New] 2024 Approved GIMP Ultimate Editing Course Review</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-learn-to-quickly-cut-videos-using-built-in-windows-features/"><u>2024 Approved Learn to Quickly Cut Videos Using Built-In Windows Features</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-introduces-vision-pro-with-preloaded-microsoft-365-tools-enhancing-productivity-from-day-one-zdnet-report/"><u>Apple Introduces Vision Pro with Preloaded Microsoft 365 Tools, Enhancing Productivity From Day One | ZDNet Report</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/breakthrough-invention-by-local-scientists-a-revolutionary-glove-for-advanced-virtual-touch-experience-as-reported-on-zdnet/"><u>Breakthrough Invention by Local Scientists: A Revolutionary Glove for Advanced Virtual Touch Experience, as Reported on ZDNet</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/dslr-or-mirrorless-the-ultimate-question-for-videographers/"><u>DSLR or Mirrorless? The Ultimate Question for Videographers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/exploring-top-9-iphone-applications-for-adding-photo-water-marks-for-2024/"><u>Exploring Top 9 iPhone Applications for Adding Photo Water Marks for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/from-ar-goggles-to-advanced-xr-solutions-google-pivots-strategy-away-from-hardware-towards-innovative-software-development/"><u>From AR Goggles to Advanced XR Solutions: Google Pivots Strategy Away From Hardware Towards Innovative Software Development</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-could-apples-latest-vrar-headset-revolutionize-our-online-journeys-expert-predictions-on-enhanced-internet-interactions/"><u>How Could Apple's Latest VR/AR Headset Revolutionize Our Online Journeys? | Expert Predictions on Enhanced Internet Interactions</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-tecno-phantom-v-fold-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Tecno Phantom V Fold FRP Without Computer</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/sharpening-screen-views-for-improved-virtual-interactions/"><u>Sharpening Screen Views for Improved Virtual Interactions</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/simplify-your-network-with-google-wifi-a-user-friendly-review-on-wireless-mesh-technology/"><u>Simplify Your Network with Google WiFi: A User-Friendly Review on Wireless Mesh Technology</u></a></li>
+<li><a href="https://video-capture.techidaily.com/sound-studio-everything-about-the-sound-recording-studio-mac/"><u>Sound Studio - Everything About the Sound Recording Studio Mac</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-key-discoveries-in-the-apple-vision-pro-disassembly-by-ifixit-detailed-report-on-zdnet/"><u>Unveiling Key Discoveries in the Apple Vision Pro Disassembly by iFixit | Detailed Report on ZDNET</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Top 18 Quick Tips and Tricks for Maximizing Your Use of the iOS Shortcuts App
-date: 2024-09-09T18:52:08.348Z
-updated: 2024-09-15T22:51:27.895Z
+date: 2024-10-23T22:48:51.998Z
+updated: 2024-10-24T16:40:12.941Z
 categories:
   - BestProducts
 description: This Article Describes Top 18 Quick Tips and Tricks for Maximizing Your Use of the iOS Shortcuts App
@@ -63,10 +63,10 @@ thumbnail: https://www.lifewire.com/thmb/5C09c-LIgaV7nT-0KT4xTT6DNvQ=/400x300/fi
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add Formatting to Email Text
@@ -81,10 +81,10 @@ thumbnail: https://www.lifewire.com/thmb/5C09c-LIgaV7nT-0KT4xTT6DNvQ=/400x300/fi
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add Elements to an Email
@@ -97,6 +97,13 @@ thumbnail: https://www.lifewire.com/thmb/5C09c-LIgaV7nT-0KT4xTT6DNvQ=/400x300/fi
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Email Maintenance Shortcuts
 
  Use these shortcuts to help manage your inbox:
@@ -106,13 +113,6 @@ thumbnail: https://www.lifewire.com/thmb/5C09c-LIgaV7nT-0KT4xTT6DNvQ=/400x300/fi
 * **Delete an email (Shift** +**3)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**3** to[send the email to the trash](https://www.lifewire.com/how-to-delete-with-a-swift-keyboard-shortcut-in-gmail-1172079) .
 * **Mark an email as unread (Shift** +**U)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**U** to mark it as unread.
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## "Go to" Shortcuts in Gmail
 
@@ -133,6 +133,13 @@ thumbnail: https://www.lifewire.com/thmb/5C09c-LIgaV7nT-0KT4xTT6DNvQ=/400x300/fi
 * **Open keyboard shortcut help (Shift** +**?)** : Press**Shift** +**?** to get the full list of Gmail keyboard shortcuts.
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Was this page helpful?
 
@@ -161,5 +168,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-clear-obstacle-youtube-tweets-on-google-chrome-for-2024/"><u>[New] Clear Obstacle YouTube Tweets on Google Chrome for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-snaps-for-cash-a-guide-to-profitability/"><u>[New] In 2024, Snaps for Cash A Guide to Profitability</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-earning-edge-reached-for-subscribers-above-500/"><u>[Updated] 2024 Approved Earning Edge Reached for Subscribers Above 500</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-clarity-to-excellence-benqs-bl2711u-professional-4k-monitor-assessment/"><u>[Updated] From Clarity to Excellence BenQ’s BL2711U Professional 4K Monitor Assessment</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-masterclass-setting-up-your-first-facebook-page-for-2024/"><u>[Updated] Masterclass Setting Up Your First Facebook Page for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/building-vs-buying-a-pc-which-one-is-right-for-you/"><u>Building Vs. Buying a PC: Which One Is Right For You?</u></a></li>
+<li><a href="https://win-dash.techidaily.com/bypass-and-resolve-elgato-hd60-driver-setbacks-swiftly-and-happily/"><u>Bypass and Resolve Elgato HD60 Driver Setbacks Swiftly & Happily</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/common-problems-and-fixes-for-broken-usb-internet-connection/"><u>Common Problems and Fixes for Broken USB Internet Connection</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guida-rapida-alla-masterizzazione-di-dvd-con-winxdvd-su-windows-11windows-naviga-e-scopri-come-creare-backup/"><u>Guida Rapida Alla Masterizzazione Di DVD Con WinXDVD Su Windows 11/Windows Naviga E Scopri Come Creare Backup</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-on-apple-iphone-15-plus-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID on Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionize-your-home-entertainment-with-hitachis-high-definition-4k-tvs-and-seamless-roku-integration/"><u>Revolutionize Your Home Entertainment with Hitachi's High-Definition 4K TVs and Seamless Roku Integration</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/samsungs-anticipated-2eplus-event-of-2025-dates-latest-headlines-and-expectations/"><u>Samsung's Anticipated 2E+ Event of 2025: Dates, Latest Headlines & Expectations</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-to-repair-unresponsive-applications-on-your-mac/"><u>Step-by-Step Guide to Repair Unresponsive Applications on Your Mac</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-instagram-its-features-and-functionality-explained/"><u>Unveiling Instagram: Its Features and Functionality Explained</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/what-to-expect-from-the-apple-watch-ultra-2-insights-on-price-points-launch-date-and-latest-tech-specs/"><u>What to Expect From the Apple Watch Ultra 2: Insights on Price Points, Launch Date & Latest Tech Specs</u></a></li>
+</ul></div>
 

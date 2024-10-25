@@ -1,7 +1,7 @@
 ---
 title: "Top AT&T Mobile Plans & Offers: Exclusive Savings in May 2024 - ZDNet"
-date: 2024-10-16T11:44:51.087Z
-updated: 2024-10-19T02:55:11.418Z
+date: 2024-10-23T21:14:41.003Z
+updated: 2024-10-25T07:55:46.141Z
 tags:
   - apple
 categories:
@@ -116,19 +116,6 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 
 [View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-razrplus.html) 
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## More AT&T deals
 
 [Apple iPhone 15 Pro Max, $5.56/month with trade-in View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/apple-iphone-15-pro-max.html)
@@ -163,36 +150,43 @@ When we made our selection for the best AT&T deals, we wanted to include options
 * **Free products**: Devices drop in value over time, and to offload excess stock, some carriers will launch time-sensitive deals, giving subscribers free products in exchange for signing up for a new contract.
 * **Events**: It's always worth checking retailers after a major event, such as Samsung Unpacked. You will often find that deals will be launched just after, luring customers to agree to preorder their new handset in return for discounts and free storage upgrades.
 
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Does AT&T offer deals for existing customers?
 
 It's true that carriers are the most aggressive with their offers when it's year-end and new customers are shopping around for services to switch to. Still, AT&T has done a fairly balanced job of pushing promotions for new and existing customers, including all the deals we have listed above. If you've been a loyal customer, we'd even recommend reaching out to your local AT&T provider to see if there are any exclusive deals just for you.
 
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is it cheaper to buy a phone online or in-store?
 
 In general, there is no difference in how much money you save whether you shop online or in stores. Instead, deciding between the two really boils down to your preference for transactions. With how complicated carrier phone deals can be, you may be better off heading down to the local AT&T store and consulting with a product expert to help you navigate the fine print. Otherwise, shopping online can be faster and more convenient.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What are the best deals right now?
 
 ZDNET experts split out the latest and greatest deals for you below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Best deals by retailer**
@@ -201,16 +195,16 @@ ZDNET experts split out the latest and greatest deals for you below.
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Best deals by category**
@@ -262,22 +256,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-unravel-your-pcs-potential-with-windows-10s-latest-games/"><u>[New] In 2024, Unravel Your PC's Potential with Windows 10'S Latest Games</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-iphones-secret-to-time-extended-videography/"><u>[Updated] In 2024, IPhone's Secret to Time-Extended Videography</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-simple-images-to-creative-stickers-complete-tutorial-for-chat-app-enthusiasts/"><u>2024 Approved From Simple Images to Creative Stickers Complete Tutorial for Chat App Enthusiasts</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-twilight-tactics-capturing-the-best-in-low-light-portraits/"><u>2024 Approved Twilight Tactics Capturing the Best in Low Light Portraits</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-premium-free-srt-translation-services/"><u>2024 Approved Unveiling Premium Free SRT Translation Services</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/1726224700834-vob-asf-movavi/"><u>免費線上 VOB 改編為 ASF 格式 - 利用 Movavi 的換片器功能</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-iphone-13-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone 13</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/enabledisable-network-sharing-on-windows-11-a-step-by-step-guide/"><u>Enable/Disable Network Sharing on Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-advice-on-handling-stop-0x000amodelerror-and-restoring-your-pcs-stability/"><u>Expert Advice on Handling STOP 0X000amodelError and Restoring Your PC's Stability</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/explore-these-100-gratis-online-fax-services-your-complete-guide-to-7-premium-picks/"><u>Explore These 100% Gratis Online Fax Services: Your Complete Guide to 7 Premium Picks</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-ai-highlight-creators-introduction-and-key-features-of-top-tools/"><u>Exploring AI Highlight Creators: Introduction & Key Features of Top Tools</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/get-the-latest-techkey-bluetooth-device-drivers-for-win10-win7-and-win8-systems/"><u>Get the Latest TechKey Bluetooth Device Drivers for Win10, Win7, and Win8 Systems</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-lava-yuva-2-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Lava Yuva 2 by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-bluetooth-audio-harmony-joining-several-speakers-at-once/"><u>Mastering the Art of Bluetooth Audio Harmony: Joining Several Speakers at Once</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-mscorwksdll-file-missing-a-step-by-step-guide/"><u>Resolving 'mscorwks.dll' File Missing: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/seamlessly-stream-disneyplus-content-using-chromecast-a-simple-tutorial/"><u>Seamlessly Stream Disney+ Content Using Chromecast – A Simple Tutorial</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-libgdk-win32-20-0dll-missing-errors-on-your-pc-step-by-step-guide/"><u>Solving libgdk-win32-2.0-0.dll Missing Errors on Your PC - Step by Step Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-above-and-beyond-vertical-panoramas-made-easy/"><u>[New] Above and Beyond Vertical Panoramas Made Easy</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-shambling-successes-the-cutthroat-list-of-best-zombies-gaming/"><u>[New] Shambling Successes The Cutthroat List of Best Zombies Gaming</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/nleash-your-potential-skyrocketing-youtube-audience-for-2024/"><u>[New] Unleash Your Potential Skyrocketing YouTube Audience for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-discovering-new-horizons-with-samsungs-updated-image-tools/"><u>[Updated] Discovering New Horizons with Samsung’s Updated Image Tools</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-enhancing-your-youtube-presence-with-split-screen-techniques/"><u>2024 Approved Enhancing Your YouTube Presence with Split-Screen Techniques</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/decoding-the-matrix-series-watch-in-the-right-order/"><u>Decoding the Matrix Series: Watch in The Right Order</u></a></li>
+<li><a href="https://facebook.techidaily.com/digital-defense-tactics-against-elite-swindles/"><u>Digital Defense Tactics Against Elite Swindles</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722890121668-does-my-mailcom-email-have-an-expiration-heres-the-facts/"><u>Does My Mail.com Email Have an Expiration? Here's the Facts.</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-methods-for-changing-your-smartphones-protective-display-cover/"><u>Easy Methods for Changing Your Smartphone’s Protective Display Cover</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/google-maps-made-simple-finding-and-using-ev-charging-stations-across-the-country/"><u>Google Maps Made Simple: Finding and Using EV Charging Stations Across the Country</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-restore-wi-fi-connection-on-a-malfunctioning-surface-pro-device/"><u>How To Restore Wi-Fi Connection On A Malfunctioning Surface Pro Device</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-vivo-y56-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Vivo Y56 5G Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolve-your-mfc71dll-could-not-be-loaded-or-is-damaged-error-easily/"><u>Resolve Your 'mfc71.dll' Could Not Be Loaded or Is Damaged Error Easily</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-realme-v30t-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Realme V30T Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/transform-your-videos-into-revenue-streams-with-smart-vimeo-tactics-for-2024/"><u>Transform Your Videos Into Revenue Streams with Smart Vimeo Tactics for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/untangling-audio-glitches-effective-solutions-for-powerpoint-presentation-sounds/"><u>Untangling Audio Glitches: Effective Solutions for PowerPoint Presentation Sounds</u></a></li>
 </ul></div>
 

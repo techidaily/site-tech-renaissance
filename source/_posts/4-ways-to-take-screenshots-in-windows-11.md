@@ -1,7 +1,7 @@
 ---
 title: 4 Ways to Take Screenshots in Windows 11
-date: 2024-10-12T09:17:03.563Z
-updated: 2024-10-18T19:42:14.367Z
+date: 2024-10-19T18:46:17.783Z
+updated: 2024-10-24T21:29:27.342Z
 categories:
   - BestProducts
 description: This Article Describes 4 Ways to Take Screenshots in Windows 11
@@ -23,6 +23,13 @@ thumbnail: https://www.lifewire.com/thmb/FwG2OYmzmciXArK4RcurYVUhvDM=/400x300/fi
 
  This article explains all the different ways to make Windows 11 screenshots.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Use PrtScn to Screenshot the Whole Screen
 
  There are many ways to make screenshots in Windows 11, the most basic being to use the**PrtScn** (aka**PrtSc** ) button on your keyboard. This captures the entire screen, including multiple displays if you have them, plus all visible windows, the taskbar, the Start button, etc. You can then paste the screenshot into any program that supports image pasting.
@@ -43,20 +50,13 @@ thumbnail: https://www.lifewire.com/thmb/FwG2OYmzmciXArK4RcurYVUhvDM=/400x300/fi
 
 ![ Screenshot folder with picture inside on Windows 11.](https://www.lifewire.com/thmb/9JnkOkVNK4-g810E3yMqwhOjIcY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-screenshots-615d31976db445bb9f725b510becd850.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [How to Screenshot on a Logitech Keyboard](https://www.lifewire.com/take-screenshot-with-logitech-keyboard-5186441)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Screenshot Part of the Screen
@@ -75,10 +75,10 @@ thumbnail: https://www.lifewire.com/thmb/FwG2OYmzmciXArK4RcurYVUhvDM=/400x300/fi
 ![Windows 11 snip tool capturing calculator. ](https://www.lifewire.com/thmb/DxIz1nlXgizX8YqQ1wgTdi_r9eE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/snip-tool-windows-11-30e70f87ddfc45799a2dc78ebd4dc0b0.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To avoid memorizing this shortcut, you can tie it to the PrtSc button so that when you press it, this same menu shows up automatically. To do this, go to**Settings** \>**Accessibility** \>**Keyboard** , and then turn on**Use the Print screen key to open screen capture** .
@@ -89,6 +89,13 @@ thumbnail: https://www.lifewire.com/thmb/FwG2OYmzmciXArK4RcurYVUhvDM=/400x300/fi
 
 ![A Windows 11 screenshot open in Snipping Tool](https://www.lifewire.com/thmb/n8hloKQGZfQTHNEMKqTmWZC4D_M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-snipping-tool-cfcc4b1e0c154d509e2d312ce4538e4e.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Delayed Screenshots With Snipping Tool
 
  Pull up the search button from the taskbar and enter**Snipping Tool** to open the app. This tool was briefly covered above, but what we'll look at now is the delayed screenshot function.
@@ -96,13 +103,6 @@ thumbnail: https://www.lifewire.com/thmb/FwG2OYmzmciXArK4RcurYVUhvDM=/400x300/fi
  Taking screenshots of open menus and other areas of Windows can sometimes be difficult if triggering the screenshot breaks whatever it is you're doing. Snipping Tool has a timed screenshot option, so you can do what you need to and then wait for the screenshot to happen automatically, hands-free.
 
  With the program open, select the**stopwatch** . There are three options:**3-second delay** ,**5-second delay** , and**10-second delay** . Select one, choose**New** , and then quickly arrange the screen in the way you need it for the screenshot. When the time you chose is reached, the four options above will display at the top of the screen.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Tips for Taking Screenshots in Windows 11
 
@@ -150,22 +150,18 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-launch-and-lay-the-foundations-of-xps-video-craft/"><u>[New] Launch & Lay the Foundations of XP's Video Craft</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-your-pathway-to-professional-looking-animated-gifs-online/"><u>[New] Your Pathway to Professional-Looking Animated GIFs Online</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-techniques-to-rectify-iphone-photo-out-of-focus/"><u>[Updated] Techniques to Rectify iPhone Photo Out-of-Focus</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/a-journey-through-aether-insights-and-how-you-can-be-a-part-of-it/"><u>A Journey Through Aether: Insights and How You Can Be a Part of It</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722856512919-best-childrens-movie-selection-for-disneyplus-watch-party-july-2024-edition/"><u>Best Children's Movie Selection for Disney+ Watch Party - July 2024 Edition</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/crafting-balanced-diets-through-conversations-with-chatgpt-essential-tips-and-tricks/"><u>Crafting Balanced Diets Through Conversations with ChatGPT - Essential Tips and Tricks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/defeat-hypervisorbsod-on-win1110-for-stability/"><u>Defeat HYPERVISOR_BSOD on WIN11/10 for Stability</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-selection-of-7-free-internet-fax-providers/"><u>Discover the Ultimate Selection of 7 Free Internet Fax Providers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-advice-the-ultimate-techniques-for-purging-cache-on-android-devices/"><u>Expert Advice: The Ultimate Techniques for Purging Cache on Android Devices</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-escaping-boredom-with-laughter-20-wit-infused-jailmates-tales-from-fb/"><u>In 2024, Escaping Boredom with Laughter 20 Wit-Infused Jailmates' Tales From Fb</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-shedding-darkness-from-iphone-videography/"><u>In 2024, Shedding Darkness From Iphone Videography</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722901513634-macos-15-sequoia-is-coming-find-out-the-announcement-date-enhancements-and-latest-updates/"><u>MacOS 15 Sequoia Is Coming: Find Out the Announcement Date, Enhancements & Latest Updates</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-nokia-c12-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Nokia C12 and Browser | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/speaking-the-language-of-voice-memos-a-comprehensive-guide-for-iphone-enthusiasts/"><u>Speaking the Language of Voice Memos – A Comprehensive Guide for iPhone Enthusiasts</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-instructions-refresh-your-ati-drivers-for-enhanced-performance/"><u>Step-by-Step Instructions: Refresh Your ATI Drivers for Enhanced Performance</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/telegram-explained-everything-you-need-to-know-about-this-messaging-app/"><u>Telegram Explained: Everything You Need to Know About This Messaging App</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-wii-disc-reading-problems-expert-tips-and-tricks/"><u>Troubleshooting Wii Disc Reading Problems: Expert Tips and Tricks</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-inside-look-whatsapps-voice-message-technology/"><u>[New] Inside Look WhatsApp's Voice Message Technology</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-spectacle-of-speed-simulators-top-5/"><u>[New] Spectacle of Speed Simulators (Top 5)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlock-the-secrets-to-enthralling-unboxing-content-on-insta/"><u>[New] Unlock the Secrets to Enthralling Unboxing Content on Insta</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-ultimate-webcams-for-enhanced-podcast-production/"><u>[Updated] 2024 Approved Ultimate Webcams for Enhanced Podcast Production</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/best-humor-picture-processor-for-2024/"><u>Best Humor Picture Processor for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/future-of-commerce-exploring-vrs-role-in-shaping-consumer-emotions-and-experiences-insights-from-leading-tech-brands/"><u>Future of Commerce: Exploring VR's Role in Shaping Consumer Emotions & Experiences - Insights From Leading Tech Brands</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Apple iPhone SE? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-elevate-your-career-best-video-resume-makers-and-templates/"><u>New In 2024, Elevate Your Career Best Video Resume Makers and Templates</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/protect-your-investment-essential-tips-to-prevent-costly-mistakes-with-apple-vision-pro-tech-insights/"><u>Protect Your Investment: Essential Tips to Prevent Costly Mistakes with Apple Vision Pro | Tech Insights.</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/qualcomm-samsung-and-google-unite-for-revolutionary-ar-smart-glasses-the-untold-story-behind-this-game-changing-partnership/"><u>Qualcomm, Samsung & Google Unite for Revolutionary AR Smart Glasses: The Untold Story Behind This Game-Changing Partnership</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/snag-the-ultimate-bargain-walmart-outshines-amazon-with-a-stellar-200-meta-quest-2-promotion-this-spring/"><u>Snag the Ultimate Bargain: Walmart Outshines Amazon with a Stellar $200 Meta Quest 2 Promotion This Spring!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-snug-new-199-case-for-your-apple-vision-pro-detailed-review-and-first-impressions-gizmodo/"><u>The Snug New $199 Case for Your Apple Vision Pro - Detailed Review & First Impressions | Gizmodo</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unpacking-apples-expensive-vr-gadget-why-would-you-pay-3k-for-this-tech-marvel-zdnet/"><u>Unpacking Apple’s Expensive VR Gadget - Why Would You Pay $3K for This Tech Marvel? | ZDNET</u></a></li>
 </ul></div>
 

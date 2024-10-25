@@ -1,7 +1,7 @@
 ---
 title: "Enhance Communication: Effective Strategies for Pairing Google Duet with Gmail"
-date: 2024-09-09T22:39:28.756Z
-updated: 2024-09-15T19:21:43.674Z
+date: 2024-10-20T19:03:15.547Z
+updated: 2024-10-24T19:52:56.053Z
 categories:
   - BestProducts
 description: "This Article Describes Enhance Communication: Effective Strategies for Pairing Google Duet with Gmail"
@@ -23,6 +23,13 @@ thumbnail: https://thmb.techidaily.com/a26060fad92020f54b317e5747fec75ccfe05e7c2
 
  This article explains how to use Google Duet in Gmail, including creating new emails and using it to respond to a message. While you can’t use[Google Gemini](https://www.lifewire.com/what-is-google-bard-7151624) in Gmail, Duet is an advanced Google AI that does work directly in Gmail and Workspace apps like Docs.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How Does Google Duet Work in Gmail?
 
  Google Gemini is a standalone[artificial intelligence](https://www.lifewire.com/what-is-artificial-intelligence-5119206) (AI) chatbot similar to large language model systems like[ChatGPT](https://www.lifewire.com/what-is-chatgpt-7105508) and the Bing Chatbot, so you can’t use it directly in Gmail. It is capable of outputting generated text to Gmail, but Google uses their Duet AI to provide writing assistance in Gmail and Workspace apps.
@@ -42,6 +49,14 @@ thumbnail: https://thmb.techidaily.com/a26060fad92020f54b317e5747fec75ccfe05e7c2
 4. Wait while Duet composes the email.  
 ![Google Bard writing an email in Gmail.](https://www.lifewire.com/thmb/ueCwMVuu-WpSX___WIcAReMx_2Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A4-UseGoogleBardinGmail-annotated-f6b7aec957344159ae047fab11440ace.jpg)
 5. Click**Recreate** if you want Duet to start over from scratch, or**Refine** for options that will adjust the current email.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Recreate and Refine highlighted in the Bard interface in Gmail.](https://www.lifewire.com/thmb/kVhtH1DEzZGszkQFTybXVnHQEkI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A5-UseGoogleBardinGmail-annotated-064a3abf68694f4e8948efec743a0d74.jpg)
 6. Click**Formalize** to rewrite using more formal language,**Elaborate** to go into more depth,**Shorten** to summarize the email in fewer words, or**I’m Feeling Lucky** for a randomized rewrite.  
 ![Formalize, Elaborate, Shorten, and I'm Feeling Lucky highlighted in the Bard interface in Gmail.](https://www.lifewire.com/thmb/JDeyaYbNZnDlTVbMGNJIbBM0TcM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A6-UseGoogleBardinGmail-annotated-94feaab765314e928e4a675cc876e665.jpg)
@@ -57,10 +72,32 @@ The highlight will no longer be visible at this point.
 11. When you’re happy with the result, click**Insert** .  
 ![Insert highlighted in the Bard interface in Gmail.](https://www.lifewire.com/thmb/hkU7QElXvM0InhVZw42_gyjHplY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A11-UseGoogleBardinGmail-annotated-13ba8da6808441eb9956c618eb6c4ce7.jpg)
 12. You will now have both the original email and the adjusted one. In this example, only the third paragraph was rewritten. Select and delete the original version if you’re happy with the results.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Redundant Bard-generated text selected for deletion in Gmail.](https://www.lifewire.com/thmb/d1VVDZeb2HKr9qDaH642m15HjyI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/13-79070ef79fd343249b1e49b03f6396ef.jpg)
 13. Make any necessary changes or adjustments, address the email, and send it.  
 ![Bard generated text in Gmail.](https://www.lifewire.com/thmb/TsF7GqkBxEvLAci99iyR8n2B3_g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/14-1dbbab0ec4c04a64afafb4b4335e3078.jpg)  
  You can continue using the Help Me Write button to make additional adjustments or add more content until you’re satisfied with the results.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Use Duet to Reply in Gmail
 
@@ -71,6 +108,14 @@ The highlight will no longer be visible at this point.
 1. Open an email in Gmail, and click Reply.  
 ![Reply highlighted in Gmail.](https://www.lifewire.com/thmb/hUqq-PG8G44fc7-iO_TjIAUpFYI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B1-UseGoogleBardinGmail-annotated-2b42a9cea19c4eefb224d04efa654ba9.jpg)  
  Gmail provides short, automatically generated replies you can select here, but this process will use Duet to write more in-depth replies.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. Click the**Help Me Write** button (pencil icon).  
 ![The Help Me Write button (pencil) highlighted in Gmail.](https://www.lifewire.com/thmb/eW7D2V4W1j_ihvTIHbO1T9cRZQA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B2-UseGoogleBardinGmail-annotated-911ba5f7c45a4e3c90130ea67f184a3b.jpg)
 3. Enter a prompt that describes the reply you want Duet to write, and then click**Create** .  
@@ -78,15 +123,16 @@ The highlight will no longer be visible at this point.
 4. If you’re satisfied with the email, you can click**Insert** .  
 ![Insert highlighted in the Bard interface in Gmail.](https://www.lifewire.com/thmb/oapI-cwrYelTx8IBXfldIOL7lhw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B4-UseGoogleBardinGmail-annotated-0f8c935fd5334667b4999b87a990989d.jpg)  
  Click**Recreate** to have Duet start over or**Refine** to adjust the already written reply if you aren’t happy with the results.
-5. Replace any placeholder text with the correct details, and send the reply.  
-![An email reply generated by Bard in Gmail.](https://www.lifewire.com/thmb/5Rbq1KVS7GJqhilnkVT5xRA6BOs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/reply6-9ae290a0966748588ce865b97c240692.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+5. Replace any placeholder text with the correct details, and send the reply.  
+![An email reply generated by Bard in Gmail.](https://www.lifewire.com/thmb/5Rbq1KVS7GJqhilnkVT5xRA6BOs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/reply6-9ae290a0966748588ce865b97c240692.jpg)
 
 ## What Can Google Duet Do in Gmail?
 
@@ -134,5 +180,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-how-to-set-up-zoom-for-video-meeting/"><u>[New] In 2024, How to Set up Zoom for Video Meeting</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-12-html5-videophones-for-optimal-viewing/"><u>[Updated] Top 12 HTML5 Videophones for Optimal Viewing</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-video-subtitle-fabricator-for-2024/"><u>[Updated] Video Subtitle Fabricator for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ng-into-past-our-top-10-picks-of-history-channels-online-for-2024/"><u>Delving Into Past Our Top 10 Picks of History Channels Online for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6s-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6s to other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-a-guide-to-homemade-film-crafting-youtube-and-beyond/"><u>In 2024, A Guide to Homemade Film Crafting, YouTube & Beyond</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastery-over-music-flow-the-art-of-audio-blending/"><u>In 2024, Mastery Over Music Flow The Art of Audio Blending</u></a></li>
+<li><a href="https://program-issues.techidaily.com/rogue-company-game-stability-issues-fixed-now-running-smoothly-on-pc/"><u>Rogue Company Game Stability Issues Fixed: Now Running Smoothly on PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-8-free-photo-editing-software-of-2024-a-comprehensive-guide/"><u>Top 8 Free Photo-Editing Software of 2024: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/transform-your-audio-interchange-file-aif-into-wmv-format-at-no-cost-using-movavis-website/"><u>Transform Your Audio Interchange File (AIF) Into WMV Format at No Cost Using Movavi's Website</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/transforma-archivos-mpeg-a-formato-m4a-sin-costo-alguno-utilizando-la-herramienta-de-conversion-en-linea-de-movavi/"><u>Transforma Archivos MPEG a Formato M4A Sin Costo Alguno Utilizando La Herramienta De Conversión en Línea De Movavi</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/transformation-facile-et-gratuite-des-fichiers-mod-aux-formats-mov-sur-le-web-guide-videos-convertisseurs/"><u>Transformation Facile Et Gratuite Des Fichiers MOD Aux Formats MOV Sur Le Web - Guide Vidéos Convertisseurs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/transformez-votre-fichier-amv-en-video-mp4-gratuite-online-avec-movavi/"><u>Transformez Votre Fichier AMV en Vidéo MP4 Gratuite - Online Avec Movavi</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-you-shouldnt-download-google-bard-possible-threats-explained/"><u>Why You Shouldn't Download Google Bard – Possible Threats Explained</u></a></li>
+</ul></div>
 

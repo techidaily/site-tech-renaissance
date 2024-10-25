@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Customizing Your Windows 10 Taskbar Color"
-date: 2024-09-08T17:37:56.809Z
-updated: 2024-09-15T20:49:06.358Z
+date: 2024-10-24T05:38:18.525Z
+updated: 2024-10-24T16:27:23.836Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Guide: Customizing Your Windows 10 Taskbar Color"
@@ -36,17 +36,62 @@ thumbnail: https://thmb.techidaily.com/98cce883f8c6d6df0bb852da7eb40767e5514e430
 3. Click**Colors** .  
 ![Colors highlighted in Windows personalization settings.](https://www.lifewire.com/thmb/h4AKm5Ov_-l9-WUa59FFlmGeFXE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Colorsannotated-3e87b0199bfb45ea813801b762278806.jpg)
 4. Click the**Choose your color** drop down, and select**Custom** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Custom highlighted in the choose your color Windows personalization dropdown box.](https://www.lifewire.com/thmb/eA7uewut5FM7kZcZg4i8rTtsoAc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Customannotated-e732222a31ff4e7084109b0cde824d2f.jpg)
 5. Under**Choose your default Windows mode** , click**Dark** .  
 ![Dark highlighted under Choose your default Windows mode.](https://www.lifewire.com/thmb/hwscXAtkVVGnRXJOxVPrK4-g_N0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Darkannotated-24f27a05096643cbaea9db7154eb3c20.jpg)
 6. Click**Custom color** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Custom color highlighted in Windows color settings.](https://www.lifewire.com/thmb/M8gPUzgdrRCHL-40UiGLeUBo8i8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Customcolorannotated-b599f0b8b4fe4e0b92240f051aee0d90.jpg)
 7. Use the**color picker** to choose your custom color, and click**Done** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Done highlighted in the Windows color picker.](https://www.lifewire.com/thmb/hGVjGq0ok4PwKRRjTNyRMCrpwQY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Doneannotated-e3cd94035aaa41fd840c08ca0229a5e7.jpg)
 8. Check**Start, taskbar, and action center** .  
 ![Start, taskbar, and action center highlighted in Windows color settings.](https://www.lifewire.com/thmb/LPdVkLGGBF1YEkawGekexSLhfmQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Checkannotated-4039a9b9c80b4b75b1a3ade7dc789b60.jpg)
 9. Your taskbar will now reflect the custom color you chose.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![A Windows taskbar with a custom color.](https://www.lifewire.com/thmb/hvjLb5gR-qGVHlTSnJhsrlMQwBE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Taskbarannotated-749a9acd40234ceeb4d1894fa675beca.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Why Can’t I Change the Color of My Taskbar?
 
@@ -55,13 +100,6 @@ thumbnail: https://thmb.techidaily.com/98cce883f8c6d6df0bb852da7eb40767e5514e430
 ![Colors menu in Windows 10. This menu houses the dark mode option.](https://www.lifewire.com/thmb/fUzWLhtj_44EGlchuXXx4vjABx8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/darkthemescreenshot-5c76fc2cc9e77c0001fd594b.jpg)
 
  You can set App Mode to either Light or Dark, but you won’t be able to change the color of the taskbar if you've set Windows Mode to Light. If the Start, taskbar, and action center box in your color settings are grayed out, it’s usually because Windows Mode is on the Light setting.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Why Has My Taskbar Changed Color in Windows 10?
 
@@ -109,5 +147,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-social-synergy-from-insta-to-the-world-of-tiktok/"><u>[Updated] 2024 Approved Social Synergy From Insta to the World of TikTok</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-ultimate-guide-to-mobizens-screen-capture-tool/"><u>[Updated] 2024 Approved Ultimate Guide to Mobizen's Screen Capture Tool</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-enhance-visibility-the-power-of-customized-youtube-templates-for-2024/"><u>[Updated] Enhance Visibility The Power of Customized YouTube Templates for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-step-by-step-guide-to-perfect-gamer-channel-headers/"><u>[Updated] Step-By-Step Guide to Perfect Gamer Channel Headers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-the-fast-lane-to-sharing-playlists-online/"><u>2024 Approved The Fast Lane to Sharing Playlists Online</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-comprehensive-guide-to-deleting-pictures-from-your-facebook-page/"><u>A Comprehensive Guide to Deleting Pictures From Your Facebook Page</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-pencil-showdown-unpacking-the-features-of-apple-pencil-pro-vs-apple-pencil-2-to-boost-your-ipad-experience-zdnet-insights/"><u>Apple Pencil Showdown: Unpacking the Features of Apple Pencil Pro Vs. Apple Pencil 2 to Boost Your iPad Experience | ZDNet Insights</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exclusive-september-release-top-3-new-functionalities-added-to-select-apple-airpod-models-detailed-insights/"><u>Exclusive September Release: Top 3 New Functionalities Added to Select Apple AirPod Models - Detailed Insights</u></a></li>
+<li><a href="https://techidaily.com/get-your-snipping-tool-back-to-work-with-these-fixes-for-windows-10-and-11-systems/"><u>Get Your Snipping Tool Back to Work with These Fixes for Windows 10 and 11 Systems</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-detailed-guide-on-removing-iphone-se-activation-lock-without-previous-owner-by-drfone-ios/"><u>In 2024, Detailed Guide on Removing iPhone SE Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Vivo Y78t? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/sim-mode-enhances-sensitivity-by-focusing-on-specific-ions-related-to-target-compounds-and-is-particularly-useful-when-dealing-with-complex-mixtures-or-low-173/"><u>SIM Mode Enhances Sensitivity by Focusing on Specific Ions Related to Target Compounds and Is Particularly Useful when Dealing with Complex Mixtures or Low Concentrations.</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-iphone-se-cases-of-2022-ultimate-defense-and-style-featured-on-zdnet/"><u>Top-Rated iPhone SE Cases of 2022: Ultimate Defense & Style - Featured on ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-the-potential-of-contactless-shopping-with-apple-pay-learn-how-and-why-you-should-switch-today-zdnet/"><u>Unlock the Potential of Contactless Shopping with Apple Pay - Learn How & Why You Should Switch Today | ZDNet</u></a></li>
+</ul></div>
 

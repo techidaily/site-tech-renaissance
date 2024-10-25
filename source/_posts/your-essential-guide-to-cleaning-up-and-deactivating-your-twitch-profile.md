@@ -1,7 +1,7 @@
 ---
 title: Your Essential Guide to Cleaning Up and Deactivating Your Twitch Profile
-date: 2024-09-14T16:16:08.525Z
-updated: 2024-09-15T20:51:08.285Z
+date: 2024-10-18T04:33:09.187Z
+updated: 2024-10-25T05:52:58.854Z
 categories:
   - BestProducts
 description: This Article Describes Your Essential Guide to Cleaning Up and Deactivating Your Twitch Profile
@@ -23,11 +23,25 @@ thumbnail: https://www.lifewire.com/thmb/9jzK_eH-lNbQMHIpeQEajoAPivY=/400x300/fi
 
  The_Pokémon Go_ buddy system is a feature that lets you show off your favorite Pokémon, earn candy, and receive in-app gifts and souvenirs. This guide explains how to play together with your buddy in_Pokémon Go_ , how to swap Pokémon buddies, and how to best use the buddy system to get the most out of the game.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Adding a ‘Pokémon Go’ Buddy for the First Time
 
 _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it significantly in 2019 by letting your buddy appear on the map. The app directed all players through the process of adding a buddy Pokémon after each feature update, but if for some reason you managed to bypass these in-app tutorials, you can add your first Pokémon buddy by selecting your trainer profile icon from the lower-left corner of the map screen and tapping**Buddy History** or**Buddy** .
 
 ![Pokemon Go trainer screen with Buddy History icon highlighted.](https://www.lifewire.com/thmb/BdiPfIa8oWBYka7UEwDkhYUEZlU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Buddy-icon-in-Pokemon-Go-0b51206346d144a0b55dda8d337fcc18.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you don’t see a**Buddy History** or**Buddy** option, you may need to update the_Pokémon Go_ app to its latest version.
 
@@ -42,6 +56,13 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 3. Tap**Yes** .
 4. Find the Pokémon you want to add as your new buddy and tap it. If successful, the selected Pokémon will be shown in a brief fullscreen announcement and then appear on the Pokémon buddy screen as your new buddy.  
 ![Pokemon Go app showing how to swap your Buddy Pokémon](https://www.lifewire.com/thmb/BoGpxHgNU6FVRwfj_E4L0CrpefQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-play-with-your-buddy-in-pokemon-go-02-e064b240ebdf48fa89583f0851d42bcd.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Is the Point of Having a Buddy in Pokémon Go?
 
@@ -67,36 +88,23 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 ![Pokemon GO with buddy Pokemon and Play icons highlighted](https://www.lifewire.com/thmb/ZJo8o9TObp3SUocJtYPzmQ-r3VA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Play-with-buddy-Pokemon-5d81ad40271c49dba320d76c94d2ae10.jpg)
 5. After several seconds of patting, a bright light should surround your buddy, and a heart will appear. This heart will go toward your buddy’s friendship level. You can only earn one heart by playing with your buddy Pokémon every day, though you can play with them as many times as you like.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Tap the**Exit** icon in the top-left corner to return to the map, or tap the**Berry** icon in the lower-left corner to feed your Pokémon berries to get it to appear on the map.
 7. To feed your Pokémon buddy, tap and drag berries from the lower menu to your Pokémon. Three regular Razz, Nanab, or Pinap berries will be enough to have your buddy join you on the map. One Silver Pinap Berry, one Golden Razz Berry, or one Poffin will also do the job.  
  Once your buddy Pokémon is on the map with you, the distance required to walk to earn candy is reduced. Your buddy may also direct you to spin certain Pokéstops to earn hidden prizes and earn bonus hearts.  
 ![Pokemon GO buddy screens with Exit and Berry icons highlighted, berry to buddy swipe gesture added.](https://www.lifewire.com/thmb/7fPUcRq4cguvQ2HkO9UqgBsgHUU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Feeding-buddy-Pokemon-664324e020424c63a8b97f9500ce6a11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Does Swapping Buddies Lose Progress?
 
  Swapping a_Pokémon Go_ buddy for another one will delete any unfinished progress that’s currently in action, but it won’t remove any gained friendship level status. For example, if your buddy Pokémon is halfway into unlocking a candy, swapping the buddy out will remove this progress. The usual stats that reset at the end of each day will also clear with a swap.
 
  However, if this buddy has reached Great Buddy or some other friendship level status, that progress will remain no matter how many times you swap the buddy out.
-
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Does It Matter Who Your Buddy Is in 'Pokémon Go'?
 
@@ -135,5 +143,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-comprerancial-free-imagery-tips-and-tricks-for-2024/"><u>[New] Comprerancial Free Imagery Tips and Tricks for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-cutting-edge-templates-unlocking-your-videos-potential-for-2024/"><u>[Updated] Cutting-Edge Templates Unlocking Your Video's Potential for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-earning-streaming-strategies-8-beginners-tips/"><u>[Updated] In 2024, Earning Streaming Strategies - 8 Beginners' Tips</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-metaspace-contrasted-with-cosmic-universe-for-2024/"><u>[Updated] Metaspace Contrasted with Cosmic Universe for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/download-and-install-macos-monterey-preview-version-on-your-mac-device-now-step-by-step-instructions-tech-insights/"><u>Download and Install macOS Monterey Preview Version on Your Mac Device Now! Step-by-Step Instructions Tech Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/experience-the-ultimate-bargain-get-apple-airtags-for-24-less-per-pack-during-walmarts-labor-day-sale-featured/"><u>Experience the Ultimate Bargain: Get Apple AirTags for $24 Less per Pack During Walmart’s Labor Day Sale, Featured !</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-the-secrets-of-ifunny-meme-app-usage/"><u>In 2024, Unveiling the Secrets of iFunny Meme App Usage</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/sharing-your-mac-address-on-the-map-a-simple-guide-and-benefits-techtut/"><u>Sharing Your Mac Address on the Map: A Simple Guide & Benefits | TechTut</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-walkthrough-for-setting-up-a-genius-bar-session-with-apple-experts/"><u>The Ultimate Walkthrough for Setting Up a Genius Bar Session with Apple Experts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-iphone-vpn-apps-comprehensive-expert-reviews-and-comparisons-techradar/"><u>Top-Rated iPhone VPN Apps: Comprehensive Expert Reviews & Comparisons | TechRadar</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-unlimited-potential-how-to-leverage-freeform-as-your-ideal-creative-strategy/"><u>Unlock Unlimited Potential: How to Leverage Freeform as Your Ideal Creative Strategy</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-pcs-graphics-capabilities-with-new-drivers/"><u>Update PC's Graphics Capabilities with New Drivers</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/windows-11-efi-partition-restoration-made-simple/"><u>Windows 11 EFI Partition Restoration Made Simple</u></a></li>
+</ul></div>
 

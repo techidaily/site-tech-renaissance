@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Showdown: Comparing Speeds & Features of Cat5 and Cat6 Cabling"
-date: 2024-09-11T21:24:40.398Z
-updated: 2024-09-15T18:58:58.992Z
+date: 2024-10-18T03:54:48.374Z
+updated: 2024-10-24T19:38:58.152Z
 categories:
   - BestProducts
 description: "This Article Describes The Ultimate Showdown: Comparing Speeds & Features of Cat5 and Cat6 Cabling"
@@ -50,6 +50,13 @@ Monoprice
 
  They gave broader options for shielding, too, though the thicker cables in those cases can make them a little harder to route through narrower gaps or in larger quantities.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Performance: Cat6 Is Faster and Better Made
 
  Cat5
@@ -71,6 +78,19 @@ Monoprice
  Cat5 cables are a much older, slower standard, limited to a maximum of 100 Mbps on Ethernet cables up to 100 meters. That speed will cover just about any device with an Ethernet port from the past 20 years, so compatibility isn't a problem. But faster networks are increasingly common today, and 100 Mbps is considerably slower than even older[Wi-Fi standards](https://www.lifewire.com/what-is-wi-fi-2377430) .
 
  Cat6 Ethernet cables support Gigabit Ethernet (1,000 Mbps) for cables up to 100 m long, but if you keep the cable running under 55 m, you can enjoy 10,000 Mbps. You'll need hardware that supports that speed in your router/switch and connected devices to take full advantage, but the option is there for those transferring massive data collections around a local network.
+
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Shielding: Cat6 Has More Options, but It's Thicker
 
@@ -96,10 +116,10 @@ Monoprice
  This protection is only really relevant in busy apartment buildings, offices, and data centers where there are many other electronic devices and Ethernet cables around. It doesn't really hurt, either, but that additional shielding and wire thickness can make the installation and transport of Cat6 a little more tricky.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Futureproofing: Cat6 Will Eventually Replace Cat5
@@ -124,10 +144,10 @@ Monoprice
  Cat6 is also backward compatible with Cat5, so you can just start replacing your cables with Cat6 piecemeal if you prefer. It'll all function just fine, but when you finally replace all networking hardware with faster gear, you'll be able to use the new Cat6 speed to its full effect.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Final Verdict
@@ -169,5 +189,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-peculiar-picasso-creating-quirky-quick-memes/"><u>[New] In 2024, Peculiar Picasso Creating Quirky, Quick Memes</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-expand-your-reach-top-tactics-to-amplify-fb-clout/"><u>[Updated] Expand Your Reach Top Tactics to Amplify FB Clout</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/a-deep-dive-into-ideal-instagram-post-times/"><u>A Deep Dive Into Ideal Instagram Post Times</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/avoid-parsing-failures-8-essential-tips-for-cleaner-android-app-development/"><u>Avoid Parsing Failures: 8 Essential Tips for Cleaner Android App Development</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-aether-understanding-its-nature-and-the-pathways-to-engagement/"><u>Discover Aether: Understanding Its Nature & The Pathways to Engagement</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-monthly-highlights-premium-verizon-device-exchange-options/"><u>Discover Monthly Highlights: Premium Verizon Device Exchange Options</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-can-i-disable-the-for-you-section-suggestions-on-instagram/"><u>How Can I Disable the 'For You' Section Suggestions on Instagram?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-system-issues-of-iphone-12-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System Issues of iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-silence-the-verbal-directions-feature-on-a-samsung-set-top-box/"><u>How To Silence the Verbal Directions Feature On A Samsung Set-Top Box</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Xiaomi Redmi 13C? | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/quickcapture-miniapp-windows-10-version-for-2024/"><u>QuickCapture MiniApp - Windows 10 Version for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-not-connected-to-network-errors-on-galaxy-devices/"><u>Troubleshooting 'Not Connected to Network' Errors on Galaxy Devices</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/windows-10-quick-guide-how-to-stop-command-prompt-from-rapidly-opens-and-closes-solution-9/"><u>Windows 10 Quick Guide: How to Stop Command Prompt From Rapidly Opens and Closes (Solution 9)</u></a></li>
+</ul></div>
 

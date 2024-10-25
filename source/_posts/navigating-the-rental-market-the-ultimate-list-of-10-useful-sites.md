@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Rental Market: The Ultimate List of 10 Useful Sites"
-date: 2024-10-17T11:56:23.278Z
-updated: 2024-10-18T22:49:46.341Z
+date: 2024-10-23T21:08:18.906Z
+updated: 2024-10-24T22:51:03.944Z
 categories:
   - BestProducts
 description: "This Article Describes Navigating the Rental Market: The Ultimate List of 10 Useful Sites"
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/151e2edee1a0284cef5f2216fc95a6d76e6031c7d
 3. Scroll to the bottom of the page and select **Save Changes** .  
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Create, Send, and Forward Email
 
  With Gmail[keyboard](https://www.lifewire.com/what-is-a-keyboard-2618153) shortcuts, you can quickly create, send, and forward Gmail messages:
@@ -57,10 +64,10 @@ thumbnail: https://thmb.techidaily.com/151e2edee1a0284cef5f2216fc95a6d76e6031c7d
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Select Multiple Emails
@@ -80,6 +87,19 @@ thumbnail: https://thmb.techidaily.com/151e2edee1a0284cef5f2216fc95a6d76e6031c7d
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Add Elements to an Email
 
  Addling links, numbered lists, and bullet points to your emails can also be done using keyboard shortcuts:
@@ -90,6 +110,13 @@ thumbnail: https://thmb.techidaily.com/151e2edee1a0284cef5f2216fc95a6d76e6031c7d
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Email Maintenance Shortcuts
 
  Use these shortcuts to help manage your inbox:
@@ -99,13 +126,6 @@ thumbnail: https://thmb.techidaily.com/151e2edee1a0284cef5f2216fc95a6d76e6031c7d
 * **Delete an email (Shift** +**3)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**3** to[send the email to the trash](https://www.lifewire.com/how-to-delete-with-a-swift-keyboard-shortcut-in-gmail-1172079) .
 * **Mark an email as unread (Shift** +**U)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**U** to mark it as unread.
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## "Go to" Shortcuts in Gmail
 
@@ -119,13 +139,6 @@ thumbnail: https://thmb.techidaily.com/151e2edee1a0284cef5f2216fc95a6d76e6031c7d
 * **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to View All Gmail Shortcuts
 
  Need help remembering a shortcut? You can quickly pull up the entire list with a keyboard shortcut:
@@ -133,13 +146,6 @@ thumbnail: https://thmb.techidaily.com/151e2edee1a0284cef5f2216fc95a6d76e6031c7d
 * **Open keyboard shortcut help (Shift** +**?)** : Press**Shift** +**?** to get the full list of Gmail keyboard shortcuts.
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Was this page helpful?
 
@@ -170,22 +176,18 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-essential-links-purchasing-youtube-tones-online-for-2024/"><u>[New] Essential Links Purchasing YouTube Tones Online for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-10-premier-online-systems-for-screen-saving/"><u>[Updated] 10 Premier Online Systems for Screen Saving</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-mastering-steams-switch-pro-controllers/"><u>[Updated] In 2024, Mastering Steam's Switch Pro Controllers</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-optimal-speech-recognition-the-google-methodology/"><u>[Updated] In 2024, Optimal Speech Recognition The Google Methodology</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-play-your-iphone-videos-backward/"><u>2024 Approved How to Play Your iPhone Videos Backward</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722870555754-anticipating-the-arrival-in-depth-rumors-on-specs-launch-plans-and-potential-costs-of-the-new-samsung-galaxy-z-fold-prise-the-7-edition/"><u>Anticipating the Arrival - In-Depth Rumors on Specs, Launch Plans, and Potential Costs of the New Samsung Galaxy Z Fold Prise: The 7 Edition</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/best-10-smartphone-applications-for-todays-students/"><u>Best 10 Smartphone Applications for Today's Students</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/best-streaming-services-of-2024-ranked-enhancing-your-tv-experience/"><u>Best Streaming Services of 2024 Ranked: Enhancing Your TV Experience</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/common-reasons-behind-iphones-ringless-dialing-and-how-to-solve-them/"><u>Common Reasons Behind iPhone's Ringless Dialing and How to Solve Them</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-does-the-roku-express-compare-to-the-classic-roku-stick/"><u>How Does the Roku Express Compare to the Classic Roku Stick?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-successfully-address-and-repair-btballoondll-file-unavailable-mishap/"><u>How to Successfully Address and Repair btballoon.dll File Unavailable Mishap</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-realme-v30-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Realme V30 Device</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-install-download-hp-officejet-5740-printer-drivers-today/"><u>Quick Install: Download HP OfficeJet 5740 Printer Drivers Today!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/reversing-your-pc-display-orientation-easy-steps-to-master-it/"><u>Reversing Your PC Display Orientation - Easy Steps to Master It</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/steam-refund-procedures-a-step-by-step-guide/"><u>Steam Refund Procedures: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722887216005-unveiling-the-samsung-galaxy-s25-anticipated-costs-launch-timeline-and-features/"><u>Unveiling the Samsung Galaxy S25 - Anticipated Costs, Launch Timeline & Features</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/winning-the-battle-against-disappearing-mice-in-windows-11-solved/"><u>Winning the Battle Against Disappearing Mice in Windows 11 [Solved]</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-expert-strategies-for-higher-youtube-shorts-revenue/"><u>[New] 2024 Approved Expert Strategies for Higher YouTube Shorts Revenue</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-starting-from-scratch-stardews-ginger-island-guide/"><u>[New] In 2024, Starting From Scratch Stardew's Ginger Island Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-how-to-screen-record-skype-with-obs/"><u>2024 Approved How to Screen Record Skype with OBS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/correcting-the-critical-bootmgr-failure-for-smooth-computer-startup/"><u>Correcting the Critical Bootmgr Failure for Smooth Computer Startup</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-value-tech-treats-for-a-luxe-experience-on-a-dime/"><u>Discover the Best Value Tech Treats for a Luxe Experience on a Dime.</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/does-pokegoplusplus-still-work-on-apple-iphone-xripad-drfone-by-drfone-virtual-ios/"><u>Does PokeGo++ still work on Apple iPhone XR/iPad? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/effortless-transformation-converting-wmv-videos-for-smooth-uploading-on-youtube/"><u>Effortless Transformation: Converting WMV Videos for Smooth Uploading on YouTube</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/evolution-of-apples-ios-a-detailed-journey-from-version-10-through-to-180/"><u>Evolution of Apple's iOS: A Detailed Journey From Version 1.0 Through to 18.0</u></a></li>
+<li><a href="https://os-tips.techidaily.com/leading-ios-tools-to-explore-and-manage-your-phones-sync-files/"><u>Leading iOS Tools to Explore and Manage Your Phone's Sync Files</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/streamlining-your-contacts-a-step-by-step-guide-to-unfriending-several-users-in-snapchat/"><u>Streamlining Your Contacts: A Step-by-Step Guide to Unfriending Several Users in Snapchat</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-best-collection-of-9-free-preschool-games-for-early-learning-and-enjoyment/"><u>The Best Collection of 9 Free Preschool Games for Early Learning and Enjoyment</u></a></li>
+<li><a href="https://fox-info.techidaily.com/transform-your-workspace-with-these-8-dynamic-backdrops-for-2024/"><u>Transform Your Workspace with These 8 Dynamic Backdrops for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transformez-facilement-et-sans-frais-un-fichier-ogv-en-gif-a-laide-de-movavi-online/"><u>Transformez Facilement Et Sans Frais Un Fichier OGV en GIF À L'aide De Movavi Online</u></a></li>
 </ul></div>
 

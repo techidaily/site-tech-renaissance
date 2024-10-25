@@ -1,7 +1,7 @@
 ---
 title: "Secrets to Surpassing Graphics Limits: Enabling 120 FPS Mode on PS5 Games"
-date: 2024-09-09T16:28:54.259Z
-updated: 2024-09-15T17:54:43.004Z
+date: 2024-10-23T02:53:39.876Z
+updated: 2024-10-25T08:59:57.914Z
 categories:
   - BestProducts
 description: "This Article Describes Secrets to Surpassing Graphics Limits: Enabling 120 FPS Mode on PS5 Games"
@@ -23,6 +23,13 @@ thumbnail: https://thmb.techidaily.com/1e8ed7d03244990645b268803c3dbd7e538910f87
 
  This article explains how to open[Command Prompt](https://www.lifewire.com/command-prompt-2625840) , which is one of the[command-line interface](https://www.lifewire.com/what-is-a-command-line-interpreter-2625827) programs used to execute[commands](https://www.lifewire.com/what-is-a-command-2625828) in Windows operating systems. These directions apply to Windows 11, Windows 10, Windows 8, Windows 7, Windows Vista, and Windows XP.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Open Command Prompt in Windows 11 or 10
 
  There are a few ways, but using the search bar on the taskbar is one quick method for opening a command window.
@@ -42,13 +49,6 @@ thumbnail: https://thmb.techidaily.com/1e8ed7d03244990645b268803c3dbd7e538910f87
  Another way to open the Windows Command Prompt in Windows 10 is to look in its Start menu folder. Open the**Start menu** , select the**Windows System** folder from the list, and then choose**Command Prompt** from the folder group.
 
 ![Command Prompt menu item in Windows System folder in Start menu on Windows 10](https://www.lifewire.com/thmb/M8TRCTyz0ujUzmDzFZsFJjffiq4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-open-command-prompt-2618089-5c6468a146e0fb0001f25667.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Open Command Prompt Using Power User Menu
 
@@ -82,10 +82,10 @@ thumbnail: https://thmb.techidaily.com/1e8ed7d03244990645b268803c3dbd7e538910f87
  See our [list of Windows 7 commands](https://www.lifewire.com/list-of-windows-7-command-prompt-commands-4107370) and[list of Windows XP commands](https://www.lifewire.com/windows-xp-commands-4687695) if you need a command reference for any of those versions of Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Other Ways to Open Command Prompt
@@ -97,10 +97,10 @@ thumbnail: https://thmb.techidaily.com/1e8ed7d03244990645b268803c3dbd7e538910f87
 ![cmd command in Windows task manager](https://www.lifewire.com/thmb/vmaNGH1y0PVAMe1joTnnpWVqJ-Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cmd-command-task-manager-da3a31f675de41198c4948fbaff46829.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Elevated Command Prompts and Old Windows Versions
@@ -114,6 +114,13 @@ thumbnail: https://thmb.techidaily.com/1e8ed7d03244990645b268803c3dbd7e538910f87
 * **you must be an administrator**
 
 ![sfc scannow elevated prompt message](https://www.lifewire.com/thmb/PmVejDjk3-H5ABhTpR5vFhEpxXE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sfc-scannow-administrator-command-prompt-775fe2bfbdd54342813261652a3de86f.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  See[How to Open an Elevated Command Prompt](https://www.lifewire.com/how-to-open-an-elevated-command-prompt-2618088) for help starting Command Prompt as an administrator, a process that's a bit more complicated than what's outlined above.
 
@@ -157,5 +164,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-scrutinizing-the-benefits-of-itops-screencasting-for-2024/"><u>[New] Scrutinizing the Benefits of ITop's Screencasting for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-netflixs-innovative-split-screen-tech/"><u>2024 Approved Mastering Netflix's Innovative Split Screen Tech</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-moviemaker-masterwin8/"><u>2024 Approved MovieMaker MasterWin8</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-top-5-alternative-editors-beyond-youtubes-limits/"><u>2024 Approved Top 5 Alternative Editors Beyond Youtube's Limits</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-latest-atandt-cellphone-savings-for-may-202n4-expert-reviews-and-tips-zdnet/"><u>Discover the Latest AT&T Cellphone Savings for May 202N4 – Expert Reviews and Tips | ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ensure-peak-performance-explore-our-picks-for-the-best-free-updater-applications/"><u>Ensure Peak Performance: Explore Our Picks for the Best Free Updater Applications</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-how-mac-studios-unique-features-outshine-the-new-m4-mac-mini-for-fall-release-enthusiasts-tech-insights-by-zdnet/"><u>Exploring How Mac Studio's Unique Features Outshine the New M4 Mac Mini for Fall Release Enthusiasts | Tech Insights by ZDNet</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-multiplatform-vmix-blender/"><u>In 2024, Multiplatform VMix Blender</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-the-world-of-apple-processors-from-rosetta-to-m3-soc-essential-insights-for-savvy-consumers-zdnet/"><u>Navigating the World of Apple Processors: From Rosetta to M3 SoC - Essential Insights for Savvy Consumers | ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-to-optimal-windows-11-search-performance/"><u>Navigating to Optimal Window's 11 Search Performance</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/omnimix-pro-versatile-os-edition-for-2024/"><u>OMNIMix Pro Versatile OS Edition for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-for-unblocking-steam-play-link-errors/"><u>Steps for Unblocking Steam Play Link Errors</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/takmp3wavflac/"><u>TAKファイルを最高音質でMP3・WAV・FLACに変更する技術</u></a></li>
+</ul></div>
 

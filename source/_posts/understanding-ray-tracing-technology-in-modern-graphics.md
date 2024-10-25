@@ -1,7 +1,7 @@
 ---
 title: Understanding Ray Tracing Technology in Modern Graphics
-date: 2024-09-10T20:24:26.569Z
-updated: 2024-09-15T23:19:37.130Z
+date: 2024-10-18T16:23:34.318Z
+updated: 2024-10-24T16:01:23.410Z
 categories:
   - BestProducts
 description: This Article Describes Understanding Ray Tracing Technology in Modern Graphics
@@ -36,6 +36,13 @@ thumbnail: https://www.lifewire.com/thmb/1-Yp1JIoL4O5iudaQ-YSTZFzypk=/400x300/fi
 3. Choose**Clear data** .  
 ![The cached images and files checkbox in Chrome's Clear Browsing Data prompt](https://www.lifewire.com/thmb/koYvaD17zNjG2ivlceG6uNqoKBE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/chrome-clear-cached-images-files-b5adb033e0a94b35bf6e353477d5ebd5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Clear Cache in the Chrome Mobile App
 
  Here's how it works in Chrome's mobile app:
@@ -47,6 +54,13 @@ thumbnail: https://www.lifewire.com/thmb/1-Yp1JIoL4O5iudaQ-YSTZFzypk=/400x300/fi
 5. Tap**Clear data** \>**Clear** on Android, or**Delete Browsing Data** \>**Delete Browsing Data** on iOS.  
 ![The Clear browsing data screen in the Chrome mobile app](https://www.lifewire.com/thmb/PgBnwC8X79xf4XgE7ZcpYBdj_Rc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/chrome-app-clear-cache-8431483fb047400cb98ea15cdf52e745.png)  
  Chrome on Android will suggest keeping data from sites you visit often. The choice is yours but to delete_all_ of Chrome's cache, you'll need to keep those items selected.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Clear the Firefox Cache
 
@@ -64,19 +78,27 @@ thumbnail: https://www.lifewire.com/thmb/1-Yp1JIoL4O5iudaQ-YSTZFzypk=/400x300/fi
 ![The Firefox menu in Windows](https://www.lifewire.com/thmb/D8-cMayZxLKdXZ4-m6_U2i0-W0g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/firefox-menu-2516fa793c7c4037b7195c85ad0ad39e.png)
 2. Choose**Privacy & Security** from the left, then scroll to**Cookies and Site Data** on the right.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Select**Clear Data** .  
 ![A screenshot of Firefox Privacy & Security settings with the Clear Data button highlighted](https://www.lifewire.com/thmb/305zytHAvtTSwvpHVrJleyrOKPs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/011-how-to-clear-cache-2617980-fcf21f4998eb49a4ba554b437480495b.jpg)
 4. In the Clear Data screen that opens, select**Cached Web Content** . The other option, if selected, will delete the cookies in Firefox.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![A screenshot of Firefox's Clear Data screen with the "Cached Web Content" option highlighted](https://www.lifewire.com/thmb/bRYm9w2R5MGWJFdUszJpBw5bfvU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-clear-cache-2617980-2ad341e9aad648e0a802ad67de99bea8.jpg)
 5. Choose**Clear** .  
 ![A screenshot of Firefox's Clear Data screen with the Clear button highlighted](https://www.lifewire.com/thmb/d_d8vxFEeGzd47bAlUlzNfN63B4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-clear-cache-2617980-68fece98261142bfa992277033e0898b.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Clear Cache in the Firefox Mobile App
 
@@ -96,13 +118,6 @@ thumbnail: https://www.lifewire.com/thmb/1-Yp1JIoL4O5iudaQ-YSTZFzypk=/400x300/fi
  In Apple's Safari browser on a Mac, clearing the cache is done directly from the menu bar. Go to**Develop** \>**Empty Caches** . You can also clear the cache in Safari on a Mac using the**Option** +**Command** +**E** keyboard shortcut.
 
 ![Safari window showing Develop > Empty Caches](https://www.lifewire.com/thmb/7PJ9p7azS1KiHkCpd8srSLt-LiY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009-clear-cache-2617980-193b017602454678abc4ba5c7685d41f.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you don't see**Develop** on your Safari menu bar, go to**Safari** \>**Preferences** \>**Advanced** , and then select**Show Develop menu in menu bar** .
 
@@ -126,11 +141,26 @@ thumbnail: https://www.lifewire.com/thmb/1-Yp1JIoL4O5iudaQ-YSTZFzypk=/400x300/fi
 1. From the Opera menu (the**O** at the top left of the browser), choose**Settings** .  
 ![The Opera menu on Windows 11](https://www.lifewire.com/thmb/Oc61hvDQ0xS2n-gVxRVyGn4Ea0Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/opera-menu-f0af04ec9f8b461b9c5dfe3905b6a5df.png)
 2. Select**Privacy & security** on the left, then**Clear browsing data** on the right.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Opera's Privacy and Security settings in Windows 11](https://www.lifewire.com/thmb/c1k91GydJSlUD1kZz3Jsyjq0cD0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/opera-privacy-security-settings-cabf372690db4aebb604ad18fef5eb59.png)
 3. Choose**All time** at the top to delete the entire cache.
 4. Opera automatically selects all items you can delete, including**Cached images and files** . Confirm that you want to erase the chosen items.
 5. Select**Clear data** .  
 ![The Clear Browsing Data window in the Opera web browser](https://www.lifewire.com/thmb/a2NGZuHErqbxjviG1W2pkmcJYv8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/opera-clear-browsing-data-54dc8193e8224f8b885847ed0216a607.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Clear Cache in the Opera Mobile Browser
 
@@ -143,6 +173,13 @@ thumbnail: https://www.lifewire.com/thmb/1-Yp1JIoL4O5iudaQ-YSTZFzypk=/400x300/fi
 4. Tap the items you want to clear. To erase just the cache, choose**Cached images and files** .
 5. Select**Clear data** on Android, or**Clear** on iOS.  
 ![Opera app Settings, Privacy & Security, and Clear Data screens](https://www.lifewire.com/thmb/R2V9Xdno9Yjf7y80Bd1ca8duVpw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/opera-cache-purge-android-app-1b5d8f0113b7474b8d5f92bc5a170a00.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Clear Browsing Data for Edge
 
@@ -181,15 +218,16 @@ thumbnail: https://www.lifewire.com/thmb/1-Yp1JIoL4O5iudaQ-YSTZFzypk=/400x300/fi
 1. From the menu bar (select the V logo at the top left if you don't see it), go to**Tools** \>**Delete Browsing Data** .  
 ![The Tools menu in Vivaldi for Windows](https://www.lifewire.com/thmb/wF-2F3XLZXFJy0sBp7ZehDKJDQM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/vivaldi-tools-menu-3e6c4ad1e34e4ef3855aef71644856c4.png)
 2. Pick a timeframe, such as**All Time** , then choose**Cache** from the list. As you can see, you can also erase cookies, downloads, site settings, and more, if you select those items.  
-![Vivaldi's delete browsing data prompt with Cache chosen](https://www.lifewire.com/thmb/Jjrlk86CVOssGYmvryE3K6CN8As=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Screenshot2024-06-14071603-4800e7bd1a44431e82ae862d0d118ad4.png)
-3. Choose**Delete** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Vivaldi's delete browsing data prompt with Cache chosen](https://www.lifewire.com/thmb/Jjrlk86CVOssGYmvryE3K6CN8As=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Screenshot2024-06-14071603-4800e7bd1a44431e82ae862d0d118ad4.png)
+3. Choose**Delete** .
 
 ### Clear Cache in the Vivaldi Mobile Browser
 
@@ -209,13 +247,6 @@ thumbnail: https://www.lifewire.com/thmb/1-Yp1JIoL4O5iudaQ-YSTZFzypk=/400x300/fi
 
  Having a local copy of a web page makes for quick loading on your next visit because your computer or mobile device doesn't have to download it from the internet again. Over time, however, the cache may take up a big chunk of your computer's storage.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why Do You Have to Clear Cache?
 
  You don't have to clear the cache as a regular part of computer or smartphone maintenance. However, there are some good reasons to clear cache:
@@ -228,13 +259,6 @@ thumbnail: https://www.lifewire.com/thmb/1-Yp1JIoL4O5iudaQ-YSTZFzypk=/400x300/fi
  Regardless of why you want to do it, clearing your browser's cache is easy to do in all the popular browsers in use today.
 
  As mentioned above, the quickest way to pull up the "cache clearing" or "browsing data" section in your browser is via**Ctrl** +**Shift** +**Del** (Windows) or**Command** +**Shift** +**Delete** (Mac) but see one of the sections above for the exact steps involved in clearing your specific browser's cache.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## More About Clearing Caches in Web Browsers
 
@@ -282,5 +306,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-visionary-tech-that-cares-for-the-earth/"><u>[New] 2024 Approved Visionary Tech That Cares for the Earth</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-dance-of-words-crafting-bouncing-text-effects/"><u>[Updated] 2024 Approved Dance of Words Crafting Bouncing Text Effects</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-elevate-your-meetings-with-zooms-filter-capabilities-for-2024/"><u>[Updated] Elevate Your Meetings with Zoom's Filter Capabilities for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/directinput-dll-trouble-heres-how-to-fix-the-common-microsoft-error/"><u>DirectInput Dll Trouble? Here's How to Fix the Common Microsoft Error</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-experience-the-full-storyline-of-dragon-ball-in-order/"><u>How To Experience The Full Storyline Of Dragon Ball In Order</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-join-the-global-audience-for-online-samsung-unpacked-events/"><u>How to Join the Global Audience for Online Samsung Unpacked Events</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-oneplus-12-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track OnePlus 12 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-soundtrack-your-storytelling-youtube-music-for-video-content/"><u>In 2024, Soundtrack Your Storytelling YouTube Music for Video Content</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/in-2024-top-10-storyboarding-software-freeandpaid/"><u>In 2024, Top 10 Storyboarding Software Free&Paid</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-sony-xperia-10-v-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Sony Xperia 10 V</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-binkw32dll-troubleshooting-process-for-flawless-operations/"><u>Mastering the binkw32.dll Troubleshooting Process for Flawless Operations</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/perfectly-preserved-your-ultimate-guide-to-saving-tweet-animations-for-2024/"><u>Perfectly Preserved Your Ultimate Guide to Saving Tweet Animations for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/strategies-for-exclusive-zero-cost-visual-frames/"><u>Strategies for Exclusive Zero-Cost Visual Frames</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-watching-dragon-ball-z-sequentially/"><u>The Ultimate Guide: Watching Dragon Ball Z Sequentially</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tracking-online-traffic-a-complete-overview-of-managing-your-data-usage/"><u>Tracking Online Traffic: A Complete Overview of Managing Your Data Usage</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-strategies-solving-cmos-battery-related-checksum-problems/"><u>Troubleshooting Strategies: Solving CMOS Battery-Related Checksum Problems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-building-a-larger-instagram-community/"><u>Ultimate Guide to Building a Larger Instagram Community</u></a></li>
+</ul></div>
 

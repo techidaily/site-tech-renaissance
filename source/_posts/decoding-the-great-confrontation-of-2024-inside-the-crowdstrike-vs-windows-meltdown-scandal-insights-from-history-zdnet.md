@@ -1,7 +1,7 @@
 ---
 title: "Decoding The Great Confrontation of 2024: Inside the CrowdStrike Vs. Windows Meltdown Scandal | Insights From History - ZDNET"
-date: 2024-10-13T18:48:54.445Z
-updated: 2024-10-19T03:25:00.017Z
+date: 2024-10-23T20:04:11.029Z
+updated: 2024-10-24T19:01:08.275Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -94,10 +94,10 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -127,10 +127,10 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -181,22 +181,19 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/fixed-windows-update-error-0x8024401c-in-windows-1011/"><u>[Fixed] Windows Update Error 0X8024401c in Windows 10/11</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/024-approved-the-ultimate-list-of-no-cost-sound-sites-for-filmmakers/"><u>[New] 2024 Approved The Ultimate List of No-Cost Sound Sites for Filmmakers</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-discover-the-finest-android-and-iphone-photo-overlays-at-no-cost/"><u>[Updated] In 2024, Discover the Finest Android & iPhone Photo Overlays at No Cost</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-melodic-memories-in-mobile-formats/"><u>[Updated] Melodic Memories in Mobile Formats</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/becoming-a-gif-maestro-the-meme-creators-handbook-for-2024/"><u>Becoming a GIF Maestro The Meme Creator’s Handbook for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/deconstructing-the-daily-earnings-of-podcasters/"><u>Deconstructing the Daily Earnings of Podcasters</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/diy-tricks-easily-hook-up-3-screens-to-your-laptop-or-desktop/"><u>DIY Tricks: Easily Hook Up 3 Screens to Your Laptop or Desktop</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fixing-the-not-found-error-with-ocidll-in-microsoft-operating-systems/"><u>Fixing the 'Not Found' Error with OCI.dll in Microsoft Operating Systems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/from-enchanted-to-recent-releases-the-ordered-viewing-list-for-fans/"><u>From 'Enchanted' To Recent Releases – The Ordered Viewing List for Fans</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-xr-drfone-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on iPhone XR | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-multi-tasking-with-androids-built-in-picture-in-picture-feature/"><u>Mastering Multi-Tasking with Android's Built-In Picture-in-Picture Feature</u></a></li>
-<li><a href="https://win-unique.techidaily.com/moving-from-itunes-to-spotify-made-easy-the-ultimate-2-method-tutorial-for-playlist-export/"><u>Moving From iTunes to Spotify Made Easy: The Ultimate 2-Method Tutorial for Playlist Export</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcome-frozen-chromium-experience-with-easy-relaunch-steps/"><u>Overcome Frozen Chromium Experience with Easy Relaunch Steps</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-windows-trouble-messages-fixing-the-msvcrtdll-file-loss-problem/"><u>Resolving Windows Trouble Messages: Fixing the Msvcrt.dll File Loss Problem</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-keeping-your-top-chats-visible-on-instagram/"><u>Step-by-Step Guide: Keeping Your Top Chats Visible on Instagram</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-sending-your-friend-a-valuable-steam-gift-card/"><u>Step-by-Step Guide: Sending Your Friend a Valuable Steam Gift Card</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/trouble-with-microsoft-word-heres-how-you-can-get-your-files-running-smoothly-again/"><u>Trouble With Microsoft Word? Here’s How You Can Get Your Files Running Smoothly Again!</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-generate-individual-meme-crafts-today/"><u>[New] 2024 Approved Generate Individual Meme Crafts Today</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-secrets-to-selecting-a-premier-cinematographer/"><u>[New] 2024 Approved Secrets to Selecting a Premier Cinematographer</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-the-essentials-to-initiate-in-google-meet/"><u>[New] In 2024, The Essentials to Initiate in Google Meet</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-navigating-the-thrilling-world-of-drone-racing-and-premium-fpv-units/"><u>[Updated] 2024 Approved Navigating the Thrilling World of Drone Racing & Premium FPV Units</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-gopro-guide-achieving-excellent-underwater-cinematography/"><u>[Updated] GoPro Guide Achieving Excellent Underwater Cinematography</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-elite-audit-the-updated-parrot-ar-drone/"><u>[Updated] In 2024, Elite Audit The Updated Parrot AR Drone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-visualsnap-win11-instant-desktop-capture-and-save/"><u>[Updated] In 2024, VisualSnap Win11 Instant Desktop Capture & Save</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expand-your-play-how-to-setup-and-use-portable-drives-on-xbox-console/"><u>Expand Your Play: How to Setup & Use Portable Drives on Xbox Console</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-manual-navigating-the-process-of-website-pinging-with-ease/"><u>How-To Manual: Navigating the Process of Website Pinging with Ease</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-resolve-your-apple-iphone-13-pro-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>In 2024, Resolve Your Apple iPhone 13 Pro Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-trick-to-watch-netflix-at-zero-price-point/"><u>The Ultimate Trick to Watch Netflix at Zero Price Point</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-innovation-at-apples-wwdc-2025-top-reveals-and-insights/"><u>Unlocking Innovation at Apple's WWDC 2025: Top Reveals & Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-the-secrets-a-step-by-step-guide-to-your-microsoft-education-offer/"><u>Unlocking the Secrets: A Step-by-Step Guide to Your Microsoft Education Offer</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unmasking-machinerys-myths-spotting-misrepresented-data-by-ai-systems/"><u>Unmasking Machinery's Myths: Spotting Misrepresented Data by AI Systems</u></a></li>
 </ul></div>
 

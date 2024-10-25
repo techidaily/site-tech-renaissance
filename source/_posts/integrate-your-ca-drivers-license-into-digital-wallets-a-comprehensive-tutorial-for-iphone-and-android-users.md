@@ -1,7 +1,7 @@
 ---
 title: "Integrate Your CA Driver's License Into Digital Wallets: A Comprehensive Tutorial for iPhone & Android Users"
-date: 2024-10-15T07:24:11.898Z
-updated: 2024-10-19T07:20:53.984Z
+date: 2024-10-22T04:38:34.617Z
+updated: 2024-10-25T06:35:22.387Z
 tags:
   - apple
 categories:
@@ -54,10 +54,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 * Another recording device (this could be another iPhone, an [iPad](https://www.zdnet.com/article/best-ipad/), or even an Android device) using Voice Memos or another recording app to record the call
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Test your Voice Memos app
@@ -73,10 +79,10 @@ Voice recordings autosave under different names based on whether Location Servic
 Screenshot by Radhika Rajkumar/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Play back the audio file and make adjustments
@@ -86,13 +92,6 @@ Now, play the file back and see if the audio is discernible. Make the adjustment
 **Also:** [**How to clear the cache on your iPhone (and why you should)**](https://www.zdnet.com/article/how-to-clear-cache-on-iphone-and-why-you-should/)
 
 For example, if the sound quality is too low, you may need to speak louder, increase the microphone sensitivity (go to Settings > Sounds & Haptics), or put the speaker closer to your mouth. 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Check whether you need to inform the other party that you're recording
 
@@ -134,13 +133,6 @@ Open up sharing options. You can also trim or rename the recording to something 
 
 Screenshot by Radhika Rajkumar/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Other ways to record
 
 Following the steps above is the easiest, most efficient, and most discreet way to record a phone call on your iPhone. If you or a trusted second party don't have another device to spare, here are a few alternatives. 
@@ -160,6 +152,13 @@ The Google Voice [app for iOS](https://apps.apple.com/us/app/google-voice/id3186
 You can select the device from which you want to initiate a call via the app. For incoming calls, you can go to Settings > Calls > Incoming call options and then toggle the incoming calls record option. 
 
 Once everyone is on the call, press the number four (4) on the keypad to start and end the recording. The call will end up in the record menu option after it ends. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Easy Voice Recorder
 
@@ -190,15 +189,22 @@ Alternatively, you can use most mic-equipped computers or tablets to record phon
 Unfortunately, no -- at least not yet. Apple itself doesn't have an app, but there are third-party apps available on the [App Store](https://www.apple.com/app-store/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.apple.com/app-store/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%22App%20Store%22%7D). Also, Voice Memos is most likely automatically installed on your iOS device. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Does screen recording on iPhone record my call?
 
 Screen recording while on an audio or FaceTime call will only record your screen -- it won't capture any audio from you or your phone.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Does iPhone's Voice Memos have a time limit?
 
@@ -234,22 +240,18 @@ The Voice Memos app can record for an unlimited amount of time as long as you ha
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-analyzing-the-financial-gains-of-podcasting/"><u>[New] Analyzing the Financial Gains of Podcasting</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-hitpaw-screen-recorder-review-and-alternative/"><u>[Updated] HitPaw Screen Recorder Review and Alternative</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-make-your-youtube-comments-more-interesting-with-emojis/"><u>[Updated] In 2024, Make Your Youtube Comments More Interesting with Emojis</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-high-speed-photo-inspector-for-windows-11/"><u>2024 Approved High-Speed Photo Inspector for Windows 11</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/best-zte-frp-bypass-guide-by-drfone-android/"><u>Best ZTE FRP Bypass Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easily-locate-and-download-iphone-technical-guides-for-all-models-start-here/"><u>Easily Locate and Download iPhone Technical Guides for All Models - Start Here</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exclusive-benefits-await-parking-privileges-and-high-occupancy-lane-access-with-your-electric-vehicle/"><u>Exclusive Benefits Await: Parking Privileges & High Occupancy Lane Access with Your Electric Vehicle</u></a></li>
-<li><a href="https://video-capture.techidaily.com/exploring-beyond-manycam-enhanced-alternatives-for-2024/"><u>Exploring Beyond ManyCam Enhanced Alternatives for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fixing-x3daudiodll-not-found-issues-expert-tips-and-solutions/"><u>Fixing 'x3daudio.dll Not Found' Issues: Expert Tips & Solutions</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-f14-5g-phone-without-google-account-by-drfone-android/"><u>How to Unlock Samsung Galaxy F14 5G Phone without Google Account?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-advanced-focus-modifier-app/"><u>In 2024, Advanced Focus Modifier App</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Motorola Moto G23? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/protect-your-peace-methods-to-block-junk-messages-on-ios-devices/"><u>Protect Your Peace: Methods to Block Junk Messages on iOS Devices</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-breakdown-of-the-levels-in-royal-match/"><u>Step-by-Step Breakdown of the Levels in 'Royal Match'.</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-essential-breakdown-of-blue-screen-error-codes-and-their-implications-bsod-explained/"><u>The Essential Breakdown of Blue Screen Error Codes and Their Implications (BSOD Explained)</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722891599192-the-journey-through-macos-versions-whats-the-most-recent-update-complete-guide-available-here/"><u>The Journey Through macOS Versions: What's the Most Recent Update? Complete Guide Available Here</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-mastering-the-new-iphone-photo-cutout-feature-in-ios-16/"><u>Ultimate Guide: Mastering the New iPhone Photo Cutout Feature in iOS 16</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-15-innovative-choices-for-action-cams-excluding-gopro/"><u>[Updated] 15 Innovative Choices for Action Cams, Excluding GoPro</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-exploring-new-realms-of-thought-30plus-vr-metaphysical-messages/"><u>[Updated] Exploring New Realms of Thought 30+ VR Metaphysical Messages</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-tecno-camon-20-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Tecno Camon 20 Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beating-the-blunders-a-users-manual-for-chatgpt-sign-in-correction-tactics/"><u>Beating the Blunders: A User's Manual for ChatGPT Sign-In Correction Tactics</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-picks-our-7-preferred-no-cost-tune-apps-for-mobile-phones/"><u>Discover the Ultimate Picks: Our 7 Preferred No-Cost Tune Apps for Mobile Phones!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Apple iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-shutdown-how-to-power-down-iphone-15-pro-and-pro-max/"><u>Mastering Shutdown: How To Power Down iPhone 15 Pro & Pro Max</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/remote-free-mastering-roku-tv-navigation-with-simple-tricks/"><u>Remote-Free: Mastering Roku TV Navigation with Simple Tricks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/samsung-soundbar-woes-heres-how-you-can-fix-it/"><u>Samsung Soundbar Woes? Here's How You Can Fix It!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-fix-for-when-launchdll-goes-mia-expert-tips-and-tricks/"><u>The Ultimate Fix for When 'Launch.dll' Goes MIA: Expert Tips and Tricks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/updated-july-2024-top-8-free-tools-for-easily-renewing-your-drivers/"><u>Updated July 2024: Top 8 Free Tools for Easily Renewing Your Drivers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Vivo Y02T | Dr.fone</u></a></li>
 </ul></div>
 

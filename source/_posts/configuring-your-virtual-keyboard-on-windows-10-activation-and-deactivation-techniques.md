@@ -1,7 +1,7 @@
 ---
 title: "Configuring Your Virtual Keyboard on Windows 10: Activation and Deactivation Techniques"
-date: 2024-09-12T22:03:27.562Z
-updated: 2024-09-15T23:34:24.645Z
+date: 2024-10-19T20:45:25.032Z
+updated: 2024-10-24T17:35:44.985Z
 categories:
   - BestProducts
 description: "This Article Describes Configuring Your Virtual Keyboard on Windows 10: Activation and Deactivation Techniques"
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/5e3e6b4e0f517bf2ed82ad459bf90369516144d1c
 3. Scroll to the bottom of the page and select **Save Changes** .  
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Create, Send, and Forward Email
 
  With Gmail[keyboard](https://www.lifewire.com/what-is-a-keyboard-2618153) shortcuts, you can quickly create, send, and forward Gmail messages:
@@ -48,19 +55,6 @@ thumbnail: https://thmb.techidaily.com/5e3e6b4e0f517bf2ed82ad459bf90369516144d1c
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
 
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Scroll Through Emails
 
  These shortcuts are handy for navigating through your messages and long email threads:
@@ -70,10 +64,10 @@ thumbnail: https://thmb.techidaily.com/5e3e6b4e0f517bf2ed82ad459bf90369516144d1c
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Select Multiple Emails
@@ -93,13 +87,6 @@ thumbnail: https://thmb.techidaily.com/5e3e6b4e0f517bf2ed82ad459bf90369516144d1c
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Add Elements to an Email
 
  Addling links, numbered lists, and bullet points to your emails can also be done using keyboard shortcuts:
@@ -109,6 +96,13 @@ thumbnail: https://thmb.techidaily.com/5e3e6b4e0f517bf2ed82ad459bf90369516144d1c
 * **Insert bullet points (Ctrl** +**Shift** +**8)** : Insert the cursor where you want the bullet list to appear, then press**Ctrl** +**Shift** +**8** .
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Email Maintenance Shortcuts
 
@@ -131,6 +125,13 @@ thumbnail: https://thmb.techidaily.com/5e3e6b4e0f517bf2ed82ad459bf90369516144d1c
 * **Go to Drafts (G, then D)** : Press the**G** key, then press**D** to see your message drafts.
 * **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to View All Gmail Shortcuts
 
@@ -167,5 +168,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-clearview-pro-5-screen-mastery/"><u>[New] ClearView Pro 5 - Screen Mastery</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-adding-pictures-to-instagram-with-ease/"><u>[New] In 2024, Adding Pictures to Instagram with Ease</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-expert-techniques-in-no-cost-windows-software-recording/"><u>[New] In 2024, Expert Techniques in No-Cost Windows Software Recording</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-is-sns-hdr-the-best-for-your-hdr-needs-insights/"><u>[New] Is SNS HDR the Best for Your HDR Needs? Insights</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-navigating-facebooks-automatic-video-features/"><u>[Updated] In 2024, Navigating Facebook's Automatic Video Features</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/best-10-creative-tiktok-filters-transforming-feeds/"><u>Best 10 Creative TikTok Filters Transforming Feeds</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/common-puzzles-in-twitch-interaction-a-guide-for-streaming-novices/"><u>Common Puzzles in Twitch Interaction - A Guide for Streaming Novices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/error-no-more-how-to-correctly-address-missing-advapi32dll-files/"><u>Error No More: How to Correctly Address Missing Advapi32.dll Files</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-access-free-local-broadcasts-with-your-smartphones-hidden-fm-receiver-feature/"><u>How to Access Free Local Broadcasts with Your Smartphone's Hidden FM Receiver Feature</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/mastering-photo-cleanup-discover-the-best-4-techniques-for-seamless-stamp-removal/"><u>Mastering Photo Cleanup: Discover the Best 4 Techniques for Seamless Stamp Removal</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-through-t-mobiles-policy-on-wireless-roaming-within-its-own-country/"><u>Navigating Through T-Mobile's Policy on Wireless Roaming Within Its Own Country</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-unleash-stunning-4k-videos-with-these-top-editing-tools/"><u>New In 2024, Unleash Stunning 4K Videos with These Top Editing Tools</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-switching-your-samsung-tvs-default-web-browser/"><u>Step-by-Step Guide: Switching Your Samsung TV's Default Web Browser</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/what-makes-chatgpt-a-game-changer-in-natural-language-processing/"><u>What Makes ChatGPT a Game-Changer in Natural Language Processing?</u></a></li>
+</ul></div>
 

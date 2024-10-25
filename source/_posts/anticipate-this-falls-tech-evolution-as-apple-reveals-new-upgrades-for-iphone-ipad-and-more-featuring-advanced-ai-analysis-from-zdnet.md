@@ -1,7 +1,7 @@
 ---
 title: Anticipate This Fall's Tech Evolution as Apple Reveals New Upgrades for iPhone, iPad, and More – Featuring Advanced AI | Analysis From ZDNET
-date: 2024-10-15T14:07:05.332Z
-updated: 2024-10-19T10:24:31.807Z
+date: 2024-10-18T03:13:39.746Z
+updated: 2024-10-25T07:56:12.574Z
 tags:
   - apple
 categories:
@@ -30,6 +30,13 @@ This year, five topics will likely dominate the headlines, dictate the next indu
 
 And that's just the beginning, as you'll find more notable trends in the list below, all of which have already begun to take shape.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. On-device AI puts the 'smart' in smartphone
 
 The new Samsung Galaxy S24 series features a live translation feature, powered by on-device AI.
@@ -45,10 +52,10 @@ Samsung's just-released [Galaxy S24 smartphones](https://www.zdnet.com/article/e
 Qualcomm is playing a major role here as well, with its flagship [Snapdragon 8 Gen 3 chipset](https://www.zdnet.com/article/qualcomms-new-snapdragon-8-gen-3-mobile-chip-brings-generative-ai-to-smartphones/) enabling performance gains across the board on smartphones, from a 20% improvement in CPU, 30% in GPU, and 41% in NPU -- the latter of which is critical for devices to perform generative AI tasks in a power-efficient manner. Expect more flagship [Android phones](https://www.zdnet.com/article/best-android-phone/) this year -- as well as [VR and XR headsets](https://www.zdnet.com/article/best-vr-headset/) \-- to field Qualcomm's new processor, with plenty of AI-enabled capabilities in tow.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Foldables are getting better (and cheaper)
@@ -67,13 +74,6 @@ Now that the major players have entered the competition, the big question this y
 
 But there's hope. Carrier providers, who often discount the latest devices aggressively in exchange for customer loyalty (read: agreement to long-term installment plans), remain a primary source of US smartphone sales. Motorola's [standard Razr model](https://www.zdnet.com/article/this-motorola-is-still-200-off-and-its-surprisingly-capable/), which can be purchased for [as low as $499](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmotorola-razr-2023-128gb-unlocked-sage-green%2F6557867.p%3F&publisher_slug=itechdaily19598&exclusive=1) at the time of writing, is another sign of good things to come. With that in mind, 2024 is looking to be a promising sequel to foldables' breakout year in 2023.
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Qi2 bridges a long-standing gap in charging
 
 The iPhone 15 Pro (left) next to the Samsung Galaxy S23 Ultra (right).
@@ -91,10 +91,10 @@ The adoption of such technology bridges a longstanding gap between MagSafe-compa
 **Also: [The best wireless chargers for iPhone and Android phones](https://www.zdnet.com/article/best-wireless-charger/)**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Periscope lenses push cameras to further distances
@@ -116,10 +116,10 @@ As manufacturers continue to figure out ways to shrink and fit better components
 **Also:** [**The evolution of smartphone cameras: From megapixels to AI-driven photography**](https://www.zdnet.com/article/the-evolution-of-smartphone-cameras-from-megapixels-to-ai-driven-photography/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. A new class of mobile devices
@@ -176,15 +176,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-first-timers-cameras-guide-best-of-24/"><u>[New] In 2024, First-Timer's Cameras Guide - Best of '24</u></a></li>
-<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Google Pixel Fold | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723206749452-breeze-through-troubleshooting-fixing-windows-update-error-0x80070002-easily/"><u>Breeze Through Troubleshooting: Fixing Windows Update Error 0X80070002 Easily!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-free-public-dns-servers-available-online-now/"><u>Discover the Best Free Public DNS Servers Available Online Now</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/gaming-on-the-go-finding-your-ideal-iphone/"><u>Gaming on the Go: Finding Your Ideal iPhone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-ideal-cards-for-ultra-hd-content-creation/"><u>In 2024, Ideal Cards for Ultra-HD Content Creation</u></a></li>
-<li><a href="https://win-dash.techidaily.com/quick-guide-to-free-hp-auditory-device-drivers-effortless-download/"><u>Quick Guide to Free HP Auditory Device Drivers - Effortless Download</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/quick-tips-connecting-and-enjoying-music-through-your-samsung-soundbar-and-tv-combo/"><u>Quick Tips: Connecting and Enjoying Music Through Your Samsung Soundbar & TV Combo</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-smartwatches-and-their-capabilities/"><u>The Ultimate Guide to Smartwatches and Their Capabilities</u></a></li>
-<li><a href="https://win-web.techidaily.com/wiederherstellen-von-windows-nativen-einstellungen-erfolgreiche-ansatze-zur-systemwiederherstellung-uber-den-rechnerstart/"><u>Wiederherstellen Von Windows Nativen Einstellungen: Erfolgreiche Ansätze Zur Systemwiederherstellung Über Den Rechnerstart</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-top-tip-how-to-create-a-quick-and-easy-google-collage-photo/"><u>[New] In 2024, Top Tip How to Create a Quick and Easy Google Collage Photo</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-essential-guide-to-free-attractive-youtube-intros/"><u>[Updated] The Essential Guide to Free, Attractive YouTube Intros</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-motorola-edge-2023-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/cross-platform-compatibility-how-to-play-android-games-on-a-windows-10-computer/"><u>Cross-Platform Compatibility: How to Play Android Games on a Windows 10 Computer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diagnosing-and-repairing-straight-line-anomalies-in-samsung-displays/"><u>Diagnosing and Repairing Straight Line Anomalies in Samsung Displays</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/expert-walkthrough-enterprise-data-sanitization-techniques-with-bitraser-software-video/"><u>Expert Walkthrough: Enterprise Data Sanitization Techniques with BitRaser Software Video</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/get-more-on-your-phone-plan-with-verizons-best-deals-of-the-month/"><u>Get More on Your Phone Plan with Verizon's Best Deals of the Month</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/googles-latest-rumored-creation-the-pixel-9-what-we-know-about-pricing-launch-timing-and-technical-specs-so-far/"><u>Google's Latest Rumored Creation: The Pixel 9 – What We Know About Pricing, Launch Timing & Technical Specs So Far</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-mobile-editing-hacks-select-top-10-short-form-apps/"><u>In 2024, Mobile Editing Hacks Select Top 10 Short Form Apps</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-xiaomi-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Xiaomi Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/selecting-the-top-6-mac-video-capture-software-for-2024/"><u>Selecting the Top 6 Mac Video Capture Software for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-oppo-find-x7-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Oppo Find X7 IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-troubleshooting-upgrading-zoom-for-better-performance-on-computers/"><u>Ultimate Troubleshooting: Upgrading Zoom for Better Performance on Computers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/winx-dvd-authoring-pack/"><u>オンラインで簡単にWinX DVD Authoring Packを手に入れる: ステップバイステップガイド</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Readability: Adjusting Font Styles in Windows 11 Easily"
-date: 2024-09-10T00:13:57.546Z
-updated: 2024-09-15T23:12:30.656Z
+date: 2024-10-24T01:41:40.479Z
+updated: 2024-10-24T18:36:55.431Z
 categories:
   - BestProducts
 description: "This Article Describes Enhancing Readability: Adjusting Font Styles in Windows 11 Easily"
@@ -34,6 +34,14 @@ thumbnail: https://thmb.techidaily.com/bf2709550851c34ad73e4e10402b84c4b2a66d479
 3. Locate the**Full name** line in the**Metadata** section, and write it down exactly as it's written. In our example, we recorded**Franklin Gothic Medium** .  
 ![Full Name and Franklin Gothic Medium highlighted in Windows 11 font settings](https://www.lifewire.com/thmb/TLWCZLK0sdGg9XBIj1y4Ma1EuAA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-change-the-font-in-windows-11-6827640-97099a55349a45e392459345af24caf1.jpg)
 4. Open Notepad, or a[different text editor](https://www.lifewire.com/best-free-text-editors-4155819) if you prefer, and paste the following:  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  `Windows Registry Editor Version 5.00`  
 `[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts]`  
 `"Segoe UI (TrueType)"=""`  
@@ -48,11 +56,33 @@ thumbnail: https://thmb.techidaily.com/bf2709550851c34ad73e4e10402b84c4b2a66d479
 5. In the last line of the document, replace**Franklin Gothic Medium** with the name of the font you recorded in Step 3 (keep the quotes around the name).  
 ![Franklin Gothic Medium highlighted in Windows Notepad with REG file contents](https://www.lifewire.com/thmb/5UM6sKcUZ5_xlc9vkHeFpUtlwpk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-to-change-the-font-in-windows-11-6827640-babf346069c14d8caa00e4c43d7992b6.jpg)
 6. If you're using Notepad, go to**File** \>**Save as** , and type a name in the**File name** box.
+
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Choose**All files** from the**Save as type** menu.
 8. Type**.reg** at the end of the file name. Our example reads**Franklin Gothic.reg** , but yours can be called whatever you want; just make sure it ends with that file extension.
 9. Choose a folder on your computer to save the file (the Desktop folder works), and then select**Save** .  
 ![FranklinGothic.reg and Save highlighted in a Notepad document with REG file extension](https://www.lifewire.com/thmb/4p0dmSoOCDSVSqxK6o9QnPtNX1U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-change-the-font-in-windows-11-6827640-9563197f19ae4d848482def07b741adc.jpg)
 10. Close the text editor, and then double-click or double-tap the REG file from the folder you just saved it to.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 11. Press**Yes** on the User Account Control window, then**Yes** again on the Registry Editor prompt (pictured below), and finally**OK** on the success message.  
 ![Yes highlighted in the Registry Editor prompt in Windows 11](https://www.lifewire.com/thmb/tViUCj2SD1eHRKNxSY2gP3-IusQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-change-the-font-in-windows-11-6827640-acbf618a85854ff58bb4ca6f3a0d7384.jpg)
 12. [Reboot your computer](https://www.lifewire.com/how-to-reboot-a-computer-2624568) to see the font changes. The quickest method is to right-click the Start button and go to**Shut down or sign out** \>**Restart** .
@@ -63,16 +93,16 @@ thumbnail: https://thmb.techidaily.com/bf2709550851c34ad73e4e10402b84c4b2a66d479
 
 ![Windows 11 font type change in Run and Control Panel](https://www.lifewire.com/thmb/eN6m7hD9Mgh_sWhJB-Jl9QOeR2c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-changed-font-type-control-panel-run-desktop-365bc4a2e315498f96aa4115713f7d59.png)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  However, not every part of Windows will change to the new font. All the text within Settings, Start menu, Clock, Quick Settings, and numerous other areas aren't affected.
 
 [Troubleshooting Installed Fonts That Won't Work](https://www.lifewire.com/cant-use-installed-fonts-1074154)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Restore the Default Font in Windows 11
 
@@ -110,13 +140,6 @@ thumbnail: https://thmb.techidaily.com/bf2709550851c34ad73e4e10402b84c4b2a66d479
 5. If the changes don't take effect immediately (they did for us), reboot your computer.
 
  If you don't have the original REG file readily available to edit, just repeat the steps at the top of this page. When you get to the part about pasting the code into Notepad, use the modified code from Step 2 above, and don't make any changes to it.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Changing Other Fonts in Windows 11
 
@@ -168,5 +191,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-maximizing-video-quality-mastering-insta-to-mp4-conversion/"><u>[New] Maximizing Video Quality Mastering Insta-to-MP4 Conversion</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-your-speech-any-sound-discover-the-best-vocal-transformation-tools-on-android/"><u>[Updated] In 2024, Your Speech, Any Sound Discover the Best Vocal Transformation Tools on Android</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/can-you-play-ps4-games-on-the-ps5/"><u>Can You Play PS4 Games on the PS5?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diy-guide-to-cutting-ties-with-devices-within-the-google-assistant-universe/"><u>DIY Guide to Cutting Ties with Devices Within the Google Assistant Universe</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diy-tips-for-banishing-bass-hum-noises-from-your-sound-system/"><u>DIY Tips for Banishing Bass Hum Noises From Your Sound System</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-fixes-for-gmail-sync-failures/"><u>Effective Fixes for Gmail Sync Failures</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-fixes-for-mac-software-that-refuses-to-launch/"><u>Effective Fixes for Mac Software That Refuses to Launch</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-for-effortless-movement-teleport-command-explained-for-minecrafters/"><u>Expert Tips for Effortless Movement: Teleport Command Explained for Minecrafters</u></a></li>
+<li><a href="https://win-special.techidaily.com/guide-pratique-redemaragez-votre-lenovo-thinkcenter-avec-les-parametres-par-design-quatre-techniques/"><u>Guide Pratique : Redémaragez Votre Lenovo ThinkCenter Avec Les Paramètres Par Désign - Quatre Techniques</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-xr-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone XR Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-poco-m6-pro-4g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Oppo A58 4G? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-find-n3-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo Find N3 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208658367-simple-fixes-for-the-persistent-problem-stop-windows-10-from-endless-reboots/"><u>Simple Fixes for the Persistent Problem: Stop Windows 10 From Endless Reboots</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-8-complimentary-html-editors-available-on-windows/"><u>Top 8 Complimentary HTML Editors Available on Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722881428513-ultimate-list-of-android-smartwatch-apps-you-cant-miss/"><u>Ultimate List of Android Smartwatch Apps You Can't Miss</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-top-4-elon-musk-voice-generator-programs-to-make-you-sound-like-the-billionaire/"><u>Updated 2024 Approved Top 4 Elon Musk Voice Generator Programs to Make You Sound Like the Billionaire</u></a></li>
+</ul></div>
 

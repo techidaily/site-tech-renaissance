@@ -1,7 +1,7 @@
 ---
 title: "Say Goodbye to Charger Woes: The Game-Changing $20 Anker Power Bank Reviewed on ZDNet"
-date: 2024-10-15T15:05:20.169Z
-updated: 2024-10-19T06:38:43.301Z
+date: 2024-10-18T22:00:08.266Z
+updated: 2024-10-24T18:40:26.965Z
 tags:
   - apple
 categories:
@@ -39,10 +39,16 @@ To Android users and new (or incoming) iPhone users who are looking to add a USB
 See, I have quibbles with many portable chargers. Those include forgetting a wire, not knowing where to hold the charger while it's charging my phone, and feeling like it takes forever to increase the battery percentage at all. This charger addresses all of the issues and more. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 
@@ -70,6 +76,19 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Impressive charging power for its size
 
 The 22.5W Power Bank packs 5,000mAh capacity, which is enough to charge an [iPhone 15 Pro](https://www.zdnet.com/article/iphone-15-pro-hands-on-review/) to 68%, according to Anker. In my experience, it charged my Samsung Z Flip 4 from zero to 30% in half an hour. 
@@ -77,13 +96,6 @@ The 22.5W Power Bank packs 5,000mAh capacity, which is enough to charge an [iPho
 **Also:** [**My everyday Anker power bank has a genius feature that makes it irreplaceable**](https://www.zdnet.com/article/my-everyday-anker-power-bank-has-a-genius-feature-that-makes-it-irreplaceable/)
 
 Although it might not seem like a tremendous boost, remember that this portable charger is meant to get you out of a pinch. If your phone died on you while you were out, getting a quarter of your battery back in under 30 minutes would be a lifesaver. 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Charging the power bank is hassle-free
 
@@ -98,10 +110,10 @@ Sabrina Ortiz/ZDNET
 The charger comes in five colors: blue, black, white, green, and pink, matching every iPhone 15 color besides the yellow, which the white could be paired with instead.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -109,10 +121,10 @@ The charger comes in five colors: blue, black, white, green, and pink, matching 
 If you are searching for a new portable charger for your new iPhone or just because you are due for an upgrade, the [Anker Nano 22.5W Power Bank](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C6XK77HJ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbc834d8d-436a-4c6c-84c7-a25dcb2370a4%7Cdtp&dtb=1) is a good choice because it won't break the bank and will get the job done. The fun color options, effectiveness, size, and low price point even make it a good choice for gifting.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -149,22 +161,24 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-elevate-your-content-strategy-prime-video-rank-monitors/"><u>[New] 2024 Approved Elevate Your Content Strategy Prime Video Rank Monitors</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-beats-now-at-your-fingertips-in-imovie-editing/"><u>[New] YouTube Beats, Now at Your Fingertips in iMovie Editing</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-unleashing-fun-kinemaster-reviewed-for-android-devices/"><u>[Updated] Unleashing Fun KineMaster Reviewed for Android Devices</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/a-parents-guide-to-setting-up-restrictions-and-safeguards-on-discord-platform/"><u>A Parent’s Guide to Setting Up Restrictions and Safeguards on Discord Platform</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-worlds-most-visited-websites-a-ranking-of-the-top-10-sites/"><u>Discover the World's Most Visited Websites: A Ranking of the Top 10 Sites</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-steps-for-streaming-fandango-movies-and-series-on-apple-tv-at-home-guide/"><u>Easy Steps for Streaming Fandango Movies and Series on Apple TV - At Home Guide</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/expertly-curated-webcams-for-ultimate-zoom-video-conferencing/"><u>Expertly Curated Webcams for Ultimate Zoom Video Conferencing</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fixing-darkest-dungeon-2-end-to-end-guide-for-stabilizing-your-pc-gaming-experience/"><u>Fixing Darkest Dungeon 2: End-to-End Guide for Stabilizing Your PC Gaming Experience</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-6-withwithout-sim-card-by-drfone-ios/"><u>How to Unlock iPhone 6 with/without SIM Card</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-through-linkedin-account-termination-procedures/"><u>In 2024, Navigating Through LinkedIn Account Termination Procedures</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-xiaomi-redmi-note-12-pro-4g-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Xiaomi Redmi Note 12 Pro 4G Device</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigating-the-world-of-domestic-speakers-and-sound-beginner-edition/"><u>Navigating the World of Domestic Speakers and Sound - Beginner Edition</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-fixing-gameplay-glitches-in-resident-evil-village-overcoming-rodent-problems/"><u>Resolved: Fixing Gameplay Glitches in Resident Evil Village - Overcoming Rodent Problems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/schritt-fur-schritt-tutorial-zum-abrufen-und-transformieren-mit-macx-dvd-ripper-pro-von-dvd-in-mp4-fur-ipad-iphone-and-ipod/"><u>Schritt-Für-Schritt-Tutorial Zum Abrufen Und Transformieren Mit MacX DVD Ripper Pro - Von DVD in MP4 Für iPad, iPhone & iPod</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-7-best-no-cost-music-streaming-services-on-iphone-and-android/"><u>Top 7 Best No-Cost Music Streaming Services on iPhone & Android</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/track-and-monitor-health-metrics-with-ease-the-ultimate-guide-to-androids-measure-app/"><u>Track and Monitor Health Metrics with Ease: The Ultimate Guide to Android's Measure App</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unpacking-the-battle-between-iphone-15-pro-max-and-s24-ultra-by-samsung/"><u>Unpacking the Battle Between iPhone 15 Pro Max and S24 Ultra by Samsung</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-massive-viewership-triumphs-youtubes-greatest-hits/"><u>[New] Massive Viewership Triumphs YouTube's Greatest Hits</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-pinnacle-5-image-alteration-apps-iphone-x78-edition/"><u>[New] Pinnacle 5 Image Alteration Apps IPhone X/7/8 Edition</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-instagram-filters-in-a-nutshell-get-them-right-this-year/"><u>[Updated] 2024 Approved Instagram Filters in a Nutshell Get Them Right This Year</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-ace-your-online-presence-youtubes-studio-command-center-for-2024/"><u>[Updated] Ace Your Online Presence YouTube's Studio Command Center for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-elevate-your-presence-setting-up-an-instagram-company/"><u>[Updated] Elevate Your Presence Setting Up an Instagram Company</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-filmmakers-guide-to-using-standardized-color-luts/"><u>[Updated] The Filmmaker's Guide to Using Standardized Color Luts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/all-you-need-to-know-about-the-next-gen-tesla-phone-pricing-forecasts-launch-window-hardware-details-and-speculations/"><u>All You Need to Know About the Next-Gen Tesla Phone – Pricing Forecasts, Launch Window, Hardware Details & Speculations</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-honor-play-40c-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Honor Play 40C?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/cut-the-clutter-advanced-techniques-for-windows-11-videos-for-2024/"><u>Cut the Clutter Advanced Techniques for Windows 11 Videos for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/deciphering-roblox-outages-identifying-if-its-a-platform-glitch-or-local-network-interference/"><u>Deciphering Roblox Outages - Identifying if It's a Platform Glitch or Local Network Interference</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diy-guide-remedying-line-defects-on-your-television-display/"><u>DIY Guide: Remedying Line Defects on Your Television Display</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-tutorial-how-to-swap-out-your-phones-screen-guard/"><u>DIY Tutorial: How To Swap Out Your Phone’s Screen Guard</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-guide-display-hidden-system-files-on-your-mac-via-terminal/"><u>Easy Guide: Display Hidden System Files on Your Mac via Terminal</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/july-2024-ultimate-linksys-password-reference-chart/"><u>July 2024 Ultimate Linksys Password Reference Chart</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/simple-steps-to-set-up-your-samsung-wireless-clicker-for-optimal-viewing-experience/"><u>Simple Steps to Set Up Your Samsung Wireless Clicker for Optimal Viewing Experience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-connecting-your-logitech-mouse-seamlessly/"><u>Step-by-Step Guide: Connecting Your Logitech Mouse Seamlessly</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-battle-of-portables-exploring-the-advantages-of-ipad-pro-over-macbook-air/"><u>The Battle of Portables: Exploring the Advantages of iPad Pro Over MacBook Air</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-the-m3-macbook-air-with-apple-silicon-the-new-standard-for-everyday-use-unveiled/"><u>The Ultimate Guide to the M3 MacBook Air with Apple Silicon - The New Standard for Everyday Use Unveiled !</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-list-7-must-play-imessage-games/"><u>The Ultimate List: 7 Must-Play iMessage Games</u></a></li>
 </ul></div>
 

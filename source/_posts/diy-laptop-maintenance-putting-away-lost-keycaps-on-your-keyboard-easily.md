@@ -1,7 +1,7 @@
 ---
 title: "DIY Laptop Maintenance: Putting Away Lost Keycaps On Your Keyboard Easily"
-date: 2024-09-09T21:01:03.195Z
-updated: 2024-09-15T19:13:31.609Z
+date: 2024-10-20T07:53:42.931Z
+updated: 2024-10-24T17:40:01.973Z
 categories:
   - BestProducts
 description: "This Article Describes DIY Laptop Maintenance: Putting Away Lost Keycaps On Your Keyboard Easily"
@@ -41,19 +41,19 @@ thumbnail: https://thmb.techidaily.com/94367d0839b4e8bd552f4ff0b46203c6692aa9dd5
 
  On Macs, use the**Command** key in place of the**Ctrl** key.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Reply to Email
 
  By using the**R** and**A** keys, you can quickly reply to[email messages](https://www.lifewire.com/electronic-mail-overview-1164107) or send to multiple recipients:
 
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Scroll Through Emails
 
@@ -62,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/94367d0839b4e8bd552f4ff0b46203c6692aa9dd5
 * **Scroll down an email list (J)** : Press the**J** key to scroll down.
 * **Scroll up an email list (K)** : Press the**K** key to scroll up.
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Select Multiple Emails
 
@@ -80,6 +87,13 @@ thumbnail: https://thmb.techidaily.com/94367d0839b4e8bd552f4ff0b46203c6692aa9dd5
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Add Elements to an Email
 
  Addling links, numbered lists, and bullet points to your emails can also be done using keyboard shortcuts:
@@ -91,10 +105,10 @@ thumbnail: https://thmb.techidaily.com/94367d0839b4e8bd552f4ff0b46203c6692aa9dd5
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Email Maintenance Shortcuts
@@ -118,19 +132,6 @@ thumbnail: https://thmb.techidaily.com/94367d0839b4e8bd552f4ff0b46203c6692aa9dd5
 * **Go to Drafts (G, then D)** : Press the**G** key, then press**D** to see your message drafts.
 * **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
-
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to View All Gmail Shortcuts
 
@@ -167,5 +168,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-detailed-steps-to-capture-all-your-messenger-conversations/"><u>[New] In 2024, Detailed Steps to Capture All Your Messenger Conversations</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-future-of-fb-ads-predictions/"><u>[Updated] Future of FB Ads Predictions</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-videovisionary-toolkit/"><u>[Updated] In 2024, VideoVisionary Toolkit</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-enable-god-mode-on-windows-11/"><u>How to Enable God Mode on Windows 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Honor X50? | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-find-my-app-troubleshooting-no-location-found-vs-location-not-available-and-how-to-fix-them-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Find My App Troubleshooting No Location Found vs. Location Not Available & How to Fix Them On Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/legally-recording-phone-calls-using-iphone-a-comprehensive-guide/"><u>Legally Recording Phone Calls Using iPhone – A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/magic-meets-machine-apples-groundbreaking-on-device-image-creator-eclipses-dall-e-zdnet/"><u>Magic Meets Machine: Apple's Groundbreaking On-Device Image Creator Eclipses DALL-E | ZDNET</u></a></li>
+<li><a href="https://games-able.techidaily.com/moza-r5-setup-at-499-ideal-newcomers-bundle/"><u>MOZA R5 Setup at $499 - Ideal Newcomer's Bundle</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-best-screen-capture-apps-a-guide-for-educators-for-2024/"><u>The Best Screen Capture Apps A Guide for Educators for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-ranked-macos-software-exclusive-picks-by-tech-experts/"><u>Top-Ranked macOS Software : Exclusive Picks by Tech Experts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/transforming-your-workspace-essential-tips-for-running-a-home-office-on-your-ipad-pro-insights-from-zdnet/"><u>Transforming Your Workspace: Essential Tips for Running a Home Office on Your iPad Pro - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-the-potential-of-live-pictures-a-comprehensive-guide-for-iphone-users-ios-16/"><u>Unlocking the Potential of Live Pictures: A Comprehensive Guide for iPhone Users (iOS 16)</u></a></li>
+</ul></div>
 

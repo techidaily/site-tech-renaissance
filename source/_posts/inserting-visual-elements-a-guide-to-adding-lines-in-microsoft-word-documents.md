@@ -1,7 +1,7 @@
 ---
 title: "Inserting Visual Elements: A Guide to Adding Lines in Microsoft Word Documents"
-date: 2024-09-15T00:06:03.906Z
-updated: 2024-09-16T00:20:09.915Z
+date: 2024-10-23T03:01:04.401Z
+updated: 2024-10-24T18:36:12.923Z
 categories:
   - BestProducts
 description: "This Article Describes Inserting Visual Elements: A Guide to Adding Lines in Microsoft Word Documents"
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/48491c0a3b929750d09e0d3e1dede43e654117023
 ![Discord Downdetector page](https://www.lifewire.com/thmb/Dkbd1Gn7UxOCVbebPQPG9QuzVpQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256954-e47fef8c259d4a9d805e652ae722fcbd.jpg)  
  If no one else is having an issue with Discord, then the problem is likely something on your end.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What to Do When You Can't Connect to Discord
 
  There are several things you can try if Discord seems to be working fine for everyone else, but you're still having[connection issues](https://www.lifewire.com/fix-connection-issues-discord-5086484) :
@@ -50,6 +57,13 @@ thumbnail: https://thmb.techidaily.com/48491c0a3b929750d09e0d3e1dede43e654117023
 8. It's unlikely, but there could be an issue with your[DNS server](https://www.lifewire.com/what-is-a-dns-server-2625854) . If you want to try[switching DNS servers](https://www.lifewire.com/how-to-change-dns-server-settings-2617979) , there are plenty of ways to do so with a[free and public option](https://www.lifewire.com/free-and-public-dns-servers-2626062) , although bear in mind that it's quite an advanced solution.
 
  If nothing has worked yet, you're probably dealing with an internet issue on your end. Contact your[ISP](https://www.lifewire.com/internet-service-provider-isp-2625924) to request further help.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Discord Error Messages
 
@@ -89,12 +103,17 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-global-menu-magic-top-international-dishes-for-2024/"><u>[Updated] Global Menu Magic Top International Dishes for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-guide-to-updating-asus-pce-ac56-drivers-for-windows-1087-issues-fixed/"><u>Comprehensive Guide to Updating ASUS PCE-AC56 Drivers for Windows 10/8/7 [ISSUES FIXED]</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discovering-the-viewers-of-your-google-documents-a-comprehensive-guide/"><u>Discovering the Viewers of Your Google Documents: A Comprehensive Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-edge-2023-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Edge 2023 has native HEVC support?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-on-iphone-6s-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out On iPhone 6s How to Bypass?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/maximize-productivity-using-the-split-screen-feature-on-macbook-air-easily/"><u>Maximize Productivity: Using the Split Screen Feature on MacBook Air Easily</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-comprehensive-guide-to-17-must-have-graphic-software-for-creatives/"><u>The Comprehensive Guide to 17 Must-Have Graphic Software for Creatives</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/top-10-essential-steps-to-set-up-your-new-mac-a-comprehensive-guide/"><u>Top 10 Essential Steps to Set Up Your New Mac: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-samsung-smart-tv-applications-in-2n39/"><u>Top-Rated Samsung Smart TV Applications in 2N39</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-repair-an-unresponsive-external-mouse-on-windowsmac/"><u>Troubleshoot and Repair an Unresponsive External Mouse on Windows/Mac</u></a></li>
+</ul></div>
 

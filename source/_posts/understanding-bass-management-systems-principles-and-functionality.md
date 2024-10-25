@@ -1,7 +1,7 @@
 ---
 title: Understanding Bass Management Systems - Principles & Functionality
-date: 2024-09-12T19:22:29.703Z
-updated: 2024-09-15T20:39:46.606Z
+date: 2024-10-24T04:18:09.603Z
+updated: 2024-10-25T03:23:21.251Z
 categories:
   - BestProducts
 description: This Article Describes Understanding Bass Management Systems - Principles & Functionality
@@ -43,6 +43,13 @@ Anthem AV
 
 ![Home Theater Surround Sound Setup](https://www.lifewire.com/thmb/C2Ylgsm50obYhBhgkcAnDxWB1TI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/home-theater-surround-sound-setup-a-585c25c23df78ce2c3549b62.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  adventtr / Getty Images
 
  After you connect the speakers with (or without) a subwoofer, go into the home theater receiver's on-screen setup menu and find the speaker setup or configuration menu. There should be an option to tell the receiver which speakers and subwoofer are connected.
@@ -60,6 +67,13 @@ Anthem AV
 * Experiment with both floor-standing speaker options (mixed or subwoofer only) for low frequencies and hear what works best for you. You can always redo the settings.
 * If you have bookshelf-type speakers for the rest of the channels combined with a subwoofer, route all low frequencies to the subwoofer only. This takes the low-frequency load off the smaller speakers since they can't reproduce lower bass frequencies. If prompted, set all the speakers to small.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Subwoofer vs. LFE
 
  When deciding which of the above options to use, most movie soundtracks on DVD, Blu-ray Disc, and some streaming sources contain a specific[LFE (Low-Frequency Effects)](https://www.dolby.com/uploadedFiles/Assets/US/Doc/Professional/38%5FLFE.pdf) channel ([Dolby](https://www.lifewire.com/dolby-digital-ex-plus-1846885) and[DTS](https://www.lifewire.com/what-is-dts-1846889) surround formats).
@@ -67,10 +81,10 @@ Anthem AV
 ![Denon AVR-X2100W Subwoofer LFE Settings Menu](https://www.lifewire.com/thmb/7EpelSRkJveIXdtBvouIVTmPduQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/denon-avr-x2100w-subwoofer-lfe-x-9632c722beac467a90cbde08657c5b66.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The LFE channel contains specific, extremely low-frequency information that can only be passed through the receiver's subwoofer preamp output. If you tell the receiver you don't have a subwoofer, you won't have access to the specific low-frequency information encoded on that channel. However, other low-frequency information not encoded specifically to the LFE channel can be routed to other speakers.
@@ -89,6 +103,13 @@ Onkyo USA
 
 ![Denon AVR-X2100W Audyssey Start Menu](https://www.lifewire.com/thmb/tRCkdzLv-ETPFNmhxKxJ8wJcwmk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/denon-avr-x2100w-audyssey-start-360-b-x-ffd76963d5094d27af404d824866d8ab.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Although there are variations in how each of these systems works, here is what they have in common:
 
 * A special microphone is provided that you place at the primary listening position that also plugs into your home theater receiver.
@@ -97,19 +118,6 @@ Onkyo USA
 * The receiver analyzes the information and determines the speaker distance, balances the output levels between the speakers, and finds the best points where the frequencies are divided between the speakers and the subwoofer.
 
  Although convenient for most setups, this method isn't always accurate. It can sometimes miscalculate speaker distance and the speaker/subwoofer frequency points, setting the center channel output too low or the subwoofer output too high. However, you can correct these manually after the fact, if desired.
-
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Setting Bass Management Manually
 
@@ -133,26 +141,13 @@ Onkyo USA
 ![Denon AVR-X2100W Crossover Settings Menu](https://www.lifewire.com/thmb/U0hvP3qoaLcpWMo4oNgfFZoQNFk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/denonp-avr-x2100w-crossover-alt-x-6b7312c6847d4b4baa35670e710b17ab.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  A useful tool in setting crossover points is a DVD or Blu-ray test disc that includes an audio test section, such as[Digital Video Essentials](https://www.amazon.com/Digital-Video-Essentials-Basics-Blu-ray/dp/B000V6LST0?tag=lifewire-onsite-prod-20&ascsubtag=4136746%7Cn1a0d219b82aa4a1997258ab762750e7b16%7C) .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -202,5 +197,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-innovating-your-online-presence-expert-tips-for-video-enhancement-after-upload/"><u>[New] 2024 Approved Innovating Your Online Presence Expert Tips for Video Enhancement After Upload</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-channel-success-infusing-personality-into-templates/"><u>[Updated] Channel Success Infusing Personality Into Templates</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-decoding-the-secrets-to-using-ez-grabber/"><u>[Updated] In 2024, Decoding the Secrets to Using EZ Grabber</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-ultimate-guide-to-ipad-based-time-lapse-videos-for-2024/"><u>[Updated] The Ultimate Guide to iPad-Based Time-Lapse Videos for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/accelerate-your-iphone-and-android-videos-with-top-free-slo-motion-apps/"><u>Accelerate Your iPhone and Android Videos with Top Free Slo-Motion Apps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-locating-or-restoring-missing-ac1st16dll-files/"><u>Comprehensive Guide: Locating or Restoring Missing ac1st16.dll Files</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/does-spotify-allow-two-users-to-experience-live-music-playback-together/"><u>Does Spotify Allow Two Users to Experience Live Music Playback Together?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-vivo-y17s-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Vivo Y17s</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/locating-electric-vehicle-charger-spots-with-google-maps-a-step-by-step-guide/"><u>Locating Electric Vehicle Charger Spots with Google Maps: A Step-by-Step Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/mapping-out-steams-screenshot-stashes/"><u>Mapping Out Steam's Screenshot Stashes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solve-your-wii-game-disc-problems-with-these-expert-tips-and-tricks/"><u>Solve Your Wii Game Disc Problems with These Expert Tips and Tricks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-atandts-mobile-network-roaming-rules-a-detailed-overview/"><u>Understanding AT&T's Mobile Network Roaming Rules: A Detailed Overview</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unraveling-the-mystery-behind-chatgpts-ownership/"><u>Unraveling the Mystery Behind ChatGPT's Ownership</u></a></li>
+</ul></div>
 

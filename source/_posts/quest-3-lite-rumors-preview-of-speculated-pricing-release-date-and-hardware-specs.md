@@ -1,7 +1,7 @@
 ---
 title: "Quest 3 Lite Rumors: Preview of Speculated Pricing, Release Date, and Hardware Specs"
-date: 2024-09-11T23:59:06.794Z
-updated: 2024-09-15T19:53:49.713Z
+date: 2024-10-22T20:29:42.910Z
+updated: 2024-10-25T04:40:06.278Z
 categories:
   - BestProducts
 description: "This Article Describes Quest 3 Lite Rumors: Preview of Speculated Pricing, Release Date, and Hardware Specs"
@@ -32,13 +32,34 @@ thumbnail: https://thmb.techidaily.com/55d1895b35f08f3d82ecb412a2b84639eef0d00ef
 
  Given that there are no rumors of an actual product using this technology, it's too early to know a release date for this unnamed device (if it gets released at all).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Lifewire's Release Date Estimate
 
  We don't expect to see this direct audio device until late 2025 or 2026 (or maybe even later).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Pre-Order Information
 
  Given that there aren't even rumors of a product here, there's no pre-order information to share right now. We'll update this article if that changes.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Apple Wearable Device With Direct Audio Price Rumors
 
@@ -49,6 +70,13 @@ thumbnail: https://thmb.techidaily.com/55d1895b35f08f3d82ecb412a2b84639eef0d00ef
  Apple's patent for this wearable computing device ([Patent #US 11979721 B2](https://ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11979721) ) describes a gadget that can be worn on clothes and contains a set of speakers and microphones. The speakers beam audio to the wearer's ears, while the microphones take voice commands (probably to Apple's digital assistant, Siri).
 
 ![Patent drawing of an Apple wearable device with direct audio](https://www.lifewire.com/thmb/bpw_abDVlHe6Q57SQBo0eDLP8K8=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/apple-wearable-audio-device-e517a826f13a414dbecdc3bca50d826b.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Apple, Inc / USPTO
 
@@ -67,25 +95,11 @@ Apple, Inc / USPTO
 
  Directional audio using parametric speakers may sound futuristic, but it already exists in a few products.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Microphones for Commands, User Identification, and Callibration
 
  The patented device would also contain microphones. These could be used for commands with a[virtual assistant](https://www.lifewire.com/virtual-assistants-4138533) like Apple Intelligence or Siri.
 
  The patent also mentions user identification—presumably the device would get to know your voice and maybe even use it as a password (the HomePod does something similar with[Personal Requests](https://www.lifewire.com/how-to-set-up-apple-homepod-4800071) )—and calibration (likely to gauge background noise and vocal volume to attune the device to the user and its surroundings).
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Latest News About the Apple Wearable Device With Direct Audio
 
@@ -110,5 +124,22 @@ Apple, Inc / USPTO
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-enhancing-video-discoverability-with-ideal-thumbnail-widths-and-height/"><u>[New] In 2024, Enhancing Video Discoverability with Ideal Thumbnail Widths and Height</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-twitching-videos-seamlessly-twitter-and-tumblr-guide/"><u>[New] In 2024, Twitching Videos Seamlessly Twitter & Tumblr Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-tecno-spark-20c-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Tecno Spark 20C? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/comparing-augmented-reality-stickers-beyond-google-for-2024/"><u>Comparing Augmented Reality Stickers Beyond Google for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/disneyplus-silently-disables-popular-groupwatch-functionality/"><u>Disney+ Silently Disables Popular GroupWatch Functionality</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-fixes-for-rockalldlldll-not-found-problems/"><u>Effective Fixes for 'Rockalldll.dll Not Found' Problems</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-premier-10-survival-showdowns/"><u>In 2024, Premier 10 Survival Showdowns</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-cooldown-chart-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/roku-control-hacks-for-when-you-lose-or-forget-your-remote/"><u>Roku Control Hacks for When You Lose or Forget Your Remote</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-on-setting-up-ps-vr-with-personal-computer/"><u>Step-by-Step Instructions on Setting Up PS VR With Personal Computer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solution-to-fix-missing-or-corrupted-msodll-errors-in-office-suite/"><u>Step-by-Step Solution to Fix Missing or Corrupted mso.dll Errors in Office Suite</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-the-ultimate-order-to-experience-the-wizarding-world-of-harry-potter-on-screen/"><u>Step-by-Step: The Ultimate Order to Experience the Wizarding World of Harry Potter on Screen</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/storytelling-mastery-scriptwriting-secrets-revealed/"><u>Storytelling Mastery Scriptwriting Secrets Revealed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-essential-10-sport-films-that-are-dominating-viewing-screens-right-now/"><u>The Essential 10 Sport Films That Are Dominating Viewing Screens Right Now</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-viewing-the-dragon-ball-z-saga-sequentially/"><u>The Ultimate Guide to Viewing the Dragon Ball Z Saga Sequentially</u></a></li>
+</ul></div>
 

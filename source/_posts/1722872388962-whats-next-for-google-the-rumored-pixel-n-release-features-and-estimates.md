@@ -1,7 +1,7 @@
 ---
 title: "What's Next for Google: The Rumored Pixel N Release, Features and Estimates"
-date: 2024-09-09T19:33:17.966Z
-updated: 2024-09-15T23:03:08.480Z
+date: 2024-10-20T04:03:48.084Z
+updated: 2024-10-25T08:34:27.929Z
 categories:
   - BestProducts
 description: "This Article Describes What's Next for Google: The Rumored Pixel N Release, Features and Estimates"
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/3e8a6c48903de348edfc32de01dc40c1bc954d345
 
  Google is predicted to debut not only the Pixel 9 and Pixel 9 Pro but also the Pixel 9 Pro XL and Pixel 9 Pro Fold (aka[Pixel Fold 2](https://www.lifewire.com/google-pixel-fold-2-8625299) ). All of these phones will likely be announced at the same event.[Follow our Google Event page](https://www.lifewire.com/google-event-5205756) for those updates.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Lifewire's Release Date Estimate
 
 We anticipate an August 2024 event to showcase the Pixel 9 phones.
@@ -45,6 +52,13 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 * **Pixel 9 Pro** \- $999
 * **Pixel 9 Pro XL** \- $1,199
 * **Pixel 9 Pro Fold** \- $1,799
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Pre-Order Information
 
@@ -61,23 +75,9 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 * **Offline location tracking** : Android 15 will introduce Google's Find My Device network for locating compatible items via Bluetooth. The Pixel 9 might be the first Google phone to be findable even when it's turned off.
 * **Satellite messaging** : The Pixel 9 is expected to be the first phone to support Android's satellite communication implementation. This feature will let you text over a satellite even if you don't have a mobile data connection.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Google Pixel 9 Specs and Hardware
 
  Nothing is confirmed until Google makes it official in October. But here's what we've gathered so far from supposed leaks and rumors:  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Display
 
@@ -93,13 +93,6 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 
  The Tensor G4 will likely power all four Pixel 9 phones. This is an expected upgrade, given the Pixel 8's Tensor G3 chip.[According to Android Authority](https://www.androidauthority.com/pixel-9-sos-satellite-connectivity-3433498/) , this chip will include the more power-efficient and faster Samsung Modem 5400, which may also introduce support for satellite-based messaging.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Cameras
 
  This year's Pixels are changing up the camera bar. Compared to the Pixel 8's camera housing, it looks a bit more compact and rounded, but also flatter on the sides. It now has a small gap on either end that distinguishes it from last year's phones.
@@ -107,10 +100,10 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 ![A render of the Google Pixel 9, showing the rear camera array](https://www.lifewire.com/thmb/Z-Oo9PCfnUvx4aph9Yv2DHMRXVQ=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Google-Pixel-Render-85e42f165c7c447db2d5f9bc9e3a7ef1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 MySmartPrice
@@ -124,6 +117,13 @@ MySmartPrice
  There haven't been any details about the Pixel 9 battery yet, except that the Pixel 9 series might support the Qi2 wireless charging standard.
 
  Some evidence to support this comes from the fact that Liyu Yang, one of the board of directors at the Wireless Power Consortium (the publisher of the Qi standard) is a senior hardware engineer at Google who's[leading the design of next-gen wireless charging platforms for future Pixel products](https://www.wirelesspowerconsortium.com/blog-pages/wpc-welcomes-new-board-member/) .
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Other Specs
 
@@ -154,5 +154,16 @@ MySmartPrice
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-become-a-pro-at-sims-4-video-sessions-for-2024/"><u>[New] Become a Pro at Sims 4 Video Sessions for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-the-definitive-2023-bandicam-handbook-for-gamers/"><u>[New] In 2024, The Definitive 2023 Bandicam Handbook for Gamers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-the-ultimate-guide-to-selecting-frame-rate-for-hd-recording-for-2024/"><u>[New] The Ultimate Guide to Selecting Frame Rate for HD Recording for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-troubleshooting-techniques-for-missing-or-lost-btballoondll-errors/"><u>Comprehensive Troubleshooting Techniques for Missing or Lost btballoon.dll Errors</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/connect-disney-plus-directly-to-your-chromecast-simple-instructions-inside/"><u>Connect Disney Plus Directly to Your Chromecast - Simple Instructions Inside!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exhaustive-roster-of-psvr-titles-complete-guide-on-whats-out-and-coming-soon/"><u>Exhaustive Roster of PSVR² Titles: Complete Guide on What's Out & Coming Soon</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-fixing-problems-with-avcodecdll-when-it-cant-be-located/"><u>Expert Tips: Fixing Problems with Avcodec.dll When It Can't Be Located</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-xiaomi-redmi-note-12-pro-4g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Xiaomi Redmi Note 12 Pro 4G FRP Bypass</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/perfecting-the-art-of-compelling-mosaic-imagery-for-2024/"><u>Perfecting the Art of Compelling Mosaic Imagery for 2024</u></a></li>
+</ul></div>
 

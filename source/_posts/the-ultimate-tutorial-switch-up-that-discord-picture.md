@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Tutorial: Switch Up That Discord Picture"
-date: 2024-09-12T23:36:33.621Z
-updated: 2024-09-15T16:36:16.508Z
+date: 2024-10-20T18:26:42.736Z
+updated: 2024-10-25T08:25:28.211Z
 categories:
   - BestProducts
 description: "This Article Describes The Ultimate Tutorial: Switch Up That Discord Picture"
@@ -33,16 +33,39 @@ thumbnail: https://thmb.techidaily.com/e788f79a8684ff135a50b06576e0943a8c2779cab
 2. Click settings cog at the bottom left next to the current image.  
 ![Changing a Discord profile picture on a desktop.](https://www.lifewire.com/thmb/CtVsFOH3NrM_Osbk4QgSVA-zC_M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DiscordProfileImage1-be91f7e650f246a5b059b8808831e078.jpg)
 3. Select the three-dotted menu to the right of where the image goes.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Select**Change Avatar** .  
  To delete your avatar, select**Delete Avatar** .  
 ![Changing a Discord profile picture on a desktop.](https://www.lifewire.com/thmb/_ubg4ot8XIxsdRiJKl8yi2czZzo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DiscordProfileImage3-ff81b24cf09447b1a89298c27ef9af4a.jpg)
 5. Choose an image.  
 ![Changing a Discord profile picture on a desktop.](https://www.lifewire.com/thmb/7p7WSfd6m8IiCjx-Vn3CrNBi5wc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DiscordProfileImage4-a6205545762a49769b025839f0882ec9.jpg)
 6. You can resize or center the image as you see fit.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Click**Apply** .  
 ![Changing a Discord profile picture on a desktop.](https://www.lifewire.com/thmb/zPQvP51LFBMX5W5ivjpzObfupIY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DiscordProfileImage5-aedff4a1f42145f3b849fc6608730e95.jpg)
 8. Click**Save Changes** .  
 ![Changing a Discord profile picture on a desktop.](https://www.lifewire.com/thmb/zSsiau7LE9NhHuZBkN1EWnu9i48=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DiscordProfileImage7-b6dbbf06f586439d9dcb7d360501836b.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Update Your Discord Image on Mobile
 
@@ -59,6 +82,13 @@ thumbnail: https://thmb.techidaily.com/e788f79a8684ff135a50b06576e0943a8c2779cab
 7. Choose an image and tap**Upload** . You can crop and zoom if you need to, but you have to do it before selecting the**Upload** button (there's a**Crop** button that shows up after you choose the image).
 8. Click the checkmark at the top right when you're satisfied if you cropped your image, then press**Save** to save the changes.  
 ![Updating a Discord profile picture on mobile.](https://www.lifewire.com/thmb/VI2elSd14X27hKFsCroqVin3bEI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DiscordProfileImageMobile7-9-0291015a37e24a9b916667e373b615e4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  FAQ
 
@@ -98,18 +128,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ssential-guide-to-forming-powerful-content-partnerships-on-youtube/"><u>[New] Essential Guide to Forming Powerful Content Partnerships on YouTube</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-flipping-fun-facts-into-memes-with-kinemaster/"><u>[New] Flipping Fun Facts Into Memes with KineMaster</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unlocking-youtube-potential-with-best-thumbnail-dimensions/"><u>[New] Unlocking YouTube Potential with Best Thumbnail Dimensions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apples-upcoming-home-robot-revealed-potential-launch-date-cost-estimates-detailed-features-and-latest-gossip/"><u>Apple's Upcoming Home Robot Revealed: Potential Launch Date, Cost Estimates, Detailed Features & Latest Gossip</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/convert-your-mkv-files-into-m2ts-for-compatible-viewing-on-sony-playstation-4-and-blu-ray-systems/"><u>Convert Your MKV Files Into M2TS for Compatible Viewing on Sony PlayStation 4 & Blu-Ray Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/decoding-the-latest-on-tesla-phone-when-is-it-coming-out-what-will-it-cost-and-the-advanced-tech-specs-that-make-heads-turn/"><u>Decoding the Latest on 'Tesla Phone': When Is It Coming Out? What Will It Cost? And The Advanced Tech Specs That Make Heads Turn</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ce-your-channels-image-adding-watermarks-and-logos-to-video-posts-for-2024/"><u>Enhance Your Channel's Image Adding Watermarks & Logos to Video Posts for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-factors-in-picking-the-best-selfie-extender-for-epic-shots/"><u>Essential Factors in Picking the Best Selfie Extender for Epic Shots</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-successfully-address-and-repair-a-missing-or-not-found-mapi32dll-file/"><u>How to Successfully Address and Repair a Missing or Not Found Mapi32.dll File</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/transformative-editing-mastering-blend-mode-applications/"><u>Transformative Editing Mastering Blend Mode Applications</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Inside the Apple Store: Testing Out the Thinnest iPads Ever Made – Is Half a Millimeter Worth It?"
-date: 2024-10-16T17:40:46.090Z
-updated: 2024-10-19T07:58:48.570Z
+date: 2024-10-19T07:58:25.917Z
+updated: 2024-10-25T03:15:41.010Z
 tags:
   - apple
 categories:
@@ -37,10 +37,10 @@ Apple was expected to focus on incorporating AI into its apps to simplify users'
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What does Apple Intelligence do?
@@ -103,10 +103,10 @@ The same feature can help users make major edits to text, such as changing the t
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is Image Playground?
@@ -134,10 +134,16 @@ When users make a Siri request that the voice assistant determines would be bett
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Apple Intelligence be processed on-device or in the cloud?
@@ -157,10 +163,16 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is Apple Intelligence actually private and secure?
@@ -218,24 +230,18 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-hashtags-hack-skyrocket-your-video-popularity-for-2024/"><u>[Updated] Hashtags Hack Skyrocket Your Video Popularity for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-essential-10-boosters-for-multi-device-use/"><u>2024 Approved Essential 10 Boosters for Multi-Device Use</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-essential-thumbnail-strategies-for-amplifying-viewership-on-youtube/"><u>2024 Approved Essential Thumbnail Strategies for Amplifying Viewership on YouTube</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/diy-repair-tips-for-when-your-dvdbdcd-drive-wont-eject-or-open-properly/"><u>DIY Repair Tips for When Your DVD/BD/CD Drive Won't Eject or Open Properly</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/tise-in-action-leading-youtube-text-to-video-devices/"><u>Expertise in Action Leading Youtube Text-to-Video Devices</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-world-of-ussd-insights-into-unstructured-supplementary-data-communication/"><u>Exploring the World of USSD: Insights Into Unstructured Supplementary Data Communication</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-select-all-messages-in-gmail/"><u>How to Select All Messages in Gmail</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ideal-presents-for-aspiring-gamers-kid-friendly-consoles-add-ons/"><u>Ideal Presents for Aspiring Gamers: Kid-Friendly Consoles, Add-Ons</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/illuminating-interactions-mastering-animate-texts-in-stories-for-2024/"><u>Illuminating Interactions Mastering Animate Texts in Stories for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-mastering-filmmaking-on-youtube-and-substitutes/"><u>In 2024, Mastering Filmmaking on YouTube & Substitutes</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-on-iphone-8-plus-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID On iPhone 8 Plus Making It Possible</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/inside-meta-ai-pioneering-innovations-in-machine-learning-and-vision-systems/"><u>Inside Meta AI: Pioneering Innovations in Machine Learning and Vision Systems</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/quick-and-easy-tutorial-turning-pictures-into-animated-gifs-on-windows-or-mac/"><u>Quick and Easy Tutorial: Turning Pictures Into Animated GIFs on Windows or Mac</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/rising-to-fame-on-apple-tv-proven-tactics-for-improving-your-seo-standing/"><u>Rising to Fame on Apple TV: Proven Tactics for Improving Your SEO Standing</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-iphoneipad-ios-update-issues-6-reliable-steps/"><u>Solving iPhone/iPad iOS Update Issues: 6 Reliable Steps</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722852356519-step-by-step-guide-tracking-location-with-ios-devices/"><u>Step-by-Step Guide: Tracking Location with iOS Devices</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-savvy-shoppers-guide-7-important-questions-answered-before-buying-a-smart-tv/"><u>The Savvy Shopper's Guide: 7 Important Questions Answered Before Buying a Smart TV</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlocking-the-secrets-behind-netflix-your-complete-guide-to-a-popular-streaming-service/"><u>Unlocking the Secrets Behind Netflix: Your Complete Guide to a Popular Streaming Service</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-discover-the-ultimate-video-editing-solution-for-windows-8-for-2024/"><u>Updated Discover the Ultimate Video Editing Solution for Windows 8 for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-asmr-content-deep-dive-101/"><u>[New] In 2024, ASMR Content Deep Dive 101</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/blur-out-the-chaos-a-guide-to-achieving-a-clean-background-in-google-meet/"><u>Blur Out the Chaos: A Guide to Achieving a Clean Background in Google Meet</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/compact-yet-potent-top-5-gaming-mini-pcs-that-will-blow-your-mind/"><u>Compact Yet Potent: Top 5 Gaming Mini PCs That Will Blow Your Mind</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comprehensive-insight-into-high-end-hdr-cameras/"><u>Comprehensive Insight Into High-End HDR Cameras</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-non-responsive-start-button-on-windows-10-easy-solutions/"><u>Fixing the Non-Responsive Start Button on Windows 10 - Easy Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722855172687-get-your-hands-on-high-quality-ipads-at-jaw-dropping-prices/"><u>Get Your Hands on High-Quality iPads at Jaw-Dropping Prices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-fix-d3dx927dll-not-found-or-missing-errors/"><u>How to Fix D3dx9_27.dll Not Found or Missing Errors</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Apple iPhone 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-inaccessible-roblox-game-error-for-windows-users/"><u>Resolving Inaccessible Roblox Game Error for Windows Users</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamless-integration-of-startech-drivers-on-old-and-new-windows/"><u>Seamless Integration of StarTech Drivers on Old and New Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-fixes-to-correct-the-d3dx924dll-is-not-found-error/"><u>The Ultimate Fixes to Correct the d3dx9_24.dll Is Not Found Error</u></a></li>
+<li><a href="https://win-able.techidaily.com/trouble-with-launching-witcher-3-wild-hunt-here-are-fixes-that-work/"><u>Trouble with Launching Witcher 3: Wild Hunt? Here Are Fixes That Work!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/uniting-images-into-an-eye-catching-narrative-display-for-2024/"><u>Uniting Images Into an Eye-Catching Narrative Display for 2024</u></a></li>
 </ul></div>
 

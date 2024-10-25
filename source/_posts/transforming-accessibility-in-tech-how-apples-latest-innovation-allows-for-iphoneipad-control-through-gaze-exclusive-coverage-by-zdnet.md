@@ -1,7 +1,7 @@
 ---
 title: "Transforming Accessibility in Tech: How Apple's Latest Innovation Allows for iPhone/iPad Control Through Gaze | Exclusive Coverage by ZDNET"
-date: 2024-10-12T17:54:26.551Z
-updated: 2024-10-18T22:15:21.681Z
+date: 2024-10-18T05:21:11.368Z
+updated: 2024-10-25T04:46:42.513Z
 tags:
   - apple
 categories:
@@ -45,15 +45,28 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Apple Music haptics
 
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
+
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Addressing motion sickness
 
@@ -64,10 +77,10 @@ Motion sickness in cars can often be the result of a disconnect between what you
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Understanding speech
@@ -77,10 +90,10 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### New CarPlay features
@@ -88,13 +101,6 @@ Another feature, Listen for Atypical Speech, will use machine learning to unders
 Apple's in-car CarPlay software is also getting new accessibility features, including the ability for you to navigate CarPlay and engage with apps using only your voice. A new Sound Recognition feature will display alerts on CarPlay's screen when car horns or sirens go off, and Color Filters will make CarPlay easier to use for colorblind users.
 
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Some other updates
 
@@ -130,18 +136,24 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-easing-into-public-speaking-10-common-video-blogger-fears/"><u>[New] 2024 Approved Easing Into Public Speaking 10 Common Video Blogger Fears</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-how-luts-revolutionize-color-balance-in-images-for-2024/"><u>[Updated] How LUTs Revolutionize Color Balance in Images for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-pro-screencast-strategies-secrets-for-video-creators/"><u>[Updated] Pro Screencast Strategies Secrets for Video Creators</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/a-closer-look-at-how-gptzero-detects-non-human-writers/"><u>A Closer Look at How GPTZero Detects Non-Human Writers</u></a></li>
-<li><a href="https://win11.techidaily.com/cure-voice-command-issues-reactivation-techniques-for-win11/"><u>Cure Voice Command Issues: Reactivation Techniques for Win11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discovering-the-world-of-toms-hardware-solutions/"><u>Discovering the World of Tom's Hardware Solutions</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/dissecting-the-linguistic-gaps-of-usa-and-uk/"><u>Dissecting the Linguistic Gaps of USA and UK</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-rich-communication-services-rcs-technology-in-smartphones/"><u>Exploring Rich Communication Services (RCS) Technology in Smartphones</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/five-essential-steps-to-correct-a-missing-coredll-mistake/"><u>Five Essential Steps to Correct a Missing core.dll Mistake</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/game-on-top-7-must-play-imessage-games-dominating-2score4/"><u>Game On! Top 7 Must-Play iMessage Games Dominating 2Score4</u></a></li>
-<li><a href="https://extra-support.techidaily.com/masterful-picture-arrangement-10-leading-tools-for-2024/"><u>Masterful Picture Arrangement 10 Leading Tools for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigate-the-world-of-books-with-these-5-artificous-intelligence-tools/"><u>Navigate the World of Books with These 5 Artificous Intelligence Tools</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-successfully-running-lego-star-wars-the-skywalker-saga-on-your-pc-in-202e/"><u>Troubleshooting Guide: Successfully Running 'Lego Star Wars: The Skywalker Saga' On Your PC in 202E</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-capturequality-assessor-network/"><u>[New] 2024 Approved CaptureQuality Assessor Network</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-the-ultimate-guide-to-selecting-screen-recorder-software/"><u>[New] 2024 Approved The Ultimate Guide to Selecting Screen Recorder Software</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-non-google-augmented-reality-visual-aids/"><u>[New] Non-Google Augmented Reality Visual Aids</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-permission-to-browse-friends-media-content-on-smschat-services/"><u>[Updated] 2024 Approved Permission to Browse Friends' Media Content on SMS/Chat Services</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-chorus-chronicles-storytelling-with-musical-themes/"><u>[Updated] Chorus Chronicles Storytelling with Musical Themes</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-top-5-choices-in-professional-3d-intros/"><u>2024 Approved Top 5 Choices in Professional 3D Intros</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-retrospective-on-apples-mobile-os-legacy-the-transformation-from-ios-10-to-ios-180/"><u>A Retrospective on Apple's Mobile OS Legacy: The Transformation From iOS 1.0 to iOS 18.0</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/accelerating-pc-operations-through-higher-memory-rates-and-lower-response-times/"><u>Accelerating PC Operations Through Higher Memory Rates and Lower Response Times</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-maintains-strict-control-over-european-iphone-sales-insights-from-zdnet/"><u>Apple Maintains Strict Control Over European iPhone Sales: Insights From ZDNet</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/discerning-true-excellence-active-vs-record-leaders-for-2024/"><u>Discerning True Excellence Active vs Record Leaders for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-apples-most-economical-airpods-offer-with-a-40-discount-before-independence-day-exclusive-scoop/"><u>Discover Apple’s Most Economical AirPods Offer with a $40 Discount Before Independence Day - Exclusive Scoop</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>How to Change/Add Location Filters on Snapchat For your Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-optimal-slow-motion-mobile-recording-tools-iosandroid/"><u>In 2024, Optimal Slow Motion Mobile Recording Tools iOS/Android</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/making-the-right-pick-in-apples-notebook-lineup-in-depth-review-of-m2-vs-m3-macbook-air-options/"><u>Making the Right Pick in Apple's Notebook Lineup: In-Depth Review of M2 Vs. M3 MacBook Air Options</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionize-your-apple-watchs-endurance-top-8-configurations-for-extended-battery-performance-insights/"><u>Revolutionize Your Apple Watch's Endurance: Top 8 Configurations for Extended Battery Performance - Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-process-to-erase-all-emails-from-your-gmail-app/"><u>Step-by-Step Process to Erase All Emails From Your Gmail App</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-macbook-models-set-to-release-tech-insights-from-zdnet/"><u>Top-Rated MacBook Models Set to Release - Tech Insights From ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-protectors-for-iphone-16-and-pro-models-comprehensive-review-by-tech-gurus/"><u>Top-Rated Protectors for iPhone 16 & Pro Models : Comprehensive Review by Tech Gurus</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/twitters-viral-victory-hot-talk-highlights/"><u>Twitter's Viral Victory Hot Talk Highlights</u></a></li>
 </ul></div>
 

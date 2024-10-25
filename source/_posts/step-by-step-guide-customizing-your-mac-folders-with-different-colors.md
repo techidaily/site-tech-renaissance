@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Customizing Your Mac Folders with Different Colors"
-date: 2024-09-09T19:08:54.871Z
-updated: 2024-09-15T23:51:15.481Z
+date: 2024-10-22T16:29:13.397Z
+updated: 2024-10-24T19:09:18.270Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Guide: Customizing Your Mac Folders with Different Colors"
@@ -23,6 +23,19 @@ thumbnail: https://thmb.techidaily.com/4703b9d657812b3886216df90e44b1d9ef5fb3878
 
  This article explains how to open[Command Prompt](https://www.lifewire.com/command-prompt-2625840) , which is one of the[command-line interface](https://www.lifewire.com/what-is-a-command-line-interpreter-2625827) programs used to execute[commands](https://www.lifewire.com/what-is-a-command-2625828) in Windows operating systems. These directions apply to Windows 11, Windows 10, Windows 8, Windows 7, Windows Vista, and Windows XP.  
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Open Command Prompt in Windows 11 or 10
 
  There are a few ways, but using the search bar on the taskbar is one quick method for opening a command window.
@@ -35,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/4703b9d657812b3886216df90e44b1d9ef5fb3878
 !["cmd" typed into Windows 11 start menu search box](https://www.lifewire.com/thmb/1d41kEyvl2KNY_b_cnc6DgiIehk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-cmd-start-menu-a8c1d7d009f64856902c83e8e418563b.png)  
  If you're using the latest version of Windows 11, Command Prompt will open within[Terminal](https://www.lifewire.com/windows-terminal-4779951) .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Some popular Command Prompt commands you might have heard of include[ping](https://www.lifewire.com/ping-command-2618099) ,[netstat](https://www.lifewire.com/netstat-command-2618098) ,[tracert](https://www.lifewire.com/tracert-command-2618101) ,[shutdown](https://www.lifewire.com/shutdown-command-2618100) , and[attrib](https://www.lifewire.com/attrib-command-2625802) , but there are_many_ more. We have a[complete list of Windows Command Prompt commands](https://www.lifewire.com/list-of-command-prompt-commands-4092302) .
 
 ### Open Command Prompt Through the Start Menu Folder
@@ -43,6 +63,20 @@ thumbnail: https://thmb.techidaily.com/4703b9d657812b3886216df90e44b1d9ef5fb3878
 
 ![Command Prompt menu item in Windows System folder in Start menu on Windows 10](https://www.lifewire.com/thmb/M8TRCTyz0ujUzmDzFZsFJjffiq4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-open-command-prompt-2618089-5c6468a146e0fb0001f25667.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Open Command Prompt Using Power User Menu
 
  One more method is through the[Power User Menu](https://www.lifewire.com/what-is-the-power-user-menu-2625968) . If you're using a keyboard or mouse, choose**Terminal** (Windows 11) or**Command Prompt** (Windows 10) from the menu that appears after pressing**Win** +**X** or right-clicking the**Start** **Menu** .
@@ -50,13 +84,6 @@ thumbnail: https://thmb.techidaily.com/4703b9d657812b3886216df90e44b1d9ef5fb3878
 ![Command Prompt in Windows 10 Power User menu](https://www.lifewire.com/thmb/7_8z-AOur7jJSd6_2bz9Yp2VnDA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-open-command-prompt-2618089-5c646ad746e0fb0001dcd81a.jpg)
 
  You might see PowerShell options in the Power User Menu instead of Command Prompt. In more recent versions of Windows 10, Command Prompt has been replaced by PowerShell, but you can[switch between PowerShell and Command Prompt](https://www.lifewire.com/switch-command-prompt-and-powershell-on-the-win-x-menu-2626247) from the Power User Menu. Terminal is the replacement in Windows 11.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Open Command Prompt in Windows 8 or 8.1
 
@@ -70,13 +97,6 @@ thumbnail: https://thmb.techidaily.com/4703b9d657812b3886216df90e44b1d9ef5fb3878
 
  See our [list of Windows 8 Command Prompt commands](https://www.lifewire.com/windows-8-command-prompt-commands-4172073) for all of the commands available through Command Prompt in Windows 8, including short descriptions and links to more in-depth information if we have it.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Open Command Prompt in Windows 7, Vista, or XP
 
  In these versions of Windows, Command Prompt is found through a folder group in the Start menu.
@@ -87,13 +107,6 @@ thumbnail: https://thmb.techidaily.com/4703b9d657812b3886216df90e44b1d9ef5fb3878
 3. Choose**Command Prompt** from the list of programs.
 
  See our [list of Windows 7 commands](https://www.lifewire.com/list-of-windows-7-command-prompt-commands-4107370) and[list of Windows XP commands](https://www.lifewire.com/windows-xp-commands-4687695) if you need a command reference for any of those versions of Windows.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Other Ways to Open Command Prompt
 
@@ -157,5 +170,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-decoding-the-art-of-successful-fb-cover-videos/"><u>[New] Decoding the Art of Successful FB Cover Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-concept-to-completion-utilizing-luts-effectively-in-premiere-pro/"><u>[New] From Concept to Completion Utilizing LUTs Effectively in Premiere Pro</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-can-creators-earn-from-product-video-reviews-in-2024/"><u>[Updated] Can Creators Earn From Product Video Reviews, In 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comparing-the-top-tech-giants-a-look-at-apple-dell-and-others/"><u>Comparing the Top Tech Giants : A Look at Apple, Dell, and Others</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-iphone-6s-plus-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For iPhone 6s Plus Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-unbeatable-iphone-bargains-for-summer-2024-on-zdnets-latest-deals-roundup/"><u>Discover Unbeatable iPhone Bargains for Summer 2024 on ZDNet's Latest Deals Roundup</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/experience-samsung-unpacked-from-home-a-step-by-step-guide/"><u>Experience Samsung Unpacked From Home: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-tecno-spark-10-4g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Tecno Spark 10 4G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-navigating-discord-server-deletion-desktopmobile/"><u>In 2024, Navigating Discord Server Deletion (Desktop/Mobile)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ios-17-update-resolves-compatibility-woes-now-bmws-wireless-charger-works-flawlessly-with-iphone-15-exclusive-report/"><u>IOS 17 Update Resolves Compatibility Woes: Now BMW's Wireless Charger Works Flawlessly With iPhone 15 | Exclusive Report</u></a></li>
+<li><a href="https://fox-links.techidaily.com/perfect-every-frame-windows-11-and-storyremix-combo-guide-to-video-editing/"><u>Perfect Every Frame Windows 11 & StoryRemix Combo Guide to Video Editing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/samsungs-strategic-growth-with-galaxy-ai-dominates-as-google-faces-antitrust-challenges-the-latest-on-tech-leaders-rankings/"><u>Samsung’s Strategic Growth with Galaxy AI Dominates as Google Faces Antitrust Challenges – The Latest on Tech Leaders' Rankings</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-critical-error-that-plagued-the-recent-ipad-debut-expert-tips-on-how-apple-can-correct-it/"><u>The Critical Error that Plagued the Recent iPad Debut: Expert Tips on How Apple Can Correct It</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-affordable-tablets-comprehensive-reviews-by-tech-experts/"><u>Top Rated Affordable Tablets - Comprehensive Reviews by Tech Experts</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-poco-c65-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Poco C65 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+</ul></div>
 

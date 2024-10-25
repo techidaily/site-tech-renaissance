@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Strategy for Leveraging GitHub Copilot Within Microsoft Teams Sessions
-date: 2024-09-12T17:11:07.908Z
-updated: 2024-09-15T18:49:24.747Z
+date: 2024-10-23T03:10:51.971Z
+updated: 2024-10-25T03:52:09.941Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate Strategy for Leveraging GitHub Copilot Within Microsoft Teams Sessions
@@ -30,6 +30,13 @@ thumbnail: https://www.lifewire.com/thmb/PsM9b_FBI6MLWBjPvHaPRAH0GTQ=/400x300/fi
 3. Scroll to the bottom of the page and select **Save Changes** .  
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Create, Send, and Forward Email
 
  With Gmail[keyboard](https://www.lifewire.com/what-is-a-keyboard-2618153) shortcuts, you can quickly create, send, and forward Gmail messages:
@@ -56,18 +63,18 @@ thumbnail: https://www.lifewire.com/thmb/PsM9b_FBI6MLWBjPvHaPRAH0GTQ=/400x300/fi
 * **Scroll up an email list (K)** : Press the**K** key to scroll up.
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Select Multiple Emails
 
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Add Formatting to Email Text
 
@@ -79,6 +86,13 @@ thumbnail: https://www.lifewire.com/thmb/PsM9b_FBI6MLWBjPvHaPRAH0GTQ=/400x300/fi
 * **Undo last action (Ctrl** +**Z)** : Press**Ctrl** +**Z** to undo the previous action.
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Add Elements to an Email
 
@@ -101,10 +115,10 @@ thumbnail: https://www.lifewire.com/thmb/PsM9b_FBI6MLWBjPvHaPRAH0GTQ=/400x300/fi
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## "Go to" Shortcuts in Gmail
@@ -126,19 +140,6 @@ thumbnail: https://www.lifewire.com/thmb/PsM9b_FBI6MLWBjPvHaPRAH0GTQ=/400x300/fi
 * **Open keyboard shortcut help (Shift** +**?)** : Press**Shift** +**?** to get the full list of Gmail keyboard shortcuts.
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Was this page helpful?
 
@@ -167,5 +168,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-does-active-presenter-8-outperform-its-rivals/"><u>[New] 2024 Approved Does Active Presenter 8 Outperform Its Rivals?</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-s17t-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-motorola-razr-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Motorola Razr 40? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/call-of-duty-enthusiast-guide-to-overcoming-the-notorious-bug-27711-in-bocw/"><u>Call of Duty Enthusiast Guide to Overcoming the Notorious Bug #27711 in BOCW</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/future-proofing-your-house-with-apples-upcoming-domestic-robot-tech-insights/"><u>Future-Proofing Your House with Apple's Upcoming Domestic Robot | Tech Insights</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-safest-lenovo-thinkpad-drivers-instantly/"><u>Get the Latest, Safest Lenovo ThinkPad Drivers Instantly</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-enable-group-viewing-on-netflix-mastering-screen-sharing-features/"><u>How to Enable Group Viewing on Netflix - Mastering Screen Sharing Features</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-audio-essentials-latest-speakers/"><u>In 2024, Audio Essentials Latest Speakers</u></a></li>
+<li><a href="https://fox-search.techidaily.com/outlook-kann-nicht-gestartet-werden-fehlerbehebung-und-losungen-fur-die-startprobleme-von-microsofts-e-mail-client/"><u>Outlook Kann Nicht Gestartet Werden - Fehlerbehebung Und Lösungen Für Die Startprobleme Von Microsofts E-Mail-Client</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/septembers-prime-shopping-alert-uncover-amazing-savings-and-deals-from-amazon-zdnet-revealed/"><u>September's Prime Shopping Alert: Uncover Amazing Savings and Deals From Amazon (ZDNet Revealed)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solutions-what-to-do-when-amazon-fire-stick-controls-dont-respond/"><u>Step-by-Step Solutions: What to Do When Amazon Fire Stick Controls Don't Respond</u></a></li>
+</ul></div>
 

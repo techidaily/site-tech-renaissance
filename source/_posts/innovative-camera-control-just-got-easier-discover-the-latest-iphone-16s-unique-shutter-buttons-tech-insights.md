@@ -1,7 +1,7 @@
 ---
 title: "Innovative Camera Control Just Got Easier: Discover the Latest iPhone 16'S Unique Shutter Buttons | Tech Insights"
-date: 2024-10-18T09:06:05.644Z
-updated: 2024-10-19T14:56:06.811Z
+date: 2024-10-21T21:31:52.530Z
+updated: 2024-10-24T20:48:33.252Z
 tags:
   - apple
 categories:
@@ -35,10 +35,10 @@ Here's a look at what's new for the 6th generation iPad Air.
 First up, [Apple is introducing](https://www.apple.com/ipad-air/) an all-new bigger size. While previous versions of the [iPad Air](https://www.zdnet.com/article/best-ipad/) only had a single size to choose from, this year's edition has an 11-inch size and a 13-inch size – the larger one giving you 30% more screen to work with. It makes the iPad slightly less portable, but the added real estate will certainly be worth the tradeoff for some.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. An M2 chip for enhanced performance
@@ -60,10 +60,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. New placement for the front camera
@@ -71,10 +71,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 It may seem minor, but the front-facing camera of the latest iPad Air is in a new spot. It's now on the landscape edge, moved from the portrait edge. Previously, you had to use the iPad in portrait mode on a video call as moving it to landscape mode distorted the picture. Now, video calls will look exactly as they do on a laptop.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Bigger base storage
@@ -115,22 +115,19 @@ The iPad Air 6 will begin shipping next week at a starting price of [$599 for th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-elevate-your-video-profiles-using-smart-templates/"><u>[New] 2024 Approved Elevate Your Video Profiles Using Smart Templates</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-how-to-translate-speech-to-text-the-right-way-with-google-translate/"><u>[New] In 2024, How to Translate Speech to Text the Right Way with Google Translate</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-enhancing-team-coordination-through-thoughtful-office-spaces/"><u>[Updated] Enhancing Team Coordination Through Thoughtful Office Spaces</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-under-100-investments-in-action-cameras-top-selections/"><u>[Updated] Under $100 Investments in Action Cameras – Top Selections</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/a-comprehensive-guide-to-laptop-screen-recording-techniques/"><u>A Comprehensive Guide to Laptop Screen Recording Techniques</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-historical-web-pages-with-ease-a-users-manual-for-the-wayback-machine/"><u>Discover Historical Web Pages with Ease: A User's Manual for The Wayback Machine</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-top-reviews-on-new-and-advanced-technology-at-toms-hardware/"><u>Discover Top Reviews on New and Advanced Technology at Tom's Hardware</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/dolby-atmos-sound-check-are-you-really-getting-what-you-paid-for/"><u>Dolby Atmos Sound Check: Are You Really Getting What You Paid For?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-tips-to-correct-ac1st16dll-missing-errors-on-your-pc/"><u>Expert Tips to Correct 'ac1st16.dll' Missing Errors on Your PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/future-of-apple-tech-revealed-key-takeaways-from-the-worldwide-developer-conference-2025/"><u>Future of Apple Tech Revealed: Key Takeaways From the Worldwide Developer Conference 2025</u></a></li>
-<li><a href="https://common-error.techidaily.com/halo-4-unreal-engine-problem-solving-guide-fixing-the-fatal-errors-of-2024-release/"><u>Halo 4 Unreal Engine Problem-Solving Guide: Fixing the Fatal Errors of 2024 Release</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-huawei-nova-y71-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Huawei Nova Y71 to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722105877009-is-your-banking-information-safe-the-possibility-of-chatgpt-enabled-cyber-attacks-explored/"><u>Is Your Banking Information Safe? The Possibility of ChatGPT-Enabled Cyber Attacks Explored</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-the-chatgpt-error-in-moderation-a-step-by-step-guide/"><u>Solving the 'ChatGPT Error in Moderation': A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-4-twitter-apps-for-efficiently-tracking-and-engaging-with-trending-hashtags/"><u>Top 4 Twitter Apps for Efficiently Tracking and Engaging with Trending Hashtags</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-mastering-pokemon-go-a-step-by-step-strategy/"><u>Ultimate Guide: Mastering Pokémon Go - A Step-by-Step Strategy</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-dvr-wars-tivo-and-comcast-go-head-to-head-for-2024/"><u>Updated DVR Wars TiVo and Comcast Go Head-to-Head for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-beyond-popularity-youtube-earnings-for-1m-viewer-base-for-2024/"><u>[New] Beyond Popularity – YouTube Earnings for 1M Viewer Base for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-interacting-with-a-blended-world-the-essence-of-mixed-reality/"><u>[New] Interacting with a Blended World The Essence of Mixed Reality</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-motorola-moto-g14-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Motorola Moto G14? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722889514926-avoid-unwanted-amber-alerts-on-your-android-device-heres-how/"><u>Avoid Unwanted AMBER Alerts on Your Android Device - Here's How</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boost-your-convos-introducing-us-exclusive-chatgpt-plus-us20mth/"><u>Boost Your Convos: Introducing U.S.-exclusive ChatGPT Plus (US$20/Mth)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-these-10-affordable-substitutes-to-netflix-all-for-free/"><u>Explore These 10 Affordable Substitutes to Netflix, All for FREE!</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-the-baffling-warzone-memory-error-0-1766-on-your-xboxpc-setup/"><u>How To Fix The Baffling Warzone Memory Error 0-1766 On Your Xbox/PC Setup</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-clarity-unleashed-in-depth-review-of-the-hp-z32-x-display/"><u>In 2024, Clarity Unleashed In-Depth Review of the HP Z32 X Display</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-xiaomi-redmi-a2plus-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Xiaomi Redmi A2+ Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-safaris-display-issues-on-iphone-by-following-these-9-strategies/"><u>Overcome Safari's Display Issues on iPhone by Following These 9 Strategies</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quick-and-easy-tips-on-fire-stick-remote-pairing-techniques/"><u>Quick and Easy Tips on Fire Stick Remote Pairing Techniques</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-fixing-call-of-duty-warzone-pc-crashes/"><u>Resolved: Fixing Call of Duty Warzone PC Crashes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/simplifying-multi-bluetooth-speaker-setup-uniting-your-audio-devices/"><u>Simplifying Multi-Bluetooth Speaker Setup: Uniting Your Audio Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upcoming-apple-product-launch-key-details-and-exciting-speculations-you-need-to-know/"><u>Upcoming Apple Product Launch: Key Details & Exciting Speculations You Need to Know</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Disable Mouse Smoothing on Mac: A Step-by-Step Guide"
-date: 2024-09-12T20:05:10.154Z
-updated: 2024-09-15T22:37:59.388Z
+date: 2024-10-22T01:57:01.280Z
+updated: 2024-10-24T19:32:16.557Z
 categories:
   - BestProducts
 description: "This Article Describes Disable Mouse Smoothing on Mac: A Step-by-Step Guide"
@@ -23,6 +23,13 @@ thumbnail: https://thmb.techidaily.com/4f0baa4676690f713a7c64c49fa175c4aff67762b
 
  This article explains how to get 120 frames per second—which you'll also see as "FPS" or "Hz"–on PS5\. Not every game on PS5 supports this option, so while you can prep your console for it, it won't work for every title.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Turn On 120 FPS on PS5
 
  Most games that support 120 FPS also have other graphical modes that run at different frame rates, like 30 FPS and 60 FPS. You'll want to check your in-game settings for a 120 FPS toggle or a "Performance Mode" that you can turn on.
@@ -34,12 +41,27 @@ thumbnail: https://thmb.techidaily.com/4f0baa4676690f713a7c64c49fa175c4aff67762b
 2. Then, navigate to**Screen and Video** .  
 ![Screen and Video in PS5 settings](https://www.lifewire.com/thmb/YCLQ2vGLnavPgpRPNtxhU7n6NFw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Screen-and-Video-Settings-aa8ff277b8254627a1a8c88e1c91f9cf.jpg)
 3. Choose**Video Output** on the left side of the screen.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Video Output in PS5 Screen and Video settings](https://www.lifewire.com/thmb/Xgk1MNv2WwvyRO7tv2bHEF4oiqo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Video-Output-46b505f379064535ac4977a29faee336.jpg)
 4. Select**120 Hz Output** .  
 ![120 Hz Output in PS5 settings](https://www.lifewire.com/thmb/hxj9hKX_96UCkA07Y8Rzo91hvKo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/120-Output-9e18a336656f4caf97cc91724b032df2.jpg)
 5. Select**Automatic** (you won't have an**On** option because not every game supports 120 Hz output).  
 ![The "Automatic" option ](https://www.lifewire.com/thmb/N0N2mbCdwDADtM0UH7Q50TlNT2U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Automatic-8261fa6f79014410bb3948ebcbcac568.jpg)
 6. Now, if a game has an option for 120 frames per second and you turn it on, your PS5 will output at that rate.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What You Need to Get 120 FPS on PS5
 
@@ -52,10 +74,10 @@ thumbnail: https://thmb.techidaily.com/4f0baa4676690f713a7c64c49fa175c4aff67762b
  Lastly, keep in mind that not every game supports 120 FPS. You won't typically see that information on the game box, unfortunately, but you should find it in shop listings. And, of course, you can check the menus for a 120 FPS option.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which PS5 Games Support 120 FPS?
@@ -102,5 +124,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-unlocking-archived-stories-from-facebook-a-digital-handbook/"><u>[New] In 2024, Unlocking Archived Stories From Facebook A Digital Handbook</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/our-path-to-perfect-videos-with-any-of-these-7-free-tools-for-2024/"><u>[New] Your Path to Perfect Videos with Any of These 7 Free Tools for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-immersive-recording-enhancing-your-gaming-with-windows-11/"><u>2024 Approved Immersive Recording Enhancing Your Gaming with Windows 11</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-unlocking-the-power-to-preserve-instagrams-live-features/"><u>2024 Approved Unlocking the Power to Preserve Instagram's Live Features</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-comparative-guide-to-ar-vr-mr-and-xr-identifying-how-they-differ-from-one-another/"><u>A Comparative Guide to AR, VR, MR & XR: Identifying How They Differ From One Another</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-six-savings-top-couponing-sites-for-maximum-deals/"><u>Discover the Ultimate Six Savings: Top Couponing Sites for Maximum Deals</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effortless-photo-group-uploads-master-the-multi-photo-technique-on-facebook/"><u>Effortless Photo Group Uploads: Master the Multi-Photo Technique on Facebook</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-capabilities-of-claude-3-unveiling-its-functions/"><u>Exploring the Capabilities of Claude 3: Unveiling Its Functions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-persistent-after-effects-applications-crashes-in-windows-1110-environments/"><u>How to Fix Persistent After Effects Applications Crashes in Windows 11/10 Environments</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-repair-an-unresponsive-iphone-camera-expert-tips-and-tricks/"><u>How to Repair an Unresponsive iPhone Camera: Expert Tips and Tricks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/pro-photo-expertise-at-your-fingertips-with-these-tips/"><u>Pro Photo Expertise at Your Fingertips with These Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/siri-redefines-apples-search-game-is-it-time-for-an-ai-powered-evolution-insights/"><u>Siri Redefines Apple's Search Game - Is It Time For an AI-Powered Evolution? Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-preventing-and-repairing-permanent-screen-images/"><u>Step-by-Step Tutorial: Preventing and Repairing Permanent Screen Images</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-keyboards-of-2024-comprehensive-reviews-and-ratings-by-tech-experts/"><u>Top-Rated Keyboards of 2024: Comprehensive Reviews and Ratings by Tech Experts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/wwdc-2024-spotlight-explore-the-new-and-improved-features-of-apple-carplay-whats-hot-in-your-dashboard-now-cnet/"><u>WWDC 2024 Spotlight: Explore the New and Improved Features of Apple CarPlay - What's Hot in Your Dashboard Now | CNET</u></a></li>
+</ul></div>
 

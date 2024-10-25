@@ -1,7 +1,7 @@
 ---
 title: Discover the Latest AT&T Cellphone Savings for May 202N4 – Expert Reviews and Tips | ZDNet
-date: 2024-10-13T17:05:11.046Z
-updated: 2024-10-19T03:58:50.508Z
+date: 2024-10-22T09:34:20.251Z
+updated: 2024-10-24T22:08:25.513Z
 tags:
   - apple
 categories:
@@ -99,10 +99,10 @@ Over at T-Mobile, both new and existing customers can pick up a device from the 
 [View now at T-Mobile](https://tmobile.prf.hn/click/camref:1100l3XZFI/pubref:zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/destination:https%3A%2F%2Fwww.t-mobile.com%2Fcell-phone%2Fapple-iphone-14) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## More Apple iPhone deals
@@ -147,6 +147,13 @@ Over at T-Mobile, both new and existing customers can pick up a device from the 
 
 [Apple Lightning to 3.5 mm headphone jack adapter deal for $8 (save $2) $8 at Walmart](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Lightning-to-3-5-mm-Headphone-Jack-Adapter%2F54738078%3Fathbdg%3DL1103&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How did we choose these iPhone deals?
 
 While researching the best Apple iPhone deals, we scoured the web and checked out major US retailers and telecoms' promotional prices, including Verizon, AT&T, and T-Mobile. 
@@ -159,22 +166,15 @@ Factors influencing our recommendations include:
 * **Variety**: Here at ZDNET, we want to provide you with a variety of iPhone options with bonuses. We've selected deals that bring down the price of your new handset, alongside bonus incentives such as free services or discounts on other devices in the Apple ecosystem.
 * **Availability**: If we come across a great Apple deal but only a few units are in stock, unless it is a stellar saving you only see once in a blue moon, we will discount it and select a product with better stock levels instead.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is the best iPhone?
 
 The best iPhone currently on the market is the iPhone 15 Pro Max. The 6.7-inch model is the largest of the iPhone 15 line and comes stacked with Apple's latest features, such as a strong, lightweight titanium design, Dynamic Island, an A17 Pro chip, and a 48MP Main camera that shoots detailed imagery.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will the iPhone 16 come out?
@@ -184,10 +184,10 @@ While it's too early for us to know any definitive details, Apple typically refr
 However, if the iPad and iPhone maker follows its usual schedule, considering the iPhone 15 was launched in September 2023, we can expect an iPhone 16 to appear around September 2024.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What are the best tech deals in 2024?
@@ -246,20 +246,14 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/updated-correcting-failed-video-delivery-on-mobile-platforms-social-network-apps/"><u>[Updated] Correcting Failed Video Delivery on Mobile Platform's Social Network Apps</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/1715860562549-updated-employing-in-device-recording-for-screen-capture-across-huaweis-mate-and-p-series/"><u>[Updated] Employing In-Device Recording for Screen Capture Across Huawei’s Mate and P Series.</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-overcoming-a-stalled-obs-video-capture-process/"><u>[Updated] Overcoming a Stalled OBS Video Capture Process</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-pioneering-sky-hdr-images-at-your-fingertips/"><u>[Updated] Pioneering Sky HDR Images at Your Fingertips</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-framing-perfection-a-filmmakers-guide-to-cinematic-youtube-videos/"><u>2024 Approved Framing Perfection A Filmmaker's Guide to Cinematic YouTube Videos</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-immersive-gaming-unlocked-by-htcs-revolutionary-vr-headset/"><u>2024 Approved Immersive Gaming Unlocked by HTC's Revolutionary VR Headset</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-pro-tools-for-netflix-capture-a-mac-guide-of-six-strategies/"><u>2024 Approved Pro Tools for Netflix Capture A Mac Guide of Six Strategies</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/easy-to-understand-copywriting-tactics-for-fb-campaigns-for-2024/"><u>Easy-to-Understand Copywriting Tactics for FB Campaigns for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-enthralling-soundscapes-win/"><u>In 2024, Enthralling Soundscapes, WIN</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/is-it-safe-to-get-your-iphone-13-wet-or-should-you-avoid-it/"><u>Is It Safe to Get Your iPhone 13 Wet or Should You Avoid It?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-to-watching-the-matrix-trilogy-in-proper-order/"><u>Step-by-Step Guide to Watching The Matrix Trilogy in Proper Order</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-and-repairing-cmos-checksum-glitches-with-ease/"><u>Troubleshooting and Repairing CMOS Checksum Glitches with Ease</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-capturing-your-gaming-moments-with-playstation-4/"><u>Ultimate Guide: Capturing Your Gaming Moments with PlayStation 4</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-step-by-step-process-of-wiping-your-dell-computer/"><u>Ultimate Guide: Step-by-Step Process of Wiping Your Dell Computer</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/your-guide-to-the-finest-free-sport-streaming-services-available/"><u>Your Guide to the Finest Free Sport Streaming Services Available</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-nightly-narratives-analyzing-video-based-storytelling/"><u>[New] Nightly Narratives Analyzing Video-Based Storytelling</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/latform-faceoff-for-quick-viewers-a-clash-between-youtube-shorts-and-tiktok/"><u>[New] Platform Faceoff for Quick Viewers A Clash Between YouTube Shorts and TikTok</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-untangling-box-mystery-ideas-to-boost-joy/"><u>[Updated] Untangling Box Mystery Ideas to Boost Joy</u></a></li>
+<li><a href="https://solve-news.techidaily.com/acquire-the-ultimate-macx-pro-video-transcoder-secure-your-best-bet-for-seamless-format-conversion/"><u>Acquire the Ultimate MacX Pro Video Transcoder – Secure Your Best Bet for Seamless Format Conversion</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-watch-enhancements-unveiled-discover-top-watchos-11-improvements/"><u>Apple Watch Enhancements Unveiled: Discover Top WatchOS 11 Improvements</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/choosing-the-perfect-phone-for-your-child-expert-reviews-on-zdnet/"><u>Choosing the Perfect Phone for Your Child - Expert Reviews on ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-to-correcting-the-error-when-steam-writes-to-disks/"><u>Guide to Correcting the Error When Steam Writes to Disks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-need-for-windows-batch-files-in-command-line-operations/"><u>The Need for Windows Batch Files in Command Line Operations</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-the-full-potential-of-meta-quest-3-for-viewing-apples-cutting-edge-3d-content-insights/"><u>Unlocking the Full Potential of Meta Quest 3 for Viewing Apple's Cutting-Edge 3D Content | Insights</u></a></li>
 </ul></div>
 

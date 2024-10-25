@@ -1,7 +1,7 @@
 ---
 title: Can Electric Car Battery Life Match or Surpass Conventional Gas Engines' Longeaster?
-date: 2024-09-09T20:24:54.200Z
-updated: 2024-09-15T23:49:07.344Z
+date: 2024-10-22T02:11:45.212Z
+updated: 2024-10-24T21:46:39.823Z
 categories:
   - BestProducts
 description: This Article Describes Can Electric Car Battery Life Match or Surpass Conventional Gas Engines' Longeaster?
@@ -23,6 +23,13 @@ thumbnail: https://www.lifewire.com/thmb/MxM3Ih2U32CdM6o3sPuag7bj_Fk=/400x300/fi
 
  This article explains how to enable Gmail sound notifications using the Notifier for Gmail extension for Chrome. It includes information for enabling a pop-up notification for Gmail and sound notifications for other email providers.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Enable a New Mail Sound for Gmail
 
  If you want to hear a new email sound when you use Gmail in your desktop web browser, you can make that happen—just not in Gmail itself.
@@ -34,8 +41,30 @@ thumbnail: https://www.lifewire.com/thmb/MxM3Ih2U32CdM6o3sPuag7bj_Fk=/400x300/fi
 1. Select**Extensions** next to Chrome's navigation bar, then select**More actions** (three vertical dots) and choose **Options** .  
 ![Options menu item for Notifier for Gmail.](https://www.lifewire.com/thmb/ItTlmQe_8CNY3vW37Q6ac7spTJ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-add-a-new-mail-sound-for-gmail-5b50d46b9a594db3bd73946ea64549aa.jpg)
 2. Scroll down to the Notifications section and make sure **Play alert sound for new emails** is selected.  
+
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Play alert sound for new emails.](https://www.lifewire.com/thmb/EaGNTDoH2lcLO8QxHT0Z1KVeUPk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-add-a-new-mail-sound-for-gmail-1e074c5a399d403aab64b2ec37afbbf8.jpg)
 3. Change the sound using the drop-down menu.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Notifier for Gmail settings screen highlighting Play alert sound for new emails and Default sound notification drop-down menu](https://www.lifewire.com/thmb/DUBiUTKL1yNY2AP6anJNY9OE1cM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-add-a-new-mail-sound-for-gmail-db10f7ff4e56480c8acefb921da8d1b6.jpg)
 4. Exit the window when you're done. The changes are saved automatically.
 
@@ -48,10 +77,10 @@ thumbnail: https://www.lifewire.com/thmb/MxM3Ih2U32CdM6o3sPuag7bj_Fk=/400x300/fi
  You can set Gmail to display a pop-up notification when new email messages arrive in Chrome, Firefox, or Safari when you are signed in to Gmail and have it open in the browser. Just turn on that setting in Gmail by selecting the **Settings**  icon then choosing **See all settings** and going to **General** \> **Desktop Notifications** . The notification is not accompanied by a sound.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Change Gmail Notification Sounds in Other Email Clients
@@ -98,5 +127,17 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-breaking-ice-the-peak-of-chinas-sports-showcase-2022/"><u>[New] 2024 Approved Breaking Ice The Peak of China's Sports Showcase, 2022</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/conversion-gratuit-de-fichiers-png-vers-tiff-en-ligne-avec-movavi/"><u>Conversion Gratuit De Fichiers PNG Vers TIFF en Ligne Avec Movavi</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/conversion-gratuite-ligne-de-commande-convertir-des-videos-wmv-en-wma-chez-movavi/"><u>Conversion Gratuite Ligne De Commande : Convertir Des Vidéos WMV en WMA Chez Movavi</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/convert-au-files-to-mp4-format-at-no-cost-with-movavis-instant-converter/"><u>Convert AU Files to MP4 Format at No Cost with Movavi's Instant Converter</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/convert-audio-to-video-easily-and-for-free-using-the-movavi-file-converter/"><u>Convert Audio to Video Easily and for Free Using the Movavi File Converter</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/solutions-to-spy-on-apple-iphone-6s-with-and-without-jailbreak-drfone-by-drfone-virtual-ios/"><u>Solutions to Spy on Apple iPhone 6s with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/the-invisible-player-mastering-xbox-one-screenshots-for-2024/"><u>The Invisible Player Mastering Xbox One Screenshots for 2024</u></a></li>
+<li><a href="https://win-web3.techidaily.com/understanding-the-limitations-of-find-features-navigating-disabling-issues-with-emeditor/"><u>Understanding the Limitations of Find Features: Navigating Disabling Issues with emEditor</u></a></li>
+</ul></div>
 

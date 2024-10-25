@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Enhancements Required for Siri AI: Closing the Gap with Google Assistant and Microsoft's Cortana"
-date: 2024-10-18T01:57:06.937Z
-updated: 2024-10-19T08:40:00.452Z
+date: 2024-10-22T18:27:07.052Z
+updated: 2024-10-24T16:27:01.798Z
 tags:
   - apple
 categories:
@@ -32,13 +32,6 @@ Today, I coordinate with teams, rather than manage them. I have students rather 
 
 I use a tremendous number of tools for my projects, and they often change from project to project. But what I'm going to discuss here are the tools I use on a daily basis to manage my "flow". 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What do I mean by my flow?
 
 I divide my work day into two main chunks of time: Communications and knowledge gathering time, and project time. Every day has pretty much the same communications and knowledge gathering activities, which follows a relatively consistent pattern that has proven to be highly productive for me. These are the daily productivity activities I've been talking about. 
@@ -66,10 +59,10 @@ In any case, what that means is that instead of my escalating ranking of phones,
 Now that you understand how my working environment has changed and how I structure my work day, let's discuss the tools I use in my daily flow. It all starts with Gmail... 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## First morning Gmail
@@ -88,6 +81,13 @@ The boy
 
 The way I have Gmail set up, only the most important messages show up on my watch. Same with Slack notifications. Basically, unless there's something urgent from one of my editors, I can start my day in peace. If there's nothing urgent, I hit the snooze button. After repeating this ritual two or three times, I get up, do my morning necessaries, and zombie-walk to the coffee maker. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best smartwatches Apple, Samsung, and others battle for your wrist.  Read now](https://www.zdnet.com/article/best-smartwatch/)
@@ -97,6 +97,13 @@ Once I have coffee in hand, I navigate [the puppy's](https://www.zdnet.com/artic
 At this point, I tend to take note of what's in my inbox, but I neither process it, nor respond to it. I want to let the coffee take hold. 
 
 I also take a quick look at my calendar and my to-do list to make sure I know what's on deck for the day. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Daily must-reads with Pocket
 
@@ -113,13 +120,6 @@ The nice part about this is I can easily do this while drinking coffee. I can ge
 By this point, I'm somewhere between 30 and 60 minutes into my day, I've had one or two cups of coffee, and I have a pretty solid feel for both what's going on in my own various domains as well as what's going on in the rest of the world. It's a very good, very quick way to come up to speed while waking up.
 
 Depending on the importance and urgency of the messages in my Gmail inbox, I'll either go straight into my morning email cycle or begin my morning reading. I prefer to do morning reading before email, so I'll discuss that next. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Pocket-read-post-archive cycle
 
@@ -171,10 +171,10 @@ Now, to be fair, I have a slight email fetish, so I do check back in to my inbox
 In fact, now that I have email notifications integrated into my watch, I'm finding I'm actually breaking myself of the habit, because unless I hear the notification tone, I don't have any important emails coming in. I have actually gone a few hours without checking my email inbox, which is something of a record for me. 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Managing my daily teaching opportunities
@@ -191,6 +191,13 @@ I just think of those users like more of my students. If any questions show up i
 
 By the way, this is also a great way to think about users, which I initially was a bit unhappy about adding to my daily workload. But the reframe is this: I'm an educator and these are more people in need of assistance while they're learning to use these plugins. So, rather than thinking about providing user support as an added workload, I think of the users as more of my students and their questions as simply more teaching opportunities. It's also a great way to keep up on what people are doing out there, and gives me a much more "on the street" dialog with users, which is invaluable as a tech journalist.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Featured
 
 * [We've used every iPhone 16 model and here's our best buying advice for 2024](https://www.zdnet.com/article/iphone-16-pro-max-buying-advice-2024/)
@@ -199,19 +206,6 @@ By the way, this is also a great way to think about users, which I initially was
 * [Want a programming job? Learn these three languages](https://www.zdnet.com/article/want-a-programming-job-learn-these-three-languages/)
 
 Here's another little trick I use: I get a lot of feature requests (which I call "cool feature ideas") from the plugin users. The go into [the bug tracking system I manage in Notion](https://www.zdnet.com/article/notion-app-review/).
-
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## To-doing my to-do list
 
@@ -292,19 +286,17 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/emystifying-youtubes-keyword-power-play-for-2024/"><u>[New] Demystifying YouTube's Keyword Power Play for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-how-to-handle-accidental-reflections-in-video-conversations/"><u>[Updated] 2024 Approved How To Handle Accidental Reflections in Video Conversations</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-fixed-eclipsed-youtube-short-video/"><u>[Updated] Fixed Eclipsed YouTube Short Video</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-humor-hacks-techniques-for-parody-filmmaking-for-2024/"><u>[Updated] Humor Hacks Techniques for Parody Filmmaking for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-high-quality-video-sequences-via-gopros-burst/"><u>2024 Approved Unlocking High-Quality Video Sequences via GoPro's Burst</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-solutions-for-msstfmtdll-is-not-found-issues/"><u>Comprehensive Solutions for 'msstfmt.dll Is Not Found' Issues</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-13-most-reliable-and-user-friendly-free-pdf-editors-july-2024/"><u>Discover the 13 Most Reliable and User-Friendly Free PDF Editors (July 2024)</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-selection-of-15-free-windows-11-skins-and-themes/"><u>Discover the Ultimate Selection of 15 Free Windows 11 Skins & Themes</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fixing-wlanapidll-errors-in-windows-tips-and-tricks/"><u>Fixing WLANAPI.DLL Errors in Windows: Tips and Tricks</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-resolve-issues-with-turned-off-subtitles-on-your-roku-player/"><u>How to Resolve Issues with Turned Off Subtitles on Your Roku Player</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/overcoming-the-0x80070n570-snag-a-step-by-step-fix-manual/"><u>Overcoming the 0X80070n570 Snag - A Step-by-Step Fix Manual</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-oppo-k11x-frp-by-drfone-android/"><u>The Updated Method to Bypass Oppo K11x FRP</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-10-honor-x9a-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Honor X9a Android SIM Unlock APK</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-ultimate-collection-20-free-adobe-premiere-title-templates/"><u>Updated In 2024, The Ultimate Collection 20 Free Adobe Premiere Title Templates</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-bring-your-vision-to-life-youtube-trailers-using-filmoras-magic/"><u>2024 Approved Bring Your Vision to Life YouTube Trailers Using Filmora's Magic</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-dazzle-with-directors-lighting-tips-for-captivating-clips/"><u>2024 Approved Dazzle with Directors' Lighting Tips for Captivating Clips</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-premiere-pro-power-tools-your-ultimate-2023-samples-free/"><u>2024 Approved Premiere Pro Power Tools - Your Ultimate 2023 Samples (FREE)</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-fixes-for-the-reset-failed-due-to-an-unexpected-issue-message-on-pcs/"><u>Effective Fixes for the 'Reset Failed Due to an Unexpected Issue' Message on PCs</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-oppo-find-n3-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Oppo Find N3</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-from-apple-iphone-x-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock From Apple iPhone X You Should Try Out</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/order-matters-how-to-properly-watch-the-conjuring-movie-saga/"><u>Order Matters! How To Properly Watch The 'Conjuring' Movie Saga</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-6-benefits-of-mastering-chatgpt-for-professional-growth/"><u>Top 6 Benefits of Mastering ChatGPT for Professional Growth</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/totobays-latest-wake-up-light-an-incredible-value-for-your-morning-routine-reviewed/"><u>Totobay's Latest Wake-Up Light: An Incredible Value for Your Morning Routine Reviewed!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722866205061-ultimate-guide-to-restoring-your-skype-connectivity-top-tips/"><u>Ultimate Guide to Restoring Your Skype Connectivity – Top Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveil-the-covert-tracker-steps-to-activate-and-employ-the-secret-sidebar-bar/"><u>Unveil the Covert Tracker: Steps to Activate and Employ the Secret Sidebar Bar</u></a></li>
 </ul></div>
 

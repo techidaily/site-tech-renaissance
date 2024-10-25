@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Your Workout Potential: How the Latest AirPods Pro Features a Heart Rate Monitor for Enhanced Fitness Training | TechSpectrum"
-date: 2024-10-17T21:41:55.171Z
-updated: 2024-10-19T12:46:45.530Z
+date: 2024-10-21T22:59:01.662Z
+updated: 2024-10-24T16:09:44.939Z
 tags:
   - apple
 categories:
@@ -32,6 +32,13 @@ Before you get started using Apple Pay in stores and online, here's what you nee
 
 **What you need:** iPhone, banking information
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Set up Apple Pay in the Wallet app
 
 Before using Apple Pay as your contactless payment form, you need to set it up by adding your credit or debit cards to your iPhone. You can set up Apple Pay from your [iPhone's settings](https://www.zdnet.com/article/dont-change-five-these-iphone-settings/) or simply by going to the Wallet app and adding your cards there. 
@@ -39,6 +46,13 @@ Before using Apple Pay as your contactless payment form, you need to set it up b
 Tap on the Wallet app to open it.
 
 Screenshot by Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Tap on the Add Card button and enter Apple Pay info
 
@@ -62,6 +76,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. During check-out, double-click the right-side button of your iPhone
 
 Double-clicking, or, rather, double-pressing, the button on the right side of your iPhone brings up your available cards to use in Apple Pay. Do this when it's time to pay at the checkout counter, and you can then choose your preferred payment card when the Wallet comes up.
@@ -78,13 +99,6 @@ Enter your passcode to confirm Apple Pay payment.
 
 Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Hold your iPhone near the payment terminal
 
 Entering your passcode authenticates your payment, so all you need to do next is hold your phone within about an inch of the card reader to process the transaction. 
@@ -99,6 +113,13 @@ Apple
 
 That's it! Apple Pay is as easy as apple pie. (Sorry, I had to.) 
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQ
 
 ## How do I set up Apple Pay from my iPhone Settings?
@@ -110,27 +131,20 @@ To set up Apple Pay, you go to your iPhone's Settings and follow these steps:
 
 Once you add your card to your Wallet, you can edit your settings to suit your needs. You can choose to enable Apple Cash; enable the double-click side button to work as a shortcut for Apple Pay' add Express Transit Cards to pay for transit automatically without a passcode or Face ID; edit your transaction information like default card, shipping address, and contact info; and toggle payments on your Mac on and off. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Where can I use Apple Pay to pay in stores and online?
 
 You can use Apple Pay with an iPhone or Apple Watch at checkout wherever there is a payment terminal with NFC. Most retailers have them at the checkout counter, with some exceptions. Just look for the NFC symbol on the card reader or an Apple Pay logo. Some banks even support Apple Pay at NFC-enabled ATMs so you can make withdrawals or access your account. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is NFC?
 
 NFC stands for [near-field communication](https://www.zdnet.com/article/near-field-communication-aims-to-simplify-our-lives/). It's a technology that employs magnetic field induction to allow wireless communication between two electronic devices at a short range, typically less than 4 centimeters or 1.5 inches.
+
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Can I use Apple Pay online?
 
@@ -150,13 +164,6 @@ To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other 
 
 Some services from Apple offer rewards, like cash back on its credit cards, which also translate into Apple Cash. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to use Apple Pay on your Apple Watch
 
 The days of "I forgot my wallet" are long gone. Once you add a card to your Apple Wallet, you enable Apple Pay on your iPhone. But if you have an active Apple Watch linked to that iPhone, you can also use Apple Pay with just your watch, even if you don't have your iPhone with you when you check out. 
@@ -170,13 +177,6 @@ In order to use Apple Pay for contactless payments with your Apple Watch, you ne
 3. Choose Previous Cards to add any payment cards previously linked to your iPhone and you'll be prompted to enter the security code for each, or
 4. Tap on Debit or Credit Card to add a new one, or
 5. Select Transit Card to add an eligible transportation payment card.
-
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Is Apple Pay secure?
 
@@ -212,19 +212,21 @@ Using Apple Pay or [Google Pay](https://www.zdnet.com/finance/google-pay-vs-sams
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-protecting-data-while-transforming-youtube-videos-into-mp3-files/"><u>[New] Protecting Data While Transforming YouTube Videos Into MP3 Files</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-sound-spectrum-listing-websites-for-legal-ringtones/"><u>[Updated] 2024 Approved Sound Spectrum Listing Websites for Legal Ringtones</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-game-changing-ps4-screen-recordings-using-obs-for-2024/"><u>[Updated] Game-Changing PS4 Screen Recordings Using OBS for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/2024-approved-the-choreographers-guide-crafting-captivating-tiktok-dances-for-mac-users/"><u>2024 Approved The Choreographer's Guide Crafting Captivating TikTok Dances for Mac Users</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-young-entrepreneur-writes-his-own-financial-story/"><u>2024 Approved The Young Entrepreneur’ Writes His Own Financial Story</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/enhance-iphone-camera-focus-proven-fixes-for-blurry-images/"><u>Enhance iPhone Camera Focus: Proven Fixes for Blurry Images</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/facebook-password-recovery-without-the-typical-contact-details-a-step-by-step-guide/"><u>Facebook Password Recovery Without the Typical Contact Details – A Step-by-Step Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-vivo-v27-pro-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Vivo V27 Pro?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-from-apple-iphone-7-plus-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working From Apple iPhone 7 Plus</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-d3dx924dll-file-not-found-step-by-step-guide/"><u>Resolving d3dx9_2‌​4.dll File Not Found: Step-by-Step Guide</u></a></li>
-<li><a href="https://win-studio.techidaily.com/ripristina-i-tuoi-messaggi-in-un-clic-una-guida-per-eseguire-il-backup-della-cronologia-delle-chat-di-wechat/"><u>Ripristina I Tuoi Messaggi in Un Clic: Una Guida per Eseguire Il Backup Della Cronologia Delle Chat Di WeChat</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-saving-netflix-films-to-your-personal-computer/"><u>Step-by-Step Tutorial: Saving Netflix Films to Your Personal Computer</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-top-live-streaming-tech-software-and-hardware-for-youtube-enthusiasts-for-2024/"><u>The Top Live Streaming Tech Software & Hardware for YouTube Enthusiasts for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-resolve-nspr4dll-error-message-on-windows-systems/"><u>Troubleshooting: Resolve Nspr4.dll Error Message on Windows Systems</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-mastering-the-art-of-modern-360-camera-purchases-2enas/"><u>[Updated] 2024 Approved Mastering the Art of Modern 360 Camera Purchases (2Enas)</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-essential-software-for-efficient-teleconferences/"><u>[Updated] In 2024, Essential Software for Efficient Teleconferences</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-streamlining-presentations-webcam-recording-tips/"><u>[Updated] Streamlining Presentations Webcam Recording Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/all-the-latest-news-on-samsungs-upcoming-marvel-s25-ultra-specs-price-predictions-and-release-schedule/"><u>All the Latest News on Samsung's Upcoming Marvel: S25 Ultra Specs, Price Predictions & Release Schedule</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722888951448-direct-sound-alerts-from-your-wrist-discover-the-upcoming-apple-audio-device-tease/"><u>Direct Sound Alerts From Your Wrist? Discover the Upcoming Apple Audio Device Tease</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/electric-vs-plug-in-vs-hydrogen-vs-hybrid-vehicles-a-complete-guide-to-their-distinct-features/"><u>Electric vs Plug-In vs Hydrogen vs Hybrid Vehicles - A Complete Guide to Their Distinct Features</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-access-unlimited-mcb-theme-images/"><u>In 2024, Access Unlimited MCB Theme Images</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-best-of-android-collage-a-curation-of-superiority/"><u>In 2024, Best-Of Android Collage A Curation of Superiority</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/is-active-setting-new-standards-in-screen-recording/"><u>Is Active Setting New Standards in Screen Recording?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/james-bond-film-series-the-ultimate-viewing-guide/"><u>James Bond Film Series: The Ultimate Viewing Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/proven-strategies-for-powerful-customer-success-stories-on-screen-for-2024/"><u>Proven Strategies for Powerful Customer Success Stories on Screen for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-list-of-9-crucial-electronic-devices-every-student-needs-now/"><u>The Ultimate List of 9 Crucial Electronic Devices Every Student Needs Now</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-viewing-order-for-the-entire-transformers-movie-franchise/"><u>The Ultimate Viewing Order for the Entire Transformers Movie Franchise</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/top-strategies-to-resolve-boot-device-not-found-error-on-windows-server-2016/"><u>Top Strategies to Resolve 'Boot Device Not Found' Error on Windows Server 2016</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshoot-windows-11-how-to-fix-non-functioning-search-feature/"><u>Troubleshoot Windows 11: How to Fix Non-Functioning Search Feature</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/what-is-patch-tuesday/"><u>What Is Patch Tuesday?</u></a></li>
 </ul></div>
 

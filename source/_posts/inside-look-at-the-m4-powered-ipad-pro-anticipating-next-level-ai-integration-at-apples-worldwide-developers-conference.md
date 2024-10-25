@@ -1,7 +1,7 @@
 ---
 title: "Inside Look at the M4-Powered iPad Pro: Anticipating Next Level AI Integration at Apple's Worldwide Developers Conference"
-date: 2024-10-18T09:26:56.833Z
-updated: 2024-10-19T13:00:02.303Z
+date: 2024-10-23T04:02:54.286Z
+updated: 2024-10-24T16:15:47.111Z
 tags:
   - apple
 categories:
@@ -49,10 +49,10 @@ The event provides developers with access to experts, along with highlights of n
 "We're so excited to connect with developers from around the world for an extraordinary week of technology and community at WWDC24," Susan Prescott, Apple's VP of Worldwide Developer Relations, said in a news release. "WWDC is all about sharing new ideas and providing our amazing developers with innovative tools and resources to help them make something even more wonderful." 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. You'll be hearing AI (or Apple Intelligence) a lot
@@ -72,10 +72,10 @@ Apple has also allegedly been seeking a partner for outside help, possibly teami
 More recently, rumors have suggested that some new AI features will include more intelligent and helpful searches in Safari, AI-generated emojis based on conversations in Messages, and an AI-powered [photo editing app](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/) similar to Google's Magic Eraser. It's worth noting that such features are believed to only function on the more recent Apple products, including the iPhone 15 Pro with its A17 Pro chip and M-series iPads and MacBooks.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Don't forget the other acronym: RCS
@@ -89,10 +89,10 @@ To the surprise of many, except for the European Commission, Apple [announced la
 The decision to bring RCS to the iPhone came after mounting pressure from the European Union's Digital Markets Act (DMA), which stressed cross-platform compatibility. While a more [recent statement from Google](https://www.zdnet.com/article/google-seems-to-have-leaked-apples-timeframe-for-bringing-rcs-to-the-iphone/) suggested that Apple would integrate RCS later this fall, highlighting the transition at WWDC could potentially help Apple's defense against the [DOJ's antitrust lawsuit](https://x.com/getpeid/status/1798369533889302576), filed in March. Regardless of when and how Apple chooses to announce the new feature, it'll be big news for both iOS and Android users.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. MacOS 15, iPadOS 18, WatchOS 11, VisionOS 2, tvOS 18
@@ -133,17 +133,22 @@ As for [VisionOS](https://www.zdnet.com/article/10-things-id-like-to-see-in-visi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-smoothshot-stabilizing-technology-on-the-move/"><u>[New] SmoothShot Stabilizing Technology on the Move</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-2024-elite-camcorders-best-buy-guide/"><u>[New] The 2024 Elite Camcorders - Best Buy Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-ways-to-personalize-the-look-of-your-windows-11-taskbar/"><u>Easy Ways to Personalize the Look of Your Windows 11 Taskbar</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-notetakers-for-professionals-and-students-alike-2024-edition/"><u>Essential Notetakers for Professionals and Students Alike, 2024 Edition</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-the-world-of-gadgets-with-tom-top-hardware-insights/"><u>Exploring the World of Gadgets with Tom - Top Hardware Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722964954913-find-the-latest-canon-mg2520-driver-software-for-windows-systems-here/"><u>Find the Latest Canon MG2520 Driver Software for Windows Systems Here!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Realme GT 5? | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-premium-free-srt-translation-websites-for-business-use/"><u>In 2024, Unveiling Premium Free SRT Translation Websites for Business Use</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-the-setup-how-to-link-psvr-headset-with-pc-for-immersive-gaming/"><u>Mastering the Setup: How to Link PSVR Headset with PC for Immersive Gaming</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/pushing-boundaries-with-jabra-point-and-shoot-earbuds/"><u>Pushing Boundaries with Jabra' Point-and-Shoot Earbuds</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-installing-additional-storage-via-external-hard-drive-for-xbox-one-gamers/"><u>Step-by-Step Tutorial: Installing Additional Storage via External Hard Drive for Xbox One Gamers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-list-of-top-5-easy-to-use-auto-clicker-apps-on-android-no-rooting-required/"><u>The Ultimate List of Top 5 Easy-to-Use Auto Clicker Apps on Android (No Rooting Required)</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-mastering-video-recording-and-editing-with-adobe-connect-for-2024/"><u>[New] Mastering Video Recording & Editing with Adobe Connect for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-6-hdmi-21-screens-detailed-feature-rundown/"><u>[New] Top 6 HDMI 2.1 Screens Detailed Feature Rundown</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-turn-every-instagram-moment-into-a-shareable-mp4-file/"><u>[Updated] 2024 Approved Turn Every Instagram Moment Into a Shareable MP4 File</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-preventing-phone-videoclip-distortion/"><u>2024 Approved Preventing Phone Videoclip Distortion</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/avs-video-editor-a-comprehensive-analysis/"><u>AVS Video Editor A Comprehensive Analysis</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/dragon-ball-sequential-binge-watching-tips-and-tricks/"><u>Dragon Ball Sequential Binge-Watching Tips and Tricks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-potential-risks-to-privacy-when-interacting-with-chatgpt/"><u>Exploring Potential Risks to Privacy when Interacting with ChatGPT</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-effortlessly-find-and-verify-your-macbooks-unique-model-identifier/"><u>How to Effortlessly Find and Verify Your MacBook's Unique Model Identifier</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-vivo-s17e-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Vivo S17e to iPod | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-x-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>How To Unlock iPhone X Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-vivo-v27e-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Vivo V27e Pattern Lock Screen</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revise-and-update-captions-on-insta-easily-with-this-simple-method/"><u>Revise and Update Captions on Insta Easily with This Simple Method</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revive-your-mac-connection-the-essential-guide-to-network-resetting-on-apple-computers/"><u>Revive Your Mac Connection: The Essential Guide to Network Resetting on Apple Computers 🍎🔧</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-tutorial-for-adding-bots-to-discord-servers-efficiently/"><u>The Ultimate Tutorial for Adding Bots to Discord Servers Efficiently</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-and-repairing-device-managers-code-41-issues-a-comprehensive-guide/"><u>Troubleshooting and Repairing Device Manager's Code 41 Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-top-10-pro-strategies-to-master-subway-surfers/"><u>Ultimate Guide: Top 10 Pro Strategies to Master 'Subway Surfers'</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-savvy-shopping-secrets-top-9-tips-for-acquiring-a-perfect-dash-cam/"><u>Unlock Savvy Shopping Secrets: Top 9 Tips for Acquiring a Perfect Dash Cam</u></a></li>
 </ul></div>
 

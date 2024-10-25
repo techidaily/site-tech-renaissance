@@ -1,7 +1,7 @@
 ---
 title: "Option 2:"
-date: 2024-10-13T08:29:15.794Z
-updated: 2024-10-19T07:43:47.563Z
+date: 2024-10-20T19:44:38.158Z
+updated: 2024-10-25T02:31:02.919Z
 tags:
   - apple
 categories:
@@ -111,13 +111,6 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [ASUS ROG Strix Scar 15 gaming laptop deal for $1749 (save $250) $1,749 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09RMW1L7Y%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C842d87ca-c75b-4493-add8-d100a7cf1a54%7Cdtp&dtb=1)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Walmart laptop deals
 
 [ASUS Vivobook 16-inch laptop deal for $499 (save $200) $499 at Walmart](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FASUS-Vivobook-16-PC-Laptop-Intel-Core-i7-1255U-16GB-512GB-Win-11-Home-Black-F1605ZA-WS74%2F5023779612&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
@@ -130,19 +123,6 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [HP Chromebook X360 14-inch FHD touchscreen 2-in-1 laptop deal for $279 (save $120) $279 at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FHP-Chromebook-X360-14-inch-FHD-IPS-Touch-2-in-1-Laptop-Intel-Processor-N100-4GB-RAM-64GB-eMMC-Sky-Blue%2F5123764557&subId1=zd-__COM_CLICK_ID__-dtp)
 
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Best Buy laptop deals
 
 [HP 15.6-inch touchscreen Full HD laptop deal for $630 (save $170) $630 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fhp-15-6-touch-screen-full-hd-laptop-intel-core-i7-16gb-memory-512gb-ssd-natural-silver%2F6550427.p%3FskuId%3D6550427&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
@@ -152,13 +132,6 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 [Lenovo Flex 5i 14-inch FHD touchscreen 2-in-1 laptop deal for $380 (save $170) $380 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-flex-5i-14-fhd-touchscreen-2-in-1-laptop-intel-core-i3-1215u-with-8gb-memory-intel-uhd-graphics-256gb-ssd-storm-grey%2F6571566.p%3FskuId%3D6571566&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 [ASUS Zenbook 14-inch OLED touchscreen laptop deal for $1,300 (save $200) $1,300 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-zenbook-14-120hz-oled-touch-laptop-evo-intel-13-gen-core-i9-with-32gb-memory-nvidia-geforece-rtx-3050-1tb-ssd-gray%2F6548463.p%3FskuId%3D6548463&publisher_slug=itechdaily19598&exclusive=1)
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Apple MacBook deals
 
@@ -184,6 +157,13 @@ When compiling the list of the best deals, we considered the following:
 * **Features**: We included a range of laptops with features sure to appeal to you, including different screen sizes, processors, memory options, and storage. Furthermore, these laptops include varying levels of security, parental lock options, and display resolutions.
 * **Use cases**: At ZDNET, we also took into account different use cases. You might be in the market for a budget-friendly, basic laptop for a child, for example, or you may need a future-proof laptop suitable for work. Or, it might be a gaming device you're after. So, we have compiled a set of recommendations based on different purposes.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What specifications do I need to look for in a laptop?
 
 The right specs depend on your needs and how you intend to use your new laptop -- whether for gaming, studies, video calling, or simply daily internet surfing. We break it down for you below:
@@ -193,9 +173,23 @@ The right specs depend on your needs and how you intend to use your new laptop -
 * **Storage**: For those that focus on lighter laptop use, 256GB of SSD storage will be plenty of space for your laptop. However, if you need more storage for high-resolution photos, videos, or more, you'll want to opt for 512GB of storage or even 1TB.
 * **RAM**: In conjunction with the CPU, RAM is used to help the computer multi-task and is vital to running programs. ZDNET expert Adrian Kingsley-Hughes breaks down [RAM needs here](https://www.zdnet.com/article/how-much-ram-does-your-windows-10-pc-need/), but at minimum, especially for working, you should opt for around 8GB, and gamers will potentially want more.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Do I need a gaming laptop or a "regular" laptop?
 
 Again, it depends on your needs. Those who _aren't_ gamers can opt for a regular laptop with high specs, but content creators or those who work with heavy editing software should opt for a designer's laptop or a gaming laptop. Not because, of course, you want to have the best gaming specs on the side, but because those laptops come with powerful CPUs, GPUs, and high RAM to handle the heavy requirements that software needs.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How much should I pay for a good laptop?
 
@@ -203,16 +197,16 @@ When you're considering your budget for a new laptop, you have to consider what 
 
 If you're a gamer who needs a high-spec laptop with a decent graphics card, top-of-the-range display and high refresh rate, you should expect to pay more than $500 - $600 -- and potentially beyond $1,000\. However, if you need a laptop for basic tasks, studying, and streaming, you can easily get away with a basic laptop for a few hundred dollars. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What are the best deals right now?
 
 ZDNET experts split out the latest and greatest deals for you below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best deals by retailer
 
@@ -271,24 +265,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/levating-the-chilly-selecting-five-warm-video-backgrounds-for-2024/"><u>[New] Elevating the Chilly Selecting Five Warm Video Backgrounds for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-sharpsight-screen-snag-report/"><u>[New] SharpSight Screen Snag Report</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-innovative-ways-to-leverage-zoom-for-fb-live/"><u>2024 Approved Innovative Ways to Leverage Zoom for FB Live</u></a></li>
-<li><a href="https://fox-that.techidaily.com/6-crucial-fixes-for-seamless-family-sharing-of-subscriptions/"><u>6 Crucial Fixes for Seamless Family Sharing of Subscriptions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/complete-walkthrough-for-transferring-a-digital-steam-game-token/"><u>Complete Walkthrough for Transferring a Digital Steam Game Token</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-loongson-3a6000-chip-inside-this-game-changing-387-chinese-made-mini-pc/"><u>Discover the Loongson 3A6000 Chip Inside This Game-Changing $387 Chinese-Made Mini PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-contrasts-how-do-mac-and-pc-differentiate/"><u>Exploring the Contrasts: How Do Mac and PC Differentiate?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-secure-is-duckduckgo-compared-to-other-search-engines-exploring-the-facts/"><u>How Secure Is DuckDuckGo Compared to Other Search Engines? Exploring the Facts</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-bridging-the-gap-with-magix-music-maker-for-beginners/"><u>In 2024, Bridging the Gap with Magix Music Maker for Beginners</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-poco-m6-5g-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Poco M6 5G FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-innovating-content-creation-vimeo-edition/"><u>In 2024, Innovating Content Creation Vimeo Edition</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/should-you-invest-in-the-apple-vision-pro-heres-our-take/"><u>Should You Invest in the Apple Vision Pro? Here’s Our Take</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-locating-stored-login-credentials-in-macos/"><u>Step-by-Step Guide: Locating Stored Login Credentials in macOS</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-the-fatal-instruction-violation-in-windows-error-0xc00000e9/"><u>Troubleshooting the Fatal Instruction Violation in Windows (Error 0xC00000E9)</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-troubleshooting-netflix-issues-on-your-roku-device/"><u>Ultimate Guide: Troubleshooting Netflix Issues on Your Roku Device</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-review-of-twelve-souths-bookbook-v2-for-macbook-smart-and-stylish-protection/"><u>Ultimate Review of Twelve South's BookBook V2 for MacBook: Smart & Stylish Protection</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-metas-artificial-intelligence-an-in-depth-overview/"><u>Understanding Meta's Artificial Intelligence: An In-Depth Overview</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unfolding-the-latest-samsung-galaxy-z-flip-6s-launch-details-specs-and-pricing-guide/"><u>Unfolding the Latest: Samsung Galaxy Z Flip 6'S Launch Details, Specs, and Pricing Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlock-your-online-experience-by-enabling-browser-cookies/"><u>Unlock Your Online Experience by Enabling Browser Cookies</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-pixart-video-editor/"><u>[New] 2024 Approved Pixart Video Editor</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-blur-the-borders-enhancing-your-videos-appeal-on-yt-for-2024/"><u>[New] Blur the Borders Enhancing Your Video's Appeal on YT for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-elevating-trailers-through-musical-integration-for-2024/"><u>[New] Elevating Trailers Through Musical Integration for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-macsierra-visionaries-premier-dvd-creators-list/"><u>[New] MacSierra Visionaries Premier Dvd Creators List</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-journey-through-time-a-comprehensive-guide-on-scanning-and-storing-old-prints/"><u>[Updated] Journey Through Time A Comprehensive Guide on Scanning and Storing Old Prints</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/anticipating-the-new-google-pixel-forecasted-price-point-launch-schedule-and-theoretical-specifications/"><u>Anticipating the New Google Pixel: Forecasted Price Point, Launch Schedule & Theoretical Specifications</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-walkthrough-the-essentials-of-pokemeunite-battle-skills/"><u>Comprehensive Walkthrough: The Essentials of PokémeUnite Battle Skills</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722887419018-easy-ways-to-schedule-a-trip-to-the-apple-store-today/"><u>Easy Ways to Schedule a Trip to the Apple Store Today</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-tips-for-addressing-and-repairing-d3dx9tutuary-missing-files/"><u>Essential Tips for Addressing and Repairing D3dx9_tutuary Missing Files</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/finding-the-perfect-video-dimensions-on-facebook/"><u>Finding the Perfect Video Dimensions on Facebook</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/is-your-connection-or-zoom-to-blame-for-poor-video-call-quality/"><u>Is Your Connection or Zoom to Blame for Poor Video Call Quality?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tesla-rumors-unleashed-an-insightful-guide-to-the-proposed-price-point-release-timeline-and-cutting-edge-specifications-of-their-newest-invention/"><u>Tesla Rumors Unleashed: An Insightful Guide to the Proposed Price Point, Release Timeline & Cutting-Edge Specifications of Their Newest Invention</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tips-and-tricks-to-correctly-handle-msvcr100dll-errors-on-your-pc/"><u>Tips and Tricks to Correctly Handle Msvcr100.dll Errors on Your PC</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/unlocking-creativity-producing-original-and-entertaining-reels-on-facebook-for-2024/"><u>Unlocking Creativity Producing Original and Entertaining Reels on Facebook for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/vidma-redefining-standard-practices-in-video-capture-for-2024/"><u>Vidma Redefining Standard Practices in Video Capture for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/whole-viewpoint-vs-multiplanar-imaging-techniques/"><u>Whole Viewpoint vs Multiplanar Imaging Techniques</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/xbox-one-displays-nothing-quick-fix-guide-to-tackle-screen-free-issues/"><u>Xbox One Displays Nothing? Quick Fix Guide to Tackle Screen-Free Issues</u></a></li>
 </ul></div>
 

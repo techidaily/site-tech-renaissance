@@ -1,7 +1,7 @@
 ---
 title: "Before You Buy: 5 Important Tips to Keep in Mind When Shopping for Used iPads"
-date: 2024-09-10T23:43:12.712Z
-updated: 2024-09-16T00:04:16.072Z
+date: 2024-10-21T00:54:23.021Z
+updated: 2024-10-25T00:08:50.711Z
 categories:
   - BestProducts
 description: "This Article Describes Before You Buy: 5 Important Tips to Keep in Mind When Shopping for Used iPads"
@@ -47,6 +47,13 @@ of 06
 
 ![Ipad2 Comparison](https://www.lifewire.com/thmb/jPN69wWYT2zLJfh18NfogwaSrHo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-457316526-57deda085f9b58651650818c.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Credit: Justin Sullivan / Staff Editorial #: 457316526
 
  The screenshot prank involves[taking a screenshot](https://www.lifewire.com/how-to-take-an-ipad-screenshot-4103779) of the home screen and[using it as the wallpaper for the lock screen](https://www.lifewire.com/set-ipads-background-wallpaper-1994638) . This change can cause your unsuspecting victim to think the iPad or iPhone is ready to use, but all the taps in the world won't open an app until they slide to unlock.
@@ -74,16 +81,22 @@ of 06
 
 of 06
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## [The Blue Screen of Death](https://www.lifewire.com/blue-screen-of-death-bsod-2625816)
 
 ![blue-screen-of-death-trick.jpg](https://www.lifewire.com/thmb/_gxotYS62h_k3CB3IJcw8XjirCo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/blue-screen-of-death-trick-56a532a05f9b58b7d0db708b.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This one is funnier if you're targeting an IT professional or anyone that knows a bit about computers. The famed "Blue Screen of Death" is the error screen Windows gives when the operating system crashes.
 
@@ -95,16 +108,22 @@ of 06
 
 of 06
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## [Invert the Colors](https://www.lifewire.com/how-to-invert-colors-on-iphone-4154078)
 
 ![Computer graphic of a human eye (negative-image)](https://www.lifewire.com/thmb/_a_kXKBXJhuHJ1QPW0N00LOavkE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-680799841-653726185c454bf29f730cce93fcb45a.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 MEHAU KULYK/SCIENCE PHOTO LIBRARY / Getty Images
 
@@ -121,6 +140,13 @@ of 06
 ## [Put the Device in Zoom Mode](https://www.lifewire.com/zoom-in-and-out-on-ipad-4103821)
 
 ![Ladybird on girl's hand under magnifying glass](https://www.lifewire.com/thmb/ly93teq_5dn-YxKk4JmXf6WLY7E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-588494079-6d7dfd09ac874928924cdc745685e929.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Westend61 / Getty Images
 
@@ -157,5 +183,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-immersive-education-the-role-of-virtual-reality-for-2024/"><u>[New] Immersive Education The Role of Virtual Reality for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-streamlining-the-process-of-iptv-video-recordings/"><u>[Updated] In 2024, Streamlining the Process of IPTV Video Recordings</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-tips-and-tricks-for-perfect-tweets-with-videos/"><u>[Updated] In 2024, Tips and Tricks for Perfect Tweets with Videos</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-splendid-review-and-different-selections-for-2024/"><u>[Updated] Splendid Review & Different Selections for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/accessing-roku-channel-content-on-other-devices-your-guide/"><u>Accessing Roku Channel Content on Other Devices - Your Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-solutions-for-handling-launchdllerror-on-your-pc/"><u>Effective Solutions for Handling LaunchDllError on Your PC</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/endless-memories-free-saving-on-instagram-stories/"><u>Endless Memories FREE Saving on Instagram Stories</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722897052811-exclusive-savings-hunt-for-the-finest-apple-watch-offers-now/"><u>Exclusive Savings: Hunt for the Finest Apple Watch Offers Now</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-for-removing-facebook-on-android-a-comprehensive-guide/"><u>Expert Tips for Removing Facebook on Android - A Comprehensive Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-se-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone SE Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Vivo Y100i? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/macmastery-steps-for-successfully-restarting-your-macbook-pro/"><u>MacMastery: Steps for Successfully Restarting Your MacBook Pro</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/seamless-chat-experiences-unlocking-the-full-potential-of-meta-quest-mic/"><u>Seamless Chat Experiences: Unlocking the Full Potential of Meta Quest Mic</u></a></li>
+<li><a href="https://games-able.techidaily.com/unbeatable-deal-why-i-continue-to-advocate-for-these-classic-samsung-televisions-now-with-a-50-discountzdnet-exclusive/"><u>Unbeatable Deal: Why I Continue to Advocate for These Classic Samsung Televisions - Now with a 50% Discount![ZDNet Exclusive]</u></a></li>
+</ul></div>
 

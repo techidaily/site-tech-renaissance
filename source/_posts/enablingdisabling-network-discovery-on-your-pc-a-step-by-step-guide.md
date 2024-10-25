@@ -1,7 +1,7 @@
 ---
 title: "Enabling/Disabling Network Discovery on Your PC: A Step-by-Step Guide"
-date: 2024-09-11T00:01:54.047Z
-updated: 2024-09-15T16:25:48.962Z
+date: 2024-10-20T16:56:32.301Z
+updated: 2024-10-24T22:28:37.614Z
 categories:
   - BestProducts
 description: "This Article Describes Enabling/Disabling Network Discovery on Your PC: A Step-by-Step Guide"
@@ -43,16 +43,16 @@ Lifewire
 
  Branded as Wi-Fi 6, the 802.11ax standard went live in 2019 to replace 802.11ac. Wi-Fi 6 maxes out at about 10 Gbps, uses less power, is more reliable in congested environments, and supports better security. Wi-Fi 6E is an extension of this standard that adds the[6 GHz band](https://www.lifewire.com/6ghz-6e-wi-fi-4845541) .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 802.11aj
 
  Known as the China Millimeter Wave, this standard applies in China and is a rebranding of 802.11ad for use in certain areas of the world. The goal is to maintain backward compatibility with 802.11ad.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 802.11ah
 
@@ -60,18 +60,24 @@ Lifewire
 
 [Is 5 GHz Wi-Fi Better Than 2.4 GHz?](https://www.lifewire.com/is-5-ghz-wifi-better-than-2-4-ghz-818293)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 802.11ad
 
  This standard was approved in December 2012 and is freakishly fast (several Gbits/second). However, the client device must be within 30 feet of the access point.
 
  Keep in mind when distances are mentioned that ranges can be greatly impacted by obstacles that block the signal, so the range mentioned refers to situations where there is absolutely no interference.
+
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 802.11ac (Wi-Fi 5)
 
@@ -96,16 +102,10 @@ Lifewire
  802.11g is also unofficially referred to as_Wi-Fi 3_ .
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 802.11a (Wi-Fi 2)
@@ -117,6 +117,13 @@ Lifewire
  Because 802.11a and 802.11b use different frequencies, the two technologies are incompatible. Some vendors offer hybrid_802.11a/b_ network gear, but these products merely implement the two standards side by side (each connected device must use one or the other).
 
  802.11a is also unofficially referred to as_Wi-Fi 2_ .
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 802.11b (Wi-Fi 1)
 
@@ -203,5 +210,16 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-mac-assisted-ootd-videography-secrets-revealed-for-2024/"><u>[New] Mac-Assisted OOTD Videography Secrets Revealed for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-facebooks-guide-to-enhancing-past-recordings-for-live-streaming-for-2024/"><u>[Updated] Facebook's Guide to Enhancing Past Recordings for Live Streaming for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-and-tricks-sending-images-videos-and-more-from-mac-to-tv-via-airplay-connectivity/"><u>Expert Tips and Tricks: Sending Images, Videos & More From Mac to TV via AirPlay Connectivity</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-realme-c55-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Realme C55</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-taking-screenshots-using-logitech-keyboards/"><u>Mastering the Art of Taking Screenshots Using Logitech Keyboards</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-unleash-creativity-10-top-public-domain-image-sources/"><u>New In 2024, Unleash Creativity 10 Top Public Domain Image Sources</u></a></li>
+<li><a href="https://program-issues.techidaily.com/oculus-link-not-working-try-these-6-fast-fixes-for-a-smooth-vr-setup/"><u>Oculus Link Not Working? Try These 6 Fast Fixes for a Smooth VR Setup</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-a-non-responsive-apple-watch-display-what-you-need-to-know/"><u>Troubleshooting a Non-Responsive Apple Watch Display: What You Need to Know</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-memes-a-comprehensive-guide-what-are-they-and-how-did-they-evolve/"><u>Understanding Memes: A Comprehensive Guide – What Are They and How Did They Evolve?</u></a></li>
+</ul></div>
 

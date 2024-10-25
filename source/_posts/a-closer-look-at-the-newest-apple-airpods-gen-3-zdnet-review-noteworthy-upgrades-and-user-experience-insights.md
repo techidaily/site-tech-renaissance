@@ -1,7 +1,7 @@
 ---
 title: "A Closer Look at the Newest Apple AirPods (Gen 3) - ZDNet Review: Noteworthy Upgrades and User Experience Insights"
-date: 2024-10-15T08:44:58.959Z
-updated: 2024-10-18T19:22:19.892Z
+date: 2024-10-23T20:45:44.433Z
+updated: 2024-10-24T17:39:42.334Z
 tags:
   - apple
 categories:
@@ -55,10 +55,10 @@ However, the iPad version of the Horizon client available on the Vision Pro is n
 If Apple can add support for multiple virtual displays, much like how I use my MacBook Pro now with several monitors, then that would benefit my workflow immensely.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Native Microsoft apps are fairly limited
@@ -70,10 +70,10 @@ Besides the Horizon client covering my Windows software needs, I also use Outloo
 In addition to the limited feature set, an issue with collaborating on Teams (or any video conferencing service) is Apple's zombie-like Personas. The digital scan reminds me of characters from older gaming consoles, and I will never use it in client meetings or when FaceTiming my wife, who can't take my Persona seriously.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Traveling with the Vision Pro
@@ -87,16 +87,10 @@ Matthew Miller/ZDNET
 I also felt cramped sitting in one spot and trying to navigate through multiple applications. On a train, let alone on a plane, I was barely able to move my body around to multitask on Vision OS. One feature I'd love to see is the ability to stack or quickly switch between several open apps. That would be ideal for more confined situations like this.
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Privacy and security are secretly fantastic
@@ -104,10 +98,10 @@ I also felt cramped sitting in one spot and trying to navigate through multiple 
 On the plus side, when I was sitting on the train with the Vision Pro on, I realized that I could work on all of my projects that have proprietary and sensitive information on big screens without worrying about the person next to me glancing over. The ability to have complete privacy and enhanced security, including the ability to set up eye scanning to unlock your Vision Pro, may be one of the most compelling reasons to use the headset for work. Sure, this argument applies to every other VR headset, but none come close to the audiovisual fidelity of the Vision Pro.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -144,20 +138,24 @@ All that is to say the [Apple Vision Pro](https://apple.sjv.io/c/159047/435031/7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-channel-hunt-best-historical-youtubes-that-every-student-should-watch-for-2024/"><u>[New] Channel Hunt Best Historical YouTubes That Every Student Should Watch for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-top-rankings-decoded-is-pickups-editorivity-leading-android/"><u>[Updated] 2024 Approved Top Rankings Decoded Is PickUp's Editorivity Leading Android?</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-decoding-youtubes-strategic-approach-to-short-form-video-promotion/"><u>2024 Approved Decoding YouTube's Strategic Approach to Short-Form Video Promotion</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-masterful-descriptions-for-impactful-podcast-intros/"><u>2024 Approved Masterful Descriptions for Impactful Podcast Intros</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-outwit-facebook-vids-ad-blocking-basics/"><u>2024 Approved Outwit Facebook Vids Ad-Blocking Basics</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/advanced-techniques-to-apply-meta-ai-features-effectively-on-instagram/"><u>Advanced Techniques to Apply Meta AI Features Effectively on Instagram</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/facebook-image-upload-mastery-how-to-post-several-photos-simultaneeously/"><u>Facebook Image Upload Mastery: How to Post Several Photos Simultaneeously</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-itel-s23plus-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Itel S23+</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-cutting-edge-mac-cam-apps-a-look-past-bandicam/"><u>In 2024, Cutting-Edge Mac Cam Apps A Look Past Bandicam</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-three-proven-steps-for-archiving-your-favorite-discord-shows/"><u>In 2024, Three Proven Steps for Archiving Your Favorite Discord Shows</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/prime-entertainment-curated-list-of-beloved-family-films-streaming-now-on-amazon-prime/"><u>Prime Entertainment: Curated List of Beloved Family Films Streaming Now on Amazon Prime</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/samsung-galaxy-z-fold-7-exploring-the-costs-launch-timeline-and-features/"><u>Samsung Galaxy Z Fold 7: Exploring the Costs, Launch Timeline & Features</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-issues-with-your-iphones-email-a-comprehensive-guide/"><u>Solving Issues with Your iPhone's Email: A Comprehensive Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/tailoring-your-touch-to-the-world-of-win11-keybindings/"><u>Tailoring Your Touch to the World of Win11 Keybindings</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unraveling-the-distinctions-between-apples-ipad-and-conventional-tablets/"><u>Unraveling the Distinctions Between Apple's iPad and Conventional Tablets</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-how-to-capture-and-stream-in-stunning-hd-fb/"><u>[New] 2024 Approved How to Capture and Stream in Stunning HD (FB)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-samsung-gear-360-replacements-latest-innovations-in-camera-tech/"><u>[New] Samsung Gear 360 Replacements Latest Innovations in Camera Tech</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-influential-vr-development-studios/"><u>[Updated] Influential VR Development Studios</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-anonymous-sharing-simplified-blurring-techniques-for-videos/"><u>2024 Approved Anonymous Sharing Simplified Blurring Techniques for Videos</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/blue-screen-error-repairing-the-broken-pfn-list-issue-in-windows-11-systems/"><u>Blue Screen Error - Repairing the Broken PFN List Issue in Windows 11 Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-instructions-for-activatingdeactivating-network-sight-on-windows-11/"><u>Comprehensive Instructions for Activating/Deactivating Network Sight on Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-instructions-for-linking-your-samsung-control-device-to-any-display-screen/"><u>Easy Instructions for Linking Your Samsung Control Device to Any Display Screen</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/essential-iphone-antivirus-applications-ranking-of-best-6/"><u>Essential iPhone Antivirus Applications: Ranking of Best 6</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722887185928-from-pages-to-screens-the-perfect-blend-of-smartphones-laptops-and-classic-reads/"><u>From Pages to Screens: The Perfect Blend of Smartphones, Laptops, and Classic Reads!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-the-latest-ios-beta-version-on-iphone-14-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS Beta Version on iPhone 14 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-resolve-system-call-failure-in-windows-os/"><u>How to Resolve 'System Call Failure' In Windows OS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/in-depth-analysis-of-hugging-faces-significance-and-applications/"><u>In-Depth Analysis of Hugging Face's Significance & Applications</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/legally-backup-netflix-titles-for-offline-viewing-on-laptop-or-desktop/"><u>Legally Backup Netflix Titles for Offline Viewing on Laptop or Desktop</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-electronic-devices-insider-knowledge-from-toms-tech-reviews/"><u>Mastering Electronic Devices: Insider Knowledge From Tom's Tech Reviews</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-basics-of-at-home-electric-car-power-up/"><u>Mastering the Basics of At-Home Electric Car Power Up</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revive-your-ipad-with-a-fresh-new-battery-step-by-step-instructions/"><u>Revive Your iPad with a Fresh New Battery – Step by Step Instructions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revive-your-macbook-pro-the-ultimate-guide-to-fresh-start/"><u>Revive Your MacBook Pro: The Ultimate Guide to Fresh Start</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-strategies-to-access-netflix-without-paying/"><u>Top Strategies to Access Netflix Without Paying</u></a></li>
 </ul></div>
 

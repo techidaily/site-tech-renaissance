@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Mobile Interaction: Apple Introduces Eye-Controlled Commands for iPhone and iPad - Insights"
-date: 2024-10-12T19:12:01.081Z
-updated: 2024-10-19T06:13:34.782Z
+date: 2024-10-19T07:24:37.156Z
+updated: 2024-10-24T20:48:49.861Z
 tags:
   - apple
 categories:
@@ -30,13 +30,6 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
@@ -44,10 +37,10 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -59,10 +52,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -72,10 +65,10 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -83,6 +76,13 @@ Screenshot by Lance Whitney/ZDNET
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -134,22 +134,14 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-go-full-screen-with-ease-masterful-mac-scaling-methods-for-insta-posts/"><u>[New] Go Full Screen with Ease Masterful Mac Scaling Methods for Insta Posts</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-home-sweet-habitat-6-basic-mc-dwellings-demystified-for-2024/"><u>[New] Home Sweet Habitat 6 Basic MC Dwellings Demystified for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-current-drone-applications-vs-future-technological-paradigm/"><u>[New] In 2024, Current Drone Applications vs Future Technological Paradigm</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-how-to-link-up-in-the-world-of-instagram/"><u>2024 Approved How-To Link Up in the World of Instagram</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-leading-live-streaming-services-a-detailed-comparison/"><u>2024 Approved Leading Live Streaming Services A Detailed Comparison</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-strategy-in-the-shopping-experience/"><u>2024 Approved Strategy in the Shopping Experience</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/a-beginners-approach-to-creating-text-overlays-on-instagram-stories/"><u>A Beginner's Approach to Creating Text Overlays on Instagram Stories</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/beginner-hacks-for-the-newly-named-x-platform-top-10-instant-guides-to-get-you-started/"><u>Beginner Hacks for the Newly Named X Platform: Top 10 Instant Guides to Get You Started</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/best-free-tunes-streamer-choices-for-android-and-ios-users-our-picks-revealed/"><u>Best Free Tunes Streamer Choices for Android & iOS Users: Our Picks Revealed</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-todays-must-watch-uk-dramas-and-comedies-on-netflix/"><u>Discover Today's Must-Watch UK Dramas & Comedies on Netflix</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/fbx-filming-made-simple-a-step-by-step-approach-for-2024/"><u>FBX Filming Made Simple A Step-by-Step Approach for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/future-of-google-wireless-earbuds-pixel-buds-pro-2-speculations-release-details-inside/"><u>Future of Google Wireless Earbuds: Pixel Buds Pro 2 Speculations - Release Details Inside</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Motorola Moto G24 | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/lifewires-ultimate-selection-of-15-complimentary-on-demand-artificial-intelligence-learning-programs/"><u>Lifewire’s Ultimate Selection of 15 Complimentary, On-Demand Artificial Intelligence Learning Programs</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-for-entering-macos-recovery/"><u>Step-by-Step Instructions for Entering macOS Recovery</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-advantages-of-evs-over-traditional-gasoline-cars-explained/"><u>The Advantages of EVs Over Traditional Gasoline Cars Explained</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/what-to-expect-at-the-next-big-google-occasion-tidbits-and-major-disclosures/"><u>What to Expect at the Next Big Google Occasion: Tidbits & Major Disclosures</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-pixelmaster-360-multiplatform-resolution-booster/"><u>[New] PixelMaster 360 – Multiplatform Resolution Booster</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/empower-writers-leverage-these-veled-by-artificial-intelligence/"><u>Empower Writers: Leverage These Veled by Artificial Intelligence</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exclusive-insight-qualcomm-joins-forces-with-samsung-and-google-on-revolutionary-mixed-reality-glasses/"><u>Exclusive Insight: Qualcomm Joins Forces With Samsung & Google on Revolutionary Mixed Reality Glasses</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/frustrated-by-the-apple-vision-pro-virtual-keys-learn-how-to-switch-back-to-an-actual-hardware-keyboard-zdnet/"><u>Frustrated by the Apple Vision Pro Virtual Keys? Learn How to Switch Back to an Actual Hardware Keyboard | ZDNET</u></a></li>
+<li><a href="https://win11.techidaily.com/guidance-to-resolve-improper-token-usage-problems/"><u>Guidance to Resolve Improper Token Usage Problems</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-cyberspace-liberation-overthrowing-hacks-on-facebook/"><u>In 2024, Cyberspace Liberation Overthrowing Hacks on Facebook</u></a></li>
+<li><a href="https://win-lab.techidaily.com/solving-the-issue-of-new-iphone-not-allowing-backup-restoration-at-setup-stage/"><u>Solving the Issue of New iPhone Not Allowing Backup Restoration at Setup Stage</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-on-sending-back-your-apple-vision-pro-insights-from-zdnet/"><u>Step-by-Step Guide on Sending Back Your Apple Vision Pro - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-apples-vision-pro-the-game-changing-concept-prototype-that-could-revolutionize-our-future/"><u>Unveiling Apple's Vision Pro: The Game-Changing Concept Prototype That Could Revolutionize Our Future</u></a></li>
 </ul></div>
 

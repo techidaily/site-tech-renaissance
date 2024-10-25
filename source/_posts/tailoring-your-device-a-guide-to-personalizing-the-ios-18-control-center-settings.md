@@ -1,7 +1,7 @@
 ---
 title: "Tailoring Your Device: A Guide to Personalizing the iOS 18 Control Center Settings"
-date: 2024-10-13T05:37:54.907Z
-updated: 2024-10-19T01:52:44.946Z
+date: 2024-10-21T05:00:31.952Z
+updated: 2024-10-24T17:16:08.918Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -44,10 +44,10 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -58,18 +58,18 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Delete a control
 
@@ -92,10 +92,10 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -134,15 +134,16 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-unveil-tiktoks-most-effective-typefaces-for-video-growth-this-year/"><u>[New] 2024 Approved Unveil TikTok's Most Effective Typefaces for Video Growth This Year</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-five-cozy-seasons-ideal-backgrounds-to-warm-up-videos/"><u>[Updated] In 2024, Five Cozy Seasons Ideal Backgrounds to Warm Up Videos</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-10-must-watch-historical-channels-for-students/"><u>2024 Approved 10 Must-Watch Historical Channels for Students</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722869812023-alternative-ways-to-view-roku-content-beyond-traditional-hardware/"><u>Alternative Ways to View Roku Content Beyond Traditional Hardware</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/enhancing-your-journey-a-detailed-walkthrough-of-the-live-view-capability-in-google-maps/"><u>Enhancing Your Journey: A Detailed Walkthrough of the Live View Capability in Google Maps</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-atandt-iphone-7-plus-with-3-methods-by-drfone-ios/"><u>How to Unlock AT&T iPhone 7 Plus with 3 Methods</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/keep-your-data-safe-on-social-media-change-your-facebook-passcode-now/"><u>Keep Your Data Safe on Social Media: Change Your Facebook Passcode Now!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/revive-and-restore-professional-techniques-for-cleaning-mechanical-keyboards-perfectly/"><u>Revive and Restore: Professional Techniques for Cleaning Mechanical Keyboards Perfectly</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlock-amazing-deals-for-presidents-day-score-big-at-amazon-walmart-best-buy-and-more-zdnet-insights/"><u>Unlock Amazing Deals for Presidents' Day: Score Big at Amazon, Walmart, Best Buy & More | ZDNET Insights!</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-discovering-superior-software-transformative-voices-for-vtubers/"><u>[New] Discovering Superior Software Transformative Voices for VTubers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-quick-tips-for-effective-android-video-chatting-for-2024/"><u>[New] Quick Tips for Effective Android Video Chatting for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-optimal-tag-selection-elevate-your-videos-online-presence/"><u>[Updated] 2024 Approved Optimal Tag Selection Elevate Your Video's Online Presence</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-script-creation-for-attractive-vlogging-content/"><u>2024 Approved Mastering Script Creation for Attractive Vlogging Content</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-discontinues-apple-pay-later-program-exploring-new-alternatives-on-horizon/"><u>Apple Discontinues 'Apple Pay Later' Program: Exploring New Alternatives on Horizon</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/decoding-apples-chip-evolution-how-the-rise-of-m1-m2-and-m3-affects-your-pc-purchase-insights-for-tech-savvy-consumers-zdnet/"><u>Decoding Apple's Chip Evolution: How the Rise of M1, M2 & M3 Affects Your PC Purchase - Insights for Tech-Savvy Consumers | ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-ai-capabilities-for-iphones-bridging-the-gap-with-android-in-ios-18/"><u>Essential AI Capabilities for iPhones: Bridging the Gap with Android in iOS 18</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Lava Blaze 2? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ipad-pro-versus-macbook-air-determining-the-ideal-device-for-your-needs-techradar/"><u>IPad Pro Versus MacBook Air: Determining the Ideal Device for Your Needs | TechRadar</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-6-must-have-study-tools-for-kids-and-their-guardians/"><u>Top 6 Must-Have Study Tools for Kids & Their Guardians</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-toms-tech-review-the-ultimate-guide-to-cutting-edge-gadgets-and-components/"><u>Unveiling Tom's Tech Review - The Ultimate Guide to Cutting-Edge Gadgets and Components</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Seamlessly Collaborate on iCloud Using Apple's Pages Documents - Insights
-date: 2024-10-18T05:48:12.763Z
-updated: 2024-10-19T07:41:36.481Z
+date: 2024-10-21T07:41:24.987Z
+updated: 2024-10-25T00:21:20.521Z
 tags:
   - apple
 categories:
@@ -27,13 +27,6 @@ I use Apple Pages when collaborating on fiction with my editor and publisher. No
 
 Let me show you how easy it is to use the Collaboration feature found in Apple Pages. Not only is the app free, but the feature is also built in (so you don't have to install any extra software). 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Requirements
 
 The only things you'll need to make this work are a running instance of MacOS (which includes the iWork office suite), and an [iCloud](https://www.icloud.com/) account. Without an iCloud account, you cannot use the collaboration feature. So, before you continue, make sure you have an iCloud account and can log in to it.
@@ -41,22 +34,15 @@ The only things you'll need to make this work are a running instance of MacOS (w
 I'll be demonstrating on a [MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fmacbook-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) running MacOS Monterey.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Enable iCloud Collaboration
 
 Before you can collaborate on a Pages document, you must first enable iCloud Collaboration. To do that, follow these steps.
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
@@ -65,13 +51,6 @@ Open System Preferences by clicking the Apple button in the top left corner of y
 **Figure 1**: Access to iCloud Drive options is found here.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Enable Pages for iCloud Drive
 
@@ -82,6 +61,13 @@ In the next window (**Figure 2**), click the check box for Pages and then click 
 Image: Jack Wallen
 
 ## Enable the Collaboration feature
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Open an Apple Pages document
 
@@ -98,6 +84,13 @@ Click Collaborate and you'll be informed the document must be moved to iCloud be
 **Figure 4**: You cannot collaborate on a document until it's been moved to iCloud.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Enable Track Changes
 
@@ -116,6 +109,19 @@ Image: Jack Wallen
 Make sure to configure both the Who Can Access and Permission options. Here, you also decide how to share the document with your collaborators. Choose Email, Messages, Copy Link, AirDrop, or Twitter. 
 
 Depending on the sharing method you choose, you'll either open Apple Mail, Messages, AirDrop, or Twitter, or you'll copy the link to the file to your clipboard. Make your selection and click Share, at which point the document will be activated for sharing. Whoever is the recipient of the link will then be able to access the file either from within iCloud (if Pages isn't available on their OS) or directly from within Apple Pages.
+
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Stop sharing
 
@@ -157,18 +163,14 @@ And that's all there is to collaborating with Apple Pages. This is a great featu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-unlocking-top-five-transformative-facebook-traits/"><u>[Updated] 2024 Approved Unlocking Top Five Transformative Facebook Traits</u></a></li>
-<li><a href="https://win-able.techidaily.com/cyberpunk-2077-resolved-eliminating-in-game-input-delay-issues/"><u>Cyberpunk 2077 Resolved: Eliminating In-Game Input Delay Issues</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-finest-free-software-updater-tools-a-selection-of-11-picks/"><u>Discover the Finest Free Software Updater Tools: A Selection of 11 Picks</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-effective-techniques-on-how-to-check-website-uptime-via-ping/"><u>Guide: Effective Techniques on How To Check Website Uptime Via Ping</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-oppo-find-x6-pro-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Oppo Find X6 Pro Devices</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-fix-lameencdll-not-found-errors/"><u>How to Fix Lame_enc.dll Not Found Errors</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-sony-xperia-5-v-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Sony Xperia 5 V online without jailbreak</u></a></li>
-<li><a href="https://fox-access.techidaily.com/perfecting-remote-conferences-with-focused-scopes-for-2024/"><u>Perfecting Remote Conferences with Focused Scopes for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-d3dx927dll-file-not-detected-step-by-step-guide/"><u>Resolving d3dx9_27.dll File Not Detected - Step-by-Step Guide</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/transformar-archivos-mpe-a-formato-wma-online-gratuito-con-la-herramienta-de-conversion-de-movavi/"><u>Transformar Archivos MPE a Formato WMA Online Gratuito Con La Herramienta De Conversión De Movavi</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/trimme-videre-og-slette-unodvendige-teile-af-videofiles-det-sekretarets-handbog-i-videoediting/"><u>Trimme Videre Og Slette Unødvendige Teile Af Videofiles - Det Sekretarets Handbog I Videoediting</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-realme-gt-neo-5-ses-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Realme GT Neo 5 SEs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/virtual-event-space-12-channel-livestream-experience/"><u>Virtual Event Space 12-Channel Livestream Experience</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-navigating-facebooks-updated-algorithm-preparation-checklist-for-2024/"><u>[Updated] Navigating Facebook's Updated Algorithm Preparation Checklist for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/battlenet-server-hiccups-determining-if-its-a-widespread-downtime-or-individual-troubles/"><u>Battle.net Server Hiccups? Determining if It's a Widespread Downtime or Individual Troubles.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/dvd-dvd17/"><u>DVDコピー手法ガイド -無許可なしでDVDを正当にバックアップする17ページ</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-make-a-video-from-photo-with-music/"><u>In 2024, Make a Video From Photo with Music</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/income-on-instagram-comprehensive-step-by-step-guide-for-2024/"><u>Income on Instagram Comprehensive Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/secret-strategies-for-powering-up-your-lunapic-edits/"><u>Secret Strategies for Powering Up Your LunaPic Edits</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/why-is-my-apple-watch-touch-screen-not-working/"><u>Why Is My Apple Watch Touch Screen Not Working?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/xbox-series-xs-headset-wont-work-heres-how-you-can-repair-it/"><u>Xbox Series X/S Headset Won't Work? Here’s How You Can Repair It</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/your-go-to-places-for-endless-music-video-viewing-our-number-one-choices/"><u>Your Go-To Places for Endless Music Video Viewing: Our Number One Choices</u></a></li>
 </ul></div>
 
