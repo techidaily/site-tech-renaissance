@@ -1,7 +1,7 @@
 ---
 title: Deciding on an Upgrade? M3 MacBook Air Versus M2 – In-Depth Review for Prospective Buyers | CNET
-date: 2024-10-21T03:32:22.194Z
-updated: 2024-10-25T03:19:13.054Z
+date: 2024-10-26T17:16:58.578Z
+updated: 2024-10-30T20:39:09.763Z
 tags:
   - apple
 categories:
@@ -44,13 +44,6 @@ Since there are many variations and generations of both the iPad and the MacBook
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## You should buy an iPad Pro if...
 
 Kerry Wan/ZDNET
@@ -64,16 +57,10 @@ A more efficient processor means the iPad speeds through app load times, 4K vide
 **Also:** [**I replaced my MacBook with an M4 iPad Pro and was less bothered than I expected**](https://www.zdnet.com/article/ipad-pro-2024-review/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/ipad-pro-2024-review/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%22I%20replaced%20my%20MacBook%20with%20an%20M4%20iPad%20Pro%20and%20was%20less%20bothered%20than%20I%20expected%22%7D)
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. You draw or take notes using an Apple Pencil
@@ -81,6 +68,13 @@ A more efficient processor means the iPad speeds through app load times, 4K vide
 For digital artists, drawing on a tablet with a stylus can be much easier than working on a computer or laptop. The iPad Pro supports the Apple Pencil Pro, which has a range of useful features for drawing, including a squeeze gesture for quick tool, color, and other changes, a gyroscope for precise control of pens and brush tools with a simple rotation, and custom haptic feedback that you can feel via a pulse. 
 
 As ZDNET editor-in-chief Jason Hiner noted in his [hands-on review](https://www.zdnet.com/article/ipad-pro-and-ipad-air-2024-buying-advice/), "The M4 OLED iPad Pro is a much easier sell for professional digital artists."
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. You need something portable for on-the-go tasks
 
@@ -100,13 +94,6 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## You should buy a MacBook if...
 
 Jason Hiner/ZDNET
@@ -119,18 +106,18 @@ While the iPad Pro is touted as a "laptop replacement," it still can't quite liv
 
 The MacBook Air also has more internal storage options than the iPad Pro: 8GB, 16GB, or 24GB, giving you more storage space options. However, keep in mind that higher storage specs will cost you more (between $200-$400 more).
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. You use AI applications
 
 The MacBook Air is compatible with AI features and applications, thanks to its M3 processor. This allows you to better handle AI workloads, like summarizing longer text, browsing the web with a specific focus, generating Excel formulas, writing code, making graphs and charts, and more.
 
 MacOS is getting an [Apple Intelligence](https://www.zdnet.com/article/apple-intelligence-arrives-next-month-6-ai-upgrades-iphone-users-can-expect-first/) update in September 2024, so AI will be even more seamlessly involved in the MacBook Air experience, with everything from Siri to creating unique images. Plus, the M3 chip means the MacBook Air is future-proofed for the inevitable deluge of AI applications coming.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. You like the option of using external displays
 
@@ -139,6 +126,13 @@ Some people can work on one screen, but many prefer a two-screen display to opti
 You can access everything on your MacBook Air on a larger display setup, allowing for improved multitasking, increased productivity, and an overall more comfortable viewing experience. 
 
 [Buy the MacBook Air $1,149 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX23GFMJ%2Fref%3Dasc%5Fdf%5FB0CX23GFMJ1726830000000%3Fcreative%3D395261%26creativeASIN%3DB0CX23GFMJ%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cde5f552e-1e7e-4395-890c-2cb3f74a3f41%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -174,20 +168,15 @@ You can access everything on your MacBook Air on a larger display setup, allowin
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-transforming-your-media-expertise-in-itunes-recordings/"><u>[New] In 2024, Transforming Your Media Expertise in iTunes Recordings</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-streaming-stakes-pewdiepies-earnings-examination/"><u>[New] Streaming Stakes PewDiePie’s Earnings Examination</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-essential-links-where-to-get-official-skype-ringtone-files-for-2024/"><u>[Updated] Essential Links Where to Get Official Skype Ringtone Files for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-the-financials-of-boosting-your-youtube-videos-for-2024/"><u>[Updated] The Financials of Boosting Your YouTube Videos for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-limitless-video-snipping-program/"><u>2024 Approved Limitless Video Snipping Program</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-solving-fltmgrsys-crash-problems-in-windows-operating-systems/"><u>Diagnosing and Solving 'fltmgr.sys' Crash Problems in Windows Operating Systems.</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-enable-mobile-connectivity-solving-android-phone-call-problems/"><u>How to Enable Mobile Connectivity: Solving Android Phone Call Problems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-enjoy-amazon-prime-shows-without-subtitles-a-users-guide/"><u>How to Enjoy Amazon Prime Shows Without Subtitles - A User's Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ignite-your-design-prowess-top-14-text-animation-snapshots/"><u>Ignite Your Design Prowess Top 14 Text Animation Snapshots</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/latest-updates-on-the-next-google-pixel-model-expected-costs-release-date-and-speculations-shared/"><u>Latest Updates on the Next Google Pixel Model - Expected Costs, Release Date, and Speculations Shared!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/macbook-pro-troubleshooting-mastering-the-art-of-restarting-your-laptop/"><u>MacBook Pro Troubleshooting: Mastering the Art of Restarting Your Laptop</u></a></li>
-<li><a href="https://games-able.techidaily.com/premier-smartphone-games-supporting-controllers/"><u>Premier Smartphone Games Supporting Controllers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-rise-and-fall-of-yahoo-messenger-a-look-into-its-origins-and-end/"><u>The Rise and Fall of Yahoo! Messenger: A Look Into Its Origins and End</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-resolving-sound-dropouts-on-windows-11-systems/"><u>Troubleshooting and Resolving Sound Dropouts on Windows 11 Systems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-libxml2dll-file-not-found-issues-on-your-computer/"><u>Troubleshooting Libxml2.dll File Not Found Issues on Your Computer</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-executing-the-last-goodbye-to-your-instagram-account/"><u>[New] 2024 Approved Executing the Last Goodbye to Your Instagram Account</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-discovering-androids-and-ioss-best-rated-wedding-clock-apps/"><u>[Updated] In 2024, Discovering Android's and iOS's Best-Rated Wedding Clock Apps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discovering-acoustic-excellence-premier-ceiling-audio-solutions/"><u>Discovering Acoustic Excellence: Premier Ceiling Audio Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-methods-for-networked-printing-across-various-electronics/"><u>Easy Methods for Networked Printing Across Various Electronics</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-successfully-eliminate-watermarks-from-your-gif-images/"><u>How to Successfully Eliminate Watermarks From Your GIF Images</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-infinix-note-30-vip-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Infinix Note 30 VIP? Try These Fixes</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-samsung-galaxy-a23-5g-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Samsung Galaxy A23 5G FRP Without Computer</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-honor-90-frp-by-drfone-android/"><u>The Updated Method to Bypass Honor 90 FRP</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722893693199-unbeatable-ipad-bargains-get-yours-today/"><u>Unbeatable iPad Bargains - Get Yours Today</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-rumored-specs-and-pricing-anticipated-launch-of-google-tv-streaming-stick/"><u>Unveiling the Rumored Specs & Pricing - Anticipated Launch of Google TV Streaming Stick</u></a></li>
 </ul></div>
 

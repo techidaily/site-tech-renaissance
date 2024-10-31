@@ -1,7 +1,7 @@
 ---
 title: Get Instant Push Notifications for Slack on the Apple Watch - Tips & Tricks
-date: 2024-10-22T07:49:24.342Z
-updated: 2024-10-24T16:45:21.540Z
+date: 2024-10-23T17:17:28.817Z
+updated: 2024-10-30T17:24:48.759Z
 tags:
   - apple
 categories:
@@ -48,35 +48,28 @@ Here's how.
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Install the Slack app on your iPhone
 
 There is no dedicated Slack app for the Apple Watch, but there is an iPhone app. This app controls everything about how Slack works with notifications on your phone. So, if you don't already have Slack on your iPhone, go to [the App Store and install it](https://apps.apple.com/us/app/slack/id618783545).
 
 Once it's installed, go ahead and log into your various Slack channels. Get those setup and working as you like before configuring the app for notifications.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Set up Slack notifications in the system settings
 
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
-
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##   
 
@@ -87,6 +80,13 @@ Once you're in the Slack settings pane, make sure Background App Refresh and Cel
 Now, back out to the top of the Settings app and tap the red Notifications icon. Make sure you Allow Notifications and turn on Time Sensitive Notifications. I also recommend you make sure Sounds is set to on. 
 
 Screenshot by David Gewirtz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Set up Slack notifications in the Slack app
 
@@ -109,6 +109,13 @@ Next, tap Notify Me on Mobile. This will give you a few options.
 Screenshot by David Gewirtz/ZDNET
 
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Set your notification schedule
 
@@ -135,10 +142,10 @@ Recommendation to Slack: Where you put the "Every day" option in that setting, a
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##   
@@ -146,13 +153,6 @@ We're almost done configuring notifications. Open the Watch app and scroll down 
 Screenshot by David Gewirtz/ZDNET
 
 There. You've set up notifications. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
 
@@ -193,19 +193,16 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-home-cinematic-excellence-with-5-quick-tips/"><u>[Updated] 2024 Approved Home Cinematic Excellence with 5 Quick Tips</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-get-hd-quality-facebook-videos-on-pcmobile-for-2024/"><u>[Updated] Get HD Quality Facebook Videos on PC/Mobile for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovation-in-iphone-filmmaking-virtual-worlds/"><u>2024 Approved Innovation in iPhone Filmmaking Virtual Worlds</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apple-resurrects-advanced-ai-technology-progress-and-pitfalls-explored/"><u>Apple Resurrects Advanced AI Technology: Progress and Pitfalls Explored</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-itel-p55-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Itel P55 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/download-ios-18-complete-guide-on-installation-and-compatible-iphone-models-zdnet/"><u>Download IOS 18: Complete Guide on Installation & Compatible iPhone Models | ZDNET</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/global-mobile-market-leader-apple-surpasses-samsung-in-worldwide-smartphone-deliveries-insights-by-zdnet/"><u>Global Mobile Market Leader: Apple Surpasses Samsung in Worldwide Smartphone Deliveries - Insights by ZDNet</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-transcending-boundaries-the-vr-evolutionary-journey/"><u>In 2024, Transcending Boundaries The VR Evolutionary Journey</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ring-visual-identity-top-6-sources-for-youtube-icons-and-logos-for-2024/"><u>Mastering Visual Identity Top 6 Sources for YouTube Icons & Logos for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/not-sure-if-your-phone-has-a-virus-heres-how-to-tell/"><u>Not Sure if Your Phone Has a Virus? Here’s How to Tell…</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolved-the-fixes-behind-the-common-rust-graphics-bug/"><u>Resolved: The Fixes Behind the Common Rust Graphics Bug</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/revolutionizing-device-interaction-apple-enhances-user-experience-with-cutting-edge-eye-tracking-for-ios-devices/"><u>Revolutionizing Device Interaction: Apple Enhances User Experience with Cutting-Edge Eye Tracking for iOS Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-to-converting-psp-pmf-movies-into-high-quality-mp4-format-with-sound/"><u>Step-by-Step Guide to Converting PSP PMF Movies Into High-Quality MP4 Format With Sound</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/sticking-with-the-series-7-a-major-reason-im-not-jumping-on-the-imaginary-series-cuyano-perspectives/"><u>Sticking with the Series 7: A Major Reason I'm Not Jumping on the Imaginary Series Cuyano | Perspectives</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-realme-11-pro-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Realme 11 Pro Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/chrome-using-too-much-memory-fixed/"><u>Chrome Using Too Much Memory [FIXED]</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-vivo-y55s-5g-2023-device-sim-by-drfone-android/"><u>Easily Unlock Your Vivo Y55s 5G (2023) Device SIM</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/efficient-network-troubleshooting-with-tracert-a-comprehensive-manual-for-windows-users/"><u>Efficient Network Troubleshooting with 'Tracert': A Comprehensive Manual for Windows Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-tidy-up-your-samsung-tv-screen-removing-extra-applications-with-ease/"><u>How to Tidy Up Your Samsung TV Screen: Removing Extra Applications with Ease</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-basics-of-dynamic-media-artistry/"><u>In 2024, The Basics of Dynamic Media Artistry</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-class-on-the-fugetek-ft-568-an-outstanding-durable-selection-of-premium-selfie-support-devices/"><u>Master Class on the Fugetek FT-568: An Outstanding, Durable Selection of Premium Selfie Support Devices</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-the-fintie-macbook-pro-13-laptop-sleeve-a-comprehensive-durability-and-value-analysis/"><u>The Ultimate Guide to the Fintie MacBook Pro 13 Laptop Sleeve - A Comprehensive Durability & Value Analysis</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-8-strategies-for-achieving-virality-on-your-youtube-videos/"><u>Top 8 Strategies for Achieving Virality on Your YouTube Videos</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-for-seamless-gaming-experience-with-sifu-on-pcs/"><u>Troubleshooting Steps for Seamless Gaming Experience with Sifu on PCs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-7-must-try-free-music-services-for-android-and-ios-aficionados/"><u>Unveiling 7 Must-Try Free Music Services for Android and iOS Aficionados</u></a></li>
 </ul></div>
 

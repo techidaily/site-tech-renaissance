@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Repair Unresponsive Applications on Your Mac
-date: 2024-09-14T22:13:53.733Z
-updated: 2024-09-15T23:50:18.756Z
+date: 2024-10-24T02:13:07.249Z
+updated: 2024-10-31T03:06:22.179Z
 categories:
   - BestProducts
 description: This Article Describes Step-by-Step Guide to Repair Unresponsive Applications on Your Mac
@@ -18,6 +18,13 @@ thumbnail: https://www.lifewire.com/thmb/zByENPzjz728H1Lexkgvhuz61mU=/400x300/fi
 
  This article explains all the different ways to make Windows 11 screenshots.
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Use PrtScn to Screenshot the Whole Screen
 
  There are many ways to make screenshots in Windows 11, the most basic being to use the**PrtScn** (aka**PrtSc** ) button on your keyboard. This captures the entire screen, including multiple displays if you have them, plus all visible windows, the taskbar, the Start button, etc. You can then paste the screenshot into any program that supports image pasting.
@@ -27,6 +34,19 @@ thumbnail: https://www.lifewire.com/thmb/zByENPzjz728H1Lexkgvhuz61mU=/400x300/fi
  On some computers, the**Fn** (function) key needs to be pressed along with**PrtSc** .
 
 [16 Ways To Fix It When Print Screen Is Not Working in Windows](https://www.lifewire.com/fix-print-screen-not-working-5442833)
+
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fullscreen Screenshot and Auto-save to Folder
 
@@ -55,6 +75,19 @@ thumbnail: https://www.lifewire.com/thmb/zByENPzjz728H1Lexkgvhuz61mU=/400x300/fi
 
 ![Windows 11 snip tool capturing calculator. ](https://www.lifewire.com/thmb/DxIz1nlXgizX8YqQ1wgTdi_r9eE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/snip-tool-windows-11-30e70f87ddfc45799a2dc78ebd4dc0b0.png)
 
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To avoid memorizing this shortcut, you can tie it to the PrtSc button so that when you press it, this same menu shows up automatically. To do this, go to**Settings** \>**Accessibility** \>**Keyboard** , and then turn on**Use the Print screen key to open screen capture** .
 
  After choosing one of those options, the image will be saved to the clipboard, which you can paste into an email or some other program that accepts pasting pictures.
@@ -64,16 +97,10 @@ thumbnail: https://www.lifewire.com/thmb/zByENPzjz728H1Lexkgvhuz61mU=/400x300/fi
 ![A Windows 11 screenshot open in Snipping Tool](https://www.lifewire.com/thmb/n8hloKQGZfQTHNEMKqTmWZC4D_M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-snipping-tool-cfcc4b1e0c154d509e2d312ce4538e4e.png)
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Delayed Screenshots With Snipping Tool
@@ -83,13 +110,6 @@ thumbnail: https://www.lifewire.com/thmb/zByENPzjz728H1Lexkgvhuz61mU=/400x300/fi
  Taking screenshots of open menus and other areas of Windows can sometimes be difficult if triggering the screenshot breaks whatever it is you're doing. Snipping Tool has a timed screenshot option, so you can do what you need to and then wait for the screenshot to happen automatically, hands-free.
 
  With the program open, select the**stopwatch** . There are three options:**3-second delay** ,**5-second delay** , and**10-second delay** . Select one, choose**New** , and then quickly arrange the screen in the way you need it for the screenshot. When the time you chose is reached, the four options above will display at the top of the screen.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Tips for Taking Screenshots in Windows 11
 
@@ -135,5 +155,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-top-rated-software-picks-audio-adjustment-for-virtual-personalities/"><u>[Updated] 2024 Approved Top-Rated Software Picks Audio Adjustment for Virtual Personalities</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/a-detailed-pokemon-go-pvp-tier-list-to-make-you-a-pro-trainer-for-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>A Detailed Pokemon Go PvP Tier List to Make you a Pro Trainer For Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-your-bond-experience-by-watching-films-in-their-official-order/"><u>Complete Your Bond Experience by Watching Films in Their Official Order</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/discover-the-leading-free-screen-recording-tools-for-mac-os-for-2024/"><u>Discover the Leading Free Screen Recording Tools for Mac OS for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-differences-between-signal-and-whatsapp-messaging-apps/"><u>Exploring the Differences Between Signal & WhatsApp Messaging Apps</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/how-to-get-snapchat-on-mac-for-2024/"><u>How to Get Snapchat on Mac for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-oneplus-nord-3-5g-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on OnePlus Nord 3 5G</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-xperia-1-v-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Xperia 1 V on Windows</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/securing-your-system-with-windows-11-expert-guide-to-enhanced-firewall-and-network-safety/"><u>Securing Your System with Windows 11: Expert Guide to Enhanced Firewall & Network Safety</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/simplify-everyday-living-using-9-chatgpt-tricks/"><u>Simplify Everyday Living Using 9 ChatGPT Tricks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-updating-your-samsung-smart-tvs-firmware/"><u>Step-by-Step Guide: Updating Your Samsung Smart TV's Firmware</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-10-must-watch-sporting-films-perfect-for-movie-night/"><u>Top 10 Must-Watch Sporting Films Perfect for Movie Night</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tracking-the-sharers-of-your-facebook-posts-effective-techniques-unveiled/"><u>Tracking the Sharers of Your Facebook Posts: Effective Techniques Unveiled</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-the-secrets-a-comprehensive-tutorial-on-iphone-recovery-modes-entry-and-exit/"><u>Unlock the Secrets: A Comprehensive Tutorial on iPhone Recovery Modes Entry & Exit</u></a></li>
+</ul></div>
 

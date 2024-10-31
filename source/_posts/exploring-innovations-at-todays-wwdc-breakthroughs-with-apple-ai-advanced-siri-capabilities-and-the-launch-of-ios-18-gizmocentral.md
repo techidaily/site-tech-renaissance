@@ -1,7 +1,7 @@
 ---
 title: "Exploring Innovations at Today's WWDC: Breakthroughs with Apple AI, Advanced Siri Capabilities, and the Launch of iOS 18 | GizmoCentral"
-date: 2024-10-24T08:40:55.521Z
-updated: 2024-10-24T22:01:57.848Z
+date: 2024-10-25T21:35:51.528Z
+updated: 2024-10-31T03:41:41.666Z
 tags:
   - apple
 categories:
@@ -49,10 +49,10 @@ The event provides developers with access to experts, along with highlights of n
 "We're so excited to connect with developers from around the world for an extraordinary week of technology and community at WWDC24," Susan Prescott, Apple's VP of Worldwide Developer Relations, said in a news release. "WWDC is all about sharing new ideas and providing our amazing developers with innovative tools and resources to help them make something even more wonderful." 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. You'll be hearing AI (or Apple Intelligence) a lot
@@ -72,16 +72,10 @@ Apple has also allegedly been seeking a partner for outside help, possibly teami
 More recently, rumors have suggested that some new AI features will include more intelligent and helpful searches in Safari, AI-generated emojis based on conversations in Messages, and an AI-powered [photo editing app](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/) similar to Google's Magic Eraser. It's worth noting that such features are believed to only function on the more recent Apple products, including the iPhone 15 Pro with its A17 Pro chip and M-series iPads and MacBooks.
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Don't forget the other acronym: RCS
@@ -95,10 +89,16 @@ To the surprise of many, except for the European Commission, Apple [announced la
 The decision to bring RCS to the iPhone came after mounting pressure from the European Union's Digital Markets Act (DMA), which stressed cross-platform compatibility. While a more [recent statement from Google](https://www.zdnet.com/article/google-seems-to-have-leaked-apples-timeframe-for-bringing-rcs-to-the-iphone/) suggested that Apple would integrate RCS later this fall, highlighting the transition at WWDC could potentially help Apple's defense against the [DOJ's antitrust lawsuit](https://x.com/getpeid/status/1798369533889302576), filed in March. Regardless of when and how Apple chooses to announce the new feature, it'll be big news for both iOS and Android users.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. MacOS 15, iPadOS 18, WatchOS 11, VisionOS 2, tvOS 18
@@ -139,22 +139,17 @@ As for [VisionOS](https://www.zdnet.com/article/10-things-id-like-to-see-in-visi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-movavis-latest-leap-in-video-editing-a-close-review-on-the-2024-version/"><u>[New] Movavi’s Latest Leap in Video Editing – A Close Review on the 2024 Version</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-critical-channels-for-asmr-lovers/"><u>[Updated] 2024 Approved Critical Channels for ASMR Lovers</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-dive-into-downloaded-subtitles-unlocking-youtubes-srt-files-with-a-trifecta-of-strategies-for-2024/"><u>[Updated] Dive Into Downloaded Subtitles Unlocking YouTube's SRT Files with a Trifecta of Strategies for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-ranking-top-tools-convert-srt-files-with-zero-charge-for-2024/"><u>[Updated] Ranking Top Tools Convert Srt Files with Zero Charge for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/boost-your-work-and-wanderlust-top-xr-gear-with-new-features-youll-love-according-to-zdnet/"><u>Boost Your Work & Wanderlust: Top XR Gear with New Features You'll Love, According To ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/choosing-between-the-iphone-14-pro-and-iphone-14-pro-max-an-in-depth-comparison-for-your-next-smartphone-upgrade/"><u>Choosing Between the iPhone 14 Pro and iPhone 14 Pro Max: An In-Depth Comparison for Your Next Smartphone Upgrade</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/demystifying-the-dts-virtualx-sound-system-for-gamers-and-movie-buffs/"><u>Demystifying the DTS Virtual:X Sound System for Gamers and Movie Buffs</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-ideal-childrens-ipads-2022-recommendations/"><u>Discover the Ideal Children's iPads: 2022 Recommendations</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/eu-levies-2b-penalty-on-apple-for-monopolistic-practices-in-app-store-business-insight/"><u>EU Levies $2B Penalty on Apple for Monopolistic Practices in App Store Business - Insight</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-sony-xperia-1-v-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Sony Xperia 1 V Device</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/maximizing-value-in-your-cloud-service-expenditure/"><u>Maximizing Value in Your Cloud Service Expenditure</u></a></li>
-<li><a href="https://common-error.techidaily.com/mending-non-existence-of-cldll-in-systems/"><u>Mending Non-Existence of ClDLL in Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/stop-recurring-file-explorer-autoload/"><u>Stop Recurring File Explorer Autoload</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-35-tablet-offers-on-amazon-prime-day-2024-exclusive-last-chance-bargains/"><u>Top 35 Tablet Offers on Amazon Prime Day 2024 - Exclusive Last Chance Bargains!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-protectors-for-the-newest-iphones-iphone-16-and-pro-your-ultimate-buying-guide-featuring-extensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated Protectors for the Newest iPhones (iPhone 16 & Pro) - Your Ultimate Buying Guide, Featuring Extensive Reviews by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-wireless-charging-pads-comprehensive-review-by-tech-experts-pcmag/"><u>Top-Rated Wireless Charging Pads : Comprehensive Review by Tech Experts | PCMag</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/vlcwmvmp4/"><u>VLCメディアプレーヤーでWMVファイルからMP4形式への変換手順</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-grandmaster-gaming-evaluating-the-best-7-total-war-experiences-for-2024/"><u>[Updated] Grandmaster Gaming Evaluating the Best 7 Total War Experiences for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-snapchats-spotlight-system/"><u>[Updated] Mastering Snapchat's Spotlight System</u></a></li>
+<li><a href="https://win-dash.techidaily.com/comparing-hevc-and-avc-unveiling-the-superior-benefits-of-h265-over-h2n64/"><u>Comparing HEVC and AVC: Unveiling the Superior Benefits of H.265 Over H.2n64</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/decode-the-buzz-surrounding-googles-new-pixel-10-unveiling-potential-prices-launch-window-and-specs-heard-in-rumors/"><u>Decode the Buzz Surrounding Google's New Pixel 10 - Unveiling Potential Prices, Launch Window & Specs Heard in Rumors</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-pair-your-nintendo-switch-with-the-appropriate-televisual-display/"><u>How To Pair Your Nintendo Switch With The Appropriate Televisual Display</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-imessage-on-your-ipad-beginners-guide/"><u>Mastering the Art of iMessage on Your iPad - Beginner's Guide</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/navigating-the-process-of-modifying-your-networks-visual-backdrop-for-2024/"><u>Navigating the Process of Modifying Your Network's Visual Backdrop for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/painting-with-light-advanced-color-techniques-for-2024/"><u>Painting with Light Advanced Color Techniques for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-for-efficiently-changing-directory-visibility-windows-11/"><u>Techniques for Efficiently Changing Directory Visibility (Windows 11)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/teslas-robotic-innovation-unveiling-rumors-predicted-cost-and-spec-details-ahead-of-launch-date-announcement/"><u>Tesla's Robotic Innovation - Unveiling Rumors, Predicted Cost & Spec Details Ahead of Launch Date Announcement</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-fixing-issues-with-not-starting-geforce-experience/"><u>Troubleshooting Steps: Fixing Issues with Not Starting GeForce Experience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-the-dll-not-found-issue-expert-tips-and-solutions/"><u>Troubleshooting the 'Dll Not Found' Issue: Expert Tips and Solutions</u></a></li>
 </ul></div>
 

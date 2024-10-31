@@ -1,7 +1,7 @@
 ---
 title: Why Will Apple’s New AI Innovations Not Upgrade Your Previous iPhone? The High Price Tag Explained
-date: 2024-10-20T05:01:58.105Z
-updated: 2024-10-24T19:13:33.408Z
+date: 2024-10-27T19:32:40.583Z
+updated: 2024-10-31T03:01:48.763Z
 tags:
   - apple
 categories:
@@ -45,16 +45,10 @@ Advanced AI features require substantial computational power, typically provided
 Even [major AI service providers](https://www.zdnet.com/article/best-ai-chatbot/) such as OpenAI, Microsoft, and Google encounter challenges in offering dependable and quick access to LLM and Generative AI models to the general public without downtime and overcommitting resources. The shortage and cost of GPU-enabled servers make these issues worse. To maintain the rapid response times expected by its customers, Apple will need to invest substantially in servers, data centers, and edge infrastructure -- an infrastructure level it likely does not currently possess.
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple's approach to Private Cloud Compute (PCC)
@@ -66,10 +60,16 @@ For the initial rollout of Apple Intelligence, the company has chosen a hybrid a
 Apple is currently focused on rolling out its [Generative AI services](https://www.zdnet.com/article/apple-unveils-on-device-ai-image-generator-for-iphone-ipad-and-mac/) to high-end devices as part of the initial phase of Apple Intelligence deployment. This allows Apple to enhance its AI capabilities and infrastructure before expanding to a wider range of devices. To bring Apple Intelligence to the rest of its ecosystem, the company will likely deploy AI-accelerated server appliances at the edge, enabling less capable devices to benefit from advanced AI features. However, this infrastructure is not yet ready for large-scale deployment, as Apple's shift towards AI development is still recent.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The challenges of edge computing
@@ -83,16 +83,10 @@ While NVIDIA is a major player in the GPU server space, others include tradition
 As reported by _The Register_, Apple is [developing its own AI servers](https://www.theregister.com/2024/06/11/apple%5Fbuilt%5Fai%5Fcloud%5Fservers%5Fos/), which are expected to be more cost-effective and better integrated with its ecosystem. These servers are currently being tested in data centers for foundation model use, and a broader rollout is anticipated in 2025\. This phased approach ensures Apple can maintain high privacy, security, and user experience standards while gradually expanding its AI capabilities across its device lineup.
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Broader implications for IoT and other devices
@@ -137,24 +131,14 @@ As Apple continues developing its AI infrastructure, including potential edge co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-flat-to-fantastic-animated-text-transformations-for-2024/"><u>[New] From Flat to Fantastic Animated Text Transformations for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-best-full-screen-recorders-windows-and-macos-version/"><u>[New] In 2024, Best Full-Screen Recorders - Windows & macOS Version</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-iphone-hacks-for-minimalist-video-presentation/"><u>[Updated] In 2024, IPhone Hacks for Minimalist Video Presentation</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-unpacking-youtubes-income-distribution-from-1m-viewers-for-2024/"><u>[Updated] Unpacking YouTube's Income Distribution From 1M Viewers for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722853820498-address-the-issue-of-absent-ksuserdll-in-your-system-effective-methods/"><u>Address the Issue of Absent ksuser.dll in Your System – Effective Methods!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/behind-the-scenes-of-innovation-a-closer-look-at-samsungs-newest-phone-release/"><u>Behind the Scenes of Innovation: A Closer Look at Samsung’s Newest Phone Release</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-list-of-15-free-windows-11-designs/"><u>Discover the Ultimate List of 15 FREE Windows 11 Designs</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/1725289459502-dvd-windows-11/"><u>DVDへの書き込み方法解析 - Windows 11で完全な手引き</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/enhance-your-desktop-aesthetics-by-altering-windows-10-taskbar-color/"><u>Enhance Your Desktop Aesthetics by Altering Windows 10 Taskbar Color</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-steps-for-resolving-dll-not-found-and-related-issues/"><u>Essential Steps for Resolving 'DLL Not Found' And Related Issues</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-enjoy-netflix-shows-and-movies-on-your-switch-console/"><u>How To Enjoy Netflix Shows & Movies On Your Switch Console</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-nokia-c110-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Nokia C110? | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/in-depth-assessment-the-superior-sound-quality-and-features-of-the-nulaxy-km18-car-bluetooth-adapter/"><u>In-Depth Assessment: The Superior Sound Quality and Features of the Nulaxy KM18 Car Bluetooth Adapter</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-revolutionize-your-videos-top-10-free-green-screen-apps-for-mobile/"><u>New Revolutionize Your Videos Top 10 Free Green Screen Apps for Mobile</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/nintendo-switch-bundle-contents-whats-inside/"><u>Nintendo Switch Bundle Contents: What's Inside?</u></a></li>
-<li><a href="https://games-able.techidaily.com/ps5-vs-xbox-series-x-which-console-should-you-buy-this-generation/"><u>PS5 Vs. Xbox Series X: Which Console Should You Buy This Generation?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/trouble-with-404s-heres-how-to-correct-and-prevent-page-not-found-errors/"><u>Trouble with 404S? Here’s How to Correct and Prevent Page Not Found Errors</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-resolving-the-windows-blue-screen-error/"><u>Ultimate Guide: Resolving the Windows Blue Screen Error</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-the-secrets-of-aol-instant-messenger-aim-how-did-it-shape-communication/"><u>Unveiling the Secrets of AOL Instant Messenger (AIM): How Did It Shape Communication?</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-comprehensive-step-by-step-on-zooms-video-broadcasting/"><u>[Updated] 2024 Approved Comprehensive Step-by-Step on Zoom's Video Broadcasting</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elevate-visibility-maximize-views-seo-for-videos/"><u>[Updated] 2024 Approved Elevate Visibility, Maximize Views - SEO for Videos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-high-staking-haven-evalutations/"><u>[Updated] 2024 Approved HIGH-STAKING HAVEN EVALUTATIONS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722898993061-discover-the-top-12-free-disk-defragmenters-to-boost-your-system-in-july-2024/"><u>Discover the Top 12 Free Disk Defragmenters to Boost Your System in July 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-the-elusive-wmvcoredll-file-missing-issue-easily/"><u>Fixing the Elusive Wmvcore.dll File Missing Issue Easily!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-accelerate-image-editing-mastery-with-pivotal-pixlr-tips/"><u>In 2024, Accelerate Image Editing Mastery with Pivotal Pixlr Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-the-pairing-process-of-a-logitech-mouse-in-simple-steps/"><u>Master the Pairing Process of a Logitech Mouse in Simple Steps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/optimal-visual-experience-pondering-ultrawide-vs-uhd-4k-monitors-for-2024/"><u>Optimal Visual Experience Pondering UltraWide vs UHD 4K Monitors for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-on-linking-airpods-to-an-hp-notebook/"><u>Step-by-Step Tutorial on Linking AirPods to an HP Notebook</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Cease Unwanted iPhone SMS: A Simple Guide to Blocking Spam Messages - Tips"
-date: 2024-10-23T09:06:37.276Z
-updated: 2024-10-24T21:31:06.210Z
+date: 2024-10-29T20:11:17.127Z
+updated: 2024-10-31T04:31:37.719Z
 tags:
   - apple
 categories:
@@ -30,13 +30,6 @@ The good news is that you can stop these text messages using a feature already i
 
 **What you'll need:** To follow this tutorial, you'll need the latest version of iOS available for your device.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Open Settings
 
 Open the Settings app on your iPhone, scroll down until you can access Apps, and tap on the Messages option.
@@ -44,6 +37,13 @@ Open the Settings app on your iPhone, scroll down until you can access Apps, and
 Tap on Messages to access the settings for your Messages app.
 
 Screenshot by Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Scroll until you find 'Filter Unknown Messages'
 
@@ -56,10 +56,10 @@ Scroll to the end of the Messages settings to find "Filter Unknown Senders."
 Screenshot by Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Check your Messages app
@@ -86,13 +86,6 @@ Screenshot by Maria Diaz/ZDNET
 
 ## FAQ
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How do I stop spam calls on iPhone?
 
 Incoming spam calls are a nuisance; if you're having that problem, you can either block specific numbers via your phone app, add your number to the National Do Not Call Registry, or block all calls from unknown numbers. To do the latter, follow these steps:
@@ -117,13 +110,6 @@ The tutorial above will let you live in ignorant bliss of whoever is trying to r
 
 iPhone messages from unknown senders display a text below them saying, "This sender is not in your contact list. Report Junk." This is where you can report the message.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How do I block a sender on my iPhone?
 
 If you keep getting messages from the same sender after reporting them, you can also block the sender altogether, which won't let them send you messages or call you. To block a specific number on your iPhone, follow these steps:
@@ -133,11 +119,31 @@ If you keep getting messages from the same sender after reporting them, you can 
 3. Tap on the Info button on the right.
 4. Select Block this caller.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why is the 'Filter Unknown Senders' option turned off?
 
 The necessity for increased vigilance in certain situations -- like deliveries and communication with certain organizations -- when someone is expecting a message, is likely why Apple turns the Filter Unknown Senders feature off by default. After all, this option is meant for iPhone users who don't want to be bothered by messages from people they don't know or scammers. It can't be on by default, given that a new iPhone is void of any contacts in the address book. 
 
 **Also: [My 4 favorite iOS 18 features make the iPhone a lot better, and more fun](https://www.zdnet.com/article/my-4-favorite-ios-18-features/)**
+
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Why am I getting so many spam text messages?
 
@@ -175,17 +181,24 @@ Some phone companies started flagging incoming calls as "Spam Caller" or "Scam L
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-arctic-athleticism-winter-olympics-spotlight-on-snowboard-cross-stars/"><u>[New] In 2024, Arctic Athleticism Winter Olympics Spotlight on Snowboard Cross Stars</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-lightweight-recording-tool-windows-compatible-for-2024/"><u>[New] Lightweight Recording Tool, Windows Compatible for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-pinnacle-screenplays-reviewed/"><u>[Updated] Pinnacle Screenplays Reviewed</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-3-proven-methods-to-enhance-your-music-archives/"><u>2024 Approved 3 Proven Methods to Enhance Your Music Archives</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/iphone-16-launch-exclusive-look-at-cutting-edge-spatial-recording-and-redesigned-thin-bezels-tech-news-by-zdnet/"><u>IPhone 16 Launch: Exclusive Look at Cutting-Edge Spatial Recording and Redesigned Thin Bezels | Tech News by ZDNet</u></a></li>
-<li><a href="https://review-topics.techidaily.com/mov-to-xiaomi-redmi-k70-converter-convert-mov-files-for-xiaomi-redmi-k70-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV to Xiaomi Redmi K70 converter-convert .mov files for Xiaomi Redmi K70</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/prevent-your-ipad-from-crashing-with-ios-18-essential-tips-and-precautions-before-updating-techinformed/"><u>Prevent Your iPad From Crashing with IOS 18: Essential Tips & Precautions Before Updating | TechInformed</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-viewing-guide-watching-the-transformers-franchise-sequentially/"><u>The Ultimate Viewing Guide: Watching The Transformers Franchise Sequentially</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-ipad-applications-for-enhanced-efficiency-streamlining-your-task-management-insights/"><u>Top iPad Applications for Enhanced Efficiency: Streamlining Your Task Management Insights</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-rated-immediate-print-photo-devices/"><u>Top-Rated Immediate Print Photo Devices</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-windows-11s-visual-capabilities-with-auto-hdr-mode-activation-for-2024/"><u>Unlocking Windows 11'S Visual Capabilities with Auto HDR Mode Activation for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/virtual-help-desk-solutions-mastering-winx-dvd-ripping-and-video-editing-tool/"><u>Virtual Help Desk Solutions: Mastering WinX DVD Ripping & Video Editing Tool</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-discover-the-leading-free-ios-video-editor-a-comprehensive-guide/"><u>[New] 2024 Approved Discover the Leading Free iOS Video Editor A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-making-your-own-youtube-beginnings-and-endings-cheaply/"><u>[New] 2024 Approved Making Your Own YouTube Beginnings & Endings Cheaply</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-uniting-friends-across-operating-systems-with-skype-groups/"><u>[New] 2024 Approved Uniting Friends Across Operating Systems with Skype Groups</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-unraveling-the-purpose-of-facebooks-blue-messenger-emblem/"><u>[New] Unraveling the Purpose of Facebook's Blue Messenger Emblem</u></a></li>
+<li><a href="https://driver-error.techidaily.com/adaptive-drivers-package-for-windows-pci/"><u>Adaptive Drivers Package for Windows PCI</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/boost-your-social-media-presence-by-adding-a-pin-tab-on-your-facebook-profile/"><u>Boost Your Social Media Presence by Adding a Pin Tab on Your Facebook Profile</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-as-a-tool-to-overcome-isolation-and-solitude/"><u>ChatGPT as a Tool to Overcome Isolation and Solitude</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comparing-hulu-and-huluplus-unveiling-key-distinctions/"><u>Comparing Hulu and Hulu+ - Unveiling Key Distinctions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/continuous-monitoring-during-induction-is-critical-for-the-safety-of-both-mother-and-baby/"><u>Continuous Monitoring During Induction Is Critical for the Safety of Both Mother and Baby.</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-performance-with-virtual-memory-on-windows-11/"><u>Enhancing Performance with Virtual Memory on Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-analysis-of-the-fugetek-ft-568-premium-quality-and-durability-in-a-top-tier-selfie-stick/"><u>Expert Analysis of the Fugetek FT-568: Premium Quality and Durability in a Top-Tier Selfie Stick</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-infinix-smart-7-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Infinix Smart 7 to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-seamlessly-implement-bots-on-your-discord-server/"><u>How to Seamlessly Implement Bots on Your Discord Server</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-from-your-apple-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status From Your Apple iPhone 15 Pro Max</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/integrating-third-party-tools-with-your-win11-zoom-setup-for-2024/"><u>Integrating Third-Party Tools with Your Win11 Zoom Setup for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/optimal-frequency-when-is-the-right-time-to-update-your-smartphone/"><u>Optimal Frequency: When Is the Right Time to Update Your Smartphone?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/order-of-the-phoenix-film-how-to-watch-all-harry-potter-movies-sequentially/"><u>Order of the Phoenix (Film): How to Watch All Harry Potter Movies Sequentially</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revealing-the-curious-how-to-identify-readers-of-your-google-docs/"><u>Revealing the Curious: How to Identify Readers of Your Google Docs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-troubleshooting-for-scanning-files-directly-from-a-printer-onto-your-computer/"><u>Ultimate Troubleshooting for Scanning Files Directly From a Printer Onto Your Computer</u></a></li>
 </ul></div>
 

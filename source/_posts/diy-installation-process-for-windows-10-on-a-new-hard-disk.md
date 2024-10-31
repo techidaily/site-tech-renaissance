@@ -1,7 +1,7 @@
 ---
 title: DIY Installation Process for Windows 10 on a New Hard Disk
-date: 2024-09-08T23:15:55.705Z
-updated: 2024-09-15T16:33:38.607Z
+date: 2024-10-26T04:38:14.997Z
+updated: 2024-10-30T23:57:35.751Z
 categories:
   - BestProducts
 description: This Article Describes DIY Installation Process for Windows 10 on a New Hard Disk
@@ -17,6 +17,19 @@ thumbnail: https://www.lifewire.com/thmb/vnMoP-bSjTfPETaufR0AJNJSFHg=/400x300/fi
  It's more common than you might think for the Windows search box to stop working. This means there are several possible causes, like a temporary glitch or an unresolved software bug. Another possible reason Windows search isn't working like you want it to is that a very specific setting has been switched off.
 
 ![Windows search not working](https://www.lifewire.com/thmb/eUOincgBNCFIDt1gubIW-meSdKs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windowssearchfix06-5bdc331846e0fb002d90f052.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Fix Windows 10 Search Problems
 
@@ -76,12 +89,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/n-2024-eluding-youtube-ban-protective-measures/"><u>[New] In 2024, Eluding YouTube Ban Protective Measures</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-capturing-iphone-7-screen-a-step-by-step-guide-for-2024/"><u>[Updated] Capturing iPhone 7 Screen A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-reality-altered-by-virtual-sight/"><u>[Updated] In 2024, Reality Altered by Virtual Sight</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-step-by-step-guide-to-maximizing-your-roi-on-spotify-ads/"><u>[Updated] Step-by-Step Guide to Maximizing Your ROI on Spotify Ads</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/best-iphone-gps-applications-our-ultimate-picks/"><u>Best iPhone GPS Applications: Our Ultimate Picks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diving-deeper-into-instagram-functions-features-and-user-experience/"><u>Diving Deeper Into Instagram: Functions, Features & User Experience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-steps-disabling-access-to-youtube-on-your-ipad/"><u>Easy Steps: Disabling Access to YouTube on Your iPad</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/executive-challenges-in-navigating-digital-shifts-c-suite-faces-25x-higher-disruption-levels-reveals-abbyy-research/"><u>Executive Challenges in Navigating Digital Shifts: C-Suite Faces 2.5X Higher Disruption Levels, Reveals ABBYY Research</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-determine-if-someone-has-read-your-gmail-messages-a-step-by-step-tutorial/"><u>How to Determine If Someone Has Read Your Gmail Messages: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-capture-and-replay-top-tools-to-secure-every-web-moment/"><u>In 2024, Capture & Replay Top Tools to Secure Every Web Moment</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-realme-narzo-n53-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Realme Narzo N53 to New Phone | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-unveiling-the-wealth-route-in-periscope-streaming/"><u>In 2024, Unveiling the Wealth Route in Periscope Streaming</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/professional-audit-chatgpts-ai-precision-examined/"><u>Professional Audit: ChatGPT's AI Precision Examined</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-basics-of-ray-tracing-in-computer-graphics-a-complete-overview/"><u>The Basics of Ray Tracing in Computer Graphics – A Complete Overview</u></a></li>
+</ul></div>
 

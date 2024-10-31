@@ -1,7 +1,7 @@
 ---
 title: Why I'm Loyal to My Apple Watch Series 7 Over the New Series 10 - Insights From a Tech Expert on ZDNet
-date: 2024-10-19T05:55:59.660Z
-updated: 2024-10-24T23:44:19.542Z
+date: 2024-10-28T03:54:14.665Z
+updated: 2024-10-31T01:36:54.764Z
 tags:
   - apple
 categories:
@@ -39,10 +39,10 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Uncertainty around on-device performance
@@ -56,10 +56,10 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
@@ -81,10 +81,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
@@ -129,21 +129,24 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/updated-crafting-visual-stories-the-art-of-using-gopro-for-time-lapses/"><u>[Updated] Crafting Visual Stories The Art of Using GoPro for Time-Lapses</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-top-7-nft-generating-marvels-for-modern-digital-artists-needs/"><u>[Updated] Top 7 NFT-Generating Marvels for Modern Digital Artists' Needs</u></a></li>
-<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-honor-70-lite-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Honor 70 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/webpgif-8/"><u>無料でWebPをGIFに変更! - ベストなコンバーターサイトランキング上位8選</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/embrace-the-future-with-apple-discover-what-youre-losing-by-ignoring-the-upgrade-to-iphone-15-zdnet-exclusive/"><u>Embrace the Future with Apple: Discover What You're Losing by Ignoring the Upgrade to iPhone 15 | ZDNet Exclusive</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/galactic-rise-in-tech-innovations-how-googles-legal-battles-and-samsungs-ai-drive-rankings-on-the-innovation-scoreboard/"><u>Galactic Rise in Tech Innovations: How Google’s Legal Battles & Samsung’s AI Drive Rankings on the Innovation Scoreboard</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/gamify-your-wallet-seek-out-ibuypowers-memorable-memorial-offers-on-new-gaming-pc-treasures-this-weekend/"><u>Gamify Your Wallet: Seek Out iBUYPOWER's Memorable Memorial Offers on New Gaming PC Treasures This Weekend</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/get-your-anime-fix-securely-download-episodes-from-animeseason/"><u>Get Your Anime Fix: Securely Download Episodes From AnimeSeason</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/guide-effortlessly-recover-chosen-information-from-your-iphone/"><u>Guide: Effortlessly Recover Chosen Information From Your iPhone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-score-a-dollar-deal-iphone-15-pro-max-available-at-just-pennies-more-on-amazon-insider-tips/"><u>How to Score a Dollar-Deal: IPhone 15 Pro Max Available at Just Pennies More on Amazon - Insider Tips!</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-vivo-s17-pro-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Vivo S17 Pro to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-from-amateur-to-expert-crafting-professional-gopro-content/"><u>In 2024, From Amateur to Expert Crafting Professional Gopro Content</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-learn-the-art-of-video-to-animation-stepwise-guide-for-efficient-gif-creation/"><u>In 2024, Learn The Art Of Video to Animation Stepwise Guide for Efficient Gif Creation</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/order-matters-a-step-by-step-list-for-watching-the-james-bond-series/"><u>Order Matters! A Step-By-Step List for Watching the James Bond Series</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-tips-and-advice-selecting-a-school-appropriate-computer-a-complete-how-to-guide/"><u>Top Tips and Advice: Selecting a School-Appropriate Computer - A Complete How-To Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlocking-potential-how-macos-15-upgrades-boost-performance-on-your-apple-macbook-insights-from-zdnet/"><u>Unlocking Potential: How macOS 15 Upgrades Boost Performance on Your Apple MacBook | Insights From ZDNet</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-trim-videos-with-flair-in-windows-11-photo-apps/"><u>[New] In 2024, Trim Videos with Flair in Windows 11 Photo Apps</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-leveraging-lut-technology-in-adobe-premiere/"><u>[New] Leveraging LUT Technology in Adobe Premiere</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-engaging-video-summaries-for-books-for-2024/"><u>[Updated] Engaging Video Summaries for Books for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-staying-up-to-date-saving-mov-videos-with-the-six-smartest-strategies-in-win-11/"><u>[Updated] In 2024, Staying Up-to-Date Saving .MOV Videos with the Six Smartest Strategies in Win 11</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-unraveling-the-mechanics-auto-play-yourtube-videos-on-fb-platform-for-2024/"><u>[Updated] Unraveling the Mechanics Auto-Play YourTube Videos on FB Platform for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/brother-hl-l2370dw-drivers-free-download-and-latest-version-update/"><u>Brother HL-L2370DW Drivers: Free Download and Latest Version Update</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-4-gratis-online-calendar-tools-available/"><u>Discover the Best 4 Gratis Online Calendar Tools Available</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-advice-correcting-the-problem-of-absent-ksuserdll-file/"><u>Expert Advice: Correcting the Problem of Absent ksuser.dll File</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/expert-advice-top-6-solutions-to-increase-game-speed-on-escape-from-tarkov/"><u>Expert Advice: Top 6 Solutions to Increase Game Speed on Escape From Tarkov</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgotten-the-voicemail-password-of-tecno-spark-10c-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Tecno Spark 10C? Try These Fixes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/linking-apples-wireless-earbuds-with-nintendo-switch-is-it-feasible/"><u>Linking Apple's Wireless Earbuds with Nintendo Switch - Is It Feasible?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigate-the-best-literary-applications-for-bookworms/"><u>Navigate the Best Literary Applications for Bookworms</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-mystery-steps-to-get-your-roku-television-running-again/"><u>Solving the Mystery: Steps to Get Your Roku Television Running Again</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-removing-duplicate-shares-on-tiktok/"><u>Step-by-Step Guide: Removing Duplicate Shares on TikTok</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-art-of-gamers-screen-recording-on-win10/"><u>The Art of Gamers' Screen Recording on Win10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-complete-star-trek-experience-order-of-movies-for-optimal-enjoyment/"><u>The Complete Star Trek Experience: Order of Movies for Optimal Enjoyment</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-overcoming-netflix-error-nw-1-19-for-a-smooth-streaming-experience/"><u>Troubleshooting Tips: Overcoming Netflix Error NW-1-19 for a Smooth Streaming Experience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tutorial-for-compelling-windows-into-safe-mode-bootup/"><u>Tutorial for Compelling Windows Into Safe Mode Bootup</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Tecno Spark 20C | Dr.fone</u></a></li>
 </ul></div>
 

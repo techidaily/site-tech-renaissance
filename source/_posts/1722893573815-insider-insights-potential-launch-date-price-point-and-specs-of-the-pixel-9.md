@@ -1,7 +1,7 @@
 ---
 title: "Insider Insights: Potential Launch Date, Price Point & Specs of the Pixel 9"
-date: 2024-10-17T23:28:39.840Z
-updated: 2024-10-25T00:04:19.172Z
+date: 2024-10-28T16:14:16.754Z
+updated: 2024-10-30T16:31:15.564Z
 categories:
   - BestProducts
 description: "This Article Describes Insider Insights: Potential Launch Date, Price Point & Specs of the Pixel 9"
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/485101ae8f555e145174a15eda6071c25617b2b00
 
 We anticipate an August 2024 event to showcase the Pixel 9 phones.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Google Pixel 9 Price Rumors
 
  We haven't seen any rumors or leaks about what the Pixel 9 will cost. For now, we'll assume pricing will match that of the Pixel 8 lineup. However, with the addition of an XL model, we're really only able to take a guess.
@@ -54,10 +47,10 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 * **Pixel 9 Pro Fold** \- $1,799
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Pre-Order Information
@@ -75,16 +68,22 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 * **Offline location tracking** : Android 15 will introduce Google's Find My Device network for locating compatible items via Bluetooth. The Pixel 9 might be the first Google phone to be findable even when it's turned off.
 * **Satellite messaging** : The Pixel 9 is expected to be the first phone to support Android's satellite communication implementation. This feature will let you text over a satellite even if you don't have a mobile data connection.
 
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Google Pixel 9 Specs and Hardware
 
  Nothing is confirmed until Google makes it official in October. But here's what we've gathered so far from supposed leaks and rumors:  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Display
 
@@ -100,6 +99,13 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 
  The Tensor G4 will likely power all four Pixel 9 phones. This is an expected upgrade, given the Pixel 8's Tensor G3 chip.[According to Android Authority](https://www.androidauthority.com/pixel-9-sos-satellite-connectivity-3433498/) , this chip will include the more power-efficient and faster Samsung Modem 5400, which may also introduce support for satellite-based messaging.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Cameras
 
  This year's Pixels are changing up the camera bar. Compared to the Pixel 8's camera housing, it looks a bit more compact and rounded, but also flatter on the sides. It now has a small gap on either end that distinguishes it from last year's phones.
@@ -112,18 +118,18 @@ MySmartPrice
 
  At least for the Pixel 9 Pro XL, we're hearing from MySmartPrice that the triple rear cameras will include a telephoto sensor and a periscope telephoto sensor. The selfie camera hardware will likely change, too, since the Pixel 8's remained the same as the Pixel 7's; an upgrade sounds reasonable after a few years.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Battery
 
  There haven't been any details about the Pixel 9 battery yet, except that the Pixel 9 series might support the Qi2 wireless charging standard.
 
  Some evidence to support this comes from the fact that Liyu Yang, one of the board of directors at the Wireless Power Consortium (the publisher of the Qi standard) is a senior hardware engineer at Google who's[leading the design of next-gen wireless charging platforms for future Pixel products](https://www.wirelesspowerconsortium.com/blog-pages/wpc-welcomes-new-board-member/) .
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Other Specs
 
@@ -156,14 +162,20 @@ MySmartPrice
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-immersive-stories-that-keep-you-watching-within-limit/"><u>[Updated] In 2024, Immersive Stories That Keep You Watching (Within Limit)</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-securely-separating-youtube-songs-3-approaches-available-for-free-for-2024/"><u>[Updated] Securely Separating YouTube Songs 3 Approaches Available for Free for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/a-guide-to-aether-unraveling-its-identity-and-steps-for-membership/"><u>A Guide to Aether: Unraveling Its Identity & Steps for Membership</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-tips-for-fixing-non-responsive-mozilla-thunderbird-application/"><u>Expert Tips for Fixing Non-Responsive Mozilla Thunderbird Application</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Honor Play 7T | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/the-ultimate-pathway-to-advanced-hd-video-on-windows-pcs/"><u>The Ultimate Pathway to Advanced HD Video on Windows PCs</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-alternative-ways-to-power-up-your-smartphone/"><u>Ultimate Guide: Alternative Ways to Power Up Your Smartphone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-resolving-ssleay32dll-file-cannot-be-opened/"><u>Ultimate Guide: Resolving 'ssleay32.dll File Cannot Be Opened'</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Nokia C110? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-mastering-the-market-essential-youtube-finance-channels/"><u>[New] Mastering the Market Essential YouTube Finance Channels</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/chromecast-mastery-how-to-successfully-connect-and-use-your-casting-remote/"><u>Chromecast Mastery: How To Successfully Connect and Use Your Casting Remote</u></a></li>
+<li><a href="https://blog-min.techidaily.com/comprehensive-oura-ring-gen-3-assessment-unlock-advanced-health-metrics-with-ease/"><u>Comprehensive Oura Ring Gen 3 Assessment: Unlock Advanced Health Metrics with Ease</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-our-ranking-of-the-32-most-popular-free-backup-apps-reviewed/"><u>Discover the Best: Our Ranking of the 32 Most Popular Free Backup Apps Reviewed</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-vivo-y78t-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-samsung-galaxy-xcover-6-pro-tactical-edition-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Samsung Galaxy XCover 6 Pro Tactical Edition to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-audio-storytelling-in-media-production-masterclass/"><u>In 2024, Audio Storytelling in Media Production Masterclass</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-from-iphone-xs-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 From iPhone XS</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-honor-play-7t-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Honor Play 7T? Fixed | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/managing-space-on-your-smart-tv-easy-instructions-for-removing-apps-on-samsung-devices/"><u>Managing Space on Your Smart TV: Easy Instructions for Removing Apps on Samsung Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/samsungs-latest-gem-the-galaxy-z-fold-6-anticipated-launch-dates-cost-estimates-and-feature-rundown/"><u>Samsung's Latest Gem: The Galaxy Z Fold 6 - Anticipated Launch Dates, Cost Estimates, and Feature Rundown</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/seamless-deletion-of-icloud-images-without-losing-iphone-pics/"><u>Seamless Deletion of iCloud Images Without Losing iPhone Pics</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-to-fix-unavailable-mfplatdll-files/"><u>Step-by-Step Guide to Fix Unavailable mfplat.dll Files</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-is-an-rtx-graphics-card-right-for-you/"><u>The Ultimate Guide: Is an RTX Graphics Card Right for You?</u></a></li>
 </ul></div>
 

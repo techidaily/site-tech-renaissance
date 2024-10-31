@@ -1,7 +1,7 @@
 ---
 title: Personalizing Your iPhone Control Center in iOS 18? Master These Steps with Insights From ZDNET
-date: 2024-10-18T21:04:21.133Z
-updated: 2024-10-25T07:43:58.179Z
+date: 2024-10-23T18:04:43.878Z
+updated: 2024-10-30T17:18:18.702Z
 tags:
   - apple
 categories:
@@ -31,16 +31,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -48,13 +42,6 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -70,6 +57,13 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
@@ -77,10 +71,10 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -92,10 +86,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -140,19 +134,15 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-customizing-youtube-viewing-policies-for-your-content-for-2024/"><u>[New] Customizing YouTube Viewing Policies for Your Content for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-6-iphone-tools-for-erasing-unwanted-items-in-images/"><u>[New] Top 6 iPhone Tools for Erasing Unwanted Items in Images</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-the-sound-sleuths-guide-to-recording-streaming-media-for-2024/"><u>[Updated] The Sound Sleuth's Guide to Recording Streaming Media for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-troubleshooting-steps-for-msvbvm50dll-not-found-problems/"><u>Comprehensive Troubleshooting Steps for Msvbvm50.dll Not Found Problems</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/disc-masters-of-2024-high-quality-cd-players-ranked/"><u>Disc Masters of 2024: High-Quality CD Players Ranked</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/eliminating-error-message-28-in-windows-with-ease/"><u>Eliminating Error Message ^[[2]8 in Windows with Ease</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-samsung-galaxy-m14-4g-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Samsung Galaxy M14 4G Pattern Lock Screen</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/glion-dolly-electric-scooter-overview-premium-pricing-stylish-design-and-acceleration-insights/"><u>Glion Dolly Electric Scooter Overview - Premium Pricing, Stylish Design & Acceleration Insights</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-extend-your-macs-active-hours-and-avoid-unwanted-hibernation/"><u>How to Extend Your Mac's Active Hours & Avoid Unwanted Hibernation</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/integrating-source-text-or-program-logic-into-word-documents-made-easy/"><u>Integrating Source Text or Program Logic Into Word Documents Made Easy</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-tecno-pova-6-pro-5g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Tecno Pova 6 Pro 5G? Fixed | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-simplifying-the-setup-of-multiple-bluetooth-audio-devices-to-one-main-source/"><u>Step by Step: Simplifying the Setup of Multiple Bluetooth Audio Devices to One Main Source</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-ranked-security-camera-deal-arlo-pro-amoan-for-your-peace-of-mind-sale-price-only-180-zdnet/"><u>Top-Ranked Security Camera Deal: Arlo Pro Amoan for Your Peace of Mind - Sale Price Only $180 | ZDNET</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-rated-iphone-16-and-16-pro-protective-covers-2024s-ultimate-guide-by-tech-experts-zdnet/"><u>Top-Rated iPhone 16 & 16 Pro Protective Covers - 2024'S Ultimate Guide by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-cut-to-perfection-a-detailed-guide-on-youtube-short-video-making/"><u>[New] 2024 Approved Cut to Perfection A Detailed Guide on YouTube Short Video Making</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-twittify-your-snaps-seamless-tweeting-to-snapsharing-for-2024/"><u>[New] Twittify Your Snaps Seamless Tweeting-to-Snapsharing for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-top-10-igtv-channels-you-should-start-following-now-for-2024/"><u>[Updated] Top 10 IGTV Channels You Should Start Following Now for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/car-audio-woes-diagnosing-when-your-vehicles-radio-fails-unexpectedly/"><u>Car Audio Woes: Diagnosing When Your Vehicle's Radio Fails Unexpectedly</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-fixes-for-common-zoom-video-conferencing-camera-errors/"><u>Essential Fixes for Common Zoom Video Conferencing Camera Errors</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-intricacies-of-organic-light-emitting-diodes-oled-explained/"><u>Exploring the Intricacies of Organic Light-Emitting Diodes (OLED) Explained</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-14-pro-max-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone 14 Pro Max to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-how-to-upload-without-rt-video-tweets/"><u>In 2024, How to Upload Without RT Video Tweets</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pc-game-crash-during-endgame-heres-how-you-can-stop-it/"><u>PC Game Crash During Endgame? Here's How You Can Stop It!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/steps-to-sync-apple-homepod-and-televisions-seamlessly/"><u>Steps to Sync Apple HomePod and Televisions Seamlessly</u></a></li>
 </ul></div>
 

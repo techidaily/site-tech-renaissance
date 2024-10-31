@@ -1,7 +1,7 @@
 ---
 title: Call of Duty Enthusiast Guide to Overcoming the Notorious Bug #27711 in BOCW
-date: 2024-10-21T16:43:18.978Z
-updated: 2024-10-24T23:02:34.034Z
+date: 2024-10-29T05:32:45.164Z
+updated: 2024-10-30T21:31:23.099Z
 tags:
   - win11
   - win10
@@ -41,16 +41,17 @@ Don’t worry, here’re fixes may help you solve the issue.
 1. Launch the game and go to**SETTINGS** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-48-13.jpg)
 2. Click the**CONTROLS** tab.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Under the**First-Person** Camera (Controller) section, find**Show Advanced Options** and click**ON** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-48-52.jpg)
 4. In the open section, change**Response Curve** to**Raw** , and set**Horizontal Turning Bonus** and**Vertical Turning Bonus** to**0** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-50-02.jpg)
 
@@ -68,9 +69,29 @@ If you’re not using the controller, check the below settings.
 6. Set the**Static FidelityFX CAS** to**ON** and lower the Resolution Scaling.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-59-50.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Some users have reported that by disabling all the aim assist options in settings, the issue has been improved a lot.
 
 If this fix doesn’t work, move to the next one.
+
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Change the mouse setting
 
@@ -81,39 +102,19 @@ If this fix doesn’t work, move to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-46-09.jpg)
 3. Go to the**Mouse** tab, click**Additional mouse options** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-00-50.jpg)
 4. Make sure you uncheck the**Enhance pointer precision** . Click**Apply > OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-01-18.jpg)
 5. Launch the game and check.
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If it doesn’t work, move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update the device driver
@@ -147,10 +148,16 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -176,19 +183,17 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-updates.techidaily.com/download-usb-c-driver-on-windows-10/"><u>[Download] USB-C Driver on Windows 10</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-intrepid-selection-best-slow-mo-cameras/"><u>[New] In 2024, Intrepid Selection Best Slow-Mo Cameras</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-premium-mac-image-transformer/"><u>[New] Premium Mac Image Transformer</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-quick-start-to-mastering-io-screen-recording/"><u>[New] Quick Start to Mastering IO Screen Recording</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-poco-x5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Poco X5 | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apple-vision-pro-sees-limited-time-amazon-offer-deep-200-cut-will-it-stick-insights-from-zdnet/"><u>Apple Vision Pro Sees Limited-Time Amazon Offer: Deep $200 Cut - Will It Stick? Insights From ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/introducing-the-revolutionary-meta-ready-wireless-earbuds-a-leap-forward-in-audio-technology-zdnet/"><u>Introducing the Revolutionary 'Meta-Ready' Wireless Earbuds: A Leap Forward in Audio Technology | ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-meta-quest-nix-visuals-and-screencasts-with-our-top-techniques-zdnet/"><u>Mastering the Art of Meta Quest Nix Visuals and Screencasts with Our Top Techniques | ZDNET</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/perfecting-projects-a-deep-dive-into-youtube-studio-editor-for-2024/"><u>Perfecting Projects A Deep Dive Into YouTube Studio Editor for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/revolutionizing-image-recognition-how-metas-latest-ai-technology-unlocks-the-power-of-visual-data/"><u>Revolutionizing Image Recognition: How Meta's Latest AI Technology Unlocks the Power of Visual Data</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/step-by-step-tutorial-setting-up-vcenter-server-appliance-with-esxi/"><u>Step-by-Step Tutorial: Setting Up vCenter Server Appliance with ESXi</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/tech-giant-metaputs-a-stop-to-its-next-gen-quest-pro-project-calls-off-work-on-quest-pro-2-zdnet-report/"><u>Tech Giant Metaputs a Stop to Its Next-Gen Quest Pro Project, Calls Off Work on Quest Pro 2 | ZDNET Report</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-zte-axon-40-lite-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on ZTE Axon 40 Lite Device</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/vr-safety-boundaries-apples-vision-pro-falls-short-compared-to-meta-quest-headsets/"><u>VR Safety Boundaries: Apple's Vision Pro Falls Short Compared to Meta Quest Headsets</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-highlighted-are-there-limitations-to-aurora-hdrs-performance/"><u>[Updated] Highlighted Are There Limitations to Aurora HDR's Performance?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-elevating-reality-with-top-10-mobile-virtual-reality-headsets/"><u>[Updated] In 2024, Elevating Reality with Top 10 Mobile Virtual Reality Headsets</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-tomtom-bandit-camera-review-the-latest-for-2024/"><u>[Updated] TomTom Bandit Camera Review The Latest for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/benefits-of-upgrading-to-an-nvidia-rtx-card-is-it-worth-it/"><u>Benefits of Upgrading to an NVIDIA RTX Card: Is It Worth It?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/find-out-when-and-why-your-mailpress-email-might-expire/"><u>Find Out When and Why Your Mail.press Email Might Expire</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-a-silent-sirius-a-guide-for-dealing-with-unresponsive-alexa-devices/"><u>Fixing a Silent Sirius - A Guide for Dealing With Unresponsive Alexa Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-nokia-c22-by-drfone-android/"><u>How to Bypass FRP from Nokia C22?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/must-watch-animated-adventures-on-disneyplus-the-best-picks-for-kids-and-families-july-2atury/"><u>Must-Watch Animated Adventures on Disney+ – The Best Picks for Kids and Families, July 2Atury</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/synchronize-successfully-a-comprehensive-method-for-wireless-samsung-earbuds-and-laptop-integration/"><u>Synchronize Successfully: A Comprehensive Method for Wireless Samsung Earbuds and Laptop Integration</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/the-best-of-the-best-top-stop-motion-animation-software-for-mac-and-pc-for-2024/"><u>The Best of the Best Top Stop Motion Animation Software for Mac and PC for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/waterproof-wonder-the-nikon-w100-reviewed/"><u>Waterproof Wonder: The Nikon W100 Reviewed</u></a></li>
 </ul></div>
 

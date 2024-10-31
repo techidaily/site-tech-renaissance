@@ -1,7 +1,7 @@
 ---
 title: Smart Tips for Creating Pre-Scheduled SMS Alerts Directly From Your iPhone's Calendar
-date: 2024-09-08T23:32:53.831Z
-updated: 2024-09-15T22:02:53.229Z
+date: 2024-10-29T05:33:55.714Z
+updated: 2024-10-31T01:39:29.353Z
 categories:
   - BestProducts
 description: This Article Describes Smart Tips for Creating Pre-Scheduled SMS Alerts Directly From Your iPhone's Calendar
@@ -42,6 +42,13 @@ In This Article
 
 ![Foldable device illustration from patent US8929085B2](https://www.lifewire.com/thmb/wUd3t6RsFQmJnem6udFt2aVqAOw=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/US08929085-foldable-device-dcde96bb968a4de2b7048ee2ea3d4e33.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Patent US8929085B2.
 
  Another[patent filed in 2019](https://patents.google.com/patent/US20190324503A1/en?oq=20190324503) is for a device with a wrap-around display:
@@ -49,6 +56,19 @@ Patent US8929085B2.
 > In the described embodiment, the flexible display assembly is configured to present visual content at any portion of the transparent housing.
 
  Could it be worked into a foldable phone? We are eagerly waiting to see how/if they use these inventions.
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Lifewire's Release Date Estimate
 
@@ -66,13 +86,6 @@ We don’t expect a foldable iPhone until at least 2026.
 
 ![iPhone Fold concept](https://www.lifewire.com/thmb/rZm7q7oXYP54-AV8Jq5MPj1vPos=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Final_1-d0db91df8e834c7ab0aa2da0ab61b943.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 iPhone Fold concept.
 
 Michal Dufka
@@ -82,10 +95,10 @@ Michal Dufka
  It's way too early to suggest a pre-order date, but we'll keep this updated as the launch nears.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Foldable iPhone Features
@@ -124,6 +137,19 @@ Michal Dufka
 
  Bolstering the battery, processing power, and RAM will be a must to sustain multiple displays that could all independently multitask. Storage space might not change from the current iPhone lineup.
 
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The Latest News About the Foldable iPhone
 
  You can [get more smartphone news from Lifewire](https://www.lifewire.com/mobile-phone-news-4796390) . Here are some of the latest stories about foldable phones in particular:  
@@ -147,5 +173,22 @@ Michal Dufka
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/utting-edge-chapter-tactics-to-complement-your-youtube-presentations/"><u>[New] Cutting-Edge Chapter Tactics to Complement Your YouTube Presentations</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-soundcheck-evaluation/"><u>[Updated] 2024 Approved SoundCheck Evaluation</u></a></li>
+<li><a href="https://extra-information.techidaily.com/discover-the-ideal-display-elevate-your-xbox-series-x-gaming/"><u>Discover the Ideal Display - Elevate Your Xbox Series X Gaming</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exclusive-sneak-peek-into-the-elite-iphones-of-2-cuy2024-in-depth-analysis-and-ratings/"><u>Exclusive Sneak Peek Into the Elite iPhones of 2 Cuy2024: In-Depth Analysis & Ratings</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-innovative-functionalities-in-apples-new-ios-18-beta-version-your-ultimate-guide-to-whats-fresh-and-cool/"><u>Explore Innovative Functionalities in Apple's New iOS 18 Beta Version - Your Ultimate Guide to What's Fresh and Cool!</u></a></li>
+<li><a href="https://change-location.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/implications-of-dojs-lawsuit-against-apple-potential-effects-on-ios-devices-and-app-creators-explored/"><u>Implications of DOJ's Lawsuit Against Apple: Potential Effects on iOS Devices & App Creators Explored</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-initial-trial-ideal-accessories-to-boost-your-gopro-footage/"><u>In 2024, Initial Trial Ideal Accessories to Boost Your GoPro Footage</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-the-finest-11-streaming-sound-recorders/"><u>In 2024, The Finest 11 Streaming Sound Recorders</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-head-to-head-comparison-sony-vegas-vs-adobe-premiere-pro-for-video-editors/"><u>New In 2024, Head-to-Head Comparison Sony Vegas vs Adobe Premiere Pro for Video Editors</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/serene-gaming-selection-quietest-phone-apps/"><u>Serene Gaming Selection Quietest Phone Apps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-essential-ai-traits-apple-must-embrace-to-challenge-the-dominance-of-openai-and-google-tech-perspectives/"><u>The Essential AI Traits Apple Must Embrace to Challenge the Dominance of OpenAI and Google | Tech Perspectives</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-significance-of-ipad-pros-new-screen-tech-what-tandem-oled-means-for-future-devices/"><u>The Significance of iPad Pro's New Screen Tech: What Tandem OLED Means for Future Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-reasons-to-stick-with-your-iphone-14-instead-of-upgrading-to-iphone-16-pro-a-deep-dive-by-zdnet/"><u>Top Reasons to Stick with Your iPhone 14 Instead of Upgrading to iPhone 16 Pro - A Deep Dive by ZDNET</u></a></li>
+</ul></div>
 

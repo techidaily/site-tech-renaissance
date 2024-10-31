@@ -1,7 +1,7 @@
 ---
 title: "Exploring New Features and Upgrades in Apple’s Glowtime Event: AI Enhancements, Apple Watch Series 10, AirPods Revamp | ZDNET"
-date: 2024-10-19T00:03:20.995Z
-updated: 2024-10-24T21:18:31.386Z
+date: 2024-10-25T17:07:45.936Z
+updated: 2024-10-31T01:39:26.461Z
 tags:
   - apple
 categories:
@@ -61,10 +61,10 @@ The camera system has also been upgraded on the Pro line, featuring a new 48MP F
 The iPhone 16 Pro and iPhone 16 Pro Max are available for preorder on September 13 at $999 and $1,099 respectively, starting at 128GB of storage. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Apple Watch Series 10
@@ -88,10 +88,16 @@ Alongside the Watch Series 10, Apple announced a new satin black finish for its 
 Apple also launched an array of new watch bands, including new offerings from Hermes and Nike Sport Loop. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. AirPods 4
@@ -119,10 +125,10 @@ Lastly, Apple announced new hearing health features for AirPods Pro 2 coming thi
 These features will be available in the fall for AirPods Pro 2 via the software update when paired with an iPhone running on iOS 18 or iPad running on iPadOS 18\. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Apple Intelligence updates
@@ -140,10 +146,10 @@ The biggest highlight was the launch of Visual Intelligence, Apple's answer to G
 Users who purchase a device from the new iPhone 16 lineup will be able to access Visual Intelligence from the new Camera Control option "later this year," according to Apple, though the company did not clarify an exact launch date. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Everything to know about iOS 18
@@ -192,18 +198,21 @@ ZDNET is at Apple headquarters in Cupertino now, so stay tuned for the latest ne
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-gimp-ultimate-editing-course-review/"><u>[New] 2024 Approved GIMP Ultimate Editing Course Review</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-learn-to-quickly-cut-videos-using-built-in-windows-features/"><u>2024 Approved Learn to Quickly Cut Videos Using Built-In Windows Features</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apple-introduces-vision-pro-with-preloaded-microsoft-365-tools-enhancing-productivity-from-day-one-zdnet-report/"><u>Apple Introduces Vision Pro with Preloaded Microsoft 365 Tools, Enhancing Productivity From Day One | ZDNet Report</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/breakthrough-invention-by-local-scientists-a-revolutionary-glove-for-advanced-virtual-touch-experience-as-reported-on-zdnet/"><u>Breakthrough Invention by Local Scientists: A Revolutionary Glove for Advanced Virtual Touch Experience, as Reported on ZDNet</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/dslr-or-mirrorless-the-ultimate-question-for-videographers/"><u>DSLR or Mirrorless? The Ultimate Question for Videographers</u></a></li>
-<li><a href="https://article-helps.techidaily.com/exploring-top-9-iphone-applications-for-adding-photo-water-marks-for-2024/"><u>Exploring Top 9 iPhone Applications for Adding Photo Water Marks for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/from-ar-goggles-to-advanced-xr-solutions-google-pivots-strategy-away-from-hardware-towards-innovative-software-development/"><u>From AR Goggles to Advanced XR Solutions: Google Pivots Strategy Away From Hardware Towards Innovative Software Development</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-could-apples-latest-vrar-headset-revolutionize-our-online-journeys-expert-predictions-on-enhanced-internet-interactions/"><u>How Could Apple's Latest VR/AR Headset Revolutionize Our Online Journeys? | Expert Predictions on Enhanced Internet Interactions</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-tecno-phantom-v-fold-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Tecno Phantom V Fold FRP Without Computer</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/sharpening-screen-views-for-improved-virtual-interactions/"><u>Sharpening Screen Views for Improved Virtual Interactions</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/simplify-your-network-with-google-wifi-a-user-friendly-review-on-wireless-mesh-technology/"><u>Simplify Your Network with Google WiFi: A User-Friendly Review on Wireless Mesh Technology</u></a></li>
-<li><a href="https://video-capture.techidaily.com/sound-studio-everything-about-the-sound-recording-studio-mac/"><u>Sound Studio - Everything About the Sound Recording Studio Mac</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-key-discoveries-in-the-apple-vision-pro-disassembly-by-ifixit-detailed-report-on-zdnet/"><u>Unveiling Key Discoveries in the Apple Vision Pro Disassembly by iFixit | Detailed Report on ZDNET</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-confirmation-techniques-for-youtube-accounts-for-2024/"><u>[New] Confirmation Techniques for Youtube Accounts for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-precise-codex-of-conduct-in-the-digital-realm/"><u>2024 Approved Precise Codex of Conduct in the Digital Realm</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ace-your-productivity-learn-the-top-18-ios-shortcut-app-tricks-to-streamline-tasks/"><u>Ace Your Productivity: Learn the Top 18 iOS Shortcut App Tricks to Streamline Tasks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/affordable-alternatives-the-best-10-free-streaming-platforms-like-netflix/"><u>Affordable Alternatives: The Best 10 Free Streaming Platforms Like Netflix</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-solving-the-problem-with-a-defective-front-speaker-jack/"><u>Diagnosing and Solving the Problem with a Defective Front Speaker Jack</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-tecno-pop-8-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Tecno Pop 8 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-your-system-the-msvcr70dll-couldnt-be-found-dilemma/"><u>Fixing Your System: The MSVCR70.DLL Couldn't Be Found Dilemma</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/going-off-the-grid-your-complete-guide-to-wireless-internet-solutions/"><u>Going Off the Grid? Your Complete Guide to Wireless Internet Solutions</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-no-watermark-video-merger-tools-our-top-7-picks/"><u>New 2024 Approved No-Watermark Video Merger Tools Our Top 7 Picks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/plating-aesthetics-capturing-delectable-dishes-on-screen/"><u>Plating Aesthetics Capturing Delectable Dishes on Screen</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solution-guide-what-to-do-when-your-roku-tv-refuses-to-boot-up/"><u>Solution Guide: What to Do When Your Roku TV Refuses to Boot Up</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tap-into-easy-payments-the-ultimate-guide-to-setting-up-and-using-apple-pay-on-an-apple-watch/"><u>Tap Into Easy Payments: The Ultimate Guide to Setting Up and Using Apple Pay on an Apple Watch</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-technology-forum-decoding-the-wonders-of-modern-computer-hardware/"><u>Tom's Technology Forum: Decoding the Wonders of Modern Computer Hardware</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-6-choice-off-the-grid-language-conversion-tools/"><u>Top 6 Choice Off-the-Grid Language Conversion Tools</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-for-when-d3dx940dll-cannot-be-located/"><u>Troubleshooting Steps for When d3dx9_40.dll Cannot Be Located</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upcoming-foldable-iphones-unveiled-pricing-launch-timeline-and-features-revealed/"><u>Upcoming Foldable iPhones Unveiled: Pricing, Launch Timeline & Features Revealed</u></a></li>
 </ul></div>
 

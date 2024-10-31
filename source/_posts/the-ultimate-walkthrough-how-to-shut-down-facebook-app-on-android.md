@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Walkthrough: How to Shut Down Facebook App on Android"
-date: 2024-10-20T04:22:07.389Z
-updated: 2024-10-25T09:54:40.258Z
+date: 2024-10-30T00:17:57.015Z
+updated: 2024-10-30T22:32:00.417Z
 categories:
   - BestProducts
 description: "This Article Describes The Ultimate Walkthrough: How to Shut Down Facebook App on Android"
@@ -23,13 +23,6 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 
  This article explains how to prevent your MacBook from sleeping when the lid is closed.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Keep Your MacBook On When Closed
 
  You'll need to change a few settings to stop your MacBook from going to sleep with the lid closed.  
@@ -39,34 +32,51 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 2. Click**Lock Screen** , then select the menu next to**Turn display off on power adapter when inactive** . Pick**Never** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Never chosen in the Lock Screen settings on a MacBook](https://www.lifewire.com/thmb/WGYons73UuXIODOh3ULyu4XYico=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macbook-never-turn-display-off-e1e0548dce774a84b6993fc70ed6d0ff.png)  
  If you don't see that option, go to**Battery** \>**Power Adapter** instead, then select the slider and move it to**Never** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Power Adapter highlighted in MacBook battery settings.](https://www.lifewire.com/thmb/5fyup25_ft7wTwiyCcWz7UeWulA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_prevent-macbook-from-sleeping-when-lid-is-closed-5203069-1f901024bdd54206baa2bd00c8544065.jpg)
 3. Click**Battery** from the menu, then choose**Options** . Switch on the toggle next to **Prevent automatic sleeping on power adapter when the display is off** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The prevent automatic sleeping on power adapter option toggled on for a MacBook](https://www.lifewire.com/thmb/TdcjINJG4V-giAXqHylO_KVorlQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macbook-prevent-automatic-sleeping-f9b2e9316b674a2090717f4e035ca9b8.png)  
  In some versions of macOS, this option is in the**Power Adapter** menu and it's called **Prevent computer from sleeping automatically when the display is off** .  
 
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The prevent computer from sleeping checkbox highlighted in MacBook battery settings.](https://www.lifewire.com/thmb/RFati3T9B0Vn3TUJFCgh9KBh2aU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_prevent-macbook-from-sleeping-when-lid-is-closed-5203069-17e72f1f27a841a2b500dee73546c20d.jpg)
 4. Plug your MacBook into power.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Connect your MacBook to an external monitor using an adapter if necessary.
 6. You can now close your MacBook without the external display turning off. Note that the display on the MacBook itself does turn off, just not the external monitor.
 
@@ -77,13 +87,6 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
  Your MacBook sleeps when you close the lid for several reasons, depending on whether it's plugged in. When plugged in, it sleeps to help conserve energy and allow it to charge more quickly, as it uses much less power while asleep. When running on battery power, it sleeps when you close the lid to conserve battery power. Since you typically don't need to use your MacBook when the lid is closed, the default setting is for the display to turn off and the MacBook to sleep whenever the lid is closed.
 
  The most common reason to want to keep a MacBook from sleeping when the lid is closed is if you're going to use it with an external monitor and keyboard. Apple makes that reasonably easy if you follow the instructions provided in the previous section.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Can You Keep a MacBook From Sleeping With the Lid Closed Without a Monitor?
 
@@ -129,17 +132,16 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-unveiling-the-top-8-instagram-ae-design-choices/"><u>[New] Unveiling the Top 8 Instagram AE Design Choices</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apples-latest-leap-analyzing-how-the-m3-silicon-surpasses-m1-and-m2-in-performance-metrics-including-gpu-and-transistor-count-techinsights/"><u>Apple's Latest Leap: Analyzing How the M3 Silicon Surpasses M1 & M2 in Performance Metrics, Including GPU & Transistor Count | TechInsights</u></a></li>
-<li><a href="https://driver-install.techidaily.com/configure-mx870-drivers-on-windows-78-systems/"><u>Configure MX870 Drivers on Windows 7/8 Systems</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/6-best-youtube-to-mp3-downloader-for-android/"><u>FREE 6 Best YouTube to MP3 Downloader for Android</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-migrate-your-memories-effortlessly-shifting-pictures-from-google-photos-to-icloud-with-ease-zdnet/"><u>How to Migrate Your Memories Effortlessly: Shifting Pictures From Google Photos to iCloud with Ease | ZDNET</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-expert-tips-on-mastering-facetime-call-documentation-techniques/"><u>In 2024, Expert Tips on Mastering FaceTime Call Documentation Techniques</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/is-it-worth-the-investment-a-comprehensive-review-of-the-microsoft-surface-studio-2/"><u>Is It Worth the Investment? A Comprehensive Review of the Microsoft Surface Studio 2</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-iphone-12-and-pro-protective-covers-expert-picks-by-zdnet/"><u>Top-Rated iPhone 12 & Pro Protective Covers - Expert Picks by ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-and-repairing-the-dreaded-code-31-malfunction-in-windows/"><u>Troubleshooting and Repairing the Dreaded Code 31 Malfunction in Windows</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/ultimate-guide-resolving-no-internet-connection-secured-issues-in-windows/"><u>Ultimate Guide: Resolving 'No Internet Connection (Secured)' Issues in Windows</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlock-full-potential-seamlessly-combine-oura-tracking-and-strava-data-for-optimal-fitness-insights-tutorial/"><u>Unlock Full Potential: Seamlessly Combine Oura Tracking and Strava Data for Optimal Fitness Insights | Tutorial</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/updated-easy-tutorial-how-to-record-and-send-talking-emoji-for-iphone/"><u>Updated Easy Tutorial How to Record and Send Talking Emoji for iPhone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-master-earning-plan-top-5-highest-paying-ig-posts/"><u>[New] 2024 Approved Master Earning Plan Top 5 Highest Paying IG Posts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-time-saving-steps-for-documenting-your-google-voice-talks/"><u>[New] 2024 Approved Time-Saving Steps for Documenting Your Google Voice Talks</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-best-way-to-perform-obs-streaming-for-2024/"><u>[New] Best Way to Perform OBS Streaming for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/colorful-organization-on-the-mac-learn-to-change-folder-colors-today/"><u>Colorful Organization on the Mac: Learn to Change Folder Colors Today!</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-solutions-for-dealing-with-no-startup-location-on-fortnite-get-back-into-battle-asap/"><u>Expert Solutions for Dealing with No Startup Location on Fortnite - Get Back Into Battle ASAP!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-blue-screen-of-death-strategies-for-nospinlockavailable-errors/"><u>Fixing Blue Screen of Death: Strategies for NO_SPIN_LOCK_AVAILABLE Errors</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-archive-your-interactive-discussions-with-ai/"><u>How to Archive Your Interactive Discussions with AI</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-quickly-solve-the-xlivedll-is-absent-or-cannot-be-found-problem/"><u>How to Quickly Solve the xlive.dll Is Absent or Cannot Be Found Problem ✅</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-digital-dream-team-best-screen-capture-software-online/"><u>In 2024, Digital Dream Team Best Screen Capture Software Online</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Vivo Y100i Power 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-activating-two-layer-verification-on-apples-icloud-email-service/"><u>Step by Step: Activating Two-Layer Verification on Apple's iCloud Email Service</u></a></li>
 </ul></div>
 

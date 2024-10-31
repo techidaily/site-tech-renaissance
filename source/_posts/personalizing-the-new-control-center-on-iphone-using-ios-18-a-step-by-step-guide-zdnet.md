@@ -1,7 +1,7 @@
 ---
 title: "Personalizing the New Control Center on iPhone Using iOS 18: A Step-by-Step Guide - ZDNet"
-date: 2024-10-22T03:14:45.840Z
-updated: 2024-10-25T00:44:23.680Z
+date: 2024-10-27T19:40:23.603Z
+updated: 2024-10-30T18:42:41.225Z
 tags:
   - apple
 categories:
@@ -30,6 +30,13 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
@@ -44,18 +51,18 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Delete a control
 
@@ -64,10 +71,10 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -78,13 +85,6 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
@@ -92,16 +92,10 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -140,19 +134,16 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-perfect-podcast-summaries-strategies-and-case-studies/"><u>[New] 2024 Approved Perfect Podcast Summaries Strategies & Case Studies</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-handheld-vr-camera-stability-enhancer/"><u>[Updated] 2024 Approved Handheld VR Camera Stability Enhancer</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-aperture-allstars-the-best-camera-lenses-to-capture-the-moment-ranked-1-10/"><u>2024 Approved Aperture Allstars The Best Camera Lenses to Capture the Moment, Ranked #1-10</u></a></li>
-<li><a href="https://facebook.techidaily.com/accelerating-friend-finding-in-messaging-platforms/"><u>Accelerating Friend-Finding in Messaging Platforms</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/hesitate-before-getting-iphone-16-explore-if-apples-ingenuity-measures-up/"><u>Hesitate Before Getting iPhone 16? Explore if Apple’s Ingenuity Measures Up!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-get-the-sony-wh-1000xm34-microphone-working-on-your-computer-system/"><u>How to Get the Sony WH-1000XM3/4 Microphone Working on Your Computer System</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/important-considerations-to-make-before-investing-in-an-electric-car/"><u>Important Considerations to Make Before Investing in an Electric Car</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Tecno Pop 7 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/in-depth-analysis-of-apples-latest-airpods-pro-gen-3-spotlight-on-key-enhancements-a-detailed-review/"><u>In-Depth Analysis of Apple's Latest AirPods Pro (Gen 3): Spotlight on Key Enhancements - A Detailed Review</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/is-the-new-iphone-16-worth-it-expert-advice-on-why-to-embrace-or-avoid-the-upgrade-zdnet-analysis/"><u>Is the New iPhone 16 Worth It? Expert Advice on Why to Embrace or Avoid the Upgrade | ZDNET Analysis</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/magical-on-device-image-creation-with-apples-latest-ai-tool-surpasses-dall-e-discover-the-next-generation-of-visual-tech/"><u>Magical On-Device Image Creation with Apple's Latest AI Tool Surpasses DALL-E: Discover the Next Generation of Visual Tech</u></a></li>
-<li><a href="https://driver-install.techidaily.com/make-universal-adb-download-a-breeze-today/"><u>Make Universal ADB Download a Breeze Today!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-ranking-mini-tablets-professional-evaluations-and-comprehensive-reviews/"><u>Top-Ranking Mini Tablets : Professional Evaluations & Comprehensive Reviews</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/what-dialect-is-official-in-israel/"><u>What Dialect Is Official in Israel?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-instagrams-creative-toolkit-applying-effects-on-existing-content-for-2024/"><u>[New] Instagram's Creative Toolkit Applying Effects on Existing Content for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-spotify-turning-off-automatic-podcast-recommendations/"><u>[New] Spotify Turning Off Automatic Podcast Recommendations</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-unleash-the-power-of-stories-free-online-and-mobile-solutions/"><u>[Updated] Unleash the Power of Stories – Free, Online & Mobile Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722874071792-add-a-splash-of-personality-to-your-mac-learn-to-change-folder-colors-today/"><u>Add a Splash of Personality to Your Mac: Learn to Change Folder Colors Today</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-history-of-googles-messaging-and-video-call-platform-hangouts/"><u>Exploring the History of Google's Messaging and Video Call Platform: Hangouts</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-from-bargain-hunting-to-video-glamour-editing-insights-for-hauls/"><u>In 2024, From Bargain Hunting to Video Glamour Editing Insights for Hauls</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-motorola-razr-40-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Motorola Razr 40 Lock Screen Password</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/inside-the-apple-watch-ultra-2-leak-release-dates-price-forecasts-and-cutting-edge-technology-sneak-peek/"><u>Inside the Apple Watch Ultra 2 Leak: Release Dates, Price Forecasts, and Cutting-Edge Technology Sneak Peek</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/rumors-unfurl-on-googles-latest-gadget-the-pixel-fold-2-with-predicted-price-release-date-and-features-to-watch-for/"><u>Rumors Unfurl on Google's Latest Gadget: The Pixel Fold 2 with Predicted Price, Release Date and Features to Watch For</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unbeatable-amazon-prime-day-discounts-get-the-new-echo-spot-for-your-home-at-a-whopping-40-off-as-featured-by-zdnet/"><u>Unbeatable Amazon Prime Day Discounts: Get the New Echo Spot for Your Home at a Whopping 40% Off, As Featured by ZDNet</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-todays-most-popular-platforms-a-deep-dive-into-facebook-twitter-instagram-and-youtube/"><u>Understanding Today's Most Popular Platforms: A Deep Dive Into Facebook, Twitter, Instagram & YouTube</u></a></li>
 </ul></div>
 

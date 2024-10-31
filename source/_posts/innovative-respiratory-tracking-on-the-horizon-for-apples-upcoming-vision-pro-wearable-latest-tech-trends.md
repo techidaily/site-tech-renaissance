@@ -1,7 +1,7 @@
 ---
 title: Innovative Respiratory Tracking on the Horizon for Apple's Upcoming Vision Pro Wearable | Latest Tech Trends
-date: 2024-10-19T20:39:43.504Z
-updated: 2024-10-24T17:52:56.812Z
+date: 2024-10-27T00:59:53.725Z
+updated: 2024-10-31T03:13:14.010Z
 tags:
   - apple
 categories:
@@ -35,10 +35,10 @@ Here's a look at what's new for the 6th generation iPad Air.
 First up, [Apple is introducing](https://www.apple.com/ipad-air/) an all-new bigger size. While previous versions of the [iPad Air](https://www.zdnet.com/article/best-ipad/) only had a single size to choose from, this year's edition has an 11-inch size and a 13-inch size – the larger one giving you 30% more screen to work with. It makes the iPad slightly less portable, but the added real estate will certainly be worth the tradeoff for some.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. An M2 chip for enhanced performance
@@ -60,10 +60,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. New placement for the front camera
@@ -71,10 +71,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 It may seem minor, but the front-facing camera of the latest iPad Air is in a new spot. It's now on the landscape edge, moved from the portrait edge. Previously, you had to use the iPad in portrait mode on a video call as moving it to landscape mode distorted the picture. Now, video calls will look exactly as they do on a laptop.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Bigger base storage
@@ -115,14 +115,22 @@ The iPad Air 6 will begin shipping next week at a starting price of [$599 for th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-from-standard-definition-to-high-dynamic-range-mastery/"><u>[Updated] From Standard Definition to High Dynamic Range Mastery</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtube-stardom-made-easy-essential-editing-strategies-explored/"><u>2024 Approved YouTube Stardom Made Easy Essential Editing Strategies Explored</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-infinix-hot-30i-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Infinix Hot 30i</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/boosting-email-safety-a-simple-way-to-turn-on-gmail-2fa/"><u>Boosting Email Safety: A Simple Way to Turn On Gmail 2FA</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/diy-fix-putting-back-that-lost-key-on-your-laptop-keyscape/"><u>DIY Fix: Putting Back That Lost Key on Your Laptop Keyscape</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-6-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 6 Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/mastering-flight-a-look-at-dji-phantom-3-professional/"><u>Mastering Flight A Look at DJI Phantom 3 Professional</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-in-depth-breakdown-of-level-1-vs-level-2-vs-level-3-ev-charging-explained/"><u>The In-Depth Breakdown of LEVEL 1 Vs. LEVEL 2 Vs. LEVEL 3 EV Charging Explained</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-solution-to-the-mfc4ndll-could-not-be-loaded-problem/"><u>The Ultimate Solution to the 'mfc4n.dll Could Not Be Loaded' Problem</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-free-online-video-editors-for-youtube/"><u>[New] 2024 Approved Free Online Video Editors for YouTube</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-tips-and-tricks-for-joining-friends-live-on-tiktok/"><u>[New] 2024 Approved Tips & Tricks for Joining Friends' LIVE on TikTok</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-rhythm-raiders-your-guide-to-downloading-skype-melodies/"><u>[New] Rhythm Raiders Your Guide to Downloading Skype Melodies</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-hidden-layers-of-personal-information/"><u>[Updated] 2024 Approved Hidden Layers of Personal Information</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-the-ultimate-guide-to-professional-screen-capture-using-adobe-captive-software/"><u>[Updated] In 2024, The Ultimate Guide to Professional Screen Capture Using Adobe Captive Software</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2023s-facebook-video-grabber-windowsmacosandroid-for-2024/"><u>2023'S Facebook Video Grabber Windows/macOS/Android for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/adopting-innovative-approaches-to-elevate-your-fb-campaigns/"><u>Adopting Innovative Approaches to Elevate Your FB Campaigns</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/che-cose-un-codec-esplorazione-approfondita-della-definizione-e-delluso-in-tecnologia/"><u>Che Cos'è Un Codec? Esplorazione Approfondita Della Definizione E Dell'uso in Tecnologia</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-solutions-for-restoring-wi-fi-access-on-surface-pro-devices/"><u>Effective Solutions for Restoring Wi-Fi Access on Surface Pro Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-access-archived-messages-and-notifications-on-an-iphone/"><u>How to Access Archived Messages and Notifications on an iPhone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/multiple-youtube-channels-is-it-possible-to-manage-several-on-the-platform/"><u>Multiple YouTube Channels: Is It Possible To Manage Several On The Platform?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigate-through-online-fax-alternatives-with-our-picks-of-7-free-options/"><u>Navigate Through Online Fax Alternatives with Our Picks of 7 Free Options</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solutions-to-fix-straighten-perceived-horizontal-anomalies-in-display-outputs/"><u>Solutions to Fix Straighten Perceived Horizontal Anomalies in Display Outputs</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-zte-axon-40-lite-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track ZTE Axon 40 Lite Location | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-resolving-issues-with-netflix-streaming-on-your-roku-device/"><u>Troubleshooting Tips: Resolving Issues with Netflix Streaming on Your Roku Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-ranking-the-finest-modem-and-router-packages/"><u>Ultimate Ranking: The Finest Modem and Router Packages</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-electric-vehicle-varieties-how-do-evs-bevs-phevs-and-fcevs-compare-to-hybrids/"><u>Understanding Electric Vehicle Varieties: How Do EVs, BEVs, PHEVs and FCEVs Compare to Hybrids?</u></a></li>
 </ul></div>
 

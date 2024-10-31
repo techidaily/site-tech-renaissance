@@ -1,7 +1,7 @@
 ---
 title: Transform Your Email Experience with a Single Trick - Say Goodbye to Messy Inboxes, Avoid Cumbersome Rules and Forget About Using Multiple Accounts | ZDNET
-date: 2024-10-24T04:44:43.078Z
-updated: 2024-10-25T04:12:06.795Z
+date: 2024-10-24T22:10:55.409Z
+updated: 2024-10-30T19:08:14.982Z
 tags:
   - apple
 categories:
@@ -61,10 +61,10 @@ Don't confuse aliases with forwarded accounts, which allow you to send and recei
 The following instructions apply to personal accounts you manage yourself. If you have a commercial email account (through Microsoft 365 or Google Workspace, for example), you can have aliases for your account using your organization's custom domain, but you'll need an administrator's help to set up those aliases.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create an alias using Gmail
@@ -76,10 +76,10 @@ Although it's the world's most popular email service, Gmail's implementation of 
 The problem with this sort of alias is that it doesn't keep an unscrupulous sender from seeing your primary address, so be cautious when using it with untrusted correspondents.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create an alias using Outlook.com
@@ -93,10 +93,10 @@ To get started, go to <https://account.microsoft.com>, sign in with your Microso
 You can add new aliases at any time (up to the limit of 10) or remove an existing alias from the Account Aliases page described earlier.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create an alias using your Apple ID
@@ -110,16 +110,10 @@ The one catch is that each alias uses an auto-generated name that can be less th
 To create an iCloud alias on an iOS device, open Settings, tap your account name, then tap iCloud > Hide My Email. (On a MacBook, use the Apple menu to open System Settings, where you'll find the Hide My Email option.) Tap Create New Address and follow the prompts to add a label and an optional note. Use the Forward To button to select where you want to receive email sent to that alias.
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Other alias options
@@ -160,17 +154,20 @@ You can also use privacy add-ins that include email-masking features. [NordPass 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-7-top-ranked-apps-for-horizontal-and-vertical-igtv-editing/"><u>[New] 2024 Approved 7 Top-Ranked Apps for Horizontal and Vertical IGTV Editing</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apples-big-reveals-at-wwdc-insights-into-ai-innovations-siri-enhancements-and-ios-18-launch-technews/"><u>Apple's Big Reveals at WWDC: Insights Into AI Innovations, Siri Enhancements & iOS 18 Launch | TechNews</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-fix-for-missing-desktop-icons-on-microsofts-latest-os/"><u>Comprehensive Fix for Missing Desktop Icons on Microsoft's Latest OS</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/get-instant-access-to-macos-15-sequoia-beta-version-and-easy-setup-walkthrough-for-users-with-a-macbook-or-any-mac-model-quick-guide/"><u>Get Instant Access to MacOS 15 Sequoia Beta Version & Easy Setup Walkthrough for Users with a MacBook or Any Mac Model Quick Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-find-the-best-computer-setup-for-students-and-schoolwork/"><u>How to Find the Best Computer Setup for Students and Schoolwork</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-vivo-y28-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Vivo Y28 5G to New Phone | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/inside-the-world-of-grok-ai-understanding-purpose-and-pricing-from-elon-musk/"><u>Inside the World of Grok AI - Understanding Purpose & Pricing From Elon Musk</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/own-the-latest-from-apples-wwdc-today-discover-top-picks-and-preorder-details-with-zdnets-exclusive-guide/"><u>Own the Latest From Apple's WWDC Today! Discover Top Picks and Preorder Details with ZDNet's Exclusive Guide</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/perfecting-self-portraits-iphones-burst-capability-for-2024/"><u>Perfecting Self-Portraits IPhone's Burst Capability for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/securing-your-privacy-unveiling-apples-methods-to-protect-your-ai-powered-cloud-data-insights-from-zdnet/"><u>Securing Your Privacy: Unveiling Apple's Methods to Protect Your AI-Powered Cloud Data - Insights From ZDNet</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/simplified-techniques-for-reordering-yt-videos-for-2024/"><u>Simplified Techniques for Reordering YT Videos for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-from-long-to-short-a-simple-guide-to-splitting-videos-in-windows-live-movie-maker-for-2024/"><u>Updated From Long to Short A Simple Guide to Splitting Videos in Windows Live Movie Maker for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-meme-ology-the-science-of-popularizing-video-laughs-on-social-platforms/"><u>[New] 2024 Approved Meme-Ology The Science of Popularizing Video Laughs on Social Platforms</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-audio-enhancement-strategies-using-premiere-pro/"><u>[Updated] 2024 Approved Audio Enhancement Strategies Using Premiere Pro</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-connect-your-apple-device-to-wi-fi-here-are-8-proven-methods/"><u>Can't Connect Your Apple Device to Wi-Fi? Here Are 8 Proven Methods</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/dominate-apple-tv-secrets-to-skyrocketing-success/"><u>Dominate Apple TV - Secrets to Skyrocketing Success</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-evolution-from-streaming-giant-to-dvd-rentals-a-look-at-netflixs-former-business-model/"><u>Exploring the Evolution From Streaming Giant to DVD Rentals: A Look at Netflix's Former Business Model</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-honor-90-pro-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Honor 90 Pro?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/improve-android-performance-by-flushing-cache-memory/"><u>Improve Android Performance by Flushing Cache Memory</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-vivo-y36-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Vivo Y36 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-the-ultimate-guide-to-professional-iphoneipad-podcast-production/"><u>In 2024, The Ultimate Guide to Professional iPhone/iPad Podcast Production</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/keep-your-macbook-active-with-lid-closed-a-step-by-step-guide/"><u>Keep Your MacBook Active with Lid Closed: A Step-by-Step Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/sonys-automotort-ambition-the-afeela-car-insider-info-on-cost-estimates-market-entry-date-and-technical-specifications/"><u>Sony's Automotort Ambition - The Afeela Car: Insider Info on Cost Estimates, Market Entry Date & Technical Specifications!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solutions-for-fixing-stop-code-0x0000003d-on-windows/"><u>Step-by-Step Solutions for Fixing Stop Code 0X0000003D on Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/streaming-tiktok-videos-on-the-big-screen-easy-setup-steps/"><u>Streaming TikTok Videos on the Big Screen: Easy Setup Steps</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-best-free-video-rotation-apps-top-10-list-for-flipping-videos-for-2024/"><u>Updated Best Free Video Rotation Apps Top 10 List for Flipping Videos for 2024</u></a></li>
 </ul></div>
 

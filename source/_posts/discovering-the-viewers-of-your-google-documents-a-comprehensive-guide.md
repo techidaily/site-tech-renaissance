@@ -1,7 +1,7 @@
 ---
 title: "Discovering the Viewers of Your Google Documents: A Comprehensive Guide"
-date: 2024-09-12T20:39:20.052Z
-updated: 2024-09-15T18:29:47.264Z
+date: 2024-10-24T03:22:11.989Z
+updated: 2024-10-31T00:04:44.938Z
 categories:
   - BestProducts
 description: "This Article Describes Discovering the Viewers of Your Google Documents: A Comprehensive Guide"
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/04447bf719b4926e422f9096bc950555ee7a86c16
 
  The Museum of Modern Art owns and displays Kurita's original set of emoji.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Emoji on X (formerly Twitter) Are Tracked in Real Time
 
  Want to see how many people around the world are tweeting out emoji? You can do that with a tool called[Emoji Tracker](http://www.emojitracker.com/) , described as being "an experiment in real-time visualization" of all emoji found on X.
@@ -44,13 +51,6 @@ thumbnail: https://thmb.techidaily.com/04447bf719b4926e422f9096bc950555ee7a86c16
  The emoji craze caught on so rapidly in 2012 and 2013 that it was added as a word by Oxford Dictionaries in August 2013, along with several other strange new words that could only be explained by the internet.
 
 The plural of emoji is emoji, not emojis.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## New Emoji Are Announced Regularly
 
@@ -68,13 +68,6 @@ The plural of emoji is emoji, not emojis.
 
  Miley Cyrus also has some ink featuring the sad cat emoji, though a bit more discrete, located on the[inside of her lower lip](http://www.mtv.com/news/2306842/miley-cyrus-cat-emoji-lip-tattoo/) . Is it real? Who knows, but it sure makes a statement.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The Face With Tears of Joy Emoji Is the Most Popular
 
  People seriously love to use the Face With Tears of Joy to express their laughter seeing as how it's the number-one most popular emoji used on X.
@@ -82,10 +75,10 @@ The plural of emoji is emoji, not emojis.
  The red heart, the heart eyes face, and the pink hearts emoji fall in second, third, and fourth place, respectively, suggesting that people enjoy expressing their love for someone or something online.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## A Documentary Sums Up Our Obsession With Emoji
@@ -98,6 +91,13 @@ The plural of emoji is emoji, not emojis.
 
  There are several apps and websites you can use to turn a selfie into a personalized emoji. The Emoji Me Keyboard app, Emoji Me Face Maker app, and other similar apps are available for Android and iOS devices. Google Allo chat transforms your selfies into custom emoji.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Emoji Are Supported Just About Everywhere
 
  Using[X on mobile](https://www.lifewire.com/best-mobile-twitter-apps-3486098) devices has always been popular, but until X finally released emoji support on its web version in 2014, those little icons would show up as blank boxes if you visited Twitter.com on a laptop or desktop computer.
@@ -105,6 +105,13 @@ The plural of emoji is emoji, not emojis.
  They're not quite identical to the ones you see and type on mobile devices, but they come pretty close, and anything is better than a bunch of boxes filling up your X stream.
 
  For the record, you can now add[Emoji keyboards to your Android device](https://www.lifewire.com/add-emojis-to-android-4149696) , too. So Android users don't have to suffer through those strange square boxes, either.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Emoji Trivia
 
@@ -150,5 +157,19 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-insta-perfect-pivoting-mastering-video-angles-for-social-success/"><u>[Updated] 2024 Approved Insta Perfect Pivoting Mastering Video Angles for Social Success</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-strategies-to-locate-and-prevent-future-loss-of-your-airpods-expert-advice/"><u>Discover Strategies to Locate and Prevent Future Loss of Your AirPods - Expert Advice</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/guide-connect-and-showcase-powerpoint-presentations-via-tv-screens/"><u>Guide: Connect and Showcase PowerPoint Presentations via TV Screens</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-apple-watch-or-iphone-6-by-drfone-ios/"><u>In 2024, How To Bypass Activation Lock On Apple Watch Or iPhone 6?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-how-to-make-a-video-meme-for-facebook-and-instagram/"><u>In 2024, How to Make a Video Meme for Facebook and Instagram</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-nokia-c12-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Nokia C12 Phone FRP Lock</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/maximizing-your-tech-investment-why-scoring-an-unbeatable-price-on-apples-ipad-pro-pre-prime-day-is-the-smart-move-according-to-zdnet/"><u>Maximizing Your Tech Investment: Why Scoring an Unbeatable Price on Apple's iPad Pro Pre-Prime Day Is the Smart Move, According to ZDNet</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/pro-rated-top-8-convertors-for-subtitles-and-srts/"><u>Pro-Rated Top 8 Convertors for Subtitles & SRTs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/seamless-transfer-of-images-from-google-photos-to-icloud-made-simple-techguide/"><u>Seamless Transfer of Images From Google Photos to iCloud Made Simple | TechGuide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-path-to-ingenious-visuals-mastery-over-microsofts-copilot/"><u>The Path to Ingenious Visuals: Mastery Over Microsoft's Copilot</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/total-cost-transparency-embarking-on-a-podcast-adventure/"><u>Total Cost Transparency Embarking on a Podcast Adventure</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upgrade-or-stay-comparing-iphone-15-and-iphone-16-essentials-for-apples-latest-base-version-expert-insights/"><u>Upgrade or Stay? Comparing iPhone 15 and iPhone 16 Essentials for Apple's Latest Base Version | Expert Insights</u></a></li>
+</ul></div>
 

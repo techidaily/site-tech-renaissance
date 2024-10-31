@@ -1,7 +1,7 @@
 ---
 title: Important Aspects to Keep in Mind Before Acquiring a Pre-Owned Portable PC
-date: 2024-09-14T16:10:41.526Z
-updated: 2024-09-15T18:07:54.061Z
+date: 2024-10-25T19:39:59.743Z
+updated: 2024-10-30T22:38:20.073Z
 categories:
   - BestProducts
 description: This Article Describes Important Aspects to Keep in Mind Before Acquiring a Pre-Owned Portable PC
@@ -30,6 +30,13 @@ thumbnail: https://www.lifewire.com/thmb/oN9psn74Dso2Im8TZabj1guSp5M=/540x405/fi
 ![Discord Downdetector page](https://www.lifewire.com/thmb/Dkbd1Gn7UxOCVbebPQPG9QuzVpQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256954-e47fef8c259d4a9d805e652ae722fcbd.jpg)  
  If no one else is having an issue with Discord, then the problem is likely something on your end.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What to Do When You Can't Connect to Discord
 
  There are several things you can try if Discord seems to be working fine for everyone else, but you're still having[connection issues](https://www.lifewire.com/fix-connection-issues-discord-5086484) :
@@ -45,6 +52,13 @@ thumbnail: https://www.lifewire.com/thmb/oN9psn74Dso2Im8TZabj1guSp5M=/540x405/fi
 8. It's unlikely, but there could be an issue with your[DNS server](https://www.lifewire.com/what-is-a-dns-server-2625854) . If you want to try[switching DNS servers](https://www.lifewire.com/how-to-change-dns-server-settings-2617979) , there are plenty of ways to do so with a[free and public option](https://www.lifewire.com/free-and-public-dns-servers-2626062) , although bear in mind that it's quite an advanced solution.
 
  If nothing has worked yet, you're probably dealing with an internet issue on your end. Contact your[ISP](https://www.lifewire.com/internet-service-provider-isp-2625924) to request further help.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Discord Error Messages
 
@@ -84,12 +98,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/everaging-youtube-studio-across-devices-for-2024/"><u>[New] Leveraging Youtube Studio Across Devices for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-deep-dive-into-the-core-functionalities-of-zdsoft/"><u>[Updated] 2024 Approved Deep Dive Into the Core Functionalities of ZDSoft</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-upholders-of-popularity-the-10-most-loved-reddit-stories/"><u>[Updated] Upholders of Popularity The 10 Most Loved Reddit Stories</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-efficient-media-mastery-from-ssaxml-to-high-quality-srt/"><u>2024 Approved Efficient Media Mastery From SSA/XML to High-Quality SRT</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-complete-guide-to-interpreting-your-windows-10-battery-status-report/"><u>A Complete Guide to Interpreting Your Windows 10 Battery Status Report</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/clearing-windows-updates-cache-a-comprehensive-tutorial-for-windows-11-and-10-users/"><u>Clearing Windows Updates Cache: A Comprehensive Tutorial for WINDOWS 11 & 10 Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-d-link-default-passwords-guide-july-2024-edition/"><u>Comprehensive D-Link Default Passwords Guide - July 2024 Edition</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/configuring-your-mac-to-access-shared-folders-a-comprehensive-tutorial/"><u>Configuring Your Mac to Access Shared Folders - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-top-5-tools-must-have-arsenal-for-successful-twitch-broadcasters/"><u>Essential Top 5 Tools Must-Have Arsenal for Successful Twitch Broadcasters</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722973280516-get-your-hands-on-free-behringer-driver-packs-now/"><u>Get Your Hands on Free Behringer Driver Packs Now</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/gratuit-konverteren-van-wmv-naar-mkv-online-zoekteken-movavi/"><u>Gratuit Konverteren Van WMV Naar MKV Online - Zoekteken Movavi</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-becoming-a-snapshot-wizard-top-positions-for-iphone-photos/"><u>In 2024, Becoming a Snapshot Wizard Top Positions for iPhone Photos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-breaking-barriers-with-iphone-x-fixing-facial-detection/"><u>In 2024, Breaking Barriers with iPhone X Fixing Facial Detection</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-infinix-hot-40-pro-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Infinix Hot 40 Pro Phones</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/in-depth-review-of-the-newly-released-apple-tv-hd-4k-series-3/"><u>In-Depth Review of the Newly Released Apple TV HD 4K Series 3</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-android-parsing-mistakes-with-8-effective-strategies/"><u>Resolving Android Parsing Mistakes with 8 Effective Strategies</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-achieving-ideal-sync-with-bose-soundlink-devices/"><u>Step-by-Step Tutorial: Achieving Ideal Sync with Bose Soundlink Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-gaming-mini-pcs-unleash-portable-power/"><u>Top Rated Gaming Mini PCs: Unleash Portable Power</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-cinema-on-a-budget-our-picks-for-top-rated-free-download-sites-for-movies-11-in-total/"><u>Unlock Cinema on a Budget: Our Picks for Top-Rated Free Download Sites for Movies (11 in Total)</u></a></li>
+</ul></div>
 

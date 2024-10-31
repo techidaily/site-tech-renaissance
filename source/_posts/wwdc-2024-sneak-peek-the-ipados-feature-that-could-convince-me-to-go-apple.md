@@ -1,7 +1,7 @@
 ---
 title: "WWDC 2024 Sneak Peek: The iPadOS Feature That Could Convince Me to Go Apple"
-date: 2024-10-19T05:30:54.268Z
-updated: 2024-10-24T17:55:13.477Z
+date: 2024-10-23T22:04:44.294Z
+updated: 2024-10-31T00:57:31.605Z
 tags:
   - apple
 categories:
@@ -48,13 +48,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Leverage ethical AI and privacy as a competitive advantage
 
 Emphasizing [ethical AI](https://www.zdnet.com/article/how-we-can-harness-the-power-of-generative-ai-ethically/) development will ensure fairness, transparency, and accountability. Ethical AI involves addressing biases in AI models, ensuring AI decisions are explainable, and adhering to principles that prevent misuse or harm. This approach will help build trust and set a high standard in the AI industry.
@@ -68,10 +61,10 @@ Providing private or family-specific AI instances would further enhance privacy 
 By focusing on these principles, Apple can lead by example and set new benchmarks in developing and deploying ethical AI.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Integrate seamlessly with third-party services and partner with multiple AI providers
@@ -88,6 +81,13 @@ Apple should also incorporate [Retrieval-Augmented Generation](https://www.zdnet
 
 Partnering with multiple AI providers, including specialists in natural language processing, computer vision, and machine learning, will bring cutting-edge innovations and accelerate the development of advanced features across Apple's ecosystem. This multi-partner approach reduces the risk of over-reliance on a single provider, increases resilience, and allows Apple to tailor AI solutions to different markets and user segments.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Deploy AI-accelerated appliances on the edge with dedicated cloud capacity
 
 To meet the growing demand for fast application response times, I believe Apple should consider using AI-accelerated edge devices capable of handling complex AI tasks locally. This would help reduce latency and improve overall performance. Apple's vertically integrated supply chain will likely involve AI servers powered by M2 Ultra and M4 chips, especially within its data centers. This setup would ensure seamless integration with Apple's software and provide greater control over performance and security. Localized processing can be enabled by placing these devices strategically in regional and metropolitan data centers, reducing the reliance on internet bandwidth.
@@ -95,6 +95,13 @@ To meet the growing demand for fast application response times, I believe Apple 
 **Also: [AI at the edge: 5G and the Internet of Things see fast times ahead](https://www.zdnet.com/article/ai-at-the-edge-fast-times-ahead-for-5g-and-the-internet-of-things/)**
 
 Additionally, Apple could collaborate with cloud-based AI providers to manage complex AI tasks in the cloud when necessary. Combining edge and cloud resources, this hybrid approach would create a robust and scalable AI infrastructure that supports real-time AI applications such as augmented reality, language translation, and advanced data analytics.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Enhance proactive assistance and personalization
 
@@ -107,16 +114,10 @@ AI can enhance contextual awareness by integrating with sensors and data sources
 Proactive health and wellness features could remind users to take medication via the Health app, suggest wellness tips based on activity levels tracked by Apple Watch, and offer mental health support through mindfulness reminders. Personalized routines on Apple devices, like HomePod adjusting lighting based on daily habits, will enhance user experiences.
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Ensure AI shines across all products and services
@@ -134,13 +135,6 @@ For Apple TV, AI could improve content discovery by recommending shows based on 
 Leveraging AI to enhance HomeKit's capabilities is essential, especially since HomeKit isn't a market leader in home automation. AI can offer smarter home automation by predicting user behavior to automate lights, thermostat settings, and security systems. 
 
 Integrating AI across all devices ensures a seamless user experience. Preferences and data from one device would then inform recommendations on another, creating a unified ecosystem.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How Apple wins the generative AI race
 
@@ -184,16 +178,18 @@ For consumers, the AI race is about trust, user experience, and integrating adva
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-amplify-and-illuminate-online-videos-with-these-5-aids/"><u>[New] 2024 Approved Amplify and Illuminate Online Videos with These 5 Aids</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-discover-every-aspect-of-io-visual-logging/"><u>[New] 2024 Approved Discover Every Aspect of IO Visual Logging</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-free-game-themes-and-melodies-10-best-websites/"><u>[New] 2024 Approved Free Game Themes & Melodies – 10 Best Websites</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-download-facebook-links-for-free-online/"><u>[New] In 2024, Download Facebook Links for FREE Online</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-troubleshooting-for-overcoming-xbox-ones-lack-of-connection/"><u>Comprehensive Troubleshooting for Overcoming Xbox One's Lack of Connection</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-motorola-defy-2-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Motorola Defy 2</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-se-2022-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone SE (2022)</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-mfcml20dll-missing-error-on-your-computer/"><u>Resolving MFCML20.dll Missing Error on Your Computer</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/step-by-step-tutorial-on-moving-from-windows-to-ubuntucinnamnion-for-a-smooth-linux-experience/"><u>Step-by-Step Tutorial on Moving From Windows to Ubuntu/Cinnamnion for a Smooth Linux Experience.</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-retrieving-deleted-emails-on-microsoft-outlook-no-tech-wizardry-needed/"><u>The Ultimate Guide to Retrieving Deleted Emails on Microsoft Outlook - No Tech Wizardry Needed</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/updating-your-chromecast-essential-instructions-for-smooth-streaming/"><u>Updating Your Chromecast: Essential Instructions for Smooth Streaming</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-10-masterpieces-in-job-market-insight/"><u>[New] 2024 Approved 10 Masterpieces in Job Market Insight</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-elevate-and-accelerate-vimeo-videos/"><u>[New] 2024 Approved Elevate and Accelerate Vimeo Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-constructing-unique-instagram-story-banners-for-2024/"><u>[New] Constructing Unique Instagram Story Banners for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-locate-or-retrieve-a-lost-forgotten-or-unknown-email-address/"><u>How to Locate or Retrieve a Lost, Forgotten, or Unknown Email Address</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-best-5-gif-to-video-converter-online-no-need-to-download/"><u>In 2024, Best 5 GIF to Video Converter Online [No Need to Download]</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-y36i-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y36i Phone without PIN</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/moveavi-free-video-converter-upload-convert-and-download-videos-at-no-cost/"><u>Moveavi Free Video Converter - Upload, Convert & Download Videos at No Cost</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-jvm-dll-error-comprehensive-guide/"><u>Resolving JVM DLL Error: Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solve-the-ocidll-missing-file-issue-a-step-by-step-guide/"><u>Solve the OCI.DLL Missing File Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-issue-when-your-paradox-launcher-fails-to-start-up/"><u>Solving the Issue: When Your Paradox Launcher Fails to Start Up</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/streamlined-social-media-prime-twitter-unfollow-tools-overview-for-2024/"><u>Streamlined Social Media Prime Twitter Unfollow Tools Overview for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/subwoofer-troubleshooting-step-by-step-solutions-to-banish-bass-hum/"><u>Subwoofer Troubleshooting: Step-by-Step Solutions to Banish Bass Hum</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-digital-powerhouses-a-deep-dive-into-facebook-twitter-instagram-and-youtube/"><u>The Digital Powerhouses: A Deep Dive Into Facebook, Twitter, Instagram & YouTube</u></a></li>
 </ul></div>
 

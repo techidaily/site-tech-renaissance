@@ -1,7 +1,7 @@
 ---
 title: "Top 4 iDevices on Hold: Why It’s Best to Skip Purchasing Them Currently - Insights"
-date: 2024-10-23T03:18:13.394Z
-updated: 2024-10-25T08:48:25.399Z
+date: 2024-10-25T17:35:13.924Z
+updated: 2024-10-31T01:11:49.644Z
 tags:
   - apple
 categories:
@@ -57,14 +57,20 @@ Don't buy these devices:
 * **Mac Studio**: The M2-powered Mac Studio is no longer the beast it was, and given that it's over a year old and running on previous-generation silicon, I suggest giving it a miss and getting a [MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fmacbook-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) instead.
 * **Apple TV**: Last updated in October 2022, this device is due for a refresh, possibly alongside the iPhone, so unless you desperately need a new one, wait a few months.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **The 'Nice' list**
+
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Apple iPhone 16**
 
@@ -82,6 +88,13 @@ Kerry Wan/ZDNET
 
 The [Apple Watch Series 10](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) starts at $399 for GPS and $499 for cellular. It comes in three colors: jet black, rose gold, and silver aluminum. The new black [Apple Watch Ultra 2](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch-ultra&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) starts at $799\. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Apple M3 MacBook Air**
 
 Apple MacBook Air M3
@@ -97,10 +110,10 @@ Along with the updated processor, this MacBook Air can also power two external m
 With prices for the [13-inch M3 MacBook Air starting at $1,099](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-midnight-apple-m3-chip-with-8-core-cpu-and-8-core-gpu-8gb-memory-256gb&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and the [15-inch version starting at $200 more](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F15-inch-midnight-apple-m3-chip-with-8-core-cpu-and-10-core-gpu-8gb-memory-256gb&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), these systems represent some serious processing power for an extremely competitive price (especially when you consider these are Apple laptops). 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Apple Vision Pro**
@@ -118,10 +131,10 @@ It's hard to bet against Apple, but a futuristic set of goggles with a starting 
 [Apple Vision Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-vision&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Apple 14-inch and 16-inch MacBook Pro**
@@ -138,13 +151,6 @@ This lineup of MacBooks has the entire lineup of M3 chips -- from the powerful M
 **Also: [M3 MacBook Pro buying advice: Who it's really for (and who should stick with M2 MacBook Air)](https://www.zdnet.com/article/m3-macbook-pro-buying-advice/)**
 
 [2023 M3-powered MacBook Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Apple's 24-inch iMac**
 
@@ -222,16 +228,22 @@ Well-made, robust, and with a replaceable battery, these will make misplaced key
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harnessing-success-with-freefire-hashtag-tips/"><u>[New] 2024 Approved Harnessing Success with FreeFire Hashtag Tips</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024s-cloud-price-tracker-find-the-lowest-bills-here/"><u>2024'S Cloud Price Tracker Find the Lowest Bills Here</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/comparaison-entre-disque-de-reparation-du-systeme-et-lecteur-de-recuperation-quels-sont-leurs-objectifs/"><u>Comparaison Entre Disque De Reparation Du Système Et Lecteur De Récupération : Quels Sont Leurs Objectifs?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-to-managing-google-smart-devices-from-your-desktop-or-laptop/"><u>Guide to Managing Google Smart Devices From Your Desktop or Laptop</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-disabled-apple-iphone-14-proipad-without-computer-by-drfone-ios/"><u>How to Unlock Disabled Apple iPhone 14 Pro/iPad Without Computer</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/kobo-libra-h2o-e-reader-review-unmatched-waterproof-features-for-avid-readers/"><u>Kobo Libra H2O E-Reader Review: Unmatched Waterproof Features for Avid Readers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/leading-smartwatch-selection-for-2e24-in-depth-analysis-by-tech-specialists/"><u>Leading Smartwatch Selection for 2E24: In-Depth Analysis by Tech Specialists</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/myx-fitness-takes-the-lead-over-peloton-with-higher-weight-capacity-a-closer-look-at-size-limitations-zdnet/"><u>Myx Fitness Takes the Lead Over Peloton with Higher Weight Capacity - A Closer Look at Size Limitations | ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/post-prime-day-snag-the-new-apple-10th-generation-ipad-at-an-unbeatable-price-of-only-299-the-latest-deal-you-cant-misszdnet/"><u>Post-Prime Day: Snag the New Apple 10Th Generation iPad at an Unbeatable Price of Only $299 - The Latest Deal You Can't Miss![ZDNet]</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Vivo Y100 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-ranking-apple-watch-models-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Ranking Apple Watch Models : Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-acclaimed-15-video-filters-to-elevate-gopro-cinematography/"><u>[New] Acclaimed 15 Video Filters to Elevate GoPro Cinematography</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-crafting-visual-harmony-with-bokeh-techniques-in-storytelling-for-2024/"><u>[New] Crafting Visual Harmony with Bokeh Techniques in Storytelling for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-obs-optimization-for-seamless-fb-broadcasting/"><u>[New] In 2024, OBS Optimization for Seamless FB Broadcasting</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-harmonious-habits-to-develop-while-taking-in-your-favorite-episodes/"><u>[Updated] Harmonious Habits to Develop While Taking in Your Favorite Episodes</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-scrutinizing-djis-phantom-3-for-enthusiast-use-for-2024/"><u>[Updated] Scrutinizing DJI's Phantom 3 for Enthusiast Use for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/big-data-in-bare-minipcs-little-prowess/"><u>Big Data in Bare MiniPCs, Little Prowess</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/connecting-samsung-wireless-headphones-the-ultimate-guide-for-windows-and-mac-users/"><u>Connecting Samsung Wireless Headphones: The Ultimate Guide for Windows and Mac Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-our-chosen-selection-the-best-5-free-offline-car-racers-of-2024/"><u>Discover Our Chosen Selection: The Best 5 Free Offline Car Racers of 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-to-recover-lost-or-absent-user32dll-files-effectively/"><u>Guide to Recover Lost or Absent User32.dll Files Effectively</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-infinix-smart-8-hd-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Infinix Smart 8 HD Devices</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-secure-quick-and-free-screen-captures-on-windows-8/"><u>In 2024, Secure, Quick, & Free Screen Captures on Windows 8</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/organize-your-home-with-these-7-must-have-calendar-apps/"><u>Organize Your Home with These 7 Must-Have Calendar Apps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-strategies-to-address-and-fix-critical-ntldr-error-messages/"><u>Step-by-Step Strategies to Address and Fix Critical NTLDR Error Messages</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/stream-free-how-to-view-roku-shows-on-alternative-platforms/"><u>Stream Free! How to View Roku Shows on Alternative Platforms</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unleashing-the-power-of-high-end-pcs-my-experience-with-dells-3000-beast-insights-for-gamers-zdnet/"><u>Unleashing the Power of High-End PCs: My Experience with Dell's $3,000 Beast - Insights for Gamers | ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-extent-of-your-facebook-posts-reach-tracking-user-shares-effectively/"><u>Unveiling the Extent of Your Facebook Post's Reach: Tracking User Shares Effectively</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/your-ultimate-roadmap-to-active-involvement-in-twitter-chat-sessions/"><u>Your Ultimate Roadmap to Active Involvement in Twitter Chat Sessions</u></a></li>
 </ul></div>
 

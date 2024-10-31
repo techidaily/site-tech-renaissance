@@ -1,7 +1,7 @@
 ---
 title: Personalizing the Quick Settings on Your iPhone Using iOS 18 | Expert Advice
-date: 2024-10-22T06:06:39.550Z
-updated: 2024-10-25T04:49:44.701Z
+date: 2024-10-24T23:00:34.618Z
+updated: 2024-10-31T03:25:24.227Z
 tags:
   - apple
 categories:
@@ -30,6 +30,13 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
@@ -37,10 +44,10 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -51,31 +58,24 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -85,18 +85,18 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -134,24 +134,14 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-a-comprehensive-list-of-8-budget-friendly-srt-services/"><u>[New] A Comprehensive List of 8 Budget-Friendly SRT Services</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/15-diy-music-production-tutorial-videos-for-home-studios/"><u>15 DIY Music Production Tutorial Videos for Home Studios</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-captivating-colors-in-photos-a-ps-masterclass/"><u>2024 Approved Captivating Colors in Photos A PS Masterclass</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-mastering-the-art-of-small-image-creation-a-thumbnail-guide/"><u>2024 Approved Mastering the Art of Small Image Creation A Thumbnail Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/boost-your-productivity-on-facebook-with-these-top-5-simple-strategies/"><u>Boost Your Productivity on Facebook with These Top 5 Simple Strategies</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/download-the-new-ios-18-comprehensive-guide-on-compatibility-and-installation-steps-for-your-iphone/"><u>Download the New IOS 18: Comprehensive Guide on Compatibility and Installation Steps for Your iPhone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/harnessing-ai-for-elevated-bing-user-interactions/"><u>Harnessing AI for Elevated Bing User Interactions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-fix-a-connection-is-not-secure-error/"><u>How to Fix a ‘Connection Is Not Secure’ Error</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-honor-magic-v2-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Honor Magic V2 Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-samsung-galaxy-a34-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Samsung Galaxy A34 5G without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/join-us-as-we-uncover-surprising-downsides-stories-from-iphone-users-after-an-update-to-ios-18-zdnet-insights/"><u>Join Us as We Uncover Surprising Downsides - Stories From iPhone Users After an Update to iOS 18 | ZDNET Insights</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/maximizing-efficiency-top-ipad-applications-for-enhanced-productivity-techadvisor/"><u>Maximizing Efficiency: Top iPad Applications for Enhanced Productivity | TechAdvisor</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigating-educational-offers-for-budget-friendly-deals-on-microsoft-products/"><u>Navigating Educational Offers for Budget-Friendly Deals on Microsoft Products</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/optimize-your-fitness-tracking-merge-oura-and-strava-data-effortlessly-activation-tips-digitalfitpro/"><u>Optimize Your Fitness Tracking: Merge Oura & Strava Data Effortlessly - Activation Tips | DigitalFitPro</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/premier-filmmaking-software-on-iphones/"><u>Premier Filmmaking Software on iPhones</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/the-essentials-of-youtube-gaming-livestreaming/"><u>The Essentials of YouTube Gaming Livestreaming</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unleash-creativity-and-productivity-score-your-2nd-gen-apple-pencil-for-an-unbeatable-price-of-95-this-labor-day/"><u>Unleash Creativity and Productivity: Score Your 2Nd Gen Apple Pencil for an Unbeatable Price of $95 This Labor Day</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlock-educational-savings-with-a-150-apple-gift-card-when-purchasing-a-macipad-zdnet/"><u>Unlock Educational Savings with a $150 Apple Gift Card when Purchasing a Mac/iPad | ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-sets-corporate-chatgpt-apart/"><u>What Sets Corporate ChatGPT Apart?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-maximizing-your-influence-a-selection-of-expert-instagram-analytics-software/"><u>[Updated] In 2024, Maximizing Your Influence A Selection of Expert Instagram Analytics Software</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-synergizing-social-networks-share-your-igtv-content/"><u>[Updated] In 2024, Synergizing Social Networks Share Your IGTV Content</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/accelerate-your-pc-performance-solutions-for-a-speedy-windows-11/"><u>Accelerate Your PC Performance: Solutions For A Speedy Windows 11</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/al-dollars-crafting-an-online-wealth-journey-for-2024/"><u>Digital Dollars Crafting an Online Wealth Journey for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/easeus-reviewed-a-world-of-technology/"><u>EaseUS Reviewed A World of Technology</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-the-haldll-file-error-step-by-step-solutions-for-windows-users/"><u>Fixing the hal.dll File Error: Step-by-Step Solutions for Windows Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/leading-8-tv-streaming-services-a-comprehensive-review/"><u>Leading 8 TV Streaming Services : A Comprehensive Review</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/the-ultimate-checklist-for-twitter-video-posts-for-2024/"><u>The Ultimate Checklist for Twitter Video Posts for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-ipad-offers-and-discounts-shop-smart-today/"><u>Top iPad Offers and Discounts: Shop Smart Today!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Is It Worth Switching to the New iPhone 16? Expert Opinions Editors on Pros & Cons | Tech Analysis
-date: 2024-10-23T03:38:16.483Z
-updated: 2024-10-25T09:52:38.379Z
+date: 2024-10-28T04:01:43.781Z
+updated: 2024-10-31T01:14:10.258Z
 tags:
   - apple
 categories:
@@ -34,6 +34,19 @@ Here are the top reasons why we are (or aren't) upgrading to the iPhone 16 in th
 
 Kerry Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. The camera
 
 Perhaps one of the most important features of any smartphone these days is the camera, so it is no surprise that camera quality is a big consideration for ZDNET editors. It probably is for you, too. The iPhone 16 lineup includes a new [Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/) feature that works in landscape or portrait mode with a button on the side of the iPhone. In addition, you can lightly press the button to show camera functions you can choose from, such as zoom, exposure, or focal lengths, by swiping between the options. 
@@ -45,13 +58,6 @@ The Camera Control uses [Apple's Visual Intelligence](https://www.zdnet.com/arti
 **Also:** [**I want to be excited about the iPhone 16's new camera button, but can't (for now)**](https://www.zdnet.com/article/i-want-to-be-excited-about-the-iphone-16s-new-camera-button-but-cant-for-now/)
 
 "I have the biggest one-sided beef in the world with the iPhone 14\. I can give you material for years. Primarily because the camera is the worst thing I ever experienced on an iPhone. Even the base iPhone 16 model looks way better," Ortiz says.
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Trade-in deals and carrier offers
 
@@ -88,22 +94,15 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 ZDNET's Jason Perlow is bumping up for similar reasons. "I am upgrading from my 15 Pro Max to a 16 Pro Max because I am on the iPhone Upgrade Program, and as I cover developments with Apple, it is a business expense and \[ultimately\] it's trading one loan payment for another. No other reason, although the camera improvements seem nice. I debated skipping, but there wasn't much of a downside," he says. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Here's why ZDNET editors won't be upgrading to the iPhone 16
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. The Apple Intelligence features aren't perfect
 
@@ -114,6 +113,13 @@ Essentially, this is Apple's first iPhone marketed with an AI push, and like eve
 **Also: [iOS 18 update: Every iPhone model that will support Apple's new AI features (for now)](https://www.zdnet.com/article/ios-18-1-update-every-iphone-model-that-will-support-apples-new-ai-features-for-now/)**
 
 Jason Perlow is on the same page. "Let's not diminish the product for what it is: the iPhone 16 is undeniably great hardware. But unless you're using a old phone -- like my colleague [David Gewirtz's iPhone 12](https://www.zdnet.com/article/6-reasons-why-ios-18-makes-the-iphone-16-a-must-upgrade-for-me/), which is four generations behind -- you should strongly consider skipping this generation. Why? Because Apple Intelligence, while promising, is still in its infancy," Perlow wrote in one of his [recent pieces](https://www.zdnet.com/article/the-iphone-16-is-undeniably-great-hardware-but-you-should-still-probably-skip-it/). 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Not compelled enough to upgrade
 
@@ -130,10 +136,10 @@ Sometimes it's the most obvious factors that influence our choices. The expense 
 ZDNET's Adrian Kingsley-Hughes is still on the fence, but we agree on one thing. "It's a ton of money," he says.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to preorder the iPhone 16
@@ -176,20 +182,18 @@ The [iPhone 16 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-a-compreited-list-of-top-5-iphone-apps-revolutionizing-podcasts/"><u>[New] A Compreited List of Top 5 iPhone Apps Revolutionizing Podcasts</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-drone-photography-showdown-dji-spark-vs-hero6-black-for-2024/"><u>[New] Drone Photography Showdown DJI Spark Vs Hero6 Black for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-joke-jingles-guide-best-ringtones-online/"><u>[New] Joke Jingles Guide Best Ringtones Online</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-comprehensive-review-of-ios-free-video-editing-apps/"><u>[Updated] Comprehensive Review of iOS Free Video Editing Apps</u></a></li>
-<li><a href="https://blog-min.techidaily.com/iuwbpew6tpluse2reamgeacgowjjee3mjog44kz44ot44ok56an44ks5ywl5pyn44gz44kl44gf44kb44gu5l2t5yqb5zcr5lik44o76ygl5yuv44ox44op44oz6icd5aplusfig/"><u>健康維持最前線: コロナ禍を克服するための体力向上・運動プラン考察</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/bridging-platforms-accessing-android-app-functionality-on-your-windows-11-pc/"><u>Bridging Platforms: Accessing Android App Functionality on Your Windows 11 PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fix-your-pc-when-d3d9dll-goes-missing-top-techniques/"><u>Fix Your PC When d3d9.dll Goes Missing – Top Techniques</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resetting-your-phones-memory-the-ultimate-cache-deletion-guide-for-android/"><u>Resetting Your Phone's Memory: The Ultimate Cache Deletion Guide for Android</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solve-your-netflix-woes-19-proven-tips-for-troubleshooting-lg-tv-issues/"><u>Solve Your Netflix Woes: 19 Proven Tips for Troubleshooting LG TV Issues</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-9-free-online-preschool-games-engaging-educational-fun-for-kids/"><u>Top 9 Free Online Preschool Games: Engaging Educational Fun for Kids</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/transfer-iphone-and-images/"><u>Transfer, iPhone, and Images.</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/unlocking-obs-studios-full-creative-potential-with-top-methods-for-2024/"><u>Unlocking OBS Studio's Full Creative Potential with Top Methods for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-differences-playstation-5-vs-ps5-slim-which-console-wins/"><u>Unveiling Differences: PlayStation 5 Vs. PS5 Slim – Which Console Wins?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Motorola Edge 2023 | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/wireless-ps-vr-setup-on-a-windows-machine-what-you-need-to-know/"><u>Wireless PS VR Setup on a Windows Machine – What You Need to Know</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-live-action-reimagined-exploring-polaroid-camplus-capabilities/"><u>[New] 2024 Approved Live-Action Reimagined Exploring Polaroid Cam+ Capabilities</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-dominate-your-digital-space-with-these-10-follower-boosting-hacks-for-2024/"><u>[New] Dominate Your Digital Space with These 10 Follower-Boosting Hacks for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-must-know-windows-11-tips-and-tricks/"><u>[New] Must-Know Windows 11 Tips and Tricks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-supreme-storytelling-through-soundscape/"><u>[Updated] Supreme Storytelling Through Soundscape</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/deciphering-the-necessary-speed-for-optimal-pc-performance/"><u>Deciphering the Necessary Speed for Optimal PC Performance</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ending-the-darkness-effective-strategies-to-fix-black-screen-issues-on-your-windows-11-pc/"><u>Ending the Darkness: Effective Strategies to Fix Black Screen Issues on Your Windows 11 PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-these-1-boosting-local-communities-through-volunteer-tourism-a-sustainable-approach-to-traveling/"><u>Explore These 1 # Boosting Local Communities Through Volunteer Tourism: A Sustainable Approach to Traveling</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oppo-a78-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Oppo A78 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ipad-and-wi-fi-woes-heres-how-you-can-get-connected-again/"><u>IPad and Wi-Fi Woes? Here's How You Can Get Connected Again!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/leading-portable-powerhouses-discover-the-finest-mini-gaming-rigs/"><u>Leading Portable Powerhouses: Discover the Finest Mini Gaming Rigs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722885947141-subwoofer-dilemma-solved-get-rid-of-the-irritating-audio-hum-once-and-for-all/"><u>Subwoofer Dilemma Solved? Get Rid of the Irritating Audio Hum Once and For All</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721266407609-top-10-leading-iphone-and-ipad-erasers-safeguard-privacy-by-removing-all-data/"><u>Top 10 Leading iPhone & iPad Erasers: Safeguard Privacy by Removing All Data!</u></a></li>
+<li><a href="https://win11.techidaily.com/transform-your-prose-best-5-desktop-writing-helpers/"><u>Transform Your Prose: Best 5 Desktop Writing Helpers</u></a></li>
 </ul></div>
 

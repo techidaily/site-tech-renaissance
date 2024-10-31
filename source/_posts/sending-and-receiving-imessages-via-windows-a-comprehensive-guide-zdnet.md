@@ -1,7 +1,7 @@
 ---
 title: "Sending & Receiving iMessages via Windows: A Comprehensive Guide (ZDNet)"
-date: 2024-10-19T09:52:26.075Z
-updated: 2024-10-24T21:03:20.769Z
+date: 2024-10-27T05:39:49.213Z
+updated: 2024-10-31T00:40:23.065Z
 tags:
   - apple
 categories:
@@ -56,11 +56,25 @@ Next, confirm that you're running the latest version of Phone Link. To do this, 
 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Open Phone Link
 
 Click the Start button, go to All Apps, and select Phone Link from the list. The first screen prompts you to select your device. Click the button for iPhone.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Scan the QR codes
 
@@ -72,13 +86,6 @@ You should see pairing prompts on both your iPhone and your Windows 11 computer.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Sync your iPhone data
 
 Your phone should ask if you want your PC to receive notifications from your iPhone. Tap Allow to OK this. Go to the Bluetooth settings screen on your phone, tap the Info icon for your computer, and turn on the switches for Show Notifications, Sync Contacts, and Share System Notifications. Doing so will let you fully access and use the apps and data from your phone on your PC, including messages.
@@ -86,10 +93,10 @@ Your phone should ask if you want your PC to receive notifications from your iPh
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Run Phone Link
@@ -97,13 +104,6 @@ Screenshot by Lance Whitney/ZDNET
 The Phone Link welcome screen should appear on your PC and ask if you want to open the app each time you log into Windows. If you do, check the box.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Access your recent messages
 
@@ -116,13 +116,6 @@ Screenshot by Lance Whitney/ZDNET
 You can also start a new conversation. To do this, select one of your displayed contacts and then compose and send your text. To chat with someone else, click the New Message icon and type the name or phone number of the recipient. Compose and send your message.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Use Intel Unison
 
@@ -146,6 +139,13 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Launch the Windows Unison app
 
 At the "Let's get started" screen in the Windows Unison app, click the icon for "Send messages." 
@@ -165,10 +165,10 @@ Compose and send your message. Wait for the other person to respond. You can the
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Receive a message
@@ -207,17 +207,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-get-rid-of-youtube-shorts-a-comprehensible-guide/"><u>[New] 2024 Approved Get Rid of YouTube Shorts A Comprehensible Guide</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-essential-tips-for-configuring-and-measuring-facebooks-in-stream-ads/"><u>2024 Approved Essential Tips for Configuring and Measuring Facebook's In-Stream Ads</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/bridging-the-gap-seamless-integration-of-android-apps-with-windows-11/"><u>Bridging the Gap: Seamless Integration of Android Apps with Windows 11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-why-the-apple-watch-ultra-2-is-my-ideal-tech-companion-and-enjoy-an-extra-savings-of-100-on-labor-day-exclusive-insights/"><u>Discover Why the Apple Watch Ultra 2 Is My Ideal Tech Companion and Enjoy an Extra Savings of $100 on Labor Day – Exclusive Insights !</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-watch-hulu-outside-us-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Infinix Hot 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-funimate-masterclass-quick-video-access/"><u>In 2024, Funimate Masterclass Quick Video Access</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/in-depth-line-mobile-app-analysis-pros-and-cons/"><u>In-Depth Line Mobile App Analysis: Pros and Cons</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/save-big-on-a-refurbished-apple-tv-bundle-with-siri-remote-just-75-before-christmas-deals/"><u>Save Big on a Refurbished Apple TV Bundle with Siri Remote - Just $75 Before Christmas Deals!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/say-goodbye-to-messy-mail-discover-the-simple-trick-to-a-cleaner-inbox-free-from-complex-filters-or-duplicate-profiles/"><u>Say Goodbye to Messy Mail: Discover the Simple Trick to a Cleaner Inbox, Free From Complex Filters or Duplicate Profiles</u></a></li>
-<li><a href="https://techidaily.com/solved-how-to-fix-pdf-crash-issue-stellar-by-stellar-guide/"><u>Solved - How to Fix PDF Crash Issue | Stellar</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-potential-of-samsung-galaxy-note2eultra-a-5g-smartphone-assessment/"><u>Unveiling the Potential of Samsung Galaxy Note2eUltra – A 5G Smartphone Assessment</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-video-editing-for-mac-users-avs-editor-software/"><u>Updated In 2024, Video Editing for Mac Users AVS Editor Software</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-seo-sensation-a-comprehensive-guide-for-podcast-ranking-upliftment/"><u>[New] 2024 Approved SEO Sensation A Comprehensive Guide for Podcast Ranking Upliftment</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-unleashing-full-hd-clarity-on-every-tweet-scroll/"><u>[New] Unleashing Full HD Clarity on Every Tweet Scroll</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-stop-personalized-recommendations-for-podcasts-on-spotify/"><u>[Updated] Stop Personalized Recommendations for Podcasts on Spotify</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-secrets-to-enjoying-authentic-cricket-games-in-real-time/"><u>2024 Approved Secrets to Enjoying Authentic Cricket Games in Real-Time</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/aomei-technologie-experten-profi-backup-mit-pro-plus-and-endlosen-serveroptionen-bei-aomei-cloud/"><u>AOMEI Technologie Experten - Profi Backup Mit Pro Plus & Endlosen Serveroptionen Bei AOMEI Cloud</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-solutions-for-a-malfunctioning-usb-port-connection/"><u>Effective Solutions For A Malfunctioning USB Port Connection</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exclusive-info-on-apples-upcoming-car-forecasted-pricing-go-live-dates-technical-details-plus-newest-industry-whispers/"><u>Exclusive Info on Apple's Upcoming Car: Forecasted Pricing, Go-Live Dates, Technical Details, Plus Newest Industry Whispers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-mss32dll-errors-a-comprehensive-guide-for-quick-solutions/"><u>Fixing mss32.dll Errors: A Comprehensive Guide for Quick Solutions</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/youtube-thumbnails-saving-guide-for-2024/"><u>Free YouTube Thumbnails Saving Guide for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-13-drfone-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-select-and-add-different-mail-sounds-in-gmail-settings/"><u>How to Select and Add Different Mail Sounds in Gmail Settings</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-creating-fantastic-stable-diffusion-prompts/"><u>Mastering the Art of Creating Fantastic Stable Diffusion Prompts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-iphone-15-reboot-techniques/"><u>Mastering the Art of iPhone 15 Reboot Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mp4-to-flv-conversion-fast-and-free-online-service-by-movavi/"><u>MP4 to FLV Conversion - Fast and Free Online Service by Movavi</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-ocidll-file-unfound-challenges-expert-tips-and-tricks/"><u>Overcoming Oci.dll File Unfound Challenges: Expert Tips & Tricks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-pairing-your-apple-airpods-with-a-windows-based-hp-computer/"><u>Step-by-Step Guide: Pairing Your Apple AirPods with a Windows-Based HP Computer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-great-ev-revolution-what-drives-the-shift-from-traditional-cars/"><u>The Great EV Revolution: What Drives the Shift From Traditional Cars?</u></a></li>
 </ul></div>
 

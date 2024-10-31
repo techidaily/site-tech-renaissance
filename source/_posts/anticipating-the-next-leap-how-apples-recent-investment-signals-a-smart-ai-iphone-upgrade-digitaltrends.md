@@ -1,7 +1,7 @@
 ---
 title: "Anticipating the Next Leap: How Apple's Recent Investment Signals a Smart, AI iPhone Upgrade | DigitalTrends"
-date: 2024-10-20T16:17:08.348Z
-updated: 2024-10-25T07:37:55.424Z
+date: 2024-10-26T22:42:20.370Z
+updated: 2024-10-30T21:16:38.594Z
 tags:
   - apple
 categories:
@@ -87,10 +87,10 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -107,13 +107,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -123,13 +116,6 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -141,6 +127,13 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -160,10 +153,10 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -173,6 +166,13 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -218,19 +218,22 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-androids-ultimate-questland-unveiling-the-best-15-simulations/"><u>[New] In 2024, Android's Ultimate Questland Unveiling the Best 15 Simulations</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-cut-to-the-chase-boosting-your-instagram-with-content/"><u>[Updated] 2024 Approved Cut to the Chase - Boosting Your Instagram with Content</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/cambia-tu-archivo-mp4-a-formato-online-de-forma-gratuita-con-eficiencia-usando-movavi/"><u>Cambia Tu Archivo MP4 a Formato Online De Forma Gratuita Con Eficiencia Usando Movavi</u></a></li>
-<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-oneplus-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On OnePlus 11 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/choosing-between-macbook-pro-and-macbook-air-a-comprehensive-guide-for-selecting-your-ideal-apple-laptop/"><u>Choosing Between MacBook Pro and MacBook Air: A Comprehensive Guide for Selecting Your Ideal Apple Laptop</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-capture-fb-hd-footage-easily/"><u>In 2024, Capture FB HD Footage Easily</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/iphone-call-monitoring-tips-and-legality-by-state-record-conversations-safely/"><u>IPhone Call Monitoring Tips and Legality by State: Record Conversations Safely</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/mastering-snapchat-profits-strategies-for-success-for-2024/"><u>Mastering Snapchat Profits Strategies for Success for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/solving-the-class-not-registered-issue-in-windows-a-step-by-step-guide/"><u>Solving the 'Class Not Registered' Issue in Windows - A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/spotlight-innovation-alert-apple-music-experimenting-with-groundbreaking-feature-to-import-your-favorite-spotify-playlists/"><u>Spotlight Innovation Alert: Apple Music Experimenting with Groundbreaking Feature to Import Your Favorite Spotify Playlists</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-airtag-gear-comprehensive-reviews-and-comparisons-by-tech-experts/"><u>Top-Rated AirTag Gear : Comprehensive Reviews & Comparisons by Tech Experts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-apple-watch-straps-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top-Rated Apple Watch Straps : Comprehensive Reviews by Tech Gurus - ZDNet</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-5-simple-techniques-to-keep-deathloop-running-smoothly-on-pc/"><u>Troubleshooting Guide: 5 Simple Techniques to Keep Deathloop Running Smoothly on PC</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-ditch-premiere-rush-top-alternative-video-editing-software-for-2024/"><u>Updated Ditch Premiere Rush Top Alternative Video Editing Software for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-elevate-your-video-edits-ken-burns-in-camtasia/"><u>[Updated] 2024 Approved Elevate Your Video Edits Ken Burns in Camtasia</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-crafting-impact-best-9-video-thumbnail-makers-reviewed-for-2024/"><u>[Updated] Crafting Impact Best 9 Video Thumbnail Makers Reviewed for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-elevating-brand-presence-a-guide-to-influencer-marketing-on-instagram/"><u>[Updated] Elevating Brand Presence A Guide to Influencer Marketing on Instagram</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-tonal-trails-the-journey-of-audio-blending/"><u>2024 Approved Tonal Trails The Journey of Audio Blending</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-best-8-alternative-messaging-platforms/"><u>Discover the Best 8 Alternative Messaging Platforms</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-greatest-chef-programs-on-netflix-our-top-picks/"><u>Discover the Greatest Chef Programs on Netflix: Our Top Picks!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-premier-8-free-roku-channels-of-2024/"><u>Discover the Premier 8 Free Roku Channels of 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/electric-cars-and-climate-endurance-working-efficiently-in-hot-or-cold-environments/"><u>Electric Cars and Climate Endurance: Working Efficiently in Hot or Cold Environments?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-navigate-the-power-efficiency-diagnostics-in-windows-10/"><u>How to Navigate the Power Efficiency Diagnostics in Windows 10</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-video-edits-made-simple-with-windows-10s-story-remix/"><u>In 2024, Innovative Video Edits Made Simple with Windows 10'S Story Remix</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210196656-9781631064340-night-meditations/"><u>Night Meditations | Free Book</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/retrieve-forgotten-passwords-from-your-mac-with-simple-tricks/"><u>Retrieve Forgotten Passwords From Your Mac with Simple Tricks</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solucao-simples-em-5-etapeis-como-tirar-manchas-de-uma-imagem-perfeitamente/"><u>Solucão Simples Em 5 Etapeis: Como Tirar Manchas De Uma Imagem Perfeitamente</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-viewing-the-complete-dragon-ball-saga/"><u>Step-by-Step Guide: Viewing the Complete Dragon Ball Saga</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-5-free-substitutes-for-skype/"><u>Top 5 Free Substitutes for Skype</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-immersion-technologies-distinguishing-ar-vr-mr-and-xr/"><u>Understanding Immersion Technologies: Distinguishing AR, VR, MR & XR</u></a></li>
+<li><a href="https://win-trending.techidaily.com/windows-10-synology-nas-4/"><u>Windows 10 與 Synology NAS 間的 4 大備份選項</u></a></li>
 </ul></div>
 

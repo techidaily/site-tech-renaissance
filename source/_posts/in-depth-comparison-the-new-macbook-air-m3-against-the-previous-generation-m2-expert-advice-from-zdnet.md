@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Comparison: The New MacBook Air (M3) Against the Previous Generation (M2) – Expert Advice From ZDNet"
-date: 2024-10-21T05:11:52.836Z
-updated: 2024-10-25T01:19:55.565Z
+date: 2024-10-24T03:29:09.150Z
+updated: 2024-10-31T01:19:53.204Z
 tags:
   - apple
 categories:
@@ -48,10 +48,10 @@ These AirPods can be separated into entry-level and mid-tier categories, with th
 Screenshot by Kayla Solino/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. You love your AirPods (2nd generation) but want some upgrades
@@ -62,34 +62,28 @@ If you like the simplicity of the second-generation AirPods but think it's time 
 
 Regarding upgrades, the AirPods 4's charging case delivers six more hours of battery life than the second-generation AirPods. Additionally, the AirPods 4's charging case supports USB-C charging and has an IP54 dust and water resistance rating. 
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. You want the most affordable option
 
 The entry-level AirPods are cheaper than the AirPods 4 mid-tier model and the AirPods Pro 2\. You can still purchase the second and third-generation AirPods from Apple, but they don't have the same upgraded features as the new AirPods 4.
 
 [Preorder the AirPods 4 View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-airpods%2Fairpods-4&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## You should buy the AirPods 4 (mid-tier) if...
 
 Screenshot by Kayla Solino/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. The AirPods Pro 2 have too many features you'll never use
@@ -100,13 +94,6 @@ The AirPods Pro 2 are Apple's most advanced earbuds, offering an array of audio 
 
 The AirPods 4 with active noise cancellation have noise-canceling and transparency modes, spatial audio with dynamic head tracking, and an IP54 water and dust resistance rating. The charging case is USB-C and wireless charging compatible. However, the mid-tier AirPods 4 have one less hours of continuous playback than the AirPods 3.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. You want the "just right" AirPods
 
 If you're upgrading from the AirPods 3, you'll enjoy the fact that the mid-tier AirPods 4 have more audio features and some hardware upgrades. The AirPods 3 don't have noise cancellation or conversation awareness, a feature that quiets your music when the earbuds' microphones pick up on you trying to have a conversation. Additionally, the mid-tier AirPods 4's case has better water and dust resistance and wireless charging compatibility.
@@ -116,6 +103,13 @@ If you're upgrading from the AirPods 3, you'll enjoy the fact that the mid-tier 
 You can think of the AirPods 4 with noise cancellation as the "Goldilocks" AirPods since they give users the best of both worlds. You get upgraded audio features not found in the second or third-generation AirPods without offering too many advanced features found in the AirPods Pro 2.
 
 [Preorder the AirPods 4 with active noise cancellation View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-airpods%2Fairpods-4%2Fwith-active-noise-cancellation&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -151,24 +145,24 @@ You can think of the AirPods 4 with noise cancellation as the "Goldilocks" AirPo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-discover-top-6-free-web-apps-for-transforming-tiktok-into-mp3/"><u>[Updated] 2024 Approved Discover Top 6 Free Web Apps for Transforming TikTok Into MP3</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-crafting-youtube-masterpieces-with-powerful-hashtag-strategies/"><u>2024 Approved Crafting YouTube Masterpieces with Powerful Hashtag Strategies</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-streamlining-song-selection-for-youtube-playlist-curation/"><u>2024 Approved Streamlining Song Selection for YouTube Playlist Curation</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apple-device-picture-quality-woes-unfocused-images-solved-with-simple-fixes/"><u>Apple Device Picture Quality Woes? Unfocused Images Solved with Simple Fixes</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apple-ipad-air-with-m2-processor-the-ultimate-guide-and-review-by-tech-experts-at-zdnet-find-your-perfect-tablet/"><u>Apple iPad Air with M2 Processor: The Ultimate Guide and Review by Tech Experts at ZDNET | Find Your Perfect Tablet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apple-pioneers-ai-progress-with-new-model-releases-unveiling-their-potential-impact-cnet-news/"><u>Apple Pioneers AI Progress with New Model Releases: Unveiling Their Potential Impact | CNET News</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exclusive-monthly-offers-on-verizon-device-upgrades/"><u>Exclusive Monthly Offers on Verizon Device Upgrades</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-guide-to-troubleshooting-and-overcoming-graphical-gaffes-in-rust/"><u>Expert Guide to Troubleshooting & Overcoming Graphical Gaffes in Rust</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/future-proofing-communications-how-apple-strengthens-imessage-defenses-for-tomorrows-risks-featured/"><u>Future-Proofing Communications: How Apple Strengthens iMessage Defenses for Tomorrow's Risks, Featured</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/getting-assistance-from-genius-bar-staff-how-to-arrange-a-visit-to-apple-store/"><u>Getting Assistance From Genius Bar Staff: How to Arrange a Visit to Apple Store</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-experience-apples-revolutionary-3d-videos-with-meta-quest-3-the-ultimate-tutorial-zdnet/"><u>How to Experience Apple's Revolutionary 3D Videos with Meta Quest 3: The Ultimate Tutorial | ZDNET</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-oppo-a1x-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Oppo A1x 5G with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-poco-c50-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Poco C50 Phone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/le-groupe-volkswagen-evalue-le-moteur-dinfotainment-avec-lengine-de-lecture-abbyy-finereader/"><u>Le Groupe Volkswagen Évalue Le Moteur D'Infotainment Avec L'Engine De Lecture ABBYY FineReader</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/next-gen-smartwatch-showdown-does-the-apple-watch-series-10-outshine-the-series-t-explore-with-zdnet/"><u>Next-Gen Smartwatch Showdown: Does the Apple Watch Series 10 Outshine the Series T? Explore with ZDNET</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/spark-your-audience-with-best-video-content-ideas-for-2024/"><u>Spark Your Audience with Best Video Content Ideas for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-choosing-the-ideal-apple-watch-band-tested-and-reviewed-see-what-zdnet-says/"><u>Ultimate Guide to Choosing the Ideal Apple Watch Band | Tested & Reviewed - See What ZDNET Says</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unleash-flawless-navigation-on-the-go-discover-how-the-sabrent-mini-mouse-marries-cable-functionality-and-high-accuracy/"><u>Unleash Flawless Navigation On-the-Go: Discover How the Sabrent Mini Mouse Marries Cable Functionality and High Accuracy</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/visionaries-of-marvellous-marvel-realities-for-2024/"><u>Visionaries of Marvellous Marvel Realities for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-11-best-color-correction-and-color-grading-tutorial-for-2024/"><u>[New] 11 Best Color Correction and Color Grading Tutorial for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-accelerate-youtube-visibility-select-top-8-rank-watchers/"><u>[Updated] Accelerate YouTube Visibility - Select Top 8 Rank Watchers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-capture-androids-ear-4-easy-unrooted-ways/"><u>[Updated] In 2024, Capture Android's Ear 4 Easy, Unrooted Ways</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-navigating-the-best-on-line-resources-for-subtitle-optimization/"><u>[Updated] Navigating the Best On-Line Resources for Subtitle Optimization</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-the-quintessential-list-of-top-tier-gaming-cams-for-live-viewers/"><u>2024 Approved The Quintessential List of Top-Tier Gaming Cams for Live Viewers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-comprehensive-tutorial-how-to-properly-cite-the-chatgpt-tool/"><u>A Comprehensive Tutorial: How to Properly Cite the ChatGPT Tool</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-solutions-for-when-your-instagram-stories-fail-to-upload/"><u>Effective Solutions for When Your Instagram Stories Fail to Upload</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhanced-storage-solutions-for-classic-gaming-with-chdmans-wisdom/"><u>Enhanced Storage Solutions for Classic Gaming with CHDMAN's Wisdom</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/find-out-what-version-you-have-a-guide-to-finding-your-macbooks-model-code/"><u>Find Out What Version You Have: A Guide to Finding Your MacBook's Model Code</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, How can I get more stardust in pokemon go On Apple iPhone 7? | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-the-ultimate-guide-of-snapchat-filters/"><u>In 2024, The Ultimate Guide of Snapchat Filters</u></a></li>
+<li><a href="https://os-tips.techidaily.com/new-contractor-takes-charge-of-supporting-apples-innovative-on-the-road-help-system-via-satellites/"><u>New Contractor Takes Charge of Supporting Apple's Innovative On-The-Road Help System via Satellites</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-msiexecexe-is-not-found-and-other-msi-dll-problems/"><u>Resolving 'msiexec.exe Is Not Found' & Other MSI DLL Problems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-ocidll-file-missing-issue-a-comprehensive-guide/"><u>Solving the oci.dll File Missing Issue: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-to-fix-osetupdll-could-not-be-located-error/"><u>Step-by-Step Guide to Fix 'osetup.dll Could Not Be Located' Error</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solution-for-unresponsive-keys-on-your-keyboard/"><u>Step-by-Step Solution for Unresponsive Keys on Your Keyboard</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-sync-your-apple-homepod-and-tv-for-optimal-audio-visual-enjoyment/"><u>The Ultimate Guide to Sync Your Apple HomePod and TV for Optimal Audio-Visual Enjoyment</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-setting-up-auto-text-messaging-timers-on-your-iphone/"><u>Ultimate Guide: Setting Up Auto-Text Messaging Timers on Your iPhone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/vintage-gear-future-functions-embrace-windows-11-with-to-go-and-rufus/"><u>Vintage Gear, Future Functions: Embrace Windows 11 with To Go and Rufus</u></a></li>
 </ul></div>
 

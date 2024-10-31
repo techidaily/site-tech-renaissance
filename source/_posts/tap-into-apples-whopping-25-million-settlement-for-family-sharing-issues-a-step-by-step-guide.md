@@ -1,7 +1,7 @@
 ---
 title: Tap Into Apple's Whopping $25 Million Settlement for Family Sharing Issues - A Step-by-Step Guide
-date: 2024-10-18T09:53:27.105Z
-updated: 2024-10-25T09:41:06.101Z
+date: 2024-10-25T05:33:46.769Z
+updated: 2024-10-31T02:45:08.550Z
 tags:
   - apple
 categories:
@@ -30,25 +30,11 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -64,11 +50,25 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -79,10 +79,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -92,10 +92,10 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -134,22 +134,16 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-low-end-pc-visual-logging-software/"><u>[New] In 2024, Low-End PC Visual Logging Software</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-capture-the-moment-iphone-time-lapse-tutorial/"><u>[Updated] In 2024, Capture the Moment IPhone Time-Lapse Tutorial</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-unlock-audience-attention-top-6-video-styles-for-2024/"><u>[Updated] Unlock Audience Attention Top 6 Video Styles for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-immortalize-your-playthrough-xbox-one-screen-capture-tips/"><u>2024 Approved Immortalize Your Playthrough Xbox One Screen Capture Tips</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-simplify-creating-youtube-thumbnails-now/"><u>2024 Approved Simplify Creating YouTube Thumbnails Now</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/all-you-need-to-know-about-apples-latest-reveals-at-the-worldwide-developers-conference-enhancements-in-ai-siri-updates-and-new-features-in-ios-18-detailed-31/"><u>All You Need to Know About Apple's Latest Reveals at the Worldwide Developers Conference: Enhancements in AI, Siri Updates & New Features in iOS 18 - Detailed Coverage by ZDNet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/apple-resolves-long-standing-dispute-eligible-macbook-users-reap-rewards-in-class-action-agreement-technews/"><u>Apple Resolves Long-Standing Dispute: Eligible MacBook Users Reap Rewards in Class Action Agreement - TechNews</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apple-suspends-sales-of-apple-watch-9-ultra-2-online-repair-services-for-prior-editions-interrupted-gadgetnews-network/"><u>Apple Suspends Sales of Apple Watch 9, Ultra 2 Online - Repair Services for Prior Editions Interrupted | GadgetNews Network</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/choosing-your-ideal-apple-laptop-in-depth-comparison-of-macbook-pro-vs-macbook-air/"><u>Choosing Your Ideal Apple Laptop: In-Depth Comparison of MacBook Pro Vs. MacBook Air</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Lenovo ThinkPhone? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effective-solutions-for-a-defective-logitech-g433-mic-restore-audio-today/"><u>Effective Solutions for a Defective Logitech G433 Mic - Restore Audio Today!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/recovering-lost-images-from-your-ipod-touch-a-step-by-step-guide/"><u>Recovering Lost Images From Your iPod Touch: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/reviving-troubled-sonos-experiences-how-apples-intervention-could-change-the-game/"><u>Reviving Troubled Sonos Experiences: How Apple's Intervention Could Change the Game</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/score-a-steal-with-the-latest-ipad-gen-9-for-just-250-in-post-apple-release-deals-exclusive-on-zdnet/"><u>Score a Steal with the Latest iPad (Gen 9) for Just $250 in Post-Apple Release Deals | Exclusive on ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/seamless-connection-tips-on-pairing-airpods-with-your-quest-3-without-disturbing-others/"><u>Seamless Connection: Tips on Pairing AirPods with Your Quest 3 Without Disturbing Others</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-savings-on-amazon-in-august-2024-exclusive-offers-featured/"><u>Top Savings on Amazon in August 2024 - Exclusive Offers Featured</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unplugged-solutions-for-recharging-phones-when-youre-away-from-the-outlet/"><u>Unplugged Solutions for Recharging Phones When You're Away From the Outlet</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-breathless-races-showcasing-2022s-elite-snowboard-cross-at-winter-olympics-for-2024/"><u>[New] Breathless Races Showcasing 2022'S Elite Snowboard Cross at Winter Olympics for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-elevate-your-content-game-studio-aptitude-essentials/"><u>[New] Elevate Your Content Game Studio Aptitude Essentials</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-illuminating-images-in-lightroom-a-step-by-step-hdr-guide/"><u>[New] Illuminating Images in Lightroom A Step-by-Step HDR Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-logging-live-video-conversations/"><u>[New] Logging Live Video Conversations</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/binge-watch-without-cost-discover-crackle-for-free-movies-and-tv-shows/"><u>Binge-Watch Without Cost: Discover Crackle for Free Movies & TV Shows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-selection-9-fantastic-no-cost-preschool-playthings/"><u>Discover the Ultimate Selection: 9 Fantastic No-Cost Preschool Playthings</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/maximizing-gaming-experience-with-ultra-smooth-graphics-at-120-fps-on-ps5/"><u>Maximizing Gaming Experience with Ultra-Smooth Graphics at 120 FPS on PS5</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/perfecting-presentations-choosing-from-top-10-free-screen-captures-for-mac/"><u>Perfecting Presentations Choosing From Top 10 Free Screen Captures for Mac</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-common-issues-repairing-non-functional-apps-on-your-samsung-television/"><u>Troubleshooting Common Issues: Repairing Non-Functional Apps on Your Samsung Television</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-endless-entertainment-premium-film-and-tv-content-for-free-on-crackle/"><u>Unlock Endless Entertainment: Premium Film & TV Content for Free on Crackle</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-bring-your-ideas-to-life-the-top-8-animation-software-for-mac-and-windows/"><u>Updated Bring Your Ideas to Life The Top 8 Animation Software for Mac and Windows</u></a></li>
 </ul></div>
 

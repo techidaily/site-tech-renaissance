@@ -1,7 +1,7 @@
 ---
 title: 8 on ZDNet
-date: 2024-10-21T22:10:12.024Z
-updated: 2024-10-25T01:46:01.868Z
+date: 2024-10-26T17:50:10.731Z
+updated: 2024-10-31T01:58:33.490Z
 tags:
   - apple
 categories:
@@ -31,16 +31,10 @@ Voice dictation is another voice input mode. This is most often initiated by tap
 As it turns out, though, there's an incredibly powerful voice input mode that's hidden from most users because it's turned off by default. 
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Introducing Voice Control
@@ -62,10 +56,10 @@ You can say things like "tap number" or "pan up number", "swipe left" with an it
 To find out what commands work with Voice Control, start by saying, "What can I say?" iMore has an [excellent comprehensive list of all the commands](https://www.imore.com/everything-you-can-do-voice-control-iphone-and-ipad). Just point your browser there to see all that's available. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Enabling Voice Control on your phone
@@ -75,10 +69,10 @@ Not only is Voice Control not turned on by default, but the code that runs Voice
 You'll know Voice Control is enabled when there's a little blue microphone icon at the top of your screen.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Additional features
@@ -121,24 +115,22 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-amplifying-instagram-video-reach-and-traffic/"><u>[Updated] 2024 Approved Amplifying Instagram Video Reach & Traffic</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-learn-to-edit-the-ultimate-guide-for-igtv-titles/"><u>[Updated] 2024 Approved Learn to Edit The Ultimate Guide for IGTV Titles</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-crafting-quality-videos-a-guide-to-apple-device-screen-recording-for-2024/"><u>[Updated] Crafting Quality Videos A Guide to Apple Device Screen Recording for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/complete-tutorial-adding-various-points-of-interest-simultaneously-on-google-maps/"><u>Complete Tutorial: Adding Various Points of Interest Simultaneously on Google Maps</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/discover-oodles-complimentary-local-advertising-options/"><u>Discover Oodle's Complimentary Local Advertising Options</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-steps-to-retrieve-accidentally-erased-emails-from-googles-inbox/"><u>Easy Steps to Retrieve Accidentally Erased Emails From Google's Inbox</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/enhance-indoor-tv-viewing-techniques-for-strengthening-digital-tv-signals-with-in-home-antennas/"><u>Enhance Indoor TV Viewing: Techniques for Strengthening Digital TV Signals with In-Home Antennas</u></a></li>
-<li><a href="https://windows11.techidaily.com/escalate-typing-pace-via-windows-powertoys/"><u>Escalate Typing Pace via Windows' PowerToys</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-logitech-brio-webcam-up-and-running-on-windows-1087-with-this-free-driver-software/"><u>Get Your Logitech BRIO Webcam Up and Running on Windows 10/8/7 with This Free Driver Software</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-efficiently-purge-several-friends-from-your-snapchat-at-once/"><u>How To Efficiently Purge Several Friends From Your Snapchat at Once</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-samsung-galaxy-f54-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Samsung Galaxy F54 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/latest-m3-macbook-pro-info-release-schedule-costs-and-full-tech-specifications/"><u>Latest M3 MacBook Pro Info - Release Schedule, Costs & Full Tech Specifications</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/live-streaming-mastery-with-manycam-premium-virtual-webcam-and-software-solutions/"><u>Live Streaming Mastery with ManyCam: Premium Virtual Webcam and Software Solutions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigate-with-ease-unveiling-five-prime-iphone-compatible-gps-apps/"><u>Navigate with Ease: Unveiling Five Prime iPhone-Compatible GPS Apps</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/pixiz-masterclass-merging-photography-and-motion/"><u>Pixiz Masterclass Merging Photography and Motion</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-oleaut32dll-not-detected-a-step-by-step-guide/"><u>Resolving 'OleAut32.dll' Not Detected: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/student-savings-on-streaming-your-ultimate-guide-to-cheaper-spotify-music-passes/"><u>Student Savings on Streaming: Your Ultimate Guide to Cheaper Spotify Music Passes</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/techkey-bluetooth-adapter-free-driver-download-for-pc-win-1078/"><u>Techkey Bluetooth Adapter: Free Driver Download for PC - Win 10/7/8</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unfolding-the-details-samsung-galaxy-z-fold-6s-launch-info-cost-specs-and-latest-updates/"><u>Unfolding the Details: Samsung Galaxy Z Fold 6'S Launch Info, Cost, Specs & Latest Updates</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-mastering-the-art-of-addressing-conflict-a-guide-to-effective-reporting-methods-on-discord-for-2024/"><u>[New] Mastering the Art of Addressing Conflict A Guide to Effective Reporting Methods on Discord for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-journey-of-drones-from-current-uses-to-future-applications/"><u>2024 Approved The Journey of Drones From Current Uses to Future Applications</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/movavi-trp-mpeg/"><u>免費線上移動視頻格式: 使用 Movavi 轉換器改變 TRP 成 MPEG</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/benefits-and-drawbacks-of-using-disk-cloning-technology/"><u>Benefits and Drawbacks of Using Disk Cloning Technology</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/chatgpt-ownership-explained-identifying-the-key-players/"><u>ChatGPT Ownership Explained: Identifying the Key Players</u></a></li>
+<li><a href="https://techtrends.techidaily.com/conversione-libera-ed-elettronica-di-video-mp4-a-formato-mpeg/"><u>Conversione Libera Ed Elettronica Di Video MP4 a Formato MPEG</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diagnosing-and-repairing-the-critical-process-died-stop-0x0000003d-problem-on-windows-pcs/"><u>Diagnosing and Repairing the Critical Process Died (STOP) 0X0000003D Problem on Windows PCs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expand-your-play-a-comprehensive-guide-to-setting-up-extra-storage-for-xbox-one-games/"><u>Expand Your Play: A Comprehensive Guide to Setting Up Extra Storage for Xbox One Games</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-vivo-x-flip-to-mac-drfone-by-drfone-android/"><u>How to Mirror Vivo X Flip to Mac? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-lava-agni-2-5gwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Lava Agni 2 5Gwith/without a PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-usb-20-essentials-an-overview-of-transfer-speeds-wires-and-interfaces/"><u>Mastering USB 2.0 Essentials: An Overview of Transfer Speeds, Wires, and Interfaces</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-through-the-world-of-digital-to-analog-converters-dac/"><u>Navigating Through the World of Digital to Analog Converters (DAC)</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722893643266-revamp-your-win-11-interface-download-the-15-most-amazing-free-themes-today/"><u>Revamp Your Win 11 Interface: Download the 15 Most Amazing Free Themes Today!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-overcoming-black-screen-challenges-in-facetime-conversations/"><u>Step-by-Step Guide: Overcoming Black Screen Challenges in FaceTime Conversations</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-21st-century-challenges-like-climate-change-pandemics-and-cyber-warfare-demand-new-solutions-that-extend-beyond-the-scope-of-liberal-capitalism/"><u>The 21St-Century Challenges Like Climate Change, Pandemics, and Cyber Warfare Demand New Solutions that Extend Beyond the Scope of Liberal Capitalism</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-how-to-finding-and-acquiring-an-appropriate-surge-protector/"><u>The Ultimate How-To: Finding and Acquiring an Appropriate Surge Protector</u></a></li>
 </ul></div>
 

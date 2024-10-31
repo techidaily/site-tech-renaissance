@@ -1,7 +1,7 @@
 ---
 title: "AI Breakthrough: Apple Indicates Future iPhones with New Tech Buyout - ZDNet"
-date: 2024-10-19T20:46:38.345Z
-updated: 2024-10-25T08:21:36.573Z
+date: 2024-10-26T20:19:39.740Z
+updated: 2024-10-30T21:24:21.460Z
 tags:
   - apple
 categories:
@@ -29,13 +29,6 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 ## How to check in with a friend or family member from your Apple Watch
 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1\. Update your devices
 
@@ -86,10 +79,10 @@ If you still wish to use a timer for the Check In option but change the amount o
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Send a customized Check In through the Messages app
@@ -99,10 +92,10 @@ To further customize the Check In, tap the Edit button at the Check In screen. T
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Add a destination and send the text
@@ -113,6 +106,13 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Set a Check In for a workout in the Messages app
 
 Maybe you're working out at the gym or at home and want to let someone know when you've finished. You can do this a couple of ways. In the Messages app on your watch, start or continue a conversation with the recipient. Tap the Add icon, select Check In, and then tap Edit. Tap the option for Check In and change it to "When workout ends." Start your workout. When you're done, swipe the screen to the right and tap End. The other person will then receive the notification.
@@ -120,10 +120,10 @@ Maybe you're working out at the gym or at home and want to let someone know when
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
@@ -162,24 +162,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-how-to-enable-grid-view-on-google-meet-to-see-every-participant/"><u>[New] 2024 Approved How to Enable Grid View on Google Meet to See Every Participant?</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-streamlined-processes-transforming-mac-videos-into-snaps/"><u>[New] In 2024, Streamlined Processes Transforming Mac Videos Into Snaps</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-pro-tips-to-enhance-your-use-of-instagrams-query-symbol/"><u>[Updated] In 2024, Pro Tips to Enhance Your Use of Instagram's Query Symbol</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-archive-awesome-perfecting-twitter-video-backups/"><u>2024 Approved Archive Awesome Perfecting Twitter Video Backups</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-busting-vlogger-shakiness-leading-camera-stabilizer-brands/"><u>2024 Approved Busting Vlogger Shakiness Leading Camera Stabilizer Brands</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/effective-strategies-for-sharing-and-working-on-apple-pages-files-through-icloud-insights-from-zdnet/"><u>Effective Strategies for Sharing and Working on Apple Pages Files Through iCloud - Insights From ZDNet</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/effective-ways-to-shrink-your-vob-movie-files-quickly-and-online/"><u>Effective Ways to Shrink Your VOB Movie Files Quickly and Online</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/elevate-your-insta-stories-with-pinned-conversations-a-comprehensive-guide/"><u>Elevate Your Insta Stories with Pinned Conversations: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/elevate-your-online-presence-the-ultimate-guide-to-seo-through-advanced-advertising-tools/"><u>Elevate Your Online Presence: The Ultimate Guide to SEO Through Advanced Advertising Tools</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-turning-off-automatic-post-recommendations-on-instagram/"><u>Guide: Turning Off Automatic Post Recommendations on Instagram</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-samsung-galaxy-a34-5g-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Samsung Galaxy A34 5G Device</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/in-depth-review-of-the-toughest-iphone-case-by-apple-with-a-special-emphasis-on-its-unique-security-feature/"><u>In-Depth Review of the Toughest iPhone Case by Apple with a Special Emphasis on Its Unique Security Feature</u></a></li>
-<li><a href="https://win-forum.techidaily.com/lock-down-your-files-easy-methods-for-protecting-text-documents-with-passwords/"><u>Lock Down Your Files: Easy Methods for Protecting Text Documents with Passwords</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/macbook-air-with-m1-chip-available-at-unbeatable-rate-of-only-649-top-deal-on-zdnet/"><u>MacBook Air with M1 Chip Available at Unbeatable Rate of Only $649: Top Deal on ZDNet</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/narrative-innovation-weaving-stories-through-movies-and-animations-for-2024/"><u>Narrative Innovation Weaving Stories Through Movies and Animations for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/october-now-on-the-horizon-for-innovative-apple-smart-technology-rollout-revealed-by-media-digitalwire/"><u>October Now on the Horizon for Innovative Apple Smart Technology Rollout Revealed by Media - DigitalWire</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-how-to-on-keeping-your-airpods-germ-free-a-comprehveguide-to-sanitization-and-maintenance/"><u>The Ultimate How-To on Keeping Your AirPods Germ-Free: A Comprehveguide to Sanitization and Maintenance</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-resolving-e06-e43-and-related-pregnancy-test-codes/"><u>Ultimate Guide: Resolving E06, E43 & Related Pregnancy Test Codes</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-windows-11s-battery-diagnostics-tool-a-comprehensive-guide/"><u>Unveiling Windows 11'S Battery Diagnostics Tool: A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/rofitable-playgrounds-for-youtube-geeks-2024/"><u>[New] Profitable Playgrounds for YouTube Geeks 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-the-ultimate-tweeting-of-tiktok-phenomena/"><u>[Updated] 2024 Approved The Ultimate Tweeting of TikTok Phenomena</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-novices-net-a-comprehensive-look-at-visual-quality-measures/"><u>[Updated] The Novice’s Net A Comprehensive Look at Visual Quality Measures</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-top-9-smartphone-meeting-platforms-iphone-vs-android-comparison/"><u>[Updated] Top 9 Smartphone Meeting Platforms IPhone vs Android Comparison</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-navigating-mobile-technology-for-snapchat-archive/"><u>2024 Approved Navigating Mobile Technology for Snapchat Archive</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-top-voice-modification-tools-for-youtube-creators/"><u>2024 Approved Top Voice Modification Tools for YouTube Creators</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-step-by-nstep-guide-to-fixing-system-problems-detected-by-post/"><u>A Step-by-nStep Guide to Fixing System Problems Detected by POST</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/connecting-ps-vr-headset-to-desktop-comprehensive-tutorial/"><u>Connecting PS VR Headset to Desktop - Comprehensive Tutorial</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-these-15-complimentary-antimalware-applications/"><u>Discover These 15 Complimentary Antimalware Applications</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/elite-selection-of-servers-rack-systems-unveiled/"><u>Elite Selection of Servers Rack Systems Unveiled</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-ray-tracing-revolutionizing-realistic-renderings/"><u>Exploring Ray Tracing: Revolutionizing Realistic Renderings</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ating-the-world-of-youtube-building-strong-partner-relationships/"><u>Navigating the World of YouTube Building Strong Partner Relationships</u></a></li>
+<li><a href="https://fox-http.techidaily.com/precision-flight-the-new-era-with-yuneec-drone-review-for-2024/"><u>Precision Flight The New Era with Yuneec Drone Review for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-transferring-data-from-your-pc-to-xbox-one-with-an-external-hard-drive/"><u>Step-by-Step Guide: Transferring Data From Your PC to Xbox One with an External Hard Drive</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-perplexing-case-of-your-keep-dying-car-battery-exploring-the-6-leading-reasons-why-it-may-happen/"><u>The Perplexing Case of Your Keep-Dying Car Battery: Exploring the 6 Leading Reasons Why It May Happen</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-steps-to-perform-a-hardware-reset-on-your-lenovo-notebook/"><u>Ultimate Guide: Steps to Perform a Hardware Reset on Your Lenovo Notebook</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-elegance-affordable-options-for-cutting-edge-technology-marvels/"><u>Unlocking Elegance: Affordable Options for Cutting-Edge Technology Marvels</u></a></li>
 </ul></div>
 

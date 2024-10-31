@@ -1,7 +1,7 @@
 ---
 title: Apple Bids Farewell to iTunes and Introduces New Media Player Apps on Windows - A Detailed Look by ZDNet
-date: 2024-10-18T22:50:42.336Z
-updated: 2024-10-24T18:35:03.406Z
+date: 2024-10-24T19:19:23.405Z
+updated: 2024-10-30T21:09:04.171Z
 tags:
   - apple
 categories:
@@ -35,10 +35,10 @@ Apple announced an innovative feature coming to AirPods Pro 2 when iOS 18 is rel
 Then, if needed, the AirPods Pro 2 can use the wearer's results and double as an over-the-counter hearing aid. This feature will allow the Pro 2 earbuds to use their directional microphones to amplify conversational noises for users who have difficulty hearing conversations in noisy environments. Apple is still waiting for the FDA to approve this feature, but the company expects the approval to be ready for iOS 18's release.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Find My speaker
@@ -48,10 +48,10 @@ Apple's AirPods Pro 2 feature a small speaker on the bottom of the charging case
 Jada Jones/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. AirPods Max wired listening
@@ -71,10 +71,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 Now, if you have an iPhone 15 or newer, you can plug a USB-C cable into your iPhone and AirPods Max and begin listening. If you have an iPhone 14 or older, you can use a Lightning-to-USB-C adapter to plug into the new AirPods Max.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. A 'Goldilocks' pair of AirPods
@@ -115,22 +115,18 @@ Now, you can buy the AirPods 4 with noise cancellation, which offer upgraded aud
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-masterful-methods-for-adding-melodies-to-ig-media/"><u>[New] 2024 Approved Masterful Methods for Adding Melodies to IG Media</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-enhanced-interaction-making-skype-calls-on-your-phone/"><u>[New] In 2024, Enhanced Interaction Making Skype Calls on Your Phone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-instagram-mastery-the-top-10-steps-to-optimize-engagement/"><u>[Updated] Instagram Mastery The Top 10 Steps to Optimize Engagement</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-unresolved-problem-viewing-videos-on-sony-a6400/"><u>[Updated] Unresolved Problem Viewing Videos on Sony A6400</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/a-comprehensive-guide-updating-your-chromecasts-wallpaper/"><u>A Comprehensive Guide: Updating Your Chromecast's Wallpaper</u></a></li>
-<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-infinix-note-30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Infinix Note 30 | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/halt-luminary-lurches-in-acer-computers/"><u>Halt Luminary Lurches in Acer Computers</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-plus-passcode-screen-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 6s Plus Passcode Screen? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Vivo Y77t? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/james-bond-franchise-the-ultimate-viewing-sequence/"><u>James Bond Franchise: The Ultimate Viewing Sequence</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/maintaining-continuous-power-techniques-to-prevent-your-mac-from-going-to-sleep/"><u>Maintaining Continuous Power: Techniques to Prevent Your Mac From Going to Sleep</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/multiple-voices-one-source-the-ultimate-technique-to-connect-varied-bluetooth-speakers-to-a-sole-device/"><u>Multiple Voices, One Source: The Ultimate Technique to Connect Varied Bluetooth Speakers to a Sole Device</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/samsung-galaxy-s22-ultra-latest-updates-on-pricing-release-timeline-and-features/"><u>Samsung Galaxy S22 Ultra - Latest Updates on Pricing, Release Timeline & Features</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-definitive-list-of-10-cameras-with-anti-shake-tech/"><u>The Definitive List of 10 Cameras with Anti-Shake Tech</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-10-classic-80s-films-you-should-catch-on-the-big-screen/"><u>Top 10 Classic '80S Films You Should Catch on the Big Screen</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-resolving-sound-problems-during-your-powerpoint-show/"><u>Ultimate Guide: Resolving Sound Problems During Your PowerPoint Show</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unleash-musical-bliss-8-amazing-free-melodies-apps-for-ios-devices/"><u>Unleash Musical Bliss: 8 Amazing Free Melodies Apps for iOS Devices</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-leading-popular-instagram-after-effects-designs-for-2024/"><u>[New] Leading Popular Instagram After Effects Designs for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-the-video-editor-face-off-making-an-informed-decision-filmora-vs-democracy-creator/"><u>2024 Approved The Video Editor Face-Off Making an Informed Decision (Filmora Vs. Democracy Creator)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/anticipate-the-next-big-thing-in-wearables-the-apple-watch-series-8-when-its-coming-out-and-what-it-costs/"><u>Anticipate the Next Big Thing in Wearables: The Apple Watch Series 8 - When It's Coming Out and What It Costs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/curated-list-of-top-picks-lesbian-gay-bisexual-and-transgender-movies-on-netflix-july-2024/"><u>Curated List of Top Picks: Lesbian, Gay, Bisexual & Transgender Movies on Netflix (July 2024)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-top-picks-of-free-online-faxing-platforms/"><u>Discover Top Picks of Free Online Faxing Platforms</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/elevate-your-broadcast-game-4-innovative-methods-from-desktop-users-on-tiktok-for-2024/"><u>Elevate Your Broadcast Game 4 Innovative Methods From Desktop Users on TikTok for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-mail-a-virtual-gift-from-steam-with-confidence/"><u>How to Mail a Virtual Gift From Steam with Confidence</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-11-best-location-changers-for-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-a24-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy A24 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-timeline-of-innovation-tracing-the-advanceback-from-ios-10-to-ios-180/"><u>The Timeline of Innovation: Tracing the Advanceback From iOS 1.0 to iOS 18.0</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-tutorial-to-get-siri-reading-out-words-on-ios-and-macos-devices/"><u>The Ultimate Tutorial to Get Siri Reading Out Words on iOS & macOS Devices</u></a></li>
+<li><a href="https://fox-info.techidaily.com/transforming-hobby-footage-into-professional-vlogs/"><u>Transforming Hobby Footage Into Professional Vlogs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/virtual-whodunit-adventures-embark-on-4-futuristic-online-escapades/"><u>Virtual Whodunit Adventures: Embark on 4 Futuristic Online Escapades</u></a></li>
 </ul></div>
 

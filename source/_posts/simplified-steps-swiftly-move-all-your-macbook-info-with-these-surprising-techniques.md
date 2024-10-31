@@ -1,7 +1,7 @@
 ---
 title: "Simplified Steps: Swiftly Move All Your MacBook Info With These Surprising Techniques"
-date: 2024-10-21T18:10:08.331Z
-updated: 2024-10-25T05:51:56.135Z
+date: 2024-10-23T16:41:03.410Z
+updated: 2024-10-31T03:04:18.304Z
 tags:
   - apple
 categories:
@@ -74,13 +74,6 @@ The boy
 
 The way I have Gmail set up, only the most important messages show up on my watch. Same with Slack notifications. Basically, unless there's something urgent from one of my editors, I can start my day in peace. If there's nothing urgent, I hit the snooze button. After repeating this ritual two or three times, I get up, do my morning necessaries, and zombie-walk to the coffee maker. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best smartwatches Apple, Samsung, and others battle for your wrist.  Read now](https://www.zdnet.com/article/best-smartwatch/)
@@ -90,13 +83,6 @@ Once I have coffee in hand, I navigate [the puppy's](https://www.zdnet.com/artic
 At this point, I tend to take note of what's in my inbox, but I neither process it, nor respond to it. I want to let the coffee take hold. 
 
 I also take a quick look at my calendar and my to-do list to make sure I know what's on deck for the day. 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Daily must-reads with Pocket
 
@@ -114,6 +100,13 @@ By this point, I'm somewhere between 30 and 60 minutes into my day, I've had one
 
 Depending on the importance and urgency of the messages in my Gmail inbox, I'll either go straight into my morning email cycle or begin my morning reading. I prefer to do morning reading before email, so I'll discuss that next. 
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The Pocket-read-post-archive cycle
 
 I read. A lot. I need to keep up to date on a tremendous amount of information, both breaking news related and deep technical or academic information. As a result, a good percentage of my morning is spent reading. I also watch a lot of YouTube videos. I'm almost always learning about new stuff, and many YouTube videos provide great introductions to both how those things work and what they do. Without YouTube, I never would have [gotten my CNC up and running](https://www.zdnet.com/article/hands-on-building-the-next-generation-x-carve-cnc-build-log/) and done [my first successful build](https://www.zdnet.com/article/my-first-big-cnc-project-a-parts-organizer-rack/).
@@ -125,13 +118,6 @@ What's particularly nice about Pocket is that it runs on not only my couch-side 
 Part of my morning flow is posting to the social networks. Unfortunately, this has changed. It used to be that whenever I found an article that was interesting in my Pocket collection, I tapped the Share icon in Pocket and then selected [Buffer](http://bufferapp.com). Buffer then took the article, scheduled it, and posted it to Twitter, Facebook, and LinkedIn. Two clicks and I used to be able shared something interesting.
 
 But Facebook broke that. Facebook no longer allows tools like Buffer and [Hootsuite](https://hootsuite.com/) to to post to personal Facebook pages. I've spent years building up my personal Facebook page following and don't want to start a corporate page (or orphan all my followers), so when Facebook broke auto-posting, it hurt. Now, I hand post to Twitter and then do it again on Facebook. LinkedIn gets a lot less attention, and, frankly, I post less frequently. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Featured reviews
 
@@ -170,6 +156,13 @@ Now, to be fair, I have a slight email fetish, so I do check back in to my inbox
 
 In fact, now that I have email notifications integrated into my watch, I'm finding I'm actually breaking myself of the habit, because unless I hear the notification tone, I don't have any important emails coming in. I have actually gone a few hours without checking my email inbox, which is something of a record for me. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Managing my daily teaching opportunities
 
 As it turns out, supporting users is a lot like teaching online students.
@@ -184,6 +177,13 @@ I just think of those users like more of my students. If any questions show up i
 
 By the way, this is also a great way to think about users, which I initially was a bit unhappy about adding to my daily workload. But the reframe is this: I'm an educator and these are more people in need of assistance while they're learning to use these plugins. So, rather than thinking about providing user support as an added workload, I think of the users as more of my students and their questions as simply more teaching opportunities. It's also a great way to keep up on what people are doing out there, and gives me a much more "on the street" dialog with users, which is invaluable as a tech journalist.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Featured
 
 * [We've used every iPhone 16 model and here's our best buying advice for 2024](https://www.zdnet.com/article/iphone-16-pro-max-buying-advice-2024/)
@@ -192,6 +192,13 @@ By the way, this is also a great way to think about users, which I initially was
 * [Want a programming job? Learn these three languages](https://www.zdnet.com/article/want-a-programming-job-learn-these-three-languages/)
 
 Here's another little trick I use: I get a lot of feature requests (which I call "cool feature ideas") from the plugin users. The go into [the bug tracking system I manage in Notion](https://www.zdnet.com/article/notion-app-review/).
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## To-doing my to-do list
 
@@ -223,18 +230,18 @@ I've set up a bunch of Notion pages and all the items that "should be on the lis
 
 That, by the way, is the entire key to keeping your to-do list under control. If you actually intend to do an item within a reasonably short period of time, put it on your to-do list. If you expect to do it someday, it's not a to-do list item, not an actionable item, and you should write them on another list somewhere. I use Trello for that. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best 3D printers If you're in the market for a 3D printer, you'll find one here that fits your needs.  Read now](https://www.zdnet.com/article/best-3d-printer/)
 
 I've also set up Notion pages for each 3D printer, and for managing and tracking my reviews and video projects. It's great as a catch-all for lots of details, but unlike previous catch-alls like Evernote, Notion allows you to assign some structure and layout to the stuff you're working with. 
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Blocking out time for my projects
 
@@ -249,13 +256,6 @@ Next is DG Planner. I use this to block out a set of days for everything that ha
 Finally, there's Planner Tentative. This is where I block out the approximate time a project I may or may not be working on will probably take. That way, if I'm taking with my team about a bunch of projects, I can block out some tentative time and see how my month is shaping up.
 
 With this system, I rarely lose track of projects and also rarely overbook myself. It's worked quite well for a bunch of years now.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Rethinking your flow
 
@@ -286,24 +286,22 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-expert-tutorial-quick-hassle-free-ios-snapshots/"><u>[Updated] Expert Tutorial Quick, Hassle-Free iOS Snapshots</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-digitally-delving-into-deleted-youtubes-easy-watch-options/"><u>[Updated] In 2024, Digitally Delving Into Deleted YouTubes Easy Watch Options</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-tips-for-incorporating-songs-in-your-fb-story/"><u>[Updated] In 2024, Tips for Incorporating Songs in Your FB Story</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-ranked-5-ios-podcast-applications-you-must-download/"><u>2024 Approved Ranked 5 iOS Podcast Applications You Must Download</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-14-pro-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 14 Pro Without iTunes</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apples-revolutionary-move-new-camera-enabled-airpods-on-the-horizon-for-2eighty-six-according-to-zdnet-coverage/"><u>Apple's Revolutionary Move? New Camera-Enabled AirPods on the Horizon for 2Eighty-Six, According to ZDNET Coverage</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/elevate-your-wristwear-game-in-depth-review-and-faceoff-between-new-google-pixel-watch-and-apple-watch-series-9/"><u>Elevate Your Wristwear Game: In-Depth Review and Faceoff Between New Google Pixel Watch and Apple Watch Series 9</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/immersive-4k-visuals-and-seamless-roku-integration-in-hitachi-television-models/"><u>Immersive 4K Visuals and Seamless Roku Integration in Hitachi Television Models</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-honor-x8b-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Honor X8b FRP In 3 Different Ways</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Lava Blaze 2 | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/inside-the-world-of-toms-hardware-components-and-systems/"><u>Inside the World of Tom's Hardware Components & Systems</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/-route-to-riches-top-10-youtube-channels-for-startup-success-for-2024/"><u>Quick Route to Riches Top 10 YouTube Channels for Startup Success for 2024</u></a></li>
-<li><a href="https://fox-making.techidaily.com/section-2a-explanation-of-sensitivity-in-dental-materials/"><u>Section 2A: Explanation of Sensitivity in Dental Materials</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/stay-protected-with-macos-14n-the-key-to-safe-and-easy-mac-updates-revealed-by-zdnet/"><u>Stay Protected with macOS 14.n - The Key to Safe and Easy Mac Updates Revealed by ZDNET!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-inexpensive-apple-watch-series-se-gets-a-fresh-look-discover-the-latest-enhancements-digitaltrends/"><u>The Inexpensive Apple Watch Series SE Gets a Fresh Look - Discover the Latest Enhancements | DigitalTrends</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-linking-a-single-telephone-number-across-multiple-platforms/"><u>The Ultimate Guide to Linking a Single Telephone Number Across Multiple Platforms</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/turn-off-autoplay-in-your-itunes-library-quick-tips-and-tricks/"><u>Turn Off AutoPlay in Your iTunes Library: Quick Tips & Tricks</u></a></li>
-<li><a href="https://facebook.techidaily.com/understanding-photodna-a-tool-against-piracy/"><u>Understanding PhotoDNA: A Tool Against Piracy</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiled-top-4-new-ipados-16-innovations-from-apples-worldwide-developers-conference-2024-compatible-devices-revealed/"><u>Unveiled: Top 4 New iPadOS 16 Innovations From Apple's Worldwide Developers Conference 2024 - Compatible Devices Revealed!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-googles-quick-fix-for-photo-collage-enthusiasts/"><u>[New] Google's Quick Fix for Photo Collage Enthusiasts</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-mastering-srt-a-thorough-exploration-of-its-essence/"><u>[Updated] 2024 Approved Mastering SRT A Thorough Exploration of Its Essence</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-showcasing-the-best-at-innovative-youtube-ad-making/"><u>[Updated] Showcasing the Best at Innovative YouTube Ad Making</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-walkthrough-how-to-easily-capture-your-pc-display/"><u>Complete Walkthrough: How to Easily Capture Your PC Display</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/deciphering-modern-gesture-control-mechanisms/"><u>Deciphering Modern Gesture Control Mechanisms</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-fixes-for-when-alexas-echo-device-is-not-responding-or-showing-offline/"><u>Easy Fixes for When Alexa's Echo Device Is Not Responding or Showing Offline</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-solutions-troubleshooting-your-televisions-top-issues/"><u>Easy Solutions: Troubleshooting Your Television's Top Issues</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-tutorial-on-inserting-captions-in-instagram-story-posts-for-better-engagement/"><u>Easy Tutorial on Inserting Captions in Instagram Story Posts for Better Engagement</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-picks-superior-hanging-speaker-systems-of-2024-revealed/"><u>Expert Picks: Superior Hanging Speaker Systems of 2024 Revealed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/optimizing-ps3-swapping-for-bigger-hdd/"><u>Optimizing PS3: Swapping for Bigger HDD</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/sequential-screening-strategy-for-dragon-ball-fans-watch-it-right/"><u>Sequential Screening Strategy for Dragon Ball Fans - Watch It Right!</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/simplify-your-life-with-time-lapsing-on-samsung-gear-for-2024/"><u>Simplify Your Life with Time-Lapsing on Samsung Gear for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-lameencdll-dll-file-problems-in-your-audacity-mp3-conversion-tasks/"><u>Solving the lame_enc.dll DLL File Problems In Your Audacity MP3 Conversion Tasks</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210184135-9781937919085-the-cosmic-family-volume-1/"><u>The Cosmic Family, Volume 1 | Free Book</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-method-for-unliking-songs-across-spotify-playlists-and-library/"><u>The Ultimate Method for Unliking Songs Across Spotify Playlists and Library</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unleash-your-adventure-with-panasonics-cutting-edge-hx-a1-cam/"><u>Unleash Your Adventure with Panasonic's Cutting-Edge HX-A1 Cam</u></a></li>
+<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-from-your-iphone-13-mini-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled From your iPhone 13 mini? How to Fix</u></a></li>
 </ul></div>
 

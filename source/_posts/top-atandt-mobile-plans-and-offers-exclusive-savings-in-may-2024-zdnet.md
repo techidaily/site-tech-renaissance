@@ -1,7 +1,7 @@
 ---
 title: "Top AT&T Mobile Plans & Offers: Exclusive Savings in May 2024 - ZDNet"
-date: 2024-10-23T21:14:41.003Z
-updated: 2024-10-25T07:55:46.141Z
+date: 2024-10-29T01:50:44.519Z
+updated: 2024-10-31T05:46:02.068Z
 tags:
   - apple
 categories:
@@ -140,6 +140,19 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 
 [BodyGuardz Pure 2 Edge antimicrobial glass screen protector (iPhone 14 range) for $10 (save $35) $10 at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/accessories/Screen-Protectors/bodyguardz-pure-2-edge-antimicrobial-tempered-glass-screen-protector-iphone-14-13-13-pro.html)
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How did we choose these AT&T phone deals?
 
 When we made our selection for the best AT&T deals, we wanted to include options based on the following criteria: 
@@ -150,44 +163,37 @@ When we made our selection for the best AT&T deals, we wanted to include options
 * **Free products**: Devices drop in value over time, and to offload excess stock, some carriers will launch time-sensitive deals, giving subscribers free products in exchange for signing up for a new contract.
 * **Events**: It's always worth checking retailers after a major event, such as Samsung Unpacked. You will often find that deals will be launched just after, luring customers to agree to preorder their new handset in return for discounts and free storage upgrades.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Does AT&T offer deals for existing customers?
 
 It's true that carriers are the most aggressive with their offers when it's year-end and new customers are shopping around for services to switch to. Still, AT&T has done a fairly balanced job of pushing promotions for new and existing customers, including all the deals we have listed above. If you've been a loyal customer, we'd even recommend reaching out to your local AT&T provider to see if there are any exclusive deals just for you.
-
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Is it cheaper to buy a phone online or in-store?
 
 In general, there is no difference in how much money you save whether you shop online or in stores. Instead, deciding between the two really boils down to your preference for transactions. With how complicated carrier phone deals can be, you may be better off heading down to the local AT&T store and consulting with a product expert to help you navigate the fine print. Otherwise, shopping online can be faster and more convenient.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What are the best deals right now?
 
 ZDNET experts split out the latest and greatest deals for you below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Best deals by retailer**
 
@@ -195,16 +201,10 @@ ZDNET experts split out the latest and greatest deals for you below.
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Best deals by category**
@@ -256,21 +256,17 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-above-and-beyond-vertical-panoramas-made-easy/"><u>[New] Above and Beyond Vertical Panoramas Made Easy</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-shambling-successes-the-cutthroat-list-of-best-zombies-gaming/"><u>[New] Shambling Successes The Cutthroat List of Best Zombies Gaming</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/nleash-your-potential-skyrocketing-youtube-audience-for-2024/"><u>[New] Unleash Your Potential Skyrocketing YouTube Audience for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-discovering-new-horizons-with-samsungs-updated-image-tools/"><u>[Updated] Discovering New Horizons with Samsung’s Updated Image Tools</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-enhancing-your-youtube-presence-with-split-screen-techniques/"><u>2024 Approved Enhancing Your YouTube Presence with Split-Screen Techniques</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/decoding-the-matrix-series-watch-in-the-right-order/"><u>Decoding the Matrix Series: Watch in The Right Order</u></a></li>
-<li><a href="https://facebook.techidaily.com/digital-defense-tactics-against-elite-swindles/"><u>Digital Defense Tactics Against Elite Swindles</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722890121668-does-my-mailcom-email-have-an-expiration-heres-the-facts/"><u>Does My Mail.com Email Have an Expiration? Here's the Facts.</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-methods-for-changing-your-smartphones-protective-display-cover/"><u>Easy Methods for Changing Your Smartphone’s Protective Display Cover</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/google-maps-made-simple-finding-and-using-ev-charging-stations-across-the-country/"><u>Google Maps Made Simple: Finding and Using EV Charging Stations Across the Country</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-restore-wi-fi-connection-on-a-malfunctioning-surface-pro-device/"><u>How To Restore Wi-Fi Connection On A Malfunctioning Surface Pro Device</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-vivo-y56-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Vivo Y56 5G Devices</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolve-your-mfc71dll-could-not-be-loaded-or-is-damaged-error-easily/"><u>Resolve Your 'mfc71.dll' Could Not Be Loaded or Is Damaged Error Easily</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-9-realme-v30t-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Realme V30T Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/transform-your-videos-into-revenue-streams-with-smart-vimeo-tactics-for-2024/"><u>Transform Your Videos Into Revenue Streams with Smart Vimeo Tactics for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/untangling-audio-glitches-effective-solutions-for-powerpoint-presentation-sounds/"><u>Untangling Audio Glitches: Effective Solutions for PowerPoint Presentation Sounds</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-insightful-rank-watchers-optimizing-your-video-performance/"><u>[Updated] 2024 Approved Insightful Rank Watchers Optimizing Your Video Performance</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-how-to-setup-a-mac-studio-for-sports-content-for-2024/"><u>[Updated] How to Setup a Mac Studio for Sports Content for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-from-creator-to-curator-expertly-upload-your-videos-on-igadgets/"><u>2024 Approved From Creator to Curator Expertly Upload Your Videos on iGadgets</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-steps-to-link-airpods-to-your-apple-laptop-macbook-air/"><u>Easy Steps to Link AirPods to Your Apple Laptop (MacBook Air)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-11x-5g-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from 11X 5G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-samsung-galaxy-xcover-7-phone-by-drfone-android/"><u>How to Reset a Locked Samsung Galaxy XCover 7 Phone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-xiaomi-13t-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Xiaomi 13T.</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-oneplus-nord-ce-3-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from OnePlus Nord CE 3 5G to iPod | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/keyboard-shortcuts-for-love-learn-to-make-hearts-appear-with-ease/"><u>Keyboard Shortcuts for Love: Learn to Make Hearts Appear with Ease</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-for-microsoft-365-setup-on-personal-computers/"><u>Step-by-Step Instructions for Microsoft 365 Setup on Personal Computers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-6-must-have-journaling-applications-for-organized-note-taking/"><u>Top 6 Must-Have Journaling Applications for Organized Note Taking</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/understanding-error-0xc00000e-your-complete-guide-to-resolving-the-issue/"><u>Understanding Error 0xC00000E: Your Complete Guide to Resolving the Issue</u></a></li>
 </ul></div>
 

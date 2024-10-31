@@ -1,7 +1,7 @@
 ---
 title: The Essential AI Traits Apple Must Embrace to Challenge the Dominance of OpenAI and Google | Tech Perspectives
-date: 2024-10-18T20:52:43.494Z
-updated: 2024-10-25T01:23:05.211Z
+date: 2024-10-28T17:13:16.340Z
+updated: 2024-10-31T03:15:16.004Z
 tags:
   - apple
 categories:
@@ -35,10 +35,10 @@ Every year, my wife and I eagerly await the release of the new iPhones. Being pa
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
@@ -66,10 +66,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## New hardware leaks: what to expect from the iPhone 16
@@ -88,13 +88,6 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
 
 Besides memory concerns, AI processing demands a lot of power and additional computing resources. Without significant advancements in battery and power management technology, users might have to charge their phones more often. This can lead to increased battery drain, reduced battery lifespan, and potential performance issues. The extra processing power needed to run on-device LLMs could strain the CPU, causing the device to heat up and affecting its overall performance and reliability.
@@ -104,10 +97,10 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
@@ -125,6 +118,13 @@ Apple could achieve this by equipping MacOS, iOS, and iPadOS with Apple Intellig
 Enterprises may also employ a mobile device management solution to facilitate access to on-device LLMs with business Macs. Additionally, iPhones or Macs could be used as proxies for Apple Watch or HomePod requests for mobile users. We may also see a more powerful Apple TV with more onboard memory and processing to act as an Apple Intelligence "hub" for every Apple device in a household.
 
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## I'm still optimistic
 
@@ -166,24 +166,18 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-instagram-media-transformation-for-audio-mp3-for-2024/"><u>[New] Instagram Media Transformation for Audio (MP3) for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-ultimate-guide-to-top-video-recorders/"><u>[New] Ultimate Guide to Top Video Recorders</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-integrating-gentle-decreases-into-your-audience-experience-via-audacity/"><u>[Updated] 2024 Approved Integrating Gentle Decreases Into Your Audience Experience via Audacity</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-effortlessdataback-take-for-2024/"><u>[Updated] EffortlessDataback Take for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-enhancing-your-snap-with-soundtracks-without-stickers/"><u>[Updated] In 2024, Enhancing Your Snap with Soundtracks (Without Stickers)</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-top-text-tilt-treasures/"><u>[Updated] In 2024, Top Text Tilt Treasures</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apple-integrates-advanced-image-recognition-in-iphone-16-mirroring-google-lens-functionality/"><u>Apple Integrates Advanced Image Recognition in iPhone 16, Mirroring Google Lens Functionality</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exclusive-scoop-secure-your-dream-apple-gadget-with-the-finest-prime-day-deals-still-on-offer/"><u>Exclusive Scoop! Secure Your Dream Apple Gadget with the Finest Prime Day Deals Still On Offer</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-debate-on-iphone-cases-why-apples-perspective-may-not-be-listening-to-user-warnings-zdnet/"><u>Exploring the Debate on iPhone Cases: Why Apple's Perspective May Not Be Listening to User Warnings | ZDNet</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Huawei Nova Y91 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-xiaomi-13-ultra-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Xiaomi 13 Ultra with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/launch-date-rumors-apples-new-lineup-with-macbook-air-ipad-pro-and-ipad-air-set-for-march-debut-coverage/"><u>Launch Date Rumors: Apple's New Lineup with MacBook Air, iPad Pro, and iPad Air Set for March Debut Coverage</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/leading-twitter-tool-suites-best-software-options-reviewed/"><u>Leading Twitter Tool Suites: Best Software Options Reviewed</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/meet-the-powerhouse-of-tomorrow-how-apples-latest-mac-studio-redefines-the-legacy-of-the-mac-mini-digital-innovations-blog/"><u>Meet the Powerhouse of Tomorrow: How Apple's Latest Mac Studio Redefines the Legacy of the Mac Mini | Digital Innovations Blog</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-for-installing-libreoffice-as-a-cost-free-microsoft-office-replacement-on-macos/"><u>Step-by-Step Tutorial for Installing LibreOffice as a Cost-Free Microsoft Office Replacement on macOS</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-impact-of-apples-innovative-ai-on-the-success-of-iphone-16-insights/"><u>The Impact of Apple's Innovative AI on the Success of iPhone 16: Insights</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-smart-lock-apps-for-ios-discreet-security-on-your-iphone-featured-by-zdnet/"><u>Top-Rated Smart Lock Apps for iOS: Discreet Security on Your iPhone, Featured by ZDNet</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-photos-from-oneplus-ace-3-by-fonelab-android-recover-photos/"><u>Undelete lost photos from OnePlus Ace 3.</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/mp4gif/"><u>さまざまなオペレーティングシステムでMP4から簡単にGIFへの変換ガイド</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-baffled-by-blank-screens-on-a6400/"><u>[New] Baffled by Blank Screens on A6400</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-critically-acclaimed-video-cards-for-clear-youtube-broadcasts-for-2024/"><u>[Updated] Critically Acclaimed Video Cards for Clear YouTube Broadcasts for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1-troubleshooting-guide-resolving-dvd-playback-issues-on-a-mac/"><u>1. Troubleshooting Guide: Resolving DVD Playback Issues on a Mac</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/acer-aspire-e-15-review-one-of-the-best-budget-laptops-money-can-buy/"><u>Acer Aspire E 15 Review: One of the Best Budget Laptops Money Can Buy</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1245934-9781471112393-conversations-with-heaven/"><u>Conversations with Heaven | Free Book</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-microsoft-edge-malfunctions-a-comprehensive-guide-for-users/"><u>Fixing Microsoft Edge Malfunctions: A Comprehensive Guide for Users</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-audiophiles-choice-identifying-the-top-5-android-audio-editors-to-invest-in/"><u>In 2024, Audiophiles Choice Identifying the Top 5 Android Audio Editors to Invest In</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6-online-here-are-6-easy-ways-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 6 Online? Here are 6 Easy Ways</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quick-solutions-for-fixing-code-nt00000035-in-device-manager-a-comprehensive-guide/"><u>Quick Solutions for Fixing Code nT!00000035 In Device Manager: A Comprehensive Guide</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/the-ultimate-guide-to-top-5-beginner-friendly-zumba-dance-dvds-and-how-to-convert-them-into-digital-format/"><u>The Ultimate Guide to Top 5 Beginner-Friendly Zumba Dance Dvd's and How to Convert Them Into Digital Format</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-6-strategies-for-selecting-an-ideal-selfie-stick/"><u>Top 6 Strategies for Selecting an Ideal Selfie Stick</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/what-to-do-if-alexa-isnt-working-a-step-by-step-guide/"><u>What To Do If Alexa Isn't Working? A Step-by-Step Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-oppo-reno-8t-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Oppo Reno 8T Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 </ul></div>
 

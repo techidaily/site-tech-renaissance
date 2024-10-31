@@ -1,7 +1,7 @@
 ---
 title: "IOS 18 Tutorial: A Step-by-Step Guide to Personalizing the Control Center on Your iPhone"
-date: 2024-10-23T04:24:04.532Z
-updated: 2024-10-24T16:33:04.410Z
+date: 2024-10-30T00:56:10.652Z
+updated: 2024-10-31T03:52:37.204Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -52,10 +52,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -65,10 +65,16 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -86,10 +92,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -134,18 +140,14 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-tailor-made-video-cuts-macs-top-mp4-slicers-revealed/"><u>[Updated] In 2024, Tailor-Made Video Cuts Mac's Top MP4 Slicers Revealed</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/5-innovative-yt-tales-share-your-life-journey-for-2024/"><u>5 Innovative YT Tales Share Your Life Journey for 2024</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/windows-781011-lenovo-onekey-recovery/"><u>步骤指南：在不同版本的 Windows (7、8、10、11) 上利用 Lenovo OneKey Recovery</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/are-your-ipad-devices-at-risk-understanding-the-impact-of-ios-18-updates/"><u>Are Your iPad Devices at Risk? Understanding the Impact of iOS 18 Updates</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/choosing-the-right-apple-tablet-ipad-pro-vs-ipad-pro-2021-features-compared-for-your-perfect-purchase/"><u>Choosing the Right Apple Tablet: IPad Pro Vs. IPad Pro 2021 - Features Compared for Your Perfect Purchase</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/guide-to-installing-non-google-store-applications-on-your-android-tv/"><u>Guide to Installing Non-Google Store Applications on Your Android TV</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/leading-iphone-vpn-solutions-a-detailed-analysis-of-performance-by-industry-professionals-zdnet/"><u>Leading iPhone VPN Solutions: A Detailed Analysis of Performance by Industry Professionals - ZDNet</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/narrative-enhancements-the-process-of-infusing-text-into-your-video-content/"><u>Narrative Enhancements The Process of Infusing Text Into Your Video Content</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/riconverti-filets-mkv-in-formato-mov-web-gratuita-softoni-video/"><u>Riconverti Filets MKV in Formato MOV Web Gratuita - Softoni Video</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-advantages-of-evs-in-outperforming-traditional-gasoline-vehicles-explained/"><u>The Advantages of EVs in Outperforming Traditional Gasoline Vehicles Explained</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-tecno-pop-7-pro-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Tecno Pop 7 Pro FRP Bypass</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-concealed-shortcuts-a-comprehensive-guide-to-enabling-and-leveraging-your-devices-hidden-path-bar-feature/"><u>Unveiling Concealed Shortcuts: A Comprehensive Guide to Enabling & Leveraging Your Device's Hidden Path Bar Feature</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/western-digital-my-passport-6tb-ssd-reviewed-big-capacity-in-a-small-package/"><u>Western Digital My Passport 6TB SSD Reviewed - Big Capacity in a Small Package</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-the-rhythm-of-the-room-mac-audio-guide-for-2024/"><u>[New] The Rhythm of the Room Mac Audio Guide for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-mastering-screen-recording-on-imac-with-ease/"><u>2024 Approved Mastering Screen Recording on iMac with Ease</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/corrective-measures-addressing-and-repairing-msxml4dll-absence-issues/"><u>Corrective Measures: Addressing and Repairing Msxml4.dll Absence Issues</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-leading-fitness-bands-for-active-lifestyles-2024s-elite-selections/"><u>Discover the Leading Fitness Bands for Active Lifestyles: 2024'S Elite Selections</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/how-much-does-pewdiepie-make-yearly-financial-report-for-2024/"><u>How Much Does PewDiePie Make - Yearly Financial Report for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/james-bond-on-screen-watching-the-spy-saga-from-beginning-to-end/"><u>James Bond on Screen: Watching the Spy Saga From Beginning to End</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/permanent-deletion-process-for-yahoo-mail-step-by-step-tutorial/"><u>Permanent Deletion Process for Yahoo! Mail – Step-by-Step Tutorial</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-xinput13dll-file-absent-issue-a-comprehensive-guide/"><u>Solving the xinput1_3.dll File Absent Issue: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-correcting-msstdfmtdll-not-found-message/"><u>Troubleshooting Tips: Correcting 'Msstdfmt.dll Not Found' Message</u></a></li>
 </ul></div>
 
