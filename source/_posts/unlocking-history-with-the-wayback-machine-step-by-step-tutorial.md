@@ -1,7 +1,7 @@
 ---
 title: Unlocking History with The Wayback Machine - Step by Step Tutorial
-date: 2024-09-09T15:47:53.056Z
-updated: 2024-09-10T15:47:53.056Z
+date: 2024-10-29T18:37:38.143Z
+updated: 2024-11-05T19:51:08.879Z
 categories:
   - BestProducts
 description: This Article Describes Unlocking History with The Wayback Machine - Step by Step Tutorial
@@ -23,11 +23,12 @@ thumbnail: https://www.lifewire.com/thmb/pIkWjlA3P_2dZwUS0mBLkOsB_Bk=/400x300/fi
  The Wayback Machine search engine is where you should head first to look for archived webpages and sites. The search box is also prominent on The Internet Archive's homepage. Click the Wayback Machine logo to go to its[main page](https://web.archive.org/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Find Websites With a URL
 
  The Wayback Machine search field works like any other search engine. The site ranks search results by how often the site was saved and how many related links each homepage has.
@@ -35,13 +36,28 @@ thumbnail: https://www.lifewire.com/thmb/pIkWjlA3P_2dZwUS0mBLkOsB_Bk=/400x300/fi
 1. In the Wayback Machine's search bar, type the URL of the website you're interested in. You can use the domain URL (e.g.,[www.example.com](http://www.example.com/) ) or a specific page on the site.  
 ![The search bar on the WayBack Machine site](https://www.lifewire.com/thmb/IgHw28Kscr3NKqqVR6O0fRMl3x8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/WayBack-Machine-Search-Bar-b38b8ded832b472499450450ad2a53fb.jpg)
 2. The result is displayed as a Calendar with a timeline with years on the top and the monthly view of that specific year.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![Wayback Machine Calendar View](https://www.lifewire.com/thmb/vBQyXPQg5ozxehCxof0HN4YPGKM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/WaybackMachine-CalendarView-66a466e6111640959a1ef75fe1aa2fc0.jpg)  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Note  
 
@@ -56,22 +72,10 @@ thumbnail: https://www.lifewire.com/thmb/pIkWjlA3P_2dZwUS0mBLkOsB_Bk=/400x300/fi
 
 4. Navigate the site on the snapshot. As you aren't looking at a live page, some links may not work. Also, the search function on the archived site won't work as it does on its live counterpart.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Note  
 
  You can't download a snapshot from the Wayback Machine directly; their[Terms of Use](https://archive.org/about/terms.php) do not allow it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Find Archived Sites With Keywords
 
  Although the Wayback Machine works only with URLs, it has a limited ability to search with keywords. However, these keywords are for entire sites and not ones buried in an individual webpage.
@@ -82,12 +86,6 @@ thumbnail: https://www.lifewire.com/thmb/pIkWjlA3P_2dZwUS0mBLkOsB_Bk=/400x300/fi
 
 ![Searching Wayback Machine with keywords](https://www.lifewire.com/thmb/-Pg7yxGyQ0HxlryoVzKfKsaJTJg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/WaybackMachine-Keyword-Search-ceeadc60ca4d4fa9a5e92ef6f3b5ac05.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Tip
 
  Wayback Machine also supports[multilingual keyword searches](https://blog.archive.org/2016/10/24/beta-wayback-machine-now-with-site-search/) along with the site search operator (e.g., site:nytimes.com "global warming").
@@ -101,37 +99,28 @@ thumbnail: https://www.lifewire.com/thmb/pIkWjlA3P_2dZwUS0mBLkOsB_Bk=/400x300/fi
  If you don't see this field, make sure you're at**web.archive.org** and not just**archive.org** .  
 ![The 'Save Page Now' option on the WayBack Machine website](https://www.lifewire.com/thmb/XMiBKXjO58hMYAKKHcYUbQaAKOY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Save-Page-WayBack-Machine-0fa9827d32e84795a3ac3d43eab13bce.jpg)
 3. Select**Save Page** .  
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![The "Save Page" button on the WayBack Machine](https://www.lifewire.com/thmb/fE_zr_NaZdnSpCZWXkui8bb2MQk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Save-Page-button-on-WayBack-Machine-bbd0d186952342f492bc9a83aa68882f.jpg)
 4. Registering and logging in with a free account gives a few more options, like saving screenshots of a page, keeping a personal web archive, the ability to email search results to yourself, and use of WACZ files.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Tip
 
  If you regularly use the Wayback Machine, consider their[Chrome extension](https://chromewebstore.google.com/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak) . The extension is an indirect way to "search" the Wayback Machine, as you can automatically view archived pages of a site by clicking on it. It's a helpful way to see cached pages if the webpage you are trying to access does not exist or displays a 404 Not Found Error. Check the extension's Settings for extra features. Extensions and add-ons are also available for Safari, Edge, and Firefox.
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is the WayBack Machine?
 
  The Wayback Machine is part of the[Internet Archive](https://archive.org/) , which Brewster Kahle and Bruce Gilliat founded in 1996 as a non-profit organization to preserve the World Wide Web and create a[searchable public library of digital assets](https://www.lifewire.com/internet-movie-archive-1357416) . Since then, the Internet Archive has grown to include millions of free books, movies, software, music, art, video games, etc.  
@@ -164,8 +153,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -173,4 +160,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-boosting-your-channels-income-the-optimal-view-count-quotient/"><u>[Updated] 2024 Approved Boosting Your Channel's Income The Optimal View Count Quotient</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-capture-share-and-record-with-the-best-mac-video-capture-tools/"><u>[Updated] In 2024, Capture, Share, and Record with the Best Mac Video Capture Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-trailblazers-crafting-immersive-virtual-landscapes/"><u>[Updated] Trailblazers Crafting Immersive Virtual Landscapes</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-mastering-the-art-of-discovering-elusive-youtube-videos/"><u>2024 Approved Mastering the Art of Discovering Elusive YouTube Videos</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-latest-tcls-expanded-range-of-q-and-s-class-smart-televisions-with-new-models/"><u>Discover the Latest: TCL's Expanded Range of Q and S Class Smart Televisions with New Models</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-6s-plus-to-iphone-81111-pro-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 6s Plus to iPhone 8/11/11 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-realme-11-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Realme 11 5G to iPad | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/pcyoutube/"><u>PCでのオフライン再生：YouTubeビデオについて学ぶ</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-7-exceptional-notetaking-apps-for-your-apple-tablet/"><u>The Ultimate Guide to 7 Exceptional Notetaking Apps for Your Apple Tablet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-tips-for-getting-windows-10-search-back-on-track/"><u>Top Tips for Getting Windows 10 Search Back on Track</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/why-isnt-my-apple-watch-recording-steps-expert-fixes-to-try/"><u>Why Isn't My Apple Watch Recording Steps? Expert Fixes to Try</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Using iMessage on PC with Windows - Tips"
-date: 2024-10-25T17:17:55.440Z
-updated: 2024-10-31T01:17:52.531Z
+date: 2024-11-04T19:34:23.754Z
+updated: 2024-11-05T17:55:54.603Z
 tags:
   - apple
 categories:
@@ -44,6 +44,13 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 
 ## How to send and receive iMessages on Windows
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Use Microsoft Phone Link
 
 Before you can use Phone Link, you'll have to take care of a few items on your phone and your PC.
@@ -56,25 +63,11 @@ Next, confirm that you're running the latest version of Phone Link. To do this, 
 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Open Phone Link
 
 Click the Start button, go to All Apps, and select Phone Link from the list. The first screen prompts you to select your device. Click the button for iPhone.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Scan the QR codes
 
@@ -99,10 +92,16 @@ The Phone Link welcome screen should appear on your PC and ask if you want to op
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Access your recent messages
@@ -117,19 +116,26 @@ You can also start a new conversation. To do this, select one of your displayed 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Use Intel Unison
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Install Intel Unison
@@ -139,6 +145,19 @@ To use Intel Unison, download and install the app from [the Microsoft Store](htt
 Launch the app and click the Accept & Continue button. You'll be asked how you'd like to use Unison. In the section for "Empower your PC," click the "Add your phone" button.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Pair your phone and computer
 
@@ -157,13 +176,6 @@ Screenshot by Lance Whitney/ZDNET
 At the "Let's get started" screen in the Windows Unison app, click the icon for "Send messages." 
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  4\. Go to the Messages screen
 
@@ -213,21 +225,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-pixel-pizzazz-top-10-screenshot-sticker-enhancers-for-iphonesandroids-for-2024/"><u>[New] Pixel Pizzazz Top 10 Screenshot Sticker Enhancers for iPhones/Androids for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-how-to-achieve-collaborative-efficiency-using-skypes-screen-share-feature/"><u>[Updated] In 2024, How to Achieve Collaborative Efficiency Using Skype’s Screen-Share Feature</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-uncomplicated-routines-to-streamline-your-online-sessions-pcmac-os/"><u>[Updated] In 2024, Uncomplicated Routines to Streamline Your Online Sessions - PC/Mac OS</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-the-ultimate-guide-to-effortless-vrecorder-setup-for-2024/"><u>[Updated] The Ultimate Guide to Effortless VRecorder Setup for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/basics-of-effective-fb-ad-cta-design/"><u>Basics of Effective FB Ad CTA Design</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/entdeckung-der-leistungsfahigkeit-von-abbyy-ocr-server-erfahren-sie-mehr-aus-zufriedenheitstranskripten/"><u>Entdeckung Der Leistungsfähigkeit Von ABBYY OCR-Server: Erfahren Sie Mehr Aus Zufriedenheitstranskripten</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-samsung-galaxy-a15-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Samsung Galaxy A15 5G in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-fix-windows-11-slow-and-lagging-problem-8-easy-ways/"><u>How to Fix Windows 11 Slow and Lagging Problem – 8 Easy Ways</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-htc-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your HTC ?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-reduce-latency-for-gaming-2024-tips/"><u>How to Reduce Latency for Gaming - 2024 Tips</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-use-the-windows-10-device-manager-to-update-your-drivers/"><u>How to Use the Windows 10 Device Manager to Update Your Drivers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/installing-kodi-on-your-xbox-one-a-detailed-easy-to-follow-tutorial/"><u>Installing Kodi on Your Xbox One: A Detailed, Easy-to-Follow Tutorial</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/installing-the-latest-graphics-api-step-by-step-guide-to-directx-12-on-windows-10/"><u>Installing the Latest Graphics API: Step-by-Step Guide to DirectX 12 on Windows 10</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-movie-torrents-your-complete-utorrent-download-handbook/"><u>Mastering Movie Torrents: Your Complete uTorrent Download Handbook</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/maximize-efficiency-expert-tips-for-accelerating-windows-10-operations/"><u>Maximize Efficiency: Expert Tips for Accelerating Windows 10 Operations</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-why-is-my-dota-2-microphone-not-capturing-audio/"><u>Solved: Why Is My Dota 2 Microphone Not Capturing Audio?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-elevate-video-quality-mastering-aspect-ratio-and-size-settings-on-youtube/"><u>[New] In 2024, Elevate Video Quality Mastering Aspect Ratio and Size Settings on YouTube</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-snapshot-survival-guide-top-recorders-evaluated/"><u>[New] SnapShot Survival Guide Top Recorders Evaluated</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-simplified-video-transferring-techniques-for-youtube-enthusiasts/"><u>[Updated] In 2024, Simplified Video Transferring Techniques for YouTube Enthusiasts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-virtual-journeys-ultimate-listing-of-10-free-mmorpg-games/"><u>[Updated] In 2024, Virtual Journey's Ultimate Listing of 10 Free MMORPG Games</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-proven-techniques-securely-archive-your-instagram-story/"><u>2024 Approved Proven Techniques Securely Archive Your Instagram Story</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/all-about-college-mens-basketball-catch-every-game-live-from-the-excitement-of-march-madness-to-the-final-four-radio-updates/"><u>All About College Men's Basketball: Catch Every Game Live, From the Excitement of March Madness to The Final Four Radio Updates</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/decoding-and-overcoming-stop-code-0x0000003d-a-step-by-step-fixing-strategy-for-windows-users/"><u>Decoding and Overcoming Stop Code 0X0000003D: A Step-by-Step Fixing Strategy for Windows Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/home-charging-basics-for-electric-vehicles-a-complete-guide/"><u>Home Charging Basics for Electric Vehicles: A Complete Guide</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-blue-badge-on-facebook-your-pathway-unveiled/"><u>In 2024, Blue Badge on Facebook Your Pathway Unveiled</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-android-into-windows-11-select-the-best-6-companion-apps/"><u>Integrating Android Into Windows 11: Select the Best 6 Companion Apps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722892226771-is-it-time-to-switch-to-an-rtx-gpu-making-the-right-choice/"><u>Is It Time to Switch to an RTX GPU? - Making the Right Choice</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-the-digital-classroom-a-guide-to-9-key-tech-tools-for-academic-success/"><u>Navigating the Digital Classroom: A Guide to 9 Key Tech Tools for Academic Success</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-how-to-resolve-issues-with-spotify-on-android-auto/"><u>Troubleshooting Guide: How to Resolve Issues with Spotify on Android Auto</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/watch-movies-with-fandango-on-apple-tv-a-step-by-step-tutorial/"><u>Watch Movies with Fandango on Apple TV - A Step-by-Step Tutorial</u></a></li>
 </ul></div>
 

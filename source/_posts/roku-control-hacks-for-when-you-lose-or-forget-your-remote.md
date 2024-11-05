@@ -1,7 +1,7 @@
 ---
 title: Roku Control Hacks for When You Lose or Forget Your Remote
-date: 2024-09-10T20:49:18.530Z
-updated: 2024-09-15T23:01:34.602Z
+date: 2024-11-02T19:20:46.706Z
+updated: 2024-11-05T19:21:09.289Z
 categories:
   - BestProducts
 description: This Article Describes Roku Control Hacks for When You Lose or Forget Your Remote
@@ -21,6 +21,13 @@ thumbnail: https://www.lifewire.com/thmb/d-rUObg-nE6_Z3dCf-oJYfKYbpE=/400x300/fi
 [How to Program an RCA Universal Remote](https://www.lifewire.com/program-rca-universal-remote-5201320)
 
  Specific programming options and steps may vary with each universal remote control brand and model. The following are examples of options you might see and steps that may be required.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Direct Code Entry
 
@@ -50,6 +57,13 @@ thumbnail: https://www.lifewire.com/thmb/d-rUObg-nE6_Z3dCf-oJYfKYbpE=/400x300/fi
 7. Press the**Stop** button to save the code.
 8. Test several functions on the remote and see if they work for your device.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Brand Code Search
 
  Using a similar procedure as Auto Code Search, you may be able to narrow down your search to just a single brand. This search comes in handy if the brand provides more than one code.
@@ -66,6 +80,13 @@ thumbnail: https://www.lifewire.com/thmb/d-rUObg-nE6_Z3dCf-oJYfKYbpE=/400x300/fi
 8. Press the**Stop** button on your universal remote to save the code (the LED light will turn off).
 9. Use several buttons (volume, etc.) to see if your remote can now control the device.
 10. If your device doesn't turn off and the LED light blinks four times, you've exhausted the codes for that brand and need to use another programming method.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Manual Code Search
 
@@ -91,10 +112,10 @@ thumbnail: https://www.lifewire.com/thmb/d-rUObg-nE6_Z3dCf-oJYfKYbpE=/400x300/fi
  This process is long and tedious, especially if you have several devices you want to control. However, if you don't have access to the remote control codes or other methods fail, you may be able to use the IR learning process as your last result, provided your Universal Remote supports this programming option.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Programming via PC
@@ -108,13 +129,6 @@ thumbnail: https://www.lifewire.com/thmb/d-rUObg-nE6_Z3dCf-oJYfKYbpE=/400x300/fi
 1. Select or enter your Logitech Harmony Universal Remote Control model number**.**
 2. Designate the types and brands of devices you wish to control.
 3. [Create Activities](https://support.myharmony.com/en-us/understanding-harmony-activities) that allow you to turn on and perform several additional tasks across multiple devices at the same time.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -165,5 +179,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-understanding-your-needs-for-a-precise-vimeo-subscription-level/"><u>[New] 2024 Approved Understanding Your Needs for a Precise Vimeo Subscription Level</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-active-presenter-8-review-for-2024/"><u>[Updated] Active Presenter 8 Review for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1-top-7-strategies-suggested-by-apple-for-optimizing-apps-on-visionos-platform-insights-from-zdnet/"><u>1. Top 7 Strategies Suggested by Apple for Optimizing Apps on VisionOS Platform – Insights From ZDNet</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-maximize-your-iphone-x-10-proven-strategies/"><u>2024 Approved Maximize Your iPhone X 10 Proven Strategies</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/choosing-between-the-apple-watch-ultra-and-series-8-a-comprehensive-guide-to-find-your-perfect-match/"><u>Choosing Between the Apple Watch Ultra and Series 8: A Comprehensive Guide to Find Your Perfect Match</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/choosing-the-right-apple-laptop-a-comparison-of-m3-vs-m2-macbook-air-models-techradar/"><u>Choosing the Right Apple Laptop: A Comparison of M3 Vs. M2 MacBook Air Models | TechRadar</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-solutions-for-resolving-hp-printer-code-43-issues/"><u>Effective Solutions for Resolving HP Printer Code 43 Issues</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ensuring-every-detail-is-visible-during-google-meets/"><u>Ensuring Every Detail Is Visible During Google Meets</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/experience-next-level-data-collection-and-targeting-powered-by-cookiebot/"><u>Experience Next-Level Data Collection and Targeting Powered by Cookiebot</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-vivo-y100i-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Vivo Y100i Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-boosting-fb-video-engagement-and-audience-reach/"><u>In 2024, Boosting FB Video Engagement & Audience Reach</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-mobile-excellence-with-the-new-iphone-15-why-professionals-choose-it-expert-review-on-zdnet/"><u>Mastering Mobile Excellence with the New iPhone 15: Why Professionals Choose It | Expert Review on ZDNET</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/pixels-to-populations-best-windowsmac-software-conversion-for-2024/"><u>Pixels to Populations Best Windows/Mac Software Conversion for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/protect-your-privacy-learn-why-iphones-share-locations-in-apple-journal-and-how-to-turn-off-the-feature-techguide/"><u>Protect Your Privacy: Learn Why iPhones Share Locations in Apple Journal & How to Turn Off the Feature | TechGuide</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/simplified-file-restoration-unveiling-stellars-improved-data-recovery-application-for-end-users/"><u>Simplified File Restoration: Unveiling Stellar's Improved Data Recovery Application for End Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-apple-vision-pro-in-action-a-look-at-its-transformative-role-across-top-businesses-insights/"><u>The Apple Vision Pro in Action: A Look at Its Transformative Role Across Top Businesses - Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-top-4-reasons-not-to-upgrade-to-an-iphone-ex-pro-model-a-detailed-look-by-zdnet/"><u>The Top 4 Reasons Not to Upgrade to an iPhone eX-Pro Model: A Detailed Look by ZDNET</u></a></li>
+<li><a href="https://common-error.techidaily.com/top-solutions-how-to-fix-a-freezing-windows-11-system/"><u>Top Solutions: How to Fix a Freezing Windows 11 System</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unleashing-the-full-power-of-the-m4-ipad-pro-how-ai-integration-at-wwdc-could-transform-user-experience-insights/"><u>Unleashing the Full Power of the M4 iPad Pro: How AI Integration at WWDC Could Transform User Experience Insights</u></a></li>
+</ul></div>
 

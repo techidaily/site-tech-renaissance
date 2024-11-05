@@ -1,7 +1,7 @@
 ---
 title: "Purchasing Digital E-Books on iOS: A Comprehensive Guide with Apple's Books App"
-date: 2024-09-13T23:34:52.167Z
-updated: 2024-09-15T20:18:25.314Z
+date: 2024-10-29T21:47:25.603Z
+updated: 2024-11-05T19:40:56.848Z
 categories:
   - BestProducts
 description: "This Article Describes Purchasing Digital E-Books on iOS: A Comprehensive Guide with Apple's Books App"
@@ -18,6 +18,13 @@ thumbnail: https://thmb.techidaily.com/15c27a9dd37e7d971ec6b1dda7daf6d5203783d6f
 
  This article explains how to screenshot on a Logitech keyboard. The instructions below apply to all Logitech keyboards, including the Logitech K780 Multi-Device Wireless Keyboard.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How Do You Screenshot on a Logitech Wireless Keyboard?
 
  To[take a screenshot on Windows](https://www.lifewire.com/take-screenshots-using-windows-3507009) , press**Windows key+PrtScn** .
@@ -32,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/15c27a9dd37e7d971ec6b1dda7daf6d5203783d6f
 
  You can also press**Shift+Command+4+Spacebar** to capture a specific screen element (such as a menu or app). To see all of your screenshot options, including a screen recorder, press**Shift+Command+5** .
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How Do You Print Screen on a Logitech Wireless Keyboard?
 
  A Camera icon may represent the Print Screen key (often shortened to PrtScr or PrtSc). It might have a dedicated key or share one of the function keys at the top of the keyboard.
@@ -41,10 +55,17 @@ thumbnail: https://thmb.techidaily.com/15c27a9dd37e7d971ec6b1dda7daf6d5203783d6f
 ![Print Screen Key on a Dell XPS 13.](https://www.lifewire.com/thmb/69ba7xDN0RG382zPypUBUTaZYpE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-TakeaScreenshotonaDellLaptop-annotated-ec47a86d15a142dc8eb5a740ef6d3284.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Where Are My Screenshots Saved?
@@ -91,5 +112,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/outube-shorts-revenue-sharing-how-much-do-creators-get-paid-in-2024/"><u>[New] YouTube Shorts Revenue Sharing How Much Do Creators Get Paid, In 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-perfecting-proximity-views-an-essential-for-roblox-enthusiasts/"><u>[Updated] Perfecting Proximity Views An Essential for Roblox Enthusiasts</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-utilizing-free-royalty-free-audio-tracks-in-video-media/"><u>2024 Approved Utilizing Free, Royalty-Free Audio Tracks in Video Media</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/aol-im-explained-the-evolution-and-impact-of-america-onlines-messaging-app/"><u>AOL IM Explained: The Evolution and Impact of America Online's Messaging App</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/identifying-and-resolving-windows-search-startup-woes/"><u>Identifying & Resolving Windows Search Startup Woes</u></a></li>
+<li><a href="https://win-dash.techidaily.com/overcoming-bluetooth-communication-barriers-on-your-windows-11-system-fixed/"><u>Overcoming Bluetooth Communication Barriers on Your Windows 11 System [FIXED]</u></a></li>
+<li><a href="https://windows11.techidaily.com/overhauling-the-standard-windows-11-launch-page/"><u>Overhauling the Standard Windows 11 Launch Page</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revive-facetime-visibility-fixing-the-mysterious-blackout-problem/"><u>Revive FaceTime Visibility – Fixing the Mysterious Blackout Problem</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revive-your-tech-quick-fixes-for-a-frozen-macbook-air/"><u>Revive Your Tech: Quick Fixes for a Frozen MacBook Air</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-moving-your-images-from-google-photos-to-icloud/"><u>Step-by-Step Guide: Moving Your Images From Google Photos to iCloud</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2212473-9780007537006-the-goat-in-2014-your-chinese-horoscope/"><u>The Goat in 2014: Your Chinese Horoscope | Free Book</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-unraveling-and-repairing-502-bad-gateway-glitches-online/"><u>The Ultimate Guide to Unraveling & Repairing '502 Bad Gateway' Glitches Online</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-repairing-your-nonfunctional-samsung-soundbar/"><u>Troubleshooting Tips: Repairing Your Nonfunctional Samsung Soundbar</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-eradicating-permanent-image-issues-from-your-display/"><u>Ultimate Guide: Eradicating Permanent Image Issues From Your Display</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/unveiling-lgs-monitor-magic-a-comprehensible-review-of-4k-tech-for-2024/"><u>Unveiling LG's Monitor Magic A Comprehensible Review of 4K Tech for 2024</u></a></li>
+</ul></div>
 

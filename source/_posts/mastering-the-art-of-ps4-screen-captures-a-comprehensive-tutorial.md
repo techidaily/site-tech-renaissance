@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of PS4 Screen Captures - A Comprehensive Tutorial
-date: 2024-09-09T15:50:16.440Z
-updated: 2024-09-10T15:50:16.440Z
+date: 2024-10-31T16:07:30.969Z
+updated: 2024-11-05T18:59:05.478Z
 categories:
   - BestProducts
 description: This Article Describes Mastering the Art of PS4 Screen Captures - A Comprehensive Tutorial
@@ -9,12 +9,6 @@ excerpt: This Article Describes Mastering the Art of PS4 Screen Captures - A Com
 thumbnail: https://www.lifewire.com/thmb/v91UjC4fsKqSMpfGYrgi9fCw4Wc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/20201117103929-532580a0db8346228f20b8d694ee67cb.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Mastering the Art of PS4 Screen Captures - A Comprehensive Tutorial
 
 Close 
@@ -36,41 +30,32 @@ Close
 3. The**Library** is sorted alphabetically by default, so the**Capture Gallery** will be near the top of the list. Select and open it.  
 ![The Capture Gallery on a PS4.](https://www.lifewire.com/thmb/eI9jR4WZ2sO75Teid4rXoRfXuI8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-ScreenshotonPS4-annotated-8b59acc1d643448aabf248ee3ebe2c65.jpg)
 4. The most recent screenshot will be located at the top of the**All** folder. Open that folder, which is the first listed, to find your screenshot.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can view a screenshot by selecting and opening it. Once it’s open, you can zoom in and out, or make basic edits.  
 ![PlayStation 4 Capture Gallery open with All folder selected.](https://www.lifewire.com/thmb/n0xp5zvi4vN_7n-_f4oakfxjtM0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A4-ScreenshotonPS4-annotated-ae5bdd84a49147e5890789ab8aef0311.jpg)
 5. While it’s nice to view a screenshot in the Capture Gallery, you likely want to move or share it.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To do that, select the screenshot in the**Capture Gallery** and press the**Options** button on the PlayStation 4 controller. This opens a menu on the right-hand side. Make sure you have a USB storage device connected to one of the PlayStation 4’s[ USB ports](https://www.lifewire.com/what-is-a-usb-port-818166) , then select**Copy to USB storage device** .  
 ![PlayStation 4 Capture Gallery with option menu open, Copy to USB Storage Device selected.](https://www.lifewire.com/thmb/jnGosDMQbmlWzAn2GW7mBXX0kzM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A5-ScreenshotonPS4-annotated-3f232473d63d47259900bfeb8a70d3c6.jpg)
 6. The list of screenshots will now include checkboxes, with the screenshot you previously selected already checked. Select**Ok** .
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. A prompt will appear to tell you the folder directory where the screenshot will be saved. Select**Ok** and relax while the screenshot transfers.  
  Once transferred, screenshots can be found on the USB storage device in the folder directory**PS4/SHARE/Screenshots** .
 
 [ Can You Play PS4 Games on the PS5? ](https://www.lifewire.com/backwards-compatibility-ps5-5084149) 
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Where to Find Older Screenshots 
 
  If you’re looking for an older screenshot, navigate to the folder corresponding to the game in which you took the screenshot, as you'll no longer have to wade through screenshots from every game.  
@@ -85,30 +70,33 @@ Close
 2. Select**Screenshot** , which is the second option from the top.  
 ![PlayStation 4 Share menu open with Screenshot selected.](https://www.lifewire.com/thmb/TwHEbDMuEmpG0COI1qbF9T0oico=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B2-ScreenshotonPS4-annotated-d09b135eb74344a6963f7bd0b677ab67.jpg)  
 ###  Special note  
+
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also select**Save Screenshot** from the Share menu to save it to the Capture Gallery.
 3. You’ll now face a choice of the social media platform on which you’d like to share the screenshot. The only compatible social media platform for screenshots is**X** , so select that.  
 ![PlayStation 4 Share Screenshot menu open with Twitter selected.](https://www.lifewire.com/thmb/_A-3Ahr76efuT6-8kIYRCZ3GJmI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B3-ScreenshotonPS4-annotated-ddfe04138c1f4a37b7683c8fa5cb0426.jpg)
 4. You'll now be able to[ fill in the details of your Tweet](https://www.lifewire.com/tutorial-intro-to-using-twitter-2654622) . Once you’re finished, select**Share** . You’ll soon see the Tweet, with screenshot attached, appear on X.  
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![PlayStation 4 Share Screenshot open to share a Tweet on Twitter.](https://www.lifewire.com/thmb/cl-z4j1rz5GYdGnxi_dQHCKBX1U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B4-ScreenshotonPS4-annotated-5e4432cd0ed84941bfa961be4e9e88bf.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 [ How to Record Gameplay on PS4 ](https://www.lifewire.com/record-gameplay-on-ps4-5074215) 
 
 Was this page helpful?
@@ -131,8 +119,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -140,4 +126,19 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-from-jarring-cuts-to-elegant-edits-unlocking-inshots-transition-secrets-for-2024/"><u>[New] From Jarring Cuts to Elegant Edits Unlocking Inshot's Transition Secrets for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pedal-to-the-metal-mastering-crossfade-techniques/"><u>2024 Approved Pedal to the Metal Mastering Crossfade Techniques</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722894497284-download-free-chat-apps-compatible-with-iphone-and-ipod-touch-today/"><u>Download Free Chat Apps Compatible with iPhone & iPod Touch Today!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-asus-rog-phone-7-ultimate-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Asus ROG Phone 7 Ultimate Phone When You Forget the Password</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-overlay-techniques-for-video-and-image-enhancement-with-windows-10-for-2024/"><u>Mastering Overlay Techniques for Video and Image Enhancement with Windows 10 for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-iphone-voice-notes-and-message-recording/"><u>Mastering the Art of iPhone Voice Notes & Message Recording</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/navigate-the-digital-landsncape-efficiently-powered-by-innovative-cookiebot-tools/"><u>Navigate the Digital Landsncape Efficiently Powered by Innovative Cookiebot Tools</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/quick-tips-for-silencing-mp4-files-techniques-for-windows-mac-and-online-solutions/"><u>Quick Tips for Silencing MP4 Files - Techniques for Windows, Mac, and Online Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/strategies-for-teaming-up-and-conquering-pokemon-go-together/"><u>Strategies for Teaming Up and Conquering 'Pokémon Go' Together</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-10-recommended-sites-for-downloading-creative-end-credit-melodies-lawfully/"><u>Updated In 2024, 10 Recommended Sites for Downloading Creative End Credit Melodies Lawfully</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/when-and-how-to-cut-ties-disconnecting-from-old-x-twitters-successor-profiles-effectively/"><u>When & How To Cut Ties: Disconnecting From Old X (Twitter's Successor) Profiles Effectively</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/xbox-live-status-outage-or-user-connection-issues/"><u>Xbox Live Status: Outage or User Connection Issues?</u></a></li>
+</ul></div>
 

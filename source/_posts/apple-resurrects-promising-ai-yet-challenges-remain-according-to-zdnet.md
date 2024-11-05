@@ -1,7 +1,7 @@
 ---
 title: Apple Resurrects Promising A.I., Yet Challenges Remain According to ZDNet
-date: 2024-10-24T21:33:06.484Z
-updated: 2024-10-31T05:34:41.474Z
+date: 2024-10-30T17:13:42.944Z
+updated: 2024-11-05T17:02:13.540Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ In this article, I'll show you how to take both screenshots and screen recording
 ## How to take a screenshot or screen recording with your Vision Pro
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The two ways to take a screenshot on Vision Pro
@@ -64,10 +64,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 So that's how it's done. Now for the weird part.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to handle screenshot weirdness on Vision Pro
@@ -109,10 +109,10 @@ I carefully lined up the horizon of the lake (I'm using the Mount Hood environme
 It's quite frustrating, and either an artifact of the Vision Pro or of my slightly tilted psyche. Either way, it's weird and annoying. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to capture a screen recording on Vision Pro
@@ -162,22 +162,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-capture-and-keep-best-five-extensions-for-fb-videos/"><u>[Updated] 2024 Approved Capture and Keep Best Five Extensions for Fb Videos</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-tactics-for-snagging-free-visual-frame-content/"><u>[Updated] Tactics for Snagging Free Visual Frame Content</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-premium-android-listening-helpers/"><u>2024 Approved Premium Android Listening Helpers</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-transforming-everyday-moments-with-ioss-complete-life-story/"><u>2024 Approved Transforming Everyday Moments with iOS's Complete Life Story</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/6ieq5yig44gu44gk5rcx44gr5ywl44kk44gu6zplusz5qw944ks5l244gj44gm5yuv55s744ks5yi25l2c44gz44kl44kz44oe/"><u>自分のお気に入りの音楽を使って動画を制作するコツ</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/diagnosing-and-repairing-unresponsive-touchscreens-on-the-apple-watch-series/"><u>Diagnosing and Repairing Unresponsive Touchscreens on the Apple Watch Series</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-steps-to-customize-your-finder-view-on-apple-devices/"><u>Easy Steps to Customize Your Finder View on Apple Devices</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/effective-solutions-for-missing-d3dx939dll-error-fixes/"><u>Effective Solutions for Missing D3dx9_39.dll Error Fixes</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-vivo-v30-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Vivo V30 Phone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-leading-free-software-for-quality-desktop-recording/"><u>In 2024, The Leading Free Software for Quality Desktop Recording</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/install-logitech-k400-plus-software-and-drivers-now/"><u>Install Logitech K400 Plus Software and Drivers Now</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/overcoming-hurdles-with-your-macos-app-a-comprehensive-repair-manual/"><u>Overcoming Hurdles with Your macOS App – A Comprehensive Repair Manual</u></a></li>
-<li><a href="https://driver-install.techidaily.com/restoring-usb-functionality-in-7-8-10-and-11-oss/"><u>Restoring USB Functionality in 7, 8, 10 & 11 OSs</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-screen-color-shift-and-wave-issues-a-step-by-step-guide/"><u>Solving Screen Color Shift & Wave Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/streamline-your-inbox-the-ultimate-tutorial-for-organizing-messages-with-gmail-labels/"><u>Streamline Your Inbox: The Ultimate Tutorial for Organizing Messages with Gmail Labels</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-complete-user-guide-to-implementing-picture-in-picture-mode-in-androids-interface/"><u>The Complete User Guide to Implementing Picture-in-Picture Mode in Android's Interface</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-instructions-on-how-to-unset-a-pin-from-windows-11-accounts/"><u>Ultimate Instructions on How to Unset a Pin From Windows 11 Accounts</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-your-visual-impact-journey-begins-with-our-50-free-banners/"><u>[New] In 2024, Your Visual Impact Journey Begins with Our 50 FREE Banners</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-navigating-through-top-ps2-games-on-android-devices-a-compre-written-in-english/"><u>[New] Navigating Through Top PS2 Games on Android Devices - A Compre Written in English</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-conquering-interviews-a-compreayers-journey-to-success/"><u>2024 Approved Conquering Interviews A Compreayer's Journey to Success</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-inside-outlooks-of-instagram-stories-consumers/"><u>2024 Approved Inside Outlooks of Instagram Stories Consumers</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-realme-narzo-n55-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on Realme Narzo N55.</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-list-of-free-virus-eradication-apps/"><u>Discover the Ultimate List of Free Virus Eradication Apps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-steps-for-pairing-your-desktop-with-bluetooth-audio-devices/"><u>Easy Steps for Pairing Your Desktop With Bluetooth Audio Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enhance-your-visual-experience-effortless-zooming-on-apple-tablets-and-phones/"><u>Enhance Your Visual Experience: Effortless Zooming on Apple Tablets & Phones</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-list-every-game-for-ps-vr-2-thats-been-announced-so-far/"><u>Essential List: Every Game for PS VR 2 That's Been Announced So Far</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Vivo Y200e 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-tech-essentials-at-toms-haven-for-hardware-enthusiasts/"><u>Mastering Tech Essentials at Tom's Haven for Hardware Enthusiasts!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/reactivating-your-snapchat-a-comprehensive-guide/"><u>Reactivating Your Snapchat: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-problems-with-microsoft-edge-a-step-by-step-tutorial/"><u>Resolving Problems with Microsoft Edge - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-big-with-the-newly-discounted-phrozen-sonic-mini-8k-ss-resin-3d-printing-machine-just-325/"><u>Save Big with the Newly Discounted Phrozen Sonic Mini 8K sS Resin 3D Printing Machine - Just $325!</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/selecting-the-perfect-no-fee-video-communication-tools/"><u>Selecting the Perfect No-Fee Video Communication Tools</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-pining-conversations-on-instagram/"><u>Step-by-Step Guide: Pining Conversations on Instagram</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-removing-a-pivottable-from-your-microsoft-excel-spreadsheet/"><u>Step-by-Step Guide: Removing a PivotTable From Your Microsoft Excel Spreadsheet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/techie-treasures-and-bookish-bliss-a-journey-through-smartphones-laptops-and-literature/"><u>Techie Treasures and Bookish Bliss: A Journey Through Smartphones, Laptops & Literature</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-picks-best-free-films-on-youtube-july-2024-edition/"><u>Top Picks: Best Free Films on YouTube - July 2024 Edition</u></a></li>
 </ul></div>
 

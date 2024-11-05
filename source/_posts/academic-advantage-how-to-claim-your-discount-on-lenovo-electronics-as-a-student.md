@@ -1,7 +1,7 @@
 ---
 title: "Academic Advantage: How to Claim Your Discount on Lenovo Electronics as a Student"
-date: 2024-09-09T15:49:39.901Z
-updated: 2024-09-10T15:49:39.901Z
+date: 2024-11-02T21:49:19.992Z
+updated: 2024-11-05T17:54:24.205Z
 categories:
   - BestProducts
 description: "This Article Describes Academic Advantage: How to Claim Your Discount on Lenovo Electronics as a Student"
@@ -9,23 +9,11 @@ excerpt: "This Article Describes Academic Advantage: How to Claim Your Discount 
 thumbnail: https://thmb.techidaily.com/923ea7bec628700a525c9380309e5e23cc2f5ab6e5621bb73a4e4cfe01264003.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Academic Advantage: How to Claim Your Discount on Lenovo Electronics as a Student
  Lenovo is one of the biggest names in desktop and laptop computers, with popular brands like Thinkpad and Ideapad. If you can prove your enrollment at a qualifying institution, you can save as much as 20 percent on Lenovo laptops through the official Lenovo store.
 
  Lenovo also offers discounts to military personnel, teachers, and senior citizens.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Sign Up for the Lenovo Student Discount
 
  Since Lenovo uses ID.me to verify your enrollment, you need to either sign up for an ID.me account and set it up before or, as shown below, create it while shopping for a deal.
@@ -39,26 +27,8 @@ thumbnail: https://thmb.techidaily.com/923ea7bec628700a525c9380309e5e23cc2f5ab6e
 2. Scroll down to**All Offers** and select**Shop Now** beside a student deal of interest.  
 ![Student deal offers for the Lenovo brand on the ID.me shop.](https://www.lifewire.com/thmb/IFelZHCkRNHDTtCCfcfTR3Q5xUM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_lenovo-student-discount-4686110-6807a8d875a24ab683ab33b154b63e71.jpg)
 3. You'll be redirected to view and shop student deals on the Lenovo site.  
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Back-to-school deals on the Lenovo site](https://www.lifewire.com/thmb/Wt3WcrIQtxSUhEa31r7yaejAr5Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_lenovo-student-discount-4686110-9f9923e8eb5243678f9ced51db7c6986.jpg)
 4. Once you've added an item to your cart and you're ready to make your purchase, view the cart and scroll down until you see the ID.me verification box. Then select**Verify with ID.me** .  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Verify with ID.me option from the Lenovo checkout page](https://www.lifewire.com/thmb/n4OwILW4aBaHE91JfeX0JQRg_44=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_lenovo-student-discount-4686110-dd7afc30a4784a428579447592c05b41.jpg)
 5. Select**Student** \>**Continue to sign in** .  
 ![Sign-in option as a student via ID.me verification from the Lenovo website](https://www.lifewire.com/thmb/HNCIzyPkQMfFdlQkqi_R7pdvLkc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_lenovo-student-discount-4686110-af6ee06d647e4718811b38e23119afb1.jpg)
@@ -73,18 +43,6 @@ thumbnail: https://thmb.techidaily.com/923ea7bec628700a525c9380309e5e23cc2f5ab6e
 10. If the system automatically verifies your enrollment, you'll see a verification message, and your ID.me account is ready to use. You'll also see the Lenovo student discount applied automatically to your purchase.  
  If the system cannot verify your enrollment, it will prompt you to upload student documentation. Upload the eligible documents and select**Continue** to submit the paperwork.
 
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Use Your Lenovo Student Discount
 
  You can also go directly to the Lenovo student discount page once you have an established ID.me account.  
@@ -92,25 +50,35 @@ thumbnail: https://thmb.techidaily.com/923ea7bec628700a525c9380309e5e23cc2f5ab6e
 1. Navigate to the[Lenovo Students & Teachers Discounts](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Flandingpage%2Fstudents-and-teachers%2F) page. Select**Shop Now** .  
 ![Lenovo student discounts page](https://www.lifewire.com/thmb/2QP1g9CnrT1u8MW6L-3fZ4FQAmo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008_lenovo-student-discount-4686110-aaad3fab4c7243b0a1cd3d1ff6a5ff18.jpg)
 2. Determine which model you want, and select**Add to Cart** . If prompted, choose**Add to Cart** a second time to finalize the process and view your cart.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Add To Cart option when shopping on the Lenovo site](https://www.lifewire.com/thmb/6gzTYV8Uyp1xG0HDlCDNfX4Z2oI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009_lenovo-student-discount-4686110-e7dae007e58e4dd6a6ceb1a6d29dccbf.jpg)
 3. Select**Verify with ID.me** .  
 ![Verify with ID.me option from the Lenovo checkout page](https://www.lifewire.com/thmb/tGcuTqwcnNqG8Z9NcRer7BWoVCM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/010_lenovo-student-discount-4686110-6149068fc06b484a8952af3ef8cb2f9c.jpg)
 4. Choose**Student** , then click**Continue to sign in** .  
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also sign in to ID.me with your Facebook, Google, or LinkedIn account.  
 ![Signing in with ID.me verification from the Lenovo site](https://www.lifewire.com/thmb/r_6sBdz0n93hZOaY79xRHLhmtL4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/011_lenovo-student-discount-4686110-772fd44d9c9e4bc7ac1d701bbff832fe.jpg)  
  If you haven't set up your ID.me account, you're prompted to verify your enrollment. If you are verified, ID.me passes that information to Lenovo to unlock your discount.
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 5. Verify that your discount has been applied and complete your purchase.  
  The Lenovo student discount functions like a coupon code that you apply when you check out and buy your items. Instead of entering a coupon code, after you enter your ID.me information, ID.me verifies that you are a student, and Lenovo provides you with a discount.
 
@@ -123,12 +91,6 @@ thumbnail: https://thmb.techidaily.com/923ea7bec628700a525c9380309e5e23cc2f5ab6e
 
  Primary and secondary students aren't eligible for the discount. College students who haven't turned 18 are also not eligible. The program isn't available to anyone currently taking professional training courses but not enrolled at a qualifying university or college.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Does the Lenovo Student Discount Get You?
 
  The Lenovo student discount provides a five to 20 percent discount on big name brands like Thinkpad and Ideapad. There isn't a standard discount amount, but you can view the currently available deals by visiting the Lenovo College Deals page.
@@ -142,11 +104,12 @@ thumbnail: https://thmb.techidaily.com/923ea7bec628700a525c9380309e5e23cc2f5ab6e
  When ID.me can't automatically verify your enrollment, you can upload supporting documentation. For this process to work, you'll need to scan your documents for students at ID.me to go through manually.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## What to Do When Automatic Verification Fails
 
  Since Lenovo uses ID.me to check your status as a student, the verification process is usually automated and painless. When the process fails, upload your supporting documentation to access your student discount.
@@ -160,11 +123,12 @@ thumbnail: https://thmb.techidaily.com/923ea7bec628700a525c9380309e5e23cc2f5ab6e
  If you still can't access the student discount, even after providing documentation manually,[contact ID.me customer support](https://help.id.me/hc/en-us/articles/202858654-I-couldn-t-resolve-my-problem-using-FAQs-How-can-I-reach-ID-me-for-additional-help-) for additional assistance. Someone may need to process your application manually.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## What Happens to Your Lenovo Student Discount When You Graduate?
 
  The Lenovo student discount is only available if you're enrolled at an accredited school, which is the same as the[Spotify student discount](https://www.lifewire.com/spotify-student-discount-4684465) . If you graduate or leave school, you're no longer eligible for the discount.
@@ -191,8 +155,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -200,4 +162,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-the-complete-breakdown-of-facebooks-changes/"><u>[New] 2024 Approved The Complete Breakdown of Facebook's Changes</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-accelerate-engagement-implementing-the-top-12-video-growth-strategies/"><u>[New] Accelerate Engagement - Implementing the Top 12 Video Growth Strategies</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-adjusting-windows-11-settings-for-adaptive-hdr/"><u>[Updated] Adjusting Windows 11 Settings for Adaptive HDR</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-step-by-step-instructions-on-initiating-a-cross-platform-skype-conversation-with-ease/"><u>[Updated] In 2024, Step-by-Step Instructions on Initiating a Cross-Platform Skype Conversation with Ease</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-hands-on-guide-to-optimize-your-youtube-channels-with-adsense/"><u>2024 Approved Hands-On Guide to Optimize Your YouTube Channels with AdSense</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/balancing-netflix-stream-quality-and-playtime/"><u>Balancing Netflix Stream Quality and Playtime</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-lava-blaze-2-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Lava Blaze 2</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-advice-how-to-perform-a-factory-reset-on-your-samsung-tv-model/"><u>Expert Advice: How to Perform a Factory Reset on Your Samsung TV Model</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-does-ray-tracing-revolutionize-digital-image-creation/"><u>How Does Ray Tracing Revolutionize Digital Image Creation?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-restart-a-macbook-pro/"><u>How to Restart a MacBook Pro</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mac-terminal-tricks-showing-and-managing-hidden-files-on-macos-for-easy-navigation/"><u>Mac Terminal Tricks: Showing and Managing Hidden Files on macOS for Easy Navigation</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upcoming-m4-mac-mini-unveiled-anticipated-launch-details-and-pricing-speculations/"><u>Upcoming M4 Mac Mini Unveiled: Anticipated Launch Details & Pricing Speculations</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/wallet-friendly-hd-entertainment-packs-start-your-ht-journey-today/"><u>Wallet-Friendly HD Entertainment Packs - Start Your HT Journey Today</u></a></li>
+</ul></div>
 

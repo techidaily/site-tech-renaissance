@@ -1,7 +1,7 @@
 ---
 title: "Navigating Voice Assistants: Is Alexa Better Than Google's Offering?"
-date: 2024-09-09T15:50:19.166Z
-updated: 2024-09-10T15:50:19.166Z
+date: 2024-11-03T18:23:51.152Z
+updated: 2024-11-05T19:00:58.920Z
 categories:
   - BestProducts
 description: "This Article Describes Navigating Voice Assistants: Is Alexa Better Than Google's Offering?"
@@ -9,18 +9,6 @@ excerpt: "This Article Describes Navigating Voice Assistants: Is Alexa Better Th
 thumbnail: https://thmb.techidaily.com/0132287bf7d51b07521a43a3870f625dc6e6364d7e4121c0d057d3f42a0a988f.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Navigating the Tech Jungle: Laptop Secrets, Smartphone Wonders, and Book Discoveries Revealed
 
 In This Article
@@ -50,12 +38,6 @@ In This Article
 
 ![Students using laptops at tables and in bean bag chairs.](https://www.lifewire.com/thmb/5xqW8ViVbQNgb2VUsUblogbwFco=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Studentswithlaptopsondesksandbeanbags_skynesher_GettyImages-1456220436CROPPED-19c3059f597a4aa1b038835c96bacc75.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Skynesher/Getty
 
  For example, if your child is a STEM kid or a graphic artist, more power and storage are necessary overall. On the other hand, kids who just need to manage basic projects and complete homework on time will probably do fine with a standard Chromebook.  
@@ -63,11 +45,18 @@ Skynesher/Getty
  As you make your purchases, consider how long the item will last with your child. Some kids are rough on technology, while others are more thoughtful and responsible; age often dictates how nice I'm willing to purchase for a specific child.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Look for Student Discounts
 
  Check for discounts before you buy! Several major tech manufacturers offer student discounts, including HP and[Dell](https://www.lifewire.com/dell-student-discount-4686335) . Some retailers, like[Best Buy](https://www.lifewire.com/best-buy-student-discount-4684485) , offer back-to-school deals as well.
@@ -84,12 +73,6 @@ Skynesher/Getty
 
 ![](<https://www.lifewire.com/data:image/svg+xml,%3Csvg> width=%275751%27 height=%272313%27 xmlns=%27<http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E>) ![Hands holding a smartphone with a red smartwatch on wrist over a pencil and paper.](https://www.lifewire.com/thmb/nSqWQLOUlnMzLJD1rc7f4f2qO5g=/1500x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/smartwatchandphone_yacobchuk_GettyImages-693332444_CROPPED-616820cc68f645c09d7153ccc1de07ff.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Connections: The Power of Phones and Smartwatches
 
  Phones can be a bone of contention for parents and kids everywhere, but the simple fact of the matter is they are fast becoming a staple for students from middle school and up.
@@ -117,28 +100,31 @@ Skynesher/Getty
 ![](<https://www.lifewire.com/data:image/svg+xml,%3Csvg> width=%275483%27 height=%272329%27 xmlns=%27<http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E>) ![Composite drawing of books apps and devices against a blue background.](https://www.lifewire.com/thmb/afdEJWLn5Hja0WRtjgBJQP3K-8k=/1500x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Compositedrawingofbooksappsanddevices_grapihcnoi_GettyImages-174551865_CROPPED-17467a01a2e44bf98bfc135e8a7cff43.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Using Apps and Sites Can Support Good Study Habits
 
  Be careful and thoughtful if you're considering using ChatGPT for your child. It can certainly be helpful in some ways (think: helping to spark ideas for a snappy essay title), but AI tools like this essentially scrub the internet for information, which isn't always accurate and can frequently be considered plagiarism if used verbatim. Encourage your child to do their internet research instead.
 
 ![Female student walking with a tablet, smartphone, and headphones.](https://www.lifewire.com/thmb/xlh2OPH52kBp--XJzwjVyR_lZN0=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Studentwithtabletphoneheadphones_COROIMAGE_GettyImages-1429193388_VERTICALCROP-5f30ba23f2f64ada861c3283ce518740.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Back to school means more than finding the right books this year. While those are crucial (and often spendy), a frequently overlooked aspect of getting back into the school groove involves finding and using the right apps to support learning, enhance productivity, and improve organization tactics.
 
@@ -179,14 +165,11 @@ Skynesher/Getty
 * What percentage of schools use technology?  
  About 45 percent of all schools have a computer for every student; another 37 percent provide computers for students in at least some grades or classrooms. More than 70 percent of schools say their teachers use technology for activities usually done in the classroom. Source: The Institute of Education Sciences.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -195,4 +178,23 @@ Skynesher/Getty
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-how-to-simplify-tiktok-video-creation-using-siri-commands-and-features-for-2024/"><u>[New] How to Simplify TikTok Video Creation Using Siri Commands and Features for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-boost-your-tiktok-presence-advanced-mac-video-techniques-for-2024/"><u>[Updated] Boost Your TikTok Presence Advanced Mac Video Techniques for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-periscope-basics-understanding-costs-benefits-and-account-creation/"><u>2024 Approved Periscope Basics Understanding Costs, Benefits & Account Creation</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/beginners-roadmap-to-crafting-the-ultimate-home-audio-setup/"><u>Beginner's Roadmap to Crafting the Ultimate Home Audio Setup</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/boosting-impact-in-instagram-tv-key-size-strategies-unveiled/"><u>Boosting Impact in Instagram TV Key Size Strategies Unveiled</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comparing-ipad-pro-mini-m4-and-macbook-air-m3-key-features-and-performance/"><u>Comparing IPad Pro Mini (M4) and MacBook Air (M3): Key Features & Performance</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-how-to-place-coding-segments-inside-a-microsoft-word-document/"><u>Comprehensive Guide: How To Place Coding Segments Inside a Microsoft Word Document</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/elevate-hd-imagery-comprehensive-guide-for-windows-enthusiasts/"><u>Elevate HD Imagery Comprehensive Guide for Windows Enthusiasts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/entdecken-sie-die-welt-der-ki-lifewires-kostenlose-online-kurse-fur-eigenmotivation-und-fortbildung/"><u>Entdecken Sie Die Welt Der KI: Lifewire's Kostenlose Online-Kurse Für Eigenmotivation Und Fortbildung</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/owc-mercury-pro-assessment-exceptional-durability-and-superior-speed/"><u>OWC Mercury Pro Assessment: Exceptional Durability and Superior Speed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-for-streaming-3d-movies-on-your-device-with-fandango/"><u>Step-by-Step Instructions for Streaming 3D Movies on Your Device with Fandango</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/the-compreayers-resource-for-optimal-io-screen-use-for-2024/"><u>The Compreayer's Resource for Optimal IO Screen Use for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-11-complimentary-software-update-tools-you-should-try/"><u>Top 11 Complimentary Software Update Tools You Should Try</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-choosing-the-perfect-smartwatch-apps-on-android/"><u>Ultimate Guide: Choosing the Perfect Smartwatch Apps on Android</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-samsungs-next-innovation-the-galaxy-z-fold-6-release-info-and-pricing/"><u>Unveiling Samsung's Next Innovation: The Galaxy Z Fold 6 - Release Info & Pricing</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-in-2024-how-to-generate-speech-from-text-the-top-text-to-speech-converters/"><u>Updated In 2024, How To Generate Speech From Text | The Top Text-to-Speech Converters</u></a></li>
+</ul></div>
 

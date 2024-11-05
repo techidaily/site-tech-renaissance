@@ -1,7 +1,7 @@
 ---
 title: The Latest Buzz on Apple’s M4 Mac Mini - Projected Release, Features, and Cost Breakdown
-date: 2024-09-12T23:30:11.011Z
-updated: 2024-09-15T16:09:43.934Z
+date: 2024-11-02T16:51:54.379Z
+updated: 2024-11-05T22:11:29.539Z
 categories:
   - BestProducts
 description: This Article Describes The Latest Buzz on Apple’s M4 Mac Mini - Projected Release, Features, and Cost Breakdown
@@ -31,6 +31,19 @@ thumbnail: https://www.lifewire.com/thmb/l9rxiBXwehQjH7riKtsRH4G22Ks=/540x405/fi
 
  We expect the M4 Mac Mini to become available in late 2024 or, at the latest, early 2025.
 
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Pre-Order Information 
 
  The Mac Mini M4 will go on sale soon after its official announcement. We'll update this article with its on-sale date when that's available.
@@ -41,11 +54,25 @@ thumbnail: https://www.lifewire.com/thmb/l9rxiBXwehQjH7riKtsRH4G22Ks=/540x405/fi
 
  If that holds true, expect the Mac Mini M4 to start at $599\. The current entry-level model delivers an[ M2 processor](https://www.lifewire.com/why-the-new-m2-mac-mini-is-the-perfect-second-computer-7098470) , 8GB of RAM, and a 256GB hard drive for that price. At the high end, the current model costs $1,299 for an M2 Pro chip, 16GB of RAM, and a 512GB hard drive. There's also likely to be a model at an in-between price point.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Mac Mini M4 Features 
 
  There aren't a lot of rumors about the Mac Mini M4's features, so we'll update this article as information becomes available. Many features of the Mac Mini are unlikely to change from the current model, however.
 
  Some things to expect from the next-generation Mini are:
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### M4 Processor 
 
@@ -58,28 +85,15 @@ thumbnail: https://www.lifewire.com/thmb/l9rxiBXwehQjH7riKtsRH4G22Ks=/540x405/fi
  The M4 Pro model may offer more processor cores and higher performance than the base model.
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Same Size and Weight 
 
  The rumor mill says the Mac Mini M4 will use the same enclosure, and thus have the same size and weight, as[ the current M2 models](https://www.apple.com/mac-mini/specs/) . If that's the case, that means the Mac Mini will continue to be a tiny powerhouse, weighing 2.6-2.8 pounds and being 7.75 inches wide, 7.75 inches deep, and 1.41 inches tall.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  The Latest News About the Mac Mini M4 
 
@@ -112,5 +126,20 @@ thumbnail: https://www.lifewire.com/thmb/l9rxiBXwehQjH7riKtsRH4G22Ks=/540x405/fi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-5-next-level-editors-to-transcend-the-standard-youtube-videos-for-2024/"><u>[Updated] 5 Next-Level Editors to Transcend the Standard Youtube Videos for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1-securely-integrating-your-drivers-license-into-the-apple-wallet-a-step-by-step-guide-based-on-location/"><u>1. Securely Integrating Your Driver's License Into the Apple Wallet: A Step-by-Step Guide Based on Location</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/brighten-up-solutions-for-fading-lenovo-screen/"><u>Brighten Up: Solutions for Fading Lenovo Screen</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/buy-these-apple-innovations-revealed-at-the-latest-wwdc-now-get-preorder-info-from-our-detailed-guide-at-zdnet/"><u>Buy These Apple Innovations Revealed at the Latest WWDC Now! Get Preorder Info From Our Detailed Guide at ZDNet</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/crafting-compelling-instagram-stories-a-guide-to-scaled-visuals-for-2024/"><u>Crafting Compelling Instagram Stories A Guide to Scaled Visuals for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/creators-vs-corporations-the-reason-behind-sarah-silverman-and-colleagues-legal-challenge-to-ai-giants-openai-and-meta/"><u>Creators Vs. Corporations: The Reason Behind Sarah Silverman and Colleagues' Legal Challenge to AI Giants OpenAI & Meta</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/in-depth-look-at-how-chatgpt-link-sharing-works-and-what-it-means-for-you/"><u>In-Depth Look at How ChatGPT Link Sharing Works and What It Means for You</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tech-made-simple-how-to-efficiently-pair-a-chromecast-remote-with-any-device/"><u>Tech Made Simple: How to Efficiently Pair a Chromecast Remote with Any Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-insiders-guide-to-choosing-and-using-a-streaming-device/"><u>The Insider's Guide to Choosing and Using a Streaming Device</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-motorola-defy-2-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Motorola Defy 2 Reset Code | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-picks-for-childrens-tablets-endorsed-by-parents-insights/"><u>Top Picks for Children’s Tablets Endorsed by Parents – Insights</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-benq-displays-unmissable-savings-during-prime-shopping-event/"><u>Top-Rated BenQ Displays: Unmissable Savings During Prime Shopping Event</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-iphone-16-pro-next-level-audio-experience-with-studio-quality-sound-blending-capabilities/"><u>Unveiling the iPhone 16 Pro: Next-Level Audio Experience with Studio Quality Sound Blending Capabilities</u></a></li>
+</ul></div>
 

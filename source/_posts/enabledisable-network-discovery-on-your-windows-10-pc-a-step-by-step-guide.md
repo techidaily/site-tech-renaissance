@@ -1,7 +1,7 @@
 ---
 title: "Enable/Disable Network Discovery on Your Windows 10 PC: A Step-by-Step Guide"
-date: 2024-09-10T22:02:22.334Z
-updated: 2024-09-15T21:38:44.203Z
+date: 2024-10-29T18:54:46.997Z
+updated: 2024-11-05T17:05:10.551Z
 categories:
   - BestProducts
 description: "This Article Describes Enable/Disable Network Discovery on Your Windows 10 PC: A Step-by-Step Guide"
@@ -27,16 +27,54 @@ thumbnail: https://thmb.techidaily.com/1914db0ca3b67d30f8a3f7dc93a1fedb56cd0f4e0
 1. [Open the Windows 10 Action Center](https://www.lifewire.com/the-windows-10-notification-center-what-it-is-and-how-to-use-it-4150756) from the lower-right corner of the screen (pressing**Win** +**a** works, too), then select**Expand** (if you see that option).  
 ![Windows 10 desktop with Action Center open.](https://www.lifewire.com/thmb/gp-WAUkDBPn0cxP7l6D3N_lvOtI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-turn-on-or-off-discovery-network-in-windows-10-cb05f0ab15f64658a1372c42d9b90435.jpg)
 2. Select**Network** .  
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Selecting Network in the Action Center.](https://www.lifewire.com/thmb/ZMleUGp-9BsGCwG-dWG2ToQ-aAI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-turn-on-or-off-discovery-network-in-windows-10-30cfc2b69eac45b9aff649c3b5a6a5d1.jpg)
 3. Select**Network & Internet settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Selecting Network and Internet settings in Windows 10.](https://www.lifewire.com/thmb/hzAb1fly6wKEIUDRR7xImR89ae8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-turn-on-or-off-discovery-network-in-windows-10-9bc5681e91c24a8ca02cad8c7b13aed8.jpg)
 4. Scroll down a bit and choose**Network and Sharing Center** .  
 ![Network settings in Windows 10.](https://www.lifewire.com/thmb/qnolazVfasJbC970PLRkOphPJ3Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-turn-on-or-off-discovery-network-in-windows-10-1a4eb35ff184483fbbc8900e3a625ff9.jpg)
 5. When[Control Panel](https://www.lifewire.com/control-panel-2625841) opens, select**Change advanced sharing settings** from the left menu.  
+
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Windows 10 Control Panel network settings.](https://www.lifewire.com/thmb/vspgoHAgXFE9GTLJrOA8k7Xaiqg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-how-to-turn-on-or-off-discovery-network-in-windows-10-ba43069cb90246c998756a627b40a8ae.jpg)
 6. Select**Turn on network discovery** to flip it on. To turn_off_ network discovery in Windows 10, choose**Turn off network discovery** .  
 ![Windows 10 network discovery settings.](https://www.lifewire.com/thmb/1sRkqQMn4YalJmeFZGoznJPvkB4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-how-to-turn-on-or-off-discovery-network-in-windows-10-8beea7877c9c4399a61dafe0ddacfa74.jpg)  
  While here, you can also[turn file and printer sharing on and off](https://www.lifewire.com/windows-file-and-printer-sharing-818221) .
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. When finished, select**Save changes** . You can now close Control Panel and Settings.  
 ![Windows 10 Control Panel network discovery settings.](https://www.lifewire.com/thmb/K4SteWQHwkacaUCwBp9t7fdzrkw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007-how-to-turn-on-or-off-discovery-network-in-windows-10-c725b34b5e164b928fe5cb5d3d355a69.jpg)
 
@@ -79,12 +117,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-utilizing-inbuilt-cameras-for-screen-recording-on-mate-and-p-series-smartphones-mate-10-mate-20-p20-p10/"><u>[New] 2024 Approved Utilizing Inbuilt Cameras for Screen Recording on Mate and P Series Smartphones (Mate 10, Mate 20; P20, P10)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-zooming-into-clarity-a-blueprint-for-crisp-screenshots/"><u>[Updated] 2024 Approved Zooming Into Clarity A Blueprint for Crisp Screenshots</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-amp-up-your-humor-arsenal-kapwings-meme-creator/"><u>[Updated] Amp Up Your Humor Arsenal – Kapwing's Meme Creator</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/affordable-high-performance-tablets-of-2vear-2024-in-depth-analysis-and-rankings-by-professionals/"><u>Affordable High-Performance Tablets of 2Vear 2024: In-Depth Analysis and Rankings by Professionals</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-tutorial-for-uninstalling-microsoft-recovery-tools-from-hard-drive/"><u>Complete Tutorial for Uninstalling Microsoft Recovery Tools From Hard Drive</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enhancing-your-iphone-experience-with-apples-integration-of-googles-gemini-insights/"><u>Enhancing Your iPhone Experience with Apple's Integration of Google's Gemini - Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/get-the-new-airpods-pro-2-now-at-a-steep-discount-upgraded-to-serve-as-hearing-aids-exclusive-deal-on-zdnet/"><u>Get the New AirPods Pro 2 Now at a Steep Discount! Upgraded to Serve as Hearing Aids: Exclusive Deal on ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-to-porting-whatsapp-messages-and-data-transition-from-android-phones-to-iphones/"><u>Guide to Porting WhatsApp Messages and Data: Transition From Android Phones to iPhones</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>How To Pause Life360 Location Sharing For Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-hot-40-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Hot 40</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/is-it-possible-to-sideload-third-party-apps-on-your-iphone-legally-without-unlocking-the-device-techradar/"><u>Is It Possible to Sideload Third-Party Apps on Your iPhone Legally Without Unlocking the Device? | TechRadar</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-craft-the-ultimate-mac-app-for-incredible-document-management-a-step-by-step-tutorial-zdnet/"><u>Mastering Craft: The Ultimate Mac App for Incredible Document Management - A Step-by-Step Tutorial | ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-not-found-errors-with-d3d9dll-top-techniques-to-get-it-working-again/"><u>Overcoming 'Not Found' Errors with d3d9.dll: Top Techniques to Get It Working Again</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-problems-during-pc-reboot-step-by-step-troubleshooting-guide/"><u>Solving the 'Problems During PC Reboot': Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-to-enter-and-exit-iphones-resetting-procedure/"><u>Step-by-Step Instructions to Enter & Exit iPhone's Resetting Procedure</u></a></li>
+<li><a href="https://some-skills.techidaily.com/streaming-wars-the-digital-platform-showdown-for-2024/"><u>Streaming Wars The Digital Platform Showdown for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-the-potential-of-apple-pay-for-seamless-shopping-experiences-stores-and-websites-explained/"><u>Unlock the Potential of Apple Pay for Seamless Shopping Experiences - Stores and Websites Explained</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-incorporate-melodies-into-gif-file-on-pc/"><u>Updated Incorporate Melodies Into GIF File on PC</u></a></li>
+</ul></div>
 

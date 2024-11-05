@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for Teamwork on Apple Pages via iCloud - Tips From ZDNet
-date: 2024-10-23T23:29:18.947Z
-updated: 2024-10-31T01:54:13.114Z
+date: 2024-10-29T19:41:43.710Z
+updated: 2024-11-05T19:23:43.521Z
 tags:
   - apple
 categories:
@@ -33,16 +33,16 @@ The only things you'll need to make this work are a running instance of MacOS (w
 
 I'll be demonstrating on a [MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fmacbook-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) running MacOS Monterey.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Enable iCloud Collaboration
 
 Before you can collaborate on a Pages document, you must first enable iCloud Collaboration. To do that, follow these steps.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
@@ -53,10 +53,10 @@ Open System Preferences by clicking the Apple button in the top left corner of y
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Enable Pages for iCloud Drive
@@ -68,10 +68,10 @@ In the next window (**Figure 2**), click the check box for Pages and then click 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Enable the Collaboration feature
@@ -92,13 +92,6 @@ Click Collaborate and you'll be informed the document must be moved to iCloud be
 
 Image: Jack Wallen
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Enable Track Changes
 
 Click Move to iCloud and then, when prompted, click Continue to enable Track Changes (**Figure 5**).
@@ -116,6 +109,19 @@ Image: Jack Wallen
 Make sure to configure both the Who Can Access and Permission options. Here, you also decide how to share the document with your collaborators. Choose Email, Messages, Copy Link, AirDrop, or Twitter. 
 
 Depending on the sharing method you choose, you'll either open Apple Mail, Messages, AirDrop, or Twitter, or you'll copy the link to the file to your clipboard. Make your selection and click Share, at which point the document will be activated for sharing. Whoever is the recipient of the link will then be able to access the file either from within iCloud (if Pages isn't available on their OS) or directly from within Apple Pages.
+
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Stop sharing
 
@@ -157,24 +163,24 @@ And that's all there is to collaborating with Apple Pages. This is a great featu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/nified-media-playback-on-youtube-flv-files-tutorial/"><u>[New] Unified Media Playback on YouTube FLV Files Tutorial</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solve-how-to-block-ads-in-firefox-quickly-and-easily/"><u>[Solve] How to Block Ads in Firefox | Quickly & Easily</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-seasons-skate-top-10-2022-review/"><u>[Updated] In 2024, Season's Skate Top 10 - 2022 Review</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-essential-mac-tech-tips-5-snapshot-strategies/"><u>2024 Approved Essential Mac Tech Tips 5 Snapshot Strategies</u></a></li>
-<li><a href="https://discover-data.techidaily.com/expert-tips-for-configuring-system-reboots-using-the-task-scheduler-in-windows-server-2022/"><u>Expert Tips for Configuring System Reboots Using the Task Scheduler in Windows Server 2022</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/flawless-endgame-in-vr-worlds-for-2024/"><u>Flawless Endgame in VR Worlds for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-vivo-x100-is-unlocked-by-drfone-android/"><u>How To Check if Your Vivo X100 Is Unlocked</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-fix-an-unresponsive-asus-trackpad-in-windows-11-and-10-solution-guide/"><u>How to Fix an Unresponsive ASUS Trackpad in Windows 11 and 10 - SOLUTION GUIDE</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-xiaomi-mix-fold-3-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Xiaomi Mix Fold 3 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-turn-off-or-on-hibernate-mode-in-windows-11-a-step-by-step-guide/"><u>How to Turn Off or On Hibernate Mode in Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Lava Storm 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-elevate-your-video-editing-game-10-best-premiere-pro-transitions/"><u>In 2024, Elevate Your Video Editing Game 10 Best Premiere Pro Transitions</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-iphone-lights-mastery-guide/"><u>In 2024, IPhone Lights Mastery Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/in-depth-look-at-computer-hardware-drivers-and-effective-strategies-to-address-windows-driver-errors/"><u>In-Depth Look at Computer Hardware Drivers and Effective Strategies to Address Windows Driver Errors</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/install-windows-10-from-usb-with-pictures/"><u>Install Windows 10 From USB (With Pictures)</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigating-to-windows-10-startup-settings-your-ultimate-how-to-guide/"><u>Navigating to Windows 10 Startup Settings - Your Ultimate How-To Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/overcome-windows-update-error-0x80070422-in-windows-11-effortlessly-solution/"><u>Overcome Window's Update Error 0X80070422 in Windows 11 Effortlessly [Solution]</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-frame-rate-issues-in-godfall-a-comprehensive-guide/"><u>Resolving Frame Rate Issues in Godfall: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-the-issue-elevated-processor-usage-by-windows-modules-installer-on-windows-11/"><u>Resolving the Issue: Elevated Processor Usage by Windows Modules Installer on Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-crisis-on-social-media-managing-negative-feedback-and-maintaining-a-positive-reputation/"><u>[Navigating Crisis on Social Media: Managing Negative Feedback and Maintaining a Positive Reputation]</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-a-practical-guide-to-saving-screens-on-dell-computers/"><u>[New] 2024 Approved A Practical Guide to Saving Screens on Dell Computers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-essential-tips-for-digital-boards-in-zoom-desktops-and-mobile-for-2024/"><u>[New] Essential Tips for Digital Boards in Zoom Desktops & Mobile for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-mastery-in-media-download-from-facebook-platforms/"><u>[New] In 2024, Mastery in Media Download From Facebook Platforms</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-top-5-secure-downloader-apps-for-fb-video-extraction-for-2024/"><u>[New] Top 5 Secure Downloader Apps for FB Video Extraction for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-adapting-your-tech-skills-for-facetime-call-logging/"><u>[Updated] 2024 Approved Adapting Your Tech Skills for FaceTime Call Logging</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-navigating-links-between-instagram-and-tiktok/"><u>[Updated] 2024 Approved Navigating Links Between Instagram and TikTok</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-are-youtube-engagement-strategies-justifiable-for-2024/"><u>[Updated] Are YouTube Engagement Strategies Justifiable for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ai-knowledge-without-boundaries-lifewires-essential-guide-to-top-15-free-online-self-directed-courses-in-artificial-intelligence/"><u>AI Knowledge Without Boundaries: Lifewire's Essential Guide to Top 15 Free Online Self-Directed Courses in Artificial Intelligence</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/anticipated-tesla-automaton-price-estimates-projected-debut-and-performance-specs-revealed/"><u>Anticipated Tesla Automaton: Price Estimates, Projected Debut, and Performance Specs Revealed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-method-for-opening-windows-terminal-in-a-targeted-directory/"><u>Easy Method for Opening Windows Terminal in a Targeted Directory</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/experiencing-connectivity-problems-with-xbox-live-common-fixes-and-solutions/"><u>Experiencing Connectivity Problems with Xbox Live – Common Fixes and Solutions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/filmmakers-toolkit-masterful-avi-to-gif-conversion-via-filmora-windowsmacos-for-2024/"><u>Filmmaker’s Toolkit Masterful AVI to GIF Conversion via Filmora (Windows/macOS) for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-updated-hp-wireless-lan-card-drivers-for-windows-10-compatible-systems-win7811/"><u>Get Updated HP Wireless LAN Card Drivers for Windows 10 Compatible Systems: Win7/8/11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-camon-20-pro-5g-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Tecno Camon 20 Pro 5G Phone with Broken Screen</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-androids-connection-challenges-fixing-authentication-woes-with-wi-fi/"><u>Overcoming Android's Connection Challenges: Fixing Authentication Woes with Wi-Fi</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-role-of-output-impedance-in-audio-and-signal-integrity/"><u>The Role of Output Impedance in Audio and Signal Integrity</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-and-repairing-wii-disc-drive-issues-a-step-by-nstep-guide/"><u>Troubleshooting and Repairing Wii Disc Drive Issues: A Step-by-nStep Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-tutorial-on-integrating-fire-stick-with-projector-display/"><u>Ultimate Tutorial on Integrating Fire Stick With Projector Display</u></a></li>
 </ul></div>
 

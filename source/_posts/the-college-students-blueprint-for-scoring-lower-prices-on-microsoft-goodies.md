@@ -1,7 +1,7 @@
 ---
 title: The College Student's Blueprint for Scoring Lower Prices on Microsoft Goodies
-date: 2024-09-12T16:30:31.421Z
-updated: 2024-09-15T22:32:54.447Z
+date: 2024-10-30T19:24:56.420Z
+updated: 2024-11-05T20:41:05.653Z
 categories:
   - BestProducts
 description: This Article Describes The College Student's Blueprint for Scoring Lower Prices on Microsoft Goodies
@@ -28,6 +28,13 @@ thumbnail: https://www.lifewire.com/thmb/7Ly57WIr_QA6wBh78DLml9BgtcA=/400x300/fi
 ![Checking out at the online Microsoft store.](https://www.lifewire.com/thmb/gF3Dy3jJNOJlbYJPatebpx5EyGw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-how-to-get-a-microsoft-store-student-discount-011f2569dab04dcb8c3c942c4cba5e55.jpg)  
  If you choose to pick up your order at a local Microsoft store, remember to bring your student ID. Microsoft doesn't verify enrollment during online purchases, but they may ask for proof of enrollment during pickup.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who Is Eligible for Microsoft's Student Discount?
 
  The Microsoft student discount is available to a wide range of people, including students, faculty, and even parents. Here are the general requirements:
@@ -37,6 +44,20 @@ thumbnail: https://www.lifewire.com/thmb/7Ly57WIr_QA6wBh78DLml9BgtcA=/400x300/fi
 * Enrolled at a four-year university, two-year college, or a vocational school.
 
 ![Person accessing the Microsoft student discount on a phone.](https://www.lifewire.com/thmb/h1sE0kaVMIxmUmfOCw7SnD4v-cI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/microsoftstudentdiscount-3fb8972d9f274cb5a0c5dbc2bc56beb1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Does Microsoft's Student Discount Get You?
 
@@ -50,10 +71,10 @@ Certain items are specifically excluded, including:
 * Gift cards and subscriptions to services like Xbox Game Pass.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Does Microsoft Verify Student Enrollment?
@@ -93,5 +114,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-conquer-xbox-gameplay-with-efficient-recording-tools/"><u>[New] Conquer Xbox Gameplay with Efficient Recording Tools</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-crafting-content-masterpieces-with-these-essential-youtube-tips/"><u>[Updated] Crafting Content Masterpieces with These Essential YouTube Tips</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-bringing-text-to-life-3d-techniques-in-illustrator/"><u>2024 Approved Bringing Text to Life 3D Techniques in Illustrator</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-direct-to-youtube-stepwise-process-of-mobile-and-desktop-video-posting/"><u>2024 Approved Direct to YouTube Stepwise Process of Mobile & Desktop Video Posting</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-apples-game-changing-ai-announcement-at-wwdc-why-the-low-key-approach-might-just-be-their-biggest-win-yet-zdnet/"><u>Discover Apple’s Game-Changing AI Announcement at WWDC – Why the Low Key Approach Might Just Be Their Biggest Win Yet | ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-next-generation-of-wireless-earbuds-apples-latest-airpods-4-unveil-advanced-find-my-speaker-and-usb-c-options-tech-insights/"><u>Discover the Next Generation of Wireless Earbuds – Apple's Latest AirPods 4 Unveil Advanced Find My Speaker & USB-C Options | Tech Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discovering-apple-vision-pros-potential-a-weekend-review-with-key-findings-for-tech-enthusiasts/"><u>Discovering Apple Vision Pro's Potential: A Weekend Review with Key Findings for Tech Enthusiasts</u></a></li>
+<li><a href="https://games-able.techidaily.com/find-the-ultimate-online-gaming-partners-our-picks-for-top-9-isps-as-reviewed-by-zdnet/"><u>Find the Ultimate Online Gaming Partners: Our Picks for Top 9 ISPs, as Reviewed by ZDNet</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-7-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone 7 in Lost Mode</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/navigating-the-nuances-of-slow-motion-video-with-gopro-hero-10/"><u>Navigating the Nuances of Slow Motion Video with GoPro Hero 10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tech-hacks-easily-integrating-bluetooth-audio-gear-with-your-computer-system/"><u>Tech Hacks: Easily Integrating Bluetooth Audio Gear with Your Computer System</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-shared-disappointment-with-iphones-ios-18-update-explored/"><u>The Shared Disappointment with iPhone's iOS 18 Update Explored</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-3-essential-accessories-to-maintain-the-pristine-look-of-your-iphone-13-tips/"><u>Top 3 Essential Accessories to Maintain the Pristine Look of Your iPhone 13 - Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-apple-watch-screen-guard-the-ultimate-selection-reviews-by-zdnet/"><u>Top-Rated Apple Watch Screen Guard: The Ultimate Selection – Reviews by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-laptop-guide-for-artists-and-designers-featured-picks-from-experts-zdnet/"><u>Ultimate Laptop Guide for Artists & Designers: Featured Picks From Experts | ZDNet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlimited-choice-in-free-personalized-outro-sounds/"><u>Unlimited Choice in Free, Personalized Outro Sounds</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/zdnet-reviews-iphone-14-fulfilling-necessary-standards-for-modern-consumers/"><u>ZDNet Reviews iPhone 14: Fulfilling Necessary Standards for Modern Consumers</u></a></li>
+</ul></div>
 

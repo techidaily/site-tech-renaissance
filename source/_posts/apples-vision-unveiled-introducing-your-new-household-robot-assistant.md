@@ -1,7 +1,7 @@
 ---
 title: "Apple's Vision Unveiled: Introducing Your New Household Robot Assistant"
-date: 2024-10-28T01:34:06.625Z
-updated: 2024-10-30T16:37:41.277Z
+date: 2024-11-04T16:39:50.092Z
+updated: 2024-11-05T17:20:33.291Z
 tags:
   - apple
 categories:
@@ -45,10 +45,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Apple Music haptics
@@ -56,10 +56,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Addressing motion sickness
@@ -77,10 +77,10 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### New CarPlay features
@@ -90,10 +90,16 @@ Apple's in-car CarPlay software is also getting new accessibility features, incl
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Some other updates
@@ -130,19 +136,18 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-prolific-profits-from-youtube-universal-strategies-unveiled/"><u>[New] Prolific Profits From YouTube Universal Strategies Unveiled</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-best-10-youtube-volume-boosters-for-windows-macos-android-and-iphone/"><u>[Updated] 2024 Approved Best 10 YouTube Volume Boosters for Windows, MacOS, Android and iPhone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-off-facebook-activity-analysis-and-secure-browsing-practices/"><u>[Updated] Off-Facebook Activity Analysis & Secure Browsing Practices</u></a></li>
-<li><a href="https://win-trending.techidaily.com/1-restore-refs-partitions-effortlessly-bring-your-missing-data-back/"><u>1. Restore ReFS Partitions Effortlessly - Bring Your Missing Data Back</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-faster-ram-and-lower-latency-boost-your-computers-efficiency/"><u>How Faster RAM and Lower Latency Boost Your Computer's Efficiency</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/identifying-the-ipad-series-featuring-native-global-positioning-systems/"><u>Identifying the iPad Series Featuring Native Global Positioning Systems</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-on-iphone-se-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock on iPhone SE</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-iphone-7-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>In 2024, Unlock Your iPhone 7 in Minutes with ICCID Code Everything You Need to Know</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/io-screen-recorder-user-manual-overview-for-2024/"><u>IO Screen Recorder User Manual Overview for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-social-connectivity-from-instagram-to-tiktoks-playground/"><u>Mastering Social Connectivity From Instagram to TikTok's Playground</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722901254548-multiple-bluetooth-audio-streams-master-the-art-of-conjoining-them-through-one-gadget/"><u>Multiple Bluetooth Audio Streams? Master the Art of Conjoining Them Through One Gadget!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/rejuvenating-desktop-computers-with-no-power-signs/"><u>Rejuvenating Desktop Computers with No Power Signs</u></a></li>
-<li><a href="https://windows11.techidaily.com/resetting-and-redoing-reactivating-ms-store-for-windows-users/"><u>Resetting and Redoing: Reactivating MS Store for Windows Users</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-resolving-dll-file-not-found-issues/"><u>Troubleshooting Guide: Resolving 'DLL File Not Found' Issues</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-exploring-imovie-trimming-the-crop-conundrum-for-2024/"><u>[New] Exploring iMovie Trimming The Crop Conundrum for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-blueprint-to-hitting-it-big-with-instagram-videos/"><u>[New] The Blueprint to Hitting It Big with Instagram Videos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-ultimate-guide-8-budget-friendly-video-calls-on-windows-and-mac/"><u>[Updated] 2024 Approved Ultimate Guide 8 Budget-Friendly Video Calls on Windows & Mac</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-step-in-stride-guide-sharing-personalized-youtube-videos-with-google/"><u>[Updated] Step-in-Stride Guide Sharing Personalized YouTube Videos with Google</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-your-stepwise-approach-to-uploading-youtube-shorts-on-laptop-phone/"><u>2024 Approved Your Stepwise Approach to Uploading YouTube Shorts on Laptop, Phone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dissecting-winservicesexe-in-windows-environment/"><u>Dissecting Winservices.exe in Windows Environment</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Honor 90 Pro? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Apple iPhone 8? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/leading-ceiling-sound-solutions/"><u>Leading Ceiling Sound Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/macbook-with-touch-display-on-the-horizon-pricing-insights-projected-release-date-and-comprehensive-tech-breakdown/"><u>MacBook with Touch Display on the Horizon: Pricing Insights, Projected Release Date, and Comprehensive Tech Breakdown</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-between-iphone-and-android-selecting-the-best-fit-for-your-needs/"><u>Navigating Between iPhone and Android: Selecting the Best Fit For Your Needs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tracking-social-engagement-how-do-i-find-out-who-shared-my-posts-on-facebook/"><u>Tracking Social Engagement: How Do I Find Out Who Shared My Posts on Facebook?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/windows-10xbox/"><u>Windows 10上、Xboxゲームバーは画像記録不可能？解決手段を学ぶ！</u></a></li>
 </ul></div>
 

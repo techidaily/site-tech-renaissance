@@ -1,7 +1,7 @@
 ---
 title: How to Revive a Dead Computer - A Step by Step Guide
-date: 2024-09-09T15:48:42.439Z
-updated: 2024-09-10T15:48:42.439Z
+date: 2024-10-29T16:31:30.869Z
+updated: 2024-11-05T22:40:33.259Z
 categories:
   - BestProducts
 description: This Article Describes How to Revive a Dead Computer - A Step by Step Guide
@@ -9,29 +9,11 @@ excerpt: This Article Describes How to Revive a Dead Computer - A Step by Step G
 thumbnail: https://www.lifewire.com/thmb/joDsZndY7vZBx-4n02KyTPDQHUM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/kaboompics_Womanlaptopmobilephonenotebooks-5a257db6482c5200370f451f.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Ultimate Guide: Speeding up Your Computer in Just 7 Steps
  After you've had a computer for a while, you might notice that it's running slower than when you first got it. Fortunately, you can do some things to speed up your computer to make it seem new again.
 
  Instructions in this article apply to Windows 11, Windows 10, Windows 8.1, and Windows 7.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Clean up Junk Files and Programs
 
  Getting rid of unnecessary files, applications, and other "junk" is an effective way to speed up any computer. Freeing your computer of these unnecessary items opens up storage for your important things and helps with overall performance.
@@ -40,28 +22,10 @@ thumbnail: https://www.lifewire.com/thmb/joDsZndY7vZBx-4n02KyTPDQHUM=/400x300/fi
  If these temporary internet files and other useless items stick around for too long, they can not only cause programs to hang and become unresponsive and sluggish but also take up valuable hard drive space.  
 ![A list of junk files analyzed by CCleaner](https://www.lifewire.com/thmb/fcJdBbMmX-n1fr28E8-tAXm60bc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ccleaner-f6f275a2e09b4fa8821c232149546fd7.png)
 2. [Remove unwanted programs](https://www.lifewire.com/windows-uninstaller-to-remove-unused-programs-3506955) that are just lingering on your computer. These are not only taking up hard drive space but they might [open automatically with Windows](https://www.lifewire.com/change-startup-programs-windows-11-6823499) and be running in the background all the time, sucking away at the processor and memory.  
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  There are several[free program uninstaller apps](https://www.lifewire.com/free-uninstaller-programs-2625188) that make doing this really easy.
 3. Also considered junk files are anything you simply don't use or want anymore. So, delete those old video files that you downloaded a year ago and[back up all the data you rarely access](https://www.lifewire.com/ways-to-back-up-your-data-2640426) , like vacation pictures.
 4. [Clean up your desktop](https://www.lifewire.com/cleaning-and-speeding-up-windows-desktop-3506952) if it's cluttered. Making File Explorer load those icons and folders each time the desktop refreshes can put unnecessary load on your hardware, which takes away[system resources](https://www.lifewire.com/what-is-a-system-resource-2626016) that could be used elsewhere.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Defrag Your Hard Drive
 
  Another way you can speed up a computer is by defragging the hard drive. This consolidates all the empty spaces that you create in the[file system](https://www.lifewire.com/what-is-a-file-system-2625880) structure as you add and remove files. These empty spaces make your hard drive take longer to think, which in turn causes files, folders, and programs to open slowly.
@@ -71,11 +35,12 @@ thumbnail: https://www.lifewire.com/thmb/joDsZndY7vZBx-4n02KyTPDQHUM=/400x300/fi
 [How Often Should You Defrag Your Computer?](https://www.lifewire.com/how-often-should-you-defrag-3976922)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Remove Viruses, Malware, Spyware, Adware, etc
 
  Every Windows computer is vulnerable to malware, but your risk of infection is low if you regularly use anti-malware programs.
@@ -86,23 +51,31 @@ thumbnail: https://www.lifewire.com/thmb/joDsZndY7vZBx-4n02KyTPDQHUM=/400x300/fi
 
 [How to Tell if You Have a Computer Virus on Windows](https://www.lifewire.com/how-to-tell-if-your-computer-has-a-virus-4590200)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix Windows System Errors
 
  Installing and uninstalling software and Windows updates, rebooting your computer during an update, forcing your PC to shut down immediately, and other things can cause errors within the Windows system files.
 
  These errors can cause things to lock up, halt program installs and updates, and generally prevent a smooth computer experience. Speeding up a computer this way is easy; just[repair the system files](https://www.lifewire.com/how-to-use-sfc-scannow-to-repair-windows-system-files-2626161) .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Adjust Visual Effects
 
  Windows provides numerous interesting visual effects including animated windows and fading menus. These extras are usually fine to have turned on, but they're only worth it if you have enough system memory.
 
  If this is why your PC is slow, you can[turn off these visual effects to speed up the computer in seconds](https://www.lifewire.com/adjust-visual-effects-to-improve-speed-3506867) .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Clean, Replace, or Upgrade Your Hardware
 
@@ -123,6 +96,13 @@ thumbnail: https://www.lifewire.com/thmb/joDsZndY7vZBx-4n02KyTPDQHUM=/400x300/fi
  The great thing about doing this is that you essentially have a new computer, free of years' worth of software and registry changes and errors that you don't even know you have. However, you should really think more than twice about doing this because it's irreversible and is one of the last decisions you can make to speed up your computer.
 
  Reinstalling Windows is a permanent solution. Back up your files and make note of any programs you will want to reinstall.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Why Is My Computer So Slow?
 
@@ -165,8 +145,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -174,4 +152,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-gamers-ultimate-guide-to-9-streams/"><u>[New] Gamer's Ultimate Guide to #9 Streams</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-logitech-4k-pro-webcam-complete-review/"><u>[Updated] Logitech 4K Pro Webcam Complete Review</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-techniques-in-archiving-web-based-music-tracks/"><u>2024 Approved Techniques in Archiving Web-Based Music Tracks</u></a></li>
+<li><a href="https://win-web.techidaily.com/come-eseguire-laggiornamento-dello-storage-su-un-microsoft-surface-laptop-studio-tutorial-completo/"><u>Come Eseguire L'aggiornamento Dello Storage Su Un Microsoft Surface Laptop Studio - Tutorial Completo</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-the-latest-kyocera-printer-drivers-on-your-pc-with-windows-os/"><u>Download & Install the Latest KYOCERA Printer Drivers on Your PC with Windows OS</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-the-latest-broadcom-drivers-for-bluetooth-support-in-windows-11-and-previous-versions/"><u>Download the Latest Broadcom Drivers for Bluetooth Support in Windows 11 & Previous Versions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-guide-what-you-should-know-before-investing-in-icloud-storage/"><u>Essential Guide: What You Should Know Before Investing in iCloud Storage</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-to-running-apple-maps-app-on-a-windows-pc/"><u>Guide to Running Apple Maps App on a Windows PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-installing-universal-color-pickers-across-your-windows-11-system/"><u>Guide: Installing Universal Color Pickers Across Your Windows 11 System</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/lenovo-legion-7i-laptop-review-a-detailed-look-at-the-new-16-inch-gaming-powerhouse/"><u>Lenovo Legion 7I Laptop Review: A Detailed Look at the New 16-Inch Gaming Powerhouse</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/microsoft-upgrades-windows-11-memory-functionality-for-improved-user-experience/"><u>Microsoft Upgrades Windows 11 Memory Functionality for Improved User Experience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-the-vulnerabilities-the-risk-of-maliciously-exploiting-windows-update-for-counteracting-security-patches/"><u>Navigating the Vulnerabilities: The Risk of Maliciously Exploiting Windows Update for Counteracting Security Patches</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/optimizing-windows-11-making-the-most-of-your-cloud-storage-with-onedrive/"><u>Optimizing Windows 11: Making the Most of Your Cloud Storage with OneDrive</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quick-guide-performing-fast-network-latency-checks-across-windows-macos-and-linux/"><u>Quick Guide: Performing Fast Network Latency Checks Across Windows, macOS & Linux</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/the-ultimate-guide-to-crafting-exquisite-hdr-portraits/"><u>The Ultimate Guide to Crafting Exquisite HDR Portraits</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-the-ultimate-list-10-best-video-editing-apps-for-vloggers/"><u>Updated 2024 Approved The Ultimate List 10 Best Video Editing Apps for Vloggers</u></a></li>
+<li><a href="https://win-popular.techidaily.com/windows-10-fehlt-der-wegfall-von-windows-easy-ubertragung/"><u>Windows 10 Fehlt: Der Wegfall Von 'Windows Easy Übertragung'</u></a></li>
+</ul></div>
 

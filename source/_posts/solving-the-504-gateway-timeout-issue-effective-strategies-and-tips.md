@@ -1,7 +1,7 @@
 ---
 title: "Solving the 504 Gateway Timeout Issue: Effective Strategies and Tips"
-date: 2024-09-12T16:32:55.695Z
-updated: 2024-09-15T23:35:03.308Z
+date: 2024-10-30T18:46:30.310Z
+updated: 2024-11-05T19:02:42.180Z
 categories:
   - BestProducts
 description: "This Article Describes Solving the 504 Gateway Timeout Issue: Effective Strategies and Tips"
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/e51e623bbd7f87e2ff660a6fc070fca8d466d4d3f
 
  If you'd rather, you can[make a totally new Skype account](https://www.lifewire.com/how-to-create-a-skype-account-on-windows-4800185) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Step 2: Check to See if It's Skype's Problem
 
  See if others are having troubles with Skype, too. There isn't much you can do to fix it if it's not your problem to fix. Sometimes things go wrong on Skype's end and the only thing you can do is wait it out.
@@ -44,6 +51,13 @@ thumbnail: https://thmb.techidaily.com/e51e623bbd7f87e2ff660a6fc070fca8d466d4d3f
 
  If either website shows a problem, it most likely means that you're not the only one that can't use Skype. Just wait an hour or so and try again.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Step 3: Check Your Network Connection
 
  Make sure it's not a network problem. Skype won't work if you don't have a network connection. This is true if you're using it from any device, be it on the web, your phone, computer, etc.
@@ -52,18 +66,18 @@ thumbnail: https://thmb.techidaily.com/e51e623bbd7f87e2ff660a6fc070fca8d466d4d3f
 
  If other websites are working normally, the reason Skype can't make calls or why it's experiencing dropped calls could be related to[bandwidth](https://www.lifewire.com/what-is-bandwidth-2625809) usage. If there are multiple other people on your network that are using the internet at the same time, pause or stop the activity on those devices and then see if Skype starts working again.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Step 4: Check Skype's Audio Settings and Permissions
 
  If you can't hear the other caller(s), double-check that other sources of audio, like a YouTube video, works as you'd expect. Just open any video there to see if you can hear it.
 
  If there's a playback error in Skype specifically (and not on YouTube, etc.) and you can't hear the other person you're talking with, or they can't hear you, you need to check that the program has access to your speakers and microphone.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Using Skype on a Computer
 
@@ -72,16 +86,10 @@ thumbnail: https://thmb.techidaily.com/e51e623bbd7f87e2ff660a6fc070fca8d466d4d3f
 ![Skype audio and video settings](https://www.lifewire.com/thmb/FU_qqJ8uZhHzdcMgOGYhQ0knAjc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/skype-audio-video-settings-b7970d044c6b40cd8f900fda61bf7555.png)
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * With that setting open, notice the volume area under**Microphone** . As you talk, you should see the bar light up.
@@ -92,10 +100,10 @@ thumbnail: https://thmb.techidaily.com/e51e623bbd7f87e2ff660a6fc070fca8d466d4d3f
 * If the volume is fine, double-check the menu next to**Speakers** and see if there's another option to pick from, and then try the sample sound again.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Using Skype for Mobile Devices
@@ -129,13 +137,6 @@ thumbnail: https://thmb.techidaily.com/e51e623bbd7f87e2ff660a6fc070fca8d466d4d3f
 * Try unplugging and then reattaching the webcam if it's an external one.
 * Make sure that there's nothing physically blocking the camera.
 * Use the menu to the right of the**Camera** area in the settings to choose a different camera if you have more than one.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Skype for Mobile Devices
 
@@ -174,10 +175,16 @@ thumbnail: https://thmb.techidaily.com/e51e623bbd7f87e2ff660a6fc070fca8d466d4d3f
  Specifically, if you're using Skype on Windows, check the device driver for the webcam and sound card. If there's something wrong with either, then your camera and/or sound won't work anywhere, including with Skype, and you may need to[update your drivers](https://www.lifewire.com/how-to-update-drivers-in-windows-2619214) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Step 9: Verify the Microphone Works
@@ -223,5 +230,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-aerial-stability-made-simple-selecting-the-right-drone-gimbals/"><u>[New] Aerial Stability Made Simple Selecting the Right Drone Gimbals</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-easy-efficient-and-essential-top-23-tools-to-downgrade-youtube-audios/"><u>[New] In 2024, Easy, Efficient, and Essential Top 23 Tools to Downgrade YouTube Audios</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-mastermakers-in-av-production-top-5-list/"><u>[Updated] Mastermakers in AV Production Top 5 List</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726030092152-vobavi/"><u>「無劣化転送」: VOBファイルを安全にAVI形式に変換するテクニック</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/boosting-your-macs-performance-a-user-friendly-guide-to-installing-and-using-dual-monitors/"><u>Boosting Your Mac's Performance: A User-Friendly Guide to Installing and Using Dual Monitors</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-to-correct-the-d3d9dll-file-not-detected-issue/"><u>Expert Tips to Correct the D3D9.DLL File Not Detected Issue</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-fix-driver-compatibility-issues-with-arduino-uno-on-windows-os/"><u>How To Fix Driver Compatibility Issues With Arduino Uno On Windows OS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-transfer-your-spotify-playlist-data-into-written-documents/"><u>How To Transfer Your Spotify Playlist Data Into Written Documents</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-iphone-detection-problems-in-itunes-or-finder-a-step-by-step-guide/"><u>Overcome iPhone Detection Problems in iTunes or Finder - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-the-division-2-launch-problem-expert-fixes-and-advice-for-gamers/"><u>Solving the Division #2 Launch Problem: Expert Fixes and Advice for Gamers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-your-microsoft-outlooks-faulty-spellcheck-issues/"><u>Solving Your Microsoft Outlook's Faulty Spellcheck Issues</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-hidden-rewards-of-going-green-free-parking-and-hov-lane-access-with-your-ev/"><u>The Hidden Rewards of Going Green: Free Parking and HOV Lane Access with Your EV</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-sending-and-receiving-ims-with-mozilla-thunderbird/"><u>The Ultimate Guide to Sending and Receiving IMs with Mozilla Thunderbird</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-visitors-a-guide-on-identifying-accessors-of-your-google-document/"><u>Unveiling the Visitors: A Guide on Identifying Accessors of Your Google Document</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/treasure-trove-of-free-marketing-50plus-youtube-ads-ready-to-go-in-2024/"><u>Your Treasure Trove of Free Marketing 50+ YouTube Ads Ready to Go, In 2024</u></a></li>
+</ul></div>
 

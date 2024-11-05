@@ -1,7 +1,7 @@
 ---
 title: Don't Panic, Just Power Down! The Ultimate Troubleshooting for Water-Damaged iPhones & iPods
-date: 2024-10-23T22:42:06.768Z
-updated: 2024-10-30T23:09:15.352Z
+date: 2024-10-29T19:33:07.468Z
+updated: 2024-11-05T20:25:04.081Z
 categories:
   - BestProducts
 description: This Article Describes Don't Panic, Just Power Down! The Ultimate Troubleshooting for Water-Damaged iPhones & iPods
@@ -31,13 +31,6 @@ thumbnail: https://www.lifewire.com/thmb/bST_6qyH53vsU_5a1LzsxnxhEFw=/540x405/fi
 4. **Remove the SIM card.** The more drying air that gets inside the wet iPhone, the better. You[can't remove the battery](https://www.lifewire.com/how-long-do-ipod-batteries-last-2000142) and there aren't many other openings, but you can[remove the SIM card](https://www.lifewire.com/what-is-iphone-sim-card-2000363) . The SIM slot isn't large, but every little bit helps. Just don't lose your SIM card!
 5. **Leave it in a warm place.** Once you've gotten as much water as possible out of the phone, keep your device off and leave it somewhere warm to dry. Some people leave wet iPods or iPhones on the top of a TV, where the heat from the TV helps dry the device. Others prefer a sunny windowsill. Choose whatever tactic you like. Let it dry a day or two.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Don't Do This to a Wet iPhone
 
  If your iPhone is soaked, what you don't do is just as important as what you do. If you're not careful, you might accidentally do something that could further damage your device. So, if your iPhone or iPod is wet, don't do the following:
@@ -54,10 +47,10 @@ thumbnail: https://www.lifewire.com/thmb/bST_6qyH53vsU_5a1LzsxnxhEFw=/540x405/fi
  Don't use enriched rice. It can leave dust behind that can get into your phone.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Try This Only If You're Desperate to Fix Your Wet iPhone
@@ -67,19 +60,19 @@ thumbnail: https://www.lifewire.com/thmb/bST_6qyH53vsU_5a1LzsxnxhEFw=/540x405/fi
 1. **Take it apart.** You can take your iPhone apart to dry out the wet parts. Separate the parts to air dry or leave them in a bag of rice for a day or two and then re-assemble the device.  
  This is very risky. Unless you really, really know what you're doing, you're likely to do more harm than good and should avoid this. Don't say we didn't warn you.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Try the Experts on Saving a Wet iPhone
 
  Don't want to take on this task yourself? Try the folks with experience in repairing wet iPhones and iPods.
 
 1. **Try a repair company.** If none of these tactics work, there are[iPhone repair](https://www.lifewire.com/repair-options-cracked-iphone-screen-2000276) companies that specialize in saving water-damaged iPhones. A little time at your favorite search engine can put you in touch with a number of good vendors.
 2. **Try Apple.**  While moisture damage isn't covered by Apple's warranty, Apple will repair iPhones that have water damaged. Different models have different repair prices, so[keep an eye on this page on Apple's site](https://support.apple.com/iphone/repair) for the latest details.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Check for Water Damage in a Used iPhone or iPod
 
@@ -90,10 +83,10 @@ thumbnail: https://www.lifewire.com/thmb/bST_6qyH53vsU_5a1LzsxnxhEFw=/540x405/fi
 [The moisture indicator is far from foolproof](https://www.cnet.com/tech/tech-industry/apple-settles-iphone-water-damage-lawsuit-for-53m/) . But, if you see the orange dot, you need to at least consider that the device may have had a bad experience with water.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Software Tips for Dealing with a Wet iPhone
@@ -102,6 +95,13 @@ thumbnail: https://www.lifewire.com/thmb/bST_6qyH53vsU_5a1LzsxnxhEFw=/540x405/fi
 
 * [What To Do with an iPhone That Won't Turn On](https://www.lifewire.com/what-to-do-when-your-iphone-wont-turn-on-2000281)
 * [How to Fix an iPhone Stuck at the Apple Logo](https://www.lifewire.com/how-to-fix-an-iphone-stuck-on-the-apple-logo-2000268) .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Waterproof iPhones: iPhone 7 and Newer
 
@@ -140,24 +140,24 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-camera-glitches-ended-by-obs-fix/"><u>[New] In 2024, Camera Glitches Ended by OBS Fix</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-step-by-step-guide-to-mastering-kinemaster-plus-10-best-video-editors-online/"><u>[New] In 2024, Step-by-Step Guide to Mastering KineMaster + 10 Best Video Editors Online</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-vivo-s17e-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Vivo S17e Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/busting-wi-fi-dead-zones-a-look-at-the-amplifi-hd-smart-mesh-solution/"><u>Busting Wi-Fi Dead Zones: A Look at the Amplifi HD Smart Mesh Solution</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-opinion-the-third-generation-apple-tv-4k-performance-and-features-breakdown/"><u>Expert Opinion: The Third Generation Apple TV 4K - Performance & Features Breakdown</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/find-your-perfect-ipad-at-record-breaking-prices-today/"><u>Find Your Perfect iPad at Record-Breaking Prices Today</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-are-e-motorcycles-powered-unveiling-their-inner-workings/"><u>How Are E-Motorcycles Powered? Unveiling Their Inner Workings</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-samsung-galaxy-a54-5g-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Samsung Galaxy A54 5G</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Tecno Camon 20 Premier 5G? | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-assessment-of-the-blade-e-flite-mcx3-ready-to-fly-rc-helicopter-masterpiece/"><u>In Depth Assessment of the Blade E-Flite mCX^3 Ready-To-Fly RC Helicopter Masterpiece</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-pixel-slate-dissecting-chromeos-shortcomings/"><u>In-Depth Analysis of Pixel Slate: Dissecting ChromeOS Shortcomings</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-200-best-background-music-for-videos-free-download/"><u>New 200 Best Background Music for Videos Free Download</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/outlook-undo-feature-the-ultimate-tutorial-for-retrieving-discarded-emails/"><u>Outlook Undo Feature: The Ultimate Tutorial for Retrieving Discarded Emails</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-starting-the-windows-terminal-across-all-versions/"><u>Step-by-Step Guide: Starting the Windows Terminal Across All Versions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-for-snapping-images-on-your-xbox-one-console/"><u>Step-by-Step Instructions for Snapping Images on Your Xbox One Console</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-eliminating-flickering-screens-in-windows-11-systems/"><u>Step-by-Step Solutions for Eliminating Flickering Screens in Windows 11 Systems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tips-for-planning-the-perfect-at-home-sing-along-bash/"><u>Step-by-Step Tips for Planning the Perfect At-Home Sing-Along Bash</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-the-mss32dll-error-effective-solutions-to-try/"><u>Troubleshooting the 'MSS32.DLL' Error: Effective Solutions to Try</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-facebook-from-humble-beginnings-to-global-phenomenon-and-what-makes-it-popular/"><u>Understanding Facebook: From Humble Beginnings to Global Phenomenon & What Makes It Popular</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-elusive-viewers-guide-to-anonymously-watching-instagram-live/"><u>[Updated] Elusive Viewers' Guide to Anonymously Watching Instagram Live</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-the-complete-guide-to-safaris-picture-in-picture-mode/"><u>2024 Approved The Complete Guide to Safari's Picture-in-Picture Mode</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conversao-de-imagens-jpeg-para-tiff-online-e-gratuita-solucao-simples-com-movavi/"><u>Conversão De Imagens JPEG Para TIFF Online E Gratuita - Solução Simples Com Movavi</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/decoding-the-nuances-between-category-5-and-category-6-networking-cables/"><u>Decoding the Nuances Between Category 5 and Category 6 Networking Cables</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-to-solve-network-not-detected-problems-on-your-galaxy-phone/"><u>Expert Tips to Solve 'Network Not Detected' Problems on Your Galaxy Phone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209659317-hidden-in-plain-sight-your-sd-card-solution/"><u>Hidden in Plain Sight - Your SD Card Solution!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-enable-a-subtitle-free-amazon-prime-video-session/"><u>How To Enable a Subtitle-Free Amazon Prime Video Session</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-from-flight-to-frame-editing-drones-into-art/"><u>In 2024, From Flight to Frame Editing Drones Into Art</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-intelligent-volume-modulation-strategies/"><u>In 2024, Intelligent Volume Modulation Strategies</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/keeping-your-macbook-awake-tips-to-stop-it-from-going-into-sleep-mode-with-the-lid-closed/"><u>Keeping Your MacBook Awake: Tips to Stop It From Going Into Sleep Mode with the Lid Closed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maintaining-confidentiality-and-security-using-chatgpt-in-the-realm-of-emotional-coaching/"><u>Maintaining Confidentiality and Security: Using ChatGPT in the Realm of Emotional Coaching</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/regain-control-of-your-digital-home-find-any-wi-fi-password-in-windows-11-with-ease/"><u>Regain Control of Your Digital Home: Find Any Wi-Fi Password in Windows 11 with Ease</u></a></li>
+<li><a href="https://techtrends.techidaily.com/revive-your-ps5s-charging-functionality-a-guide-for-unresponsive-controllers/"><u>Revive Your PS5's Charging Functionality – A Guide for Unresponsive Controllers</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/solucoes-eficazes-para-reconstruir-dados-do-iphone-danificado-por-quebra-da-tela/"><u>Soluções Eficazes Para Reconstruir Dados Do iPhone Danificado Por Quebra Da Tela</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-infinix-smart-7-hd-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Infinix Smart 7 HD to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-d3dx941dll-missing-file-issue-expert-guide-and-solutions/"><u>Solving the d3dx9_41.dll Missing File Issue: Expert Guide & Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-sharing-your-printer-across-multiple-devices/"><u>Step-by-Step Guide: Sharing Your Printer Across Multiple Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tips-for-preventing-unwanted-android-application-activity-in-the-background/"><u>Tips for Preventing Unwanted Android Application Activity in the Background</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-atandt-mobile-roaming-terms-and-conditions/"><u>Understanding AT&T Mobile Roaming Terms and Conditions</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Understanding Apple's Advanced AI Integration in iPhone, Mac, and iPad - An In-Depth Guide
-date: 2024-10-30T01:36:54.343Z
-updated: 2024-10-31T02:56:39.695Z
+date: 2024-10-30T17:20:38.085Z
+updated: 2024-11-05T21:46:49.020Z
 tags:
   - apple
 categories:
@@ -36,19 +36,6 @@ Apple was expected to focus on incorporating AI into its apps to simplify users'
 
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
 
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What does Apple Intelligence do?
 
 Apple
@@ -68,6 +55,13 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is Siri getting an Apple Intelligence makeover?
 
 Apple
@@ -85,16 +79,10 @@ The voice assistant will also be able to perform hundreds of new actions across 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What's new in Apple's photo editing & search?
@@ -108,13 +96,6 @@ Like the Google Pixel's Magic Eraser, Apple is giving its devices a new, AI-powe
 Apple is adding natural language photo and video search to its Photos app. This will let users enter a prompt to search for a picture, video, or even a segment of a video. Users can say, "Find a photo of that starfish we found at the beach last summer," and have their iPhone pull up a photo without having to scroll through thousands of photos to find the one.
 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How does systemwide AI text generation work?
 
@@ -152,13 +133,6 @@ When users make a Siri request that the voice assistant determines would be bett
 
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Will Apple Intelligence be processed on-device or in the cloud?
 
 Apple
@@ -175,6 +149,13 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is Apple Intelligence actually private and secure?
 
 Apple
@@ -189,6 +170,13 @@ The company is striving to keep the AI features secure through several mechanism
 * **Independent code review:** With Private Cloud Compute, Apple explained that the code is available for independent experts to inspect and verify it meets privacy standards.
 * **Data encryption:** Apple encrypts all data sent to and from its servers as another layer of security.
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
 
@@ -230,24 +218,20 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-avatar-genius-the-easy-guide-to-metaverse-creation/"><u>2024 Approved Avatar Genius The Easy Guide to Metaverse Creation</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-dive-into-long-exposure-iphone-photography/"><u>2024 Approved Dive Into Long-Exposure iPhone Photography</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-ten-titles-that-triumph-top-8-apps-to-gain-facebook-likeability/"><u>2024 Approved Ten Titles That Triumph Top 8 Apps to Gain Facebook Likeability</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/direct3d-download-the-quick-and-easy-way/"><u>Direct3D Download — The Quick & Easy Way</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-how-to-tutorial-for-windows-11-setup-via-external-usb-stick-including-images/"><u>Easy How-To Tutorial for Windows 11 Setup via External USB Stick - Including Images</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-installation-tips-for-kodi-software-on-windows-11-systems/"><u>Easy Installation Tips for Kodi Software on Windows 11 Systems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/effortless-methods-for-improving-lag-in-logitech-keyboards/"><u>Effortless Methods for Improving Lag in Logitech Keyboards</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-add-and-enjoy-the-sportsdevil-add-on-on-your-kodi-device/"><u>How to Add and Enjoy the SportsDevil Add-On on Your Kodi Device</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-fix-high-memory-utilization-issues-on-windows-10-computers/"><u>How to Fix High Memory Utilization Issues on Windows 10 Computers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-record-screen-with-audio-on-windows-best-solution/"><u>How to Record Screen with Audio on Windows [Best Solution]</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-reduce-lag-and-boost-fps-in-genshin-impact-2024-tips/"><u>How to Reduce Lag & Boost FPS in Genshin Impact - 2024 Tips</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-restore-functionality-to-your-non-responsive-lenovo-keyboard-leds/"><u>How to Restore Functionality to Your Non-Responsive Lenovo Keyboard LEDs</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-xsipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone XS/iPad | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/personalizing-digital-dialogues-harnessing-gpt-capabilities/"><u>Personalizing Digital Dialogues: Harnessing GPT Capabilities</u></a></li>
-<li><a href="https://games-able.techidaily.com/resuscitation-guide-for-ailing-xbox-controllers-on-pcs/"><u>Resuscitation Guide for Ailing Xbox Controllers on PCs</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-top-10-free-audio-capture-tools-for-excellent-podcasts-updated-for-2024/"><u>Updated Top 10 Free Audio Capture Tools for Excellent Podcasts (Updated) for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/visual-filmmaking-aids-go-green-no-money/"><u>Visual Filmmaking Aids Go Green, No Money</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/wavogg-internet/"><u>WAV/Ogg 형식으로 직접 바이널을 전환: 원향 Internet에서 무세요!</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-frames-to-fabulous-the-ultimate-list-of-photo-plugins/"><u>[New] 2024 Approved Frames to Fabulous The Ultimate List of Photo Plugins</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-time-honored-treasures-free-of-restrictions/"><u>[New] In 2024, Time-Honored Treasures, Free of Restrictions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-perfect-photos-post-edit-top-6-iphone-techniques-to-tidy-up-images/"><u>[New] Perfect Photos Post-Edit Top 6 iPhone Techniques to Tidy Up Images</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-taking-the-plunge-a-beginners-guide-to-metaverse-memes-and-gags/"><u>[Updated] Taking the Plunge A Beginner's Guide to Metaverse Memes and Gags</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-htc-u23-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-is-verizon-shaping-the-future-of-5g-technology/"><u>How Is Verizon Shaping the Future of 5G Technology?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-digital-tv-glitches-improve-your-signal-with-a-dedicated-indoor-antenna/"><u>Overcoming Digital TV Glitches? Improve Your Signal with a Dedicated Indoor Antenna</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-mfc42dll-file-not-present-issue-a-step-by-step-guide/"><u>Solving the mfc42.dll File Not Present Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-definitive-guide-to-linking-your-devices-techniques-for-effective-use-of-bose-soundlink/"><u>The Definitive Guide to Linking Your Devices: Techniques for Effective Use of Bose SoundLink</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-importance-of-saving-local-group-policy-edits-on-windows-tips-and-tricks-for-effective-management/"><u>The Importance of Saving Local Group Policy Edits on Windows - Tips and Tricks for Effective Management</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-7-engaging-online-game-sites-for-children/"><u>Top 7 Engaging Online Game Sites for Children</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-iphone-data-management-and-transfer-apps-the-best-alternatives-to-itunes/"><u>Top iPhone Data Management & Transfer Apps: The Best Alternatives to iTunes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unparalleled-narratives-in-film-mastery/"><u>Unparalleled Narratives in Film Mastery</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-oppo-a59-5g-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Oppo A59 5G Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/what-does-metas-ai-technology-offer/"><u>What Does Meta's AI Technology Offer?</u></a></li>
 </ul></div>
 

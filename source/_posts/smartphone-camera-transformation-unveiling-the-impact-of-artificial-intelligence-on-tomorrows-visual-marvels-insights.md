@@ -1,7 +1,7 @@
 ---
 title: "Smartphone Camera Transformation: Unveiling the Impact of Artificial Intelligence on Tomorrow's Visual Marvels - Insights"
-date: 2024-10-30T05:51:46.470Z
-updated: 2024-10-30T17:02:28.913Z
+date: 2024-10-30T18:37:24.925Z
+updated: 2024-11-05T16:30:10.071Z
 tags:
   - apple
 categories:
@@ -56,6 +56,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 Another phone -- and my personal device for four years -- was the [Palm Treo 600](https://www.zdnet.com/article/treo-600-debuts-with-new-improvements-and-old-design-flaws/), released in 2003\. This device did a lot, including supporting a camera capable of taking 640x480 resolution images. The Treo didn't have Wi-Fi or Bluetooth, limiting its connectivity to a cable connected to the computer for image downloads. Its big claim to fame was that it could run any of the thousands of PalmOS apps that were available for download. Installing those apps, however, also involved connecting a cable to a computer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2008: The birth of the modern smartphone
 
 Released on June 29, 2007, [the iPhone](https://web.archive.org/web/20070629165202/http://www.apple.com/iphone) was explosive. Many of us remember the lines of people waiting to get their first phone. I sat those lines out, happy with my Treo. While the first iPhone had nearly all of the characteristics of a modern smartphone, including a 2.0MP rear-facing camera, the only apps it allowed were crude customized web pages. My Treo had far better native PalmOS apps.
@@ -75,19 +82,6 @@ Personally, the iPhone 3G was my first iPhone (there was no iPhone 2 or 3). I bo
 Over in the Android world, its first phone was the HTC Dream, also marketed as the [T-Mobile G1](https://www.cnet.com/reviews/t-mobile-g1-review/). It was released in October 2008 and was noteworthy for its slide-out display that opened to show a BlackBerry-style keyboard. This device came with a rear-facing 3.15MP camera.
 
 With the iPhone 3 and the App Store, along with the first Android phone, it's fair to say that 2008 was the first year of the modern smartphone era.
-
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2010: Smartphones meet narcism, a match made in heaven
 
@@ -110,10 +104,10 @@ Many smartphones today capture 8K video directly into phone storage. These inclu
 Over time, all the increases in storage capacity, processor speed, battery life, and display resolution were accompanied by improvements to the software inside the phones, with vendors adding all sorts of smarts to their camera applications.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2017: The start of the AI/ML smartphone era
@@ -142,13 +136,6 @@ I asked Bob Caniglia, Blackmagic's director of sales operations, about smartphon
 
 Let's now explore the power that machine learning brings to smartphones. Specifically, I'll talk about the machine learning magic incorporated into flagship phones like the iPhone 15 Pro Max, the Google Pixel 8, the Samsung Galaxy S23, and the OnePlus 11.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Image quality
 
 Smartphones are now capable of making substantial enhancements to the quality of images as they are captured in the camera. Here are three examples of machine learning in use in the previously listed flagship phones. 
@@ -162,6 +149,13 @@ This then helps the machine learning algorithms to analyze and adjust parameters
 **Low-light photography and night mode:** Speaking of tough lighting conditions, machine learning provides a powerful assist in low-light photography, where it helps in noise reduction, detail enhancement, and color accuracy. It does this using neural network technology to process multiple exposures, merging them into a single image while enhancing detail and reducing noise. Of course, decisions about what detail to enhance and what noise to reduce is where the AI comes into play.
 
 **HDR processing:** High dynamic range (HDR) processing helps balance the dark and bright areas of an image for an improved dynamic range. Algorithms dynamically adjust the exposure of different regions in a photo, merging multiple exposures for a balanced high dynamic range image, keeping the visual fidelity of the image while allowing for blacker blacks, whiter whites, and other darker and lighter colors to better reflect what the photographer originally aimed to capture.
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Object knowledge
 
@@ -206,10 +200,10 @@ One thing that's important to note: [Generative AI](https://www.zdnet.com/articl
 As Blackmagic Design's Caniglia said, "There's been an incredible evolution of smartphone camera capabilities in comparison to just a couple of years ago. AI machine learning, especially with the new iPhone 15, has been a big driver. A huge part of that is because Apple has focused on developing technologies that do more with the actual information captured by the camera's sensor rather than a focus on creations of "faux images" via generational AI."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Looking to the future
@@ -268,16 +262,22 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-access-exclusive-video-artwork-free-flawless-and-fast-for-2024/"><u>[Updated] Access Exclusive Video Artwork – Free, Flawless, and Fast for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-seamless-transitions-smooth-editing-techniques-for-youtube-content/"><u>[Updated] Seamless Transitions Smooth Editing Techniques for YouTube Content</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-the-timeless-trove-of-freely-shared-works-for-2024/"><u>[Updated] The Timeless Trove of Freely Shared Works for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1-accelerate-your-excel-workbooks-top-7-techniques-for-faster-performance/"><u>1. Accelerate Your Excel Workbooks: Top 7 Techniques for Faster Performance</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-sharpen-up-discover-the-best-online-photo-fixers/"><u>2024 Approved Sharpen Up! Discover the Best Online Photo Fixers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-configuring-your-apple-watch-with-gmail/"><u>Guide: Configuring Your Apple Watch with Gmail</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-address-the-missing-ssleay32dll-error-on-your-pc/"><u>How To Address the Missing Ssleay32.dll Error on Your PC</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-tecno-pova-6-pro-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Tecno Pova 6 Pro 5G Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-the-d3dx928dll-file-missing-issue-on-your-computer/"><u>Resolving the d3dx9_28.dll File Missing Issue on Your Computer</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-connecting-your-ps4-gamepad/"><u>Step-by-Step Guide: Connecting Your PS4 Gamepad</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/tutorial-installing-alternative-browsers-on-samsung-television-units/"><u>Tutorial: Installing Alternative Browsers on Samsung Television Units</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-mastering-youtube-traffic-for-new-content-creators/"><u>[New] In 2024, Mastering YouTube Traffic for New Content Creators</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-exploring-yi-4ks-potential-with-an-action-vlogger/"><u>[Updated] Exploring Yi 4K's Potential with an Action Vlogger</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-skyrocket-sales-traffic-with-the-15-cutting-edge-facebook-gadgets/"><u>[Updated] Skyrocket Sales Traffic with the 15 Cutting-Edge Facebook Gadgets</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-remedying-pixelated-youtube-footage/"><u>2024 Approved Remedying Pixelated YouTube Footage</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apples-domestic-robot-rumors-price-forecast-projected-debut-date-and-comprehensive-specifications-analyzed/"><u>Apple's Domestic Robot Rumors: Price Forecast, Projected Debut Date & Comprehensive Specifications Analyzed</u></a></li>
+<li><a href="https://win-able.techidaily.com/diagnosing-and-repairing-corsair-icue-software-malfunctions-for-windows-1011-users/"><u>Diagnosing and Repairing Corsair iCUE Software Malfunctions for Windows 10/11 Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-advice-for-creating-effective-reminders-on-slack-platforms/"><u>Expert Advice for Creating Effective Reminders on Slack Platforms</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-on-restoring-webcam-connectivity-for-seamless-zoom-communication/"><u>Expert Tips on Restoring Webcam Connectivity for Seamless Zoom Communication</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-depths-of-social-networking-why-your-path-may-not-lead-to-facebook-marketplace-yet/"><u>Exploring the Depths of Social Networking: Why Your Path May Not Lead to Facebook Marketplace (Yet)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-motorola-moto-g-stylus-2023-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Motorola Moto G Stylus (2023)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-mastering-instagram-analytics-top-tools-for-enhanced-performance-insights/"><u>In 2024, Mastering Instagram Analytics Top Tools for Enhanced Performance Insights</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/pixel-perfection-best-video-cameras-for-extended-recording-times-for-2024/"><u>Pixel Perfection Best Video Cameras for Extended Recording Times for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-connection-problem-top-six-solutions-for-unpairing-issues-with-apple-watch/"><u>Solving the Connection Problem: Top Six Solutions for Unpairing Issues with Apple Watch</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-on-pairing-your-playstation-4-control-pad/"><u>Step-by-Step Tutorial on Pairing Your PlayStation 4 Control Pad</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/teslas-robotaxi-update-anticipated-cost-and-launch-details-revealed/"><u>Tesla's Robotaxi Update: Anticipated Cost & Launch Details Revealed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-complete-guide-viewing-the-transformers-film-series-sequentially/"><u>The Complete Guide: Viewing the Transformers Film Series Sequentially</u></a></li>
 </ul></div>
 

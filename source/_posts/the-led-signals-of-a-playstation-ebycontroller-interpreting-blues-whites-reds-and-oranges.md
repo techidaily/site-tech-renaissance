@@ -1,7 +1,7 @@
 ---
 title: "The LED Signals of a PlayStation Ebycontroller: Interpreting Blues, Whites, Reds and Oranges"
-date: 2024-09-08T22:22:36.961Z
-updated: 2024-09-15T23:48:41.382Z
+date: 2024-11-01T17:17:35.924Z
+updated: 2024-11-05T21:58:05.135Z
 categories:
   - BestProducts
 description: "This Article Describes The LED Signals of a PlayStation Ebycontroller: Interpreting Blues, Whites, Reds and Oranges"
@@ -32,6 +32,13 @@ Close
 
 InspiredImages/Pixabay
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Why Is My PS4 Controller Flashing White? 
 
  If the LED light on your PS4 controller is blinking white, it's due to one of two reasons:
@@ -40,6 +47,13 @@ InspiredImages/Pixabay
 * **The controller can't connect** : Reset the controller, then check the USB or Bluetooth connection. If you still have trouble, power cycle your PS4\. Turn the console off by holding down the power button, then remove the power cables and let your console sit for 20 minutes. With the console still unplugged, press and hold the power button again, then plug the console back in.
 
  If you continue to have trouble with your console, you can try[ resetting your PS4 to factory settings](https://www.lifewire.com/how-to-reset-your-ps4-4173916) , but you will lose any data on your hard drive that's not backed up to the cloud.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Why Is My PS4 Controller Blinking Red? 
 
@@ -50,10 +64,10 @@ InspiredImages/Pixabay
  If you're sure the battery or charging port on your controller is defective, you can replace it. This is an advanced fix that requires you to open up your controller, so you might be better off buying a new one. If the controller is still under warranty, you should send it in for repairs.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Why Is My PS4 Controller Flashing Orange? 
@@ -66,16 +80,10 @@ InspiredImages/Pixabay
 ![Supply Power to USB Ports in PlayStation 4 settings](https://www.lifewire.com/thmb/LJDfeunJAa8PB2wou89_OvQhlyQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_why-is-my-ps4-controller-blinking-blue-white-red-or-orange-6754246-0eef66506e3b4750b67651589c886fb9.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To rule out minor technical hiccups, power cycle the PS4, then reset the controller and let it charge for a couple of hours. If the controller loses its charge too quickly, the internal battery is probably defective.
@@ -120,5 +128,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-burst-to-blast-android-apps-transform-slow-motion/"><u>[New] 2024 Approved Burst to Blast Android Apps Transform Slow Motion</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-from-ordinary-text-to-stunning-three-dimensional-designs-photo/"><u>2024 Approved From Ordinary Text to Stunning Three-Dimensional Designs PHOTO</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-guide-how-to-find-and-download-official-manuals-for-all-iphone-models/"><u>Complete Guide: How to Find and Download Official Manuals for All iPhone Models</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-ipados-version-18-launch-details-cost-free-access-and-latest-enhancements/"><u>Discover iPadOS Version 18: Launch Details, Cost-Free Access & Latest Enhancements</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/eager-to-switch-on-vision-pros-journey-setting-essential-tips-and-expectations-you-should-know-beforehand-zdnet-exploration/"><u>Eager To Switch On Vision Pro's Journey Setting? Essential Tips & Expectations You Should Know Beforehand | ZDNET Exploration</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-to-porting-whatsapp-messages-and-data-transition-from-android-phones-to-iphones/"><u>Guide to Porting WhatsApp Messages and Data: Transition From Android Phones to iPhones</u></a></li>
+<li><a href="https://win-info.techidaily.com/how-to-resolve-iphone-ses-failing-screenshot-functionality-with-easy-fixes/"><u>How to Resolve iPhone SE's Failing Screenshot Functionality with Easy Fixes</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-12-prominent-itel-s23plus-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Itel S23+ Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/innovative-techniques-for-a-dynamic-win11-display/"><u>Innovative Techniques for a Dynamic Win11 Display</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/is-it-possible-to-sideload-third-party-apps-on-your-iphone-legally-without-unlocking-the-device-techradar/"><u>Is It Possible to Sideload Third-Party Apps on Your iPhone Legally Without Unlocking the Device? | TechRadar</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/protect-your-kids-with-ease-establishing-parental-controls-in-discord/"><u>Protect Your Kids with Ease: Establishing Parental Controls in Discord</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-ranking-visual-voice-mail-solutions/"><u>Top-Ranking Visual Voice Mail Solutions</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/unlock-computer-secrets-expert-tips-from-toms-hardware/"><u>Unlock Computer Secrets - Expert Tips From Tom's Hardware</u></a></li>
+</ul></div>
 

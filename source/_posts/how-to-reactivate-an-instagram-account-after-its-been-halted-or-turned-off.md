@@ -1,7 +1,7 @@
 ---
 title: How to Reactivate an Instagram Account After It's Been Halted or Turned Off
-date: 2024-09-09T15:48:09.278Z
-updated: 2024-09-10T15:48:09.278Z
+date: 2024-10-29T16:38:19.144Z
+updated: 2024-11-05T22:01:02.427Z
 categories:
   - BestProducts
 description: This Article Describes How to Reactivate an Instagram Account After It's Been Halted or Turned Off
@@ -9,12 +9,6 @@ excerpt: This Article Describes How to Reactivate an Instagram Account After It'
 thumbnail: https://www.lifewire.com/thmb/hItIZLtrH611XjzLJn4_m3ooau0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Catherine_Falls_Commercial_Getty_Images-a30e58e942654fddb4423949948f3a2e.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Discover the History and Impact of Netflix's Former DVD Rental Program
 ### Note
 
@@ -25,11 +19,18 @@ thumbnail: https://www.lifewire.com/thmb/hItIZLtrH611XjzLJn4_m3ooau0=/400x300/fi
  Netflix's DVD program included some TV shows and movies that weren't available through[their streaming service](https://www.lifewire.com/overview-of-the-netflix-streaming-service-1847831) . You could watch both DVDs and Blu-rays, and there were a few plans to pick from depending on how many discs you wanted to borrow at once.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Netflix's DVD Plans
 
  There are three DVD Netflix plans. All of them offer unlimited discs per month, no late fees, free shipping and returns, DVDs and Blu-rays, and no long-term commitment (just month-by-month).
@@ -52,21 +53,24 @@ thumbnail: https://www.lifewire.com/thmb/hItIZLtrH611XjzLJn4_m3ooau0=/400x300/fi
 2. Choose**Add DVD Plan** .  
 ![Netflix Add DVD Plan button](https://www.lifewire.com/thmb/Uh6KVZq2Icc6DLgr76WSO5J6VpQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/netflix-add-dvd-plan-239476fd7dbc48c398d157361b9b4dba.png)
 3. Select the plan you want to subscribe to, and then choose**Get Started** .  
+
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![Netflix DVD plans](https://www.lifewire.com/thmb/uPDzNtMV66dcBkk8Rbo7T-7ekq8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dvd-netflix-prices-30f879c3750545099db9e01e04334ae2.png)
 4. Fill out your shipping information, and then select**Start** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### New Users
 
  If you don’t currently have a Netflix account, follow these steps instead:
@@ -75,26 +79,24 @@ thumbnail: https://www.lifewire.com/thmb/hItIZLtrH611XjzLJn4_m3ooau0=/400x300/fi
 2. Select**Sign Up** .  
 ![DVD Netflix sign up button](https://www.lifewire.com/thmb/NCQ1shSEvKeXqCYIEdWZYEWasfA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dvd-netflix-2b9f1a1370d042f7bbc87dde135db231.png)
 3. Choose the plan you want, and then select**Get Started** .  
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![DVD Netflix plan options](https://www.lifewire.com/thmb/1IHiA9MQesi6AeoZW2OuFx4JbUc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dvd-netflix-pricing-fa3f2e4b64fa4137ac42d44abc0c8d19.png)
 4. Enter your email address, choose a password, and then select**Continue** .
+
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 5. Enter your shipping information, and then press**Continue** .
 6. Provide payment details, and then select**Start Membership** .
 
@@ -106,12 +108,6 @@ thumbnail: https://www.lifewire.com/thmb/hItIZLtrH611XjzLJn4_m3ooau0=/400x300/fi
 
  Here's how to add movies to your DVD Netflix queue and then adjust which ones you'll get first:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### From a Computer
 
 1. From DVD Netflix, select**Add to Queue** or**Add** , depending on the screen you're looking at, next to any DVD you want.  
@@ -119,20 +115,15 @@ thumbnail: https://www.lifewire.com/thmb/hItIZLtrH611XjzLJn4_m3ooau0=/400x300/fi
  To add a whole season of a TV show, pick the season you want to rent and choose**Add All to Queue** .  
 ![DVD Netflix Add All to Queue button](https://www.lifewire.com/thmb/4jU-S_bFoGdZ4nf5ZGnyf6fxTY8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dvd-netflix-add-all-to-queue-bdfdf210723748faaac13e57e6679b7e.png)  
  You can find titles by searching by name, people, or genre. There's also a**Browse** menu for locating popular movies, new releases, and Netflix's top 100 titles.
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Open your queue via the**QUEUE** menu at the top of the site to manage the DVDs. You can adjust the order by dragging the titles up and down. Delete an item by hovering your mouse over it and selecting the trash icon.  
 ![DVD Netflix Queue](https://www.lifewire.com/thmb/x6QarMAaIe0NyqowLEYhKYw2Z1k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dvd-netflix-queue-ab624110eea644f1b0b4d462894431ea.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### With the Mobile App
 
@@ -140,12 +131,6 @@ thumbnail: https://www.lifewire.com/thmb/hItIZLtrH611XjzLJn4_m3ooau0=/400x300/fi
 
 ![DVD Netflix Android app](https://www.lifewire.com/thmb/ii9vuANqrg_bkNWRzzL_j3kfJ0Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dvd-netflix-app-android-7a1276941cdd4127bdefa7be8a7bc832.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Return Netflix DVDs
 
  You have to return DVDs to Netflix in order to get the next one from your queue.
@@ -166,20 +151,16 @@ thumbnail: https://www.lifewire.com/thmb/hItIZLtrH611XjzLJn4_m3ooau0=/400x300/fi
 3. Select**Cancel DVD plan** from the**PLAN DETAILS** section.  
 ![Netflix account settings](https://www.lifewire.com/thmb/Q80vAniZ2Rz4sOJ9lBPx1R7Etj8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/netflix-cancel-dvd-plan-1b525410df38448e9513aa48f77c3729.png)
 4. Check the box next to**Proceed to Cancellation** , and then select**Continue** .  
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![DVD Netflix cancel screen](https://www.lifewire.com/thmb/y4ygwym9PG4XM_r0T1gD5tpwa4w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dvd-netflix-cancel-fb3a1b5411854a1c8b087c1ea52dc9f4.png)
 5. Scroll down and choose**Yes, cancel my account** .  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![DVD Netflix confirm cancel screen](https://www.lifewire.com/thmb/3APn5Z7GYqY6Ttv_8RKqLWKM9eg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dvd-netflix-confirm-cancel-fc127afe34264138af39754bb77e0c7a.png)
 6. Choose**Done** on the final page.
 
@@ -203,8 +184,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -212,4 +191,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-auditory-artistry-in-radio-plays-for-2024/"><u>[New] Auditory Artistry in Radio Plays for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-yuneecs-breeze-a-quest-for-perfect-vision/"><u>[New] Yuneec's Breeze - A Quest for Perfect Vision</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-expert-iphone-videography-strategies-to-elevate-your-work-top-8/"><u>[Updated] 2024 Approved Expert iPhone Videography Strategies to Elevate Your Work (Top 8)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/announcement-macos-15-sequoia-launch-date-and-latest-updates-unveiled/"><u>Announcement: MacOS 15 'Sequoia' - Launch Date & Latest Updates Unveiled</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/film-team-dynamics-how-every-crew-member-contributes-to-the-final-product/"><u>Film Team Dynamics How Every Crew Member Contributes to the Final Product</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-critical-installer-failure-error-code-1603-and-complete-setup-successfully/"><u>How to Fix the 'Critical Installer Failure (Error Code 1603) and Complete Setup Successfully</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-concept-to-crypto-asset-the-ultimate-list-of-nft-engines/"><u>In 2024, From Concept to Crypto Asset The Ultimate List of NFT Engines</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Motorola Edge 2023? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ipad-pro-versus-macbook-air-assessing-performance-design-and-value/"><u>IPad Pro versus MacBook Air: Assessing Performance, Design, and Value</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/laughter-logic-can-computers-inspire-joyous-jests/"><u>Laughter Logic: Can Computers Inspire Joyous Jests?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-enabling-closed-captions-on-a-stubborn-roku-player/"><u>Mastering the Art of Enabling Closed Captions on a Stubborn Roku Player</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-the-void-effective-techniques-for-computers-with-power-no-display/"><u>Overcoming the Void: Effective Techniques for Computers with Power, No Display</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-14-pro-max-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 14 Pro Max Data From iCloud | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshoot-and-repair-image-persistence-across-different-screens/"><u>Troubleshoot and Repair Image Persistence Across Different Screens</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-and-repairing-cmos-checksum-glitches-with-ease/"><u>Troubleshooting and Repairing CMOS Checksum Glitches with Ease</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-step-by-step-process-of-wiping-your-dell-computer/"><u>Ultimate Guide: Step-by-Step Process of Wiping Your Dell Computer</u></a></li>
+</ul></div>
 

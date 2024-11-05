@@ -1,7 +1,7 @@
 ---
 title: "Protect Your Data: How Apple's Latest Security Warning About Spyware Threats Affects iPhone Users | ZDNET"
-date: 2024-10-24T20:52:10.382Z
-updated: 2024-10-30T21:43:05.008Z
+date: 2024-11-03T20:08:29.884Z
+updated: 2024-11-05T19:11:29.881Z
 tags:
   - apple
 categories:
@@ -35,10 +35,10 @@ Every year, my wife and I eagerly await the release of the new iPhones. Being pa
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
@@ -66,10 +66,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## New hardware leaks: what to expect from the iPhone 16
@@ -89,10 +89,10 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
@@ -102,6 +102,13 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 **Also: [How iOS 18 changes the way you charge your iPhone](https://www.zdnet.com/article/how-ios-18-changes-the-way-you-charge-your-iphone/)**
 
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
 
@@ -118,13 +125,6 @@ Apple could achieve this by equipping MacOS, iOS, and iPadOS with Apple Intellig
 Enterprises may also employ a mobile device management solution to facilitate access to on-device LLMs with business Macs. Additionally, iPhones or Macs could be used as proxies for Apple Watch or HomePod requests for mobile users. We may also see a more powerful Apple TV with more onboard memory and processing to act as an Apple Intelligence "hub" for every Apple device in a household.
 
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## I'm still optimistic
 
@@ -166,14 +166,22 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-perfect-recording-tool-for-exceptional-youtube-videos/"><u>[Updated] Perfect Recording Tool For Exceptional YouTube Videos</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/comment-recuperer-des-fichiers-perdus-apres-une-reinstallation-de-windows-10-ou-11-guide-complet/"><u>Comment Récupérer Des Fichiers Perdus Après Une Réinstallation De Windows 10 Ou 11 - Guide Complet</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-picks-the-finest-cable-modems-for-optimal-performance-in/"><u>Expert Picks: The Finest Cable Modems for Optimal Performance In</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/harmonized-high-res-overlays-for-devices-for-2024/"><u>Harmonized High-Res Overlays for Devices for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-to-determine-actual-ram-performance-in-windows-11/"><u>Step-by-Step Instructions to Determine Actual RAM Performance in Windows 11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-swiftly-perform-a-fresh-setup-for-your-windows-n-engine/"><u>Step-by-Step Tutorial: Swiftly Perform a Fresh Setup for Your Windows N Engine</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-powerhouse-of-networking-exploring-facebook-twitter-instagram-and-youtube/"><u>The Powerhouse of Networking: Exploring Facebook, Twitter, Instagram and YouTube</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-capturing-screen-and-sound-seamlessly-on-windows/"><u>Ultimate Guide: Capturing Screen & Sound Seamlessly on Windows</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/windows-11-fresh-start-guide-complete-reinstallation-process-explained/"><u>Windows 11 Fresh Start Guide: Complete Reinstallation Process Explained</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-a-roadmap-for-monetization-success-on-youtube-via-adsense/"><u>[New] 2024 Approved A Roadmap for Monetization Success on YouTube via AdSense</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/disable-mouse-sensitivity-boost-in-macos-a-step-by-step-guide/"><u>Disable Mouse Sensitivity Boost in macOS - A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-most-enjoyable-kids-online-game-selection/"><u>Discover the Most Enjoyable Kid's Online Game Selection</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-lgbt-films-featured-on-netflix-for-july-2024-the-complete-list/"><u>Essential LGBT Films Featured on Netflix for July 2024: The Complete List</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-steps-resolving-issues-when-advapi32dll-cannot-be-located/"><u>Essential Steps: Resolving Issues When Advapi32.dll Cannot Be Located</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-advice-on-correcting-code-41-device-conflicts-in-system-settings/"><u>Expert Advice on Correcting Code 41 Device Conflicts in System Settings</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-6-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset iPhone 6 to Factory Settings? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-from-your-iphone-15-pro-max-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID From your iPhone 15 Pro Max without Security Questions?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/improved-system-stability-and-performance-enhancements-to-prevent-frequent-freezing-or-crashing-incidents/"><u>Improved System Stability and Performance Enhancements to Prevent Frequent Freezing or Crashing Incidents.</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-iphone-x-drfone-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For iPhone X | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-apple-iphone-13-mini-drfone-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-radiance-reimagined-top-video-tools-list/"><u>In 2024, Radiance Reimagined Top Video Tools List</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-it-possible-to-use-your-ps4-games-with-the-new-ps5-console/"><u>Is It Possible to Use Your PS4 Games with the New PS5 Console?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-finding-friends-on-facebook-a-guide-to-6-easy-strategies/"><u>Mastering the Art of Finding Friends on Facebook: A Guide to 6 Easy Strategies</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-transforming-vocal-landscapes-a-methodical-approach-to-swapping-video-audio-tracks-part-1/"><u>New In 2024, Transforming Vocal Landscapes A Methodical Approach to Swapping Video Audio Tracks (Part 1)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unleash-laughter-with-funny-iphone-and-ipad-gags-for-good-times/"><u>Unleash Laughter with Funny iPhone & iPad Gags for Good Times</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-the-power-of-windows-11s-battery-diagnostic-tool/"><u>Unlocking the Power of Windows 11'S Battery Diagnostic Tool</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Picks: Our Selection of Best Traffic Enhancement Apps"
-date: 2024-09-09T15:47:37.850Z
-updated: 2024-09-10T15:47:37.850Z
+date: 2024-10-31T16:35:21.308Z
+updated: 2024-11-05T16:36:56.335Z
 categories:
   - BestProducts
 description: "This Article Describes Ultimate Picks: Our Selection of Best Traffic Enhancement Apps"
@@ -9,18 +9,6 @@ excerpt: "This Article Describes Ultimate Picks: Our Selection of Best Traffic E
 thumbnail: https://thmb.techidaily.com/fbcf05b0c32ba329cf6957ae3248e625c39ba58c1a53bbe9519d95b22a1c1295.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Ultimate List of Gmail's Most Useful Keyboard Shortcuts: Boost Your Efficiency Today
  Managing and organizing your email can work just fine using drag and drop. But if you have a lot of email, learning Gmail's keyboard commands (along with some[Gmail tricks and tips](https://www.lifewire.com/best-gmail-tips-tricks-and-tutorials-1172146) ) can save you hours. Here are more than two dozen to pick from. Oh, don't be intimidated. Just pick one and try it out for a bit. Then come back to learn more.
 
@@ -35,12 +23,6 @@ thumbnail: https://thmb.techidaily.com/fbcf05b0c32ba329cf6957ae3248e625c39ba58c1
 2. Scroll down to the **Keyboard shortcuts** section and select **Keyboard shortcuts on** .  
 ![The Keyboard Shortcuts on/off buttons highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/lPV2-ew-bY8v5xkR1Y6pZ0fLprc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-BestGmailKeyboardShortcuts-annotated-639cd7b44f654d4a9fc5e371f7ebae28.jpg)
 3. Scroll to the bottom of the page and select **Save Changes** .  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
 
 ## How to Create, Send, and Forward Email
@@ -54,18 +36,6 @@ thumbnail: https://thmb.techidaily.com/fbcf05b0c32ba329cf6957ae3248e625c39ba58c1
 
  On Macs, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Reply to Email
 
  By using the**R** and**A** keys, you can quickly reply to[email messages](https://www.lifewire.com/electronic-mail-overview-1164107) or send to multiple recipients:
@@ -81,12 +51,6 @@ thumbnail: https://thmb.techidaily.com/fbcf05b0c32ba329cf6957ae3248e625c39ba58c1
 * **Scroll up an email list (K)** : Press the**K** key to scroll up.
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Select Multiple Emails
 
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
@@ -94,11 +58,12 @@ thumbnail: https://thmb.techidaily.com/fbcf05b0c32ba329cf6957ae3248e625c39ba58c1
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Add Formatting to Email Text
 
  Use these commands to apply text formatting while you compose a message. Perform the same actions to undo the formatting:
@@ -121,11 +86,12 @@ thumbnail: https://thmb.techidaily.com/fbcf05b0c32ba329cf6957ae3248e625c39ba58c1
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Email Maintenance Shortcuts
 
  Use these shortcuts to help manage your inbox:
@@ -148,6 +114,13 @@ thumbnail: https://thmb.techidaily.com/fbcf05b0c32ba329cf6957ae3248e625c39ba58c1
 * **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to View All Gmail Shortcuts
 
  Need help remembering a shortcut? You can quickly pull up the entire list with a keyboard shortcut:
@@ -157,11 +130,18 @@ thumbnail: https://thmb.techidaily.com/fbcf05b0c32ba329cf6957ae3248e625c39ba58c1
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Was this page helpful?
 
 Thanks for letting us know!
@@ -182,8 +162,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -191,4 +169,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-computational-photography-what-are-auto-hdr-smart-hdr-3-and-4-shooting-modes-for-2024/"><u>[New] Computational Photography What Are Auto HDR, Smart HDR 3 & 4 Shooting Modes for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-transform-movie-colors-with-cg-centrals-luts-guide/"><u>[New] Transform Movie Colors with CG Central's Luts Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-daily-dharma-the-best-yoga-channels-for-self-growth/"><u>[Updated] 2024 Approved Daily Dharma The Best Yoga Channels for Self-Growth</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-powerpoint-guide-to-adding-youtube-links-with-ease/"><u>[Updated] PowerPoint Guide to Adding YouTube Links with Ease</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-on-apple-iphone-12-mini-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock On Apple iPhone 12 mini Online</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/addressing-and-rectifying-missing-or-lost-physxloaderdll-file-problems-for-seamless-operation/"><u>Addressing and Rectifying Missing or Lost physxloader.dll File Problems for Seamless Operation</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-nokia-130-music-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Nokia 130 Music Without PUK Codes</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-tecno-pova-5mirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Tecno Pova 5Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/pairing-data-strategies-expert-advice-on-merging-cells-in-microsoft-office-excel/"><u>Pairing Data Strategies: Expert Advice on Merging Cells in Microsoft Office Excel</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/premier-gamers-streaming-software-for-2024/"><u>Premier Gamers' Streaming Software for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/snapchat-assistance-how-to-get-in-touch-with-their-team/"><u>Snapchat Assistance: How to Get in Touch With Their Team</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-window-11-powering-off-problems-a-detailed-guide-for-users/"><u>Solving Window 11 Powering Off Problems: A Detailed Guide for Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-on-restoring-wi-fi-access-for-your-ipad/"><u>Step-by-Step Tutorial on Restoring Wi-Fi Access for Your iPad</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-missing-mfc42ddll-errors-on-your-pc-solutions-inside/"><u>Troubleshooting Missing mfc42d.dll Errors on Your PC – Solutions Inside!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/which-voice-ai-suits-you-best-google-assistant-vs-alexa-comparision/"><u>Which Voice AI Suits You Best? Google Assistant vs Alexa Comparision</u></a></li>
+</ul></div>
 

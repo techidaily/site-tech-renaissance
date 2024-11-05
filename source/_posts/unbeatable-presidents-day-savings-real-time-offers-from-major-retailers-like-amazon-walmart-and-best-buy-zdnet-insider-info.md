@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Presidents' Day Savings: Real-Time Offers From Major Retailers Like Amazon, Walmart, and Best Buy | ZDNET Insider Info"
-date: 2024-10-28T02:00:00.002Z
-updated: 2024-10-30T18:40:42.522Z
+date: 2024-11-01T16:56:25.752Z
+updated: 2024-11-05T17:12:20.383Z
 tags:
   - apple
 categories:
@@ -39,13 +39,6 @@ From headphones to robot vacuums to TVs, now's your chance to snag savings that 
 * [Roborock Q7 Max+ Robot Vacuum and Mop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB09NNFNWZ9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ceaa49380-64ae-4bd2-b49e-bdacc86c98a2%7Cdtp&dtb=1): $520 (save $180 with coupon at Amazon)
 * [Amazon Fire HD 8 Kids Pro Tablet](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB09BG63ZMM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ceaa49380-64ae-4bd2-b49e-bdacc86c98a2%7Cdtp&dtb=1): $100 (save $50 at Amazon)
 * [Blink Outdoor 4 Floodlight Camera](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB0BBX45V5B%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ceaa49380-64ae-4bd2-b49e-bdacc86c98a2%7Cdtp&dtb=1): $85 (save $45 at Amazon)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The best Presidents Day tech deals still live
 
@@ -85,13 +78,6 @@ Jason Hiner/ZDNET
 * [Jabra Elite 4 Active Wireless Earbuds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB09MVGQRDD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ceaa49380-64ae-4bd2-b49e-bdacc86c98a2%7Cdtp&dtb=1): $90 (save $30 at Amazon)
 * [Jabra Elite 10 Wireless Earbuds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB0CB91VRGV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ceaa49380-64ae-4bd2-b49e-bdacc86c98a2%7Cdtp&dtb=1): $200 (save $50 at Amazon)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The best Presidents Day TV deals still live
 
 Maria Diaz/ZDNET
@@ -106,13 +92,6 @@ Maria Diaz/ZDNET
 * [Hisense 75-inch 4K UHD Fire TV](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHisense-75-Inch-Class-Smart-75U6HF%2Fdp%2FB0CHJ7GQ2Q%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ceaa49380-64ae-4bd2-b49e-bdacc86c98a2%7Cdtp&dtb=1): $750 (save $400 at Amazon)
 * [Samsung 85-inch Class TU690T UHD 4K Smart Tizen TV](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-85-class-tu690t-crystal-uhd-4k-smart-tizen-tv%2F6527338.p%3F&publisher_slug=itechdaily19598&exclusive=1): $1,000 (save $300 at Best Buy)
 * [Samsung 75-inch Class QN85C UHD 4K Smart Tizen TV](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-75-class-qn85c-neo-qled-4k-uhd-smart-tizen-tv%2F6536416.p%3F&publisher_slug=itechdaily19598&exclusive=1): $1,800 (save $500 at Best Buy)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The best Presidents Day robot vacuum deals still live
 
@@ -130,6 +109,13 @@ Beth Mauder/ZDNET
 * [Roborock S8 Pro Vacuum and Mop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPro-Ultra-Self-Washing-Self-Refilling-Self-Emptying%2Fdp%2FB0BVB5PTDK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ceaa49380-64ae-4bd2-b49e-bdacc86c98a2%7Cdtp&dtb=1): $1,400 (save $200 at Amazon)
 * [Roborock S8 Pro Vacuum and Mop](https://roborock.pxf.io/c/159047/1179705/14848?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fus.roborock.com%2Fproducts%2Froborock-s8-pro-ultra&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): $1,400 (save $200 at Roborock)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The best Presidents Day home deals still live
 
 Arlo
@@ -143,6 +129,13 @@ Arlo
 * [iDoo Queen Air Mattress](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB0C8TF4VK8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ceaa49380-64ae-4bd2-b49e-bdacc86c98a2%7Cdtp&dtb=1): $70 (save $46 at Amazon)
 * [Eve Light Strip](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEve-Light-Strip-Full-Spectrum-Necessary%2Fdp%2FB07MTX8MR4%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ceaa49380-64ae-4bd2-b49e-bdacc86c98a2%7Cdtp&dtb=1): $40 (save $40 at Amazon)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When is President's Day?
 
 President's Day is always celebrated on the third Monday of February. This year, it falls on Feb. 19\. 
@@ -153,21 +146,28 @@ ZDNET only writes about deals we want to buy -- devices and products we desire, 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When will these deals expire?
 
 Deals are subject to sell-out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on a deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Does Amazon have a Presidents' Day sale?
@@ -216,21 +216,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-charting-success-top-online-video-channels/"><u>[New] 2024 Approved Charting Success Top Online Video Channels</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-shape-shifting-pics-with-top-editors-help/"><u>[New] Shape-Shifting Pics with Top Editors' Help</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-discover-the-ultimate-websites-delivering-artful-text-styling/"><u>[Updated] Discover the Ultimate Websites Delivering Artful Text Styling</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-download-free-sound-effects-for-youtubers/"><u>[Updated] In 2024, Download Free Sound Effects for YouTubers</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-mastering-the-art-of-monetization-with-ajey-carryminati-for-2024/"><u>[Updated] Mastering the Art of Monetization with Ajey (CarryMinati) for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ai-helper-dilemma-solved-making-sense-of-the-great-alexa-vs-google-assistant-debate/"><u>AI Helper Dilemma Solved: Making Sense of the Great Alexa Vs. Google Assistant Debate</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/from-novice-to-pro-mastering-lenovos-capture-capabilities/"><u>From Novice to Pro Mastering Lenovo's Capture Capabilities</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/julys-top-tv-show-recommendations-from-discovery-plus/"><u>July's Top TV Show Recommendations From Discovery Plus</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/step-by-step-audacity-crossfading-process/"><u>Step-by-Step Audacity Crossfading Process</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/steps-to-correctly-fix-an-absent-d3dx941dll-file/"><u>Steps to Correctly Fix an Absent d3dx9_41.dll File</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-top-7-techniques-to-master-windows-11-40/"><u>The Ultimate Guide: Top 7 Techniques to Master Windows 11 (40)</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/transforming-soundtracks-into-professional-podcasts/"><u>Transforming Soundtracks Into Professional Podcasts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-mastering-pokemon-unite-gameplay-on-your-pc/"><u>Ultimate Guide: Mastering Pokémon Unite Gameplay on Your PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/uninstalling-the-ai-assistant-clear-steps-to-disable-copilot-on-windows-11/"><u>Uninstalling the AI Assistant: Clear Steps to Disable Copilot on Windows 11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/winning-over-trustedinstaller-a-users-manual-for-windows-10-permission-requests/"><u>Winning Over TrustedInstaller - A User's Manual for Windows 10 Permission Requests</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722893810202-witness-the-grand-arrival-dive-into-the-world-of-the-new-apple-iphone-today/"><u>Witness the Grand Arrival: Dive Into the World of the New Apple iPhone Today</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-covert-measures-for-efficient-home-based-learning-for-2024/"><u>[Updated] Covert Measures for Efficient Home-Based Learning for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-insiders-tactics-for-creating-gripping-puzzle-posts-on-instagram/"><u>[Updated] In 2024, The Insider's Tactics for Creating Gripping Puzzle Posts on Instagram</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-iphone-ringtones-refinement/"><u>2024 Approved The Ultimate Guide to iPhone Ringtones Refinement</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/clear-viewing-again-solutions-to-line-distortions-in-modern-tvs/"><u>Clear Viewing Again: Solutions to Line Distortions in Modern TVs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/decode-win10s-code-39-glitch-a-comprehensive-fix-manual/"><u>Decode Win10's Code 39 Glitch: A Comprehensive Fix Manual</u></a></li>
+<li><a href="https://fox-place.techidaily.com/decoding-chromebook-troubleshooting-masterful-techniques-for-fixing-a-blackened-display/"><u>Decoding Chromebook Troubleshooting: Masterful Techniques for Fixing a Blackened Display</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-fixes-for-directx-and-directinput-dll-errors-in-windows-systems/"><u>Effective Fixes for DirectX and DirectInput DLL Errors in Windows Systems</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-experience-the-full-story-by-watching-transformers-in-sequence/"><u>How to Experience the Full Story by Watching Transformers in Sequence</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-branding-edge-design-strategies-for-game-changing-banners/"><u>In 2024, The Branding Edge Design Strategies for Game-Changing Banners</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-your-iphone-x-on-metropcs-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Your iPhone X on MetroPCS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/meta-quest-3-release-information-what-to-expect-in-terms-of-price-and-technical-features/"><u>Meta Quest 3 Release Information - What to Expect in Terms of Price and Technical Features</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726226213049-movavi-dng/"><u>Movavi - ゼロ圧着でダークネスジェネレーター (DNG) 画像を自由に変換</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-efficiently-access-and-manage-android-quick-settings/"><u>Step-by-Step Tutorial: Efficiently Access and Manage Android Quick Settings</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-phone-shops-find-your-perfect-device-today/"><u>Top-Rated Phone Shops: Find Your Perfect Device Today</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-solving-common-issues-in-iphone-remote-application/"><u>Troubleshooting Tips: Solving Common Issues in iPhone Remote Application</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/uniting-social-spheres-from-instagram-to-tiktok-triumphs/"><u>Uniting Social Spheres From Instagram to TikTok Triumphs</u></a></li>
+<li><a href="https://facebook.techidaily.com/unlocking-the-power-of-high-quality-fb-pics/"><u>Unlocking the Power of High-Quality FB Pics</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/what-is-bing/"><u>What Is Bing?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Trick: How to Freeze Unnecessary Android App Operations Behind the Scene"
-date: 2024-09-08T17:49:07.504Z
-updated: 2024-09-15T16:25:38.787Z
+date: 2024-10-29T18:18:02.474Z
+updated: 2024-11-05T20:19:20.529Z
 categories:
   - BestProducts
 description: "This Article Describes The Ultimate Trick: How to Freeze Unnecessary Android App Operations Behind the Scene"
@@ -28,9 +28,24 @@ thumbnail: https://thmb.techidaily.com/6d87b1c3f35bd086cb57f3daa2bccf1c889bbcea5
 2. Select an app you want to stop, then tap**Force stop** .  
 ![App, Authenticator app, and Force Stop in Android Settings](https://www.lifewire.com/thmb/O9nNKiKB93I9YeMuTRxdkZFswms=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_stop-apps-from-running-in-the-background-on-android-4777510-10230e2474294af7ab6265f32759caf3.jpg)  
  If you don't use the app, this is a good time to just uninstall it. Tap**Uninstall** to remove the app from your device.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Tap**OK** on the confirmation prompt.  
  This will clear battery or memory issues only until you restart your phone. Any apps that launch on startup will restart and could cause the same problems.  
  The app will relaunch when you restart your phone. To turn off all background activity for the app, select**App battery usage** and then tap the**Allow background usage** toggle to turn it off.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How Background Apps Affect Your Android Battery
 
@@ -48,13 +63,6 @@ thumbnail: https://thmb.techidaily.com/6d87b1c3f35bd086cb57f3daa2bccf1c889bbcea5
 
 [What's Draining Your Android Battery](https://www.lifewire.com/whats-draining-your-android-battery-5176452)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to See Which Apps Are Running in the Background
 
  The best way to alleviate the burden on your Android's system resources and[extend battery life](https://www.lifewire.com/extend-battery-life-for-android-121649) is to make sure the only apps running in the background are the ones you want running. There are a few ways to see these background apps.
@@ -64,10 +72,10 @@ thumbnail: https://thmb.techidaily.com/6d87b1c3f35bd086cb57f3daa2bccf1c889bbcea5
  This is something you have to enable to see. We have a straightforward guide on[how to turn on Android's developer mode](https://www.lifewire.com/how-to-enable-developer-mode-on-android-4684044) if you need help.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2. Tap**Running services** . It shows the apps that are currently running on your Android and the amount of RAM each is using. You can tap an item in the list to find the**Stop** button, which forces it to close.  
@@ -80,6 +88,13 @@ thumbnail: https://thmb.techidaily.com/6d87b1c3f35bd086cb57f3daa2bccf1c889bbcea5
 4. To[put your phone into battery-saving mode](https://www.lifewire.com/battery-saver-mode-on-android-5176451) , go to**Settings** \>**Battery** \>**Battery Saver** and turn on the**Use Battery Saver** toggle.  
 ![Battery, Battery Saver and Use Battery Saver toggle highlighted in Android settings](https://www.lifewire.com/thmb/E48fcEVoBME3Av55XmU1s1tz3_E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_stop-apps-from-running-in-the-background-on-android-4777510-a4304d06db0745d99de38df25dfe460a.jpg)  
  If you're on a Samsung device, go to**Battery and device care** \>**Battery** , and turn on**Power saving** .
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [How to Check RAM in Android](https://www.lifewire.com/how-to-check-ram-in-android-5192499)
 
@@ -117,5 +132,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-insiders-choice-the-best-fb-video-tools/"><u>[New] 2024 Approved Insider's Choice The Best FB Video Tools</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-chuckle-chipmunks-robotic-jokesters/"><u>[New] In 2024, Chuckle Chipmunks Robotic Jokesters</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-secrets-to-a-reliable-windows-11-photo-viewer/"><u>[Updated] In 2024, Secrets to a Reliable Windows 11 Photo Viewer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/analyzing-apples-cutting-edge-ipad-pro-a-new-era-beyond-the-macbook-alternative/"><u>Analyzing Apple's Cutting-Edge iPad Pro: A New Era Beyond the MacBook Alternative</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-music-unsubscribing-methods-beyond-using-itunes-techradar/"><u>Apple Music Unsubscribing Methods Beyond Using iTunes | TechRadar</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-most-attractive-atandt-mobile-plans-for-may-2e-2024-in-depth-analysis/"><u>Discover the Most Attractive AT&T Mobile Plans for May 2E 2024 - In-Depth Analysis</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/elevate-your-productivity-at-home-mastering-the-ipad-pro-for-office-efficiency-insights/"><u>Elevate Your Productivity at Home: Mastering the iPad Pro for Office Efficiency | Insights</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-apple-pay-for-seamless-transactions-your-comprehensive-resource-for-physical-and-digital-purchases-financewisetech/"><u>Mastering Apple Pay for Seamless Transactions - Your Comprehensive Resource for Physical and Digital Purchases | FinanceWiseTech</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/perfecting-your-srt-craft-a-compreran-guide-to-tips-and-tricks/"><u>Perfecting Your SRT Craft A Compreran Guide to Tips & Tricks</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-major-hurdles-with-iphone-12-and-expert-troubleshooting-tips/"><u>The Major Hurdles with iPhone 12 & Expert Troubleshooting Tips</u></a></li>
+</ul></div>
 

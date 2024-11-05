@@ -1,7 +1,7 @@
 ---
 title: All About Sony's Upcoming Afeela Model – Price Predictions and Speculations Revealed
-date: 2024-09-09T15:47:22.431Z
-updated: 2024-09-10T15:47:22.431Z
+date: 2024-11-02T16:10:51.887Z
+updated: 2024-11-05T19:27:56.523Z
 categories:
   - BestProducts
 description: This Article Describes All About Sony's Upcoming Afeela Model – Price Predictions and Speculations Revealed
@@ -9,12 +9,6 @@ excerpt: This Article Describes All About Sony's Upcoming Afeela Model – Price
 thumbnail: https://www.lifewire.com/thmb/kzjkCRvDCVJW1NHpWheJUclZ1No=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sony-car-afeela-prototype-small-afbf34badff94d6aad4c2a1e009012c9.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## All About Sony's Upcoming Afeela Model – Price Predictions and Speculations Revealed
 
  In This Article 
@@ -28,27 +22,28 @@ thumbnail: https://www.lifewire.com/thmb/kzjkCRvDCVJW1NHpWheJUclZ1No=/400x300/fi
 
  At CES 2023, Sony and Honda gave a name to their joint Sony Honda Mobility (SHM) electric vehicle venture: Afeela. This new electric vehicle (EV) brand is moving ever closer beyond concept to debuting its first EV sedan, which will draw on Sony’s and numerous other partners’ gaming, artificial intelligence (AI), and entertainment prowess. Here’s what we know about the forthcoming Sony car (Afeela).
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  When Will the Sony Car (Afeela) Be Released? 
 
  When Sony and Honda announced their plans for an EV, they also suggested a 2026 release. Plans look on track to bring the Afeela to market in North America first sometime in 2026\. 
 
  Orders will be taken in the first half of next year, potentially allowing US drivers to be behind the wheel by spring 2026.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Lifewire's Release Date Estimate
 
  The Afeela looks poised to be available in North America by spring 2026.
+
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Sony Car (Afeela) Price Rumors 
 
@@ -58,17 +53,18 @@ thumbnail: https://www.lifewire.com/thmb/kzjkCRvDCVJW1NHpWheJUclZ1No=/400x300/fi
 
  As concept-to-production details take shape, we expect to hear more rumors about pricing, so stay tuned.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Pre-Order Information 
 
  Sony Car pre-ordering looks like it will start in the first few months of 2025\. All signs point to US orders first, followed by pre-orders and debuts in the Japanese and European markets. 
 
  We’ll make updates here as we learn more.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Sony Car (Afeela) Features 
 
@@ -82,12 +78,6 @@ thumbnail: https://www.lifewire.com/thmb/kzjkCRvDCVJW1NHpWheJUclZ1No=/400x300/fi
 
 ![Sony Honda Mobility and Epic Games collaboration demo in the Afeela prototype.](https://www.lifewire.com/thmb/l9bUlpS2wIPA00FBpEUvK6M-tPw=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-Hond-Car-Afeela-EpicGames-Collaboration-4978e86ca0f048c2858c0bd4e757562c.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 AR navigation. 
 
 Sony Honda Mobility
@@ -98,23 +88,18 @@ Sony Honda Mobility
 
 ![Sony Car Afeela prototype in Gran Turismo 7.](https://www.lifewire.com/thmb/6883s270jJnZ-nOMN6hrwPhhS3Y=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sony-car-afeela-gran-turismo-7-24a158661c194c2b8e91084521f41c28.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Sony Interactive Entertainment
 
  How much more actual integrated gaming will be possible in the real Aleefa is still unknown and something we’ll be on the lookout for.
 
 [  Electric Vehicles: A Short History Lesson ](https://www.lifewire.com/electric-vehicles-a-short-history-lesson-5202203) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Sony Car (Afeela) Specs and Hardware 
 
@@ -134,6 +119,19 @@ Sony Interactive Entertainment
 
  Check back for updates about the Sony car release date and more features and specs chatter. 
 
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The Latest News About the Sony Car (Afeela) 
 
  There’s a lot more[ tech news from Lifewire](https://www.lifewire.com/news-4795879) . Here are a few stories of interest about Sony and EVs specifically.
@@ -152,8 +150,6 @@ Sony Interactive Entertainment
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -161,4 +157,26 @@ Sony Interactive Entertainment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-the-ultimate-guide-to-leveraging-preview-capabilities-on-a-mac-for-2024/"><u>[New] The Ultimate Guide to Leveraging Preview Capabilities on a Mac for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-the-best-virtualdub-replacements-for-video-editing/"><u>2024 Approved The Best Virtualdub Replacements for Video Editing</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-understanding-instagrams-privacy-controls/"><u>2024 Approved Understanding Instagram's Privacy Controls</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/all-about-amazon-prime-day-202/"><u>All About Amazon Prime Day 202</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discovering-those-who-reposted-your-facebook-status/"><u>Discovering Those Who Reposted Your Facebook Status</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/every-revealed-title-for-the-new-playstation-vr-a-comprehensive-list/"><u>Every Revealed Title for the New PlayStation VR²: A Comprehensive List</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-aspect-ratio-error-on-wide-windows-10-displays/"><u>Fixing Aspect Ratio Error on Wide Windows 10 Displays</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-video-detaching-devices-securely-from-your-smart-home-system/"><u>How-To Video: Detaching Devices Securely From Your Smart Home System</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-motorola-g54-5g-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Motorola G54 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Infinix Smart 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-awkward-potions-in-minecraft-step-by-step-instructions/"><u>Mastering the Art of Awkward Potions in Minecraft – Step-by-Step Instructions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-your-android-a-step-by-step-guide-to-navigating-the-quick-settings-menu/"><u>Mastering Your Android: A Step-by-Step Guide to Navigating the Quick Settings Menu</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/navigating-the-seo-landscape-top-keyword-research-instruments/"><u>Navigating the SEO Landscape Top Keyword Research Instruments</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-the-world-of-usb-20-a-deep-dive-into-data-speeds-wire-varieties-and-connection-systems/"><u>Navigating the World of USB 2.0: A Deep Dive Into Data Speeds, Wire Varieties, and Connection Systems</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/saving-game-moments-with-fbx-recorder/"><u>Saving Game Moments with FBX Recorder</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-journey-of-drones-from-current-uses-to-future-applications/"><u>The Journey of Drones From Current Uses to Future Applications</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-lenovo-thinkphone-by-drfone-android/"><u>Three Ways to Sim Unlock Lenovo ThinkPhone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-yahoo-mail-issues-steps-to-resolve-non-receipt-of-emails/"><u>Troubleshooting Yahoo Mail Issues: Steps to Resolve Non-Receipt of Emails</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/what-to-do-if-your-wi-fi-signal-doesnt-appear-a-step-by-step-guide/"><u>What To Do If Your Wi-Fi Signal Doesn't Appear - A Step By Step Guide</u></a></li>
+</ul></div>
 

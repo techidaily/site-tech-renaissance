@@ -1,7 +1,7 @@
 ---
 title: "Riding Into the Future with Smart Glasses: The Life-Altering Impact of Photochromic Innovations - Insights by ZDNET"
-date: 2024-10-29T16:13:53.636Z
-updated: 2024-10-30T19:29:33.588Z
+date: 2024-11-04T20:19:44.924Z
+updated: 2024-11-05T19:10:50.242Z
 tags:
   - apple
 categories:
@@ -60,6 +60,13 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -67,13 +74,6 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -93,13 +93,6 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -114,13 +107,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -132,16 +118,16 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -154,6 +140,13 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -171,6 +164,13 @@ Jason Hiner/ZDNET
 * Apple TV brings **multiview to Vision Pro**, which is especially useful when watching sports games.
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## AirPods
 
@@ -224,24 +224,20 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-advanced-screen-recording-techniques-for-enhanced-productivity-in-adobe-captive/"><u>[Updated] Advanced Screen Recording Techniques for Enhanced Productivity in Adobe Captive</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-how-to-record-google-meet-on-iphone-and-android/"><u>[Updated] In 2024, How to Record Google Meet on iPhone and Android?</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-step-by-step-guide-for-igtv-video-submission/"><u>2024 Approved Step-by-Step Guide for IGTV Video Submission</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/channel-charisma-standing-out-with-strategic-telegram-promotion-for-2024/"><u>Channel Charisma Standing Out with Strategic Telegram Promotion for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/disabling-the-voice-guidance-feature-in-your-samsung-television/"><u>Disabling the Voice Guidance Feature in Your Samsung Television</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-tips-for-troubleshooting-ntldr-error-messages-effectively/"><u>Expert Tips for Troubleshooting NTLDR Error Messages Effectively</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-tips-six-techniques-to-resolve-your-apple-watch-pairing-problems/"><u>Expert Tips: Six Techniques to Resolve Your Apple Watch Pairing Problems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-reasons-for-youtubes-unavailability-or-malfunctions/"><u>Exploring Reasons for YouTube's Unavailability or Malfunctions</u></a></li>
-<li><a href="https://fox-http.techidaily.com/extensive-analysis-djis-latest-uav-inspire-1-for-2024/"><u>Extensive Analysis DJI's Latest UAV, Inspire 1 for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-oppo-find-x7-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Oppo Find X7</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722865646492-how-to-restore-missed-email-delivery-on-yahoo-mail-services-effectively/"><u>How To Restore Missed Email Delivery on Yahoo Mail Services Effectively</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-honor-90-gt-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Honor 90 GT in Minutes | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-new-tongues-without-spending-a-penny-check-out-these-9-favorite-websites-for-learning-languages/"><u>Mastering New Tongues Without Spending a Penny? Check Out These 9 Favorite Websites for Learning Languages</u></a></li>
-<li><a href="https://win-blog.techidaily.com/pc-gaming-made-easy-resolving-the-ascent-stability-issues-and-continuous-freezes/"><u>PC Gaming Made Easy - Resolving 'The Ascent' Stability Issues and Continuous Freezes</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/psn-outage-alert-but-wait-could-it-be-a-local-connectivity-hiccup-instead/"><u>PSN Outage Alert! But Wait, Could It Be a Local Connectivity Hiccup Instead?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-10-essential-tweets-a-beginners-guide-to-mastering-x/"><u>Top 10 Essential Tweets: A Beginner's Guide to Mastering X</u></a></li>
-<li><a href="https://discover-data.techidaily.com/tutoriel-detaille-activation-des-snapshots-rapides-sur-windows-server-2019/"><u>Tutoriel Détaillé : Activation Des Snapshots Rapides Sur Windows Server 2019</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlocking-the-secrets-of-saved-passwords-in-macos-user-accounts/"><u>Unlocking the Secrets of Saved Passwords in macOS User Accounts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-our-top-choices-the-best-7-free-music-streaming-platforms-on-your-smartphone/"><u>Unveiling Our Top Choices: The Best 7 Free Music Streaming Platforms on Your Smartphone!</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-journey-through-creative-commons-a-users-guide/"><u>2024 Approved The Journey Through Creative Commons A User's Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-laughs-in-layout-designer/"><u>Best Laughs in Layout Designer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/decoding-the-basics-of-oled-working-mechanism-explained/"><u>Decoding the Basics of OLED - Working Mechanism Explained</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-how-to-locate-individuals-fast-on-facebook-in-6-steps/"><u>Discover How to Locate Individuals Fast on Facebook in 6 Steps</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ing-audience-from-anywhere-phone-based-filming-techniques-for-2024/"><u>Engaging Audience From Anywhere Phone-Based Filming Techniques for 2024</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/guida-passo-passo-al-ripristino-dei-dati-con-lenovo-onekey-software-sul-tuo-computer-windows-10/"><u>Guida Passo-Passo Al Ripristino Dei Dati Con Lenovo OneKey Software Sul Tuo Computer Windows 10</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-best-solutions-for-itel-network-unlock-by-drfone-android/"><u>In 2024, Best Solutions for Itel Network Unlock</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-4k-with-prime-lenses-for-professionals/"><u>In 2024, Mastering 4K with Prime Lenses for Professionals</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-realme-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Realme Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-pairing-your-samsung-earbuds-with-pc-or-laptop/"><u>Step-by-Step Guide: Pairing Your Samsung Earbuds with PC or Laptop</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-complete-tutorial-to-achieving-a-professional-look-with-background-blur-feature-in-google-meet/"><u>The Complete Tutorial to Achieving a Professional Look with Background Blur Feature in Google Meet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-10-largest-and-most-visited-websites-worldwide/"><u>Top 10 Largest and Most Visited Websites Worldwide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-setting-up-a-perfect-home-theatre-for-the-big-game/"><u>Ultimate Guide to Setting Up a Perfect Home Theatre for the Big Game</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/uncovering-your-unique-email-identifier-a-step-by-step-guide/"><u>Uncovering Your Unique Email Identifier: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/upcoming-iphone-model-prospects-for-price-release-timeline-features-and-current-speculations/"><u>Upcoming iPhone Model - Prospects for Price, Release Timeline, Features, and Current Speculations</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Major Outages at Big Tech Firms Like Microsoft Highlight Governments' Need to Seek Alternatives
-date: 2024-09-14T18:37:34.408Z
-updated: 2024-09-15T18:43:08.006Z
+date: 2024-11-01T21:58:03.630Z
+updated: 2024-11-05T18:50:12.930Z
 categories:
   - BestProducts
 description: This Article Describes Major Outages at Big Tech Firms Like Microsoft Highlight Governments' Need to Seek Alternatives
@@ -44,6 +44,13 @@ Skynesher/Getty
 
  As you make your purchases, consider how long the item will last with your child. Some kids are rough on technology, while others are more thoughtful and responsible; age often dictates how nice I'm willing to purchase for a specific child.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Look for Student Discounts
 
  Check for discounts before you buy! Several major tech manufacturers offer student discounts, including HP and[Dell](https://www.lifewire.com/dell-student-discount-4686335) . Some retailers, like[Best Buy](https://www.lifewire.com/best-buy-student-discount-4684485) , offer back-to-school deals as well.
@@ -59,6 +66,13 @@ Skynesher/Getty
 [Computer & Laptop Reviews & Top Picks](https://www.lifewire.com/best-laptops-to-buy-4043650)
 
 ![](<https://www.lifewire.com/data:image/svg+xml,%3Csvg> width=%275751%27 height=%272313%27 xmlns=%27<http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E>) ![Hands holding a smartphone with a red smartwatch on wrist over a pencil and paper.](https://www.lifewire.com/thmb/nSqWQLOUlnMzLJD1rc7f4f2qO5g=/1500x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/smartwatchandphone_yacobchuk_GettyImages-693332444_CROPPED-616820cc68f645c09d7153ccc1de07ff.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Connections: The Power of Phones and Smartwatches
 
@@ -87,10 +101,17 @@ Skynesher/Getty
 ![](<https://www.lifewire.com/data:image/svg+xml,%3Csvg> width=%275483%27 height=%272329%27 xmlns=%27<http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E>) ![Composite drawing of books apps and devices against a blue background.](https://www.lifewire.com/thmb/afdEJWLn5Hja0WRtjgBJQP3K-8k=/1500x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Compositedrawingofbooksappsanddevices_grapihcnoi_GettyImages-174551865_CROPPED-17467a01a2e44bf98bfc135e8a7cff43.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Using Apps and Sites Can Support Good Study Habits
@@ -98,13 +119,6 @@ Skynesher/Getty
  Be careful and thoughtful if you're considering using ChatGPT for your child. It can certainly be helpful in some ways (think: helping to spark ideas for a snappy essay title), but AI tools like this essentially scrub the internet for information, which isn't always accurate and can frequently be considered plagiarism if used verbatim. Encourage your child to do their internet research instead.
 
 ![Female student walking with a tablet, smartphone, and headphones.](https://www.lifewire.com/thmb/xlh2OPH52kBp--XJzwjVyR_lZN0=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Studentwithtabletphoneheadphones_COROIMAGE_GettyImages-1429193388_VERTICALCROP-5f30ba23f2f64ada861c3283ce518740.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Back to school means more than finding the right books this year. While those are crucial (and often spendy), a frequently overlooked aspect of getting back into the school groove involves finding and using the right apps to support learning, enhance productivity, and improve organization tactics.
 
@@ -158,5 +172,21 @@ Skynesher/Getty
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/eleased-caught-in-the-web-of-missing-shorts/"><u>[New] Released Caught in the Web of Missing Shorts</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-anti-fog-gear-for-clear-shot-capture-in-cold-weather/"><u>[Updated] Anti-Fog Gear for Clear Shot Capture in Cold Weather</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-crafting-compelling-vo-for-visual-storytelling-success-for-2024/"><u>[Updated] Crafting Compelling VO for Visual Storytelling Success for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/are-torrent-downloads-from-the-pirate-bay-secure-and-legal/"><u>Are Torrent Downloads From The Pirate Bay Secure and Legal?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/becoming-a-pro-at-using-igtv-for-business-and-personal-growth/"><u>Becoming a Pro at Using IGTV for Business and Personal Growth</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/ditch-the-search-get-your-filmora-discount-code-here/"><u>Ditch the Search Get Your Filmora Discount Code Here</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enhancing-your-iphone-experience-with-apples-integration-of-googles-gemini-insights/"><u>Enhancing Your iPhone Experience with Apple's Integration of Google's Gemini - Insights</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-oppo-reno-9a-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Oppo Reno 9A Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-xiaomi-redmi-note-12-5g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Xiaomi Redmi Note 12 5G Phone that is Locked?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-safely-alter-your-facebook-sign-in-key-information/"><u>How To Safely Alter Your Facebook Sign-In Key Information</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-craft-the-ultimate-mac-app-for-incredible-document-management-a-step-by-step-tutorial-zdnet/"><u>Mastering Craft: The Ultimate Mac App for Incredible Document Management - A Step-by-Step Tutorial | ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionizing-conversational-ai-on-apple-devices-chatgpt-now-available-via-collaboration-with-openai-zdnet-coverage/"><u>Revolutionizing Conversational AI on Apple Devices: ChatGPT Now Available via Collaboration with OpenAI | ZDNet Coverage</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-crucial-5-features-android-must-adopt-to-rivet-against-iphones-ios-supremacy/"><u>The Crucial 5 Features Android Must Adopt to Rivet Against iPhone's iOS Supremacy</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-savings-on-computers-july-2024s-premier-offers-zdnet-spotlight/"><u>Ultimate Savings on Computers: July 2024'S Premier Offers | ZDNet Spotlight</u></a></li>
+</ul></div>
 

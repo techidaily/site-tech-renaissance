@@ -1,7 +1,7 @@
 ---
 title: "Magical Imagery at Your Fingerts: Apple's Latest AI Innovation Eclipses DALL-E with Device-Based Generation Capabilities | ZDNet News"
-date: 2024-10-25T01:12:02.474Z
-updated: 2024-10-31T02:55:27.066Z
+date: 2024-11-02T21:57:28.078Z
+updated: 2024-11-05T18:40:05.746Z
 tags:
   - apple
 categories:
@@ -71,25 +71,29 @@ Apple partner and supplier Foxconn will be making the IR camera with a goal of 1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-expert-guide-to-leveraging-obs-in-android-for-2024/"><u>[Updated] Expert Guide to Leveraging OBS in Android for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-the-ultimate-guide-to-time-lapses-with-iphone/"><u>[Updated] In 2024, The Ultimate Guide to Time-Lapses with iPhone</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-channel-owner-uncovering-your-subscribers/"><u>2024 Approved Channel Owner Uncovering Your Subscribers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/complete-guide-how-to-install-and-update-directx-12-on-your-windows-10-pc/"><u>Complete Guide: How to Install and Update DirectX 12 on Your Windows 10 PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/complete-tutorial-enabling-and-using-remote-desktop-on-your-windows-10-pc/"><u>Complete Tutorial: Enabling and Using Remote Desktop on Your Windows 10 PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-to-reviving-non-working-usb-ports-on-laptops/"><u>Comprehensive Guide To Reviving Non-Working USB Ports On Laptops</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/deciphering-rundll32exe-purpose-and-appropriate-measures-to-take/"><u>Deciphering rundll32.exe: Purpose & Appropriate Measures to Take</u></a></li>
-<li><a href="https://common-error.techidaily.com/decoding-and-fixing-the-persistent-windows-update-error-code-0x80244022/"><u>Decoding and Fixing the Persistent Windows Update Error Code: 0X802#44022</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-tutorial-for-setting-up-a-second-monitor-with-your-notebook/"><u>Easy Tutorial for Setting Up a Second Monitor with Your Notebook</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-video-recording-techniques-for-computer-users-a-comprehensive-guide/"><u>Easy Video Recording Techniques for Computer Users: A Comprehensive Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On OnePlus Nord 3 5G? | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/install-your-epson-wf-2750-printer-driver-today-free-download-available/"><u>Install Your Epson WF-2750 Printer Driver Today – Free Download Available</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-expert-review-dynamic-action-recording-tools-for-2024/"><u>[New] Expert Review Dynamic Action Recording Tools for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-10-best-free-video-conferencing-tools-for-business-and-education/"><u>[New] In 2024, 10 Best Free Video Conferencing Tools for Business and Education</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-from-4k-to-concert-chaos-the-yi-vlogger-experience/"><u>[New] In 2024, From 4K to Concert Chaos The Yi Vlogger Experience</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-laugh-out-loud-and-weepy-instagrams-best-meme-communities-for-2024/"><u>[New] Laugh Out Loud & Weepy Instagram's Best Meme Communities for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/usical-masterclasses-in-15-short-video-formats-on-youtube-for-2024/"><u>[New] Musical Masterclasses in 15 Short Video Formats on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-expert-strategies-for-exceptional-live-thumbnail-appeal/"><u>[Updated] In 2024, Expert Strategies for Exceptional Live Thumbnail Appeal</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-rejuvenated-interview-framework-for-auditory-appeal/"><u>[Updated] Rejuvenated Interview Framework for Auditory Appeal</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/are-blu-ray-players-still-relevant-in-the-streaming-age/"><u>Are Blu-Ray Players Still Relevant in the Streaming Age?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-how-fast-and-responsive-ram-influences-system-efficiency/"><u>Exploring How Fast and Responsive RAM Influences System Efficiency</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862731073-exploring-toms-hardware-top-tech-reviews-and-insights/"><u>Exploring Tom's Hardware: Top Tech Reviews and Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-correctly-address-and-resolve-xlivedll-file-cannot-be-found-mistake/"><u>How to Correctly Address and Resolve Xlive.dll File Cannot Be Found Mistake</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-electronics-the-ultimate-resource-by-toms-hardware-experts/"><u>Mastering Electronics: The Ultimate Resource by Tom's Hardware Experts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-microsoft-teams-a-guide-to-leveraging-copilot/"><u>Mastering Microsoft Teams: A Guide to Leveraging Copilot</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-your-way-through-buying-a-dash-cam-consider-these-9-key-points-first/"><u>Navigating Your Way Through Buying a Dash Cam? Consider These 9 Key Points First</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revive-your-file-explorer-top-troubleshooting-for-win11/"><u>Revive Your File Explorer: Top Troubleshooting for Win11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-devicemanager-code-41-troubleshooting-guide/"><u>Solving DEVICE_MANAGER Code 41 Troubleshooting Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/to-construct-or-to-acquire-discovering-if-a-self-built-computer-suits-your-needs-better/"><u>To Construct or to Acquire: Discovering if a Self-Built Computer Suits Your Needs Better</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

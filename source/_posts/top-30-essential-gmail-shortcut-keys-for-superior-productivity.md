@@ -1,7 +1,7 @@
 ---
 title: Top 30 Essential Gmail Shortcut Keys for Superior Productivity
-date: 2024-09-12T21:55:42.187Z
-updated: 2024-09-15T16:36:33.779Z
+date: 2024-11-02T17:29:28.167Z
+updated: 2024-11-05T22:14:48.074Z
 categories:
   - BestProducts
 description: This Article Describes Top 30 Essential Gmail Shortcut Keys for Superior Productivity
@@ -25,6 +25,13 @@ thumbnail: https://www.lifewire.com/thmb/C-VkkE_FKN5gwBSzz-nOcdCxNrs=/400x300/fi
 3. Scroll to the bottom of the page and select **Save Changes** .  
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Create, Send, and Forward Email
 
  With Gmail[keyboard](https://www.lifewire.com/what-is-a-keyboard-2618153) shortcuts, you can quickly create, send, and forward Gmail messages:
@@ -36,12 +43,26 @@ thumbnail: https://www.lifewire.com/thmb/C-VkkE_FKN5gwBSzz-nOcdCxNrs=/400x300/fi
 
  On Macs, use the**Command** key in place of the**Ctrl** key.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Reply to Email
 
  By using the**R** and**A** keys, you can quickly reply to[email messages](https://www.lifewire.com/electronic-mail-overview-1164107) or send to multiple recipients:
 
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Scroll Through Emails
 
@@ -56,13 +77,6 @@ thumbnail: https://www.lifewire.com/thmb/C-VkkE_FKN5gwBSzz-nOcdCxNrs=/400x300/fi
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Add Formatting to Email Text
 
@@ -86,16 +100,10 @@ thumbnail: https://www.lifewire.com/thmb/C-VkkE_FKN5gwBSzz-nOcdCxNrs=/400x300/fi
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Email Maintenance Shortcuts
@@ -128,13 +136,6 @@ thumbnail: https://www.lifewire.com/thmb/C-VkkE_FKN5gwBSzz-nOcdCxNrs=/400x300/fi
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Was this page helpful?
 
 Thanks for letting us know!
@@ -162,5 +163,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-video-sharing-warriors-which-fights-better-obs-or-twitch-studio/"><u>[New] 2024 Approved Video Sharing Warriors Which Fights Better - OBS or Twitch Studio?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-enhance-virtual-presence-mastering-zooms-snaps/"><u>[New] In 2024, Enhance Virtual Presence Mastering Zoom’s Snaps</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-10-best-live-streaming-platforms-you-should-know/"><u>[Updated] 10 Best Live Streaming Platforms You Should Know</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-affiliate-advancements-how-small-channels-thrive-financially/"><u>[Updated] 2024 Approved Affiliate Advancements How Small Channels Thrive Financially</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-windows-best-facsimile-software-for-ps3-games/"><u>[Updated] 2024 Approved Windows' Best Facsimile Software for PS3 Games</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discord-connectivity-concerns-identifying-service-disruptions-vs-personal-tech-troubles/"><u>Discord Connectivity Concerns: Identifying Service Disruptions vs Personal Tech Troubles</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/dont-panic-over-data-loss-resurrect-your-missing-iphone-photos-and-notes-using-stellar/"><u>Don't Panic Over Data Loss! Resurrect Your Missing iPhone Photos & Notes Using Stellar</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-apples-recent-payout-resolves-long-standing-macbook-dispute-unveiling-the-details-of-the-class-action-deal-gadgetdigest/"><u>How Apple's Recent Payout Resolves Long-Standing MacBook Dispute: Unveiling the Details of the Class Action Deal - GadgetDigest</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-the-iphone-14-pro-max-sim-lock-4-easy-methods-by-drfone-ios/"><u>How To Unlock The iPhone 14 Pro Max SIM Lock 4 Easy Methods</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/imessage-on-desktop-the-ultimate-tutorial-for-windows-users-tech-blog/"><u>IMessage on Desktop: The Ultimate Tutorial for Windows Users Tech Blog</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-4-time-saving-ways-to-perfect-loops-in-your-instagram-videos/"><u>In 2024, 4 Time-Saving Ways to Perfect Loops in Your Instagram Videos</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/iphone-12-now-comes-with-enhanced-qi-wireless-charging-bypass-the-need-for-magsafe/"><u>IPhone 12 Now Comes with Enhanced Qi Wireless Charging - Bypass the Need for MagSafe!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/protect-your-data-how-apples-latest-security-warning-about-spyware-threats-affects-iphone-users-zdnet/"><u>Protect Your Data: How Apple's Latest Security Warning About Spyware Threats Affects iPhone Users | ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-to-fix-the-error-in-moderation-on-chatgpt/"><u>Step-by-Step Guide to Fix the 'Error in Moderation' On ChatGPT</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/switching-sides-how-the-new-iphone-16-could-attract-android-enthusiasts-with-its-innovative-features/"><u>Switching Sides: How the New iPhone 16 Could Attract Android Enthusiasts with Its Innovative Features</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-savings-must-have-tech-bargains-during-amazons-prime-day-sale/"><u>Top Savings: Must-Have Tech Bargains During Amazon's Prime Day Sale</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-apples-advanced-ai-integration-in-iphone-mac-and-ipad-an-in-depth-guide/"><u>Understanding Apple's Advanced AI Integration in iPhone, Mac, and iPad - An In-Depth Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unpacking-the-potency-and-portability-of-xbox-series-s-an-authoritative-examination/"><u>Unpacking the Potency and Portability of Xbox Series S – An Authoritative Examination</u></a></li>
+</ul></div>
 

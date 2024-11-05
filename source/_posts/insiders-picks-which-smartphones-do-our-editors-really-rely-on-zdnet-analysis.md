@@ -1,7 +1,7 @@
 ---
 title: "Insider's Picks: Which Smartphones Do Our Editors Really Rely On? - ZDNet Analysis"
-date: 2024-10-23T23:41:47.159Z
-updated: 2024-10-30T16:10:13.644Z
+date: 2024-11-02T20:47:51.044Z
+updated: 2024-11-05T19:12:51.760Z
 tags:
   - apple
 categories:
@@ -46,10 +46,10 @@ Months of testing have proved that Apple's standard [iPhone 15 and iPhone 15 Plu
 If you don't see yourself shooting videos in ProRAW, requiring the extra Action button, or drooling over the 5X zoom camera on the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-15-pro-review/), you'll be plenty comfortable with the $799 iPhone 15 and $899 iPhone 15 Plus. Between the two, buy the former if you want one of the most compact (yet capable) handsets on the market, and buy the latter if you want a more affordable big-screen iPhone and the best battery life of all the models in the latest lineup.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -67,18 +67,18 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How I tested the iPhone 15 and iPhone 15 Plus
 
 Whenever I review [the latest iPhones](https://www.zdnet.com/article/best-iphone/), I spend a few weeks testing them, but this time, I went longer. I spent about half of the year using both units. I had my Mint Mobile eSIM installed on the smaller iPhone 15 for the first three months and then transferred to the iPhone 15 Plus for the other half. A good part of my long-term evaluation process includes testing cellular connectivity (read: using the devices in crowded areas, on top of buildings, in subways, and more), day-to-day performance, and taking more photos than a standard free subscription to iCloud can contain.
 
 The difference between the two latest iPhone handsets mainly boils down to display size and battery life; unlike the Pro models, there's no camera hardware discrepancy, which means the general user experience of the two is pleasantly similar. That made my life as a phone reviewer a little easier -- and makes the list below all the more applicable to both iPhone models.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the iPhone 15's best features?
 
@@ -134,13 +134,6 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Should I upgrade from my older iPhone?
 
 It's true that [consumers are now upgrading their smartphones at a slower rate](https://www.zdnet.com/article/iphone-users-keep-their-phones-longer-than-android-owners/), spending three years or more with their devices before switching to the next best thing. If you're coming from an older iPhone model, here's how it stacks up with the iPhone 15 and the biggest differences you can expect.
@@ -167,15 +160,22 @@ Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don'
 
 **An Action button:** Given how many iPhone 14 Pro features Apple carried over to the iPhone 15, I have my fingers crossed that Apple will replace the alert slider with the Action button this year. Over the course of testing the latest iPhones, I've used the alert slider less than a dozen times. An Action button would give the iPhone much more functionality.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Final thought
 
 It's easy to call the standard iPhone model the "Best iPhone for most people." That's been the case since Apple introduced a Pro variant with the iPhone 11 series, and still holds true with the [iPhone 15](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). Only now, I'm finding myself recommending the non-Pro iPhone to more users than ever before, including folks I've known to be more demanding of their tech. Apple's made just enough feature upgrades (and a few compromises that may be imperceivable to some) to help the latest iPhone model stand out, even when stacked against the generation before it.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -212,14 +212,18 @@ It's easy to call the standard iPhone model the "Best iPhone for most people." T
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-direct-save-plus-alternative-pathways-your-instagram-video-guide/"><u>[Updated] In 2024, Direct Save + Alternative Pathways Your Instagram Video Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1-how-to-transform-acsm-files-into-epub-format-without-drm-protection/"><u>1. How to Transform ACSM Files Into EPUB Format without DRM Protection</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/a-step-by-step-guide-to-accessing-azw4-files-for-a-superior-reading-experience-on-your-kindle-paperwhite-or-voyage-device/"><u>A Step-by-Step Guide to Accessing AZW4 Files for a Superior Reading Experience on Your Kindle Paperwhite or Voyage Device</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/d-link-device-security-guide-default-password-catalog-july-2024-update/"><u>D-Link Device Security Guide: Default Password Catalog – July 2024 Update</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/easily-switch-media-formats-no-cost-aac-to-em-3gp-file-transformation-by-movavi/"><u>Easily Switch Media Formats - No Cost AAC to EM 3GP File Transformation by Movavi</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/from-disorganized-to-organized-adopting-gpt-in-notetaking/"><u>From Disorganized to Organized: Adopting GPT in Notetaking</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/seamless-mac-to-tv-casting-techniques-using-apples-airplay-feature/"><u>Seamless Mac to TV Casting Techniques Using Apple's AirPlay Feature</u></a></li>
-<li><a href="https://win-lab.techidaily.com/setting-up-regular-tasks-configuring-software-for-predictable-launch-times/"><u>Setting Up Regular Tasks: Configuring Software for Predictable Launch Times</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-timeline-template-is-a-visual-representation-showing-the-passage-of-time-it-includes-text-diagrams-images-and-icons-they-are-perfect-for-tel/"><u>Updated In 2024, Timeline Template Is a Visual Representation Showing the Passage of Time. It Includes Text, Diagrams, Images and Icons. They Are Perfect for Telling Stories, Events Etc</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-concluding-your-instagram-journey-a-detailed-breakdown/"><u>[New] 2024 Approved Concluding Your Instagram Journey A Detailed Breakdown</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-comprehensive-breakdown-sony-fdr-x1000-video-gear/"><u>[Updated] Comprehensive Breakdown Sony FDR-X1000 Video Gear</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-enhance-viewer-engagement-the-top-6-methods-for-higher-youtube-audience-retention/"><u>[Updated] In 2024, Enhance Viewer Engagement The Top 6 Methods for Higher YouTube Audience Retention</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-year-end-visualizations-mind-bending-youtube-figures-and-trends/"><u>[Updated] Year-End Visualizations Mind Bending Youtube Figures and Trends</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-the-ultimate-pathway-to-vimeo-recording/"><u>2024 Approved The Ultimate Pathway to Vimeo Recording</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/1728500774221-windows-10/"><u>如何在Windows 10中安全清理存储未使用部分：两种有效方法</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-successfully-replace-your-cellphone-screen-guardian-film/"><u>How to Successfully Replace Your Cellphone Screen Guardian Film</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/losungen-fur-die-fehlfunktion-von-airdrop-auf-ihrem-ipad-und-iphone/"><u>Lösungen Für Die Fehlfunktion Von AirDrop Auf Ihrem iPad Und iPhone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/steps-to-correctly-address-mingwm10dll-error-missing-or-undetected/"><u>Steps to Correctly Address mingwm10.dll Error: Missing or Undetected</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-for-tackling-non-responsive-drivers-on-your-windows-11-system/"><u>Strategies for Tackling Non-Responsive Drivers on Your Windows 11 System</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-8-must-play-mobile-gaming-experiences/"><u>Top 8 Must-Play Mobile Gaming Experiences</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-9-solutions-for-when-your-airpods-fail-to-charge/"><u>Top 9 Solutions for When Your AirPods Fail to Charge</u></a></li>
 </ul></div>
 

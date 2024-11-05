@@ -1,7 +1,7 @@
 ---
 title: What Does 'Tag' Really Signify When Referring to Digital Entities?
-date: 2024-09-09T15:50:23.406Z
-updated: 2024-09-10T15:50:23.406Z
+date: 2024-11-04T17:22:01.973Z
+updated: 2024-11-05T20:06:03.978Z
 categories:
   - BestProducts
 description: This Article Describes What Does 'Tag' Really Signify When Referring to Digital Entities?
@@ -9,12 +9,6 @@ excerpt: This Article Describes What Does 'Tag' Really Signify When Referring to
 thumbnail: https://www.lifewire.com/thmb/C5fs0r6PRYqQm4K21EeDSPVMg6M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1167680364-b87ba0c2ad964ac9bd4371c7007e178b.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Exploring the Digital World: Laptops, Phones & Literature Collide
 
 In This Article
@@ -26,12 +20,6 @@ In This Article
 
  _Heading back to school each year involves more than grabbing a backpack and pencils, whether you're studying online, in a building, or via homeschooling. My kids are in middle and high school, with a college student in the mix as well. Our family has found different tech tools helpful at various points in their educational journeys._
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Must-Haves: Computers, Laptops and Peripherals
 
  Does your child need a laptop or a desktop computer? It could be that they need both, plus accessories (known as peripherals) like mice, webcams, and headphones.
@@ -50,24 +38,12 @@ In This Article
 
 ![Students using laptops at tables and in bean bag chairs.](https://www.lifewire.com/thmb/5xqW8ViVbQNgb2VUsUblogbwFco=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Studentswithlaptopsondesksandbeanbags_skynesher_GettyImages-1456220436CROPPED-19c3059f597a4aa1b038835c96bacc75.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Skynesher/Getty
 
  For example, if your child is a STEM kid or a graphic artist, more power and storage are necessary overall. On the other hand, kids who just need to manage basic projects and complete homework on time will probably do fine with a standard Chromebook.  
 
  As you make your purchases, consider how long the item will last with your child. Some kids are rough on technology, while others are more thoughtful and responsible; age often dictates how nice I'm willing to purchase for a specific child.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Look for Student Discounts
 
  Check for discounts before you buy! Several major tech manufacturers offer student discounts, including HP and[Dell](https://www.lifewire.com/dell-student-discount-4686335) . Some retailers, like[Best Buy](https://www.lifewire.com/best-buy-student-discount-4684485) , offer back-to-school deals as well.
@@ -85,17 +61,19 @@ Skynesher/Getty
 ![](<https://www.lifewire.com/data:image/svg+xml,%3Csvg> width=%275751%27 height=%272313%27 xmlns=%27<http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E>) ![Hands holding a smartphone with a red smartwatch on wrist over a pencil and paper.](https://www.lifewire.com/thmb/nSqWQLOUlnMzLJD1rc7f4f2qO5g=/1500x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/smartwatchandphone_yacobchuk_GettyImages-693332444_CROPPED-616820cc68f645c09d7153ccc1de07ff.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Connections: The Power of Phones and Smartwatches
 
  Phones can be a bone of contention for parents and kids everywhere, but the simple fact of the matter is they are fast becoming a staple for students from middle school and up.
@@ -121,6 +99,26 @@ Skynesher/Getty
 [Family Tech Tips](https://www.lifewire.com/setup-parental-controls-on-an-ipad-ipod-touch-or-iphone-2487266)
 
 ![](<https://www.lifewire.com/data:image/svg+xml,%3Csvg> width=%275483%27 height=%272329%27 xmlns=%27<http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E>) ![Composite drawing of books apps and devices against a blue background.](https://www.lifewire.com/thmb/afdEJWLn5Hja0WRtjgBJQP3K-8k=/1500x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Compositedrawingofbooksappsanddevices_grapihcnoi_GettyImages-174551865_CROPPED-17467a01a2e44bf98bfc135e8a7cff43.jpg)
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Using Apps and Sites Can Support Good Study Habits
 
@@ -167,14 +165,11 @@ Skynesher/Getty
 * What percentage of schools use technology?  
  About 45 percent of all schools have a computer for every student; another 37 percent provide computers for students in at least some grades or classrooms. More than 70 percent of schools say their teachers use technology for activities usually done in the classroom. Source: The Institute of Education Sciences.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -183,4 +178,20 @@ Skynesher/Getty
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-optimize-video-flows-5-steps-for-expert-cutting-and-lengthening-of-vimeo-content/"><u>[New] 2024 Approved Optimize Video Flows 5 Steps for Expert Cutting & Lengthening of Vimeo Content</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-cutting-edge-openings-at-no-cost-the-best-youtube-intro-makers/"><u>[Updated] Cutting-Edge Openings at No Cost The Best YouTube Intro Makers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-exploring-the-capabilities-of-logitechs-4k-pro-webcam/"><u>[Updated] Exploring the Capabilities of Logitech's 4K Pro Webcam</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-exploring-video-playback-vlc-vs-mx-for-2024/"><u>[Updated] Exploring Video Playback VLC Vs. MX for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/cant-hear-your-rings-fixing-the-iphone-silent-mode-glitch-easily/"><u>Can't Hear Your Rings: Fixing the iPhone Silent Mode Glitch Easily</u></a></li>
+<li><a href="https://article-posts.techidaily.com/craft-your-own-cinematic-magic-making-slow-motion-video-from-photo-apps-for-2024/"><u>Craft Your Own Cinematic Magic Making Slow Motion Video From Photo Apps for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-realme-c67-5g-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Realme C67 5G Unlock Without Password</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-tecno-camon-20-pro-5g-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Tecno Camon 20 Pro 5G</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/nokia-71-review-great-screen-and-camera-affordable-price/"><u>Nokia 7.1 Review: Great Screen and Camera, Affordable Price</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-fix-how-to-correct-audio-issues-during-your-powerpoint-presentations/"><u>The Ultimate Fix: How To Correct Audio Issues During Your PowerPoint Presentations</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-selecting-a-free-pdf-editor-top-13-list/"><u>The Ultimate Guide to Selecting a Free PDF Editor (Top 13 List)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-wireless-router-and-modem-bundles-in-2e24/"><u>Top-Rated Wireless Router and Modem Bundles in 2E24</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-dark-side-of-ai-five-strategies-used-by-cybercriminals/"><u>Understanding the Dark Side of AI: Five Strategies Used by Cybercriminals</u></a></li>
+</ul></div>
 

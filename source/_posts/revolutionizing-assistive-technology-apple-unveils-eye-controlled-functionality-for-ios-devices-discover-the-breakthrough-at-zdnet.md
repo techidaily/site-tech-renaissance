@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Assistive Technology: Apple Unveils Eye-Controlled Functionality for iOS Devices - Discover the Breakthrough at ZDNet"
-date: 2024-10-25T00:46:05.080Z
-updated: 2024-10-31T03:12:51.587Z
+date: 2024-11-01T18:19:55.791Z
+updated: 2024-11-05T18:13:22.361Z
 tags:
   - apple
 categories:
@@ -45,10 +45,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Apple Music haptics
@@ -56,10 +56,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Addressing motion sickness
@@ -71,16 +71,10 @@ Motion sickness in cars can often be the result of a disconnect between what you
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Understanding speech
@@ -89,18 +83,18 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### New CarPlay features
 
 Apple's in-car CarPlay software is also getting new accessibility features, including the ability for you to navigate CarPlay and engage with apps using only your voice. A new Sound Recognition feature will display alerts on CarPlay's screen when car horns or sirens go off, and Color Filters will make CarPlay easier to use for colorblind users.
 
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Some other updates
 
@@ -136,16 +130,24 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-enhancing-call-clarity-silencing-distractions-for-2024/"><u>[New] Enhancing Call Clarity Silencing Distractions for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ind-puzzling-stats-a-graphed-journey-through-yt-17/"><u>[New] Mind-Puzzling Stats A Graphed Journey Through YT '17</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-the-editors-pathway-for-diminishing-sound-levels/"><u>[New] The Editor's Pathway for Diminishing Sound Levels</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-innovative-methods-to-enhance-your-twitch-stream/"><u>2024 Approved Innovative Methods to Enhance Your Twitch Stream</u></a></li>
-<li><a href="https://app-tips.techidaily.com/emerging-trends-how-edge-computing-boosts-job-opportunities-and-growth-insights-by-zdnet/"><u>Emerging Trends: How Edge Computing Boosts Job Opportunities & Growth - Insights by ZDNet</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-top-quality-sd-card-for-sony-alpha-7s-ii/"><u>In 2024, Top-Quality SD Card for Sony Alpha 7S II</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/in-depth-tutorial-on-establishing-a-bluetooth-bridge-between-your-android-smartphone-and-personal-computer-fixed/"><u>In-Depth Tutorial on Establishing a Bluetooth Bridge Between Your Android Smartphone and Personal Computer [Fixed]</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/noise-problem-solved-a-step-by-step-guide-to-reactivating-ps4s-speakers/"><u>Noise Problem Solved: A Step-by-Step Guide to Reactivating PS4's Speakers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/revitalize-sluggish-laptops-running-windows-11-or-10-expert-tips/"><u>Revitalize Sluggish Laptops Running Windows 11 or 10 [Expert Tips]</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/safe-mode-activation-for-windows-11-explained-learn-4-methods-enhanced-by-illustrative-screenshots/"><u>Safe Mode Activation for Windows 11 Explained - Learn 4 Methods Enhanced by Illustrative Screenshots</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/self-repair-options-to-optimize-your-windows-11-machine-easily/"><u>Self-Repair Options to Optimize Your Windows 11 Machine Easily</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-10-best-youtube-makeup-artists-you-should-follow/"><u>[New] 10 Best YouTube Makeup Artists You Should Follow</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-maximizing-impact-the-20-key-principles-of-fb-video-marketing/"><u>[Updated] 2024 Approved Maximizing Impact The 20 Key Principles of FB Video Marketing</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-explore-top-5-non-samsung-360-cameras-today/"><u>[Updated] Explore Top 5 Non-Samsung 360 Cameras Today</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-ultimate-guide-to-7-superior-vids-on-mac/"><u>[Updated] In 2024, Ultimate Guide to 7 Superior Vids on Mac</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722893964617-best-no-cost-backup-solutions-the-ultimate-list-and-assessment-of-32-options/"><u>Best No-Cost Backup Solutions: The Ultimate List and Assessment of 32 Options</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-how-bing-differs-from-other-search-engines-like-google/"><u>Exploring How Bing Differs From Other Search Engines Like Google</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/go-instantaneously-popular-on-tiktok-with-these-10-proven-tactics/"><u>Go Instantaneously Popular on TikTok with These 10 Proven Tactics</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-vivo-v27-pro-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Vivo V27 Pro to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/how-to-fix-kernel-panic-on-mac/"><u>How to Fix Kernel Panic on Mac?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-tecno-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Tecno</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-streamline-friend-management-remove-multiple-snaps-in-one-go/"><u>How To Streamline Friend Management: Remove Multiple Snaps in One Go!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-poco-f5-pro-5g-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Poco F5 Pro 5G and Browser | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/melodic-mobile-alerts-download-classical-ringtones-here-for-2024/"><u>Melodic Mobile Alerts Download Classical Ringtones Here for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-issues-with-stuck-disc-drives-in-computers-and-laptops/"><u>Solving Issues with Stuck Disc Drives in Computers and Laptops</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/streamlining-communication-the-power-of-labels-in-gmail-organization/"><u>Streamlining Communication: The Power of Labels in Gmail Organization</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-quintessential-pick-top-five-cost-free-dirt-track-games-to-try/"><u>The Quintessential Pick: Top Five Cost-Free Dirt Track Games to Try</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-bringing-back-facebooks-comfortable-dark-theme/"><u>Troubleshooting Tips: Bringing Back Facebook's Comfortable Dark Theme</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-discover-the-most-engaging-instagram-captions-of-2024/"><u>Ultimate Guide: Discover the Most Engaging Instagram Captions of 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Motorola G24 Power | Dr.fone</u></a></li>
 </ul></div>
 

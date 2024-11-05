@@ -1,7 +1,7 @@
 ---
 title: Upcoming 'Portal' For PlayStation - Uncover the Arrival Date, Price Tag, Hardware Details & Buy Sites!
-date: 2024-09-09T18:28:27.002Z
-updated: 2024-09-15T23:38:28.396Z
+date: 2024-10-31T18:10:23.311Z
+updated: 2024-11-05T16:11:55.925Z
 categories:
   - BestProducts
 description: This Article Describes Upcoming 'Portal' For PlayStation - Uncover the Arrival Date, Price Tag, Hardware Details & Buy Sites!
@@ -25,19 +25,39 @@ thumbnail: https://www.lifewire.com/thmb/7u-yGGkv8opvFKXgYgl5GmH7PQU=/400x300/fi
 
  The Playstation Portal launched November 15, 2023\. Sony first revealed the handheld device at its showcase in May 2023.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## PlayStation Portal Price 
 
  The PlayStation Portal costs $199.99.  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Where to Buy 
 
  You can[ order PlayStation Portal directly from Sony](https://direct.playstation.com/en-us/buy-accessories/playstation-portal-remote-player) . You can also pick it up from other electronics retailers like Target, Amazon, and Best Buy.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  PlayStation Portal Specs and Features 
@@ -58,16 +78,16 @@ thumbnail: https://www.lifewire.com/thmb/7u-yGGkv8opvFKXgYgl5GmH7PQU=/400x300/fi
 [  Sony Pulse Elite Headset: News, Price, Release Date, and Specs ](https://www.lifewire.com/sony-pulse-elite-headset-8419539) 
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The Latest News About the PlayStation Portal 
@@ -95,5 +115,21 @@ thumbnail: https://www.lifewire.com/thmb/7u-yGGkv8opvFKXgYgl5GmH7PQU=/400x300/fi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-elusive-story-viewers-mobile-hacks/"><u>[New] Elusive Story Viewers' Mobile Hacks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/androids-roadmap-to-supremacy-key-areas-of-enhancement-against-ios-identified-by-zdnet/"><u>Android's Roadmap to Supremacy: Key Areas of Enhancement Against iOS Identified by ZDNet</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/digiarty-expert-solutions-professional-dvd-and-video-conversion-software-company/"><u>Digiarty Expert Solutions - Professional DVD & Video Conversion Software Company</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-advancements-in-apple-airpods-series-3-a-comprehensive-zdnet-review-on-optimized-audio-performance-and-features/"><u>Exploring the Advancements in Apple AirPods Series 3: A Comprehensive ZDNET Review on Optimized Audio Performance and Features</u></a></li>
+<li><a href="https://win-dash.techidaily.com/harvest-time/"><u>Harvest Time</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-blaze-2-pro-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Blaze 2 Pro?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-lava-blaze-2-5g-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Lava Blaze 2 5G</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/peaceful-rhythm-the-best-chill-country-music-for-relaxing-dance-parties-on-tiktok-for-2024/"><u>Peaceful Rhythm The Best Chill Country Music for Relaxing Dance Parties on TikTok for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210940767-9781912690435-seven-stars/"><u>Seven Stars | Free Book</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solutions-getting-tiktok-up-and-running-again/"><u>Step-by-Step Solutions: Getting TikTok Up and Running Again</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209721139-9781452173658-the-astrology-of-love-sex/"><u>The Astrology of Love & Sex | Free Book</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-battle-of-silicon-titans-is-the-m2-powered-mac-mini-outshining-its-m1-equipped-mac-studio-counterpart/"><u>The Battle of Silicon Titans: Is the M2-Powered Mac Mini Outshining Its M1 Equipped Mac Studio Counterpart?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-12-best-no-cost-voip-services-in-24-a-comprehensive-guide/"><u>Top 12 Best No-Cost VoIP Services in 2^4 - A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upcoming-tech-reveal-apple-to-introduce-two-new-oled-ipads-and-revamped-large-display-ipad-pro-in-early-next-year-sources-say-report/"><u>Upcoming Tech Reveal: Apple to Introduce Two New OLED iPads & Revamped Large Display iPad Pro in Early Next Year, Sources Say Report</u></a></li>
+</ul></div>
 

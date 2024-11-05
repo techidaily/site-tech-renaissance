@@ -1,7 +1,7 @@
 ---
 title: Top-Rated Compact Tablets - In-Depth Analysis by Tech Experts
-date: 2024-10-26T22:10:22.124Z
-updated: 2024-10-31T03:10:14.283Z
+date: 2024-11-04T22:51:33.487Z
+updated: 2024-11-05T23:05:37.471Z
 tags:
   - apple
 categories:
@@ -26,13 +26,6 @@ The display sizes of small tablets can range from six to 10 inches, with eight i
 
 Based on our extensive hands-on testing with various tablets of all sizes, our pick for the best small tablet is the [iPad Mini](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2021-Apple-iPad-Mini-Wi-Fi%2Fdp%2FB09G9FW785%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cce168336-9452-4c45-99df-4bd6891ce64b%7Cdtp&dtb=1), thanks to its 8.3-inch Liquid Retina display and weight of just under 1 pound. We also included compact-sized tablets from Amazon, Samsung, and other brands for those looking for something more compact and easy to carry. 
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The best small tablets of 2024
 
 Show less 
@@ -49,13 +42,6 @@ Cons
 * Expensive
 
 ## Apple iPad Mini 6th Generation
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best small tablet overall
 
@@ -88,19 +74,20 @@ Cons
 * Performance is slightly slow
 * Cameras aren't as great as other options
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Amazon Fire 7 Tablet
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Best budget small tablet
@@ -192,6 +179,19 @@ Pros
 Cons 
 * Performance could be better
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Samsung Galaxy Tab A7 Lite
 
 ### Best Samsung small tablet
@@ -205,13 +205,6 @@ In addition, you can expand your storage beyond the 32GB or 64GB allotted. The t
 **Samsung Galaxy Tab A7 Lite tech specs: Display**: 8.7-inch, 1340x800 display | **Processor**: MediaTek MT8768N | **Storage**: 32GB or 64GB | **Colors**: Gray | **Cameras**: 2MP front and 8MP rear | **Weight**: 0.81lbs | **Dimensions**: 8.37 x 4.91 x 0.31 inches | **Connections**: 3.5mm headphone jack, USB-C | **Battery:** 10 to 12 hours
 
 Show Expert Take Show less 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What is the best small tablet?
 
@@ -238,10 +231,10 @@ It really depends on what size tablet you're looking for, which operating system
 | Samsung Galaxy A7 Lite                      | A small Samsung tablet with expandable storage and an exceptional battery life. The tablet allows for up to 1TB of expandable storage.                                                                                                                                                   |
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Factors to consider when choosing the best small tablets:
@@ -252,6 +245,13 @@ We know there are a lot of tablets and tablet sizes to choose from, but ultimate
 * **Display:** Small tablets shouldn't have to compromise on an already smaller display, so we also considered display resolution.
 * **Battery life:** A device's battery life is important no matter its size, so we considered devices that can last you all day.
 * **Price:** Tablets vary in price range from affordable to expensive depending on brand and purpose, so we made sure to choose tablets at various price points to accommodate different budgets.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How we test tablets
 
@@ -264,6 +264,13 @@ We also compare the display's performance with what the manufacturer promised, t
 * **Camera and audio:** For cameras, we evaluate features like resolution, aperture, low-light performance, autofocus accuracy, dynamic range, color accuracy, image quality, sharpness, and video quality. For audio, we look at the sound quality and overall listening experience, including audio clarity at different volumes, stereo separation of left and right audio channels, maximum volume level in various environments, and if there is perceived distortion.
 
 For a deeper look into our testing process, check out our comprehensive [tablet testing methodology](https://www.zdnet.com/article/how-we-test-tablets-at-zdnet-in-2024/). 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What is the smallest tablet screen size?
 
@@ -279,29 +286,28 @@ Keep in mind in certain cases (Apple, Samsung), you can pair your other devices 
 
 Meanwhile, with Samsung devices, you can implement Samsung Flow. Download the app on your phone and tablet. You can connect your tablet to your phone via Bluetooth or Wi-Fi. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Are mini Android tablets worth it?
 
 Yes, they can be. Small Android tablets allow you to do everything you would normally do, like reading e-books and video calling, without the higher price tags. 
 
 Their lightweight body and compact design make them perfect traveling companions. So, if you're searching for the best Android tablet with great battery life and lightweight design, the minis are an enticing choice. 
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is the smallest iPad?
 
 The smallest [iPad](https://www.zdnet.com/article/best-ipad/) is the iPad Mini which has a screen size of 8.3 inches. It's also lightweight at just under one pound. 
+
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Are there alternative small tablets worth considering?
 
@@ -349,24 +355,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/fixed-star-wars-jedi-fallen-order-crash-on-pc/"><u>[FIXED] Star Wars Jedi: Fallen Order Crash on PC</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-popularitys-palette-ig-story-filter-guide/"><u>[New] Popularity's Palette IG Story Filter Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-rgbs-legacy-and-how-srgb-is-paving-the-way-forward/"><u>[New] RGB's Legacy and How Srgb Is Paving the Way Forward</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-top-6-voice-changer-software-for-youtube-videos-free-and-paid/"><u>[New] Top 6 Voice Changer Software for Youtube Videos [Free & Paid]</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/create-brand-symbols-from-templates-at-no-cost/"><u>Create Brand Symbols From Templates at No Cost</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-intels-fastest-nvme-drivers-today-step-by-step-tutorial-inside/"><u>Download Intel's Fastest NVMe Drivers Today – Step-by-Step Tutorial Inside</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-oppo-find-n3-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Oppo Find N3 Device</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/multimedia-mastery-pc-mac-and-mobile-movie-screening-for-2024/"><u>Multimedia Mastery PC, Mac & Mobile Movie Screening for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/service-not-active-local-printer-spooler/"><u>Service Not Active: Local Printer Spooler</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/six-exceptional-tools-for-securely-backing-up-your-gmail-data/"><u>Six Exceptional Tools for Securely Backing Up Your Gmail Data</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-fix-for-your-bluetooth-mouse-problems-after-the-windows-10-creators-update-on-arch-linux/"><u>The Ultimate Fix for Your Bluetooth Mouse Problems After the Windows 10 Creator's Update on Arch Linux</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-free-antivirus-cleanup-applications-comprehensive-virus-eradication-tutorial/"><u>Top Free Antivirus Cleanup Applications: Comprehensive Virus Eradication Tutorial</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshoot-and-repair-realtek-hd-audio-issues-in-windows-1011/"><u>Troubleshoot and Repair Realtek HD Audio Issues in Windows 10/11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshoot-setting-up-a-smooth-connection-between-beats-audio-and-windows-os/"><u>Troubleshoot: Setting Up a Smooth Connection Between Beats Audio & Windows OS</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-for-restoring-asus-touchpad-functionality-on-windows-1110-fixed/"><u>Troubleshooting Steps for Restoring ASUS Touchpad Functionality on Windows 11/10 [FIXED]</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-to-fix-power-state-failure-driver-issues/"><u>Troubleshooting Tips to Fix Power State Failure Driver Issues</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlocking-windows-10s-boot-configuration-panel-easy-fixes-revealed/"><u>Unlocking Windows 10'S Boot Configuration Panel - Easy Fixes Revealed</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlocking-windows-11-potential-exploring-gpregsitmsc-for-efficient-system-management-in-five-strategies/"><u>Unlocking Windows 11 Potential: Exploring GPREGSIT.MSC for Efficient System Management in Five Strategies</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/windows-10-creators-updates-impact-on-arch-bluetooth-mouse-finding-a-fix/"><u>Windows 10 Creators Updates Impact on Arch Bluetooth Mouse - Finding a Fix</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1-unraveling-the-mystery-of-phantom-taps-solutions-for-your-apple-watch-troubles/"><u>1: Unraveling the Mystery of 'Phantom Taps': Solutions for Your Apple Watch Troubles</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-transform-your-on-screen-identity-into-a-brand-on-youtube/"><u>2024 Approved Transform Your On-Screen Identity Into a Brand on YouTube</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/a-comprehensive-guide-to-effortless-recording-of-your-favored-youtube-lives-on-any-gear-for-2024/"><u>A Comprehensive Guide to Effortless Recording of Your Favored YouTube Lives on Any Gear for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/apple-podcasts-a-quick-download-method-for-2024/"><u>Apple Podcasts A Quick Download Method for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-nokia-xr21-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Nokia XR21</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/decode-and-repair-why-is-my-fortnite-audio-not-playing/"><u>Decode and Repair: Why Is My Fortnite Audio Not Playing?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-features-and-benefits-of-rtx-video-cards/"><u>Exploring the Features and Benefits of RTX Video Cards</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fix-a-freezing-chromebook-8-effective-solutions/"><u>Fix a Freezing Chromebook: 8 Effective Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-to-switching-off-iphone-15-propro-max-devices-easy-steps-inside/"><u>Guide to Switching Off iPhone 15 Pro/Pro Max Devices: Easy Steps Inside</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-fix-d3dx930dll-is-missing-or-not-found-errors/"><u>How to Fix D3dx9_30.dll Is Missing or Not Found Errors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-get-your-usb-mouse-working-again-on-your-laptop-expert-advice/"><u>How to Get Your USB Mouse Working Again on Your Laptop – Expert Advice</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-vivo-y27s-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Vivo Y27s? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-emergence-of-invisibility-in-tech-exploring-the-world-of-ambient-computing/"><u>The Emergence of Invisibility in Tech - Exploring the World of Ambient Computing.</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-tips-ultimate-guide-to-troubleshooting-your-non-responsive-ipad-keyboard/"><u>Top Tips: Ultimate Guide to Troubleshooting Your Non-Responsive iPad Keyboard</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-methods-for-resolving-windows-code-28-issues/"><u>Troubleshooting Methods for Resolving Windows Code 28 Issues</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-resolving-the-binkw32dll-file-not-found-issue/"><u>Ultimate Guide: Resolving the Binkw32.dll File Not Found Issue</u></a></li>
 </ul></div>
 

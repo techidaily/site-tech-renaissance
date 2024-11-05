@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Instructions to Optimize Your Use of Slack Reminders
-date: 2024-09-09T15:51:19.053Z
-updated: 2024-09-10T15:51:19.053Z
+date: 2024-11-02T19:46:29.940Z
+updated: 2024-11-05T19:08:30.705Z
 categories:
   - BestProducts
 description: This Article Describes Step-by-Step Instructions to Optimize Your Use of Slack Reminders
@@ -9,19 +9,7 @@ excerpt: This Article Describes Step-by-Step Instructions to Optimize Your Use o
 thumbnail: https://www.lifewire.com/thmb/rfs0gyIzgnsNAdZLd6uoEGVfoJ0=/300x200/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-use-slack-reminders-4843714-11-5406c11a86b94cd3a435ed4b270b512b.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Personalize Your Emails with Unique Sounds in Gmail – Step-by-Step Guide
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### What to Know
 
 * With Notifier for Gmail installed, select**Extensions** next to the Chrome navigation bar.
@@ -31,11 +19,12 @@ thumbnail: https://www.lifewire.com/thmb/rfs0gyIzgnsNAdZLd6uoEGVfoJ0=/300x200/fi
  This article explains how to enable Gmail sound notifications using the Notifier for Gmail extension for Chrome. It includes information for enabling a pop-up notification for Gmail and sound notifications for other email providers.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Enable a New Mail Sound for Gmail
 
  If you want to hear a new email sound when you use Gmail in your desktop web browser, you can make that happen—just not in Gmail itself.
@@ -47,27 +36,24 @@ thumbnail: https://www.lifewire.com/thmb/rfs0gyIzgnsNAdZLd6uoEGVfoJ0=/300x200/fi
 1. Select**Extensions** next to Chrome's navigation bar, then select**More actions** (three vertical dots) and choose **Options** .  
 ![Options menu item for Notifier for Gmail.](https://www.lifewire.com/thmb/ItTlmQe_8CNY3vW37Q6ac7spTJ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-add-a-new-mail-sound-for-gmail-5b50d46b9a594db3bd73946ea64549aa.jpg)
 2. Scroll down to the Notifications section and make sure **Play alert sound for new emails** is selected.  
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![Play alert sound for new emails.](https://www.lifewire.com/thmb/EaGNTDoH2lcLO8QxHT0Z1KVeUPk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-add-a-new-mail-sound-for-gmail-1e074c5a399d403aab64b2ec37afbbf8.jpg)
 3. Change the sound using the drop-down menu.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Notifier for Gmail settings screen highlighting Play alert sound for new emails and Default sound notification drop-down menu](https://www.lifewire.com/thmb/DUBiUTKL1yNY2AP6anJNY9OE1cM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-add-a-new-mail-sound-for-gmail-db10f7ff4e56480c8acefb921da8d1b6.jpg)
 4. Exit the window when you're done. The changes are saved automatically.
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also[change your notification sounds on Android](https://www.lifewire.com/how-to-change-create-android-notification-sounds-4783114) or[change the new mail sound on iOS](https://www.lifewire.com/how-to-change-the-new-mail-sound-in-ios-mail-1172501) to achieve a similar effect in those mobile apps.
@@ -77,6 +63,19 @@ thumbnail: https://www.lifewire.com/thmb/rfs0gyIzgnsNAdZLd6uoEGVfoJ0=/300x200/fi
 ## How to Enable a Pop-Up Notification
 
  You can set Gmail to display a pop-up notification when new email messages arrive in Chrome, Firefox, or Safari when you are signed in to Gmail and have it open in the browser. Just turn on that setting in Gmail by selecting the **Settings**  icon then choosing **See all settings** and going to **General** \> **Desktop Notifications** . The notification is not accompanied by a sound.
+
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Change Gmail Notification Sounds in Other Email Clients
 
@@ -115,8 +114,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -124,4 +121,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-a-detailed-exploration-youtubes-visionary-suite/"><u>[Updated] In 2024, A Detailed Exploration YouTube's Visionary Suite</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-sparkling-access-methods-for-new-users/"><u>2024 Approved Sparkling Access Methods for New Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/8-of-our-favorite-free-roku-channels-of-2024/"><u>8 of Our Favorite Free Roku Channels of 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/addressing-and-fixing-the-instant-streaming-hurdle-of-specific-titles-on-netflix/"><u>Addressing and Fixing the Instant Streaming Hurdle of Specific Titles on Netflix</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enjoying-netflix-shows-on-a-nintendo-switch-is-it-feasible/"><u>Enjoying Netflix Shows On A Nintendo Switch – Is It Feasible?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-to-disable-automatic-sleep-on-your-apple-computer/"><u>Guide to Disable Automatic Sleep on Your Apple Computer</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-xiaomi-redmi-12-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Xiaomi Redmi 12 5G in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hps-bad-bios-dilemma-automatic-firmware-updates-causing-display-malfunctions-in-probook-laptops/"><u>HP's Bad BIOS Dilemma: Automatic Firmware Updates Causing Display Malfunctions in ProBook Laptops</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-vivo-v29-pro-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Vivo V29 Pro is off? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-can-you-unlock-iphone-6s-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 6s After Forgetting the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/premier-20-anime-theme-melodies-for-2024/"><u>Premier 20 Anime Theme Melodies for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-the-secrets-of-samsung-galaxy-ring-pricing-launch-details-and-feature-breakdown/"><u>Unlocking the Secrets of Samsung Galaxy Ring - Pricing, Launch Details & Feature Breakdown</u></a></li>
+</ul></div>
 

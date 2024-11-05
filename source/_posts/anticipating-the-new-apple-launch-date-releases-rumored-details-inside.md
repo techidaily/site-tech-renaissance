@@ -1,7 +1,7 @@
 ---
 title: "Anticipating the New Apple Launch: Date Releases, Rumored Details Inside"
-date: 2024-09-10T16:59:10.675Z
-updated: 2024-09-15T23:15:59.301Z
+date: 2024-11-02T18:22:32.342Z
+updated: 2024-11-05T22:53:31.893Z
 categories:
   - BestProducts
 description: "This Article Describes Anticipating the New Apple Launch: Date Releases, Rumored Details Inside"
@@ -28,6 +28,13 @@ In This Article
 * **Price** : $2,000
 * **Specs** : Clamshell form factor, small outer screen
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When Will the Foldable iPhone Be Released?
 
  Jeff Pu, an analyst at Haitong International Securities,[says Apple's first flip phone could come out](https://www.forbes.com/sites/ewanspence/2024/05/09/apple-folding-iphone-ipad-macbook-release-date/?sh=3862dfed1e98) in 2026\. This is backed up by a[2024 report from The Information](https://www.theinformation.com/articles/apple-moves-forward-with-foldable-iphone) and the Taiwanese newspaper_United Daily News_ which,[according to Patently Apple](https://www.patentlyapple.com/2024/02/a-new-supply-chain-report-claims-that-apples-foldable-iphone-project-is-still-in-the-works-with-vision-pro-team-members-now.html) , reports that part of the[Vision Pro](https://www.lifewire.com/apple-vr-headset-news-and-rumors-6744818) team is working on the foldable iPhone project with the intention of a 2026-2027 launch.
@@ -42,6 +49,13 @@ In This Article
 
 ![Foldable device illustration from patent US8929085B2](https://www.lifewire.com/thmb/wUd3t6RsFQmJnem6udFt2aVqAOw=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/US08929085-foldable-device-dcde96bb968a4de2b7048ee2ea3d4e33.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Patent US8929085B2.
 
  Another[patent filed in 2019](https://patents.google.com/patent/US20190324503A1/en?oq=20190324503) is for a device with a wrap-around display:
@@ -50,16 +64,16 @@ Patent US8929085B2.
 
  Could it be worked into a foldable phone? We are eagerly waiting to see how/if they use these inventions.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Lifewire's Release Date Estimate
 
 We don’t expect a foldable iPhone until at least 2026.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Foldable iPhone Price Rumors
 
@@ -81,13 +95,6 @@ Michal Dufka
 
  It's way too early to suggest a pre-order date, but we'll keep this updated as the launch nears.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Foldable iPhone Features
 
  Over the years, as phones have gotten larger, we’ve enjoyed more screen real estate for things like reading, watching movies, playing games, and multitasking. A foldable phone is perfect for these activities.
@@ -99,6 +106,13 @@ Michal Dufka
  Given a larger phone could resemble a tablet, it makes sense that it would support the[Apple Pencil](https://www.lifewire.com/review-apple-pencil-3887601) . The latest version currently works only on a small selection of iPads, but expect a new version for the foldable iPhone (unless it's more of a flip phone than a tablet).
 
  When it comes down to it, a foldable phone is beneficial purely for its bigger screen. Since this would be Apple’s first attempt at this kind of phone, it’d probably be the only significant change to the iPhone that year. Meaning: no stunning new camera, massive storage capacity boost, etc. (though maybe a big battery boost).
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Foldable iPhone Specs and Hardware
 
@@ -147,5 +161,20 @@ Michal Dufka
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-essential-knowledge-for-effective-use-of-the-io-screener-for-2024/"><u>[New] Essential Knowledge for Effective Use of the IO Screener for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-ultimate-guide-to-non-time-restricted-recorders-for-2024/"><u>[New] Ultimate Guide to Non-Time Restricted Recorders for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-satirical-hits-the-funniest-song-rewrites/"><u>[Updated] Satirical Hits The Funniest Song Rewrites</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-beginners-guide-joining-twitter-conversations-successfully/"><u>A Beginner's Guide: Joining Twitter Conversations Successfully</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722867079646-apples-rumored-personal-robot-specs-pricing-and-scheduled-debut-details/"><u>Apple's Rumored Personal Robot: Specs, Pricing, and Scheduled Debut Details</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-solutions-dealing-with-missing-or-unavailable-wininetdll-files/"><u>Effective Solutions: Dealing with Missing or Unavailable wininet.dll Files</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-samsung-galaxy-s24-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Samsung Galaxy S24 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/hues-in-harmony-applying-color-principles/"><u>Hues in Harmony Applying Color Principles</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722890335548-is-snappydriver-v113-worth-your-time-detailed-review-inside/"><u>Is SnappyDriver v1.13 Worth Your Time? Detailed Review Inside</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavis-free-mp3mp4-converter-convert-your-videos-and-music-seamlessly-using-mpg-formats/"><u>Movavi's Free MP3/MP4 Converter - Convert Your Videos and Music Seamlessly Using MPG Formats</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/securing-a-student-price-cut-your-guide-to-youtube-premium-offers/"><u>Securing a Student Price Cut: Your Guide to YouTube Premium Offers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-the-page-not-found-404-error-and-solutions-for-a-seamless-user-experience/"><u>Understanding the 'Page Not Found' (404) Error & Solutions for a Seamless User Experience</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-meta-vision-pro-a-virtual-reality-experience-with-innovative-apple-inspired-technology-zdnet-coverage/"><u>Unveiling the Meta Vision Pro: A Virtual Reality Experience with Innovative Apple-Inspired Technology - ZDNet Coverage</u></a></li>
+</ul></div>
 

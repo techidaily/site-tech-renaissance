@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Modifications: Tailoring Your iPhone's Control Center on iOS 18 - A Step-by-Step Guide"
-date: 2024-10-28T16:50:58.346Z
-updated: 2024-10-31T04:22:12.993Z
+date: 2024-11-01T17:55:05.876Z
+updated: 2024-11-05T17:55:55.492Z
 tags:
   - apple
 categories:
@@ -30,13 +30,6 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
@@ -52,10 +45,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -65,10 +58,10 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -85,6 +78,13 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
@@ -92,10 +92,10 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -134,24 +134,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-altering-your-voice-for-stories-and-reels-on-instagram/"><u>[New] 2024 Approved Altering Your Voice for Stories & Reels on Instagram</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-dissecting-the-advantages-of-hdr-tvs-like-aurora-for-2024/"><u>[Updated] Dissecting the Advantages of HDR TVs Like Aurora for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-unravel-the-secrets-of-crafting-engaging-snapchat-boomerangs/"><u>[Updated] Unravel the Secrets of Crafting Engaging Snapchat Boomerangs</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1-apples-next-move-unveiling-the-secure-os-designed-for-cutting-edge-ai-operations-in-their-data-facilities-insights-from-tech-sphere/"><u>1. Apple's Next Move: Unveiling the Secure OS Designed for Cutting-Edge AI Operations in Their Data Facilities | Insights From Tech Sphere</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-hush-harmony-techniques-for-taming-unwanted-voices-on-gchat/"><u>2024 Approved Hush Harmony Techniques for Taming Unwanted Voices on GChat</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-iphone-12-pro-max-drfone-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/identify-and-retrieve-your-internet-ip-address-for-free-today/"><u>Identify and Retrieve Your Internet IP Address for Free Today!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/identifying-bluetooth-support-on-your-notebook-simple-methods-for-discovery/"><u>Identifying Bluetooth Support on Your Notebook: Simple Methods for Discovery</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-xiaomi-redmi-13c-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Xiaomi Redmi 13C 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-boost-your-boundless-imagination-with-these-android-graphics-tools/"><u>In 2024, Boost Your Boundless Imagination with These Android Graphics Tools</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-fps-in-pubg-essential-tweaks-and-adjustments-for-nvidia-enthusiasts/"><u>Mastering FPS in PUBG: Essential Tweaks and Adjustments for NVIDIA Enthusiasts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-screen-capture-a-step-by-step-guide-for-windows-10-users/"><u>Mastering Screen Capture: A Step-by-Step Guide for Windows 10 Users</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/maximize-pc-gaming-experience-with-newly-updated-nvidia-gpu-drivers-for-windows-10/"><u>Maximize PC Gaming Experience with Newly Updated Nvidia GPU Drivers for Windows 10</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/overwatch-system-requirements-check-it-out/"><u>Overwatch System Requirements [Check It Out]</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolve-your-webcams-dark-display-dilemma-on-pc-windows-1110/"><u>Resolve Your Webcam's Dark Display Dilemma on PC (Windows 11/10)</u></a></li>
-<li><a href="https://fox-that.techidaily.com/revive-your-iphones-message-alerts-and-ringtones-with-these-expert-tips-and-tricks/"><u>Revive Your iPhone's Message Alerts & Ringtones with These Expert Tips and Tricks</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/save-passwords-in-chrome-swiftly-a-simple-guide/"><u>Save Passwords in Chrome Swiftly: A Simple Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/seamless-guide-pairing-your-bluetooth-headphones-with-a-windows-11-laptop/"><u>Seamless Guide: Pairing Your Bluetooth Headphones with a Windows 11 Laptop</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/tecnicas-expertas-para-la-copia-de-seguridad-del-disco-y-transicion-a-un-ssd-con-uefi-en-windows-7810/"><u>Técnicas Expertas Para La Copia De Seguridad Del Disco Y Transición a Un SSD Con UEFI en Windows 7/8/10</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-monetization-magic-geek-channels/"><u>[New] 2024 Approved Monetization Magic Geek Channels</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-synergizing-visual-elements-best-text-plugins-reviewed/"><u>2024 Approved Synergizing Visual Elements Best Text Plugins Reviewed</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-peek-at-cinematic-magic-in-vr-worlds/"><u>A Peek at Cinematic Magic in VR Worlds</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/achieve-peak-performance-in-apple-tv-apps-a-step-by-step-tutorial/"><u>Achieve Peak Performance in Apple TV Apps: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-tutorial-convert-any-youtube-video-into-an-animated-gif-file/"><u>Easy Tutorial: Convert Any YouTube Video Into an Animated GIF File</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/free-tools-to-evaluate-hard-drive-performance-best-picks-july-2024/"><u>Free Tools to Evaluate Hard Drive Performance: Best Picks - July 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restart-and-resolve-audio-service-problems-on-windows-7/"><u>How To Restart and Resolve Audio Service Problems on Windows 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/msis-steam-deck-a-strong-contender-in-the-portable-gaming-arena-can-it-outshine-rivals/"><u>MSI's Steam Deck: A Strong Contender in the Portable Gaming Arena - Can It Outshine Rivals?</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209923661-9781786784414-positively-wealthy/"><u>Positively Wealthy | Free Book</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-windows-kernel32dll-troubles-a-step-by-step-guide/"><u>Resolving Window's Kernel32.dll Troubles: A Step-by-Step Guide</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-releases-mac-data-recovery-12v-with-enhanced-ui/"><u>Stellar® Releases Mac Data Recovery 12v with Enhanced UI ...</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-the-most-reliable-ups-units/"><u>Ultimate Guide to the Most Reliable UPS Units</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-academic-excellence-the-ultimate-guide-to-homework-apps-for-pupils-and-parents/"><u>Unlock Academic Excellence: The Ultimate Guide to Homework Apps for Pupils & Parents</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722876998978-unveiling-chatgpt-the-revolutionary-language-model-explained/"><u>Unveiling ChatGPT: The Revolutionary Language Model Explained</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Sony Car (Afeela): News and Expected Price, Release Date, Specs; and More Rumors"
-date: 2024-09-10T20:04:13.457Z
-updated: 2024-09-15T19:58:38.221Z
+date: 2024-11-02T21:31:54.699Z
+updated: 2024-11-05T16:04:15.334Z
 categories:
   - BestProducts
 description: "This Article Describes Sony Car (Afeela): News and Expected Price, Release Date, Specs; and More Rumors"
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/aefba9f0ac6f593076f657b0dfeebc66593ffd1b9
 
  Orders will be taken in the first half of next year, potentially allowing US drivers to be behind the wheel by spring 2026.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Lifewire's Release Date Estimate
 
  The Afeela looks poised to be available in North America by spring 2026.
@@ -40,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/aefba9f0ac6f593076f657b0dfeebc66593ffd1b9
 
  As concept-to-production details take shape, we expect to hear more rumors about pricing, so stay tuned.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Pre-Order Information 
 
  Sony Car pre-ordering looks like it will start in the first few months of 2025\. All signs point to US orders first, followed by pre-orders and debuts in the Japanese and European markets. 
@@ -47,10 +61,10 @@ thumbnail: https://thmb.techidaily.com/aefba9f0ac6f593076f657b0dfeebc66593ffd1b9
  We’ll make updates here as we learn more.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Sony Car (Afeela) Features 
@@ -64,6 +78,13 @@ thumbnail: https://thmb.techidaily.com/aefba9f0ac6f593076f657b0dfeebc66593ffd1b9
 * **Immersive infotainment with a gaming bent** : The Afeela will be like a moving movie theater with infotainment screens throughout, movie and music choices for passengers, and a noise-canceling, spatial audio sound system. SHM has also announced it’s working with Epic Games and its Unreal Engine, the power behind_Fortnite_ , to develop an immersive augmented reality (AR) experience. This feature will look like 3D views of the road from any angle but also offer a gamified view of real-life objects.
 
 ![Sony Honda Mobility and Epic Games collaboration demo in the Afeela prototype.](https://www.lifewire.com/thmb/l9bUlpS2wIPA00FBpEUvK6M-tPw=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-Hond-Car-Afeela-EpicGames-Collaboration-4978e86ca0f048c2858c0bd4e757562c.jpeg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 AR navigation. 
 
@@ -99,13 +120,6 @@ Sony Interactive Entertainment
 
  Check back for updates about the Sony car release date and more features and specs chatter. 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  The Latest News About the Sony Car (Afeela) 
 
  There’s a lot more[ tech news from Lifewire](https://www.lifewire.com/news-4795879) . Here are a few stories of interest about Sony and EVs specifically.
@@ -131,5 +145,20 @@ Sony Interactive Entertainment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-10-best-funny-videos-on-twitter-for-2024/"><u>[New] 10 Best Funny Videos on Twitter for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-broadcasting-conferences-with-no-expense-account/"><u>[New] 2024 Approved Broadcasting Conferences with No Expense Account</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-is-aurora-hdr-a-step-forward-in-quality-viewing/"><u>[New] Is Aurora HDR a Step Forward in Quality Viewing?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/affordable-quality-discover-how-beats-latest-solo-buds-compare-to-sub-100-airpods-your-ultimate-guide-by-techsavvyzdnet/"><u>Affordable Quality: Discover How Beats' Latest Solo Buds Compare to Sub-$100 AirPods – Your Ultimate Guide by TechSavvyZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-resurrects-promising-ai-yet-challenges-remain-according-to-zdnet/"><u>Apple Resurrects Promising A.I., Yet Challenges Remain According to ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decoding-hdcp-issues-causes-and-effective-remedies-explained/"><u>Decoding HDCP Issues: Causes and Effective Remedies Explained</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723007216265-effortless-fix-for-mortal-kombat-11-game-crash-issues-expert-tips/"><u>Effortless Fix for Mortal Kombat 11 Game Crash Issues - Expert Tips!</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-12-drfone-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/imessage-communication-using-windows-a-comprehensive-guide/"><u>IMessage Communication Using Windows: A Comprehensive Guide</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-on-apple-iphone-8-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account On Apple iPhone 8?</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-avidemux-sound-problems-heres-how-to-fix-them-quickly/"><u>New 2024 Approved Avidemux Sound Problems? Heres How to Fix Them Quickly</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-buying-virtual-reality-games-on-the-meta-oculus-quest-2-platform/"><u>Ultimate Guide to Buying Virtual Reality Games on the Meta (Oculus) Quest 2 Platform</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/uncover-the-truth-detecting-if-someones-using-airtag-to-monitor-your-movements/"><u>Uncover the Truth: Detecting If Someone's Using AirTag To Monitor Your Movements</u></a></li>
+</ul></div>
 

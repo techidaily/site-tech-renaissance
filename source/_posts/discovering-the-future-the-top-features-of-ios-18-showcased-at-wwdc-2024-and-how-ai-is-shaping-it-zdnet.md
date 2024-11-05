@@ -1,7 +1,7 @@
 ---
 title: "Discovering the Future: The Top Features of iOS 18 Showcased at WWDC 2024 and How AI Is Shaping It | ZDNET"
-date: 2024-10-27T22:24:06.163Z
-updated: 2024-10-30T17:18:36.191Z
+date: 2024-10-29T16:00:16.548Z
+updated: 2024-11-05T21:10:32.980Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ For one, Apple is planning to offer AI-generated emojis that show up in text mes
 Here's the big question: Which AI provider will Apple partner with to power [iOS 18's AI features](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/)? Some reports have said that Apple is nearing a deal with OpenAI; other reports have suggested the iPhone maker is also talking to Google about using Gemini, as well as to Anthropic. Which provider Apple chooses could significantly impact how AI features work in iOS 18.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Serious customization
@@ -64,10 +64,10 @@ One of the hallmarks of Apple's design philosophy over the years has centered on
 According to Gurman's sources, [Apple will allow full iOS 18 customization this year](https://www.zdnet.com/article/apple-is-finally-adding-an-ios-home-screen-feature-that-android-has-had-for-15-years/). The feature would enable you to change the colors of app icons and -- perhaps most remarkably -- to ditch the grid layout of apps in favor of a free form option of your choosing. Apple's iOS has lagged behind Google's Android in enabling home screen customization, so it's nice to see the company consider opening things up.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. RCS
@@ -79,16 +79,10 @@ Although it's already been announced, Apple this year [will adopt](https://www.z
 Apple said earlier this year that it would launch RCS support for Android communication later in 2024\. Chances are, it'll launch on iOS 18, and finally, communicating with Android users will be streamlined for iPhone users.
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. An Apple Maps boost
@@ -98,10 +92,10 @@ According to several reports, Apple is planning a pretty big update to Apple Map
 For one, Apple is reportedly planning to offer users the opportunity to create custom routes, so they can decide for themselves if they want to take the scenic route or try to get to their destination in the fastest time possible. The company may also add a topographical mapping feature, but it's the ability to create a custom route -- a feature Google Maps has long offered -- that could be the most compelling improvement.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Smart Recaps, anyone?
@@ -142,20 +136,19 @@ In iOS 18, Apple is trying to address that with a rumored Smart Recaps feature. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-googles-advanced-upload-techniques-for-podcasters/"><u>[New] Google's Advanced Upload Techniques for Podcasters</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solved-nier-replicant-fps-drops/"><u>[SOLVED] NieR Replicant FPS Drops</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solved-windows-11-wont-sleep-issue/"><u>[SOLVED] Windows 11 Won't Sleep Issue</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-the-complete-user-manual-to-facetunes-photo-fixes/"><u>2024 Approved The Complete User Manual to Facetune's Photo Fixes</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Vivo T2 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://solve-help.techidaily.com/free-methods-to-convert-avi-files-to-mp4-format-windows-11-and-macos-tutorial/"><u>Free Methods to Convert AVI Files to MP4 Format: Windows 11 & MacOS Tutorial</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-oppo-reno-11-pro-5gwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Oppo Reno 11 Pro 5Gwith/without a PC</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lenovo-thinkphone-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Lenovo ThinkPhone PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-iphone-13-with-or-without-password-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on iPhone 13 With or Without Password | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-laughs-in-a-click-building-hilarious-memes/"><u>In 2024, Laughs in a Click Building Hilarious Memes</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-sony-xperia-5-v-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Sony Xperia 5 V Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/speedy-computing-effective-fixes-for-a-sluggish-windows-1110-experience-fixed/"><u>Speedy Computing: Effective Fixes for a Sluggish Windows 11/10 Experience [FIXED]</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-removing-specific-updates-from-your-windows-11-system/"><u>Step-by-Step Guide: Removing Specific Updates From Your Windows 11 System</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/translating-a-webpage-in-chrome-firefox-and-edge-easily/"><u>Translating a Webpage in Chrome, Firefox and Edge, Easily!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/trouble-with-your-logitech-clicker-heres-how-you-can-make-it-work-again/"><u>Trouble with Your Logitech Clicker? Here's How You Can Make It Work Again!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-essential-techniques-for-soundless-video/"><u>[New] 2024 Approved Essential Techniques for Soundless Video</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-the-ultimate-guide-to-using-snapchat-in-biz/"><u>[Updated] 2024 Approved The Ultimate Guide to Using Snapchat in Biz</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-much-does-pewdiepie-make/"><u>[Updated] How Much Does PewDiePie Make</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-easy-to-follow-action-cam-buyers-blueprint-23/"><u>2024 Approved Easy-to-Follow Action Cam Buyers’ Blueprint '23</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exclusive-picks-top-presidents-day-blowout-sales-on-amazon-walmart-and-best-buy-dont-miss-out/"><u>Exclusive Picks: Top President's Day Blowout Sales on Amazon, Walmart & Best Buy – Don't Miss Out!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-what-to-do-when-you-encounter-a-missing-msvcr80dll-error/"><u>Guide: What to Do When You Encounter a Missing msvcr80.dll Error</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-set-up-do-not-disturb-for-specific-contacts-in-apple-iphones/"><u>How to Set Up Do Not Disturb for Specific Contacts in Apple iPhones</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-xiaomi-redmi-note-13-5g-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Xiaomi Redmi Note 13 5G FRP</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-ai-forecasting-more-accurate-than-horoscope-claims/"><u>Is AI Forecasting More Accurate Than Horoscope Claims?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-initialization-problems-with-mozilla-thunderbird-a-comprehensive-fix/"><u>Overcoming Initialization Problems with Mozilla Thunderbird: A Comprehensive Fix</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722899309635-rpcrt4-dll-file-missing-heres-how-you-can-rectify-it/"><u>RPCRT4 DLL File Missing? Here's How You Can Rectify It!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-setting-up-automatic-text-reminders-on-your-iphone/"><u>The Ultimate Guide: Setting Up Automatic Text Reminders on Your iPhone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-ultimate-list-of-video-animation-tools-for-iphone-and-ipad-2024/"><u>Updated The Ultimate List of Video Animation Tools for iPhone and iPad 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-unlock-your-creativity-top-10-animation-tools-for-beginners-and-experts/"><u>Updated Unlock Your Creativity Top 10 Animation Tools for Beginners and Experts</u></a></li>
 </ul></div>
 

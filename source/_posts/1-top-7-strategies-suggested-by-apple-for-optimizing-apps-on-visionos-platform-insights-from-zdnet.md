@@ -1,7 +1,7 @@
 ---
 title: 1. Top 7 Strategies Suggested by Apple for Optimizing Apps on VisionOS Platform – Insights From ZDNet
-date: 2024-10-29T03:31:49.621Z
-updated: 2024-10-31T03:36:07.248Z
+date: 2024-11-01T18:12:00.328Z
+updated: 2024-11-05T17:10:28.452Z
 tags:
   - apple
 categories:
@@ -52,13 +52,6 @@ That way, they're not suddenly dropped into a whole new world, but they can slow
 
 **Also: [Two breakthroughs made 2023 tech's most innovative year in over a decade](https://www.zdnet.com/article/two-breakthroughs-made-2023-techs-most-innovative-year-in-over-a-decade/)**
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  2\. Identify your key moments
 
 Let's say you're a developer who has an existing app for the iPad. Let's say you want to bring said iPad app into VisionOS. The iPad app, by its nature, is flat and rectangular. But VisionOS allows users to see all around. Is there anything in your app that clearly lends itself to VRification? 
@@ -69,13 +62,6 @@ Apple uses its Photos app as an example. A key moment for Apple's Photos app mig
 
 In a writing app, VRification might involve going from a typical windowed user interface for most writing to a focus mode that shuts out the outside world and lets your users concentrate, by providing a calming background and perhaps some calming music. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  3\. Adjust UI elements to accommodate the new environment
 
 Some UI elements translate directly from iPadOS to VisionOS, but others aren't an exact match. Apple has a [spatial design guidelines video](https://developer.apple.com/videos/play/wwdc2023/10072/) that's well worth watching to come up to speed. 
@@ -84,6 +70,13 @@ Some UI elements translate directly from iPadOS to VisionOS, but others aren't a
 
 One area to pay particular attention to is when you use hover effects. When you hover over a button in a flat UI, you just need to see some highlighting. But when you hover over -- or in front of -- something in VR space, you've got the entire room to work in. So pay attention to how things look and feel, and try to avoid inducing vertigo by rapidly moving objects and buttons. 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  4\. Utilize grid systems where appropriate
 
 Apple says that apps designed with the [iPadOS grid system](https://developer.apple.com/design/human-interface-guidelines/designing-for-ios) will translate very nicely to the Vision Pro. The grid works well for designing windows. Point sizes translate well from the iPad to Vision Pro. 
@@ -91,16 +84,10 @@ Apple says that apps designed with the [iPadOS grid system](https://developer.ap
 But as you deal with more 3D-centric objects, grid systems break down. Once you're moving in 3D space, be careful about where you place your controls. For example, it can be somewhat confusing if you have nearby controls for a faraway object. 
 
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  5\. Incorporate sound design strategically
@@ -114,10 +101,10 @@ To that end, even if you're building a non-entertainment app that would normally
 And while you're at it, allow your users to control the sound, setting its volume and even turning it off. Give the sound cues that may be helpful, but give users control over how those cues are applied. Here's [a great resource from Apple on sound design](https://developer.apple.com/wwdc23/10271). 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  6\. Focus on key details, but don't overwhelm
@@ -125,6 +112,19 @@ And while you're at it, allow your users to control the sound, setting its volum
 Apple recommends always rendering a ground plane so users feel grounded. If you're putting someone inside a theatre, provide key details (like a stage, lighting, and curtains), but don't get carried away trying to reproduce the cola stains in the carpet or that unique crackle that comes from walking over scraps of petrified popcorn. If you're rendering an outdoor landscape, show slowly moving clouds but keep things subtle. 
 
 Of course, if you're putting people into a game where the whole idea is to overwhelm them, then go for it. But Apple is much more interested in using VR and AR as an augmented tool, rather than purely as a gaming platform. And in that context, it's probably wise to avoid making your customers barf up their lunches inside their $3,500+ head-mounted [uncanny valley](https://en.wikipedia.org/wiki/Uncanny%5Fvalley)in a can. 
+
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  7\. Use the VisionOS simulator
 
@@ -173,20 +173,18 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-accelerate-your-retro-play-with-best-ps2-android-emulators-for-2024/"><u>[New] Accelerate Your Retro Play with Best Ps2 Android Emulators for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-stealthy-styles-easy-color-corrections-techniques/"><u>[New] In 2024, Stealthy Styles Easy Color Corrections Techniques</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-rapid-rise-on-insta-like-mastery-plus-video-impact-for-2024/"><u>[New] Rapid Rise on Insta - Like Mastery + Video Impact for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-top-online-sources-for-high-quality-vector-illustrations-for-2024/"><u>[New] Top Online Sources for High-Quality Vector Illustrations for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-methods-to-insert-coding-examples-directly-into-word-sheets/"><u>Expert Methods to Insert Coding Examples Directly Into Word Sheets</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/how-to-elevate-your-digital-self-with-memetic-skills-in-the-metaverse/"><u>How to Elevate Your Digital Self with Memetic Skills in the Metaverse</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-oppo-a78-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Oppo A78 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-honor-x9b-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Honor X9b via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/pixel-smartwatch-3-foretelling-of-costs-expected-launch-date-specs-and-latest-rumors-explained/"><u>Pixel Smartwatch 3 - Foretelling of Costs, Expected Launch Date, Specs & Latest Rumors Explained</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-windows-recovery-issues-the-ultimate-guide/"><u>Resolving Windows Recovery Issues: The Ultimate Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-composing-and-sharing-imessage-voice-notes/"><u>Step-by-Step Tutorial: Composing and Sharing iMessage Voice Notes</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-next-big-thing-an-insight-into-the-latest-apple-iphone-introduction/"><u>The Next Big Thing: An Insight Into the Latest Apple iPhone Introduction</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-how-to-troubleshoot-and-repair-sony-ps4-microphone-issues/"><u>Ultimate Guide: How To Troubleshoot and Repair Sony PS4 Microphone Issues</u></a></li>
-<li><a href="https://techtrends.techidaily.com/understanding-and-repairing-ac1st16dll-not-found-issues-in-windows/"><u>Understanding and Repairing ac1st16.dll Not Found Issues in Windows</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/upcoming-google-pixel-fold-2-anticipated-costs-launch-timeline-and-features-latest-buzz/"><u>Upcoming Google Pixel Fold 2: Anticipated Costs, Launch Timeline & Features – Latest Buzz!</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-best-gamers-streaming-tools/"><u>[New] 2024 Approved Best Gamers' Streaming Tools</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-maximizing-impact-strategies-for-going-viral-on-instagram-for-2024/"><u>[New] Maximizing Impact Strategies for Going Viral on Instagram for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/zing-youtubes-process-for-selective-comment-showcasing/"><u>Analyzing YouTube's Process for Selective Comment Showcasing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-the-wizards-journey-watching-harry-potter-movies-sequentially/"><u>Complete the Wizard's Journey: Watching Harry Potter Movies Sequentially.</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-methods-to-power-cycle-or-force-restart-your-ipad-one-size-fits-all/"><u>Comprehensive Methods to Power Cycle or Force Restart Your iPad (One Size Fits All)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-steps-to-correct-the-absence-of-avcodecdll-on-your-system/"><u>Easy Steps to Correct the Absence of Avcodec.dll on Your System</u></a></li>
+<li><a href="https://blog-min.techidaily.com/fifa-18-gameplay-tutorial-and-tips-exclusive-guide-for-xbox-and-compatible-with-windows-11/"><u>FIFA 18 Gameplay Tutorial & Tips - Exclusive Guide for Xbox and Compatible with Windows 11</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-6-plus-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 6 Plus With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secure-privacy-stop-windows-11-snooping/"><u>Secure Privacy: Stop Windows 11 Snooping</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-communication-problems-enable-call-functionality-on-your-samsung-galaxy-watch/"><u>Solving Communication Problems: Enable Call Functionality on Your Samsung Galaxy Watch</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-32-complimentary-data-safety-applications-a-detailed-rating-and-analysis/"><u>Top 32 Complimentary Data Safety Applications: A Detailed Rating & Analysis</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-making-windows-hello-work-on-your-windows-11-pc/"><u>Troubleshooting Guide: Making Windows Hello Work on Your Windows 11 PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-to-correct-the-missing-d3dx927dll-error-message/"><u>Troubleshooting Steps to Correct the Missing d3dx9_27.dll Error Message</u></a></li>
 </ul></div>
 
