@@ -1,7 +1,7 @@
 ---
 title: "Exclusive: How the Vision Pro Gamepad Mirrors Apple's Iconic Stylus, According to Latest USPTO Filings | Tech Analysis by ZDNET"
-date: 2024-11-03T17:29:41.359Z
-updated: 2024-11-05T18:39:04.694Z
+date: 2024-11-08T19:16:16.098Z
+updated: 2024-11-15T17:34:24.702Z
 tags:
   - apple
 categories:
@@ -39,10 +39,10 @@ When I upgraded to the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-
 [ZDNET RECOMMENDS Tech21 FlexPro Tech21's FlexPro is one of the most advanced cases on the market, combining sustainability with amazing impact protection, boasting an impressive 20ft FlexShock multi-drop feature. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FHRDB2ZM%2FA%2Ftech21-flexpro-for-iphone-15-plus-magsafe-compatible&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Tech 21 FlexPro features
@@ -89,10 +89,10 @@ This case can also take quite a beating. In the few months that I've owned the i
 For the record, I'm using a screen protector for added durability. I think this case is certainly one of the best I've tested in a long time, and the first in quite a while that I felt compelled to write about.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -131,20 +131,24 @@ My testing suggests cases don't get much better than the [Tech 21's FlexPro](htt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-complete-analysis-triangulating-life-with-samsung-vr/"><u>[New] 2024 Approved Complete Analysis Triangulating Life with Samsung VR</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-ultimate-guide-to-camstudio-recording-and-capturing/"><u>[New] 2024 Approved Ultimate Guide to CamStudio Recording and Capturing</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-unlock-social-data-with-top-free-facebook-downloaders/"><u>[New] In 2024, Unlock Social Data with Top Free Facebook Downloaders</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-boosting-zoom-screen-sharpness-essential-tips-for-2024/"><u>[Updated] Boosting Zoom Screen Sharpness Essential Tips for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-elite-sound-selection-superior-downloads-for-2024/"><u>[Updated] Elite Sound Selection Superior Downloads for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-tips-for-retro-revival-using-instagram-filters-on-previous-imagesvideos-for-2024/"><u>[Updated] Tips for Retro Revival Using Instagram Filters on Previous Images/Videos for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-best-gif-fetchers-on-ios-iphone-x-compatible-guide/"><u>2024 Approved Best GIF Fetchers on iOS IPhone X-Compatible Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/are-there-reports-of-nintendo-switch-online-service-interruptions-or-is-the-problem-localized/"><u>Are There Reports of Nintendo Switch Online Service Interruptions, or Is the Problem Localized?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/cut-the-cost-of-working-from-home-adonit-nest-drops-to-65-your-must-have-usb-solution-bargains-unleashed-by-zdnet/"><u>Cut the Cost of Working From Home: Adonit Nest Drops to $65, Your Must-Have USB Solution | Bargains Unleashed by ZDNET</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/diy-repairing-the-physxloaderdll-cannot-be-loaded-problem/"><u>DIY: Repairing the 'PhysXLoader.dll Cannot Be Loaded' Problem</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/empowering-education-find-the-best-10-apps-designed-just-for-high-school-students/"><u>Empowering Education: Find the Best 10 Apps Designed Just for High-School Students</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-the-new-ios-16-a-guide-to-utilizing-photo-cutouts-on-your-iphone/"><u>Mastering the New iOS 16: A Guide to Utilizing Photo Cutouts on Your iPhone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/uncover-hidden-notifications-from-the-past-strategies-for-iphones/"><u>Uncover Hidden Notifications From the Past: Strategies for iPhones</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-and-utilizing-the-windows-11-battery-analysis-tool-for-optimal-performance/"><u>Understanding and Utilizing the Windows 11 Battery Analysis Tool for Optimal Performance</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-the-significance-of-microsofts-monthly-security-updates-a-guide-to-patch-tuesdays/"><u>Understanding the Significance of Microsoft's Monthly Security Updates: A Guide to Patch Tuesdays</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-essential-guide-to-motion-blur-in-adobe-photoshop/"><u>[New] In 2024, The Essential Guide to Motion Blur in Adobe Photoshop</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-pinnacle-phones-the-supreme-choices-in-mobile-video-recording-for-2024/"><u>[New] Pinnacle Phones The Supreme Choices in Mobile Video Recording for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-advice-for-mastering-full-screen-in-ppro/"><u>[Updated] Expert Advice for Mastering Full Screen in PPro</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-elite-fidelity-desktop-and-online-upconversion/"><u>[Updated] In 2024, Elite Fidelity Desktop & Online Upconversion</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-keeping-a-detailed-record-of-every-online-chat-on-fb/"><u>[Updated] In 2024, Keeping a Detailed Record of Every Online Chat on FB</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-streamlined-strategy-for-igtv-and-instagram-story-integration/"><u>2024 Approved Streamlined Strategy for IGTV & Instagram Story Integration</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beating-the-blackout-expert-tips-for-league-of-legends-display-fixes-2024-edition/"><u>Beating the Blackout: Expert Tips for League of Legends Display Fixes, 2024 Edition</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cutting-edge-tips-for-professional-application-of-3d-lut-in-photoshop/"><u>Cutting-Edge Tips for Professional Application of 3D LUT in Photoshop</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-10-free-online-platforms-that-compete-with-netflix/"><u>Discover 10 Free Online Platforms That Compete with Netflix</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/download-and-set-up-iphones-with-ios-16-beta-version-recommended-steps-and-cautions-techadvice/"><u>Download and Set Up iPhones with iOS 16 Beta Version - Recommended Steps & Cautions | TechAdvice</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/is-it-time-to-switch-a-comprehensive-review-of-iphone-16-pro-against-the-iphone-14-pro-by-tech-experts-at-zdnet/"><u>Is It Time to Switch? A Comprehensive Review of iPhone 16 Pro Against the iPhone 14 Pro by Tech Experts at ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/save-big-on-top-rated-traveler-essentials-iphone-accessories-and-charger-deals-at-20-off-zdnets-exclusive/"><u>Save Big on Top-Rated Traveler Essentials: IPhone Accessories & Charger Deals at 20% OFF! - ZDNet's Exclusive</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/steps-to-resolve-the-missing-ksuserdll-file-problem/"><u>Steps to Resolve the Missing ksuser.dll File Problem</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-nokia-105-classic-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Nokia 105 Classic</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-5-essential-benefits-of-using-apple-pages-as-your-go-to-document-editor-insights-from-zdnet/"><u>Top 5 Essential Benefits of Using Apple Pages as Your Go-To Document Editor - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-apple-watch-screensaver-find-the-ultimate-guardian-techradar/"><u>Top-Rated Apple Watch Screensaver : Find the Ultimate Guardian | TechRadar</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-mini-tablet-picks-comprehensive-reviews-by-tech-specialists-zdnet/"><u>Top-Rated Mini Tablet Picks - Comprehensive Reviews by Tech Specialists | ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-your-android-phones-black-display-dilemma/"><u>Troubleshooting Your Android Phone's Black Display Dilemma</u></a></li>
 </ul></div>
 

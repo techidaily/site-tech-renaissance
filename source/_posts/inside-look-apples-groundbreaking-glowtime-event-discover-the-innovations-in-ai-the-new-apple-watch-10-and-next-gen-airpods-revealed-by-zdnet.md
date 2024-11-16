@@ -1,7 +1,7 @@
 ---
 title: "Inside Look: Apple's Groundbreaking Glowtime Event - Discover the Innovations in AI, the New Apple Watch 10, and Next-Gen AirPods Revealed by ZDNET"
-date: 2024-11-03T17:57:58.508Z
-updated: 2024-11-05T20:54:48.047Z
+date: 2024-11-14T21:50:41.218Z
+updated: 2024-11-15T21:44:26.127Z
 tags:
   - apple
 categories:
@@ -60,19 +60,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -82,16 +69,10 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -111,6 +92,19 @@ Adam Breeden/ZDNET
 * The Messages app now supports [**Rich Communication Services (RCS).**](https://www.zdnet.com/article/apple-is-finally-adding-rcs-to-the-iphone-and-i-couldnt-be-more-excited/)
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
+
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## WatchOS 11
 
@@ -137,10 +131,16 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -180,10 +180,10 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -230,24 +230,21 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-renaissance.techidaily.com/anticipating-success-through-pre-release-experiences-how-ordering-apples-vision-pro-gave-hope-for-what-lies-ahead-analysis/"><u>Anticipating Success Through Pre-Release Experiences: How Ordering Apple's Vision Pro Gave Hope for What Lies Ahead Analysis</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/can-you-submerge-an-iphone-15-pro-max-in-water-without-damage/"><u>Can You Submerge an iPhone 15 Pro Max in Water without Damage?</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/capture-now-cheap-instant-camera-brands/"><u>Capture Now: Cheap Instant Camera Brands</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-tips-for-boosting-work-efficiency-at-home-using-an-ipad-pro-expert-advice/"><u>Essential Tips for Boosting Work Efficiency at Home Using an iPad Pro - Expert Advice</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/expert-advice-best-mobile-melody-crafters/"><u>Expert Advice Best Mobile Melody Crafters</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-opinions-on-the-ultimate-ipads-of-2024-in-depth-analysis-and-ratings/"><u>Expert Opinions on the Ultimate iPads of 2024: In-Depth Analysis & Ratings</u></a></li>
-<li><a href="https://games-able.techidaily.com/explore-pokemons-universe-on-your-ios-device-today/"><u>Explore Pokémon's Universe on Your iOS Device Today</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-excel-2007-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>Free electronic signature - For Excel 2007 files</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/iphone-showdown-is-it-time-to-switch-to-the-newest-iphone-1e-pro-or-stick-with-the-trusty-iphone-14-pro-insights-from-zdnets-tech-experts/"><u>IPhone Showdown: Is It Time to Switch to the Newest iPhone 1E Pro or Stick with the Trusty iPhone 14 Pro? Insights From ZDNet's Tech Experts</u></a></li>
-<li><a href="https://driver-install.techidaily.com/lenovos-z50-70-now-features-simple-updates/"><u>Lenovo's Z50-70 Now Features Simple Updates</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/master-the-art-of-immutable-image-creation-for-2024/"><u>Master the Art of Immutable Image Creation for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/steer-clear-of-these-devastating-mistakes-in-using-apple-vision-pro-save-your-project-before-its-too-late-expert-advice/"><u>Steer Clear of These Devastating Mistakes in Using Apple Vision Pro – Save Your Project Before It's Too Late | Expert Advice</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-to-resolve-mss32dll-errors-on-your-pc/"><u>Step-by-Step Guide to Resolve Mss32.dll Errors on Your PC</u></a></li>
-<li><a href="https://article-helps.techidaily.com/streamline-visuals-integrating-filters-into-videos-pcmobile-for-2024/"><u>Streamline Visuals Integrating Filters Into Videos (PC/Mobile) for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-4-iphone-16-innovations-that-prove-the-new-standard-edition-is-a-must-have-upgrade-insights/"><u>Top 4 iPhone 16 Innovations That Prove the New Standard Edition Is a Must-Have Upgrade: Insights</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-iphone-savings-in-july-2024-exclusive-offers-from-apple-and-partners/"><u>Top iPhone Savings in July 2024: Exclusive Offers From Apple and Partners</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-vr-headsets-for-optimal-gaming-experience-on-your-pc/"><u>Top-Rated VR Headsets for Optimal Gaming Experience on Your PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-pick-for-macbook-upgrades-and-addons-of-24-fully-inspected-by-specialists/"><u>Ultimate Pick for MacBook Upgrades & Addons of '24, Fully Inspected by Specialists</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-the-ultimate-guide-to-android-video-editing-top-10-free-and-paid-apps/"><u>Updated The Ultimate Guide to Android Video Editing Top 10 Free and Paid Apps</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-comparing-leading-free-and-paid-zoom-transcription-systems-for-2024/"><u>[New] Comparing Leading Free & Paid Zoom Transcription Systems for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-navigating-through-complete-circles-on-screen/"><u>[Updated] Navigating Through Complete Circles on Screen</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/1-mastering-kindle-fire-a-simple-guide-to-access-and-enjoy-your-google-books/"><u>1. Mastering Kindle Fire: A Simple Guide to Access and Enjoy Your Google Books</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-discovering-your-favorite-makeup-vloggers-on-youtube/"><u>2024 Approved Discovering Your Favorite Makeup Vloggers on YouTube</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-how-to-enhance-your-vlogs-pacing-using-jump-cuts/"><u>2024 Approved How to Enhance Your Vlog's Pacing Using Jump Cuts</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2172964-9781848586154-bigfoot/"><u>Bigfoot | Free Book</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/choosing-the-right-sidekick-a-detailed-comparison-of-google-pixel-watch-and-apple-watch-series-9/"><u>Choosing the Right Sidekick: A Detailed Comparison of Google Pixel Watch and Apple Watch Series 9</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-personal-connections-in-ai-technology-with-apples-vision-pro-query-innovation-digest/"><u>Exploring Personal Connections in AI Technology with Apple's Vision Pro Query | Innovation Digest</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-install-third-party-ios-apps-without-jailbreaking-your-iphone-insights-from-zdnet/"><u>How to Install Third-Party iOS Apps Without Jailbreaking Your iPhone - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-dimming-the-spotlight-in-pre-production-pro/"><u>In 2024, Dimming the Spotlight In Pre-Production Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-color-grading-utilizing-luts-in-ae/"><u>In 2024, The Art of Color Grading Utilizing LUTs in AE</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/make-the-most-of-your-subscription-instructions-for-projecting-apple-tvplus-on-a-chromecast-screen/"><u>Make the Most of Your Subscription: Instructions for Projecting Apple TV+ on a Chromecast Screen</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-essential-guide-to-turning-on-gmails-second-level-of-protection-2fa/"><u>The Essential Guide to Turning On Gmail's Second Level of Protection - 2FA</u></a></li>
+<li><a href="https://blog-min.techidaily.com/transforma-tus-videos-mkv-en-mp4-de-forma-eficiente-y-con-alta-fidelidad/"><u>Transforma Tus Vídeos MKV en MP4 De Forma Eficiente Y Con Alta Fidelidad</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/why-im-not-swapping-my-iphone-n-for-an-iphone-16-pro-read-more-on-zdnet/"><u>Why I'm Not Swapping My iPhone N for an iPhone 16 Pro (Read More on ZDNET)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/zdnets-favorite-phones-a-closer-look-at-the-techies-real-life-choices/"><u>ZDNet's Favorite Phones: A Closer Look at the Techies' Real-Life Choices</u></a></li>
 </ul></div>
 

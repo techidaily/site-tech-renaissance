@@ -1,7 +1,7 @@
 ---
 title: "Top 11 Unbeatable Discounts on Apple Watches in June-July 2024: Exclusive Offers"
-date: 2024-10-31T20:24:17.713Z
-updated: 2024-11-05T19:59:55.354Z
+date: 2024-11-09T04:26:37.196Z
+updated: 2024-11-15T23:04:28.915Z
 tags:
   - apple
 categories:
@@ -85,13 +85,6 @@ While the Series 8 isn't the latest and greatest Apple Watch, it's still a great
 
 [View now at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-Series-8-GPS-Cellular-45mm-Midnight-Aluminum-Case-Sport-Band-S-M-Fitness-Tracker-Blood-Oxygen-ECG-Apps-Always-On-Retina-Display%2F1490655580%3F&subId1=zd-__COM_CLICK_ID__-dtp) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best refurbished Apple Watch deals of July 2024
 
 * [Apple Watch Series 7](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Watch-Cellular-Aluminum-Regular%2Fdp%2FB09Q4KVHGB%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb104f5f7-7fad-43e5-866b-3ede32c75c1d%7Cdtp&dtb=1) (41mm, Clover Sport Band, Renewed): $220 (save $295)
@@ -99,10 +92,10 @@ While the Series 8 isn't the latest and greatest Apple Watch, it's still a great
 * [Apple Watch SE](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-SE-GPS-Cellular-44mm-Gold-Aluminum-Case-with-Starlight-Sport-Band-Used%2F1620367883%3F&subId1=zd-__COM_CLICK_ID__-dtp) (44mm, GPS, Starlight Sport Band, Used): $125 (save $35)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How did we choose these deals?
@@ -110,13 +103,6 @@ While the Series 8 isn't the latest and greatest Apple Watch, it's still a great
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What is the best Apple watch?
 
@@ -127,6 +113,13 @@ ZDNET's top pick for the [best Apple watch](https://www.zdnet.com/article/best-a
 Yes, your Apple Watch, as long as it is a Series 6 or newer, can track your AFib, or irregular heartbeat. In fact, The US Food and Drug Administration (FDA) has recently [awarded](https://content.govdelivery.com/accounts/USFDA/bulletins/399d551) medical device development tool (MDDT) status to the Apple Watch's atrial fibrillation (AFib) history tracker. The feature is first piece of digital health technology to earn MDDT status, the FDA said in a statement.
 
 **Also:** [**Your Apple Watch's AFib history could soon be used in clinical studies**](https://www.zdnet.com/article/your-apple-watchs-afib-history-could-soon-be-used-in-clinical-studies/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Apple Watch SE vs Series 8: Which is the better buy?
 
@@ -145,10 +138,10 @@ Apple has a lengthy lineup of its flagship tech wearable, with several iteration
 Apple's newest releases, the Watch Series 9 and the Watch Ultra 2 both feature the new finger tap capability. Apple formally refers to this as the "double tap gesture," and with it users can easily control either watch with just one hand and without touching the display. Users can tap the index finger and thumb of their watch hand together twice to quickly perform many of the most common actions.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What are the different Apple Watch bands available?
@@ -168,6 +161,13 @@ Similarly to turning in an older cell-phone to receive monetary credit towards p
 When participating in a trade-in offer, you are providing your previously used item to the retailer in exchange for a predetermined amount of cash back that can be directly applied to your next item purchase of the same product. Eligible trade-in items and the cash back offered for each product is decided by each individual retailer and is often determined by factors such as age, condition, and functionality of the item being presented for trade-in. Apple recently decided to even bump up the amount they offer for trade-ins as well, too. 
 
 **Also:** [**Apple is paying more for your used Apple watches**](https://www.zdnet.com/article/apple-is-now-paying-more-for-your-used-apple-watches-and-ipads/)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will these deals expire?
 
@@ -213,15 +213,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/updated-premier-zones-for-cutting-edge-vr-viewing/"><u>[Updated] Premier Zones for Cutting-Edge VR Viewing</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/comprehensive-guide-to-the-updated-facetune-photo-editing-for-2024/"><u>Comprehensive Guide to the Updated Facetune Photo Editing for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/dojs-litigation-against-apple-decoded-potential-consequences-for-the-mobile-ecosystem-and-app-developers-exclusive-analysis/"><u>DOJ's Litigation Against Apple Decoded: Potential Consequences for the Mobile Ecosystem and App Developers | Exclusive Analysis</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/embrace-nostalgia-with-style-the-crystal-clear-advantages-of-the-xbox-gamepad-for-classic-games/"><u>Embrace Nostalgia with Style - The Crystal Clear Advantages of the Xbox Gamepad for Classic Games</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-the-lock-screen-on-my-honor-by-drfone-android-unlock-android-unlock/"><u>How to Unlock the Lock Screen on my Honor</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-from-iphone-15-pro-max-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud From iPhone 15 Pro Max Smoothly</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-oneplus-12r-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On OnePlus 12R? Here Is the Answer | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/pixel-vs-apple-choosing-the-right-smartwatch-watch-series-8-or-googles-new-contender/"><u>Pixel vs Apple - Choosing the Right Smartwatch: Watch Series 8 or Google's New Contender?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-buyers-guide-top-five-priorities-when-shopping-for-a-fitness-gadget/"><u>The Buyer's Guide: Top Five Priorities When Shopping for a Fitness Gadget</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-showdown-pixel-9xl-camera-duels-with-iphone-15-pros-snapper-who-wins-surprising-results-inside-gadgetzone-review/"><u>Ultimate Showdown: Pixel #9XL Camera Duels with iPhone 15 Pro's Snapper - Who Wins? Surprising Results Inside | GadgetZone Review</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-discover-polarrs-secret-ultimate-guide-to-digital-image-editing-for-2024/"><u>[New] Discover Polarr’s Secret Ultimate Guide to Digital Image Editing for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-real-time-recording-battle-obs-studio-against-fraps-for-2024/"><u>[New] Real-Time Recording Battle OBS Studio Against Fraps for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-how-to-transform-faithful-chants-into-personalized-tones/"><u>2024 Approved How to Transform Faithful Chants Into Personalized Tones</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/beating-app-anxiety-and-saving-money-with-innovative-xr-tech-that-fixes-apple-vision-issues-zdnet-insights/"><u>Beating App Anxiety and Saving Money with Innovative XR Tech That Fixes Apple Vision Issues | ZDNET Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/best-ipad-air-analysis-why-apples-new-m2-chip-elevates-it-as-the-top-choice-for-consumers-insights-from-zdnet/"><u>Best IPad Air Analysis: Why Apple's New M2 Chip Elevates It as the Top Choice for Consumers - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exclusive-roundup-the-ultimate-2024-smart-speakers-ranking-in-depth-evaluations-zdnet/"><u>Exclusive Roundup: The Ultimate 2024 Smart Speakers Ranking - In-Depth Evaluations | ZDNet</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-huawei-nova-y91-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Huawei Nova Y91 Phone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-premium-screen-snapshot-tool-for-android-all-ages/"><u>In 2024, Premium Screen Snapshot Tool for Android, All Ages</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ipad-face-off-unveiling-the-differences-between-ipad-pro-and-ipad-air-to-find-your-perfect-tablet-match-gizmodo-insights/"><u>IPad Face-Off: Unveiling the Differences Between iPad Pro & iPad Air to Find Your Perfect Tablet Match | Gizmodo Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-mac-system-maintenance-tools-of-2022-recommended-software-selections-by-tech-experts-at-zdnet/"><u>Top Mac System Maintenance Tools of 2022: Recommended Software Selections by Tech Experts at ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/transitioning-to-a-new-era-apple-ditches-finewoven-accessories-for-cutting-edge-beats-gear-analysis/"><u>Transitioning to a New Era: Apple Ditches FineWoven Accessories for Cutting-Edge Beats Gear, Analysis</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-the-mysterious-fluid-found-in-charger-port-of-iphone-issue-choose-wisely-insights-from-tech-guru/"><u>Troubleshooting the Mysterious 'Fluid Found in Charger Port of iPhone' Issue: Choose Wisely! - Insights From Tech Guru</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/wireless-audio-harmony-pairing-guide-for-samsung-earbuds-to-laptops-across-platforms/"><u>Wireless Audio Harmony: Pairing Guide for Samsung Earbuds to Laptops Across Platforms</u></a></li>
 </ul></div>
 

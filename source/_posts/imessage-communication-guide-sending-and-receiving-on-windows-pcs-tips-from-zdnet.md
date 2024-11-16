@@ -1,7 +1,7 @@
 ---
 title: "IMessage Communication Guide: Sending & Receiving on Windows PCs - Tips From ZDNet"
-date: 2024-11-03T23:12:07.724Z
-updated: 2024-11-05T22:34:46.955Z
+date: 2024-11-10T17:47:07.823Z
+updated: 2024-11-15T17:02:55.513Z
 tags:
   - apple
 categories:
@@ -45,10 +45,10 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 ## How to send and receive iMessages on Windows
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Use Microsoft Phone Link
@@ -63,13 +63,6 @@ Next, confirm that you're running the latest version of Phone Link. To do this, 
 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Open Phone Link
 
 Click the Start button, go to All Apps, and select Phone Link from the list. The first screen prompts you to select your device. Click the button for iPhone.
@@ -77,10 +70,16 @@ Click the Start button, go to All Apps, and select Phone Link from the list. The
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Scan the QR codes
@@ -98,6 +97,13 @@ Screenshot by Lance Whitney/ZDNET
 Your phone should ask if you want your PC to receive notifications from your iPhone. Tap Allow to OK this. Go to the Bluetooth settings screen on your phone, tap the Info icon for your computer, and turn on the switches for Show Notifications, Sync Contacts, and Share System Notifications. Doing so will let you fully access and use the apps and data from your phone on your PC, including messages.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Run Phone Link
 
@@ -118,10 +124,10 @@ You can also start a new conversation. To do this, select one of your displayed 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Use Intel Unison
@@ -133,13 +139,6 @@ To use Intel Unison, download and install the app from [the Microsoft Store](htt
 Launch the app and click the Accept & Continue button. You'll be asked how you'd like to use Unison. In the section for "Empower your PC," click the "Add your phone" button.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Pair your phone and computer
 
@@ -158,6 +157,13 @@ Screenshot by Lance Whitney/ZDNET
 At the "Let's get started" screen in the Windows Unison app, click the icon for "Send messages." 
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  4\. Go to the Messages screen
 
@@ -207,16 +213,14 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-vcr-video-vault-extensive-reviews-and-summary/"><u>[New] In 2024, VCR Video Vault Extensive Reviews & Summary</u></a></li>
-<li><a href="https://win-blog.techidaily.com/addressed-league-of-legends-online-connection-challenges/"><u>Addressed League of Legends Online Connection Challenges</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/best-free-online-call-services-our-top-picks-listed/"><u>Best Free Online Call Services : Our Top Picks Listed</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discord-connectivity-concerns-identifying-service-disruptions-vs-personal-tech-troubles/"><u>Discord Connectivity Concerns: Identifying Service Disruptions vs Personal Tech Troubles</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/evaluating-the-latest-in-camcorders-and-live-streaming-tech-for-2024/"><u>Evaluating the Latest in Camcorders and Live Streaming Tech for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/future-ready-list-of-iphone-models-set-to-integrate-apples-latest-artificebile-features-and-revamped-siri-experience/"><u>Future Ready: List of iPhone Models Set to Integrate Apple's Latest Artificebile Features & Revamped Siri Experience</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-a-scholarly-treatise-on-directed-user-engagement/"><u>In 2024, A Scholarly Treatise on Directed User Engagement</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-the-modifications-tailoring-your-iphones-control-center-on-ios-18-a-step-by-step-guide/"><u>Mastering the Modifications: Tailoring Your iPhone's Control Center on iOS 18 - A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/switching-sides-how-the-new-iphone-16-could-attract-android-enthusiasts-with-its-innovative-features/"><u>Switching Sides: How the New iPhone 16 Could Attract Android Enthusiasts with Its Innovative Features</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-compact-tablets-in-depth-analysis-by-tech-experts/"><u>Top-Rated Compact Tablets - In-Depth Analysis by Tech Experts</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-streaming-videos-from-your-pc-or-mac-to-apple-tv-with-vlc/"><u>Ultimate Guide: Streaming Videos From Your PC or Mac to Apple TV with VLC</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-real-time-tracking-for-insta-unfollower-score/"><u>[Updated] In 2024, Real-Time Tracking for Insta Unfollower Score</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-get-unlimited-data-for-nothing-a-compreran-guide-to-30-best-cloud-storages/"><u>2024 Approved Get Unlimited Data for Nothing! A Compreran Guide to 30 Best Cloud Storages</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-science-of-perfectly-timed-episodes/"><u>2024 Approved The Science of Perfectly Timed Episodes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/choosing-the-right-phone-a-detailed-comparison-of-samsung-galaxy-s23-vs-iphone/"><u>Choosing the Right Phone : A Detailed Comparison of Samsung Galaxy S23 Vs. IPhone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-parental-guides-to-choosing-superior-kids-tablets-insights-ratings/"><u>Expert Parental Guides to Choosing Superior Kids’ Tablets - Insights Ratings</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-realme-c55-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Realme C55? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-next-gen-leap-for-gamers-microsofts-dxr-api-redefining-pc-resolution-and-performance/"><u>The Next-Gen Leap for Gamers: Microsoft's DXR API Redefining PC Resolution and Performance</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-list-best-true-crime-shows-available-as-podcast-episodes/"><u>The Ultimate List: Best True Crime Shows Available as Podcast Episodes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unbelievable-deal-alert-own-the-latest-ipad-9gen-for-just-250-post-apple-reveal-exclusive-offer-at-zdnet/"><u>Unbelievable Deal Alert: Own the Latest iPad (9Gen) for Just $250 Post-Apple Reveal | Exclusive Offer at ZDNet!</u></a></li>
 </ul></div>
 

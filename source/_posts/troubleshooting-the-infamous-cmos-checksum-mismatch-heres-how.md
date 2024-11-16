@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting the Infamous CMOS Checksum Mismatch – Here's How!
-date: 2024-09-09T15:47:16.068Z
-updated: 2024-09-10T15:47:16.068Z
+date: 2024-11-12T17:35:19.540Z
+updated: 2024-11-16T01:26:15.906Z
 categories:
   - BestProducts
 description: This Article Describes Troubleshooting the Infamous CMOS Checksum Mismatch – Here's How!
@@ -9,12 +9,6 @@ excerpt: This Article Describes Troubleshooting the Infamous CMOS Checksum Misma
 thumbnail: https://www.lifewire.com/thmb/LlZtDMwAbhCoKYVENlyPlWM0oDY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cooler-933691_19201-7c38884d6d3f4c69807d8387ed40a0b9.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Troubleshooting When Your iPhone Doesn't Ring – Easy Fixes Inside
  There are many reasons why an iPhone won't ring, but most of these problems are easy to fix. If your iPhone isn't ringing when someone calls you, try these tips before concluding that your iPhone needs an expensive repair.
 
@@ -39,27 +33,9 @@ thumbnail: https://www.lifewire.com/thmb/LlZtDMwAbhCoKYVENlyPlWM0oDY=/400x300/fi
    3. Tap the red circle beside the blocked number, and then tap**Unblock** .  
 ![An iPhone with the Phone settings, Blocked Contacts heading, and Unblock button highlighted](https://www.lifewire.com/thmb/MPfrUdCCr2HLjH9Va4OIkm1zN3o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-2308e3feb71f4c9194900da12675ecb2.jpg)
 6. Disable Silence Unknown Callers. To help users avoid spam calls and robocalls, Apple added a feature in[iOS 13](https://www.lifewire.com/ios-13-4586609) that automatically silences all calls from unknown numbers. If this feature is turned on, you won't hear calls from numbers that aren't in the Contacts app. Instead, the iPhone sends them right to voicemail. To disable this feature, select**Settings** \>**Phone** , and then turn off the**Silence Unknown Callers** switch.  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you want to keep Silence Unknown Callers turned on but still get calls from certain numbers,[add those callers to Contacts](https://www.lifewire.com/manage-contacts-iphone-address-book-2000570) .  
 ![iPhone showing the Phone settings and Silence Unknown Callers switch](https://www.lifewire.com/thmb/PfmlpvYkxD5z2_TErc_402j9xA8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-b93c2874c9784090a83900ec430caf0b.jpg)
 7. Change your custom ringtone. If your iPhone still doesn't ring for incoming calls, check your ringtone. If you[set up unique ringtones for contacts](https://www.lifewire.com/assign-unique-ringtone-on-iphone-2000557) , a deleted or corrupted ringtone can prevent the phone from ringing when someone calls.  
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To check the default ringtone, tap**Settings** \>**Sounds & Haptics** \>**Ringtone** , and then select a new ringtone.  
  If you miss calls from only certain people, open the Phone app, and then complete these steps:  
    1. Tap**Contacts** .  
@@ -67,20 +43,15 @@ thumbnail: https://www.lifewire.com/thmb/LlZtDMwAbhCoKYVENlyPlWM0oDY=/400x300/fi
    3. Tap**Ringtone** , and then assign the contact a new ringtone.  
 ![Three iOS screens showing Contacts, Edit button and Ringtone area in Phone settings app](https://www.lifewire.com/thmb/dQgktPdfOQV7lnazDKmKLLfIXPI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-5bbe5923c9e77c005156dd60.jpg)  
  If the unique ringtone is the source of the problem, find all the contacts to whom you assigned that ringtone and select a new ringtone for each.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 8. [Make sure the phone isn't stuck in Headphone mode](https://www.lifewire.com/fix-iphone-stuck-in-headphone-mode-4175912) . It could be that your iPhone is ringing but sending the audio to the wrong place. In this situation, the iPhone thinks that another audio source is attached to it—like headphones or a Bluetooth device—and tries to ring there instead of through your iPhone speaker.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## If None of These Tips Fixed the Problem
 
  If you tried all these tips and still don't hear your incoming calls, it's time to consult the experts.[Make an Apple Genius Bar appointment](https://www.lifewire.com/how-to-make-an-apple-genius-bar-appointment-1999601) at your local Apple Store or[contact an Apple-authorized service provider](https://support.apple.com/repair) , and bring in your iPhone for inspection and repair.
@@ -88,17 +59,12 @@ thumbnail: https://www.lifewire.com/thmb/LlZtDMwAbhCoKYVENlyPlWM0oDY=/400x300/fi
 [How to Fix It When iPhone Call Volume Is Low](https://www.lifewire.com/fix-low-volume-on-call-on-iphone-5186012)
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Causes of the iPhone Not Ringing Problem
 
  If your iPhone isn't ringing, there are several possible culprits:
@@ -138,8 +104,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +111,19 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-the-ultimate-playbook-for-podcast-titling-success-and-50plus-name-suggestions/"><u>[New] The Ultimate Playbook for Podcast Titling Success & 50+ Name Suggestions</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-creating-a-tranquil-auditory-space-with-tech/"><u>[Updated] In 2024, Creating a Tranquil Auditory Space with Tech</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-decoding-the-economic-riches-of-mr-beast/"><u>[Updated] In 2024, Decoding the Economic Riches of Mr. Beast</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-xsplit-sourcebook-exclusive-split-and-review-content/"><u>[Updated] In 2024, XSplit Sourcebook Exclusive Split & Review Content</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-how-youtubes-creative-commons-shapes-video-production/"><u>2024 Approved How YouTube's Creative Commons Shapes Video Production</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-upgrades-for-android-overcoming-shortcomings-to-challenge-apples-ios-dominance/"><u>Essential Upgrades for Android: Overcoming Shortcomings to Challenge Apple's iOS Dominance</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-streaming-your-windows-pc-screen-onto-the-television-using-chromecast/"><u>Guide: Streaming Your Windows PC Screen Onto the Television Using Chromecast</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/heads-up-display-for-cyclists-yes-transforming-biking-experience-with-photochromic-glasses-insights-by-zdnet/"><u>Heads-Up Display for Cyclists? Yes! Transforming Biking Experience with Photochromic Glasses | Insights by ZDNET</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>How to Fix Life360 Shows Wrong Location On Apple iPhone 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-stand-out-as-an-elite-gamer-on-youtube/"><u>In 2024, Stand Out as an Elite Gamer on Youtube</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/optimal-devices-for-photogrammetric-movies/"><u>Optimal Devices for Photogrammetric Movies</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-distinctive-traits-of-the-latest-apple-airpods-a-comparative-analysis/"><u>Unveiling The Distinctive Traits of the Latest Apple AirPods - A Comparative Analysis</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Anticipate This Fall's Tech Evolution as Apple Reveals New Upgrades for iPhone, iPad, and More – Featuring Advanced AI | Analysis
-date: 2024-10-29T20:39:50.872Z
-updated: 2024-11-05T18:32:50.235Z
+date: 2024-11-10T18:46:53.267Z
+updated: 2024-11-15T23:37:00.547Z
 tags:
   - apple
 categories:
@@ -69,10 +69,10 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -92,6 +92,13 @@ Adam Breeden/ZDNET
 * The Messages app now supports [**Rich Communication Services (RCS).**](https://www.zdnet.com/article/apple-is-finally-adding-rcs-to-the-iphone-and-i-couldnt-be-more-excited/)
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## WatchOS 11
 
@@ -116,13 +123,6 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -153,10 +153,10 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -168,10 +168,10 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -218,24 +218,18 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-invisistorytelling-the-complete-guide-for-stealthy-sharing/"><u>[New] 2024 Approved InvisiStorytelling The Complete Guide for Stealthy Sharing</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-from-snapshots-to-videos-your-maccam-adventure-for-2024/"><u>[Updated] From Snapshots to Videos Your MacCam Adventure for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-laugh-out-loud-on-your-iphone/"><u>2024 Approved Laugh Out Loud on Your iPhone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/a-guide-to-aether-unraveling-its-identity-and-steps-for-membership/"><u>A Guide to Aether: Unraveling Its Identity & Steps for Membership</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-steps-to-retrieve-accidentally-erased-emails-from-googles-inbox/"><u>Easy Steps to Retrieve Accidentally Erased Emails From Google's Inbox</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/enhance-indoor-tv-viewing-techniques-for-strengthening-digital-tv-signals-with-in-home-antennas/"><u>Enhance Indoor TV Viewing: Techniques for Strengthening Digital TV Signals with In-Home Antennas</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ensuring-privacy-unveiling-the-measures-apple-takes-to-protect-your-ai-cloud-data-insights-from-zdnet/"><u>Ensuring Privacy: Unveiling the Measures Apple Takes to Protect Your AI Cloud Data - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-tips-for-fixing-non-responsive-mozilla-thunderbird-application/"><u>Expert Tips for Fixing Non-Responsive Mozilla Thunderbird Application</u></a></li>
-<li><a href="https://extra-information.techidaily.com/expert-tips-for-optimizing-your-srt-setup/"><u>Expert Tips for Optimizing Your SRT Setup</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-efficiently-purge-several-friends-from-your-snapchat-at-once/"><u>How To Efficiently Purge Several Friends From Your Snapchat at Once</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-honor-v-purse-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Honor V Purse Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-lenovo-thinkphone-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Lenovo ThinkPhone Without PUK Codes</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigate-with-ease-unveiling-five-prime-iphone-compatible-gps-apps/"><u>Navigate with Ease: Unveiling Five Prime iPhone-Compatible GPS Apps</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-oleaut32dll-not-detected-a-step-by-step-guide/"><u>Resolving 'OleAut32.dll' Not Detected: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-the-puzzle-how-sandstorms-game-bugs-are-finally-squashed/"><u>Solving the Puzzle – How Sandstorm's Game Bugs Are Finally Squashed</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/student-savings-on-streaming-your-ultimate-guide-to-cheaper-spotify-music-passes/"><u>Student Savings on Streaming: Your Ultimate Guide to Cheaper Spotify Music Passes</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unfolding-the-details-samsung-galaxy-z-fold-6s-launch-info-cost-specs-and-latest-updates/"><u>Unfolding the Details: Samsung Galaxy Z Fold 6'S Launch Info, Cost, Specs & Latest Updates</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/l-anonymity-in-sharing-blurring-methods-explained-for-2024/"><u>Visual Anonymity in Sharing Blurring Methods Explained for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722883040793-are-iphone-13-devices-built-with-splash-or-spill-resistance/"><u>Are iPhone 13 Devices Built with Splash or Spill Resistance?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/error-code-10-explained-steps-to-get-your-gadget-up-and-running-again/"><u>Error Code 10 Explained: Steps to Get Your Gadget Up and Running Again</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expand-your-workspace-set-up-two-displays-on-your-m3-macbook-pro-as-effortlessly-as-you-do-on-the-macbook-air-insights-from-zdnet/"><u>Expand Your Workspace: Set Up Two Displays on Your M3 MacBook Pro as Effortlessly as You Do on the MacBook Air - Insights From ZDNet</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-htc-u23-by-fonelab-android-recover-messages/"><u>How To Restore Missing Messages Files from HTC U23</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-use-chatgpt-to-write-a-youtube-video-script/"><u>How to Use ChatGPT to Write a YouTube Video Script</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Realme Narzo 60x 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722855069295-no-more-text-while-watching-turn-off-subtitles-on-amazon-prime-here/"><u>No More Text While Watching? Turn Off Subtitles on Amazon Prime Here</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/passos-simplificados-para-a-restauracao-de-um-disco-apagado-no-windows-11/"><u>Passos Simplificados Para a Restauração De Um Disco Apagado No Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/staying-with-apple-watch-series-7-the-key-reasons-against-moving-to-series-10-zdnets-tech-perspective/"><u>Staying with Apple Watch Series 7: The Key Reasons Against Moving to Series 10 | ZDNET's Tech Perspective</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-affordable-20-anker-charger-why-this-budget-friendly-battery-pack-beats-all-competing-options-insights/"><u>The Affordable $20 Anker Charger: Why This Budget-Friendly Battery Pack Beats All Competing Options - Insights</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/setting-visualizations-for-the-year-ahead-for-2024/"><u>Trendsetting Visualizations for the Year Ahead for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mp4gif/"><u>シームレスなMP4とGIF間の変換：モバビのトップテクニックを解説する</u></a></li>
 </ul></div>
 

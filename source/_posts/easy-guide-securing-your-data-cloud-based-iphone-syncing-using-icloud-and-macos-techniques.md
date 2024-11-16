@@ -1,7 +1,7 @@
 ---
 title: "Easy Guide: Securing Your Data - Cloud-Based iPhone Syncing Using iCloud & macOS Techniques"
-date: 2024-11-02T23:20:28.580Z
-updated: 2024-11-05T17:38:14.875Z
+date: 2024-11-09T00:52:13.609Z
+updated: 2024-11-15T19:33:37.166Z
 tags:
   - apple
 categories:
@@ -24,6 +24,13 @@ Using a computer to back up your phone won't cost you a monthly iCloud membershi
 
 ## Here's how to back up your iPhone with iCloud
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 1: Go to settings and tap on your name at the top
 
 Image: Maria Diaz / ZDNet
@@ -34,22 +41,16 @@ This option gives you access to your Apple ID, iCloud, and Purchases settings.
 
 Image: Maria Diaz / ZDNet
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 3: Go to iCloud Backup
 
 Image: Maria Diaz / ZDNet
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 4: Enable iCloud Backup and select Back up Now
 
@@ -66,16 +67,10 @@ Tap on the toggle to enable iCloud backups, and **Back Up Now** will appear, sel
 Image: Maria Diaz / ZDNet
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 2: Open Finder to find your iPhone in Locations
@@ -84,13 +79,6 @@ Image: Maria Diaz / ZDNet
 
 Gone are the days when iTunes was the go-to to get data out of your iPhone. Open **Finder** to view your iPhone in **Locations,** and there will be a snapshot of the current storage information, current iOS and any updates, and backup options.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 3: Select Back up to this Mac and click on Back Up Now
 
 Image: Maria Diaz / ZDNet
@@ -98,6 +86,19 @@ Image: Maria Diaz / ZDNet
 Be sure to select **Back up all of the data on your iPhone to this Mac** before clicking on **Back Up Now**.
 
 Creating a backup could take a few minutes or a couple of hours, depending on how much data you have to back up. Mine took a little over an hour, but I hadn't backed up my iPhone in over a year. 
+
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How much does iCloud cost?
 
@@ -109,13 +110,6 @@ Here are the [different plans iCloud offers](https://apple.sjv.io/c/159047/43503
 * iCloud+: 50GB of storage $0.99
 * iCloud+: 200GB of storage $2.99
 * iCloud+: 2TB of storage $9.99
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Is it better to back up iPhone on a computer or iCloud?
 
@@ -161,22 +155,20 @@ There are a lot of cloud options, but it's important to make sure you're giving 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-crafted-clicks-guide-to-software-and-sites-for-superior-photo-framing/"><u>[Updated] 2024 Approved Crafted Clicks Guide to Software & Sites for Superior Photo Framing</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-top-8-immersive-titles-with-oculus-support/"><u>[Updated] Top 8 Immersive Titles with Oculus Support</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-comprehensive-kinetic-insight-study/"><u>2024 Approved Comprehensive Kinetic Insight Study</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-instructions-for-checking-monthly-data-allowance-usage/"><u>Comprehensive Instructions for Checking Monthly Data Allowance Usage</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/comprehensive-troubleshooting-how-to-repair-file-explorer-issues-and-restore-access/"><u>Comprehensive Troubleshooting: How to Repair File Explorer Issues & Restore Access</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/diving-deeper-into-instagram-functions-features-and-user-experience/"><u>Diving Deeper Into Instagram: Functions, Features & User Experience</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-vivo-y100-5g-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Vivo Y100 5G Pattern Lock Screen</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-samsung-galaxy-f04-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Samsung Galaxy F04 Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/leading-visual-voice-message-apps-this-year/"><u>Leading Visual Voice Message Apps This Year</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/master-the-art-of-finding-individuals-with-these-8-powerful-engines/"><u>Master the Art of Finding Individuals with These 8 Powerful Engines</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/pc-connection-protocols-for-a-fully-operational-psvr-experience/"><u>PC Connection Protocols for a Fully Operational PSVR Experience</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/synergy-in-silicon-bots-tasked-with-equal-creativity-goals/"><u>Synergy in Silicon: Bots Tasked with Equal Creativity Goals</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-4-free-cad-software-options-the-best-pick-for-your-design-needs/"><u>Top 4 Free CAD Software Options: The Best Pick for Your Design Needs</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722853105075-top-gadgets-and-literature-laptops-phones-and-reading-materials-galore/"><u>Top Gadgets & Literature: Laptops, Phones & Reading Materials Galore</u></a></li>
-<li><a href="https://change-location.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-vivo-s17-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Vivo S17 | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ultimate-workflow-for-embedding-subtitle-track-in-mp4s/"><u>Ultimate Workflow for Embedding Subtitle Track in MP4s</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/watching-taylor-swifts-cinematic-journey-step-by-step/"><u>Watching Taylor Swift's Cinematic Journey Step-by-Step</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-balancing-act-weaving-b-roll-into-main-scenes/"><u>[New] Balancing Act Weaving B Roll Into Main Scenes</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-window-capture-suite-pro-xp/"><u>[Updated] Window Capture Suite Pro XP</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/celebrate-memorial-day-with-savings-apple-watch-se-now-at-60-off-my-top-purchase-this-year-zdnet/"><u>Celebrate Memorial Day with Savings! Apple Watch SE Now at $60 Off, My Top Purchase This Year | ZDNET</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ehensive-guide-to-embedding-multiple-youtube-playlists-in-websites/"><u>Comprehensive Guide to Embedding Multiple YouTube Playlists in Websites</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diagnosing-and-repairing-wi-fi-connectivity-issues-on-microsoft-surface-pro/"><u>Diagnosing and Repairing Wi-Fi Connectivity Issues on Microsoft Surface Pro</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-steps-to-deselect-your-favorites-in-every-genre-on-spotify/"><u>Easy Steps to Deselect Your Favorites in Every Genre on Spotify</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effortless-setup-guide-installing-libreoffice-on-macos-the-ultimate-free-microsoft-suite-replacement/"><u>Effortless Setup Guide: Installing LibreOffice on macOS - The Ultimate Free Microsoft Suite Replacement</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-these-10-free-entertainment-platforms-as-great-replacements-for-netflix/"><u>Explore These 10 Free Entertainment Platforms as Great Replacements for Netflix</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/from-stranger-to-friend-key-japanese-phrases/"><u>From Stranger to Friend: Key Japanese Phrases</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-oppo-reno-11-pro-5g-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Oppo Reno 11 Pro 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-v30-lite-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo V30 Lite 5G to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-precision-speed-control-for-elite-pc-users/"><u>In 2024, Precision Speed Control for Elite PC Users</u></a></li>
+<li><a href="https://change-location.techidaily.com/list-of-pokemon-go-joysticks-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-iphone-1212-pro-case-guide-latest-picks-of-the-year-from-cnet/"><u>Ultimate iPhone 12/12 Pro Case Guide: Latest Picks of the Year From CNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-savings-on-the-newest-m2-macbook-air-this-presidents-day-save-300-at-zdnet/"><u>Unlock Savings on the Newest M2 MacBook Air This Presidents' Day - Save $300 at ZDNet!</u></a></li>
 </ul></div>
 

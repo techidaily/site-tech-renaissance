@@ -1,7 +1,7 @@
 ---
 title: Unveiling iOS 18'S Latest Innovations in Apple's Public Beta - Discovered by Experts at ZDNet
-date: 2024-11-02T22:36:51.445Z
-updated: 2024-11-05T18:02:04.941Z
+date: 2024-11-10T16:44:03.961Z
+updated: 2024-11-16T01:51:34.372Z
 tags:
   - apple
 categories:
@@ -79,16 +79,10 @@ She began to play a demonstration video that, dare I confess, is quite moving.
 The fact that someone else can see (a digital version of) your eyes is a touchingly humane feature, even if imperfect. But the simple gesturing and the apparent power of that gesturing is, even on video, quite something.
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Suddenly, it's all business
@@ -130,10 +124,10 @@ I asked if she thought this would become the new way of living, where people wan
 (Well, not quite all the apps. Netflix and YouTube [aren't there](https://www.zdnet.com/article/what-apps-will-be-on-apple-vision-pro-not-these-two-major-ones/).)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Was I sold? Not quite yet
@@ -199,22 +193,21 @@ I asked the female store employee whether she'd be able to try one on before the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-simplified-methods-for-migrating-snapshots-to-storage/"><u>[New] Simplified Methods for Migrating Snapshots to Storage</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-synergizing-brands-on-video-platforms/"><u>[New] Synergizing Brands on Video Platforms</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-expert-tips-for-a-closer-look-at-google-meet-participants/"><u>2024 Approved Expert Tips for a Closer Look at Google Meet Participants</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-infinix-gt-10-pro-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Infinix GT 10 Pro Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apple-enhances-siri-with-ai-advancements-major-updates-coming-insights-from-zdnet/"><u>Apple Enhances Siri with AI Advancements, Major Updates Coming : Insights From ZDNet</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/tifying-the-money-behind-1m-on-youtube/"><u>Demystifying the Money Behind 1M on YouTube</u></a></li>
-<li><a href="https://win-dash.techidaily.com/effortless-multiples-learn-how-to-use-microsoft-excel-for-fast-and-accurate-number-calculations/"><u>Effortless Multiples: Learn How to Use Microsoft Excel for Fast and Accurate Number Calculations</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/embark-on-an-adventure-in-the-marvel-dimension-via-apple-vision-pro-insiders-guide-by-zdnet-revealed-may-30th/"><u>Embark on an Adventure in the Marvel Dimension via Apple Vision Pro, Insider's Guide by ZDNET Revealed May 30Th</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/future-ready-pick-elite-tablet-selection-tested-and-reviewed-by-industry-pros/"><u>Future-Ready Pick: Elite Tablet Selection , Tested & Reviewed by Industry Pros</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/get-apples-full-lineup-iphone-ipad-apple-watch-airpods-and-mac-at-half-the-cost-with-vision-pro/"><u>Get Apple's Full Lineup - iPhone, iPad, Apple Watch, AirPods & Mac at Half the Cost with Vision Pro!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/iphone-devices-affected-apple-withdraws-newest-ios-beta-amidst-critical-failure-claims-insights/"><u>IPhone Devices Affected: Apple Withdraws Newest iOS Beta Amidst Critical Failure Claims - Insights</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mastering-zoom-meetings-with-ease-integrating-skype-functions/"><u>Mastering Zoom Meetings with Ease Integrating Skype Functions</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/painless-audio-progression-the-unobtrusive-way-for-2024/"><u>Painless Audio Progression The Unobtrusive Way for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solutions-for-fixing-libcea32dll-errors-in-windows/"><u>Step-by-Step Solutions for Fixing libcea32.dll Errors in Windows</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-compact-tablets-comprehensive-reviews-and-ratings-by-tech-experts-zdnet/"><u>Top-Rated Compact Tablets : Comprehensive Reviews & Ratings by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-kid-friendly-smartphones-the-safest-options-for-parents-insights/"><u>Top-Rated Kid-Friendly Smartphones: The Safest Options for Parents - Insights</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshoot-stutters-and-lags-proven-fixes-for-a-flawless-baldurs-gate-adventure/"><u>Troubleshoot Stutters & Lags: Proven Fixes for a Flawless Baldur's Gate Adventure</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-instant-thumbnails-for-fortnite-gameplay/"><u>[New] 2024 Approved Instant Thumbnails for Fortnite Gameplay</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-live-stream-tech-showdown-soft-vs-hardscape-winners/"><u>[Updated] 2024 Approved Live Stream Tech Showdown Soft vs Hardscape Winners</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-abandoned-ending-my-discord-service-for-2024/"><u>[Updated] Abandoned Ending My Discord Service for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-tips-for-integrating-supplemental-film-content/"><u>2024 Approved Tips for Integrating Supplemental Film Content</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-tips-for-boosting-work-efficiency-at-home-using-an-ipad-pro-expert-advice-from-zdnet/"><u>Essential Tips for Boosting Work Efficiency at Home Using an iPad Pro - Expert Advice From ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exclusive-picks-the-ultimate-list-of-ongoing-presidents-day-savings-at-amazon-walmart-and-more-zdnet/"><u>Exclusive Picks: The Ultimate List of Ongoing Presidents' Day Savings at Amazon, Walmart, and More | ZDNet</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/guia-paso-a-paso-para-convertir-archivos-wav-a-formato-mp4-sin-coste-mediante-movavi-en-linea/"><u>Guía Paso a Paso Para Convertir Archivos Wav a Formato MP4 Sin Coste Mediante Movavi en Línea</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-wiring-your-laptop-to-project-on-your-television-screen-with-an-hdmi-cable/"><u>Guide: Wiring Your Laptop to Project on Your Television Screen with an HDMI Cable</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-tecno-pova-6-pro-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/macbook-air-with-m1-chip-at-unprecedented-649-exclusive-deal-on-zdnet/"><u>MacBook Air with M1 Chip at Unprecedented $649 – Exclusive Deal on ZDNet!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/maximize-your-apple-watchs-longevity-top-8-essential-battery-saving-tweaks-revealed-insights/"><u>Maximize Your Apple Watch's Longevity: Top 8 Essential Battery-Saving Tweaks Revealed - Insights</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-divide-and-conquer-a-step-by-step-guide-to-splitting-videos-in-windows-live-movie-maker-for-2024/"><u>New Divide and Conquer A Step-by-Step Guide to Splitting Videos in Windows Live Movie Maker for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-continuous-blender-software-freezing-problems-in-5-easy-steps/"><u>Resolving Continuous Blender Software Freezing Problems in 5 Easy Steps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-your-windows-11-slow-shutdown-problem-a-step-by-step-guide/"><u>Resolving Your Windows 11 Slow Shutdown Problem: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/seamless-integration-move-your-apple-music-playlists-to-youtube-music-and-back/"><u>Seamless Integration: Move Your Apple Music Playlists to YouTube Music and Back</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-ultimate-list-of-66-must-follow-travel-bloggers-on-twitter/"><u>Unveiling the Ultimate List of 66 Must-Follow Travel Bloggers on Twitter</u></a></li>
 </ul></div>
 

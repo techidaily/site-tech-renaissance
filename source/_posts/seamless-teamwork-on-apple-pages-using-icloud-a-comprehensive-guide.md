@@ -1,7 +1,7 @@
 ---
 title: "Seamless Teamwork on Apple Pages Using iCloud: A Comprehensive Guide"
-date: 2024-11-03T18:36:05.010Z
-updated: 2024-11-05T18:29:01.737Z
+date: 2024-11-11T02:57:57.282Z
+updated: 2024-11-15T22:45:13.010Z
 tags:
   - apple
 categories:
@@ -28,16 +28,10 @@ I use Apple Pages when collaborating on fiction with my editor and publisher. No
 Let me show you how easy it is to use the Collaboration feature found in Apple Pages. Not only is the app free, but the feature is also built in (so you don't have to install any extra software). 
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Requirements
@@ -46,16 +40,16 @@ The only things you'll need to make this work are a running instance of MacOS (w
 
 I'll be demonstrating on a [MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fmacbook-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) running MacOS Monterey.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Enable iCloud Collaboration
 
 Before you can collaborate on a Pages document, you must first enable iCloud Collaboration. To do that, follow these steps.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
@@ -73,14 +67,14 @@ In the next window (**Figure 2**), click the check box for Pages and then click 
 
 Image: Jack Wallen
 
-## Enable the Collaboration feature
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Enable the Collaboration feature
 
 ### 1\. Open an Apple Pages document
 
@@ -97,13 +91,6 @@ Click Collaborate and you'll be informed the document must be moved to iCloud be
 **Figure 4**: You cannot collaborate on a document until it's been moved to iCloud.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Enable Track Changes
 
@@ -122,6 +109,19 @@ Image: Jack Wallen
 Make sure to configure both the Who Can Access and Permission options. Here, you also decide how to share the document with your collaborators. Choose Email, Messages, Copy Link, AirDrop, or Twitter. 
 
 Depending on the sharing method you choose, you'll either open Apple Mail, Messages, AirDrop, or Twitter, or you'll copy the link to the file to your clipboard. Make your selection and click Share, at which point the document will be activated for sharing. Whoever is the recipient of the link will then be able to access the file either from within iCloud (if Pages isn't available on their OS) or directly from within Apple Pages.
+
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Stop sharing
 
@@ -163,20 +163,18 @@ And that's all there is to collaborating with Apple Pages. This is a great featu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-the-ultimate-screen-recorders-guide-trusted-recommendations/"><u>[New] 2024 Approved The Ultimate Screen Recorders Guide - Trusted Recommendations</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-dissecting-the-efficiency-of-vidmas-screen-recorders/"><u>[New] In 2024, Dissecting the Efficiency of Vidma's Screen Recorders</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-10-best-history-youtube-channels-for-students-and-history-lovers/"><u>[Updated] 2024 Approved 10 Best History YouTube Channels for Students & History Lovers</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-boost-your-channels-a-guide-to-best-youtube-seo-resources/"><u>[Updated] In 2024, Boost Your Channels A Guide to Best YouTube SEO Resources</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-linkedin-profile-video-introduction-scope-dimensions-minutes/"><u>[Updated] LinkedIn Profile Video Introduction Scope, Dimensions, Minutes</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exclusive-guide-picking-the-perfect-vpn-for-your-mac-in-depth-analysis-by-techradar/"><u>Exclusive Guide: Picking the Perfect VPN for Your Mac – In-Depth Analysis by TechRadar</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/finding-lost-dark-mode-slider-in-win-oses/"><u>Finding Lost Dark Mode Slider in Win OSes</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-3-top-notch-smartphones-excelling-at-video-capture/"><u>In 2024, 3 Top-Notch Smartphones Excelling at Video Capture</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/samsung-surpasses-apple-in-smartphone-shipments-competitor-emerges-as-strong-contender-insights/"><u>Samsung Surpasses Apple in Smartphone Shipments, Competitor Emerges as Strong Contender: Insights</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/sending-and-receiving-imessages-via-windows-a-comprehensive-guide-zdnet/"><u>Sending & Receiving iMessages via Windows: A Comprehensive Guide (ZDNet)</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/sj-cam-s6-unboxed-a-full-evaluation-in-detail-for-2024/"><u>SJ-CAM S6 Unboxed A Full Evaluation in Detail for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-on-getting-started-with-your-brand-new-ipad-digital-gadgets-hub/"><u>Step-By-Step Tutorial on Getting Started with Your Brand-New iPad - Digital Gadgets Hub</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-iphone-16pro-cases-for-2-groovy-geniuses-our-picks-and-tests/"><u>Ultimate Guide to iPhone 16/Pro Cases for 2 Groovy Geniuses! - Our Picks & Tests</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-selection-of-iphone-12-and-12-pro-skins-and-shields-reviewed-tech-insights-from-zdnet/"><u>Ultimate Selection of iPhone 12 and 12 Pro Skins & Shields Reviewed | Tech Insights From ZDNET</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/uninstalling-the-copilot-add-on-from-your-windows-11-operating-system/"><u>Uninstalling the Copilot Add-On From Your Windows 11 Operating System</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-proven-techniques-to-amplify-your-youtube-presence/"><u>[New] 2024 Approved Proven Techniques to Amplify Your YouTube Presence</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-no-cost-treasures-aplus-ae-template-collections/"><u>[New] In 2024, No-Cost Treasures A+ AE Template Collections</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-mastering-jpeg-to-gif-discover-the-top-10-free-options-for-2024/"><u>[Updated] Mastering JPEG-to-GIF Discover the Top 10 Free Options for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-sync-systems-swiftly-fastest-file-methods/"><u>[Updated] Sync Systems Swiftly Fastest File Methods</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-mastery-of-screen-recording-top-6-on-mac-systems/"><u>2024 Approved Mastery of Screen Recording Top 6 on Mac Systems</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/articulating-emotion-on-stage-through-words-for-2024/"><u>Articulating Emotion on Stage Through Words for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-apple-stays-tight-on-iphone-distributions-across-europe-as-reported-by-zdnet/"><u>How Apple Stays Tight on iPhone Distributions Across Europe, as Reported by ZDNet</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-exporting-your-creativity-imovie-videos-for-youtube-audiences/"><u>In 2024, Exporting Your Creativity IMovie Videos for YouTube Audiences</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-apple-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, How To Unlock A Found Apple iPhone 12 Pro Max?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/insights-into-the-new-playstation-ps5-slim-cost-unveiling-moment-and-hardware-specs-revealed/"><u>Insights Into the New PlayStation ([PS5] Slim) - Cost, Unveiling Moment, and Hardware Specs Revealed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/latest-update-no-more-digital-purchases-for-apple-watch-series-9ultra-existing-model-fixes-compromised-insights/"><u>Latest Update: No More Digital Purchases for Apple Watch Series 9/Ultra - Existing Model Fixes Compromised | Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-network-hurdles-a-users-manual-to-fixing-surface-pro-wi-fi-problems/"><u>Overcoming Network Hurdles: A User's Manual to Fixing Surface Pro Wi-Fi Problems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/zdnet-exclusive-apples-next-gen-airpods-to-include-cameras-set-for-release-in-2026/"><u>ZDNet Exclusive: Apple's Next-Gen AirPods to Include Cameras, Set for Release in 2026</u></a></li>
 </ul></div>
 

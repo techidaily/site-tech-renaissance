@@ -1,7 +1,7 @@
 ---
 title: IOS 17.5 Beta 2 Unlocks New Feature for EU - Direct Web-Based App Downloads on Apple Devices | ZDNet
-date: 2024-10-30T22:19:24.233Z
-updated: 2024-11-05T20:02:07.192Z
+date: 2024-11-14T00:40:47.312Z
+updated: 2024-11-15T18:00:32.682Z
 tags:
   - apple
 categories:
@@ -49,10 +49,10 @@ Allowing the external installation means you're agreeing to the developer's term
 As far as app updates go, as long as developers implement their web distribution and APIs correctly, apps downloaded from the web should update automatically.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How do developers qualify?
@@ -66,10 +66,10 @@ Developers should also be able to attest to IP disputes and government take-down
 Once qualification is asserted, Apple will give authorized app developers access to an API for web downloads. Apps downloaded from websites should look and act like other apps downloaded on the App Store. Users can back up, restore, and update these apps like any other.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why it's a big deal
@@ -112,16 +112,18 @@ As the DMA only covers the EU, the ability to sideload these apps is restricted 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-assessing-instagrams-limits-on-posted-videos-for-2024/"><u>[Updated] Assessing Instagram's Limits on Posted Videos for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-comparing-leading-screen-recorder-software/"><u>[Updated] In 2024, Comparing Leading Screen Recorder Software</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-pushing-boundaries-in-visual-storytelling-with-hdr/"><u>[Updated] Pushing Boundaries in Visual Storytelling with HDR</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-essential-10-boosters-for-multi-device-use/"><u>2024 Approved Essential 10 Boosters for Multi-Device Use</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/experience-rapid-iphone-16-charging-esr-releases-next-gen-qi2-magsafe-charger-enhanced-with-innovative-cryoboost-technology-for-cool-fast-power/"><u>Experience Rapid iPhone 16 Charging: ESR Releases Next-Gen Qi2 MagSafe Charger Enhanced with Innovative CryoBoost Technology for Cool, Fast Power</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-passfab-apple-iphone-se-2022-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>In 2024, PassFab Apple iPhone SE (2022) Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/laughing-lineup-step-by-step-guide-to-funny-memes/"><u>Laughing Lineup Step-by-Step Guide to Funny Memes</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/preserving-sound-quality-a-guide-to-separating-audio-from-mp4-files-with-zero-data-compression/"><u>Preserving Sound Quality: A Guide to Separating Audio From MP4 Files with Zero Data Compression</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-apple-watch-straps-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top-Rated Apple Watch Straps : Comprehensive Reviews by Tech Gurus - ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-keyboards-comprehensive-reviews-by-tech-gurus-pcmag/"><u>Top-Rated Keyboards : Comprehensive Reviews by Tech Gurus | PCMag</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/transitioning-from-classic-to-contemporary-how-apple-drops-finewoven-for-the-new-era-of-beats-accessories-as-reported/"><u>Transitioning From Classic to Contemporary: How Apple Drops FineWoven for the New Era of Beats Accessories as Reported</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-step-by-step-embarking-on-your-ifunny-meme-adventure/"><u>2024 Approved Step-By-Step Embarking on Your iFunny Meme Adventure</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-versions-of-windows-cuttingediting-programs/"><u>2024 Approved Versions of Windows Cutting/Editing Programs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/boost-your-apple-watchs-battery-durability-with-these-8-optimized-settings-revealed-by-zdnet/"><u>Boost Your Apple Watch's Battery Durability with These 8 Optimized Settings Revealed by ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/chronological-order-of-x-men-films-for-optimal-viewing-pleasure/"><u>Chronological Order of X-Men Films for Optimal Viewing Pleasure</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-driven-success-harnessing-smart-automation/"><u>Cookiebot-Driven Success: Harnessing Smart Automation</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-latest-enhancements-coming-to-certain-apple-airpod-variants-this-fall-as-revealed-on-zdnet/"><u>Discover the Latest Enhancements Coming to Certain Apple AirPod Variants This Fall, as Revealed on ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-the-leading-mac-applications-for-2asters-restaurant/"><u>Explore the Leading Mac Applications for 2Aster's Restaurant.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-12-pro-max-without-apple-password-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 12 Pro Max Without Apple Password? | Stellar</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Tecno Spark 20? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-vivo-y56-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Vivo Y56 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Poco X5? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionizing-enterprises-how-five-companies-showcase-the-impact-of-the-apple-vision-pro/"><u>Revolutionizing Enterprises: How Five Companies Showcase the Impact of the Apple Vision Pro</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/snag-the-discounted-magic-keyboard-from-apple-save-100-this-black-friday/"><u>Snag the Discounted Magic Keyboard From Apple - Save $100 This Black Friday!</u></a></li>
 </ul></div>
 

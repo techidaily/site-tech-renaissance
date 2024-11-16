@@ -1,7 +1,7 @@
 ---
 title: Why iPadOS 18'S Latest Feature, Unveiled at WWDC 2024, Is a Game-Changer for Switching to the Apple Tablet Experience | ZDNET Exclusive
-date: 2024-10-29T20:55:21.023Z
-updated: 2024-11-05T20:52:29.066Z
+date: 2024-11-10T00:47:09.844Z
+updated: 2024-11-15T22:28:34.579Z
 tags:
   - apple
 categories:
@@ -58,6 +58,13 @@ The watch is also a great way to reduce distractions. When you have your phone o
 
 Of course, your mileage may vary with this experience. Not everyone has or wants a cellular-connected Apple Watch, and all the dings and buzzes you get during the day can be distracting. But for me, having the watch strapped to my wrist and paired with my phone number makes it incredibly easy to cut the reliance on my phone and reduce the temptation to get carried away with all the apps I have installed. It's great.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. A truly great fitness-tracking experience
 
 Jason Hiner/ZDNET
@@ -78,13 +85,6 @@ I can't tell you how many times I've used a smartwatch and wanted it to replicat
 
 Seriously, the Apple Watch's notification system is excellent. A gentle tap on the wrist lets you know something has just popped up, while the animation from app icon to notification is fast and clear. You can swipe the alert away with minimal effort, the notification shade is tight yet descriptive, and any notification you dismiss is also dismissed from your phone (a synchronization many Android phones don't have when paired with a smartwatch). The Apple Watch has the best notifications in the game, bar none.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. The greatest haptics on any watch
 
 Jason Hiner/ZDNET
@@ -96,16 +96,16 @@ One reason notifications are so good is the Apple Watch's Taptic Engine, which d
 The feel of haptics on a watch can set the tone for how you perceive the quality of the device. My [ScanWatch from Withings](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FWithings-ScanWatch-Light-Smartwatch-Monitoring%2Fdp%2FB0CG9RZFLN%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd68bc2ab-4b95-4dbb-8461-3abb4a46ecac%7Cdtp&dtb=1), for example, buzzes like a cheap cell phone from 2014\. My [Galaxy Watch](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Bluetooth-Smartwatch-Personalized-Advanced%2Fdp%2FB0C797946T%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd68bc2ab-4b95-4dbb-8461-3abb4a46ecac%7Cdtp&dtb=1)'s vibrations are stronger and not as buzzy, but feel unnatural. The Apple Watch's haptics feel the most natural by far, which makes the watch feel great to wear by extension.
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Navigating with Apple Maps
@@ -119,10 +119,10 @@ So, what makes navigating with Apple Maps on my Apple Watch so good? I like Siri
 If I'm going somewhere I've never been, I wear my Apple Watch simply for the navigation perks. Yes, you'll find a similar experience on other smartwatch platforms, but I like Apple's the most. Sue me.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. watchOS is the best smartwatch platform
@@ -140,10 +140,16 @@ The platform just works the way you'd expect. When paired to your iPhone, so man
 When I have to test a new Wear OS watch, I immediately miss using watchOS. It feels clunkier and slower, the watch faces aren't as nice (although there are some decent third-party options), and the apps aren't as good. If you want the best smartwatch software experience and have to ditch your Android phone for an iPhone, making that switch is worth it. I have friends who have switched to the iPhone simply because the Apple Watch and watchOS are so good.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -180,19 +186,18 @@ While the [Apple Watch](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=http
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-capture-heights-with-dji-spark-the-small-drone-selfie-powerhouse/"><u>[Updated] Capture Heights with DJI Spark The Small Drone Selfie Powerhouse</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-grasping-virtual-realitys-revolutionary-gear/"><u>[Updated] Grasping Virtual Reality's Revolutionary Gear</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/breaking-into-twitter-live-your-strategy-for-2024/"><u>Breaking Into Twitter Live Your Strategy for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/enrich-meeting-experience-a-compilation-of-the-top-10-free-apps/"><u>Enrich Meeting Experience A Compilation of the Top 10 Free Apps</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-apple-can-level-the-playing-field-in-intelligence-tech-against-giants-openai-and-google-according-to-zdnet-analysis/"><u>How Apple Can Level the Playing Field in Intelligence Tech Against Giants OpenAI and Google, According to ZDNET Analysis</u></a></li>
-<li><a href="https://fox-access.techidaily.com/illuminating-pathways-through-mixed-realitys-domain-for-2024/"><u>Illuminating Pathways Through Mixed Reality's Domain for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-changefake-your-infinix-smart-8-hd-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Infinix Smart 8 HD Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/macbook-air-with-m1-chip-now-at-unbeatable-price-of-649-the-ultimate-deal/"><u>MacBook Air with M1 Chip Now at Unbeatable Price of $649: The Ultimate Deal</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-tech-terrain-with-tom-innovative-computer-components-explained/"><u>Navigating Tech Terrain with Tom: Innovative Computer Components Explained</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/safely-patch-and-enhance-with-the-latest-macos-14er-release-update-without-worry-zdnet/"><u>Safely Patch and Enhance with the Latest macOS 14.er Release - Update Without Worry | ZDNET</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-your-imessage-delivery-problems-discover-causes-and-fixes-on-zdnet/"><u>Solving Your iMessage Delivery Problems: Discover Causes and Fixes on ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/telegram-unveiled-an-insight-into-this-popular-communication-application/"><u>Telegram Unveiled: An Insight Into This Popular Communication Application</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-notetaking-tablets-in-depth-comparison-and-reviews/"><u>Top Rated Notetaking Tablets - In Depth Comparison & Reviews</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/updated-hp-officejet-pro-8715-drivers-free-download-for-windows-11108/"><u>Updated HP OfficeJet Pro 8715 Drivers: Free Download for Windows [11/10/8]</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-decision-time-choose-your-dream-video-editor-filmora-or-democracy-creator/"><u>[New] 2024 Approved Decision Time! Choose Your Dream Video Editor (Filmora or Democracy Creator)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-image-improvement-masterclass-top-apps-decoded/"><u>[New] 2024 Approved Image Improvement Masterclass - Top Apps Decoded</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-top-online-spaces-for-youtube-traffic-increase/"><u>[New] In 2024, Top Online Spaces for YouTube Traffic Increase</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-selecting-premium-backgrounds-for-zoomgoogle-calls/"><u>[Updated] Selecting Premium Backgrounds for Zoom/Google Calls</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-how-to-optimize-user-interface-designs-for-visionos-with-apples-best-practices-as-featured-in-zdnet/"><u>Expert Tips: How to Optimize User Interface Designs for VisionOS with Apple's Best Practices, as Featured in ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/future-proofing-communication-how-apple-bolsters-imessage-security-insights-from-zdnet/"><u>Future-Proofing Communication: How Apple Bolsters iMessage Security - Insights From ZDNet</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-comprehensive-guide-to-sns-hdr-pro-and-similar-software/"><u>In 2024, Comprehensive Guide to SNS HDR Pro and Similar Software</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/monetizing-your-youtube-content-costing/"><u>Monetizing Your YouTube Content Costing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/seamless-teamwork-on-apple-pages-using-icloud-a-comprehensive-guide/"><u>Seamless Teamwork on Apple Pages Using iCloud: A Comprehensive Guide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211364509-9798330200931-the-secret-teachings-of-all-ages/"><u>The Secret Teachings of All Ages | Free Book</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-of-its-game-discover-enhanced-apple-vision-pro-demo-experiences-booking-guide-for-an-unbeatable-test-drive/"><u>Top of Its Game: Discover Enhanced Apple Vision Pro Demo Experiences - Booking Guide for an Unbeatable Test Drive</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transcribe-without-breaking-the-bank-learn-how-with-our-free-guide-for-2024/"><u>Transcribe Without Breaking the Bank Learn How with Our Free Guide for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-choosing-the-perfect-ipads-of-2024-expert-insights-and-ratings/"><u>Ultimate Guide to Choosing the Perfect iPads of 2024 - Expert Insights and Ratings</u></a></li>
 </ul></div>
 

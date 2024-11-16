@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Methods for Resolving Windows Code 28 Issues
-date: 2024-09-09T15:47:15.272Z
-updated: 2024-09-10T15:47:15.272Z
+date: 2024-11-11T16:26:41.588Z
+updated: 2024-11-15T18:50:21.869Z
 categories:
   - BestProducts
 description: This Article Describes Troubleshooting Methods for Resolving Windows Code 28 Issues
@@ -9,23 +9,11 @@ excerpt: This Article Describes Troubleshooting Methods for Resolving Windows Co
 thumbnail: https://www.lifewire.com/thmb/by67YPqHc5dBpPbbI5keeWv2aMg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/code-28-device-manager-error-3d84945a44e0467080dc5a77005500e2.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Troubleshooting Quiet Moments: Resolve iPhone's No-Ringtone Issue Easily
  There are many reasons why an iPhone won't ring, but most of these problems are easy to fix. If your iPhone isn't ringing when someone calls you, try these tips before concluding that your iPhone needs an expensive repair.
 
  The tips in this article apply to all supported iPhone models and recent iOS versions, including iOS 13, 12, and 11.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Fix an iPhone That Won't Ring
 
  Try these common fixes in the order that we present them:
@@ -45,12 +33,6 @@ thumbnail: https://www.lifewire.com/thmb/by67YPqHc5dBpPbbI5keeWv2aMg=/400x300/fi
    3. Tap the red circle beside the blocked number, and then tap**Unblock** .  
 ![An iPhone with the Phone settings, Blocked Contacts heading, and Unblock button highlighted](https://www.lifewire.com/thmb/MPfrUdCCr2HLjH9Va4OIkm1zN3o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-2308e3feb71f4c9194900da12675ecb2.jpg)
 6. Disable Silence Unknown Callers. To help users avoid spam calls and robocalls, Apple added a feature in[iOS 13](https://www.lifewire.com/ios-13-4586609) that automatically silences all calls from unknown numbers. If this feature is turned on, you won't hear calls from numbers that aren't in the Contacts app. Instead, the iPhone sends them right to voicemail. To disable this feature, select**Settings** \>**Phone** , and then turn off the**Silence Unknown Callers** switch.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you want to keep Silence Unknown Callers turned on but still get calls from certain numbers,[add those callers to Contacts](https://www.lifewire.com/manage-contacts-iphone-address-book-2000570) .  
 ![iPhone showing the Phone settings and Silence Unknown Callers switch](https://www.lifewire.com/thmb/PfmlpvYkxD5z2_TErc_402j9xA8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-b93c2874c9784090a83900ec430caf0b.jpg)
 7. Change your custom ringtone. If your iPhone still doesn't ring for incoming calls, check your ringtone. If you[set up unique ringtones for contacts](https://www.lifewire.com/assign-unique-ringtone-on-iphone-2000557) , a deleted or corrupted ringtone can prevent the phone from ringing when someone calls.  
@@ -61,20 +43,15 @@ thumbnail: https://www.lifewire.com/thmb/by67YPqHc5dBpPbbI5keeWv2aMg=/400x300/fi
    3. Tap**Ringtone** , and then assign the contact a new ringtone.  
 ![Three iOS screens showing Contacts, Edit button and Ringtone area in Phone settings app](https://www.lifewire.com/thmb/dQgktPdfOQV7lnazDKmKLLfIXPI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-5bbe5923c9e77c005156dd60.jpg)  
  If the unique ringtone is the source of the problem, find all the contacts to whom you assigned that ringtone and select a new ringtone for each.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 8. [Make sure the phone isn't stuck in Headphone mode](https://www.lifewire.com/fix-iphone-stuck-in-headphone-mode-4175912) . It could be that your iPhone is ringing but sending the audio to the wrong place. In this situation, the iPhone thinks that another audio source is attached to it—like headphones or a Bluetooth device—and tries to ring there instead of through your iPhone speaker.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## If None of These Tips Fixed the Problem
 
  If you tried all these tips and still don't hear your incoming calls, it's time to consult the experts.[Make an Apple Genius Bar appointment](https://www.lifewire.com/how-to-make-an-apple-genius-bar-appointment-1999601) at your local Apple Store or[contact an Apple-authorized service provider](https://support.apple.com/repair) , and bring in your iPhone for inspection and repair.
@@ -82,11 +59,12 @@ thumbnail: https://www.lifewire.com/thmb/by67YPqHc5dBpPbbI5keeWv2aMg=/400x300/fi
 [How to Fix It When iPhone Call Volume Is Low](https://www.lifewire.com/fix-low-volume-on-call-on-iphone-5186012)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Causes of the iPhone Not Ringing Problem
 
  If your iPhone isn't ringing, there are several possible culprits:
@@ -126,8 +104,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +111,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-leading-three-cameras-for-ultra-detailed-videography/"><u>[Updated] 2024 Approved Leading Three Cameras for Ultra-Detailed Videography</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-professional-fb-ad-videos-made-simple-free-kit-included-for-2024/"><u>[Updated] Professional FB Ad Videos Made Simple – Free Kit Included for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-unleash-potential-quick-tips-for-establishing-a-business-and-personal-youtube-presence-for-2024/"><u>[Updated] Unleash Potential Quick Tips for Establishing a Business & Personal YouTube Presence for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-engaging-audiences-the-impact-of-adding-youtube-music-to-videos/"><u>2024 Approved Engaging Audiences The Impact of Adding YouTube Music to Videos</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/aesthetic-meets-lightweight-with-acers-latest-chromebook-r-11-review/"><u>Aesthetic Meets Lightweight with Acer's Latest Chromebook R 11 Review</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-latest-canon-mf8200c-drivers-compatible-with-windows-7-81-and-10/"><u>Download the Latest Canon MF8200C Drivers: Compatible with Windows 7, 8.1 & 10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-strategies-for-sharing-and-editing-apple-pages-files-through-icloud-insights/"><u>Effective Strategies for Sharing and Editing Apple Pages Files Through iCloud - Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-ai-medical-accuracy-how-to-verify-information/"><u>Enhancing AI Medical Accuracy: How to Verify Information</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/google-tv-chromecast-unveiled-a-new-era-beyond-amazons-fire-tv/"><u>Google TV Chromecast Unveiled: A New Era Beyond Amazon's Fire TV</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-curating-the-best-video-game-openers-on-yt-no-money-max-impact/"><u>In 2024, Curating the Best Video Game Openers on YT No Money, Max Impact?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-craft-a-comprehensive-guide-to-the-powerful-mac-os-document-editing-platform/"><u>Mastering Craft: A Comprehensive Guide to the Powerful Mac OS Document Editing Platform</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/reviving-a-blackout-on-your-android-device-expert-fixes-for-common-issues/"><u>Reviving a Blackout on Your Android Device: Expert Fixes for Common Issues</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-tech-face-off-begins-how-dysons-latest-ontrac-headphones-could-eclipse-the-dominance-of-airpod-maxes/"><u>The Tech Face-Off Begins: How Dyson's Latest OnTrac Headphones Could Eclipse the Dominance of AirPod Maxes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-strategy-for-a-productive-home-office-using-the-ipad-pro-insights/"><u>The Ultimate Strategy for a Productive Home Office Using the iPad Pro, Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-ranking-mini-tablets-comprehensive-reviews-by-tech-experts-techradar/"><u>Top-Ranking Mini Tablets : Comprehensive Reviews by Tech Experts | TechRadar</u></a></li>
+</ul></div>
 

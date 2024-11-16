@@ -1,7 +1,7 @@
 ---
 title: Maximize Productivity and Explore New Horizons with the Latest Upgrades to Popular XR Glasses - Insights
-date: 2024-11-01T22:31:27.150Z
-updated: 2024-11-05T20:00:28.585Z
+date: 2024-11-11T16:18:00.721Z
+updated: 2024-11-15T19:40:48.425Z
 tags:
   - apple
 categories:
@@ -81,10 +81,10 @@ Along with the [Viture Pro XR glasses](https://buy.geni.us/Proxy.ashx?TSID=36825
 Lastly, Viture announced a new limited-edition controller in partnership with 8BitDo. You can connect this new controller, with a classic XBox-style controller layout, via Bluetooth to your gaming device, including the Nintendo Switch. The smokey translucent design looks cool and matches the Viture ecosystem. The 8BitDo controller also serves as a companion to the Viture Neckband, but I have yet to try out the Neckband, so I cannot share my experiences with that accessory.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -121,20 +121,18 @@ The [Viture Pro XR glasses](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-farmers-fields-the-essential-10-agriculture-titles-for-playmates/"><u>[New] 2024 Approved Farmers' Fields The Essential 10 Agriculture Titles for Playmates</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-speed-up-instagram-videos-on-desktop-effective-techniques/"><u>[Updated] 2024 Approved Speed Up Instagram Videos on Desktop Effective Techniques</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apple-eyes-february-release-for-revolutionary-vision-pro-introducing-the-markets-most-advanced-purchasing-experience/"><u>Apple Eyes February Release for Revolutionary Vision Pro: Introducing the Market's Most Advanced Purchasing Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/battleye-service-installation-issues-resolved-update-available/"><u>BattlEye Service Installation Issues Resolved - Update Available</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/beat-the-rival-why-samsungs-galaxy-buds-ebutt-airpods-pro-with-superior-sound-quality/"><u>Beat the Rival: Why Samsung's Galaxy Buds Ebutt AirPods Pro with Superior Sound Quality</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-newest-drivers-for-nvidia-geforce-rtx-2nok-compatible-with-win10-win7-and-win8/"><u>Download the Newest Drivers for NVIDIA GeForce RTX 2Nok: Compatible with Win10, Win7 & Win8</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-y100a-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Vivo Y100A Location by Number | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-update-your-lenovo-tb3-dock-with-the-latest-driver-support/"><u>How to Update Your Lenovo TB3 Dock with the Latest Driver Support</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/non-networked-game-haven-top-screen-free-android-titles-for-2024/"><u>Non-Networked Game Haven Top Screen-Free Android Titles for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/samsung-pioneers-in-artificial-intelligence-amidst-googles-legal-setback-climbing-up-the-tech-innovation-rankings/"><u>Samsung Pioneers in Artificial Intelligence Amidst Google's Legal Setback - Climbing Up the Tech Innovation Rankings</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/setting-up-success-a-step-by-step-walkthrough-for-initializing-your-new-ipad-device-insights/"><u>Setting Up Success: A Step-by-Step Walkthrough for Initializing Your New iPad Device - Insights</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-selection-of-must-have-applications-and-services-for-your-pc-or-mac-curated-experts/"><u>The Ultimate Selection of Must-Have Applications & Services for Your PC or Mac, Curated Experts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-13-must-listen-true-crime-podcasts-you-cant-miss/"><u>Top 13 Must-Listen True Crime Podcasts You Can't Miss</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-3-key-technology-movements-shaping-the-future/"><u>Top 3 Key Technology Movements Shaping the Future</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/zdnet-exclusive-the-iphone-16-could-adopt-the-iphone-15-pros-most-popular-functionality/"><u>ZDNet Exclusive: The iPhone 16 Could Adopt the iPhone 15 Pro's Most Popular Functionality</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ankers-757-power-station-deal-alert-secure-your-600-price-cut-today-gadget-world-analysis/"><u>Anker's 757 Power Station Deal Alert! Secure Your $600 Price Cut Today - Gadget World Analysis</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exclusive-look-the-ultimate-titanium-band-for-your-apple-watch-as-reviewed-on-zdnet/"><u>Exclusive Look: The Ultimate Titanium Band for Your Apple Watch, as Reviewed on ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-diagnose-and-repair-service-unavailable-503-server-responses/"><u>How To Diagnose and Repair 'Service Unavailable (503)' Server Responses</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-samsung-galaxy-s24-ultra-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Samsung Galaxy S24 Ultra Lock Screen Password?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-iphone-15-pro-activation-lock-by-drfone-ios/"><u>In 2024, How to Remove iPhone 15 Pro Activation Lock</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/mastering-the-art-of-zooming-in-on-videos-a-comprehensive-guide-using-a-video-zoom-editor/"><u>Mastering the Art of Zooming In on Videos: A Comprehensive Guide Using a Video Zoom Editor</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionize-your-apple-watchs-power-savings-by-tweaking-these-8-essential-settings-according-to-zdnet-experts/"><u>Revolutionize Your Apple Watch's Power Savings by Tweaking These 8 Essential Settings, According to ZDNet Experts</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/solve-your-data-woes-a-guide-to-retrieving-and-repairing-the-documents-folder-in-windows-11/"><u>Solve Your Data Woes: A Guide to Retrieving and Repairing the Documents Folder in Windows 11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-for-updating-logitech-g13-gameboard-with-new-driver/"><u>Step-by-Step Guide for Updating Logitech G13 Gameboard with New Driver</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-to-deactivating-your-apple-music-subscription-without-using-itunes/"><u>Step-by-Step Guide to Deactivating Your Apple Music Subscription Without Using iTunes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-sharper-iphone-photos-effective-remedies-for-auto-focus-failures/"><u>Unlock Sharper iPhone Photos: Effective Remedies for Auto-Focus Failures</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-ultimate-selection-of-apple-watches-for-2-a-detailed-expert-analysis-and-comparisons-digitaltechnet/"><u>Unveiling the Ultimate Selection of Apple Watches for 2지날: A Detailed Expert Analysis and Comparisons | DigitalTechNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upgrade-to-a-better-user-experience-for-free-with-macos-15-explore-the-latest-benefits-for-your-apple-macbook-in-depth-analysis-by-zdnet/"><u>Upgrade to a Better User Experience for Free with macOS 15 - Explore the Latest Benefits for Your Apple MacBook | In-Depth Analysis by ZDNET</u></a></li>
 </ul></div>
 

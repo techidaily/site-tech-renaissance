@@ -1,7 +1,7 @@
 ---
 title: "Smartwatch Showdown 2024: Elite Picks Based on Rigorous Expert Testing & Reviews | ZDNet"
-date: 2024-11-02T21:43:41.947Z
-updated: 2024-11-05T16:33:34.793Z
+date: 2024-11-08T16:01:13.561Z
+updated: 2024-11-16T01:31:31.588Z
 tags:
   - apple
 categories:
@@ -28,6 +28,13 @@ However, we haven't yet gotten to test the new iPhone 16 line, which was unveile
 
 Read on for the rest of our top picks for the best iPhones you can buy today. 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The best iPhones of 2024
 
 Show less 
@@ -45,21 +52,7 @@ Cons
 * May feel unwieldy for some users
 * No major battery life improvement over its predecessor
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## iPhone 15 Pro Max
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best iPhone overall
 
@@ -206,10 +199,10 @@ The iPhone 14's dual camera system at the rear has been carried over from the iP
 Show Expert Take Show less 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is the best iPhone?
@@ -223,13 +216,6 @@ After weighing out the specs and reviewer-tested experiences, the best iPhone is
 | iPhone 14                  | $699           | 128GB            | 6.1 inches  | A15           | Two                    |
 | iPhone 13 Mini             | $480           | 128GB            | 5.4 inches  | A15           | Two                    |
 | iPhone SE (3rd Generation) | $429           | 64GB             | 4.7 inches  | A15           | One                    |
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Are iPhones the best smartphone?
 
@@ -265,13 +251,6 @@ ZDNET's mobile experts also liaise with industry colleagues and analysts who hav
 * **Battery life**: For how reliant we've become on smartphones, the top picks on this list are not only able to last you from morning to night but also support fast charging when it's time to top up.
 * **Price**: What you won't find on this list is a device that's not worth the money or is overcharging you for the hardware-software package you're getting.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How we test iPhones
 
 ZDNET's review team spends upwards of a year testing the ins and outs of every major iPhone release, evaluating the day-to-day performance, camera quality, battery life and endurance, and more. Here's a breakdown of every factor we consider before we make recommendations:
@@ -285,6 +264,13 @@ ZDNET's review team spends upwards of a year testing the ins and outs of every m
 
 For a more extensive breakdown, check out our comprehensive [phone testing methodology page](https://www.zdnet.com/article/how-we-test-phones/).
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## iPhone FAQs
 
 ### How do I take care of my new iPhone?
@@ -295,22 +281,29 @@ There are several ways you can keep your iPhone clean and pristine.
 2. Battery management is another key aspect of iPhone maintenance. To keep your device running for as long as possible, consider charging it between 20% to 80% battery. Overcharging the device would otherwise wear down the battery and reduce the health value (found in Settings). When your iPhone battery health is low (anything less than 75% typically is), it would be helpful to get it replaced at an Apple store or by an Apple-authorized technician.
 3. As stressful as it may be to clear up space to download that software update, you absolutely should. Besides fixing any bugs on your iPhone, software updates also bring with them security patches to reduce the chances of your phone getting hacked.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### When is iOS 18 coming, and will my iPhone support it?
 
 The upcoming software version for the iPhone is currently in its [public beta phase](https://www.zdnet.com/article/you-can-download-ios-18-beta-on-your-iphone-right-now-heres-how-and-which-models-support-it/), meaning it's open for any users to test. The official software will be available to download on September 16, alongside the [new iPhone 16 series](https://www.zdnet.com/article/iphone-16-three-changes-i-want-to-see-on-the-next-apple-handsets/) that arrives September 20.
 
 Like iOS 17, iPhone models as old as the XR will be eligible to receive the [iOS 18 update](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/). The list includes the iPhone 11 to iPhone 15 series and the iPhone SE (2nd generation or later). What's not included is the iPhone X and iPhone 8 series. Those, unfortunately, won't be receiving any more operating system updates.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### What is the new iPhone?
 
 The latest iPhone is the [iPhone 16](https://www.zdnet.com/article/when-is-the-iphone-16-coming-out-what-to-know-and-where-to-preorder/), announced on Monday, September 9, during [Apple's "It's Glowtime" event](https://www.zdnet.com/article/everything-we-expect-at-apples-iphone-16-event-ai-features-airpods-apple-watch-series-10-more/). There are four iPhone 16 models: iPhone 16, iPhone 16 Plus, iPhone 16 Pro, and iPhone 16 Pro Max. All will come with iOS 18 and Apple Intelligence built in.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Which iPhone is better, 14 or 15?
 
@@ -339,11 +332,25 @@ Otherwise, even if you own an iPad or MacBook, or almost any other non-Apple gad
 
 Apple's upcoming AI features, branded as "[Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/)," are available on iPhones with at least an A17 Pro processor. That means only the iPhone 15 Pro series, excluding the standard iPhone 15 or iPhone 15 Plus, will support the new AI tools and the upcoming iPhone 16 models.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### What storage size should I buy for my iPhone?
 
 It wasn't until 2021 that Apple began selling both its non-Pro and Pro iPhones with a base storage of 128GB. The only exception here is the iPhone SE model. While not as flashy of an upgrade as larger camera sensors and 120Hz displays, this double-up of storage meant that consumers had more space than ever to store apps, photos, videos, and more.
 
 Maurice Klaehne, senior market research analyst at Counterpoint Research, suggests that higher storage options are generally better as they will help with the longevity of the device, and his firm has generally seen an uptick in postpaid customers opting for higher storage sizes when they can afford them. "Currently, the 256GB option is sufficient for most people," Klaehne adds.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Should I trade in my old iPhone?
 
@@ -352,19 +359,6 @@ Trading in an old iPhone is one of the easiest (and safest) ways to replace an o
 ### Do I really need an iPhone case?
 
 While an iPhone case is not a necessity -- your iPhone will still function normally without it -- having one on greatly reduces the chances of wear and tear. For example, the [best cases](https://www.zdnet.com/article/best-iphone-15-case/) are military-grade certified, meaning they'll keep your iPhone protected from waist-high drops. Not only do cases reduce the chances of your phone getting cracked or scratched, but the plastic/rubberized material often provides more grip than if you hold your iPhone naked.
-
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Which iPhone should I buy for a parent?
 
@@ -390,13 +384,6 @@ All models within the iPhone 15, 14, and 13 line, as well as select iPhone 12 mo
 
 Even more importantly, the 5G iPhone models have Qualcomm chipsets inside that are proving to provide better RF reception than we saw in past iPhones that had Intel chipsets. 
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Which iPhone models support wireless charging or MagSafe?
 
 All of the iPhone models in this list support Qi wireless charging technology. Wireless charging is becoming an expected feature for modern smartphones from all manufacturers.
@@ -416,6 +403,13 @@ While this number varies greatly depending on how you handle a smartphone -- per
 Then, you'll likely experience more frequent app crashes, lag, storage problems, and more. Those are common issues that any piece of technology will inhibit, not just the iPhone, after years of constant usage. 
 
 If you'd like to prolong that time, I'd recommend visiting your local Apple store to have the phone's battery replaced every three to four years and also consider backing up files to an [external hard drive](https://www.zdnet.com/article/best-external-hard-drive/) for safekeeping. As a last resort, [a factory reset](https://www.zdnet.com/article/how-to-factory-reset-your-iphone/), followed by data restoration, should give your phone a brand-new feel.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Other iPhone models we tested
 
@@ -463,18 +457,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-digital-film-composer/"><u>[New] Digital Film Composer</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-learning-to-utilize-burst-mode-for-high-speed-photography/"><u>[New] Learning to Utilize Burst Mode for High-Speed Photography</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-obs-full-screen-no-more-problem-for-2024/"><u>[New] Obs Full-Screen No More Problem for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-transform-instagram-notifications-diy-sound-design/"><u>[New] Transform Instagram Notifications DIY Sound Design</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-immediate-access-future-legacy-preserving-your-digital-moments/"><u>[Updated] Immediate Access, Future Legacy Preserving Your Digital Moments</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/comment-recuperer-des-fichiers-a-partir-dun-disque-dur-externe-non-reconnu/"><u>Comment Récupérer Des Fichiers À Partir D'un Disque Dur Externe Non Reconnu ?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-to-wi-fi-standards-from-802nagiac-to-the-new-wave-of-802be-and-ax/"><u>Comprehensive Guide to Wi-Fi Standards: From 802.n/aG/iAc to the New Wave of 802.bE & aX</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722844885294-demystifying-the-contrast-between-regular-hulu-and-enhanced-huluplus/"><u>Demystifying the Contrast Between Regular Hulu & Enhanced Hulu+</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/elevate-your-online-presence-with-obs-on-youtube-and-twitch-for-2024/"><u>Elevate Your Online Presence with OBS on YouTube & Twitch for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-updating-text-display-with-custom-fonts-on-windows-11/"><u>Guide: Updating Text Display with Custom Fonts on Windows 11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/reclaiming-memories-a-users-tutorial-to-locate-stored-reels-on-instagram/"><u>Reclaiming Memories: A User’s Tutorial to Locate Stored Reels on Instagram</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-music-after-motorola-razr-40-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Motorola Razr 40 has been deleted</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ultimate-pdf-editing-skills-for-2024/"><u>Ultimate PDF Editing Skills for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-ultimate-guide-to-engagement-mastering-instagram-stories/"><u>[New] In 2024, The Ultimate Guide to Engagement Mastering Instagram Stories</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-maximizing-profile-visibility-in-snapchat-spotlights/"><u>[New] Maximizing Profile Visibility in Snapchat Spotlights</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-7-top-free-instagram-video-clips-tools-for-daily-entertainment/"><u>[Updated] 2024 Approved 7 Top Free Instagram Video Clips Tools for Daily Entertainment</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-the-symphony-of-social-sharing-adding-audio-to-instagram/"><u>[Updated] 2024 Approved The Symphony of Social Sharing Adding Audio to Instagram</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-boost-your-creativity-on-instagram-with-free-filters/"><u>[Updated] Boost Your Creativity on Instagram with Free Filters</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamline-your-images-in-canva-without-clutter/"><u>[Updated] Streamline Your Images in Canva Without Clutter</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/bargain-hunting-in-apples-secondhand-marketplace-smart-strategies-to-dodge-scams-and-snag-great-offers/"><u>Bargain Hunting in Apple's Secondhand Marketplace - Smart Strategies to Dodge Scams and Snag Great Offers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/correcting-the-course-after-ipad-release-hiccup-strategies-for-apples-rectification/"><u>Correcting the Course After iPad Release Hiccup - Strategies for Apple’s Rectification</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-tips-for-activating-and-deactivating-iphone-system-repair-mode/"><u>Essential Tips for Activating & Deactivating iPhone System Repair Mode</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-android-can-step-up-its-game-against-ios-a-deep-dive-into-key-improvements-for-greater-compatibility-suggested-by-zdnet/"><u>How Android Can Step Up Its Game Against iOS: A Deep Dive Into Key Improvements for Greater Compatibility, Suggested by ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-apples-recent-ai-endeavors-overlooked-crucial-innovations-anticipation-for-what-comes-next-analysis/"><u>How Apple's Recent AI Endeavors Overlooked Crucial Innovations - Anticipation for What Comes Next | Analysis</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-snatch-free-media-treasures-from-top-4-online-creators/"><u>In 2024, Snatch Free Media Treasures From Top 4 Online Creators</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/iphone-2023-what-you-need-to-know-about-the-expected-pricing-launch-date-and-specs-updates/"><u>IPhone 2023 - What You Need to Know About the Expected Pricing, Launch Date, and Specs Updates</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-hidden-siri-features-to-elevate-your-iphone-experience/"><u>Mastering Hidden Siri Features to Elevate Your iPhone Experience</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-xiaomi-civi-3-disney-100th-anniversary-edition-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Xiaomi Civi 3 Disney 100th Anniversary Edition Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-prevent-windows-11-from-listening-in/"><u>Steps to Prevent Windows 11 From Listening In</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/why-your-imessages-might-not-have-sent-unveiling-the-reasons-behind-missing-messages/"><u>Why Your iMessages Might Not Have Sent: Unveiling the Reasons Behind Missing Messages</u></a></li>
 </ul></div>
 

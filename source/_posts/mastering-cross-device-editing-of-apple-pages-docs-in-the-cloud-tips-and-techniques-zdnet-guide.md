@@ -1,7 +1,7 @@
 ---
 title: "Mastering Cross-Device Editing of Apple Pages Docs in the Cloud: Tips and Techniques [ZDNet Guide]"
-date: 2024-10-29T22:11:17.301Z
-updated: 2024-11-05T19:52:55.901Z
+date: 2024-11-14T02:08:34.798Z
+updated: 2024-11-16T03:25:37.642Z
 tags:
   - apple
 categories:
@@ -33,22 +33,15 @@ The only things you'll need to make this work are a running instance of MacOS (w
 
 I'll be demonstrating on a [MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fmacbook-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) running MacOS Monterey.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Enable iCloud Collaboration
 
 Before you can collaborate on a Pages document, you must first enable iCloud Collaboration. To do that, follow these steps.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
@@ -69,6 +62,13 @@ Image: Jack Wallen
 
 ## Enable the Collaboration feature
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Open an Apple Pages document
 
 The first thing you must do is open the Pages document that will be shared with your collaborators. Once you have the document open, you should see the Collaborate button at the top of the window (**Figure 3**).
@@ -77,13 +77,6 @@ The first thing you must do is open the Pages document that will be shared with 
 
 Image: Jack Wallen
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Enable the Collaborate feature
 
 Click Collaborate and you'll be informed the document must be moved to iCloud before you can collaborate (**Figure 4**).
@@ -91,6 +84,13 @@ Click Collaborate and you'll be informed the document must be moved to iCloud be
 **Figure 4**: You cannot collaborate on a document until it's been moved to iCloud.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Enable Track Changes
 
@@ -111,10 +111,10 @@ Make sure to configure both the Who Can Access and Permission options. Here, you
 Depending on the sharing method you choose, you'll either open Apple Mail, Messages, AirDrop, or Twitter, or you'll copy the link to the file to your clipboard. Make your selection and click Share, at which point the document will be activated for sharing. Whoever is the recipient of the link will then be able to access the file either from within iCloud (if Pages isn't available on their OS) or directly from within Apple Pages.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Stop sharing
@@ -157,20 +157,22 @@ And that's all there is to collaborating with Apple Pages. This is a great featu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-maximize-impact-sharing-youtube-videos-on-social-media-fb/"><u>[New] 2024 Approved Maximize Impact Sharing YouTube Videos on Social Media (FB)</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-elevate-views-the-power-of-synergistic-youtube-content-partnerships/"><u>[Updated] Elevate Views The Power of Synergistic YouTube Content Partnerships</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apples-latest-innovation-iphone-16-now-boasts-similar-image-analysis-capabilities-to-google-lens-explore-the-details/"><u>Apple's Latest Innovation: IPhone 16 Now Boasts Similar Image Analysis Capabilities to Google Lens | Explore the Details</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apples-vision-pro-display-goes-live-on-february-2nd-secure-your-unit-with-pre-orders-starting-january-19th-zdnet-update/"><u>Apple's Vision Pro Display Goes Live on February 2Nd – Secure Your Unit with Pre-Orders Starting January 19Th | ZDNET Update</u></a></li>
-<li><a href="https://driver-error.techidaily.com/demystifying-the-legacy-usb-composite-device-problems-now-fixed/"><u>Demystifying the Legacy USB Composite Device Problems - Now Fixed!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-anticipated-tesla-mobile-device-pricing-insights-release-forecasts-and-specs-explained/"><u>Discover the Anticipated Tesla Mobile Device: Pricing Insights, Release Forecasts, and Specs Explained</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-5-essential-sites-revolutionizing-how-we-style-text/"><u>In 2024, 5 Essential Sites Revolutionizing How We Style Text</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-samsung-galaxy-f15-5g-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Samsung Galaxy F15 5G</u></a></li>
-<li><a href="https://blog-min.techidaily.com/online-libero-conversione-da-mp4-a-webm-usando-il-servizio-di-movavi/"><u>Online Libero Conversione Da MP4 a WebM Usando Il Servizio Di Movavi</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-launch-hurdles-in-hitman-3-for-pc-gamers/"><u>Overcoming Launch Hurdles in Hitman 3 for PC Gamers</u></a></li>
-<li><a href="https://article-files.techidaily.com/quick-fire-photos-with-iphone-burst-feature-for-2024/"><u>Quick-Fire Photos with iPhone Burst Feature for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-top-five-flying-toys-for-youth/"><u>The Top Five Flying Toys for Youth</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-notetaker-tablet-reviews-2024-in-depth-analysis-and-comparisons-zdnet/"><u>Top Notetaker Tablet Reviews 2024: In Depth Analysis & Comparisons | ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-2024s-leading-wireless-charger-picks-expert-ratings-and-reviews-zdnet/"><u>Ultimate Guide to 2024'S Leading Wireless Charger Picks: Expert Ratings & Reviews | ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-waterproof-smartwatches-in-depth-analysis-and-ratings/"><u>Ultimate Guide to Waterproof Smartwatches : In-Depth Analysis and Ratings</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-vr-adventure-top-10-best-selling-mobile-games-for-2024/"><u>[New] VR Adventure Top 10 Best-Selling Mobile Games for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-turning-your-old-photos-into-snaps-with-camera-roll/"><u>[Updated] 2024 Approved Turning Your Old Photos Into Snaps with Camera Roll</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comparing-the-latest-macbook-procs-choosing-between-m3-and-m2-models-for-your-perfect-tech-experience-zdnet/"><u>Comparing the Latest MacBook Procs: Choosing Between M3 and M2 Models for Your Perfect Tech Experience | ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/deciding-between-new-apple-laptops-in-depth-review-and-contrast-of-m3-versus-m2-macbook-air/"><u>Deciding Between New Apple Laptops: In-Depth Review and Contrast of M3 Versus M2 MacBook Air</u></a></li>
+<li><a href="https://article-posts.techidaily.com/easyshadecleanse-professionally-crafted-erase-software/"><u>EasyShadeCleanse Professionally Crafted Erase Software</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enhance-your-productivity-with-custom-alerts-on-macos-monterey-tech-tips-today/"><u>Enhance Your Productivity with Custom Alerts on macOS Monterey | Tech Tips Today</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exclusive-july-2er-2024-unmissable-laptop-bargains-curated-for-you/"><u>Exclusive July 2Er 2024: Unmissable Laptop Bargains Curated for You</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-your-windows-chat-with-unbounded-gpt/"><u>Free Your Windows Chat with Unbounded GPT</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/illusory-journeys-through-time-and-dimensions-for-2024/"><u>Illusory Journeys Through Time and Dimensions for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/integrating-youtube-into-the-world-of-instagram-stories/"><u>Integrating YouTube Into the World of Instagram Stories</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ios-174-update-apple-introduces-podcast-transcriptions-fresh-emoji-additions-and-european-app-store-modifications-detailed-insights-on-zdnet/"><u>IOS 17.4 Update: Apple Introduces Podcast Transcriptions, Fresh Emoji Additions & European App Store Modifications - Detailed Insights on ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/m1-or-m2-which-mac-wins-comparative-analysis-of-apple-mac-mini-and-mac-studio-performance/"><u>M1 or M2 – Which Mac Wins? Comparative Analysis of Apple Mac Mini and Mac Studio Performance</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/offline-viewing-how-to-securely-watch-redtube-content-without-internet-connection/"><u>Offline Viewing: How To Securely Watch RedTube Content Without Internet Connection</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tackling-the-wildest-iphone-issue-yet-how-apple-can-improve-user-experience/"><u>Tackling the Wildest iPhone Issue Yet: How Apple Can Improve User Experience</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/the-best-free-video-meeting-software-roundup-for-professional-and-educational-purposes/"><u>The Best Free Video Meeting Software Roundup for Professional and Educational Purposes</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/top-5-cost-effective-fitness-trackers-for-gamers/"><u>Top 5 Cost-Effective Fitness Trackers (For Gamers)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-smart-eyewear-the-ultimate-guide/"><u>Top-Rated Smart Eyewear : The Ultimate Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Surpassing Rivals: How Apple's Innovations Could Outshine OpenAI, Microsoft & Google During the 2024 Worldwide Developers Conference - Insights From ZDNet"
-date: 2024-11-01T21:32:23.076Z
-updated: 2024-11-05T19:42:20.454Z
+date: 2024-11-09T16:08:04.729Z
+updated: 2024-11-15T17:17:08.504Z
 tags:
   - apple
 categories:
@@ -48,6 +48,13 @@ And here's another feature that I can't imagine any users clamoring for. Now, if
 
 So, yeah, if Grandma Sadie in Seattle has a Vision Pro, Cousin Marty in Miami has a Vision Pro, and you have a Vision Pro in Yuma, you can all stand around the virtual photo screen and ooh and ah over pictures of baby Alice. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Gestures for opening Home View and Control Center
 
 While it's easy enough to open Vision Pro's home view (the field of app icons) by pressing the Digital Crown on the top of the unit, getting to Control Center is a pain. VisionOS puts a tiny little arrow waaay up at the top of the viewing space, and you have to glance at it and tap your fingers together to get it to open. 
@@ -57,10 +64,10 @@ In VisionOS 2, there are gestures. Holding your hand palm up and tapping fingers
 Unlike the previous two features, this _is_ a quality of life improvement. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Mac virtual display improvements
@@ -71,25 +78,11 @@ Screenshot by David Gewirtz/ZDNET
 
 On the other hand, Apple "later this year" will enable you to create displays with more resolutions. The most interesting is the full wrap-around display, which will be the equivalent of two 4K monitors. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Choo-choo train mode
 
 To be fair, Apple didn't call it that. We've [talked about the Vision Pro's travel mode](https://www.zdnet.com/article/itching-to-try-vision-pros-travel-mode-heres-what-to-expect-before-you-go/), which was mostly intended for airplane travel. 
 
 In VisionOS 2, Apple is announcing that there is dedicated support in travel mode for train travel. We know [people have already been successful using the Vision Pro on the train and even subway](https://www.youtube.com/shorts/8ckKAjAWLw8), but in this case, Apple presumably tweaked performance somewhat. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. New developer APIs
 
@@ -101,6 +94,13 @@ There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, 
 * **TabletopKit:** Helps developers create apps that anchor to flat surfaces. One obvious example is board game kits, but this could apply to interior design apps, architectural and construction projects, gaming, navigation, and more.
 * **Enterprise APIs:** These were described as enterprise-specific APIs, so we can assume they're somewhat special purpose. Examples given were surgical training and manufacturing.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. New Canon spatial lens for creating spatial video
 
 While iPhone 15 Pro users can create spatial video, there are limitations to using an iPhone as a camera. Apple announced today that Canon will be introducing a spatial lens for its [EOS R7 digital camera](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCanon-RF-S18-150mm-Mirrorless-Processor-Detection%2Fdp%2FB0B2KSD7WW%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbfbe271d-4f99-40f4-b81e-3b3c556a641c%7Cdtp&dtb=1). 
@@ -108,6 +108,19 @@ While iPhone 15 Pro users can create spatial video, there are limitations to usi
 Screenshot by David Gewirtz/ZDNET
 
 This allows more commercial and prosumer projects where the photographer or videographer needs more control over the complex range of settings available in a more traditional camera. Those videos can then be edited in Final Cut Pro, Apple's only mention of Final Cut during WWDC. There's also a new Vimeo app for VisionOS, that will allow spatial videos to be shared. 
+
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Third-party immersive video workflow
 
@@ -118,13 +131,6 @@ One of the truly breathtaking experiences of the Vision Pro is what Apple calls 
 Apple is opening up the format for third-party creators to create immersive video. The approach is to use cameras and DaVinci Resolve Studio from [Blackmagic Design](https://www.blackmagicdesign.com/). There's no doubt that Blackmagic makes excellent gear and that DaVinci Resolve is a fine application. It's just a little surprising that Apple didn't bake this capability into its own high-end video production tool, Final Cut Pro.
 
 Even so, I think this is great. Those immersive videos are fantastic. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Other new features
 
@@ -179,24 +185,20 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-annual-reveal-best-free-luts-with-direct-access-links/"><u>[New] Annual Reveal - Best FREE LUTs with Direct Access Links</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-10-budget-friendly-platforms-for-youtube-branding-mastery/"><u>[New] In 2024, 10 Budget-Friendly Platforms for YouTube Branding Mastery</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-gecata-game-recorder-review/"><u>[New] In 2024, Gecata Game Recorder Review</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-how-to-make-a-youtube-reaction-video/"><u>[Updated] 2024 Approved How to Make a YouTube Reaction Video?</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-drone-footage-battlegrounds-djis-pro-vs-gopro-hero3/"><u>[Updated] Drone Footage Battlegrounds DJI's Pro VS GoPro HERO3</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mac-video-excellence-the-creme-de-la-liste-for-sierra-users/"><u>[Updated] Mac Video Excellence The Crème De La Liste for Sierra Users</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-making-a-trendy-jujutsu-kaisen-tiktok-video/"><u>2024 Approved Making a Trendy Jujutsu Kaisen TikTok Video</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/beyond-siri-how-apple-is-mirroring-microsofts-bing-with-its-latest-ai-innovation-insights-from-zdnet/"><u>Beyond Siri: How Apple Is Mirroring Microsoft's Bing with Its Latest AI Innovation - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/breaking-down-the-latest-news-sonys-forthcoming-virtual-reality-experience-release-schedule-estimated-price-range-and-advanced-features/"><u>Breaking Down the Latest News: Sony's Forthcoming Virtual Reality Experience – Release Schedule, Estimated Price Range, and Advanced Features</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/enter-the-marvel-world-with-apple-vision-pro-discover-augmented-reality-on-june-30th-coverage-techzenith/"><u>Enter the Marvel World with Apple Vision Pro - Discover Augmented Reality on June 30Th Coverage | TechZenith</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-the-20-anker-power-bank-revolutionizes-mobile-charging-solutions-discover-more/"><u>How the $20 Anker Power Bank Revolutionizes Mobile Charging Solutions – Discover More</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-discover-8-exceptional-tablets-that-outperform-filmoras-features/"><u>In 2024, Discover 8 Exceptional Tablets That Outperform Filmora's Features</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-facebook-to-mp4-mastery-learn-how-to-convert-video-online-without-costs/"><u>In 2024, Facebook to MP4 Mastery Learn How To Convert Video Online Without Costs</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-s18-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo S18 by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/march-release-anticipated-exploring-the-potential-launch-of-apples-upcoming-macbook-air-ipad-pro-and-ipad-air-insights/"><u>March Release Anticipated: Exploring the Potential Launch of Apple's Upcoming MacBook Air, iPad Pro & iPad Air - Insights</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-march-2024-offers-on-high-quality-headphones-discover-exclusive-prices/"><u>Top March 2024 Offers on High-Quality Headphones – Discover Exclusive Prices!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-must-have-airpods-pro-gear-for-2nite-best-products-reviewed/"><u>Ultimate Guide: Must-Have AirPods Pro Gear for 2Nite | Best Products Reviewed</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/upgrade-your-tech-experience-top-3-exclusive-features-of-the-new-iphone-16-revealed-by-zdnet/"><u>Upgrade Your Tech Experience: Top 3 Exclusive Features of the New iPhone 16 Revealed by ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/why-im-loyal-to-my-apple-watch-series-7-over-the-new-series-10-insights-from-a-tech-expert-on-zdnet/"><u>Why I'm Loyal to My Apple Watch Series 7 Over the New Series 10 - Insights From a Tech Expert on ZDNet</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-essential-tips-to-eliminate-instagram-video-issues/"><u>[New] 2024 Approved Essential Tips to Eliminate Instagram Video Issues</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-from-selfie-to-sensation-vloggers-choice-of-top-9-camera-accessories/"><u>[Updated] In 2024, From Selfie to Sensation Vloggers' Choice of Top 9 Camera Accessories</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-optimize-online-presence-video-embellishment-with-logos-and-watermarks/"><u>[Updated] In 2024, Optimize Online Presence Video Embellishment with Logos and Watermarks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-pip-views-on-chrome-across-devices/"><u>[Updated] Mastering PIP Views on Chrome Across Devices</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-photo-refinement-essentials-expert-tips-for-efficient-background-clearance/"><u>2024 Approved Photo Refinement Essentials Expert Tips for Efficient Background Clearance</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-unveils-wonders-how-revolutionary-goggles-are-changing-our-vision-exploring-the-future/"><u>Apple Unveils Wonders: How Revolutionary Goggles Are Changing Our Vision | Exploring the Future</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-list-of-apple-watches-compatible-with-watchos-11-upgrades-and-exclusions-revealed-by-zdnet/"><u>Comprehensive List of Apple Watches Compatible with WatchOS 11: Upgrades and Exclusions Revealed by ZDNet</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/elevating-your-macro-videos-a-comprehensive-checklist/"><u>Elevating Your Macro Videos A Comprehensive Checklist</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/in-depth-reviews-by-toms-computer-gear-hub/"><u>In-Depth Reviews by Tom's Computer Gear Hub</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/simplified-protocol-effortless-video-conversion-and-dvd-making/"><u>Simplified Protocol Effortless Video Conversion and DVD Making</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-1-essential-app-you-need-on-your-fresh-macos-grab-the-discounted-offer-now-tips/"><u>Top 1 Essential App You Need on Your Fresh macOS: Grab the Discounted Offer Now | Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-pick-alert-the-ultimate-guide-to-choosing-apples-newest-innovation-the-m2-powered-ipad-air-what-you-need-to-know/"><u>Top Pick Alert: The Ultimate Guide to Choosing Apple's Newest Innovation, the M2-Powered iPad Air - What You Need to Know!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-tech-picks-apple-vs-dell-and-beyond-in-the-latest-comparison-by-zdnet/"><u>Top Tech Picks : Apple Vs. Dell & Beyond in the Latest Comparison by ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-apple-watch-models-comprehensive-reviews-by-tech-experts/"><u>Top-Rated Apple Watch Models - Comprehensive Reviews by Tech Experts</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-redmi-a2-messages-recovery-recover-deleted-messages-from-xiaomi-redmi-a2-by-fonelab-android-recover-messages/"><u>Xiaomi Redmi A2 Messages Recovery - Recover Deleted Messages from Xiaomi Redmi A2</u></a></li>
 </ul></div>
 

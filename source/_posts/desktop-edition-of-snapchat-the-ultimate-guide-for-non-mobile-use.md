@@ -1,7 +1,7 @@
 ---
 title: "Desktop Edition of Snapchat: The Ultimate Guide for Non-Mobile Use"
-date: 2024-10-30T20:25:39.346Z
-updated: 2024-11-05T17:03:25.430Z
+date: 2024-11-10T19:46:47.245Z
+updated: 2024-11-15T18:54:38.186Z
 categories:
   - BestProducts
 description: "This Article Describes Desktop Edition of Snapchat: The Ultimate Guide for Non-Mobile Use"
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/6ac471d87db668dcc4b6f87c6982a3ef4bb37e3fb
 
  If you'd rather, you can[make a totally new Skype account](https://www.lifewire.com/how-to-create-a-skype-account-on-windows-4800185) .
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Step 2: Check to See if It's Skype's Problem
 
  See if others are having troubles with Skype, too. There isn't much you can do to fix it if it's not your problem to fix. Sometimes things go wrong on Skype's end and the only thing you can do is wait it out.
@@ -49,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/6ac471d87db668dcc4b6f87c6982a3ef4bb37e3fb
 
  If either website shows a problem, it most likely means that you're not the only one that can't use Skype. Just wait an hour or so and try again.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Step 3: Check Your Network Connection
 
  Make sure it's not a network problem. Skype won't work if you don't have a network connection. This is true if you're using it from any device, be it on the web, your phone, computer, etc.
@@ -57,6 +71,19 @@ thumbnail: https://thmb.techidaily.com/6ac471d87db668dcc4b6f87c6982a3ef4bb37e3fb
 
  If other websites are working normally, the reason Skype can't make calls or why it's experiencing dropped calls could be related to[bandwidth](https://www.lifewire.com/what-is-bandwidth-2625809) usage. If there are multiple other people on your network that are using the internet at the same time, pause or stop the activity on those devices and then see if Skype starts working again.
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Step 4: Check Skype's Audio Settings and Permissions
 
  If you can't hear the other caller(s), double-check that other sources of audio, like a YouTube video, works as you'd expect. Just open any video there to see if you can hear it.
@@ -64,10 +91,10 @@ thumbnail: https://thmb.techidaily.com/6ac471d87db668dcc4b6f87c6982a3ef4bb37e3fb
  If there's a playback error in Skype specifically (and not on YouTube, etc.) and you can't hear the other person you're talking with, or they can't hear you, you need to check that the program has access to your speakers and microphone.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Using Skype on a Computer
@@ -76,26 +103,12 @@ thumbnail: https://thmb.techidaily.com/6ac471d87db668dcc4b6f87c6982a3ef4bb37e3fb
 
 ![Skype audio and video settings](https://www.lifewire.com/thmb/FU_qqJ8uZhHzdcMgOGYhQ0knAjc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/skype-audio-video-settings-b7970d044c6b40cd8f900fda61bf7555.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * With that setting open, notice the volume area under**Microphone** . As you talk, you should see the bar light up.
 * If the microphone doesn't work with Skype, select the menu next to**Microphone** and see if there are any other options; you might have the wrong device selected.
 * If there aren't other ones to pick from, make sure the microphone is plugged in, powered on (if it has a power switch), and has batteries (if wireless). Finally, unplug the microphone and then reattach it.
 * To check the sound in Skype to make sure that it's using the right speakers, select**Test audio** under the**Speakers** option. You should hear sound in your headset or speakers.
 * If you don't hear anything when you play the sample sound, make sure your speakers or headphones are turned all the way up (some headphones have physical volume buttons) and that the on-screen settings are at**10** .
 * If the volume is fine, double-check the menu next to**Speakers** and see if there's another option to pick from, and then try the sample sound again.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Using Skype for Mobile Devices
 
@@ -119,13 +132,6 @@ thumbnail: https://thmb.techidaily.com/6ac471d87db668dcc4b6f87c6982a3ef4bb37e3fb
 
 [What to Do When Your Skype Camera Is Not Working](https://www.lifewire.com/skype-camera-not-working-4589105)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Skype for Computers
 
  If the Skype video isn't working on your computer, open Skype's video settings through the**Tools** \>**Audio & Video Settings** menu item (press the**Alt** key if you don't see the menu).
@@ -135,6 +141,13 @@ thumbnail: https://thmb.techidaily.com/6ac471d87db668dcc4b6f87c6982a3ef4bb37e3fb
 * Try unplugging and then reattaching the webcam if it's an external one.
 * Make sure that there's nothing physically blocking the camera.
 * Use the menu to the right of the**Camera** area in the settings to choose a different camera if you have more than one.
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Skype for Mobile Devices
 
@@ -158,13 +171,6 @@ thumbnail: https://thmb.techidaily.com/6ac471d87db668dcc4b6f87c6982a3ef4bb37e3fb
 
  You can also use the Echo/Sound Test Service contact to make a test video call, but all this really does is shows you your own video during the audio call. This is another way to test Skype video calls.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Step 7: Reinstall Skype
 
  If Skype isn't working even after trying all these troubleshooting steps, and it's definitely not a problem with the service itself (Step 2), then remove the app completely and[download Skype](https://www.skype.com/en/get-skype/) again.
@@ -179,24 +185,18 @@ thumbnail: https://thmb.techidaily.com/6ac471d87db668dcc4b6f87c6982a3ef4bb37e3fb
 
  Specifically, if you're using Skype on Windows, check the device driver for the webcam and sound card. If there's something wrong with either, then your camera and/or sound won't work anywhere, including with Skype, and you may need to[update your drivers](https://www.lifewire.com/how-to-update-drivers-in-windows-2619214) .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Step 9: Verify the Microphone Works
 
  If your microphone ultimately still doesn't work, try testing it with [Online Mic Test](https://www.onlinemictest.com/) . If it doesn't let you talk through it there either, then your microphone probably isn't working anymore.
 
  Replacing your mic would be a good idea at this point, assuming it's an external mic. If not, you can always add one.
-
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Step 10: Check the System Sound
 
@@ -237,18 +237,18 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-vivid-visions-compiling-the-leading-10-4k-capable-phone-cameras/"><u>[New] Vivid Visions Compiling the Leading 10 4K-Capable Phone Cameras</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1-top-pick-the-ultimate-discreet-security-key-for-ios-devices-insights/"><u>1. Top Pick: The Ultimate Discreet Security Key for iOS Devices Insights</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-motorola-moto-g34-5g-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Motorola Moto G34 5G Phone Using PC | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/a-closer-look-at-the-newest-apple-airpods-gen-3-zdnet-review-noteworthy-upgrades-and-user-experience-insights/"><u>A Closer Look at the Newest Apple AirPods (Gen 3) - ZDNet Review: Noteworthy Upgrades and User Experience Insights</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apples-newly-affordable-m2-mac-mini-at-historic-low-of-479-in-depth-analysis-on-zdnet/"><u>Apple's Newly Affordable M2 Mac Mini at Historic Low of $479 | In-Depth Analysis on ZDNET</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/camera-face-off-pixel-cuatitrincocho-xl-versus-iphone-xvi-the-unexpected-tale-of-photographic-supremacy/"><u>Camera Face-Off: Pixel Cuatitrincocho XL Versus IPhone XVI - The Unexpected Tale of Photographic Supremacy!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effortless-youtubers-tool-swift-no-cost-conversion-of-videos-to-wma/"><u>Effortless YouTuber's Tool – Swift, No-Cost Conversion of Videos to WMA</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/explore-apples-immersive-3d-spatial-content-on-your-meta-quest-3-step-by-step-guide-to-enjoy-virtual-experiences-zdnet/"><u>Explore Apple's Immersive 3D Spatial Content on Your Meta Quest 3: Step-by-Step Guide to Enjoy Virtual Experiences [ZDNet]</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-the-affordable-20-anker-power-bank-overcomes-common-issues-with-portable-chargers-insights/"><u>How the Affordable $20 Anker Power Bank Overcomes Common Issues with Portable Chargers | Insights</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-hasten-artistic-touch-ups-on-windows-10-photos/"><u>In 2024, Hasten Artistic Touch-Ups on Windows 10 Photos</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-streamlining-media-transformation-from-xml-to-srt/"><u>In 2024, Streamlining Media Transformation From XML to SRT</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-google-pixel-fold-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Google Pixel Fold without backup.</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-embracing-constructive-feedback-ignoring-the-rest/"><u>[New] In 2024, Embracing Constructive Feedback, Ignoring the Rest</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-bring-your-imaginations-to-life-time-lapse-photography-with-gopro-studio/"><u>[Updated] 2024 Approved Bring Your Imaginations to Life Time-Lapse Photography with GoPro Studio</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-explore-the-10-most-inspiring-youtube-makeup-vloggers-ever/"><u>2024 Approved Explore the 10 Most Inspiring YouTube Makeup Vloggers Ever</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-apple-must-enhance-its-ai-capabilities-to-match-the-might-of-openai-and-google-top-10-essentials/"><u>How Apple Must Enhance Its AI Capabilities to Match the Might of OpenAI and Google: Top 10 Essentials</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/if-no-private-ips-are-detected-raise-an-exception-stating-so/"><u>If No Private IPs Are Detected, Raise an Exception Stating So.</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-any-nokia-c110-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Nokia C110 Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/premier-disneyplus-movie-options-for-immediate-viewing/"><u>Premier Disney+ Movie Options for Immediate Viewing</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/stellars-innovative-breakthrough-the-premier-software-for-worldwide-photo-rescue-and-refinement/"><u>Stellar's Innovative Breakthrough: The Premier Software for Worldwide Photo Rescue & Refinement</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-iphone-call-logging-ensuring-compliance-across-states-according-to-zdnet-experts/"><u>The Ultimate Guide to iPhone Call Logging: Ensuring Compliance Across States, According to ZDNET Experts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tips-for-locking-in-early-bird-discounts-on-the-latest-tech-iphone-15-watch-ultra-2-expert-guide/"><u>Tips for Locking in Early Bird Discounts on the Latest Tech: IPhone 15, Watch Ultra 2 | Expert Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-4-kid-friendly-ipad-models-an-in-depth-review/"><u>Top 4 Kid-Friendly iPad Models : An In-Depth Review</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/top-forex-trading-techniques-that-guarantee-profit-for-skilled-investors-on-the-metatrader-4-platform/"><u>Top Forex Trading Techniques That Guarantee Profit for Skilled Investors on the MetaTrader 4 Platform</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Motorola Moto G73 5G | Dr.fone</u></a></li>
 </ul></div>
 

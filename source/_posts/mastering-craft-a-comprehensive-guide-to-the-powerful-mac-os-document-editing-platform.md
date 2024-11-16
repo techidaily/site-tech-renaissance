@@ -1,7 +1,7 @@
 ---
 title: "Mastering Craft: A Comprehensive Guide to the Powerful Mac OS Document Editing Platform"
-date: 2024-10-29T18:40:04.862Z
-updated: 2024-11-05T23:16:59.557Z
+date: 2024-11-13T03:23:30.707Z
+updated: 2024-11-16T04:43:45.493Z
 tags:
   - apple
 categories:
@@ -36,10 +36,10 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -63,10 +63,10 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -80,10 +80,10 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -134,22 +134,24 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-efficient-digital-voice-alteration-for-vtubers-for-2024/"><u>[New] Efficient Digital Voice Alteration for VTubers for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-discover-the-power-of-photo-enhancement-with-full-facetune-review/"><u>2024 Approved Discover the Power of Photo Enhancement with Full Facetune Review</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-the-elite-8-virtual-handhelds-overview/"><u>2024 Approved The Elite 8 Virtual Handhelds Overview</u></a></li>
-<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-poco-c51-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Poco C51 | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/expert-tips-for-effective-policy-reports-using-gpresult/"><u>Expert Tips for Effective Policy Reports Using GPResult</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-the-latest-ios-patch-eliminates-creepy-error-of-reviving-ejected-pictures-detailed-analysis/"><u>How the Latest iOS Patch Eliminates Creepy Error of Reviving Ejected Pictures Detailed Analysis</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On OnePlus Nord 3 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ipad-air-5th-gen-analysis-why-apples-latest-m2-powered-tablet-is-a-must-have-for-consumers-insights/"><u>IPad Air (5Th Gen) Analysis: Why Apple’s Latest M2-Powered Tablet Is a Must-Have for Consumers – Insights</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/iphone-evolution-unveiled-comparing-the-new-iphone-16-pro-with-iphone-14-pro-smart-buyers-guide-analysis/"><u>IPhone Evolution Unveiled: Comparing the New iPhone 16 Pro with iPhone 14 Pro | Smart Buyer's Guide Analysis</u></a></li>
-<li><a href="https://win11.techidaily.com/professional-ipod-video-format-maker-easily-transform-videos-into-compatible-formats-for-ipod-ipod-touch-and-more/"><u>Professional IPod Video Format Maker - Easily Transform Videos Into Compatible Formats for iPod, iPod Touch & More</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restored-screen-continuity-in-dell-mini-pc/"><u>Restored Screen Continuity in Dell Mini-PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/revolutionary-upgrade-unveiling-enhanced-repairability-of-apples-new-iphone-16-detailed-insights-from-tech-giant/"><u>Revolutionary Upgrade: Unveiling Enhanced Repairability of Apple's New iPhone 16 - Detailed Insights From Tech Giant</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/the-elite-8-virtual-handhelds-overview-for-2024/"><u>The Elite 8 Virtual Handhelds Overview for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-utilizing-slack-in-your-job-role/"><u>The Ultimate Guide to Utilizing Slack in Your Job Role</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-iphone-16-and-16-pro-protective-covers-comprehensive-reviews-by-tech-gurus/"><u>Top-Rated iPhone 16 & 16 Pro Protective Covers - Comprehensive Reviews by Tech Gurus</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-macbook-enhancers-comprehensive-reviews-by-tech-experts/"><u>Top-Rated MacBook Enhancers : Comprehensive Reviews by Tech Experts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-airtag-enhancements-the-expertly-vetted-accessories-of-2024-zdnet/"><u>Ultimate Guide to AirTag Enhancements: The Expertly Vetted Accessories of 2024 | ZDNET</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-write-a-great-podcast-techniques-and-10plus-free-example-scripts-inside/"><u>[New] How to Write a Great Podcast Techniques & 10+ Free Example Scripts Inside</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-eradicate-dark-playback-on-obs/"><u>[New] In 2024, Eradicate Dark Playback on OBS</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-sensational-jokes-ranking-the-viral-ones/"><u>[Updated] 2024 Approved Sensational Jokes Ranking the Viral Ones</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-apples-latest-enhancements-top-features-of-the-revamped-carplay-unveiled-at-wwdc-202-cuff-techinsider/"><u>Discover Apple's Latest Enhancements: Top Features of the Revamped CarPlay Unveiled at WWDC 202 Cuff | TechInsider</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exclusive-july-2er-2024-unmissable-laptop-bargains-curated-for-you/"><u>Exclusive July 2Er 2024: Unmissable Laptop Bargains Curated for You</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exclusive-look-the-ultimate-titanium-band-for-your-apple-watch-as-reviewed-on-zdnet/"><u>Exclusive Look: The Ultimate Titanium Band for Your Apple Watch, as Reviewed on ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-diagnose-and-repair-service-unavailable-503-server-responses/"><u>How To Diagnose and Repair 'Service Unavailable (503)' Server Responses</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-use-classic-nintendo-controllers-on-steam/"><u>How to Use Classic Nintendo Controllers on Steam</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-expand-your-reach-sharing-live-streams-on-facebook/"><u>In 2024, Expand Your Reach Sharing Live Streams on Facebook</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-13-mini-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone 13 mini Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-the-full-potential-of-vlc-media-player-on-mac/"><u>In 2024, Unlocking the Full Potential of VLC Media Player on Mac</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionary-apple-ai-transforming-your-phographs-with-just-a-few-words-the-latest-innovation-explained/"><u>Revolutionary Apple AI: Transforming Your Phographs with Just a Few Words – The Latest Innovation Explained</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionize-your-apple-watchs-power-savings-by-tweaking-these-8-essential-settings-according-to-zdnet-experts/"><u>Revolutionize Your Apple Watch's Power Savings by Tweaking These 8 Essential Settings, According to ZDNet Experts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-to-deactivating-your-apple-music-subscription-without-using-itunes/"><u>Step-by-Step Guide to Deactivating Your Apple Music Subscription Without Using iTunes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/stop-mordhau-from-crashing-tips-and-fixes-for-a-smooth-gaming-experience/"><u>Stop Mordhau From Crashing: Tips and Fixes for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/cs-to-expose-youtubes-well-guarded-videotapes-for-2024/"><u>Tactics to Expose YouTube's Well-Guarded Videotapes for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/the-secrets-behind-4k-video-resizing-for-better-clarity-on-older-footage/"><u>The Secrets Behind 4K Video Resizing for Better Clarity on Older Footage</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-ultimate-selection-of-apple-watches-for-2-a-detailed-expert-analysis-and-comparisons-digitaltechnet/"><u>Unveiling the Ultimate Selection of Apple Watches for 2지날: A Detailed Expert Analysis and Comparisons | DigitalTechNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upgrade-to-a-better-user-experience-for-free-with-macos-15-explore-the-latest-benefits-for-your-apple-macbook-in-depth-analysis-by-zdnet/"><u>Upgrade to a Better User Experience for Free with macOS 15 - Explore the Latest Benefits for Your Apple MacBook | In-Depth Analysis by ZDNET</u></a></li>
 </ul></div>
 

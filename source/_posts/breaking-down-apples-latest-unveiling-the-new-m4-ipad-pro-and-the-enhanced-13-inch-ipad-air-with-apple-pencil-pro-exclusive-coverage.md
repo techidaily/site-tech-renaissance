@@ -1,7 +1,7 @@
 ---
 title: "Breaking Down Apple's Latest Unveiling: The New M4 iPad Pro and the Enhanced 13-Inch iPad Air with Apple Pencil Pro – Exclusive Coverage!"
-date: 2024-11-02T22:16:44.139Z
-updated: 2024-11-05T18:15:12.631Z
+date: 2024-11-09T20:55:00.007Z
+updated: 2024-11-16T05:27:59.493Z
 tags:
   - apple
 categories:
@@ -33,10 +33,10 @@ Apple's "Let Loose" was a virtual product launch event that took place on May 7,
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. iPad Pro, now with OLED displays and M4
@@ -75,13 +75,6 @@ Unlike the M4-equipped iPad Pro, the iPad Air comes with an M2 chip, making it a
 
 The new iPad Air is available in Blue, Purple, Starlight, and Space Gray, with [prices starting at $599](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for the 11-inch iPad Air, and $799 for the 13-inch model.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Apple Pencil Pro
 
 Apple
@@ -99,10 +92,10 @@ Apple
 The Apple Pencil Pro costs $129 and supports Apple's Find My service, letting you track the location of the accessory should you drop or misplace it. You can purchase the [Apple Pencil Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) today, and it will start shipping next week.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Magic Keyboard
@@ -114,6 +107,13 @@ The iPad event also included a new, more durable Magic Keyboard, featuring a lar
 ## Why would Apple host an event before WWDC?
 
 Although Apple is hosting its [Worldwide Developers Conference (WWDC)](https://www.zdnet.com/article/apple-confirms-wwdc-2024-for-june-10-will-ai-steal-the-show/) on June 10, that event is reserved for new iOS, iPadOS, visionOS, and macOS announcements, plus Apple's new AI strategy. The Let Loose event was focused on the latest hardware offerings, with the [OLED iPad Pro](https://www.zdnet.com/article/7-ipad-pro-features-that-would-make-me-instantly-upgrade-to-apples-next-model/) being the main star.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Did the Let Loose event cover iPadOS 17.5 or iPadOS 18?
 
@@ -128,10 +128,10 @@ Logic Pro 2 introduces Session Players, an AI-created Bass and Keyboard player a
 iOS 17.5 doesn't have many exciting new features outside of the European Union, where iPhone users can now [download apps directly from websites](https://www.zdnet.com/article/apple-to-let-eu-users-download-apps-from-the-web-with-ios-17-5-beta-2-how-it-works/). The new devices are expected to ship with iPadOS 17.5, but these features are available for iPadOS 17.4.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How do I watch Apple's Let Loose event?
@@ -168,24 +168,20 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-analyzing-the-post-upload-process-in-youtubes-ecosystem/"><u>[New] Analyzing the Post-Upload Process in YouTube's Ecosystem</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-hidden-history-unveiled-understanding-off-facebook-data/"><u>[Updated] Hidden History Unveiled Understanding Off-Facebook Data</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-snapshot-hits-must-have-filters-to-enhance-your-snap-for-2024/"><u>[Updated] Snapshot Hits Must-Have Filters to Enhance Your Snap for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-cutting-through-the-noise-with-video-endorsements/"><u>2024 Approved Cutting Through the Noise with Video Endorsements</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-obs-studio-vs-bandicam-a-comprehensive-performance-review/"><u>2024 Approved OBS Studio Vs. Bandicam A Comprehensive Performance Review</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/choosing-between-macbook-pro-and-macbook-air-a-comprehensive-guide-for-selecting-your-ideal-apple-laptop/"><u>Choosing Between MacBook Pro and MacBook Air: A Comprehensive Guide for Selecting Your Ideal Apple Laptop</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-lenovo-ideapad-vehicle-your-ultimate-guide-to-driver-updates-on-windows-10/"><u>Get the Latest Lenovo IdeaPad Vehicle, Your Ultimate Guide to Driver Updates on Windows 10.</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/hesitate-before-getting-iphone-16-explore-if-apples-ingenuity-measures-up/"><u>Hesitate Before Getting iPhone 16? Explore if Apple’s Ingenuity Measures Up!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/important-considerations-to-make-before-investing-in-an-electric-car/"><u>Important Considerations to Make Before Investing in an Electric Car</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-bring-laughter-to-life-kapwing-creator/"><u>In 2024, Bring Laughter to Life – Kapwing Creator</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-vivo-y02t-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Vivo Y02T? Fixed | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/in-depth-analysis-of-apples-latest-airpods-pro-gen-3-spotlight-on-key-enhancements-a-detailed-review/"><u>In-Depth Analysis of Apple's Latest AirPods Pro (Gen 3): Spotlight on Key Enhancements - A Detailed Review</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/iphone-call-monitoring-tips-and-legality-by-state-record-conversations-safely/"><u>IPhone Call Monitoring Tips and Legality by State: Record Conversations Safely</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/magical-on-device-image-creation-with-apples-latest-ai-tool-surpasses-dall-e-discover-the-next-generation-of-visual-tech/"><u>Magical On-Device Image Creation with Apple's Latest AI Tool Surpasses DALL-E: Discover the Next Generation of Visual Tech</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/spotlight-innovation-alert-apple-music-experimenting-with-groundbreaking-feature-to-import-your-favorite-spotify-playlists/"><u>Spotlight Innovation Alert: Apple Music Experimenting with Groundbreaking Feature to Import Your Favorite Spotify Playlists</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-5-barriers-to-sending-presents-via-iphone-or-ipad/"><u>Top 5 Barriers to Sending Presents via iPhone or iPad</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-ranking-mini-tablets-professional-evaluations-and-comprehensive-reviews/"><u>Top-Ranking Mini Tablets : Professional Evaluations & Comprehensive Reviews</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-airtag-gear-comprehensive-reviews-and-comparisons-by-tech-experts/"><u>Top-Rated AirTag Gear : Comprehensive Reviews & Comparisons by Tech Experts</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-elevate-your-video-editing-top-10-free-green-screen-apps-for-androidios/"><u>Updated 2024 Approved Elevate Your Video Editing Top 10 Free Green Screen Apps for Android/iOS</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-groupgaze-video-extractor/"><u>[New] 2024 Approved GroupGaze Video Extractor</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamlining-skype-calls-with-advanced-zoom-use/"><u>[New] Streamlining Skype Calls with Advanced Zoom Use</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-crafting-engaging-video-content-for-live-streams-for-2024/"><u>[Updated] Crafting Engaging Video Content for Live Streams for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-iphone-15-vs-iphone-16-comparison-key-factors-to-weigh-before-switching-to-the-new-standard-model-tech-analysis-by-zdnet/"><u>Apple iPhone 15 vs iPhone 16 Comparison: Key Factors to Weigh Before Switching to the New Standard Model | Tech Analysis by ZDNet</u></a></li>
+<li><a href="https://solve-news.techidaily.com/converteren-van-mode-naar-wmv-vrije-en-gratis-service-online-movavi/"><u>Converteren Van MODE Naar WMV - Vrije en Gratis Service Online - Movavi</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/expertise-in-virtual-assessment-vll-of-apps/"><u>Expertise in Virtual Assessment VLL of Apps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/maximizing-hard-drive-health-a-critical-look-at-the-western-digital-data-lifeguard-diagnostic-utility/"><u>Maximizing Hard Drive Health: A Critical Look at the Western Digital Data LifeGuard Diagnostic Utility</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-connectivity-woes-with-your-apple-watch-cellular-feature/"><u>Resolving Connectivity Woes with Your Apple Watch Cellular Feature</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/stepwise-strategy-for-transforming-your-youtube-videos-with-imovie-for-2024/"><u>Stepwise Strategy for Transforming Your YouTube Videos with iMovie for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/still-waiting-for-apple-vision-pro-latest-update-on-inventory-status-and-expected-delivery-delays-digital-gadget-news/"><u>Still Waiting for Apple Vision Pro? Latest Update on Inventory Status and Expected Delivery Delays | Digital Gadget News</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/streamlining-your-video-production-with-kinemaster-and-leading-alternatives-for-2024/"><u>Streamlining Your Video Production with KineMaster & Leading Alternatives for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-art-of-choosing-video-aspect-ratios/"><u>The Art of Choosing Video Aspect Ratios</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-comparison-ipad-pro-versus-ipad-air-discover-the-ideal-apple-device-for-your-needs/"><u>The Ultimate Comparison: IPad Pro versus iPad Air – Discover the Ideal Apple Device for Your Needs.</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/transitioning-from-siri-why-apple-might-need-a-bing-like-evolution-in-ai-technology-insights-by-zdnet/"><u>Transitioning From Siri: Why Apple Might Need a 'Bing'-Like Evolution in AI Technology - Insights by ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-qi2-multi-function-charger-a-game-changer-for-apple-devices-dive-in-with-zdnet/"><u>Ultimate Qi2 Multi-Function Charger: A Game-Changer for Apple Devices - Dive In with ZDNet!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unlock Priority Access: Navigating the Release of Apple Vision Pro Beta Versions with TestFlight | Insights"
-date: 2024-11-04T21:01:12.680Z
-updated: 2024-11-05T20:26:13.677Z
+date: 2024-11-11T17:22:21.167Z
+updated: 2024-11-15T21:21:37.297Z
 tags:
   - apple
 categories:
@@ -48,6 +48,13 @@ And here's another feature that I can't imagine any users clamoring for. Now, if
 
 So, yeah, if Grandma Sadie in Seattle has a Vision Pro, Cousin Marty in Miami has a Vision Pro, and you have a Vision Pro in Yuma, you can all stand around the virtual photo screen and ooh and ah over pictures of baby Alice. 
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Gestures for opening Home View and Control Center
 
 While it's easy enough to open Vision Pro's home view (the field of app icons) by pressing the Digital Crown on the top of the unit, getting to Control Center is a pain. VisionOS puts a tiny little arrow waaay up at the top of the viewing space, and you have to glance at it and tap your fingers together to get it to open. 
@@ -55,19 +62,6 @@ While it's easy enough to open Vision Pro's home view (the field of app icons) b
 In VisionOS 2, there are gestures. Holding your hand palm up and tapping fingers opens the app view. Flipping your hand over will give you time and battery level. A finger tap in this position will open up Control Center. 
 
 Unlike the previous two features, this _is_ a quality of life improvement. 
-
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Mac virtual display improvements
 
@@ -78,10 +72,16 @@ Screenshot by David Gewirtz/ZDNET
 On the other hand, Apple "later this year" will enable you to create displays with more resolutions. The most interesting is the full wrap-around display, which will be the equivalent of two 4K monitors. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Choo-choo train mode
@@ -101,10 +101,16 @@ There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, 
 * **Enterprise APIs:** These were described as enterprise-specific APIs, so we can assume they're somewhat special purpose. Examples given were surgical training and manufacturing.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. New Canon spatial lens for creating spatial video
@@ -115,6 +121,13 @@ Screenshot by David Gewirtz/ZDNET
 
 This allows more commercial and prosumer projects where the photographer or videographer needs more control over the complex range of settings available in a more traditional camera. Those videos can then be edited in Final Cut Pro, Apple's only mention of Final Cut during WWDC. There's also a new Vimeo app for VisionOS, that will allow spatial videos to be shared. 
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Third-party immersive video workflow
 
 One of the truly breathtaking experiences of the Vision Pro is what Apple calls Immersive video. This is a very big step beyond the typical 3D video we've seen in movies and TV shows. The entire experience wraps around you 180 degrees. When it's done right, it's astonishing. 
@@ -124,13 +137,6 @@ One of the truly breathtaking experiences of the Vision Pro is what Apple calls 
 Apple is opening up the format for third-party creators to create immersive video. The approach is to use cameras and DaVinci Resolve Studio from [Blackmagic Design](https://www.blackmagicdesign.com/). There's no doubt that Blackmagic makes excellent gear and that DaVinci Resolve is a fine application. It's just a little surprising that Apple didn't bake this capability into its own high-end video production tool, Final Cut Pro.
 
 Even so, I think this is great. Those immersive videos are fantastic. 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Other new features
 
@@ -185,17 +191,18 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-shared-humor-top-20-memes-across-social-networks-for-2024/"><u>[New] Shared Humor Top 20 Memes Across Social Networks for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-easeus-tech-diverse-viewpoints/"><u>[Updated] 2024 Approved EaseUS Tech, Diverse Viewpoints</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-pinnacle-community-standards-on-youtube/"><u>[Updated] 2024 Approved Pinnacle Community Standards on YouTube</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-snap-a-story-sharing-photos-and-videos-without-retweet/"><u>[Updated] In 2024, Snap a Story Sharing Photos & Videos Without Retweet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apple-watch-series-9-at-record-low-prices-post-prime-day-exclusive-offer/"><u>Apple Watch Series 9 at Record Low Prices Post-Prime Day - Exclusive Offer</u></a></li>
-<li><a href="https://driver-install.techidaily.com/how-to-quickly-restore-bluetooth-functionality-win11/"><u>How to Quickly Restore Bluetooth Functionality Win11</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-hall-of-fame-movie-scenarios/"><u>In 2024, Hall of Fame Movie Scenarios</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-vivo-g2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Vivo G2 | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/lost-ark-optimization-fixing-the-sudden-dip-in-frames-per-second-fps/"><u>Lost Ark Optimization: Fixing the Sudden Dip in Frames Per Second (FPS)</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/snapping-deals-in-seconds-the-draw-of-apples-latest-17-usb-c-earpods-on-prime-day-a-zdnet-insider-look/"><u>Snapping Deals in Seconds: The Draw of Apple's Latest $17 USB-C EarPods on Prime Day - A ZDNET Insider Look</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-how-to-hook-up-a-samsung-soundbar-with-your-tv/"><u>Ultimate Guide: How To Hook Up a Samsung Soundbar with Your TV</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/uninterruptible-power-supplies-ups-elite-selections-for-202e/"><u>Uninterruptible Power Supplies (UPS): Elite Selections for 202E</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/rom-raw-to-refined-youtube-thumbnail-creation-for-mobile-users/"><u>[New] From Raw to Refined YouTube Thumbnail Creation for Mobile Users</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-boosting-viewer-interest-with-optimal-video-thumbnail-sizes/"><u>[Updated] In 2024, Boosting Viewer Interest with Optimal Video Thumbnail Sizes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/2-the-showdown-between-apple-pencils-pro-and-2nd-generation-which-reigns-supreme-for-artists/"><u>2. The Showdown Between Apple Pencils: Pro and 2Nd Generation Which Reigns Supreme for Artists?</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-tweettub-ios-app-for-fetching-twitter-vids/"><u>2024 Approved TweetTub IOS App for Fetching Twitter Vids</u></a></li>
+<li><a href="https://article-files.techidaily.com/enhance-creativity-essential-tiktok-video-tricks-for-2024/"><u>Enhance Creativity Essential TikTok Video Tricks for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exclusive-insight-the-top-reason-professionals-cant-miss-with-apples-budget-friendly-m3-macbook-pro/"><u>Exclusive Insight: The Top Reason Professionals Can't Miss with Apple's Budget-Friendly M3 MacBook Pro</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-install-third-party-ios-apps-without-jailbreaking-your-iphone-insights-from-zdnet/"><u>How to Install Third-Party iOS Apps Without Jailbreaking Your iPhone - Insights From ZDNet</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Infinix Note 30 VIP? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/iphone-hdr-photography-tips-and-tricks/"><u>IPhone HDR Photography Tips & Tricks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/maximize-productivity-in-your-home-workspace-using-an-ipad-pro-tips-and-tricks/"><u>Maximize Productivity in Your Home Workspace Using an iPad Pro: Tips & Tricks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/personalizing-your-mac-experience-a-guide-to-adjusting-folder-appearances/"><u>Personalizing Your Mac Experience: A Guide to Adjusting Folder Appearances</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/quick-click-quests-top-10-agile-gaming-platforms/"><u>Quick Click Quests Top 10 Agile Gaming Platforms</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/zdnets-favorite-phones-a-closer-look-at-the-techies-real-life-choices/"><u>ZDNet's Favorite Phones: A Closer Look at the Techies' Real-Life Choices</u></a></li>
 </ul></div>
 

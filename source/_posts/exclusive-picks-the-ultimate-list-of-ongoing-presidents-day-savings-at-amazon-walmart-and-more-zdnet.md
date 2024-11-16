@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Picks: The Ultimate List of Ongoing Presidents' Day Savings at Amazon, Walmart, and More | ZDNet"
-date: 2024-11-01T20:39:09.222Z
-updated: 2024-11-05T20:39:04.699Z
+date: 2024-11-12T16:04:31.904Z
+updated: 2024-11-16T02:14:33.238Z
 tags:
   - apple
 categories:
@@ -26,6 +26,13 @@ It's no secret that iPhones aren't the most rugged devices, sometimes yielding s
 
 Our pick for the best iPhone 16 case right now is the [Nomad Sport Case](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fstores%2FNOMAD%2Fpage%2F6927BCAB-A05E-40FA-ADA7-1E37C46F23E5%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7f821668-9351-4618-8103-2ca87eecc478%7Cdtp&dtb=1) case. This brand has been a longtime ZDNET favorite for its sleek form factor, [MagSafe capabilities](https://www.zdnet.com/article/best-magsafe-wallets/), and drop protection without a bulky form factor. Keep reading for more of our iPhone 16 case picks.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The best iPhone 16 cases of 2024
 
 Show less 
@@ -42,10 +49,10 @@ Cons
 * Only available for iPhone 16 Pro models
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Nomad Sport Case
@@ -75,7 +82,27 @@ Cons
 * Kickstand durability
 * Not many color options
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Torras 360-degree OStand
+
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best kickstand iPhone 16 case
 
@@ -127,6 +154,13 @@ Pros
 Cons 
 * Low drop protection
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Smartish Gripmunk case
 
 ### Best cheap iPhone 16 case
@@ -152,13 +186,6 @@ Pros
 
 Cons 
 * Pricier
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Mous Limitless 6.0
 
@@ -189,13 +216,6 @@ Cons
 
 ## Incase Icon
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Best stylish iPhone 16 case
 
 Incase makes great laptop cases, and its designs for iPhone are no different. To best summarize this case, Reddit users describe the Incase Icon as "awesome" and "sexy." 
@@ -221,6 +241,13 @@ Pros
 Cons 
 * Not too much protection
 * Pricey for low protection
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Moft Snap Case Movas
 
@@ -250,13 +277,6 @@ Cons
 * Unsure on sustainability
 * Only for Pro models
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Nomad Modern Leather Case
 
 ### Best leather case for iPhone 16
@@ -284,10 +304,10 @@ Our pick for the best iPhone 16 case is the Nomad Sport case for its sleek desig
 | Nomad Modern Leather case  | $70       | Yes                 | Yes         |
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which is the right iPhone 16 case for you?
@@ -326,22 +346,15 @@ However, if you stray from the list, the best options are those with a solid bum
 Unfortunately, there isn't such a thing as the best phone case brand. Many sources point to Spigen and Otterbox as the most popular phone case brands with the most units sold. That, however, does not necessarily mean they are the best brands. It is ultimately up to you and your lived experience and opinion.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What case material is best for iPhone?
 
 Materials like plastic or polycarbonate usually offer the best price and durability. Other cases made from leather or metal can be pricier and may not offer the best protection.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## When is the iPhone 16 available?
 
@@ -354,13 +367,6 @@ If your phone has the problem of overheating, it may be best to look into specia
 ## What is the best iPhone for a 16 year old?
 
 This is a good question, and if we had to chime in, we would say something more durable. A study by tech protection service Asurion in 2013 that [3 out of 10 teenagers have dropped](https://www.prnewswire.com/news-releases/3-out-of-10-teens-damaged-cell-phones-in-the-last-18-months-mainly-at-school-218494391.html#:~:text=A%20back%2Dto%2Dschool%20survey,most%20accidents%20happening%20at%20school.) and/or damaged their cell phones in the past 18 months. Ten years later, many phones are even less durable. Therefore, that number may be higher, especially if teenagers have more phones than ever. To prevent damage to your teen's phone, it may be wise to invest in a durable case that protects the device.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Are there alternative iPhone 16 cases worth considering?
 
@@ -408,22 +414,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-grandest-clash-of-titans-a-compilation-of-the-top-7-total-war-skirmishes/"><u>[New] In 2024, Grandest Clash of Titans A Compilation of the Top 7 Total War Skirmishes</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-navigating-through-quantum-hdr-expertise/"><u>[New] Navigating Through Quantum HDR Expertise</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-premium-players-pick-of-terraria-extensions/"><u>[New] Premium Player's Pick of Terraria Extensions</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-effortlessly-link-zoom-events-across-ios-android-and-desktops/"><u>[Updated] 2024 Approved Effortlessly Link Zoom Events Across iOS, Android, and Desktops</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-from-beginner-to-pro-the-essential-guide-to-capturing-your-mac-display/"><u>[Updated] In 2024, From Beginner to Pro The Essential Guide to Capturing Your Mac Display</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-symphony-silhouette-audio-studio-mac/"><u>2024 Approved Symphony Silhouette Audio Studio Mac</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/a-comparative-guide-to-ar-vr-mr-and-xr-identifying-how-they-differ-from-one-another/"><u>A Comparative Guide to AR, VR, MR & XR: Identifying How They Differ From One Another</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/anticipated-release-new-features-of-ipad-pro-and-air-in-may-insights-from-zdnet/"><u>Anticipated Release: New Features of iPad Pro & Air in May - Insights From ZDNet</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/best-avchd-video-player-software-compatible-with-windows-11-10-and-macos/"><u>Best AVCHD Video Player Software Compatible with Windows 11, 10 & macOS</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-six-savings-top-couponing-sites-for-maximum-deals/"><u>Discover the Ultimate Six Savings: Top Couponing Sites for Maximum Deals</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/effortless-photo-group-uploads-master-the-multi-photo-technique-on-facebook/"><u>Effortless Photo Group Uploads: Master the Multi-Photo Technique on Facebook</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-repair-an-unresponsive-iphone-camera-expert-tips-and-tricks/"><u>How to Repair an Unresponsive iPhone Camera: Expert Tips and Tricks</u></a></li>
-<li><a href="https://win-dash.techidaily.com/seamless-printing-with-newest-canon-mx340-drivers-for-windows-versions-win-10-8-and-7/"><u>Seamless Printing with Newest Canon MX340 Drivers for Windows Versions: Win 10, 8 & 7</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/siri-redefines-apples-search-game-is-it-time-for-an-ai-powered-evolution-insights/"><u>Siri Redefines Apple's Search Game - Is It Time For an AI-Powered Evolution? Insights</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-keyboards-of-2024-comprehensive-reviews-and-ratings-by-tech-experts/"><u>Top-Rated Keyboards of 2024: Comprehensive Reviews and Ratings by Tech Experts</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-rated-protective-covers-for-iphone-13-ultimate-guide/"><u>Top-Rated Protective Covers for iPhone 13 - Ultimate Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/wwdc-2024-spotlight-explore-the-new-and-improved-features-of-apple-carplay-whats-hot-in-your-dashboard-now-cnet/"><u>WWDC 2024 Spotlight: Explore the New and Improved Features of Apple CarPlay - What's Hot in Your Dashboard Now | CNET</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-2023s-leading-applications-for-downloading-facebook-lite-videos/"><u>[New] 2024 Approved 2023'S Leading Applications for Downloading Facebook Lite Videos</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/affordable-wireless-magnetic-charging-solution-for-your-iphone-only-35-recommended/"><u>Affordable Wireless Magnetic Charging Solution for Your iPhone, Only $35 – Recommended</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/boost-your-apple-watch-lifespan-top-8-customization-tips-for-better-power-management/"><u>Boost Your Apple Watch Lifespan - Top 8 Customization Tips for Better Power Management</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-3-smart-and-simple-ways-to-change-home-address-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Smart and Simple Ways to Change Home Address on Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-communication-conquests-powerful-expressions-for-success/"><u>In 2024, Communication Conquests Powerful Expressions for Success</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-poco-c65-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Poco C65 to iPod | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/latest-release-unveiling-apples-most-recent-macbook-models/"><u>Latest Release: Unveiling Apple's Most Recent MacBook Models</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719577897213-learn-catalan-quickly-just-minutes-a-day/"><u>Learn Catalan Quickly, Just Minutes a Day</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-top-5-best-free-avi-video-rotators/"><u>New 2024 Approved Top 5 Best Free AVI Video Rotators</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-future-of-email-is-here-uncover-the-top-8-alternatives-to-gmail-for-a-superior-experience/"><u>The Future of Email Is Here: Uncover the Top 8 Alternatives to Gmail for a Superior Experience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722881595269-top-free-and-open-source-dns-services-you-can-use/"><u>Top Free and Open-Source DNS Services You Can Use</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-notch-laptop-bargains-in-july-2024-explore-savings-on-zdnet/"><u>Top Notch Laptop Bargains in July 2024 - Explore Savings on ZDNet</u></a></li>
 </ul></div>
 

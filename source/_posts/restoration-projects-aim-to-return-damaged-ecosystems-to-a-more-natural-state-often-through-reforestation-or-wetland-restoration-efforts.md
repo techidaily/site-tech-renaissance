@@ -1,7 +1,7 @@
 ---
 title: Restoration Projects Aim to Return Damaged Ecosystems to a More Natural State, Often Through Reforestation or Wetland Restoration Efforts.
-date: 2024-11-03T19:50:06.828Z
-updated: 2024-11-05T20:04:38.498Z
+date: 2024-11-09T01:24:47.529Z
+updated: 2024-11-15T17:56:39.094Z
 tags:
   - apple
 categories:
@@ -30,19 +30,6 @@ Image: Maria Diaz / ZDNet
 
 This option gives you access to your Apple ID, iCloud, and Purchases settings. 
 
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 2: Tap on iCloud
 
 Image: Maria Diaz / ZDNet
@@ -50,6 +37,13 @@ Image: Maria Diaz / ZDNet
 ### Step 3: Go to iCloud Backup
 
 Image: Maria Diaz / ZDNet
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 4: Enable iCloud Backup and select Back up Now
 
@@ -59,6 +53,19 @@ Tap on the toggle to enable iCloud backups, and **Back Up Now** will appear, sel
 
 5GB is not enough for a lot of us, especially if you've never backed up your iPhone. But you can choose what gets backed up to reduce the amount of data to upload to iCloud or buy more storage. If you're still over the limit and don't want to pay for a membership, then you can back up to a computer.
 
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Here's how to back up your iPhone on a Mac
 
 ### Step 1: Connect your iPhone to the computer
@@ -66,16 +73,10 @@ Tap on the toggle to enable iCloud backups, and **Back Up Now** will appear, sel
 Image: Maria Diaz / ZDNet
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 2: Open Finder to find your iPhone in Locations
@@ -92,13 +93,6 @@ Be sure to select **Back up all of the data on your iPhone to this Mac** before 
 
 Creating a backup could take a few minutes or a couple of hours, depending on how much data you have to back up. Mine took a little over an hour, but I hadn't backed up my iPhone in over a year. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How much does iCloud cost?
 
 Apple offers iCloud services to automatically back up your iPhone. 
@@ -110,16 +104,16 @@ Here are the [different plans iCloud offers](https://apple.sjv.io/c/159047/43503
 * iCloud+: 200GB of storage $2.99
 * iCloud+: 2TB of storage $9.99
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is it better to back up iPhone on a computer or iCloud?
 
 Both options have their pros and cons, but I personally prefer a cloud service backup. I like having my photos and videos easily accessible through an app on my phone without occupying storage space. This beats having to get into a computer to find an old photo every time I want one. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Do I need to back up iPhone apps?
 
@@ -161,18 +155,21 @@ There are a lot of cloud options, but it's important to make sure you're giving 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-exploring-the-depths-of-video-talks-on-youtube/"><u>[New] 2024 Approved Exploring the Depths of Video Talks on YouTube</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-from-speech-to-text-your-all-inclusive-gdoc-training-guide-for-2024/"><u>[New] From Speech to Text Your All-Inclusive GDoc Training Guide for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-revolutionize-earning-with-youtube-short-tactics/"><u>[New] Revolutionize Earning with Youtube Short Tactics</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-how-to-get-started-signing-up-for-a-youtube-channel/"><u>[Updated] 2024 Approved How to Get Started Signing Up for a YouTube Channel</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-masterclass-for-viral-talent/"><u>[Updated] 2024 Approved Masterclass for Viral Talent</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-efficient-screen-recording-on-mac-utilizing-key-combos/"><u>2024 Approved Efficient Screen Recording on Mac Utilizing Key Combos</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/8-proven-fixes-for-when-your-chromebook-becomes-frozen/"><u>8 Proven Fixes for When Your Chromebook Becomes Frozen</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/bypass-the-bug-fixing-phase0-exception-stop-code-0x0000007/"><u>Bypass the Bug: Fixing Phase0 Exception (STOP Code 0X0000007#)</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-free-automotive-updater-programs-available-in-july-2024/"><u>Discover the Best Free Automotive Updater Programs Available in July 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-invoke-command-prompt-seamlessly-within-your-current-working-folder/"><u>How to Invoke Command Prompt Seamlessly Within Your Current Working Folder</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-samsung-galaxy-f15-5g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Samsung Galaxy F15 5G Phone that is Locked?</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/masters-guide-to-proficient-use-of-english-contractions/"><u>Master's Guide to Proficient Use of English Contractions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlocking-your-devices-full-potential-how-to-activate-and-navigate-using-the-secret-shortcut-menu/"><u>Unlocking Your Device's Full Potential: How to Activate & Navigate Using the Secret Shortcut Menu</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ive-deep-into-duality-mastering-multi-video-watching-on-youtube/"><u>[New] Dive Deep Into Duality Mastering Multi-Video Watching on YouTube</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-magical-apps-for-vocal-alteration-top-list-unveiled/"><u>[Updated] Magical Apps for Vocal Alteration Top List Unveiled</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/capture-cinematic-masterpieces-with-apples-final-cut-for-iphone-revolutionizing-mobile-filmmaking-discover-how/"><u>Capture Cinematic Masterpieces with Apple's Final Cut for iPhone: Revolutionizing Mobile Filmmaking - Discover How!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/choosing-between-apples-latest-innovations-apple-watch-series-9-or-ultra-model-2-a-comprehensive-comparison-for-your-purchase-decision/"><u>Choosing Between Apple's Latest Innovations: Apple Watch Series 9 or Ultra Model 2 - A Comprehensive Comparison for Your Purchase Decision</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-innovative-camera-button-on-every-iphone-16-unveiling-its-functionality-and-advantages/"><u>Discover the Innovative Camera Button on Every iPhone 16: Unveiling Its Functionality and Advantages</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhancing-your-gameplay-and-work-efficiency-with-the-top-portable-monitors-of-2024/"><u>Enhancing Your Gameplay & Work Efficiency with the Top Portable Monitors of 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ergonomic-and-convenient-discover-the-world-of-effortless-typing-with-mokos-foldable-bluetooth-keyboard/"><u>Ergonomic & Convenient: Discover the World of Effortless Typing with MoKo's Foldable Bluetooth Keyboard</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-role-of-telecommunication-service-providers-in-your-life/"><u>Exploring the Role of Telecommunication Service Providers in Your Life</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-vivo-y100-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-display-sharing-with-your-lg-smart-television/"><u>Mastering the Art of Display Sharing with Your LG Smart Television</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/maximize-device-longevity-charge-and-regulate-temperature-of-apple-tech-using-the-all-in-one-magsafe-dock-zdnets-review/"><u>Maximize Device Longevity: Charge & Regulate Temperature of Apple Tech Using the All-in-One MagSafe Dock - ZDNET's Review</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/top-6-minecraft-survival-house-ideas/"><u>Top 6 Minecraft Survival House Ideas</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-7-essential-enhancements-for-the-apple-vision-pros-success-in-the-enterprise-insights/"><u>Top 7 Essential Enhancements for the Apple Vision Pro's Success in the Enterprise Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-fix-for-windows-error-code-28-a-comprehensive-guide/"><u>Ultimate Fix for Windows Error Code 28: A Comprehensive Guide</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/vivo-y17s-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Vivo Y17s ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
 </ul></div>
 

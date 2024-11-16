@@ -1,7 +1,7 @@
 ---
 title: "Ultimate iPhone 12/12 Pro Case Guide: Latest Picks of the Year From CNET"
-date: 2024-11-02T21:15:54.374Z
-updated: 2024-11-05T20:38:34.205Z
+date: 2024-11-10T19:37:36.008Z
+updated: 2024-11-15T23:43:47.651Z
 tags:
   - apple
 categories:
@@ -44,21 +44,7 @@ Pros
 Cons 
 * Slightly pricey
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Pela case
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best iPhone 12 case overall
 
@@ -79,13 +65,6 @@ Pros
 
 Cons 
 * Pricier
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Apple Silicone Case with MagSafe
 
@@ -116,10 +95,10 @@ Cons
 ## Bodyguardz Ace Pro
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Best budget iPhone 12 case
@@ -145,13 +124,20 @@ Pros
 Cons 
 * Shipping can take up to 12 business days for US orders and up to 23 business days for non-US orders
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Casetify cases
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Best customizable iPhone 12 case
@@ -176,10 +162,16 @@ Cons
 * May still yellow over time
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ESR Air Armor
@@ -259,6 +251,13 @@ Cons
 
 ## Speck Presidio Edition
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Best iPhone 12 case for drop protection
 
 The Speck Presidio is a perfectly clear case that offers up to 13 feet of drop protection. This is how it works: When you drop your phone, the clear impact technology of the Speck case compresses on impact, absorbing shock, and protecting your phone. Speck's Perfect-Clear coating works against discoloration and yellowing to keep your case in clear condition. If you notice yellowing or discoloration, you can send your phone case back to Speck for a free replacement. 
@@ -284,7 +283,27 @@ Cons
 * No drop protection
 * Original price ($39) is too expensive for what it is
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Totallee case
+
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best slim iPhone 12 case
 
@@ -293,13 +312,6 @@ Totallee phone cases are super thin, adding only 0.03 inches to the thickness of
 The case has a camera lens "lip" to make sure that the camera does not get scratched. Other than that, it offers minimal protection. It usually goes for $39, but currently, select colors/styles are on sale for $19\. 
 
 Show Expert Take Show less 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What is the best iPhone case?
 
@@ -346,6 +358,13 @@ If you've invested in a top-notch smartphone like an iPhone 12 or 12 Pro, you'll
 
 Wireless charging does work with phone cases. Almost all of the cases on this list are MagSafe-compatible. Usually, cases with a slimmer profile are more likely to be compatible. Most cases specify whether or not they are MagSafe-compatible, so make sure to check out the product specifications to verify if wireless charging works with the case of your choice. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Which case is best for iPhone 12?
 
 The Pela case is my favorite because it combines drop protection with environmental friendliness and durability. The flax-based material is unique and 100% compostable -- and the case protects your phone from drops of up to 20 feet. It comes in a variety of colors and ships free to the United States and Canada in plastic-free packaging. 
@@ -361,13 +380,6 @@ The Pela case is made out of non-toxic materials and has been tested for safety.
 ## Do you need a case for iPhone 12?
 
 Apple markets the iPhone 12 as durable enough to handle tough use. However, if you want to avoid scratches and cracks, you need a case. The iPhone is slick, which means it's easy to drop. You can survive without a case, but if you want to keep your iPhone in the best shape possible, you should go with a case.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Are there alternative iPhone 12 cases worth considering?
 
@@ -409,20 +421,24 @@ Of course. Here are a few options to consider.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-maximize-engagement-uploading-and-posting-funny-gifs-on-instagram-easy-guide/"><u>[New] 2024 Approved Maximize Engagement Uploading & Posting Funny GIFs on Instagram (Easy Guide)</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-how-to-make-money-on-vimeo-your-ultimate-guide-to-vimeo-monetization/"><u>[Updated] 2024 Approved How to Make Money on Vimeo Your Ultimate Guide to Vimeo Monetization</u></a></li>
-<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-oppo-a38-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Oppo A38 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-enabled-fraud-top-7-strategies-used-in-love-deceptions/"><u>AI-Enabled Fraud: Top 7 Strategies Used in Love Deceptions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/android-users-handbook-turning-off-intrusive-amber-alerts/"><u>Android User's Handbook: Turning Off Intrusive Amber Alerts</u></a></li>
-<li><a href="https://extra-information.techidaily.com/comparative-livestrandexperience-analysis-twitch-and-youtube/"><u>Comparative Livestrandexperience Analysis Twitch & YouTube</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/facebook-account-recovery-options-beyond-phone-and-email/"><u>Facebook Account Recovery: Options Beyond Phone and Email</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-motorola-moto-g04-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Motorola Moto G04 | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-prime-picks-for-high-quality-insta-tunes-and-secrets-on-how-to-make-a-noteworthy-chime/"><u>In 2024, Prime Picks for High-Quality Insta Tunes & Secrets on How to Make a Noteworthy Chime</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/inside-micromobility-world-key-dates-latest-updates-speculations-and-insights/"><u>Inside Micromobility World: Key Dates, Latest Updates, Speculations & Insights</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-team-collaboration-the-ultimate-guide-to-using-slack-at-work/"><u>Mastering Team Collaboration: The Ultimate Guide to Using Slack at Work</u></a></li>
-<li><a href="https://fox-that.techidaily.com/revive-your-iphones-voicemail-top-9-solutions/"><u>Revive Your iPhone's Voicemail: Top 9 Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-problem-when-your-sims-4-game-wont-start/"><u>Solving the Problem: When Your Sims 4 Game Won’t Start</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-checklist-9-things-every-driver-needs-before-buying-a-dash-camera/"><u>The Ultimate Checklist: 9 Things Every Driver Needs Before Buying a Dash Camera</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/water-resistance-of-iphone-15-pro-max-how-much-water-can-it-handle/"><u>Water Resistance of iPhone 15 Pro Max: How Much Water Can It Handle?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-navigating-youtube-success-through-strategic-studio-use/"><u>[New] Navigating YouTube Success Through Strategic Studio Use</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-newbies-guide-6-strategic-social-media-tactics-for-growth/"><u>[New] Newbies Guide 6 Strategic Social Media Tactics for Growth</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-snapchat-for-mac-quick-installation-tips-for-2024/"><u>[New] Snapchat for MAC Quick Installation Tips for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-art-and-science-of-crafting-a-captivating-trailer-for-youtube/"><u>[New] The Art and Science of Crafting a Captivating Trailer for YouTube</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-first-edition-top-notch-user-centric-game-edit-apps-for-2024/"><u>[Updated] First Edition Top-Notch, User-Centric Game Edit Apps for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-precision-in-ppt-recording-a-comprehensive-guide/"><u>[Updated] In 2024, Precision in PPT Recording A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-premium-4k-capture-systems-our-1-to-18-picks/"><u>[Updated] In 2024, Premium 4K Capture Systems Our #1 to #18 Picks</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-fine-tuning-team-call-aesthetics-pre-and-post-customization/"><u>2024 Approved Fine-Tuning Team Call Aesthetics Pre & Post Customization</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-online-screenshots-and-screen-recorders-guide/"><u>2024 Approved Online Screenshots & Screen Recorders Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/connect-with-ease-learning-to-navigate-whatsapp-on-macos-devices/"><u>Connect with Ease: Learning to Navigate WhatsApp on macOS Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/eliminating-the-whea-uncorrectable-issue-a-detailed-troubleshooting-guide/"><u>Eliminating the WHEA Uncorrectable Issue: A Detailed Troubleshooting Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-todays-wwdc-announcements-innovations-in-ai-with-apple-and-updates-on-ios-nx-insights-for-tech-enthusiasts-gadgetguru/"><u>Exploring Today's WWDC Announcements: Innovations in AI with Apple and Updates on iOS nX - Insights for Tech Enthusiasts | GadgetGuru</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/iphone-maintenance-revolution-apple-now-supports-refurbished-components-in-certain-repair-scenarios-insights/"><u>IPhone Maintenance Revolution: Apple Now Supports Refurbished Components in Certain Repair Scenarios - Insights</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-those-irritating-cracks-in-your-headphones/"><u>Quick Fixes for Those Irritating Cracks in Your Headphones</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/score-big-savings-snag-an-apple-watch-series-10-for-only-99-before-others-insiders-tips-and-tricks-to-beat-the-rush/"><u>Score Big Savings! Snag an Apple Watch Series 10 for Only $99 Before Others - Insider's Tips and Tricks to Beat the Rush</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-5-anticipated-iphone-update-unveiling-new-ios-18-capabilities-and-the-dawn-of-integrated-ai-tech-insights/"><u>Top 5 Anticipated iPhone Update: Unveiling New iOS 18 Capabilities & The Dawn of Integrated AI | Tech Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-iphones-comprehensive-reviews-and-comparisons-by-tech-experts-zdnet/"><u>Top Rated iPhones : Comprehensive Reviews & Comparisons by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/transferring-imessages-seamlessly-tips-for-windows-users-learn-how-expert-advice/"><u>Transferring iMessages Seamlessly: Tips for Windows Users – Learn How Expert Advice</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/zdnet-reveals-new-tech-for-iphone-16-enhanced-spatial-capture-capabilities-and-thinner-edges-on-every-model/"><u>ZDNet Reveals New Tech for iPhone 16: Enhanced Spatial Capture Capabilities and Thinner Edges on Every Model</u></a></li>
 </ul></div>
 

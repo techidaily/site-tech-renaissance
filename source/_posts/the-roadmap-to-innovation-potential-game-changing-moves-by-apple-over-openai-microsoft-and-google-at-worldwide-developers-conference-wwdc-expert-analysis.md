@@ -1,7 +1,7 @@
 ---
 title: "The Roadmap to Innovation: Potential Game-Changing Moves by Apple Over OpenAI, Microsoft, and Google at Worldwide Developers Conference (WWDC) | Expert Analysis"
-date: 2024-10-29T18:35:59.747Z
-updated: 2024-11-05T21:20:41.050Z
+date: 2024-11-10T00:29:44.040Z
+updated: 2024-11-16T04:33:29.894Z
 tags:
   - apple
 categories:
@@ -43,10 +43,10 @@ Now, here's the thing. I tried watching a couple of Marvel 3D movies via Disney+
 I'm guessing that Apple's 3Difying of a 2D image will be at about the same level. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Watch those images together using SharePlay in the Photos app
@@ -71,25 +71,11 @@ Screenshot by David Gewirtz/ZDNET
 
 On the other hand, Apple "later this year" will enable you to create displays with more resolutions. The most interesting is the full wrap-around display, which will be the equivalent of two 4K monitors. 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Choo-choo train mode
 
 To be fair, Apple didn't call it that. We've [talked about the Vision Pro's travel mode](https://www.zdnet.com/article/itching-to-try-vision-pros-travel-mode-heres-what-to-expect-before-you-go/), which was mostly intended for airplane travel. 
 
 In VisionOS 2, Apple is announcing that there is dedicated support in travel mode for train travel. We know [people have already been successful using the Vision Pro on the train and even subway](https://www.youtube.com/shorts/8ckKAjAWLw8), but in this case, Apple presumably tweaked performance somewhat. 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. New developer APIs
 
@@ -101,6 +87,13 @@ There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, 
 * **TabletopKit:** Helps developers create apps that anchor to flat surfaces. One obvious example is board game kits, but this could apply to interior design apps, architectural and construction projects, gaming, navigation, and more.
 * **Enterprise APIs:** These were described as enterprise-specific APIs, so we can assume they're somewhat special purpose. Examples given were surgical training and manufacturing.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. New Canon spatial lens for creating spatial video
 
 While iPhone 15 Pro users can create spatial video, there are limitations to using an iPhone as a camera. Apple announced today that Canon will be introducing a spatial lens for its [EOS R7 digital camera](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCanon-RF-S18-150mm-Mirrorless-Processor-Detection%2Fdp%2FB0B2KSD7WW%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbfbe271d-4f99-40f4-b81e-3b3c556a641c%7Cdtp&dtb=1). 
@@ -108,6 +101,13 @@ While iPhone 15 Pro users can create spatial video, there are limitations to usi
 Screenshot by David Gewirtz/ZDNET
 
 This allows more commercial and prosumer projects where the photographer or videographer needs more control over the complex range of settings available in a more traditional camera. Those videos can then be edited in Final Cut Pro, Apple's only mention of Final Cut during WWDC. There's also a new Vimeo app for VisionOS, that will allow spatial videos to be shared. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Third-party immersive video workflow
 
@@ -120,16 +120,10 @@ Apple is opening up the format for third-party creators to create immersive vide
 Even so, I think this is great. Those immersive videos are fantastic. 
 
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Other new features
@@ -185,19 +179,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-refined-conference-aesthetics-the-process-to-blur-backgrounds/"><u>[Updated] In 2024, Refined Conference Aesthetics The Process to Blur Backgrounds</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-the-visual-journey-of-iphone-photos-with-leading-lines/"><u>[Updated] The Visual Journey of iPhone Photos with Leading Lines</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-virtuality-unleashed-insightful-reviews-of-top-10-pc-vr-streamers/"><u>2024 Approved Virtuality Unleashed Insightful Reviews of Top 10 PC VR Streamers</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-lava-storm-5g-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Lava Storm 5G without App | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apple-discontinues-apple-pay-later-a-look-at-alternative-future-financing-options-insights-from-zdnet/"><u>Apple Discontinues Apple Pay Later: A Look at Alternative Future Financing Options - Insights From ZDNet</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ing-content-id-alerts-strategies-on-youtube-for-2024/"><u>Avoiding Content ID Alerts Strategies on YouTube for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/by-apple-featured/"><u>By Apple | Featured</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comparing-iphone-models-is-the-leap-from-iphone-14-pro-to-iphone-15-pro-worth-it-expert-analysis/"><u>Comparing IPhone Models: Is The Leap From IPhone 14 Pro To IPhone 15 Pro Worth It? | Expert Analysis</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-tecno-spark-go-2023-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Tecno Spark Go (2023)</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-establish-a-secure-wi-fi-connection-with-your-vizio-tv/"><u>How To Establish a Secure Wi-Fi Connection with Your Vizio TV</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-nokia-c12-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Nokia C12 phone? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/revolutionize-your-cycling-experience-with-photochromic-hud-lenses-a-game-changer-unveiled/"><u>Revolutionize Your Cycling Experience with Photochromic HUD Lenses - A Game Changer Unveiled</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-walkthrough-how-to-shut-down-facebook-app-on-android/"><u>The Ultimate Walkthrough: How to Shut Down Facebook App on Android</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-rated-waterproof-smartwatches-in-depth-analysis-by-tech-experts/"><u>Top-Rated Waterproof Smartwatches : In-Depth Analysis by Tech Experts</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-discover-reliable-free-mobile-communication-tools-with-advanced-security-features/"><u>[New] 2024 Approved Discover Reliable Free Mobile Communication Tools with Advanced Security Features</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-how-to-bur-background-in-google-meet/"><u>[Updated] 2024 Approved How to Bur Background in Google Meet</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-navigating-the-best-mobile-asmr-worldwide/"><u>[Updated] Navigating the Best Mobile ASMR Worldwide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-precision-and-excellence-a-guide-to-professional-audacity-recordings/"><u>[Updated] Precision and Excellence A Guide to Professional Audacity Recordings</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoiding-windows-11-stumbling-blocks-the-most-crucial-tips/"><u>Avoiding Windows 11 Stumbling Blocks: The Most Crucial Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/choosing-your-next-macbook-air-a-detailed-comparison-of-the-new-m3-vs-previous-gen-m2-model-insights-and-reviews/"><u>Choosing Your Next MacBook Air: A Detailed Comparison of the New M3 Vs. Previous-Gen M2 Model – Insights & Reviews</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/comprehensive-guide-to-live-streaming-with-obs-and-platforms-for-2024/"><u>Comprehensive Guide to Live-Streaming with OBS and Platforms for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effizienter-hevc-codec-top-videokonverter-fur-hochauflosende-inhalte-auf-windows-11-und-macos/"><u>Effizienter HEVC-Codec - Top Videokonverter Für Hochauflösende Inhalte Auf Windows 11 Und macOS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-innovative-additions-the-best-new-experiments-in-apples-ios-18-beta-version-unveiled-by-zdnet/"><u>Explore Innovative Additions: The Best New Experiments in Apple's iOS 18 Beta Version Unveiled by ZDNet</u></a></li>
+<li><a href="https://win-webster.techidaily.com/how-to-perform-samsung-data-transfer-on-windows-11-comprehensive-step-by-step-guide-and-solutions/"><u>How to Perform Samsung Data Transfer on Windows 11: Comprehensive Step-by-Step Guide & Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ios-18-brings-a-revolutionary-non-ai-texting-safety-update-for-your-iphone-learn-how-zdnet/"><u>IOS 18 Brings a Revolutionary Non-AI Texting Safety Update for Your iPhone - Learn How [ZDNET]</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-multi-device-sync-how-to-connect-one-phone-number-across-your-phones/"><u>Mastering Multi-Device Sync: How to Connect One Phone Number Across Your Phones</u></a></li>
+<li><a href="https://driver-install.techidaily.com/resolve-print-spooler-problems-in-windows-11/"><u>Resolve Print Spooler Problems in Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/simplified-guide-quick-and-simple-techniques-to-seamlessly-move-your-macbook-data/"><u>Simplified Guide: Quick & Simple Techniques to Seamlessly Move Your MacBook Data</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/story-1-misunderstanding-compliance-with-cloud-computing/"><u>Story 1: Misunderstanding Compliance with Cloud Computing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-pick-for-iphone-ses-safety-find-the-perfect-case-with-our-expert-review-gizmohub/"><u>The Ultimate Pick for iPhone SE's Safety : Find the Perfect Case with Our Expert Review | GizmoHub</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-6-persuasive-factors-to-choose-an-apple-watch-insights-from-a-tech-guru-zdnet/"><u>Top 6 Persuasive Factors to Choose an Apple Watch - Insights From a Tech Guru | ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-airpods-pro-gear-and-cases-must-have-add-ons-reviewed-by-tech-experts/"><u>Top AirPods Pro Gear & Cases : Must-Have Add-Ons Reviewed by Tech Experts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-the-secret-to-affordable-ipad-pro-prices-before-prime-day-insider-tips-from-zdnet/"><u>Unlocking the Secret to Affordable iPad Pro Prices Before Prime Day – Insider Tips From ZDNet</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: 30 Am to 4 Pm
-date: 2024-11-04T16:19:07.000Z
-updated: 2024-11-05T16:52:34.192Z
+date: 2024-11-14T20:42:17.815Z
+updated: 2024-11-15T16:31:07.131Z
 tags:
   - apple
 categories:
@@ -39,16 +39,16 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Uncertainty around on-device performance
@@ -62,10 +62,10 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
@@ -87,10 +87,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
@@ -135,19 +135,18 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-5-techniques-for-capturing-win10-games/"><u>[New] 5 Techniques for Capturing Win10 Games</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-optimal-audio-bridge-for-podcasters-for-2024/"><u>[New] Optimal Audio Bridge for Podcasters for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-birth-of-an-internet-persona-the-vtuber-blueprint/"><u>[Updated] In 2024, Birth of an Internet Persona – The VTuber Blueprint?</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-seamlessly-convert-youtube-videos-to-mp3-on-mac/"><u>[Updated] In 2024, Seamlessly Convert YouTube Videos to MP3 on Mac</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-sponsoring-made-simple-boosting-your-channel-budget-efficiently/"><u>[Updated] Sponsoring Made Simple Boosting Your Channel Budget Efficiently</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-live-action-9-the-ultimate-guide/"><u>2024 Approved Live Action, #9 The Ultimate Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-download-latest-msi-sound-card-drivers-for-windows-systems/"><u>Free Download: Latest MSi Sound Card Drivers for Windows Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/getting-rid-of-outdated-driver-notifications-in-minecraft-troubleshooting-steps/"><u>Getting Rid of Outdated Driver Notifications in Minecraft: Troubleshooting Steps</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-masterful-windows-melodies/"><u>In 2024, Masterful Windows Melodies</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/m1-vs-m3-macbook-pro-does-apples-newest-laptop-outshine-its-predecessor-insights-from-zdnets-analysis/"><u>M1 Vs. M3 MacBook Pro: Does Apple's Newest Laptop Outshine Its Predecessor? Insights From ZDNet's Analysis</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-the-issue-what-to-do-if-your-mac-ignores-an-outside-monitor/"><u>Solving the Issue: What to Do If Your Mac Ignores an Outside Monitor</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-using-imessage-on-pc-with-windows-tips/"><u>Step-by-Step Guide: Using iMessage on PC with Windows - Tips</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-ranking-mac-models-of-2024-expert-picks/"><u>Top-Ranking Mac Models of 2024: Expert Picks</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unbelievable-sale-on-tech-get-your-hands-on-an-iphone-15-pro-max-for-pennies-discover-the-insider-tips-for-snagging-this-amazon-steal-gadget-buzz/"><u>Unbelievable Sale on Tech: Get Your Hands on an iPhone 15 Pro Max for Pennies! Discover the Insider Tips for Snagging This Amazon Steal | Gadget Buzz</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-premier-directory-of-economical-visual-content-providers/"><u>[Updated] 2024 Approved Premier Directory of Economical Visual Content Providers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-perfecting-your-podcasts-naming-strategy-guide-and-top-ideas-list/"><u>2024 Approved Perfecting Your Podcast's Naming Strategy Guide and Top Ideas List</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-proven-ways-for-a-boom-in-youtube-viewership-top-12-methods/"><u>2024 Approved Proven Ways for a Boom in YouTube Viewership (Top 12 Methods)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/anticipated-launch-apples-upcoming-airpods-lite-and-premium-airpods-max-set-for-release-in-the-coming-months/"><u>Anticipated Launch: Apple's Upcoming 'AirPods Lite' And Premium AirPods Max Set for Release in the Coming Months</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/best-high-quality-stock-images-top-18-premium-image-libraries-for-professionals/"><u>Best High-Quality Stock Images: Top 18 Premium Image Libraries for Professionals</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-realme-c67-4g-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Realme C67 4G?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/choosing-between-the-m1-and-m2-ipad-pro-a-comprehensive-comparison-to-find-your-perfect-match/"><u>Choosing Between the M1 and M2 iPad Pro: A Comprehensive Comparison to Find Your Perfect Match</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-guide-why-protecting-your-privacy-with-a-vpn-is-crucial-for-vision-pro-and-similar-arvr-devices-insights/"><u>Essential Guide: Why Protecting Your Privacy with a VPN Is Crucial for Vision Pro & Similar AR/VR Devices - Insights</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-xs-max-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone XS Max</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-apples-tvos-18-update-boosts-speech-quality-for-a-superior-sound-on-apple-tv-zdnet-insights/"><u>How Apple's tvOS 18 Update Boosts Speech Quality for a Superior Sound on Apple TV | ZDNET Insights</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-on-iphone-se-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock on iPhone SE</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-apples-mind-blowingly-magical-universal-control-effortlessly-link-your-ipad-and-mac-for-an-enhanced-experience/"><u>The Ultimate Guide to Apple's (Mind-Blowingly Magical) Universal Control: Effortlessly Link Your iPad and Mac for an Enhanced Experience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722872283914-troubleshooting-the-missing-system-files-fix-procpsdll-errors-today/"><u>Troubleshooting the 'Missing System Files': Fix Procps.dll Errors Today!</u></a></li>
 </ul></div>
 

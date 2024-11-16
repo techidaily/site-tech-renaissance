@@ -1,7 +1,7 @@
 ---
 title: "To Upgrade or Not to Upgrade: The iPhone 16 Debate on ZDNet"
-date: 2024-10-30T16:01:55.398Z
-updated: 2024-11-05T20:08:55.112Z
+date: 2024-11-13T02:59:42.197Z
+updated: 2024-11-16T02:43:16.086Z
 tags:
   - apple
 categories:
@@ -34,6 +34,13 @@ Here are the top reasons why we are (or aren't) upgrading to the iPhone 16 in th
 
 Kerry Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. The camera
 
 Perhaps one of the most important features of any smartphone these days is the camera, so it is no surprise that camera quality is a big consideration for ZDNET editors. It probably is for you, too. The iPhone 16 lineup includes a new [Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/) feature that works in landscape or portrait mode with a button on the side of the iPhone. In addition, you can lightly press the button to show camera functions you can choose from, such as zoom, exposure, or focal lengths, by swiping between the options. 
@@ -47,10 +54,10 @@ The Camera Control uses [Apple's Visual Intelligence](https://www.zdnet.com/arti
 "I have the biggest one-sided beef in the world with the iPhone 14\. I can give you material for years. Primarily because the camera is the worst thing I ever experienced on an iPhone. Even the base iPhone 16 model looks way better," Ortiz says.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Trade-in deals and carrier offers
@@ -87,16 +94,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 ZDNET's Jason Perlow is bumping up for similar reasons. "I am upgrading from my 15 Pro Max to a 16 Pro Max because I am on the iPhone Upgrade Program, and as I cover developments with Apple, it is a business expense and \[ultimately\] it's trading one loan payment for another. No other reason, although the camera improvements seem nice. I debated skipping, but there wasn't much of a downside," he says. 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Here's why ZDNET editors won't be upgrading to the iPhone 16
 
 Jason Hiner/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. The Apple Intelligence features aren't perfect
 
@@ -108,13 +115,6 @@ Essentially, this is Apple's first iPhone marketed with an AI push, and like eve
 
 Jason Perlow is on the same page. "Let's not diminish the product for what it is: the iPhone 16 is undeniably great hardware. But unless you're using a old phone -- like my colleague [David Gewirtz's iPhone 12](https://www.zdnet.com/article/6-reasons-why-ios-18-makes-the-iphone-16-a-must-upgrade-for-me/), which is four generations behind -- you should strongly consider skipping this generation. Why? Because Apple Intelligence, while promising, is still in its infancy," Perlow wrote in one of his [recent pieces](https://www.zdnet.com/article/the-iphone-16-is-undeniably-great-hardware-but-you-should-still-probably-skip-it/). 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Not compelled enough to upgrade
 
 As reviews editor Kyle Kucharski says, it's never a good idea to blindly update your mobile tech every year without thinking. You've got to have at least one good reason to payout for a new model when the one you have is working perfectly fine. 
@@ -123,18 +123,18 @@ As reviews editor Kyle Kucharski says, it's never a good idea to blindly update 
 
 Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am still happy with it. It performs just as well as when I got it. I wish the camera were better (but the BlackMagic app helps a lot with this) and I would like the convenience of a USB-C port, but it's still working well enough that I don't feel compelled at all to get an iPhone 16\. I'm holding out for next year, at least," Diaz says. Kucharski is on the same page. "I still have the 12, and the bottom line: it still works fine," he says. 
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Expense and hassle
 
 Sometimes it's the most obvious factors that influence our choices. The expense and hassle of coordinating a new phone may not be in some people's budgets just yet (literally and figuratively). I'm in this department. It would be really cool to have that shiny, beautiful, and gloriously pink iPhone 16, but my iPhone 14 Pro works completely fine (even though its battery grinds my gears), and I have no good reason to upgrade beyond wanting a pink phone. It would be an added expense on both my wallet and my time (setting up a new phone is not a one-day process; change my mind). Plus, I usually keep my phones until they crap out anyway, so an upgrade right now is just not in the cards. 
 
 ZDNET's Adrian Kingsley-Hughes is still on the fence, but we agree on one thing. "It's a ton of money," he says.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to preorder the iPhone 16
 
@@ -176,24 +176,16 @@ The [iPhone 16 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/icro-videos-whats-the-gist-in-2024/"><u>[New] Micro Videos What's the Gist, In 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-a-guide-to-elevating-your-obs-video-projects/"><u>[Updated] 2024 Approved A Guide to Elevating Your OBS Video Projects</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-streamline-your-social-networking-joining-instagram-and-facebook-seamlessly/"><u>[Updated] In 2024, Streamline Your Social Networking Joining Instagram & Facebook Seamlessly</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1-essential-enhancements-for-apple-vision-pros-success-in-the-enterprise-insights/"><u>1. Essential Enhancements for Apple Vision Pro's Success in the Enterprise - Insights</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-install-net-now-demands-from-apps/"><u>Addressing Install .NET Now Demands From Apps</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/capture-and-document-ios-interface-movements-with-ease-learn-how-zdnet-guide/"><u>Capture and Document iOS Interface Movements with Ease - Learn How [ZDNet Guide]</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/dealing-with-the-absence-of-winhttpdll-how-to-correctly-address-not-detected-errors-in-windows/"><u>Dealing with the Absence of Winhttp.dll: How to Correctly Address Not Detected Errors in Windows</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-hidden-gem-how-apple-enhances-iphones-with-unknown-superior-functionality-learn-more-on-zdnet/"><u>Discover the Hidden Gem: How Apple Enhances iPhones with Unknown Superior Functionality - Learn More on ZDNet</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-realme-narzo-60-pro-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Realme Narzo 60 Pro 5G Lock Screen Password?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/insiders-picks-which-smartphones-do-our-editors-really-rely-on-zdnet-analysis/"><u>Insider's Picks: Which Smartphones Do Our Editors Really Rely On? - ZDNet Analysis</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-privacy-in-virtual-realms-essential-settings-for-fortifying-security-on-your-quest-vr-setup/"><u>Mastering Privacy in Virtual Realms: Essential Settings for Fortifying Security on Your Quest VR Setup</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-motorola-edge-40-pro-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Motorola Edge 40 Pro Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/quick-solutions-to-address-and-repair-the-50-growers-server-error-code/"><u>Quick Solutions to Address and Repair the 50 Grower's Server Error Code</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/the-dos-and-donts-of-youtube-video-logging-for-2024/"><u>The Do's and Don'ts of YouTube Video Logging for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-tablet-computers-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top Rated Tablet Computers - Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-smart-lock-app-for-iphones-sleek-secure-and-easy-to-use/"><u>Top-Rated Smart Lock App for iPhones: Sleek, Secure & Easy to Use</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-guide-to-2023s-premium-gamer-headsets-exploring-the-offers-from-hyperx-steelseries-and-competitors-pcmag-review/"><u>Ultimate Guide to 2023'S Premium Gamer Headsets: Exploring the Offers From HyperX, SteelSeries, and Competitors | PCMag Review</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unrivaled-videography-phones-ranking-of-the-best-10/"><u>Unrivaled Videography Phones - Ranking of the Best 10</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/upgrading-your-tech-unveiling-the-top-3-innovative-features-of-iphone-16-that-will-leave-you-eager-for-more/"><u>Upgrading Your Tech: Unveiling the Top 3 Innovative Features of iPhone 16 That Will Leave You Eager for More!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-resolved-inaccessible-full-screen-obs-for-2024/"><u>[Updated] Resolved Inaccessible Full Screen OBS for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/cutting-edge-ipad-calculator-tool-prompts-consideration-of-the-apple-pencil-for-full-utility/"><u>Cutting-Edge iPad Calculator Tool Prompts Consideration of the Apple Pencil for Full Utility.</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/deep-dive-samsung-galaxy-s8s-4k-capabilities/"><u>Deep Dive Samsung Galaxy S8's 4K Capabilities</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-strategies-for-sharing-and-editing-apple-pages-files-through-icloud-insights-from-zdnet/"><u>Effective Strategies for Sharing and Editing Apple Pages Files Through iCloud - Insights From ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-corner-keychron-and-lemokey-reviewed-as-one/"><u>Gamer’s Corner: Keychron & Lemokey Reviewed as One</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-mp4-files-on-galaxy-m34-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play MP4 files on Galaxy M34?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-great-showdown-comparing-google-assistant-and-alexa-for-optimal-user-experience/"><u>The Great Showdown: Comparing Google Assistant and Alexa for Optimal User Experience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/time-for-an-upgrade-comparing-the-apple-watch-series-10-and-series-8-to-discover-the-ultimate-smartwatch-of-2023-techadvise/"><u>Time for an Upgrade?: Comparing the Apple Watch Series 10 and Series 8 to Discover the Ultimate Smartwatch of 2023 | TechAdvise.</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-7-entertaining-web-based-games-perfect-for-childrens-hours/"><u>Top 7 Entertaining Web-Based Games Perfect for Children's Hours</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/ultimate-guide-on-iphone-6s-plus-icloud-activation-lock-bypass-by-drfone-ios/"><u>Ultimate Guide on iPhone 6s Plus iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-advanced-coding-capabilities-with-free-ai-powered-tools-tailored-for-mac-users-zdnet/"><u>Unlock Advanced Coding Capabilities with Free AI-Powered Tools Tailored for Mac Users | ZDNet</u></a></li>
 </ul></div>
 

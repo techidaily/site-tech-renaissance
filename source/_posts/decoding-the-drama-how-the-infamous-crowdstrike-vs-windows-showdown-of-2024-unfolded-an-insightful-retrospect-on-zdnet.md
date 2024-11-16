@@ -1,7 +1,7 @@
 ---
 title: "Decoding the Drama: How the Infamous CrowdStrike Vs. Windows Showdown of 2024 Unfolded | An Insightful Retrospect on ZDNet"
-date: 2024-10-29T19:18:50.869Z
-updated: 2024-11-05T18:20:39.431Z
+date: 2024-11-13T01:32:34.187Z
+updated: 2024-11-16T05:14:26.973Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -94,10 +94,10 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -127,10 +127,10 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -181,22 +181,17 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-maximizing-engagement-10-tips-for-stellar-yt-shorts-content/"><u>[Updated] 2024 Approved Maximizing Engagement 10 Tips for Stellar YT Shorts Content</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-maximizing-macs-potential-capturing-the-spirit-of-roblox-games/"><u>[Updated] 2024 Approved Maximizing Mac's Potential Capturing the Spirit of Roblox Games</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-smile-and-share-easy-memes-via-kinemaster/"><u>[Updated] Smile and Share Easy Memes via KineMaster</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-superior-introductory-editors-for-mobile-apps-for-2024/"><u>[Updated] Superior Introductory Editors for Mobile Apps for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-unveiling-facetunes-new-features-review-and-walkthrough/"><u>[Updated] Unveiling Facetune's New Features Review and Walkthrough</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-drones-that-follow-you-back-top-10-drone-leaders/"><u>2024 Approved Drones That Follow You Back - Top 10 Drone Leaders</u></a></li>
-<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Motorola Moto E13 | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apple-discontinues-apple-pay-later-feature-upcoming-alternative-already-in-progress/"><u>Apple Discontinues Apple Pay Later Feature - Upcoming Alternative Already In Progress!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/avoid-falling-for-hype-the-real-reasons-against-upgrading-to-iphone-16-insights-from-apple-experts/"><u>Avoid Falling for Hype: The Real Reasons Against Upgrading to iPhone 16 - Insights From Apple Experts</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Infinix Note 30? | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-capturing-and-reducing-speed-with-iphone-a-step-by-step-guide/"><u>In 2024, Capturing and Reducing Speed with iPhone A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/is-someone-monitoring-me-with-an-airtag-uncover-the-signs-and-steps-to-take/"><u>Is Someone Monitoring Me with an AirTag? Uncover the Signs and Steps to Take</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/maximizing-efficiency-at-home-leveraging-the-capabilities-of-an-ipad-pro-for-office-use/"><u>Maximizing Efficiency at Home: Leveraging the Capabilities of an iPad Pro for Office Use</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/option-2/"><u>Option 2:</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/targeting-beginners-with-the-promise-of-ease-indicates-a-friendly-approach-suitable-for-those-new-to-command-line-interfaces-across-all-windows-devices-enha33/"><u>Targeting Beginners with the Promise of Ease Indicates a Friendly Approach Suitable for Those New to Command-Line Interfaces Across All Windows Devices, Enhancing Its SEO by Targeting Common Search Queries</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-tablet-rankings-in-depth-analysis-and-comparisons-gizmosphere/"><u>Ultimate Tablet Rankings : In-Depth Analysis & Comparisons | GizmoSphere</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/whats-new-in-icloud-apple-unveils-significant-changes-and-solutions-for-windows-users-zdnet-insights/"><u>What's New in iCloud? Apple Unveils Significant Changes and Solutions for Windows Users | ZDNet Insights</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-master-the-art-of-video-presentations-with-these-themes-for-2024/"><u>[New] Master the Art of Video Presentations with These Themes for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-enabling-auto-hdr-in-windows-11-a-step-by-step-guide/"><u>[Updated] 2024 Approved Enabling Auto HDR in Windows 11 A Step-by-Step Guide</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-vivo-y78-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Vivo Y78 5G</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-unveils-advanced-artificer-tech-for-future-iphones-in-depth-analysis-by-zdnet/"><u>Apple Unveils Advanced Artificer Tech for Future iPhones: In-Depth Analysis by ZDNet</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/archival-artwork-creative-commons-haven/"><u>Archival Artwork Creative Commons Haven</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-canon-ip110-printer-drivers-compatible-with-windows-11-10-8-and/"><u>Download Canon iP110 Printer Drivers: Compatible with Windows 11, 10, 8 & ^</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-methods-to-enhance-images-through-cropping/"><u>In 2024, Innovative Methods to Enhance Images Through Cropping</u></a></li>
+<li><a href="https://network-issues.techidaily.com/maximize-windows-screen-detail-with-w11/"><u>Maximize Window's Screen Detail with W11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/replace-your-inbox-the-best-8-gmail-competitors-of-2024-unveiled/"><u>Replace Your Inbox: The Best 8 Gmail Competitors of 2024 Unveiled</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/streamline-your-day-with-these-proven-techniques-and-essential-tools-for-ultimate-productivity-tips-by-zdnet/"><u>Streamline Your Day with These Proven Techniques & Essential Tools for Ultimate Productivity - Tips by ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-apple-watch-models-comprehensive-reviews-and-ratings-by-professionals-zdnet/"><u>Top-Rated Apple Watch Models : Comprehensive Reviews & Ratings by Professionals | ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-the-secret-score-your-complimentary-macbook-air-m3-with-this-clever-best-buy-strategy-tech-tips/"><u>Unlock the Secret: Score Your Complimentary MacBook Air M3 with This Clever Best Buy Strategy | Tech Tips</u></a></li>
 </ul></div>
 

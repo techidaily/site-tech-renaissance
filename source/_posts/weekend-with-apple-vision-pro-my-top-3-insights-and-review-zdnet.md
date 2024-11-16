@@ -1,7 +1,7 @@
 ---
 title: "Weekend with Apple Vision Pro: My Top 3 Insights & Review (ZDNet)"
-date: 2024-11-01T16:24:28.671Z
-updated: 2024-11-05T17:31:23.097Z
+date: 2024-11-12T01:30:28.891Z
+updated: 2024-11-15T22:24:50.395Z
 tags:
   - apple
 categories:
@@ -56,10 +56,10 @@ During this time, the company focused on providing viable mixed reality and VR e
 Essentially, Meta's focus has been on finding the sweet spot for AR and VR devices using current technology and baking that into its products. In the Quest 3, it has introduced a truly great device at a reasonably affordable price.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  That old Apple magic
@@ -89,13 +89,6 @@ Bloomberg's Gurman believes Apple is more willing to kill products now than it h
 
 His inference is that it's possible Apple will lose patience with the slow progress of the Vision Pro and kill it off, although he says his sources claim the company is more focused on introducing a cost-cut Vision device that off-loads the processing to a tethered iPhone or Mac. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Think different?
 
 For Apple to be able to move forward with the Vision Pro, it must answer one simple question: Why should I buy this thing? 
@@ -116,13 +109,6 @@ The virtual Mac screen the Vision Pro now offers doesn't add much. But being abl
 
 There are always reasons for delays. It's certainly possible the company hit technical hurdles. But perhaps it could have moved resources over from circus sideshow projects like converting 2D photos into 3D photos -- a feature _no one_ will use as a justification to buy a Vision Pro -- into something that could and will provide real, tangible value and even a justification for the high purchase price. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  A Vision for the rest of us
 
 Right now, the Quest 3 is the [spatial computing](https://www.zdnet.com/article/what-is-spatial-computing-and-how-does-it-work/) headset for the rest of us. While head-mounted displays are still a challenging sell, the Quest 3 offers enough compelling value ([especially as a theatre-sized Netflix player](https://www.zdnet.com/article/netflix-is-now-meta-quest-3s-killer-app-thanks-to-these-two-new-modes/)) to make it the mainstream, easy-to-adopt solution. 
@@ -138,10 +124,16 @@ In other words, for the Vision to be successful, it has to stop fooling around a
 So what, beyond shipping useful software like the ultra-wide Mac display, needs to factor into that probably elusive Apple mindset change? Three things. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Give the Vision a controller
@@ -153,6 +145,19 @@ The eye tracking and hand gestures interface that are the primary means of opera
 **Also: [I watched my favorite TV show on Apple Vision Pro and it was glorious, strange, and tiring](https://www.zdnet.com/article/i-watched-my-favorite-tv-show-on-apple-vision-pro-and-it-was-glorious-strange-and-tiring/)**
 
 You can see this in action with the [Puzzling Places game](https://www.meta.com/experiences/3931148300302917/). On the Quest 3, the game provides a much richer interface than on the Vision Pro. That's because it's much easier to navigate objects in the 3D space using the Quest controllers. 
+
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Stay away from cable tethering
 
@@ -185,6 +190,19 @@ Think about that. If the Quest 3 is sold for $500, retailers like Amazon are lik
 **Also: [Who's afraid of VR? I was - until I tried Meta Quest 3](https://www.zdnet.com/article/whos-afraid-of-vr-i-was-until-i-tried-meta-quest-3/)**
 
 Apple, by contrast, is making a fairly predictable margin on the Vision Pro, which is why the price is so high by comparison. Apple does have some cost-cutting options (display, chips, assembly, structure, and lenses), but if Facebook is competing at a loss, that puts Apple into the uncomfortable position of also taking a per-unit COGS loss or pricing well higher than the current market leader. 
+
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Looking towards the future
 
@@ -235,24 +253,18 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-delve-into-discussions-of-dedicated-viewers/"><u>[New] In 2024, Delve Into Discussions of Dedicated Viewers</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-seamless-integration-of-movies-and-animations-using-movie-maker/"><u>[New] Seamless Integration of Movies and Animations Using Movie Maker</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-pioneering-avengers-the-marvellous-world-builders/"><u>2024 Approved Pioneering Avengers The Marvellous World-Builders</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-revolutionize-your-social-media-strategy-essential-instagram-analytics-platforms/"><u>2024 Approved Revolutionize Your Social Media Strategy Essential Instagram Analytics Platforms</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-youtubes-vs-dailymentions-spotting-key-differences/"><u>2024 Approved YouTubes Vs. DailyMentions Spotting Key Differences</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/compact-powerhouse-unleashed-the-newly-revealed-m4-enhanced-mac-mini-a-comparable-size-to-the-apple-tv-insights-from-zdnet/"><u>Compact Powerhouse Unleashed: The Newly Revealed M4-Enhanced Mac Mini - A Comparable Size to the Apple TV | Insights From ZDNet</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/138597062-9781475904499-daniels-view/"><u>Daniel's View | Free Book</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Samsung Galaxy S23 | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-guide-why-opting-for-a-vpn-boosts-security-on-vision-pro-and-similar-xr-headsets-insights/"><u>Essential Guide: Why Opting for a VPN Boosts Security on Vision Pro and Similar XR Headsets - Insights</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-mac-app-selections-the-2023-zdnet-guide-to-optimal-software/"><u>Essential Mac App Selections: The 2023 ZDNet Guide to Optimal Software</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-seamlessly-integrate-oracles-jdk-into-your-windows-11-workflow/"><u>How to Seamlessly Integrate Oracle's JDK Into Your Windows 11 Workflow</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/improve-your-viewing-experience-updating-a-samsung-smart-tv-easily/"><u>Improve Your Viewing Experience: Updating a Samsung Smart TV Easily</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-iphone-14-pro-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on iPhone 14 Pro With or Without Password</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-f23-5g-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Oppo F23 5G Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ipad-new-release-flawed-a-crucial-error-and-its-resolution-steps-insights-from-zdnet/"><u>IPad New Release Flawed: A Crucial Error and Its Resolution Steps | Insights From ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/iphone-16-pro-vs-iphone-14-pro-assessing-the-upgrade-worthiness-pcmag-review/"><u>IPhone 16 Pro Vs. IPhone 14 Pro: Assessing the Upgrade Worthiness - PCMag Review</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solve-it-what-to-do-when-a-mac-program-fails-to-open/"><u>Solve It: What to Do When a Mac Program Fails to Open</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/switching-to-the-newest-iphone-pros-and-cons-of-the-iphone-16-vs-iphone-15-expert-insights-for-your-tech-upgrade-decision/"><u>Switching to the Newest iPhone? Pros and Cons of the iPhone 16 Vs. IPhone 15: Expert Insights for Your Tech Upgrade Decision</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-choosing-iphone-16-and-iphone-16-pro-case-options-features-and-reviews-from-industry-testers/"><u>Ultimate Guide to Choosing iPhone 16 & iPhone 16 Pro Case Options : Features and Reviews From Industry Testers</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-transforming-education-with-instructional-videos/"><u>[New] 2024 Approved Transforming Education with Instructional Videos</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-premium-high-resolution-pics-viewer-quickly-for-2024/"><u>[New] Premium High-Resolution Pics Viewer, Quickly for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-snapseed-basics-unlock-your-image-editing-potential/"><u>[Updated] In 2024, Snapseed Basics Unlock Your Image-Editing Potential</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-unveils-new-media-player-apps-on-windows-as-itunes-bids-farewell-insights/"><u>Apple Unveils New Media Player Apps on Windows as iTunes Bids Farewell - Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/beyond-the-keys-discover-why-this-iphone-case-outshines-others-com/"><u>Beyond the Keys: Discover Why This iPhone Case Outshines Others .com</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-ultimate-grass-cutting-joy-with-our-remote-controlled-lawn-mower-a-revelation-from-tech-review-at-zdnet/"><u>Experience Ultimate Grass-Cutting Joy with Our Remote-Controlled Lawn Mower - A Revelation From Tech Review at ZDNet!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-advice-on-mastering-your-ipad-10-must-know-tips-and-setup-tweaks-every-apple-enthusiast-should-know-according-to-zdnet/"><u>Expert Advice on Mastering Your iPad: 10 Must-Know Tips and Setup Tweaks Every Apple Enthusiast Should Know, According to ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guarantee-uninterrupted-play-with-these-simple-solutions-for-assassins-creed-odyssey-crashing-on-windows-systems/"><u>Guarantee Uninterrupted Play with These Simple Solutions for Assassin's Creed Odyssey Crashing on Windows Systems</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-honor-90-pro-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Honor 90 Pro Phones with/without a PC</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/stop-unwanted-anonymous-phone-interruptions-with-these-iphone-tips/"><u>Stop Unwanted Anonymous Phone Interruptions with These iPhone Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-retrieving-missing-desktop-icons-in-windows-11-solved/"><u>The Ultimate Guide: Retrieving Missing Desktop Icons in Windows 11 - Solved</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unpacking-the-capabilities-does-the-apple-watch-series-n-support-blood-pressure-monitoring-according-to-zdnet/"><u>Unpacking the Capabilities: Does the Apple Watch Series N Support Blood Pressure Monitoring According to ZDNet?</u></a></li>
 </ul></div>
 

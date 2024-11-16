@@ -1,7 +1,7 @@
 ---
 title: Identifying Common Causes When Car Speakers Malfunction
-date: 2024-09-09T15:47:16.604Z
-updated: 2024-09-10T15:47:16.604Z
+date: 2024-11-10T01:37:10.602Z
+updated: 2024-11-16T00:08:02.299Z
 categories:
   - BestProducts
 description: This Article Describes Identifying Common Causes When Car Speakers Malfunction
@@ -9,12 +9,6 @@ excerpt: This Article Describes Identifying Common Causes When Car Speakers Malf
 thumbnail: https://www.lifewire.com/thmb/TTS-RcL8CqLoYIA4twvZHBi7Its=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1141216579-d778662ca7314d3bbd14812e64dd49ab.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Identifying Common Causes When Car Speakers Malfunction
 
 Close 
@@ -29,18 +23,6 @@ Close
 
  In order to narrow down the exact cause of this type of car audio problem, some basic troubleshooting is in order.
 
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Ruling Out the Head Unit and Amplifier 
 
  If your head unit turns on just fine, but you don’t get any sound from the speakers, it’s easy to jump to the conclusion that the speakers are the problem.
@@ -67,11 +49,12 @@ Close
  In that case, you may need to bypass the amplifier to verify that both the head unit and speakers are working, at which point you can either get by with your head unit’s internal amp or install a new aftermarket amp.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Checking Car Speaker Wiring 
 
  When you checked the fade and pan settings on your head unit, you may have discovered that they were set to a speaker or speakers that had failed and that you were able to get sound by moving to a speaker or speakers that work.
@@ -89,25 +72,21 @@ Close
 ![Close-up of round speaker mounted on a car door](https://www.lifewire.com/thmb/jmwmi4I56vlQh-0-NXRf4XS55iE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1141216579-d778662ca7314d3bbd14812e64dd49ab.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Anton Minin / Getty Images
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Testing Car Speakers 
 
  Another way to test the speakers, and to rule out bad wiring at the same time, is to obtain some speaker wire and to run new, temporary wires to each speaker.
@@ -125,11 +104,18 @@ Anton Minin / Getty Images
  This may also be a good time to think about upgrading your car stereo as a whole, although selecting some good aftermarket speakers to replace the blown factory units can actually help a lot by itself.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  How Can You Tell If Car Speakers Are Blown Out? 
 
  It's pretty easy to tell when car speakers blow out if you're there when it happens because you'll immediately notice that they stop working or no longer sound normal.
@@ -160,8 +146,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -169,4 +153,16 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-launchpad-for-twitter-beginners/"><u>[Updated] 2024 Approved Launchpad for Twitter Beginners</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-guide-to-sourcing-premium-background-images/"><u>2024 Approved The Ultimate Guide to Sourcing Premium Background Images</u></a></li>
+<li><a href="https://games-able.techidaily.com/digging-deep-into-downloading-minecraft-dungeons/"><u>Digging Deep Into Downloading Minecraft Dungeons</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/grab-your-dual-nomad-iphone-cases-at-half-price-today-exclusive-offer-on-zdnet/"><u>Grab Your Dual Nomad iPhone Cases at Half Price Today - Exclusive Offer on ZDNet!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-determine-if-your-apple-device-is-now-considered-obsolete-or-vintage-insights-and-effects-gadgetworld/"><u>How to Determine If Your Apple Device Is Now Considered Obsolete or Vintage - Insights and Effects | GadgetWorld</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ios-ipados-and-macos-integrate-apple-openais-chatgpt-technology-techzoomed/"><u>IOS, iPadOS & macOS Integrate Apple-OpenAI's ChatGPT Technology | TechZoomed</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-unleash-your-creativity-best-reaction-video-maker-tools/"><u>New In 2024, Unleash Your Creativity Best Reaction Video Maker Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-guide-accessing-and-opening-avif-images-on-your-windows-11-desktop/"><u>Step-by-Step Guide: Accessing and Opening AVIF Images on Your Windows 11 Desktop</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/to-upgrade-or-not-expert-analysis-on-why-you-should-consider-or-skip-the-iphone-16-according-to-zdnets-editors/"><u>To Upgrade or Not: Expert Analysis on Why You Should Consider (or Skip) the iPhone 16 – According to ZDNet's Editors</u></a></li>
+</ul></div>
 

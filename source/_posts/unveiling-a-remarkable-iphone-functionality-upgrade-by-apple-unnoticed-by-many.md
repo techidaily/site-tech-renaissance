@@ -1,7 +1,7 @@
 ---
 title: Unveiling a Remarkable iPhone Functionality Upgrade by Apple Unnoticed by Many
-date: 2024-10-30T22:00:10.025Z
-updated: 2024-11-05T16:07:01.819Z
+date: 2024-11-08T21:53:25.156Z
+updated: 2024-11-16T00:59:49.309Z
 tags:
   - apple
 categories:
@@ -30,6 +30,13 @@ Ever since, those attributes have defined all smartphones, save for one common s
 
 But of all the capabilities and components of these amazing and ubiquitous computing devices, it is the smartphone _camera_ that has seen the most extraordinary evolution. Phone cameras made their first appearance during the era when smartphones started becoming practical, everyday devices. Then, these cameras advanced in an App Store-centric world where companies like [Blackmagic Design could create camera apps](https://www.blackmagicdesign.com/products/blackmagiccamera) that redefine how a smartphone camera works. Now, artificial intelligence (AI) and machine learning (ML) are changing the very nature of what a camera can do.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Pre-modern smartphones
 
 Identifying the first anything is always a tricky undertaking. The very first device labeled as a smartphone (they called it a "Smart Phone") was the [Ericsson 88](https://www.mobilephonemuseum.com/phone-detail/gs-88) from 1997\. Only 200 were made, and it was mostly a personal digital assistant. It most definitely did not have a camera.
@@ -56,19 +63,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 Another phone -- and my personal device for four years -- was the [Palm Treo 600](https://www.zdnet.com/article/treo-600-debuts-with-new-improvements-and-old-design-flaws/), released in 2003\. This device did a lot, including supporting a camera capable of taking 640x480 resolution images. The Treo didn't have Wi-Fi or Bluetooth, limiting its connectivity to a cable connected to the computer for image downloads. Its big claim to fame was that it could run any of the thousands of PalmOS apps that were available for download. Installing those apps, however, also involved connecting a cable to a computer.
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2008: The birth of the modern smartphone
 
 Released on June 29, 2007, [the iPhone](https://web.archive.org/web/20070629165202/http://www.apple.com/iphone) was explosive. Many of us remember the lines of people waiting to get their first phone. I sat those lines out, happy with my Treo. While the first iPhone had nearly all of the characteristics of a modern smartphone, including a 2.0MP rear-facing camera, the only apps it allowed were crude customized web pages. My Treo had far better native PalmOS apps.
@@ -88,6 +82,13 @@ Personally, the iPhone 3G was my first iPhone (there was no iPhone 2 or 3). I bo
 Over in the Android world, its first phone was the HTC Dream, also marketed as the [T-Mobile G1](https://www.cnet.com/reviews/t-mobile-g1-review/). It was released in October 2008 and was noteworthy for its slide-out display that opened to show a BlackBerry-style keyboard. This device came with a rear-facing 3.15MP camera.
 
 With the iPhone 3 and the App Store, along with the first Android phone, it's fair to say that 2008 was the first year of the modern smartphone era.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2010: Smartphones meet narcism, a match made in heaven
 
@@ -120,10 +121,16 @@ Apple, too, was focusing on portrait mode photography in 2017, [introducing the 
 Overall, these initial machine learning capabilities enhanced overall photo processing, improving aspects like auto-focus, exposure, color balancing, and noise reduction. The integration of machine learning into the Pixel and iPhone's camera systems marked a significant step forward in the quality and capabilities of smartphone photography.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AI and machine learning in today's smartphones
@@ -143,10 +150,10 @@ I asked Bob Caniglia, Blackmagic's director of sales operations, about smartphon
 Let's now explore the power that machine learning brings to smartphones. Specifically, I'll talk about the machine learning magic incorporated into flagship phones like the iPhone 15 Pro Max, the Google Pixel 8, the Samsung Galaxy S23, and the OnePlus 11.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Image quality
@@ -162,13 +169,6 @@ This then helps the machine learning algorithms to analyze and adjust parameters
 **Low-light photography and night mode:** Speaking of tough lighting conditions, machine learning provides a powerful assist in low-light photography, where it helps in noise reduction, detail enhancement, and color accuracy. It does this using neural network technology to process multiple exposures, merging them into a single image while enhancing detail and reducing noise. Of course, decisions about what detail to enhance and what noise to reduce is where the AI comes into play.
 
 **HDR processing:** High dynamic range (HDR) processing helps balance the dark and bright areas of an image for an improved dynamic range. Algorithms dynamically adjust the exposure of different regions in a photo, merging multiple exposures for a balanced high dynamic range image, keeping the visual fidelity of the image while allowing for blacker blacks, whiter whites, and other darker and lighter colors to better reflect what the photographer originally aimed to capture.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Object knowledge
 
@@ -268,21 +268,18 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-quick-steps-to-record-iphone-display/"><u>[New] In 2024, Quick Steps to Record IPhone Display</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-laptoppc-video-editing-tools-apart-from-inshot/"><u>[Updated] Laptop/PC Video Editing Tools Apart From Inshot</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-stepwise-guide-for-discovering-recent-watch-history-on-fb/"><u>[Updated] Stepwise Guide for Discovering Recent Watch History on FB</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigate-the-world-of-podcast-seo-efficiently/"><u>2024 Approved Navigate the World of Podcast SEO Efficiently</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ards-play-mastering-youtube-video-reversals-for-2024/"><u>Backwards Play Mastering YouTube Video Reversals for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/celestial-canvas-unveiled-select-10-sites-for-high-quality-skies-for-2024/"><u>Celestial Canvas Unveiled Select 10 Sites for High-Quality Skies for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exclusive-sneak-peek-into-the-elite-iphones-of-2-cuy2024-in-depth-analysis-and-ratings/"><u>Exclusive Sneak Peek Into the Elite iPhones of 2 Cuy2024: In-Depth Analysis & Ratings</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/explore-innovative-functionalities-in-apples-new-ios-18-beta-version-your-ultimate-guide-to-whats-fresh-and-cool/"><u>Explore Innovative Functionalities in Apple's New iOS 18 Beta Version - Your Ultimate Guide to What's Fresh and Cool!</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-overcome-the-initial-darkness-solving-elden-rings-boot-up-blackout/"><u>How to Overcome the Initial Darkness - Solving Elden Ring's Boot-Up Blackout</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/implications-of-dojs-lawsuit-against-apple-potential-effects-on-ios-devices-and-app-creators-explored/"><u>Implications of DOJ's Lawsuit Against Apple: Potential Effects on iOS Devices & App Creators Explored</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/leading-wd-support-suites-secure-and-streamline-your-hardware-management-today/"><u>Leading WD Support Suites: Secure & Streamline Your Hardware Management Today</u></a></li>
-<li><a href="https://win11.techidaily.com/techniques-for-efficient-windowsstore-app-navigation/"><u>Techniques for Efficient WindowsStore App Navigation</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-essential-ai-traits-apple-must-embrace-to-challenge-the-dominance-of-openai-and-google-tech-perspectives/"><u>The Essential AI Traits Apple Must Embrace to Challenge the Dominance of OpenAI and Google | Tech Perspectives</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-reasons-to-stick-with-your-iphone-14-instead-of-upgrading-to-iphone-16-pro-a-deep-dive-by-zdnet/"><u>Top Reasons to Stick with Your iPhone 14 Instead of Upgrading to iPhone 16 Pro - A Deep Dive by ZDNET</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/why-cant-you-answer-calls-with-your-samsung-galaxy-watch-finding-solutions/"><u>Why Can't You Answer Calls With Your Samsung Galaxy Watch? Finding Solutions!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/why-im-loyal-to-my-apple-watch-series-7-over-the-new-series-10-insights-from-a-tech-expert/"><u>Why I'm Loyal to My Apple Watch Series 7 Over the New Series 10 - Insights From a Tech Expert</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-optimizing-video-content-with-powerful-hashtags-on-youtube/"><u>[New] In 2024, Optimizing Video Content with Powerful Hashtags on YouTube</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-infinity-in-motion-aerospaces-longest-flying-wonders-for-2024/"><u>[New] Infinity in Motion Aerospace's Longest-Flying Wonders for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/80-less-on-the-second-gen-apple-watch-se-post-prime-day-deals-what-you-need-to-know/"><u>$80 Less on the Second-Gen Apple Watch SE Post-Prime Day Deals: What You Need to Know</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/30-am-to-4-pm/"><u>30 Am to 4 Pm</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-comprehensive-guide-interacting-with-the-arlo-security-setup/"><u>A Comprehensive Guide: Interacting with the Arlo Security Setup</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/imessage-communication-guide-sending-and-receiving-on-windows-pcs-tips-from-zdnet/"><u>IMessage Communication Guide: Sending & Receiving on Windows PCs - Tips From ZDNet</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-honor-x9b-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Honor X9b</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/limited-time-deal-save-24-on-the-new-airpods-pro-with-built-in-hearing-aid-functionality-shop-at-zdnet-now/"><u>Limited-Time Deal: Save 24% on the New AirPods Pro with Built-In Hearing Aid Functionality | Shop at ZDNET Now</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-screenshots-in-sonys-playstation-4/"><u>Mastering the Art of Screenshots in Sony's PlayStation 4</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-elevate-your-storytelling-advanced-video-editing-techniques-in-windows-movie-maker/"><u>New Elevate Your Storytelling Advanced Video Editing Techniques in Windows Movie Maker</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-iphone-offers-and-discounts-in-july-2024-find-your-perfect-match/"><u>Top iPhone Offers and Discounts in July 2024 - Find Your Perfect Match</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-selection-of-2024s-premier-riding-mowers-features-pros-and-cons-gadgetguru/"><u>Ultimate Selection of 2024'S Premier Riding Mowers - Features, Pros & Cons | GadgetGuru</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/why-siri-needs-a-transformation-is-apple-leaning-towards-ai-innovations-like-bing/"><u>Why Siri Needs a Transformation: Is Apple Leaning Towards AI Innovations Like Bing?</u></a></li>
 </ul></div>
 

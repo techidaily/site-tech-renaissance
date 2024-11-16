@@ -1,7 +1,7 @@
 ---
 title: "Future-Proofing Communication: How Apple Bolsters iMessage Security - Insights From ZDNet"
-date: 2024-10-31T18:03:18.340Z
-updated: 2024-11-05T17:24:51.530Z
+date: 2024-11-09T23:31:56.792Z
+updated: 2024-11-15T20:53:51.530Z
 tags:
   - apple
 categories:
@@ -63,10 +63,10 @@ Click the Start button, go to All Apps, and select Phone Link from the list. The
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Scan the QR codes
@@ -86,10 +86,10 @@ Your phone should ask if you want your PC to receive notifications from your iPh
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Run Phone Link
@@ -104,20 +104,33 @@ To access your iPhone's text messages in Phone Link, tap the Messages heading at
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Start a new chat
 
 You can also start a new conversation. To do this, select one of your displayed contacts and then compose and send your text. To chat with someone else, click the New Message icon and type the name or phone number of the recipient. Compose and send your message.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Use Intel Unison
+
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Install Intel Unison
 
@@ -126,19 +139,6 @@ To use Intel Unison, download and install the app from [the Microsoft Store](htt
 Launch the app and click the Accept & Continue button. You'll be asked how you'd like to use Unison. In the section for "Empower your PC," click the "Add your phone" button.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Pair your phone and computer
 
@@ -159,16 +159,10 @@ At the "Let's get started" screen in the Windows Unison app, click the icon for 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  4\. Go to the Messages screen
@@ -219,22 +213,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-conquer-youtubes-realms-a-step-by-step-video-uploading-guidebook/"><u>[New] 2024 Approved Conquer YouTube's Realms A Step-by-Step Video Uploading Guidebook</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-elite-ai-visual-editing-software-for-2024/"><u>[New] Elite AI Visual Editing Software for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-mastering-the-art-of-financial-forecasting-a-deep-dive-into-budgeting-strategies-for-2024/"><u>[New] Mastering the Art of Financial Forecasting A Deep Dive Into Budgeting Strategies for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-decoding-the-visual-language-of-youtube-thumbnails/"><u>[Updated] 2024 Approved Decoding the Visual Language of YouTube Thumbnails</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-mastering-instagram-reel-creating-stunning-slow-motion-content-for-2024/"><u>[Updated] Mastering Instagram Reel Creating Stunning Slow-Motion Content for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/a-closer-look-at-the-apple-studio-display-beautiful-design-meets-high-cost-on-a-27-inch-5k-monitor-crafted-for-mac-users-analysis-by-zdnet/"><u>A Closer Look at the Apple Studio Display: Beautiful Design Meets High Cost on a 27-Inch 5K Monitor Crafted for Mac Users | Analysis by ZDNET</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/experts-choice-ultimate-guide-to-the-best-compact-tablets-of-202insert-year-detailed-analysis/"><u>Experts' Choice: Ultimate Guide to the Best Compact Tablets of 202([Insert Year]) - Detailed Analysis</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-replace-the-built-in-browser-with-a-new-one-on-samsung-televisions/"><u>How To Replace the Built-In Browser with a New One on Samsung Televisions</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Honor Magic Vs 2 | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ios-18-tutorial-a-step-by-step-guide-to-personalizing-the-control-center-on-your-iphone/"><u>IOS 18 Tutorial: A Step-by-Step Guide to Personalizing the Control Center on Your iPhone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/joining-the-crowd-in-disappointment-how-iphone-users-are-reacting-to-ios-18-update/"><u>Joining the Crowd in Disappointment? How iPhone Users Are Reacting to iOS 18 Update.</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/making-the-shift-from-legacy-systems-is-it-time-for-an-apple-macbook-pro-upgrade-to-m1-technology-gadgetguru/"><u>Making the Shift From Legacy Systems: Is It Time for an Apple MacBook Pro Upgrade to M1 Technology? | GadgetGuru</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/tech-triumph-apple-developers-ecstatic-as-their-key-software-receives-monumental-complimentary-ai-upgrade-explore-on-zdnet/"><u>Tech Triumph: Apple Developers Ecstatic as Their Key Software Receives Monumental, Complimentary AI Upgrade - Explore on ZDNet!</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/the-art-of-adding-gifs-to-instagram-posts-4-easy-steps/"><u>The Art of Adding GIFs to Instagram Posts (4 Easy Steps)</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/unveiling-the-top-10-video-editing-apps-for-instagram-magic/"><u>Unveiling the Top 10 Video Editing Apps for Instagram Magic</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/zdnet-reveals-apples-shift-from-premium-finewoven-cases-to-new-partnership-with-beats-audio-branding/"><u>ZDnet Reveals Apple's Shift From Premium FineWoven Cases to New Partnership with Beats Audio Branding</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/1726027295203-microsoft-teams/"><u>レコーディング機能に問題がある時、Microsoft Teamsでどうすれば良いか</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-auditory-enhancements-adding-sound-effectively-powerpoint-for-2024/"><u>[New] Auditory Enhancements Adding Sound Effectively (PowerPoint) for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-your-blueprint-for-broadcasting-live-on-facebook/"><u>[New] In 2024, Your Blueprint for Broadcasting Live on Facebook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-choosing-top-8-free-srt-services/"><u>[New] The Ultimate Guide to Choosing Top 8 Free SRT Services</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-secrets-to-selecting-the-best-online-game-coverage/"><u>[Updated] 2024 Approved Secrets to Selecting the Best Online Game Coverage</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-unpacking-features-a-deep-dive-into-free2xs-tools/"><u>[Updated] 2024 Approved Unpacking Features A Deep Dive Into Free2X's Tools</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-unparalleled-20-anime-series-themes/"><u>[Updated] Unparalleled 20 Anime Series Themes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-apples-latest-innovations-in-wireless-audio-the-top-4-enhanced-features-for-every-airpods-model/"><u>Discover Apple's Latest Innovations in Wireless Audio: The Top 4 Enhanced Features for Every AirPods Model</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-power-of-freeform-as-a-revolutionary-idea-generating-technique-on-zdnet/"><u>Discover the Power of Freeform as a Revolutionary Idea-Generating Technique on ZDNet.</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-premier-screensaver-for-your-apple-watch-expert-reviews/"><u>Discover the Premier Screensaver for Your Apple Watch - Expert Reviews</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/eight-crucial-considerations-for-prospective-buyers-of-desktop-computers/"><u>Eight Crucial Considerations for Prospective Buyers of Desktop Computers</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/flamboyant-snaps-techniques-for-lasting-snapstreaks/"><u>Flamboyant Snaps Techniques for Lasting Snapstreaks</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-exclusive-nintendo-switch-fighter-lineups-max-156/"><u>In 2024, Exclusive Nintendo Switch Fighter Lineups (Max 156)</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/reset-the-scene-fixing-your-facebook/"><u>Reset the Scene Fixing Your Facebook</u></a></li>
+<li><a href="https://discover-help.techidaily.com/strategie-di-distribuzione-delle-immagini-su-piu-dispositivi-di-archiviazione/"><u>Strategie Di Distribuzione Delle Immagini Su Più Dispositivi Di Archiviazione</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-apple-watch-accessories-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top-Rated Apple Watch Accessories : Comprehensive Reviews by Tech Gurus | ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-the-doj-vs-apple-case-potential-consequences-for-mobile-software-makers-and-iphone-users-cnbc-tech-news/"><u>Understanding the DOJ Vs. Apple Case: Potential Consequences for Mobile Software Makers and iPhone Users | CNBC Tech News</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-a-remarkable-iphone-functionality-upgrade-by-apple-unnoticed-by-many/"><u>Unveiling a Remarkable iPhone Functionality Upgrade by Apple Unnoticed by Many</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/update-your-mac-safely-with-macos-big-sur-1441-latest-stable-version-now-available/"><u>Update Your Mac Safely with macOS Big Sur 14.4.1 - Latest Stable Version Now Available</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/welcome-to-hotel-tech-upgrade-connect-with-your-devices-using-apple-airplay-unveiling-the-setup-process/"><u>Welcome to Hotel Tech Upgrade: Connect with Your Devices Using Apple AirPlay – Unveiling the Setup Process</u></a></li>
 </ul></div>
 

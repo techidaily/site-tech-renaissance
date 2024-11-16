@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Exclusive: Apple's Next-Gen AirPods to Include Cameras, Set for Release in 2026"
-date: 2024-10-30T20:11:26.904Z
-updated: 2024-11-05T21:23:44.094Z
+date: 2024-11-11T05:20:59.681Z
+updated: 2024-11-16T04:44:23.223Z
 tags:
   - apple
 categories:
@@ -71,29 +71,28 @@ Apple partner and supplier Foxconn will be making the IR camera with a goal of 1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-unleash-the-full-potential-in-the-metaverse-with-this-list/"><u>[New] In 2024, Unleash the Full Potential in the Metaverse with This List</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/erfect-your-clips-step-by-step-youtube-editing-tips-for-2024/"><u>[New] Perfect Your Clips Step-by-Step YouTube Editing Tips for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-enhanced-viewing-fb-videos-on-large-displays/"><u>[Updated] Enhanced Viewing FB Videos On Large Displays</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-framing-the-perfect-waterway-narrative-for-2024/"><u>[Updated] Framing the Perfect Waterway Narrative for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/aacpc/"><u>AAC音楽ファイルがPCやスマホでプレイに困った時のトラブルシューティング手順</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/advanced-tips-for-disabling-trustedinstaller-protection-during-windows-10-tweaks/"><u>Advanced Tips for Disabling TrustedInstaller Protection During Windows 10 Tweaks</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/binge-watch-or-live-stream-twitch-and-youtube-compared-for-2024/"><u>Binge-Watch or Live-Stream? Twitch and YouTube Compared for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-strategies-for-leveraging-slack-to-enhance-work-efficiency/"><u>Essential Strategies for Leveraging Slack to Enhance Work Efficiency</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-innovations-at-todays-wwdc-breakthroughs-with-apple-ai-advanced-siri-capabilities-and-the-launch-of-ios-18-gizmocentral/"><u>Exploring Innovations at Today's WWDC: Breakthroughs with Apple AI, Advanced Siri Capabilities, and the Launch of iOS 18 | GizmoCentral</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-future-power-of-m4-ipad-pro-and-its-ai-synergy-at-the-upcoming-apple-worldwide-developers-conference/"><u>Exploring the Future Power of M4 iPad Pro and Its AI Synergy at the Upcoming Apple Worldwide Developers Conference</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Apple iPhone SE (2020) | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/le-top-5-tecniche-per-trasformare-i-file-avi-di-grosse-dimensioni-in-mp4-a-basso-costo/"><u>Le Top 5 Tecniche per Trasformare I File AVI Di Grosse Dimensioni in MP4 a Basso Costo</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/price-breakdown-for-the-newly-released-samsung-galaxy-z-flip-6-a-comprehensive-overview/"><u>Price Breakdown for the Newly Released Samsung Galaxy Z Flip 6: A Comprehensive Overview</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/televising-zoom-meetings-the-ultimate-how-to-guide-for-pc-and-mac-users/"><u>Televising Zoom Meetings: The Ultimate How-To Guide for PC and Mac Users</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-4-idevices-on-hold-why-its-best-to-skip-purchasing-them-currently-insights/"><u>Top 4 iDevices on Hold: Why It’s Best to Skip Purchasing Them Currently - Insights</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-apples-revolutionary-ai-art-creator-on-device-instantly-magical-results/"><u>Unveiling Apple's Revolutionary AI Art Creator - On-Device, Instantly Magical Results!</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-the-art-of-discretion-blurring-faces-in-video-editing/"><u>Updated 2024 Approved The Art of Discretion Blurring Faces in Video Editing</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-skyrocket-views-with-strategic-youtube-titles-and-descriptions/"><u>[New] 2024 Approved Skyrocket Views with Strategic YouTube Titles & Descriptions</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-instagram-live-maintaining-privacy-while-streaming/"><u>[Updated] 2024 Approved Instagram Live Maintaining Privacy While Streaming</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-unleashing-classic-psp-gaming-best-ios-emulators-ranked/"><u>[Updated] In 2024, Unleashing Classic PSP Gaming Best iOS Emulators Ranked</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/airpods-alone-restoring-connection/"><u>Airpods Alone Restoring Connection</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/beat-the-clock-on-labor-day-score-discounted-apple-airtag-pack-of-four-directly-from-walmart-insights-and-deal-breakdown-zdnet-reports/"><u>Beat the Clock on Labor Day: Score Discounted Apple AirTag Pack of Four Directly From Walmart, Insights & Deal Breakdown | ZDNET Reports</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diagnosing-and-repairing-wi-fi-connectivity-issues-on-microsoft-surface-pro/"><u>Diagnosing and Repairing Wi-Fi Connectivity Issues on Microsoft Surface Pro</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-guide-securing-your-data-cloud-based-iphone-syncing-using-icloud-and-macos-techniques/"><u>Easy Guide: Securing Your Data - Cloud-Based iPhone Syncing Using iCloud & macOS Techniques</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-tomorrow-how-apples-innovative-robot-helper-could-transform-your-living-space/"><u>Exploring Tomorrow: How Apple's Innovative Robot Helper Could Transform Your Living Space</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-whether-apples-vision-pro-diminishes-discomfort-in-economy-class-a-zdnet-perspective/"><u>Exploring Whether Apple's Vision Pro Diminishes Discomfort in Economy Class: A ZDNet Perspective</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-realme-gt-5-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Realme GT 5 To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/limited-time-offer-score-the-new-generation-apple-pencil-at-95-on-labor-day-shop-now/"><u>Limited-Time Offer: Score the New Generation Apple Pencil at $95 on Labor Day – Shop Now!</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/maximizing-conversions-expert-advice-for-turning-email-sign-ups-into-profitable-sales-using-massmail-techniques/"><u>Maximizing Conversions: Expert Advice for Turning Email Sign-Ups Into Profitable Sales Using Massmail Techniques</u></a></li>
+<li><a href="https://facebook.techidaily.com/refine-your-facebook-presence-effortlessly/"><u>Refine Your Facebook Presence, Effortlessly</u></a></li>
+<li><a href="https://fox-links.techidaily.com/seamless-integration-of-links-into-tiktok-profiles/"><u>Seamless Integration of Links Into TikTok Profiles</u></a></li>
+<li><a href="https://howto.techidaily.com/solved-warning-camera-failed-on-vivo-y100a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-free-and-open-source-dns-services-you-can-use-today/"><u>Top Free & Open-Source DNS Services You Can Use Today</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

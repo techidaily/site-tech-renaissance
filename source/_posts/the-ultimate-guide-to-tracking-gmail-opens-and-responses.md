@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Tracking Gmail Opens & Responses
-date: 2024-09-09T15:47:13.440Z
-updated: 2024-09-10T15:47:13.440Z
+date: 2024-11-14T02:12:31.758Z
+updated: 2024-11-15T20:34:53.072Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate Guide to Tracking Gmail Opens & Responses
@@ -23,32 +23,8 @@ thumbnail: https://www.lifewire.com/thmb/-3XsnGtmD7oHbpPDYxwo8IlExYc=/400x300/fi
 2. Scroll down to the **Keyboard shortcuts** section and select **Keyboard shortcuts on** .  
 ![The Keyboard Shortcuts on/off buttons highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/lPV2-ew-bY8v5xkR1Y6pZ0fLprc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-BestGmailKeyboardShortcuts-annotated-639cd7b44f654d4a9fc5e371f7ebae28.jpg)
 3. Scroll to the bottom of the page and select **Save Changes** .  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Create, Send, and Forward Email
 
  With Gmail[keyboard](https://www.lifewire.com/what-is-a-keyboard-2618153) shortcuts, you can quickly create, send, and forward Gmail messages:
@@ -67,6 +43,13 @@ thumbnail: https://www.lifewire.com/thmb/-3XsnGtmD7oHbpPDYxwo8IlExYc=/400x300/fi
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Scroll Through Emails
 
  These shortcuts are handy for navigating through your messages and long email threads:
@@ -75,6 +58,13 @@ thumbnail: https://www.lifewire.com/thmb/-3XsnGtmD7oHbpPDYxwo8IlExYc=/400x300/fi
 * **Scroll up an email list (K)** : Press the**K** key to scroll up.
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Select Multiple Emails
 
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
@@ -82,11 +72,12 @@ thumbnail: https://www.lifewire.com/thmb/-3XsnGtmD7oHbpPDYxwo8IlExYc=/400x300/fi
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Add Formatting to Email Text
 
  Use these commands to apply text formatting while you compose a message. Perform the same actions to undo the formatting:
@@ -99,17 +90,12 @@ thumbnail: https://www.lifewire.com/thmb/-3XsnGtmD7oHbpPDYxwo8IlExYc=/400x300/fi
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Add Elements to an Email
 
  Addling links, numbered lists, and bullet points to your emails can also be done using keyboard shortcuts:
@@ -130,12 +116,6 @@ thumbnail: https://www.lifewire.com/thmb/-3XsnGtmD7oHbpPDYxwo8IlExYc=/400x300/fi
 * **Mark an email as unread (Shift** +**U)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**U** to mark it as unread.
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## "Go to" Shortcuts in Gmail
 
  The following shortcuts can be used for[navigating Gmail](https://www.lifewire.com/go-to-the-next-or-previous-message-in-gmail-1172068) . Unlike the shortcuts above, the individual keys must be pressed separately rather than simultaneously
@@ -148,12 +128,6 @@ thumbnail: https://www.lifewire.com/thmb/-3XsnGtmD7oHbpPDYxwo8IlExYc=/400x300/fi
 * **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to View All Gmail Shortcuts
 
  Need help remembering a shortcut? You can quickly pull up the entire list with a keyboard shortcut:
@@ -182,8 +156,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -191,4 +163,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-mastering-mobile-and-professional-cameras-producing-igtv-excellence/"><u>[New] In 2024, Mastering Mobile and Professional Cameras Producing IGTV Excellence</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-elevating-your-listening-palette-with-youtube-music-for-2024/"><u>[Updated] Elevating Your Listening Palette with YouTube Music for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-bidfarewelltomycam-the-quest-for-improved-options/"><u>2024 Approved BidFarewellToMyCam The Quest for Improved Options</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-how-to-start-your-vlog-and-make-money-from-it/"><u>2024 Approved How to Start Your Vlog and Make Money From It</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722883040793-are-iphone-13-devices-built-with-splash-or-spill-resistance/"><u>Are iPhone 13 Devices Built with Splash or Spill Resistance?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-secret-brilliance-behind-apple-vision-pros-success-insightful-list-of-10-reasons-gadgetgurus/"><u>Discover the Secret Brilliance Behind Apple Vision Pro's Success - Insightful List of 10 Reasons | GadgetGurus</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/error-code-10-explained-steps-to-get-your-gadget-up-and-running-again/"><u>Error Code 10 Explained: Steps to Get Your Gadget Up and Running Again</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expand-your-workspace-set-up-two-displays-on-your-m3-macbook-pro-as-effortlessly-as-you-do-on-the-macbook-air-insights-from-zdnet/"><u>Expand Your Workspace: Set Up Two Displays on Your M3 MacBook Pro as Effortlessly as You Do on the MacBook Air - Insights From ZDNet</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-latest-tricks-for-ios-screenshots-and-recording/"><u>In 2024, Latest Tricks for iOS Screenshots & Recording</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/kickstarting-with-gopro-the-top-10-list-of-perks/"><u>Kickstarting with GoPro The Top 10 List of Perks</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-time-sync-techniques-in-video-editing-creating-beats-aligned-cuts-with-premiere-pro-for-modern-filmmakers/"><u>New 2024 Approved Time-Sync Techniques in Video Editing Creating Beats-Aligned Cuts with Premiere Pro for Modern Filmmakers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722855069295-no-more-text-while-watching-turn-off-subtitles-on-amazon-prime-here/"><u>No More Text While Watching? Turn Off Subtitles on Amazon Prime Here</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/section-2a-understanding-capacitance-and-energy-storage-in-parallel-circuits/"><u>Section 2A: Understanding Capacitance and Energy Storage in Parallel Circuits</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/shared-frustrations-lessons-learned-from-upgrading-to-ios-18-on-iphones-a-personal-account/"><u>Shared Frustrations: Lessons Learned From Upgrading to iOS 18 on iPhones - A Personal Account</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/simple-steps-for-seamless-media-mirroring-from-mac-computers-to-modern-televisions-via-airplay/"><u>Simple Steps for Seamless Media Mirroring From Mac Computers to Modern Televisions via AirPlay</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/staying-with-apple-watch-series-7-the-key-reasons-against-moving-to-series-10-zdnets-tech-perspective/"><u>Staying with Apple Watch Series 7: The Key Reasons Against Moving to Series 10 | ZDNET's Tech Perspective</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlock-the-secrets-of-social-media-the-6-simplest-methods-for-finding-profiles-on-facebook/"><u>Unlock the Secrets of Social Media: The 6 Simplest Methods for Finding Profiles on Facebook</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-breaking-news-filmora-x-adds-arm-compatibility/"><u>Updated Breaking News Filmora X Adds ARM Compatibility</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-dragon-age-inquisition-wont-start-diagnosis-and-fixes/"><u>Why Dragon Age Inquisition Won't Start: Diagnosis & Fixes</u></a></li>
+</ul></div>
 

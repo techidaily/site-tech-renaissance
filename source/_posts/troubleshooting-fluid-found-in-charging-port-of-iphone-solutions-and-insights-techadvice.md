@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting 'Fluid Found in Charging Port of iPhone': Solutions and Insights | TechAdvice"
-date: 2024-11-01T20:14:30.119Z
-updated: 2024-11-05T20:19:51.602Z
+date: 2024-11-09T05:41:43.922Z
+updated: 2024-11-16T05:37:10.734Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -42,13 +42,6 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -64,11 +57,25 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -78,13 +85,6 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
@@ -92,10 +92,10 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -134,18 +134,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-top-family-vehicle-entertainment-adventures/"><u>[New] Top Family Vehicle Entertainment Adventures</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-chuckles-and-challenges-best-fun-for-young-minds-for-2024/"><u>[Updated] Chuckles & Challenges - Best Fun for Young Minds for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/choosing-your-next-apple-laptop-macbook-air-with-m3-chip-vs-m2-a-comprehensive-review/"><u>Choosing Your Next Apple Laptop: MacBook Air with M3 Chip Vs. M2 - A Comprehensive Review</u></a></li>
-<li><a href="https://media-tips.techidaily.com/discover-the-ultimate-guide-to-high-definition-streaming-websites-top-secrets-unveiled/"><u>Discover the Ultimate Guide to High-Definition Streaming Websites - Top Secrets Unveiled!</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/effortless-and-economical-the-best-free-youtube-name-generators-for-2024/"><u>Effortless & Economical The Best Free YouTube Name Generators for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/fix-intermittent-media-on-chrome-browser-for-2024/"><u>Fix Intermittent Media on Chrome Browser for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-7-plus-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 7 Plus to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/inside-look-at-the-next-gen-samsung-galaxy-z-flip7-price-forecast-release-schedule-and-expert-speculations-on-its-capabilities/"><u>Inside Look at the Next-Gen Samsung Galaxy Z Flip7: Price Forecast, Release Schedule & Expert Speculations on Its Capabilities</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/staying-with-my-iphone-14-four-key-factors-that-outweigh-the-appeal-of-the-iphone-16-pro-insights-from-a-tech-expert/"><u>Staying with My iPhone 14: Four Key Factors That Outweigh the Appeal of the iPhone 16 Pro - Insights From a Tech Expert</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-the-skagen-falster-3-where-tradition-meets-innovation/"><u>The Ultimate Guide to the Skagen Falster 3: Where Tradition Meets Innovation</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-airtag-wallet-reviews-in-depth-analysis-by-tech-experts-gizmopundit/"><u>Top-Rated AirTag Wallet Reviews - In-Depth Analysis by Tech Experts | GizmoPundit</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722901232462-unveiling-excitement-dive-into-the-details-of-samsungs-new-smartphone-line-up/"><u>Unveiling Excitement: Dive Into the Details of Samsung's New Smartphone Line-Up!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/upgrading-worthwhile-a-comparative-analysis-of-ipad-air-4-vs-ipad-air/"><u>Upgrading Worthwhile: A Comparative Analysis of iPad Air 4 vs iPad Air</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-guide-to-correcting-and-confirming-your-age-information-on-tiktok/"><u>[New] Guide to Correcting & Confirming Your Age Information on TikTok</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-unmask-invisible-fb-posts-with-these-proven-effective-12-fixes-for-23/"><u>[New] In 2024, Unmask Invisible FB Posts with These Proven, Effective 12 Fixes for '23</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-prime-selection-of-streaming-services-explored-for-2024/"><u>[Updated] Prime Selection of Streaming Services Explored for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/bargain-hunting-in-apples-secondhand-marketplace-smart-strategies-to-dodge-scams-and-snag-great-offers/"><u>Bargain Hunting in Apple's Secondhand Marketplace - Smart Strategies to Dodge Scams and Snag Great Offers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/comprehensive-instructional-series-adding-time-tracks-to-live-shows/"><u>Comprehensive Instructional Series Adding Time Tracks to Live Shows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-tips-for-activating-and-deactivating-iphone-system-repair-mode/"><u>Essential Tips for Activating & Deactivating iPhone System Repair Mode</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fall-guys-performance-optimization-overcoming-stutters-and-crashes-on-personal-computers/"><u>Fall Guys Performance Optimization: Overcoming Stutters and Crashes on Personal Computers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-apples-recent-ai-endeavors-overlooked-crucial-innovations-anticipation-for-what-comes-next-analysis/"><u>How Apple's Recent AI Endeavors Overlooked Crucial Innovations - Anticipation for What Comes Next | Analysis</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/iphone-2023-what-you-need-to-know-about-the-expected-pricing-launch-date-and-specs-updates/"><u>IPhone 2023 - What You Need to Know About the Expected Pricing, Launch Date, and Specs Updates</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-the-secondhand-market-key-factors-in-choosing-a-restored-notebook-computer/"><u>Navigating the Secondhand Market: Key Factors in Choosing a Restored Notebook Computer</u></a></li>
+<li><a href="https://article-posts.techidaily.com/seamless-zoom-integration-joining-and-scheduling-made-simple-for-2024/"><u>Seamless Zoom Integration Joining & Scheduling Made Simple for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/setting-up-slack-alerts-a-step-by-step-guide-for-your-apple-watch-insights/"><u>Setting Up Slack Alerts: A Step-by-Step Guide for Your Apple Watch - Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-future-of-wearable-tech-new-rumors-suggest-cameras-on-airpods-by-2026-detailed-report/"><u>The Future of Wearable Tech? New Rumors Suggest Cameras on AirPods by 2026 - Detailed Report</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-quick-and-easy-route-to-your-pcs-credential-vault-on-win11/"><u>The Quick and Easy Route to Your PC's Credential Vault on Win11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-sony-xperia-10-v-by-drfone-android/"><u>Top 10 Password Cracking Tools For Sony Xperia 10 V</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/why-your-imessages-might-not-have-sent-unveiling-the-reasons-behind-missing-messages/"><u>Why Your iMessages Might Not Have Sent: Unveiling the Reasons Behind Missing Messages</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Rumor Alert! The Sony Afeela Automobile Coming Soon: Speculated Price Tag, Arrival Date & Vehicle Specifications Explored"
-date: 2024-09-09T15:47:17.595Z
-updated: 2024-09-10T15:47:17.595Z
+date: 2024-11-15T01:28:41.446Z
+updated: 2024-11-15T20:50:11.734Z
 categories:
   - BestProducts
 description: "This Article Describes Rumor Alert! The Sony Afeela Automobile Coming Soon: Speculated Price Tag, Arrival Date & Vehicle Specifications Explored"
@@ -9,18 +9,6 @@ excerpt: "This Article Describes Rumor Alert! The Sony Afeela Automobile Coming 
 thumbnail: https://thmb.techidaily.com/021b386908d2aab9987f3431f9451636e6368aadab9296b545a53a53a62cf42a.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Rumor Alert! The Sony Afeela Automobile Coming Soon: Speculated Price Tag, Arrival Date & Vehicle Specifications Explored
 
  In This Article 
@@ -34,27 +22,22 @@ thumbnail: https://thmb.techidaily.com/021b386908d2aab9987f3431f9451636e6368aada
 
  At CES 2023, Sony and Honda gave a name to their joint Sony Honda Mobility (SHM) electric vehicle venture: Afeela. This new electric vehicle (EV) brand is moving ever closer beyond concept to debuting its first EV sedan, which will draw on Sony’s and numerous other partners’ gaming, artificial intelligence (AI), and entertainment prowess. Here’s what we know about the forthcoming Sony car (Afeela).
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  When Will the Sony Car (Afeela) Be Released? 
 
  When Sony and Honda announced their plans for an EV, they also suggested a 2026 release. Plans look on track to bring the Afeela to market in North America first sometime in 2026\. 
 
  Orders will be taken in the first half of next year, potentially allowing US drivers to be behind the wheel by spring 2026.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Lifewire's Release Date Estimate
 
  The Afeela looks poised to be available in North America by spring 2026.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Sony Car (Afeela) Price Rumors 
 
@@ -65,22 +48,24 @@ thumbnail: https://thmb.techidaily.com/021b386908d2aab9987f3431f9451636e6368aada
  As concept-to-production details take shape, we expect to hear more rumors about pricing, so stay tuned.
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Pre-Order Information 
 
  Sony Car pre-ordering looks like it will start in the first few months of 2025\. All signs point to US orders first, followed by pre-orders and debuts in the Japanese and European markets. 
 
  We’ll make updates here as we learn more.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Sony Car (Afeela) Features 
 
@@ -94,12 +79,6 @@ thumbnail: https://thmb.techidaily.com/021b386908d2aab9987f3431f9451636e6368aada
 
 ![Sony Honda Mobility and Epic Games collaboration demo in the Afeela prototype.](https://www.lifewire.com/thmb/l9bUlpS2wIPA00FBpEUvK6M-tPw=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-Hond-Car-Afeela-EpicGames-Collaboration-4978e86ca0f048c2858c0bd4e757562c.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 AR navigation. 
 
 Sony Honda Mobility
@@ -135,11 +114,12 @@ Sony Interactive Entertainment
  Check back for updates about the Sony car release date and more features and specs chatter. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  The Latest News About the Sony Car (Afeela) 
 
  There’s a lot more[ tech news from Lifewire](https://www.lifewire.com/news-4795879) . Here are a few stories of interest about Sony and EVs specifically.
@@ -158,8 +138,6 @@ Sony Interactive Entertainment
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,4 +145,23 @@ Sony Interactive Entertainment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-getting-started-with-macos-11-big-sur-upgrade/"><u>[New] In 2024, Getting Started with macOS 11 Big Sur Upgrade</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-dominate-social-media-sales-5-strategic-moves-for-instagram-experts-for-2024/"><u>[Updated] Dominate Social Media Sales 5 Strategic Moves for Instagram Experts for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-how-to-make-fortnite-thumbnail-in-30-seconds/"><u>[Updated] How to Make Fortnite Thumbnail in 30 Seconds</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comparing-the-m3-macbook-pro-with-the-m1-is-it-time-to-switch-to-apples-newest-laptop-model/"><u>Comparing the M3 MacBook Pro with the M1: Is It Time to Switch to Apple’s Newest Laptop Model?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhance-your-gaming-experience-tackle-and-repair-marvels-guardians-pc-errors-with-these-ebytes-8-fixes/"><u>Enhance Your Gaming Experience: Tackle and Repair 'Marvel’s Guardians' PC Errors with These Ebytes 8 Fixes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exclusive-test-results-2024s-top-magsafe-power-solutions-expert-reviews-and-ratings-zdnet/"><u>Exclusive Test Results: 2024'S Top MagSafe Power Solutions - Expert Reviews and Ratings | ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-apples-latest-ai-breakthroughs-whats-coming-to-iphones-next-insights/"><u>Exploring Apple's Latest AI Breakthroughs: What’s Coming to iPhones Next - Insights</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-reasons-behind-the-worlds-shift-to-electric-cars/"><u>Exploring the Reasons Behind the World's Shift to Electric Cars</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-iphone-8-plus-icloud-activation-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing iPhone 8 Plus iCloud Activation Lock</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/introducing-affordable-beats-solo-earbuds-the-sub-100-audio-experience-akin-to-airpods-latest-review/"><u>Introducing Affordable Beats Solo Earbuds: The Sub-$100 Audio Experience Akin to AirPods - Latest Review</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/is-my-roblox-lag-due-to-an-outage-or-am-i-dealing-with-connectivity-issues/"><u>Is My Roblox Lag Due to an Outage, or Am I Dealing with Connectivity Issues?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/my-ultimate-jetsetters-pick-the-versatile-3-in-1-magsafe-power-adapter-with-qi-wireless-charging-top-picks/"><u>My Ultimate Jetsetter's Pick: The Versatile 3-in-1 MagSafe Power Adapter with Qi Wireless Charging – Top Picks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-windows-code-31-error-a-step-by-step-guide/"><u>Resolving Windows Code 31 Error: A Step-by-Step Guide</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/simple-steps-to-integrate-youtube-content-with-imovie-for-editing-mastery/"><u>Simple Steps to Integrate YouTube Content with iMovie for Editing Mastery</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-for-a-broken-corsair-soundperfection-mic/"><u>Step-by-Step Solutions for a Broken Corsair SoundPerfection Mic</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-iphone-releases-comprehensive-testing-and-reviews-by-tech-experts-zdnet/"><u>Top-Rated iPhone Releases - Comprehensive Testing & Reviews by Tech Experts | ZDNet</u></a></li>
+</ul></div>
 

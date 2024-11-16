@@ -1,7 +1,7 @@
 ---
 title: "Pixel 9XL vs iPhone 2023: Capturing the Winning Shots & Unexpected Results Revealed by ZDNet"
-date: 2024-11-03T17:39:07.914Z
-updated: 2024-11-05T16:40:20.641Z
+date: 2024-11-09T02:22:38.739Z
+updated: 2024-11-16T04:56:38.427Z
 tags:
   - apple
 categories:
@@ -41,6 +41,13 @@ Cons
 * Cellular connectivity is additional cost
 * Expensive
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apple iPad Mini 6th Generation
 
 ### Best small tablet overall
@@ -73,6 +80,19 @@ Pros
 Cons 
 * Performance is slightly slow
 * Cameras aren't as great as other options
+
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Amazon Fire 7 Tablet
 
@@ -135,6 +155,13 @@ Cons
 * Web browser functionality could be better
 * No warm light option
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Amazon Kindle 11th generation
 
 ### Best small tablet for reading
@@ -165,14 +192,14 @@ Pros
 Cons 
 * Performance could be better
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Samsung Galaxy Tab A7 Lite
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best Samsung small tablet
 
@@ -211,16 +238,16 @@ It really depends on what size tablet you're looking for, which operating system
 | Samsung Galaxy A7 Lite                      | A small Samsung tablet with expandable storage and an exceptional battery life. The tablet allows for up to 1TB of expandable storage.                                                                                                                                                   |
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Factors to consider when choosing the best small tablets:
@@ -231,6 +258,13 @@ We know there are a lot of tablets and tablet sizes to choose from, but ultimate
 * **Display:** Small tablets shouldn't have to compromise on an already smaller display, so we also considered display resolution.
 * **Battery life:** A device's battery life is important no matter its size, so we considered devices that can last you all day.
 * **Price:** Tablets vary in price range from affordable to expensive depending on brand and purpose, so we made sure to choose tablets at various price points to accommodate different budgets.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How we test tablets
 
@@ -245,10 +279,16 @@ We also compare the display's performance with what the manufacturer promised, t
 For a deeper look into our testing process, check out our comprehensive [tablet testing methodology](https://www.zdnet.com/article/how-we-test-tablets-at-zdnet-in-2024/). 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is the smallest tablet screen size?
@@ -256,13 +296,6 @@ For a deeper look into our testing process, check out our comprehensive [tablet 
 The smallest tablet screen size on the market is 6 to 7 inches. Anything smaller would be more similar to a smartphone.
 
 It's why you want to consider your primary uses when considering which small tablet is right for you. To demonstrate, if you travel often, one with a smaller screen will be perfect for carrying/using on an airplane. If your aim is to read more e-books or draw, you'll want one with a larger screen. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What brand of tablet is best?
 
@@ -272,36 +305,15 @@ Keep in mind in certain cases (Apple, Samsung), you can pair your other devices 
 
 Meanwhile, with Samsung devices, you can implement Samsung Flow. Download the app on your phone and tablet. You can connect your tablet to your phone via Bluetooth or Wi-Fi. 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Are mini Android tablets worth it?
 
 Yes, they can be. Small Android tablets allow you to do everything you would normally do, like reading e-books and video calling, without the higher price tags. 
 
 Their lightweight body and compact design make them perfect traveling companions. So, if you're searching for the best Android tablet with great battery life and lightweight design, the minis are an enticing choice. 
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is the smallest iPad?
 
 The smallest [iPad](https://www.zdnet.com/article/best-ipad/) is the iPad Mini which has a screen size of 8.3 inches. It's also lightweight at just under one pound. 
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Are there alternative small tablets worth considering?
 
@@ -349,22 +361,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-navigate-10-top-free-web-explorers-for-remote-collaboration/"><u>[New] Navigate 10 Top Free Web Explorers for Remote Collaboration</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-idea-infringement-instant-video-ban-for-2024/"><u>[Updated] Idea Infringement Instant Video Ban for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-troubleshooting-steps-for-msvbvm50dll-not-found-problems/"><u>Comprehensive Troubleshooting Steps for Msvbvm50.dll Not Found Problems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-8-apps-for-seamless-travel-arrangements/"><u>Discover the Ultimate 8 Apps for Seamless Travel Arrangements</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/eliminate-windows-11-lock-screen-pin-with-simple-tips/"><u>Eliminate Windows 11 Lock Screen PIN with Simple Tips</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/eliminating-dsounddll-errors-techniques-and-tips-for-windows-users/"><u>Eliminating dsound.dll Errors: Techniques and Tips for Windows Users</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/eliminating-error-message-28-in-windows-with-ease/"><u>Eliminating Error Message ^[[2]8 in Windows with Ease</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-extend-your-macs-active-hours-and-avoid-unwanted-hibernation/"><u>How to Extend Your Mac's Active Hours & Avoid Unwanted Hibernation</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-the-hardware-problems-were-detected-error-in-the-windows-memory-diagnostic-tool/"><u>How to Fix the Hardware Problems Were Detected Error in the Windows Memory Diagnostic Tool</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-elite-visionaries-video-realm/"><u>In 2024, Elite Visionaries Video Realm</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/integrating-source-text-or-program-logic-into-word-documents-made-easy/"><u>Integrating Source Text or Program Logic Into Word Documents Made Easy</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mitigating-overloaded-chatgpt-in-windows-systems/"><u>Mitigating Overloaded ChatGPT in Windows Systems</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/passos-faceis-para-incorporar-legendas-em-sua-producao-cinematografica/"><u>Passos Fáceis Para Incorporar Legendas Em Sua Produção Cinematográfica</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-simplifying-the-setup-of-multiple-bluetooth-audio-devices-to-one-main-source/"><u>Step by Step: Simplifying the Setup of Multiple Bluetooth Audio Devices to One Main Source</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-fix-discords-voice-chat-issues/"><u>Troubleshooting Guide: How to Fix Discord's Voice Chat Issues</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/-rule-the-top-10-youtube-stars-amongst-genders/"><u>Women Rule The Top 10 YouTube Stars Amongst Genders</u></a></li>
-<li><a href="https://win11.techidaily.com/1726029889258-3/"><u>オンライン上で最適なビデオカットサービス3つをご紹介</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-elevate-vlogging-effective-use-of-jump-cuts/"><u>[New] Elevate Vlogging Effective Use of Jump Cuts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/can-i-be-tracked-unveiling-the-secrets-of-apple-airtag-surveillance-detection/"><u>Can I Be Tracked? Unveiling the Secrets of Apple AirTag Surveillance Detection</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-iphone-app-guide-navigating-with-google-maps/"><u>Comprehensive iPhone App Guide: Navigating with Google Maps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expertly-selected-cutting-edge-notetablets-of-2024-unveiled-in-detailed-review/"><u>Expertly Selected, Cutting-Edge Notetablets of 2024 Unveiled in Detailed Review</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-these-essential-alarm-clock-apps-a-selection-of-7/"><u>Explore These Essential Alarm Clock Apps: A Selection of 7</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/groundbreaking-feature-for-google-pixel-9-introducing-satellite-sos-messaging-to-revolutionize-crisis-response/"><u>Groundbreaking Feature for Google Pixel 9: Introducing Satellite SOS Messaging to Revolutionize Crisis Response</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-the-persistent-steam-not-loading-problem-top-7-strategies/"><u>How to Resolve the Persistent Steam Not Loading Problem: Top 7 Strategies</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/iphone/"><u>IPhone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/leading-photo-and-tune-recorders-for-immersive-experience-for-2024/"><u>Leading Photo & Tune Recorders for Immersive Experience for 2024</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-2024-approved-add-emojis-to-videos-on-youtubefacebooksnapchat-step-by-step-guide/"><u>New 2024 Approved Add Emojis to Videos on YouTube/Facebook/Snapchat Step by Step Guide</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-fcpx-essentials-adding-a-skin-smoothing-effect-from-scratch/"><u>New FCPX Essentials Adding a Skin Smoothing Effect From Scratch</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/protect-your-memories-effortless-iphone-and-mac-backup-strategies-using-icloud-insights/"><u>Protect Your Memories: Effortless iPhone & Mac Backup Strategies Using iCloud, Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-for-gamers-to-diy-repairs/"><u>The Ultimate Guide for Gamers to DIY Repairs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-ranking-of-2024s-finest-smartwatches-in-depth-analysis-and-expert-ratings/"><u>The Ultimate Ranking of 2024'S Finest Smartwatches: In-Depth Analysis & Expert Ratings</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-samsung-galaxy-s23-tactical-edition-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Samsung Galaxy S23 Tactical Edition Bricked Devices | Dr.fone</u></a></li>
 </ul></div>
 

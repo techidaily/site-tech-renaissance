@@ -1,7 +1,7 @@
 ---
 title: Discover What’s New with Sony at the Anticipated 2024 State of Play Presentation
-date: 2024-09-09T15:47:15.865Z
-updated: 2024-09-10T15:47:15.865Z
+date: 2024-11-14T20:41:57.062Z
+updated: 2024-11-16T01:38:14.987Z
 categories:
   - BestProducts
 description: This Article Describes Discover What’s New with Sony at the Anticipated 2024 State of Play Presentation
@@ -9,23 +9,11 @@ excerpt: This Article Describes Discover What’s New with Sony at the Anticipat
 thumbnail: https://www.lifewire.com/thmb/KJ_dXsrrGXjPT6jDqp-rB3PUzfM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/State-of-Play-2ca6752adcf74c2688457ce525e5ae35.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Discover the Latest Features of Thunderbird 52 by Mozilla - Enhance Your Communication
 [Mozilla Thunderbird 52](https://www.thunderbird.net/) is a free, full-featured, and secure email application and chat client that includes an RSS feed reader and newsgroups option. It allows you to manage multiple email accounts from one location with advanced filtering features.
 
  This article covers Mozilla Thunderbird 52\. Several new versions of Thunderbird have arrived since its publication. Some features may be as described, while others have changed, evolved, or been removed.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Thunderbird 52 Features
 
  Mozilla Thunderbird 52 brings privacy, speed, and new tech. Features include:
@@ -44,11 +32,12 @@ thumbnail: https://www.lifewire.com/thmb/KJ_dXsrrGXjPT6jDqp-rB3PUzfM=/400x300/fi
 * **Quick Message Archive** : If you don't need an email message but don't want to throw it away, send it to the archive folder system by pressing the**A** button.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Customize Your Thunderbird Experience
 
  Thunderbird allows you to customize your email experience in several ways:
@@ -59,11 +48,12 @@ thumbnail: https://www.lifewire.com/thmb/KJ_dXsrrGXjPT6jDqp-rB3PUzfM=/400x300/fi
 * **Filelink Large-File Management** : Set up Filelink to handle the upload of files that are too large to attach to an email. Select from popular large-file attachment sites such as Box, YouSendIt, and Ubuntu One.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Security Features
 
  Here's how Thunderbird keeps your email safe:
@@ -74,11 +64,12 @@ thumbnail: https://www.lifewire.com/thmb/KJ_dXsrrGXjPT6jDqp-rB3PUzfM=/400x300/fi
 * **Junk Mail Filters** : Each time you mark an email as spam, Thunderbird learns from your action. The service's popular[junk mail tools](https://www.lifewire.com/auto-spam-to-junk-thunderbird-1173117) have been updated to stay ahead of spam.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## System Requirements
 
  Thunderbird 52 is compatible with the following operating systems:
@@ -107,8 +98,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -116,4 +105,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-navigating-snapchats-call-feature-in-three-steps-for-2024/"><u>[New] Navigating Snapchat's Call Feature in Three Steps for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-instagram-speed-demos-like-video-duo-for-rapid-growth/"><u>[Updated] 2024 Approved Instagram Speed Demos Like-Video Duo for Rapid Growth</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/10-best-free-video-conferencing-services-with-screen-sharing-for-2024/"><u>10 Best Free Video Conferencing Services with Screen Sharing for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-quick-tutorial-incorporate-snap-camera-in-microsoft-teams-chats/"><u>2024 Approved Quick Tutorial Incorporate Snap Camera in Microsoft Teams Chats</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-what-apple-is-brewing-for-gamers-exploring-the-latest-rumors-and-insights-on-its-new-game-mode/"><u>Discover What Apple Is Brewing for Gamers: Exploring the Latest Rumors and Insights on Its New Game Mode</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-photomixer-pro-compiling-media-on-macos/"><u>In 2024, PhotoMixer Pro Compiling Media on macOS</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/maintaining-quality-strategies-to-minimize-the-footprint-of-h264avc-video-content/"><u>Maintaining Quality: Strategies to Minimize the Footprint of H.264(AVC) Video Content</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mejore-su-experiencia-de-visualizacion-con-compresores-mp4-para-minimizar-y-optimizar-el-tamano-del-archivo-sin-comprometer-la-calidad/"><u>Mejore Su Experiencia De Visualización Con Compresores MP4 Para Minimizar Y Optimizar El Tamaño Del Archivo Sin Comprometer La Calidad</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionary-pricing-apple-introduces-the-affordable-m2-powered-mac-mini-at-just-479-unveiled-by-tech-guru-digitech-insights/"><u>Revolutionary Pricing: Apple Introduces the Affordable M2 Powered Mac Mini at Just $479 – Unveiled by Tech Guru | DigiTech Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-secret-superpowers-of-the-iphone-how-apple-has-masterfully-concealed-remarkable-features/"><u>The Secret Superpowers of the iPhone: How Apple Has Masterfully Concealed Remarkable Features</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-1-essential-app-you-need-on-your-fresh-macos-grab-the-discounted-offer-now-tips/"><u>Top 1 Essential App You Need on Your Fresh macOS: Grab the Discounted Offer Now | Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-pick-alert-the-ultimate-guide-to-choosing-apples-newest-innovation-the-m2-powered-ipad-air-what-you-need-to-know/"><u>Top Pick Alert: The Ultimate Guide to Choosing Apple's Newest Innovation, the M2-Powered iPad Air - What You Need to Know!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-best-buy-offers-in-june-2024-find-savings-on-tech-gadgets-zdnet-guide/"><u>Top-Rated Best Buy Offers in June 2024: Find Savings on Tech Gadgets - ZDNet Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-top-rated-iphone-se-cases-of-2022-safeguard-your-device-with-style/"><u>Ultimate Guide to Top-Rated iPhone SE Cases of 2022: Safeguard Your Device with Style</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/understanding-and-correcting-the-win32kfullsys-blue-screen-of-death-problem/"><u>Understanding and Correcting the Win32KFull.sys Blue Screen of Death Problem</u></a></li>
+</ul></div>
 

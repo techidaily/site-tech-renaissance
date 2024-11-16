@@ -1,7 +1,7 @@
 ---
 title: Declutter Your Mailbox Instantly - One Trick for Cleaner Communications | ZDNET Insights
-date: 2024-11-04T17:24:36.027Z
-updated: 2024-11-05T21:35:14.034Z
+date: 2024-11-11T04:51:06.978Z
+updated: 2024-11-15T20:56:49.358Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ Don't confuse aliases with forwarded accounts, which allow you to send and recei
 The following instructions apply to personal accounts you manage yourself. If you have a commercial email account (through Microsoft 365 or Google Workspace, for example), you can have aliases for your account using your organization's custom domain, but you'll need an administrator's help to set up those aliases.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create an alias using Gmail
@@ -66,10 +66,10 @@ Although it's the world's most popular email service, Gmail's implementation of 
 The problem with this sort of alias is that it doesn't keep an unscrupulous sender from seeing your primary address, so be cautious when using it with untrusted correspondents.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create an alias using Outlook.com
@@ -83,10 +83,10 @@ To get started, go to <https://account.microsoft.com>, sign in with your Microso
 You can add new aliases at any time (up to the limit of 10) or remove an existing alias from the Account Aliases page described earlier.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create an alias using your Apple ID
@@ -100,10 +100,10 @@ The one catch is that each alias uses an auto-generated name that can be less th
 To create an iCloud alias on an iOS device, open Settings, tap your account name, then tap iCloud > Hide My Email. (On a MacBook, use the Apple menu to open System Settings, where you'll find the Hide My Email option.) Tap Create New Address and follow the prompts to add a label and an optional note. Use the Forward To button to select where you want to receive email sent to that alias.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Other alias options
@@ -144,18 +144,16 @@ You can also use privacy add-ins that include email-masking features. [NordPass 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-a-beginners-guide-to-gameye-win10-for-2024/"><u>[Updated] A Beginner's Guide to GamEye Win10 for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-effortless-screen-changes-made-simple/"><u>[Updated] Effortless Screen Changes Made Simple</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-free-cam-software-roundup-innovation-at-your-fingertips-for-2024/"><u>[Updated] Free Cam Software Roundup Innovation at Your Fingertips for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-top-10-mouse-recorders/"><u>2024 Approved Top 10 Mouse Recorders</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-ways-to-detect-if-someones-using-an-apple-airtag-on-you-a-guide-by-zdnet/"><u>Discover Ways to Detect If Someone's Using an Apple AirTag on You: A Guide by ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/eu-users-can-now-download-apps-via-web-in-ios-175-beta-2-release-explore-how-its-revolutionizing-access-zdnet/"><u>EU Users Can Now Download Apps via Web in iOS 17.5 Beta 2 Release – Explore How It's Revolutionizing Access | ZDNET</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-honor-x8b-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Honor X8b.</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-huawei-p60-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Huawei P60 to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/premier-15-gopro-video-enhancers-with-luts-for-2024/"><u>Premier 15 GoPro Video Enhancers with LUTs for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/soggy-iphone-ignore-old-rice-hack-and-follow-these-steps-says-apple-news/"><u>Soggy iPhone? Ignore Old Rice Hack and Follow These Steps, Says Apple News</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-protective-sleeves-for-iphone-12-and-12-pro-2023-edition-techreview/"><u>Top-Rated Protective Sleeves for iPhone 12 & 12 Pro - 2023 Edition | TechReview</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/uncovering-the-best-free-and-shared-dns-server-resources-online/"><u>Uncovering the Best Free and Shared DNS Server Resources Online</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unlocking-potential-the-right-propeller-match-in-fpv-flight/"><u>Unlocking Potential The Right Propeller Match in FPV Flight</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/affordable-entertainment-how-to-score-the-youtube-premium-student-deal/"><u>Affordable Entertainment: How to Score the YouTube Premium Student Deal</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/airpower-video-update-raises-questions-is-apple-bringing-back-its-previous-wireless-charging-solution-using-qi-technology/"><u>AirPower Video Update Raises Questions - Is Apple Bringing Back Its Previous Wireless Charging Solution Using Qi Technology?</u></a></li>
+<li><a href="https://common-error.techidaily.com/icue-troubleshooting-guide-correcting-undetected-hardware-issues/"><u>ICUE Troubleshooting Guide: Correcting Undetected Hardware Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-hurdle-opening-windows-folders-via-double-click/"><u>Overcoming the Hurdle: Opening Windows' Folders via Double-Click</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/simple-guide-setting-up-an-additional-thunderbolt-display-on-your-m1-powered-macos-mini-insights/"><u>Simple Guide: Setting Up an Additional Thunderbolt Display on Your M1 Powered macOS Mini - Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-2024-guide-to-optimal-workout-record-keeping-find-the-apps-you-need/"><u>The 2024 Guide to Optimal Workout Record-Keeping: Find the Apps You Need</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ltimate-guide-how-to-record-and-save-youtube-videos-without-spending-a-penny/"><u>The Ultimate Guide How To Record and Save YouTube Videos without Spending a Penny</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/top-7-methods-for-mirroring-your-iphone-onto-a-pc-a-comprehensive-guide-by-movavi/"><u>Top 7 Methods for Mirroring Your iPhone Onto a PC: A Comprehensive Guide by Movavi</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unleash-creativity-with-freeform-the-ultimate-guide-for-innovative-brainstorming/"><u>Unleash Creativity with Freeform - The Ultimate Guide for Innovative Brainstorming</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Nokia G22? | Dr.fone</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/windows-11-prompt-fixes-discover-the-three-best-approaches-for-attention-required/"><u>Windows 11 Prompt Fixes: Discover the Three Best Approaches for 'Attention Required'</u></a></li>
 </ul></div>
 

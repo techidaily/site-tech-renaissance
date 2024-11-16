@@ -1,7 +1,7 @@
 ---
 title: "Top-Ranking Mini Tablets : Comprehensive Reviews by Tech Experts | TechRadar"
-date: 2024-10-31T18:01:03.403Z
-updated: 2024-11-05T21:50:56.272Z
+date: 2024-11-09T20:56:20.439Z
+updated: 2024-11-16T05:39:28.962Z
 tags:
   - apple
 categories:
@@ -25,6 +25,13 @@ The display sizes of small tablets can range from six to 10 inches, with eight i
 ## What is the best small tablet right now?
 
 Based on our extensive hands-on testing with various tablets of all sizes, our pick for the best small tablet is the [iPad Mini](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2021-Apple-iPad-Mini-Wi-Fi%2Fdp%2FB09G9FW785%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb5fde3da-b9ee-47c5-baf7-a7a2bc698913%7Cdtp&dtb=1), thanks to its 8.3-inch Liquid Retina display and weight of just under 1 pound. We also included compact-sized tablets from Amazon, Samsung, and other brands for those looking for something more compact and easy to carry. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The best small tablets of 2024
 
@@ -108,6 +115,13 @@ Cons
 
 ## Boox Tab Mini C
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Best small tablet for note-taking
 
 Boox is an e-reader and drawing tablet with a vivid color display, so your e-book's illustrations will pop as you read, and so will your color-coordinated notes. Speaking of which, the note-taking templates on the Tab Mini C are handy. Whether you're a student taking Cornell-style notes, a desk job employee making an hourly plan for your day, a musician crafting a piece of sheet music, or a historian drafting a timeline, the Tab Mini C offers a template for that. 
@@ -136,10 +150,10 @@ Cons
 * No warm light option
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Amazon Kindle 11th generation
@@ -173,10 +187,10 @@ Cons
 * Performance could be better
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Samsung Galaxy Tab A7 Lite
@@ -205,13 +219,6 @@ The best small tablet is the iPad Mini because of its sharp display and impressi
 | Amazon Kindle          | $100      | 6 inches            | 300ppi glare-free |
 | Samsung Galaxy A7 Lite | $100      | 8.7 inches          | 1340x800 pixels   |
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Which small tablet is right for you?
 
 It really depends on what size tablet you're looking for, which operating system you prefer, and how much money you're willing to spend. Below, we've broken down the best small tablets to help make your decision easier. 
@@ -233,6 +240,13 @@ We know there are a lot of tablets and tablet sizes to choose from, but ultimate
 * **Battery life:** A device's battery life is important no matter its size, so we considered devices that can last you all day.
 * **Price:** Tablets vary in price range from affordable to expensive depending on brand and purpose, so we made sure to choose tablets at various price points to accommodate different budgets.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How we test tablets
 
 The ZDNET team chose all of the tablets included in this list based on their performance when [tested in the real world](https://www.zdnet.com/article/how-we-test-tablets-at-zdnet-in-2024/). When we test tablets, we typically follow the same routine for each one to see which performs best.
@@ -246,10 +260,16 @@ We also compare the display's performance with what the manufacturer promised, t
 For a deeper look into our testing process, check out our comprehensive [tablet testing methodology](https://www.zdnet.com/article/how-we-test-tablets-at-zdnet-in-2024/). 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is the smallest tablet screen size?
@@ -257,13 +277,6 @@ For a deeper look into our testing process, check out our comprehensive [tablet 
 The smallest tablet screen size on the market is 6 to 7 inches. Anything smaller would be more similar to a smartphone.
 
 It's why you want to consider your primary uses when considering which small tablet is right for you. To demonstrate, if you travel often, one with a smaller screen will be perfect for carrying/using on an airplane. If your aim is to read more e-books or draw, you'll want one with a larger screen. 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What brand of tablet is best?
 
@@ -279,22 +292,15 @@ Yes, they can be. Small Android tablets allow you to do everything you would nor
 
 Their lightweight body and compact design make them perfect traveling companions. So, if you're searching for the best Android tablet with great battery life and lightweight design, the minis are an enticing choice. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is the smallest iPad?
 
 The smallest [iPad](https://www.zdnet.com/article/best-ipad/) is the iPad Mini which has a screen size of 8.3 inches. It's also lightweight at just under one pound. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Are there alternative small tablets worth considering?
@@ -343,16 +349,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-free-cross-platform-4k-playback-tools-for-win-and-os-x-devices/"><u>[New] Free, Cross-Platform 4K Playback Tools for Win & OS X Devices</u></a></li>
-<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Realme 10T 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/choosing-between-ipad-pro-and-macbook-pro-a-comprehensive-guide/"><u>Choosing Between iPad Pro and MacBook Pro: A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/comparing-vlc-and-mx-player-for-2024/"><u>Comparing VLC and MX Player for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/easy-steps-to-resolve-msvbvm50dll-not-found-computer-issue/"><u>Easy Steps to Resolve 'msvbvm50.dll Not Found' Computer Issue</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/googles-new-challenger-pixel-watch-vs-apple-watch-series-8-expert-insights-for-your-perfect-buy-zdnet/"><u>Google's New Challenger: Pixel Watch Vs. Apple Watch Series 8 - Expert Insights for Your Perfect Buy | ZDNET</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/link-zoom-calls-to-iphoneandroid-events-seamlessly-for-2024/"><u>Link Zoom Calls to iPhone/Android Events Seamlessly for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/revive-your-vanished-snapsphere-presence-tips-for-bringing-back-a-dormant-snapchat-account/"><u>Revive Your Vanished Snapsphere Presence: Tips for Bringing Back a Dormant Snapchat Account</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/superior-selection-of-multi-person-video-conference-software/"><u>Superior Selection of Multi-Person Video Conference Software</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-cutting-edge-ipad-peripherals-insights-from-zdnet/"><u>The Ultimate Guide to Cutting-Edge iPad Peripherals : Insights From ZDNET</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/1728510134501-windows-11/"><u>Windows 11で忘れられないデータコピーツール集 - 最新リスト</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-painting-with-light-advanced-color-techniques/"><u>[New] 2024 Approved Painting with Light Advanced Color Techniques</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-photography-fundamentals-tips-and-apps-for-android/"><u>[New] Photography Fundamentals Tips & Apps for Android</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-capturing-screens-with-isprings-pro/"><u>[Updated] In 2024, Capturing Screens with iSpring's Pro</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/2024s-essential-guide-to-the-507-perfect-instagram-captions/"><u>2024'S Essential Guide to the 507 Perfect Instagram Captions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apex-apple-band-selection-guide-of-2024-in-depth-analysis-and-honed-ratings-by-gizmodo/"><u>Apex Apple Band Selection Guide of 2024 - In-Depth Analysis & Honed Ratings by Gizmodo</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-fixes-for-the-error-d3dx924dll-is-unavailable-on-your-computer/"><u>Comprehensive Fixes for the Error 'D3DX9_24.dll Is Unavailable on Your Computer'</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/dive-into-the-world-of-computing-with-toms-hardware-solutions/"><u>Dive Into the World of Computing with Tom’s Hardware Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exclusive-offer-purchase-airpods-pro-2-hearing-aid-ready-for-a-steep-discount-on-zdnet/"><u>Exclusive Offer: Purchase AirPods Pro 2 (Hearing-Aid Ready) for a Steep Discount on ZDNET</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-track-apple-iphone-14-location-by-number-drfone-by-drfone-virtual-ios/"><u>How to Track Apple iPhone 14 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-easy-image-submission-tips-for-youtubers/"><u>In 2024, Easy Image Submission Tips for YouTubers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/iphone-exposed-the-art-of-prolonged-photography/"><u>IPhone Exposed The Art of Prolonged Photography</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/january-12th-robert-oppenheimer-an-american-physicist-known-for-his-role-in-creating-the-atomic-bomb-and-contributing-to-quantum-mechanics-his-work-has-left667/"><u>January 12Th - Robert Oppenheimer, an American Physicist Known for His Role in Creating the Atomic Bomb and Contributing to Quantum Mechanics. His Work Has Left a Lasting Impact on Science and Technology</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/surprise-hit-of-electronics-how-this-small-handheld-8-in-1-adapter-busts-budget-limits-and-packs-big-features/"><u>Surprise Hit of Electronics: How This Small Handheld 8-in-1 Adapter Busts Budget Limits and Packs Big Features</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-complete-guide-to-espnplus-everything-you-need-to-know-about-disneyamoorium-sports-streaming-service/"><u>The Complete Guide to ESPN+: Everything You Need to Know About Disney'amoorium Sports Streaming Service</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-roadmap-for-success-boosting-vision-pros-appeal-with-apple-insights-from-zdnet/"><u>The Roadmap for Success: Boosting Vision Pro's Appeal with Apple - Insights From ZDNet</u></a></li>
 </ul></div>
 

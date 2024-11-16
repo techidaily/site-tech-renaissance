@@ -1,7 +1,7 @@
 ---
 title: "Understanding the DOJ Vs. Apple Case: Potential Consequences for Mobile Software Makers and iPhone Users | CNBC Tech News"
-date: 2024-10-30T18:59:41.291Z
-updated: 2024-11-05T19:29:13.474Z
+date: 2024-11-08T19:26:18.350Z
+updated: 2024-11-15T16:28:22.369Z
 tags:
   - apple
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 * One [iPhone](https://www.zdnet.com/article/best-iphone/) to host the call, which we recommend putting on speakerphone
 * Another recording device (this could be another iPhone, an [iPad](https://www.zdnet.com/article/best-ipad/), or even an Android device) using Voice Memos or another recording app to record the call
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Test your Voice Memos app
 
 First, ensure you have an iPhone and another iOS device, such as a Mac, iPad, or another iPhone, with the Voice Memos app. The Voice Memos app comes preinstalled on most devices, but is also free on the [App Store](https://www.apple.com/app-store/). If using an Android device, check that it has a recording app, like [this free one](https://play.google.com/store/apps/details?id=com.media.bestrecorder.audiorecorder&hl=en%5FUS&gl=US&pli=1).
@@ -72,6 +65,13 @@ Voice recordings autosave under different names based on whether Location Servic
 
 Screenshot by Radhika Rajkumar/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Play back the audio file and make adjustments
 
 Now, play the file back and see if the audio is discernible. Make the adjustments you need _before_ you record a phone call. 
@@ -79,13 +79,6 @@ Now, play the file back and see if the audio is discernible. Make the adjustment
 **Also:** [**How to clear the cache on your iPhone (and why you should)**](https://www.zdnet.com/article/how-to-clear-cache-on-iphone-and-why-you-should/)
 
 For example, if the sound quality is too low, you may need to speak louder, increase the microphone sensitivity (go to Settings > Sounds & Haptics), or put the speaker closer to your mouth. 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Check whether you need to inform the other party that you're recording
 
@@ -96,10 +89,10 @@ Always [check](https://www.rev.com/blog/productivity/phone-call-recording-laws-s
 One-party states require only one person on the call -- which would be you -- to consent. An all-party state requires both the person recording and the person(s) being recorded to consent. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Start recording
@@ -122,13 +115,6 @@ Spikes in the red waveform bar indicate a louder sound. A flatter bar indicates 
 
 Screenshot by Radhika Rajkumar/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. End the recording and transfer the file
 
 When the conversation is over or you've got the information you need, end the recording by tapping the red button. 
@@ -141,6 +127,13 @@ Open up sharing options. You can also trim or rename the recording to something 
 
 Screenshot by Radhika Rajkumar/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Other ways to record
 
 Following the steps above is the easiest, most efficient, and most discreet way to record a phone call on your iPhone. If you or a trusted second party don't have another device to spare, here are a few alternatives. 
@@ -152,6 +145,13 @@ Note: Many apps that record phone calls likely need to conference into the call 
 Rev has a few options depending on what you need. If you want to record phone calls, try their [Call Recorder](https://apps.apple.com/us/app/rev-call-recorder/id1314427915) app -- it's free, with no limits on recording lengths, and even has in-app legal guidance. For recording other conversations, Rev's [Voice Recorder](https://apps.apple.com/US/app/id1314427915?mt=8) app is also free and has an easy-to-use interface. 
 
 Plus, Rev offers AI-supported [transcription](https://www.rev.com/pricing) of your recordings for $0.25 per minute, or you can have a human professionally transcribe your recording for $1.50 per minute. Once you download your file, it will appear as an MP3 file on your device. This is a great option for recording phone calls and narrating screen recordings. 
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Google Voice
 
@@ -168,6 +168,19 @@ Once everyone is on the call, press the number four (4) on the keypad to start a
 **Also:** [**How to clear the cache on your iPhone (and why you should)**](https://www.zdnet.com/article/how-to-clear-cache-on-iphone-and-why-you-should/)
 
 As the name suggests, this app is designed for users to be able to whip out their phones and start recording whenever, wherever. If you download the app and use it on an iPad to record, you can drag and drop recordings with the Files or other recording apps for further transcriptions, or to consolidate recordings. 
+
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## FAQs
 
@@ -188,13 +201,6 @@ Alternatively, you can use most mic-equipped computers or tablets to record phon
 ## Does Apple have an app to record iPhone calls?
 
 Unfortunately, no -- at least not yet. Apple itself doesn't have an app, but there are third-party apps available on the [App Store](https://www.apple.com/app-store/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.apple.com/app-store/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%22App%20Store%22%7D). Also, Voice Memos is most likely automatically installed on your iOS device. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Does screen recording on iPhone record my call?
 
@@ -234,16 +240,20 @@ The Voice Memos app can record for an unlimited amount of time as long as you ha
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://solve-outstanding.techidaily.com/1-access-unlimited-vk-tracks-for-zero-cost-top-3-secure-downloading-methods/"><u>1. Access Unlimited VK Tracks for Zero Cost: Top 3 Secure Downloading Methods</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-latest-tech-blog-movavi-screencapture-update/"><u>2024 Approved Latest Tech Blog Movavi ScreenCapture Update</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/anticipating-apples-next-airpods-launch-insights-details-and-how-to-secure-yours-now/"><u>Anticipating Apple's Next AirPods Launch – Insights, Details & How To Secure Yours Now</u></a></li>
-<li><a href="https://fox-access.techidaily.com/bridging-audio-artistry-in-visual-formats-for-2024/"><u>Bridging Audio Artistry in Visual Formats for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722895280293-complete-guide-setting-up-windows-11-on-your-brand-new-ssd/"><u>Complete Guide: Setting Up Windows 11 on Your Brand-New SSD</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/effective-strategies-for-sharing-and-editing-apple-pages-files-through-icloud-a-comprehensive-guide/"><u>Effective Strategies for Sharing and Editing Apple Pages Files Through iCloud: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-guide-uncover-the-importance-of-using-an-iphone-16-case-even-without-past-experience/"><u>Essential Guide: Uncover the Importance of Using an iPhone 16 Case, Even Without Past Experience</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-vivo-y77t-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Vivo Y77t</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-final-cut-pros-top-10-must-have-plug-ins-for-professionals/"><u>In 2024, Final Cut Pro’s Top 10 Must-Have Plug-Ins for Professionals</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-realme-narzo-60-pro-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Realme Narzo 60 Pro 5G For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-the-maddening-issue-how-apple-can-improve-user-experience-with-iphones-zdnet/"><u>Solving the Maddening Issue: How Apple Can Improve User Experience with iPhones | ZDNet</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-smoothly-sync-and-unite-videos-the-android-specialists-guide/"><u>[New] 2024 Approved Smoothly Sync and Unite Videos The Android Specialist's Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-zoomed-into-the-core-of-action-films/"><u>[New] In 2024, Zoomed Into the Core of Action Films</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-snowbound-sagas-2022-olympic-milestones/"><u>[New] Snowbound Sagas 2022 Olympic Milestones</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-breaking-free-from-fb-shadowban-top-10-strategies/"><u>[Updated] Breaking Free From FB Shadowban Top 10 Strategies</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-boosting-budgets-with-effective-youtube-marketing/"><u>2024 Approved Boosting Budgets with Effective YouTube Marketing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-to-the-ultimate-magsafe-wallets-of-2024-professional-reviews-and-ratings/"><u>Comprehensive Guide to the Ultimate MagSafe Wallets of 2024 - Professional Reviews & Ratings</u></a></li>
+<li><a href="https://windows11.techidaily.com/deletion-directive-for-drives-partitioned-areas-in-windows/"><u>Deletion Directive for Drives' Partitioned Areas in Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-the-detected-game-integrity-compromise-notification/"><u>How to Fix the Detected Game Integrity Compromise Notification</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/making-your-iphone-smarter-how-apples-integration-of-google-gemini-into-ios-enhances-functionality-zdnet/"><u>Making Your iPhone Smarter: How Apple's Integration of Google Gemini Into iOS Enhances Functionality | ZDNet</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mystic-mastery-in-minimalist-photo-manipulations/"><u>Mystic Mastery in Minimalist Photo Manipulations</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-vivo-y78t-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Vivo Y78t</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/texting-mastery-learn-how-to-send-and-receive-smses-on-the-ipad-easily/"><u>Texting Mastery: Learn How to Send and Receive SMSes on the iPad Easily</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-rise-of-personalized-ai-a-game-changer-for-tech-enthusiasts-zdnet/"><u>The Rise of Personalized AI : A Game-Changer for Tech Enthusiasts | ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-11-unbeatable-discounts-on-apple-watches-in-june-july-2024-exclusive-offers/"><u>Top 11 Unbeatable Discounts on Apple Watches in June-July 2024: Exclusive Offers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-smart-lock-apps-for-ios-discreet-security-on-your-iphone-featured/"><u>Top-Rated Smart Lock Apps for iOS: Discreet Security on Your iPhone, Featured</u></a></li>
 </ul></div>
 

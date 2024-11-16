@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Mobile Experience: How Apple's Partnership with OpenAI Brings Powerful AI Chatbot Technology to iOS/iPadOS/Mac Users | Coverage"
-date: 2024-10-30T20:25:01.397Z
-updated: 2024-11-05T17:46:58.004Z
+date: 2024-11-13T16:15:11.941Z
+updated: 2024-11-15T23:03:55.309Z
 tags:
   - apple
 categories:
@@ -69,10 +69,10 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -94,10 +94,10 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -124,13 +124,6 @@ Adam Breeden/ZDNET
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## MacOS 15 (Sequoia)
 
 Adam Breeden/ZDNET
@@ -143,10 +136,10 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -173,6 +166,13 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -218,20 +218,15 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-crafting-curls-and-contours-creating-a-personalized-beauty-channel-for-2024/"><u>[New] Crafting Curls and Contours Creating a Personalized Beauty Channel for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-conquer-the-crowd-initiating-your-top-ranked-gaming-channel/"><u>[Updated] 2024 Approved Conquer the Crowd Initiating Your Top-Ranked Gaming Channel</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-engage-viewers-anytime-from-phone-stream-youtube-with-less-than-a-thousand/"><u>[Updated] 2024 Approved Engage Viewers Anytime, From Phone Stream Youtube with Less Than a Thousand</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-apple-airtag-4-pack-deal-save-24-now-at-walmart-for-labor-day-insider-tips-from-zdnet/"><u>Discover the Apple AirTag 4-Pack Deal: Save $24 Now at Walmart for Labor Day - Insider Tips From ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-hidden-techniques-of-face-swapping-on-your-apple-watch-unlocking-the-mystery-with-insights/"><u>Discover the Hidden Techniques of Face-Swapping on Your Apple Watch – Unlocking the Mystery with Insights</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exclusive-roundup-2024s-elite-selection-of-magsafe-battery-solutions-curated-and-assessed-cnet-reviews/"><u>Exclusive Roundup: 2024'S Elite Selection of MagSafe Battery Solutions, Curated & Assessed | CNET Reviews</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-generative-ai-technology-key-concepts-and-applications/"><u>Exploring Generative AI Technology: Key Concepts and Applications</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-samsung-galaxy-a25-5g-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Samsung Galaxy A25 5G to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/master-the-right-way-optimal-handling-techniques-for-your-iphone-and-airpods-revealed-zdnet-insights/"><u>Master the Right Way: Optimal Handling Techniques for Your iPhone & AirPods Revealed | ZDNet Insights</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mesto-praza-city-of-prague/"><u>Mesto Praža (City of Prague)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723010171379-resolved-issues-with-launching-civilization-vi-on-windows-10-fixed/"><u>Resolved: Issues with Launching Civilization VI on Windows 10 – Fixed</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-issue-why-your-outlook-is-not-launching/"><u>Solving the Issue: Why Your Outlook Is Not Launching</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-transforming-your-caf-audio-into-high-quality-m4a-format/"><u>Step-by-Step Guide: Transforming Your CAF Audio Into High-Quality M4A Format</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-future-of-smartphones-can-apples-innovations-secure-success-for-the-iphone-16/"><u>The Future of Smartphones: Can Apple's Innovations Secure Success for the iPhone 16?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-discord-disruptions-identifying-service-downtime-vs-personal-network-problems/"><u>Understanding Discord Disruptions: Identifying Service Downtime Vs. Personal Network Problems</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-screenspectrum-app-evaluation/"><u>[Updated] 2024 Approved ScreenSpectrum App Evaluation</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1-essential-enhancements-for-apples-vision-pro-success-key-strategies-revealed-by-zdnet/"><u>1. Essential Enhancements for Apple's Vision Pro Success: Key Strategies Revealed by ZDNet</u></a></li>
+<li><a href="https://extra-support.techidaily.com/beat-game-crashes-overcome-dead-by-daylights-code-8014-bug-permanently/"><u>Beat Game Crashes: Overcome Dead By Daylight's Code 8014 Bug Permanently</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-the-world-with-these-5-superb-iphone-gps-tools/"><u>Explore the World with These 5 Superb iPhone GPS Tools</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-samsung-galaxy-a15-4g-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Samsung Galaxy A15 4G Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-quicktime-player-hacks-speed-up-your-video-watching-experience-for-2024/"><u>New QuickTime Player Hacks Speed Up Your Video Watching Experience for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/simplified-steps-how-to-efficiently-combine-two-excel-sheets-into-one-column/"><u>Simplified Steps: How to Efficiently Combine Two Excel Sheets Into One Column</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/top-picks-for-shining-3d-type-designs-with-a-golden-touch/"><u>Top Picks for Shining 3D Type Designs with a Golden Touch</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-ranking-macbook-models-to-buy-techreview/"><u>Top-Ranking MacBook Models to Buy | TechReview</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-the-secrets-to-easy-metaverse-character-creation-for-2024/"><u>Unlocking the Secrets to Easy Metaverse Character Creation for 2024</u></a></li>
 </ul></div>
 

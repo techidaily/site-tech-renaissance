@@ -1,7 +1,7 @@
 ---
 title: Discover the Power of Freeform as a Revolutionary Idea-Generating Technique on ZDNet.
-date: 2024-10-30T17:30:17.494Z
-updated: 2024-11-05T16:49:52.685Z
+date: 2024-11-11T17:50:51.346Z
+updated: 2024-11-16T04:07:20.476Z
 tags:
   - apple
 categories:
@@ -57,10 +57,10 @@ Freeform is free to use and is installed on the operating system by default.
 I will warn you, however, that Freeform is currently problematic and until Apple resolves an issue I'll explain below, you'll find the app less than effective. I also have a suggestion below for what to try if you encounter this problem. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is Freeform, and why should it be your next creative brainstorming tool?
@@ -86,15 +86,22 @@ Screenshot by Jack Wallen/ZDNET
 Note: Enabling iCloud Syncing not only allows you to access your boards across devices, but it also makes it possible to share boards. Without enabling iCloud Syncing, you cannot share boards.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Close Settings
 
 Once you've configured iCloud Syncing, close Settings and you should then find yourself on the main Freeform window.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Start creating
 
@@ -110,13 +117,6 @@ Screenshot by Jack Wallen/ZDNET
 
 You might find that the drawing tool only appears on devices with a touch screen. So, if you're using a MacBook or [iMac](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fimac&subId1=subid%5Fvalue) that doesn't include a touchscreen, you won't be able to use the sketch tool. This does limit what you can do on a non-touchscreen device, but if you don't need the sketch option, you'll find plenty of elements that can be added and manipulated.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Sharing a board
 
 This is where things get dicey. Even with Freeform iCloud Sync enabled, my machine restarted, and though other apps were syncing fine with iCloud, I was unable to share a board. After a quick bit of research, it seems this is a known issue. My gut tells me it has something to do with Freeform being listed in iCloud Sync Settings as "Unknown." 
@@ -128,10 +128,10 @@ Upon upgrading MacOS to 13.2, there's a little thing called the "Terms of servic
 You should be presented with a pop-up where you can scroll through the terms and agree. Once you've done that, the iCloud Sync Settings will automatically switch from Unknown to Freeform. Disable Freeform, re-enable it, click Merge, and sync should start working. If not… Apple, are you listening?
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Work out those kinks
@@ -168,19 +168,17 @@ Hopefully, once Apple irons out the Freeform syncing kinks, this app will help y
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-olympic-speed-skating-sprint-games-best-performances/"><u>[New] 2024 Approved Olympic Speed Skating Sprint Games' Best Performances</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-elite-fleet-10-aerial-visionaries-dream-choices/"><u>[New] In 2024, Elite Fleet #10 Aerial Visionaries' Dream Choices</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-rhythm-made-simple-top-online-analyzers-to-try-now-for-free/"><u>[New] Rhythm Made Simple Top Online Analyzers to Try Now for Free</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-set-the-atmosphere-musical-statuses/"><u>2024 Approved Set the Atmosphere Musical Statuses</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/can-you-track-blood-pressure-with-the-new-apple-watch-series-10-the-facts-revealed/"><u>Can You Track Blood Pressure with the New Apple Watch Series 10? The Facts Revealed</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discovering-innovation-at-the-apple-iphone-worldwide-rollout-ceremony/"><u>Discovering Innovation at the Apple iPhone Worldwide Rollout Ceremony</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/download-and-install-the-ultimate-macx-premium-m2ts-to-avimov-video-transcoder-for-mac-os-x/"><u>Download & Install the Ultimate MacX - Premium M2TS to AVI/MOV Video Transcoder for MAC OS X</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fixing-apple-watch-lte-problems-step-by-step/"><u>Fixing Apple Watch LTE Problems Step-by-Step</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-3-ways-to-track-apple-iphone-13-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Ways to Track Apple iPhone 13 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-visual-perfection-with-obs-studio-and-its-comprehensive-lut-support/"><u>In 2024, Visual Perfection with OBS Studio and Its Comprehensive LUT Support</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-efficiency-a-comprehensive-guide-to-tools-and-strategies-for-optimizing-daily-workflow-zdnet/"><u>Mastering Efficiency: A Comprehensive Guide to Tools & Strategies for Optimizing Daily Workflow | ZDNet</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/steps-for-increasing-or-decreasing-loudness-in-multimedia-files-for-2024/"><u>Steps for Increasing or Decreasing Loudness in Multimedia Files for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-the-finest-magsafe-wallets-of-2024-meticulously-evaluated/"><u>Ultimate Guide to the Finest MagSafe Wallets of 2024, Meticulously Evaluated</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unleashing-the-full-power-of-the-m4-ipad-pro-how-ai-innovations-at-apples-worldwide-developers-conference-will-shape-its-future/"><u>Unleashing the Full Power of the M4 iPad Pro: How AI Innovations at Apple's Worldwide Developers Conference Will Shape Its Future</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-quick-lenovo-screen-capture-tips/"><u>[New] 2024 Approved Quick Lenovo Screen Capture Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-artisans-guide-to-backdrop-free-image-perfection-with-photopea/"><u>[Updated] The Artisan's Guide to Backdrop-Free Image Perfection with Photopea</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-cinematic-clarity-hub-query-responses/"><u>2024 Approved Cinematic Clarity Hub Query Responses</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-present-day-vr-tech-diary/"><u>2024 Approved Present-Day VR Tech Diary</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-windows-discord-speed-a-step-by-step-guide/"><u>Boosting Windows Discord Speed: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comparing-iphone-15-pro-and-iphone-13-pro-is-it-time-for-an-upgrade-zdnet/"><u>Comparing iPhone 15 Pro and iPhone 13 Pro: Is It Time for an Upgrade? | ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-apples-airtag-bargain-get-a-4-pack-for-less-from-walmart-on-labor-day-save-big-now/"><u>Discover Apple's AirTag Bargain: Get a 4-Pack for Less From Walmart on Labor Day! - Save Big Now</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-the-heimvision-a8s-alarm-clock-innovative-morning-rituals-through-advanced-light-technology/"><u>Evaluating the HeimVision A8s Alarm Clock: Innovative Morning Rituals Through Advanced Light Technology</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ipad-creatives-battle-comparing-performance-of-apple-pencil-pro-and-apple-pencil-2-find-out-which-one-suits-you-better/"><u>IPad Creatives Battle: Comparing Performance of Apple Pencil Pro and Apple Pencil 2 - Find Out Which One Suits You Better</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/master-boot-record-mbr-reparatur-professionelle-methoden-zur-datenwiederherstellung-mit-myrecover/"><u>Master Boot Record (MBR) Reparatur: Professionelle Methoden Zur Datenwiederherstellung Mit MyRecover</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-tech-face-off-begins-how-dysons-latest-ontrac-headphones-could-eclipse-the-dominance-of-airpod-maxes/"><u>The Tech Face-Off Begins: How Dyson's Latest OnTrac Headphones Could Eclipse the Dominance of AirPod Maxes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-strategy-for-a-productive-home-office-using-the-ipad-pro-insights/"><u>The Ultimate Strategy for a Productive Home Office Using the iPad Pro, Insights</u></a></li>
 </ul></div>
 
