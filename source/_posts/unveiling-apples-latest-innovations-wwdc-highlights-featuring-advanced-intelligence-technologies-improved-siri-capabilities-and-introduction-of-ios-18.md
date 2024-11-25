@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Apple's Latest Innovations: WWDC Highlights Featuring Advanced Intelligence Technologies, Improved Siri Capabilities and Introduction of iOS 18"
-date: 2024-11-11T03:40:53.236Z
-updated: 2024-11-15T17:48:38.908Z
+date: 2024-11-19T16:00:16.160Z
+updated: 2024-11-25T16:00:11.440Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is expected at WWDC 2024?
 
 WWDC is typically the event in which Apple takes the wraps off the next major versions of its assorted operating systems. That means we should anticipate demos of iOS 18, iPadOS 18, MacOS 15, WatchOS 11, tvOS 18, and VisionOS 2.0\. 
@@ -49,10 +53,7 @@ The event provides developers with access to experts, along with highlights of n
 "We're so excited to connect with developers from around the world for an extraordinary week of technology and community at WWDC24," Susan Prescott, Apple's VP of Worldwide Developer Relations, said in a news release. "WWDC is all about sharing new ideas and providing our amazing developers with innovative tools and resources to help them make something even more wonderful." 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. You'll be hearing AI (or Apple Intelligence) a lot
@@ -72,10 +73,7 @@ Apple has also allegedly been seeking a partner for outside help, possibly teami
 More recently, rumors have suggested that some new AI features will include more intelligent and helpful searches in Safari, AI-generated emojis based on conversations in Messages, and an AI-powered [photo editing app](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/) similar to Google's Magic Eraser. It's worth noting that such features are believed to only function on the more recent Apple products, including the iPhone 15 Pro with its A17 Pro chip and M-series iPads and MacBooks.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Don't forget the other acronym: RCS
@@ -89,10 +87,7 @@ To the surprise of many, except for the European Commission, Apple [announced la
 The decision to bring RCS to the iPhone came after mounting pressure from the European Union's Digital Markets Act (DMA), which stressed cross-platform compatibility. While a more [recent statement from Google](https://www.zdnet.com/article/google-seems-to-have-leaked-apples-timeframe-for-bringing-rcs-to-the-iphone/) suggested that Apple would integrate RCS later this fall, highlighting the transition at WWDC could potentially help Apple's defense against the [DOJ's antitrust lawsuit](https://x.com/getpeid/status/1798369533889302576), filed in March. Regardless of when and how Apple chooses to announce the new feature, it'll be big news for both iOS and Android users.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. MacOS 15, iPadOS 18, WatchOS 11, VisionOS 2, tvOS 18
@@ -133,19 +128,24 @@ As for [VisionOS](https://www.zdnet.com/article/10-things-id-like-to-see-in-visi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/xperts-at-work-swift-professional-thumbnails-for-valorant-highlights/"><u>[New] Experts at Work Swift, Professional Thumbnails for Valorant Highlights</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-gameplay-transformations-roguelikes-vs-roguiles/"><u>[New] Gameplay Transformations Roguelikes Vs. Roguiles</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-audio-calls-tracker-iphone-voice-memo/"><u>[New] In 2024, Audio Calls Tracker IPhone Voice Memo</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-popularitys-palette-ig-story-filter-guide-for-2024/"><u>[New] Popularity's Palette IG Story Filter Guide for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-complete-guide-to-record-google-meet-for-free-as-hostpaticipants/"><u>[Updated] 2024 Approved Complete Guide to Record Google Meet for Free [As Host/Paticipants]</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-video-revenue-battlefield-dm-versus-yo-analysis/"><u>[Updated] Video Revenue Battlefield Dm Versus Yo Analysis</u></a></li>
-<li><a href="https://win-dash.techidaily.com/access-free-radeon-graphics-driver-software-for-amd-under-windows-8/"><u>Access Free Radeon Graphics Driver Software for AMD Under Windows 8</u></a></li>
-<li><a href="https://program-issues.techidaily.com/beat-saber-troubles-heres-how-to-prevent-unexpected-game-shutdowns/"><u>Beat Saber Troubles? Here's How to Prevent Unexpected Game Shutdowns!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/beginning-on-the-right-foot-five-important-steps-for-new-computer-setup/"><u>Beginning on the Right Foot: Five Important Steps for New Computer Setup</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-d3dx925dll-file-not-found-a-comprehensive-guide/"><u>Resolving d3dx9_25.dll File Not Found: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-device-managers-code-eror-a-step-by-step-guide/"><u>Resolving Device Manager's Code Eror: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solution-guide-correcting-missing-jscriptdll-errors-on-your-pc/"><u>Solution Guide: Correcting Missing JScript.dll Errors on Your PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/uncover-the-premier-defense-ready-email-solutions-on-the-market/"><u>Uncover the Premier Defense-Ready Email Solutions on the Market</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-excitement-dive-into-the-details-of-samsungs-new-smartphone-line-up/"><u>Unveiling Excitement: Dive Into the Details of Samsung's New Smartphone Line-Up</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-ideal-screen-reporter-tech-boosting-youtubing-experience/"><u>[New] 2024 Approved Ideal Screen Reporter Tech Boosting YouTubing Experience</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ultivating-a-unique-vibe-in-your-own-mukbang-content/"><u>[New] Cultivating a Unique Vibe in Your Own Mukbang Content</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-inside-the-secrets-of-quantum-hdr-photography/"><u>[New] In 2024, Inside the Secrets of Quantum HDR Photography</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-quick-fix-mac-compatible-youtube-video-resize/"><u>[Updated] In 2024, Quick Fix Mac-Compatible YouTube Video Resize</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-easy-steps-to-youtubing-prosperity-channel-size-not-a-barrier/"><u>2024 Approved Easy Steps to Youtubing Prosperity Channel Size Not a Barrier</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bypassed-the-problem-successfully-logging-into-steam-now/"><u>Bypassed the Problem: Successfully Logging Into Steam Now</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ensuring-reliable-voice-calls-tips-for-samsung-galaxy-watch-users/"><u>Ensuring Reliable Voice Calls: Tips for Samsung Galaxy Watch Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-scavengers-crashes-on-your-windows-pc/"><u>How To Fix Scavengers Crashes on Your Windows PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-improve-your-digital-television-signal-using-an-indoor-antenna/"><u>How to Improve Your Digital Television Signal Using an Indoor Antenna</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-sony-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Sony Phones</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/kyocera-printer-support-step-by-step-driver-downloads-and-installation-for-windows-systems/"><u>KYOCERA Printer Support: Step-by-Step Driver Downloads & Installation for Windows Systems</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ning-share-youtube-playlist-hacks/"><u>Lightning Share YouTube Playlist Hacks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-cache-deletion-a-complete-walkthrough-for-major-browsers/"><u>Mastering Cache Deletion: A Complete Walkthrough for Major Browsers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/must-have-educational-gadgets-the-ultimate-list-of-tech-supplies-for-pupils/"><u>Must-Have Educational Gadgets: The Ultimate List of Tech Supplies for Pupils</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolve-rpcrt4dll-not-detected-problems-with-these-steps/"><u>Resolve Rpcrt4.dll Not Detected Problems with These Steps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-creating-your-new-xaccount/"><u>Step-by-Step Guide: Creating Your New @XAccount</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-5-non-root-auto-clickers-for-android-devices/"><u>Top 5 Non-Root Auto Clickers for Android Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-tactics-to-overcome-compatibility-hurdles-in-realtek-universal-drivers/"><u>Top Tactics to Overcome Compatibility Hurdles in Realtek Universal Drivers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-constructing-your-own-diy-projector-screen/"><u>Ultimate Guide: Constructing Your Own DIY Projector Screen</u></a></li>
 </ul></div>
 

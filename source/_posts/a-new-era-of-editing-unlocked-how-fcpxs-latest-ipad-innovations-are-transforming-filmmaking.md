@@ -1,7 +1,7 @@
 ---
 title: "A New Era of Editing Unlocked: How FCPx's Latest iPad Innovations Are Transforming Filmmaking"
-date: 2024-11-12T23:17:00.655Z
-updated: 2024-11-15T19:33:27.955Z
+date: 2024-11-23T16:01:37.506Z
+updated: 2024-11-25T16:03:28.548Z
 tags:
   - apple
 categories:
@@ -32,6 +32,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What this means for the iPhone and Vision Pro
 
@@ -89,33 +93,21 @@ Apple tends to shy away from using buzzwords like 'AI' to describe its product f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-the-key-to-smooth-segments-crossfade-logic-pro-steps/"><u>[New] The Key to Smooth Segments Crossfade Logic Pro Steps</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/capture-perfection-the-best-live-stream-recorders-ranked-for-2024/"><u>Capture Perfection The Best Live Stream Recorders Ranked for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/capturing-content-live-review-of-premium-obs-options/"><u>Capturing Content Live Review of Premium OBS Options</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/connect-airpods-to-hp-pc-effortlessly-the-ultimate-how-to-tutorial/"><u>Connect AirPods to HP PC Effortlessly - The Ultimate How-To Tutorial</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/critical-analysis-of-the-pixel-slate-unraveling-chromeos-complications/"><u>Critical Analysis of the Pixel Slate: Unraveling ChromeOS Complications</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-top-10-fitness-journalling-apps-revolutionizing-workouts/"><u>Discover the Top 10 Fitness Journalling Apps Revolutionizing Workouts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/elevate-your-diary-habits-with-our-selection-of-the-best-journaling-apps/"><u>Elevate Your Diary Habits with Our Selection of the Best ✍️ Journaling Apps</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/enhance-presentations-with-background-music/"><u>Enhance Presentations with Background Music</u></a></li>
-<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-xiaomi-redmi-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-chatgpt-skyrocketed-to-fame-the-quintuple-of-reasons-for-its-rapid-expansion/"><u>How ChatGPT Skyrocketed to Fame: The Quintuple of Reasons for Its Rapid Expansion</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-oneplus-11-5g-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your OnePlus 11 5G FRP Locks</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-restoring-normal-functionality-from-a-black-screen-on-android/"><u>Troubleshooting Tips: Restoring Normal Functionality From a Black Screen on Android</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-the-cognitive-features-of-android-systems/"><u>Understanding the Cognitive Features of Android Systems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/x-men-movie-marathon-watch-them-all-in-ideal-order/"><u>X-Men Movie Marathon: Watch Them All in Ideal Order!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/xbox-game-pass-ultimate-unveiled-your-complete-guide-to-cloud-based-gaming/"><u>Xbox Game Pass Ultimate Unveiled: Your Complete Guide to Cloud-Based Gaming</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-unleashing-your-funny-bone-a-stepwise-guide-to-making-memes-on-9gag/"><u>[New] 2024 Approved Unleashing Your Funny Bone A Stepwise Guide to Making Memes on 9GAG</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-revolutionizing-videography-with-the-impressive-nikon-j5/"><u>[New] Revolutionizing Videography with the Impressive Nikon J5</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/tep-by-step-tutorial-broadcasting-360-video-on-youtube-live/"><u>[New] Step-by-Step Tutorial Broadcasting 360 Video on YouTube Live</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-solve-video-issues-in-facebook-chat-on-iosandroid-devices/"><u>2024 Approved Solve Video Issues in Facebook Chat on iOS/Android Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/cutting-through-pixels-disable-mouse-acceleration-in-5-simple-steps/"><u>Cutting Through Pixels: Disable Mouse Acceleration in 5 Simple Steps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/disabling-cortana-in-windows-10-your-ultimate-how-to-guide/"><u>Disabling Cortana in Windows 10 - Your Ultimate How-To Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-steps-for-taking-screenshots-on-your-windows-pc-fast-method/"><u>Easy Steps for Taking Screenshots on Your Windows PC - Fast Method</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-solutions-for-lowering-high-system-demands-on-modern-warfare/"><u>Effective Solutions for Lowering High System Demands on Modern Warfare</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effortless-yahoo-password-retrieval-a-step-by-step-guide/"><u>Effortless Yahoo Password Retrieval: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/examining-the-gaps-in-todays-vr-narratives-for-2024/"><u>Examining the Gaps in Today's VR Narratives for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-installing-and-enjoying-fallout-3-on-your-windows-10-machine/"><u>Guide: Installing and Enjoying Fallout 3 on Your Windows 10 Machine</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-and-when-should-you-utilize-the-reset-this-pc-feature-in-windows-10/"><u>How and When Should You Utilize the 'Reset This PC' Feature in Windows 10?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-many-attempts-to-unlock-iphone-14-pro-max-drfone-by-drfone-ios/"><u>How Many Attempts To Unlock iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-6-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock iPhone 6 Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-capture-audio-waveforms-and-vocal-tracks/"><u>In 2024, Capture Audio Waveforms & Vocal Tracks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/silent-streams-no-more-fixing-netflixs-sound-problem-with-simple-tips/"><u>Silent Streams No More - Fixing Netflix's Sound Problem with Simple Tips</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

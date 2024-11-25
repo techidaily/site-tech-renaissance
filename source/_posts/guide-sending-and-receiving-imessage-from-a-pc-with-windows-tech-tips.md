@@ -1,7 +1,7 @@
 ---
 title: "Guide: Sending & Receiving iMessage From a PC with Windows - Tech Tips"
-date: 2024-11-12T23:18:23.318Z
-updated: 2024-11-16T03:49:56.726Z
+date: 2024-11-18T16:03:34.082Z
+updated: 2024-11-25T16:01:24.436Z
 tags:
   - apple
 categories:
@@ -42,14 +42,11 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-## How to send and receive iMessages on Windows
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## How to send and receive iMessages on Windows
 
 ## Use Microsoft Phone Link
 
@@ -63,25 +60,11 @@ Next, confirm that you're running the latest version of Phone Link. To do this, 
 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Open Phone Link
 
 Click the Start button, go to All Apps, and select Phone Link from the list. The first screen prompts you to select your device. Click the button for iPhone.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Scan the QR codes
 
@@ -99,6 +82,10 @@ Your phone should ask if you want your PC to receive notifications from your iPh
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Run Phone Link
 
 The Phone Link welcome screen should appear on your PC and ask if you want to open the app each time you log into Windows. If you do, check the box.
@@ -111,18 +98,15 @@ To access your iPhone's text messages in Phone Link, tap the Messages heading at
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Start a new chat
 
 You can also start a new conversation. To do this, select one of your displayed contacts and then compose and send your text. To chat with someone else, click the New Message icon and type the name or phone number of the recipient. Compose and send your message.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Use Intel Unison
 
@@ -146,11 +130,19 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Launch the Windows Unison app
 
 At the "Let's get started" screen in the Windows Unison app, click the icon for "Send messages." 
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  4\. Go to the Messages screen
 
@@ -163,13 +155,6 @@ Screenshot by Lance Whitney/ZDNET
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -207,22 +192,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-amplify-iphone-film-and-photo-experience-with-extra-gear-for-2024/"><u>[New] Amplify iPhone Film & Photo Experience with Extra Gear for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-mastery-of-memes-how-to-download-twitters-animated-images/"><u>[Updated] In 2024, Mastery of Memes How to Download Twitter's Animated Images</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-zooms-auditory-masterclass-fine-tuning-for-impeccable-audio-for-2024/"><u>[Updated] Zoom's Auditory Masterclass Fine-Tuning for Impeccable Audio for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/cracking-the-code-to-your-vehicles-inbuilt-sound-system-access-codes/"><u>Cracking the Code to Your Vehicle's Inbuilt Sound System Access Codes</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/distinguishing-between-ev-types-bev-vs-phev-vs-fcev-vs-hybrid/"><u>Distinguishing Between EV Types: BEV vs PHEV vs FCEV vs Hybrid</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/facebook-marketplace-hurdles-understanding-visibility-issues-for-users/"><u>Facebook Marketplace Hurdles: Understanding Visibility Issues for Users</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/fraps-your-go-to-screen-recorder-for-2024/"><u>Fraps Your Go-To Screen Recorder for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/free-beats-await-you-uncover-the-ultimate-list-of-music-sites/"><u>Free Beats Await You: Uncover the Ultimate List of Music Sites</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-address-and-repair-cygwin1dll-file-not-detected-errors-successfully/"><u>How to Address and Repair cygwin1.dll File Not Detected Errors Successfully</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-guide-on-how-to-remove-apple-id-from-apple-iphone-13-mini-by-drfone-ios/"><u>In 2024, Guide on How To Remove Apple ID From Apple iPhone 13 mini</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-instagram-snaps-and-screens-a-selfie-credibility-primer/"><u>In 2024, Instagram Snaps & Screens - A Selfie Credibility Primer</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-vivo-y100i-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Vivo Y100i Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/msi-graphics-cards-free-download-for-optimal-windows-performance/"><u>MSI Graphics Cards - Free Download for Optimal Windows Performance</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/must-watch-max-original-shows-curated-by-us-whats-trending/"><u>Must-Watch Max Original Shows Curated by Us - What's Trending</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigating-the-choices-a-comprehensive-guide-to-ipad-pro-and-macbook-air-features/"><u>Navigating the Choices: A Comprehensive Guide to IPad Pro and MacBook Air Features</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-creators-toolkit-ranking-17-premier-graphic-design-applications/"><u>The Creator's Toolkit: Ranking 17 Premier Graphic Design Applications</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/troubleshooting-steps-for-saving-messages-with-chatgpt-a-comprehensive-overview/"><u>Troubleshooting Steps for Saving Messages with ChatGPT - A Comprehensive Overview</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-video-mastery-unlocked-the-top-5-online-techniques-to-shorten-vimeo-content/"><u>[New] In 2024, Video Mastery Unlocked The Top 5 Online Techniques to Shorten Vimeo Content</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solve-how-to-block-ads-in-firefox-quickly-and-easily/"><u>[Solve] How to Block Ads in Firefox | Quickly & Easily</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-step-towards-better-gameplay-replace-joy-con-joysticks/"><u>A Step Towards Better Gameplay: Replace Joy-Con Joysticks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-ways-to-prevent-your-mac-from-entering-sleep-mode/"><u>Effective Ways to Prevent Your Mac From Entering Sleep Mode</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-itel-s23-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Itel S23 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/should-you-trust-ai-like-chatgpt-and-bard-for-financial-advice/"><u>Should You Trust AI Like ChatGPT and Bard for Financial Advice?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solve-oculus-air-link-woes-expert-tips-for-a-smooth-windows-setup/"><u>Solve Oculus Air Link Woes: Expert Tips for a Smooth Windows Setup</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-activating-adobe-flash-player-in-chrome-firefox-opera-and-edge/"><u>Step-by-Step Guide: Activating Adobe Flash Player in Chrome, Firefox, Opera & Edge</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-mastering-cddvd-burning-with-windows-11/"><u>Step-by-Step Guide: Mastering CD/DVD Burning with Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-fix-for-cold-war-stuttering-and-frame-rate-drops-on-pc-expert-tips-and-tricks/"><u>The Ultimate Fix for Cold War Stuttering and Frame Rate Drops on PC: Expert Tips & Tricks</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ltimate-guide-to-designing-powerful-youtube-logos-for-2024/"><u>The Ultimate Guide to Designing Powerful YouTube Logos for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-and-fixing-blurred-image-problem-in-cyberpunk-2077-gameplay/"><u>Troubleshooting and Fixing Blurred Image Problem in Cyberpunk 2077 Gameplay</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-resolving-the-presence-of-hxtrexe-in-your-windows-10-system/"><u>Troubleshooting Guide: Resolving the Presence of hxtr.exe in Your Windows 10 System</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/unlock-your-apple-iphone-se-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>Unlock Your Apple iPhone SE in Minutes with ICCID Code Everything You Need to Know</u></a></li>
 </ul></div>
 

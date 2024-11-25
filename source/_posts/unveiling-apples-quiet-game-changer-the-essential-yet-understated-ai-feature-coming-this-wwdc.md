@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Apple's Quiet Game-Changer: The Essential yet Understated AI Feature Coming This WWDC"
-date: 2024-11-13T04:31:25.197Z
-updated: 2024-11-16T05:42:49.603Z
+date: 2024-11-23T16:03:23.424Z
+updated: 2024-11-25T16:00:25.461Z
 tags:
   - apple
 categories:
@@ -51,10 +51,7 @@ I don't recommend using Low Power Mode all day since it limits the functionality
 **Also:** [**Apple Watch Ultra 2 vs. Watch Ultra: Is it time to upgrade?**](https://www.zdnet.com/article/apple-watch-ultra-2-vs-ultra/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Disable cellular connectivity
@@ -66,10 +63,7 @@ If you have an Apple Watch with cellular connectivity, it's best to not use your
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Turn off background app refresh
@@ -90,13 +84,6 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Turn off irregular heart rate notifications
 
 With some of the newest Apple Watches, Apple includes a feature that can alert you when your heart rate is beating in irregular intervals and alert you when it may be atrial fibrillation. While that's nice to have for tracking your health over time, it means the heart rate sensor is constantly on collecting your heart rate, which isn't good for battery life.
@@ -111,6 +98,10 @@ When a notification comes in, it not only plays a "ding!" to alert you, it also 
 
 **Also:** [**Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11**](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Turn off Siri
 
 Ah, Siri. Many people swear by the voice assistant and use it daily to do things like check the weather, start a timer (or two), play some music, or start a workout. But if you're like me (and, presumably, many others), you don't touch Siri at all on your Apple Watch, and it's just sitting there wasting your battery, constantly listening to hear that magical phrase "Hey, Siri." In other words, you should turn it off.
@@ -119,6 +110,10 @@ Ah, Siri. Many people swear by the voice assistant and use it daily to do things
 
 Adrian Kingsley-Hughes/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Factory reset your Apple Watch (a.k.a. the last resort)
 
 I've heard from many folks who have faced issues with battery life on the Apple Watch that it's best to do a complete factory reset. Full disclosure: it's not going to work for everyone, but if you've exhausted every option on your Apple Watch to extend battery life, the battery is still healthy, and you don't want to upgrade, your best bet is to reset it and start from scratch. That way, you can set up your watch and, along the way, spot the app or service that drains your battery the most. It may also help clean up some of the system bloat in watchOS 10 that's led to poor efficiency on your watch.
@@ -126,10 +121,7 @@ I've heard from many folks who have faced issues with battery life on the Apple 
 **How to:** Go to Settings > General > Reset on your Apple Watch, then choose "Erase All Content and Settings." You won't have to disable Find My or get rid of your cellular plan since you'll be setting it up with your iPhone again, but if you want to get rid of absolutely everything, make sure you disable Find My and dump your cellular plan during the process.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test smartwatches
@@ -173,17 +165,24 @@ For a deeper look at our testing process, check out our comprehensive [smartwatc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-streamline-your-video-capture-with-macbook-cam-settings/"><u>[New] 2024 Approved Streamline Your Video Capture with MacBook Cam Settings</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ethodology-creating-life-changing-video-guides/"><u>[New] Methodology Creating Life-Changing Video Guides</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/aving-youtube-videos-a-legal-overview-for-2024/"><u>[New] Saving YouTube Videos A Legal Overview for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apple-watch-series-x-unveiled-anticipated-costs-launch-timeline-and-features-whats-next/"><u>Apple Watch Series X Unveiled: Anticipated Costs, Launch Timeline & Features – What's Next?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/catch-every-detail-watching-the-latest-samsung-unveiling-online/"><u>Catch Every Detail: Watching the Latest Samsung Unveiling Online</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-ways-to-record-and-send-voicemail-on-your-apple-device/"><u>Easy Ways to Record and Send Voicemail on Your Apple Device</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-realme-11-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Realme 11 5G by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-pioneering-playgrounds-of-action-adventure-classics-top-10/"><u>In 2024, Pioneering Playgrounds of Action-Adventure Classics (Top 10)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722127092657-multiple-languages-support/"><u>Multiple Languages Support</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ordering-your-star-wars-adventure-a-step-by-step-disneyplus-tutorial/"><u>Ordering Your Star Wars Adventure: A Step-by-Step Disney+ Tutorial</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-for-fixing-vertical-streaks-on-a-samsung-tv-set/"><u>Step-by-Step Tutorial for Fixing Vertical Streaks on a Samsung TV Set</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/veelvoulend-online-swf-naar-gif-bewerkt-mooie-gratuite-konvertor-met-movavi/"><u>Veelvoulend Online SWF Naar GIF Bewerkt - Mooie Gratuite Konvertor Met Movavi</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-maximize-gaming-essential-tips-and-picks-for-the-best-monitors-for-xbox-series-x/"><u>[New] 2024 Approved Maximize Gaming - Essential Tips & Picks for the Best Monitors for Xbox Series X</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/1-come-recuperare-le-foto-di-sistema-dal-tuo-disco-rigido-esterno/"><u>1. Come Recuperare Le Foto Di Sistema Dal Tuo Disco Rigido Esterno?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-advice-setting-up-your-apple-homepod-with-your-television-easily/"><u>Expert Advice: Setting Up Your Apple HomePod with Your Television Easily</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fix-your-vpn-connection-solutions-to-clientserver-side-error-800-issues/"><u>Fix Your VPN Connection: Solutions to Client/Server-Side Error 800 Issues</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-updated-inquiry-collection-for-podcast-appeal/"><u>In 2024, Updated Inquiry Collection for Podcast Appeal</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/newly-updated-netgear-device-login-codes-july-2024-edition/"><u>Newly Updated NETGEAR Device Login Codes (July 2024 Edition)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/online-slot-scanner-summary/"><u>ONLINE SLOT SCANNER SUMMARY</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/seamless-listening-the-ipodcast-guidebook/"><u>Seamless Listening The iPodcast Guidebook</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-mystery-resolving-missing-shell32dll-file-error/"><u>Solving the Mystery: Resolving Missing shell32.dll File Error</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/stepping-into-tomorrow-the-power-of-verizons-5g-connectivity/"><u>Stepping Into Tomorrow: The Power of Verizon's 5G Connectivity</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/taylor-swift-movie-lineup-a-step-by-step-viewing-guide/"><u>Taylor Swift Movie Lineup: A Step-by-Step Viewing Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-genesis-of-netflix-how-the-popular-streaming-platform-started-with-dvd-deliveries/"><u>The Genesis of Netflix: How the Popular Streaming Platform Started with DVD Deliveries</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-route-to-rejuvenate-and-refine-your-vhs-collection-online/"><u>The Ultimate Route to Rejuvenate and Refine Your VHS Collection Online</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/twitreact-wisdom-a-complete-reference-book-for-2024/"><u>TwitReact Wisdom A Complete Reference Book for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-the-502-bad-gateway-mistake-and-solutions/"><u>Understanding the 502 Bad Gateway Mistake & Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-networking-secrets-your-guide-to-joining-and-contributing-to-twitter-dialogues/"><u>Unlocking Networking Secrets: Your Guide to Joining and Contributing to Twitter Dialogues</u></a></li>
+<li><a href="https://fox-info.techidaily.com/unveiling-the-secrets-of-movie-maker-on-windows-8-for-2024/"><u>Unveiling the Secrets of Movie Maker on Windows 8 for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-macos-video-editing-studio-create-stunning-videos/"><u>Updated 2024 Approved MacOS Video Editing Studio Create Stunning Videos</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/1726224009566-wmawebm-movavi/"><u>WMA/WEBM 파일을 원격으로 무료 대체 - Movavi 소프트</u></a></li>
 </ul></div>
 

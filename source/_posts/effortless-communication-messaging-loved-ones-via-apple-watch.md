@@ -1,7 +1,7 @@
 ---
 title: "Effortless Communication: Messaging Loved Ones via Apple Watch"
-date: 2024-11-14T21:33:47.024Z
-updated: 2024-11-16T05:37:35.578Z
+date: 2024-11-24T16:00:31.081Z
+updated: 2024-11-25T16:00:47.322Z
 tags:
   - apple
 categories:
@@ -26,9 +26,17 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to check in with a friend or family member from your Apple Watch
 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Update your devices
 
@@ -41,10 +49,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Send the default Check In through the Messages app
@@ -70,10 +75,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. View the actual Check in alert
@@ -99,16 +101,7 @@ To further customize the Check In, tap the Edit button at the Check In screen. T
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Add a destination and send the text
@@ -124,13 +117,6 @@ Screenshot by Lance Whitney/ZDNET
 Maybe you're working out at the gym or at home and want to let someone know when you've finished. You can do this a couple of ways. In the Messages app on your watch, start or continue a conversation with the recipient. Tap the Add icon, select Check In, and then tap Edit. Tap the option for Check In and change it to "When workout ends." Start your workout. When you're done, swipe the screen to the right and tap End. The other person will then receive the notification.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
 
@@ -168,18 +154,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-visual-brilliance-the-ultimate-10-list-for-mac-monitors-for-2024/"><u>[New] Visual Brilliance The Ultimate #10 List for Mac Monitors for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-leading-edge-headsets-for-drone-vr-use/"><u>[Updated] 2024 Approved Leading Edge Headsets for Drone VR Use</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-from-flat-to-fantastic-animated-text-transformations/"><u>[Updated] From Flat to Fantastic Animated Text Transformations</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-top-rated-5-web-videography-editing-suites/"><u>[Updated] Top-Rated 5 Web Videography Editing Suites</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/a-step-by-step-approach-to-text-communication-from-an-ipad-device/"><u>A Step-by-Step Approach to Text Communication From an iPad Device</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/crafting-uncomfortable-brews-in-minecraft-a-step-by-step-guide/"><u>Crafting Uncomfortable Brews in Minecraft: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-tips-on-handling-errors-when-winhttpdll-cannot-be-found-or-is-absent/"><u>Expert Tips on Handling Errors When Winhttp.dll Cannot Be Found or Is Absent</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-samsung-galaxy-m34-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Samsung Galaxy M34 to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-samsung-galaxy-a14-4g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Samsung Galaxy A14 4G | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-5-essential-steps-for-setting-up-your-new-pc/"><u>Top 5 Essential Steps for Setting Up Your New PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-ending-edge-browser-failures-on-windows-10/"><u>Troubleshooting Steps: Ending Edge Browser Failures on Windows 10</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlocking-smart-home-potential-how-to-customize-and-code-a-multi-device-universal-remote/"><u>Unlocking Smart Home Potential: How To Customize and Code a Multi-Device Universal Remote</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unseen-marvels-of-vr-elite-headset-comparisons-for-2024/"><u>Unseen Marvels of VR Elite Headset Comparisons for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-harnessing-the-power-of-instagrams-video-connectivity/"><u>[Updated] Harnessing the Power of Instagram's Video Connectivity</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-monitor-mastery-understanding-the-benefits-of-ultrawide-vs-uhd-4k-for-2024/"><u>[Updated] Monitor Mastery Understanding the Benefits of UltraWide vs UHD 4K for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-unite-film-selections-with-playlist-accumulation/"><u>2024 Approved Unite Film Selections with Playlist Accumulation</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/checking-in-is-psn-experiencing-downtime-or-are-connection-issues-on-your-end/"><u>Checking In: Is PSN Experiencing Downtime or Are Connection Issues on Your End?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/deciphering-the-buzz-around-googles-pixel-watch-gen-3-estimated-price-tag-release-date-and-gadget-specs-revealed-in-leaks/"><u>Deciphering the Buzz Around Google's Pixel Watch Gen 3: Estimated Price Tag, Release Date & Gadget Specs Revealed in Leaks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-solutions-to-rectify-distorted-or-no-output-on-your-iphones-speakers/"><u>DIY Solutions to Rectify Distorted or No Output on Your iPhone's Speakers</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-avi-video-rotators-a-roundup-of-the-best-tools-for-all-platforms-for-2024/"><u>Free AVI Video Rotators A Roundup of the Best Tools for All Platforms for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-can-switching-to-an-rtx-gpu-improve-your-pc-experience/"><u>How Can Switching to an RTX GPU Improve Your PC Experience?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/pixel-smartwatch-3-foretelling-of-costs-expected-launch-date-specs-and-latest-rumors-explained/"><u>Pixel Smartwatch 3 - Foretelling of Costs, Expected Launch Date, Specs & Latest Rumors Explained</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-windows-recovery-issues-the-ultimate-guide/"><u>Resolving Windows Recovery Issues: The Ultimate Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/safety-of-third-party-integrations-for-ai-model-chatgpt-what-you-need-to-know/"><u>Safety of Third-Party Integrations for AI Model ChatGPT: What You Need To Know</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-composing-and-sharing-imessage-voice-notes/"><u>Step-by-Step Tutorial: Composing and Sharing iMessage Voice Notes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-next-big-thing-an-insight-into-the-latest-apple-iphone-introduction/"><u>The Next Big Thing: An Insight Into the Latest Apple iPhone Introduction</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Nubia Red Magic 8S Pro+? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For HTC U23 Pro | Dr.fone</u></a></li>
 </ul></div>
 

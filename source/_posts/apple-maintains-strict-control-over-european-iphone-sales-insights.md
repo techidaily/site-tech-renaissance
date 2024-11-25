@@ -1,7 +1,7 @@
 ---
 title: "Apple Maintains Strict Control Over European iPhone Sales: Insights"
-date: 2024-11-13T03:04:12.866Z
-updated: 2024-11-16T01:45:16.263Z
+date: 2024-11-24T16:05:54.515Z
+updated: 2024-11-25T16:06:55.667Z
 tags:
   - apple
 categories:
@@ -28,13 +28,14 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -52,10 +53,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -64,18 +62,15 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -92,10 +87,7 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -134,24 +126,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/updated-augmented-reality-and-vr-navigating-2023s-content-on-android/"><u>[Updated] Augmented Reality & VR Navigating 2023'S Content on Android</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-platform-prowess-at-play-twitch-vs-youtube-clash/"><u>2024 Approved Platform Prowess at Play Twitch vs YouTube Clash</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-honor-x50i-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Honor X50i without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/buy-movavi-imagix-photo-editor-now-upgrade-your-editing-skills-instantly/"><u>Buy Movavi Imagix Photo Editor Now – Upgrade Your Editing Skills Instantly</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-troubleshooting-putting-broken-laptop-key-switches-back-in-place/"><u>Easy Troubleshooting: Putting Broken Laptop Key Switches Back in Place</u></a></li>
-<li><a href="https://games-able.techidaily.com/effortless-access-to-nostalgia-classic-games-new-tech-pc/"><u>Effortless Access to Nostalgia: Classic Games, New Tech (PC)</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-tips-for-capturing-stunning-images-with-your-idevice-camera/"><u>Expert Tips for Capturing Stunning Images with Your iDevice Camera</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/get-your-free-iphone-user-guides-downloaded-here-every-version-included/"><u>Get Your Free iPhone User Guides Downloaded Here – Every Version Included</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-11-best-location-changers-for-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Motorola Moto G23 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Honor 70 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-multi-pin-drops-a-step-by-step-guide-for-google-maps/"><u>Mastering Multi-Pin Drops: A Step-by-Step Guide for Google Maps</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-correct-chronology-for-enjoying-every-episode-of-dragon-ball-a-watchers-guide/"><u>The Correct Chronology for Enjoying Every Episode of Dragon Ball - A Watcher's Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-most-effective-multi-person-video-call-applications/"><u>The Most Effective Multi-Person Video Call Applications</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-altering-your-handheld-gps-trackers-coordinates-safely-and-effectively/"><u>The Ultimate Guide to Altering Your Handheld GPS Tracker’s Coordinates Safely and Effectively</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-7-unique-notetaking-applications-for-apples-ipad-and-ipad-pro/"><u>Top 7 Unique Notetaking Applications for Apple's iPad & iPad Pro</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-and-resolving-in-page-kernel-memory-problems/"><u>Troubleshooting and Resolving In-Page Kernel Memory Problems</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-high-resource-use-in-cyberpunk-2077-gameplay/"><u>Troubleshooting High Resource Use in Cyberpunk 2077 Gameplay</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unveiling-the-immersive-era-vrs-progress-and-upcoming-struggles/"><u>Unveiling the Immersive Era VR's Progress & Upcoming Struggles</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211439104--witchcraft/"><u>Witchcraft | Free Book</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-navigating-common-youtube-short-glitches/"><u>[New] Navigating Common YouTube Short Glitches</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-earn-on-youtube-decoding-recent-policy-changes/"><u>[Updated] Earn on YouTube Decoding Recent Policy Changes</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-high-tech-5-live-screen-recorders-for-2024/"><u>[Updated] High-Tech 5 Live Screen Recorders for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-innovating-visual-storytelling-utilizing-dslr-for-facebook-live-through-personal-devices/"><u>[Updated] In 2024, Innovating Visual Storytelling Utilizing DSLR for Facebook LIVE Through Personal Devices</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-5-free-and-effective-online-tools-to-convert-avi-files-into-mp4-format/"><u>Best 5 FREE and Effective Online Tools to Convert AVI Files Into MP4 Format</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-photo-layouts-in-your-insta-feed-ultimate-tips-and-tricks/"><u>Complete Photo Layouts in Your Insta Feed: Ultimate Tips & Tricks</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquering-stutter-in-borderlands-triumphant-a-comprehensive-fix-guide/"><u>Conquering Stutter in Borderlands Triumphant - A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/electric-vehicle-durability-debate-are-they-as-resilient-as-combustion-engine-cars/"><u>Electric Vehicle Durability Debate - Are They as Resilient as Combustion Engine Cars?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exclusive-verizon-upgrade-promotions-for-current-customers/"><u>Exclusive Verizon Upgrade Promotions for Current Customers</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-13-with-a-mask-on-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 with a Mask On</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-oppo-a2-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Oppo A2 Lock Screen Password?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-the-apple-iphone-15-sim-lock-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock The Apple iPhone 15 SIM Lock 4 Easy Methods</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/samsungs-latest-marvel-galaxy-z-fold-6-specs-news-and-availability-date-revealed/"><u>Samsung's Latest Marvel: Galaxy Z Fold 6 Specs, News, and Availability Date Revealed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-5-safe-and-reliable-email-providers-for-enhanced-security/"><u>Top 5 Safe and Reliable Email Providers for Enhanced Security</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-the-distinctions-cat5-vs-cat6-networking-cables-explained/"><u>Understanding the Distinctions: Cat5 Vs. Cat6 Networking Cables Explained</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-the-full-potential-of-your-ipad-with-ipados-1nvite-to-version-18-complimentary-upgrade-release-calendar-and-feature-spotlights/"><u>Unlock the Full Potential of Your iPad with IPadOS 1Nvite to Version 18 - Complimentary Upgrade, Release Calendar & Feature Spotlights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/watching-3d-films-from-home-a-comprehensive-guide-using-fandango/"><u>Watching 3D Films From Home: A Comprehensive Guide Using Fandango</u></a></li>
 </ul></div>
 

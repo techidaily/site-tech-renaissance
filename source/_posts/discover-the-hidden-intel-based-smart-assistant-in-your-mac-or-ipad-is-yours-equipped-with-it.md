@@ -1,7 +1,7 @@
 ---
 title: Discover the Hidden Intel-Based Smart Assistant in Your Mac or iPad – Is Yours Equipped with It?
-date: 2024-11-08T22:07:30.960Z
-updated: 2024-11-16T02:35:32.575Z
+date: 2024-11-20T16:02:23.831Z
+updated: 2024-11-25T16:00:31.436Z
 tags:
   - apple
 categories:
@@ -28,13 +28,25 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to customize your iPhone's new Control Center with iOS 18
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -45,10 +57,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -57,25 +66,11 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -85,18 +80,15 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -134,20 +126,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-keeping-up-with-aspect-ratios-for-twitter-content/"><u>[New] In 2024, Keeping Up with Aspect Ratios for Twitter Content</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-unlock-3d-text-magic-with-adobes-creative-suite/"><u>[New] Unlock 3D Text Magic with Adobe's Creative Suite</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/cifre-e-parole-unisciamo-la-comunicazione-con-i-numeri-italiani/"><u>Cifre E Parole - Unisciamo La Comunicazione Con I Numeri Italiani</u></a></li>
-<li><a href="https://win-studio.techidaily.com/comment-resoudre-les-problemes-dutilisation-de-acronis-true-image-avec-lediteur-wd-et-la-fonction-ne-pas-cloner/"><u>Comment Résoudre Les Problèmes D'utilisation De Acronis True Image Avec L'éditeur WD Et La Fonction 'Ne Pas Cloner'?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-leading-technological-advancements-to-keep-an-eye-on/"><u>Discover the Leading Technological Advancements to Keep an Eye On</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/error-free-computing-how-to-handle-fm20dll-not-found-issues/"><u>Error-Free Computing: How to Handle fm20.dll Not Found Issues</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-tips-clearing-space-by-deleting-apps-on-your-samsung-smart-tv/"><u>Expert Tips: Clearing Space By Deleting Apps on Your Samsung Smart TV</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-lava-blaze-2-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Lava Blaze 2 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/installing-the-cyanfluence-extension-in-kodi-19-matrix-a-comprehensive-tutorial/"><u>Installing the Cyanfluence Extension in Kodi 19 Matrix - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-connectivity-hurdles-iphone-not-detected-by-itunes-on-your-pc-with-windows-10/"><u>Overcoming Connectivity Hurdles: IPhone Not Detected by iTunes on Your PC with Windows 10</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/quick-fixes-for-the-jvmdll-error-that-just-wont-go-away/"><u>Quick Fixes for the JVM.dll Error That Just Won’t Go Away</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-ipad-offers-grab-them-before-theyre-gone/"><u>Top-Rated iPad Offers - Grab Them Before They're Gone!</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/tweeting-and-tumbling-sharing-videos-seamlessly/"><u>Tweeting & Tumbling Sharing Videos Seamlessly</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveil-a-crystal-clear-view-effective-ways-to-purify-and-polish-your-lcd-or-led-tv/"><u>Unveil a Crystal Clear View: Effective Ways to Purify and Polish Your LCD or LED TV</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722890183850-upcoming-android-16-release-leaked-details-on-pricing-launch-date-and-specs-stay-ahead-of-the-curve/"><u>Upcoming Android 16 Release: Leaked Details on Pricing, Launch Date & Specs - Stay Ahead of the Curve</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-a-jargon-primer-for-virtual-experiences/"><u>[New] In 2024, A Jargon Primer for Virtual Experiences</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-modifying-facial-gender-on-snapchatinstagramfacebook-photos/"><u>[New] In 2024, Modifying Facial Gender on Snapchat/Instagram/Facebook Photos</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-stepwise-strategies-to-perfect-youtube-trailers-by-filmora/"><u>[New] In 2024, Stepwise Strategies to Perfect YouTube Trailers by Filmora</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-creating-immersive-experiences-best-practices-for-vr-filming-top-9-for-2024/"><u>[Updated] Creating Immersive Experiences Best Practices for VR Filming (Top 9) for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovate-and-create-chrome-oss-10-best-sketches-tools/"><u>2024 Approved Innovate and Create Chrome OS's 10 Best Sketches Tools</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/asus-aura-launcher-v3-free-download-guide-and-compatibility-with-windows-11/"><u>ASUS Aura Launcher v3: Free Download Guide & Compatibility with Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/boosting-boot-velocity-on-windows-10-top-tips-and-tricks/"><u>Boosting Boot Velocity on Windows 10 - Top Tips and Tricks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/common-logitech-mouse-malfunctions-on-windows-11-pcs-heres-how-to-get-them-working-again/"><u>Common Logitech Mouse Malfunctions on Windows 11 PCs? Here's How to Get Them Working Again</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/common-troubleshooting-tips-when-your-logitech-mouse-fails-to-work-on-windows-10/"><u>Common Troubleshooting Tips When Your Logitech Mouse Fails to Work on Windows 10</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-samsung-galaxy-a15-4g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Samsung Galaxy A15 4G Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1723808255967-discover-your-motherboard-type-with-simple-steps/"><u>Discover Your Motherboard Type with Simple Steps!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1723808305695-effortless-call-blocking-techniques-master-the-art-of-silencing-intruders-on-iphone-and-android/"><u>Effortless Call-Blocking Techniques: Master the Art of Silencing Intruders on iPhone and Android</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-appeal-of-chatgpt-to-malicious-online-entities/"><u>Exploring the Appeal of ChatGPT to Malicious Online Entities</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/feast-your-senses-15-must-try-tiktok-meal-ideas-for-2024/"><u>Feast Your Senses 15 Must-Try TikTok Meal Ideas for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1723808333512-how-to-get-help-in-windows-10-easily/"><u>How to Get Help in Windows 10. Easily</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-zte-nubia-flip-5g-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove ZTE Nubia Flip 5G Fingerprint Lock</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1723808227723-mp3ize-your-soundcloud-music-effortlessly-top-tips-and-tricks-revealed/"><u>MP3ize Your SoundCloud Music Effortlessly - Top Tips and Tricks Revealed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1723808208828-pc-survival-tactics-a-beginners-handbook-to-jump-into-fortnite-action/"><u>PC Survival Tactics: A Beginner’s Handbook to Jump Into Fortnite Action</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-choosing-best-gaming-motherboards-in-2e3-sockets-and-chipsets-explained/"><u>Ultimate Guide to Choosing Best Gaming Motherboards in 2E3 - Sockets and Chipsets Explained</u></a></li>
 </ul></div>
 

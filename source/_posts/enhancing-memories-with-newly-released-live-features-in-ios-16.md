@@ -1,7 +1,7 @@
 ---
 title: Enhancing Memories With Newly-Released Live Features in iOS 16
-date: 2024-09-09T15:47:18.172Z
-updated: 2024-09-10T15:47:18.172Z
+date: 2024-11-24T12:08:37.044Z
+updated: 2024-11-24T16:00:51.929Z
 categories:
   - BestProducts
 description: This Article Describes Enhancing Memories With Newly-Released Live Features in iOS 16
@@ -9,12 +9,6 @@ excerpt: This Article Describes Enhancing Memories With Newly-Released Live Feat
 thumbnail: https://www.lifewire.com/thmb/2quEB8nuOrsyyAweqvcHn4YXHhw=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/live-activities-230e9e18f42047949e9d3ab312ba932c.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Enhancing Memories With Newly-Released Live Features in iOS 16
 ### What to Know
 
@@ -23,12 +17,6 @@ thumbnail: https://www.lifewire.com/thmb/2quEB8nuOrsyyAweqvcHn4YXHhw=/540x405/fi
 
  This article explains what Live Activities are, how they differ on iPhones that offer the Dynamic Island, and provides step-by-step instructions to enable Live Activities.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Use Live Activities on iPhone (iOS 16)
 
  Live Activities provide a handy way to get at-a-glance information and features from compatible apps on your lock screen. With them, there's no need to unlock your iPhone or go into apps themselves.
@@ -41,21 +29,18 @@ thumbnail: https://www.lifewire.com/thmb/2quEB8nuOrsyyAweqvcHn4YXHhw=/540x405/fi
 2. Tap**Face ID & Passcode** .  
 ![The Settings app icon and Face ID settings item highlighted on an iPhone.](https://www.lifewire.com/thmb/EQiuop3tTn8NVJSUTvczFPG50hU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-UseLiveActivitiesoniPhone-annotated-d017d2ba138743388ab64f097ddfe818.jpeg)
 3. Enter your passcode.
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. In the**Allow Access when Locked** section, move the**Live Activities** slider to**on/green** .  
 ![An iPhone's passcode requested and Live Activities settings highlighted on an iPhone.](https://www.lifewire.com/thmb/WPWmHO77VZ9w8Z9n83qb2ESzdIY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A4-UseLiveActivitiesoniPhone-annotated-851f3c2f08934a27bcc5c71e8d91e21d.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Which Live Activities are available in your apps, and how you activate them, differs based on which apps you use. You can clear a Live Activity from your lock screen by swiping from right to left on it.
 
  On iPhones running iOS 16.2 and up, you can set Live Activities to update sports scores more frequently. First, enable this option in**Settings** \>**TV** \>**Live Activities** \> move to**on/green** the sliders for both**Allow Live Activities** and**More Frequent Updates** . Then, in the TV app, tap the game and, on its detail page, tap**Follow** . The Live Activity for that game on your lock screen is updated frequently.
@@ -69,11 +54,9 @@ thumbnail: https://www.lifewire.com/thmb/2quEB8nuOrsyyAweqvcHn4YXHhw=/540x405/fi
 ![Two examples (the timer and a sports score) of Live Activities on an iPhone lock screen.](https://www.lifewire.com/thmb/F7qAlcpaHoGypZ2a1E_kfeWc6dA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B1-UseLiveActivitiesoniPhone-annotated-b0c38245f36a419783db4085ca63fb00.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  As their name suggests, Live Activities are updated regularly and let you get important information with just a glance at your screen (great with the iPhone 14's always-on screen) and without opening an app.
 
  Think of them as being like[lock screen widgets](https://www.lifewire.com/customize-iphone-lockscreen-5443101) or[notifications](https://www.lifewire.com/notification-center-iphone-1999192) that update in close to real time and that you can interact with.
@@ -87,14 +70,16 @@ thumbnail: https://www.lifewire.com/thmb/2quEB8nuOrsyyAweqvcHn4YXHhw=/540x405/fi
 ![Examples of Live Activities on the lock screen and in the Dynamic Island.](https://www.lifewire.com/thmb/V-2k8wH_Idts_JUaWWAvgskSiAM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/C1-UseLiveActivitiesoniPhone-annotated-c36b823b25554946b7e02eb630ec2033.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  For example, when listening to a song in Music, the Dynamic Island shows a thumbnail of the album art for the song you're listening to and a tap takes you to the album in Music.
 
  In another example, a sports game that you're following shows the team logos and the current score in the Dynamic Island. When the game ends, the Dynamic Island expands to show the final.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Apps That Support Live Activities
 
@@ -137,8 +122,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +129,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-superior-hd-visual-capture-systems/"><u>[New] 2024 Approved Superior HD Visual Capture Systems</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/avigating-the-process-of-clearing-up-browsers-watched-videos-for-2024/"><u>[New] Navigating the Process of Clearing Up Browser's Watched Videos for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-pioneer-productions-leading-free-editors-on-android/"><u>[Updated] 2024 Approved Pioneer Productions Leading Free Editors on Android</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-engineering-a-touching-tiktok-conclusion/"><u>[Updated] Engineering a Touching TikTok Conclusion</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-convenient-ways-to-archive-your-insta-story/"><u>2024 Approved Convenient Ways to Archive Your Insta Story</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-virtual-venue-vaults-users/"><u>2024 Approved Virtual Venue Vaults Users</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-audio-adventure-oneplus-buds-reviewed/"><u>Affordable Audio Adventure: OnePlus Buds Reviewed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/declutter-your-desktop-on-macos-a-step-by-step-guide-to-automatically-hide-newly-opened-apps-using-stage-manager-features-zdnet/"><u>Declutter Your Desktop on macOS: A Step-by-Step Guide to Automatically Hide Newly Opened Apps Using Stage Manager Features | ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-apples-steeply-discounted-m2-mac-mini-at-just-479-insider-details-zdnet/"><u>Discover Apple's Steeply Discounted M2 Mac Mini at Just $479 - Insider Details [ZDNet]</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-tecno-spark-10-4g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Tecno Spark 10 4G For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solutions-for-correcting-permanent-display-images/"><u>Step-by-Step Solutions for Correcting Permanent Display Images</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-great-switch-apples-new-features-facilitate-moving-from-ios-devices-to-android-phones/"><u>The Great Switch: Apple's New Features Facilitate Moving From iOS Devices to Android Phones</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-importance-of-reducing-government-dependence-on-major-tech-firms-lessons-from-microsofts-recent-downtimes/"><u>The Importance of Reducing Government Dependence on Major Tech Firms: Lessons From Microsoft's Recent Downtimes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-apple-watch-models-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top-Rated Apple Watch Models : Comprehensive Reviews by Tech Gurus | ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-for-handling-the-not-found-msvcr80dll-error-on-your-pc/"><u>Troubleshooting Tips for Handling the Not Found Msvcr80.dll Error on Your PC</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-the-fcp-factor-10-blockbuster-movies-edited-with-final-cut-pro/"><u>Updated 2024 Approved The FCP Factor 10 Blockbuster Movies Edited with Final Cut Pro</u></a></li>
+</ul></div>
 

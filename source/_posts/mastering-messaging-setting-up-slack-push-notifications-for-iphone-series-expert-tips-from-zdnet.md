@@ -1,7 +1,7 @@
 ---
 title: "Mastering Messaging: Setting Up Slack Push Notifications for iPhone Series | Expert Tips From ZDNet"
-date: 2024-11-12T20:18:31.287Z
-updated: 2024-11-15T17:59:51.460Z
+date: 2024-11-24T16:01:27.390Z
+updated: 2024-11-25T16:03:31.497Z
 tags:
   - apple
 categories:
@@ -44,13 +44,6 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 
 ## How to send and receive iMessages on Windows
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Use Microsoft Phone Link
 
 Before you can use Phone Link, you'll have to take care of a few items on your phone and your PC.
@@ -64,16 +57,7 @@ Next, confirm that you're running the latest version of Phone Link. To do this, 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open Phone Link
@@ -92,13 +76,6 @@ You should see pairing prompts on both your iPhone and your Windows 11 computer.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Sync your iPhone data
 
 Your phone should ask if you want your PC to receive notifications from your iPhone. Tap Allow to OK this. Go to the Bluetooth settings screen on your phone, tap the Info icon for your computer, and turn on the switches for Show Notifications, Sync Contacts, and Share System Notifications. Doing so will let you fully access and use the apps and data from your phone on your PC, including messages.
@@ -116,6 +93,10 @@ Screenshot by Lance Whitney/ZDNET
 To access your iPhone's text messages in Phone Link, tap the Messages heading at the top. You should see any recent messages sent to you since Phone Link has been active. If there are any, type a response to a message and send it. You can then carry on a conversation from either your iPhone or your PC, and the two will sync with each other.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Start a new chat
 
@@ -145,6 +126,10 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Launch the Windows Unison app
 
 At the "Let's get started" screen in the Windows Unison app, click the icon for "Send messages." 
@@ -152,10 +137,7 @@ At the "Let's get started" screen in the Windows Unison app, click the icon for 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  4\. Go to the Messages screen
@@ -164,18 +146,15 @@ At the Messages screen, click the icon for "Compose a new message." Choose the r
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Send a message
 
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -213,16 +192,16 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-elevate-video-impact-proven-youtube-seo-methods/"><u>[New] 2024 Approved Elevate Video Impact Proven YouTube SEO Methods</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-chorus-and-content-music-magic-on-social-media-stories/"><u>[New] Chorus & Content Music Magic on Social Media Stories</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-high-tide-gear-surfing-camera-innovations-of-2023/"><u>[New] In 2024, High Tide Gear Surfing Camera Innovations of 2023</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-streamlining-the-demo-process-in-adobe-captivate/"><u>[New] In 2024, Streamlining the Demo Process in Adobe Captivate</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/a-breakdown-of-t-mobiles-intra-network-roaming-for-enhanced-mobile-experience/"><u>A Breakdown of T-Mobile's Intra-Network Roaming for Enhanced Mobile Experience</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/bing-deciphered-a-comprehensive-guide-to-microsofts-search-platform/"><u>Bing Deciphered: A Comprehensive Guide to Microsoft's Search Platform</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/diagnosing-and-repairing-a-non-responsive-roku-tv-screen/"><u>Diagnosing and Repairing a Non-Responsive Roku TV Screen</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-tips-for-planning-and-organizing-your-twitter-posts-in-advance/"><u>Expert Tips for Planning and Organizing Your Twitter Posts in Advance</u></a></li>
-<li><a href="https://fox-info.techidaily.com/exploring-the-technological-splendor-m1-pro-vs-m1-max/"><u>Exploring the Technological Splendor M1 Pro Vs. M1 Max</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-vivo-x90s-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Vivo X90S Phone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/identifying-inauthentic-connections-a-guide-to-detecting-false-friend-requests/"><u>Identifying Inauthentic Connections: A Guide to Detecting False Friend Requests</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-maximizing-view-count-secrets-to-staff-picks-on-vimeo/"><u>[New] In 2024, Maximizing View Count Secrets to Staff Picks on Vimeo</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-decoding-instagrams-maximum-video-duration-length-limit/"><u>[Updated] In 2024, Decoding Instagram’s Maximum Video Duration Length Limit</u></a></li>
+<li><a href="https://win-blog.techidaily.com/bypassing-stuck-screens-with-these-7-tricks-for-forza-horizon-5/"><u>Bypassing Stuck Screens with These 7 Tricks for Forza Horizon 5</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722894338376-comctl32dll-file-missing-heres-how-to-restore-it/"><u>Comctl32.dll File Missing? Here's How to Restore It</u></a></li>
+<li><a href="https://win-docs.techidaily.com/como-clonar-discos-seagate-con-software-gratis-para-transferir-datos-de-hdd-a-ssd/"><u>Cómo Clonar Discos Seagate Con Software Gratis Para Transferir Datos De HDD a SSD</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-tips-to-address-d3dx930dll-file-unavailability-errors/"><u>Comprehensive Tips to Address d3dx9_30.dll File Unavailability Errors</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-cutting-edge-devices-on-toms-tech-platform/"><u>Discover Cutting-Edge Devices on Tom's Tech Platform</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/effortless-conversion-techniques-from-myspace-tunes-to-mp3-files/"><u>Effortless Conversion Techniques From MySpace Tunes to MP3 Files</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-not-found-or-missing-mstdfmtdll-errors-for-windows-users/"><u>Fixing Not Found or Missing mstdfmt.dll Errors for Windows Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-enjoy-netflix-shows-and-movies-on-your-nintendo-switch/"><u>How to Enjoy Netflix Shows and Movies on Your Nintendo Switch</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
 </ul></div>
 

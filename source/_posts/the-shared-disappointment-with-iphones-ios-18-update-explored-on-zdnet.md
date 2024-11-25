@@ -1,7 +1,7 @@
 ---
 title: The Shared Disappointment with iPhone's iOS 18 Update Explored on ZDNet
-date: 2024-11-11T00:38:43.445Z
-updated: 2024-11-15T22:38:31.480Z
+date: 2024-11-24T16:02:06.748Z
+updated: 2024-11-25T16:03:07.412Z
 tags:
   - apple
 categories:
@@ -42,6 +42,10 @@ As someone who is not nearly an influencer but loves to use their imagination, I
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Video scroll bar and playback options
 
 Allison Jewell/ZDNET
@@ -59,10 +63,7 @@ When you do find the perfect take, the editing menu now allows an option to slow
 When viewing videos, the scroll bar automatically pops up. To access the playback options, select edit and then the clock icon at the top right corner. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Customizable layout with 'Recent Days'
@@ -82,10 +83,7 @@ For example, during the Apple launch, my phone was essentially exploding with co
 With customization, you can keep this collection at the top of your feed, or any other categories that would help you stay the most organized. Now I can pull content from a certain day without having to scroll all the way back, and hopefully it does the same for you.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Filter button
@@ -103,10 +101,7 @@ To narrow content more, you can also filter to favorites, previously edited cont
 And just with one slide up, it resets the filters. If you add the ability to organize your photos app to your liking, your photos app becomes so much more efficient.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Honorable mentions
@@ -117,10 +112,7 @@ And just with one slide up, it resets the filters. If you add the ability to org
 * A 'recovered' album in Utilities recovers corrupted images that were previously not visible.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which iPhones are compatible with iOS 18?
@@ -183,22 +175,20 @@ And just with one slide up, it resets the filters. If you add the ability to org
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-cross-service-playlist-migration-step-by-step-guide/"><u>[New] Mastering Cross-Service Playlist Migration Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/eb-integration-adding-youtube-playlists-easily/"><u>[New] Web Integration Adding YouTube Playlists Easily</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-are-instagrams-video-selfies-truly-genuine/"><u>[Updated] 2024 Approved Are Instagram's Video Selfies Truly Genuine?</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-enhance-videos-seamlessly-using-youtube-studio-editor/"><u>[Updated] Enhance Videos Seamlessly Using YouTube Studio Editor</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-top-10-audio-change-tools-enhancing-virtual-presence/"><u>2024 Approved Top 10 Audio Change Tools Enhancing Virtual Presence</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/decoding-the-hype-all-you-need-to-know-about-the-rumored-apple-watch-xs-tech-specs-price-point-and-arrival-date/"><u>Decoding the Hype: All You Need to Know About the Rumored Apple Watch X's Tech Specs, Price Point & Arrival Date</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-7-kid-friendly-online-gaming-options-today/"><u>Discover 7 Kid-Friendly Online Gaming Options Today!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/googles-next-big-thing-the-pixel-fold-2-revealed-price-predictions-release-schedule-and-exciting-rumored-features/"><u>Google's Next Big Thing: The Pixel Fold 2 Revealed! Price Predictions, Release Schedule & Exciting Rumored Features</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-quickly-fix-the-0x80n0f0922-error-during-windows-10-updates/"><u>How to Quickly Fix the 0X80n0f0922 Error During Windows 10 Updates</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-master-soft-edges-on-digital-images-mobilepc/"><u>In 2024, Master Soft Edges on Digital Images, Mobile/PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/james-bond-film-series-the-ultimate-viewing-guide-perfect-sequence/"><u>James Bond Film Series: The Ultimate Viewing Guide - Perfect Sequence</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-snapchat-through-your-computer-screen/"><u>Mastering Snapchat Through Your Computer Screen</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-fixes-for-lsa-errors-on-windows-pcs/"><u>Quick Fixes for LSA Errors on Windows PCs</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/simplifying-task-management-how-to-optimize-your-slack-alerts/"><u>Simplifying Task Management: How To Optimize Your Slack Alerts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/taylor-swift-on-screen-watch-them-all-in-proper-sequence/"><u>Taylor Swift on Screen: Watch Them All in Proper Sequence</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-micromobility-universe-key-events-breaking-news-speculations-and-more/"><u>The Micromobility Universe: Key Events, Breaking News, Speculations & More</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/turning-off-the-latest-iphones-tips-for-iphone-15-pro-and-pro-max-owners/"><u>Turning Off the Latest iPhones: Tips for iPhone 15 Pro & Pro Max Owners</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-how-can-i-stream-in-hd-1080p-on-facebook-for-2024/"><u>[Updated] How Can I Stream in HD 1080P on Facebook for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-fundamental-skills-for-producing-emotionally-driven-testimonials/"><u>2024 Approved Fundamental Skills for Producing Emotionally-Driven Testimonials</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1723808113704-dont-miss-out-grab-your-20-off-driver-easy-offer-with-the-official-coupon/"><u>Don't Miss Out: Grab Your 20% Off Driver Easy Offer with the Official Coupon !</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/educators-picks-top-5-multilingual-learning-apps/"><u>Educators' Picks: Top 5 Multilingual Learning Apps</u></a></li>
+<li><a href="https://blog-min.techidaily.com/guidelwartipstogetqualityvideosoninstagram/"><u>Guidelwartipstogetqualityvideosoninstagram.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-the-latest-iosipados-beta-version-on-iphone-11-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS/iPadOS Beta Version on iPhone 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/improving-performance-on-a-sluggish-iphone-identify-and-fix-these-e-6-problems/"><u>Improving Performance on a Sluggish iPhone: Identify & Fix These E 6 Problems</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-tecno-pop-8-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Tecno Pop 8</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lenovos-winning-formula-key-traits-that-satisfy-high-performance-needs-on-the-go/"><u>Lenovo's Winning Formula: Key Traits That Satisfy High-Performance Needs on the Go!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-the-secret-bring-back-your-missing-desktop-icons-with-these-simple-windows-10-solutions/"><u>Unlock the Secret: Bring Back Your Missing Desktop Icons with These Simple Windows 10 Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-the-secrets-of-ram-speed-a-comprehensive-tutorial-for-windows-users/"><u>Unlocking the Secrets of Ram Speed - A Comprehensive Tutorial for Windows Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unraveling-the-mystery-how-to-fix-unreal-engine-4s-pc-crash-issues/"><u>Unraveling the Mystery - How to Fix Unreal Engine 4'S PC Crash Issues</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/windows-11-running-slow-solved/"><u>Windows 11 Running Slow [SOLVED]</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/windows-11-troubleshooting-effective-solutions-for-defrosting-frozen-systems/"><u>Windows 11 Troubleshooting: Effective Solutions for Defrosting Frozen Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/wiring-basics-how-to-link-an-external-monitor-with-your-notebook/"><u>Wiring Basics: How to Link an External Monitor with Your Notebook</u></a></li>
 </ul></div>
 

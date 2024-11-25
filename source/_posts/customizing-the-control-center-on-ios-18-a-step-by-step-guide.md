@@ -1,7 +1,7 @@
 ---
 title: "Customizing the Control Center on iOS 18: A Step-by-Step Guide"
-date: 2024-11-10T00:34:16.272Z
-updated: 2024-11-16T04:28:16.748Z
+date: 2024-11-21T16:00:00.883Z
+updated: 2024-11-25T16:00:00.722Z
 tags:
   - apple
 categories:
@@ -36,6 +36,10 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Move the available controls
 
 You can move any of the current controls on the first screen. To start, tap the plus icon in the upper-left corner to segue to edit mode. Notice that the controls all have a border around them with the familiar minus sign at the top. Drag and drop each control to a new spot until you've reorganized them all. Swipe up on the screen when you're done.
@@ -45,10 +49,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -58,10 +59,7 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -71,10 +69,7 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -85,18 +80,15 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -134,14 +126,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-exclusive-access-top-8-platforms-for-free-green-screen-scenery-files/"><u>[Updated] Exclusive Access Top 8 Platforms for Free Green Screen Scenery Files</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-revolutionaries-building-virtual-realms/"><u>[Updated] Revolutionaries Building Virtual Realms</u></a></li>
-<li><a href="https://media-tips.techidaily.com/best-buy-launches-more-budget-friendly-xumo-smart-tvs/"><u>Best Buy Launches More Budget-Friendly Xumo Smart TVs</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/boosting-your-instagram-ultimate-guide-to-gaining-new-followers/"><u>Boosting Your Instagram: Ultimate Guide to Gaining New Followers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/complete-guide-capturing-and-sharing-images-from-your-nintendo-switch/"><u>Complete Guide: Capturing & Sharing Images From Your Nintendo Switch</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/dont-lose-touch-how-to-locate-and-restore-deleted-mobile-contact-information-from-your-android-device/"><u>Don't Lose Touch: How to Locate and Restore Deleted Mobile Contact Information From Your Android Device</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-crafting-an-aural-experience-for-previews/"><u>In 2024, Crafting an Aural Experience for Previews</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-syncopating-scenes-and-beats-the-tiktok-video-guide/"><u>In 2024, Syncopating Scenes & Beats The TikTok Video Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/libxml2dll-not-detected-heres-what-you-need-to-know/"><u>Libxml2.dll Not Detected? Here's What You Need to Know!</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-navigating-the-market-of-dronescopic-stabilizers/"><u>[New] In 2024, Navigating the Market of Dronescopic Stabilizers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/2024s-top-25-pick-complimentary-programs-for-pc-performance-boost/"><u>2024'S Top 25 Pick: Complimentary Programs for PC Performance Boost</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/best-budget-friendly-streaming-options-to-replace-netflix-free/"><u>Best Budget-Friendly Streaming Options to Replace Netflix (Free)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/binge-watch-your-favorite-movies-via-fandango-on-the-comfort-of-your-apple-tv/"><u>Binge-Watch Your Favorite Movies via Fandango on the Comfort of Your Apple TV</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-apples-most-recent-macbook-innovations/"><u>Discover Apple's Most Recent MacBook Innovations</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/epic-tech-pranks-creative-ways-to-surprise-with-an-iphone-or-ipad/"><u>Epic Tech Pranks: Creative Ways to Surprise with an iPhone or iPad</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-samsung-galaxy-s23-ultra-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Samsung Galaxy S23 Ultra in Minutes | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-chart-a-course-to-success-youtube-studio-blueprint/"><u>In 2024, Chart a Course to Success YouTube Studio Blueprint</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-cutting-edge-tools-for-unique-youtube-channel-names/"><u>In 2024, Cutting-Edge Tools for Unique YouTube Channel Names</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-savings-with-our-selection-of-6-prime-coupon-destinations/"><u>Mastering Savings with Our Selection of 6 Prime Coupon Destinations</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211420402-9781040123867-mindfulness-giving/"><u>Mindfulness Giving | Free Book</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-for-when-microsoft-office-msodll-is-unavailable/"><u>Troubleshooting Steps for When Microsoft Office mso.dll Is Unavailable</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/upgrade-your-gifs-seamless-and-cost-free-gif-to-vevo-3gp-transformation-movavi-guides/"><u>Upgrade Your GIFs: Seamless and Cost-Free GIF to Vevo 3GP Transformation - Movavi Guides</u></a></li>
 </ul></div>
 

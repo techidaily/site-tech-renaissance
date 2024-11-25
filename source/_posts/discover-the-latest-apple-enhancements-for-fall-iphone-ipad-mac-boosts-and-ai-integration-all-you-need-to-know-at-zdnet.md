@@ -1,7 +1,7 @@
 ---
 title: "Discover the Latest Apple Enhancements for Fall: IPhone, iPad, Mac Boosts & AI Integration | All You Need to Know at ZDNET!"
-date: 2024-11-15T02:55:14.249Z
-updated: 2024-11-15T23:02:57.720Z
+date: 2024-11-19T16:00:10.836Z
+updated: 2024-11-25T16:00:15.552Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -60,13 +64,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -74,6 +71,10 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -93,13 +94,6 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -115,10 +109,7 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -142,6 +133,10 @@ Adam Breeden/ZDNET
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## VisionOS 2
 
 Jason Hiner/ZDNET
@@ -159,6 +154,10 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -166,13 +165,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -218,18 +210,15 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-creative-text-amplification-tips/"><u>[New] In 2024, Creative Text Amplification Tips</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-who-are-the-biggest-watchers-top-amazon-series-liked-by-twitter-2023/"><u>[New] Who Are the Biggest Watchers? Top Amazon Series Liked by Twitter, 2023</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-adobes-toolset-perfecting-your-youtube-uploads-for-2024/"><u>[Updated] Adobe's Toolset Perfecting Your YouTube Uploads for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-strategies-for-troubleshooting-and-fixing-haldll-problems-in-all-generations-of-windows-os/"><u>Comprehensive Strategies for Troubleshooting and Fixing Hal.dll Problems in All Generations of Windows OS</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-possibilities-mastering-board-games-and-image-creation-with-your-gpt-powered-bots/"><u>Discover the Possibilities: Mastering Board Games & Image Creation with Your GPT-Powered Bots</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-typing-flow-hotkeys-for-fast-copy-paste-in-win/"><u>Elevate Typing Flow: Hotkeys for Fast Copy-Paste in WIN</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-successfully-boot-your-pc-into-windows-safe-mode/"><u>Guide: Successfully Boot Your PC Into Windows Safe Mode</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-how-to-elevate-your-youtube-videos-popularity-through-persistent-cc-licensing/"><u>In 2024, How to Elevate Your YouTube Video's Popularity Through Persistent CC Licensing</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-tecno-spark-10-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Tecno Spark 10 5G to Outlook | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/max-tv-highlights-must-watch-programming-today/"><u>Max TV Highlights: Must-Watch Programming Today</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/overcoming-code-28-a-comprehensive-strategy-to-fix-common-issues-on-windows-pcs/"><u>Overcoming Code 28: A Comprehensive Strategy to Fix Common Issues on Windows PCs</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-microsoft-print-to-pdf-doesnt-work-in-windows-1011/"><u>Troubleshooting Guide: Microsoft Print to PDF Doesn't Work in Windows 10/11</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-xiaomi-redmi-note-12r-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Xiaomi Redmi Note 12R Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-the-insta-archivists-playbook-for-mastery-for-2024/"><u>[Updated] The Insta Archivist's Playbook for Mastery for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-comprehve-guide-authenticating-wi-fi-networks-on-your-android-gadget/"><u>A Comprehve Guide: Authenticating Wi-Fi Networks on Your Android Gadget</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ace-ai-conversations-learn-the-7-essential-methods-to-refine-chatgpt-outputs/"><u>Ace AI Conversations: Learn the 7 Essential Methods to Refine ChatGPT Outputs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/efficiently-organizing-your-inbox-with-gmail-category-labels/"><u>Efficiently Organizing Your Inbox with Gmail Category Labels</u></a></li>
+<li><a href="https://blog-min.techidaily.com/enhance-online-presence-with-manycam-leading-platform-for-live-videos-and-fake-webcams/"><u>Enhance Online Presence with ManyCam: Leading Platform for Live Videos and Fake Webcams</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-address-and-correct-the-mingwm10dll-not-found-issue-easily/"><u>How to Address and Correct the Mingwm10.dll Not Found Issue Easily</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-full-spectrum-kinetics-examination/"><u>In 2024, Full Spectrum Kinetics Examination</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fake Snapchat Location on Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-samsung-galaxy-a14-5g-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Samsung Galaxy A14 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-how-to-correctly-deal-with-facetimes-black-display-problem/"><u>Step-by-Step Guide: How to Correctly Deal with FaceTime's Black Display Problem</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "New Horizons in Mobile Payments: How Apple Extends iPhone NFC for Enhanced Third-Party Integration | Explore Usage Impact"
-date: 2024-11-12T17:44:30.168Z
-updated: 2024-11-16T04:14:50.959Z
+date: 2024-11-20T16:02:46.485Z
+updated: 2024-11-25T16:03:01.291Z
 tags:
   - apple
 categories:
@@ -22,6 +22,10 @@ During [WWDC](https://www.zdnet.com/article/apple-wwdc-2024-recap-every-new-feat
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is Apple Intelligence?
 
 Apple
@@ -35,13 +39,6 @@ While we weren't expecting the company to unveil a slew of [flashy generative AI
 Apple was expected to focus on incorporating AI into its apps to simplify users' daily tasks, categorizing such AI features under the name "Apple Intelligence." We didn't miss the wordplay.
 
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What does Apple Intelligence do?
 
@@ -63,10 +60,7 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is Siri getting an Apple Intelligence makeover?
@@ -109,6 +103,10 @@ The same feature can help users make major edits to text, such as changing the t
 
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is Image Playground?
 
 Apple
@@ -121,6 +119,10 @@ In the Notes app, for example, a new tool called Image Wand will let you circle 
 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
 
 Apple
@@ -132,13 +134,6 @@ When users make a Siri request that the voice assistant determines would be bett
 **Also: [Apple finally gave us the iPad app we've waited 14 years for at WWDC 2024](https://www.zdnet.com/article/apple-finally-gave-us-the-ipad-app-weve-waited-14-years-for-at-wwdc-2024/)**
 
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Will Apple Intelligence be processed on-device or in the cloud?
 
@@ -157,10 +152,7 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is Apple Intelligence actually private and secure?
@@ -218,14 +210,15 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-milestone-mastery-breaking-into-the-millions/"><u>[New] Youtube Milestone Mastery Breaking Into the Millions</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-from-viewer-to-victor-step-by-step-windows-pc-guide-for-high-quality-live-recording/"><u>[Updated] 2024 Approved From Viewer to Victor Step-by-Step Windows PC Guide for High-Quality Live Recording</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-how-to-accelerate-subscriber-count-on-your-channel/"><u>[Updated] In 2024, How to Accelerate Subscriber Count on Your Channel</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/diy-methods-for-rectifying-uneven-colors-and-warped-images-on-your-pc-display/"><u>DIY Methods for Rectifying Uneven Colors & Warped Images on Your PC Display</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-tecno-phantom-v-fold-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Tecno Phantom V Fold Phone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-the-ftd2xxdll-file-not-found-complete-guide/"><u>Solving the ftd2XX.dll File Not Found - Complete Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-complete-step-by-step-on-getting-in-touch-with-snapchat-help-desk/"><u>The Complete Step-by-Step on Getting in Touch with Snapchat Help Desk</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-list-top-8-alternatives-to-gmail-for-2e24/"><u>The Ultimate List: Top 8 Alternatives to Gmail for 2E24</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-how-to-access-and-watch-nonstop-nba-live-stream-free-online/"><u>Updated In 2024, How To Access and Watch Nonstop NBA Live Stream Free Online</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-attract-more-viewers-crafting-impressive-youtube-description-with-custom-templates/"><u>[New] In 2024, Attract More Viewers Crafting Impressive Youtube Description with Custom Templates</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-innovative-mac-image-recording-the-top-5-cutting-edge-techniques/"><u>[New] Innovative Mac Image Recording The Top 5 Cutting-Edge Techniques</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-top-alert-tones-superior-download-sites-list/"><u>[New] Top Alert Tones Superior Download Sites List</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725290517735-dvd/"><u>DVDフリックの使い方を学ぶ：無料ツールで上達し、エラー解決ステップバイステップ</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enjoy-the-most-watched-shows-of-the-day-on-max-cable-television/"><u>Enjoy the Most Watched Shows of the Day on MAX Cable Television</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-fix-it-when-paramount-plus-is-not-working-on-a-fire-stick/"><u>How to Fix It When Paramount Plus Is Not Working on a Fire Stick</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-subtract-and-add-quick-srt-to-sub/"><u>In 2024, Subtract and Add Quick SRT to SUB</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-ultimate-pathway-for-high-quality-video-production-in-adobe-connect/"><u>In 2024, The Ultimate Pathway for High-Quality Video Production in Adobe Connect</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-the-fix-for-non-operational-gadgets-addressing-and-repairing-error-code-10-issues/"><u>Master the Fix for Non-Operational Gadgets: Addressing and Repairing Error Code 10 Issues</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ps5-unique-game-selection-discover-your-favorites/"><u>PS5 Unique Game Selection - Discover Your Favorites!</u></a></li>
 </ul></div>
 

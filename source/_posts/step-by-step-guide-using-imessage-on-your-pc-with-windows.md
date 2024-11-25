@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Using iMessage on Your PC with Windows"
-date: 2024-11-13T21:40:09.484Z
-updated: 2024-11-15T20:52:09.088Z
+date: 2024-11-23T16:00:51.649Z
+updated: 2024-11-25T16:00:17.729Z
 tags:
   - apple
 categories:
@@ -62,13 +62,6 @@ Click the Start button, go to All Apps, and select Phone Link from the list. The
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Scan the QR codes
 
 A QR code should appear in the Phone Link app. Launch the camera on your iPhone and scan the code. On your iPhone, tap the link at the bottom of the camera screen to pair your devices. If you can't scan the code for any reason, click the link to continue manually without a QR code and follow those steps.
@@ -92,10 +85,7 @@ The Phone Link welcome screen should appear on your PC and ask if you want to op
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Access your recent messages
@@ -110,13 +100,14 @@ You can also start a new conversation. To do this, select one of your displayed 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Use Intel Unison
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Install Intel Unison
@@ -126,6 +117,10 @@ To use Intel Unison, download and install the app from [the Microsoft Store](htt
 Launch the app and click the Accept & Continue button. You'll be asked how you'd like to use Unison. In the section for "Empower your PC," click the "Add your phone" button.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Pair your phone and computer
 
@@ -145,31 +140,21 @@ At the "Let's get started" screen in the Windows Unison app, click the icon for 
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  4\. Go to the Messages screen
 
 At the Messages screen, click the icon for "Compose a new message." Choose the recipient from your list of contacts or type the name, email address, or phone number for someone not in your contact list.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Send a message
 
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -207,24 +192,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-efficient-video-editing-techniques-for-instagram-mac-edition/"><u>[New] 2024 Approved Efficient Video Editing Techniques for Instagram, Mac Edition</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-utorrent-media-player-seamless-streaming/"><u>[New] UTorrent Media Player Seamless Streaming</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-perfect-posts-every-time-mastering-instagram-video-uploads-on-desktop/"><u>[Updated] Perfect Posts Every Time Mastering Instagram Video Uploads on Desktop</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-mastering-flight-time-selecting-premium-uav-power-sources/"><u>2024 Approved Mastering Flight Time Selecting Premium UAV Power Sources</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/a-comprehensive-guide-to-fixing-preliminary-startup-failures-on-your-computer/"><u>A Comprehensive Guide to Fixing Preliminary Startup Failures on Your Computer</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/complete-walkthrough-adjusting-user-passwords-without-access-on-windows/"><u>Complete Walkthrough: Adjusting User Passwords Without Access on Windows</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/escalate-your-tiktok-clout-top-30-unique-username-ideas/"><u>Escalate Your TikTok Clout Top 30 Unique Username Ideas</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ev-lifespan-do-they-last-as-long-as-gasoline-cars/"><u>EV Lifespan: Do They Last as Long as Gasoline Cars?</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-your-free-hp-officejet-3830-windows-printer-software/"><u>Get Your Free HP OfficeJet 3830 Windows Printer Software</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guest-posts-and-interviews-write-guest-posts-or-conduct-interviews-with-industry-professionals-where-you-can-include-a-link-back-to-your-primary-websitearti52/"><u>Guest Posts & Interviews: Write Guest Posts or Conduct Interviews with Industry Professionals Where You Can Include a Link Back to Your Primary Website/Article. This Strategy Not only Builds Quality Backlinks but Also Increases Exposure and Authority.</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722867990822-leading-retailers-offering-exceptional-phones-shop-smart/"><u>Leading Retailers Offering Exceptional Phones - Shop Smart</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mobile-connectivity-explained-the-role-of-a-phone-service-provider/"><u>Mobile Connectivity Explained: The Role of a Phone Service Provider</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721436126988-spoofing-chatbots-how-some-apps-mislead-and-compromise-users/"><u>Spoofing ChatBots: How Some Apps Mislead & Compromise Users</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/step-by-step-guide-embellishing-images-with-borders-on-instagram-for-2024/"><u>Step-by-Step Guide Embellishing Images with Borders on Instagram for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tactics-to-implement-without-obstacles-win11-version-22h2-update/"><u>Tactics to Implement Without Obstacles: Win11 Version 22H2 Update</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-7-must-have-alarm-applications-on-your-smartphone/"><u>Top 7 Must-Have Alarm Applications on Your Smartphone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-voice-mail-management-apps/"><u>Top Rated Voice Mail Management Apps</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlocking-the-secrets-of-successful-tiktok-duets-for-beginners/"><u>Unlocking the Secrets of Successful TikTok Duets for Beginners</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/unraveling-the-mystery-choosing-music-for-movie-trailers-for-2024/"><u>Unraveling the Mystery Choosing Music for Movie Trailers for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-drive-participation-with-artisanal-story-inquiries/"><u>[New] In 2024, Drive Participation with Artisanal Story Inquiries</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-iphone-tips-achieve-softened-images-in-4-easy-steps/"><u>[New] In 2024, IPhone Tips Achieve Softened Images in 4 Easy Steps</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-ultimate-7-private-film-access-tools-for-2024/"><u>[New] Ultimate 7 Private Film Access Tools for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/7-ways-to-unlock-a-locked-poco-x6-pro-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Poco X6 Pro Phone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-your-email-a-guide-to-retrieving-lost-or-forgotten-usernames/"><u>Discover Your Email: A Guide to Retrieving Lost or Forgotten Usernames</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-hands-on-essential-corsair-mouse-software-here/"><u>Get Your Hands on Essential Corsair Mouse Software Here!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-to-discover-your-wi-fi-credentials-within-a-windows-11-environment/"><u>Guide to Discover Your Wi-Fi Credentials Within a Windows 11 Environment</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-assessing-the-value-of-4-second-rapid-subscriptions-on-youtube/"><u>In 2024, Assessing the Value of 4-Second Rapid Subscriptions on Youtube</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/lost-your-login-info-reinstating-your-fb-account-using-alternate-methods/"><u>Lost Your Login Info? Reinstating Your FB Account Using Alternate Methods!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/online-streaming-video-editor-convert-your-m4v-files-into-swf-format-by-movavi-free-of-cost/"><u>Online Streaming Video Editor - Convert Your M4V Files Into SWF Format by Movavi, Free of Cost!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quick-fixes-for-mss32dll-not-found-issues-on-your-pc/"><u>Quick Fixes for MSS32.DLL Not Found Issues on Your PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-7-must-have-items-for-a-perfect-summer-everyday-carry/"><u>Top 7 Must-Have Items for a Perfect Summer Everyday Carry</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-children-friendly-films-available-on-netflix/"><u>Top Children-Friendly Films Available on Netflix</u></a></li>
 </ul></div>
 

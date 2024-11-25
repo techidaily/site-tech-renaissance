@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Accessing Apple's iMessage on Your PC with Windows"
-date: 2024-11-14T17:27:52.227Z
-updated: 2024-11-15T20:38:35.950Z
+date: 2024-11-18T16:01:58.211Z
+updated: 2024-11-25T16:06:41.361Z
 tags:
   - apple
 categories:
@@ -44,6 +44,10 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 
 ## How to send and receive iMessages on Windows
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Use Microsoft Phone Link
 
 Before you can use Phone Link, you'll have to take care of a few items on your phone and your PC.
@@ -56,18 +60,15 @@ Next, confirm that you're running the latest version of Phone Link. To do this, 
 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Open Phone Link
 
 Click the Start button, go to All Apps, and select Phone Link from the list. The first screen prompts you to select your device. Click the button for iPhone.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Scan the QR codes
 
@@ -78,13 +79,6 @@ At the screen to pair your devices, tap "Link to Windows" to download and instal
 You should see pairing prompts on both your iPhone and your Windows 11 computer. Select the Pair button on both devices and wait for the two to pair.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Sync your iPhone data
 
@@ -99,10 +93,7 @@ The Phone Link welcome screen should appear on your PC and ask if you want to op
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Access your recent messages
@@ -127,6 +118,10 @@ Launch the app and click the Accept & Continue button. You'll be asked how you'd
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Pair your phone and computer
 
 You should then be asked to pair your phone and PC. Scan the QR code with your phone and tap the link to download and install the Unison mobile app from the Apple App Store.
@@ -138,13 +133,6 @@ You'll then be asked to grant the app access to your contacts, photo library, de
 At the next screen on your phone, tap the button for "Scan QR code." Scan the code in the Unison screen on your PC. Confirm the text string that appears on the screen. Your phone and PC should tell you that the pairing was successful. Tap Get Started in the iPhone app.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Launch the Windows Unison app
 
@@ -159,10 +147,7 @@ At the Messages screen, click the icon for "Compose a new message." Choose the r
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Send a message
@@ -207,18 +192,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-youtubes-hot-streaming-spotlight-top-10-now/"><u>[New] In 2024, Youtube’s Hot Streaming Spotlight Top 10 Now</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-youtubes-role-in-todays-dynamic-educational-landscape/"><u>[New] YouTube's Role in Today's Dynamic Educational Landscape</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/addressing-the-problem-of-applicationexe-suddenly-crashing-and-how-to-fix-it/"><u>Addressing the Problem of 'Application.exe' Suddenly Crashing and How to Fix It</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722891018892-can-you-use-facetime-with-a-windows-machine-heres-how/"><u>Can You Use FaceTime with a Windows Machine? Here's How!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-steps-to-create-and-share-iphone-voice-notes/"><u>Easy Steps to Create and Share iPhone Voice Notes</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-can-i-make-my-youtube-comments-visible-again/"><u>How Can I Make My YouTube Comments Visible Again?</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-refining-online-discussions-in-google-meet/"><u>In 2024, Refining Online Discussions in Google Meet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-ai-in-bing-easy-user-signup/"><u>Leveraging AI in Bing: Easy User Signup</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/master-new-languages-for-free-explore-these-top-9-recommended-sites/"><u>Master New Languages for Free: Explore These Top 9 Recommended Sites</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-booting-up-games-from-an-external-hard-drive-on-xbox-one/"><u>Step-by-Step Guide: Booting Up Games From an External Hard Drive on Xbox One</u></a></li>
-<li><a href="https://win11.techidaily.com/the-beginners-guide-to-widget-personalization-on-windows-11-pcs/"><u>The Beginner's Guide to Widget Personalization on Windows 11 PCs</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-sharing-your-favorite-tracks-on-spotify-with-pals/"><u>The Ultimate Guide to Sharing Your Favorite Tracks on Spotify With Pals</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/unveiling-the-secrets-of-instagrams-musical-emoji-usage/"><u>Unveiling the Secrets of Instagram's Musical Emoji Usage</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-10-best-intro-maker-apps-for-iphone-and-android/"><u>[New] 2024 Approved 10 Best Intro Maker Apps for iPhone and Android</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-recording-sims-4-games-a-complete-beginners-guide/"><u>[New] Recording Sims 4 Games A Complete Beginner's Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-comprehensive-discussion-googles-podcast-uncovered/"><u>2024 Approved Comprehensive Discussion Google's Podcast Uncovered</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-ultimate-handbook-for-saving-insta-content/"><u>2024 Approved The Ultimate Handbook for Saving Insta Content</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-ways-to-keep-an-eye-on-how-much-data-youre-using-online/"><u>Easy Ways to Keep an Eye on How Much Data You're Using Online</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fix-pdhdll-absent-error-a-comprehensive-tutorial/"><u>Fix pdh.dll Absent Error - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/from-printed-to-digital-a-comprehensive-walkthrough-on-scanner-operations/"><u>From Printed to Digital: A Comprehensive Walkthrough on Scanner Operations</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/identifying-ipad-tablets-equipped-with-internal-gps-technology/"><u>Identifying iPad Tablets Equipped With Internal GPS Technology</u></a></li>
+<li><a href="https://games-able.techidaily.com/improve-chrome-load-times-for-social-gaming-platforms/"><u>Improve Chrome Load Times for Social Gaming Platforms</u></a></li>
+<li><a href="https://windows11.techidaily.com/is-wsl-functional-post-windows-11-install-solutions-explored/"><u>Is WSL Functional Post-Windows 11 Install? Solutions Explored</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mac-reinstallation-made-easy-entering-and-using-recovery-mode/"><u>Mac Reinstallation Made Easy: Entering and Using Recovery Mode</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-gmail-protection-how-to-set-up-a-safe-list-of-contacts/"><u>Mastering Gmail Protection: How to Set Up a Safe List of Contacts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/streamlining-srt-file-integration-on-digital-platforms/"><u>Streamlining SRT File Integration on Digital Platforms</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/wie-sie-mit-5-methoden-mp4-videos-perfekt-in-ihr-ipad-integrieren-anleitung-fur-die-neuesten-ipad-generationen/"><u>Wie Sie Mit 5 Methoden MP4-Videos Perfekt in Ihr iPad Integrieren: Anleitung Für Die Neuesten iPad-Generationen</u></a></li>
 </ul></div>
 

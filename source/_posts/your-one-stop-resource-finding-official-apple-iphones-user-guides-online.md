@@ -1,7 +1,7 @@
 ---
 title: "Your One-Stop Resource: Finding Official Apple iPhones' User Guides Online"
-date: 2024-11-14T22:44:15.424Z
-updated: 2024-11-15T18:35:10.026Z
+date: 2024-11-19T16:01:43.345Z
+updated: 2024-11-25T16:04:43.891Z
 categories:
   - BestProducts
 description: "This Article Describes Your One-Stop Resource: Finding Official Apple iPhones' User Guides Online"
@@ -23,13 +23,6 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
 
  This article explains how to open[Command Prompt](https://www.lifewire.com/command-prompt-2625840) , which is one of the[command-line interface](https://www.lifewire.com/what-is-a-command-line-interpreter-2625827) programs used to execute[commands](https://www.lifewire.com/what-is-a-command-2625828) in Windows operating systems. These directions apply to Windows 11, Windows 10, Windows 8, Windows 7, Windows Vista, and Windows XP.  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Open Command Prompt in Windows 11 or 10
 
  There are a few ways, but using the search bar on the taskbar is one quick method for opening a command window.
@@ -42,20 +35,25 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
 !["cmd" typed into Windows 11 start menu search box](https://www.lifewire.com/thmb/1d41kEyvl2KNY_b_cnc6DgiIehk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-cmd-start-menu-a8c1d7d009f64856902c83e8e418563b.png)  
  If you're using the latest version of Windows 11, Command Prompt will open within[Terminal](https://www.lifewire.com/windows-terminal-4779951) .
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Some popular Command Prompt commands you might have heard of include[ping](https://www.lifewire.com/ping-command-2618099) ,[netstat](https://www.lifewire.com/netstat-command-2618098) ,[tracert](https://www.lifewire.com/tracert-command-2618101) ,[shutdown](https://www.lifewire.com/shutdown-command-2618100) , and[attrib](https://www.lifewire.com/attrib-command-2625802) , but there are_many_ more. We have a[complete list of Windows Command Prompt commands](https://www.lifewire.com/list-of-command-prompt-commands-4092302) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Open Command Prompt Through the Start Menu Folder
 
  Another way to open the Windows Command Prompt in Windows 10 is to look in its Start menu folder. Open the**Start menu** , select the**Windows System** folder from the list, and then choose**Command Prompt** from the folder group.
 
 ![Command Prompt menu item in Windows System folder in Start menu on Windows 10](https://www.lifewire.com/thmb/M8TRCTyz0ujUzmDzFZsFJjffiq4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-open-command-prompt-2618089-5c6468a146e0fb0001f25667.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Open Command Prompt Using Power User Menu
 
@@ -64,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
 ![Command Prompt in Windows 10 Power User menu](https://www.lifewire.com/thmb/7_8z-AOur7jJSd6_2bz9Yp2VnDA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-open-command-prompt-2618089-5c646ad746e0fb0001dcd81a.jpg)
 
  You might see PowerShell options in the Power User Menu instead of Command Prompt. In more recent versions of Windows 10, Command Prompt has been replaced by PowerShell, but you can[switch between PowerShell and Command Prompt](https://www.lifewire.com/switch-command-prompt-and-powershell-on-the-win-x-menu-2626247) from the Power User Menu. Terminal is the replacement in Windows 11.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Open Command Prompt in Windows 8 or 8.1
 
@@ -78,10 +80,7 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
  See our [list of Windows 8 Command Prompt commands](https://www.lifewire.com/windows-8-command-prompt-commands-4172073) for all of the commands available through Command Prompt in Windows 8, including short descriptions and links to more in-depth information if we have it.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Open Command Prompt in Windows 7, Vista, or XP
@@ -114,13 +113,6 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
 * **you must be an administrator**
 
 ![sfc scannow elevated prompt message](https://www.lifewire.com/thmb/PmVejDjk3-H5ABhTpR5vFhEpxXE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sfc-scannow-administrator-command-prompt-775fe2bfbdd54342813261652a3de86f.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  See[How to Open an Elevated Command Prompt](https://www.lifewire.com/how-to-open-an-elevated-command-prompt-2618088) for help starting Command Prompt as an administrator, a process that's a bit more complicated than what's outlined above.
 
@@ -166,17 +158,14 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-top-picks-and-tips-for-thriving-in-valheim/"><u>[Updated] 2024 Approved Top Picks & Tips for Thriving in Valheim</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-comprehensive-guide-to-youtube-playlists-creation/"><u>[Updated] The Comprehensive Guide to YouTube Playlists Creation</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/bypass-the-blues-how-to-fix-netflix-error-code-nw-1-19-and-get-back-to-binge-watching/"><u>Bypass the Blues: How to Fix Netflix Error Code NW-1-19 and Get Back to Binge-Watching</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/diy-mechanical-keyboard-maintenebrance-easy-cleaning-strategies-inside/"><u>DIY Mechanical Keyboard Maintenebrance: Easy Cleaning Strategies Inside</u></a></li>
-<li><a href="https://fox-that.techidaily.com/drug-interactions-can-significantly-impact-the-efficacy-and-safety-of-beta-blockers-for-example-combining-them-with-certain-calcium-channel-blockers-may-req27/"><u>Drug Interactions Can Significantly Impact the Efficacy and Safety of Beta Blockers; for Example, Combining Them with Certain Calcium Channel Blockers May Require Careful Monitoring.</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fixing-missing-mfplatdll-error-on-your-computer-efficiently/"><u>Fixing 'Missing Mfplat.dll' Error on Your Computer Efficiently</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-itel-s23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Itel S23 | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-top-webcam-recording-apps-in-windows-10-reviewed/"><u>In 2024, Top Webcam Recording Apps in Windows 10 Reviewed</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resetting-your-lenovo-machine-a-comprehensive-walkthrough-for-beginners/"><u>Resetting Your Lenovo Machine: A Comprehensive Walkthrough for Beginners</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-complete-drago-chronicles-watching-the-how-to-train-your-dragon-series-sequentially/"><u>The Complete Drago Chronicles: Watching the How to Train Your Dragon Series Sequentially</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-top-five-flying-toys-for-youth-for-2024/"><u>The Top Five Flying Toys for Youth for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-and-repair-dealing-with-kernel3-dll-errors-on-windows-machines/"><u>Troubleshooting and Repair: Dealing with Kernel3^ Dll Errors on Windows Machines</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/getting-your-macbook-pro-running-key-steps-to-follow/"><u>Getting Your MacBook Pro Running: Key Steps to Follow</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/how-many-viewers-equates-to-profit-decoding-youtubes-earnings-formula-for-2024/"><u>How Many Viewers Equates to Profit? Decoding YouTube's Earnings Formula for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/icloud-photo-deletion-tips-safely-remove-images-without-losing-iphone-copies/"><u>ICloud Photo Deletion Tips: Safely Remove Images without Losing iPhone Copies</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-7-best-nft-generators-to-turn-your-artwork-into-nfts/"><u>In 2024, 7 Best NFT Generators to Turn Your Artwork Into NFTs</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-from-your-apple-iphone-15-pro-max-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID From your Apple iPhone 15 Pro Max without Security Questions?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-ultimate-pixel-realms-unique-alarm-rhythms/"><u>In 2024, Ultimate Pixel Realms Unique Alarm Rhythms</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-method-for-converting-your-music-library-from-spotify-to-a-word-document/"><u>The Ultimate Method for Converting Your Music Library From Spotify to a Word Document</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-missing-nspr4dll-files-on-your-computer-step-by-step-fixes/"><u>Troubleshooting 'Missing' nspr4.dll Files on Your Computer – Step-by-Step Fixes</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-the-king-of-slate-a-comprehensive-review-of-the-2018-apple-ipad-pro-11-inch-market-dominators/"><u>Unveiling the King of Slate: A Comprehensive Review of the 2018 Apple iPad Pro (11-Inch) - Market Dominators</u></a></li>
 </ul></div>
 

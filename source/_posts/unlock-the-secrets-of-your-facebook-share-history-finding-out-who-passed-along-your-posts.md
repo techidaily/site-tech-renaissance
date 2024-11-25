@@ -1,7 +1,7 @@
 ---
 title: "Unlock the Secrets of Your Facebook Share History: Finding Out Who Passed Along Your Posts"
-date: 2024-11-10T20:22:45.660Z
-updated: 2024-11-15T17:30:54.579Z
+date: 2024-11-21T16:05:14.438Z
+updated: 2024-11-25T16:00:47.545Z
 categories:
   - BestProducts
 description: "This Article Describes Unlock the Secrets of Your Facebook Share History: Finding Out Who Passed Along Your Posts"
@@ -18,12 +18,20 @@ Close
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  What to Know
 
 * Select the**bell** icon to see all your notifications, which includes who shared your Facebook post.
 * Or, check the original post. Above the Like and Comment buttons, select the share count (e.g.,**2 shares** ).
 
  This article explains two easy ways to see your share stats on Facebook, including how many shares your post has received and who has shared it. Instructions apply to desktop and mobile users.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Check Your Notifications
 
@@ -32,13 +40,6 @@ Close
 [  How to Delete Notifications on Facebook ](https://www.lifewire.com/delete-notifications-on-facebook-4177349) 
 
 ![A list of notifications on the Facebook website](https://www.lifewire.com/thmb/2mYii5oscMKde4bjzvQ_uzBUznE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facebook-notifications-481da9ae9f6441818e432ba442b9091c.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Check the Original Post
 
@@ -51,17 +52,11 @@ Close
 3. Select**share** /**shares** to see who shared the post and any other information the person included when they shared it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to See Who Shared Someone Else's Post
@@ -73,16 +68,7 @@ Close
 ![A list of Facebook users who shared a public post](https://www.lifewire.com/thmb/sMvVjy6GQYsRJYbog5Zio3JCUzE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/people-who-shared-facebook-post-4d1aea42e88d4ea183102e9ac09988d6.png) 
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  FAQ
@@ -121,24 +107,17 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-gaming-gains-total-earnings-for-pewdiepie/"><u>[New] Gaming Gains Total Earnings for PewDiePie</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-broadcasting-success-fb-live-on-television/"><u>2024 Approved Broadcasting Success FB Live on Television</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/correcting-d3dx933dll-file-absence-best-practices-and-solutions/"><u>Correcting d3dx9_33.dll File Absence: Best Practices and Solutions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/experience-next-gen-viewing-hitachis-4k-uhd-tvs-featuring-integrated-roku/"><u>Experience Next-Gen Viewing: Hitachi's 4K UHD TVs Featuring Integrated Roku</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/expert-tips-for-efficient-music-integration-in-premiere-pro/"><u>Expert Tips for Efficient Music Integration in Premiere Pro</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Realme 12+ 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-capturing-dynamic-range-in-iphone-shots/"><u>In 2024, Capturing Dynamic Range in iPhone Shots</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Samsung Galaxy M34 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-finding-whos-double-tapped-on-your-insta-posts/"><u>Mastering the Art of Finding Whos Double-Tapped on Your Insta Posts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/order-matters-how-to-experience-star-wars-movies-in-order-on-disney-plus/"><u>Order Matters! How to Experience Star Wars Movies in Order on Disney Plus</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-issues-what-to-do-when-your-amazon-echo-alexa-wont-respond/"><u>Resolving Issues: What to Do When Your Amazon Echo (Alexa) Won't Respond</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solutions-to-start-your-mozilla-thunderbird-email-client-if-it-fails-to-open-correctly/"><u>Solutions to Start Your Mozilla Thunderbird Email Client if It Fails to Open Correctly</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/status-bt-evaluation-economical-choice-yet-lacks-perfection/"><u>Status BT Evaluation: Economical Choice, Yet Lacks Perfection</u></a></li>
-<li><a href="https://video-capture.techidaily.com/step-by-step-strategies-overcoming-the-video-upload-failure-on-instagram-challenge/"><u>Step-by-Step Strategies: Overcoming the 'Video Upload Failure' On Instagram Challenge</u></a></li>
-<li><a href="https://network-issues.techidaily.com/stoplight-flash-on-laptop-ceases/"><u>Stoplight Flash on Laptop Ceases</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-comprehensive-overview-of-nvidias-rtx-graphics-card-series/"><u>The Comprehensive Overview of NVIDIA's RTX Graphics Card Series</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-fixes-for-rediscovered-files-in-windows/"><u>The Ultimate Guide: Fixes for Rediscovered Files in Windows</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-10-strategies-to-achieve-viral-success-on-tiktok/"><u>Top 10 Strategies to Achieve Viral Success on TikTok</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/xbox-online-services-down-or-localized-internet-trouble-find-out-here/"><u>Xbox Online Services Down or Localized Internet Trouble? Find Out Here</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-captureking-high-definition-edition/"><u>[Updated] In 2024, CaptureKing High Definition Edition</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/detailed-analysis-life-in-spiral-with-gear-360-cam/"><u>Detailed Analysis Life in Spiral with Gear 360 Cam</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-mapmyride-features-pros-and-cons/"><u>Exploring MapMyRide: Features, Pros, and Cons</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/first-steps-in-x-platform-top-10-tips-for-newbies-replacing-twitter-strategies/"><u>First Steps in X Platform: Top 10 Tips for Newbies Replacing Twitter Strategies</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-screen-tearing-issues-on-pc/"><u>Fix Screen Tearing Issues on PC</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-solve-invisible-buffer-problems-in-video-games/"><u>In 2024, Solve Invisible Buffer Problems in Video Games</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-the-bargains-what-to-expect-from-amazon-prime-day-2024/"><u>Navigating the Bargains: What to Expect From Amazon Prime Day 2024?</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reducing-noise-and-enhancing-sharpness-after-export/"><u>Reducing Noise and Enhancing Sharpness After Export</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-9-fun-and-educational-preschool-games-you-can-play-online-for-free/"><u>Top 9 Fun & Educational Preschool Games You Can Play Online For Free</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-what-to-do-when-your-alexa-device-wont-respond/"><u>Troubleshooting Steps: What To Do When Your Alexa Device Won't Respond</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-techniques-to-address-missing-opengl32dll-file-problems/"><u>Troubleshooting Techniques to Address Missing OpenGL32.dll File Problems</u></a></li>
+<li><a href="https://windows11.techidaily.com/unseen-steps-eliminating-security-qanda-for-windows-11-admin/"><u>Unseen Steps: Eliminating Security Q&A for Windows 11 Admin</u></a></li>
 </ul></div>
 

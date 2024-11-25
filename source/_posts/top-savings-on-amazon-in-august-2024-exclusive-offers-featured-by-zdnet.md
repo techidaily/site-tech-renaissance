@@ -1,7 +1,7 @@
 ---
 title: Top Savings on Amazon in August 2024 - Exclusive Offers Featured by ZDNet
-date: 2024-11-14T19:22:18.483Z
-updated: 2024-11-16T02:08:24.532Z
+date: 2024-11-22T16:05:59.707Z
+updated: 2024-11-25T16:03:51.468Z
 tags:
   - apple
 categories:
@@ -26,6 +26,10 @@ The shopping giant frequently cuts prices on top tech products all year round, i
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The best Amazon deals of August 2024
 
 Jason Hiner/ZDNET
@@ -36,19 +40,6 @@ Jason Hiner/ZDNET
 * [Dyson V8 Cordless Plus Vacuum](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDyson-Cordless-Vacuum-Silver-Nickel%2Fdp%2FB0CT9552BL%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB0CT9552BL%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1a99eb49-0f75-4c75-bf0c-b3df2a26f35e%7Cdtp&dtb=1) for $350 (save $120)
 * [Bose SoundLink Flex Speaker](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBose-SoundLink-Bluetooth-Portable-Waterproof%2Fdp%2FB099TJGJ91%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB099TJGJ91%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1a99eb49-0f75-4c75-bf0c-b3df2a26f35e%7Cdtp&dtb=1) for $109 (save $40)
 * [Asus Tuf Gaming A16 2024 Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-TUF-Gaming-Laptop-165Hz%2Fdp%2FB0CRCWY9VT%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB0CRCWY9VT%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1a99eb49-0f75-4c75-bf0c-b3df2a26f35e%7Cdtp&dtb=1) for $1,300 (save $500)
-
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The best Amazon tech deals
 
@@ -64,10 +55,7 @@ Jason Hiner/ZDNET
 * [JBL Tune Flex Earbuds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FJBL-Tune-Flex-Wireless-Cancelling%2Fdp%2FB0C1QNRGHC%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB0C1QNRGHC%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1a99eb49-0f75-4c75-bf0c-b3df2a26f35e%7Cdtp&dtb=1) for $50 (save $50)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The best Amazon TV deals
@@ -93,13 +81,6 @@ Maria Diaz/ZDNET
 * [Roborock S8 Pro Ultra Robot Vacuum and Mop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPro-Ultra-Self-Washing-Self-Refilling-Self-Emptying%2Fdp%2FB0BVB5PTDK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1a99eb49-0f75-4c75-bf0c-b3df2a26f35e%7Cdtp&dtb=1) for $950 (save $650)
 * [Roborock Q8 Max Robot Vacuum and Mop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Froborock-Q8-Max-Navigation-Multi-Level%2Fdp%2FB0C7VFD9Q4%2Fref%3Dsxin%5F15%5Fpa%5Fsp%5Fsearch%5Fthematic%5Fsspa%3Fcontent-id%3Damzn1.sym.60b0c4ef-0fd2-46d0-8724-84b6f746d062%3Aamzn1.sym.60b0c4ef-0fd2-46d0-8724-84b6f746d062%26crid%3D37DMVM6CIU4Y0%26cv%5Fct%5Fcx%3Drobot%2Bvacuum%26dib%3DeyJ2IjoiMSJ9.A4bejnO1HqJM%5FozbrGpsoYI205q99h9DoNEZVmg9dNI-ILQl1J-mSnznl4IKQtzDgOTGYo%5Fa7rpT3PH-A2Mpiw.a4a0hgwCDw4CmRSsqS2wHRhfJu%5FuKKwf5z-r8S-VJok%26dib%5Ftag%3Dse%26keywords%3Drobot%2Bvacuum%26pd%5Frd%5Fi%3DB0C7VFD9Q4%26pd%5Frd%5Fr%3Dc5436de8-abf5-4537-95f0-9cc48163f596%26pd%5Frd%5Fw%3DOlqAp%26pd%5Frd%5Fwg%3DQ2Iuk%26pf%5Frd%5Fp%3D60b0c4ef-0fd2-46d0-8724-84b6f746d062%26pf%5Frd%5Fr%3DAKHVV8K35XC7VV3MS5S3%26qid%3D1723557736%26sbo%3DRZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D%26sprefix%3Drobot%2Bvacuum%2B%2Caps%2C104%26sr%3D1-20-f853d353-bf33-45e7-b5c2-2cb2b31abc9b-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1a99eb49-0f75-4c75-bf0c-b3df2a26f35e%7Cdtp&dtb=1) for $320 (save $280)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The best Amazon home deals
 
 Maria Diaz/ZDNET
@@ -113,7 +94,15 @@ Maria Diaz/ZDNET
 * [Jackery Explorer 240 v2 Portable Power Station](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FJackery-v2-Versatile-Scenarios-Outdoor-Emergency%2Fdp%2FB0D2L1B7PK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1a99eb49-0f75-4c75-bf0c-b3df2a26f35e%7Cdtp&dtb=1) for $189 (save $60)
 * [Bluetti EB3A Portable Power Station](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBLUETTI-Portable-EB3A-Recharge-Generator%2Fdp%2FB09WW3CTF4%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB09WW3CTF4%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1a99eb49-0f75-4c75-bf0c-b3df2a26f35e%7Cdtp&dtb=1) for $198 (save $102)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How did we choose these Amazon deals?
 
@@ -121,16 +110,13 @@ ZDNET only writes about deals we want to buy -- devices and products we desire, 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When will these deals expire?
 
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on a deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How much is an Amazon Prime membership?
 
@@ -180,22 +166,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-incremental-sound-softening-for-professional-productions/"><u>[New] 2024 Approved Incremental Sound Softening for Professional Productions</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-precision-at-a-glance-elevate-your-hp-laptop-recording-skills/"><u>[Updated] 2024 Approved Precision at a Glance Elevate Your HP Laptop Recording Skills</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-experts-pick-essential-plugins-to-elevate-your-ae-projects/"><u>[Updated] Expert's Pick Essential Plugins to Elevate Your AE Projects</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-premier-8-free-roku-channels-of-2024/"><u>Discover the Premier 8 Free Roku Channels of 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/electric-cars-and-climate-endurance-working-efficiently-in-hot-or-cold-environments/"><u>Electric Cars and Climate Endurance: Working Efficiently in Hot or Cold Environments?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-windows-information-discovery-everywhereapp-style/"><u>Enhance Windows Information Discovery, EverywhereApp Style</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-history-of-googles-messaging-and-video-call-platform-hangouts/"><u>Exploring the History of Google's Messaging and Video Call Platform: Hangouts</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-tecno-pova-5-pro-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Tecno Pova 5 Pro For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-fascination-frameworks-igs-most-popular-filters/"><u>In 2024, Fascination Frameworks IG's Most Popular Filters</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Motorola Moto G24? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/inside-the-apple-watch-ultra-2-leak-release-dates-price-forecasts-and-cutting-edge-technology-sneak-peek/"><u>Inside the Apple Watch Ultra 2 Leak: Release Dates, Price Forecasts, and Cutting-Edge Technology Sneak Peek</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/macxdvd-launches-big-savings-unlock-your-exclusive-discount-codes-offering-43-off/"><u>MacXDVD Launches Big Savings - Unlock Your Exclusive Discount Codes Offering 43% Off!</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/perfecting-audio-quality-a-no-mic-approach/"><u>Perfecting Audio Quality A No-Mic Approach</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/rumors-unfurl-on-googles-latest-gadget-the-pixel-fold-2-with-predicted-price-release-date-and-features-to-watch-for/"><u>Rumors Unfurl on Google's Latest Gadget: The Pixel Fold 2 with Predicted Price, Release Date and Features to Watch For</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-viewing-the-complete-dragon-ball-saga/"><u>Step-by-Step Guide: Viewing the Complete Dragon Ball Saga</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-5-free-substitutes-for-skype/"><u>Top 5 Free Substitutes for Skype</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-immersion-technologies-distinguishing-ar-vr-mr-and-xr/"><u>Understanding Immersion Technologies: Distinguishing AR, VR, MR & XR</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-get-the-perfect-slideshow-design-10-places-to-download-for-inspiration/"><u>2024 Approved Get the Perfect Slideshow Design 10 Places to Download for Inspiration</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-rebooted-login-claiming-back-to-facebook/"><u>2024 Approved Rebooted Login Claiming Back to Facebook</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-free-tunes-8-great-music-apps-for-ios/"><u>Discover the Best Free Tunes: 8 Great Music Apps for iOS</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-branding-beats-technicalities-focus-on-your-streams-signature-style/"><u>In 2024, Branding Beats Technicalities Focus on Your Stream's Signature Style</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Poco F5 5G? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-tecno-spark-20-proplus-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Tecno Spark 20 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-thorough-breakdown-googles-podcast-app-unveiled/"><u>In 2024, Thorough Breakdown Google's Podcast App Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-noctuas-revolutionary-pumpless-aio-liquid-cooler-with-evaporative-technology/"><u>Introducing Noctua's Revolutionary Pumpless AIO Liquid Cooler with Evaporative Technology</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-return-calls-on-secured-and-disguised-numbers/"><u>Mastering the Art of Return Calls on Secured and Disguised Numbers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-globe-trotting-the-finest-8-planning-apps-for-adventurers/"><u>Navigating Globe-Trotting: The Finest 8 Planning Apps for Adventurers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/patch-tuesday-explained-the-essentials-you-need-to-know/"><u>Patch Tuesday Explained: The Essentials You Need to Know</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-d3dx927dll-file-not-detected-issue-a-step-by-step-guide/"><u>Solving the d3dx9_27.dll File Not Detected Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/the-painters-touch-mastering-color-artistry-for-2024/"><u>The Painter's Touch Mastering Color Artistry for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Smartphone Camera Transformation: Unveiling the Impact of Artificial Intelligence on Tomorrow's Visual Marvels - Insights From ZDNet"
-date: 2024-11-12T00:46:52.942Z
-updated: 2024-11-16T02:13:28.133Z
+date: 2024-11-20T16:01:35.553Z
+updated: 2024-11-25T16:00:16.553Z
 tags:
   - apple
 categories:
@@ -24,18 +24,15 @@ Ever since, those attributes have defined all smartphones, save for one common s
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### SPECIAL FEATURE
 
 [The Next Stage of Mobile Tech Smartphones remain the magical hubs of our digital lives, as we keep welcoming incremental advances like improved cameras, more foldable options, plus increasingly ubiquitous 5G. In 2024, our mobile devices look to wow us all over again -- with on-device AI, Qi2 charging, and all manner of form factors clamoring for our attention. ZDNET brings it all into focus.  Read now](https://www.zdnet.com/collection/the-next-stage-of-mobile-tech/)
 
 But of all the capabilities and components of these amazing and ubiquitous computing devices, it is the smartphone _camera_ that has seen the most extraordinary evolution. Phone cameras made their first appearance during the era when smartphones started becoming practical, everyday devices. Then, these cameras advanced in an App Store-centric world where companies like [Blackmagic Design could create camera apps](https://www.blackmagicdesign.com/products/blackmagiccamera) that redefine how a smartphone camera works. Now, artificial intelligence (AI) and machine learning (ML) are changing the very nature of what a camera can do.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Pre-modern smartphones
 
@@ -64,10 +61,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 Another phone -- and my personal device for four years -- was the [Palm Treo 600](https://www.zdnet.com/article/treo-600-debuts-with-new-improvements-and-old-design-flaws/), released in 2003\. This device did a lot, including supporting a camera capable of taking 640x480 resolution images. The Treo didn't have Wi-Fi or Bluetooth, limiting its connectivity to a cable connected to the computer for image downloads. Its big claim to fame was that it could run any of the thousands of PalmOS apps that were available for download. Installing those apps, however, also involved connecting a cable to a computer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2008: The birth of the modern smartphone
@@ -89,6 +83,10 @@ Personally, the iPhone 3G was my first iPhone (there was no iPhone 2 or 3). I bo
 Over in the Android world, its first phone was the HTC Dream, also marketed as the [T-Mobile G1](https://www.cnet.com/reviews/t-mobile-g1-review/). It was released in October 2008 and was noteworthy for its slide-out display that opened to show a BlackBerry-style keyboard. This device came with a rear-facing 3.15MP camera.
 
 With the iPhone 3 and the App Store, along with the first Android phone, it's fair to say that 2008 was the first year of the modern smartphone era.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2010: Smartphones meet narcism, a match made in heaven
 
@@ -150,6 +148,10 @@ This then helps the machine learning algorithms to analyze and adjust parameters
 
 **HDR processing:** High dynamic range (HDR) processing helps balance the dark and bright areas of an image for an improved dynamic range. Algorithms dynamically adjust the exposure of different regions in a photo, merging multiple exposures for a balanced high dynamic range image, keeping the visual fidelity of the image while allowing for blacker blacks, whiter whites, and other darker and lighter colors to better reflect what the photographer originally aimed to capture.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Object knowledge
 
 During the film era, some analog techniques were possible for image improvement. Now, AI and ML are critical when it comes to having intelligence about what's in a scene. Here are some of the powerful capabilities built into those smartphones I discussed earlier.
@@ -169,13 +171,6 @@ Some early facial recognition applications demonstrated bias. They were using ve
 This technique pits a "generator" algorithm against a "discriminator" algorithm process, where the discriminator provides feedback to the generator to drive improvement. The resulting learned effects, or style transfer processes, mimic the styles of various artists and techniques. This allows users to apply complex artistic styles to their photos, and for the resulting images to appear stylistically relevant. It also has [resulted in lawsuits](https://www.reuters.com/legal/litigation/judge-pares-down-artists-ai-copyright-lawsuit-against-midjourney-stability-ai-2023-10-30/).
 
 **Also: [Generative AI: Just don't call it an 'artist'](https://www.zdnet.com/article/generative-ai-just-dont-call-it-an-artist-say-scholars-in-science-magazine/)** 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Quality-of-life enhancements
 
@@ -200,10 +195,7 @@ One thing that's important to note: [Generative AI](https://www.zdnet.com/articl
 As Blackmagic Design's Caniglia said, "There's been an incredible evolution of smartphone camera capabilities in comparison to just a couple of years ago. AI machine learning, especially with the new iPhone 15, has been a big driver. A huge part of that is because Apple has focused on developing technologies that do more with the actual information captured by the camera's sensor rather than a focus on creations of "faux images" via generational AI."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Looking to the future
@@ -262,19 +254,18 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/2023-updates-the-next-generation-of-samsung-k850u/"><u>2023 Updates - The Next Generation of Samsung K850U</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-seek-out-stimulating-youtube-snippets/"><u>2024 Approved Seek Out Stimulating YouTube Snippets</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/a-step-by-nstep-guide-to-fixing-system-problems-detected-by-post/"><u>A Step-by-nStep Guide to Fixing System Problems Detected by POST</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-under-scrutiny-has-openai-slipped-in-oversight/"><u>ChatGPT Under Scrutiny: Has OpenAI Slipped in Oversight?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/connecting-ps-vr-headset-to-desktop-comprehensive-tutorial/"><u>Connecting PS VR Headset to Desktop - Comprehensive Tutorial</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-these-15-complimentary-antimalware-applications/"><u>Discover These 15 Complimentary Antimalware Applications</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/elite-selection-of-servers-rack-systems-unveiled/"><u>Elite Selection of Servers Rack Systems Unveiled</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-filmmaking-mastery-youtube-trailer-design-with-filmora/"><u>In 2024, Filmmaking Mastery YouTube Trailer Design with Filmora</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-going-above-and-beyond-without-the-need-for-vimeo/"><u>In 2024, Going Above and Beyond Without the Need for Vimeo</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Xiaomi Redmi Note 12 4G? | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/prevent-your-airpods-from-automatically-connecting-to-multiple-iphones-or-macs-a-step-by-step-guide/"><u>Prevent Your AirPods From Automatically Connecting to Multiple iPhones or Macs: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-perplexing-case-of-your-keep-dying-car-battery-exploring-the-6-leading-reasons-why-it-may-happen/"><u>The Perplexing Case of Your Keep-Dying Car Battery: Exploring the 6 Leading Reasons Why It May Happen</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unbelievable-discovery-communicating-with-chatgpt/"><u>Unbelievable Discovery: Communicating With ChatGPT</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlocking-elegance-affordable-options-for-cutting-edge-technology-marvels/"><u>Unlocking Elegance: Affordable Options for Cutting-Edge Technology Marvels</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-captureelite-series-best-windowsmac-imaging-apps-for-2024/"><u>[New] CaptureElite Series Best Windows/Mac Imaging Apps for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-from-fast-paced-footage-to-staggeringly-slow-motion-videos-a-comprehensive-ig-reel-guide/"><u>[New] In 2024, From Fast-Paced Footage to Staggeringly Slow Motion Videos A Comprehensive IG Reel Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-solving-obs-fullscreen-glitches/"><u>[New] In 2024, Solving OBS Fullscreen Glitches</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-the-seamless-art-of-game-recording-on-sonys-playstation-4/"><u>[New] In 2024, The Seamless Art of Game Recording on Sony's PlayStation 4</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/amd-radeon-graphics-driver-update-v2410-installation-and-guide/"><u>AMD Radeon Graphics Driver Update v24.10: Installation and Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/bare-bones-pc-boasts-bulky-but-lackluster-loops/"><u>Bare-Bones PC Boasts Bulky, but Lackluster Loops</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-correcting-columnar-line-artifacts-in-your-samsung-tvs-picture/"><u>Expert Tips: Correcting Columnar Line Artifacts in Your Samsung TV's Picture</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-install-epson-wf-7710-printing-software-on-various-windows-editions-11-81-etc-download-here/"><u>How to Install EPSON WF-7710 Printing Software on Various Windows Editions (11, 8.1, Etc.) - Download Here</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/is-streaming-netflix-possible-on-nintendo-switch-platform/"><u>Is Streaming Netflix Possible on Nintendo Switch Platform?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/share-the-entertainment-screen-casting-techniques-for-netflix-sessions/"><u>Share the Entertainment - Screen Casting Techniques for Netflix Sessions</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/smart-home-essentials-a-closer-look-at-rings-latest-wireless-doorbell-innovations/"><u>Smart Home Essentials: A Closer Look at Ring's Latest Wireless Doorbell Innovations</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-what-to-do-when-your-zoom-camera-fails/"><u>Troubleshooting Guide: What to Do When Your Zoom Camera Fails</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722860324198-troubleshooting-tips-restoring-color-to-your-android-phones-darkened-screen/"><u>Troubleshooting Tips: Restoring Color to Your Android Phone’s Darkened Screen</u></a></li>
 </ul></div>
 

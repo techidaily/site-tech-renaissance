@@ -1,7 +1,7 @@
 ---
 title: "Retro Reels: Discover These Top 10 Timeless '80S Cinematic Gems"
-date: 2024-11-14T04:48:07.496Z
-updated: 2024-11-16T03:40:11.790Z
+date: 2024-11-18T16:00:21.401Z
+updated: 2024-11-25T16:03:21.626Z
 categories:
   - BestProducts
 description: "This Article Describes Retro Reels: Discover These Top 10 Timeless '80S Cinematic Gems"
@@ -81,6 +81,10 @@ of 17
 
 ![Open Library free fantasy books](https://www.lifewire.com/thmb/-ctO4xId9XQoiLRkftJcE3RwBc0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/open-library-free-books-90d83651ac8441ecbcf38bd648ad33ce.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  What We Like
 
 * Good alternative if Internet Archive is too confusing.
@@ -103,23 +107,9 @@ of 17
 
 of 17
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## [Librivox](https://librivox.org/)
 
 ![Librivox free book downloads](https://www.lifewire.com/thmb/3CD8SNYd6sSu5_LvoNlASuUJVzQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/librivox-free-books-d032914dc8884c46b3d9e5604101ac6b.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  What We Like
 
@@ -141,13 +131,6 @@ of 17
 05
 
 of 17
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## [Google Play Books](https://play.google.com/store/books)
 
@@ -173,6 +156,10 @@ of 17
 06
 
 of 17
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## [Internet Archive](https://archive.org/details/texts)
 
@@ -206,10 +193,7 @@ of 17
 ![Authorama free book library](https://www.lifewire.com/thmb/lYssuu_g6PSku3pyk0pf5_swye8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/authorama-free-books-58fce73bc8574d86adfd5ea1ca34208f.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  What We Like
@@ -236,16 +220,13 @@ of 17
 
 of 17
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [Wikisource](https://wikisource.org/wiki/Main%5FPage)
 
 ![Wikisource home page](https://www.lifewire.com/thmb/MBfdbz4twoDq9wAPQBtLc2vgjh0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/wikisource-a1d3f9ef301e4806b50e61c49375b852.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  What We Like
 
@@ -268,10 +249,7 @@ of 17
 of 17
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## [Wikibooks](https://www.wikibooks.org/)
@@ -303,6 +281,10 @@ of 17
 
 ![free-ebooks.net romance books](https://www.lifewire.com/thmb/MFwV8nsWimWGfjT3kr47omFtjzM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/free-ebooks-romance-books-e1de021c14b64c58b4e148e0d206c144.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  What We Like
 
 * Diverse selection.
@@ -327,6 +309,10 @@ of 17
 
 ![The Online Books Page](https://www.lifewire.com/thmb/NtXfFY_H2MOVz3zuO7C0KZ49Fs8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/online-books-page-292c14fbd74942d0bb05d4b5241be408.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  What We Like
 
 * Boasts over three million books.
@@ -348,6 +334,10 @@ of 17
 12
 
 of 17
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## [eBooks.com](https://www.ebooks.com/free)
 
@@ -379,6 +369,10 @@ of 17
 
 ![International Children's Digital Library](https://www.lifewire.com/thmb/BfmcMPozUonvQpPrd_lOJrsHPRk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/international-childrens-digital-library-2bc17e8bfa0c4a8f87f80e695d36b273.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  What We Like
 
 * Large collection of international children's books.
@@ -402,6 +396,10 @@ of 17
 ## [Everand](https://www.everand.com)
 
 ![The Everand home page](https://www.lifewire.com/thmb/_RKXRhYWjNmhnh4iDOAdnWVgFSU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Everand-dc93d107c8644c8c96c22fb35117be3b.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  What We Like
 
@@ -449,13 +447,6 @@ of 17
 
 of 17
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## [Sacred Texts](https://www.sacred-texts.com/)
 
 ![The home page for the Internet Sacred Text Archive website](https://www.lifewire.com/thmb/ntP2NHa4fP5BSlaszy1nVXzXXVA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sacred-texts-e689ebc376f646b59b8c7af55726591b.png)
@@ -484,13 +475,6 @@ of 17
 ## [SlideShare](https://www.slideshare.net/)
 
 ![The Slideshare home page](https://www.lifewire.com/thmb/u86635z-EttY7kv47Qh_qv5FUwE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Slideshare-1843ff9a9d0c41389449798ac5a4aecf.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  What We Like
 
@@ -539,24 +523,17 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-change-snapchat-voice-in-minutes-using-twin-methods-for-2024/"><u>[Updated] Change Snapchat Voice in Minutes Using Twin Methods for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-sonic-skills-mac-recording-tips-for-2024/"><u>[Updated] Sonic Skills Mac Recording Tips for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-3d-lut-expertise-in-a-quick-learning-journey/"><u>2024 Approved 3D LUT Expertise in a Quick Learning Journey</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/adding-an-extra-shield-of-safety-to-icloud-mail-via-two-step-authentification/"><u>Adding an Extra Shield of Safety to iCloud Mail via Two-Step Authentification</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/amd-resolves-significant-security-flaw-with-latest-update-msi-releases-agesa-120c-for-ryzen-processors/"><u>AMD Resolves Significant Security Flaw with Latest Update: MSI Releases AGESA 1.2.0.C for Ryzen Processors</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ing-a-pro-in-video-game-broadcasts-for-2024/"><u>Becoming a Pro in Video Game Broadcasts for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/case-study-approach-learning-from-successful-market-research-examples/"><u>Case Study Approach Learning From Successful Market Research Examples</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/complete-guide-step-by-step-process-on-factory-resetting-your-dell-laptop/"><u>Complete Guide: Step-by-Step Process on Factory Resetting Your Dell Laptop</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ev-advantages-on-the-road-convenient-parking-options-and-hov-lane-freebies-for-eco-friendly-drivers/"><u>EV Advantages on the Road: Convenient Parking Options and HOV Lane Freebies for Eco-Friendly Drivers</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-best-gif-recorders-for-capturing-animated-gifs-on-windows/"><u>In 2024, Best GIF Recorders for Capturing Animated GIFs on Windows</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ipad-and-ipad-pro-owners-pick-the-7-best-taking-notes-apps-on-the-market/"><u>IPad & iPad Pro Owners' Pick: The 7 Best Taking Notes Apps on the Market</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-jscriptdll-file-absence-a-comprehensive-guide/"><u>Resolving jScript.dll File Absence: A Comprehensive Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/rising-costs-alert-spectrum-announces-another-price-surge/"><u>Rising Costs Alert: Spectrum Announces Another Price Surge</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/sharing-fun-a-comprehensive-guide-to-sharing-games-and-playlists-on-your-ps5/"><u>Sharing Fun: A Comprehensive Guide to Sharing Games & Playlists on Your PS5</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-tecno-pova-5-by-drfone-android/"><u>Three Ways to Sim Unlock Tecno Pova 5</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-6-sites-for-enjoying-your-favorite-music-videos-anytime/"><u>Top 6 Sites for Enjoying Your Favorite Music Videos Anytime</u></a></li>
-<li><a href="https://win-updates.techidaily.com/top-portable-file-synchronization-tools-compatible-with-windows-7-8-and-10/"><u>Top Portable File Synchronization Tools Compatible with Windows 7, 8 & 10</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-cable-and-streaming-services-key-distinctions/"><u>Understanding Cable and Streaming Services: Key Distinctions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/upcoming-tech-marvel-discover-what-to-expect-from-the-new-samsung-galaxy-s25-leaked-prices-launch-date-and-key-features-highlighted/"><u>Upcoming Tech Marvel: Discover What to Expect From The New Samsung Galaxy S25 - Leaked Prices, Launch Date, and Key Features Highlighted</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-top-7-free-apps-for-tiktok-creations-on-macos-devices/"><u>[New] In 2024, Top 7 Free Apps for TikTok Creations on MacOS Devices</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-inside-look-what-makes-asmr-special/"><u>[Updated] 2024 Approved Inside Look What Makes ASMR Special</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-unlicensed-music-for-games-top-10-online-hits/"><u>[Updated] In 2024, Unlicensed Music for Games - Top 10 Online Hits</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-total-control-guide-powerdirector-user-manual-for-2024/"><u>[Updated] Total Control Guide PowerDirector User Manual for 2024</u></a></li>
+<li><a href="https://win-community.techidaily.com/clear-viewing-experience-restored-comprehensive-solutions-for-sharpening-your-4k-tvs-picture-quality/"><u>Clear Viewing Experience Restored: Comprehensive Solutions for Sharpening Your 4K TV's Picture Quality</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-10-action-cams-steady-shooting-excellence/"><u>In 2024, Best 10 Action Cams Steady Shooting Excellence</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/matrix-series-viewing-guide-watch-all-films-sequentially/"><u>Matrix Series Viewing Guide: Watch All Films Sequentially</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-deploying-chatbots-on-your-discord-platform/"><u>Step-by-Step Tutorial: Deploying Chatbots on Your Discord Platform</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tackling-vpn-issue-step-by-step-guide-for-resolving-error-800-on-clients-and-servers/"><u>Tackling VPN Issue: Step-by-Step Guide for Resolving Error 800 on Clients and Servers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-story-of-facebook-how-it-started-became-a-hit-and-its-prime-features/"><u>The Story of Facebook: How It Started, Became a Hit, and Its Prime Features</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-top-5-iphone-podcast-apps-guide/"><u>The Ultimate Top 5 iPhone Podcast Apps Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-tutorial-operating-the-measure-application-on-android-phones/"><u>The Ultimate Tutorial: Operating the Measure Application on Android Phones</u></a></li>
 </ul></div>
 

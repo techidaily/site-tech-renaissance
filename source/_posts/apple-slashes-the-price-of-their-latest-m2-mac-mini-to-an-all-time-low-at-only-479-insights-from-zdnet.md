@@ -1,7 +1,7 @@
 ---
 title: Apple Slashes the Price of Their Latest M2 Mac Mini to an All-Time Low at Only $479 - Insights From ZDNet
-date: 2024-11-10T01:15:56.317Z
-updated: 2024-11-15T16:17:22.198Z
+date: 2024-11-21T16:01:05.645Z
+updated: 2024-11-25T16:00:41.382Z
 tags:
   - apple
 categories:
@@ -46,6 +46,10 @@ So what could Apple tell me now that would make me instantly conclude I need an 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## It's the camera, stupid
 
 The company's first gambit is: "iPhone 15 captures up to 4x the resolution of iPhone 12for a new level of detail and color."
@@ -63,10 +67,7 @@ Next Apple offers: "Get more room to zoom with a 2x Telephoto. It's like having 
 On which subject, we move to Apple's next tease: "If your subject is a person, dog, or cat, iPhone 15 lets you quickly capture the shot and turn it into a portrait later." This makes it sound like it's a feature only for people, dogs, and cats. Which, again, is nice but is it worth the upgrade?
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## And it's the movies
@@ -88,10 +89,7 @@ Apple explains: "Longer battery life lets you watch up to 3 more hours of video 
 That's the thing when people buy phones. They prefer actual results. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can I buy into the dynamism?
@@ -152,20 +150,21 @@ Perhaps that one will have something about it that I just can't resist. I can wa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-vector-graphics-innovation-top-apps-to-transform-your-creations/"><u>[New] Vector Graphics Innovation Top Apps to Transform Your Creations</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-key-approaches-to-building-effective-youtube-collaborations-for-2024/"><u>[Updated] Key Approaches to Building Effective YouTube Collaborations for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-vloggers-selection-premium-camera-lenses-compared/"><u>[Updated] The Vlogger's Selection Premium Camera Lenses Compared</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-nubia-red-magic-9-proplus-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Nubia Red Magic 9 Pro+</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-solution-to-correct-d3dx941dll-errors-on-your-pc/"><u>Comprehensive Solution to Correct 'd3dx9_41.dll' Errors on Your PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/get-informed-the-most-recent-windows-updates-and-service-packs-for-july-2024/"><u>Get Informed: The Most Recent Windows Updates and Service Packs for July 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-fix-jvmdll-not-found-or-missing-errors/"><u>How to Fix Jvm.dll Not Found or Missing Errors</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/picture-perfection-partial-blur-on-pcmobile-devices-for-2024/"><u>Picture Perfection Partial Blur on PC/Mobile Devices for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/pinpointing-your-pcs-disk-is-it-an-hdd-or-ssd/"><u>Pinpointing Your PC's Disk: Is It an HDD or SSD?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solutions-for-the-missing-mfc42dll-error-on-your-computer/"><u>Step-by-Step Solutions for the 'Missing mfc42.dll Error' On Your Computer</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-eliminating-user-authentication-pins-on-microsofts-latest-operating-system/"><u>The Ultimate Guide to Eliminating User Authentication Pins on Microsoft's Latest Operating System</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-ultimate-guide-to-picking-powerful-yt-thumbnails-for-2024/"><u>The Ultimate Guide to Picking Powerful YT Thumbnails for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-comparison-of-premium-group-video-calls-solutions/"><u>Ultimate Comparison of Premium Group Video Calls Solutions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/upcoming-google-pixel-9-unveiling-rumored-features-estimated-cost-and-launch-timeline/"><u>Upcoming Google Pixel 9: Unveiling Rumored Features, Estimated Cost & Launch Timeline</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-cut-trim-and-edit-top-10-free-mp4-video-editing-solutions/"><u>Updated 2024 Approved Cut, Trim, and Edit Top 10 Free MP4 Video Editing Solutions</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-exemplary-audio-enhancing-programs-for-youtube-artists/"><u>[New] Exemplary Audio-Enhancing Programs for YouTube Artists</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-excellent-cameras-facing-panel-first-choice/"><u>[New] In 2024, Excellent Cameras Facing Panel First Choice</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-the-ultimate-farming-revamp-7-14-mod-comparison-guide/"><u>[New] In 2024, The Ultimate Farming Revamp #7-14 Mod Comparison Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-download-custom-mcb-banner-packs/"><u>[Updated] 2024 Approved Download Custom MCB Banner Packs</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-expand-your-horizons-with-these-elite-science-yts/"><u>[Updated] In 2024, Expand Your Horizons with These Elite Science YTs</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-giggle-game-top-15-cheeky-youtube-creators-to-admire-for-2024/"><u>[Updated] The Giggle Game Top 15 Cheeky YouTube Creators to Admire for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/access-a-library-of-movies-and-tv-for-free-with-streaming-service-crackle/"><u>Access a Library of Movies & TV for FREE with Streaming Service Crackle</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/decoding-the-mystery-of-emojis-10-shocking-facts-revealed/"><u>Decoding the Mystery of Emojis: 10 Shocking Facts Revealed</u></a></li>
+<li><a href="https://fox-that.techidaily.com/essential-troubleshooting-steps-why-your-iphone-might-ignore-calls-and-how-to-solve-it/"><u>Essential Troubleshooting Steps: Why Your iPhone Might Ignore Calls & How To Solve It</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-tecno-pop-7-pro-frp-by-drfone-android/"><u>Full Guide to Bypass Tecno Pop 7 Pro FRP</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-to-correcting-error-binkw32dll-file-absent-on-your-pc/"><u>Guide to Correcting Error: binkw32.dll File Absent on Your PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-samsung-smart-tv-upgrades-tips-and-tricks-inside/"><u>Mastering Samsung Smart TV Upgrades: Tips and Tricks Inside</u></a></li>
+<li><a href="https://techidaily.com/sign-word-2016-documents-online-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign Word 2016 Documents Online for Free</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/signal-vs-whatsapp-understanding-their-unique-features/"><u>Signal Vs. WhatsApp: Understanding Their Unique Features</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-the-missing-d3dx933dll-error-on-your-pc/"><u>Troubleshooting the Missing d3dx9_33.dll Error on Your PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlinking-messages-and-facebook-your-steps-to-chat-freely-on-messenger/"><u>Unlinking Messages & Facebook: Your Steps to Chat Freely on Messenger</u></a></li>
 </ul></div>
 

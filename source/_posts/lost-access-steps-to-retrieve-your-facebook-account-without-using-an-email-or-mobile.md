@@ -1,7 +1,7 @@
 ---
 title: "Lost Access: Steps to Retrieve Your Facebook Account Without Using an Email or Mobile"
-date: 2024-09-04T01:20:34.983Z
-updated: 2024-09-05T01:20:34.983Z
+date: 2024-11-18T12:23:46.291Z
+updated: 2024-11-25T12:38:27.647Z
 categories:
   - BestProducts
 description: "This Article Describes Lost Access: Steps to Retrieve Your Facebook Account Without Using an Email or Mobile"
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/15954b5de302fb65bb19b216711303e6c7127c1ad
  There are many reasons why an iPhone won't ring, but most of these problems are easy to fix. If your iPhone isn't ringing when someone calls you, try these tips before concluding that your iPhone needs an expensive repair.
 
  The tips in this article apply to all supported iPhone models and recent iOS versions, including iOS 13, 12, and 11.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix an iPhone That Won't Ring
 
@@ -33,9 +37,19 @@ thumbnail: https://thmb.techidaily.com/15954b5de302fb65bb19b216711303e6c7127c1ad
    3. Tap the red circle beside the blocked number, and then tap**Unblock** .  
 ![An iPhone with the Phone settings, Blocked Contacts heading, and Unblock button highlighted](https://www.lifewire.com/thmb/MPfrUdCCr2HLjH9Va4OIkm1zN3o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-2308e3feb71f4c9194900da12675ecb2.jpg)
 6. Disable Silence Unknown Callers. To help users avoid spam calls and robocalls, Apple added a feature in[iOS 13](https://www.lifewire.com/ios-13-4586609) that automatically silences all calls from unknown numbers. If this feature is turned on, you won't hear calls from numbers that aren't in the Contacts app. Instead, the iPhone sends them right to voicemail. To disable this feature, select**Settings** \>**Phone** , and then turn off the**Silence Unknown Callers** switch.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you want to keep Silence Unknown Callers turned on but still get calls from certain numbers,[add those callers to Contacts](https://www.lifewire.com/manage-contacts-iphone-address-book-2000570) .  
 ![iPhone showing the Phone settings and Silence Unknown Callers switch](https://www.lifewire.com/thmb/PfmlpvYkxD5z2_TErc_402j9xA8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-b93c2874c9784090a83900ec430caf0b.jpg)
 7. Change your custom ringtone. If your iPhone still doesn't ring for incoming calls, check your ringtone. If you[set up unique ringtones for contacts](https://www.lifewire.com/assign-unique-ringtone-on-iphone-2000557) , a deleted or corrupted ringtone can prevent the phone from ringing when someone calls.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To check the default ringtone, tap**Settings** \>**Sounds & Haptics** \>**Ringtone** , and then select a new ringtone.  
  If you miss calls from only certain people, open the Phone app, and then complete these steps:  
    1. Tap**Contacts** .  
@@ -43,6 +57,11 @@ thumbnail: https://thmb.techidaily.com/15954b5de302fb65bb19b216711303e6c7127c1ad
    3. Tap**Ringtone** , and then assign the contact a new ringtone.  
 ![Three iOS screens showing Contacts, Edit button and Ringtone area in Phone settings app](https://www.lifewire.com/thmb/dQgktPdfOQV7lnazDKmKLLfIXPI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-5bbe5923c9e77c005156dd60.jpg)  
  If the unique ringtone is the source of the problem, find all the contacts to whom you assigned that ringtone and select a new ringtone for each.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. [Make sure the phone isn't stuck in Headphone mode](https://www.lifewire.com/fix-iphone-stuck-in-headphone-mode-4175912) . It could be that your iPhone is ringing but sending the audio to the wrong place. In this situation, the iPhone thinks that another audio source is attached to it—like headphones or a Bluetooth device—and tries to ring there instead of through your iPhone speaker.
 
 ## If None of These Tips Fixed the Problem
@@ -52,11 +71,9 @@ thumbnail: https://thmb.techidaily.com/15954b5de302fb65bb19b216711303e6c7127c1ad
 [How to Fix It When iPhone Call Volume Is Low](https://www.lifewire.com/fix-low-volume-on-call-on-iphone-5186012)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Causes of the iPhone Not Ringing Problem
 
  If your iPhone isn't ringing, there are several possible culprits:
@@ -96,8 +113,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -105,4 +120,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-crafting-precise-shadows-with-adobe-curves/"><u>[New] 2024 Approved Crafting Precise Shadows with Adobe Curves</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-11-fitness-youtube-video-ideas-to-keep-you-and-your-viewers-moving/"><u>[Updated] 11 Fitness YouTube Video Ideas to Keep You and Your Viewers Moving</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-free-vecto-art-and-graphic-sites-compared-whos-the-best-for-2024/"><u>[Updated] Free Vecto Art & Graphic Sites Compared – Who's the Best for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-craft-viral-unboxing-content-on-social-media/"><u>[Updated] How to Craft Viral Unboxing Content on Social Media</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-terminology-trek-through-the-virtual-landscape/"><u>2024 Approved Terminology Trek Through the Virtual Landscape</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/cost-prohibits-new-ai-capabilities-from-landing-on-previous-generation-iphones-insight/"><u>Cost Prohibits New AI Capabilities From Landing on Previous Generation iPhones - Insight</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/customizing-the-control-center-on-ios-18-a-step-by-step-guide/"><u>Customizing the Control Center on iOS 18: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enhanced-functionality-alert-explore-the-most-notable-enhancements-in-apple-watch-series-upgrade-to-watchos-grower-with-our-in-depth-review-gadgetguru/"><u>Enhanced Functionality Alert! Explore the Most Notable Enhancements in Apple Watch Series - Upgrade to WatchOS Grower with Our In-Depth Review | GadgetGuru</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-12-pro-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 12 Pro To Other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-oneplus-nord-ce-3-lite-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From OnePlus Nord CE 3 Lite 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-se-2022-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone SE (2022) to other iPhone 13 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-c51withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme C51with/without a PC</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-integrating-extra-footage-crafting-engaging-visual-narratives/"><u>In 2024, Integrating Extra Footage Crafting Engaging Visual Narratives</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/pixel-9-pro-xl-vs-iphone-15-pro-the-ultimate-camera-showdown-reveals-unexpected-outcome-full-review/"><u>Pixel 9 Pro XL vs iPhone 15 Pro: The Ultimate Camera Showdown Reveals Unexpected Outcome – Full Review</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-4-kid-friendly-ipad-models-comprehensive-review/"><u>Top 4 Kid-Friendly iPad Models Comprehensive Review</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-mp3-player-reviews-and-picks-zdnet-guide/"><u>Top Rated MP3 Player Reviews and Picks - ZDNet Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-a-non-existent-steamdll-file-expert-advice-for-fixes/"><u>Troubleshooting a Non-Existent Steam.dll File: Expert Advice for Fixes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-distinctive-features-a-comparison-between-macs-and-pcs/"><u>Unveiling the Distinctive Features: A Comparison Between Macs & PCs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-latest-apple-releases-updated-13-and-15-macbook-air-featuring-powerful-m3-processor-key-details/"><u>Unveiling the Latest: Apple Releases Updated 13 & 15 MacBook Air Featuring Powerful M3 Processor – Key Details</u></a></li>
+</ul></div>
 

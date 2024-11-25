@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated Waterproof Smartwatches : Comprehensive Reviews & Testing Insights | TechRadar"
-date: 2024-11-10T21:33:26.214Z
-updated: 2024-11-15T19:48:06.409Z
+date: 2024-11-22T16:00:08.456Z
+updated: 2024-11-25T16:06:15.675Z
 tags:
   - apple
 categories:
@@ -47,13 +47,6 @@ Cons
 
 ## Apple Watch Ultra 2
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Best waterproof smartwatch overall
 
 The Apple Watch maintained the same form factor and basic design for eight years, but all of that changed in 2022 when Apple released the radical new [Apple Watch Ultra](https://www.zdnet.com/article/how-tough-is-the-apple-watch-ultra-i-stress-tested-it-for-9-months/), built and optimized for the outdoor adventurer. The Ultra 2 builds on the Ultra with a new processor, a much brighter display, twice the storage capacity, and the use of recycled titanium materials.
@@ -82,13 +75,14 @@ Cons
 * Less than two-day battery life
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Watch Series 9
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best waterproof smartwatch for most iPhone users
 
@@ -119,13 +113,6 @@ Pros
 
 Cons 
 * Expensive
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Garmin Quatix 7 Pro
 
@@ -185,14 +172,11 @@ Pros
 Cons 
 * Large display is likely to consumer more battery power
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Samsung Galaxy Watch 6 Classic
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best waterproof Samsung smartwatch
 
@@ -255,7 +239,15 @@ Cons
 * Questionable heart rate readings
 * One size available
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Suunto Race
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best waterproof smartwatch with lap counter
 
@@ -272,10 +264,7 @@ Other data such as sleep tracking, HRV measurements, training load, and recovery
 Show Expert Take Show less 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the best waterproof smartwatch?
@@ -295,10 +284,7 @@ If you're an Android user, you may prefer a Samsung Galaxy 6 Classic -- the newe
 | Suunto Race                    | $450      | 12 days          | 49mm               |
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which is the right waterproof smartwatch for you?
@@ -319,13 +305,6 @@ However, finding the best waterproof smartwatch for you can be more complicated,
 | Coros Apex 2 Pro               | A watch with a very long battery life that relieves you of any battery anxiety. It is also smaller so less of an issue while swimming, surfing, or paddling.                                                                                                                                     |
 | Suunto Race                    | A powerful watch that tracks your laps, surfing metrics, and has a long battery life. Your sleep and other health metrics are also captured with the AI coach providing guidance for optimal performance.                                                                                        |
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Factors to consider when buying a smartwatch
 
 Smartwatches serve as companions to our smartphones, and there are several things to consider as you explore the many options available to you. Several factors will help you quickly narrow down available candidates, so let's take a closer look and help you select the best smartwatch for you.
@@ -335,6 +314,10 @@ Smartwatches serve as companions to our smartphones, and there are several thing
 * **Battery life:** Expect your Apple or Samsung smartwatch to last a full day and night, so you can track your sleep and then charge it while you get ready for work. Other waterproof watches in this list last for days or even weeks so you have lots of options when it comes to figuring out your desired charging strategy.
 * **Cellular connectivity:** While smartwatches serve as companions to our smartphones, some models support cellular connectivity. If you buy one of these then you will need a watch line with your carrier, but these are typically $10 per month. The Apple Watch Ultra 2 only comes with LTE support, but you are not required to enable cellular service. Cellular capability is great for those who want to leave their phones behind and still remain connected for communications, application usage, and safety.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How we test smartwatches
 
 All of the smartwatches included in this list were chosen based on how they performed when tested in the real world by the ZDNET team. When we test smartwatches, we typically follow the same routine for each one to see which performs best.
@@ -343,19 +326,6 @@ All of the smartwatches included in this list were chosen based on how they perf
 * **Application selection and performance**: One aspect that makes smartwatches different than standard watches is the support for applications. We load up the watch with apps and then test the performance and functionality of those applications. Apple excels in the area of third party application support with Google's Play Store improving each year. Garmin, Suunto, and others also are expanding the number and selection of apps available on watches.
 * **Workouts**: Smartwatch makers have embraced health and fitness so we take our smartwatch out for swimming in the pool or local lakes, running with GPS, rowing on the Hydrow, biking on trails, and walking with the family. GPS and heart rate data is tracked and then we evaluate the accuracy against proven GPS sports watches.
 * **Sleep and activity tracking:** Sleep tracking has improved with smartwatches over time and we evaluate them as compared to smart rings and other watches. Night time is also a good time to charge your smartwatch so you may choose not to use your watch to track sleep so your watch can serve faithfully all day and into the night.
-
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Can you use a Samsung or Google watch with an iPhone?
 
@@ -380,6 +350,10 @@ After initial setup, a cellular-enabled Samsung Galaxy Watch can act as a stand-
 Health and fitness tracking have been the areas with the most innovations and improvements in the last few years. While these watches are not medical devices, they have sensors, algorithms, and applications that help you track trends in your heart rate, stress levels, and blood oxygen levels, even allowing you to detect when ovulation occurs. You can use it as a basic ECG to check if further investigation is needed. The latest Galaxy Watch 5 can also measure your body composition; testing indicates it matches other methods reasonably well.
 
 These smartwatches can also serve as capable GPS sports watches to track the details of your outdoor activities. Exercise guidance is provided on the watch with connected health applications on your smartphone so you can keep track of your progress, too.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are there alternative waterproof smartwatches worth considering?
 
@@ -429,22 +403,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-effortless-gaming-sessions-on-your-screen-for-2024/"><u>[New] Effortless Gaming Sessions on Your Screen for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-transparency-in-tracking-youtube-viewers/"><u>[New] Transparency in Tracking YouTube Viewers</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-a-visual-journey-in-filmmaking-insights-from-filmora-expertise/"><u>[Updated] A Visual Journey in Filmmaking Insights From Filmora Expertise</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-unlock-free-youtube-gallery-downloads-now/"><u>[Updated] Unlock Free YouTube Gallery Downloads Now</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/bringing-back-the-beat-solutions-for-unresponsive-audio-equipment/"><u>Bringing Back the Beat: Solutions for Unresponsive Audio Equipment</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/crafting-the-perfect-gaming-beast-for-less-than-1k-rtx-4070-2tb-ssd-and-how-we-did-it-using-prime-day-deals/"><u>Crafting the Perfect Gaming Beast for Less than $1K: RTX 4070, 2TB SSD, and How We Did It Using Prime Day Deals</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/diy-key-repair-restoring-functionality-to-damaged-laptop-keys/"><u>DIY Key Repair: Restoring Functionality to Damaged Laptop Keys</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-to-follow-tutorial-returning-your-lenovo-laptop-to-its-original-state/"><u>Easy-to-Follow Tutorial: Returning Your Lenovo Laptop to Its Original State</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-imperator-rome-establishing-dominion-or-embracing-downfall/"><u>Exploring 'Imperator: Rome': Establishing Dominion or Embracing Downfall</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Realme C67 4G | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigate-past-code-41-effective-strategies-to-resolve-windows-device-manager-glitches/"><u>Navigate Past Code 41: Effective Strategies to Resolve Windows Device Manager Glitches</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/navigating-instas-archive-maze-for-optimal-results-for-2024/"><u>Navigating Insta’s Archive Maze for Optimal Results for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-the-comctl32dll-error-a-step-by-step-guide/"><u>Resolving the 'Comctl32.dll' Error: A Step-by-Step Guide</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/samsung-galaxy-watch-review-smartly-designed-inside-and-out/"><u>Samsung Galaxy Watch Review: Smartly Designed, Inside and Out</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/simple-guide-how-to-deactivate-voice-navigation-on-a-samsung-tv-model/"><u>Simple Guide: How to Deactivate Voice Navigation on a Samsung TV Model</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-7-best-smartphone-alarm-clock-applications/"><u>Top 7 Best Smartphone Alarm Clock Applications</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/wireless-audio-magic-pairing-your-airpods-with-your-hp-computer/"><u>Wireless Audio Magic: Pairing Your AirPods with Your HP Computer</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-gameglasses-glimpse-guide/"><u>[New] 2024 Approved GameGlasses Glimpse Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-instant-upload-solutions-top-5-free-online-converter-services/"><u>[Updated] Instant Upload Solutions Top 5 Free Online Converter Services</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-nokia-105-classic-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-easeus-tech-diverse-viewpoints/"><u>2024 Approved EaseUS Tech, Diverse Viewpoints</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comparing-ipad-models-ipad-mini-versus-ipad-air-key-features-and-distinctions/"><u>Comparing iPad Models: IPad Mini Versus iPad Air – Key Features and Distinctions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/detailed-analysis-of-top-tier-computer-hardware-by-toms-technology-hub/"><u>Detailed Analysis of Top-Tier Computer Hardware by Tom's Technology Hub</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/eliminating-directxdirectinputdll-runtime-errors-tips-and-tricks/"><u>Eliminating DirectxDirectinputDll Runtime Errors: Tips and Tricks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-to-altering-mobile-device-positioning-tricks-for-modifying-gps-coordinates/"><u>Guide to Altering Mobile Device Positioning: Tricks for Modifying GPS Coordinates</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-enable-or-disable-in-screen-typing-tool-in-microsofts-new-os-windows-11/"><u>How To Enable or Disable In-Screen Typing Tool in Microsoft's New OS, Windows 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/prime-desktop-systems-for-quality-use/"><u>Prime Desktop Systems for Quality Use</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/savvy-shopping-5-important-considerations-before-acquiring-a-refurbished-notebook/"><u>Savvy Shopping: 5 Important Considerations Before Acquiring a Refurbished Notebook</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-updating-your-microsoft-powerpoint-presentations/"><u>Step-by-Step Guide: Updating Your Microsoft PowerPoint Presentations</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-aligning-sound-with-video-on-chromecast-audio/"><u>Step-by-Step Tutorial: Aligning Sound with Video on Chromecast Audio</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unpacking-the-microsoft-sculpt-ergonomic-keyboard-top-features-and-exceptional-worth/"><u>Unpacking the Microsoft Sculpt Ergonomic Keyboard: Top Features and Exceptional Worth</u></a></li>
+<li><a href="https://games-able.techidaily.com/where-are-my-digital-paintings-preserved/"><u>Where Are My Digital Paintings Preserved?</u></a></li>
 </ul></div>
 

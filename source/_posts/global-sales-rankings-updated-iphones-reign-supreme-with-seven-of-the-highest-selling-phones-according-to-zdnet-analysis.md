@@ -1,7 +1,7 @@
 ---
 title: "Global Sales Rankings Updated: IPhones Reign Supreme with Seven of the Highest Selling Phones, According to ZDNet Analysis"
-date: 2024-11-15T03:47:34.496Z
-updated: 2024-11-15T18:06:07.331Z
+date: 2024-11-24T16:01:09.874Z
+updated: 2024-11-25T16:00:53.696Z
 tags:
   - apple
 categories:
@@ -59,6 +59,10 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to navigate the iOS 18 Photos app
 
 Maria Diaz/ZDNET
@@ -105,32 +109,15 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-movie-edits-the-best-tools-ranked/"><u>[New] Mastering Movie Edits The Best Tools Ranked</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-syncing-twitter-and-snapchat-for-sharing-videos/"><u>[Updated] 2024 Approved Syncing Twitter & Snapchat for Sharing Videos</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-honor-magic-vs-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Honor Magic Vs 2 | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/advanced-secure-login-for-icloud-emails-with-2fa-technology/"><u>Advanced Secure Login for iCloud Emails with 2FA Technology</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/are-evs-as-eco-friendly-as-they-claim-a-deep-dive-into-their-green-credentials/"><u>Are EVs as 'Eco-Friendly' As They Claim? A Deep Dive Into Their Green Credentials</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/dive-into-windows-11-battery-details-a-step-by-step-user-manual-on-utilizing-reports/"><u>Dive Into Windows 11 Battery Details - A Step-by-Step User Manual on Utilizing Reports</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/dynamic-design-the-art-of-adding-motion-to-photos-in-adobe-illustrators/"><u>Dynamic Design The Art of Adding Motion to Photos in Adobe Illustrators</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/gopro-hero-5-black-vs-nikon-keymission-170-which-one-is-better-for-2024/"><u>GoPro Hero 5 Black vs Nikon Keymission 170 Which One Is Better for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-streaming-android-videos-to-your-amazon-firestick/"><u>Guide: Streaming Android Videos to Your Amazon Firestick</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/improve-performance-and-fix-issues-with-amd-radeon-download-v2n10-graphics-card-drivers/"><u>Improve Performance & Fix Issues With AMD Radeon - Download V2n.10 Graphics Card Drivers</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-amplifying-your-youtube-presence-through-consistent-content-release/"><u>In 2024, Amplifying Your YouTube Presence Through Consistent Content Release</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-streamlining-your-edit-with-jump-cut-tips/"><u>In 2024, Streamlining Your Edit with Jump Cut Tips</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/interrupting-infinity-tips-for-preventing-unending-plays-in-apple-music/"><u>Interrupting Infinity: Tips for Preventing Unending Plays in Apple Music</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-easy-way-to-create-a-diy-green-screen-video-effect/"><u>Updated Easy Way to Create a DIY Green Screen Video Effect</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-gain-ground-on-social-media-leaders-with-insta-growth-tips/"><u>[New] Gain Ground on Social Media Leaders with Insta-Growth Tips</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-unbeatable-tag-analyzers-for-facebook-twitter-and-instagram-sites/"><u>[New] Unbeatable Tag Analyzers for Facebook, Twitter & Instagram Sites</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-logitech-audio-device-software-for-win10-versions-11-7-and-8/"><u>Get the Newest Logitech Audio Device Software for WIN10 Versions: 11, 7, and 8</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-locked-iphone-6s-plus-by-restoring-it-to-factory-settings-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock locked iPhone 6s Plus by restoring it to factory settings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movavis-convert-aac-files-to-mp3-quick-reliable-online-tool-for-free/"><u>Movavi's Convert AAC Files to MP3: Quick, Reliable Online Tool for Free!</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/polishing-profile-vids-tips-and-tricks-for-2024/"><u>Polishing Profile Vids Tips and Tricks for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/speeding-up-your-system-effective-strategies-to-enhance-computer-performance/"><u>Speeding Up Your System: Effective Strategies to Enhance Computer Performance</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-installing-the-anker-bluetooth-mouse-drivers/"><u>Step-by-Step Guide: Installing the Anker Bluetooth Mouse Drivers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-reclaiming-disk-space-on-windows-11-systems/"><u>Step-by-Step Guide: Reclaiming Disk Space on Windows 11 Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-for-turning-onoff-cookies-on-popular-browsers-chrome-firefox-opera-and-edge-running-on-windows-ebox/"><u>Step-by-Step Instructions for Turning On/Off Cookies on Popular Browsers (Chrome, Firefox, Opera & Edge) Running on Windows Ebox</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

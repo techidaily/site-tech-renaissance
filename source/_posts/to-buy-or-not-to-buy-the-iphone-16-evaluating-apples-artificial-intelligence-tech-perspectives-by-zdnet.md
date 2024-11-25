@@ -1,7 +1,7 @@
 ---
 title: "To Buy or Not to Buy the iPhone 16: Evaluating Apple’s Artificial Intelligence Tech | Perspectives by ZDNet"
-date: 2024-11-10T22:16:46.062Z
-updated: 2024-11-16T01:33:52.159Z
+date: 2024-11-20T16:00:07.625Z
+updated: 2024-11-25T16:00:09.997Z
 tags:
   - apple
 categories:
@@ -36,19 +36,6 @@ Apple was expected to focus on incorporating AI into its apps to simplify users'
 
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What does Apple Intelligence do?
 
 Apple
@@ -68,6 +55,10 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is Siri getting an Apple Intelligence makeover?
 
 Apple
@@ -85,10 +76,7 @@ The voice assistant will also be able to perform hundreds of new actions across 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's new in Apple's photo editing & search?
@@ -104,10 +92,7 @@ Apple is adding natural language photo and video search to its Photos app. This 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does systemwide AI text generation work?
@@ -121,13 +106,6 @@ The same feature can help users make major edits to text, such as changing the t
 **Also:** [**You can finally schedule messages on the iPhone. Here's what to know**](https://www.zdnet.com/article/you-can-finally-schedule-messages-on-the-iphone-heres-how/)
 
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What is Image Playground?
 
@@ -169,6 +147,10 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is Apple Intelligence actually private and secure?
 
 Apple
@@ -183,6 +165,10 @@ The company is striving to keep the AI features secure through several mechanism
 * **Independent code review:** With Private Cloud Compute, Apple explained that the code is available for independent experts to inspect and verify it meets privacy standards.
 * **Data encryption:** Apple encrypts all data sent to and from its servers as another layer of security.
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
 
@@ -224,21 +210,15 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-elevate-your-youtube-presence-with-expert-idevice-screen-techniques-for-2024/"><u>[New] Elevate Your YouTube Presence with Expert iDevice Screen Techniques for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-the-ultimate-guide-to-youtube-thumbnail-sizes/"><u>[New] In 2024, The Ultimate Guide to YouTube Thumbnail Sizes</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-lens-to-legacy-building-a-lasting-career-in-travel-blogging-for-2024/"><u>[Updated] From Lens to Legacy Building a Lasting Career in Travel Blogging for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-a-critical-look-at-irecorders-screenshot-tech/"><u>[Updated] In 2024, A Critical Look at iRecorder's Screenshot Tech</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/beginners-blueprint-for-crafting-your-psn-signup/"><u>Beginner's Blueprint for Crafting Your PSN Signup</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/culinary-catastrophe-or-masterpiece-exploring-overcooked-2/"><u>Culinary Catastrophe or Masterpiece? Exploring Overcooked! 2</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/dciman32dll-missing-heres-how-to-correctly-fix-it/"><u>dciman32.dll Missing? Here’s How to Correctly Fix It</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/deciphering-the-buzz-on-the-tesla-cellphone-predicted-price-tag-launch-date-and-technical-specifications/"><u>Deciphering the Buzz on the Tesla Cellphone - Predicted Price Tag, Launch Date & Technical Specifications</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/from-silence-to-symphony-the-ultimate-beginners-manual-on-home-audio-systems/"><u>From Silence to Symphony: The Ultimate Beginner's Manual on Home Audio Systems</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-honor-v-purse-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on Honor V Purse</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-fix-problems-with-usb-tethering-on-android-devices/"><u>How To Fix Problems With USB Tethering On Android Devices</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-100-pro-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor 100 Pro to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-oneplus-nord-ce-3-5g-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on OnePlus Nord CE 3 5G Phones</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigating-network-paths-with-ease-expert-insights-into-using-tracert-on-your-pc/"><u>Navigating Network Paths with Ease: Expert Insights Into Using 'Tracert' On Your PC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-the-best-ipad-pro-cases-in-2021-expertly-tested-and-analyzed-zdnet/"><u>Ultimate Guide to the Best iPad Pro Cases in 202([[1]], Expertly Tested and Analyzed | ZDNET</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-quintessential-free-tools-for-malware-removal-2024-edition/"><u>Unveiling the Quintessential Free Tools for Malware Removal, 2024 Edition</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1-hassle-free-tutorial-ripping-and-streaming-dvd-films-onto-your-roku-using-mac-or-pc/"><u>1. Hassle-Free Tutorial: Ripping & Streaming DVD Films Onto Your Roku Using Mac or PC</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/autoplay-youtube-recommendations/"><u>Halt Autoplay YouTube Recommendations</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/inspecting-macbook-overheating-risks-top-strategies-to-check-and-control-temperature/"><u>Inspecting MacBook Overheating Risks: Top Strategies to Check and Control Temperature</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-windows-11s-network-settings-learn-how-to-toggle-network-discovery-onoff-effortlessly/"><u>Mastering Windows 11'S Network Settings: Learn How to Toggle Network Discovery On/Off Effortlessly</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-mssoccsndll-and-msostsdll-missing-errors-on-your-pc/"><u>Resolving 'mssoccsn.dll' And 'msosts.dll' Missing Errors on Your PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fix-for-steelseries-arctis-7-mic-problems-a-users-handbook/"><u>Step-by-Step Fix for SteelSeries Arctis 7 Mic Problems - A User's Handbook</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/thriving-in-the-freefire-arena-with-pro-gamers-guide/"><u>Thriving in the FreeFire Arena with Pro Gamers' Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-6-online-stores-to-purchase-your-next-high-performance-laptop/"><u>Top 6 Online Stores to Purchase Your Next High-Performance Laptop</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-and-fixing-the-error-message-when-msidll-is-missing-from-your-system/"><u>Understanding and Fixing the Error Message When msi.dll Is Missing From Your System</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-v30-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo V30 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
 </ul></div>
 

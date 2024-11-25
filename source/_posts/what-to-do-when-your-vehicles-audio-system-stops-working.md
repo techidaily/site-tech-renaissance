@@ -1,7 +1,7 @@
 ---
 title: What to Do When Your Vehicle's Audio System Stops Working
-date: 2024-09-04T01:21:46.345Z
-updated: 2024-09-05T01:21:46.345Z
+date: 2024-11-18T06:16:43.520Z
+updated: 2024-11-24T21:44:50.074Z
 categories:
   - BestProducts
 description: This Article Describes What to Do When Your Vehicle's Audio System Stops Working
@@ -18,6 +18,10 @@ thumbnail: https://www.lifewire.com/thmb/mPwVHgdFzhxTqaLUFZ0iPNmSYxk=/400x300/fi
 
  This article explains how to find and interact with older notifications on your iPhone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Do I View Past Notifications on iPhone?
 
  Notifications that have recently popped up on your iPhone’s lock screen should remain visible for some time. However, eventually, they will disappear or be replaced by more recent ones. If you happen to miss any notifications, recalling them is simple.
@@ -29,26 +33,39 @@ thumbnail: https://www.lifewire.com/thmb/mPwVHgdFzhxTqaLUFZ0iPNmSYxk=/400x300/fi
 3. Depending on the number of pending notifications, you may see all of them or be organized into groups based on the apps that generated the notifications.  
 ![Swiping up to view the Notification Center on the iPhone Lock screen](https://www.lifewire.com/thmb/2ChwjgKfHw6LD0SO3AW-Th9tN2w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_view-old-notifications-on-iphone-5212339-4141b55e71b9428ebdaaa0b9896fa5fd.jpg)
 4. Tap a notification, such as a text, to open the connected app.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If your iPhone is locked, you must unlock it with Face ID, Touch ID, or your password to continue.
 5. Swipe left on a notification (or grouping of notifications) to pull up the**Options** and**Clear/Clear All** buttons.
 6. Tap**Options** to pull up a small menu to adjust notification settings for the app the notification originated from. If desired, you can use the menu to mute or turn off notifications for the app.  
 ![iPhone Notification screen with Open, Options, Clear All highlighted and swipe left indicated](https://www.lifewire.com/thmb/n7FbKDAPSdoyav7UQdba-igvm4M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Swipeleft-959079301a7c4079b70a47f7333c8676.jpg)
 7. Tap**Clear** or**Clear All** (depending on if there's one or several notifications in one category) to delete notifications from an organized group.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This action will remove existing notifications from your Lock Screen until new ones appear but will not affect anything from within the app itself. It will also not affect notifications badges appearing on the app’s icon.
 8. If you want to delete all current notifications at once, tap**X** (next to Notification Center), then tap**Clear All Notifications** . As with**Clear All** , this will remove existing notifications from your iPhone’s lock screen.  
 ![iPhone Notifications with Clear, X, and Clear all Notifications highlighted](https://www.lifewire.com/thmb/dT2FzzX1qo2wc0Gk4zYO2_dqzVM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Clearallnotifications-9ad9e652a6994a3fa1de4b4e0c619980.jpg)
 9. To view notifications when your phone is not on the Lock Screen, swipe down from the top-left corner of the screen. This will reveal your iPhone’s Lock Screen (though it won’t actually lock your phone).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 10. The (unlocked) Lock Screen will display any available notifications, which will be organized by app.
 11. If there are no notifications to view, the screen will display No Older Notifications instead.  
 ![Swipe down on screen indicated and No Older Notifications highlighted](https://www.lifewire.com/thmb/sEg6zvpTFl35ttLCCfbt5RA4LHQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Nonotifications-0fff2883c9f84963a4281cb840be5617.jpg)
 12. You can interact with any available notifications in the same way as above.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Do I See Deleted Notifications?
 
  Unfortunately, you cannot view notifications once you've deleted them. If you delete, clear, or open one, it will no longer appear on your iPhone's lock screen, and there's no way to retrieve it.  
@@ -86,8 +103,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -95,4 +110,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-mastering-memories-transforming-snapshayers-to-share/"><u>[New] In 2024, Mastering Memories Transforming Snapshayer's to Share</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-flashstoppage-instant-video-quit-guide-for-2024/"><u>[Updated] FlashStoppage Instant Video Quit Guide for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-cutting-edge-techniques-for-subtitling-in-wmp/"><u>[Updated] In 2024, Cutting Edge Techniques for Subtitling in WMP</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-prime-instant-window-photo-viewer/"><u>[Updated] Prime Instant Window Photo Viewer</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-traversing-youtube-dialogue-pathways/"><u>[Updated] Traversing YouTube Dialogue Pathways</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-from-observing-to-involved-the-tiktok-life-journey/"><u>2024 Approved From Observing to Involved The TikTok Life Journey</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/bust-a-laugh-with-these-smartphone-sneak-attacks-best-apple-pranks-ever/"><u>Bust a Laugh with These Smartphone Sneak Attacks: Best Apple Pranks Ever</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-analysis-of-iphone-n-series-smart-purchase-strategies-experts/"><u>Complete Analysis of iPhone N-Series - Smart Purchase Strategies Experts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722979003299-effortless-setup-for-your-linksys-ae1200-router-instant-access-to-the-newest-drivers/"><u>Effortless Setup for Your Linksys AE1200 Router - Instant Access to the Newest Drivers!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-alarm-apps-a-comprehensive-review-of-the-top-seven-picks/"><u>Essential Alarm Apps: A Comprehensive Review of the Top Seven Picks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-advice-on-fixing-the-elusive-code-28-error-in-windows/"><u>Expert Advice on Fixing the Elusive Code 28 Error in Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-6-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 6 Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-craft-the-ultimate-guide-to-mac-based-document-automation-zdnet/"><u>Mastering Craft: The Ultimate Guide to Mac-Based Document Automation | ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-11-unmissable-last-minute-christmas-shopping-bargains-featured-on-zdnet/"><u>Top 11 Unmissable Last-Minute Christmas Shopping Bargains - Featured on ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-when-is-aol-mail-not-responding/"><u>Troubleshooting: When Is AOL Mail Not Responding?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-resolving-issues-with-iphones-non-functional-alarm/"><u>Ultimate Guide: Resolving Issues with iPhone's Non-Functional Alarm</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/your-one-stop-resource-finding-official-apple-iphones-user-guides-online/"><u>Your One-Stop Resource: Finding Official Apple iPhones' User Guides Online</u></a></li>
+</ul></div>
 

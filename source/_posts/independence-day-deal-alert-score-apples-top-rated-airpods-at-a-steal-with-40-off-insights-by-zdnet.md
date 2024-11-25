@@ -1,7 +1,7 @@
 ---
 title: "Independence Day Deal Alert: Score Apple's Top-Rated AirPods at a Steal with $40 Off | Insights by ZDNET"
-date: 2024-11-10T22:00:00.725Z
-updated: 2024-11-15T21:05:29.581Z
+date: 2024-11-20T16:01:15.983Z
+updated: 2024-11-25T16:00:09.993Z
 tags:
   - apple
 categories:
@@ -28,6 +28,10 @@ Lucky for us, that already-affordable price dropped once more, and the deal is s
 The second-generation AirPods come with a Lightning charger case. They offer solid sound, five hours of battery of life (and a fully-charged case can recharge them five times, giving you up to 24 hours), and voice-activated Siri access. They're also super easy to set up and to switch between your Apple devices. 
 
 Buy the AirPods on sale at [Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-AirPods-Charging-Latest-Model%2Fdp%2FB07PXGQC1Q%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1f6d5217-9e48-4dc5-983a-0c6b42c3fbdb%7Cdtp&dtb=1) now. You can also check out more [headphone deals](https://www.zdnet.com/article/best-headphone-deals/) and the [top products ZDNET readers bought last month](https://www.zdnet.com/home-and-office/the-25-most-popular-products-zdnet-readers-bought-last-month/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -58,27 +62,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-must-haves-for-capturing-movies-on-the-move/"><u>[New] Must-Haves for Capturing Movies on the Move</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-mastering-timecode-alignment-and-text-modification-in-srt-using-macos/"><u>[Updated] Mastering Timecode Alignment & Text Modification in SRT Using macOS</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/comment-transfert-vos-informations-personnelles-dun-pc-a-un-mac-ou-vice-versa/"><u>Comment Transfert Vos Informations Personnelles D'un PC À Un Mac Ou Vice-Versa?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-school-computing-a-step-by-step-purchase-manual/"><u>Comprehensive School Computing: A Step-by-Step Purchase Manual</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/demystifying-oled-functionality-and-design-insights-revealed/"><u>Demystifying OLED: Functionality & Design Insights Revealed</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/experiencing-trouble-with-nintendo-switch-online-service-outage-or-connection-issues/"><u>Experiencing Trouble with Nintendo Switch Online: Service Outage or Connection Issues?</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-kodi-malfunctions-effective-tips-and-tricks-unveiled/"><u>Fixing Kodi Malfunctions: Effective Tips & Tricks Unveiled</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722888827110-how-to-get-netflix-up-and-running-again-on-your-lg-hdtv/"><u>How To Get Netflix Up and Running Again on Your LG HDTV</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/immersive-playgrounds-androids-top-15-simulations/"><u>Immersive Playgrounds Android's Top 15 Simulations</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-infinix-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Infinix Without PUK Codes</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-soaring-through-style-the-new-age-of-bebop-parrot/"><u>In 2024, Soaring Through Style – The New Age of Bebop Parrot</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/synchronizing-samsung-audiobuds-with-your-pc-a-complete-walkthrough/"><u>Synchronizing Samsung Audiobuds with Your PC: A Complete Walkthrough</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-evolution-of-ai-at-google-introducing-the-revolutionary-palm-2-llm/"><u>The Evolution of AI at Google: Introducing the Revolutionary PaLM 2 LLM</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On OnePlus 11R | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/upcoming-google-pixel-9-unveiled-preliminary-pricing-launch-timeline-and-latest-leaks/"><u>Upcoming Google Pixel 9 Unveiled - Preliminary Pricing, Launch Timeline & Latest Leaks</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-smart-image-sharing-on-instagram/"><u>[New] Smart Image Sharing on Instagram</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-digital-detailing-expert-tips-for-attaching-dates-in-photography/"><u>[Updated] In 2024, Digital Detailing Expert Tips for Attaching Dates in Photography</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/8-steps-to-do-a-system-restore-in-windows-10/"><u>8 Steps to Do a System Restore in Windows 10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-closer-look-at-the-new-functionalities-of-windows-10s-creators-update-insider-preview-v1503/"><u>A Closer Look at the New Functionalities of Windows 10'S Creator’s Update (Insider Preview V1503)</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/bridging-identities-with-100-creative-and-empowering-insta-captions/"><u>Bridging Identities with 100 Creative and Empowering Insta Captions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/browser-security-how-to-secure-your-browsers-easily/"><u>Browser Security - How to Secure Your Browsers Easily</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-beginners-guide-easy-steps-to-start-using-a-vpn-today/"><u>Complete Beginner's Guide: Easy Steps to Start Using a VPN Today</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/detecting-and-combating-overheated-cpus-a-users-guide-to-staying-cool-under-pressure/"><u>Detecting & Combating Overheated CPUs: A User's Guide to Staying Cool Under Pressure</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-fixes-for-when-skype-fails-to-connect-in-windows-n-discover-your-pathway-to-seamless-communication/"><u>Easy Fixes for When Skype Fails to Connect in Windows N: Discover Your Pathway to Seamless Communication</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-realme-narzo-60x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1723808204560-guide-setting-up-a-reliable-vpn-for-gaming-on-xbox-do-it-fast-and-simple/"><u>Guide: Setting Up a Reliable VPN for Gaming on Xbox - Do It Fast and Simple!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-vivo-y200-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Vivo Y200 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/no-response-from-your-corsair-keyboard-try-these-proven-fixes/"><u>No Response From Your Corsair Keyboard? Try These Proven Fixes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1723808218555-simple-guide-switching-your-pcs-system-language-in-windows-11-step-by-step/"><u>Simple Guide: Switching Your PC's System Language in Windows 11 – Step by Step!</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-best-ps5-dualsense-controller-chargers-of-2024/"><u>The Best PS5 DualSense Controller Chargers of 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-future-of-iphone-interactivity-exploring-benefits-as-apple-integrates-nfc-with-app-makers-innovations-gizmodo/"><u>The Future of iPhone Interactivity: Exploring Benefits as Apple Integrates NFC with App Makers' Innovations | Gizmodo</u></a></li>
+<li><a href="https://media-tips.techidaily.com/unlock-the-world-of-3d-a-quick-guide-on-understanding-and-enjoying-3d-films-within-5-mins/"><u>Unlock the World of 3D: A Quick Guide on Understanding & Enjoying 3D Films Within 5 Mins</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

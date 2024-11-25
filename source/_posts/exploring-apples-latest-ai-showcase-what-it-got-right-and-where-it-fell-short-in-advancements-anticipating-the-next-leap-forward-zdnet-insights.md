@@ -1,7 +1,7 @@
 ---
 title: "Exploring Apple's Latest AI Showcase: What It Got Right and Where It Fell Short in Advancements - Anticipating the Next Leap Forward | ZDNET Insights"
-date: 2024-11-15T02:25:45.824Z
-updated: 2024-11-15T22:31:25.706Z
+date: 2024-11-19T16:04:39.759Z
+updated: 2024-11-25T16:01:11.741Z
 tags:
   - apple
 categories:
@@ -30,6 +30,10 @@ Read on for a look at some of the new accessibility features coming to Apple har
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### New eye-tracking features
 
 Apple is bringing a new feature to both iOS and iPadOS that will let you navigate your iPhone and iPad with just your eye movements. The feature uses the device's front-facing camera to track your eye movements and let you move through apps. Apple said that its new Eye Tracking feature will work across both its own and third-party apps, and will work with gestures powered solely by eye movements.
@@ -44,22 +48,12 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Apple Music haptics
 
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Addressing motion sickness
@@ -71,10 +65,7 @@ Motion sickness in cars can often be the result of a disconnect between what you
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Understanding speech
@@ -84,10 +75,7 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New CarPlay features
@@ -95,6 +83,10 @@ Another feature, Listen for Atypical Speech, will use machine learning to unders
 Apple's in-car CarPlay software is also getting new accessibility features, including the ability for you to navigate CarPlay and engage with apps using only your voice. A new Sound Recognition feature will display alerts on CarPlay's screen when car horns or sirens go off, and Color Filters will make CarPlay easier to use for colorblind users.
 
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Some other updates
 
@@ -130,18 +122,18 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-unlocking-secrets-of-iphone-x-resolving-face-recognition-issues/"><u>[New] 2024 Approved Unlocking Secrets of iPhone X Resolving Face Recognition Issues</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-elevate-your-fb-video-experience-with-fastest-extensions-and-tools/"><u>[New] Elevate Your FB Video Experience with Fastest Extensions and Tools</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-preventing-virtual-reality-nausea/"><u>[New] Preventing Virtual Reality Nausea</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-quick-tips-for-hitting-the-jackpot-in-pexels/"><u>[New] Quick Tips for Hitting the Jackpot in Pexels</u></a></li>
-<li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-vivo-y02t-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Vivo Y02T | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/apple-books-user-experience-assessment-is-it-worth-your-library/"><u>Apple Books User Experience Assessment: Is It Worth Your Library?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/dive-into-the-latest-features-of-apples-most-recent-ipad-release/"><u>Dive Into the Latest Features of Apple's Most Recent iPad Release</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-slash-your-spending-with-these-6-must-visit-coupon-portals/"><u>How to Slash Your Spending with These 6 Must-Visit Coupon Portals</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/maximizing-productivity-with-two-screens-on-your-apple-device/"><u>Maximizing Productivity with Two Screens on Your Apple Device</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-unspoken-rewards-of-electric-vehicle-owners-tap-into-free-parking-and-fast-track-on-hov-lanes/"><u>The Unspoken Rewards of Electric Vehicle Owners: Tap Into Free Parking and Fast-Track on HOV Lanes</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/uncovering-the-full-potential-a-detailed-evaluation-of-samsungs-feature-rich-gear-s3-frontier/"><u>Uncovering the Full Potential: A Detailed Evaluation of Samsung's Feature-Rich Gear S3 Frontier</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unmissable-memorial-day-offer-my-top-pick-the-discounted-apple-watch-se-find-out-why-at-zdnet/"><u>Unmissable Memorial Day Offer: My Top Pick, the Discounted Apple Watch SE | Find Out Why at ZDNET</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/xbox-live-access-issues-identifying-a-widespread-disruption-vs-private-connectivity-woes/"><u>Xbox Live Access Issues - Identifying a Widespread Disruption Vs. Private Connectivity Woes</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-deck-to-deck-excellence-a-close-look-at-durecorder-for-2024/"><u>[New] Deck-to-Deck Excellence A Close Look at DuRecorder for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-ultimate-gaming-screens-selecting-the-top-5-ps5-for-2024/"><u>[New] Ultimate Gaming Screens Selecting the Top 5 (PS5) for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-gif-galore-converting-tweet-videos-at-zero-cost/"><u>2024 Approved GIF Galore Converting Tweet Videos at Zero Cost</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/ai-pcweb/"><u>AIによる白黒画像カラー調整テクニックとツール集 - PCからWebまで使える方法</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/deciphering-atandt-wireless-policies-on-roaming-services/"><u>Deciphering AT&T Wireless Policies on Roaming Services</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-on-selecting-academic-computers-your-comprehensive-resource/"><u>Expert Advice on Selecting Academic Computers: Your Comprehensive Resource</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-from-your-iphone-12-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code From your iPhone 12</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-elite-selections-top-rated-mac-video-recording-apps/"><u>In 2024, Elite Selections Top-Rated Mac Video Recording Apps</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210811262-9782017229933-les-mysteres-de-la-conscience/"><u>Les Mystères de la conscience | Free Book</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/peek-into-the-future-with-apple-watch-series-x-projection-of-release-timeline-and-pricing-confirmations-and-speculations-alike/"><u>Peek Into the Future with Apple Watch Series X: Projection of Release Timeline and Pricing - Confirmations & Speculations Alike</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/reestablishing-internet-access-for-your-vizio-smart-tv-a-comprehensive-guide/"><u>Reestablishing Internet Access for Your Vizio Smart TV – A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solutions-for-correcting-unexecutable-hardware-exceptions/"><u>Step-by-Step Solutions for Correcting Unexecutable Hardware Exceptions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-walkthrough-for-syncing-apple-homepod-with-your-televison-unit/"><u>The Ultimate Walkthrough for Syncing Apple HomePod with Your Televison Unit</u></a></li>
 </ul></div>
 

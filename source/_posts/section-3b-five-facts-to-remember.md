@@ -1,7 +1,7 @@
 ---
 title: "Section 3B: Five Facts to Remember"
-date: 2024-11-13T17:19:31.698Z
-updated: 2024-11-16T04:04:14.741Z
+date: 2024-11-21T16:00:38.294Z
+updated: 2024-11-25T16:00:15.652Z
 tags:
   - apple
 categories:
@@ -62,10 +62,7 @@ Stalkerware is typically used to spy on someone as an individual and watch what 
 Finally, there's **government-grade commercial spyware**. [Pegasus](https://www.zdnet.com/article/nso-groups-pegasus-spyware-used-against-journalists-political-activists-worldwide-report/) is one of the most well-known variants, sold to governments as a tool for combating terrorism and for law enforcement purposes. Pegasus was ultimately found on smartphones belonging to journalists, activists, political dissidents, and lawyers. Unless you're part of a group of specific interest to ethically challenged governments, it's unlikely that commercial-grade spyware will impact you.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the warning signs of a spyware infection attempt?
@@ -83,13 +80,6 @@ To catch a victim unaware, phishing messages will lure you into clicking a link 
 When it comes to stalkerware, initial infection messages may be more personal and tailored to the victim. Physical access or the victim's accidental installation of spyware is necessary. However, installing some variants of stalkerware can take mere moments.
 
 If your phone goes missing or has been out of your possession for a time, and reappears with different settings or changes that you do not recognize, this may be an indicator that your device has been tampered with.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the typical signs that spyware is on my phone?
 
@@ -118,10 +108,7 @@ Unfortunately, there's little that the average user can do if an app is updated 
 Surveillance software is becoming more sophisticated and can be difficult to detect. However, not all forms of spyware and stalkerware are invisible, and it is possible, in many cases, to find out if you are being monitored.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Android
@@ -139,6 +126,10 @@ Some forms of spyware will also use generic names and icons to avoid detection. 
 iOS devices that aren't jailbroken are generally harder to install malware on than Android handsets unless a spyware developer is exploiting for a zero-day or unpatched vulnerability. However, the same principles apply: with the right tool, exploit, or software, your device could be compromised either with physical access or remotely. You may be more susceptible to infection if you have not updated your iPhone's firmware to the latest version and you do not run frequent antivirus scans.
 
 Both iOS and Android phones, however, will typically show some sign of a malware infection.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How can I remove spyware from my device?
 
@@ -177,13 +168,6 @@ Government-grade spyware can be more difficult to detect. However, as noted in a
 * **Use a** [**trusted, paid VPN service**](https://www.zdnet.com/article/best-vpn/) **and install an app that warns when your device has been jailbroken. Some AV apps will also** perform this check.
 * **GrapheneOS**: It is also recommended that individuals who suspect a Pegasus infection make use of a secondary device, preferably running the Android-based [GrapheneOS](https://grapheneos.org/), for secure communication.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How do I keep spyware and stalkerware off my device in the first place?
 
 Unfortunately, no mobile device is completely protected against the scourge of spyware. However, we have provided some tips below to mitigate the risk of future infections:
@@ -198,6 +182,10 @@ Unfortunately, no mobile device is completely protected against the scourge of s
 * **Do not jailbreak your device**: Jailbreaking not only voids your warranty but can also allow malicious apps and software to have a deep foothold in your operating system, which may make removal extremely difficult or impossible.
 * **Enable multi-factor authentication (MFA):** When account activity and logins require further consent from a mobile device, this can also help protect individual accounts. (However, spyware may intercept the codes sent during [2FA](https://www.zdnet.com/article/better-than-the-best-password-how-to-use-2fa-to-improve-your-security/) protocols.)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What are Google and Apple doing to protect Android and iOS devices?
 
 Google and Apple are generally quick to tackle malicious apps that manage to avoid the privacy and security protections imposed in their respective official app stores. 
@@ -211,6 +199,10 @@ Since then, Google has banned stalkerware ads, and the firm's [Threat Analysis G
 Apple has [cracked down](https://www.zdnet.com/article/apple-refutes-anti-competitive-parent-control-app-claims-says-removal-was-for-security-user-privacy/) on parental control apps, citing privacy-invading functions as the reason for removal. The company offers its own parental device control service called [Screen Time](https://www.cnet.com/how-to/ios-12-screen-time-and-stronger-parental-controls/) for parents who want to limit their child's device usage. Furthermore, the company does not allow [sideloading](https://www.apple.com/privacy/docs/Building%5Fa%5FTrusted%5FEcosystem%5Ffor%5FMillions%5Fof%5FApps%5FA%5FThreat%5FAnalysis%5Fof%5FSideloading.pdf) \-- that is, the installing of third-party apps from sources other than Apple's App Store, and is quick to remove any iOS apps that display privacy-eroding functionality.
 
 In 2022, Apple revealed the details of a [$10 million grant](https://www.apple.com/uk/newsroom/2022/07/apple-expands-commitment-to-protect-users-from-mercenary-spyware/) to research ways to combat state-sponsored spyware. Recently, the company [issued an alert](https://www.forbes.com/sites/kateoflahertyuk/2024/04/12/apple-issues-new-spyware-attack-warning-to-iphone-users/) to iPhone users in 92 countries, warning them of remote, targeted attacks launched by spyware operators. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are parental control apps spyware?
 
@@ -259,22 +251,19 @@ However, they are limited in scope and you may not be able to use them once a ch
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-navigating-the-world-of-zooms-camera-snapping-easily/"><u>[New] 2024 Approved Navigating the World of Zoom's Camera Snapping Easily</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-free-video-wizardry-top-8-editing-programs-for-youtube-enthusiasts-for-2024/"><u>[Updated] Free Video Wizardry Top 8 Editing Programs for YouTube Enthusiasts for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/chronological-superman-movie-marathon-your-step-by-step-guide/"><u>Chronological Superman Movie Marathon: Your Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-hidden-history-unlocking-methods-to-retrieve-removed-phone-numbers-on-android-phones/"><u>Discover Hidden History: Unlocking Methods to Retrieve Removed Phone Numbers on Android Phones</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Lava Blaze 2 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/from-peak-to-end-unveiling-the-history-of-yahoo-messengers-shutdown/"><u>From Peak to End: Unveiling the History of Yahoo! Messenger's Shutdown</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/from-pro-to-max-the-transformative-journey-of-apples-macbook-chips/"><u>From Pro to Max The Transformative Journey of Apple’s MacBook Chips</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/intel-laptop-chips-plagued-by-repeated-shutdown-incidents-similarities-to-past-defect-episodes-surface-in-test-results/"><u>Intel Laptop Chips Plagued by Repeated Shutdown Incidents; Similarities to Past Defect Episodes Surface in Test Results</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-in-2024-easy-tutorial-how-to-record-and-send-talking-emoji-for-iphone/"><u>New In 2024, Easy Tutorial How to Record and Send Talking Emoji for iPhone</u></a></li>
-<li><a href="https://win-able.techidaily.com/say-goodbye-to-stuttering-in-cyberpunk-2077-performance-improvements-unveiled/"><u>Say Goodbye to Stuttering in Cyberpunk 2077: Performance Improvements Unveiled</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/scambia-il-tuo-contenuto-in-formato-flv-per-unottima-qualita-video-webm-online-gratis-tramite-movavi/"><u>Scambia Il Tuo Contenuto in Formato FLV per Un'ottima Qualità Video WebM Online Gratis Tramite Movavi</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-purchasing-video-games-for-oculus-quest-2/"><u>Step-by-Step Guide: Purchasing Video Games for Oculus Quest 2</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-setting-up-automatic-photography-timers-on-your-iphone/"><u>Step-by-Step Guide: Setting Up Automatic Photography Timers on Your iPhone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-26-premium-and-gratis-pc-tidy-up-tools-of-2024/"><u>Top 26 Premium and Gratis PC Tidy-Up Tools of 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/transforming-ps3-with-a-mega-hard-drive/"><u>Transforming PS3 with a Mega-Hard Drive</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-a-missing-page-404-error-insight-and-fixes/"><u>Troubleshooting a Missing Page (404 Error): Insight and Fixes</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlocking-high-definition-entertainment-do-i-really-need-a-blu-ray-player/"><u>Unlocking High Definition Entertainment: Do I Really Need a Blu-Ray Player?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-the-art-of-crafting-excellent-zoom-conferences/"><u>[New] In 2024, The Art of Crafting Excellent Zoom Conferences</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-beat-blast-updated-technology/"><u>[Updated] Beat Blast Updated Technology</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-essential-skills-for-recording-private-whatsapp-talks-for-2024/"><u>[Updated] Essential Skills for Recording Private WhatsApp Talks for 2024</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/comment-restaurer-vos-fichiers-et-dossiers-facilement-grace-a-aomei-backupper/"><u>Comment Restaurer Vos Fichiers Et Dossiers Facilement Grâce À AOMEI Backupper</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-installation-guide-the-newest-sapphire-graphics-drivers-for-windows-users/"><u>Download and Installation Guide: The Newest Sapphire Graphics Drivers for Windows Users</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-oppo-f25-pro-5g-frp-by-drfone-android/"><u>How Can We Bypass Oppo F25 Pro 5G FRP?</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/live-streaming-mastery-with-manycam-top-of-the-line-virtual-webcam-software/"><u>Live Streaming Mastery with ManyCam: Top-of-the-Line Virtual Webcam Software</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-tiktok-audio-crafting-it-as-your-perfect-ringtone/"><u>Mastering TikTok Audio Crafting It as Your Perfect Ringtone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revolutionary-lg-tandem-oled-displays-enter-mass-production-showcased-in-lauded-dell-xps-13-design/"><u>Revolutionary LG Tandem OLED Displays Enter Mass Production, Showcased in Lauded Dell XPS 13 Design</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-activating-miracast-feature-and-fixing-common-hurdles-on-your-pc-with-windows-10-or-11/"><u>Step-by-Step Tutorial: Activating Miracast Feature & Fixing Common Hurdles on Your PC with Windows 10 or 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-tutorial-on-crafting-a-win11-system-repair-media-via-usb-stick/"><u>The Ultimate Tutorial on Crafting a Win11 System Repair Media via USB Stick</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/trouble-with-chatgpt-fix-it-in-five-simple-steps/"><u>Trouble with ChatGPT? Fix It in Five Simple Steps!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-compatibility-issues-tips-for-executing-classic-apps-in-windows-ebuildment-mode/"><u>Troubleshooting Compatibility Issues: Tips for Executing Classic Apps in Windows Ebuildment Mode</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-how-to-overcome-the-windows-11-update-error-error-code-0x802e8007/"><u>Troubleshooting Guide: How to Overcome the Windows 11 Update Error (Error Code 0X802e8007)</u></a></li>
 </ul></div>
 

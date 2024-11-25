@@ -1,7 +1,7 @@
 ---
 title: "My Decision for the Smaller Slate: The Compelling Advantages of iPhone 1Nfier over Max - Tech Trends 2023"
-date: 2024-11-12T00:18:02.371Z
-updated: 2024-11-16T00:20:20.063Z
+date: 2024-11-20T16:01:01.905Z
+updated: 2024-11-25T16:04:33.627Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Camera Control button
 
 Kerry Wan/ZDNET
@@ -47,10 +51,7 @@ The iPhone 16 receives a substantial update to its camera system. The device pos
 The button acts as a camera shortcut of sorts. Pushing it takes a photo, but the button also supports gesture controls. Swiping on the button with your thumb or finger lets you zoom in or out, while a double light-press presents you with various shooting modes, zoom lengths, photographic styles, and more. It's a fun and intuitive way to take photos. The best part about the button is that it's a great way to introduce more people to photography.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Siri 2.0 is arriving very soon
@@ -66,10 +67,7 @@ The new Siri can engage in more natural conversations. Users no longer need to c
 Everything mentioned so far is just the tip of the iceberg. It's been reported that next year Siri will be able to find and act on items on-device based on your context. For example, you could ask the AI what time your mom's flight is landing and Siri will pull together information from texts and emails, and then present this insight to you in a brief response.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. A new AI-powered chipset
@@ -116,15 +114,22 @@ Besides Apple Intelilgence, the A18 chipset should enable faster processing spee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/updated-punchline-creator-suite/"><u>[Updated] Punchline Creator Suite</u></a></li>
-<li><a href="https://app-tips.techidaily.com/banking-industry-leader-urges-innovative-thinking-over-easy-solutions-in-artificial-intelligence-insights-from-a-top-cio-zdnet/"><u>Banking Industry Leader Urges Innovative Thinking Over Easy Solutions in Artificial Intelligence - Insights From a Top CIO | ZDNet</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-honor-x8b-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Honor X8b is off? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016408463-fortnite-sounds-down-heres-how-to-turn-up-the-volume-and-win/"><u>Fortnite Sounds Down? Here’s How to Turn Up the Volume and Win!</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-tecno-camon-30-pro-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Tecno Camon 30 Pro 5G Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-skyrocket-from-zero-reach-1k-on-instagram-monthly/"><u>In 2024, Skyrocket From Zero Reach 1K on Instagram Monthly</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/recovering-lost-contacts-a-guide-to-retrieving-deleted-numbers-from-your-android-device/"><u>Recovering Lost Contacts: A Guide to Retrieving Deleted Numbers From Your Android Device</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/seamless-sound-syncing-setting-up-your-apple-homepod-for-tv-audio-output/"><u>Seamless Sound Syncing: Setting Up Your Apple HomePod for TV Audio Output</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tips-addressing-missing-or-inaccessible-msvcr8ndll/"><u>Step-by-Step Tips: Addressing Missing or Inaccessible 'Msvcr8n.dll'</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-ai-revolution-understanding-chatgpt/"><u>Unveiling the AI Revolution: Understanding ChatGPT</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-scripting-summative-stories/"><u>[Updated] Scripting Summative Stories</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-transform-your-visuals-instagram-video-borders/"><u>2024 Approved Transform Your Visuals Instagram Video Borders</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ai-helper-dilemma-solved-making-sense-of-the-great-alexa-vs-google-assistant-debate/"><u>AI Helper Dilemma Solved: Making Sense of the Great Alexa Vs. Google Assistant Debate</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/bring-your-spotify-playlist-library-into-the-world-of-text-a-comprehensive-guide/"><u>Bring Your Spotify Playlist Library Into the World of Text: A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cod-modern-warfare-stability-improved-no-more-unexpected-shutdowns/"><u>Cod: Modern Warfare Stability Improved - No More Unexpected Shutdowns</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-elevating-your-sites-interaction-through-personalization-and-analytics/"><u>Cookiebot: Elevating Your Site's Interaction Through Personalization and Analytics</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-the-essential-guide-to-youtube-thumbnail-crafting-mac/"><u>In 2024, The Essential Guide to YouTube Thumbnail Crafting (Mac)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/julys-top-tv-show-recommendations-from-discovery-plus/"><u>July's Top TV Show Recommendations From Discovery Plus</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-beat-saber-free-music-collection-release-introducing-fresh-slicing-techniques/"><u>New Beat Saber Free Music Collection Release: Introducing Fresh Slicing Techniques!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/steps-to-correctly-fix-an-absent-d3dx941dll-file/"><u>Steps to Correctly Fix an Absent d3dx9_41.dll File</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-6-must-have-mobile-journaling-applications/"><u>Top 6 Must-Have Mobile Journaling Applications</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-mastering-pokemon-unite-gameplay-on-your-pc/"><u>Ultimate Guide: Mastering Pokémon Unite Gameplay on Your PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/uninstalling-the-ai-assistant-clear-steps-to-disable-copilot-on-windows-11/"><u>Uninstalling the AI Assistant: Clear Steps to Disable Copilot on Windows 11</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/vlc-enthusiasts-guide-to-10-stealthy-tricks/"><u>VLC Enthusiast's Guide to 10 Stealthy Tricks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722893810202-witness-the-grand-arrival-dive-into-the-world-of-the-new-apple-iphone-today/"><u>Witness the Grand Arrival: Dive Into the World of the New Apple iPhone Today</u></a></li>
 </ul></div>
 

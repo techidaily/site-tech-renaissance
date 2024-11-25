@@ -1,7 +1,7 @@
 ---
 title: "Crafting Custom iMessage Stickers From Personal Images: A Step-by-Step Guide"
-date: 2024-11-14T04:01:35.451Z
-updated: 2024-11-15T18:29:14.272Z
+date: 2024-11-24T16:01:45.898Z
+updated: 2024-11-25T16:02:11.980Z
 tags:
   - apple
 categories:
@@ -42,14 +42,11 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-## How to send and receive iMessages on Windows
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## How to send and receive iMessages on Windows
 
 ## Use Microsoft Phone Link
 
@@ -70,10 +67,7 @@ Click the Start button, go to All Apps, and select Phone Link from the list. The
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Scan the QR codes
@@ -86,18 +80,15 @@ You should see pairing prompts on both your iPhone and your Windows 11 computer.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Sync your iPhone data
 
 Your phone should ask if you want your PC to receive notifications from your iPhone. Tap Allow to OK this. Go to the Bluetooth settings screen on your phone, tap the Info icon for your computer, and turn on the switches for Show Notifications, Sync Contacts, and Share System Notifications. Doing so will let you fully access and use the apps and data from your phone on your PC, including messages.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Run Phone Link
 
@@ -116,13 +107,6 @@ Screenshot by Lance Whitney/ZDNET
 You can also start a new conversation. To do this, select one of your displayed contacts and then compose and send your text. To chat with someone else, click the New Message icon and type the name or phone number of the recipient. Compose and send your message.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Use Intel Unison
 
@@ -146,6 +130,10 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Launch the Windows Unison app
 
 At the "Let's get started" screen in the Windows Unison app, click the icon for "Send messages." 
@@ -159,10 +147,7 @@ At the Messages screen, click the icon for "Compose a new message." Choose the r
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Send a message
@@ -207,20 +192,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-premium-choices-in-video-calling-platforms-for-tech-users/"><u>[Updated] Premium Choices in Video Calling Platforms for Tech Users</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/a-step-by-step-guide-to-configuring-parent-controls-on-discord/"><u>A Step-by-Step Guide to Configuring Parent Controls on Discord</u></a></li>
-<li><a href="https://win11.techidaily.com/bring-back-the-peace-5-corrections-for-family-safety-woes/"><u>Bring Back the Peace: 5 Corrections for Family Safety Woes</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1722986420270-dealing-with-gta-5-lag-and-stutters-fixes-that-work/"><u>Dealing with GTA 5 Lag and Stutters – Fixes That Work!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-no-cost-iphone-tunes-top-8-picks/"><u>Discover the Best No-Cost iPhone Tunes: Top 8 Picks</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-top-4-tech-helpers-for-efficient-house-painting-jobs/"><u>Discover the Top 4 Tech Helpers for Efficient House Painting Jobs</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-brother-mfc-l2740dw-printer-drivers-for-windows-systems/"><u>Download Brother MFC-L2740DW Printer Drivers for Windows Systems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-determine-the-exact-specifications-of-your-macbook/"><u>How to Determine the Exact Specifications of Your MacBook</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-oppo-f23-5g-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Oppo F23 5G?</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-high-speed-film-gatherer-for-timelapse-top5/"><u>In 2024, High-Speed Film Gatherer for Timelapse #Top5</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-on-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone SE (2020)?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/speeding-up-windows-11-effective-solutions-for-enhanced-efficiency/"><u>Speeding Up Windows 11: Effective Solutions for Enhanced Efficiency</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-8-rigeneratori-di-downloads-anime-gratuiti-piu-popolari-nel-2024/"><u>Top 8 Rigeneratori Di Downloads Anime Gratuiti Più Popolari Nel 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722903258846-what-to-expect-from-the-upcoming-samsung-galaxy-s25-ultra-price-predictions-and-release-date-insights/"><u>What to Expect From the Upcoming Samsung Galaxy S25 Ultra - Price Predictions & Release Date Insights</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-canva-creative-editor-exploration/"><u>[New] 2024 Approved Canva Creative Editor Exploration</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-dissecting-the-emerging-trends-in-facebook-short-videos/"><u>[New] Dissecting the Emerging Trends in Facebook Short Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-accessible-obs-presets-for-affordable-computers/"><u>2024 Approved Accessible OBS Presets for Affordable Computers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/erated-conversion-of-yt-content-for-mac-screens/"><u>Accelerated Conversion of YT Content for MAC Screens</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-guide-how-to-install-and-update-directx-12-on-your-windows-10-pc/"><u>Complete Guide: How to Install and Update DirectX 12 on Your Windows 10 PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-tutorial-enabling-and-using-remote-desktop-on-your-windows-10-pc/"><u>Complete Tutorial: Enabling and Using Remote Desktop on Your Windows 10 PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-to-reviving-non-working-usb-ports-on-laptops/"><u>Comprehensive Guide To Reviving Non-Working USB Ports On Laptops</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/deciphering-rundll32exe-purpose-and-appropriate-measures-to-take/"><u>Deciphering rundll32.exe: Purpose & Appropriate Measures to Take</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-tutorial-for-setting-up-a-second-monitor-with-your-notebook/"><u>Easy Tutorial for Setting Up a Second Monitor with Your Notebook</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-video-recording-techniques-for-computer-users-a-comprehensive-guide/"><u>Easy Video Recording Techniques for Computer Users: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enabling-mobile-internet-sharing-on-your-iphone-for-wireless-connectivity/"><u>Enabling Mobile Internet Sharing on Your iPhone for Wireless Connectivity</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fix-printer-driver-issues-on-windows-10/"><u>Fix Printer Driver Issues on Windows 10</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/full-screen-mastery-for-premier-pro-users-for-2024/"><u>Full Screen Mastery for Premier Pro Users for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Oppo A2? | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-break-free-from-sony-vegas-top-windows-video-editing-software-alternatives/"><u>New Break Free From Sony Vegas Top Windows Video Editing Software Alternatives</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-xiaomi-redmi-k70-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Xiaomi Redmi K70 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-problem-of-spotify-app-failures-during-iphone-sleep-mode/"><u>Solving the Problem of Spotify App Failures During iPhone Sleep Mode</u></a></li>
 </ul></div>
 

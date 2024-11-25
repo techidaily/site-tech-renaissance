@@ -1,7 +1,7 @@
 ---
 title: Discover the Top 5 Exciting Features of Apple's iOS 18 Preview - What You Can Test Today
-date: 2024-11-14T23:10:31.661Z
-updated: 2024-11-16T04:47:14.752Z
+date: 2024-11-23T16:01:19.621Z
+updated: 2024-11-25T16:00:53.588Z
 tags:
   - apple
 categories:
@@ -26,6 +26,10 @@ I've been testing the public beta on a spare iPhone. Though I've run into severa
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Place your Home screen icons anywhere
 
 With iOS 18, you can customize the Home screen by moving icons to any spot and applying different themes. To dive in, press down on any empty area of the Home screen. Drag an icon to any location on the screen, and it will stay in place. This means you can place icons in columns, as a border around the screen, or just free-floating in space.
@@ -43,10 +47,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Try a different Home screen theme
@@ -56,10 +57,7 @@ Next, you can apply different themes to the Home screen. Press down on any empty
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
@@ -71,10 +69,7 @@ You can now apply bold, italics, underline, or strikethrough for the selected te
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Schedule a text
@@ -86,10 +81,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Lock down an app
@@ -128,22 +120,17 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-filmmakers-choice-for-steady-videos-for-2024/"><u>[New] Filmmaker's Choice for Steady Videos for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-how-to-make-a-thumbnail-for-your-youtube-free-easily/"><u>[Updated] 2024 Approved How to Make a Thumbnail for Your YouTube Free Easily!</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-optimal-drone-cameras-film-and-snapshot-heroes-10/"><u>[Updated] Optimal Drone Cameras Film & Snapshot Heroes #10</u></a></li>
-<li><a href="https://win-able.techidaily.com/8-ways-to-fix-hogwarts-legacy-crashing-on-startup-pc/"><u>8 Ways To Fix Hogwarts Legacy Crashing on Startup PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apples-upcoming-sound-integrated-gadget-what-to-expect-in-terms-of-cost-and-release-timeline/"><u>Apple’s Upcoming Sound-Integrated Gadget – What to Expect in Terms of Cost and Release Timeline</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/boosting-youtube-success-mastery-with-tubebuddy/"><u>Boosting YouTube Success Mastery with TubeBuddy</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/broadcasting-zoom-sessions-to-your-hdtv-a-comprehensive-guide/"><u>Broadcasting Zoom Sessions to Your HDTV - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/expert-tips-to-ensure-uninterrupted-gameplay-for-king-of-fighters-xv-on-your-computer/"><u>Expert Tips to Ensure Uninterrupted Gameplay for 'King of Fighters XV' On Your Computer</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expertly-chosen-best-cable-modem-and-wifi-router-sets-2024-edition/"><u>Expertly Chosen Best Cable Modem & WiFi Router Sets - 2024 Edition</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/innovative-design-at-its-best-an-insightful-look-into-fugeteks-luxury-selfie-stick-model-ft-568/"><u>Innovative Design at Its Best: An Insightful Look Into Fugetek's Luxury Selfie Stick, Model FT-568</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-version-of-epson-l3-grower-driver-compatible-with-windows-11-and-earlier-versions/"><u>Latest Version of Epson L3 Grower Driver Compatible with Windows 11 and Earlier Versions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-the-missing-binkw32dll-file-issue-a-step-by-step-guide/"><u>Resolving the 'Missing binkw32.dll File' Issue: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-method-to-manage-running-apps-and-save-battery-life-on-android/"><u>Step-by-Step Method to Manage Running Apps and Save Battery Life on Android</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solutions-for-the-mss32dll-is-absent-or-cant-be-found-error/"><u>Step-by-Step Solutions for the 'mss32.dll' Is Absent or Can't Be Found Error</u></a></li>
-<li><a href="https://fox-links.techidaily.com/ultimate-image-booster-intense-visual-upgrade-for-2024/"><u>Ultimate Image Booster Intense Visual Upgrade for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-snapchats-emoji-code-a-comprehensive-user-manual/"><u>Understanding Snapchat's Emoji Code: A Comprehensive User Manual</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-dual-approaches-to-audio-fades-in-final-cut-pro/"><u>Updated Dual Approaches to Audio Fades in Final Cut Pro</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-elevate-your-social-storytelling-with-added-musicality/"><u>[Updated] 2024 Approved Elevate Your Social Storytelling with Added Musicality</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-navigating-through-the-best-tools-to-monitor-instagram-metrics-effectively/"><u>[Updated] Navigating Through the Best Tools to Monitor Instagram Metrics Effectively</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expertly-selected-best-twitter-client-software-for-efficient-engagement/"><u>Expertly Selected Best Twitter Client Software for Efficient Engagement</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratis-online-video-converter-mp4-to-mp3-and-more-easy-mpg-conversions-with-movavi/"><u>Gratis Online Video Converter: MP4 to MP3 & More - Easy MPG Conversions with Movavi</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-oneplus-open-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My OnePlus Open? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-find-anyone-with-these-8-powerful-people-finding-services/"><u>How to Find Anyone with These 8 Powerful People Finding Services</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-6s-plus-drfone-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-screenshots-and-social-shares-on-nintendo-switch-gaming-console/"><u>Mastering the Art of Screenshots and Social Shares on Nintendo Switch Gaming Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-monitor-safety-lenses/"><u>Optimal Monitor Safety Lenses</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-multi-drop-pinning-in-google-maps/"><u>Step-by-Step Tutorial: Multi-Drop Pinning in Google Maps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-8-exceptional-e-reading-apps-of-2024/"><u>The Ultimate Guide to 8 Exceptional E-Reading Apps of 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/time-capsule-online-expert-strategies-to-access-and-employ-the-wayback-machine/"><u>Time Capsule Online: Expert Strategies to Access and Employ the Wayback Machine</u></a></li>
 </ul></div>
 

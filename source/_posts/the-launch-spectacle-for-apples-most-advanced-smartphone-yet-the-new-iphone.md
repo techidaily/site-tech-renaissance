@@ -1,7 +1,7 @@
 ---
 title: "The Launch Spectacle for Apple’s Most Advanced Smartphone Yet: The New iPhone"
-date: 2024-09-04T01:19:45.980Z
-updated: 2024-09-05T01:19:45.980Z
+date: 2024-11-23T20:22:16.011Z
+updated: 2024-11-24T21:50:52.135Z
 categories:
   - BestProducts
 description: "This Article Describes The Launch Spectacle for Apple’s Most Advanced Smartphone Yet: The New iPhone"
@@ -35,12 +35,6 @@ thumbnail: https://thmb.techidaily.com/f060aa48894ea1b017bf8a4af8da622e4076e35a6
 
 ![iPhone 15 features](https://www.lifewire.com/thmb/t4gspKbwq56DPRs0r-LDMn8noZQ=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/iPhone15features-8a38c089557647769e3bd494e7e49178.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Pro and Pro Max: What's the Difference?
 
  The main reason someone might go for the Pro version of an iPhone over the base model is the camera. While the iPhone 15 and Pro both have an impressive 48-megapixel main camera, the Pro versions have a third lens that provides additional features.
@@ -48,11 +42,9 @@ thumbnail: https://thmb.techidaily.com/f060aa48894ea1b017bf8a4af8da622e4076e35a6
 ![](<https://www.lifewire.com/data:image/svg+xml,%3Csvg> width=%273166%27 height=%271676%27 xmlns=%27<http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E>) ![iPhone 15 Pro features](https://www.lifewire.com/thmb/W5IYkEGNlzvUhlNEOkvgw50dDgc=/1500x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/iPhone15ProFeatures-c322bb8455fb4be2af8125103040fef4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  PHOTO:
 
 Apple Inc
@@ -72,11 +64,9 @@ Apple Inc
 [9 Ways to Use the iPhone 15 Pro's Action Button](https://www.lifewire.com/ways-to-use-iphone-action-button-8346805)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### The Coolest Features of the iPhone 15 and 15 Pro
 
  Apple shared plenty of interesting news at the iPhone 15 launch, but here are some of our favorite things coming to the iPhone 15 and 15 Pro.
@@ -108,6 +98,10 @@ Apple Inc
 
 [USB-C: Everything You Need to Know](https://www.lifewire.com/usb-c-4149490)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The New Apple Watches
 
  This event included two new models of the Apple Watch: the standard Series 9 and the more rugged Ultra 2.
@@ -124,12 +118,6 @@ Apple Inc
 
 ![All of the colors of the Apple Watch Series 9](https://www.lifewire.com/thmb/5BubYB89xa6KPdrUupdSDvAf--w=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Apple-Watch-Series-9-Colors-5d09e52b67794b0d915413c9c17ac1af.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Each case is available in 41 and 45mm sizes, and either one can optionally connect to a cellular network.  
 
 ### Ultra 2
@@ -137,6 +125,10 @@ Apple Inc
  The Apple Watch Ultra 2 only comes in one case size, but it's bigger than either of the Series 9 options. Its titanium frame measures 49mm, and its always-on display is also 50% brighter than the Series 9's screen, with a maximum output of 3,000 nits.
 
 ![](<https://www.lifewire.com/data:image/svg+xml,%3Csvg> width=%274800%27 height=%271600%27 xmlns=%27<http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E>) ![Apple Watch Ultra 2](https://www.lifewire.com/thmb/wqN-LHfR4eXnBNTQ6v5qT8yWPlA=/1500x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Apple-Watch-Ultra-2-09592df03cf54f4092c9bb29fda96395.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Apple Watch Ultra 2.  PHOTO:
 
@@ -148,36 +140,12 @@ Apple Inc
 
  And, for outdoor emergencies, you can tap and hold the Action Button for a siren.
 
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="80" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### The Coolest Features
 
  Apple dropped a lot of information really quickly, but some features were definitely our favorites. Here are our picks for the best things about the Apple Watch Series 9 and Ultra 2.
 
 ![](<https://www.lifewire.com/data:image/svg+xml,%3Csvg> width=%273623%27 height=%271000%27 xmlns=%27<http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E>) ![Features for the Apple Watch Series 9 and Apple Watch Ultra 2](https://www.lifewire.com/thmb/3C5VOVuE9rqpY8EWPB4gE_u_43E=/1500x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Apple-Watch-9-and-Ultra-2-features-bd698a1b23f24eb6a796ced9763e23e0.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  PHOTO:
 
 Apple Inc
@@ -193,6 +161,10 @@ Apple Inc
 **FineWoven bands** : One of our favorite new features for the Apple Watch isn't hardware or software; instead, it's a new way Apple is making the bands that hold them on our wrists. The FineWoven material is part of Apple's environmental initiative and will replace leather bands. It's made of 68% recycled material, has a variety of colors, and you can choose between Magnetic Link and Modern Buckle options.
 
 [Double Tap on Apple Watch Series 9 Could Be the Coolest Feature Ever](https://www.lifewire.com/apple-watch-series-9-confirmed-7968679)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Pricing and Availability
 
@@ -215,14 +187,11 @@ Apple Inc
 
 [The Next Apple Event: Dates, News, Rumors, and Announcements](https://www.lifewire.com/apple-event-5097169)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -231,4 +200,21 @@ Apple Inc
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-10-best-flash-and-fly-player-for-pc-and-mobile/"><u>[New] 10 Best Flash and Fly Player for PC and Mobile</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-get-youtube-posters-at-zero-price-top-free-downloading-tool/"><u>[New] 2024 Approved Get YouTube Posters at Zero Price - Top Free Downloading Tool</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-smooth-transitions-and-precision-capture-analyzing-top-obs-recorders/"><u>[New] 2024 Approved Smooth Transitions & Precision Capture Analyzing Top OBS Recorders</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-can-instagrams-video-selfies-be-trusted-in-2024/"><u>[Updated] Can Instagram's Video Selfies Be Trusted, In 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-how-to-make-a-tiktok-outro/"><u>[Updated] How To Make A Tiktok Outro</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-best-sites-with-complimentary-childrens-movies-our-top-picks/"><u>Discover the Best Sites with Complimentary Children's Movies: Our Top Picks!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-hidden-smart-home-wireless-radios-in-your-mac-or-ipad-do-you-possess-them-too-zdnet/"><u>Discover the Hidden Smart Home Wireless Radios in Your Mac or iPad: Do You Possess Them Too? [ZDNet]</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/expert-insights-unleashing-the-full-potential-of-craft-on-your-macbook/"><u>Expert Insights: Unleashing the Full Potential of Craft on Your MacBook</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-honor-90-phone-by-drfone-android/"><u>How to Unlock a Network Locked Honor 90 Phone?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/immediate-movie-binge-lifewires-expertly-chosen-top-titles/"><u>Immediate Movie Binge: Lifewire's Expertly Chosen Top Titles</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/maximizing-value-the-secret-advantage-of-apples-upcoming-prime-day-ipad-pro-deal-an-exclusive-look/"><u>Maximizing Value: The Secret Advantage of Apple's Upcoming Prime Day iPad Pro Deal - An Exclusive Look</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/royal-match-pyramid-scheme-how-deep-does-it-go/"><u>Royal Match Pyramid Scheme: How Deep Does It Go?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-the-full-potential-of-meta-quest-3-with-apples-spatial-video-offerings-step-by-step-instructions-zdnet/"><u>Unlocking the Full Potential of Meta Quest 3 with Apple's Spatial Video Offerings – Step-by-Step Instructions | ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-list-apple-watch-os-11-ready-devices-and-non-compatible-models-insights-for-tech-enthusiasts/"><u>Unveiling the List: Apple Watch OS 11-Ready Devices and Non-Compatible Models - Insights for Tech Enthusiasts</u></a></li>
+</ul></div>
 

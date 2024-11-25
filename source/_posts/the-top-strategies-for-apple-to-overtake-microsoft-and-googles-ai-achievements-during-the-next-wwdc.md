@@ -1,7 +1,7 @@
 ---
 title: The Top Strategies for Apple to Overtake Microsoft and Google's AI Achievements During the Next WWDC
-date: 2024-11-11T18:50:53.292Z
-updated: 2024-11-15T19:14:40.566Z
+date: 2024-11-22T16:04:26.265Z
+updated: 2024-11-25T16:03:56.804Z
 tags:
   - apple
 categories:
@@ -65,24 +65,15 @@ But should you splurge on Apple's newest mid-range wearable? Is it time for an u
 
 \*Original MSRP
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 
 
 ---
 
 Kerry Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## You should buy the Apple Watch Series 10 if...
 
@@ -91,10 +82,7 @@ Kerry Wan/ZDNET
 For the first time since the Watch Series 7 in 2021, the Apple Watch has had a facelift. The new Series 10 has a thinner overall profile and features larger faces and more rounded edges. Choose from a 42mm or 46mm display and enjoy a wearable lighter than the previous Series 9\. So, if you've been avoiding an Apple Watch because you've wanted a slimmer profile or larger face, here's your chance. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. You'd benefit from sleep apnea tracking
@@ -106,10 +94,7 @@ Sleep tracking is all the rage in tech (seriously, ZDNET readers [frequently pur
 Brand new for the Series 10, sleep apnea tracking is now built-in and there's a host of other features, such as [depth gauge](https://www.zdnet.com/article/apple-watch-series-9-vs-series-10-which-smartwatch-is-right-for-you/), for sports like snorkeling and diving.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. You're looking for something future-proof
@@ -138,13 +123,6 @@ If you want top functions and maximum longevity, the new Watch Series 10 is the 
 
 Jason Hiner/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. You want an affordable option
 
 If you want to experience the integrated benefits of the Apple ecosystem on your wrist or upgrade your smartwatch without breaking the bank, older models, such as the [Series 8](https://www.zdnet.com/article/apple-watch-series-8-review/) or [Series 9](https://www.zdnet.com/article/apple-watch-series-9-review/), are a great way to save a few dollars while still nabbing excellent features. While the Series 8 lacks the updated elements offered in the Series 10 (and even the Series 9), it's still a solid watch with the ability to do many of the basic tasks users require: track workouts, manage calls and texts, sync with your iPhone, and more. 
@@ -153,11 +131,19 @@ If you want to experience the integrated benefits of the Apple ecosystem on your
 
 While the [Series 9](https://www.zdnet.com/article/apple-watch-series-9-review/) has been available for [upwards of $150 off](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-Series-9-With-Blood-Oxygen-GPS-Cellular-41mm-Starlight-Aluminum-Case-with-Starlight-Sport-Band-S-M%2F5031676480%3Fwmlspartner%3Dwlpa%26selectedSellerId%3D0%26gclsrc%3Daw.ds%26%26adid%3D222222222275031676480_156221679273_18387865360%26wl0%3D%26wl1%3Dg%26wl2%3Dc%26wl3%3D677785081658%26wl4%3Dpla-2228157757188%26wl5%3D9192199%26wl6%3D%26wl7%3D%26wl8%3D%26wl9%3Dpla%26wl10%3D8175035%26wl11%3Donline%26wl12%3D5031676480%26veh%3Dsem%26gad_source%3D1%26gclid%3DCjwKCAjwufq2BhAmEiwAnZqw8qlhlHZgVBlgIzIofDP3CSyc29wH8YwdGFvBqUfPmphFZr9oKyfkTRoCL_cQAvD_BwE&subId1=zd-__COM_CLICK_ID__-dtp) lately, the Series 8 is often even more affordable. You can find [refurbished options](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C2VT692T%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C20333517-e200-4733-8afd-d64ed5fd7345%7Cdtp&dtb=1) for under $250, though a major downside is this model is increasingly hard to find, especially in new condition. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. You're looking for blood oxygen sensors
 
 A major reason you may be interested in the Series 8, even though it's now a few years old, is the blood oxygen feature. Since the blood oxygen sensor [was banned](https://www.zdnet.com/article/apple-removes-blood-oxygen-sensor-from-new-watches-what-does-this-mean-for-current-users/) for the Series 9, Ultra 2, and as expected, the Series 10, no newer Apple Watch model offers the same capabilities. This situation means the Series 8 is the best option if you're looking for an Apple Watch equipped with blood oxygen sensing. 
 
 [Buy the Apple Watch Series 8 View now at Target](https://shop-links.co/link/?url=https%3A%2F%2Fwww.target.com%2Fp%2Frefurbished-apple-watch-series-8-gps-41mm-midnight-aluminum-case-with-midnight-sport-band-m-l-2022-8th-generation-target-certified-refurbished%2F-%2FA-89776439%3F&publisher_slug=itechdaily19598&exclusive=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -193,16 +179,14 @@ A major reason you may be interested in the Series 8, even though it's now a few
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-art-of-focusing-on-roblox-elements-closeup/"><u>[New] The Art of Focusing on Roblox Elements Closeup</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-best-practices-expert-picks-for-4k-dslr-mounts/"><u>[Updated] In 2024, Best Practices Expert Picks for 4K DSLR Mounts</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-capitalizing-on-hairstyle-demonstrations/"><u>[Updated] In 2024, Capitalizing on Hairstyle Demonstrations</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-boosting-youtube-popularity-two-simple-strategies/"><u>2024 Approved Boosting YouTube Popularity Two Simple Strategies</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/affordable-and-effective-disk-cloning-tools-compatible-with-all-generations-of-windows-os/"><u>Affordable and Effective Disk Cloning Tools Compatible with All Generations of Windows OS</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/all-you-need-to-know-about-teslas-upcoming-robotaxi-price-predictions-specs-and-launch-timeline/"><u>All You Need to Know About Tesla's Upcoming Robotaxi: Price Predictions, Specs & Launch Timeline</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/best-in-class-iphone-and-android-video-enhancers/"><u>Best-In-Class iPhone and Android Video Enhancers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-greatest-chef-programs-on-netflix-our-top-picks/"><u>Discover the Greatest Chef Programs on Netflix: Our Top Picks!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-navigate-the-power-efficiency-diagnostics-in-windows-10/"><u>How to Navigate the Power Efficiency Diagnostics in Windows 10</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/retrieve-forgotten-passwords-from-your-mac-with-simple-tricks/"><u>Retrieve Forgotten Passwords From Your Mac with Simple Tricks</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/upcoming-playstation-portable-launch-dates-costs-specifications-and-purchase-options/"><u>Upcoming PlayStation Portable Launch: Dates, Costs, Specifications & Purchase Options</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/affordable-streaming-how-can-students-access-youtube-premium-at-reduced-costs/"><u>Affordable Streaming: How Can Students Access YouTube Premium at Reduced Costs?</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-ultimate-guide-how-to-transfer-music-from-apple-iphone-14-plus-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Ultimate Guide, How to Transfer Music From Apple iPhone 14 Plus to iPhone | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/installation-instructions-for-upgrading-to-windows-11-on-new-hardware-drives/"><u>Installation Instructions for Upgrading to Windows 11 on New Hardware Drives</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/is-it-possible-to-integrate-javascript-into-your-e-books-created-with-flipbuilders-platform/"><u>Is It Possible to Integrate JavaScript Into Your E-Books Created with FlipBuilder's Platform?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/maximizing-win11-performance-boosters-revealed-for-2024/"><u>Maximizing Win11 Performance Boosters Revealed for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-common-obstacles-with-gmail-sync-functionality/"><u>Overcoming Common Obstacles with Gmail Sync Functionality</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-5-display-choices-for-ps5-for-2024/"><u>Ultimate 5 Display Choices For PS5 for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-collection-ps5s-exclusive-game-titles/"><u>Ultimate Collection: PS5's Exclusive Game Titles</u></a></li>
 </ul></div>
 

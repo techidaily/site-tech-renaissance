@@ -1,7 +1,7 @@
 ---
 title: "Strategies for Apple's Lifeline to Disappointed Sonos Owners: Insights From ZDNet"
-date: 2024-11-11T21:14:09.993Z
-updated: 2024-11-15T17:41:02.746Z
+date: 2024-11-22T16:00:22.473Z
+updated: 2024-11-25T16:00:41.535Z
 tags:
   - apple
 categories:
@@ -28,14 +28,11 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-## How to customize your iPhone's new Control Center with iOS 18
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## How to customize your iPhone's new Control Center with iOS 18
 
 ## 1\. Access Control Center
 
@@ -44,16 +41,7 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -64,24 +52,25 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -92,10 +81,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -140,21 +126,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-best-free-tools-for-converting-youtube-videos/"><u>[New] 2024 Approved Best Free Tools for Converting YouTube Videos</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-instructor-friendly-screen-recording-software-guide-for-2024/"><u>[Updated] Instructor-Friendly Screen Recording Software Guide for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-oneplus-11-5g-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix OnePlus 11 5G System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-fixes-dealing-with-detection-failures-of-power-sources/"><u>Effortless Fixes: Dealing with Detection Failures of Power Sources</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fix-paramount-plus-connectivity-problems-on-your-roku-device-a-step-by-step-guide/"><u>Fix Paramount Plus Connectivity Problems on Your Roku Device - A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/from-boring-to-breathtaking-transforming-podcast-blurbs/"><u>From Boring to Breathtaking Transforming Podcast Blurbs</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/leading-2024s-chart-of-essential-apps-for-tracking-and-enhancing-your-exercise-habits/"><u>Leading 2024'S Chart of Essential Apps for Tracking and Enhancing Your Exercise Habits</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/list-of-psvr-titles-unveiled-to-date-the-ultimate-collection/"><u>List of PSVR² Titles Unveiled to Date: The Ultimate Collection</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/overcoming-disc-drive-malfunctions-strategies-for-opening-stubborn-units/"><u>Overcoming Disc Drive Malfunctions: Strategies for Opening Stubborn Units</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/simplifying-your-mac-experience-setting-custom-finder-visibility-rules/"><u>Simplifying Your Mac Experience: Setting Custom Finder Visibility Rules</u></a></li>
-<li><a href="https://facebook.techidaily.com/social-network-users-shift-to-hardware-for-cybersecurity/"><u>Social Network Users Shift to Hardware for Cybersecurity</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-the-avcodecdll-file-not-detected-a-comprehensive-guide/"><u>Solving the avcodec.dll File Not Detected: A Comprehensive Guide</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/top-converter-mp4-to-facebook-social-media-pro/"><u>Top Converter MP4 to Facebook (Social Media Pro)</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-hdcp-issues-identification-and-resolution-strategies/"><u>Understanding HDCP Issues: Identification & Resolution Strategies</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unpacking-the-features-of-ankers-qi-wireless-charger-power-bank-a-comprehensive-review-for-iphone-owners/"><u>Unpacking the Features of Anker's Qi Wireless Charger Power Bank: A Comprehensive Review for iPhone Owners</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-samsung-galaxy-f34-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-the-screen-savers-strategy-top-recording-tactics/"><u>[New] In 2024, The Screen Saver's Strategy Top Recording Tactics</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-leveraging-likeability-for-business-profits-on-fb-for-2024/"><u>[New] Leveraging Likeability for Business Profits on FB for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-tweeting-tides-the-rising-wave-of-viral-videos/"><u>[New] Tweeting Tides The Rising Wave of Viral Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-ultimate-smartphone-camera-recording-tools-iphoneandroid-edition/"><u>[New] Ultimate Smartphone Camera Recording Tools - iPhone/Android Edition</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-the-path-to-prominence-9-proven-strategies-for-instagram-stars/"><u>[Updated] Navigating the Path to Prominence 9 Proven Strategies for Instagram Stars</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-becoming-a-video-wizard-with-screencast-insider-tips/"><u>2024 Approved Becoming a Video Wizard with Screencast Insider Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-advice-overcoming-helperdll-cannot-be-found-complications-on-windows/"><u>Expert Advice: Overcoming 'Helper.dll Cannot Be Found' Complications on Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/google-pixel-watch-3-exclusive-breaking-down-rumors-on-pricing-structure-release-windows-and-tech-specs/"><u>Google Pixel Watch 3 Exclusive – Breaking Down Rumors on Pricing Structure, Release Windows, and Tech Specs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-correctly-handle-dbghelpjar-is-unavailable-mistakes-on-your-pc/"><u>How to Correctly Handle 'dbghelp.jar Is Unavailable' Mistakes on Your PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/hunt-down-the-best-deals-on-apple-watches-this-month-where-to-find-them/"><u>Hunt Down the Best Deals on Apple Watches This Month: Where to Find Them</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/learn-how-to-enjoy-hulu-content-on-an-lg-ultra-hd-smart-tv/"><u>Learn How to Enjoy Hulu Content on an LG Ultra HD Smart TV</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mac-troubleshooting-what-to-do-when-apps-refuse-to-launch/"><u>Mac Troubleshooting: What To Do When Apps Refuse to Launch</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-system-errors-fixes-for-win11-fs-failures/"><u>Navigating System Errors: Fixes for Win11 FS Failures</u></a></li>
+<li><a href="https://driver-error.techidaily.com/smart-1080p-touch-screen-msi-desktop-with-advanced-artificnial-intelligence-features/"><u>Smart 1080P Touch Screen MSI Desktop with Advanced Artificnial Intelligence Features</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-your-computer-solutions-for-missing-fm20dll-files/"><u>Troubleshooting Your Computer: Solutions for Missing fm20.dll Files</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unleash-entertainment-selecting-the-6-greatest-kids-film-platforms-with-no-cost/"><u>Unleash Entertainment: Selecting the 6 Greatest Kids’ Film Platforms with No Cost</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95726347-9786171223738-polnyj-semejnyj-sonnik-na-kazhdyj-den-12-v-1-polnyj-semejnyj-sonnik-na-kazhdyj-den-12-v-1/"><u>Полный семейный сонник на каждый день. 12 в 1. (Polnyj semejnyj sonnik na kazhdyj den'. 12 v 1.) | Free Book</u></a></li>
 </ul></div>
 

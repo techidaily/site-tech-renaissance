@@ -1,7 +1,7 @@
 ---
 title: "How to Upgrade to iOS N18: Installation Guide & Eligible iPhones | Latest Update Covered by ZDNet"
-date: 2024-11-08T17:36:00.422Z
-updated: 2024-11-15T18:54:51.269Z
+date: 2024-11-23T16:24:33.129Z
+updated: 2024-11-25T07:13:12.409Z
 tags:
   - apple
 categories:
@@ -59,6 +59,10 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to navigate the iOS 18 Photos app
 
 Maria Diaz/ZDNET
@@ -105,35 +109,18 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-insta-influencing-techniques-for-scaling-your-following-quickly-for-2024/"><u>[New] Insta Influencing Techniques for Scaling Your Following Quickly for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-zoom-meeting-organization-tips-for-professionals-for-2024/"><u>[Updated] Zoom Meeting Organization Tips for Professionals for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-from-copycat-to-originalist-crafting-funny-relatable-memes/"><u>2024 Approved From Copycat to Originalist Crafting Funny, Relatable Memes</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/4-ways-to-unlock-apple-iphone-7-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>4 Ways to Unlock Apple iPhone 7 to Use USB Accessories Without Passcode</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/addressing-missing-wlanapidll-top-strategies-and-fixes/"><u>Addressing Missing wlanapi.dll: Top Strategies and Fixes</u></a></li>
-<li><a href="https://win-blog.techidaily.com/boosting-sifu-techniques-to-prevent-stuttering-and-dropped-frames-in-pc-gaming/"><u>Boosting 'Sifu': Techniques to Prevent Stuttering and Dropped Frames in PC Gaming</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-how-to-clear-youtube-watch-later-playlist/"><u>In 2024, How to Clear YouTube Watch Later Playlist</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/leading-tech-in-action-sports-recording-for-2024/"><u>Leading Tech in Action Sports Recording for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-privacy-stealth-browsing-techniques-for-chrome-edge-firefox-safari-and-opera/"><u>Mastering Privacy: Stealth Browsing Techniques for Chrome, Edge, Firefox, Safari & Opera</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/removing-user-authentication-with-pin-on-windows-11-a-comprehensive-walkthrough/"><u>Removing User Authentication with PIN on Windows 11 – A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/scopri-il-potenziale-di-movavi-photo-editor-un-ottimo-investimento-per-la-tua-creativita-fotografica/"><u>Scopri Il Potenziale Di Movavi Photo Editor - Un Ottimo Investimento per La Tua Creatività Fotografica</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solutions-restoring-functionality-to-your-broken-macbook-pro-keys/"><u>Step-by-Step Solutions: Restoring Functionality to Your Broken MacBook Pro Keys</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-complete-tutorial-on-how-to-deep-clean-a-television-remote-with-household-items/"><u>The Complete Tutorial on How to Deep Clean a Television Remote with Household Items</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-decoding-bsod-errors-on-your-pc/"><u>The Ultimate Guide to Decoding BSOD Errors on Your PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-step-by-step-process-to-permanently-remove-your-yahoo-mail-account/"><u>The Ultimate Step-by-Step Process to Permanently Remove Your Yahoo Mail Account</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/troubleshooting-post-cloning-dark-monitor-dilemma-on-windows-pcs/"><u>Troubleshooting Post-Cloning Dark Monitor Dilemma on Windows PCs</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-fugetek-ft-568-selfie-stick-superior-performance-unveiled/"><u>Ultimate Guide to Fugetek FT-568 Selfie Stick - Superior Performance Unveiled</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mood-matcher-auditory-selection-for-videos/"><u>[Updated] Mood Matcher Auditory Selection for Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-premium-platforms-for-virtual-shows/"><u>[Updated] Premium Platforms for Virtual Shows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/2024s-elite-lineup-of-high-quality-in-ceiling-speakers-reviewed/"><u>2024'S Elite Lineup of High-Quality In-Ceiling Speakers Reviewed</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-lava-blaze-2-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Lava Blaze 2 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-paving-the-path-to-online-success-youtubes-keyword-guide/"><u>In 2024, Paving the Path to Online Success YouTube's Keyword Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-the-challenge-guaranteed-fixes-when-itunes-fails-to-identify-your-iphone-on-windows-10/"><u>Overcoming the Challenge: Guaranteed Fixes When iTunes Fails to Identify Your iPhone on Windows 10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-accessing-instagram-stories-and-posts-without-creating-an-account/"><u>Step-by-Step Guide: Accessing Instagram Stories and Posts without Creating an Account</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/the-artisans-path-to-creating-3d-luts-for-2024/"><u>The Artisan’s Path to Creating 3D LUTs for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-future-of-meta-quest-price-predictions-expected-arrival-date-and-insider-info-on-tech-specs/"><u>The Future of Meta Quest: Price Predictions, Expected Arrival Date, and Insider Info on Tech Specs</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-wellness-companion-why-fitbit-sense-rises-above-the-apple-watch/"><u>The Ultimate Wellness Companion: Why Fitbit Sense Rises Above the Apple Watch</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-4-twitter-apps-for-easily-tracking-and-engaging-in-trending-topics/"><u>Top 4 Twitter Apps for Easily Tracking and Engaging in Trending Topics</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-resolving-windows-error-0xc00n0000098-expert-tips-for-quick-fixes/"><u>Troubleshooting and Resolving Windows Error 0xC00n0000098: Expert Tips for Quick Fixes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-efficiency-a-guide-to-activating-your-file-explorers-quick-access-toolbar/"><u>Unlocking Efficiency: A Guide to Activating Your File Explorer's Quick Access Toolbar</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

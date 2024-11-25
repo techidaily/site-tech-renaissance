@@ -1,7 +1,7 @@
 ---
 title: Users Share Common Frustrations After Upgrading to iOS 18 - A Closer Look by ZDNet
-date: 2024-11-09T17:43:45.454Z
-updated: 2024-11-16T05:53:56.503Z
+date: 2024-11-22T16:00:09.206Z
+updated: 2024-11-25T16:00:28.416Z
 tags:
   - apple
 categories:
@@ -59,6 +59,10 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to navigate the iOS 18 Photos app
 
 Maria Diaz/ZDNET
@@ -105,25 +109,16 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-contrasting-youtubes-ownership-norms-with-cc-ideals/"><u>[New] 2024 Approved Contrasting YouTube's Ownership Norms with CC Ideals</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-quick-pick-tricks-mastering-tiktok-photo-hacks/"><u>[New] 2024 Approved Quick-Pick Tricks Mastering TikTok Photo Hacks</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-guide-to-large-prop-integration-in-tiktok-productions/"><u>[Updated] In 2024, Guide to Large Prop Integration in TikTok Productions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-process-of-implementing-chatbots-into-your-discord-server-setup/"><u>Discover the Process of Implementing Chatbots Into Your Discord Server Setup</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebooks-influential-marketer-to-step-down/"><u>Facebook's Influential Marketer to Step Down</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-on-your-apple-iphone-xr-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID On Your Apple iPhone XR</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-nokia-c110-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Nokia C110 Phones</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-verifying-ad-revenue-on-yt-a-step-by-step-tutorial/"><u>In 2024, Verifying Ad Revenue on YT A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-accessibility-on-ig-how-to-add-text-overlays-to-your-stories/"><u>Mastering Accessibility on IG - How to Add Text Overlays to Your Stories</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/masterminds-of-immersive-marvellous-marvel-spheres-for-2024/"><u>Masterminds of Immersive Marvellous Marvel Spheres for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/steps-to-recover-from-dnssddll-file-not-found-errors-efficiently/"><u>Steps to Recover From DNSSD_DLL File Not Found Errors Efficiently</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlock-full-web-experience-how-to-allow-cookies-in-your-browser/"><u>Unlock Full Web Experience: How to Allow Cookies in Your Browser</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-samsung-galaxy-watch-7-costs-launch-timeline-and-key-features/"><u>Unveiling the Samsung Galaxy Watch 7: Costs, Launch Timeline & Key Features</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-ranking-the-best-8-websites-with-shimmering-3d-and-text/"><u>[New] Ranking the Best 8 Websites with Shimmering 3D & Text</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-managing-excessive-tiktoks-mastering-edits-and-deletions/"><u>[Updated] Managing Excessive TikToks Mastering Edits & Deletions</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unlock-creator-studio-secrets-a-step-by-step-tutorial/"><u>[Updated] Unlock Creator Studio Secrets A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-digital-dollar-first-steps-in-youtubers-revenue/"><u>2024 Approved Digital Dollar First Steps in YouTubers' Revenue</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-lava-yuva-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/inside-scoop-on-apples-automotive-endeavour-news-coverage-estimated-pricing-details-launch-schedule-and-intriguing-rumors/"><u>Inside Scoop on Apple's Automotive Endeavour: News Coverage, Estimated Pricing Details, Launch Schedule & Intriguing Rumors</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-pokemon-unite-the-ultimate-guide-to-pc-gameplay/"><u>Mastering Pokémon Unite: The Ultimate Guide to PC Gameplay</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-screen-mirroring-share-your-android-display-on-fire-stick/"><u>Mastering Screen Mirroring: Share Your Android Display on Fire Stick</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/rectifying-launchdll-not-found-easy-steps-to-restore-functionality/"><u>Rectifying 'launch.dll Not Found': Easy Steps to Restore Functionality</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/retrace-your-steps-flipping-iphone-videography/"><u>Retrace Your Steps Flipping iPhone Videography</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-and-repairing-the-missing-comctl32dll-issue/"><u>Troubleshooting and Repairing the Missing Comctl32.dll Issue</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

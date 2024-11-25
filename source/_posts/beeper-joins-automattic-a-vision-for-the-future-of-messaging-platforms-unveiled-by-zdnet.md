@@ -1,7 +1,7 @@
 ---
 title: "Beeper Joins Automattic: A Vision for the Future of Messaging Platforms Unveiled by ZDNet"
-date: 2024-11-14T03:15:22.171Z
-updated: 2024-11-16T04:13:19.763Z
+date: 2024-11-19T16:00:22.340Z
+updated: 2024-11-25T16:00:29.381Z
 tags:
   - apple
 categories:
@@ -42,6 +42,10 @@ There's a reason the Apple Watch is acclaimed as one of the best smartwatches in
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. A less-distracting extension of your iPhone
 
 Jason Hiner/ZDNET
@@ -59,10 +63,7 @@ The watch is also a great way to reduce distractions. When you have your phone o
 Of course, your mileage may vary with this experience. Not everyone has or wants a cellular-connected Apple Watch, and all the dings and buzzes you get during the day can be distracting. But for me, having the watch strapped to my wrist and paired with my phone number makes it incredibly easy to cut the reliance on my phone and reduce the temptation to get carried away with all the apps I have installed. It's great.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. A truly great fitness-tracking experience
@@ -77,6 +78,10 @@ From the concept of "closing your rings" every day (and the various awards you c
 
 Apple's platform isn't perfect, mind you. You'll find better sleep-tracking information on other watches, like the Google Pixel Watch 2, you don't get any recovery information _at all_, and the Health app doesn't proactively tell you whether you're improving during your fitness journey. Still, for general consumers and fitness enthusiasts, using the Apple Watch for health tracking is a fantastic experience.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Notifications you want to interact with
 
 I can't tell you how many times I've used a smartwatch and wanted it to replicate the notification experience of the Apple Watch. From how alerts pop up on your wrist to the sounds and vibrations they make, everyone else should copy what Apple is doing.
@@ -84,13 +89,6 @@ I can't tell you how many times I've used a smartwatch and wanted it to replicat
 **Also: [Apple Watch Fall Detection: How and why to enable it](https://www.zdnet.com/article/apple-watch-fall-detection-how-and-why-to-enable-it/)**
 
 Seriously, the Apple Watch's notification system is excellent. A gentle tap on the wrist lets you know something has just popped up, while the animation from app icon to notification is fast and clear. You can swipe the alert away with minimal effort, the notification shade is tight yet descriptive, and any notification you dismiss is also dismissed from your phone (a synchronization many Android phones don't have when paired with a smartwatch). The Apple Watch has the best notifications in the game, bar none.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. The greatest haptics on any watch
 
@@ -103,10 +101,7 @@ One reason notifications are so good is the Apple Watch's Taptic Engine, which d
 The feel of haptics on a watch can set the tone for how you perceive the quality of the device. My [ScanWatch from Withings](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FWithings-ScanWatch-Light-Smartwatch-Monitoring%2Fdp%2FB0CG9RZFLN%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd68bc2ab-4b95-4dbb-8461-3abb4a46ecac%7Cdtp&dtb=1), for example, buzzes like a cheap cell phone from 2014\. My [Galaxy Watch](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Bluetooth-Smartwatch-Personalized-Advanced%2Fdp%2FB0C797946T%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd68bc2ab-4b95-4dbb-8461-3abb4a46ecac%7Cdtp&dtb=1)'s vibrations are stronger and not as buzzy, but feel unnatural. The Apple Watch's haptics feel the most natural by far, which makes the watch feel great to wear by extension.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Navigating with Apple Maps
@@ -134,16 +129,7 @@ The platform just works the way you'd expect. When paired to your iPhone, so man
 When I have to test a new Wear OS watch, I immediately miss using watchOS. It feels clunkier and slower, the watch faces aren't as nice (although there are some decent third-party options), and the apps aren't as good. If you want the best smartwatch software experience and have to ditch your Android phone for an iPhone, making that switch is worth it. I have friends who have switched to the iPhone simply because the Apple Watch and watchOS are so good.
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -180,20 +166,18 @@ While the [Apple Watch](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=http
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-motorola-moto-g-5g-2023-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Motorola Moto G 5G (2023) Fingerprint Lock</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-exceptional-websites-with-complimentary-digital-literature/"><u>Discover Exceptional Websites with Complimentary Digital Literature</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/efficient-ways-to-share-a-batch-of-photos-with-friends-on-facebook/"><u>Efficient Ways to Share a Batch of Photos with Friends on Facebook</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/explore-these-unmatched-alternatives-to-gmail-for-enhanced-email-experience/"><u>Explore These Unmatched Alternatives to Gmail for Enhanced Email Experience</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fixing-the-elusive-error-code-0xc000185-techniques-and-solutions-for-smooth-operations/"><u>Fixing the Elusive Error Code 0Xc000#185: Techniques and Solutions for Smooth Operations</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-enable-and-disable-iphone-recovery-mode-easily/"><u>How to Enable and Disable iPhone Recovery Mode Easily</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-apex-assemblies-best-laptop-trio-for-4k-visionaries/"><u>In 2024, Apex Assemblies Best Laptop Trio for 4K Visionaries</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-excellent-typography-trick-sets/"><u>In 2024, Excellent Typography Trick Sets</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-oppo-a59-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Oppo A59 5G to Gmail | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-guide-to-rectify-0x80072af9-on-windows-os/"><u>Quick Guide to Rectify 0X80072AF9 on Windows OS</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/shape-individualistic-online-humorous-pieces/"><u>Shape Individualistic Online Humorous Pieces</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solution-steps-for-the-missing-ksuserdll-error-on-your-computer/"><u>Solution Steps for the Missing ksuser.dll Error on Your Computer</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlock-the-potential-of-your-iphone-a-tutorial-on-force-reboot-and-recovery-setup/"><u>Unlock the Potential of Your iPhone: A Tutorial on Force Reboot and Recovery Setup</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/urgent-fixes-for-when-you-cant-find-ftd2xxdll-on-your-computer/"><u>Urgent Fixes for When You Can't Find ftd2xx.dll on Your Computer</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-apexs-single-player-focus-how-to-optimize-your-game-experience/"><u>[New] 2024 Approved Apex's Single Player Focus How to Optimize Your Game Experience</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-unlocking-instagrams-potential-elevating-content-impact/"><u>[New] 2024 Approved Unlocking Instagram's Potential Elevating Content Impact</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-premier-toolkit-7-stealth-film-apps/"><u>[New] Premier Toolkit 7 Stealth Film Apps</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/tarting-with-a-bang-building-a-youtube-presence-for-2024/"><u>[New] Starting with a Bang Building a YouTube Presence for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/achieve-smoother-play-in-godfall-strategies-for-fixing-persistent-fps-drops/"><u>Achieve Smoother Play in Godfall: Strategies for Fixing Persistent FPS Drops</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1723808284855-fix-install-realtek-hd-audio-driver-failure-easily/"><u>Fix Install Realtek HD Audio Driver Failure. Easily</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1723808226860-get-the-latest-asus-aura-software-update-windows-11-edition-download-here/"><u>Get the Latest ASUS Aura Software Update – Windows 11 Edition Download Here</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Oppo K11x? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1723808003921-laminar-flow-occurs-at-low-velocities-with-a-smooth-orderly-movement-of-fluid-particles-in-layers/"><u>Laminar Flow Occurs at Low Velocities with a Smooth, Orderly Movement of Fluid Particles in Layers</u></a></li>
+<li><a href="https://discover-able.techidaily.com/resurrecting-data-the-ultimate-method-for-recovering-a-disk-using-aomei-backupper/"><u>Resurrecting Data: The Ultimate Method for Recovering a Disk Using AOMEI Backupper</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-setting-up-your-keyboard-and-mouse-compatibly-with-ps4/"><u>Ultimate Guide: Setting Up Your Keyboard & Mouse Compatibly with PS4</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-lava-yuva-3-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Lava Yuva 3 Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/windows-11-installation-now-successfully-completed-after-previous-failures/"><u>Windows 11 Installation Now Successfully Completed After Previous Failures</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Repair and Restore a Missing 'MSVCR100.DLL' Component
-date: 2024-09-04T01:17:33.247Z
-updated: 2024-09-05T01:17:33.247Z
+date: 2024-11-19T21:29:10.849Z
+updated: 2024-11-25T10:20:27.374Z
 categories:
   - BestProducts
 description: This Article Describes How to Repair and Restore a Missing 'MSVCR100.DLL' Component
@@ -26,6 +26,10 @@ thumbnail: https://www.lifewire.com/thmb/cXOHzWDr-1TEOhp1704Js3UJAFo=/400x300/fi
 4. **Remove the SIM card.** The more drying air that gets inside the wet iPhone, the better. You[can't remove the battery](https://www.lifewire.com/how-long-do-ipod-batteries-last-2000142) and there aren't many other openings, but you can[remove the SIM card](https://www.lifewire.com/what-is-iphone-sim-card-2000363) . The SIM slot isn't large, but every little bit helps. Just don't lose your SIM card!
 5. **Leave it in a warm place.** Once you've gotten as much water as possible out of the phone, keep your device off and leave it somewhere warm to dry. Some people leave wet iPods or iPhones on the top of a TV, where the heat from the TV helps dry the device. Others prefer a sunny windowsill. Choose whatever tactic you like. Let it dry a day or two.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Don't Do This to a Wet iPhone
 
  If your iPhone is soaked, what you don't do is just as important as what you do. If you're not careful, you might accidentally do something that could further damage your device. So, if your iPhone or iPod is wet, don't do the following:
@@ -33,12 +37,6 @@ thumbnail: https://www.lifewire.com/thmb/cXOHzWDr-1TEOhp1704Js3UJAFo=/400x300/fi
 1. **Never turn it on.** If your iPhone is water damaged,**never try to turn it on or wake it** . You may be tempted to do that to see if it still works, but doing that can short out its electronics and damage them even more. In fact, you should avoid anything that could cause the electronics to function, like getting notifications that light up the screen. If your phone was off when it got wet, you're fine. If your device was on,[turn it off](https://www.lifewire.com/turn-off-your-iphone-2000114) (this is a little risky, but it's better than leaving it on with all functions running).
 2. **Don't use a hair dryer.** While this technique has worked for some people, you can also damage your device or spread the water around more. It's best to avoid fans for the same reason. Don't leave your device on a radiator, either. That will get much[too hot and could damage the phone in other ways](https://www.lifewire.com/red-iphone-battery-icon-help-2000272) .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Advanced Techniques for Fixing a Wet iPhone
 
  The simplest and probably safest method to save a wet iPhone is to let it dry out naturally. But there are a couple of advanced options you can try to speed up the process:
@@ -48,11 +46,9 @@ thumbnail: https://www.lifewire.com/thmb/cXOHzWDr-1TEOhp1704Js3UJAFo=/400x300/fi
  Don't use enriched rice. It can leave dust behind that can get into your phone.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try This Only If You're Desperate to Fix Your Wet iPhone
 
  If you're really desperate, or really skilled, you can try this option—but you better know what you're doing. You can ruin your iPhone and[void your warranty](https://www.lifewire.com/iphone-warranty-plus-applecare-1999284) .
@@ -60,12 +56,6 @@ thumbnail: https://www.lifewire.com/thmb/cXOHzWDr-1TEOhp1704Js3UJAFo=/400x300/fi
 1. **Take it apart.** You can take your iPhone apart to dry out the wet parts. Separate the parts to air dry or leave them in a bag of rice for a day or two and then re-assemble the device.  
  This is very risky. Unless you really, really know what you're doing, you're likely to do more harm than good and should avoid this. Don't say we didn't warn you.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try the Experts on Saving a Wet iPhone
 
  Don't want to take on this task yourself? Try the folks with experience in repairing wet iPhones and iPods.
@@ -74,17 +64,9 @@ thumbnail: https://www.lifewire.com/thmb/cXOHzWDr-1TEOhp1704Js3UJAFo=/400x300/fi
 2. **Try Apple.**  While moisture damage isn't covered by Apple's warranty, Apple will repair iPhones that have water damaged. Different models have different repair prices, so[keep an eye on this page on Apple's site](https://support.apple.com/iphone/repair) for the latest details.
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="80" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Check for Water Damage in a Used iPhone or iPod
 
  If you're[buying a used iPhone or iPod](https://www.lifewire.com/check-if-used-iphone-is-stolen-1999376) or lent someone your device and now it's not working so well, you want to check if it got wet. You can do this using the moisture indicator built into iPods and iPhones.
@@ -94,11 +76,9 @@ thumbnail: https://www.lifewire.com/thmb/cXOHzWDr-1TEOhp1704Js3UJAFo=/400x300/fi
 [The moisture indicator is far from foolproof](https://www.cnet.com/tech/tech-industry/apple-settles-iphone-water-damage-lawsuit-for-53m/) . But, if you see the orange dot, you need to at least consider that the device may have had a bad experience with water.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Software Tips for Dealing with a Wet iPhone
 
  After you've dried your iPhone or iPod, it may start up just fine and work as though nothing happened. But many people encounter some software problems when they first try using it. Try these tips, which also apply to[iPod touch](https://www.lifewire.com/ipod-touch-everything-to-know-1999772) and iPad, for dealing with some of the common problems:
@@ -107,17 +87,9 @@ thumbnail: https://www.lifewire.com/thmb/cXOHzWDr-1TEOhp1704Js3UJAFo=/400x300/fi
 * [How to Fix an iPhone Stuck at the Apple Logo](https://www.lifewire.com/how-to-fix-an-iphone-stuck-on-the-apple-logo-2000268) .
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Waterproof iPhones: iPhone 7 and Newer
 
  Probably the easiest—but not the cheapest—way to save a wet iPhone is to get one that resists water damage in the first place.
@@ -146,8 +118,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +125,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-captivating-cuts-editor-apps-that-liberate-android-users/"><u>[Updated] 2024 Approved Captivating Cuts Editor Apps That Liberate Android Users</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-compare-and-contrast-the-creme-de-la-creme-of-free-edits/"><u>[Updated] In 2024, Compare and Contrast The Crème De La Crème of Free Edits</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-the-comprehensive-guide-to-zoom-screen-casts/"><u>[Updated] In 2024, The Comprehensive Guide to Zoom Screen Casts</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-top-picks-superior-cloud-space-solutions/"><u>[Updated] Top Picks Superior Cloud Space Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apples-latest-update-can-workout-sync-make-your-garmin-device-redundant-digital-gadget-review/"><u>Apple's Latest Update: Can Workout Sync Make Your Garmin Device Redundant? | Digital Gadget Review</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/boost-your-iphone-efficiency-discover-stealthy-voice-control-tricks-for-power-users-innovatetech/"><u>Boost Your iPhone Efficiency: Discover Stealthy Voice Control Tricks for Power Users | InnovateTech</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-find-vanished-iphone-application-discover-easy-steps-to-retrieve-lost-apps/"><u>Can't Find Vanished iPhone Application? Discover Easy Steps to Retrieve Lost Apps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/clear-android-storage-cache-the-easy-way-for-smoother-performance/"><u>Clear Android Storage Cache – The Easy Way for Smoother Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/get-a-tidy-desktop-unnecessary-windows-software-list/"><u>Get a Tidy Desktop: Unnecessary Windows Software List</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/harnessing-artifice-intelligence-the-leading-8-phone-apps-for-every-user/"><u>Harnessing Artifice Intelligence: The Leading 8 Phone Apps for Every User</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/latest-iphone-12-update-now-with-enhanced-qi2-wireless-charging-no-more-magsafe-necessary/"><u>Latest iPhone 12 Update: Now with Enhanced Qi2 Wireless Charging, No More MagSafe Necessary</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigate-the-depths-of-macos-finding-and-using-saved-user-passwords-effectively/"><u>Navigate the Depths of macOS: Finding and Using Saved User Passwords Effectively</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722960744506-quick-guide-to-downloading-your-zebra-gk420d-driver-effortless-setup/"><u>Quick Guide to Downloading Your ZEBRA GK420d Driver – Effortless Setup</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-upgrades-what-sets-the-new-apple-airpods-4-apart-from-previous-versions-techinsights/"><u>Unveiling the Upgrades: What Sets the New Apple AirPods 4 Apart From Previous Versions | TechInsights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upcoming-watchos-11-rollout-eligible-and-ineligible-apple-watch-models-revealed-by-techexpertzdnet/"><u>Upcoming WatchOS 11 Rollout: Eligible & Ineligible Apple Watch Models Revealed by TechExpertZDNet</u></a></li>
+</ul></div>
 

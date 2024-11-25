@@ -1,7 +1,7 @@
 ---
 title: "Purchasing eBooks via Apple's Books App: A Guide for iPhone and iPad Users"
-date: 2024-09-04T01:20:02.004Z
-updated: 2024-09-05T01:20:02.004Z
+date: 2024-11-18T19:40:58.092Z
+updated: 2024-11-25T07:24:35.231Z
 categories:
   - BestProducts
 description: "This Article Describes Purchasing eBooks via Apple's Books App: A Guide for iPhone and iPad Users"
@@ -19,6 +19,10 @@ of 06
 ## [Use Siri to Set Reminders, Alarms, Events, Etc.](https://www.lifewire.com/what-is-siri-help-1994303)
 
 ![Woman uses voice recognition with smart phone](https://www.lifewire.com/thmb/nCoMZ6heVUND0wk1Jvc09Sezux0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1068618284-32b8bee5ac544f198c5fe6e8c10dee35.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  metamorworks / Getty Images
 
@@ -42,6 +46,10 @@ of 06
 
 ![Ipad2 Comparison](https://www.lifewire.com/thmb/jPN69wWYT2zLJfh18NfogwaSrHo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-457316526-57deda085f9b58651650818c.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Credit: Justin Sullivan / Staff Editorial #: 457316526
 
  The screenshot prank involves[taking a screenshot](https://www.lifewire.com/how-to-take-an-ipad-screenshot-4103779) of the home screen and[using it as the wallpaper for the lock screen](https://www.lifewire.com/set-ipads-background-wallpaper-1994638) . This change can cause your unsuspecting victim to think the iPad or iPhone is ready to use, but all the taps in the world won't open an app until they slide to unlock.
@@ -54,12 +62,6 @@ of 06
 
 ![A woman is using a mobile phone](https://www.lifewire.com/thmb/jjAY5RfCf0bXbyTAiGQR8Hch-IY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1024775444-046154f6b201485c8e1e9159c420b6d3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Karl Tapales/Getty Images
 
  This one is similar to the screenshot background.
@@ -76,21 +78,13 @@ of 06
 of 06
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [The Blue Screen of Death](https://www.lifewire.com/blue-screen-of-death-bsod-2625816)
 
 ![blue-screen-of-death-trick.jpg](https://www.lifewire.com/thmb/_gxotYS62h_k3CB3IJcw8XjirCo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/blue-screen-of-death-trick-56a532a05f9b58b7d0db708b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030385/7443" target="_top" id="2030385">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030385" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030385/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  This one is funnier if you're targeting an IT professional or anyone that knows a bit about computers. The famed "Blue Screen of Death" is the error screen Windows gives when the operating system crashes.
 
  Having the Blue Screen of Death appear on an Apple device may or may not trick someone who knows a thing or two about computers. But, at the very least, it should draw a good laugh.
@@ -102,33 +96,17 @@ of 06
 of 06
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="80" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [Invert the Colors](https://www.lifewire.com/how-to-invert-colors-on-iphone-4154078)
 
 ![Computer graphic of a human eye (negative-image)](https://www.lifewire.com/thmb/_a_kXKBXJhuHJ1QPW0N00LOavkE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-680799841-653726185c454bf29f730cce93fcb45a.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="540" height="960" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 MEHAU KULYK/SCIENCE PHOTO LIBRARY / Getty Images
 
 [iOS's accessibility options](https://www.lifewire.com/ipad-accessibility-guide-1994516) can be a goldmine for pranksters. Inverting the colors can make the iPad look all out of whack with no easy way to put it back to normal. Unless your target has really experimented with all the iPad settings, they probably won't figure it out.
@@ -145,12 +123,6 @@ of 06
 
 ![Ladybird on girl's hand under magnifying glass](https://www.lifewire.com/thmb/ly93teq_5dn-YxKk4JmXf6WLY7E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-588494079-6d7dfd09ac874928924cdc745685e929.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Westend61 / Getty Images
 
  The iPhone and iPad's accessibility options also have a zoom mode, which is great for those with vision problems and those who want to have a laugh at a friend's expense.
@@ -179,8 +151,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -188,4 +158,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-free-range-humor-development-unleash-your-wit/"><u>[New] In 2024, Free-Range Humor Development Unleash Your Wit</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-assessing-ffmpegs-prowess-in-original-audio-extraction/"><u>[Updated] 2024 Approved Assessing FFmpeg’s Prowess in Original Audio Extraction</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-mastering-hdr-image-creation-and-merging-in-lightroom/"><u>[Updated] 2024 Approved Mastering HDR Image Creation & Merging in Lightroom</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-top-unrestricted-data-saver-solutions-for-2024/"><u>[Updated] Top Unrestricted Data Saver Solutions for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-crafting-compelling-movies-implementing-fade-techniques/"><u>2024 Approved Crafting Compelling Movies Implementing Fade Techniques</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-grasping-the-nuances-in-youtube-viewer-reactions/"><u>2024 Approved Grasping the Nuances in YouTube Viewer Reactions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ace-your-tech-shopping-the-advantageous-discount-strategy-for-apples-elusive-ipad-pro-before-prime-day-strikes-zdnet-insights/"><u>Ace Your Tech Shopping: The Advantageous Discount Strategy for Apple's Elusive iPad Pro Before Prime Day Strikes | ZDNET Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/celebrate-the-fourth-with-spectacular-4th-of-july-mobile-offers-insights-by-zdnet/"><u>Celebrate the Fourth with Spectacular 4Th of July Mobile Offers - Insights by ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comparing-apples-latest-a-detailed-look-at-the-m2-vs-m1-battle-in-mac-mini-and-mac-studio/"><u>Comparing Apple's Latest: A Detailed Look at the M2 vs M1 Battle in Mac Mini and Mac Studio</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/experience-clean-entertainment-on-the-go-top-hotels-adopt-apple-airplay-technology-explained/"><u>Experience Clean Entertainment on the Go – Top Hotels Adopt Apple AirPlay Technology Explained</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/how-compatible-is-vmware-vcenter-server-8-with-esxi-67-and-7-environments/"><u>How Compatible Is VMware vCenter Server 8 with ESXi 6.7 and 7 Environments</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-oppo-find-x6-pro-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Oppo Find X6 Pro Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-your-vivo-y200-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Vivo Y200 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ios-1751-patch-corrects-odd-issue-with-reanimating-archived-discarded-images/"><u>IOS 17.5.1 Patch Corrects Odd Issue with Reanimating Archived, Discarded Images</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-netflix-errors-steps-to-correct-playback-problems-with-titles/"><u>Overcoming Netflix Errors: Steps to Correct Playback Problems with Titles</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-anticipated-boredom-of-apples-new-ai-developments-unveiled-at-wwdc-heres-why-it-could-actually-be-a-good-thing-analysis-by-zdnet/"><u>The Anticipated Boredom of Apple's New AI Developments Unveiled at WWDC? Here's Why It Could Actually Be a Good Thing | Analysis by ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-protection-the-ultimate-guide-to-choosing-the-ideal-iphone-12-and-12-pro-case-according-to-tech-experts/"><u>Top Rated Protection: The Ultimate Guide to Choosing the Ideal iPhone 12 & 12 Pro Case , According to Tech Experts</u></a></li>
+</ul></div>
 

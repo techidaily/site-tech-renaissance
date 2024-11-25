@@ -1,7 +1,7 @@
 ---
 title: "Mastering Craft: The Ultimate Guide to Mac-Based Document Automation | ZDNet"
-date: 2024-11-11T04:22:43.440Z
-updated: 2024-11-15T21:36:41.378Z
+date: 2024-11-24T16:04:03.907Z
+updated: 2024-11-25T16:03:12.152Z
 tags:
   - apple
 categories:
@@ -20,6 +20,10 @@ But then something sort of magical happened -- I started using the app. Once I u
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is Craft?
 
 According to the official website, Craft is built for digital devices from the ground up and brings the joy back to writing.   
@@ -36,10 +40,7 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -63,10 +64,7 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -80,10 +78,7 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -134,22 +129,22 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-maximizing-video-quality-with-zooms-format-tools-for-2024/"><u>[Updated] Maximizing Video Quality with Zoom's Format Tools for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-revolutionize-viewing-with-these-6-ultimate-youtube-shorts-downloader-apps-for-2024/"><u>[Updated] Revolutionize Viewing with These 6 Ultimate YouTube Shorts Downloader Apps for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/ceased-color-inaccuracy-issue-with-hp-photosmart-g450/"><u>Ceased Color Inaccuracy Issue with HP PhotoSmart G450</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-instructions-for-swapping-out-phone-screen-shield-film/"><u>Comprehensive Instructions for Swapping Out Phone Screen Shield Film</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/demystifying-modern-setup-hosts-insights-definitions-and-solutions-to-performance-problems/"><u>Demystifying Modern Setup Hosts: Insights, Definitions, & Solutions to Performance Problems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-selection-7-expertly-chosen-note-taking-apps-for-ipad-enthusiasts/"><u>Discover the Ultimate Selection: 7 Expertly Chosen Note-Taking Apps for iPad Enthusiasts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-history-behind-yahoo-messengers-discontinuation/"><u>Exploring the History Behind Yahoo! Messenger's Discontinuation</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-effortlessly-sync-a-bluetooth-audio-device-with-your-computer/"><u>How To Effortlessly Sync A Bluetooth Audio Device With Your Computer</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/master-the-art-of-multi-device-printer-sharing-a-simple-how-to-guide/"><u>Master the Art of Multi-Device Printer Sharing: A Simple How-To Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-your-photos-a-comprehensive-guide-to-facetune/"><u>Mastering Your Photos A Comprehensive Guide to Facetune</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/seamless-sound-integration-youtube-edition-for-2024/"><u>Seamless Sound Integration YouTube Edition for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-achieving-verification-status-on-the-new-x-platform/"><u>Step-by-Step Guide: Achieving Verification Status on the New X Platform</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-fixes-for-msodll-not-found-issues-on-pcs-and-laptops/"><u>The Ultimate Fixes for 'mso.dll Not Found' Issues on PCs and Laptops</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-fixes-resolving-non-functioning-wacom-tablet-problems/"><u>Troubleshooting Fixes: Resolving Non-Functioning Wacom Tablet Problems</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-xiaomi-13-ultra-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Xiaomi 13 Ultra IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-walkthrough-for-downloading-and-using-fandango-on-fire-stick/"><u>Ultimate Walkthrough for Downloading and Using Fandango on Fire Stick</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/spiring-youtube-guides-for-aspiring-singers-and-instrumentalists/"><u>15 Inspiring YouTube Guides for Aspiring Singers and Instrumentalists</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-oppo-k11x-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/best-free-disk-defragmenters-in-july-2024-a-comprehensive-guide/"><u>Best Free Disk Defragmenters in July 2024: A Comprehensive Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/bridge-devices-pairing-xbox-one-with-a-controller/"><u>Bridge Devices: Pairing Xbox One with a Controller</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/converging-music-and-imagery-online/"><u>Converging Music and Imagery Online</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/creative-composition-concepts-fostering-joyful-spaces/"><u>Creative Composition Concepts Fostering Joyful Spaces</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-root-causes-behind-a-computers-blue-screen-error/"><u>Exploring the Root Causes Behind a Computer's Blue Screen Error</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fast-track-solutions-for-enhancing-your-computers-speed/"><u>Fast-Track Solutions for Enhancing Your Computer’s Speed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-use-photo-cutout-on-an-iphone-ios-16/"><u>How to Use Photo Cutout on an iPhone (iOS 16)</u></a></li>
+<li><a href="https://facebook.techidaily.com/igniting-the-digital-conversation-12-revolutionary-strategies-for-engagement/"><u>Igniting the Digital Conversation: 12 Revolutionary Strategies for Engagement</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Samsung Galaxy A23 5G? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/instagram-innovation-how-final-cut-x-shapes-your-tall-screen-footage-for-2024/"><u>Instagram Innovation How Final Cut X Shapes Your Tall-Screen Footage for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/sequential-guide-viewing-all-transformers-films-correctly/"><u>Sequential Guide: Viewing All Transformers Films Correctly</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/simplify-your-experience-a-step-by-step-guide-to-androids-quick-settings-functionality/"><u>Simplify Your Experience: A Step-by-Step Guide to Android's Quick Settings Functionality</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-problem-a-step-by-step-guide-to-speed-up-your-sluggish-wifi/"><u>Solving the Problem: A Step-by-Step Guide to Speed Up Your Sluggish WiFi</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tech-hack-operate-your-roku-without-a-traditional-remote-a-comprehensive-guide/"><u>Tech Hack: Operate Your Roku Without a Traditional Remote - A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ltimate-guide-sharing-your-private-youtube-snippets-via-email/"><u>The Ultimate Guide Sharing Your Private YouTube Snippets via Email</u></a></li>
 </ul></div>
 

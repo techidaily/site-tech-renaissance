@@ -1,7 +1,7 @@
 ---
 title: "Join the Chorus of Discontent: The Unforeseen Consequences of Moving to iOS 18 on Your iPhone, as Revealed by ZDNet's Readers"
-date: 2024-11-12T00:27:16.508Z
-updated: 2024-11-15T23:26:23.582Z
+date: 2024-11-20T16:03:10.070Z
+updated: 2024-11-25T16:01:50.106Z
 tags:
   - apple
 categories:
@@ -59,6 +59,10 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to navigate the iOS 18 Photos app
 
 Maria Diaz/ZDNET
@@ -105,23 +109,18 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-how-to-leverage-slug-lines-in-articles/"><u>[Updated] In 2024, How to Leverage Slug Lines in Articles</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-thors-mighty-saga-ragnarok-dawns-for-2024/"><u>[Updated] Thor's Mighty Saga Ragnarok Dawns for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-xiaomi-redmi-note-13-proplus-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Xiaomi Redmi Note 13 Pro+ 5G Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apples-revolutionary-home-bot-expected-cost-availability-dates-technical-details-and-buzzing-speculations/"><u>Apple’s Revolutionary Home Bot: Expected Cost, Availability Dates, Technical Details, and Buzzing Speculations</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-techniques-for-inserting-horizontal-lines-into-your-word-files/"><u>Easy Techniques for Inserting Horizontal Lines Into Your Word Files</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-fix-common-problems-with-spotify-connectivity-on-android-auto-vehicles/"><u>How to Fix Common Problems with Spotify Connectivity on Android Auto Vehicles</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-windows-nix-audio-settings-and-restore-sound-control/"><u>Resolve Windows Nix Audio Settings & Restore Sound Control</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-triumvirate-of-asian-dialects-rising-three/"><u>The Triumvirate of Asian Dialects: Rising Three</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-solution-for-when-windows-says-mfc71dll-is-absent/"><u>The Ultimate Solution for When Windows Says mfc71.dll Is Absent</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-huawei-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Huawei Device</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/whats-coming-for-the-tech-world-detailed-rumors-on-google-pixel-fold-amoled-display-specs-and-launch-date-estimates/"><u>What's Coming for the Tech World? Detailed Rumors on Google Pixel Fold Amoled Display Specs and Launch Date Estimates</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-steps-to-avoid-automatic-podcast-suggestions-on-spotify/"><u>[New] 2024 Approved Steps to Avoid Automatic Podcast Suggestions on Spotify</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-unlocking-secrets-of-iphone-x-resolving-face-recognition-issues/"><u>[New] 2024 Approved Unlocking Secrets of iPhone X Resolving Face Recognition Issues</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-enhancing-visuals-in-remote-collaborations-with-google-meet/"><u>[Updated] In 2024, Enhancing Visuals in Remote Collaborations with Google Meet</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/hunters-top-5-video-tools-of-today/"><u>Hunters' Top 5 Video Tools of Today</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-nokia-xr21-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Nokia XR21 Phone When You Forget the Password</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/instant-directx-setup-for-windows-11-and-10-users-a-seamless-guide/"><u>Instant DirectX Setup for Windows 11 and 10 Users: A Seamless Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-the-art-of-connecting-your-printer-to-a-computer-running-windows-10/"><u>Master the Art of Connecting Your Printer to a Computer Running Windows 10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-the-art-of-taking-screenshots-on-your-acer-laptop/"><u>Master the Art of Taking Screenshots on Your Acer Laptop</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-the-connection-wireless-xbox-one-controllers-setup-for-pc/"><u>Master the Connection: Wireless Xbox One Controllers Setup for PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-gameplay-clarity-fixing-second-monitor-hiccups-for-flawless-gaming-in-windows-11-systems/"><u>Mastering Gameplay Clarity: Fixing Second Monitor Hiccups for Flawless Gaming in Windows 11 Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-mobile-gaming-stream-your-ps4-games-on-android-with-just-3-simple-steps/"><u>Mastering Mobile Gaming: Stream Your PS4 Games on Android with Just 3 Simple Steps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-setup-for-your-lenovo-ideapad-x230-with-our-driver-collection/"><u>Seamless Setup for Your Lenovo IdeaPad X230 with Our Driver Collection</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-ais-potential-overcoming-challenges-to-harness-significant-commercial-advantages/"><u>Unlocking AI's Potential: Overcoming Challenges to Harness Significant Commercial Advantages</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

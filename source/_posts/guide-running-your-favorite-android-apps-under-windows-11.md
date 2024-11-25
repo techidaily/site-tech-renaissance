@@ -1,7 +1,7 @@
 ---
 title: "Guide: Running Your Favorite Android Apps Under Windows 11"
-date: 2024-11-13T00:59:05.431Z
-updated: 2024-11-15T21:10:59.124Z
+date: 2024-11-21T16:00:42.607Z
+updated: 2024-11-25T16:00:11.379Z
 categories:
   - BestProducts
 description: "This Article Describes Guide: Running Your Favorite Android Apps Under Windows 11"
@@ -21,13 +21,6 @@ thumbnail: https://thmb.techidaily.com/a9f362c0c9844398bf0c3137c986e711e55f9d989
 * To control your phone from Windows 10, install**AirDroid** and turn on**Screen Mirroring** and**Remote Control** .
 
  This article describes two ways to use Android apps on a Windows 10 PC.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Install BlueStacks to Run Android Apps on a PC
 
@@ -50,16 +43,18 @@ thumbnail: https://thmb.techidaily.com/a9f362c0c9844398bf0c3137c986e711e55f9d989
 6. Tap**Continue** on the permission request to access your phone's files.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Tap the toggle next to**Allow access to manage all files** .
 8. Tap**Allow** on the prompt for AirDroid to run in the background.  
 ![Continue, Allow access toggle, and Allow button highlighted in the AirDroid app for Android.](https://www.lifewire.com/thmb/CbexqTWDoZy3jmF_-4qqKdbIQzs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B5-RunAndroidAppsonWindows10-annotated-29aacbf2e127466f85d7a7c443b512e2.jpg)
 9. Select**OK** on the Security & Remote Features screen to continue setup.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 10. Go to**Screen Mirroring** \>**Grant permission** \>**Still enable** to turn on screen mirroring functionality. This is necessary if you want to see your Android apps and screen from your computer.  
 ![Screen Mirroring, Grant permission, and Still enable highlighted in the AirDroid app for Android.](https://www.lifewire.com/thmb/tsy2xem1mP28NPMcPJucG_xT-s0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B7-RunAndroidAppsonWindows10-annotated-34d27e18c6ec4ff7acdb6db8f668606c.jpg)
 11. Select**Continue** on the prompt to allow display over other apps.
@@ -68,47 +63,23 @@ thumbnail: https://thmb.techidaily.com/a9f362c0c9844398bf0c3137c986e711e55f9d989
 ![Continue, AirDroid, and the toggle highlighted in AirDroid for Android.](https://www.lifewire.com/thmb/fsJsiMEafExGn_8nR-dfrcR-3qw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B10-RunAndroidAppsonWindows10-annotated-0317e836163041fb8fdc907e4c24a251.jpg)
 14. Return to AirDroid and go to**Remote Control** \>**Enable remote control** \>**Still enable** .  
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Remote Control, Enable remote control, and Still enable highlighted in AirDroid for Android.](https://www.lifewire.com/thmb/TwYRkcvTt5VICEB4zjl6wuqUaFw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B11-RunAndroidAppsonWindows10-annotated-11ed8c49a76f4a19996a181f0675c9ad.jpg)
 15. Now you need to install a small add-on from the Play Store to actually enable remote control access between your computer and phone. To do this, follow the on-screen prompts to select**Download and install** \>**Download** \>**Install** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Download and install, Download, and Install buttons highlighted in AirDroid and Play Store.](https://www.lifewire.com/thmb/GuTDLA0vCwUfKRPNfUJUL8RL6OQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B12-RunAndroidAppsonWindows10-annotated-838eade9103c4f5f9c31b048bc90e969.jpg)
 16. Return to AirDroid and tap**Grant permissions** \>**OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 17. Tap the toggle next to**Use AirDroid Control Add-on** , then tap**Allow** on the prompt.  
 ![Grant permissions, Use AirDroid, and Allow buttons highlighted in AirDroid and Settings for Android.](https://www.lifewire.com/thmb/9wwRzJ1bk6CSlYqjShS8rRLl3Eg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B14-RunAndroidAppsonWindows10-annotated-f8f7e76cfbbb487b9b21a58fcd38c6e5.jpg)
 18. Tap**Done** on the screen that says remote control is enabled.
-
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 19. Tap the**Transfer** tab at the bottom of AirDroid, followed by**AirDroid Web** .
 20. On your computer, enter the[IP address](https://www.lifewire.com/what-is-an-ip-address-2625920) and port number shown in the AirDroid app.  
@@ -118,9 +89,18 @@ thumbnail: https://thmb.techidaily.com/a9f362c0c9844398bf0c3137c986e711e55f9d989
 22. Select your Android device from the**Choose a device** prompt.  
 ![Google Pixel 7a highlighted in AirDroid on Windows](https://www.lifewire.com/thmb/rSTxohWXD6GAQ3V44jNWjAE0Zy0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/airdroid-web-select-device-0a3031475b7f42a1992483aaf18147f7.png)
 23. Select**Mirroring** from the AirDroid desktop on your computer.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Mirroring highlighted on the AirDroid desktop on Windows.](https://www.lifewire.com/thmb/MZkSyFVGUy34i_WC0wxca7axxn4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B20-RunAndroidAppsonWindows10-annotated-240867983f69412f8df605137bf2b1db.jpg)
 24. You'll see your whole Android screen on your Windows computer. You can launch apps from either device to see them displayed on your Windows 10 PC.  
 ![A Pixel 7 phone mirrored to a Windows computer](https://www.lifewire.com/thmb/8asRQPV_NwnOvS7jDbFVKsTq4l0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/airdroid-web-screen-mirroring-8f3fe1ffb7e24040b82dea79dff7b029.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  FAQ
 
@@ -162,22 +142,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-simplified-steps-for-snapchat-lens-design/"><u>[New] Simplified Steps for Snapchat Lens Design</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-efficient-techniques-sharing-video-content-from-youtube-fb/"><u>[Updated] Efficient Techniques Sharing Video Content From YouTube FB</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-jocular-juxtapositions-cutting-edge-humorous-edits-online/"><u>[Updated] In 2024, Jocular Juxtapositions Cutting-Edge, Humorous Edits Online</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-riding-through-the-year-motorcycles-no-1-helmet-cameras-guide/"><u>2024 Approved Riding Through the Year - Motorcycle's No. 1 Helmet Cameras Guide</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-your-apple-iphone-15-plus-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From your Apple iPhone 15 Plus</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/deciphering-the-apple-car-mystery-comprehensive-guide-on-pricing-info-launch-forecasts-specs-and-rumor-mill-updates/"><u>Deciphering the Apple Car Mystery: Comprehensive Guide on Pricing Info, Launch Forecasts, Specs & Rumor Mill Updates</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/effective-strategies-for-addressing-screen-discoloration-and-image-deformation-issues/"><u>Effective Strategies for Addressing Screen Discoloration and Image Deformation Issues</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ting-brand-awareness-with-tailored-engaging-youtube-banners-for-2024/"><u>Elevating Brand Awareness with Tailored, Engaging YouTube Banners for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-how-metro-by-t-mobile-handles-outside-area-coverage-for-unlimited-users/"><u>Exploring How Metro by T-Mobile Handles Outside Area Coverage for Unlimited Users</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-world-of-ussd-insights-into-unstructured-supplementary-service-data-technology/"><u>Exploring the World of USSD: Insights Into Unstructured Supplementary Service Data Technology</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/five-steps-to-silence-the-hum-in-your-bass-speakers/"><u>Five Steps to Silence the Hum in Your Bass Speakers</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/hunt-for-savings-unmissable-prime-day-offers-on-popular-samsung-tech/"><u>Hunt for Savings: Unmissable Prime Day Offers on Popular Samsung Tech</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/-audio-solution-for-iphone-find-the-best-6-free-apps-for-youtube-to-mp3-for-2024/"><u>Ideal Audio Solution for iPhone Find the Best 6 Free Apps for YouTube-to-MP3 for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-the-fix-how-to-get-a-stuck-cd-dvd-and-blu-ray-drive-working-again/"><u>Mastering the Fix: How to Get a Stuck CD, DVD, and Blu-Ray Drive Working Again</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/microsoft-word-made-affordable-tips-for-finding-and-using-the-software-at-no-expense/"><u>Microsoft Word Made Affordable: Tips for Finding and Using the Software at No Expense</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolve-watch-party-errors-paramountplus-not-loading-on-smart-tv-platforms/"><u>Resolve Watch Party Errors: Paramount+ Not Loading on Smart TV Platforms</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tips-and-tricks-to-tell-if-your-iphone-xs-max-is-unlocked-by-drfone-ios/"><u>Tips And Tricks To Tell if Your iPhone XS Max Is Unlocked</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-perfecting-obs-broadcasts-for-facebook-audience/"><u>[New] Perfecting OBS Broadcasts for Facebook Audience</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-pixelperfect-screener-chromes-native-tool/"><u>[New] PixelPerfect Screener Chrome's Native Tool</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-harvest-hits-the-next-level-of-virtual-farms/"><u>[Updated] Harvest Hits The Next Level of Virtual Farms</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-leading-the-charge-in-modern-presentation-recordings/"><u>[Updated] In 2024, Leading the Charge in Modern Presentation Recordings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-potential-in-audio-design-with-magix-fusion-x/"><u>[Updated] Unlocking Potential in Audio Design with Magix Fusion X</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1-best-live-streaming-tools-manycam-and-alternatives-for-remote-webcams/"><u>1. Best Live Streaming Tools: ManyCam and Alternatives for Remote Webcams</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/10-tips-to-make-your-laptop-run-faster/"><u>10 Tips to Make Your Laptop Run Faster</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/a-formula-perfeita-qual-e-a-melhor-duracao-e-formato-de-video-para-tendencias-no-youtube/"><u>A Fórmula Perfeita: Qual É a Melhor Duração E Formato De Video Para Tendências No YouTube?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/amd-display-adapter-not-visible-in-windows-1011-heres-how-you-can-fix-it/"><u>AMD Display Adapter Not Visible in Windows 10/11? Here’s How You Can Fix It</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/audio-enabled-hdmi-to-dvi-bridge-for-seamless-laptop-desktop-setup/"><u>Audio-Enabled HDMI to DVI Bridge for Seamless Laptop-Desktop Setup</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/beat-the-update-blockade-fix-your-windows-11-update-problems-with-this-0x80248007-hack/"><u>Beat the Update Blockade: Fix Your Windows 11 Update Problems with This 0X80248007 Hack</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-the-art-of-ad-free-earning-on-youtube-strategies-for-self-reliance-creators/"><u>In 2024, The Art of Ad-Free Earning on YouTube Strategies for Self-Reliance Creators</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1723807986862-kodi-superrepo-install-superrepo-on-kodi-step-by-step/"><u>Kodi SuperRepo - Install SuperRepo on Kodi Step by Step</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1723808052068-overcoming-school-blocks-for-fortnite-tips-and-tricks-revealed/"><u>Overcoming School Blocks for Fortnite - Tips and Tricks Revealed!</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/rhythmreview-music-and-dialogue-analysis-for-2024/"><u>RhythmReview Music and Dialogue Analysis for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1723808129159-the-ultimate-guide-to-enhancing-gameplay-performance-in-windows-1nvite-gamers-to-conquer-with-optimized-settings/"><u>The Ultimate Guide to Enhancing Gameplay Performance in Windows 1Nvite Gamers to Conquer with Optimized Settings</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/windows-10-download-fast-and-easily/"><u>Windows 10 Download Fast & Easily!</u></a></li>
 </ul></div>
 

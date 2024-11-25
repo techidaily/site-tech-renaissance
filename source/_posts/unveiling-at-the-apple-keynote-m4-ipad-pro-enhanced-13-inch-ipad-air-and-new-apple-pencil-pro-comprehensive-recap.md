@@ -1,7 +1,7 @@
 ---
 title: "Unveiling at the Apple Keynote: M4 iPad Pro, Enhanced 13-Inch iPad Air & New Apple Pencil Pro - Comprehensive Recap"
-date: 2024-11-08T16:20:24.539Z
-updated: 2024-11-15T23:16:59.991Z
+date: 2024-11-21T16:02:03.801Z
+updated: 2024-11-25T16:02:21.037Z
 tags:
   - apple
 categories:
@@ -26,18 +26,15 @@ Tim Cook kicked off the event by speaking about how the Apple Vision Pro has bee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Everything announced at Apple's 'Let Loose' event
 
 Apple's "Let Loose" was a virtual product launch event that took place on May 7, at 7 am PT/10 am ET. It lasted about 35 minutes and was live-streamed on [Apple.com](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), [YouTube](https://www.youtube.com/watch?v=f1J38FlDKxo), and via the Apple TV app. 
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1\. iPad Pro, now with OLED displays and M4
 
@@ -75,13 +72,6 @@ Unlike the M4-equipped iPad Pro, the iPad Air comes with an M2 chip, making it a
 
 The new iPad Air is available in Blue, Purple, Starlight, and Space Gray, with [prices starting at $599](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for the 11-inch iPad Air, and $799 for the 13-inch model.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Apple Pencil Pro
 
 Apple
@@ -98,6 +88,10 @@ Apple
 
 The Apple Pencil Pro costs $129 and supports Apple's Find My service, letting you track the location of the accessory should you drop or misplace it. You can purchase the [Apple Pencil Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) today, and it will start shipping next week.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Magic Keyboard
 
 Apple
@@ -105,10 +99,7 @@ Apple
 The iPad event also included a new, more durable Magic Keyboard, featuring a larger trackpad and a function row along the top. The Magic Keyboard's new look and upgraded aluminum construction is meant to make the iPad Pro look and feel more like a laptop, rather than a tablet with an optional keyboard case.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why would Apple host an event before WWDC?
@@ -116,10 +107,7 @@ The iPad event also included a new, more durable Magic Keyboard, featuring a lar
 Although Apple is hosting its [Worldwide Developers Conference (WWDC)](https://www.zdnet.com/article/apple-confirms-wwdc-2024-for-june-10-will-ai-steal-the-show/) on June 10, that event is reserved for new iOS, iPadOS, visionOS, and macOS announcements, plus Apple's new AI strategy. The Let Loose event was focused on the latest hardware offerings, with the [OLED iPad Pro](https://www.zdnet.com/article/7-ipad-pro-features-that-would-make-me-instantly-upgrade-to-apples-next-model/) being the main star.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Did the Let Loose event cover iPadOS 17.5 or iPadOS 18?
@@ -133,6 +121,10 @@ Apple unveiled new versions of Final Cut Pro 2 and Logic Pro 2 for iPadOS. Apple
 Logic Pro 2 introduces Session Players, an AI-created Bass and Keyboard player available alongside the Drummer feature. The ChromaGlow feature adds sound effects to tracks. Logic Pro 2 also offers a Stem Splitter feature that can split recordings into voice, bass, drums, and other instruments.
 
 iOS 17.5 doesn't have many exciting new features outside of the European Union, where iPhone users can now [download apps directly from websites](https://www.zdnet.com/article/apple-to-let-eu-users-download-apps-from-the-web-with-ios-17-5-beta-2-how-it-works/). The new devices are expected to ship with iPadOS 17.5, but these features are available for iPadOS 17.4.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How do I watch Apple's Let Loose event?
 
@@ -168,19 +160,19 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-visionary-flying-discover-the-q500-typhoon/"><u>[New] 2024 Approved Visionary Flying - Discover the Q500 Typhoon</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-facebook-fb-upload-strategies-for-mobile-and-desktop-for-2024/"><u>[New] Facebook FB Upload Strategies for Mobile & Desktop for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-foundations-of-easing-volume-control-in-audition/"><u>[Updated] Foundations of Easing Volume Control in Audition</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/1-resolved-fixing-vcenter-issues-with-filesystem-errors-and-network-services/"><u>1. Resolved: Fixing vCenter Issues with Filesystem Errors and Network Services</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-discovering-budget-friendly-framed-imagery/"><u>2024 Approved Discovering Budget-Friendly Framed Imagery</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-our-chosen-selection-the-best-5-free-offline-car-racers-of-2024/"><u>Discover Our Chosen Selection: The Best 5 Free Offline Car Racers of 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-on-your-apple-iphone-xr-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status On Your Apple iPhone XR</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/organize-your-home-with-these-7-must-have-calendar-apps/"><u>Organize Your Home with These 7 Must-Have Calendar Apps</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/step-by-step-sharing-media-from-one-iphone-to-another/"><u>Step-by-Step Sharing Media From One iPhone to Another</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-on-how-to-join-two-spreadsheets-columns-in-microsoft-excel/"><u>Step-by-Step Tutorial on How to Join Two Spreadsheets Columns in Microsoft Excel</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/stream-free-how-to-view-roku-shows-on-alternative-platforms/"><u>Stream Free! How to View Roku Shows on Alternative Platforms</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-definitive-walkthrough-for-iphoneipad-users-to-purchase-e-books-through-apple-books/"><u>The Definitive Walkthrough for iPhone/iPad Users to Purchase E-Books Through Apple Books</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-list-best-13-true-crime-audio-shows/"><u>The Ultimate List: Best 13 True Crime Audio Shows</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-extent-of-your-facebook-posts-reach-tracking-user-shares-effectively/"><u>Unveiling the Extent of Your Facebook Post's Reach: Tracking User Shares Effectively</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-amplify-your-iphone-films-with-free-audio-additions-discover-three-ways-for-2024/"><u>[New] Amplify Your iPhone Films with Free Audio Additions – Discover Three Ways for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/16-free-sign-language-learning-resources/"><u>16 Free Sign Language Learning Resources</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-streamlined-social-integration-linktree-and-tiktok-profiles-united/"><u>2024 Approved Streamlined Social Integration Linktree and TikTok Profiles United</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-the-world-with-handheld-vr-theta-sc2-explored/"><u>Discover the World with Handheld VR: Theta SC2 Explored</u></a></li>
+<li><a href="https://solve-info.techidaily.com/mastering-format-transformation-seamless-techniques-for-switching-videoaudio-files/"><u>Mastering Format Transformation: Seamless Techniques for Switching Video/Audio Files</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/no-remote-no-problem-guide-to-directly-controlling-your-roku-device/"><u>No Remote? No Problem! Guide to Directly Controlling Your Roku Device</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723005840565-overcoming-the-challenge-of-input-latency-in-cyberpunk-2077-fixed/"><u>Overcoming the Challenge of Input Latency in Cyberpunk 2077 - Fixed!</u></a></li>
+<li><a href="https://fox-info.techidaily.com/seamlessslide-visual-harmony-on-macsierra-for-2024/"><u>SeamlessSlide Visual Harmony on MacSierra for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/setting-up-your-microphone-on-windows-11/"><u>Setting Up Your Microphone on Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tips-on-purchasing-the-ideal-tv-for-your-household/"><u>Step-by-Step Tips on Purchasing the Ideal TV for Your Household</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-definitive-trick-for-getting-back-lost-text-messages-on-every-phone/"><u>The Definitive Trick for Getting Back Lost Text Messages on Every Phone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-affordable-collegiate-laptop-a-great-alternative-to-macbook-and-lenovo-thinkpad-now-with-200-discount-insider-review/"><u>Top-Rated Affordable Collegiate Laptop: A Great Alternative to MacBook and Lenovo ThinkPad, Now with $200 Discount - Insider Review</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unexpectedly-powerful-the-tiny-yet-incredible-8-in-1-adapter-reviewed/"><u>Unexpectedly Powerful: The Tiny Yet Incredible 8-in-1 Adapter Reviewed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-our-selection-of-4-free-cad-solutions/"><u>Unveiling Our Selection of 4 Free CAD Solutions</u></a></li>
 </ul></div>
 

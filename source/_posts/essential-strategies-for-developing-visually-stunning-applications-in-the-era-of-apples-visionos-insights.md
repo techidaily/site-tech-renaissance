@@ -1,7 +1,7 @@
 ---
 title: Essential Strategies for Developing Visually Stunning Applications in the Era of Apple's VisionOS - Insights
-date: 2024-11-08T19:11:03.060Z
-updated: 2024-11-16T04:10:07.223Z
+date: 2024-11-24T16:02:40.084Z
+updated: 2024-11-25T16:02:18.651Z
 tags:
   - apple
 categories:
@@ -44,6 +44,10 @@ Let's dig in, shall we?
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  1\. Gradual immersion
 
 Apple recommends you gradually introduce users to your app, starting with a window view within the augmented reality environment. 
@@ -63,10 +67,7 @@ Apple uses its Photos app as an example. A key moment for Apple's Photos app mig
 In a writing app, VRification might involve going from a typical windowed user interface for most writing to a focus mode that shuts out the outside world and lets your users concentrate, by providing a calming background and perhaps some calming music. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  3\. Adjust UI elements to accommodate the new environment
@@ -77,6 +78,10 @@ Some UI elements translate directly from iPadOS to VisionOS, but others aren't a
 
 One area to pay particular attention to is when you use hover effects. When you hover over a button in a flat UI, you just need to see some highlighting. But when you hover over -- or in front of -- something in VR space, you've got the entire room to work in. So pay attention to how things look and feel, and try to avoid inducing vertigo by rapidly moving objects and buttons. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4\. Utilize grid systems where appropriate
 
 Apple says that apps designed with the [iPadOS grid system](https://developer.apple.com/design/human-interface-guidelines/designing-for-ios) will translate very nicely to the Vision Pro. The grid works well for designing windows. Point sizes translate well from the iPad to Vision Pro. 
@@ -84,10 +89,7 @@ Apple says that apps designed with the [iPadOS grid system](https://developer.ap
 But as you deal with more 3D-centric objects, grid systems break down. Once you're moving in 3D space, be careful about where you place your controls. For example, it can be somewhat confusing if you have nearby controls for a faraway object. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  5\. Incorporate sound design strategically
@@ -100,13 +102,6 @@ To that end, even if you're building a non-entertainment app that would normally
 
 And while you're at it, allow your users to control the sound, setting its volume and even turning it off. Give the sound cues that may be helpful, but give users control over how those cues are applied. Here's [a great resource from Apple on sound design](https://developer.apple.com/wwdc23/10271). 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  6\. Focus on key details, but don't overwhelm
 
 Apple recommends always rendering a ground plane so users feel grounded. If you're putting someone inside a theatre, provide key details (like a stage, lighting, and curtains), but don't get carried away trying to reproduce the cola stains in the carpet or that unique crackle that comes from walking over scraps of petrified popcorn. If you're rendering an outdoor landscape, show slowly moving clouds but keep things subtle. 
@@ -114,10 +109,7 @@ Apple recommends always rendering a ground plane so users feel grounded. If you'
 Of course, if you're putting people into a game where the whole idea is to overwhelm them, then go for it. But Apple is much more interested in using VR and AR as an augmented tool, rather than purely as a gaming platform. And in that context, it's probably wise to avoid making your customers barf up their lunches inside their $3,500+ head-mounted [uncanny valley](https://en.wikipedia.org/wiki/Uncanny%5Fvalley)in a can. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  7\. Use the VisionOS simulator
@@ -167,18 +159,20 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/irectly-stream-google-meet-youtube-edition-steps/"><u>[New] Directly Stream Google Meet - YouTube Edition Steps</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-5-best-photo-video-maker-with-music/"><u>[Updated] In 2024, 5 Best Photo Video Maker With Music</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-wordsmith-whispers-picks-for-the-best-transcription-programs/"><u>[Updated] In 2024, Wordsmith Whispers Picks for the Best Transcription Programs</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-list-of-quick-gmail-keyboard-commands/"><u>Discover the Ultimate List of Quick Gmail Keyboard Commands</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-relink-launch-problems-in-your-favorite-rpg-granblue-fantasy/"><u>Fixing Relink Launch Problems in Your Favorite RPG, Granblue Fantasy</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-realme-11x-5g-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Realme 11X 5G Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-youtube-banner-tactics-dos-and-donts-for-optimal-visibility/"><u>In 2024, YouTube Banner Tactics Dos and Don'ts for Optimal Visibility</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/next-gen-pixel-device-unveiling-price-forecasts-expected-launch-date-and-insider-speculation/"><u>Next-Gen Pixel Device Unveiling: Price Forecasts, Expected Launch Date & Insider Speculation</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/pros-and-cons-of-upgrading-your-iphone-or-ipad-with-ios-17/"><u>Pros and Cons of Upgrading Your iPhone or iPad with iOS 17</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/sever-link-pc-and-mobile-devices-discord-for-2024/"><u>Sever Link - PC & Mobile Devices Discord for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/troubleshooting-techniques-eliminating-memory-dumps-on-your-windows-11-pc/"><u>Troubleshooting Techniques: Eliminating Memory Dumps on Your Windows 11 PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-the-missing-cygwin1dll-solutions-for-windows-users/"><u>Troubleshooting the 'Missing Cygwin1.dll': Solutions for Windows Users</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-when-your-system-cant-find-bootmgr-step-by-step-fixes/"><u>Troubleshooting When Your System Can't Find BOOTMGR: Step-by-Step Fixes</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-top-5-emulated-game-boy-advance-games-a-comprehensive-guide-for-pc-users/"><u>[New] 2024 Approved Top 5 Emulated Game Boy Advance Games - A Comprehensive Guide for PC Users</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-transform-hidden-facebook-videos-with-these-12-must-try-steps/"><u>[Updated] 2024 Approved Transform Hidden Facebook Videos with These 12 Must-Try Steps</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-maximize-your-youtube-viewing-download-icons-via-online-and-os-specific-methods/"><u>[Updated] In 2024, Maximize Your YouTube Viewing Download Icons via Online & OS-Specific Methods</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-update-available-downloading-the-most-recent-drivers-for-hp-officejet-pro-9015/"><u>Free Update Available: Downloading the Most Recent Drivers for HP OfficeJet Pro 9015</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-vivo-y100t-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Vivo Y100t Through Google Earth?</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/maximizing-revenue-a-youtube-channelers-guide/"><u>Maximizing Revenue A YouTube Channeler’s Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/merge-skype-and-zoom-easy-techniques-for-effective-communication-for-2024/"><u>Merge Skype and Zoom Easy Techniques for Effective Communication for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/navigate-the-journey-to-macos-ventura/"><u>Navigate the Journey to macOS Ventura</u></a></li>
+<li><a href="https://games-able.techidaily.com/pushing-gaming-limits-with-razers-superior-basilisk-v3-pro/"><u>Pushing Gaming Limits with Razer's Superior Basilisk V3 Pro</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quickly-customize-your-browser-settings-for-a-google-homepage-setup/"><u>Quickly Customize Your Browser Settings for a Google Homepage Setup</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolved-optimizing-your-computers-performance-when-it-keeps-lagging-or-hanging/"><u>Resolved: Optimizing Your Computer's Performance When It Keeps Lagging or Hanging</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/seamless-direct3d-extraction-quick-effective-methods/"><u>Seamless Direct3D Extraction - Quick, Effective Methods!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/share-and-enjoy-a-step-by-step-tutorial-for-gamers-using-steam/"><u>Share & Enjoy: A Step-by-Step Tutorial for Gamers Using Steam</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/simple-steps-capturing-screenshots-quickly-on-your-windows-8-pc/"><u>Simple Steps: Capturing Screenshots Quickly on Your Windows 8 PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/simple-steps-switch-your-pcs-network-from-public-to-private-on-windows-11/"><u>Simple Steps: Switch Your PC's Network From Public to Private on Windows 11</u></a></li>
 </ul></div>
 

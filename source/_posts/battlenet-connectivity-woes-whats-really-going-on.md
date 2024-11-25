@@ -1,7 +1,7 @@
 ---
 title: Battle.net Connectivity Woes – What's Really Going On?
-date: 2024-11-10T21:32:49.821Z
-updated: 2024-11-15T23:43:40.592Z
+date: 2024-11-21T16:04:33.376Z
+updated: 2024-11-25T16:03:31.660Z
 categories:
   - BestProducts
 description: This Article Describes Battle.net Connectivity Woes – What's Really Going On?
@@ -15,6 +15,11 @@ thumbnail: https://www.lifewire.com/thmb/7SVNsNvJRUYagG161s9Wb40HsGI=/400x300/fi
 >
 
 ## Printer Connection Secrets Revealed: Seamless Sharing with Several Devices Uncovered
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * First, turn on file and printer sharing in the**Network and Sharing Center** area of Control Panel.
@@ -22,19 +27,6 @@ thumbnail: https://www.lifewire.com/thmb/7SVNsNvJRUYagG161s9Wb40HsGI=/400x300/fi
 * Modern versions of macOS can automatically add most printers. Configure it manually via System Preferences.
 
  This article explains how to add a printer to your home network using an Ethernet or wireless connection on Windows and Mac devices.
-
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Add a Network Printer in Windows
 
@@ -45,16 +37,22 @@ thumbnail: https://www.lifewire.com/thmb/7SVNsNvJRUYagG161s9Wb40HsGI=/400x300/fi
 2. Open the Start menu and search for**printers** . Choose**Printers & scanners** from the list, or**Devices and Printers** in some versions of Windows.  
 ![A screenshot of Windows' Start menu with the Printers & Scanners option highlighted](https://www.lifewire.com/thmb/qjYN6dM4IdckwIT0z5IiZHp155k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-networking-a-printer-817579-a4a6339ae1e6404b883a2925906f0054.jpg)
 3. Select the printer you want to share and then go to**Printer properties** \>**Sharing** . Select the**Share this printer** check box.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Printer settings in Windows with the Sharing tab and Share checkbox highlighted](https://www.lifewire.com/thmb/FMznevOCPfflR4PrsuJo27zeQYw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-networking-a-printer-817579-479b4bf125d54847b2c6265deb2945e4.jpg)
 4. Change the share name if you want, then press**OK** to save.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [When another computer adds the printer](https://www.lifewire.com/add-printer-to-windows-11-5194315) , they will need the right printer driver. This should be a seamless process as long as the PC that shared the printer has the correct drivers installed. If other computers can't print to the shared printer, they should visit the manufacturer's website to[get the correct printer drivers](https://www.lifewire.com/how-to-install-a-printer-driver-4781671) .
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Network Printers Using Non-Windows Devices
@@ -64,13 +62,6 @@ thumbnail: https://www.lifewire.com/thmb/7SVNsNvJRUYagG161s9Wb40HsGI=/400x300/fi
 * Current versions of macOS can automatically detect and add certain kinds of printers, with manual configuration options in the Print & Scanners section of System Settings. Older versions of Mac OS X provided a utility called Print Center for setting up printers connected to Mac computers.
 * [AirPrint](https://www.lifewire.com/things-to-know-about-airprint-iphone-2000750) enables wireless printing abilities on Apple devices, including the iPhone and iPad. AirPrint support requires using a specially manufactured printer of the same brand.
 * Different Unix and Linux distributions provide generic support for network printing. User interface details differ, but most are based on a common Unix printing mechanism called CUPS_._
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Using Wireless Printers on a Network
 
@@ -85,10 +76,7 @@ thumbnail: https://www.lifewire.com/thmb/7SVNsNvJRUYagG161s9Wb40HsGI=/400x300/fi
 [How to Find the Printer on Your Network in Windows 11](https://www.lifewire.com/find-printer-on-network-in-windows-11-5193983)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Wireless Printer Adapters
@@ -133,22 +121,18 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-exclusive-insiders-list-of-20-storage-services-unlimited-upload/"><u>[New] Exclusive Insider's List of 20 Storage Services, Unlimited Upload</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-techniques-for-modifying-photo-genders-on-major-social-platforms-for-2024/"><u>[New] Techniques for Modifying Photo Genders on Major Social Platforms for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-isyncslideshow-integrate-ios-plus-sierra-images/"><u>[Updated] 2024 Approved ISyncSlideshow Integrate iOS + Sierra Images</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-masterful-date-trackers-for-android-and-ios-wedding-planners/"><u>2024 Approved Masterful Date-Trackers for Android and iOS Wedding Planners</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/best-8-travel-planning-apps-recommended-by-us/"><u>Best 8 Travel Planning Apps Recommended by Us</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-tecno-pova-6-pro-5g-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Tecno Pova 6 Pro 5G</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-vivo-y55s-5g-2023-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Vivo Y55s 5G (2023)?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-cursor-control-turning-off-acceleration-settings-on-your-mac-device/"><u>Mastering Cursor Control: Turning Off Acceleration Settings on Your Mac Device</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/seamless-steps-setting-up-your-ps-vr-with-your-personal-computer/"><u>Seamless Steps: Setting Up Your PS VR with Your Personal Computer</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-vivo-y28-5g-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Vivo Y28 5G</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/spotlight-on-netgears-x6-wifi-mesh-provider-a-thorough-review-focusing-on-its-unique-features/"><u>Spotlight on Netgear's X6 Wifi Mesh Provider: A Thorough Review Focusing on Its Unique Features</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-process-for-silencing-junk-texts-on-apple-phones/"><u>Step-by-Step Process for Silencing Junk Texts on Apple Phones</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-on-how-to-fix-errors-when-d3dx941dll-is-absent-or-unreachable/"><u>Step-by-Step Tutorial on How to Fix Errors When d3dx9_41.dll Is Absent or Unreachable</u></a></li>
-<li><a href="https://article-posts.techidaily.com/the-art-of-crafting-winning-giveaway-posts-on-facebook/"><u>The Art of Crafting Winning Giveaway Posts on Facebook</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-5-most-trusted-encrypted-mail-providers/"><u>Top 5 Most Trusted Encrypted Mail Providers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-9-no-cost-language-education-sites-we-recommend/"><u>Top 9 No-Cost Language Education Sites We Recommend</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-resolving-missing-haldll-file-issues-on-windows-xp/"><u>Ultimate Guide: Resolving Missing hal.dll File Issues on Windows XP</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-turning-tides-in-visuals-mastering-the-art-of-angles-and-rotations-on-insta-for-2024/"><u>[New] Turning Tides in Visuals Mastering the Art of Angles and Rotations on Insta for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-6-ways-to-screen-record-netflix-on-mac/"><u>[Updated] 2024 Approved 6 Ways to Screen Record Netflix on Mac</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-drones-decoded-functionality-and-operational-overview/"><u>[Updated] 2024 Approved Drones Decoded Functionality & Operational Overview</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-reasons-for-youtubes-unavailability-or-malfunctions/"><u>Exploring Reasons for YouTube's Unavailability or Malfunctions</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-poco-f5-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Poco F5 5G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722865646492-how-to-restore-missed-email-delivery-on-yahoo-mail-services-effectively/"><u>How To Restore Missed Email Delivery on Yahoo Mail Services Effectively</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-ai-powered-virtual-patient-interactions/"><u>In 2024, AI-Powered Virtual Patient Interactions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-zte-nubia-z60-ultra-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on ZTE Nubia Z60 Ultra</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-increase-your-channels-reach-with-these-2-tricks/"><u>In 2024, Increase Your Channel's Reach with These 2 Tricks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-new-tongues-without-spending-a-penny-check-out-these-9-favorite-websites-for-learning-languages/"><u>Mastering New Tongues Without Spending a Penny? Check Out These 9 Favorite Websites for Learning Languages</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/personalizing-communication-sounds-a-comprehensive-guide-for-whatsapp-ringtone-lovers-for-2024/"><u>Personalizing Communication Sounds A Comprehensive Guide for WhatsApp Ringtone Lovers for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-5-best-no-cost-malware-scanners-our-picks/"><u>Top 5 Best No-Cost Malware Scanners : Our Picks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-the-secrets-of-saved-passwords-in-macos-user-accounts/"><u>Unlocking the Secrets of Saved Passwords in macOS User Accounts</u></a></li>
 </ul></div>
 

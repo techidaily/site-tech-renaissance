@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Configuring Your New Apple Watch - Tips From ZDNet
-date: 2024-11-13T23:02:12.907Z
-updated: 2024-11-15T22:36:57.531Z
+date: 2024-11-20T16:01:00.302Z
+updated: 2024-11-25T16:04:04.894Z
 tags:
   - apple
 categories:
@@ -49,10 +49,7 @@ Here's how.
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Install the Slack app on your iPhone
@@ -65,6 +62,10 @@ Once it's installed, go ahead and log into your various Slack channels. Get thos
 
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##   
 
 Screenshot by David Gewirtz/ZDNET
@@ -76,15 +77,16 @@ Now, back out to the top of the Settings app and tap the red Notifications icon.
 Screenshot by David Gewirtz/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Set up Slack notifications in the Slack app
 
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##   
 
@@ -124,35 +126,19 @@ So, make sure you set the Start and End times that fit with your schedule.
 
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
 
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Enable Slack notifications in the Watch app
 
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##   
 
 Screenshot by David Gewirtz/ZDNET
 
 There. You've set up notifications. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
 
@@ -193,24 +179,21 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-a-deep-dive-into-zdsoft-recorder-features/"><u>[Updated] 2024 Approved A Deep Dive Into ZDSoft Recorder Features</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-comprerancial-free-imagery-tips-and-tricks/"><u>[Updated] Comprerancial Free Imagery Tips and Tricks</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-effective-strategies-for-real-time-video-sharing-on-facebook-for-2024/"><u>[Updated] Effective Strategies for Real-Time Video Sharing on Facebook for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-leveraging-content-marketing-for-more-views-and-subscribers/"><u>[Updated] Leveraging Content Marketing for More Views and Subscribers</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-illustrator-guide-to-realistic-motion-blur/"><u>[Updated] The Ultimate Illustrator Guide to Realistic Motion Blur</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-xiaomi-11-series-a-visual-journey-through-precision-recording-for-2024/"><u>[Updated] Xiaomi 11 Series A Visual Journey Through Precision Recording for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-streamline-a-barrage-of-tiktok-drafts-with-editing-skills/"><u>2024 Approved Streamline a Barrage of TikTok Drafts with Editing Skills</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/access-the-latest-macos-15-sequoia-beta-version-immediately-complete-guide-for-mac-users/"><u>Access the Latest MacOS 15 Sequoia Beta Version Immediately: Complete Guide for Mac Users</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/automating-post-publishing-actions-integrate-with-flipbooker-after-content-creation/"><u>Automating Post-Publishing Actions: Integrate with FlipBooker After Content Creation</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/complete-guide-disabling-your-facebook-app-on-android-devices/"><u>Complete Guide: Disabling Your Facebook App on Android Devices</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/enhance-your-super-bowl-game-day-professional-advice-on-tv-and-av-systems-for-optimal-viewing/"><u>Enhance Your Super Bowl Game Day: Professional Advice on TV & AV Systems for Optimal Viewing</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-fix-d3dx939dll-not-found-or-missing-errors/"><u>How to Fix D3dx9_39.dll Not Found or Missing Errors</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/instagrams-most-effective-tags-to-increase-engagement/"><u>Instagram's Most Effective Tags to Increase Engagement</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/remote-less-navigation-for-roku-enthusiasts-a-comprehensive-guide/"><u>Remote-Less Navigation for Roku Enthusiasts: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-12-premier-destinations-for-complimentary-film-viewing-online/"><u>The 12 Premier Destinations for Complimentary Film Viewing Online</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-using-one-mobile-number-on-different-gadgets/"><u>The Ultimate Guide to Using One Mobile Number on Different Gadgets</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-15-zero-cost-antivirus-software-our-top-bootable-selections/"><u>Top 15 Zero-Cost Antivirus Software: Our Top Bootable Selections</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-lava-blaze-curve-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Lava Blaze Curve 5G FRP Bypass</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-error-code-0xc0000185-diagnosis-and-repair-guide/"><u>Understanding Error Code 0xC0000185: Diagnosis & Repair Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-scream-loud-with-joy-our-picks-from-the-best-funny-youtubers/"><u>[Updated] 2024 Approved Scream Loud with Joy Our Picks From the Best Funny YouTubers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-from-concept-to-click-an-in-depth-look-at-gif-memes/"><u>2024 Approved From Concept to Click An In-Depth Look at GIF Memes</u></a></li>
+<li><a href="https://windows11.techidaily.com/7-effective-ways-to-reopen-a-hidden-windows-terminal/"><u>7 Effective Ways to Reopen a Hidden Windows Terminal</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/chromecast-theming-basics-how-to-update-and-enhance-your-screen-image/"><u>Chromecast Theming Basics: How To Update and Enhance Your Screen Image</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-connectivity-issues-responding-effectively-when-alexa-says-echo-is-offline/"><u>Fixing Connectivity Issues: Responding Effectively when Alexa Says 'Echo Is Offline'</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722858464054-get-your-hands-on-youtube-premium-with-student-savings-plans/"><u>Get Your Hands-On YouTube Premium with Student Savings Plans</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-oneplus-ace-2v-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from OnePlus Ace 2V to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How to Check Distance and Radius on Google Maps For your Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-effectively-fix-the-rockalldlldll-missing-error-in-windows/"><u>How to Effectively Fix the 'RockallDLL.dll Missing' Error in Windows</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-elevate-your-videos-top-rated-ipad-video-editors/"><u>In 2024, Elevate Your Videos Top-Rated iPad Video Editors</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-oppo-a18-easily-by-drfone-android/"><u>In 2024, How To Unlock a Oppo A18 Easily?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/reactive-measures-for-a-dormant-snapchat-account-a-comprehensive-walkthrough/"><u>Reactive Measures for a Dormant Snapchat Account: A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-disabling-your-secure-pin-on-windows-11/"><u>Step-by-Step Guide: Disabling Your Secure Pin on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-overcome-geforce-error-xc0f1103f-in-win-1011/"><u>Strategies to Overcome GeForce Error XC0F1103F in Win 10/11</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-best-hash-tracking-apps-on-major-platforms-like-fb-tweet-and-insta-for-2024/"><u>The Best Hash Tracking Apps on Major Platforms Like FB, Tweet & Insta for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unexpected-issues-troubleshooting-your-cars-non-functioning-radio/"><u>Unexpected Issues: Troubleshooting Your Car's Non-Functioning Radio</u></a></li>
 </ul></div>
 

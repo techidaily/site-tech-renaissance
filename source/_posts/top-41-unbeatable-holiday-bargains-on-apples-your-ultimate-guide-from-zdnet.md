@@ -1,7 +1,7 @@
 ---
 title: "Top 41 Unbeatable Holiday Bargains on Apples: Your Ultimate Guide From ZDNet"
-date: 2024-11-11T05:14:20.222Z
-updated: 2024-11-15T23:16:24.499Z
+date: 2024-11-21T16:04:16.495Z
+updated: 2024-11-25T16:05:35.311Z
 tags:
   - apple
 categories:
@@ -75,13 +75,6 @@ Equipped with an Nvidia GeForce RTX 4080 GPU and a dual mode mini LED display, t
 
 [View now at Amazon](https://assoc-redirect.amazon.com/g/r/https://www.amazon.com/dp/B0C3P346B4/ref=asc%5Fdf%5FB0C3P346B41727002800000?tag=cnet-pc-20&creative=395261&creativeASIN=B0C3P346B4&linkCode=asn) 
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Prime Day Chromebook deals
 
 Asus/ZDNET
@@ -99,10 +92,7 @@ Kyle Kucharski/ZDNET
 * [Apple MacBook Pro (M3) for $1,400 (save $200)](https://www.amazon.com/Apple-MacBook-Laptop-8%E2%80%91core-10%E2%80%91core/dp/B0CM5JV268?tag=zdnet-buy-button-20): The [MacBook Pro (M3)](https://www.zdnet.com/article/m3-macbook-pro-buying-advice/) is one of the best-performing laptops on the market, and it's $200 off -- make sure you add the coupon offer on the page.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Prime Day HP laptop deals
@@ -119,6 +109,10 @@ Lenovo/ZDNET
 
 * [Lenovo Legion 5i for $1,339 (save $160)](https://www.amazon.com/Lenovo-Display-GeForce-2560x1600-Battery/dp/B0CVLFS7WP?tag=zdnet-buy-button-20): This 16-inch laptop from Lenovo's gaming PC line features an Intel i7 processor, 32GB of RAM, and a solid selection of ports for all your gaming accessories for just $1,500.
 * [Lenovo ThinkBook 15 for $525 (save $74)](https://www.amazon.com/Lenovo-ThinkBook-15-Business-i7-1165G7/dp/B0D1CQPWPG/?tag=zdnet-buy-button-20): This laptop is a powerhouse for your back-to-school or business needs. Its 8-core AMD Ryzen 7 processor pairs with 16GB of RAM, so any major spec-heavy tasks will perform smoothly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best Buy laptop deals during Prime Day
 
@@ -140,32 +134,19 @@ Kyle Kucharski/ZDNET
 ## FAQs
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### When is Amazon Prime Day 2024?
 
 Amazon Prime Day officially ran from July 16 to July 17, but sometimes deals continue afterward.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### What's the best gaming laptop deal on Prime Day?
 
 There are a lot of great gaming laptops on sale right now, but in our opinion, [this deal on the Razer Blade 16](https://www.amazon.com/Razer-Blade-Gaming-Laptop-4090-13th/dp/B0BQP1WCP4?tag=zdnet-buy-button-20) is the best. We're talking $1,000 off one of the most high-end gaming laptops on the market, with hardware that is future-proofed to be relevant for years to come. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Is Amazon Prime Day a good time to buy a laptop?
@@ -177,6 +158,10 @@ Even though Amazon isn't typically the first place you think of when you're shop
 At ZDNET, we only write about deals our team members would want to buy -- devices and products we desire, need, or would recommend. We looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops.
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we recommend. These recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### When will these deals expire?
 
@@ -245,19 +230,18 @@ And the best deals still available from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-gopro-face-by-face-guide-to-selectivity/"><u>[New] In 2024, Gopro Face-By-Face Guide to Selectivity</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-ultimate-video-recording-guide-s-best-camcorder-for-2024/"><u>[New] Ultimate Video Recording Guide 'S Best Camcorder for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-maximizing-gameplay-preservation-on-the-newest-windows-11/"><u>[Updated] Maximizing Gameplay Preservation on the Newest Windows 11</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-high-performance-graphic-cards-in-2e24-the-best-picks-for-gamers-on-a-budget/"><u>Affordable High-Performance Graphic Cards in 2E24: The Best Picks for Gamers on a Budget</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/explore-these-15-fantastic-gratis-software-uninstallers-for-your-pc/"><u>Explore These 15 Fantastic Gratis Software Uninstallers for Your PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/master-the-fix-for-windows-10s-persistent-0x80072efd-problem-with-these-proven-tips/"><u>Master the Fix for Windows 10'S Persistent 0X80072EFD Problem with These Proven Tips</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/resolving-your-oculus-quest-2s-pc-connection-failures-quickly/"><u>Resolving Your Oculus Quest 2'S PC Connection Failures Quickly</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-the-mystery-troubleshooting-msvcrt10dll-file-missing-issues/"><u>Solving the Mystery: Troubleshooting 'Msvcrt10.dll' File Missing Issues</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-tutorial-uploading-ultra-high-definition-videos-to-youtube-in-4k-720p-or-1080p/"><u>Step-by-Step Tutorial: Uploading Ultra High-Definition Videos to YouTube in 4K, 720P, or 1080P</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-correct-viewing-sequence-for-all-conjuring-movies-a-step-by-step-guide/"><u>The Correct Viewing Sequence for All 'Conjuring' Movies: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ideal-timing-a-guide-on-how-to-opt-out-from-your-previously-followed-accounts-on-x-formerly-twitter/"><u>The Ideal Timing: A Guide on How to Opt Out From Your Previously Followed Accounts on [X Formerly Twitter]</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-superiority-of-electric-vehicles-over-gas-cars-the-inside-scoop/"><u>The Superiority of Electric Vehicles Over Gas Cars - The Inside Scoop</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-zte-nubia-z60-ultra-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your ZTE Nubia Z60 Ultra Auto Does Not Work | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/your-essential-guide-to-selecting-premier-home-weather-instruments-this-year/"><u>Your Essential Guide to Selecting Premier Home Weather Instruments This Year</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-downloading-facebook-videos-ultimate-5-list-ranked/"><u>[Updated] 2024 Approved Downloading Facebook Videos Ultimate 5 List Ranked</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-facebook-content-at-your-fingertips-best-downloader-apps-for-ios/"><u>[Updated] Facebook Content at Your Fingertips Best Downloader Apps for iOS</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-step-by-step-guide-to-upgrading-your-mac-to-11-big-sur/"><u>2024 Approved A Step-by-Step Guide to Upgrading Your Mac to 11 Big Sur</u></a></li>
+<li><a href="https://article-files.techidaily.com/accelerate-office-productivity-with-speech-recognition-word/"><u>Accelerate Office Productivity with Speech Recognition (Word)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/best-free-language-learning-platforms-2024-edition/"><u>Best Free Language Learning Platforms: 2024 Edition</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/crucial-tech-innovations-the-top-3-trends-you-cant-miss/"><u>Crucial Tech Innovations: The Top 3 Trends You Can't Miss</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/duality-in-display-rotating-videos-on-instagram-one-click-at-a-time-for-2024/"><u>Duality in Display Rotating Videos on Instagram, One Click at a Time for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fix-the-btballoondll-not-found-issue-with-easy-tips-and-tricks/"><u>Fix the 'BTBalloon.Dll Not Found' Issue with Easy Tips and Tricks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/insider-insights-on-google-tv-streaming-box-anticipated-cost-launch-timeline-and-feature-speculations/"><u>Insider Insights on Google TV Streaming Box – Anticipated Cost, Launch Timeline & Feature Speculations</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/quick-solutions-for-resolving-windows-11-ntfs-error-codes/"><u>Quick Solutions for Resolving Windows 11 NTFS Error Codes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/setting-up-cookies-for-a-personalized-web-experience/"><u>Setting Up Cookies for a Personalized Web Experience</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ultimate-guide-to-choosing-hdmi-splitters-the-top-picks/"><u>Ultimate Guide to Choosing HDMI Splitters - The Top Picks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-the-discontinued-google-hangouts-service/"><u>Understanding the Discontinued Google Hangouts Service</u></a></li>
 </ul></div>
 

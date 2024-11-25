@@ -1,7 +1,7 @@
 ---
 title: "Top 4 Essential AI Innovations iPhones Must Embrace to Match Android's Capabilities: Insights"
-date: 2024-11-14T17:56:27.880Z
-updated: 2024-11-15T18:06:51.695Z
+date: 2024-11-22T16:01:04.660Z
+updated: 2024-11-25T16:01:35.840Z
 tags:
   - apple
 categories:
@@ -40,6 +40,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Generative AI for a context-aware Siri
 
 Unfortunately, Siri is arguably Apple's biggest shortcoming when stacking its AI services against competitors. While Siri has become a go-to feature on its own, it lags behind its virtual assistant competitors in intelligence and capability. Mounting consumer frustration over Siri's limitations and generative AI's popularity gives Apple a final push to give the voice assistant generative AI.
@@ -51,10 +55,7 @@ If Apple can give Siri generative AI, iPhone users could ask the voice assistant
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
@@ -68,10 +69,7 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Personalized text generation
@@ -83,10 +81,7 @@ ChatGPT became popular for its ability to generate text and have conversations t
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
@@ -131,17 +126,19 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-best-zero-cost-chromebook-recorders/"><u>[New] In 2024, Best Zero Cost Chromebook Recorders</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-to-choosing-a-professional-video-editor-filmora-or-democracy-creator/"><u>[Updated] 2024 Approved The Ultimate Guide to Choosing a Professional Video Editor (Filmora or Democracy Creator)</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-generating-podcast-identity-the-top-ai-naming-software/"><u>[Updated] Generating Podcast Identity The Top AI Naming Software</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-enablingdisabling-youtube-video-comments/"><u>[Updated] In 2024, Enabling/Disabling YouTube Video Comments</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/diy-techniques-for-taking-off-and-installing-new-glass-on-phone-screens/"><u>DIY Techniques for Taking Off and Installing New Glass on Phone Screens</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-recover-and-enable-an-instagram-account-thats-offline/"><u>How to Recover and Enable an Instagram Account That's Offline</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-oppo-a58-4g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Oppo A58 4G To Phone | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-oppo-find-n3-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Oppo Find N3</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/samsung-cf591-evaluation-top-pick-for-serious-gamers-or-overrated/"><u>Samsung CF591 Evaluation - Top Pick for Serious Gamers or Overrated?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-how-to-bulk-select-emails-in-gmail/"><u>Step-by-Step Guide: How to Bulk Select Emails in Gmail</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unlocking-windows-10-sound-capabilities/"><u>Unlocking Windows 10 Sound Capabilities</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/walkthrough-for-researchers-effective-techniques-in-utilizing-the-wayback-machine/"><u>Walkthrough for Researchers: Effective Techniques in Utilizing The Wayback Machine</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-in-depth-analysis-of-premium-apps-to-boost-vtuber-audibility/"><u>[New] In 2024, In-Depth Analysis of Premium Apps to Boost Vtuber Audibility</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-unveiling-secrets-top-strategies-for-advanced-srt-tweaks-on-apple-for-2024/"><u>[New] Unveiling Secrets Top Strategies for Advanced SRT Tweaks on Apple for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-expertise-in-film-perfecting-the-art-of-chroma-key-for-2024/"><u>[Updated] Expertise in Film Perfecting the Art of Chroma Key for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-top-tips-for-effective-tiktok-usage-on-a-mac/"><u>In 2024, Top Tips for Effective TikTok Usage on a Mac</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-the-art-of-selfies-with-6-key-insights-for-choosing-your-dream-selfie-stick/"><u>Master the Art of Selfies with 6 Key Insights for Choosing Your Dream Selfie Stick</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/maximize-engagement-the-ultimate-list-of-5-automated-pinterest-schedulers-to-experiment-with/"><u>Maximize Engagement: The Ultimate List of 5 Automated Pinterest Schedulers to Experiment With!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-amazon-prime-day-2024-your-ultimate-resource-for-deals-and-info/"><u>Navigating Amazon Prime Day 2024 – Your Ultimate Resource for Deals & Info</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/secure-your-privacy-with-easy-to-follow-picscanner-methods/"><u>Secure Your Privacy with Easy-to-Follow PicScanner Methods</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/step-by-step-guide-converting-okru-streams-into-mp4-and-other-formats-on-macwindows/"><u>Step-by-Step Guide: Converting Ok.ru Streams Into MP4 & Other Formats on Mac/Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-to-change-the-built-in-browser-of-your-samsung-tv/"><u>Step-by-Step Instructions to Change the Built-In Browser of Your Samsung TV</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/swap-and-sync-connecting-your-logitech-wireless-mouse-to-another-transmitter/"><u>Swap and Sync: Connecting Your Logitech Wireless Mouse to Another Transmitter</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-oneplus-nine-breakdown-quantitative-disappointments/"><u>The OnePlus Nine Breakdown: Quantitative Disappointments</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tutorial-for-switching-the-screen-based-keyboard-feature-in-windows-11/"><u>Tutorial for Switching the Screen-Based Keyboard Feature in Windows 11</u></a></li>
 </ul></div>
 

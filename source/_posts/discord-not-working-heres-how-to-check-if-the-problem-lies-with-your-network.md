@@ -1,7 +1,7 @@
 ---
 title: Discord Not Working? Here's How to Check If The Problem Lies With Your Network
-date: 2024-09-04T01:19:43.422Z
-updated: 2024-09-05T01:19:43.422Z
+date: 2024-11-17T19:44:56.207Z
+updated: 2024-11-25T09:04:56.211Z
 categories:
   - BestProducts
 description: This Article Describes Discord Not Working? Here's How to Check If The Problem Lies With Your Network
@@ -13,6 +13,10 @@ thumbnail: https://www.lifewire.com/thmb/ZIdCy0xvxRUF3ckzK0HzCZS6D10=/400x300/fi
  This file is the base file of the[Microsoft Foundation Class Library](https://learn.microsoft.com/en-us/cpp/mfc/mfc-desktop-applications?view=msvc-170) .
 
  The error message could apply to any program or system that might utilize the file on any of Microsoft's[operating systems](https://www.lifewire.com/operating-systems-2625912) , including[Windows 11](https://www.lifewire.com/windows-11-5188930) ,[Windows 10](https://www.lifewire.com/windows-10-2626217) , ​[Windows 8](https://www.lifewire.com/windows-8-2626235) ,[Windows 7](https://www.lifewire.com/windows-7-2626265) ,[Windows Vista](https://www.lifewire.com/windows-vista-2626311) ,[Windows XP](https://www.lifewire.com/windows-xp-2626354) , and Windows 2000.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix Mfc42.dll Errors
 
@@ -43,22 +47,18 @@ thumbnail: https://www.lifewire.com/thmb/ZIdCy0xvxRUF3ckzK0HzCZS6D10=/400x300/fi
  All the information on your hard drive will be erased during this step. Make sure you've made the best attempt possible to fix the mfc42.dll error using a troubleshooting step prior to performing a clean installation.
 14. [Troubleshoot for a hardware problem](https://www.lifewire.com/fix-a-dll-issue-caused-by-a-hardware-problem-2624493) if any mfc42.dll errors persist. After a clean install of Windows, your DLL problem can only be hardware related.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Need More Help?
 
  If you're not interested in fixing this DLL problem yourself, see [How Do I Get My Computer Fixed?](https://www.lifewire.com/how-do-i-get-my-computer-fixed-2625167) for a full list of your support options, plus help with everything along the way like figuring out repair costs, getting your files off, choosing a repair service, and a lot more.
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Causes of Mfc42.dll Errors
 
  Mfc42.dll errors are caused by situations that lead to the removal or corruption of the mfc42[DLL file](https://www.lifewire.com/what-is-a-dll-file-2625852) . In some cases, mfc42.dll errors could indicate a[registry](https://www.lifewire.com/windows-registry-2625992) problem, a virus or malware issue, or even a[hardware](https://www.lifewire.com/computer-hardware-2625895) failure.
@@ -66,17 +66,9 @@ thumbnail: https://www.lifewire.com/thmb/ZIdCy0xvxRUF3ckzK0HzCZS6D10=/400x300/fi
 ![mfc42 DLL error message in Windows](https://www.lifewire.com/thmb/18xHNOlMJwsNjAeN_QA_BY3XOYE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mfc42-dll-error-message-5af065a01f4e130037445df2.PNG)
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="125" height="125" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  There are several ways mfc42.dll errors can show up on your computer. Here are some examples:
 
 * **Mfc42.dll Not Found**
@@ -110,8 +102,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -119,4 +109,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-elite-gamers-showcase-premium-setups-unveiled-for-2024/"><u>[Updated] Elite Gamers' Showcase – Premium Setups Unveiled for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-mastering-negative-space-reverse-video-tricks-for-instagram/"><u>[Updated] Mastering Negative Space Reverse Video Tricks for Instagram</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-step-by-step-install-and-utilize-ifunny-memes/"><u>[Updated] Step-by-Step Install & Utilize iFunny Memes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-strategy-to-seamlessly-upload-srt-subtitles-online/"><u>2024 Approved The Ultimate Strategy to Seamlessly Upload SRT Subtitles Online</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/android-auto-music-fixes-uncover-13-strategies-to-restore-your-spotify-experience/"><u>Android Auto Music Fixes: Uncover 13 Strategies to Restore Your Spotify Experience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/approach-consider-the-non-reactivity-and-safety-of-materials-with-potable-water/"><u>Approach: Consider the Non-Reactivity and Safety of Materials with Potable Water.</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210043687-9798615143069-chiron/"><u>Chiron | Free Book</u></a></li>
+<li><a href="https://blog-min.techidaily.com/conversione-gratuita-mp3-a-au-online-con-movavi-scelta-ottimale/"><u>Conversione Gratuita MP3 a AU Online Con Movavi - Scelta Ottimale</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/free-android-16-update-rumored-features-speculated-costs-and-official-launch-date-revealed/"><u>Free Android 16 Update: Rumored Features, Speculated Costs & Official Launch Date Revealed</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ideal-devices-and-programs-photos-to-movies-for-2024/"><u>Ideal Devices and Programs Photos to Movies for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-framefulness-selecting-the-top-websites-and-apps-for-photoshopping/"><u>In 2024, Framefulness Selecting the Top Websites & Apps for Photoshopping</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/iphone-15-pro-vs-iphone-14-pro-showdown-assessing-the-enhancements-in-apples-newest-release-tech-insights/"><u>IPhone 15 Pro vs iPhone 14 Pro Showdown: Assessing the Enhancements in Apple's Newest Release | Tech Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/labor-day-special-offer-get-your-hands-on-discounted-apples-airtag-4-pack-at-walmart-now-just-24-cheaper-zdnet/"><u>Labor Day Special Offer: Get Your Hands on Discounted Apple's AirTag 4 Pack at Walmart, Now Just $24 Cheaper! | ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/months-hottest-verizon-smartphone-trade-in-specials/"><u>Month's Hottest Verizon Smartphone Trade-In Specials</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-to-restoring-sound-on-your-toshiba-computer/"><u>Ultimate Guide to Restoring Sound on Your Toshiba Computer</u></a></li>
+</ul></div>
 

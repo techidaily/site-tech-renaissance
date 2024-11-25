@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Analysis: Microsoft Surface Pro 8 Enterprise Evaluation"
-date: 2024-11-13T21:36:23.374Z
-updated: 2024-11-16T02:21:40.575Z
+date: 2024-11-19T16:02:24.597Z
+updated: 2024-11-25T16:01:08.194Z
 tags:
   - apple
 categories:
@@ -48,6 +48,10 @@ Jason Cipriani/ZDNet
 
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best Surface PCs Microsoft's lineup of Surface PCs now covers a wide range of hardware factors and price points -- and every model is Windows 11-ready.  Read now](https://www.zdnet.com/article/best-surface-pc/)
@@ -70,6 +74,10 @@ You don't have to use a physical SIM card thanks to the Pro 8's support for an e
 
 **Also:** [**eSIM vs. SIM: What's the difference?**](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best tablets (aren't all iPads) Choosing the best tablet can be tricky. Yes, the top picks include the Apple iPad and iPad Pro, but we also love the Samsung Galaxy Tab S8 Ultra, Microsoft Surface Go 3, and others.  Read now](https://www.zdnet.com/article/best-tablet/)
@@ -87,10 +95,7 @@ Regardless of which keyboard you pick up, all of them have a slot for a Surface 
 Overall, I love the design of the Pro 8\. I've actually found myself using it as a tablet more than I do the iPad Pro simply because the kickstand is built into the housing. There isn't another cover or case I have to manage. It's fantastic. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## But can it replace an iPad Pro?
@@ -100,19 +105,6 @@ Jason Cipriani/ZDNet
 Inside the Surface Pro 8 I've been testing is an 11th Generation Intel Core i7 processor, 16GB of memory, and a 256GB SSD. It was running Windows 11 Pro out of the box. 
 
 The LTE options range in price from $1,349 for an Intel Core i5, 8GB of memory, and 128GB of storage up to the build I tested, which normally retails for $1,849 but is currently on sale for $1,599\. Again, those prices don't include a keyboard. 
-
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### More Microsoft
 
@@ -149,6 +141,10 @@ I realize that the Pro 8 is running a full-fledged operating system in Windows 1
 
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## There are still many things the iPad Pro does better
 
 Jason Cipriani/ZDNet
@@ -174,20 +170,10 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQ
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Should I get a Surface Pro 8 or an iPad Pro?
 
@@ -226,20 +212,20 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-essential-image-protection-top-watermarkers-listed/"><u>[New] 2024 Approved Essential Image Protection Top Watermarkers Listed</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/achieve-unmatched-convenience-through-advanced-cookiebot-solutions/"><u>Achieve Unmatched Convenience Through Advanced Cookiebot Solutions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/crushing-through-the-0x800f0831-windows-barrier/"><u>Crushing Through the 0X800F0831 Windows Barrier</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/explore-our-premier-picks-the-top-5-international-call-apps-at-no-cost/"><u>Explore Our Premier Picks: The Top 5 International Call Apps at No Cost</u></a></li>
-<li><a href="https://windows11.techidaily.com/freedom-in-gaming-ps3-wirelessly-on-windows/"><u>Freedom in Gaming: PS3 Wirelessly on Windows</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/gigglegrid-generate-memes-with-ease-and-speed-for-2024/"><u>GiggleGrid Generate Memes with Ease and Speed for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Nokia 150 (2023)? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-the-setup-initiating-an-amazon-echo-dot-in-configuration-mode/"><u>Mastering the Setup: Initiating an Amazon Echo Dot in Configuration Mode</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/maximizing-performance-with-pro-windows-10-skills-for-2024/"><u>Maximizing Performance with Pro Windows 10 Skills for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/pros-and-cons-making-the-move-to-rtx-graphic-cards/"><u>Pros and Cons: Making the Move to RTX Graphic Cards</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/simply-connect-detailed-instructions-for-setting-up-your-samsung-remote-with-television-systems/"><u>Simply Connect: Detailed Instructions for Setting Up Your Samsung Remote with Television Systems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-the-mystery-of-missing-user32dll-a-step-by-step-guide/"><u>Solving the Mystery of Missing User32.dll: A Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/charge-your-content-key-seo-elements-for-youtube/"><u>Supercharge Your Content Key SEO Elements for YouTube</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-ultimate-list-of-free-malware-detectors-ranked-1-5/"><u>Unveiling the Ultimate List of Free Malware Detectors Ranked #1 - 5</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/why-you-need-caution-with-ai-the-6-critical-risks/"><u>Why You Need Caution with AI: The 6 Critical Risks</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-unlock-the-potential-of-live-streaming-facebook-via-obs-devices/"><u>[New] 2024 Approved Unlock the Potential of Live Streaming Facebook via OBS Devices</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-from-amateurs-to-experts-a-complete-guide-to-instagram-covers/"><u>[New] In 2024, From Amateurs to Experts A Complete Guide to Instagram Covers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-streamlining-your-video-call-process-with-obs-and-skype-for-2024/"><u>[New] Streamlining Your Video Call Process with OBS & Skype for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-the-essential-guide-to-anime-style-youtube-subscribe-buttons-using-filmora/"><u>[Updated] 2024 Approved The Essential Guide to Anime-Style YouTube Subscribe Buttons Using Filmora</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1725290204529-vobmp4/"><u>优选的VOB与MP4影片转换软件 - 实用指南：快速完成格式改变</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-access-blocked-torrents-and-where-to-look-for-similar-file-sharing-services/"><u>How to Access Blocked Torrents & Where to Look for Similar File Sharing Services</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-install-brother-printers-quickly-and-easily/"><u>How to Install Brother Printers [Quickly & Easily]</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-modify-3d-experience-using-the-nvidia-management-tool/"><u>How To Modify 3D Experience Using the NVIDIA Management Tool</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-remove-onedrive-from-file-explorer-on-windows-10-solved/"><u>How to Remove OneDrive From File Explorer on Windows 10 [Solved]</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-seamlessly-configure-a-vpn-on-google-chrome-expert-picks/"><u>How to Seamlessly Configure a VPN on Google Chrome - Expert Picks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-stop-windows-10-from-downloading-new-updates-without-hitches/"><u>How to Stop Windows 10 From Downloading New Updates Without Hitches</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-take-screenshots-in-windows/"><u>How to Take Screenshots in Windows</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-streamline-your-seminars-economical-tech-tips/"><u>In 2024, Streamline Your Seminars Economical Tech Tips</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-infinix-zero-5g-2023-turbo-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Infinix Zero 5G 2023 Turbo without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/superior-control-unmatched-graphics-consoles-vs-pcs/"><u>Superior Control, Unmatched Graphics: Consoles vs PCs</u></a></li>
 </ul></div>
 

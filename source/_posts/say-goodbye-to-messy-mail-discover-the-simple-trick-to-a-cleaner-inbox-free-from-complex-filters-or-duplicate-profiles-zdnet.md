@@ -1,7 +1,7 @@
 ---
 title: "Say Goodbye to Messy Mail: Discover the Simple Trick to a Cleaner Inbox, Free From Complex Filters or Duplicate Profiles | ZDNET"
-date: 2024-11-12T01:56:50.170Z
-updated: 2024-11-15T23:58:04.364Z
+date: 2024-11-21T16:00:31.055Z
+updated: 2024-11-25T16:02:31.599Z
 tags:
   - apple
 categories:
@@ -75,19 +75,6 @@ Equipped with an Nvidia GeForce RTX 4080 GPU and a dual mode mini LED display, t
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C3P346B4%2Fref%3Dasc%5Fdf%5FB0C3P346B41727348400000%3Fcreative%3D395261%26creativeASIN%3DB0C3P346B4%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c77e5d0-9e3a-48e0-88c5-10a20051f694%7Cdtp&dtb=1) 
 
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Prime Day Chromebook deals
 
 Asus/ZDNET
@@ -112,19 +99,16 @@ HPZDNET
 * [HP Victus 15.6-inch laptop for $599 (Save $100)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Display-i5-12450H-Dedicated-15-fa1029nr%2Fdp%2FB0CVNJ7LLN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c77e5d0-9e3a-48e0-88c5-10a20051f694%7Cdtp&dtb=1): This is a great price for a 15-inch laptop designed for cloud gaming and light creative work. It's got an Nvidia GeForce RTX 2050 dedicated graphics card and a144Hz Full-HD display.
 * [HP 14 inch Laptop for $349 (Save $120)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Generation-i3-1215U-Graphics-14-dq5009nr%2Fdp%2FB0CS3XPZNH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c77e5d0-9e3a-48e0-88c5-10a20051f694%7Cdtp&dtb=1): This budget laptop features a modest suite of hardware but covers all the basics for an inexpensive but capable and portable machine.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Prime Day Lenovo deals
 
 Lenovo/ZDNET
 
 * [Lenovo Legion 5i for $1,339 (save $160)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Display-GeForce-2560x1600-Battery%2Fdp%2FB0CVLFS7WP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c77e5d0-9e3a-48e0-88c5-10a20051f694%7Cdtp&dtb=1): This 16-inch laptop from Lenovo's gaming PC line features an Intel i7 processor, 32GB of RAM, and a solid selection of ports for all your gaming accessories for just $1,500.
 * [Lenovo ThinkBook 15 for $525 (save $74)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkBook-15-Business-i7-1165G7%2Fdp%2FB0D1CQPWPG%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c77e5d0-9e3a-48e0-88c5-10a20051f694%7Cdtp&dtb=1): This laptop is a powerhouse for your back-to-school or business needs. Its 8-core AMD Ryzen 7 processor pairs with 16GB of RAM, so any major spec-heavy tasks will perform smoothly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best Buy laptop deals during Prime Day
 
@@ -135,6 +119,10 @@ Kyle Kucharski/ZDNET
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## More Prime Day 2024 laptop deals
 
 Kyle Kucharski/ZDNET
@@ -143,14 +131,11 @@ Kyle Kucharski/ZDNET
 * [Microsoft Surface Pro 9 for $2,049 (save $651)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Tablet-High-Performance-Pre-Installed%2Fdp%2FB0C5MW8R35%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c77e5d0-9e3a-48e0-88c5-10a20051f694%7Cdtp&dtb=1): It doesn't get more ultraportable than Microsoft's Surface Pro series of laptops, and the 13-inch Surface Pro 9 tablet is currently 20% off the regular price for just $2,149\. For that price, you're getting a powerful Intel Core i7 processor, a 1TB SSD, and more than 15 hours of battery life.
 * [Asus VivoBook 16 for $479 (save $120)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-VivoBook-Laptop-WUXGA-1920%2Fdp%2FB0BT6NKLQR%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c77e5d0-9e3a-48e0-88c5-10a20051f694%7Cdtp&dtb=1): One of the most versatile and well-rounded laptops on the market is also one of the most affordable. The Vivobook 16 is designed to handle a variety of use cases with ease, and for just $479 you can't go wrong with its 1TB of storage, Windows 11, and solid selection of ports.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FAQs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### When is Amazon Prime Day 2024?
 
@@ -164,28 +149,22 @@ There are a lot of great gaming laptops on sale right now, but in our opinion, [
 
 Even though Amazon isn't typically the first place you think of when you're shopping for a new laptop, there are some great deals that pop up if you're willing to look. We've thoroughly combed through the deals to find some diamonds in the rough, and listed the best ones here.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How did we choose these Prime Day deals?
 
 At ZDNET, we only write about deals our team members would want to buy -- devices and products we desire, need, or would recommend. We looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops.
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we recommend. These recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### When will these deals expire?
 
 Prime Day 2024 has ended, so deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on a deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What are the best Prime Day 2024 deals still available?
@@ -251,24 +230,22 @@ And the best deals still available from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-10-effortless-vlog-themes-youll-love-for-2024/"><u>[New] 10 Effortless Vlog Themes You'll Love for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-the-next-frontier-in-technological-application/"><u>[New] In 2024, The Next Frontier in Technological Application</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-scoreboard-the-best-video-to-mp3-convertors/"><u>[Updated] 2024 Approved Scoreboard The Best Video to Mp3 Convertors</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/amp-up-mastering-japanese-digits-with-minutes/"><u>Amp Up: Mastering Japanese Digits with Minutes</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722876876536-change-your-discord-icon-easily-detailed-instructions-inside/"><u>Change Your Discord Icon Easily: Detailed Instructions Inside</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722848683855-compatibility-insight-can-ps4-games-be-used-with-the-next-gen-ps5/"><u>Compatibility Insight: Can PS4 Games Be Used With The Next-Gen PS5?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-6s-plus-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone 6s Plus</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-openai-losing-grip-on-chatgpts-future/"><u>Is OpenAI Losing Grip on ChatGPT's Future?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722885124804-is-using-duckduckgo-for-web-browsing-safe-find-out-here/"><u>Is Using DuckDuckGo for Web Browsing Safe? Find Out Here</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Motorola Moto G34 5G | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-oppo-reno-10-pro-5g-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Oppo Reno 10 Pro 5G Phone? Unlock It Now</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-discover-the-top-8-tools-the-essential-software-for-professional-music-production-and-sound-engineering/"><u>New Discover the Top 8 Tools The Essential Software for Professional Music Production and Sound Engineering</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/quick-fixes-for-when-netflix-stops-responding-on-lg-smart-tvs/"><u>Quick Fixes for When Netflix Stops Responding on LG Smart TVs</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/smartphones-tablets-and-books-your-ultimate-guide-to-modern-reading-and-tech-essentials/"><u>Smartphones, Tablets & Books: Your Ultimate Guide to Modern Reading and Tech Essentials</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/spotting-and-handling-fake-friend-requests-proactive-strategies/"><u>Spotting and Handling Fake Friend Requests: Proactive Strategies</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-strategies-for-implementing-tracert-commands-in-windows-systems/"><u>Step-by-Step Strategies for Implementing 'Tracert' Commands in Windows Systems</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-google-pixel-7a-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Google Pixel 7a Device</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unseen-surfing-mastery-how-to-use-private-modes-effectively-in-top-web-browsers/"><u>Unseen Surfing Mastery: How to Use Private Modes Effectively in Top Web Browsers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-perfect-computing-velocity-you-need/"><u>Unveiling the Perfect Computing Velocity You Need</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/aking-a-splash-with-youtube-ad-banners-and-thumbnails-for-2024/"><u>[New] Making a Splash with YouTube Ad Banners & Thumbnails for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-your-messenger-presence-a-zodiac-guide/"><u>[New] Mastering Your Messenger Presence - A Zodiac Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-uniting-windows-and-mac-users-with-skype-groups-for-2024/"><u>[New] Uniting Windows & Mac Users with Skype Groups for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-exceptional-value-premium-asmr-microphones-at-low-costs/"><u>[Updated] 2024 Approved Exceptional Value Premium ASMR Microphones at Low Costs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/beginners-step-by-step-tutorial-adding-mods-to-your-skyrim-game-on-pc/"><u>Beginner's Step-by-Step Tutorial: Adding Mods to Your Skyrim Game on PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/cant-remember-the-password-for-gmail-try-these-fixes/"><u>Can’t Remember the Password for Gmail? Try These Fixes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/change-your-netflix-location-swiftly-and-without-a-fuss-a-comprehensive-guide/"><u>Change Your Netflix Location Swiftly and Without a Fuss: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-steps-for-activating-secure-boot-options-in-windows-os-from-xp-to-windows-11/"><u>Comprehensive Steps for Activating Secure Boot Options in Windows OS From XP to Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/connecting-and-configuring-printers-for-the-latest-microsoft-windows-11/"><u>Connecting and Configuring Printers for the Latest Microsoft Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/dell-network-driver-download-for-windows-7/"><u>Dell Network Driver Download for Windows 7</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-how-to-display-hidden-documents-and-photos-on-your-windows-7-pc-an-easy-tutorial/"><u>Discover How to Display Hidden Documents & Photos on Your Windows 7 PC - An Easy Tutorial</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/download-asus-drivers-for-windows-11-and-7/"><u>Download ASUS Drivers for Windows 11 & 7</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-honor-80-pro-straight-screen-edition-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Honor 80 Pro Straight Screen Edition Device</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-a14-5gfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy A14 5GFRP Lock</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-stack-buffer-overflow-errors-a-step-by-step-guide/"><u>Resolving Stack Buffer Overflow Errors: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-protectors-for-the-new-iphone-16-and-iphone-16-pro-unbiased-reviews-by-tech-specialists-zdnet/"><u>Top-Rated Protectors for the New iPhone 16 & iPhone 16 Pro : Unbiased Reviews by Tech Specialists - ZDNet</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1726226061390-png-movavi/"><u>オンラインで簡単アプリケーションPNGファイルを変更する - 有料なし:無料のMovaviソリューション</u></a></li>
 </ul></div>
 

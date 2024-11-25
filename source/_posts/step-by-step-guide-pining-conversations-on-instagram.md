@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Pining Conversations on Instagram"
-date: 2024-09-04T01:14:50.289Z
-updated: 2024-09-05T01:14:50.289Z
+date: 2024-11-21T20:14:41.283Z
+updated: 2024-11-24T20:45:54.304Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Guide: Pining Conversations on Instagram"
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
  Home and business owners looking to buy networking gear face various choices. Many products conform to the_802.11a_ ,_802.11b/g/n_ , and_802.11ac_ wireless standards, collectively known as Wi-Fi technologies. Other wireless technologies, such as Bluetooth, also exist, fulfilling specific networking functions.
 
  For quick reference,[802.11be (Wi-Fi 7)](https://www.lifewire.com/what-is-wi-fi-7-6950913) , approved in 2024, is the most recent standard. However, just because a standard is approved does not mean it is available to you or is the standard you need for your particular situation. These are routinely updated, much like how software is updated on smartphones or computers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is 802.11?
 
@@ -26,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
 
 ![A comparison chart of the Pros and Cons of the wireless standards 802.11ac, 802.11n, and 802.11g.](https://www.lifewire.com/thmb/nKbWckJ_1AKQ-SoggPXVECQ_pK0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/wireless-standards-802-11a-802-11b-g-n-and-802-11ac-816553-36294250342e404eabe7dc94bc7a40f9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Lifewire
 
 ## 802.11be (Wi-Fi 7)
@@ -35,11 +43,9 @@ Lifewire
  While final ratification of this standard isn't expected until the end of 2024, Wi-Fi 7 devices are already available.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024347/7443" target="_top" id="2024347">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024347/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 802.11ax (Wi-Fi 6)
 
  Branded as Wi-Fi 6, the 802.11ax standard went live in 2019 to replace 802.11ac. Wi-Fi 6 maxes out at about 10 Gbps, uses less power, is more reliable in congested environments, and supports better security. Wi-Fi 6E is an extension of this standard that adds the[6 GHz band](https://www.lifewire.com/6ghz-6e-wi-fi-4845541) .
@@ -48,18 +54,6 @@ Lifewire
 
  Known as the China Millimeter Wave, this standard applies in China and is a rebranding of 802.11ad for use in certain areas of the world. The goal is to maintain backward compatibility with 802.11ad.
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="150" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 802.11ah
 
  Approved in May 2017, this standard targets lower energy consumption and creates extended-range Wi-Fi networks that can go beyond the reach of a typical 2.4 GHz or 5 GHz network. It competes with Bluetooth, given its lower power needs.
@@ -86,12 +80,6 @@ Lifewire
 
  While 802.11n offers significant bandwidth improvement from previous standards and is widely supported, the use of multiple signals may interfere with nearby 802.11b/g-based networks.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 802.11g (Wi-Fi 3)
 
  In 2002 and 2003, WLAN products supporting a newer standard called 802.11g emerged. 802.11g attempts to combine the best of both 802.11a and 802.11b. 802.11g supports bandwidth up to 54 Mbps and uses the 2.4 GHz frequency for greater range. 802.11g is backward compatible with 802.11b, meaning that 802.11g[access points](https://www.lifewire.com/wireless-access-point-816545) will work with 802.11b wireless[network adapters](https://www.lifewire.com/definition-of-adapter-817585) and vice versa.
@@ -101,17 +89,9 @@ Lifewire
  802.11g is also unofficially referred to as_Wi-Fi 3_ .
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="80" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 802.11a (Wi-Fi 2)
 
  While 802.11b was in development, IEEE created a second extension to the original 802.11 standard called_802.11a_ . Because 802.11b gained popularity much faster than 802.11a, some folks believe that 802.11a was created after 802.11b. In fact, 802.11a was created at the same time. Due to its higher cost, 802.11a is usually found on business networks, whereas 802.11b better serves the home market.
@@ -123,17 +103,9 @@ Lifewire
  802.11a is also unofficially referred to as_Wi-Fi 2_ .
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="80" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 802.11b (Wi-Fi 1)
 
  IEEE expanded on the original 802.11 standard in July 1999, creating the_802.11b_ specification. 802.11b supports a theoretical speed of up to 11 Mbps. A more realistic bandwidth of 2 Mbps (TCP) and 3 Mbps (UDP) should be expected.
@@ -142,18 +114,6 @@ Lifewire
 
  802.11b is also unofficially referred to as_Wi-Fi 1_ .
 
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What About Bluetooth and the Rest?
 
  Aside from these five general-purpose Wi-Fi standards, several other related wireless network technologies offer slightly different value propositions.
@@ -224,8 +184,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -233,4 +191,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-the-art-of-inserting-descriptive-commentary-in-youtube-videos/"><u>[New] 2024 Approved The Art of Inserting Descriptive Commentary in YouTube Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-crafting-winning-titles-and-tags-for-your-youtube-videos/"><u>[New] In 2024, Crafting Winning Titles & Tags for Your YouTube Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-deciphering-past-visual-content-inverse-queries-and-fb-techniques/"><u>[Updated] 2024 Approved Deciphering Past Visual Content Inverse Queries and FB Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/die-effektivsten-wege-zum-kopieren-von-dvds-auf-die-festplatte-eine-schritt-fur-schritt-anleitung/"><u>Die Effektivsten Wege Zum Kopieren Von DVDs Auf Die Festplatte: Eine Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-leading-17-applications-for-professional-graphic-design/"><u>Discover the Leading 17 Applications for Professional Graphic Design</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enhance-your-devices-performance-disabling-android-apps-from-running-hiddenly/"><u>Enhance Your Device's Performance: Disabling Android Apps From Running Hiddenly</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-overcome-noisy-calls-solutions-for-zoom-audio-issues/"><u>In 2024, Overcome Noisy Calls Solutions for Zoom Audio Issues</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-seamlessly-share-videos-on-mstream-services/"><u>In 2024, Seamlessly Share Videos on MStream Services</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ize-screen-time-top-10-free-youtube-playlist-extractors/"><u>Maximize Screen Time Top 10 Free YouTube Playlist Extractors</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-reviving-a-nonfunctional-astro-a20-microphone/"><u>Step-by-Step Guide: Reviving a Nonfunctional Astro A20 Microphone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-to-acquire-ebooks-through-your-ios-device-with-the-books-application/"><u>Step-by-Step Instructions to Acquire eBooks Through Your iOS Device with the Books Application</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-best-retailers-offering-superior-selection-of-mobile-phones/"><u>The Best Retailers Offering Superior Selection of Mobile Phones</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unveiling-the-premium-our-rankings-for-best-gopro-casings/"><u>Unveiling the Premium Our Rankings for Best GoPro Casings</u></a></li>
+</ul></div>
 

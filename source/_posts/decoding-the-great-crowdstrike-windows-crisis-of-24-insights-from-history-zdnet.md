@@ -1,7 +1,7 @@
 ---
 title: Decoding the Great CrowdStrike-Windows Crisis of '24 - Insights From History | ZDNET
-date: 2024-11-08T21:19:05.091Z
-updated: 2024-11-16T01:26:46.027Z
+date: 2024-11-18T16:01:50.071Z
+updated: 2024-11-25T16:02:45.187Z
 tags:
   - apple
 categories:
@@ -32,6 +32,10 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What happened?
 
 CrowdStrike, which sells security software designed to keep systems safe from external attacks, pushed a faulty ["sensor configuration update"](https://www.crowdstrike.com/blog/falcon-update-for-windows-hosts-technical-details/) to the millions of PCs worldwide running its Falcon Sensor software. That update was, according to CrowdStrike, a "Channel File" whose function was to identify newly observed, malicious activity by cyberattackers.
@@ -51,10 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -94,16 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -133,10 +125,7 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -187,24 +176,20 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-renaissance.techidaily.com/best-no-cost-backup-solutions-the-ultimate-list-and-assessment-of-32-options/"><u>Best No-Cost Backup Solutions: The Ultimate List and Assessment of 32 Options</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/block-mystery-callers-on-your-iphone-a-step-by-step-instructional-article/"><u>Block Mystery Callers on Your iPhone: A Step-by-Step Instructional Article</u></a></li>
-<li><a href="https://network-issues.techidaily.com/conquering-crest-flicker-in-win11/"><u>Conquering Crest Flicker in Win11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/effective-solutions-to-address-msstfmtdll-not-detected-problems/"><u>Effective Solutions to Address 'Msstfmt.dll' Not Detected Problems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/effortless-communication-tips-and-tricks-for-texting-on-an-ipad-device/"><u>Effortless Communication: Tips and Tricks for Texting on an iPad Device</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Vivo Y78+? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-samsung-galaxy-f15-5g-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Samsung Galaxy F15 5G</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-supercharge-your-tweet-views-for-flawless-hd/"><u>In 2024, Supercharge Your Tweet Views for Flawless HD</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-zte-axon-40-lite-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in ZTE Axon 40 Lite for Streaming | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-oppo-find-n3-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Oppo Find N3 Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-telegram-web-a-beginners-walkthrough-for-2024/"><u>Mastering Telegram Web A Beginner's Walkthrough for 2024</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/mastering-the-art-of-quick-screen-captures-a-guide-to-ios-14s-back-tap-feature/"><u>Mastering the Art of Quick Screen Captures: A Guide to iOS 14'S Back Tap Feature</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigating-cloud-entertainment-the-definitive-guide-for-xbox-game-pass-ultimate-users/"><u>Navigating Cloud Entertainment: The Definitive Guide for Xbox Game Pass Ultimate Users</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-ditch-sony-vegas-find-a-better-video-editing-solution-for-your-windows-pc/"><u>New In 2024, Ditch Sony Vegas Find a Better Video Editing Solution for Your Windows PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-boot-failures-a-guide-to-diagnosing-post-related-errors/"><u>Resolving Boot Failures: A Guide to Diagnosing Post-Related Errors</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-fixes-to-get-your-tiktok-up-and-running-again/"><u>Step-by-Step Fixes to Get Your TikTok Up and Running Again</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-capturing-and-sharing-your-nintendo-switch-gameplay/"><u>Step-by-Step Guide: Capturing & Sharing Your Nintendo Switch Gameplay</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722871227974-step-by-step-tutorial-navigating-and-optimizing-your-experience-with-google-gemini/"><u>Step-by-Step Tutorial: Navigating and Optimizing Your Experience with Google Gemini</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/under-100-secure-entryway-discover-the-remobell-video-doorbell-reviewed-here/"><u>Under $100 Secure Entryway: Discover the RemoBell Video Doorbell Reviewed Here</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-silent-to-clear-the-ultimate-guide-to-professional-audio-recording/"><u>[New] 2024 Approved Silent to Clear The Ultimate Guide to Professional Audio Recording</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/convert-photos-on-ios-efficiently-from-jpegpng-to-pdf-for-2024/"><u>Convert Photos on IOS Efficiently From JPEG/PNG to PDF for 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/innovative-techniques-and-applications-for-observing-computer-behavior/"><u>Innovative Techniques and Applications for Observing Computer Behavior</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/aging-youtubes-cc-for-high-quality-video-creation-for-2024/"><u>Leveraging YouTube’s CC for High-Quality Video Creation for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-challenges-with-uninstalled-pending-windows-updates/"><u>Overcoming Challenges with Uninstalled Pending Windows Updates</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/personalized-comfort-by-allowing-customization-according-to-individual-needs-and-preferences-which-is-essential-in-creating-an-inclusive-user-experience-for1/"><u>Personalized Comfort by Allowing Customization According to Individual Needs and Preferences Which Is Essential in Creating an Inclusive User Experience for Users with Disabilities</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quick-guide-disabling-sticky-keys-feature-in-windows-10-with-visual-aids/"><u>Quick Guide: Disabling Sticky Keys Feature in Windows 10 with Visual Aids</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quickly-get-operating-system-version-windows/"><u>Quickly Get Operating System Version (Windows)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/rapid-fix-simple-steps-for-revamping-your-facebook-password-asap/"><u>Rapid Fix: Simple Steps for Revamping Your Facebook Password ASAP</u></a></li>
+<li><a href="https://facebook.techidaily.com/securing-privacy-by-severing-all-ties-to-facebook/"><u>Securing Privacy by Severing All Ties to Facebook</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-fortnites-persistent-sound-problems-lags-glitches-and-more/"><u>Solving Fortnite's Persistent Sound Problems: Lags, Glitches, and More</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-ssl-version-or-cipher-mismatch-error-in-windows/"><u>Solving the SSL Version or Cipher Mismatch Error in Windows</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/transform-your-sedentary-lifestyle-with-cubefit-terramat-an-in-depth-analysis/"><u>Transform Your Sedentary Lifestyle with CubeFit TerraMat – An In-Depth Analysis</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-solving-starfield-cannot-startup-on-steam-or-xbox/"><u>Troubleshooting Tips: Solving 'Starfield Cannot Startup on Steam or Xbox'</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-take-your-videos-to-the-next-level-picture-in-picture-in-final-cut-pro-for-2024/"><u>Updated Take Your Videos to the Next Level Picture-in-Picture in Final Cut Pro for 2024</u></a></li>
 </ul></div>
 

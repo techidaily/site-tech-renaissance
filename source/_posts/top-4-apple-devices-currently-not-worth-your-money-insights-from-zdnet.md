@@ -1,7 +1,7 @@
 ---
 title: "Top 4 Apple Devices Currently Not Worth Your Money: Insights From ZDNet"
-date: 2024-11-08T19:22:01.382Z
-updated: 2024-11-16T01:51:10.304Z
+date: 2024-11-19T16:00:07.027Z
+updated: 2024-11-25T16:00:17.928Z
 tags:
   - apple
 categories:
@@ -57,7 +57,15 @@ Don't buy these devices:
 * **Mac Studio**: The M2-powered Mac Studio is no longer the beast it was, and given that it's over a year old and running on previous-generation silicon, I suggest giving it a miss and getting a [MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fmacbook-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) instead.
 * **Apple TV**: Last updated in October 2022, this device is due for a refresh, possibly alongside the iPhone, so unless you desperately need a new one, wait a few months.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **The 'Nice' list**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Apple iPhone 16**
 
@@ -68,16 +76,7 @@ Jason Hiner/ZDNET
 From a Camera Control button, an Action button, and the new [A18 chipset](https://www.zdnet.com/article/why-apples-new-a18-chipsets-make-the-iphone-16-models-worth-upgrading-to/), the [iPhone 16](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) has been built from the ground up to handle AI workloads. 
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Apple Watch Series 10**
@@ -87,19 +86,6 @@ Apple Watch Series 10
 Kerry Wan/ZDNET
 
 The [Apple Watch Series 10](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) starts at $399 for GPS and $499 for cellular. It comes in three colors: jet black, rose gold, and silver aluminum. The new black [Apple Watch Ultra 2](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch-ultra&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) starts at $799\. 
-
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Apple M3 MacBook Air**
 
@@ -129,13 +115,6 @@ It's hard to bet against Apple, but a futuristic set of goggles with a starting 
 
 [Apple Vision Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-vision&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Apple 14-inch and 16-inch MacBook Pro**
 
 This lineup of MacBooks has the entire lineup of M3 chips -- from the powerful M3 to the [insanely powerful M3 Max](https://www.zdnet.com/article/apples-m3-m3-pro-and-m3-max-chipsets-everything-you-should-know-before-buying/). Here are the specs:
@@ -150,6 +129,10 @@ This lineup of MacBooks has the entire lineup of M3 chips -- from the powerful M
 **Also: [M3 MacBook Pro buying advice: Who it's really for (and who should stick with M2 MacBook Air)](https://www.zdnet.com/article/m3-macbook-pro-buying-advice/)**
 
 [2023 M3-powered MacBook Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Apple's 24-inch iMac**
 
@@ -188,10 +171,7 @@ And soon, your AirPods Pro earbuds will be able to function as [clinical-grade h
 [2nd Gen AirPods Pro $189.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6447382%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6447382.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Apple AirTag**
@@ -234,24 +214,20 @@ Well-made, robust, and with a replaceable battery, these will make misplaced key
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-essential-insights-how-to-choose-among-the-top-9-free-youtube-makers/"><u>[New] 2024 Approved Essential Insights How to Choose Among the Top 9 Free YouTube Makers</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/new-device-friendly-tutorial-inserting-your-shorts-into-youtube/"><u>[New] Device-Friendly Tutorial Inserting Your Shorts Into YouTube</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-easy-access-to-legal-gamers-tunes/"><u>[Updated] 2024 Approved Easy Access to Legal Gamers' Tunes</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-simplifying-transition-workflows-audacitys-crossfade-capabilities/"><u>[Updated] Simplifying Transition Workflows Audacity's Crossfade Capabilities</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-the-elite-list-15-high-quality-unboxing-vids-of-2024/"><u>[Updated] The Elite List 15 High-Quality Unboxing Vids of 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/decoding-the-502-bad-gateway-mistake-and-how-to-resolve-it/"><u>Decoding the 502 Bad Gateway Mistake and How to Resolve It</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-top-7-note-taking-applications-for-ipad-and-ipad-pro-users/"><u>Discover the Top 7 Note-Taking Applications for iPad and iPad Pro Users</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-to-unlocking-siris-feature-of-reading-aloud-on-iphones-and-macbooks/"><u>Guide to Unlocking Siri's Feature of Reading Aloud on iPhones and MacBooks</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/hunt-for-the-best-apple-watch-offers-this-months-picks/"><u>Hunt for the Best Apple Watch Offers – This Month's Picks</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/initiate-your-solo-journey-learning-french-online/"><u>Initiate Your Solo Journey: Learning French Online</u></a></li>
-<li><a href="https://android-frp.techidaily.com/nokia-c22-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Nokia C22 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-technical-glitches-a-comprehensive-guide-for-smooth-gears/"><u>Overcoming Technical Glitches: A Comprehensive Guide for Smooth Gears</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/secure-your-smartphone-connectivity-tips-for-authenticating-on-android-wi-fi-networks/"><u>Secure Your Smartphone Connectivity: Tips for Authenticating on Android Wi-Fi Networks</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/simple-solutions-stop-the-buzzing-and-rattling-of-your-audio-system/"><u>Simple Solutions: Stop the Buzzing and Rattling of Your Audio System</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-determining-your-pcs-memory-in-windows-with-speed-and-simplicity/"><u>Step-by-Step Guide: Determining Your PC's Memory in Windows with Speed and Simplicity</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-effective-techniques-for-disinfecting-your-television-remote/"><u>Step-by-Step Guide: Effective Techniques for Disinfecting Your Television Remote</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-to-secure-or-access-netgear-products-default-passwords-for-july-2024-revealed/"><u>Step-by-Step to Secure or Access NETGEAR Products: Default Passwords for July 2024 Revealed</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-12-best-free-voip-services-your-comprehensive-guide/"><u>Top 12 Best Free VoIP Services : Your Comprehensive Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/updating-or-changing-the-default-audio-alerts-on-your-gmail-messages/"><u>Updating or Changing the Default Audio Alerts on Your Gmail Messages</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-editors-assistant-top-5-portable-devices-for-vfx-artists/"><u>[New] 2024 Approved Editor's Assistant Top 5 Portable Devices for VFX Artists</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/best-10-tech-tools-and-apps-every-student-needs-in-high-school/"><u>Best 10 Tech Tools and Apps Every Student Needs in High School</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/coding-command-central-how-to-program-a-one-stop-remote-control-gadget/"><u>Coding Command Central: How to Program a One-Stop Remote Control Gadget</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-setup-automating-login-processes-in-windows-operating-systems/"><u>Easy Setup: Automating Login Processes in Windows Operating Systems</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/gepflegte-gute-auftaktsatze-im-deutschen/"><u>Gepflegte Gute-Auftaktsätze Im Deutschen</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Vivo G2? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/master-the-court-in-nba-2k19-pro-basketball-game/"><u>Master the Court in NBA 2K19, Pro Basketball Game</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-nubia-red-magic-8s-pro-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Nubia Red Magic 8S Pro Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/streaming-with-fubo-on-fire-stick-heres-how-you-can-do-it/"><u>Streaming with Fubo on Fire Stick? Here's How You Can Do It!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-comprehensive-tutorial-on-tuning-into-hulu-from-your-lg-smart-tv-screen/"><u>The Comprehensive Tutorial on Tuning Into Hulu From Your LG Smart TV Screen</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-essential-blueprint-for-crafting-compelling-reddit-posts-for-2024/"><u>The Essential Blueprint for Crafting Compelling Reddit Posts for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-buying-guide-for-documentphoto-scanners-2024s-must-have-models/"><u>Ultimate Buying Guide for Document/Photo Scanners: 2024'S Must-Have Models</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-instagram-the-definitive-guide/"><u>Understanding Instagram: The Definitive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-streamlined-browsing-on-your-android-the-leading-5-no-root-clickers/"><u>Unlock Streamlined Browsing on Your Android: The Leading 5 No-Root Clickers</u></a></li>
 </ul></div>
 

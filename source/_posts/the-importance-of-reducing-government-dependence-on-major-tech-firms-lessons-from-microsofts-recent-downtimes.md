@@ -1,7 +1,7 @@
 ---
 title: "The Importance of Reducing Government Dependence on Major Tech Firms: Lessons From Microsoft's Recent Downtimes"
-date: 2024-11-13T18:58:47.843Z
-updated: 2024-11-16T01:47:18.053Z
+date: 2024-11-23T16:01:52.820Z
+updated: 2024-11-25T16:02:29.887Z
 categories:
   - BestProducts
 description: "This Article Describes The Importance of Reducing Government Dependence on Major Tech Firms: Lessons From Microsoft's Recent Downtimes"
@@ -31,6 +31,10 @@ Shekai / Unsplash
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Monoculture
 
  Security is boring, and not just for you and me. A large company is no more inclined to spend time and money on security than anyone else, which is why we keep hearing about[massive privacy breaches at companies](https://www.nytimes.com/2024/05/31/business/ticketmaster-hack-data-breach.html) whose business is to look after user data. Security is often just a checkbox on some compliance form, and so we end up with these companies buying the most obvious off-the-shelf solution so that they can check this box.
@@ -38,6 +42,10 @@ Shekai / Unsplash
  The result of these two factors—consolidation and compliance—is that many businesses run on Microsoft, and many of those use security products like Crowdstrike. Standardization makes things easier.  
 
 ![Frown face from blue screen of death](https://www.lifewire.com/thmb/Lqv4aGyuYC6HNd5WDK1DTTPYgvU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/joshua-hoehne-3n2uI0quNsA-unsplash-0e8d510435ae4397821e1d01bac2c441.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This is how I feel every time I have to use Windows.
 
@@ -54,10 +62,7 @@ Shekai / Unsplash
  Now, imagine a similar outage, only it shuts down the water plant, puts hospitals offline, or some other nightmare scenario.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Open Source
@@ -67,10 +72,7 @@ Shekai / Unsplash
 ![Neon sign that reads 'Open.'](https://www.lifewire.com/thmb/XbRPJ1gFGnBq6454pNxdBi-InMA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/viktor-forgacs-LNwIJHUtED4-unsplash-32bb3afaa57e4665ba788b48e805e2a8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Open.
@@ -118,24 +120,20 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-camtasia-tutorial-implementing-the-classic-ken-burns-effect/"><u>[New] 2024 Approved Camtasia Tutorial Implementing the Classic Ken Burns Effect</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-cutting-edge-techniques-for-professional-obs-edits/"><u>[New] 2024 Approved Cutting-Edge Techniques for Professional OBS Edits</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-hero4-meets-hero5-a-camera-battle-for-2024/"><u>[New] Hero4 Meets Hero5 A Camera Battle for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-recording-real-time-google-meetings/"><u>[New] Recording Real-Time Google Meetings</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-a-visual-voyage-with-toolwiz-comprerande-review-2023-edition/"><u>[Updated] 2024 Approved A Visual Voyage with Toolwiz Comprerande Review, 2023 Edition</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-prime-your-digital-footprint-efficient-channels-monikers/"><u>[Updated] Prime Your Digital Footprint Efficient Channels' Monikers</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-unveiling-the-high-resolution-benq-sw320-monitor/"><u>[Updated] Unveiling the High-Resolution BenQ SW320 Monitor</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fix-the-d3dx928dll-not-found-problem-on-windows-computers-easily/"><u>Fix the 'd3dx9_28.dll' Not Found Problem on Windows Computers Easily</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-banish-the-blue-and-bring-back-vibrancy-8-expert-strategies-for-correcting-tv-color-defects/"><u>How to Banish the Blue and Bring Back Vibrancy: 8 Expert Strategies for Correcting TV Color Defects</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Nokia C32 | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-the-world-through-360-degree-fisheye-imaging/"><u>In 2024, Unlocking the World Through 360 Degree Fisheye Imaging</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-updates-hp-deskjet-3755-all-in-one-printer-driver-for-windows-download-now/"><u>Latest Updates: HP DeskJet 3755 All-in-One Printer Driver for Windows - Download Now!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-virality-a-10-step-roadmap-for-instagram-growth/"><u>Mastering the Art of Virality - A 10-Step Roadmap for Instagram Growth</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/overcoming-comctl32dll-not-found-a-detailed-guide/"><u>Overcoming 'Comctl32.dll' Not Found - A Detailed Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolve-your-apple-watch-cellular-woes-with-these-effective-steps/"><u>Resolve Your Apple Watch Cellular Woes with These Effective Steps</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/smart-strategies-for-controlling-and-evaluating-monthly-data-use/"><u>Smart Strategies for Controlling and Evaluating Monthly Data Use</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-the-absence-of-d3dx9nine-eighty-two-dll-error/"><u>Troubleshooting the Absence of D3dx9_nine-Eighty-Two DLL Error</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-faceoff-apples-latest-tech-giants-the-ipad-pro-m4-and-macbook-air-m3/"><u>Ultimate Faceoff: Apple's Latest Tech Giants - The iPad Pro M4 and MacBook Air M3</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-future-of-smartphones-whats-coming-with-the-next-gen-oneplus-n-price-drops-and-feature-speculations-ahead/"><u>Unveiling the Future of Smartphones – What's Coming with the Next Gen OnePlus N: Price Drops & Feature Speculations Ahead</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-perpetual-patrols-the-pinnacle-of-drone-durability/"><u>[New] Perpetual Patrols The Pinnacle of Drone Durability</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-pioneering-mobile-broadcasting-mastering-obs-studio-and-android-for-2024/"><u>[New] Pioneering Mobile Broadcasting Mastering OBS Studio and Android for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-streamlining-your-zoom-collaboration-calendar-for-2024/"><u>[New] Streamlining Your Zoom Collaboration Calendar for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-exploring-the-validity-of-instagram-photos/"><u>[Updated] Exploring the Validity of Instagram Photos</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/2024s-ultimate-selection-leading-foldable-phone-models-reviewed/"><u>2024'S Ultimate Selection: Leading Foldable Phone Models Reviewed</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dont-wait-any-longer-discover-the-critical-benefits-of-installing-ios-153-today/"><u>Don't Wait Any Longer - Discover the Critical Benefits of Installing iOS 15.3 Today!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-soundtracks-for-snickers-ringtones-best-online-sources/"><u>In 2024, Soundtracks for Snickers Ringtones' Best Online Sources</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-stalled-or-halted-windows-10-updates-tips-and-tricks-for-smooth-installation/"><u>Resolving Stalled or Halted Windows 10 Updates: Tips and Tricks for Smooth Installation</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-for-reading-digital-publications-from-amazon-kindle-on-a-blackberry-10-smartphone-or-tablet/"><u>Step-by-Step Instructions for Reading Digital Publications From Amazon Kindle on a BlackBerry 10 Smartphone or Tablet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-how-to-uninstall-titles-on-amazons-kindle-platform/"><u>Step-by-Step Instructions: How to Uninstall Titles on Amazon's Kindle Platform</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-on-modifying-epub-ebooks-in-microsoft-word/"><u>Step-by-Step Tutorial on Modifying EPUB eBooks in Microsoft Word</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/sulfur-is-also-a-nonmetal-but-it-is-solid-at-room-temperature/"><u>Sulfur Is Also a Nonmetal but It Is Solid at Room Temperature.</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-tutorial-on-customizing-the-keyboard-layout-of-a-kindle-fire-device/"><u>The Ultimate Tutorial on Customizing the Keyboard Layout of a Kindle Fire Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-10-free-online-libraries-offering-audiobook-downloads/"><u>Top 10 Free Online Libraries Offering Audiobook Downloads</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-ebook-software-for-macos-catalina-and-later-versions-sonoma-big-sur-monterey-ventura/"><u>Top Rated eBook Software for macOS Catalina & Later Versions (Sonoma, Big Sur, Monterey, Ventura)</u></a></li>
 </ul></div>
 

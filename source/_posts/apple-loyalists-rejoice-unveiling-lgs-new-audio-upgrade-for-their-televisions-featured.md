@@ -1,7 +1,7 @@
 ---
 title: "Apple Loyalists Rejoice: Unveiling LG's New Audio Upgrade for Their Televisions, Featured"
-date: 2024-11-14T23:47:35.007Z
-updated: 2024-11-16T05:15:59.430Z
+date: 2024-11-19T16:03:51.829Z
+updated: 2024-11-25T16:03:07.531Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is expected at WWDC 2024?
 
 WWDC is typically the event in which Apple takes the wraps off the next major versions of its assorted operating systems. That means we should anticipate demos of iOS 18, iPadOS 18, MacOS 15, WatchOS 11, tvOS 18, and VisionOS 2.0\. 
@@ -49,10 +53,7 @@ The event provides developers with access to experts, along with highlights of n
 "We're so excited to connect with developers from around the world for an extraordinary week of technology and community at WWDC24," Susan Prescott, Apple's VP of Worldwide Developer Relations, said in a news release. "WWDC is all about sharing new ideas and providing our amazing developers with innovative tools and resources to help them make something even more wonderful." 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. You'll be hearing AI (or Apple Intelligence) a lot
@@ -72,10 +73,7 @@ Apple has also allegedly been seeking a partner for outside help, possibly teami
 More recently, rumors have suggested that some new AI features will include more intelligent and helpful searches in Safari, AI-generated emojis based on conversations in Messages, and an AI-powered [photo editing app](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/) similar to Google's Magic Eraser. It's worth noting that such features are believed to only function on the more recent Apple products, including the iPhone 15 Pro with its A17 Pro chip and M-series iPads and MacBooks.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Don't forget the other acronym: RCS
@@ -89,10 +87,7 @@ To the surprise of many, except for the European Commission, Apple [announced la
 The decision to bring RCS to the iPhone came after mounting pressure from the European Union's Digital Markets Act (DMA), which stressed cross-platform compatibility. While a more [recent statement from Google](https://www.zdnet.com/article/google-seems-to-have-leaked-apples-timeframe-for-bringing-rcs-to-the-iphone/) suggested that Apple would integrate RCS later this fall, highlighting the transition at WWDC could potentially help Apple's defense against the [DOJ's antitrust lawsuit](https://x.com/getpeid/status/1798369533889302576), filed in March. Regardless of when and how Apple chooses to announce the new feature, it'll be big news for both iOS and Android users.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. MacOS 15, iPadOS 18, WatchOS 11, VisionOS 2, tvOS 18
@@ -133,20 +128,21 @@ As for [VisionOS](https://www.zdnet.com/article/10-things-id-like-to-see-in-visi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-rewind-on-the-fly-ios-video-flip/"><u>[New] Rewind on the Fly IOS Video Flip</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-fundamental-narrative-structure-for-2024/"><u>[Updated] Fundamental Narrative Structure for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-beyond-samsung-gear-360-top-alternative-cameras-of-2023/"><u>[Updated] In 2024, Beyond Samsung Gear 360 Top Alternative Cameras of 2023</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/a-step-by-step-path-to-authentic-selfie-verification-on-ig-for-2024/"><u>A Step-by-Step Path to Authentic Selfie Verification on IG for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/address-the-missing-xinput13dll-file-effective-solutions-unveiled/"><u>Address the Missing xinput1_3.dll File: Effective Solutions Unveiled</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/bringing-short-form-videos-to-life-how-to-showcase-tiktok-on-your-home-tv-setup/"><u>Bringing Short-Form Videos to Life: How to Showcase TikTok on Your Home TV Setup</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Nokia C02? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 14 without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/iphone-vs-android-showdown-finding-the-ideal-smartphone-match/"><u>IPhone vs Android Showdown: Finding The Ideal Smartphone Match</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/jpeggifmovavi/"><u>JPEG和GIF間的無縫連接：Movavi提供的快速、免費在線格式轉換服務</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/mastering-live-broadcast-over-the-internet-via-vlc-media-player/"><u>Mastering Live Broadcast Over the Internet via VLC Media Player</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/next-level-mobile-tech-faceoff-exploring-the-differences-between-iphone-15-pro-max-and-samsung-galaxy-s24-ultra/"><u>Next-Level Mobile Tech Faceoff: Exploring the Differences Between iPhone 15 Pro Max and Samsung Galaxy S24 Ultra</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-straight-line-issues-on-a-samsung-televisual-unit/"><u>Resolving Straight-Line Issues on a Samsung Televisual Unit</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unraveling-the-concept-an-in-depth-look-at-memes-online/"><u>Unraveling the Concept: An In-Depth Look at Memes Online</u></a></li>
-<li><a href="https://techidaily.com/vivo-data-recovery-recover-lost-data-from-vivo-y17s-by-fonelab-android-recover-data/"><u>Vivo Data Recovery – recover lost data from Vivo Y17s</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-inspiration-unleashed-list-of-10-motivating-flicks/"><u>2024 Approved Inspiration Unleashed List of 10 Motivating Flicks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/macm2ts-to-avimov-mpeg-2/"><u>無料Mac向けM2TS to AVI/MOVコンバータ: MPEG-2テープ動画をスムーズ変換！</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/complete-guide-for-powerdirector-experts-2024/"><u>Complete Guide for PowerDirector Experts - 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/demystifying-the-world-of-streaming-gadgets-an-essential-overview/"><u>Demystifying the World of Streaming Gadgets: An Essential Overview</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/discover-the-list-of-upcoming-motorola-devices-compatible-with-android-15/"><u>Discover the List of Upcoming Motorola Devices Compatible with Android 15</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-what-bing-is-and-how-it-shapes-your-internet-experience-as-a-microsoft-product/"><u>Discover What Bing Is and How It Shapes Your Internet Experience as a Microsoft Product</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/enhanced-social-connections-by-learning-a-second-language-in-fifties/"><u>Enhanced Social Connections by Learning a Second Language in Fifties</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/error-free-computing-how-to-address-and-repair-launchdll-not-detected-issues/"><u>Error-Free Computing: How To Address and Repair 'Launch.dll' Not Detected Issues</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/five-expert-tools-for-extracting-fb-content-for-2024/"><u>Five Expert Tools for Extracting FB Content for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-sync-meta-oculus-quest-2-for-crossplay-on-your-phone-seamlessly/"><u>How to Sync Meta (Oculus) Quest 2 for Crossplay on Your Phone Seamlessly</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-find-wolf-howling-sound-effect/"><u>New In 2024, Find Wolf Howling Sound Effect</u></a></li>
+<li><a href="https://howto.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-meizu-21-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-correcting-your-websites-504-gateway-timeout-problem/"><u>Step-by-Step Guide: Correcting Your Website's 504 Gateway Timeout Problem</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/streamline-communications-at-work-by-mastering-slack-a-how-to-guide/"><u>Streamline Communications at Work by Mastering Slack - A How-To Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-alternative-ways-to-recharge-your-mobile-device/"><u>Ultimate Guide: Alternative Ways to Recharge Your Mobile Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-pick-the-7-most-effective-alarm-apps-to-start-your-day-right/"><u>Ultimate Pick: The 7 Most Effective Alarm Apps to Start Your Day Right</u></a></li>
 </ul></div>
 

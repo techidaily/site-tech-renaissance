@@ -1,7 +1,7 @@
 ---
 title: "End of an Era for Apple Pay Later: Unveiling Apple’s Latest Financial Solutions Strategy"
-date: 2024-11-12T00:56:12.340Z
-updated: 2024-11-16T00:52:57.565Z
+date: 2024-11-20T16:02:44.747Z
+updated: 2024-11-25T16:02:51.215Z
 tags:
   - apple
 categories:
@@ -30,6 +30,10 @@ To continue this conversation, I'm going to ask you to hold two competing though
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How could Meta possibly beat Apple?
 
@@ -83,10 +87,7 @@ Bloomberg's Gurman believes Apple is more willing to kill products now than it h
 His inference is that it's possible Apple will lose patience with the slow progress of the Vision Pro and kill it off, although he says his sources claim the company is more focused on introducing a cost-cut Vision device that off-loads the processing to a tethered iPhone or Mac. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Think different?
@@ -110,10 +111,7 @@ The virtual Mac screen the Vision Pro now offers doesn't add much. But being abl
 There are always reasons for delays. It's certainly possible the company hit technical hurdles. But perhaps it could have moved resources over from circus sideshow projects like converting 2D photos into 3D photos -- a feature _no one_ will use as a justification to buy a Vision Pro -- into something that could and will provide real, tangible value and even a justification for the high purchase price. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  A Vision for the rest of us
@@ -131,16 +129,7 @@ In other words, for the Vision to be successful, it has to stop fooling around a
 So what, beyond shipping useful software like the ultra-wide Mac display, needs to factor into that probably elusive Apple mindset change? Three things. 
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Give the Vision a controller
@@ -153,6 +142,10 @@ The eye tracking and hand gestures interface that are the primary means of opera
 
 You can see this in action with the [Puzzling Places game](https://www.meta.com/experiences/3931148300302917/). On the Quest 3, the game provides a much richer interface than on the Vision Pro. That's because it's much easier to navigate objects in the 3D space using the Quest controllers. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Stay away from cable tethering
 
 It makes sense to tether the Vision Pro to a Mac for an ultra-wide display. You want zero latency and uninterrupted power. But beyond that, tethering is annoying. Nothing says "early concept prototype" more than having to carry a tethered battery in your back pocket. 
@@ -164,13 +157,6 @@ Just the absence of the Vision Pro battery and its tether to manage makes the Qu
 The idea that a future Vision device might need to be physically tethered to an iPhone to work would be a joy killer, especially when the Quest 3 doesn't have such an annoyance. 
 
 There might be one compromise, which is to wirelessly offload some processing to an iPhone, similar to the symbiotic relationship the Apple Watch has with the iPhone. That could work. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Make a tough margin decision
 
@@ -241,24 +227,21 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-beauty-vlogs-from-basics-to-brilliance-launching-a-youtube-channel/"><u>[New] 2024 Approved Beauty Vlogs From Basics to Brilliance Launching a YouTube Channel</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/echniques-for-rapid-deletion-of-youtube-feedback/"><u>[New] Techniques for Rapid Deletion of Youtube Feedback</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-elevate-canon-imaging-unlimited-free-limited-pay-luts-for-2024/"><u>[Updated] Elevate Canon Imaging Unlimited Free, Limited-Pay LUTs for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/can-you-delete-the-apps-that-come-with-the-iphone/"><u>Can You Delete the Apps That Come With the iPhone?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-picks-the-ultimate-list-of-alarm-clock-apps/"><u>Essential Picks: The Ultimate List of Alarm Clock Apps</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-how-to-discover-an-individuals-phone-number-online-safely-and-responsibly/"><u>Guide: How to Discover an Individual’s Phone Number Online Safely and Responsibly</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-resolving-horizontal-and-vertical-lines-on-your-tv-screen/"><u>Guide: Resolving Horizontal and Vertical Lines on Your TV Screen</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-cinematic-lighting-5-must-haves-for-streams/"><u>In 2024, Cinematic Lighting 5 Must-Haves for Streams</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Vivo V27 | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-winning-youtube-affiliate-deals-famebits-guide-to-earnings/"><u>In 2024, Winning YouTube Affiliate Deals FameBit's Guide to Earnings</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/iphone-emergency-and-amber-alert-notifications-how-to-disable-them/"><u>IPhone Emergency & AMBER Alert Notifications - How To Disable Them?</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/mastering-live-video-conferences-the-top-tips-for-flawless-recording-results/"><u>Mastering Live Video Conferences: The Top Tips for Flawless Recording Results</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-elevating-your-music-mix-changing-volume-in-audacity/"><u>New Elevating Your Music Mix Changing Volume in Audacity</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/record-ruckus-samsung-phone-gaming-chronicles/"><u>Record Ruckus Samsung Phone Gaming Chronicles</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-how-to-using-gifs-to-amplify-your-presence-in-the-instagram-conversation/"><u>The Ultimate How-To: Using GIFs to Amplify Your Presence in the Instagram Conversation</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-tutorial-to-activate-and-use-screen-mirroring-on-samsung-televisions/"><u>The Ultimate Tutorial to Activate and Use Screen Mirroring on Samsung Televisions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-car-speaker-problems-and-how-to-fix-them/"><u>Understanding Car Speaker Problems and How to Fix Them</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlocking-the-secrets-a-step-by-step-guide-to-accessing-youtube-premium-at-student-prices/"><u>Unlocking the Secrets: A Step-by-Step Guide to Accessing YouTube Premium at Student Prices</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/why-you-wont-find-excitement-punctuated-with-exclamation-points-on-apples-site-according-to-zdnet/"><u>Why You Won't Find Excitement Punctuated with Exclamation Points on Apple's Site, According to ZDNET</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-harness-the-power-of-fb-video-marketing-with-these-free-apps/"><u>[New] 2024 Approved Harness the Power of FB Video Marketing with These Free Apps</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-standout-soundstage-sagas-and-plots/"><u>[New] In 2024, Standout Soundstage Sagas and Plots</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-prime-jocular-photo-artist/"><u>[New] Prime Jocular Photo Artist</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-leading-offline-audio-to-text-applications/"><u>[Updated] Leading Offline Audio-To-Text Applications</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-12-pro-max-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 Pro Max With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-xiaomi-redmi-note-12r-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Xiaomi Redmi Note 12R Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-s-most-popular-video-reversal-websites/"><u>In 2024, S Most Popular Video Reversal Websites</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/make-memories-count-learn-to-share-photos-right-now-for-2024/"><u>Make Memories Count Learn to Share Photos Right Now for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/maximize-speed-and-productivity-expert-strategies-for-a-fully-functional-windows-aturated-with-keywords-clear-language-and-action-oriented-phrases/"><u>Maximize Speed and Productivity: Expert Strategies for a Fully Functional Windows Aturated with Keywords, Clear Language, and Action-Oriented Phrases</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/online-anonymity-matters-explore-why-you-need-a-vpn-and-learn-about-its-working-process/"><u>Online Anonymity Matters: Explore Why You Need a VPN and Learn About Its Working Process</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/pairing-your-sony-bluetooth-headset-made-easy-step-by-step-instructions/"><u>Pairing Your Sony Bluetooth Headset Made Easy - Step-by-Step Instructions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/preparing-your-pc-essential-tips-before-upgrading-to-the-windows-11-creators-edition/"><u>Preparing Your PC: Essential Tips Before Upgrading to the Windows 11 Creator's Edition</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/professional-hacks-how-to-recover-a-forgetten-snapchat-login-credential/"><u>Professional Hacks: How To Recover A Forgetten Snapchat Login Credential</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quick-and-simple-steps-uncover-hardware-details-on-a-windows-10-machine/"><u>Quick & Simple Steps: Uncover Hardware Details on a Windows 10 Machine</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quick-guide-enabling-ps4s-remote-play-feature-on-pc-and-mac/"><u>Quick Guide: Enabling PS4's Remote Play Feature on PC and Mac</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-apex-of-narrative-content-youtubes-finest-in-23-for-2024/"><u>The Apex of Narrative Content YouTube’s Finest in '23 for 2024</u></a></li>
 </ul></div>
 
