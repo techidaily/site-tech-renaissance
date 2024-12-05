@@ -1,7 +1,7 @@
 ---
 title: Discover the Mastersmiths Crafting ChatGPT - Microsoft's AI Endeavor
-date: 2024-09-04T01:12:09.348Z
-updated: 2024-09-05T01:12:09.348Z
+date: 2024-12-04T06:37:11.872Z
+updated: 2024-12-05T02:26:29.138Z
 categories:
   - BestProducts
 description: This Article Describes Discover the Mastersmiths Crafting ChatGPT - Microsoft's AI Endeavor
@@ -15,6 +15,10 @@ thumbnail: https://www.lifewire.com/thmb/xkt0DUXPWr8nLHHHBRvPj8QdwwQ=/400x300/fi
 
  With[so many types and sizes](https://www.lifewire.com/list-of-ipad-models-and-generations-1994232) of iPads to choose from, it's hard to know which are the newest models and what they really offer. Here's a quick rundown of the latest versions of every type of iPad.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPad Pro
 
 ![The 12.9-inch (5th generation) and 11-inch (3rd generation) iPad Pros](https://www.lifewire.com/thmb/PNucJd7YYcK09ZWzLMnmlLu7pns=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/002-what-is-newest-version-of-ipad-1994324-c0b044cd23444820aa35c64c8d2fc079.jpg)
@@ -27,9 +31,17 @@ thumbnail: https://www.lifewire.com/thmb/xkt0DUXPWr8nLHHHBRvPj8QdwwQ=/400x300/fi
 
  For speed, storage, and overall performance, these are the most heavyweight tablets Apple sells.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPad Air
 
 ![Apple's iPad Air 4 in a variety of colors](https://www.lifewire.com/thmb/eaBiHxIcF9bF6XV6nQeTHPy21-w=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/iPadAir4-41a20704198f40a78c3d05dda053402b.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The iPad Air is currently in its fifth generation, released in 2022\. The iPad Air 5 is the first non-Pro model to include Apple's M1 chip, which means it's just as fast as the larger offerings.
 
@@ -40,47 +52,25 @@ thumbnail: https://www.lifewire.com/thmb/xkt0DUXPWr8nLHHHBRvPj8QdwwQ=/400x300/fi
  The fift-generation iPad Air supports USB-C, so you can use USB-C storage devices and chargers.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## iPad Mini
 
 ![Apple's iPad Mini 5](https://www.lifewire.com/thmb/iuFU7eUa45wcD6hv7edo6i1kr3U=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Ipadmini5-7462d4ec5b354d5582bf1a976eca5216.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The newest iPad Mini is the sixth generation of the small-sized Apple tablet. The Mini is the choice for people who want a smaller, more portable tablet.
 
  Its screen is 8.3 inches, which is smaller than the ones on other models. But it's compatible with the Apple Pencil and packs a powerful A15 Bionic chip with a 16-core Neural Engine. The Mini is similar to the larger tablet; the only significant difference is its size.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## iPad
 
 ![Apple's 8th generation iPad](https://www.lifewire.com/thmb/HU6JVTI8btoiWGjZNpBQZKltzVI=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/iPad8-b0d7bf0618d44b2e861ed8b33839e9bc.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="150" height="125" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The 2022 model is the tenth version of the iPad. Apple aimed this less-featured iPad toward casual tablet users and educators. The current 10.2-inch model supports the first-generation Apple Pencil as well as the Magic Keyboard Folio.
 
  It carries an A14 Bionic processor, promises up to 10 hours of battery life from its 32.4 watt-hour cell battery, and has seen a huge camera upgrade over its predecessor, with an 8 MP rear camera and a 12 MP Ultra-Wide set up in the front.
@@ -91,14 +81,11 @@ thumbnail: https://www.lifewire.com/thmb/xkt0DUXPWr8nLHHHBRvPj8QdwwQ=/400x300/fi
 
 [What Is the Newest iPhone? (2024)](https://www.lifewire.com/what-is-the-newest-iphone-6746797)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -107,4 +94,17 @@ thumbnail: https://www.lifewire.com/thmb/xkt0DUXPWr8nLHHHBRvPj8QdwwQ=/400x300/fi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/updated-multi-resolution-adjustment-suite/"><u>[Updated] Multi-Resolution Adjustment Suite</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/efficient-snap-catch-strategies/"><u>Efficient Snap Catch Strategies</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-install-lenovo-t430-drivers-on-your-pc-running-windows-1187-step-by-step-instructions/"><u>How to Install Lenovo T430 Drivers on Your PC Running Windows 11/8/7 - Step-by-Step Instructions</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-7-plus-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 7 Plus to other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-transfer-your-powertoys-settings-to-a-new-pc/"><u>How to Transfer Your PowerToys Settings to a New PC</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-unleash-pro-quality-videos-top-free-online-video-enhancement-tools/"><u>In 2024, Unleash Pro-Quality Videos Top Free Online Video Enhancement Tools</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/is-blizzards-battlenet-currently-unavailable-or-just-your-connection/"><u>Is Blizzard's Battle.net Currently Unavailable... Or Just Your Connection?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-detection-errors-for-additional-displays-on-your-apple-computer/"><u>Resolving Detection Errors for Additional Displays on Your Apple Computer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/sneak-peek-into-the-future-price-insights-launch-date-and-key-features-of-the-new-samsung-galaxy-z-flip-6/"><u>Sneak Peek Into the Future: Price Insights, Launch Date & Key Features of the New Samsung Galaxy Z Flip 6</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-resolving-playstation-tvs-issues-with-paramountplus-streaming/"><u>Troubleshooting Guide: Resolving PlayStation TV's Issues with Paramount+ Streaming</u></a></li>
+</ul></div>
 

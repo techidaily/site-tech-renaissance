@@ -1,7 +1,7 @@
 ---
 title: DIY Solutions for Broken or Absent Keys on a Laptop Keyboard
-date: 2024-09-04T01:12:07.143Z
-updated: 2024-09-05T01:12:07.143Z
+date: 2024-12-03T06:38:31.169Z
+updated: 2024-12-04T18:53:51.119Z
 categories:
   - BestProducts
 description: This Article Describes DIY Solutions for Broken or Absent Keys on a Laptop Keyboard
@@ -23,6 +23,10 @@ of 09
 ## [Duolingo](https://www.duolingo.com/)
 
 ![French to English question on Duolingo ](https://www.lifewire.com/thmb/zVo694n9zb4iakeebKxxNmCcWJY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/duolingo-7cd8ccfed52b425aa098f2ec2bb9f9d6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  What We Like
 
@@ -80,21 +84,13 @@ of 09
 of 09
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [Memrise](https://www.memrise.com/)
 
 ![Memrise free language learning courses](https://www.lifewire.com/thmb/2wtAxiwxjUbfdOEZAsiDcyewFRI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/memrise-language-learning-courses-8fae9d27bfc04c5ea1a30b86a3e02ef0.png)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  What We Like
 
 * Speak with an AI-powered language tutor.
@@ -127,6 +123,10 @@ of 09
 
 ![StudyStack Kazakh language learning flashcards](https://www.lifewire.com/thmb/r3Flgq3_9nYQG2CHSelmZfZac9s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/studystack-kazakh-flashcards-824ce43a596749ba86a4691b64aae137.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  What We Like
 
 * Community-created flashcards.
@@ -148,15 +148,13 @@ of 09
 
 of 09
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [123TeachMe](https://www.123teachme.com/)
 
 ![123 Teach Me Spanish lessons for work](https://www.lifewire.com/thmb/EOA6d6D6lu-JlmXCDrz4sdwjZ4Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/123-teach-me-spanish-lessons-42f28b242cf0445db745d76528e8fe63.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  What We Like
 
@@ -216,12 +214,6 @@ of 09
 
 ![A list of the most popular language learning lessons at FSI Language Courses](https://www.lifewire.com/thmb/kxllpzsA_C08VvqBNw7T74kIMvI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/fsi-language-courses-9fffc26e481d40d3b6bee51bad0678ce.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  What We Like
 
 * Courses were used by the U.S. government for training.
@@ -244,16 +236,14 @@ of 09
 
 of 09
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [LearnALanguage.com](https://www.learnalanguage.com/)
 
 ![learnalanguage options](https://www.lifewire.com/thmb/cIoZT0R5D-qf8EFyzsJL_7YeZMg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/learnalanguage-8b3ef3cadcbb48198b1b0554ab06f9b6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  What We Like
 
 * Some lessons are offbeat and fun.
@@ -278,21 +268,13 @@ of 09
 of 09
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [MIT OpenCourseWare](https://ocw.mit.edu/search/?d=Global%20Languages&s=department%5Fcourse%5Fnumbers.sort%5Fcoursenum)
 
 ![MIT OpenCourseWare Chinese language learning lessons](https://www.lifewire.com/thmb/1VIFfqh6uBPyhYGR2uICnmwq6fQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mitopencourseware-0fec61fb314f4ab895bcbb79a1ac119e.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  What We Like
 
 * Broader range of language-related courses.
@@ -333,8 +315,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -342,4 +322,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-essential-tools-photo-music-capture-software-review-for-2024/"><u>[New] Essential Tools Photo-Music Capture Software Review for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-noshadowedit-advanced-background-shadow-elimination/"><u>[Updated] NoShadowEdit Advanced Background Shadow Elimination</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-disabled-lock-screen-timeout-windows/"><u>Addressing Disabled Lock Screen Timeout Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/connecting-apple-wireless-earbuds-to-your-nintendo-gaming-system/"><u>Connecting Apple Wireless Earbuds to Your Nintendo Gaming System</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-latest-tcls-expanded-range-of-q-and-s-class-smart-televisions-with-new-models/"><u>Discover the Latest: TCL's Expanded Range of Q and S Class Smart Televisions with New Models</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-install-hp-officejet-5740-drivers-for-windows-11-windows-10-and-windows-8-users/"><u>Easy Install HP OfficeJet 5740 Drivers for Windows 11, Windows 10 & Windows 8 Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-cite-chatgpt/"><u>How to Cite ChatGPT</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-xr-to-other-iphone-11-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone XR to other iPhone 11 devices? | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-best-of-both-worlds-youtubes-vr-gems/"><u>In 2024, Best of Both Worlds YouTube’s VR Gems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-clear-desktop-instructions-for-windows-recycle-bin-auto-empty/"><u>Master Clear Desktop: Instructions for Windows Recycle Bin Auto-Empty</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-googles-text-conversion-service-a-detailed-walkthrough-for-2024/"><u>Mastering Google's Text Conversion Service A Detailed Walkthrough for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-tips-for-getting-windows-10-search-back-on-track/"><u>Top Tips for Getting Windows 10 Search Back on Track</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-dts-virtual-x-surround-sound-experience/"><u>Understanding DTS Virtual X Surround Sound Experience</u></a></li>
+</ul></div>
 

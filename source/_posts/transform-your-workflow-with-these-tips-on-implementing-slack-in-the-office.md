@@ -1,7 +1,7 @@
 ---
 title: Transform Your Workflow with These Tips on Implementing Slack in the Office
-date: 2024-08-30T14:50:59.772Z
-updated: 2024-08-31T14:50:59.772Z
+date: 2024-11-28T00:03:59.175Z
+updated: 2024-12-04T19:04:22.198Z
 categories:
   - BestProducts
 description: This Article Describes Transform Your Workflow with These Tips on Implementing Slack in the Office
@@ -10,6 +10,11 @@ thumbnail: https://www.lifewire.com/thmb/Ehond1txv0QgvjRyNjurnl0jnEM=/400x300/fi
 ---
 
 ## Transform Your Workflow with These Tips on Implementing Slack in the Office
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * Go to Slack.com, select**Get Started** , and follow the prompts to set up a Slack Workspace and assemble a team.
@@ -17,6 +22,10 @@ thumbnail: https://www.lifewire.com/thmb/Ehond1txv0QgvjRyNjurnl0jnEM=/400x300/fi
 * To send messages, select**New Message** , add a name or group of names, type your message, and select**Send Now** .
 
  This article explains how to set up a[Slack](https://www.lifewire.com/what-is-slack-4685683) workspace and perform functions like assembling a team, creating channels, adding users, sending messages, placing calls, and more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Set up a Slack Workspace for Your Team
 
@@ -43,12 +52,14 @@ thumbnail: https://www.lifewire.com/thmb/Ehond1txv0QgvjRyNjurnl0jnEM=/400x300/fi
 7. Enter the email addresses for each of the people on your team, then select**Add Teammates** .  
 ![A screenshot of adding team members on Slack.](https://www.lifewire.com/thmb/X3Nin30NpTJEikc-gxozsgq0I9g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/start7-615c9290e67b4a27806e5a3a0bf070a2.JPG)  
  You will be able to add more teammates later on if you don't get everyone on this step.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Your Slack channel has been set up at this point. Select**See Your Channel in Slack** to start using it.  
 ![A screenshot of Slack.](https://www.lifewire.com/thmb/AlJ4Lk_uAFtjCpQMd4xOt-JNg_8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/start8-d2ade54cf6d443f18fb61d4739ed2d17.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Assemble a Team in Slack
 
  Once you have created your workspace, you still have a handful of tasks to complete before Slack sets you loose. You'll need to finish assembling your team, create a welcome message, send your first message, and finalize some important settings.
@@ -58,6 +69,11 @@ thumbnail: https://www.lifewire.com/thmb/Ehond1txv0QgvjRyNjurnl0jnEM=/400x300/fi
 2. Select**Choose a greeting** , then select a default greeting for your team.  
 ![A screenshot of setting up Slack.](https://www.lifewire.com/thmb/S6sJoEpmQrrIZug-I7QMd0L_VgA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/setupteam2-2ab60b288cb3441c95a5f3c038f168fa.JPG)
 3. Edit the greeting if you want to, then select**Save** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![A screenshot of creating a greeting on Slack.](https://www.lifewire.com/thmb/Da2PSxCc5XVFPzjIvmQOq2kl6Yc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/setupteam3-ceead3e96e694329acbe79b437d042f7.JPG)
 4. Select**Start using Slack for the #your-channel-name project** .  
 ![A screenshot of Slack.](https://www.lifewire.com/thmb/WxJs8k2SWkLHBNYCig6BQY_esHk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/startusing-6eae99795f0c46f9bb6e7138a46436d4.jpg)
@@ -68,19 +84,10 @@ thumbnail: https://www.lifewire.com/thmb/Ehond1txv0QgvjRyNjurnl0jnEM=/400x300/fi
 7. Enter your name, choose a password that you will use to access Slack, then select**Next** .  
 ![A screenshot of finalizing a Slack team.](https://www.lifewire.com/thmb/3PtapeD_Fw0R4oTdGDHuM5_7NdY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/setupteam5-a5d1b18c2bd04c4f9f130e67acc7cc39.JPG)
 8. Change your workspace name or URL if you want, or just select**Finish** if you're satisfied.  
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![A screenshot of setting up a Slack team.](https://www.lifewire.com/thmb/x4weyNdeqaSeM84LGRAdPO_EoLg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/setupteam6-e3b0543b3ed049068af74d026e720d36.JPG)
 9. Your Slack workspace is ready, and your team is all set up. You can add more team members if you like, or just start using your workspace to coordinate with your team.  
 ![A screenshot of Slack setup.](https://www.lifewire.com/thmb/9aHShK3HwCYU4U1sICXzr2Qi3ng=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/setupfinal-716709e5b3014af58f89904663fa88d6.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Create Channels and Add Users in Slack
 
  You created one channel during the initial setup process, but additional channels can really help your team focus on specific projects. This is really useful if you have a large team, since you can restrict channels to just the people who really need the information, but it's still a good idea to use this organizational tool even if you have a smaller team.
@@ -88,28 +95,21 @@ thumbnail: https://www.lifewire.com/thmb/Ehond1txv0QgvjRyNjurnl0jnEM=/400x300/fi
 1. Select the**+** located to the right of the main Channels heading.  
 ![A screenshot of Slack.](https://www.lifewire.com/thmb/nEjqjxeimvwaK6wHAWnyhrgi1KY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/newchannel1-6fc4851e0ccd41efa8d676f6068e1ae8.JPG)
 2. Select**Create a channel** in the drop down menu.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![A screenshot of adding a channel in Slack.](https://www.lifewire.com/thmb/JyoRU_QxUl_wFg8shCSZzJfEuQ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/newchannel2-1abf1d5c6d4b42beb5a062e3c52d4c23.JPG)
 3. Enter a name and description for your channel, then select**Create** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![A screenshot of creating a channel in Slack.](https://www.lifewire.com/thmb/vMWT4GOEZfgKtPRcKBHJhOaeDyk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/newchannel3-8b2c9cb8b08041929787fc8f30df81bb.JPG)  
  Select the**Make private** slider if you want to control who can join the channel. With this option off, anyone can read and add themselves to the channel. Private channels are noted with a lock icon to the left of their name in your Channels list. Open channels will have a hashtag in that spot.
 4. Enter the names of the people you want in the group, and select**Done** , or select**Skip for now** to add people later.  
 ![A screenshot of adding people to a channel on Slack.](https://www.lifewire.com/thmb/NjGuIPbSvy9_31iy26divSY2l1g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/newchannel4-e695011a85304823bffeb9f5fe1fe968.JPG)  
  To add people later, select the channel, then select**Add People** .
+
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. Your channel is now ready to use.  
 ![A screenshot of a new channel in Slack.](https://www.lifewire.com/thmb/Qfsi8ziO8BTEdzsMQUaxBMz4jAY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/newchannel5-26edbc89e139419285e33988bfe3f9b9.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Send Direct Messages in Slack
 
  In Slack, every message that isn't sent within a channel is considered a direct message. You can send messages to anyone on your team, or create a group direct message with multiple team members to fill everyone in at the same time.
@@ -117,25 +117,21 @@ thumbnail: https://www.lifewire.com/thmb/Ehond1txv0QgvjRyNjurnl0jnEM=/400x300/fi
 1. Select the name of the person you want to send a direct message.  
 ![A screenshot of Slack.](https://www.lifewire.com/thmb/-3tiV8OXpM_NTsQXNYQYU6vajj8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dm1-f08ed771a7ed4bb18c1b7cb73a4c14e6.JPG)
 2. Type your message into the text field, then press**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![A DM in Slack.](https://www.lifewire.com/thmb/aU8Y68_hi2i8HtQyg_WUI3BL4Lc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dm2-9f2a72fa70f24a2cabb12135aa852a5f.JPG)
 3. To add emojis, select the**smiley face** below the text box, then select one or more emojis.  
 ![A screenshot of emojis in Slack.](https://www.lifewire.com/thmb/FHo-Uc8Skae8BaAF5wHPABRlvTo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dm3-e32526e8c4cd41d9b5ff0f743e125dad.JPG)  
  You can even[create custom Slack emojis](https://www.lifewire.com/how-to-create-custom-slack-emojis-4771679) for your workspace.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. To send a document, select the**paperclip** icon, then select a file from your computer.  
 ![A screeshot of adding a file in a Slack DM.](https://www.lifewire.com/thmb/B3tZHRaGCMhTnJC1Xbv9tFxbNJA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dm4-14265f13d6e34501bef4547c5bc755fa.JPG)
 5. Enter a description for your file, then select**Upload** .  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![A screenshot of uploading a file in Slack.](https://www.lifewire.com/thmb/TOHZLgcMZp8S7nx1T5x7LFbfSBs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dm5-469b044d6a02454eb51f851ae4fbdbd5.JPG)  
  When uploading a file to a direct message or channel, it will automatically be shared to the relevant users.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Send a Group Direct Message in Slack
 
  Group direct messages are a lot like direct messages, but they allow you to talk to a specific set of people without creating a special channel. It's faster and neater than making a channel, and ideal for situations where you need to provide some important information to specific team members or quickly collaborate on something that doesn't really warrant a channel. You can also place voice and video calls through group direct messages.
@@ -143,9 +139,6 @@ thumbnail: https://www.lifewire.com/thmb/Ehond1txv0QgvjRyNjurnl0jnEM=/400x300/fi
 1. Select the**+** next to the Direct messages section heading.  
 ![A screenshot of Slack.](https://www.lifewire.com/thmb/eQfe9J2Ba4RAvcPFJ4frCB_dcLw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/gdm1-bc42dbe8904144ed883bcbff84f03d34.JPG)
 2. Select the people you want to add to the group direct message, then select**Go** .  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![A screenshot of creating a group DM in Slack.](https://www.lifewire.com/thmb/3oaz249VWc5bCDkBj1fiWJodYjk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/gdm2-19066c2217cd455b9c6bf7981353c614.JPG)
 3. The group direct message functions exactly like your one-on-one direct messages. You can return to this group direct message at any time by selecting it in the menu.  
 ![A screenshot of a group direct message in Slack.](https://www.lifewire.com/thmb/6NqqDDgkRfQVN7l4PLyRcOZBzk4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/gdm3-14ee09ca6e2940ffb1bfa35ee2d2d220.JPG)
@@ -159,9 +152,6 @@ thumbnail: https://www.lifewire.com/thmb/Ehond1txv0QgvjRyNjurnl0jnEM=/400x300/fi
 1. To call a single team member, open your direct message with that team member, then select the**Call** icon.  
 ![A screenshot of a DM in Slack.](https://www.lifewire.com/thmb/ST9v9JEZ2kgOVJBq9jSUYzzzlGE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dm6-9570fe1fc4844de281afeb0c54d0420c.JPG)
 2. The call will open in another window and connect as soon as the other person answers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![A screenshot of a Slack call.](https://www.lifewire.com/thmb/Jmm8n052-ATpuJSJohNR-DRlPMg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/call2-40eb2d0fdb45466d944dae0966af056c.JPG)  
  Use the icons at the bottom of the call to mute your mic, toggle your video on and off, share your screen, send emoji reactions, and hang up, from left to right. The gear icon in the upper left provides an Options menu, and the silhouette with the + icon allows you to add people to the call.
 3. To place a group call, open a channel or group direct message, then select the**call** icon.  
@@ -175,36 +165,19 @@ thumbnail: https://www.lifewire.com/thmb/Ehond1txv0QgvjRyNjurnl0jnEM=/400x300/fi
 1. Select your workspace name in the upper left corner of the page.  
 ![A screenshot of Slack.](https://www.lifewire.com/thmb/rJApmADJg5R7dfHouQeiX_CMLEc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/hide1-8367c7b798904d4f9e95941bbef68d15.JPG)
 2. Select**preferences** .  
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![A screenshot of Slack preferences.](https://www.lifewire.com/thmb/WOv7IGT1QkRU_yuGnhBAiPUsjwU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/hide2-f53eb57f85fe42808e0d762feef702b9.JPG)
 3. Select**Sidebar** .  
 ![A screenshot of Slack sidebar preferences.](https://www.lifewire.com/thmb/ukAdjP7Y9hPjLCAdpNdIzLWyIWs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/hide3-600f01d4b8c44ab7b5698053aca41f5b.JPG)
 4. Select the radial next to**unread conversations only** , or**unread conversations plus your starred section** .  
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![A screenshot of Slack with hidden channels.](https://www.lifewire.com/thmb/NzeUyFXp04_auQ-pnx9f8OgGwL0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/hide4-9f1ffc90916640fe88aab7444c6b8094.JPG)
 5. If you prefer to mute just a single channel or conversation at a time, just right-click that channel, then select**mute channel** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
-![A screenshot of muting a channel in Slack.](https://www.lifewire.com/thmb/J6GCX7xrD0S44ySgxSFGf9zINaE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/hide5-ef89e21b02fd4fdfb2633467c277d0b8.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![A screenshot of muting a channel in Slack.](https://www.lifewire.com/thmb/J6GCX7xrD0S44ySgxSFGf9zINaE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/hide5-ef89e21b02fd4fdfb2633467c277d0b8.JPG)
+
 ## Slack Privacy Settings
 
  If you're using Slack for business purposes, it's a good idea to avoid saying anything you wouldn't normally say in the office in front of your boss. That isn't because your boss can use Slack to snoop on you, but there is a chance that the head of your workspace might be able to export your direct messages and read them.
@@ -229,9 +202,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![A screenshot of hiding a URL in Slack.](https://www.lifewire.com/thmb/JNWdTvFDMZSXmg7SkcN7Bm_q5jA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/url2-490fa0483a424a1d9c458218d5060923.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
  If you have a paid plan, as the administrator, you can also adjust global message and file retention and deletion settings from this page.
 
 ## What Are Slack Integrations?
@@ -243,37 +213,33 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 1. Select**Apps** in the main Slack menu on the left side of the screen.  
 ![A screenshot of Slack.](https://www.lifewire.com/thmb/alqIXO9LJI6RzmLSk_-ghFrxwcw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/int1-3214215dd21a418384ca2ea26984d7c1.JPG)
 2. Locate an app you want to integrate with Slack, then select**Add** .  
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![A screenshot of Slack apps.](https://www.lifewire.com/thmb/0Xx7-IXg4ZZLO5y8yzzLCEFbx-w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/int2-081d5960e89444b2b32d8939432126e5.JPG)
 3. Select**Add to Slack** .  
 ![A screenshot of a Slack app.](https://www.lifewire.com/thmb/zS4-of4fTCB6DaM3P87Sk3Qeb7Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/int3-06cdd2f2c5794ab7bd3eb347d2478827.JPG)
 4. Continue with the on-screen prompts. In this case, select**Add X Integration** .  
+
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![A screenshot of adding an app to Slack.](https://www.lifewire.com/thmb/9Y4QCgcK-UyqRwny2GdJgNXzuoE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/int4-095e4977fde44f25b017373ff5489e3c.JPG)
 5. If requested, authorize Slack to access your account with the app you are trying to integrate.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![A screenshot of integrating Twitter with Slack.](https://www.lifewire.com/thmb/koUdxJ-TH65tqDc1bW56BTFRHw8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/int5-666c3338e13f44d4820ae3b3aeeb5297.JPG)
 6. Adjust the settings to your liking, then select**Save Settings** . The app is now integrated with your Slack workspace.  
 ![A screenshot of integrating an app with Slack.](https://www.lifewire.com/thmb/MlTz9qmFiTdrThZ6dwuQB4Eu5MU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/int6-3841fa9a02e54312ada37ede92cb2970.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ## Slack Notifications, Themes, and Other Preferences
 
  Slack makes it easy to adjust a variety of user preferences, including when you receive notifications, themes, and more. To access these powerful settings, select your workspace name in the upper left corner, then select**Preferences** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Notifications
 
@@ -287,25 +253,16 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  Notification options also allow you to choose how desktop push notifications appear, and whether or not to send a ping to your mobile device via the Slack app if you aren't at your desktop.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Theme
 
  If you want to[adjust your Slack theme](https://www.lifewire.com/change-customize-slack-themes-4582482) , just select**Themes** or**Messages & media** in the preferences menu. Selecting Themes opens a basic menu that allows you to choose between Slack's dark and light themes. If your eyes have trouble with bright, white websites, the dark theme is great.
 
  Continue scrolling, and you'll find that Slack has a number of other themes that switch up the way the app looks and feels. You can also customize your theme and share it with others if you're feeling creative.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Messages & Media
 
  Select**Messages & media** , and you'll have even greater control over the way different elements of the site are rendered. These options allow you to choose whether user icons are displayed, how messages appear, whether full or display names are shown, and more.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ## Slack Communication Tools
 
  Paid Slack teams can use advanced communication tools like Slack Huddles. Huddles are audio conversations that anyone in a channel can join. You can also start a huddle from a direct message and even share your screen with other participants.
@@ -334,8 +291,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -343,4 +298,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-calculating-clickers-contribution-to-youtube-earnings/"><u>[New] 2024 Approved Calculating Clickers' Contribution to YouTube Earnings</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-micro-movie-moments-actors-in-audio-arts/"><u>[New] 2024 Approved Micro Movie Moments Actors in Audio Arts</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-a-straightforward-path-to-iphone-screen-capture-for-2024/"><u>[New] A Straightforward Path to iPhone Screen Capture for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-detailed-review-the-essence-of-hero4-black/"><u>[New] In 2024, Detailed Review The Essence of Hero4 Black</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-insta-story-hack-for-stealthy-tech-users-for-2024/"><u>[New] Insta Story Hack for Stealthy Tech Users for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-mastering-borders-on-instagrams-short-films-for-2024/"><u>[New] Mastering Borders on Instagram's Short Films for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-tips-to-develop-captivating-vlogs-a-scriptwriting-approach-for-2024/"><u>[New] Tips to Develop Captivating Vlogs A Scriptwriting Approach for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-guide-to-selecting-the-perfect-4k-camera-lens/"><u>[Updated] Guide to Selecting the Perfect 4K Camera Lens</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-comprehensive-strategy-to-obtain-microsoft-student-savings-deals/"><u>A Comprehensive Strategy to Obtain Microsoft Student Savings Deals</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-instructions-for-connecting-a-new-receiver-to-your-logitech-bluetooth-mouse/"><u>Easy Instructions for Connecting a New Receiver to Your Logitech Bluetooth Mouse</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-iphone-14-pro-max-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My iPhone 14 Pro Max After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/innovative-4-app-solutions-to-simplify-your-home-painting-endeavors/"><u>Innovative 4 App Solutions to Simplify Your Home Painting Endeavors</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-12-complimentary-applications-for-endless-movie-streaming-enjoyment/"><u>Top 12 Complimentary Applications for Endless Movie Streaming Enjoyment</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-configuring-finder-preferences-for-organized-folder-management/"><u>Ultimate Guide: Configuring Finder Preferences for Organized Folder Management</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722864838423-unlock-cross-platform-access-to-icloud-photos-for-iphone-laptop-and-smartphones/"><u>Unlock Cross-Platform Access to iCloud Photos: For iPhone, Laptop & Smartphones</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-the-secrets-estimated-price-tech-insights-and-leak-speculations-on-the-future-of-samsung-galaxy-z-fold-7/"><u>Unlocking the Secrets: Estimated Price, Tech Insights & Leak Speculations on the Future of Samsung Galaxy Z Fold 7</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/verifying-true-dolby-atmos-quality-can-you-trust-it/"><u>Verifying True Dolby Atmos Quality: Can You Trust It?</u></a></li>
+</ul></div>
 

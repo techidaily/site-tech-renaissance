@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Tech News: Apple's Next Move with New Dual OLED iPad Pro Models and a Redesigned 12.9-Inch Air Set Release - Insights From ZDNet"
-date: 2024-11-19T16:00:05.930Z
-updated: 2024-11-25T16:00:16.070Z
+date: 2024-11-29T04:06:32.000Z
+updated: 2024-12-05T05:54:14.542Z
 tags:
   - apple
 categories:
@@ -25,7 +25,7 @@ Apple/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPad Pro
@@ -55,7 +55,7 @@ Pricing is still up in the air, according to Kuo. If the price of the new 10.9-i
 Shipments of the new iPad Pros will range from 6 to 8 million units in 2024, Kuo forecasts. The shipments will be slightly less than those of the existing Pro models, due to their higher prices and to possible cannibalization from the 12.9-inch iPad Air.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPad Air
@@ -63,7 +63,7 @@ Shipments of the new iPad Pros will range from 6 to 8 million units in 2024, Kuo
 Speaking of the [iPad Air](https://www.zdnet.com/article/apple-ipad-air-fifth-generation-review/), two new versions of this model are slated for mass production in the first quarter of 2024, according to Kuo. The 12.9-inch Air is a brand-new model. Though it will stick with LED rather than move to mini-LED, it will use an Oxide backplane (the same as the current mini-LED iPad Pro). The 10.9-inch iPad Air will use an a-Si (amorphous silicon) backplane. Oxide backplanes provide better display performance than a-Si backplanes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPad Mini
@@ -73,7 +73,7 @@ Kuo didn't provide any concrete details on the 2024 [iPad mini](https://www.zdne
 **Also: [The best small tablets you can buy](https://www.zdnet.com/article/best-small-tablet/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPad
@@ -122,24 +122,20 @@ One hiccup is that the global tablet market has seen better days, with [third-qu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-tips-for-incorporating-songs-in-instagram-stories-withwithout/"><u>[Updated] Tips for Incorporating Songs in Instagram Stories (With/Without)</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-mastering-instagram-fcpxs-guide-to-vertical-video-editing/"><u>2024 Approved Mastering Instagram FCPX's Guide to Vertical Video Editing</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-monitor-matters-how-to-opt-for-the-best-visual-experience-with-4k-displays/"><u>2024 Approved Monitor Matters How to Opt for the Best Visual Experience with 4K Displays</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/all-about-macos-15-sequoia-when-to-expect-its-debut-remarkable-functionality-and-recent-developments-explained/"><u>All About MacOS 15 'Sequoia': When to Expect Its Debut, Remarkable Functionality & Recent Developments Explained</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/can-you-successfully-operate-multiple-channels-on-youtube/"><u>Can You Successfully Operate Multiple Channels On YouTube?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/connect-fubotv-to-fire-tv-stick-a-comprehensive-walkthrough/"><u>Connect FuboTV to Fire TV Stick - A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/deciphering-the-practice-of-tagging-an-in-depth-explanation/"><u>Deciphering the Practice of Tagging - An In-Depth Explanation</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722886637634-hottest-apple-watch-savings-dont-miss-out/"><u>Hottest Apple Watch Savings: Don't Miss Out</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-13-location-by-number-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone 13 Location by Number | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-mastering-personalized-youtube-channel-urls-simple-steps-guide/"><u>In 2024, Mastering Personalized YouTube Channel URLs Simple Steps Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/leading-17-utilities-for-streamlined-picture-edits-for-2024/"><u>Leading 17 Utilities for Streamlined Picture Edits for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722882140453-mastering-the-cmd-interface-across-windows-versions-a-step-by-step-guide/"><u>Mastering the CMD Interface Across Windows Versions – A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigate-through-nightmares-comprehensive-fixes-for-phase0exception-stop-error/"><u>Navigate Through Nightmares: Comprehensive Fixes for Phase0Exception STOP Error</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/securing-your-videos-on-facebook-pc-plus-android-methods-for-2024/"><u>Securing Your Videos on Facebook PC + Android Methods for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-retrieving-deleted-texts-across-all-smartphones/"><u>Step-by-Step Guide: Retrieving Deleted Texts Across All Smartphones</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-wiping-out-your-tiktok-user-profile-once-and-for-all/"><u>Step-by-Step Instructions: Wiping Out Your TikTok User Profile Once and For All</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-movierulz-kodi-add-on-tutorial-for-unlimited-streaming-of-top-cinema-hits/"><u>Step-by-Step MovieRulz Kodi Add-On Tutorial for Unlimited Streaming of Top Cinema Hits</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/the-ultimate-guide-to-8-invaluable-sound-effects-from-the-gaming-realm-for-2024/"><u>The Ultimate Guide to 8 Invaluable Sound Effects From the Gaming Realm for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/top-5-web-video-recorders/"><u>Top 5 Web Video Recorders</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-how-does-vidma-stack-up-as-a-screen-recorder/"><u>[New] How Does Vidma Stack Up as a Screen Recorder?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-gentle-silence-how-to-fade-out-music-in-adobe-editing/"><u>[New] In 2024, Gentle Silence How to Fade Out Music In Adobe Editing</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ath-to-profit-deciphering-vids-on-dm-and-yo-for-2024/"><u>[New] Path to Profit Deciphering Vids on Dm and Yo for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-primes-peak-performers-highest-tweets-and-viewing-numbers-for-2024/"><u>[New] Prime’s Peak Performers Highest Tweets & Viewing Numbers for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-best-videography-tools-for-ios-devices/"><u>[Updated] 2024 Approved Best Videography Tools for iOS Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-users-guide-to-toggling-off-sticky-keys-functionality-on-windows-systems/"><u>A User's Guide to Toggling Off Sticky Keys Functionality on Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/dealing-with-filehistoryfaults-in-windows-os/"><u>Dealing with FileHistoryFaults in Windows OS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-toms-tech-reviews-a-comprehensive-guide-on-hardware-insights/"><u>Exploring Tom's Tech Reviews: A Comprehensive Guide on Hardware Insights</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pivot-past-moments-an-android-video-reversal-tutorial-for-2024/"><u>Pivot Past Moments An Android Video Reversal Tutorial for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quest-3-lite-rumors-preview-of-speculated-pricing-release-date-and-hardware-specs/"><u>Quest 3 Lite Rumors: Preview of Speculated Pricing, Release Date, and Hardware Specs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/restoring-functionality-solve-the-problem-of-unresponsive-subtitles-on-amazon-prime-streaming/"><u>Restoring Functionality: Solve the Problem of Unresponsive Subtitles on Amazon Prime Streaming</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ing-your-youtube-profitability-monetization-auditing-guide-for-2024/"><u>Securing Your YouTube Profitability Monetization Auditing Guide for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-evolution-and-impact-of-ai-on-the-android-platforms/"><u>The Evolution and Impact of AI on the Android Platforms</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-reviving-an-unresponsive-roku-screen/"><u>The Ultimate Guide to Reviving an Unresponsive Roku Screen</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-latest-gadgets-with-toms-hardware-insights/"><u>Unveiling the Latest Gadgets with Tom's Hardware Insights</u></a></li>
 </ul></div>
 

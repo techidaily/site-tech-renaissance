@@ -1,7 +1,7 @@
 ---
 title: "How to Upgrade to iOS N18: Installation Guide & Eligible iPhones | Latest Update Covered by ZDNet"
-date: 2024-11-23T16:24:33.129Z
-updated: 2024-11-25T07:13:12.409Z
+date: 2024-11-30T23:34:31.239Z
+updated: 2024-12-04T19:20:45.214Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,18 +109,21 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/updated-mood-matcher-auditory-selection-for-videos/"><u>[Updated] Mood Matcher Auditory Selection for Videos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-premium-platforms-for-virtual-shows/"><u>[Updated] Premium Platforms for Virtual Shows</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/2024s-elite-lineup-of-high-quality-in-ceiling-speakers-reviewed/"><u>2024'S Elite Lineup of High-Quality In-Ceiling Speakers Reviewed</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-lava-blaze-2-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Lava Blaze 2 Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-paving-the-path-to-online-success-youtubes-keyword-guide/"><u>In 2024, Paving the Path to Online Success YouTube's Keyword Guide</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-the-challenge-guaranteed-fixes-when-itunes-fails-to-identify-your-iphone-on-windows-10/"><u>Overcoming the Challenge: Guaranteed Fixes When iTunes Fails to Identify Your iPhone on Windows 10</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-accessing-instagram-stories-and-posts-without-creating-an-account/"><u>Step-by-Step Guide: Accessing Instagram Stories and Posts without Creating an Account</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/the-artisans-path-to-creating-3d-luts-for-2024/"><u>The Artisan’s Path to Creating 3D LUTs for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-future-of-meta-quest-price-predictions-expected-arrival-date-and-insider-info-on-tech-specs/"><u>The Future of Meta Quest: Price Predictions, Expected Arrival Date, and Insider Info on Tech Specs</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-wellness-companion-why-fitbit-sense-rises-above-the-apple-watch/"><u>The Ultimate Wellness Companion: Why Fitbit Sense Rises Above the Apple Watch</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-4-twitter-apps-for-easily-tracking-and-engaging-in-trending-topics/"><u>Top 4 Twitter Apps for Easily Tracking and Engaging in Trending Topics</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-resolving-windows-error-0xc00n0000098-expert-tips-for-quick-fixes/"><u>Troubleshooting and Resolving Windows Error 0xC00n0000098: Expert Tips for Quick Fixes</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlocking-efficiency-a-guide-to-activating-your-file-explorers-quick-access-toolbar/"><u>Unlocking Efficiency: A Guide to Activating Your File Explorer's Quick Access Toolbar</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-elite-video-equipment-revolutionizing-podcasts/"><u>[New] 2024 Approved Elite Video Equipment Revolutionizing Podcasts</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-capturing-timeless-moments-iphones-prolonged-shots-guide/"><u>[Updated] 2024 Approved Capturing Timeless Moments IPhone’s Prolonged Shots Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-decoding-how-to-effectively-swap-photo-genders-online-a-comprehensive-approach/"><u>[Updated] In 2024, Decoding How to Effectively Swap Photo Genders Online A Comprehensive Approach</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-the-secrets-essential-tiktok-video-editing-techniques/"><u>2024 Approved Unlock the Secrets Essential TikTok Video Editing Techniques</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/boosting-your-spam-defense-a-comprehensive-guide-to-adding-emails-to-the-safe-list/"><u>Boosting Your Spam Defense: A Comprehensive Guide to Adding Emails to the Safe List</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-tutorial-access-and-extract-rar-files-using-macos/"><u>Complete Tutorial: Access and Extract RAR Files Using macOS</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-methods-for-reaching-your-pcs-system-configuration-in-windows-10/"><u>Easy Methods for Reaching Your PC's System Configuration in Windows 10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enjoy-immersive-cinema-experience-at-home-streaming-in-3d-on-fandango/"><u>Enjoy Immersive Cinema Experience at Home - Streaming in 3D on Fandango</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719163479927-get-ready-for-youtubes-mini-games-a-call-to-gamers/"><u>Get Ready for YouTube’s Mini Games: A Call to Gamers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Samsung Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722896493297-pixel-watch-releasing-soon-get-the-lowdown-on-latest-price-estimates-specs-and-release-plans/"><u>Pixel Watch Releasing Soon? Get the Lowdown on Latest Price Estimates, Specs & Release Plans!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-beginners-tutorial-on-clearing-the-cmos-for-effective-bios-management/"><u>The Beginner’s Tutorial on Clearing the CMOS for Effective BIOS Management</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-complete-guide-fixing-the-temporary-server-overload-503-error-on-your-site/"><u>The Complete Guide: Fixing the 'Temporary Server Overload' (503) Error on Your Site</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/the-ultimate-companion-for-your-gaming-setup-xbox-recorder-for-2024/"><u>The Ultimate Companion for Your Gaming Setup Xbox Recorder for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-techniques-for-stabilizing-shaky-and-flashing-screens-on-surface-devices/"><u>Troubleshooting Techniques for Stabilizing Shaky & Flashing Screens on Surface Devices</u></a></li>
+<li><a href="https://driver-download.techidaily.com/up-to-date-hl-2240-printer-driver-for-enhanced-windows-compatibility/"><u>Up-to-Date HL-2240 Printer Driver for Enhanced Windows Compatibility</u></a></li>
 </ul></div>
 

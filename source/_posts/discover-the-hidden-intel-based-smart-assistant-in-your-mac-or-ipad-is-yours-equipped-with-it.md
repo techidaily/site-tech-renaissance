@@ -1,7 +1,7 @@
 ---
 title: Discover the Hidden Intel-Based Smart Assistant in Your Mac or iPad – Is Yours Equipped with It?
-date: 2024-11-20T16:02:23.831Z
-updated: 2024-11-25T16:00:31.436Z
+date: 2024-11-30T00:37:33.734Z
+updated: 2024-12-05T04:26:07.924Z
 tags:
   - apple
 categories:
@@ -28,14 +28,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -45,7 +41,7 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -57,7 +53,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -72,6 +68,10 @@ Next, you can directly delete a control you don't need or want. With the icons i
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Add a control to an existing screen
 
 You can easily add a control to any screen that has available space. Pick a screen with some empty space at the bottom. After tapping the plus icon, tap the command for "Add a Control." Browse the screens of accessible controls until you find the one you want to add. You can also look for a specific control by name through the Search field at the top. Tap the control, and it should appear in the available space, where you can move or resize it if you wish.
@@ -81,7 +81,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -126,24 +126,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-a-jargon-primer-for-virtual-experiences/"><u>[New] In 2024, A Jargon Primer for Virtual Experiences</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-modifying-facial-gender-on-snapchatinstagramfacebook-photos/"><u>[New] In 2024, Modifying Facial Gender on Snapchat/Instagram/Facebook Photos</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-stepwise-strategies-to-perfect-youtube-trailers-by-filmora/"><u>[New] In 2024, Stepwise Strategies to Perfect YouTube Trailers by Filmora</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-creating-immersive-experiences-best-practices-for-vr-filming-top-9-for-2024/"><u>[Updated] Creating Immersive Experiences Best Practices for VR Filming (Top 9) for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovate-and-create-chrome-oss-10-best-sketches-tools/"><u>2024 Approved Innovate and Create Chrome OS's 10 Best Sketches Tools</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/asus-aura-launcher-v3-free-download-guide-and-compatibility-with-windows-11/"><u>ASUS Aura Launcher v3: Free Download Guide & Compatibility with Windows 11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/boosting-boot-velocity-on-windows-10-top-tips-and-tricks/"><u>Boosting Boot Velocity on Windows 10 - Top Tips and Tricks</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/common-logitech-mouse-malfunctions-on-windows-11-pcs-heres-how-to-get-them-working-again/"><u>Common Logitech Mouse Malfunctions on Windows 11 PCs? Here's How to Get Them Working Again</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/common-troubleshooting-tips-when-your-logitech-mouse-fails-to-work-on-windows-10/"><u>Common Troubleshooting Tips When Your Logitech Mouse Fails to Work on Windows 10</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-samsung-galaxy-a15-4g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Samsung Galaxy A15 4G Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1723808255967-discover-your-motherboard-type-with-simple-steps/"><u>Discover Your Motherboard Type with Simple Steps!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1723808305695-effortless-call-blocking-techniques-master-the-art-of-silencing-intruders-on-iphone-and-android/"><u>Effortless Call-Blocking Techniques: Master the Art of Silencing Intruders on iPhone and Android</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-appeal-of-chatgpt-to-malicious-online-entities/"><u>Exploring the Appeal of ChatGPT to Malicious Online Entities</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/feast-your-senses-15-must-try-tiktok-meal-ideas-for-2024/"><u>Feast Your Senses 15 Must-Try TikTok Meal Ideas for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1723808333512-how-to-get-help-in-windows-10-easily/"><u>How to Get Help in Windows 10. Easily</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-zte-nubia-flip-5g-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove ZTE Nubia Flip 5G Fingerprint Lock</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1723808227723-mp3ize-your-soundcloud-music-effortlessly-top-tips-and-tricks-revealed/"><u>MP3ize Your SoundCloud Music Effortlessly - Top Tips and Tricks Revealed</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1723808208828-pc-survival-tactics-a-beginners-handbook-to-jump-into-fortnite-action/"><u>PC Survival Tactics: A Beginner’s Handbook to Jump Into Fortnite Action</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-choosing-best-gaming-motherboards-in-2e3-sockets-and-chipsets-explained/"><u>Ultimate Guide to Choosing Best Gaming Motherboards in 2E3 - Sockets and Chipsets Explained</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-achieving-broadcast-excellence-from-recordings-to-livestreams-on-obs/"><u>[New] 2024 Approved Achieving Broadcast Excellence From Recordings to Livestreams on OBS</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-top-5-mac-software-for-mkv-files/"><u>[Updated] 2024 Approved Top 5 Mac Software for MKV Files</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/discover-a-sea-of-knowledge-navigating-googles-digital-book-archive/"><u>Discover a Sea of Knowledge: Navigating Google's Digital Book Archive</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722954997802-effortless-setup-with-pioneer-djs-ddj-sx2-controller-free-download-now/"><u>Effortless Setup with Pioneer DJ's DDJ-SX2 Controller - Free Download Now!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/elevate-your-vr-experience-logitech-enhances-meta-quest-2-with-cutting-edge-chorus-audio/"><u>Elevate Your VR Experience: Logitech Enhances Meta Quest 2 with Cutting-Edge Chorus Audio</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exclusive-look-sonys-latest-professional-grade-xr-headset-outshines-the-vision-pro-incorporates-two-essential-functions-for-a-comparable-apple-device/"><u>Exclusive Look: Sony's Latest Professional-Grade XR Headset Outshines the Vision Pro, Incorporates Two Essential Functions for a Comparable Apple Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-latest-innovations-in-visionos-2-revealed-at-apples-worldwide-developers-conference-the-highlights-and-questions-that-arise/"><u>Exploring the Latest Innovations in VisionOS 2 Revealed at Apple’s Worldwide Developers Conference: The Highlights and Questions That Arise</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/final-cut-pro-x-debugging-secrets-unleash-your-editing-potential/"><u>Final Cut Pro X Debugging Secrets Unleash Your Editing Potential</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-key-to-combining-linktree-and-tiktok-biographies/"><u>In 2024, The Key to Combining Linktree and TikTok Biographies</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/new-zoom-features-bring-unpredictable-surprises-to-vision-pro-headsets-an-in-depth-look/"><u>New Zoom Features Bring Unpredictable Surprises to Vision Pro Headsets: An In-Depth Look</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-a-non-functional-lenovo-keyboard-solutions-explored/"><u>Troubleshooting a Non-Functional Lenovo Keyboard: Solutions Explored</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-enhanced-in-store-trials-of-apple-vision-pro-tips-for-scheduling-your-session-zdnet-exclusives/"><u>Unlock Enhanced In-Store Trials of Apple Vision Pro - Tips for Scheduling Your Session | ZDNet Exclusives</u></a></li>
+<li><a href="https://article-files.techidaily.com/youtubes-role-in-shaping-brands-and-collaborations/"><u>YouTube's Role in Shaping Brands & Collaborations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/66qo67cu7j287zmuioqwgoukpe2vncdrkzag7jib7iobioqyso2vqsdrsknrspuglsdrr7jrsknsoitsnyqg7jye7zw07isc/"><u>모바일화 가능한 두 영상 결합 방법 - 미방전을 위해서</u></a></li>
 </ul></div>
 

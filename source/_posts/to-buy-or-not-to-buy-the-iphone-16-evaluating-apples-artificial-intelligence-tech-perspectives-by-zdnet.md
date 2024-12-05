@@ -1,7 +1,7 @@
 ---
 title: "To Buy or Not to Buy the iPhone 16: Evaluating Apple’s Artificial Intelligence Tech | Perspectives by ZDNet"
-date: 2024-11-20T16:00:07.625Z
-updated: 2024-11-25T16:00:09.997Z
+date: 2024-11-29T04:49:37.097Z
+updated: 2024-12-05T02:05:41.552Z
 tags:
   - apple
 categories:
@@ -55,10 +55,6 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Is Siri getting an Apple Intelligence makeover?
 
 Apple
@@ -76,7 +72,7 @@ The voice assistant will also be able to perform hundreds of new actions across 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's new in Apple's photo editing & search?
@@ -92,7 +88,7 @@ Apple is adding natural language photo and video search to its Photos app. This 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does systemwide AI text generation work?
@@ -131,6 +127,10 @@ When users make a Siri request that the voice assistant determines would be bett
 
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Will Apple Intelligence be processed on-device or in the cloud?
 
 Apple
@@ -148,7 +148,7 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is Apple Intelligence actually private and secure?
@@ -167,7 +167,7 @@ The company is striving to keep the AI features secure through several mechanism
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
@@ -210,15 +210,24 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/1-hassle-free-tutorial-ripping-and-streaming-dvd-films-onto-your-roku-using-mac-or-pc/"><u>1. Hassle-Free Tutorial: Ripping & Streaming DVD Films Onto Your Roku Using Mac or PC</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/autoplay-youtube-recommendations/"><u>Halt Autoplay YouTube Recommendations</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/inspecting-macbook-overheating-risks-top-strategies-to-check-and-control-temperature/"><u>Inspecting MacBook Overheating Risks: Top Strategies to Check and Control Temperature</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-windows-11s-network-settings-learn-how-to-toggle-network-discovery-onoff-effortlessly/"><u>Mastering Windows 11'S Network Settings: Learn How to Toggle Network Discovery On/Off Effortlessly</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-mssoccsndll-and-msostsdll-missing-errors-on-your-pc/"><u>Resolving 'mssoccsn.dll' And 'msosts.dll' Missing Errors on Your PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-fix-for-steelseries-arctis-7-mic-problems-a-users-handbook/"><u>Step-by-Step Fix for SteelSeries Arctis 7 Mic Problems - A User's Handbook</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/thriving-in-the-freefire-arena-with-pro-gamers-guide/"><u>Thriving in the FreeFire Arena with Pro Gamers' Guide</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-6-online-stores-to-purchase-your-next-high-performance-laptop/"><u>Top 6 Online Stores to Purchase Your Next High-Performance Laptop</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-and-fixing-the-error-message-when-msidll-is-missing-from-your-system/"><u>Understanding and Fixing the Error Message When msi.dll Is Missing From Your System</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-v30-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo V30 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-freedom-in-fun-10-excellent-offline-gaming-on-android-devices/"><u>2024 Approved Freedom in Fun 10 Excellent Offline Gaming on Android Devices</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-how-youtubes-shorts-fund-aims-to-revolutionize-content-creation/"><u>2024 Approved How YouTube's Shorts Fund Aims to Revolutionize Content Creation</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-samsung-galaxy-xcover-7-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Samsung Galaxy XCover 7 Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-realme-c51-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Realme C51 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enhancing-readability-adjusting-font-styles-in-windows-11-easily/"><u>Enhancing Readability: Adjusting Font Styles in Windows 11 Easily</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/find-the-perfect-playlist-absolutely-free-15-downloading-options/"><u>Find the Perfect Playlist, Absolutely Free: 15 Downloading Options</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138589390-9781452541129-get-to-good/"><u>Get to Good | Free Book</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-how-to-legally-view-spider-man-no-way-home-on-streaming-platforms/"><u>Guide: How to Legally View 'Spider-Man: No Way Home' On Streaming Platforms</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-update-and-set-correct-time-and-date-on-a-kindle-paperwhite-e-reader/"><u>How to Update and Set Correct Time & Date on a Kindle Paperwhite E-Reader</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Apple iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/inserting-visual-elements-a-guide-to-adding-lines-in-microsoft-word-documents/"><u>Inserting Visual Elements: A Guide to Adding Lines in Microsoft Word Documents</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-haunting-sequence-how-to-watch-conjuring-movies-chronologically/"><u>Mastering The Haunting Sequence: How To Watch ‘Conjuring’ Movies Chronologically</u></a></li>
+<li><a href="https://extra-information.techidaily.com/optimal-slow-motion-shooting-tools-iphoneandroid-devices/"><u>Optimal Slow Motion Shooting Tools iPhone/Android Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-imminent-google-gathering-uncovered-rumors-factual-updates-and-key-announcements-ahead/"><u>The Imminent Google Gathering: Uncovered Rumors, Factual Updates & Key Announcements Ahead</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-next-big-thing-discover-rumored-details-on-xiaomis-nothing-phone-3-what-to-expect/"><u>The Next Big Thing? Discover Rumored Details on Xiaomi's Nothing Phone ˈ3 – What to Expect?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-perfect-pathway-insta-to-tiktok-junction-for-2024/"><u>The Perfect Pathway Insta to TikTok Junction for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-for-fixing-the-missing-advapi32dll-error-on-your-pc/"><u>Troubleshooting Tips for Fixing The Missing advapi32.dll Error on Your PC</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-itel-p40-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Itel P40 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 

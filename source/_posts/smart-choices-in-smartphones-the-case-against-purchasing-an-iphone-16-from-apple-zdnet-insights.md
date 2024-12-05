@@ -1,7 +1,7 @@
 ---
 title: "Smart Choices in Smartphones: The Case Against Purchasing an iPhone 16 From Apple | ZDNet Insights"
-date: 2024-11-20T16:00:28.197Z
-updated: 2024-11-25T16:00:49.085Z
+date: 2024-11-28T19:52:01.056Z
+updated: 2024-12-05T02:05:37.588Z
 tags:
   - apple
 categories:
@@ -26,6 +26,10 @@ As an iPhone 14 Pro Max user, I'm not convinced that the new AI-enabled [iPhone 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Specifications
 
 | **Features**       | **iPhone 16 Pro**            | **iPhone 14 Pro**            |             |                        |         |             |
@@ -42,7 +46,7 @@ As an iPhone 14 Pro Max user, I'm not convinced that the new AI-enabled [iPhone 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## You should buy the iPhone 16 Pro if…
@@ -50,7 +54,7 @@ As an iPhone 14 Pro Max user, I'm not convinced that the new AI-enabled [iPhone 
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. You want Apple Intelligence
@@ -61,10 +65,6 @@ Apple's artificial intelligence push, aptly named Apple Intelligence, will be av
 
 To run smoothly, the Apple Intelligence features require an A17 chip or newer and at least 8GB of RAM, but the iPhone 14 Pro has the A16 chip and only 6GB of RAM. The iPhone 16 Pro features an A18 Pro chip and 8GB of RAM, making it a good device to run Apple's AI features. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. You'd like to get your hands on the bigger screen
 
 Apple has thinned out the iPhone 16 Pro's bezels to the bare minimum and stretched the Pro models' displays to 6.3 and 6.9 inches for the 16 Pro and 16 Pro Max, respectively. This gives users more screen real estate to watch videos, play games, view and edit documents, and read shared screens on video conferences.
@@ -74,7 +74,7 @@ Apple has thinned out the iPhone 16 Pro's bezels to the bare minimum and stretch
 The larger smartphone also means that the iPhone 16 Pro has a larger battery than the 14 Pro, at 3,355 mAh compared to 3,200 mAh. But even without the welcome battery upgrade, the new Pro models support faster charging than ever. The iPhone 16 Pro supports 40W wired charging and 20W of MagSafe charging, so if you find the iPhone 14 Pro's charging slow, it could be time to upgrade.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. You love taking beautiful photos
@@ -86,10 +86,6 @@ The iPhone 16 Pro features some of the best camera enhancements, including the i
 If you love taking photos with your smartphone, the camera upgrades alone may be enough to upgrade to an iPhone 16 Pro. The optical zoom is now 5x, an upgrade from the iPhone 14 Pro's 3x zoom. The iPhone 16 Pro will also feature Apple's new capture button, which lets you control the camera with gestures, like moving your finger and tapping the touch-enabled button. 
 
 [Pre-order the iPhone 16 Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-16-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## You should buy (or keep) the iPhone 14 Pro if…
 
@@ -112,6 +108,10 @@ One of the biggest reasons to hold off on an upgrade is financial. The iPhone 14
 As an iPhone 14 Pro Max user, I'm still pretty happy with how my iPhone performs, its battery life, and charging time. While USB-C charging would be convenient, I don't see myself springing for the new iPhone 16 Pro, though I may go for the iPhone 17 when it's launched.
 
 [iPhone 14 Pro (Pre-owned) $627.45 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BN95FRW9%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4691f0ff-b619-40d5-ba5e-5f03bf587b66%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -147,19 +147,20 @@ As an iPhone 14 Pro Max user, I'm still pretty happy with how my iPhone performs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-webinars-in-written-form/"><u>[New] In 2024, Webinars in Written Form</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-navigate-to-the-top-5-mac-livestream-choices/"><u>[New] Navigate to the Top 5 Mac Livestream Choices</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-comprehensive-guide-to-10-best-meme-patterns/"><u>[New] The Comprehensive Guide to #10 Best Meme Patterns</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/aumenta-e-ripristina-in-modo-impeccabile-la-qualita-dellimmagine-fino-a-10k-con-winxvideo-ai/"><u>Aumenta E Ripristina in Modo Impeccabile La Qualità Dell'immagine Fino a 10K Con Winxvideo AI</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-7-traffic-control-software/"><u>Discover the Ultimate 7 Traffic Control Software</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-list-of-complimentary-cross-border-chat-tools/"><u>Discover the Ultimate List of Complimentary Cross-Border Chat Tools</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-methods-to-add-new-programs-to-your-samsung-television/"><u>Easy Methods to Add New Programs to Your Samsung Television</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-y100a-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Vivo Y100A Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-avoid-distraction-with-firm-footage-capture/"><u>In 2024, Avoid Distraction with Firm Footage Capture</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-beginners-guide-to-simple-yet-effective-filming-gear/"><u>In 2024, Beginner's Guide to Simple, Yet Effective Filming Gear</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-top-5-realme-narzo-n53-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Realme Narzo N53 Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-linking-disneyplus-with-your-google-chromecast-for-hassle-free-viewing/"><u>Step-by-Step Tutorial: Linking Disney+ with Your Google Chromecast for Hassle-Free Viewing</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-combining-your-favorite-songs-into-one-spotify-list/"><u>The Ultimate Guide to Combining Your Favorite Songs Into One Spotify List</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-victorious-battles-against-links-enemies-defeat-a-breath-of-the-wild-lynel/"><u>Ultimate Guide to Victorious Battles Against Link's Enemies: Defeat a Breath of the Wild Lynel</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/eciphering-youtubes-monetary-mechanisms-for-2024/"><u>[New] Deciphering YouTube's Monetary Mechanisms for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/rime-recommendations-downloading-video-intros-and-templates/"><u>[New] Prime Recommendations Downloading Video Intros & Templates</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-perfecting-visual-output-incorporating-luts-into-your-ae-projects/"><u>[Updated] 2024 Approved Perfecting Visual Output Incorporating LUTs Into Your AE Projects</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-crafting-dynamic-image-ensembles-with-precision/"><u>[Updated] Crafting Dynamic Image Ensembles with Precision</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/amazon-prime-viewers-guide-disengaging-subtitle-functions-easily/"><u>Amazon Prime Viewers' Guide: Disengaging Subtitle Functions Easily</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-step-by-step-instructions-for-taking-screenshots-on-an-hp-desktop-computer/"><u>Complete Step-by-Step Instructions for Taking Screenshots on an HP Desktop Computer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722875874749-d3dx927dll-absent-heres-how-you-can-get-it-back/"><u>d3dx9_27.dll Absent? Here's How You Can Get It Back</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/decoding-the-best-file-reconstruction-tool-a-thorough-review-of-recuva-software/"><u>Decoding the Best File Reconstruction Tool: A Thorough Review of Recuva Software</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/easy-guide-to-joining-and-advancing-from-free-to-pro-with-wonderfox-dvd-video-converter/"><u>Easy Guide to Joining & Advancing From Free to Pro with WonderFox DVD Video Converter</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-the-frustrating-lag-in-your-league-of-legends-gameplay/"><u>Fixing the Frustrating Lag in Your League of Legends Gameplay</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/o-retain-video-engagement-sustained-use-of-youtubes-cc-license/"><u>How to Retain Video Engagement Sustained Use of YouTube's CC License</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-guide-to-infectious-internet-memes-gifs/"><u>In 2024, Step-by-Step Guide to Infectious Internet Memes (GIFs)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/learn-sign-language-for-absolutely-no-cost-top-16-resources-unveiled/"><u>Learn Sign Language for Absolutely No Cost: Top 16 Resources Unveiled</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/protecting-your-contact-info-the-complete-tutorial-for-keeping-phone-numbers-concealed-in-android-os/"><u>Protecting Your Contact Info: The Complete Tutorial for Keeping Phone Numbers Concealed in Android OS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-customizing-your-windows-10-taskbar-color/"><u>Step-by-Step Guide: Customizing Your Windows 10 Taskbar Color</u></a></li>
 </ul></div>
 

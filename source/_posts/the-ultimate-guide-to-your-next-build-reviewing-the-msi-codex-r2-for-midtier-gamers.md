@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Your Next Build - Reviewing the MSI Codex R2 for Midtier Gamers
-date: 2024-09-04T01:12:10.931Z
-updated: 2024-09-05T01:12:10.931Z
+date: 2024-12-03T01:29:29.024Z
+updated: 2024-12-05T04:22:11.625Z
 tags:
   - desktop
 categories:
@@ -35,6 +35,10 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
  Lastly, the new Legion systems come with a standard 32GB DDR5-5600 dual-channel RAM and 1TB[PCIe Gen4 storage](https://www.tomshardware.com/reviews/best-ssds,3891.html) . Again, upgrades shouldn’t be a problem in the future with SODIMMs presumably used for RAM, and two M.2 slots and two SATA ports available for storage.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -53,8 +57,6 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -62,11 +64,20 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-rgbs-role-in-modern-color-standards-compared-to-srgb/"><u>[New] Rgb's Role in Modern Color Standards Compared to Srgb</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-10-superior-video-text-enhancements/"><u>[Updated] 2024 Approved 10 Superior Video Text Enhancements</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-next-level-entertainment-the-rise-of-vr-applications/"><u>[Updated] Next-Level Entertainment The Rise of VR Applications</u></a></li>
+<li><a href="https://network-issues.techidaily.com/address-missing-screen-detectors/"><u>Address Missing Screen Detectors</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/beginners-journey-to-mastery-how-to-select-and-use-effective-pc-screenshots-software/"><u>Beginner's Journey to Mastery: How to Select and Use Effective PC Screenshots Software</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/comparing-streams-vimeo-versus-youtube-for-2024/"><u>Comparing Streams Vimeo Versus YouTube for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-realme-narzo-n53-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Realme Narzo N53</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-xiaomi-13t-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Xiaomi 13T</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-insights-on-fugeteks-exceptional-ft-amoji-a-superior-selfie-capture-device/"><u>Expert Insights on Fugetek's Exceptional FT-Amoji, A Superior Selfie Capture Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-can-you-legally-watch-netflix-on-a-budget/"><u>How Can You Legally Watch Netflix on a Budget?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-fix-d3dx934dll-not-found-or-missing-errors/"><u>How to Fix D3dx9_34.dll Not Found or Missing Errors</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-resolving-imovie-cuts-understanding-crop-rationale/"><u>In 2024, Resolving iMovie Cuts Understanding Crop Rationale</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/turning-off-speaking-directions-functionality-on-a-samsung-televison-unit/"><u>Turning Off Speaking Directions Functionality on a Samsung Televison Unit</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

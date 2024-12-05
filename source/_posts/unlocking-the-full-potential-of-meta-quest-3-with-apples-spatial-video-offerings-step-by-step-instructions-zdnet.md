@@ -1,7 +1,7 @@
 ---
 title: Unlocking the Full Potential of Meta Quest 3 with Apple's Spatial Video Offerings – Step-by-Step Instructions | ZDNet
-date: 2024-11-22T16:03:47.597Z
-updated: 2024-11-25T16:03:51.725Z
+date: 2024-11-29T20:04:20.104Z
+updated: 2024-12-05T02:12:28.969Z
 tags:
   - apple
 categories:
@@ -32,13 +32,25 @@ Jason Hiner/ZDNET
 
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Go to General in your iPhone Settings
 
 Go to your iPhone's Settings and select General. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Go to Software Update in Settings
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Download and install
 
@@ -50,15 +62,15 @@ Enter your passcode, if necessary, to authorize the installation of the new iOS 
 
 After installing the latest iOS update, your iPhone will restart.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQs
 
 ### When is Apple Intelligence coming out?
 
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### When was iOS 18 released?
 
@@ -67,7 +79,7 @@ Apple released the iOS 18 developer beta during WWDC 2024 in June, and the publi
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
@@ -77,10 +89,6 @@ You can always be part of the Apple Beta program to get the latest beta versions
 * Back up your device and personal information.
 * Don't download beta software, which will likely have bugs and glitches, on your everyday iPhone.
 * You should go into the experience to test new features and share feedback to improve iOS, which is why beta versions are released.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How do I install the iOS 18 beta version?
 
@@ -92,10 +100,6 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 4. Select iOS 18 Public Beta. Then you'll begin receiving automatic software updates to the latest beta version of iOS 18\. Apple currently has four beta versions of iOS: iOS 18 public beta, iOS 18 developer beta, iOS 17 public beta, and iOS 17 developer beta. These four options will soon be reduced to just the two iOS 18 variants. Once you do this, return to the previous page. If an update is available now, your iPhone will prompt you to download and install it.
 
 Screenshot: Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to download the iOS 18 developer beta?
 
@@ -112,10 +116,6 @@ If you can't see this option, go to your **Settings,** select **Privacy & Securi
 **Also: [How to use and customize your iPhone's new Control Center with iOS 18](https://www.zdnet.com/article/how-to-use-and-customize-your-iphones-new-control-center-with-ios-18/)**
 
 If you aren't already a member of the Apple Developer Program, you can sign up to become one in the app. An annual membership costs $99.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What is in iOS 18 beta 3?
 
@@ -161,19 +161,22 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-building-brands-together-a-guide-to-selecting-youtube-teams/"><u>[New] Building Brands Together A Guide to Selecting YouTube Teams</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-quick-share-your-youtube-playlist-journey/"><u>[New] In 2024, Quick Share Your YouTube Playlist Journey</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-gaming-harmonies-archive-legal-free-to-access/"><u>[Updated] In 2024, Gaming Harmonies Archive Legal, Free to Access</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-unlocking-whatsapp-wizardry-your-essential-guide/"><u>2024 Approved Unlocking WhatsApp Wizardry Your Essential Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/best-free-educational-games-for-pre-schoolers-a-list-of-9-gems/"><u>Best Free Educational Games for Pre-Schoolers - A List of 9 Gems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/boost-your-ios-snapshots-strategies-for-better-iphoneipad-photos/"><u>Boost Your iOS Snapshots: Strategies for Better iPhone/iPad Photos</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/deciding-between-iphones-and-androids-which-device-suits-you-best/"><u>Deciding Between iPhones and Androids: Which Device Suits You Best?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-from-apple-iphone-x-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID From Apple iPhone X without Password?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-android-video-enhancement-strategies/"><u>In 2024, Android Video Enhancement Strategies</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-honor-70-lite-5g-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Honor 70 Lite 5G Device</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/movavi-3gpp-m4a/"><u>Movavi: 가상 공간을 이용한 3GPP M4A 비주얼 자동화 - 무료</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigating-the-tech-landscape-a-deep-dive-into-hardware-by-toms-authority/"><u>Navigating the Tech Landscape: A Deep Dive Into Hardware by Tom's Authority</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-common-issues-what-causes-youtube-to-not-function/"><u>Understanding Common Issues: What Causes YouTube to Not Function?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlocking-gaming-excellence-4-compelling-reasons-to-choose-the-ps5-today/"><u>Unlocking Gaming Excellence: 4 Compelling Reasons to Choose the PS5 Today</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-secrets-to-effortless-obs-broadcasts-on-fb-for-2024/"><u>[New] Secrets to Effortless OBS Broadcasts on FB for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-unleashing-profitability-with-innovative-fb-animation-techniques/"><u>[New] Unleashing Profitability with Innovative FB Animation Techniques</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-high-performance-graphics-displayed-by-asus-proart/"><u>2024 Approved High-Performance Graphics Displayed by ASUS ProArt</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/5-star-picks-the-leading-10-exerceboard-software-choices-for-athletes/"><u>5 Star Picks: The Leading 10 Exerceboard Software Choices for Athletes</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/android-and-iphones-essential-apps-to-elevate-fb-likes-count-quickly-for-2024/"><u>Android & iPhone's Essential Apps to Elevate FB Likes Count Quickly for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/anticipated-launch-of-apple-watch-series-x-price-predictions-official-release-date-detailed-specifications-and-latest-buzz/"><u>Anticipated Launch of Apple Watch Series X: Price Predictions, Official Release Date, Detailed Specifications & Latest Buzz</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevating-file-extractions-with-win11-sefx-magic/"><u>Elevating File Extractions with Win11 SEFx Magic</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/emoji-essentials-exposed-10-startling-facts-you-might-miss/"><u>Emoji Essentials Exposed: 10 Startling Facts You Might Miss</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enhancing-collaborative-coding-in-microsoft-teams-using-github-copilot-techniques/"><u>Enhancing Collaborative Coding in Microsoft Teams Using GitHub Copilot Techniques</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/hulu-streaming-errors-demystified-correcting-error-code-rununk13-easily-at-home/"><u>Hulu Streaming Errors Demystified: Correcting Error Code RUNUNK13 Easily at Home</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-a-guide-to-finding-hidden-youtube-treasures/"><u>In 2024, A Guide to Finding Hidden YouTube Treasures</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-all-time-highest-chart-youtubes-premier-video-list/"><u>In 2024, All-Time Highest Chart YouTube's Premier Video List</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/innovating-virtual-reality-gaming-the-2023-update/"><u>Innovating Virtual Reality Gaming - The 2023 Update</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722896410172-new-tech-purchase-master-it-quickly-with-these-first-5-tips/"><u>New Tech Purchase? Master It Quickly With These First 5 Tips!</u></a></li>
+<li><a href="https://win11.techidaily.com/resolve-non-existent-camera-issue-in-windows-device-hub/"><u>Resolve Non-Existent Camera Issue in Windows Device Hub</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-correcting-missing-msvbvm50dll-error-messages/"><u>Step-by-Step Guide: Correcting Missing msvbvm50.dll Error Messages</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/streaming-tiktok-videos-a-step-by-step-guide-to-displaying-on-your-television/"><u>Streaming TikTok Videos: A Step-by-Step Guide to Displaying on Your Television</u></a></li>
 </ul></div>
 

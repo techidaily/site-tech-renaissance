@@ -1,7 +1,7 @@
 ---
 title: Essential Strategies for Developing Visually Stunning Applications in the Era of Apple's VisionOS - Insights
-date: 2024-11-24T16:02:40.084Z
-updated: 2024-11-25T16:02:18.651Z
+date: 2024-11-28T22:24:13.675Z
+updated: 2024-12-04T16:27:57.533Z
 tags:
   - apple
 categories:
@@ -45,7 +45,7 @@ Let's dig in, shall we?
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  1\. Gradual immersion
@@ -55,6 +55,10 @@ Apple recommends you gradually introduce users to your app, starting with a wind
 That way, they're not suddenly dropped into a whole new world, but they can slowly get their "VR legs" and feel they have some level of control over their immersion level, at least until they get comfortable with their environment. 
 
 **Also: [Two breakthroughs made 2023 tech's most innovative year in over a decade](https://www.zdnet.com/article/two-breakthroughs-made-2023-techs-most-innovative-year-in-over-a-decade/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  2\. Identify your key moments
 
@@ -66,10 +70,6 @@ Apple uses its Photos app as an example. A key moment for Apple's Photos app mig
 
 In a writing app, VRification might involve going from a typical windowed user interface for most writing to a focus mode that shuts out the outside world and lets your users concentrate, by providing a calming background and perhaps some calming music. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  3\. Adjust UI elements to accommodate the new environment
 
 Some UI elements translate directly from iPadOS to VisionOS, but others aren't an exact match. Apple has a [spatial design guidelines video](https://developer.apple.com/videos/play/wwdc2023/10072/) that's well worth watching to come up to speed. 
@@ -79,7 +79,7 @@ Some UI elements translate directly from iPadOS to VisionOS, but others aren't a
 One area to pay particular attention to is when you use hover effects. When you hover over a button in a flat UI, you just need to see some highlighting. But when you hover over -- or in front of -- something in VR space, you've got the entire room to work in. So pay attention to how things look and feel, and try to avoid inducing vertigo by rapidly moving objects and buttons. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  4\. Utilize grid systems where appropriate
@@ -89,7 +89,7 @@ Apple says that apps designed with the [iPadOS grid system](https://developer.ap
 But as you deal with more 3D-centric objects, grid systems break down. Once you're moving in 3D space, be careful about where you place your controls. For example, it can be somewhat confusing if you have nearby controls for a faraway object. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  5\. Incorporate sound design strategically
@@ -102,15 +102,15 @@ To that end, even if you're building a non-entertainment app that would normally
 
 And while you're at it, allow your users to control the sound, setting its volume and even turning it off. Give the sound cues that may be helpful, but give users control over how those cues are applied. Here's [a great resource from Apple on sound design](https://developer.apple.com/wwdc23/10271). 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  6\. Focus on key details, but don't overwhelm
 
 Apple recommends always rendering a ground plane so users feel grounded. If you're putting someone inside a theatre, provide key details (like a stage, lighting, and curtains), but don't get carried away trying to reproduce the cola stains in the carpet or that unique crackle that comes from walking over scraps of petrified popcorn. If you're rendering an outdoor landscape, show slowly moving clouds but keep things subtle. 
 
 Of course, if you're putting people into a game where the whole idea is to overwhelm them, then go for it. But Apple is much more interested in using VR and AR as an augmented tool, rather than purely as a gaming platform. And in that context, it's probably wise to avoid making your customers barf up their lunches inside their $3,500+ head-mounted [uncanny valley](https://en.wikipedia.org/wiki/Uncanny%5Fvalley)in a can. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  7\. Use the VisionOS simulator
 
@@ -159,20 +159,22 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-top-5-emulated-game-boy-advance-games-a-comprehensive-guide-for-pc-users/"><u>[New] 2024 Approved Top 5 Emulated Game Boy Advance Games - A Comprehensive Guide for PC Users</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-transform-hidden-facebook-videos-with-these-12-must-try-steps/"><u>[Updated] 2024 Approved Transform Hidden Facebook Videos with These 12 Must-Try Steps</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-maximize-your-youtube-viewing-download-icons-via-online-and-os-specific-methods/"><u>[Updated] In 2024, Maximize Your YouTube Viewing Download Icons via Online & OS-Specific Methods</u></a></li>
-<li><a href="https://win-dash.techidaily.com/free-update-available-downloading-the-most-recent-drivers-for-hp-officejet-pro-9015/"><u>Free Update Available: Downloading the Most Recent Drivers for HP OfficeJet Pro 9015</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-vivo-y100t-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Vivo Y100t Through Google Earth?</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/maximizing-revenue-a-youtube-channelers-guide/"><u>Maximizing Revenue A YouTube Channeler’s Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/merge-skype-and-zoom-easy-techniques-for-effective-communication-for-2024/"><u>Merge Skype and Zoom Easy Techniques for Effective Communication for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/navigate-the-journey-to-macos-ventura/"><u>Navigate the Journey to macOS Ventura</u></a></li>
-<li><a href="https://games-able.techidaily.com/pushing-gaming-limits-with-razers-superior-basilisk-v3-pro/"><u>Pushing Gaming Limits with Razer's Superior Basilisk V3 Pro</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/quickly-customize-your-browser-settings-for-a-google-homepage-setup/"><u>Quickly Customize Your Browser Settings for a Google Homepage Setup</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolved-optimizing-your-computers-performance-when-it-keeps-lagging-or-hanging/"><u>Resolved: Optimizing Your Computer's Performance When It Keeps Lagging or Hanging</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/seamless-direct3d-extraction-quick-effective-methods/"><u>Seamless Direct3D Extraction - Quick, Effective Methods!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/share-and-enjoy-a-step-by-step-tutorial-for-gamers-using-steam/"><u>Share & Enjoy: A Step-by-Step Tutorial for Gamers Using Steam</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/simple-steps-capturing-screenshots-quickly-on-your-windows-8-pc/"><u>Simple Steps: Capturing Screenshots Quickly on Your Windows 8 PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/simple-steps-switch-your-pcs-network-from-public-to-private-on-windows-11/"><u>Simple Steps: Switch Your PC's Network From Public to Private on Windows 11</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-plating-perfection-30-unique-and-appealing-recipe-channels/"><u>[New] 2024 Approved Plating Perfection 30 Unique and Appealing Recipe Channels</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-stealthy-sound-suppression-techniques-for-fade-out/"><u>[New] Stealthy Sound Suppression Techniques for Fade-Out</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-advanced-techniques-for-quieter-video-calls-on-skype/"><u>[Updated] In 2024, Advanced Techniques for Quieter Video Calls on Skype</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-how-to-craft-top-quality-youtube-thumbnails-fast/"><u>[Updated] In 2024, How To Craft Top Quality YouTube Thumbnails Fast</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-nokia-g310-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-unveils-groundbreaking-software-enhancements-during-wwdc-exclusive-breakdown-on-how-they-will-transform-your-experience-cnet-news/"><u>Apple Unveils Groundbreaking Software Enhancements During WWDC - Exclusive Breakdown on How They Will Transform Your Experience | CNET News</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apples-projected-inexpensive-vision-pro-glasses-still-seem-more-myth-than-reality-an-analysis-by-zdnet/"><u>Apple's Projected Inexpensive Vision Pro Glasses Still Seem More Myth Than Reality – An Analysis by ZDNET</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-dialogue-with-chatgpt-and-macsynchrony/"><u>Enhancing Dialogue with ChatGPT & MacSynchrony</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/escape-monotonous-workdays-with-the-metaverse-shaping-tomorrows-careers-on-the-horizon-zdnet/"><u>Escape Monotonous Workdays with the Metaverse: Shaping Tomorrow's Careers on the Horizon - ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/experience-reduced-ar-tech-worry-with-these-budget-friendly-xr-glasses-zdnets-inside-look/"><u>Experience Reduced AR Tech Worry with These Budget-Friendly XR Glasses - ZDNET's Inside Look</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/experience-vast-visuals-with-affordable-400-xr-glasses-ultimate-for-gaming-and-movie-viewing-insights-from-zdnet/"><u>Experience Vast Visuals with Affordable $400 XR Glasses: Ultimate for Gaming & Movie Viewing - Insights From ZDNet</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-13-pro-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone 13 Pro</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tech-giants-join-forces-in-xr-space-anticipation-builds-as-apple-prepares-to-unveil-its-own-headset-according-to-zdnet-reports/"><u>Tech Giants Join Forces in XR Space: Anticipation Builds as Apple Prepares to Unveil Its Own Headset, According to ZDNet Reports</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/the-best-free-video-rotators-for-mov-files/"><u>The Best Free Video Rotators for MOV Files</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-highlights-from-ces-2024-expert-insights-and-editor-favorites-zdnet-review/"><u>Top Highlights From CES 2024: Expert Insights and Editor Favorites - ZDNet Review</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unexplained-vision-professional-system-failures-essential-steps-and-solutions-insights-from-zdnet/"><u>Unexplained Vision Professional System Failures: Essential Steps & Solutions - Insights From ZDNet</u></a></li>
 </ul></div>
 

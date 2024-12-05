@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Walkthrough of Google Maps Live View for Effortless Directions
-date: 2024-09-04T01:12:42.625Z
-updated: 2024-09-05T01:12:42.625Z
+date: 2024-12-03T01:41:27.039Z
+updated: 2024-12-05T01:27:13.155Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate Walkthrough of Google Maps Live View for Effortless Directions
@@ -21,28 +21,28 @@ thumbnail: https://www.lifewire.com/thmb/ESpSACPfCBA4Zo7eo-0xJ_bvDyw=/400x300/fi
 
  With iOS 18, Apple added and changed more features in the firmware that runs your iPhone than it had in years. Here are all the details about the 2024 update for iOS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iOS 18 Release Date
 
  Apple debuted iOS 18 at the keynote for the[Worldwide Developers Conference](https://www.lifewire.com/wwdc-5101136) on June 10, 2024\. Its release date is in the fall, probably the second half of September.
 
  The newest iOS version will install automatically if your phone is compatible. Another way to get iOS 18 this fall is to[update your phone from the Settings app](https://www.lifewire.com/upgrade-ios-on-iphone-connecting-itunes-1999188) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iOS 18 Price
 
  Like all iPhone operating system updates, iOS 18 will be completely free.
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="125" height="125" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## iOS 18 Features
 
  The iPhone gains new and updated features in the switch from iOS 17 to iOS 18\. Here's a quick summary of some of the biggest updates:
@@ -64,11 +64,9 @@ thumbnail: https://www.lifewire.com/thmb/ESpSACPfCBA4Zo7eo-0xJ_bvDyw=/400x300/fi
 ![A graphic highlighting features of iOS 18](https://www.lifewire.com/thmb/fzZqBI6_sSQn3W3psKGf3B2tmwI=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iOS-Features-Splash-c8491141e26847a192bd19bb3fe88d8f.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Apple, Inc.
 
 **Maps** : Maps in iOS 18 includes topographical data and trail information, along with the ability to customize your route. The app also includes trail data for US national parks.
@@ -87,12 +85,6 @@ Apple, Inc.
 
  Apple's most touted addition to iOS 18 is[Apple Intelligence](https://www.lifewire.com/what-is-apple-gpt-7571221) , an AI-driven platform that works with Siri and integrates with ChatGPT for both text and image generation. Apple Intelligence is only available on the iPhone 15 Pro and later, however.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## iOS 18 Supported Devices
 
  While Apple Intelligence is only available on the latest Apple devices, iOS 18 will generally work with much older devices. Here are the compatible iPhones:
@@ -109,11 +101,9 @@ Apple, Inc.
  The[iPhone 16](https://www.lifewire.com/iphone-16-news-and-rumors-7111749) will also be compatible when it comes out in the fall. Generally speaking, if you have an XR or later, you can use iOS 18.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Latest News About iOS 18
 
  You can [get more smartphone news from Lifewire](https://www.lifewire.com/mobile-phone-news-4796390) . Here are some stories about iOS 18 and AI specifically:
@@ -128,14 +118,11 @@ Apple, Inc.
 
 [This Year, Siri Will Get ChatGPT-Like Tricks, Only More Private](https://www.lifewire.com/siri-ai-more-private-8549559)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -144,4 +131,22 @@ Apple, Inc.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-insider-guide-to-gopro-wizardry/"><u>[New] 2024 Approved Insider Guide to GoPro Wizardry</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-enhancing-visuals-using-chroma-key-effectively/"><u>[New] In 2024, Enhancing Visuals Using Chroma Key Effectively</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-pixel-perfect-windows-recorder-free/"><u>[Updated] In 2024, Pixel Perfect Windows Recorder, Free</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-visionary-filmmaker-blending-clips-and-chords/"><u>[Updated] In 2024, Visionary Filmmaker Blending Clips & Chords</u></a></li>
+<li><a href="https://fox-place.techidaily.com/1-professionelle-strategien-zur-wiederherstellung-geloschter-kontakte-in-microsoft-outlook/"><u>1. Professionelle Strategien Zur Wiederherstellung Gelöschter Kontakte in Microsoft Outlook</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/address-mobile-devices-stalled-fb-videos-for-2024/"><u>Address Mobile Devices Stalled FB Videos for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/cutting-edge-cinematography-with-lgs-innovative-31mu97-b-display-for-2024/"><u>Cutting Edge Cinematography with LG's Innovative 31MU97-B Display for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-strategies-to-correct-a-504-timed-out-error-on-websites/"><u>Expert Strategies to Correct a 504 Timed Out Error on Websites</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/getting-to-the-core-ways-to-extract-your-sim-card-without-special-equipment/"><u>Getting to the Core: Ways to Extract Your SIM Card Without Special Equipment</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolve-mingwm10dll-not-detected-effective-solutions-explained/"><u>Resolve Mingwm10.dll Not Detected: Effective Solutions Explained</u></a></li>
+<li><a href="https://extra-information.techidaily.com/scriptwriting-a-comprerancial-guide-to-slug-lines/"><u>Scriptwriting A Comprerancial Guide to Slug Lines</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-viewing-guide-seeing-the-conjuring-series-from-start-to-finish/"><u>The Ultimate Viewing Guide: Seeing 'The Conjuring' Series From Start to Finish</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-upcoming-google-pixel-buds-pro-2-expected-price-tag-launch-date-and-tech-details-revealed/"><u>The Upcoming Google Pixel Buds Pro 2: Expected Price Tag, Launch Date, and Tech Details Revealed!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upcoming-apple-watch-series-8-key-information-on-when-it-drops-whats-inside-how-much-youll-pay-and-fresh-news/"><u>Upcoming Apple Watch Series 8 - Key Information on When It Drops, What's Inside, How Much You'll Pay, and Fresh News</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/what-are-memes-unpacking-digital-cultures-favorite-joke-format/"><u>What Are Memes? Unpacking Digital Culture's Favorite Joke Format</u></a></li>
+</ul></div>
 

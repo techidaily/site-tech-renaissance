@@ -1,7 +1,7 @@
 ---
 title: Decoding the Great CrowdStrike-Windows Crisis of '24 - Insights From History | ZDNET
-date: 2024-11-18T16:01:50.071Z
-updated: 2024-11-25T16:02:45.187Z
+date: 2024-11-28T20:30:46.123Z
+updated: 2024-12-05T10:04:14.846Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What happened?
@@ -55,7 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -95,7 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -125,7 +125,7 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -176,20 +176,17 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-silent-to-clear-the-ultimate-guide-to-professional-audio-recording/"><u>[New] 2024 Approved Silent to Clear The Ultimate Guide to Professional Audio Recording</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/convert-photos-on-ios-efficiently-from-jpegpng-to-pdf-for-2024/"><u>Convert Photos on IOS Efficiently From JPEG/PNG to PDF for 2024</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/innovative-techniques-and-applications-for-observing-computer-behavior/"><u>Innovative Techniques and Applications for Observing Computer Behavior</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/aging-youtubes-cc-for-high-quality-video-creation-for-2024/"><u>Leveraging YouTube’s CC for High-Quality Video Creation for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/overcoming-challenges-with-uninstalled-pending-windows-updates/"><u>Overcoming Challenges with Uninstalled Pending Windows Updates</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/personalized-comfort-by-allowing-customization-according-to-individual-needs-and-preferences-which-is-essential-in-creating-an-inclusive-user-experience-for1/"><u>Personalized Comfort by Allowing Customization According to Individual Needs and Preferences Which Is Essential in Creating an Inclusive User Experience for Users with Disabilities</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/quick-guide-disabling-sticky-keys-feature-in-windows-10-with-visual-aids/"><u>Quick Guide: Disabling Sticky Keys Feature in Windows 10 with Visual Aids</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/quickly-get-operating-system-version-windows/"><u>Quickly Get Operating System Version (Windows)</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/rapid-fix-simple-steps-for-revamping-your-facebook-password-asap/"><u>Rapid Fix: Simple Steps for Revamping Your Facebook Password ASAP</u></a></li>
-<li><a href="https://facebook.techidaily.com/securing-privacy-by-severing-all-ties-to-facebook/"><u>Securing Privacy by Severing All Ties to Facebook</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-fortnites-persistent-sound-problems-lags-glitches-and-more/"><u>Solving Fortnite's Persistent Sound Problems: Lags, Glitches, and More</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-the-ssl-version-or-cipher-mismatch-error-in-windows/"><u>Solving the SSL Version or Cipher Mismatch Error in Windows</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/transform-your-sedentary-lifestyle-with-cubefit-terramat-an-in-depth-analysis/"><u>Transform Your Sedentary Lifestyle with CubeFit TerraMat – An In-Depth Analysis</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-solving-starfield-cannot-startup-on-steam-or-xbox/"><u>Troubleshooting Tips: Solving 'Starfield Cannot Startup on Steam or Xbox'</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-take-your-videos-to-the-next-level-picture-in-picture-in-final-cut-pro-for-2024/"><u>Updated Take Your Videos to the Next Level Picture-in-Picture in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-best-performers-the-leading-8k-camera-lineup/"><u>[New] In 2024, Best Performers The Leading 8K Camera Lineup</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-sony-xperia-xz-superior-a-4k-mobile-experience-analysis/"><u>[New] Sony Xperia XZ Superior A 4K Mobile Experience Analysis</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-breakdown-of-youtubes-money-making-mechanisms-cpm/"><u>[Updated] 2024 Approved Breakdown of YouTube’s Money-Making Mechanisms (CPM)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-spectacular-racing-sims-number-one-to-five/"><u>[Updated] In 2024, Spectacular Racing Sims Number One to Five</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-ranking-the-leading-free-srt-translation-tools/"><u>[Updated] Ranking the Leading Free SRT Translation Tools</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/76537589-updated-your-treasure-trove-of-free-marketing-50plus-youtube-ads-ready-to-go/"><u>[Updated] Your Treasure Trove of Free Marketing 50+ YouTube Ads Ready to Go</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-tecno-camon-20-premier-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-razers-new-releases-and-announcements-from-ces-2023-full-report-engadget/"><u>Exploring Razer's New Releases and Announcements From CES 2023 - Full Report | Engadget</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/get-your-hands-on-the-new-apple-vision-pro-faster-shipping-awaits/"><u>Get Your Hands on the New Apple Vision Pro: Faster Shipping Awaits!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-unlisted-headphone-devices-during-audio-playback-on-windows-10/"><u>How to Fix Unlisted Headphone Devices During Audio Playback on Windows 10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/meta-innovates-with-exclusive-virtual-reality-tech-that-outshines-apple-vision-pro-insights-from-zdnet/"><u>Meta Innovates with Exclusive Virtual Reality Tech That Outshines Apple Vision Pro - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-impact-of-extended-reality-spatial-computing-and-digital-twin-technology-on-enterprise-user-experience-insights-from-zdnet/"><u>The Impact of Extended Reality, Spatial Computing and Digital Twin Technology on Enterprise User Experience: Insights From ZDNet</u></a></li>
 </ul></div>
 

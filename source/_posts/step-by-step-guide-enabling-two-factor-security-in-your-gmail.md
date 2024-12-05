@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Enabling Two-Factor Security in Your Gmail"
-date: 2024-08-30T14:50:50.421Z
-updated: 2024-08-31T14:50:50.421Z
+date: 2024-11-30T06:02:08.187Z
+updated: 2024-12-04T17:29:17.645Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Guide: Enabling Two-Factor Security in Your Gmail"
@@ -22,9 +22,18 @@ thumbnail: https://thmb.techidaily.com/7951d32be8f36c4eb18b2a1ca73585423cfb1568f
  If these temporary internet files and other useless items stick around for too long, they can not only cause programs to hang and become unresponsive and sluggish but also take up valuable hard drive space.  
 ![A list of junk files analyzed by CCleaner](https://www.lifewire.com/thmb/fcJdBbMmX-n1fr28E8-tAXm60bc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ccleaner-f6f275a2e09b4fa8821c232149546fd7.png)
 2. [Remove unwanted programs](https://www.lifewire.com/windows-uninstaller-to-remove-unused-programs-3506955) that are just lingering on your computer. These are not only taking up hard drive space but they might [open automatically with Windows](https://www.lifewire.com/change-startup-programs-windows-11-6823499) and be running in the background all the time, sucking away at the processor and memory.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  There are several[free program uninstaller apps](https://www.lifewire.com/free-uninstaller-programs-2625188) that make doing this really easy.
 3. Also considered junk files are anything you simply don't use or want anymore. So, delete those old video files that you downloaded a year ago and[back up all the data you rarely access](https://www.lifewire.com/ways-to-back-up-your-data-2640426) , like vacation pictures.
 4. [Clean up your desktop](https://www.lifewire.com/cleaning-and-speeding-up-windows-desktop-3506952) if it's cluttered. Making File Explorer load those icons and folders each time the desktop refreshes can put unnecessary load on your hardware, which takes away[system resources](https://www.lifewire.com/what-is-a-system-resource-2626016) that could be used elsewhere.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Defrag Your Hard Drive
 
@@ -35,8 +44,9 @@ thumbnail: https://thmb.techidaily.com/7951d32be8f36c4eb18b2a1ca73585423cfb1568f
 [How Often Should You Defrag Your Computer?](https://www.lifewire.com/how-often-should-you-defrag-3976922)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Remove Viruses, Malware, Spyware, Adware, etc
 
  Every Windows computer is vulnerable to malware, but your risk of infection is low if you regularly use anti-malware programs.
@@ -47,9 +57,6 @@ thumbnail: https://thmb.techidaily.com/7951d32be8f36c4eb18b2a1ca73585423cfb1568f
 
 [How to Tell if You Have a Computer Virus on Windows](https://www.lifewire.com/how-to-tell-if-your-computer-has-a-virus-4590200)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix Windows System Errors
 
  Installing and uninstalling software and Windows updates, rebooting your computer during an update, forcing your PC to shut down immediately, and other things can cause errors within the Windows system files.
@@ -57,17 +64,15 @@ thumbnail: https://thmb.techidaily.com/7951d32be8f36c4eb18b2a1ca73585423cfb1568f
  These errors can cause things to lock up, halt program installs and updates, and generally prevent a smooth computer experience. Speeding up a computer this way is easy; just[repair the system files](https://www.lifewire.com/how-to-use-sfc-scannow-to-repair-windows-system-files-2626161) .
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Adjust Visual Effects
 
  Windows provides numerous interesting visual effects including animated windows and fading menus. These extras are usually fine to have turned on, but they're only worth it if you have enough system memory.
 
  If this is why your PC is slow, you can[turn off these visual effects to speed up the computer in seconds](https://www.lifewire.com/adjust-visual-effects-to-improve-speed-3506867) .
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Clean, Replace, or Upgrade Your Hardware
 
  While software problems often cause a slow computer, you can only get so far before you need to address the hardware.
@@ -80,9 +85,6 @@ thumbnail: https://thmb.techidaily.com/7951d32be8f36c4eb18b2a1ca73585423cfb1568f
 
  You can use a[free system information utility](https://www.lifewire.com/free-system-information-tools-2625772) to see the specs of your hardware. These tools are helpful if you're planning on replacing hardware so that you don't have to[open your computer](https://www.lifewire.com/how-to-open-a-desktop-computer-case-2624589) just to check on things. For example, if you want more[RAM](https://www.lifewire.com/what-is-random-access-memory-ram-2618159) , you can use a system info tool to confirm the type and amount you already have so you know what to buy.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Reinstall the Entire Windows Operating System
 
  The most drastic solution to speeding up your computer is to delete all the software and files, remove the whole Windows OS, and start from scratch. You can do this with a[clean install of Windows](https://www.lifewire.com/how-to-clean-install-windows-2624904) .
@@ -92,8 +94,9 @@ thumbnail: https://thmb.techidaily.com/7951d32be8f36c4eb18b2a1ca73585423cfb1568f
  Reinstalling Windows is a permanent solution. Back up your files and make note of any programs you will want to reinstall.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why Is My Computer So Slow?
 
  Over time, as you download files, browse the internet, remove programs, leave applications open, and do pretty much anything else on your computer, it slowly collects junk and causes behind-the-scenes problems that aren't always so easy to catch at first.
@@ -135,8 +138,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +145,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-cognitive-conclaves-educational-yt-powerhouses/"><u>[New] 2024 Approved Cognitive Conclaves Educational YT Powerhouses</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-unlocking-a-new-vocal-identity-in-free-fire-gaming/"><u>[New] The Ultimate Guide to Unlocking a New Vocal Identity in Free Fire Gaming</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-ps4-to-video-complete-obs-broadcasting-guide/"><u>[Updated] PS4 to Video Complete OBS Broadcasting Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/accurate-age-reflection-in-just-a-minute/"><u>Accurate Age Reflection in Just a Minute</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discovering-the-viewers-of-your-google-documents-a-comprehensive-guide/"><u>Discovering the Viewers of Your Google Documents: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-for-effortless-movement-teleport-command-explained-for-minecrafters/"><u>Expert Tips for Effortless Movement: Teleport Command Explained for Minecrafters</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-economics-of-successful-podcasting/"><u>In 2024, The Economics of Successful Podcasting</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Oppo F23 5G? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/mastering-the-art-of-secretive-insta-story-consumption/"><u>Mastering the Art of Secretive Insta Story Consumption</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/maximize-productivity-using-the-split-screen-feature-on-macbook-air-easily/"><u>Maximize Productivity: Using the Split Screen Feature on MacBook Air Easily</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-comprehensive-guide-to-17-must-have-graphic-software-for-creatives/"><u>The Comprehensive Guide to 17 Must-Have Graphic Software for Creatives</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-checklist-5-key-points-to-think-about-for-game-console-purchase/"><u>The Ultimate Checklist: 5 Key Points to Think About for Game Console Purchase</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-hack-for-changing-your-phones-real-location-without-moving/"><u>The Ultimate Hack for Changing Your Phone’s Real Location Without Moving</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-m2-solid-state-drives-comprehensive-testing-and-reviews-by-pros-techradar/"><u>Top-Rated M.2 Solid State Drives : Comprehensive Testing & Reviews by Pros - TechRadar</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-samsung-smart-tv-applications-in-2n39/"><u>Top-Rated Samsung Smart TV Applications in 2N39</u></a></li>
+</ul></div>
 

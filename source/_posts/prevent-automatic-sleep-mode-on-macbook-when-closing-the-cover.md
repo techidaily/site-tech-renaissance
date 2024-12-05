@@ -1,7 +1,7 @@
 ---
 title: Prevent Automatic Sleep Mode on MacBook When Closing the Cover
-date: 2024-09-04T01:12:09.055Z
-updated: 2024-09-05T01:12:09.055Z
+date: 2024-11-27T21:46:20.102Z
+updated: 2024-12-04T23:14:26.782Z
 categories:
   - BestProducts
 description: This Article Describes Prevent Automatic Sleep Mode on MacBook When Closing the Cover
@@ -19,6 +19,10 @@ M3 MacBook Air.
 Apple
 
  The newest MacBook Air machines don't differ drastically from the M2 models, but they're faster and more capable overall—and still offer the ultra-thin build users know and love.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## MacBook Air (M3): 13-inch and 15-inch Models
 
@@ -49,11 +53,9 @@ Apple
 * **Ports and charging** : Two Thunderbolt / USB 4 ports, HDMI, SDXC card slot
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## MacBook Pro (M3 Pro): 14-inch and 16-inch Models
 
  The M3 Pro chip is available in both the 14-inch and 16-inch MacBook Pro. This chip increases processing power, storage, and memory.
@@ -67,12 +69,6 @@ Apple
 * **Display** : 14.2- and 16.2-inch Retina XDR display with True Tone technology
 * **Ports and charging** : Three Thunderbolt / USB 4 ports, HDMI, SDXC card slot
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## MacBook Pro (M3 Max): 14-inch and 16-inch Models
 
  M3 Max MacBook Pros differ ever so slightly from the M3 Pro models. The main distinctions are the processor, storage, and memory options, which are significantly higher.
@@ -87,11 +83,9 @@ Apple
 * **Ports and charging** : Three Thunderbolt / USB 4 ports, HDMI, SDXC card slot
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 15-inch MacBook Air With M2 Chip
 
  The[M2 MacBook Air](https://www.lifewire.com/the-m2-macbook-air-is-perfect-for-almost-everyone-5525617) packs a lot of power into a slim, not-as-light-as-the-smaller laptop. The 15-inch Air could be mistaken for the 14-inch Pro at a quick glance.  
@@ -106,11 +100,9 @@ Apple
 * **Ports and charging** : Two Thunderbolt / USB 4 ports
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## MacBook Pro (M2): 14-inch and 16-inch Models
 
  Prior to the 15-inch Air, the latest additions to the MacBook family were the M2 updates to the 14-inch and 16-inch MacBook Pro models. They jumped over the M2 and have either the M2 Pro or M2 Max.
@@ -124,12 +116,6 @@ Apple
 * **Displays** : 14.2- and 16.2-inch Retina display with True Tone technology
 * **Ports and charging** : 3 Thunderbolt 4 / USB 4 ports, HDMI, SDXC card slot
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 13-inch MacBook Pro With M2 Chip
 
  The[M2 MacBook Pro](https://www.lifewire.com/apples-m2-macbook-pro-isnt-the-successor-it-should-be-5496651) is identical to the 13-inch M1 model in every way except for the chip. It even includes a Touch Bar and a headphone jack. The M2 model can be upgraded with more memory and storage, but aside from faster processing, the M1 and M2 models are the same out of the box.
@@ -149,11 +135,9 @@ Apple
 [M3 MacBook Pro: News and Price, Release Date, Specs; and More](https://www.lifewire.com/m3-macbook-pro-7979159)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Previous MacBook Models
 
  The Apple MacBook has made its presence known since 2006\. The earliest models include the original MacBook and the first versions of the MacBook Pro.
@@ -196,8 +180,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -205,4 +187,19 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/-best-adblock-apps-for-android/"><u>[New] 7 Best AdBlock Apps for Android</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-optimal-energy-packs-for-black-gopro-hero5-certified-and-imposters/"><u>[New] In 2024, Optimal Energy Packs for Black GoPro Hero5 – Certified & Imposters</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/copilot-removal-for-windows-11-users-expert-techniques-and-steps/"><u>Copilot Removal for Windows 11 Users: Expert Techniques and Steps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enhance-iphone-camera-focus-proven-fixes-for-blurry-images/"><u>Enhance iPhone Camera Focus: Proven Fixes for Blurry Images</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/facebook-password-recovery-without-the-typical-contact-details-a-step-by-step-guide/"><u>Facebook Password Recovery Without the Typical Contact Details – A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-exceptional-book-trailer-selections/"><u>In 2024, Exceptional Book Trailer Selections</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/innovators-amalgamating-photography-plus-music-into-videography/"><u>Innovators Amalgamating Photography + Music Into Videography</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Motorola Moto G Stylus (2023)? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/skys-dynamic-range-masterpieces-website-roundup/"><u>Sky's Dynamic Range Masterpieces - Website Roundup</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-saving-netflix-films-to-your-personal-computer/"><u>Step-by-Step Tutorial: Saving Netflix Films to Your Personal Computer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-laptop-into-a-powerhouse-the-ultimate-discreet-docking-station-reviewed-by-tech-expert/"><u>Transform Your Laptop Into a Powerhouse: The Ultimate Discreet Docking Station Reviewed by Tech Expert</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-vivo-v30-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Vivo V30 FRP Bypass</u></a></li>
+</ul></div>
 

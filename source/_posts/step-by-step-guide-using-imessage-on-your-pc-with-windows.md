@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Using iMessage on Your PC with Windows"
-date: 2024-11-23T16:00:51.649Z
-updated: 2024-11-25T16:00:17.729Z
+date: 2024-12-01T01:20:21.527Z
+updated: 2024-12-05T05:26:59.496Z
 tags:
   - apple
 categories:
@@ -42,6 +42,10 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to send and receive iMessages on Windows
 
 ## Use Microsoft Phone Link
@@ -62,6 +66,10 @@ Click the Start button, go to All Apps, and select Phone Link from the list. The
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Scan the QR codes
 
 A QR code should appear in the Phone Link app. Launch the camera on your iPhone and scan the code. On your iPhone, tap the link at the bottom of the camera screen to pair your devices. If you can't scan the code for any reason, click the link to continue manually without a QR code and follow those steps.
@@ -78,15 +86,15 @@ Your phone should ask if you want your PC to receive notifications from your iPh
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Run Phone Link
 
 The Phone Link welcome screen should appear on your PC and ask if you want to open the app each time you log into Windows. If you do, check the box.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Access your recent messages
 
@@ -100,14 +108,10 @@ You can also start a new conversation. To do this, select one of your displayed 
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Use Intel Unison
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Install Intel Unison
@@ -117,10 +121,6 @@ To use Intel Unison, download and install the app from [the Microsoft Store](htt
 Launch the app and click the Accept & Continue button. You'll be asked how you'd like to use Unison. In the section for "Empower your PC," click the "Add your phone" button.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Pair your phone and computer
 
@@ -146,15 +146,15 @@ At the Messages screen, click the icon for "Compose a new message." Choose the r
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Send a message
 
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -192,18 +192,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-drive-participation-with-artisanal-story-inquiries/"><u>[New] In 2024, Drive Participation with Artisanal Story Inquiries</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-iphone-tips-achieve-softened-images-in-4-easy-steps/"><u>[New] In 2024, IPhone Tips Achieve Softened Images in 4 Easy Steps</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-ultimate-7-private-film-access-tools-for-2024/"><u>[New] Ultimate 7 Private Film Access Tools for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/7-ways-to-unlock-a-locked-poco-x6-pro-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Poco X6 Pro Phone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-your-email-a-guide-to-retrieving-lost-or-forgotten-usernames/"><u>Discover Your Email: A Guide to Retrieving Lost or Forgotten Usernames</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-your-hands-on-essential-corsair-mouse-software-here/"><u>Get Your Hands on Essential Corsair Mouse Software Here!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-to-discover-your-wi-fi-credentials-within-a-windows-11-environment/"><u>Guide to Discover Your Wi-Fi Credentials Within a Windows 11 Environment</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-assessing-the-value-of-4-second-rapid-subscriptions-on-youtube/"><u>In 2024, Assessing the Value of 4-Second Rapid Subscriptions on Youtube</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/lost-your-login-info-reinstating-your-fb-account-using-alternate-methods/"><u>Lost Your Login Info? Reinstating Your FB Account Using Alternate Methods!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/online-streaming-video-editor-convert-your-m4v-files-into-swf-format-by-movavi-free-of-cost/"><u>Online Streaming Video Editor - Convert Your M4V Files Into SWF Format by Movavi, Free of Cost!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/quick-fixes-for-mss32dll-not-found-issues-on-your-pc/"><u>Quick Fixes for MSS32.DLL Not Found Issues on Your PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-7-must-have-items-for-a-perfect-summer-everyday-carry/"><u>Top 7 Must-Have Items for a Perfect Summer Everyday Carry</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-children-friendly-films-available-on-netflix/"><u>Top Children-Friendly Films Available on Netflix</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-green-canvas-essential-templates-to-enhance-your-cinematographic-journey/"><u>[New] In 2024, Green Canvas Essential Templates to Enhance Your Cinematographic Journey</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-enhanced-google-chats-essential-techniques-4-ways/"><u>[Updated] 2024 Approved Enhanced Google Chats Essential Techniques, 4 Ways</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-clearer-captures-await-with-next-gen-tracker-tech/"><u>[Updated] Clearer Captures Await with Next-Gen Tracker Tech</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-auto-enhancing-shots-with-innovative-exposure-algorithms/"><u>[Updated] In 2024, Auto-Enhancing Shots with Innovative Exposure Algorithms</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-innovative-audio-dramatic-writing/"><u>[Updated] In 2024, Innovative Audio Dramatic Writing</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/best-mp3-to-mpg-video-converters-available-at-no-cost-easy-step-by-step-guide/"><u>Best MP3-to-MPG Video Converters Available at No Cost – Easy Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/celebrate-may-4-with-acemagics-latest-release-the-mini-x-wing-inspired-gaming-machine/"><u>Celebrate May 4 with AceMagic's Latest Release: The Mini X-Wing Inspired Gaming Machine</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/chatgpt-plus-is-it-a-smart-move-explore-5-key-advantages/"><u>ChatGPT Plus: Is It a Smart Move? Explore 5 Key Advantages</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fire-stick-and-projector-connection-simple-steps-for-the-perfect-viewing-experience/"><u>Fire Stick and Projector Connection - Simple Steps For the Perfect Viewing Experience</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/o-harness-youtubes-creative-commons-in-video-making/"><u>How to Harness YouTube's Creative Commons in Video Making</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/improving-quality-the-definitive-guide-to-tweaking-display-settings-on-a-samsung-4k-series-television/"><u>Improving Quality: The Definitive Guide to Tweaking Display Settings on a Samsung 4K Series Television</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-oppo-find-x7-ultra-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Oppo Find X7 Ultra to Protect Your Individual Information</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-stolen-iphone-14-pro-in-different-conditionsin-by-drfone-ios/"><u>In 2024, How To Unlock Stolen iPhone 14 Pro In Different Conditionsin</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/leading-video-editors-a-list-of-5-industry-favorites-unveiled/"><u>Leading Video Editors: A List of 5 Industry Favorites Unveiled</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-on-implementing-effective-slack-notifications/"><u>Step-by-Step Instructions on Implementing Effective Slack Notifications</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-setting-up-fubotv-streaming-on-amazon-fire-tv-stick/"><u>Ultimate Guide: Setting Up FuboTV Streaming on Amazon Fire TV Stick</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/windows-10-customization-tips-how-to-alter-and-personalize-your-taskbar-colors/"><u>Windows 10 Customization Tips: How to Alter and Personalize Your Taskbar Colors</u></a></li>
 </ul></div>
 

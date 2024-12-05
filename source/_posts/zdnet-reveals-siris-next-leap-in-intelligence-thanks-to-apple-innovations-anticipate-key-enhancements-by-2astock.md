@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Reveals: Siri's Next Leap in Intelligence Thanks to Apple Innovations, Anticipate Key Enhancements by 2Astock"
-date: 2024-11-19T16:00:24.289Z
-updated: 2024-11-25T16:00:52.631Z
+date: 2024-11-30T19:52:00.679Z
+updated: 2024-12-05T02:43:47.392Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ The ever-evolving, rapidly changing landscape of mobile technology means that wh
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### SPECIAL FEATURE
@@ -35,7 +35,7 @@ This year, five topics will likely dominate the headlines, dictate the next indu
 And that's just the beginning, as you'll find more notable trends in the list below, all of which have already begun to take shape.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. On-device AI puts the 'smart' in smartphone
@@ -53,7 +53,7 @@ Samsung's just-released [Galaxy S24 smartphones](https://www.zdnet.com/article/e
 Qualcomm is playing a major role here as well, with its flagship [Snapdragon 8 Gen 3 chipset](https://www.zdnet.com/article/qualcomms-new-snapdragon-8-gen-3-mobile-chip-brings-generative-ai-to-smartphones/) enabling performance gains across the board on smartphones, from a 20% improvement in CPU, 30% in GPU, and 41% in NPU -- the latter of which is critical for devices to perform generative AI tasks in a power-efficient manner. Expect more flagship [Android phones](https://www.zdnet.com/article/best-android-phone/) this year -- as well as [VR and XR headsets](https://www.zdnet.com/article/best-vr-headset/) \-- to field Qualcomm's new processor, with plenty of AI-enabled capabilities in tow.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Foldables are getting better (and cheaper)
@@ -89,7 +89,7 @@ The adoption of such technology bridges a longstanding gap between MagSafe-compa
 **Also: [The best wireless chargers for iPhone and Android phones](https://www.zdnet.com/article/best-wireless-charger/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Periscope lenses push cameras to further distances
@@ -111,7 +111,7 @@ As manufacturers continue to figure out ways to shrink and fit better components
 **Also:** [**The evolution of smartphone cameras: From megapixels to AI-driven photography**](https://www.zdnet.com/article/the-evolution-of-smartphone-cameras-from-megapixels-to-ai-driven-photography/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. A new class of mobile devices
@@ -168,24 +168,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-a-swift-journey-to-using-ez-grabber-like-a-pro-for-2024/"><u>[New] A Swift Journey to Using EZ Grabber Like a Pro for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-the-art-of-capturing-content-on-vimeo/"><u>[Updated] In 2024, The Art of Capturing Content on Vimeo</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-best-shots-from-the-2022-snowboard-x-games/"><u>2024 Approved Best Shots From the 2022 Snowboard X Games</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/a-comprehensive-guide-to-electric-vehicle-chargers-comparing-level-1-2-and-3-systems/"><u>A Comprehensive Guide to Electric Vehicle Chargers: Comparing Level 1, 2 & 3 Systems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/bring-back-to-life-unlocking-steps-to-reactivate-a-shut-down-snapchat/"><u>Bring Back to Life: Unlocking Steps to Reactivate a Shut-Down Snapchat</u></a></li>
-<li><a href="https://discover-help.techidaily.com/como-comprimir-un-video-de-gran-tamano-para-whatsapp-sin-perder-la-calidad-guia-completa/"><u>Cómo Comprimir Un Video De Gran Tamaño Para WhatsApp Sin Perder La Calidad: Guía Completa</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/decoding-tags-a-deep-dive-into-assigning-identifiers-to-people-or-things/"><u>Decoding Tags: A Deep Dive Into Assigning Identifiers to People or Things</u></a></li>
-<li><a href="https://win-forum.techidaily.com/eliminate-pesky-directories-effortlessly-revo-uninstallers-power-on-windows-10-and-11/"><u>Eliminate Pesky Directories Effortlessly: Revo Uninstaller's Power on Windows 10 and 11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-sites-to-streamline-your-apartment-search-process/"><u>Essential Sites to Streamline Your Apartment Search Process</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-and-when-to-unfollow-x-formerly-twitter-users/"><u>How and When to Unfollow X (Formerly Twitter) Users</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-samsung-galaxy-a14-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Samsung Galaxy A14 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Honor X50 GT? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722991301370-mount-and-blade-ii-how-to-stop-the-troublesome-bannerlord-crashes/"><u>Mount & Blade II: How to Stop the Troublesome Bannerlord Crashes!</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-translate-any-hindi-video-into-english-with-ai/"><u>New 2024 Approved Translate Any Hindi Video Into English With AI</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-the-mfc71dll-file-not-detectedmissing-problem/"><u>Resolving the mfc71.dll File Not Detected/Missing Problem</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-the-rpcrt4dll-file-not-found-a-comprehensive-guide/"><u>Solving the 'rpcrt4.dll' File Not Found: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-your-problems-with-non-syncing-gmail-expert-tips-and-tricks/"><u>Solving Your Problems with Non-Syncing Gmail: Expert Tips & Tricks</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlock-the-secrets-of-winning-at-royal-match-strategies-revealed/"><u>Unlock the Secrets of Winning at Royal Match: Strategies Revealed</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveil-the-secrets-find-anyone-youre-searching-for-with-these-tricks-on-facebook/"><u>Unveil the Secrets: Find Anyone You're Searching For with These Tricks on Facebook</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-unveiling-the-truth-a-speedy-guide-to-spotting-phony-followers-on-instagram/"><u>[New] 2024 Approved Unveiling the Truth A Speedy Guide to Spotting Phony Followers on Instagram</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-reverse-silent-tweets-audible-video-connection/"><u>[Updated] 2024 Approved Reverse Silent Tweets Audible Video Connection</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-unveiling-the-secrets-acquiring-attractive-pexel-photos/"><u>[Updated] Unveiling the Secrets Acquiring Attractive Pexel Photos</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/anticipating-apples-revolutionary-m4-chips-integrating-ai-across-all-mac-models-release-timeline-revealed/"><u>Anticipating Apple's Revolutionary M4 Chips: Integrating AI Across All Mac Models - Release Timeline Revealed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/arrange-your-horror-marathon-the-right-way-to-experience-the-conjuring/"><u>Arrange Your Horror Marathon: The Right Way to Experience 'The Conjuring'</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/chronological-voyage-into-starfleet-lore-how-to-experience-every-star-trek-film-from-start-to-finish/"><u>Chronological Voyage Into Starfleet Lore: How to Experience Every Star Trek Film From Start to Finish</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-evaluation-top-5-ai-powered-video-creation-tools-based-on-images/"><u>Comprehensive Evaluation: Top 5 AI-Powered Video Creation Tools Based on Images</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/cookiebot-enhanced-experience/"><u>Cookiebot-Enhanced Experience</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-amazon-live-for-beginners-features-pro-tips-and-future-trends/"><u>New Amazon Live for Beginners Features, Pro Tips & Future Trends</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-windows-11-search-problems-effective-strategies-and-tips/"><u>Overcoming Windows 11 Search Problems: Effective Strategies & Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/your-guide-to-sonys-next-gen-vr-psvr2s-specs-forecasted-launch-date-and-pricing-analysis/"><u>Your Guide to Sony's Next-Gen VR – PSVR2's Specs, Forecasted Launch Date & Pricing Analysis</u></a></li>
 </ul></div>
 

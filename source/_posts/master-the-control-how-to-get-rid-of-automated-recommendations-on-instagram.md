@@ -1,7 +1,7 @@
 ---
 title: "Master the Control: How to Get Rid of Automated Recommendations on Instagram"
-date: 2024-09-04T01:12:08.190Z
-updated: 2024-09-05T01:12:08.190Z
+date: 2024-11-29T01:06:24.960Z
+updated: 2024-12-05T03:53:02.231Z
 categories:
   - BestProducts
 description: "This Article Describes Master the Control: How to Get Rid of Automated Recommendations on Instagram"
@@ -34,14 +34,16 @@ Close
 ![Deleting suggested users](https://www.lifewire.com/thmb/_jmqkwGg6oVj2G49AeyEqoSeqAM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/deletingsuggestedusers-704a8b9955ff421e87de247b58b10244.jpg)  
  If you delete every suggestion from the list, refresh the page to see more.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [ How to Unmute Someone on Instagram ](https://www.lifewire.com/unmute-on-instagram-5268136) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Stop Instagram From Suggesting Your Account to Others 
 
  Your profile might be in this same 'Suggestions for you' section on other people's Instagram accounts. While[ making your account private](https://www.lifewire.com/make-instagram-account-private-3485850) won't hide your profile from being suggested to others, there is a toggle you can turn off in your profile settings that will put an end to this.
@@ -51,27 +53,23 @@ This only works from the website, not the app.
 1. Open your profile on the Instagram website by selecting your**profile icon** in the top right corner.  
 ![The Instagram website](https://www.lifewire.com/thmb/KAVPPNqhp3x1pitWS_k3Seay9bQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/instagram-website-f8e4d8518c014bfa8a1fa642551581d4.png)
 2. Choose**Edit profile** next to your username.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![An Instagram profile](https://www.lifewire.com/thmb/ahH5pSEhN7ugpANz9PJTjfngQMA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/instagram-profile-6847349c20ef4c2381e88f5609878630.png)
 3. Scroll down and select the toggle next to**Show account suggestions on profiles** .  
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Instagram's Show account suggestions on profiles toggle disabled](https://www.lifewire.com/thmb/Me8eytYrF-V1Vd_tqDwPHG8B0po=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/instagram-disable-account-suggestions-4e8b50d5bd61413aa34f8626f723e0fb.png)
 4. Select the**Submit** button to save the changes. Now, when Instagram recommends similar accounts people might want to follow, yours is not included.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [ 13 Instagram Tips and Tricks to Try ](https://www.lifewire.com/instagram-tips-and-tricks-you-didnt-know-about-4086542) 
@@ -105,8 +103,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -114,4 +110,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-effortless-motion-pictures-time-lapse-on-samsung-galaxy-for-2024/"><u>[Updated] Effortless Motion Pictures Time-Lapse on Samsung Galaxy for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-seamless-sound-shift-best-10-youtube-audio-converters/"><u>[Updated] In 2024, Seamless Sound Shift Best 10 YouTube Audio Converters</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-youtube-earnings-update-what-you-need-to-know/"><u>[Updated] YouTube Earnings Update - What You Need to Know</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-excellent-free-cam-snipping-software/"><u>2024 Approved Excellent Free Cam Snipping Software</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/achieving-ultra-smooth-gameplay-mastering-120fps-gaming-on-ps5/"><u>Achieving Ultra-Smooth Gameplay: Mastering 120Fps Gaming on PS5</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/duel-of-video-converters-winx-dvd-ripper-versus-handbrake-uncovering-the-best-free-review-and-comparative-analysis/"><u>Duel of Video Converters - WinX DVD Ripper versus Handbrake Uncovering the Best Free Review and Comparative Analysis</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/erasing-your-digital-footprint-a-comprehensive-guide-to-deleting-your-yahoo-mail-account/"><u>Erasing Your Digital Footprint: A Comprehensive Guide to Deleting Your Yahoo Mail Account.</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-from-the-iphone-15-plus-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock From the iPhone 15 Plus Without Previous Owner?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-apple-iphone-12-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of Apple iPhone 12 Prevention & Solution</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-virtual-world-real-profit-for-game-makers/"><u>In 2024, Virtual World, Real Profit for Game Makers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/make-an-informed-choice-discover-8-important-aspects-before-getting-your-next-desktop-unit/"><u>Make an Informed Choice: Discover 8 Important Aspects Before Getting Your Next Desktop Unit</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/order-photoshop-cs8-standard-professional-image-editing-and-restoration/"><u>Order Photoshop CS8 Standard: Professional Image Editing & Restoration</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-clearing-your-macos-dns-records/"><u>Step-by-Step Guide: Clearing Your macOS DNS Records</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/steps-to-install-a-new-browser-in-place-of-the-default-one-on-your-smart-tv/"><u>Steps to Install a New Browser in Place of the Default One on Your Smart TV</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-4-methods-for-capturing-screenshots-on-windows-11-a-comprehensive-guide/"><u>Top 4 Methods for Capturing Screenshots on Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-the-secrets-eight-steps-to-boost-your-videos-virality-on-youtube/"><u>Unlocking the Secrets: Eight Steps to Boost Your Video's Virality on YouTube</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unpacking-the-need-for-diversification-in-tech-after-recent-microsoft-service-interruptions/"><u>Unpacking the Need for Diversification in Tech After Recent Microsoft Service Interruptions</u></a></li>
+</ul></div>
 

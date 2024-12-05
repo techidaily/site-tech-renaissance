@@ -1,7 +1,7 @@
 ---
 title: "Reading Between the Lines: Confirming Message Delivery and Views"
-date: 2024-09-04T01:12:20.386Z
-updated: 2024-09-05T01:12:20.386Z
+date: 2024-11-30T01:35:44.245Z
+updated: 2024-12-05T07:21:43.542Z
 categories:
   - BestProducts
 description: "This Article Describes Reading Between the Lines: Confirming Message Delivery and Views"
@@ -26,6 +26,11 @@ thumbnail: https://thmb.techidaily.com/a830d2a24e442aebcbf388f14e166b1639967eaf0
 1. Open the conversation you want to send a voice message in, or start a new one.  
 ![Message app icon on iPhone with New Message icon highlighted](https://www.lifewire.com/thmb/A-SaD3LfHhks1h-DkX8NTEPr-PI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A1-send-voice-messages-iphone-5199864-e4361686446647f1ae2290a2992904a5.jpg)
 2. Select the**plus** sign to the left of the text field.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In iOS 16, tap the**Apps** icon below the text box.
 3. Choose**Audio** from the menu. You may have to scroll down to find it.  
  In iOS 16, select the**Audio** icon, which looks like a waveform.  
@@ -37,17 +42,13 @@ thumbnail: https://thmb.techidaily.com/a830d2a24e442aebcbf388f14e166b1639967eaf0
 ![The recording bar, stop button, and cancel, send, and preview buttons for a voice message in Messages for iOS 17](https://www.lifewire.com/thmb/sTqipQrHLcQarZqKDQPXZpHwCWo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Record-voice-memo-f1227deae1c04346af41582dfe9d820d.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Drawbacks of Using Messages
 
  Here are a couple of disadvantages to using this function in Messages:
@@ -57,12 +58,6 @@ thumbnail: https://thmb.techidaily.com/a830d2a24e442aebcbf388f14e166b1639967eaf0
 
  If your recipient isn’t an iPhone user or you want to avoid the possible expiration of your audio message, consider sharing your message using Voice Memos.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Create and Send a Voice Message With Voice Memos
 
  The[Voice Memos app](https://www.lifewire.com/how-to-use-voice-memos-on-iphone-4799058) is excellent for capturing audio notes, speakers during a meeting, and more. Since you can easily share a voice recording from the app, this is a solid alternative to the Messages app on iPhone.
@@ -72,26 +67,13 @@ thumbnail: https://thmb.techidaily.com/a830d2a24e442aebcbf388f14e166b1639967eaf0
 3. When you finish with your message, tap the red **Stop** button.  
 ![Voice Memos app on iPhone showing record and stop buttons](https://www.lifewire.com/thmb/2_63ut4LxIyAJWKQ8B09aZfN3GQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B1-send-voice-messages-iphone-5199864-8bd9efbee2b74c8eb666703fa3a9dac4.jpg)
 4. The recording pops to the top section of the screen. You can tap the **Play** button to have a listen.  
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
- To share, tap the**three dots** next to the name of the recording.  
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ To share, tap the**three dots** next to the name of the recording.  
+
 ### Tip  
 
  If you want to rename the recording before you share it, tap the current title and type in the new one.
@@ -100,11 +82,9 @@ thumbnail: https://thmb.techidaily.com/a830d2a24e442aebcbf388f14e166b1639967eaf0
 ![Voice Memos app showing three-dot icon, Share selection and options](https://www.lifewire.com/thmb/Gw0s1etfHGcauSAdg887IPhFT2Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B2-send-voice-messages-iphone-5199864-3f38aeb132ab4afeaa4be14920834a4d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  FAQ
 
 * How do I compose text messages on iPhone with my voice?  
@@ -134,8 +114,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -143,4 +121,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-elite-list-of-best-videocall-services-without-cost/"><u>[New] Elite List of Best Videocall Services Without Cost</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-the-ultimate-guide-to-vsdc-and-its-rivals/"><u>[Updated] 2024 Approved The Ultimate Guide to VSDC and Its Rivals</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-sony-xperia-1-v-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Sony Xperia 1 V to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-logitech-hd-pro-c922x-camera-driver-for-enhanced-video-quality-on-windows-11/"><u>Download and Install Logitech HD Pro C922X Camera Driver for Enhanced Video Quality on Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/electric-milestone-approaching-as-mercedes-benz-gears-up-to-inaugurate-first-ev-charging-point-soon/"><u>Electric Milestone Approaching as Mercedes-Benz Gears Up to Inaugurate First EV Charging Point Soon</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/elevating-your-minecraft-game-perfectly-shaped-circles-and-spheres/"><u>Elevating Your Minecraft Game Perfectly Shaped Circles and Spheres</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enhanced-cognition-made-easy-experience-the-power-of-free-gpt-turbo-via-microsoft-copilot/"><u>Enhanced Cognition Made Easy: Experience the Power of Free GPT-Turbo via Microsoft Copilot</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-insights-how-recuva-stands-out-as-the-premier-software-for-data-salvage/"><u>Expert Insights: How Recuva Stands Out as the Premier Software for Data Salvage</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-basics-of-sidechains-in-digital-currencies-and-how-they-work/"><u>Exploring the Basics of Sidechains in Digital Currencies and How They Work</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-functionality-of-teslas-dog-mode-a-comprehensive-guide/"><u>Exploring the Functionality of Tesla's Dog Mode: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-world-of-daos-a-comprehensive-introduction-to-distributed-autonomous-entities/"><u>Exploring the World of DAOs: A Comprehensive Introduction to Distributed Autonomous Entities</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/future-proofing-privacy-with-apples-pq3-technology-against-upcoming-quantum-threats/"><u>Future-Proofing Privacy with Apple's PQ3 Technology Against Upcoming Quantum Threats</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-to-integrating-self-taken-pictures-into-the-midjourney-experience/"><u>Guide to Integrating Self-Taken Pictures Into the MidJourney Experience</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-itel-p55-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Itel P55 5G For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-realme-c33-2023-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Realme C33 2023</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-from-apple-iphone-15-plus-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email From Apple iPhone 15 Plus? Heres the Best Fixes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/innovative-two-legged-automaton-shatters-velocity-milestone-yet-lags-behind-quick-movers/"><u>Innovative Two-Legged Automaton Shatters Velocity Milestone - Yet Lags Behind Quick Movers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/inside-look-a-month-with-apple-vision-pro-top-concerns-addressed/"><u>Inside Look: A Month with Apple Vision Pro - Top Concerns Addressed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleash-ultimate-efficiency-discover-why-perplexity-ai-is-your-top-choice-in-ai-enhanced-google-search/"><u>Unleash Ultimate Efficiency: Discover Why Perplexity AI Is Your Top Choice in AI-Enhanced Google Search</u></a></li>
+</ul></div>
 

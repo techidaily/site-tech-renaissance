@@ -1,7 +1,7 @@
 ---
 title: "Boost Your iOS Experience: Mastering Stealthy Siri Cmds for Max Efficiency | Wired"
-date: 2024-11-19T16:02:17.968Z
-updated: 2024-11-25T16:01:14.662Z
+date: 2024-11-29T23:40:19.792Z
+updated: 2024-12-04T16:24:56.160Z
 tags:
   - apple
 categories:
@@ -19,7 +19,7 @@ As many have come to know, iPhones are amazingly powerful little computers. Many
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -35,7 +35,7 @@ Voice dictation is another voice input mode. This is most often initiated by tap
 As it turns out, though, there's an incredibly powerful voice input mode that's hidden from most users because it's turned off by default. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Introducing Voice Control
@@ -57,7 +57,7 @@ You can say things like "tap number" or "pan up number", "swipe left" with an it
 To find out what commands work with Voice Control, start by saying, "What can I say?" iMore has an [excellent comprehensive list of all the commands](https://www.imore.com/everything-you-can-do-voice-control-iphone-and-ipad). Just point your browser there to see all that's available. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Enabling Voice Control on your phone
@@ -67,7 +67,7 @@ Not only is Voice Control not turned on by default, but the code that runs Voice
 You'll know Voice Control is enabled when there's a little blue microphone icon at the top of your screen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Additional features
@@ -110,17 +110,17 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-critical-selection-of-1-5-best-snippers-for-windows/"><u>[New] In 2024, Critical Selection of #1-5 Best Snippers for WINDOWS</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/cyberpunk-2077-initialization-problems-a-complete-guide-to-fixes/"><u>Cyberpunk #2077 Initialization Problems: A Complete Guide to Fixes</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/enablingdisabling-the-touch-typing-feature-on-windows-11-a-step-by-step-guide/"><u>Enabling/Disabling the Touch Typing Feature on Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-nubia-red-magic-9-proplus-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Nubia Red Magic 9 Pro+ Get Deleted Pictures Back with Ease and Safety?</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Oppo Reno 8T? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-potion-creation-avoid-awkward-outcomes-with-these-pro-tips/"><u>Mastering Potion Creation: Avoid Awkward Outcomes with These Pro Tips</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigating-disk-repair-how-to-utilize-the-power-of-chkdsk-command-on-windows-operating-systems/"><u>Navigating Disk Repair: How to Utilize the Power of Chkdsk Command on Windows Operating Systems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/protect-your-privacy-how-to-prevent-mystery-calls-on-ios-devices/"><u>Protect Your Privacy: How to Prevent Mystery Calls on iOS Devices</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-guide-adding-speed-meter-to-taskbar/"><u>Quick Guide: Adding Speed Meter to Taskbar</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/sales-of-apples-latest-series-watch-9-and-ultra-continue-amidst-legal-hold-on-prohibition-insights-from-zdnet/"><u>Sales of Apple's Latest Series: Watch 9 & Ultra Continue Amidst Legal Hold on Prohibition - Insights From ZDNet</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-elite-list-premium-rechargeable-battery-chargers/"><u>The Elite List: Premium Rechargeable Battery Chargers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-xiaomi-mi-mix-fold-anticipated-costs-launch-timeline-and-specs-insider-gossip/"><u>Unveiling the Xiaomi Mi Mix Fold: Anticipated Costs, Launch Timeline & Specs – Insider Gossip</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-mastering-file-saving-on-windows-11-a-compendium-of-six-techniques/"><u>[New] In 2024, Mastering File Saving on Windows 11 A Compendium of Six Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-leveraging-cross-functional-collaboration-for-comprehensive-market-research/"><u>[Updated] 2024 Approved Leveraging Cross-Functional Collaboration for Comprehensive Market Research</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-cutting-edge-video-techniques-for-windows-11-users/"><u>[Updated] Cutting-Edge Video Techniques for Windows 11 Users</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-capture-creativity-with-smartphones-best-apps/"><u>[Updated] In 2024, Capture Creativity with Smartphones' Best Apps</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-optimizing-youtube-banners-with-best-practices-in-mind/"><u>[Updated] In 2024, Optimizing YouTube Banners with Best Practices in Mind</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-2022-camping-must-haves-expert-picks-by-zdnet/"><u>Discover the Ultimate 2022 Camping Must-Haves - Expert Picks by ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-joy-of-gardening-a-look-at-the-worlds-first-rc-lawnmower-highlights-from-zdnet/"><u>Discover the Ultimate Joy of Gardening: A Look at the World's First R/C Lawnmower - Highlights From ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ecoflows-portable-battery-a-reliable-source-of-energy-for-your-entire-household-amidst-frequent-blackouts-insights-from-zdnet/"><u>EcoFlow's Portable Battery: A Reliable Source of Energy for Your Entire Household Amidst Frequent Blackouts - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enduring-led-string-light-solutions-at-lower-prices-compared-to-market-leaders-gadget-savings-insider/"><u>Enduring LED String Light Solutions at Lower Prices Compared to Market Leaders | Gadget Savings Insider</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/experience-unmatched-home-surveillance-the-arlo-pro-5s-at-a-steal-now-just-180/"><u>Experience Unmatched Home Surveillance: The Arlo Pro 5S at a Steal, Now Just $180!</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unveiling-methods-for-scaling-up-tiktok-video-importation/"><u>Unveiling Methods for Scaling Up TikTok Video Importation</u></a></li>
 </ul></div>
 

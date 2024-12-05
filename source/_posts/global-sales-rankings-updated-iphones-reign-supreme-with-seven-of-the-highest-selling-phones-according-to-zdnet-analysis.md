@@ -1,7 +1,7 @@
 ---
 title: "Global Sales Rankings Updated: IPhones Reign Supreme with Seven of the Highest Selling Phones, According to ZDNet Analysis"
-date: 2024-11-24T16:01:09.874Z
-updated: 2024-11-25T16:00:53.696Z
+date: 2024-12-03T19:48:13.825Z
+updated: 2024-12-05T01:41:35.869Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,15 +109,22 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-gain-ground-on-social-media-leaders-with-insta-growth-tips/"><u>[New] Gain Ground on Social Media Leaders with Insta-Growth Tips</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-unbeatable-tag-analyzers-for-facebook-twitter-and-instagram-sites/"><u>[New] Unbeatable Tag Analyzers for Facebook, Twitter & Instagram Sites</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-newest-logitech-audio-device-software-for-win10-versions-11-7-and-8/"><u>Get the Newest Logitech Audio Device Software for WIN10 Versions: 11, 7, and 8</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-locked-iphone-6s-plus-by-restoring-it-to-factory-settings-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock locked iPhone 6s Plus by restoring it to factory settings</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/movavis-convert-aac-files-to-mp3-quick-reliable-online-tool-for-free/"><u>Movavi's Convert AAC Files to MP3: Quick, Reliable Online Tool for Free!</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/polishing-profile-vids-tips-and-tricks-for-2024/"><u>Polishing Profile Vids Tips and Tricks for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/speeding-up-your-system-effective-strategies-to-enhance-computer-performance/"><u>Speeding Up Your System: Effective Strategies to Enhance Computer Performance</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-installing-the-anker-bluetooth-mouse-drivers/"><u>Step-by-Step Guide: Installing the Anker Bluetooth Mouse Drivers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-reclaiming-disk-space-on-windows-11-systems/"><u>Step-by-Step Guide: Reclaiming Disk Space on Windows 11 Systems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-for-turning-onoff-cookies-on-popular-browsers-chrome-firefox-opera-and-edge-running-on-windows-ebox/"><u>Step-by-Step Instructions for Turning On/Off Cookies on Popular Browsers (Chrome, Firefox, Opera & Edge) Running on Windows Ebox</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-ultimate-guide-to-top-6-creative-mojave-dwellings-for-2024/"><u>[New] Ultimate Guide to Top 6 Creative Mojave Dwellings for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-transform-your-content-3-effective-techniques-for-youtube-reaction-magic/"><u>[Updated] 2024 Approved Transform Your Content 3 Effective Techniques for YouTube Reaction Magic</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-discover-top-6-mac-capture-software-selections/"><u>[Updated] In 2024, Discover Top 6 Mac Capture Software Selections</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-secure-your-memories-long-term-webcam-video-storage-in-vlc/"><u>[Updated] In 2024, Secure Your Memories Long-Term Webcam Video Storage in VLC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/behind-the-scenes-with-sonys-revolutionary-xr-tech-showcased-at-ces-2abstraction-2024-zdnet/"><u>Behind the Scenes with Sony's Revolutionary XR Tech Showcased at CES 2Abstraction 2024 | ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/chick-fil-a-cracks-the-sunday-profit-code-an-inside-look-at-their-weekend-strategy-tech-insights/"><u>Chick-Fil-A Cracks the Sunday Profit Code: An Inside Look at Their Weekend Strategy | Tech Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-more-affordable-and-surprisingly-superior-alternative-to-apples-vision-pro-travel-bag-zdnet-review/"><u>Discover the More Affordable & Surprisingly Superior Alternative to Apple's Vision Pro Travel Bag - ZDNet Review</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/groundbreaking-fcc-decision-opens-up-new-horizons-in-the-6ghz-band-for-virtual-reality-and-augmented-reality-headsets-zdnet-insights/"><u>Groundbreaking FCC Decision Opens Up New Horizons in the 6GHz Band for Virtual Reality and Augmented Reality Headsets | ZDNET Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/immersive-tv-show-enjoyment-on-apple-vision-pro-blending-joy-strangeness-and-fatigue-insights-from-zdnet-reader/"><u>Immersive TV Show Enjoyment on Apple Vision Pro: Blending Joy, Strangeness, and Fatigue | Insights From ZDNET Reader</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-tweaking-sound-on-ps5ps4-games/"><u>In 2024, Tweaking Sound on PS5/PS4 Games</u></a></li>
+<li><a href="https://win-latest.techidaily.com/la-soluzione-migliore-per-il-trasferimento-di-dati-sincronizzazione-file-con-dischi-esterni-in-diverse-versioni-di-windows/"><u>La Soluzione Migliore per Il Trasferimento Di Dati: Sincronizzazione File Con Dischi Esterni in Diverse Versioni Di Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/my-spontaneous-buy-of-apples-latest-17-usb-c-earpods-during-amazon-prime-day-insights-and-reviews-from-zdnet/"><u>My Spontaneous Buy of Apple's Latest $17 USB-C EarPods During Amazon Prime Day - Insights & Reviews From ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-troubleshooting-the-0xc000007b-application-startup-failure/"><u>Step-by-Step Solution for Troubleshooting the 0xC000007b Application Startup Failure</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-cyber-monday-offer-unbeatable-349-meta-quest-2-package-limited-time/"><u>Top Cyber Monday Offer: Unbeatable $349 Meta Quest 2 Package - Limited Time!</u></a></li>
+<li><a href="https://article-files.techidaily.com/top-offline-transcription-programs-for-speech-for-2024/"><u>Top Offline Transcription Programs for Speech for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/transforming-the-future-of-interaction-with-xr-and-digital-twins-in-business-a-comprehensive-guide-by-zdnet/"><u>Transforming the Future of Interaction with XR & Digital Twins in Business - A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-future-of-vrar-my-hands-on-encounter-with-sonys-latest-xr-innovation-at-ces-202n4-gadgetguru/"><u>Unveiling the Future of VR/AR: My Hands-On Encounter with Sony's Latest XR Innovation at CES 202N4 | GadgetGuru</u></a></li>
 </ul></div>
 

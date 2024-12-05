@@ -1,7 +1,7 @@
 ---
 title: How to Get Permission From TrustedInstaller in Windows 10
-date: 2024-09-04T01:13:06.523Z
-updated: 2024-09-05T01:13:06.523Z
+date: 2024-11-27T19:34:28.587Z
+updated: 2024-12-05T08:49:11.257Z
 categories:
   - BestProducts
 description: This Article Describes How to Get Permission From TrustedInstaller in Windows 10
@@ -13,6 +13,10 @@ thumbnail: https://www.lifewire.com/thmb/bN_F8h8TKTX1N0seGbQ341fq0Y0=/400x300/fi
  This error could apply to any hardware device listed in Device Manager. In most cases, however, it appears on[optical disc drives](https://www.lifewire.com/what-is-an-optical-disc-drive-2618157) like CD and DVD drives.  
 
  Any of Microsoft's[operating systems](https://www.lifewire.com/operating-systems-2625912) could experience a Code 39 Device Manager error including[Windows 10](https://www.lifewire.com/windows-10-2626217) ,[Windows 8](https://www.lifewire.com/windows-8-2626235) ,[Windows 7](https://www.lifewire.com/windows-7-2626265) ,[Windows Vista](https://www.lifewire.com/windows-vista-2626311) ,[Windows XP](https://www.lifewire.com/windows-xp-2626354) , and more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix a Code 39 Error
 
@@ -35,16 +39,18 @@ thumbnail: https://www.lifewire.com/thmb/bN_F8h8TKTX1N0seGbQ341fq0Y0=/400x300/fi
  If you're convinced there is still an operating system component to this Code 39 error, you could try a[repair install of Windows](https://www.lifewire.com/how-do-i-automatically-repair-windows-problems-2624907) and if that doesn't work, a[clean install of Windows](https://www.lifewire.com/how-to-clean-install-windows-2624904) . We don't recommend doing either_before_ you try replacing the hardware, but they may be necessary if you've exhausted all of your other options.
 7. Your error should now be fixed.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Need More Help?
 
  If you're not interested in fixing this problem yourself, see[How Do I Get My Computer Fixed?](https://www.lifewire.com/how-do-i-get-my-computer-fixed-2625167) for a full list of your support options, plus help with everything along the way like figuring out repair costs, getting your files off, choosing a repair service, and a whole lot more.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Cause of Code 39 Error Message
 
  The Code 39 error is one of several[Device Manager error codes](https://www.lifewire.com/device-manager-error-codes-4159098) . In most cases, it's caused by either a missing[driver](https://www.lifewire.com/what-is-a-device-driver-2625796) for that particular piece of[hardware](https://www.lifewire.com/computer-hardware-2625895) or by a[Windows Registry](https://www.lifewire.com/windows-registry-2625992) issue.
@@ -60,17 +66,9 @@ thumbnail: https://www.lifewire.com/thmb/bN_F8h8TKTX1N0seGbQ341fq0Y0=/400x300/fi
 ![Screenshot of the Code 39 Device Manager error code that reads Windows cannot load the device driver for this hardware. The driver may be corrupted or missing](https://www.lifewire.com/thmb/JQ0REJgQXosmbOzFwTzkgyKr59s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/device-manager-code-39-error-cannot-load-the-device-driver-59a045040d327a001007b10c.png)
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="150" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Device Manager error codes are exclusive to[Device Manager](https://www.lifewire.com/device-manager-2625860) only. If you see the Code 39 error elsewhere in Windows, chances are it's a[system error code](https://www.lifewire.com/system-error-code-2625996) , which you should not troubleshoot as a Device Manager issue.
 
 Was this page helpful?
@@ -93,8 +91,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -102,4 +98,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/-ways-to-increase-audience-retention-on-youtube-for-2024/"><u>[New] 6 Ways To Increase Audience Retention on YouTube for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-immerse-in-visual-creation-best-3d-model-and-rendering-tools-reviewed/"><u>[New] Immerse in Visual Creation Best 3D Model & Rendering Tools Reviewed</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-realistic-or-risky-vrs-hidden-dangers/"><u>[New] Realistic or Risky? VR's Hidden Dangers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/d3dx924dll-errors-proven-techniques-for-finding-and-restoring-your-missing-dll-files/"><u>d3dx9_24.dll Errors: Proven Techniques for Finding and Restoring Your Missing DLL Files</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-analysis-of-western-digital-data-lifeguard-a-comprehensive-software-diagnostics-review/"><u>Expert Analysis of Western Digital Data Lifeguard: A Comprehensive Software Diagnostics Review</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-solutions-for-restoring-email-functionality-on-an-apple-device/"><u>Expert Solutions for Restoring Email Functionality on an Apple Device</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-sound-on-your-astro-a50-earphones-troubleshooting-and-solutions/"><u>How to Restore Sound on Your Astro A50 Earphones: Troubleshooting and Solutions</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-lava-blaze-2-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Lava Blaze 2 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722845838496-is-it-possible-to-stream-netflix-on-nintendo-switch/"><u>Is It Possible to Stream Netflix On Nintendo Switch?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolved-fixes-implemented-for-mlb-the-show-2021-network-glitch/"><u>Resolved: Fixes Implemented for MLB The Show 2021 Network Glitch</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-troubleshooting-your-fortnite-endless-loop-of-the-load-screen/"><u>Resolved: Troubleshooting Your Fortnite Endless Loop of the Load Screen</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/restore-your-accidentally-deleted-documents-from-the-recycle-bin-in-windows-7-without-paying/"><u>Restore Your Accidentally Deleted Documents From the Recycle Bin in Windows 7 Without Paying</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-12-no-cost-movie-streaming-sites/"><u>Top 12 No-Cost Movie Streaming Sites</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-aether-comprehensive-information-and-membership-process/"><u>Understanding Aether: Comprehensive Information & Membership Process</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-system-sound-on-windows-7-using-idt-drivers/"><u>Update System Sound on Windows 7 Using IDT Drivers</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-mastering-volume-control-the-art-of-audio-ducking-with-powerdirector-for-2024/"><u>Updated Mastering Volume Control The Art of Audio Ducking with PowerDirector for 2024</u></a></li>
+</ul></div>
 

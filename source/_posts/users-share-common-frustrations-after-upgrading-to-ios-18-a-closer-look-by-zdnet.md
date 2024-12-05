@@ -1,7 +1,7 @@
 ---
 title: Users Share Common Frustrations After Upgrading to iOS 18 - A Closer Look by ZDNet
-date: 2024-11-22T16:00:09.206Z
-updated: 2024-11-25T16:00:28.416Z
+date: 2024-12-01T07:10:28.526Z
+updated: 2024-12-04T18:00:40.268Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,16 +109,15 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-ranking-the-best-8-websites-with-shimmering-3d-and-text/"><u>[New] Ranking the Best 8 Websites with Shimmering 3D & Text</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-managing-excessive-tiktoks-mastering-edits-and-deletions/"><u>[Updated] Managing Excessive TikToks Mastering Edits & Deletions</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-unlock-creator-studio-secrets-a-step-by-step-tutorial/"><u>[Updated] Unlock Creator Studio Secrets A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-digital-dollar-first-steps-in-youtubers-revenue/"><u>2024 Approved Digital Dollar First Steps in YouTubers' Revenue</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-lava-yuva-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Lava Yuva 3 | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/inside-scoop-on-apples-automotive-endeavour-news-coverage-estimated-pricing-details-launch-schedule-and-intriguing-rumors/"><u>Inside Scoop on Apple's Automotive Endeavour: News Coverage, Estimated Pricing Details, Launch Schedule & Intriguing Rumors</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-pokemon-unite-the-ultimate-guide-to-pc-gameplay/"><u>Mastering Pokémon Unite: The Ultimate Guide to PC Gameplay</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-screen-mirroring-share-your-android-display-on-fire-stick/"><u>Mastering Screen Mirroring: Share Your Android Display on Fire Stick</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/rectifying-launchdll-not-found-easy-steps-to-restore-functionality/"><u>Rectifying 'launch.dll Not Found': Easy Steps to Restore Functionality</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/retrace-your-steps-flipping-iphone-videography/"><u>Retrace Your Steps Flipping iPhone Videography</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-and-repairing-the-missing-comctl32dll-issue/"><u>Troubleshooting and Repairing the Missing Comctl32.dll Issue</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-perfecting-live-video-capture-with-logitech-webcam-technology/"><u>[New] In 2024, Perfecting Live Video Capture with Logitech Webcam Technology</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-streamlining-capture-procedures-with-adobe-presenter-for-2024/"><u>[New] Streamlining Capture Procedures with Adobe Presenter for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-swift-skills-sharpen-your-windows-images/"><u>[New] Swift Skills Sharpen Your Windows Images</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-techniques-for-straightening-aerial-video-stability/"><u>2024 Approved Techniques for Straightening Aerial Video Stability</u></a></li>
+<li><a href="https://windows11.techidaily.com/4-ways-microsoft-is-replacing-cortana-in-windows/"><u>4 Ways Microsoft Is Replacing Cortana in Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/dealing-with-streaming-errors-a-guide-to-restoring-paramount-plus-on-amazon-fire-tv/"><u>Dealing With Streaming Errors: A Guide to Restoring Paramount Plus on Amazon Fire TV</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-the-ultimate-selection-of-free-worldwide-communication-tools-the-best-5/"><u>Explore the Ultimate Selection of Free Worldwide Communication Tools - The Best 5!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-the-pairing-process-comprehensive-instructions-for-linking-your-fire-stick-remote-to-smart-tvs/"><u>Master the Pairing Process: Comprehensive Instructions for Linking Your Fire Stick Remote to Smart TVs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/pioneering-the-future-of-ai-with-metas-revolutionary-tools/"><u>Pioneering the Future of AI with Meta's Revolutionary Tools</u></a></li>
+<li><a href="https://fox-where.techidaily.com/strategie-per-il-backup-di-sistema-in-windows-nella-tua-rete-privata-con-qnap-nas-soluzione-a-e-b/"><u>Strategie per Il Backup Di Sistema in Windows Nella Tua Rete Privata Con QNAP NAS (Soluzione A E B)</u></a></li>
 </ul></div>
 

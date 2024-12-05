@@ -1,7 +1,7 @@
 ---
 title: "Ultimate How-To: Boost Your PlayStation 5 Performance with an Upgraded Internal SSD"
-date: 2024-09-04T01:12:07.059Z
-updated: 2024-09-05T01:12:07.059Z
+date: 2024-11-28T08:18:30.380Z
+updated: 2024-12-04T16:28:51.792Z
 categories:
   - BestProducts
 description: "This Article Describes Ultimate How-To: Boost Your PlayStation 5 Performance with an Upgraded Internal SSD"
@@ -48,49 +48,34 @@ Rob Rich/Lifewire
  Place the PS5 in front of you with the front of the console (with the power button and controller port) facing you. You’ll also want the bottom of the console facing up (i.e., the PlayStation logo should be facing down).  
 ![upside down PS5 console next to removed base](https://www.lifewire.com/thmb/7v8OaPPQBNWtSSdZecjNDIaU1rc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ps502-3d42b8c405ad4a74acaac480cea2d4eb.JPG)  
 Rob Rich/Lifewire
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Get your fingers under the top-left corner of the PS5’s cover, gently pull up, and then slide it to the right to unseat it.  
 ![PS5 with partially removed bottom cover piece](https://www.lifewire.com/thmb/DhqL5OfgaoSmxq7eThzy1X3-19Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ps503-766f512399dc43f5b7a4dd6273ccc877.JPG)  
 Rob Rich/Lifewire
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Slowly slide the cover piece off to remove it entirely.
 4. Find the expansion slot (a long and narrow metal cover) toward the front of the open console, just in front of the fan exhaust.  
 ![A launch-edition PS5 with the expansion slot highlighted](https://www.lifewire.com/thmb/kTNrs6Qh5WU9sU3JA63Mi2BGCCw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/PS5-Launch-expansion-slot-41533e8c65cf4aa587b0fc842768777d.jpg)  
 Rob Rich/Lifewire
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Loosen and remove the expansion slot’s screw (with the PlayStation symbols on it), and then pull the slot cover slightly to your left and lift it off.  
 ![loosening the expansion slot screw with a screwdriver](https://www.lifewire.com/thmb/eTNdCWWtJHn56YjA5UC1hR6Rlu4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ps505-d246755f5b6547d4ba422b407f951d1f.JPG)  
 Rob Rich/Lifewire
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6. Remove the smaller expansion slot screw along with the metal spacer ring beneath it.  
 ![removing the inner expansion slot screw and spacer ring](https://www.lifewire.com/thmb/mRwa0xJ5BN7B3-1NkHie60j5nQg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ps507-1645fa76ec43488d905feb813d5e9fc0.JPG)  
 Rob Rich/Lifewire
+
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="150" height="125" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 7. Line the spacer ring up with the expansion slow screw hole that matches the size of your SSD. You may want to hold the SSD up to the expansion slot to double-check the fit.  
 ![A PS5 expansion slot with the screw holes highlighted](https://www.lifewire.com/thmb/qJH9B_a4hchB75RdEwVg3LdYTW8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Expansion-holes-PS5-5be6cc58831940a8a05056e89039ce95.jpg)  
 Rob Rich/Lifewire
@@ -100,28 +85,25 @@ Rob Rich/Lifewire
 9. Screw the small expansion slot screw back into place, lining it up with the end of the SSD and the spacer ring.  
 ![screwing in the new SSD](https://www.lifewire.com/thmb/Ar4eheOHhRZ2zVXiF0ZbH88QH6Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ps512-cb195b4417ff4b7cb65efcfb64b16f5e.JPG)  
 Rob Rich/Lifewire
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 10. Slide the expansion slot cover into place, and then screw the larger expansion slot screw (with all the PlayStation symbols) back in.  
 ![replacing expansion slot cover](https://www.lifewire.com/thmb/hVZMs2-ruRXal1s4skWfgrQQHKw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ps506-9a137d0f02c84ffaa7f8d7d742c3afd2.JPG)  
 Rob Rich/Lifewire
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 11. Line the exterior cover piece up with the bottom of the PS5, but about a half-inch or so to the right. Place the cover down and then slide it to the left until it clicks back into place.  
 ![replacing PS5 console bottom cover](https://www.lifewire.com/thmb/hZFwbSRXskuakN5rDw8Z6Eakcc4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ps514-ffc1fd3ad1d248509a699df5806e9471.JPG)  
 Rob Rich/Lifewire
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 12. Put your PS5 back into its usual place and reconnect all the cables, and then turn it on. If you’ve never used this SSD in a PS5 before and you see a formatting prompt, that means the installation was a success.
 13. Follow the on-screen prompts to format and start using your SSD. If the SSD was already formatted for PS5, verify recognition by opening**Settings** \>**Storage** \> and looking for**M.2SSD Storage** in the menu.
 
  If you can’t get the expansion slot cover to line up or close, the SSD is likely too big, and you’ll need to choose an alternate model.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Install a New SSD in a PS5 Slim 
 
@@ -129,12 +111,6 @@ Rob Rich/Lifewire
 
 ![illustration of PS5 Slim front, indicating the panel that will be removed to install the SSD](https://www.lifewire.com/thmb/f6bLu_EsgvJLtHFPsDZzzFgW1kw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/pa5slim01-efec593ba589438cb3d7b29417322c62.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Sony Interactive Entertainment LLC
 
 1. Shut off the console (not Sleep Mode; turn it off completely), disconnect all the cables, and give the PS5 a few minutes to cool down.
@@ -147,6 +123,10 @@ Sony Interactive Entertainment LLC
 8. Put the expansion slot cover back on and secure it with the larger screw.
 9. Reattach the PS5 cover by first lining up the hooks towards the back side with their correct openings. Lower the cover piece over the PS5 and push it back into place along the front of the console until it clicks.
 10. Now, you can reconnect the console’s support legs, plug everything back in, and turn it on. Follow any prompts to format the new SSD, and then go to**System** \>**Storage** to ensure the console recognizes it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Which SSDs Are Compatible With the PS5? 
 
@@ -188,8 +168,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -197,4 +175,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-step-by-step-guide-to-rearranging-youtube-playlists/"><u>[New] 2024 Approved Step-by-Step Guide to Rearranging YouTube Playlists</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-excellent-envoys-top-laptops-to-edit-videos-in-4k/"><u>[Updated] Excellent Envoys Top Laptops to Edit Videos in 4K</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ustream-examination-other-options-compared/"><u>[Updated] Ustream Examination Other Options Compared</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/artful-humor-chuckledrawings-for-2024/"><u>Artful Humor ChuckleDrawings for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/digital-dollars-at-a-click-monetization-made-simple-on-fb/"><u>Digital Dollars at a Click Monetization Made Simple on FB</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discovering-the-world-of-toms-hardware-solutions/"><u>Discovering the World of Tom's Hardware Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-rich-communication-services-rcs-technology-in-smartphones/"><u>Exploring Rich Communication Services (RCS) Technology in Smartphones</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/five-essential-steps-to-correct-a-missing-coredll-mistake/"><u>Five Essential Steps to Correct a Missing core.dll Mistake</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/game-on-top-7-must-play-imessage-games-dominating-2score4/"><u>Game On! Top 7 Must-Play iMessage Games Dominating 2Score4</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-newest-drivers-for-your-hp-officejet-professional-series-compatible-with-win7-to-win10/"><u>Get the Newest Drivers for Your HP OfficeJet Professional Series - Compatible with Win7 to Win10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-resolve-issues-with-non-functional-apple-mail-on-your-iphone-device/"><u>How to Resolve Issues with Non-Functional Apple Mail on Your iPhone Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-watch-disney-content-on-your-tv-using-chromecast-a-step-by-step-guide/"><u>How To: Watch Disney Content on Your TV Using Chromecast - A Step-by-Step Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-elevating-gameplay-tips-for-using-the-steam-switch-controller/"><u>In 2024, Elevating Gameplay Tips for Using the Steam Switch Controller</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-top-rated-free-avi-video-rotation-tools-updated-for-2024/"><u>New Top-Rated Free AVI Video Rotation Tools Updated for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/samsung-unleashes-innovation-behind-the-scenes-of-their-latest-phone-debut/"><u>Samsung Unleashes Innovation: Behind The Scenes Of Their Latest Phone Debut</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-hdcp-errors-definition-and-troubleshooting-guide/"><u>Understanding HDCP Errors: Definition & Troubleshooting Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-easy-access-with-android-quick-settings-tips-and-tricks/"><u>Unlocking Easy Access with Android Quick Settings Tips and Tricks</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Nubia Z50S Pro? | Dr.fone</u></a></li>
+</ul></div>
 

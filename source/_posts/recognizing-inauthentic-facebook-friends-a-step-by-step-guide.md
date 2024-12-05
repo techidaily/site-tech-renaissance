@@ -1,7 +1,7 @@
 ---
 title: "Recognizing Inauthentic Facebook Friends: A Step-by-Step Guide"
-date: 2024-09-04T01:12:07.297Z
-updated: 2024-09-05T01:12:07.297Z
+date: 2024-12-01T23:12:17.128Z
+updated: 2024-12-05T04:05:42.047Z
 categories:
   - BestProducts
 description: "This Article Describes Recognizing Inauthentic Facebook Friends: A Step-by-Step Guide"
@@ -13,12 +13,20 @@ thumbnail: https://thmb.techidaily.com/900dc848292f751f63b27f646fc76a619bc7384a4
 
 Close 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  What to Know
 
 * Scammers, former or current romantic partners, or private investigators might send fake friend requests.
 * A person with no shared connections with an unusual number of friends and limited content might be suspect.
 
  This article explains who might send a fake friend request, why they might do so, and how to spot a suspicious request on social media platforms.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Why Someone Sends a Fake Friend Request 
 
@@ -33,11 +41,9 @@ Close
 * **Private investigators** : Private investigators can use false profile friend requests to learn more information about you—the kind of information you normally restrict from public view and reserve for friends only.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Spot a Fake Friend Request 
 
  Be on the lookout for clues that a friend request might not be genuine. Ask yourself these questions to determine if the friend request might be from a fake profile:
@@ -49,11 +55,9 @@ Close
 * **Is there little personal content on their timeline?** You likely won't see a lot of day-to-day activity on a fake profile because of the effort required to generate "real" content. You may see some pictures, perhaps some links, but you probably won't see many location check-ins or status updates. This may or may not be true for scammers of the catfishing type, as they may spend a lot of time and effort making their online personas seem as real as possible.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  What to Do With a Fake Friend Request 
 
  The next time you receive a random friend request, ask yourself these questions and use your answers to determine whether you have just spotted a fake friend request. When in doubt, the best action is not to accept the request.
@@ -61,11 +65,9 @@ Close
 ![Person viewing a social media profile on a smartphone](https://www.lifewire.com/thmb/6jisheWax_8d--rEBde3lJazSN8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1287186695-e166148abb6e43c7bbe7f2c5a9733ce2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Tero Vesalainen / Getty Images
 
 [  How to Block Searches of Your Facebook Profile ](https://www.lifewire.com/block-searches-on-facebook-3482915) 
@@ -97,8 +99,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -106,4 +106,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-renaissance.techidaily.com/android-version-16-the-complete-guide-insights-on-upcoming-free-app-pricing-info-and-speculated-specs/"><u>Android Version 16: The Complete Guide - Insights on Upcoming Free App, Pricing Info & Speculated Specs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-fixes-for-the-most-frequent-television-glitches-you-may-encounter/"><u>Easy Fixes for the Most Frequent Television Glitches You May Encounter</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-future-of-smartphones-anticipated-news-on-oneplus-10-estimates-on-price-and-launch-date-with-feature-highlights/"><u>Exploring the Future of Smartphones - Anticipated News on OnePlus 10, Estimates on Price & Launch Date with Feature Highlights</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/fcpx-problem-solving-guide-fix-errors-and-optimize-performance-for-2024/"><u>FCPX Problem-Solving Guide Fix Errors and Optimize Performance for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-vivo-y56-5g-devices-by-drfone-android/"><u>How to Reset Gmail Password on Vivo Y56 5G Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/roku-free-ways-catch-your-favorite-shows-on-the-roku-channel-using-other-gadgets/"><u>Roku-Free Ways: Catch Your Favorite Shows On the Roku Channel Using Other Gadgets</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solutions-eliminate-stuck-images-and-prevent-burn-in-effects/"><u>Step-by-Step Solutions: Eliminate Stuck Images & Prevent Burn-In Effects</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721467945376-struggling-with-nonfunctional-qr-codes-try-these-10-iphone-fixes-to-get-it-running-smoothly-again/"><u>Struggling With Nonfunctional QR Codes? Try These 10 iPhone Fixes to Get It Running Smoothly Again!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-hp-zbook-firefly-problem-what-is-the-value-of-y-in-terms-of-x-given-that-they-are-related-by-a-linear-equation-with-slope-2-and-a-particular-point-46-li29/"><u>The HP ZBook Firefly # Problem: What Is the Value of ( Y ) in Terms of ( X ), Given that They Are Related by a Linear Equation with Slope -2 and a Particular Point (4,6) Lies on the Line?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/tips-for-gradual-decrease-of-audio-loudness-in-fl-studio/"><u>Tips for Gradual Decrease of Audio Loudness in FL Studio</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-improved-communication-mozillas-most-recent-email-client-thunderbird-v52/"><u>Unlocking Improved Communication: Mozilla's Most Recent Email Client - Thunderbird V52</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unraveling-the-magic-of-mixed-reality-for-2024/"><u>Unraveling the Magic of Mixed Reality for 2024</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/versleutelde-sd-kaartgegevens-een-praktische-handleiding-voor-het-ontcijferen-en-herstellen-van-data/"><u>Versleutelde SD-Kaartgegevens: Een Praktische Handleiding Voor Het Ontcijferen en Herstellen Van Data</u></a></li>
+</ul></div>
 

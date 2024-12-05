@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Configuring Your New Apple Watch - Tips From ZDNet
-date: 2024-11-20T16:01:00.302Z
-updated: 2024-11-25T16:04:04.894Z
+date: 2024-11-28T06:30:29.455Z
+updated: 2024-12-05T05:48:56.759Z
 tags:
   - apple
 categories:
@@ -48,22 +48,22 @@ Here's how.
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Install the Slack app on your iPhone
 
 There is no dedicated Slack app for the Apple Watch, but there is an iPhone app. This app controls everything about how Slack works with notifications on your phone. So, if you don't already have Slack on your iPhone, go to [the App Store and install it](https://apps.apple.com/us/app/slack/id618783545).
 
 Once it's installed, go ahead and log into your various Slack channels. Get those setup and working as you like before configuring the app for notifications.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Set up Slack notifications in the system settings
 
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   
@@ -76,17 +76,9 @@ Now, back out to the top of the Settings app and tap the red Notifications icon.
 
 Screenshot by David Gewirtz/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Set up Slack notifications in the Slack app
 
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##   
 
@@ -105,6 +97,10 @@ Next, tap Notify Me on Mobile. This will give you a few options.
 Screenshot by David Gewirtz/ZDNET
 
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Set your notification schedule
 
@@ -126,6 +122,10 @@ So, make sure you set the Start and End times that fit with your schedule.
 
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Enable Slack notifications in the Watch app
 
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
@@ -137,7 +137,7 @@ Screenshot by David Gewirtz/ZDNET
 There. You've set up notifications. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
@@ -179,21 +179,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-scream-loud-with-joy-our-picks-from-the-best-funny-youtubers/"><u>[Updated] 2024 Approved Scream Loud with Joy Our Picks From the Best Funny YouTubers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-from-concept-to-click-an-in-depth-look-at-gif-memes/"><u>2024 Approved From Concept to Click An In-Depth Look at GIF Memes</u></a></li>
-<li><a href="https://windows11.techidaily.com/7-effective-ways-to-reopen-a-hidden-windows-terminal/"><u>7 Effective Ways to Reopen a Hidden Windows Terminal</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/chromecast-theming-basics-how-to-update-and-enhance-your-screen-image/"><u>Chromecast Theming Basics: How To Update and Enhance Your Screen Image</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fixing-connectivity-issues-responding-effectively-when-alexa-says-echo-is-offline/"><u>Fixing Connectivity Issues: Responding Effectively when Alexa Says 'Echo Is Offline'</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722858464054-get-your-hands-on-youtube-premium-with-student-savings-plans/"><u>Get Your Hands-On YouTube Premium with Student Savings Plans</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-oneplus-ace-2v-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from OnePlus Ace 2V to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How to Check Distance and Radius on Google Maps For your Apple iPhone XR | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-effectively-fix-the-rockalldlldll-missing-error-in-windows/"><u>How to Effectively Fix the 'RockallDLL.dll Missing' Error in Windows</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-elevate-your-videos-top-rated-ipad-video-editors/"><u>In 2024, Elevate Your Videos Top-Rated iPad Video Editors</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-oppo-a18-easily-by-drfone-android/"><u>In 2024, How To Unlock a Oppo A18 Easily?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/reactive-measures-for-a-dormant-snapchat-account-a-comprehensive-walkthrough/"><u>Reactive Measures for a Dormant Snapchat Account: A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-disabling-your-secure-pin-on-windows-11/"><u>Step-by-Step Guide: Disabling Your Secure Pin on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-overcome-geforce-error-xc0f1103f-in-win-1011/"><u>Strategies to Overcome GeForce Error XC0F1103F in Win 10/11</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/the-best-hash-tracking-apps-on-major-platforms-like-fb-tweet-and-insta-for-2024/"><u>The Best Hash Tracking Apps on Major Platforms Like FB, Tweet & Insta for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unexpected-issues-troubleshooting-your-cars-non-functioning-radio/"><u>Unexpected Issues: Troubleshooting Your Car's Non-Functioning Radio</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-evolving-videography-redefining-social-sharing-with-periscope-alternatives/"><u>[Updated] 2024 Approved Evolving Videography Redefining Social Sharing with Periscope Alternatives</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-logitech-4k-pro-webcam-complete-review/"><u>[Updated] 2024 Approved Logitech 4K Pro Webcam Complete Review</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-comprehensive-guide-to-vsco-camera-app/"><u>[Updated] Comprehensive Guide to VSCO Camera App</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/acer-laptop-impresses-with-stunning-oled-display-and-high-quality-webcam-top-performers-reviewed/"><u>Acer Laptop Impresses with Stunning OLED Display & High-Quality Webcam: Top Performers Reviewed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehvew-guide-using-third-party-software-to-open-pages-files-on-windowsmac/"><u>Comprehvew Guide: Using Third-Party Software to Open Pages Files on Windows/Mac</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-free-movie-and-series-platforms-for-the-price-of-zero/"><u>Discover Free Movie & Series Platforms for the Price of Zero</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-world-of-usb-2-a-guide-to-transmission-velocity-cabling-and-plug-designs/"><u>Exploring the World of USB #2: A Guide to Transmission Velocity, Cabling, and Plug Designs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-link-your-firestick-with-a-google-chromecast/"><u>How to Link Your Firestick with a Google Chromecast</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-pop-7-pro-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Tecno Pop 7 Pro Phone without PIN</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-depth-training-adopting-the-best-screen-recording-practices-with-adobe-captivate/"><u>In-Depth Training Adopting the Best Screen Recording Practices with Adobe Captivate</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/latest-cpu-hierarchy-review-identifying-the-fastest-processors-of-2024/"><u>Latest CPU Hierarchy Review: Identifying the Fastest Processors of 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/lightsabers-onscreen-once-more-how-to-repair-the-star-wars-battlefront-ii-midnight-void-bug/"><u>Lightsabers Onscreen Once More - How to Repair the 'Star Wars Battlefront II' Midnight Void Bug</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastery-of-common-tv-problem-solving-techniques-for-better-viewing-experience/"><u>Mastery of Common TV Problem Solving Techniques for Better Viewing Experience</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-editing-on-the-go-gopro-quik-review-and-pc-alternatives/"><u>New Editing on the Go GoPro Quik Review and PC Alternatives</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/rethink-your-inbox-top-8-alternatives-to-googles-gmail-for-enhanced-productivity/"><u>Rethink Your Inbox: Top 8 Alternatives to Google's Gmail for Enhanced Productivity</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-making-secure-payments-effortlessly-using-your-apple-watchs-apple-pay-functionality/"><u>The Ultimate Guide to Making Secure Payments Effortlessly Using Your Apple Watch's Apple Pay Functionality</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-mingwm10dll-file-not-detected-comprehensive-fixes-unveiled/"><u>Troubleshooting Mingwm10.dll File Not Detected: Comprehensive Fixes Unveiled!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-aim-a-deep-dive-into-the-history-of-aol-instant-messenger/"><u>Understanding AIM: A Deep Dive Into the History of AOL Instant Messenger</u></a></li>
 </ul></div>
 

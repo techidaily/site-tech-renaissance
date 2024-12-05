@@ -1,7 +1,7 @@
 ---
 title: "1. Apple's Secret Project: Crafting an Encrypted Operating System for Enhanced AI Data Center Security – Unveiled Insights"
-date: 2024-11-24T16:00:51.814Z
-updated: 2024-11-25T16:01:32.961Z
+date: 2024-12-01T04:14:36.616Z
+updated: 2024-12-05T08:25:29.001Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is expected at WWDC 2024?
@@ -53,7 +53,7 @@ The event provides developers with access to experts, along with highlights of n
 "We're so excited to connect with developers from around the world for an extraordinary week of technology and community at WWDC24," Susan Prescott, Apple's VP of Worldwide Developer Relations, said in a news release. "WWDC is all about sharing new ideas and providing our amazing developers with innovative tools and resources to help them make something even more wonderful." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. You'll be hearing AI (or Apple Intelligence) a lot
@@ -73,7 +73,7 @@ Apple has also allegedly been seeking a partner for outside help, possibly teami
 More recently, rumors have suggested that some new AI features will include more intelligent and helpful searches in Safari, AI-generated emojis based on conversations in Messages, and an AI-powered [photo editing app](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/) similar to Google's Magic Eraser. It's worth noting that such features are believed to only function on the more recent Apple products, including the iPhone 15 Pro with its A17 Pro chip and M-series iPads and MacBooks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Don't forget the other acronym: RCS
@@ -87,7 +87,7 @@ To the surprise of many, except for the European Commission, Apple [announced la
 The decision to bring RCS to the iPhone came after mounting pressure from the European Union's Digital Markets Act (DMA), which stressed cross-platform compatibility. While a more [recent statement from Google](https://www.zdnet.com/article/google-seems-to-have-leaked-apples-timeframe-for-bringing-rcs-to-the-iphone/) suggested that Apple would integrate RCS later this fall, highlighting the transition at WWDC could potentially help Apple's defense against the [DOJ's antitrust lawsuit](https://x.com/getpeid/status/1798369533889302576), filed in March. Regardless of when and how Apple chooses to announce the new feature, it'll be big news for both iOS and Android users.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. MacOS 15, iPadOS 18, WatchOS 11, VisionOS 2, tvOS 18
@@ -128,16 +128,20 @@ As for [VisionOS](https://www.zdnet.com/article/10-things-id-like-to-see-in-visi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/10-viral-tweets-dominating-social-media/"><u>10 Viral Tweets Dominating Social Media</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-trim-videos-with-flair-in-windows-11-photo-apps/"><u>2024 Approved Trim Videos with Flair in Windows 11 Photo Apps</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-secrets-to-an-impressive-cover-letter-a-comprehensive-guide/"><u>ChatGPT Secrets to an Impressive Cover Letter - A Comprehensive Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/como-realizar-el-pago-con-facilidad-en-movavi-opciones-y-pasos-a-seguir/"><u>Cómo Realizar El Pago Con Facilidad en Movavi: Opciones Y Pasos a Seguir</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-efficiently-generating-clear-and-concise-images-thumbnails/"><u>In 2024, Efficiently Generating Clear and Concise Images Thumbnails</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-tecno-camon-30-pro-5g-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Tecno Camon 30 Pro 5G</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/leading-key-locators-market-review-find-your-perfect-match/"><u>Leading Key Locators Market Review: Find Your Perfect Match</u></a></li>
-<li><a href="https://win-blog.techidaily.com/master-the-art-of-fixing-pc-instability-during-starfield-gameplay-an-expert-guide/"><u>Master the Art of Fixing PC Instability During Starfield Gameplay: An Expert Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/optimize-and-revitalize-your-computer-overcoming-windows/"><u>Optimize and Revitalize Your Computer: Overcoming Windows</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/overcoming-missing-or-unavailable-helperdll-easy-repair-tips/"><u>Overcoming Missing or Unavailable Helper.dll – Easy Repair Tips</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-essential-guide-to-free-drive-diagnosis-apps-latest-picks/"><u>The Essential Guide to Free Drive Diagnosis Apps: Latest Picks</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-understanding-youtubes-legal-framework-vs-cc/"><u>[Updated] 2024 Approved Understanding YouTube's Legal Framework Vs. CC</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-access-an-array-of-personalized-ending-sounds-for-videos/"><u>[Updated] Access an Array of Personalized Ending Sounds for Videos</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-exciting-online-cam-challenges/"><u>[Updated] In 2024, Exciting Online Cam Challenges</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-navigating-the-world-of-instagram-posts-large-imagevideo-uploads-for-2024/"><u>[Updated] Navigating the World of Instagram Posts Large Image/Video Uploads for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-techniques-for-leveraging-telnet-services-in-windows-platform/"><u>Expert Techniques for Leveraging Telnet Services in Windows Platform</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-recover-lost-or-absent-xinput-1-3dll-components-efficiently/"><u>How To Recover Lost or Absent XInput 1-3.dll Components Efficiently</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-switch-off-iphone-15-propro-max-effortlessly/"><u>How To Switch Off iPhone 15 Pro/Pro Max Effortlessly</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-on-apple-iphone-12-mini-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email On Apple iPhone 12 mini? Heres the Best Fixes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-methods-for-creating-luts/"><u>In 2024, Innovative Methods for Creating LUTs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/inside-look-at-lgs-supply-pathways-what-you-need-to-be-aware-of/"><u>Inside Look at LG's Supply Pathways - What You Need to Be Aware Of</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-videdit-mac/"><u>New In 2024, VidEdit Mac</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/cket-to-1000-subscribers-in-days-for-2024/"><u>Skyrocket to 1,000 Subscribers in Days for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-correcting-colour-deviations-and-visual-anomalies-on-your-pc-screen/"><u>Step-by-Step Guide: Correcting Colour Deviations & Visual Anomalies On Your PC Screen</u></a></li>
+<li><a href="https://howto.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-vivo-x100-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-and-correcting-the-infamous-haldll-error-on-different-windows-platforms/"><u>Troubleshooting and Correcting the Infamous hal.dll Error on Different Windows Platforms</u></a></li>
 </ul></div>
 

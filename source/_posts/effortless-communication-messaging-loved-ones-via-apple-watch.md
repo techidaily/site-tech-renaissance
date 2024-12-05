@@ -1,7 +1,7 @@
 ---
 title: "Effortless Communication: Messaging Loved Ones via Apple Watch"
-date: 2024-11-24T16:00:31.081Z
-updated: 2024-11-25T16:00:47.322Z
+date: 2024-11-30T00:08:07.257Z
+updated: 2024-12-04T19:44:59.384Z
 tags:
   - apple
 categories:
@@ -26,16 +26,12 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to check in with a friend or family member from your Apple Watch
 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Update your devices
@@ -48,15 +44,15 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Send the default Check In through the Messages app
 
 Launch the Messages app on your Apple Watch. Start or continue a conversation with a trusted family member or friend. Tap the + icon to the left of the iMessage field. From the menu, select Check In. By default, the Check In screen will indicate a specific destination, such as home or work, and the estimated time of arrival from your current location. The feature will use a timer to determine how long it will take you to reach the destination. If you wish to share that information as is with the other person, tap Send.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. View the initial Check In notification
 
@@ -75,7 +71,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. View the actual Check in alert
@@ -101,7 +97,7 @@ To further customize the Check In, tap the Edit button at the Check In screen. T
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Add a destination and send the text
@@ -111,6 +107,10 @@ Next, tap the link for "Add a Destination." Start typing the address of the dest
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Set a Check In for a workout in the Messages app
 
@@ -154,20 +154,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-harnessing-the-power-of-instagrams-video-connectivity/"><u>[Updated] Harnessing the Power of Instagram's Video Connectivity</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-monitor-mastery-understanding-the-benefits-of-ultrawide-vs-uhd-4k-for-2024/"><u>[Updated] Monitor Mastery Understanding the Benefits of UltraWide vs UHD 4K for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-unite-film-selections-with-playlist-accumulation/"><u>2024 Approved Unite Film Selections with Playlist Accumulation</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/checking-in-is-psn-experiencing-downtime-or-are-connection-issues-on-your-end/"><u>Checking In: Is PSN Experiencing Downtime or Are Connection Issues on Your End?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/deciphering-the-buzz-around-googles-pixel-watch-gen-3-estimated-price-tag-release-date-and-gadget-specs-revealed-in-leaks/"><u>Deciphering the Buzz Around Google's Pixel Watch Gen 3: Estimated Price Tag, Release Date & Gadget Specs Revealed in Leaks</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-solutions-to-rectify-distorted-or-no-output-on-your-iphones-speakers/"><u>DIY Solutions to Rectify Distorted or No Output on Your iPhone's Speakers</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-avi-video-rotators-a-roundup-of-the-best-tools-for-all-platforms-for-2024/"><u>Free AVI Video Rotators A Roundup of the Best Tools for All Platforms for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-can-switching-to-an-rtx-gpu-improve-your-pc-experience/"><u>How Can Switching to an RTX GPU Improve Your PC Experience?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/pixel-smartwatch-3-foretelling-of-costs-expected-launch-date-specs-and-latest-rumors-explained/"><u>Pixel Smartwatch 3 - Foretelling of Costs, Expected Launch Date, Specs & Latest Rumors Explained</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-windows-recovery-issues-the-ultimate-guide/"><u>Resolving Windows Recovery Issues: The Ultimate Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/safety-of-third-party-integrations-for-ai-model-chatgpt-what-you-need-to-know/"><u>Safety of Third-Party Integrations for AI Model ChatGPT: What You Need To Know</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-composing-and-sharing-imessage-voice-notes/"><u>Step-by-Step Tutorial: Composing and Sharing iMessage Voice Notes</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-next-big-thing-an-insight-into-the-latest-apple-iphone-introduction/"><u>The Next Big Thing: An Insight Into the Latest Apple iPhone Introduction</u></a></li>
-<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Nubia Red Magic 8S Pro+? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-proven-approaches-to-amass-elite-copyright-free-imagery/"><u>[New] 2024 Approved Proven Approaches to Amass Elite, Copyright-Free Imagery</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-future-of-android-time-lapses-innovations-in-video-capture/"><u>[New] The Future of Android Time-Lapses Innovations in Video Capture</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-how-to-use-markers-in-video-recording-and-editing-in-2024/"><u>[Updated] How to Use Markers in Video Recording and Editing, In 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apples-revolutionary-robotic-helper-coming-soon-learn-about-projected-timelines-and-tech-insights/"><u>Apple's Revolutionary Robotic Helper Coming Soon? Learn About Projected Timelines & Tech Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-how-claude-outperforms-chatgpt-in-ai-chatbots-four-key-advantages/"><u>Discover How Claude Outperforms ChatGPT in AI Chatbots: Four Key Advantages</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-critical-msi-z370-a-pro-motherboard-drivers-improve-your-pcs-performance-today/"><u>Download Critical MSI Z370-A Pro Motherboard Drivers - Improve Your PC's Performance Today</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/finding-and-buying-the-best-televisions-to-suit-your-homes-needs/"><u>Finding & Buying the Best Televisions to Suit Your Home's Needs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-assign-new-audio-cues-to-your-gmail-messages/"><u>How to Assign New Audio Cues to Your Gmail Messages</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-honor-play-7t-by-fonelab-android-recover-music/"><u>How to recover old music from your Honor Play 7T</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-samsung-galaxy-m14-5g-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Samsung Galaxy M14 5G Phones</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-lava-blaze-pro-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Lava Blaze Pro 5G FRP Bypass</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-saving-instagram-dialogues-with-ease/"><u>Mastering the Art of Saving Instagram Dialogues with Ease</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-missing-mss32dll-essential-steps-to-restore-functionality/"><u>Overcoming 'Missing MSS32.DLL' - Essential Steps to Restore Functionality</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-to-restoring-charge-functionality-in-ps5-gamepads/"><u>Step-by-Step Guide to Restoring Charge Functionality in PS5 Gamepads</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-essentials-of-choosing-between-standard-hulu-and-plus-tier/"><u>The Essentials of Choosing Between Standard Hulu and Plus Tier</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/title-tag-and-meta-description-incorporate-primary-keywords-in-the-title-tag-for-instance-quantum-computings-potential-to-revolutionize-ai-explore-how-ensur8/"><u>Title Tag and Meta Description: Incorporate Primary Keywords in the Title Tag. For Instance, Quantum Computing's Potential to Revolutionize AI - Explore How. Ensure Your Meta Description Includes Secondary Keywords or Long Tail Terms Too</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-fix-boot-manager-failures-and-get-your-pc-running-again/"><u>Ultimate Guide to Fix Boot Manager Failures & Get Your PC Running Again 💻</u></a></li>
 </ul></div>
 

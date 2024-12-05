@@ -1,7 +1,7 @@
 ---
 title: "Discover My Ultimate List: The Best 13 True Crime Podcast Series on the Web"
-date: 2024-09-04T01:12:10.214Z
-updated: 2024-09-05T01:12:10.214Z
+date: 2024-12-03T22:57:15.632Z
+updated: 2024-12-05T04:58:18.979Z
 categories:
   - BestProducts
 description: "This Article Describes Discover My Ultimate List: The Best 13 True Crime Podcast Series on the Web"
@@ -23,6 +23,10 @@ of 07
 ## [Word Game Tournaments for iMessage: Boggle With Friends](https://www.zynga.com/games/boggle-with-friends/)
 
 ![Boggle With Friends app](https://www.lifewire.com/thmb/xsc9WhxFFWVTf-Fdnhii-kY5wX0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_best-imessage-games-2018-4176445-5c736d1b3b2441eb8681e80bdb12127a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  What We Like
 
@@ -88,22 +92,14 @@ of 07
 
 of 07
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [Best iMessage Chess Game: Checkmate!](https://apps.apple.com/app/id1143204905)
 
 ![Checkmate! for iMessage](https://www.lifewire.com/thmb/YAwb50eJDF0J1xKhVVsymSlxwPQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009_best-imessage-games-2018-4176445-6e27040ee0334eca905354dcb59b79d6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  What We Like
 
 * Sync your game across multiple devices.
@@ -124,27 +120,13 @@ of 07
 of 07
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [Make Your Own iMessage Slide Puzzles: WIT Puzzles](https://apps.apple.com/app/id1152446245)
 
 ![WIT Puzzles app for iMessage](https://www.lifewire.com/thmb/ao-dOdN2BASuiCO0HyeOFVteEsY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/010_best-imessage-games-2018-4176445-f2ecc07924ef488f9ffa1d62da8e904f.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  What We Like
 
 * Make puzzles as simple or complex as you like.
@@ -163,22 +145,10 @@ _WIT Puzzles_ turns your photos into slide puzzles for your friends to unscrambl
 
 of 07
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [Best Icebreaker Game for iMessage: Truth Truth Lie](https://truthtruthlie.co/)
 
 ![Truth Truth Lie app for iMessage](https://www.lifewire.com/thmb/zke4O_mQS1ibr8X1Ee2u1PGkyYk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007_best-imessage-games-2018-4176445-41f30965c86440ce842f4ef11db1c0e2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  What We Like
 
 * Text-only mode if you don't feel like recording videos.
@@ -197,9 +167,17 @@ of 07
 
 of 07
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [Air Hockey With a Twist: Let's Puck It!](https://apps.apple.com/app/lets-puck-it/id1163033961)
 
 ![Let's Puck It! app for iMessage](https://www.lifewire.com/thmb/5vzBEYum7O1TKZFvmHqdHQRaicM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-imessage-games-2018-4176445-eef48fecf87b445f99a3a24e2a82034f.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  What We Like
 
@@ -229,11 +207,9 @@ _Let’s Puck It!_ puts an interesting spin on an old American pastime by encour
 ![Downloading iMessage games on an iPhone](https://www.lifewire.com/thmb/NyUyS4sS2l4N7s41wdvAWyaKIiM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Download-iMessage-Game-227e0b0ecd064c8e99a78b92ae6588a8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Play iMessage Games
 
  After downloading your game of choice, it's added to the end of your apps list. To challenge your friends within iMessage:
@@ -276,8 +252,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -285,4 +259,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-win10s-best-practices-for-gaming-video-capture-for-2024/"><u>[New] Win10's Best Practices for Gaming Video Capture for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-the-ultimate-step-by-step-guide-to-uploading-videos-on-youtube/"><u>[Updated] 2024 Approved The Ultimate Step-by-Step Guide to Uploading Videos on YouTube</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/boosting-teamwork-through-smart-use-of-slack-reminder-features/"><u>Boosting Teamwork Through Smart Use of Slack Reminder Features</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-viewers-on-your-youtube-content-a-guide/"><u>Discover Viewers on Your YouTube Content: A Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-resolved-managing-delayed-service-response-overcoming-error-1053/"><u>Error Resolved: Managing Delayed Service Response, Overcoming Error 1053</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-nba-2k21-pc-crash-problem-once-and-for-all/"><u>Fixing the NBA 2K21 PC Crash Problem Once and For All</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/lock-your-infinix-smart-7-hd-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Infinix Smart 7 HD Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-through-options-the-5-key-aspects-to-review-before-investing-in-a-fitness-monitor/"><u>Navigating Through Options: The 5 Key Aspects to Review Before Investing in a Fitness Monitor</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/oneplus-10-rumored-details-revealed-estimated-price-points-release-timeline-and-feature-breakdown/"><u>OnePlus 10 Rumored Details Revealed – Estimated Price Points, Release Timeline & Feature Breakdown</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixes-for-silent-streams-on-twitch-solutions-included/"><u>Resolved: Fixes for Silent Streams on Twitch - Solutions Included</u></a></li>
+<li><a href="https://win-blog.techidaily.com/seamless-steps-for-a-flawless-discord-install-experience/"><u>Seamless Steps for a Flawless Discord Install Experience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-fixes-for-stubborn-media-drives-that-wont-open/"><u>Step-by-Step Fixes for Stubborn Media Drives That Won't Open</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-process-of-uploading-full-pictures-to-instagram-accounts/"><u>Step-by-Step Process of Uploading Full Pictures to Instagram Accounts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-electric-car-brands-entry-into-mobile-tech-rumored-phone-info-and-release-timeline/"><u>The Electric Car Brand's Entry Into Mobile Tech - Rumored Phone Info & Release Timeline</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-walkthrough-for-permanent-deletion-of-a-yahoo-mail-account/"><u>Ultimate Walkthrough for Permanent Deletion of a Yahoo! Mail Account</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unlock-free-animation-top-software-for-windows-and-mac/"><u>Unlock Free Animation Top Software for Windows and Mac</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138589394-9781452539119-who-would-i-be-if-i-werent-so-afraid/"><u>Who Would I Be If I Weren't so Afraid? | Free Book</u></a></li>
+</ul></div>
 

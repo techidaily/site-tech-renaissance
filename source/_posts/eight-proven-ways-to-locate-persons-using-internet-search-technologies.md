@@ -1,7 +1,7 @@
 ---
 title: Eight Proven Ways to Locate Persons Using Internet Search Technologies
-date: 2024-09-04T01:12:08.738Z
-updated: 2024-09-05T01:12:08.738Z
+date: 2024-11-30T21:13:18.711Z
+updated: 2024-12-05T06:01:23.138Z
 categories:
   - BestProducts
 description: This Article Describes Eight Proven Ways to Locate Persons Using Internet Search Technologies
@@ -13,6 +13,10 @@ thumbnail: https://www.lifewire.com/thmb/8KM9Sm9BT5x1d-AVTfriBAcB1hs=/400x300/fi
  NETGEAR routers usually have a default password of**password** and a default IP address of either**192.168.1.1** or**192.168.0.1** . However, as the table below shows, there are plenty of exceptions.
 
 [The Best Netgear Routers of 2024](https://www.lifewire.com/best-netgear-routers-4159862)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## NETGEAR Default Passwords (Valid July 2024)
 
@@ -259,6 +263,10 @@ thumbnail: https://www.lifewire.com/thmb/8KM9Sm9BT5x1d-AVTfriBAcB1hs=/400x300/fi
 
  If you don't see your NETGEAR router, switch, or other network device listed in the table above,[contact us](https://www.lifewire.com/mailto:feedback@lifewire.com) to have your router added to the list.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What to Do If the NETGEAR Default Password Doesn't Work
 
  When the NETGEAR default password for your device is no longer the configured password, reset the device to the factory defaults.
@@ -270,11 +278,9 @@ thumbnail: https://www.lifewire.com/thmb/8KM9Sm9BT5x1d-AVTfriBAcB1hs=/400x300/fi
  If this process doesn't work, reference the PDF manual for your specific NETGEAR router, available from[NETGEAR Support](https://www.netgear.com/support/) .
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What to Do If the NETGEAR Default IP Address Doesn't Work
 
  A factory reset also resets the IP address to the default for your model in the table above.
@@ -286,11 +292,9 @@ thumbnail: https://www.lifewire.com/thmb/8KM9Sm9BT5x1d-AVTfriBAcB1hs=/400x300/fi
  If this doesn't work,[find the default gateway IP address](https://www.lifewire.com/how-to-find-your-default-gateway-ip-address-2626072) to determine the default gateway on your network, which is also the IP address for the router.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Change Your NETGEAR Default Password
 
  While you can log in to your NETGEAR router or switch with the default data, this information is all public. This means that anyone can access any NETGEAR device and make changes, including injecting malware and doing other damage.
@@ -319,8 +323,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -328,4 +330,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-premier-programs-to-transform-webcam-footage-for-2024/"><u>[New] Premier Programs to Transform Webcam Footage for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-the-great-growers-guide-the-best-farmer-games/"><u>[Updated] 2024 Approved The Great Growers' Guide The Best Farmer Games</u></a></li>
+<li><a href="https://common-error.techidaily.com/compatibility-check-required-a-graphics-processor-with-directx-11-support-is-mandatory/"><u>Compatibility Check Required: A Graphics Processor with DirectX 11 Support Is Mandatory</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-solutions-for-msconfigexe-is-not-found-errors/"><u>Effective Solutions for 'msconfig.exe Is Not Found' Errors</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/gmail-syncing-tutorial-for-apple-watch-owners/"><u>Gmail Syncing Tutorial for Apple Watch Owners</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Infinix Note 30 Pro? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-7-plus-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone 7 Plus</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-swiftly-convert-audio-turn-your-aacs-into-avis-without-cost-using-movavis-service/"><u>How To Swiftly Convert Audio: Turn Your AACs Into AVIs Without Cost Using Movavi's Service</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/learn-how-to-press-and-combine-letters-to-form-a-heart-on-any-keyboard/"><u>Learn How to Press and Combine Letters to Form a Heart on Any Keyboard</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/leveraging-likes-and-shares-top-30-facebook-marketing-steps/"><u>Leveraging Likes and Shares Top 30 Facebook Marketing Steps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-gamers-iphone-buying-guide-which-model-maximizes-your-mobile-gaming-experience/"><u>The Gamer's iPhone Buying Guide: Which Model Maximizes Your Mobile Gaming Experience?</u></a></li>
+</ul></div>
 

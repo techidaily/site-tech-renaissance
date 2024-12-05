@@ -1,7 +1,7 @@
 ---
 title: "Top 4 Essential AI Innovations iPhones Must Embrace to Match Android's Capabilities: Insights"
-date: 2024-11-22T16:01:04.660Z
-updated: 2024-11-25T16:01:35.840Z
+date: 2024-12-04T10:01:13.346Z
+updated: 2024-12-05T09:08:03.954Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Generative AI for a context-aware Siri
@@ -55,7 +55,7 @@ If Apple can give Siri generative AI, iPhone users could ask the voice assistant
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
@@ -69,7 +69,7 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Personalized text generation
@@ -81,7 +81,7 @@ ChatGPT became popular for its ability to generate text and have conversations t
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
@@ -126,19 +126,17 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-in-depth-analysis-of-premium-apps-to-boost-vtuber-audibility/"><u>[New] In 2024, In-Depth Analysis of Premium Apps to Boost Vtuber Audibility</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-unveiling-secrets-top-strategies-for-advanced-srt-tweaks-on-apple-for-2024/"><u>[New] Unveiling Secrets Top Strategies for Advanced SRT Tweaks on Apple for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-expertise-in-film-perfecting-the-art-of-chroma-key-for-2024/"><u>[Updated] Expertise in Film Perfecting the Art of Chroma Key for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-top-tips-for-effective-tiktok-usage-on-a-mac/"><u>In 2024, Top Tips for Effective TikTok Usage on a Mac</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/master-the-art-of-selfies-with-6-key-insights-for-choosing-your-dream-selfie-stick/"><u>Master the Art of Selfies with 6 Key Insights for Choosing Your Dream Selfie Stick</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/maximize-engagement-the-ultimate-list-of-5-automated-pinterest-schedulers-to-experiment-with/"><u>Maximize Engagement: The Ultimate List of 5 Automated Pinterest Schedulers to Experiment With!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigating-amazon-prime-day-2024-your-ultimate-resource-for-deals-and-info/"><u>Navigating Amazon Prime Day 2024 – Your Ultimate Resource for Deals & Info</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/secure-your-privacy-with-easy-to-follow-picscanner-methods/"><u>Secure Your Privacy with Easy-to-Follow PicScanner Methods</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/step-by-step-guide-converting-okru-streams-into-mp4-and-other-formats-on-macwindows/"><u>Step-by-Step Guide: Converting Ok.ru Streams Into MP4 & Other Formats on Mac/Windows</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-to-change-the-built-in-browser-of-your-samsung-tv/"><u>Step-by-Step Instructions to Change the Built-In Browser of Your Samsung TV</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/swap-and-sync-connecting-your-logitech-wireless-mouse-to-another-transmitter/"><u>Swap and Sync: Connecting Your Logitech Wireless Mouse to Another Transmitter</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-oneplus-nine-breakdown-quantitative-disappointments/"><u>The OnePlus Nine Breakdown: Quantitative Disappointments</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/tutorial-for-switching-the-screen-based-keyboard-feature-in-windows-11/"><u>Tutorial for Switching the Screen-Based Keyboard Feature in Windows 11</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-from-capture-to-share-proven-methods-for-live-360-video-on-youtube/"><u>[New] 2024 Approved From Capture to Share Proven Methods for Live 360° Video on Youtube</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-step-by-step-process-to-get-a-clean-canvas-in-figma/"><u>[New] 2024 Approved Step-by-Step Process to Get a Clean Canvas in Figma</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-dive-into-video-production-mastering-green-screens-on-yt/"><u>[Updated] Dive Into Video Production Mastering Green Screens on YT</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-twisting-tales-in-photography-the-ultimate-guide-to-angled-spins-on-digital-platforms/"><u>[Updated] In 2024, Twisting Tales in Photography The Ultimate Guide to Angled Spins on Digital Platforms</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-psvr-2-release-schedule-all-announced-titles/"><u>Complete PSVR 2 Release Schedule: All Announced Titles</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-tips-preparing-yourself-before-purchasing-stereo-audio-equipment/"><u>Essential Tips: Preparing Yourself Before Purchasing Stereo Audio Equipment</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/inside-look-at-meta-quest-3-lite-forthcoming-release-dates-and-leaked-hardware-specifications/"><u>Inside Look at Meta Quest 3 Lite - Forthcoming Release Dates and Leaked Hardware Specifications</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/most-efficient-cable-modemrouter-combinations-available/"><u>Most Efficient Cable Modem/Router Combinations Available</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-s-hottest-vlog-editor-apps-for-ios-and-android-devices-for-2024/"><u>New S Hottest Vlog Editor Apps for iOS and Android Devices for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/streaming-wars-the-digital-platform-showdown-for-2024/"><u>Streaming Wars The Digital Platform Showdown for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-pick-6-top-rated-journaling-apps-to-transform-your-thought-processes/"><u>The Ultimate Pick: 6 Top-Rated Journaling Apps to Transform Your Thought Processes</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/top-10-best-flvto-alternatives-youtube-converter-you-can-try/"><u>Top 10 Best Flvto Alternatives YouTube Converter You Can Try</u></a></li>
 </ul></div>
 

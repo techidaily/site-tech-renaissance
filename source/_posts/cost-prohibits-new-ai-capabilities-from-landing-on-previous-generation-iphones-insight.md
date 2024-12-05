@@ -1,7 +1,7 @@
 ---
 title: Cost Prohibits New AI Capabilities From Landing on Previous Generation iPhones - Insight
-date: 2024-11-18T20:04:30.783Z
-updated: 2024-11-25T09:13:07.258Z
+date: 2024-12-03T09:58:07.207Z
+updated: 2024-12-04T18:43:22.557Z
 tags:
   - apple
 categories:
@@ -37,7 +37,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The cost of GPU processing
@@ -49,7 +49,7 @@ Advanced AI features require substantial computational power, typically provided
 Even [major AI service providers](https://www.zdnet.com/article/best-ai-chatbot/) such as OpenAI, Microsoft, and Google encounter challenges in offering dependable and quick access to LLM and Generative AI models to the general public without downtime and overcommitting resources. The shortage and cost of GPU-enabled servers make these issues worse. To maintain the rapid response times expected by its customers, Apple will need to invest substantially in servers, data centers, and edge infrastructure -- an infrastructure level it likely does not currently possess.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple's approach to Private Cloud Compute (PCC)
@@ -61,7 +61,7 @@ For the initial rollout of Apple Intelligence, the company has chosen a hybrid a
 Apple is currently focused on rolling out its [Generative AI services](https://www.zdnet.com/article/apple-unveils-on-device-ai-image-generator-for-iphone-ipad-and-mac/) to high-end devices as part of the initial phase of Apple Intelligence deployment. This allows Apple to enhance its AI capabilities and infrastructure before expanding to a wider range of devices. To bring Apple Intelligence to the rest of its ecosystem, the company will likely deploy AI-accelerated server appliances at the edge, enabling less capable devices to benefit from advanced AI features. However, this infrastructure is not yet ready for large-scale deployment, as Apple's shift towards AI development is still recent.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The challenges of edge computing
@@ -75,7 +75,7 @@ While NVIDIA is a major player in the GPU server space, others include tradition
 As reported by _The Register_, Apple is [developing its own AI servers](https://www.theregister.com/2024/06/11/apple%5Fbuilt%5Fai%5Fcloud%5Fservers%5Fos/), which are expected to be more cost-effective and better integrated with its ecosystem. These servers are currently being tested in data centers for foundation model use, and a broader rollout is anticipated in 2025\. This phased approach ensures Apple can maintain high privacy, security, and user experience standards while gradually expanding its AI capabilities across its device lineup.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Broader implications for IoT and other devices
@@ -120,19 +120,24 @@ As Apple continues developing its AI infrastructure, including potential edge co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-recipe-rendezvous-top-30-channels-with-a-taste-for-success/"><u>[New] In 2024, Recipe Rendezvous Top 30 Channels with a Taste for Success</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-channelart-essentials-10-digital-tools-to-design-logos-and-themes/"><u>[Updated] In 2024, ChannelArt Essentials 10 Digital Tools to Design Logos & Themes</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/best-of-the-bunch-ps5-games-only-available-here/"><u>Best of the Bunch: PS5 Games Only Available Here</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-vs-claude-which-one-reigns-supreme-in-conversational-ai/"><u>ChatGPT Vs. Claude: Which One Reigns Supreme in Conversational AI?</u></a></li>
-<li><a href="https://win-data.techidaily.com/creative-tims-argon-premium-open-source-bootstrap-4-control-panel-free/"><u>Creative Tim's Argon: Premium, Open-Source Bootstrap 4 Control Panel (Free)</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-establish-a-new-identity-in-gmail-the-ultimate-guide-to-using-an-email-alias/"><u>How to Establish a New Identity in Gmail: The Ultimate Guide to Using an Email Alias</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-achieving-flawless-aerial-shots-the-best-gimbals-for-drones/"><u>In 2024, Achieving Flawless Aerial Shots The Best Gimbals for Drones</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-update-short-form-video-coverage/"><u>In 2024, Update Short-Form Video Coverage</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/is-it-possible-to-stream-netflix-on-nintendo-switch/"><u>Is It Possible To Stream Netflix On Nintendo Switch?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/revamping-your-online-presence-on-discord-change-profile-pic-guide/"><u>Revamping Your Online Presence on Discord – Change Profile Pic Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-into-the-mutant-world-the-correct-sequence-to-watch-x-men-movies/"><u>Step Into the Mutant World: The Correct Sequence to Watch X-Men Movies</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/the-zoomers-guide-to-instagram-story-clarity-for-2024/"><u>The Zoomer’s Guide to Instagram Story Clarity for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-resolving-issues-with-unresponsive-macos-applications/"><u>Troubleshooting Tips: Resolving Issues with Unresponsive macOS Applications</u></a></li>
-<li><a href="https://driver-install.techidaily.com/win11pluse1659fwu-latest-drivers-release/"><u>Win11+E1659FWU: Latest Drivers Release</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-breaking-barriers-download-and-store-your-fmb-conversations/"><u>[New] In 2024, Breaking Barriers Download & Store Your FMB Conversations</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-continuous-media-logging-firms/"><u>2024 Approved Continuous Media Logging Firms</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-comprehveiw-where-does-verizon-stand-in-todays-5g-scene/"><u>A Comprehveiw: Where Does Verizon Stand in Today's 5G Scene?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-creative-domain-who-holds-the-title/"><u>AI's Creative Domain: Who Holds The Title?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/blueprint-of-unique-recording-gadgets/"><u>Blueprint of Unique Recording Gadgets</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/capturing-the-perfect-shot-zooming-techniques-for-apple-tablets-and-phones/"><u>Capturing the Perfect Shot: Zooming Techniques for Apple Tablets and Phones</u></a></li>
+<li><a href="https://win-able.techidaily.com/chrome-page-load-issues-solutions-and-tips/"><u>Chrome Page Load Issues: Solutions and Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/dive-into-the-details-contrasting-free-and-paid-hulu-plans/"><u>Dive Into the Details: Contrasting Free and Paid Hulu Plans</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/enlarge-images-pixel-perfect-preservation-for-2024/"><u>Enlarge Images Pixel-Perfect Preservation for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-7-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 7 to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/leading-group-chat-tools-for-seamless-online-communication/"><u>Leading Group Chat Tools for Seamless Online Communication</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-time-settings-a-comprehensive-tutorial-for-kindle-paperwhite-users/"><u>Mastering Time Settings: A Comprehensive Tutorial for Kindle Paperwhite Users</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mastery-in-making-sense-top-6-persuasive-video-types/"><u>Mastery in Making Sense Top 6 Persuasive Video Types</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-silence-effective-strategies-for-repairing-sound-problems-in-powerpoint/"><u>Overcoming Silence: Effective Strategies For Repairing Sound Problems In PowerPoint</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/reviving-your-home-theater-experience-a-complete-guide-to-resetting-samsung-soundbars/"><u>Reviving Your Home Theater Experience: A Complete Guide to Resetting Samsung Soundbars</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-samsung-galaxy-xcover-7-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Samsung Galaxy XCover 7 Phone Hassle-Free</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-leading-eight-free-windows-html-editor-applications-to-boost-your-website-building-skills/"><u>The Leading Eight FREE Windows HTML Editor Applications to Boost Your Website Building Skills</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/tiny-tranquil-houses-japanese-style-for-2024/"><u>Tiny Tranquil Houses Japanese Style for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-made-easy-clearing-cache-to-improve-android-functionality/"><u>Troubleshooting Made Easy: Clearing Cache to Improve Android Functionality</u></a></li>
 </ul></div>
 

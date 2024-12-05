@@ -1,7 +1,7 @@
 ---
 title: "Guide: Sending & Receiving iMessage From a PC with Windows - Tech Tips"
-date: 2024-11-18T16:03:34.082Z
-updated: 2024-11-25T16:01:24.436Z
+date: 2024-11-28T06:52:59.938Z
+updated: 2024-12-04T22:04:24.919Z
 tags:
   - apple
 categories:
@@ -42,10 +42,6 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to send and receive iMessages on Windows
 
 ## Use Microsoft Phone Link
@@ -82,15 +78,15 @@ Your phone should ask if you want your PC to receive notifications from your iPh
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Run Phone Link
 
 The Phone Link welcome screen should appear on your PC and ask if you want to open the app each time you log into Windows. If you do, check the box.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Access your recent messages
 
@@ -99,7 +95,7 @@ To access your iPhone's text messages in Phone Link, tap the Messages heading at
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Start a new chat
@@ -107,6 +103,10 @@ Screenshot by Lance Whitney/ZDNET
 You can also start a new conversation. To do this, select one of your displayed contacts and then compose and send your text. To chat with someone else, click the New Message icon and type the name or phone number of the recipient. Compose and send your message.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Use Intel Unison
 
@@ -130,19 +130,11 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Launch the Windows Unison app
 
 At the "Let's get started" screen in the Windows Unison app, click the icon for "Send messages." 
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  4\. Go to the Messages screen
 
@@ -150,11 +142,19 @@ At the Messages screen, click the icon for "Compose a new message." Choose the r
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Send a message
 
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -192,20 +192,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-video-mastery-unlocked-the-top-5-online-techniques-to-shorten-vimeo-content/"><u>[New] In 2024, Video Mastery Unlocked The Top 5 Online Techniques to Shorten Vimeo Content</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solve-how-to-block-ads-in-firefox-quickly-and-easily/"><u>[Solve] How to Block Ads in Firefox | Quickly & Easily</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-step-towards-better-gameplay-replace-joy-con-joysticks/"><u>A Step Towards Better Gameplay: Replace Joy-Con Joysticks</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effective-ways-to-prevent-your-mac-from-entering-sleep-mode/"><u>Effective Ways to Prevent Your Mac From Entering Sleep Mode</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-itel-s23-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Itel S23 | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Asus ROG Phone 8 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/should-you-trust-ai-like-chatgpt-and-bard-for-financial-advice/"><u>Should You Trust AI Like ChatGPT and Bard for Financial Advice?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solve-oculus-air-link-woes-expert-tips-for-a-smooth-windows-setup/"><u>Solve Oculus Air Link Woes: Expert Tips for a Smooth Windows Setup</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-activating-adobe-flash-player-in-chrome-firefox-opera-and-edge/"><u>Step-by-Step Guide: Activating Adobe Flash Player in Chrome, Firefox, Opera & Edge</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-mastering-cddvd-burning-with-windows-11/"><u>Step-by-Step Guide: Mastering CD/DVD Burning with Windows 11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-fix-for-cold-war-stuttering-and-frame-rate-drops-on-pc-expert-tips-and-tricks/"><u>The Ultimate Fix for Cold War Stuttering and Frame Rate Drops on PC: Expert Tips & Tricks</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ltimate-guide-to-designing-powerful-youtube-logos-for-2024/"><u>The Ultimate Guide to Designing Powerful YouTube Logos for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-and-fixing-blurred-image-problem-in-cyberpunk-2077-gameplay/"><u>Troubleshooting and Fixing Blurred Image Problem in Cyberpunk 2077 Gameplay</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-resolving-the-presence-of-hxtrexe-in-your-windows-10-system/"><u>Troubleshooting Guide: Resolving the Presence of hxtr.exe in Your Windows 10 System</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/unlock-your-apple-iphone-se-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>Unlock Your Apple iPhone SE in Minutes with ICCID Code Everything You Need to Know</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-shine-strategy-top-tools-to-brighten-streams-for-2024/"><u>[New] Shine Strategy Top Tools to Brighten Streams for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-secrets-of-saving-screenshots-tips-and-tricks-for-dell-users-for-2024/"><u>[Updated] Secrets of Saving Screenshots Tips & Tricks for Dell Users for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/achieving-triumph-with-apple-vision-pro-seven-key-improvements-insights-by-zdnet-exclusive/"><u>Achieving Triumph with Apple Vision Pro: Seven Key Improvements - Insights by ZDNet Exclusive</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/boost-your-productivity-and-travel-experience-the-new-superior-upgrades-of-leading-xr-eyewear-reviewed/"><u>Boost Your Productivity and Travel Experience: The New Superior Upgrades of Leading XR Eyewear Reviewed!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/from-dull-desk-jockey-to-dynamic-digital-explorer-the-metaverse-revolutionizing-career-paths-for-office-fatigue-zdnet/"><u>From Dull Desk Jockey to Dynamic Digital Explorer: The Metaverse Revolutionizing Career Paths for Office Fatigue | ZDNET</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/guide-to-establishing-disposable-social-media-presence-for-vr-headset-enthusiasts/"><u>Guide to Establishing Disposable Social Media Presence for VR Headset Enthusiasts</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-civi-3-phone-without-pin-by-drfone-android/"><u>How to Unlock Xiaomi Civi 3 Phone without PIN</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/is-it-worth-the-wait-how-to-decide-on-pre-ordering-htc-vive-xr-elite-virtual-reality-set-techradar/"><u>Is It Worth the Wait? How to Decide on Pre-Ordering HTC Vive XR Elite Virtual Reality Set | TechRadar</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/macbook-multi-display-configuration-a-step-by-step-guide/"><u>Macbook Multi-Display Configuration: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-virtual-realities-with-metas-quest-3-headset-a-game-changer-in-mr-tech-zdnet/"><u>Navigating Virtual Realities with Meta’s Quest 3 Headset – A Game Changer in MR Tech? | ZDNet</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/perfecting-your-audio-presence-in-video-creations/"><u>Perfecting Your Audio Presence in Video Creations</u></a></li>
+<li><a href="https://extra-information.techidaily.com/step-by-step-how-to-download-and-personalize-whatsapp-ringtone-on-mobile/"><u>Step-By-Step How to Download and Personalize WhatsApp Ringtone on Mobile</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/streamlining-minecraft-by-boosting-ram-capacity-for-2024/"><u>Streamlining Minecraft by Boosting RAM Capacity for 2024</u></a></li>
 </ul></div>
 

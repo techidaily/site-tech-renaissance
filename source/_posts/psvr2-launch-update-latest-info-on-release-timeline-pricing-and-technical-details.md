@@ -1,7 +1,7 @@
 ---
 title: "PSVR2 Launch Update: Latest Info on Release Timeline, Pricing & Technical Details"
-date: 2024-09-04T01:12:07.485Z
-updated: 2024-09-05T01:12:07.485Z
+date: 2024-11-28T18:44:28.498Z
+updated: 2024-12-05T08:32:33.470Z
 categories:
   - BestProducts
 description: "This Article Describes PSVR2 Launch Update: Latest Info on Release Timeline, Pricing & Technical Details"
@@ -31,6 +31,10 @@ Sony Interactive Entertainment
 
  The $599.99 option is identical, but includes a PlayStation Store voucher code for_Horizon Call of the Mountain_ .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## PSVR 2 Features 
 
  Sony calls the PlayStation VR2 a "true next-gen experience with high-fidelity visuals, new sensory features, and enhanced tracking – along with a simplified single-cord setup." Their[ PlayStation VR2: The Ultimate FAQ](https://blog.playstation.com/2023/02/06/playstation-vr2-the-ultimate-faq/) is a great source for all things PSVR 2\. Below are some of these notable features.
@@ -50,17 +54,9 @@ Sony Interactive Entertainment
 * Set up your space and view your surroundings while wearing the headset via the See-Through View feature. This is possible through the headset's function key, or Quick Settings
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## PSVR 2 Specs and Hardware 
 
  These are the official specs from Sony:
@@ -84,17 +80,9 @@ Sony Interactive Entertainment
 ![Sony PS VR2 headset and controllers](https://www.lifewire.com/thmb/YQOZPsDJRvkR6H16-bJbeNPwiEo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sony-psvr2-headset-controllers-260b6a7a01394b4eb22225694cfa4632.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="80" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Sony
 
  Instead, you're put through a calibration that make sure your eyes are situated properly. It works by showing you two circles on an animated face. Just adjust the headset's fit and IPD so your eyes (the circles) look normal on the cartoon's face.
@@ -104,11 +92,9 @@ Sony
 [  Sony VR Headset: News and Expected Price, Release Date, Specs; and More Rumors ](https://www.lifewire.com/sony-vr-headset-news-and-expected-price-release-date-specs-and-more-rumors-8656495) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## PSVR 2 Controllers 
 
 [ Sony revealed the PS5 VR controller](https://blog.playstation.com/2021/03/18/next-gen-vr-on-ps5-the-new-controller/) in 2021\. The orb-like design looks ergonomic and will, according to Sony, allow developers more freedom to create unique gameplay experiences. The controllers have exciting new features like adaptive triggers, haptic feedback, and finger touch detection for smoother and more realistic gameplay.
@@ -116,11 +102,9 @@ Sony
 ![Hands in the PSVR 2 controllers](https://www.lifewire.com/thmb/10YFeOcuuE8u308PEiKqtTNmyyg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/psvr-controllers-216b1d9a6fd1492ebdcbfc8a1b40e847.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Sony
 
 | PlayStation VR2 Sense Controller Specs |                                                                                                                                                                                                                                              |
@@ -132,12 +116,6 @@ Sony
 | **Communication:**                     | Bluetooth 5.1                                                                                                                                                                                                                                |
 | **Battery:**                           | Built-in Lithium-ion rechargeable battery​                                                                                                                                                                                                   |
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Confirmed PSVR 2 Games 
 
 [ Over 40 titles launched the same day as the PSVR 2 release](https://blog.playstation.com/2023/02/21/10-new-ps-vr2-titles-revealed-launch-window-lineup-now-over-40-games/) , with others arriving shortly after or at some time in the future. There are currently[ over 100 games in development](https://www.lifewire.com/psvr-2-games-list-7509088) .
@@ -166,18 +144,6 @@ Sony
 
  It's worth noting here that[ there's no backwards compatibility for PSVR games](https://www.playstation.com/en-us/support/hardware/ps-vr2-compatibility/) , so you can't play original PSVR games on the PSVR 2\. The[ PlayStation Store website lists PSVR 2 games](https://store.playstation.com/en-us/category/c0fce398-e580-4d7d-b952-c6594517a8b6/1) that you can filter by price, genre, and more. Sony says games that work with the PSVR 2 have prominent branding elements to indicate compatibility.
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="80" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  The Latest News About the PSVR 2 
 
  You can [ get more gaming news from Lifewire](https://www.lifewire.com/gaming-news-4797039) on all kinds of topics; here are more stories and some of the early rumors about Sony's PSVR 2.
@@ -216,8 +182,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -225,4 +189,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-visual-ventures-a-guide-to-social-video-growth/"><u>[New] Visual Ventures A Guide to Social Video Growth</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-funding-fantasies-or-fiscal-facts-for-2024/"><u>[Updated] Funding Fantasies or Fiscal Facts for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-unveiling-leading-edge-vr-developers/"><u>2024 Approved Unveiling Leading-Edge VR Developers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/delving-into-on-demand-tv-insights-on-web-integration/"><u>Delving Into On-Demand TV: Insights on Web Integration</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diy-ipad-battery-swap-tutorial-for-extended-device-life/"><u>DIY iPad Battery Swap Tutorial for Extended Device Life</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-instructions-for-microsoft-365-implementation-in-windows-computers/"><u>Easy Instructions for Microsoft 365 Implementation in Windows Computers</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/essential-guide-best-top-10-fb-videos-on-android-downloader-for-2024/"><u>Essential Guide Best Top 10 FB Videos on Android Downloader for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/fixing-csr-8510-a10-printer-driver-issues-in-windows-os-step-by-step-troubleshooting-tutorial/"><u>Fixing CSR 8510-A10 Printer Driver Issues in Windows OS: Step-by-Step Troubleshooting Tutorial</u></a></li>
+<li><a href="https://fox-access.techidaily.com/gaming-beyond-reality-top-5-psvr-games-on-the-approach-for-2024/"><u>Gaming Beyond Reality Top 5 PSVR Games on the Approach for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-apple-iphone-xs-max-device-from-icloud-by-drfone-ios/"><u>In 2024, How to Remove Apple iPhone XS Max Device from iCloud</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-targeted-ads-spreading-awareness-in-the-medical-sphere/"><u>In 2024, Targeted Ads Spreading Awareness in the Medical Sphere</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-lynel-combat-in-nintendos-zelda-adventure/"><u>Mastering the Art of Lynel Combat in Nintendo's Zelda Adventure</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/pro-hardware-tips-from-tom-your-ultimate-tech-companion/"><u>Pro Hardware Tips From Tom - Your Ultimate Tech Companion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/run-task-manager-as-an-admin-essential-steps-for-windows-11-users/"><u>Run Task Manager as an Admin: Essential Steps for Windows 11 Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-dos-and-donts-avoid-these-5-problems-when-choosing-an-apple-device-for-present-delivery/"><u>The Do's and Don'ts: Avoid These 5 Problems When Choosing an Apple Device for Present Delivery</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-realm-of-aether-explained-discovering-its-nature-and-entry-methods/"><u>The Realm of Aether Explained: Discovering Its Nature & Entry Methods</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-walkthrough-for-turning-off-sticky-keys-functionality-on-windows/"><u>The Ultimate Walkthrough for Turning Off Sticky Keys Functionality on Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-missing-openal32dll-errors-for-smooth-gaming-experience/"><u>Troubleshooting Missing OpenAL32.dll Errors for Smooth Gaming Experience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/x3daudiodll-mistakenly-absent-discover-how-to-correct-it/"><u>X3DAudio.dll Mistakenly Absent? Discover How to Correct It</u></a></li>
+</ul></div>
 
