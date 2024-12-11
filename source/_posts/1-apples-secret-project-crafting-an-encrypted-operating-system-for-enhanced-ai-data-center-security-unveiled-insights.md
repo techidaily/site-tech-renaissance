@@ -1,7 +1,7 @@
 ---
 title: "1. Apple's Secret Project: Crafting an Encrypted Operating System for Enhanced AI Data Center Security – Unveiled Insights"
-date: 2024-12-01T04:14:36.616Z
-updated: 2024-12-05T08:25:29.001Z
+date: 2024-12-06T10:28:32.876Z
+updated: 2024-12-10T22:14:43.742Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is expected at WWDC 2024?
@@ -53,7 +53,7 @@ The event provides developers with access to experts, along with highlights of n
 "We're so excited to connect with developers from around the world for an extraordinary week of technology and community at WWDC24," Susan Prescott, Apple's VP of Worldwide Developer Relations, said in a news release. "WWDC is all about sharing new ideas and providing our amazing developers with innovative tools and resources to help them make something even more wonderful." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. You'll be hearing AI (or Apple Intelligence) a lot
@@ -73,7 +73,7 @@ Apple has also allegedly been seeking a partner for outside help, possibly teami
 More recently, rumors have suggested that some new AI features will include more intelligent and helpful searches in Safari, AI-generated emojis based on conversations in Messages, and an AI-powered [photo editing app](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/) similar to Google's Magic Eraser. It's worth noting that such features are believed to only function on the more recent Apple products, including the iPhone 15 Pro with its A17 Pro chip and M-series iPads and MacBooks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Don't forget the other acronym: RCS
@@ -87,7 +87,7 @@ To the surprise of many, except for the European Commission, Apple [announced la
 The decision to bring RCS to the iPhone came after mounting pressure from the European Union's Digital Markets Act (DMA), which stressed cross-platform compatibility. While a more [recent statement from Google](https://www.zdnet.com/article/google-seems-to-have-leaked-apples-timeframe-for-bringing-rcs-to-the-iphone/) suggested that Apple would integrate RCS later this fall, highlighting the transition at WWDC could potentially help Apple's defense against the [DOJ's antitrust lawsuit](https://x.com/getpeid/status/1798369533889302576), filed in March. Regardless of when and how Apple chooses to announce the new feature, it'll be big news for both iOS and Android users.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. MacOS 15, iPadOS 18, WatchOS 11, VisionOS 2, tvOS 18
@@ -128,20 +128,14 @@ As for [VisionOS](https://www.zdnet.com/article/10-things-id-like-to-see-in-visi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-understanding-youtubes-legal-framework-vs-cc/"><u>[Updated] 2024 Approved Understanding YouTube's Legal Framework Vs. CC</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-access-an-array-of-personalized-ending-sounds-for-videos/"><u>[Updated] Access an Array of Personalized Ending Sounds for Videos</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-exciting-online-cam-challenges/"><u>[Updated] In 2024, Exciting Online Cam Challenges</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-navigating-the-world-of-instagram-posts-large-imagevideo-uploads-for-2024/"><u>[Updated] Navigating the World of Instagram Posts Large Image/Video Uploads for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-techniques-for-leveraging-telnet-services-in-windows-platform/"><u>Expert Techniques for Leveraging Telnet Services in Windows Platform</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-recover-lost-or-absent-xinput-1-3dll-components-efficiently/"><u>How To Recover Lost or Absent XInput 1-3.dll Components Efficiently</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-switch-off-iphone-15-propro-max-effortlessly/"><u>How To Switch Off iPhone 15 Pro/Pro Max Effortlessly</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-on-apple-iphone-12-mini-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email On Apple iPhone 12 mini? Heres the Best Fixes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-methods-for-creating-luts/"><u>In 2024, Innovative Methods for Creating LUTs</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/inside-look-at-lgs-supply-pathways-what-you-need-to-be-aware-of/"><u>Inside Look at LG's Supply Pathways - What You Need to Be Aware Of</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-videdit-mac/"><u>New In 2024, VidEdit Mac</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/cket-to-1000-subscribers-in-days-for-2024/"><u>Skyrocket to 1,000 Subscribers in Days for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-correcting-colour-deviations-and-visual-anomalies-on-your-pc-screen/"><u>Step-by-Step Guide: Correcting Colour Deviations & Visual Anomalies On Your PC Screen</u></a></li>
-<li><a href="https://howto.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-vivo-x100-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Vivo X100 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-and-correcting-the-infamous-haldll-error-on-different-windows-platforms/"><u>Troubleshooting and Correcting the Infamous hal.dll Error on Different Windows Platforms</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-mastering-blur-apps-for-clear-portraits/"><u>[New] Mastering Blur Apps for Clear Portraits</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-innovative-and-inexpensive-the-best-free-youtube-name-generators-for-2024/"><u>[Updated] Innovative & Inexpensive The Best Free YouTube Name Generators for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-lenovo-thinkphone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/best-buys-top-discounted-products-for-june-202n-exclusive-insights/"><u>Best Buy's Top Discounted Products for June 202N: Exclusive Insights</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210724576-9798885057325-calm-your-storms-and-move-your-mountains/"><u>Calm Your Storms and Move Your Mountains | Free Book</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-update-your-iphone-with-personalized-font-selections/"><u>How to Update Your iPhone with Personalized Font Selections</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-photo-color-reversal-techniques/"><u>Mastering Photo Color Reversal Techniques</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/rumors-vs-realities-decoding-the-future-of-apples-ultra-series-with-projections-on-pricing-release-and-specs-for-watch-ultra-n/"><u>Rumors vs Realities: Decoding the Future of Apple's Ultra Series with Projections on Pricing, Release, and Specs for Watch Ultra N.</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-recommended-macos-software-latest-picks-from-zdnet/"><u>Top Recommended macOS Software - Latest Picks From ZDNet</u></a></li>
 </ul></div>
 

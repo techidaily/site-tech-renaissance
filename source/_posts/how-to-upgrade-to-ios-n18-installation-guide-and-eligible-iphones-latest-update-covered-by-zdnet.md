@@ -1,7 +1,7 @@
 ---
 title: "How to Upgrade to iOS N18: Installation Guide & Eligible iPhones | Latest Update Covered by ZDNet"
-date: 2024-11-30T23:34:31.239Z
-updated: 2024-12-04T19:20:45.214Z
+date: 2024-12-07T06:23:37.995Z
+updated: 2024-12-10T19:07:01.170Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,21 +109,20 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-elite-video-equipment-revolutionizing-podcasts/"><u>[New] 2024 Approved Elite Video Equipment Revolutionizing Podcasts</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-capturing-timeless-moments-iphones-prolonged-shots-guide/"><u>[Updated] 2024 Approved Capturing Timeless Moments IPhone’s Prolonged Shots Guide</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-decoding-how-to-effectively-swap-photo-genders-online-a-comprehensive-approach/"><u>[Updated] In 2024, Decoding How to Effectively Swap Photo Genders Online A Comprehensive Approach</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-the-secrets-essential-tiktok-video-editing-techniques/"><u>2024 Approved Unlock the Secrets Essential TikTok Video Editing Techniques</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/boosting-your-spam-defense-a-comprehensive-guide-to-adding-emails-to-the-safe-list/"><u>Boosting Your Spam Defense: A Comprehensive Guide to Adding Emails to the Safe List</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/complete-tutorial-access-and-extract-rar-files-using-macos/"><u>Complete Tutorial: Access and Extract RAR Files Using macOS</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-methods-for-reaching-your-pcs-system-configuration-in-windows-10/"><u>Easy Methods for Reaching Your PC's System Configuration in Windows 10</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/enjoy-immersive-cinema-experience-at-home-streaming-in-3d-on-fandango/"><u>Enjoy Immersive Cinema Experience at Home - Streaming in 3D on Fandango</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719163479927-get-ready-for-youtubes-mini-games-a-call-to-gamers/"><u>Get Ready for YouTube’s Mini Games: A Call to Gamers</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Samsung Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722896493297-pixel-watch-releasing-soon-get-the-lowdown-on-latest-price-estimates-specs-and-release-plans/"><u>Pixel Watch Releasing Soon? Get the Lowdown on Latest Price Estimates, Specs & Release Plans!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-beginners-tutorial-on-clearing-the-cmos-for-effective-bios-management/"><u>The Beginner’s Tutorial on Clearing the CMOS for Effective BIOS Management</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-complete-guide-fixing-the-temporary-server-overload-503-error-on-your-site/"><u>The Complete Guide: Fixing the 'Temporary Server Overload' (503) Error on Your Site</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/the-ultimate-companion-for-your-gaming-setup-xbox-recorder-for-2024/"><u>The Ultimate Companion for Your Gaming Setup Xbox Recorder for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-techniques-for-stabilizing-shaky-and-flashing-screens-on-surface-devices/"><u>Troubleshooting Techniques for Stabilizing Shaky & Flashing Screens on Surface Devices</u></a></li>
-<li><a href="https://driver-download.techidaily.com/up-to-date-hl-2240-printer-driver-for-enhanced-windows-compatibility/"><u>Up-to-Date HL-2240 Printer Driver for Enhanced Windows Compatibility</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-speedy-conversion-of-insta-videos-to-audio-files-mp3/"><u>[Updated] 2024 Approved Speedy Conversion of Insta Videos to Audio Files (Mp3)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-professional-vision-optimizing-video-lighting-techniques/"><u>[Updated] Professional Vision Optimizing Video Lighting Techniques</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-avoid-buffering-switch-av1-codec-on-youtube/"><u>2024 Approved Avoid Buffering Switch AV1 Codec on YouTube</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/anticipating-the-next-leap-how-apples-recent-investment-signals-a-smart-ai-iphone-upgrade-digitaltrends/"><u>Anticipating the Next Leap: How Apple's Recent Investment Signals a Smart, AI iPhone Upgrade | DigitalTrends</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/becoming-a-snapchat-videography-pro-time-control-tactics-for-2024/"><u>Becoming a Snapchat Videography Pro Time Control Tactics for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comparing-ipad-air-4-and-ipad-air-prise-to-upgrade-your-tablet-experience-with-tech-tips/"><u>Comparing iPad Air 4 and iPad Air Prise to Upgrade Your Tablet Experience with Tech Tips!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722974610369-effortlessly-enhance-your-system-with-new-intel-iris-plus-graphics-640-drivers-easy-installation-steps-inside/"><u>Effortlessly Enhance Your System with New Intel Iris + Graphics 640 Drivers - Easy Installation Steps Inside</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/exploring-the-economic-viability-of-mesh-networks/"><u>Exploring the Economic Viability of Mesh Networks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/memorial-day-deal-alert-get-60-off-on-the-apple-watch-se-a-2023-must-have-perfect-for-early-bird-shoppers/"><u>Memorial Day Deal Alert: Get $60 Off on the Apple Watch SE - A 2023 Must-Have Perfect for Early Bird Shoppers!</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/performance-comparison-the-impact-of-dynamic-vs-fixed-disk-size-on-speed/"><u>Performance Comparison: The Impact of Dynamic Vs. Fixed Disk Size on Speed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/personalizing-the-new-control-center-on-iphone-using-ios-18-a-step-by-step-guide-zdnet/"><u>Personalizing the New Control Center on iPhone Using iOS 18: A Step-by-Step Guide - ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-one-big-factor-that-outshines-a-hypothetical-series-10-tech-analysis/"><u>The One Big Factor That Outshines a Hypothetical Series 10 | Tech Analysis</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-recovering-msvbvm50dll-and-eliminating-errors/"><u>The Ultimate Guide to Recovering msvbvm50.dll and Eliminating Errors</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-walkthrough-for-adding-your-ca-drivers-license-to-digital-wallets-on-apple-and-google-platforms/"><u>The Ultimate Walkthrough for Adding Your CA Driver's License to Digital Wallets on Apple & Google Platforms</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-10-mobile-vr-headsets-for-2024/"><u>Top 10 Mobile VR Headsets for 2024</u></a></li>
 </ul></div>
 

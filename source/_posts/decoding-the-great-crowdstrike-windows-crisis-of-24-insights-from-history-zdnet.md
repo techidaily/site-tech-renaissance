@@ -1,7 +1,7 @@
 ---
 title: Decoding the Great CrowdStrike-Windows Crisis of '24 - Insights From History | ZDNET
-date: 2024-11-28T20:30:46.123Z
-updated: 2024-12-05T10:04:14.846Z
+date: 2024-12-08T16:48:06.949Z
+updated: 2024-12-11T07:42:53.093Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What happened?
@@ -55,7 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -95,7 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -125,7 +125,7 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -176,17 +176,17 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-best-performers-the-leading-8k-camera-lineup/"><u>[New] In 2024, Best Performers The Leading 8K Camera Lineup</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-sony-xperia-xz-superior-a-4k-mobile-experience-analysis/"><u>[New] Sony Xperia XZ Superior A 4K Mobile Experience Analysis</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-breakdown-of-youtubes-money-making-mechanisms-cpm/"><u>[Updated] 2024 Approved Breakdown of YouTube’s Money-Making Mechanisms (CPM)</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-spectacular-racing-sims-number-one-to-five/"><u>[Updated] In 2024, Spectacular Racing Sims Number One to Five</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-ranking-the-leading-free-srt-translation-tools/"><u>[Updated] Ranking the Leading Free SRT Translation Tools</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/76537589-updated-your-treasure-trove-of-free-marketing-50plus-youtube-ads-ready-to-go/"><u>[Updated] Your Treasure Trove of Free Marketing 50+ YouTube Ads Ready to Go</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-tecno-camon-20-premier-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-razers-new-releases-and-announcements-from-ces-2023-full-report-engadget/"><u>Exploring Razer's New Releases and Announcements From CES 2023 - Full Report | Engadget</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/get-your-hands-on-the-new-apple-vision-pro-faster-shipping-awaits/"><u>Get Your Hands on the New Apple Vision Pro: Faster Shipping Awaits!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-unlisted-headphone-devices-during-audio-playback-on-windows-10/"><u>How to Fix Unlisted Headphone Devices During Audio Playback on Windows 10</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/meta-innovates-with-exclusive-virtual-reality-tech-that-outshines-apple-vision-pro-insights-from-zdnet/"><u>Meta Innovates with Exclusive Virtual Reality Tech That Outshines Apple Vision Pro - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-impact-of-extended-reality-spatial-computing-and-digital-twin-technology-on-enterprise-user-experience-insights-from-zdnet/"><u>The Impact of Extended Reality, Spatial Computing and Digital Twin Technology on Enterprise User Experience: Insights From ZDNet</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-a-comprehensive-overview-recording-saving-and-sharing-youtube-videos-for-free/"><u>[New] 2024 Approved A Comprehensive Overview Recording, Saving & Sharing YouTube Videos for Free</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-navigating-youtubes-privacy-controls-for-video-accessibility/"><u>[Updated] Navigating YouTube's Privacy Controls for Video Accessibility</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-the-ultimate-guide-to-choosing-between-free-and-paid-zoom-transcribers-for-2024/"><u>[Updated] The Ultimate Guide to Choosing Between Free & Paid Zoom Transcribers for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/choosing-the-right-sidekick-a-detailed-comparison-of-google-pixel-watch-and-apple-watch-series-9/"><u>Choosing the Right Sidekick: A Detailed Comparison of Google Pixel Watch and Apple Watch Series 9</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-from-your-iphone-14-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID From Your iPhone 14</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/make-the-most-of-your-subscription-instructions-for-projecting-apple-tvplus-on-a-chromecast-screen/"><u>Make the Most of Your Subscription: Instructions for Projecting Apple TV+ on a Chromecast Screen</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/petcube-lights-out-pets-camera-high-definition-at-a-low-price/"><u>Petcube Lights Out Pets Camera – High Definition at a Low Price</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-essential-guide-to-turning-on-gmails-second-level-of-protection-2fa/"><u>The Essential Guide to Turning On Gmail's Second Level of Protection - 2FA</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-aufzeichnungsprogramme-fur-windows-10-8-und-7-professionelle-losungen-zur-schirmaufzeichnung/"><u>Top-Aufzeichnungsprogramme Für Windows 10, 8 Und 7: Professionelle Lösungen Zur Schirmaufzeichnung</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/why-im-not-swapping-my-iphone-n-for-an-iphone-16-pro-read-more-on-zdnet/"><u>Why I'm Not Swapping My iPhone N for an iPhone 16 Pro (Read More on ZDNET)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-unveils-the-ideal-lightweight-laptop-for-remote-workers-a-comprehensive-test-report/"><u>ZDNet Unveils the Ideal Lightweight Laptop for Remote Workers - A Comprehensive Test Report</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/zdnets-favorite-phones-a-closer-look-at-the-techies-real-life-choices/"><u>ZDNet's Favorite Phones: A Closer Look at the Techies' Real-Life Choices</u></a></li>
 </ul></div>
 

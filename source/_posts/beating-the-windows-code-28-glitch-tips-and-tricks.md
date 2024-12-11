@@ -1,7 +1,7 @@
 ---
 title: "Beating the Windows Code 28 Glitch: Tips and Tricks"
-date: 2024-08-30T14:46:22.458Z
-updated: 2024-08-31T14:46:22.458Z
+date: 2024-12-07T21:15:27.306Z
+updated: 2024-12-10T19:01:10.945Z
 categories:
   - BestProducts
 description: "This Article Describes Beating the Windows Code 28 Glitch: Tips and Tricks"
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/5e4f2e08bc06e83ddb45587d928cf61d9245bd50e
  The Code 43 error is one of several[Device Manager error codes](https://www.lifewire.com/device-manager-error-codes-4159098) . It's generated when[Device Manager](https://www.lifewire.com/device-manager-2625860) stops a hardware device because the hardware reported to Windows that it's having some kind of unspecified problem.
 
  Any of Microsoft's operating systems could experience a Code 43 Device Manager error, including Windows 10, Windows 8, Windows 7, Windows Vista, Windows XP, and more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Causes a Code 43 Error (and What It Means)
 
@@ -28,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/5e4f2e08bc06e83ddb45587d928cf61d9245bd50e
 
  Device Manager error codes are exclusive to Device Manager. If you see the Code 43 error elsewhere in Windows, chances are it's a[system error code](https://www.lifewire.com/system-error-code-2625996) , which you should not troubleshoot as a Device Manager problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Fix a Code 43 Error
 
  Follow these steps in order, to resolve a Code 43 error. Because this message is generic, standard troubleshooting steps come first.
@@ -35,10 +43,20 @@ thumbnail: https://thmb.techidaily.com/5e4f2e08bc06e83ddb45587d928cf61d9245bd50e
 1. [Restart your computer](https://www.lifewire.com/how-to-reboot-a-computer-2624568) if you haven't done so already.  
 ![Restart option in Windows 10 Start Menu](https://www.lifewire.com/thmb/Cmw3C3c6Sl1OCykb7eHN6EpF8aI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/restartWindows10-5c64952c46e0fb0001f256a9.jpg)  
  There is always the chance that the error Code 43 you're seeing on a device was caused by some temporary problem with the hardware. If so, a restart of your computer might fix the Code 43 error.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Some people have also reported that powering off their computer completely (not just a restart) and then turning it back on has corrected their Code 43 warning if it sources from a USB device. In the case of a laptop, turn it off and remove the battery, wait a few minutes, and then put the battery back in and start the computer.
 2. Plug the device into a different computer and then properly eject it from there. Plug it back into your computer to see if it fixes the Code 43 error.  
 ![Safe to remove hardware notification in Windows 10](https://www.lifewire.com/thmb/d4PE46YO5am98siorGqDdnKsEA4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/safe-to-remove-hardware-windows-10-9f4cf57623f042bbb5afffa425036a58.png)  
  If you have another computer to test this on, be sure to try this before moving on to the more complicated steps below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Did you install a device or make a change in Device Manager just before the Code 43 error appeared? If so, it's possible that the change you made caused the Code 43 error. Undo the change if you can, restart your PC, and then check again for the Code 43 error.  
  Depending on the changes you made, some solutions might include:  
    * Removing or reconfiguring the newly installed device  
@@ -87,8 +105,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -96,8 +112,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-selecting-the-ideal-screen-recording-application-obs-vs-fraps-showdown/"><u>[New] In 2024, Selecting the Ideal Screen Recording Application OBS vs Fraps Showdown</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-rage-2-crash-issue-quickly-and-easily/"><u>[SOLVED] Rage 2 Crash Issue | Quickly & Easily!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-from-gameplay-to-recording-expert-techniques-for-ps3-screenshots/"><u>[Updated] 2024 Approved From Gameplay to Recording Expert Techniques for PS3 Screenshots</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-beginners-handbook-for-pc-users-initiating-a-tiktok-broadcast/"><u>[Updated] In 2024, Beginner's Handbook for PC Users - Initiating a TikTok Broadcast</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-xiaomi-redmi-12-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Xiaomi Redmi 12</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/achieve-cost-efficiency-with-lenovos-exclusive-student-discount-programs/"><u>Achieve Cost-Efficiency with Lenovo's Exclusive Student Discount Programs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-superior-wallet-airtags-beyond-apple-and-tile-a-comprehensive-review-on-zdnet/"><u>Discover Superior Wallet AirTags Beyond Apple and Tile - A Comprehensive Review on ZDNet</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/from-boring-to-brilliant-best-video-dubbing-apps-for-comedy-and-fun-for-2024/"><u>From Boring to Brilliant Best Video Dubbing Apps for Comedy & Fun for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-clean-up-your-figma-compositions-effectively/"><u>How To Clean Up Your Figma Compositions Effectively</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ideas-on-handling-fluid-found-in-charging-port-two-solutions-explored/"><u>Ideas on Handling 'Fluid Found in Charging Port': Two Solutions Explored</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/macbook-showdown-unveiling-key-differences-between-macbook-pro-and-macbook-air-to-find-your-perfect-match-expert-advice-by-zdnet/"><u>MacBook Showdown: Unveiling Key Differences Between MacBook Pro & MacBook Air to Find Your Perfect Match - Expert Advice by ZDNET</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/master-snapchat-essential-strategies-for-snappy-snaps-for-2024/"><u>Master Snapchat Essential Strategies for Snappy Snaps for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-non-apple-rechargeable-airtag-alternative-the-ideal-choice-for-your-wallet-discovered-on-zdnet/"><u>Top Non-Apple Rechargeable AirTag Alternative: The Ideal Choice for Your Wallet - Discovered on ZDNet!</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/turn-the-tape-counterclockwise-instagrams-reverse-play-technique/"><u>Turn the Tape Counterclockwise Instagram's Reverse Play Technique</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/why-you-wont-find-any-marks-on-apples-site-unveiling-the-reason/"><u>Why You Won't Find Any '!' Marks on Apple's Site – Unveiling the Reason!</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->

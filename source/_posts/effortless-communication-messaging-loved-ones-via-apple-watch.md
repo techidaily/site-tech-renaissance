@@ -1,7 +1,7 @@
 ---
 title: "Effortless Communication: Messaging Loved Ones via Apple Watch"
-date: 2024-11-30T00:08:07.257Z
-updated: 2024-12-04T19:44:59.384Z
+date: 2024-12-03T18:12:03.219Z
+updated: 2024-12-10T19:45:57.935Z
 tags:
   - apple
 categories:
@@ -26,12 +26,16 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to check in with a friend or family member from your Apple Watch
 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Update your devices
@@ -51,7 +55,7 @@ Launch the Messages app on your Apple Watch. Start or continue a conversation wi
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. View the initial Check In notification
@@ -69,10 +73,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. View the actual Check in alert
 
@@ -96,10 +96,6 @@ To further customize the Check In, tap the Edit button at the Check In screen. T
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Add a destination and send the text
 
 Next, tap the link for "Add a Destination." Start typing the address of the destination. Select the full name when it appears on the screen. Swipe down the Check In screen and select or confirm your mode of transportation -- driving, transit, or walking. Swipe down further. Tap the link for "Add Extra Time" if you need to add more time. When done, tap the yellow checkmark at the top and then tap Send to send the text. Your recipient will then receive the notification when you reach your destination and stop the Check In.
@@ -109,7 +105,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Set a Check In for a workout in the Messages app
@@ -117,6 +113,10 @@ Screenshot by Lance Whitney/ZDNET
 Maybe you're working out at the gym or at home and want to let someone know when you've finished. You can do this a couple of ways. In the Messages app on your watch, start or continue a conversation with the recipient. Tap the Add icon, select Check In, and then tap Edit. Tap the option for Check In and change it to "When workout ends." Start your workout. When you're done, swipe the screen to the right and tap End. The other person will then receive the notification.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
 
@@ -154,22 +154,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-proven-approaches-to-amass-elite-copyright-free-imagery/"><u>[New] 2024 Approved Proven Approaches to Amass Elite, Copyright-Free Imagery</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-future-of-android-time-lapses-innovations-in-video-capture/"><u>[New] The Future of Android Time-Lapses Innovations in Video Capture</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-how-to-use-markers-in-video-recording-and-editing-in-2024/"><u>[Updated] How to Use Markers in Video Recording and Editing, In 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apples-revolutionary-robotic-helper-coming-soon-learn-about-projected-timelines-and-tech-insights/"><u>Apple's Revolutionary Robotic Helper Coming Soon? Learn About Projected Timelines & Tech Insights</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-how-claude-outperforms-chatgpt-in-ai-chatbots-four-key-advantages/"><u>Discover How Claude Outperforms ChatGPT in AI Chatbots: Four Key Advantages</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-critical-msi-z370-a-pro-motherboard-drivers-improve-your-pcs-performance-today/"><u>Download Critical MSI Z370-A Pro Motherboard Drivers - Improve Your PC's Performance Today</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/finding-and-buying-the-best-televisions-to-suit-your-homes-needs/"><u>Finding & Buying the Best Televisions to Suit Your Home's Needs</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-assign-new-audio-cues-to-your-gmail-messages/"><u>How to Assign New Audio Cues to Your Gmail Messages</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-honor-play-7t-by-fonelab-android-recover-music/"><u>How to recover old music from your Honor Play 7T</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-samsung-galaxy-m14-5g-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Samsung Galaxy M14 5G Phones</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-lava-blaze-pro-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Lava Blaze Pro 5G FRP Bypass</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-saving-instagram-dialogues-with-ease/"><u>Mastering the Art of Saving Instagram Dialogues with Ease</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/overcoming-missing-mss32dll-essential-steps-to-restore-functionality/"><u>Overcoming 'Missing MSS32.DLL' - Essential Steps to Restore Functionality</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-to-restoring-charge-functionality-in-ps5-gamepads/"><u>Step-by-Step Guide to Restoring Charge Functionality in PS5 Gamepads</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-essentials-of-choosing-between-standard-hulu-and-plus-tier/"><u>The Essentials of Choosing Between Standard Hulu and Plus Tier</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/title-tag-and-meta-description-incorporate-primary-keywords-in-the-title-tag-for-instance-quantum-computings-potential-to-revolutionize-ai-explore-how-ensur8/"><u>Title Tag and Meta Description: Incorporate Primary Keywords in the Title Tag. For Instance, Quantum Computing's Potential to Revolutionize AI - Explore How. Ensure Your Meta Description Includes Secondary Keywords or Long Tail Terms Too</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-fix-boot-manager-failures-and-get-your-pc-running-again/"><u>Ultimate Guide to Fix Boot Manager Failures & Get Your PC Running Again 💻</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-clearfocuscutout-how-to-blur-your-youtube-videos-background-for-2024/"><u>[New] ClearFocusCutOut How to Blur Your YouTube Video's Background for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-gigglegraph-make-amusing-graphics-swiftly/"><u>[New] GiggleGraph Make Amusing Graphics Swiftly</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-audience-engagement-trends-to-master-on-instagram/"><u>[Updated] Audience Engagement Trends to Master on Instagram</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-top-10-youtube-cameras-from-novices-to-experts/"><u>[Updated] In 2024, Top 10 YouTube Cameras, From Novices to Experts</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-pioneering-techniques-to-improve-your-fb-video-ad-effectiveness-for-2024/"><u>[Updated] Pioneering Techniques to Improve Your FB Video Ad Effectiveness for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-current-selections-on-disneyplus-for-movie-lovers/"><u>Discover the Best Current Selections on Disney+ for Movie Lovers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-perform-a-firmware-upgrade-for-your-apple-studio-display-tips-and-tricks/"><u>How to Perform a Firmware Upgrade for Your Apple Studio Display (Tips and Tricks )</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-zte-axon-40-litewithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on ZTE Axon 40 Litewith/without a PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/march-2024s-ultimate-phone-deals-curated-by-tech-experts-at-zdnet-save-big-on-high-quality-handsets/"><u>March 2024'S Ultimate Phone Deals Curated by Tech Experts at ZDNet – Save Big on High-Quality Handsets</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/my-extraordinary-experience-with-apple-vision-pro-while-catching-up-on-my-top-pick-series-a-deep-dive-into-the-marvels-of-modern-viewing/"><u>My Extraordinary Experience with Apple Vision Pro While Catching Up on My Top-Pick Series - A Deep Dive Into the Marvels of Modern Viewing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/new-ios-181-preview-released-featuring-advanced-apple-smart-technology-start-testing-today/"><u>New IOS 18.1 Preview Released Featuring Advanced Apple Smart Technology – Start Testing Today!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/simple-steps-to-determine-your-nvidia-graphics-cards-current-driver-software/"><u>Simple Steps to Determine Your NVIDIA Graphics Card's Current Driver Software</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-fix-for-coredll-not-detected-or-absent-on-your-pc/"><u>Step-by-Step Fix for Core.dll Not Detected or Absent on Your PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/tricks-save-and-access-onedrive-around-clients/"><u>Tricks: Save & Access OneDrive Around Clients</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unbeatable-memorial-day-deal-score-60-off-your-ideal-apple-watch-se-as-recommended-by-a-tech-enthusiast/"><u>Unbeatable Memorial Day Deal: Score $60 Off Your Ideal Apple Watch SE, As Recommended by a Tech Enthusiast</u></a></li>
 </ul></div>
 

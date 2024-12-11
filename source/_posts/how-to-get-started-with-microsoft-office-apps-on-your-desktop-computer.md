@@ -1,7 +1,7 @@
 ---
 title: How to Get Started with Microsoft Office Apps on Your Desktop Computer
-date: 2024-08-30T14:46:56.193Z
-updated: 2024-08-31T14:46:56.193Z
+date: 2024-12-05T05:35:30.102Z
+updated: 2024-12-11T11:25:07.993Z
 categories:
   - BestProducts
 description: This Article Describes How to Get Started with Microsoft Office Apps on Your Desktop Computer
@@ -13,6 +13,10 @@ thumbnail: https://www.lifewire.com/thmb/TnVkVnTk_yhSD8_5UnOGGPo1lHY=/300x200/fi
 
 Close 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  What to Know
 
 * Go to[ Office.com](https://www.office.com/) , log in to your account, and buy a Microsoft 365 subscription.
@@ -20,6 +24,10 @@ Close
 * Activate Microsoft 365 for Home by opening one of the apps, logging in, and accepting the license agreement.
 
  Microsoft 365 is a subscription service that offers the Office 2019 desktop apps (including Word, Excel, and PowerPoint) along with the[ Office Online](https://www.lifewire.com/microsoft-office-online-review-1356578) web apps. This article explains how to sign up for the service and install the apps on your computer. Instructions in this article apply to Microsoft 365 Home on Windows 10 devices.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Purchase a Microsoft 365 for Home Subscription 
 
@@ -32,6 +40,11 @@ Close
 4. Select**Buy Office** .  
 ![The "Buy Office" button](https://www.lifewire.com/thmb/clOgfHnAH02hU9SGc9OT-gpoXpM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-how-to-install-office-365-4589808-2e69c8f6c13c4b3dbd8f654c9e7d7851.jpg)
 5. Select**Buy now** for the Office subscription you want if you want to pay an annual subscription fee. Or, select**Or buy for $9.99 per month** if you prefer to pay a monthly subscription fee.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Do you want to take Microsoft 365 for a test drive before you buy it? Select**Try for free** and sign up for a[ 30-day trial of Microsoft 365](https://www.lifewire.com/microsoft-office-free-trial-1356577) .
 6. Review the information in the Cart and select**Checkout** .  
 ![The Checkout button](https://www.lifewire.com/thmb/PJK5pYDJOR-GhnjvhgsIvIOOkL8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-install-office-365-4589808-c43378d3c3ee4808937497d9400aa7b6.jpg)
@@ -41,6 +54,10 @@ Close
 10. Select**Place order** .  
 ![The "Place Order" button](https://www.lifewire.com/thmb/PJaIsOw8bwD_BeaFuvJHYT55AYM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-install-office-365-4589808-6e8b09d86df047589542d05de5844d0e.jpg)
 11. Your order processes and you'll receive an email receipt for the transaction.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Install Microsoft 365 for Home 
 
@@ -53,21 +70,16 @@ Close
 4. On the**Microsoft 365 Home** web page, select**Install Office** .  
 ![The Office 365 Home account page showing the links to install Office 365](https://www.lifewire.com/thmb/U77dvHNyFna5juI2nJebWJU_Khg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008_how-to-install-office-365-on-your-pc-7eab9329c07447959c1286b54a8f136e.jpg)
 5. On the**Download and install Microsoft 365 Home** screen, select**Install** .  
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Download and install Office 365 Home pop-up window](https://www.lifewire.com/thmb/-bv3OawY70PXNZRylTEiaFVVS40=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009_how-to-install-office-365-on-yourjpg-b8663e12d0ca40c797c047b35ab79371.jpg)
 6. Depending on the web browser you use, a prompt to**Run** or**Save** the downloaded file might appear. Select**Run** .
 7. Office gets things ready and then installs the Office apps.  
 ![The Office 365 installation window](https://www.lifewire.com/thmb/6rZbtAh4DyLSmQBPJnSLP5qv7fI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/010_how-to-install-office-365-on-your-pc-4589808-875f6e5d72b1402c8b55c5fca86f17cc.jpg)
 8. When the installation finishes, Office might prompt you to enter an email or phone number to receive a download link for the Office mobile apps.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Activate Microsoft 365 for Home 
 
  After Office installs, activate your subscription.
@@ -80,13 +92,7 @@ Close
 3. On the**Accept the license agreement** screen, select**Accept** .  
 ![The Office 365 license agreement](https://www.lifewire.com/thmb/3ZR1Zax9slThSEqLR5ZnV4ZdH1c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/012_how-to-install-office-365-on-your-pc-4589808-f16b107f0ae54a2fbad8d03c020ea1c2.jpg)
 4. The Office app opens, and you're ready to create Office documents and spreadsheets.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ##  Install Microsoft 365 on Another Device 
 
  You can install your Office subscription on as many devices as you want.
@@ -96,6 +102,10 @@ You can simultaneously sign in to Office on five devices.
  To install Office on another PC, use the computer where you want to install Office and sign in to your Microsoft account. On the Office portal page, choose**Install Office** .
 
  To install Office on a mobile device, use the smartphone or tablet where you want to install Office. Then, go to either Google Play, the Apple Store, or Windows Store and download the apps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Share Your Microsoft 365 Home Subscription with Others 
 
@@ -114,16 +124,15 @@ You can simultaneously sign in to Office on five devices.
 2. On the**Office portal** page, select**Install Office** .  
 ![The "Install Office" button](https://www.lifewire.com/thmb/LrZEm-ETdu_MGAdIZ5cQcScQQx0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-install-office-365-4589808-d138fcf8571c415e8226644d635e1803.jpg)
 3. Select the**Sharing** tab.  
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Sharing tab on Office 365](https://www.lifewire.com/thmb/6dNkI_4ncQdiOr8x2YZhn1tzZ6s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007-how-to-install-office-365-4589808-83eef632f39b4316925a24eaadf25b29.jpg)
 4. Select**Start sharing** .  
 ![The Start Sharing button](https://www.lifewire.com/thmb/7oUh8eBp3KJi2gVFo7qtjH-lYe0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008-how-to-install-office-365-4589808-5f0964a1e81a4adfa8ef8b6c5dc3075c.jpg)
 5. On the**Share Office** window, choose to either:  
+
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
    * **Invite via email** : Sends a link in an email message.  
    * **Invite via link** : Creates a link that you can copy and give to the person in an email, a text message, or another way.
 6. When your family member receives the link, they use the link to install Office on their PC.
@@ -165,8 +174,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -174,4 +181,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-obs-and-zoom-integration-your-quick-pathway/"><u>[New] 2024 Approved OBS and Zoom Integration Your Quick Pathway</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-plot-puns-on-pop-culture/"><u>[Updated] In 2024, Plot Puns on Pop Culture</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/boost-your-productivity-on-facebook-with-these-top-5-simple-strategies/"><u>Boost Your Productivity on Facebook with These Top 5 Simple Strategies</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/download-the-new-ios-18-comprehensive-guide-on-compatibility-and-installation-steps-for-your-iphone/"><u>Download the New IOS 18: Comprehensive Guide on Compatibility and Installation Steps for Your iPhone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/from-recording-to-revealing-uploading-high-quality-vr-on-fb-for-2024/"><u>From Recording to Revealing Uploading High-Quality VR on FB for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-solutions-overcoming-windows-sound-reboot-delays/"><u>Immediate Solutions: Overcoming Windows Sound Reboot Delays</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/join-us-as-we-uncover-surprising-downsides-stories-from-iphone-users-after-an-update-to-ios-18-zdnet-insights/"><u>Join Us as We Uncover Surprising Downsides - Stories From iPhone Users After an Update to iOS 18 | ZDNET Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/maximizing-efficiency-top-ipad-applications-for-enhanced-productivity-techadvisor/"><u>Maximizing Efficiency: Top iPad Applications for Enhanced Productivity | TechAdvisor</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-educational-offers-for-budget-friendly-deals-on-microsoft-products/"><u>Navigating Educational Offers for Budget-Friendly Deals on Microsoft Products</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/secrets-of-capturing-high-quality-xbox-games-on-screen-for-2024/"><u>Secrets of Capturing High-Quality Xbox Games on Screen for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-tutorial-transform-ogg-audiovideo-into-mp4-for-seamless-compatibility/"><u>Step-by-Step Tutorial: Transform OGG Audio/Video Into MP4 for Seamless Compatibility</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/the-artists-chromatic-companion-for-2024/"><u>The Artist's Chromatic Companion for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-formula-for-tiktok-virality-top-10-must-try-tips/"><u>The Ultimate Formula for TikTok Virality: Top 10 Must-Try Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unleash-creativity-and-productivity-score-your-2nd-gen-apple-pencil-for-an-unbeatable-price-of-95-this-labor-day/"><u>Unleash Creativity and Productivity: Score Your 2Nd Gen Apple Pencil for an Unbeatable Price of $95 This Labor Day</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-educational-savings-with-a-150-apple-gift-card-when-purchasing-a-macipad-zdnet/"><u>Unlock Educational Savings with a $150 Apple Gift Card when Purchasing a Mac/iPad | ZDNet</u></a></li>
+</ul></div>
 

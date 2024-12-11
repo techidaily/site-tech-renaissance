@@ -1,7 +1,7 @@
 ---
 title: "Experience the Cutting-Edge of AR: Navigating Apple's Latest Update to Vision Pro's Spatial Personas Insights"
-date: 2024-11-22T16:02:58.745Z
-updated: 2024-11-25T16:04:53.297Z
+date: 2024-12-07T19:38:21.770Z
+updated: 2024-12-11T00:26:22.012Z
 tags:
   - apple
 categories:
@@ -30,6 +30,10 @@ Did they improve the overall quality of life and usability of Apple's most quixo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Turn 2D images into spatial photos
 
 I've never been terribly impressed by Apple's implementation of spatial photos, which are photos that have a 3D feel to them. The little square box and the fairly minimal lens separation of the [iPhone 15 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) resulted in something that seems more novelty than noteworthy. 
@@ -43,7 +47,7 @@ Now, here's the thing. I tried watching a couple of Marvel 3D movies via Disney+
 I'm guessing that Apple's 3Difying of a 2D image will be at about the same level. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Watch those images together using SharePlay in the Photos app
@@ -51,10 +55,6 @@ I'm guessing that Apple's 3Difying of a 2D image will be at about the same level
 And here's another feature that I can't imagine any users clamoring for. Now, if you have multiple Vision Pro users, they can all see and discuss the same image together while using the Photos app. 
 
 So, yeah, if Grandma Sadie in Seattle has a Vision Pro, Cousin Marty in Miami has a Vision Pro, and you have a Vision Pro in Yuma, you can all stand around the virtual photo screen and ooh and ah over pictures of baby Alice. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Gestures for opening Home View and Control Center
 
@@ -65,7 +65,7 @@ In VisionOS 2, there are gestures. Holding your hand palm up and tapping fingers
 Unlike the previous two features, this _is_ a quality of life improvement. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Mac virtual display improvements
@@ -82,10 +82,6 @@ To be fair, Apple didn't call it that. We've [talked about the Vision Pro's trav
 
 In VisionOS 2, Apple is announcing that there is dedicated support in travel mode for train travel. We know [people have already been successful using the Vision Pro on the train and even subway](https://www.youtube.com/shorts/8ckKAjAWLw8), but in this case, Apple presumably tweaked performance somewhat. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. New developer APIs
 
 There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, Apple is showcasing three new APIs developers can use to gain access to Apple technology. 
@@ -96,6 +92,10 @@ There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, 
 * **TabletopKit:** Helps developers create apps that anchor to flat surfaces. One obvious example is board game kits, but this could apply to interior design apps, architectural and construction projects, gaming, navigation, and more.
 * **Enterprise APIs:** These were described as enterprise-specific APIs, so we can assume they're somewhat special purpose. Examples given were surgical training and manufacturing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. New Canon spatial lens for creating spatial video
 
 While iPhone 15 Pro users can create spatial video, there are limitations to using an iPhone as a camera. Apple announced today that Canon will be introducing a spatial lens for its [EOS R7 digital camera](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCanon-RF-S18-150mm-Mirrorless-Processor-Detection%2Fdp%2FB0B2KSD7WW%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbfbe271d-4f99-40f4-b81e-3b3c556a641c%7Cdtp&dtb=1). 
@@ -103,6 +103,10 @@ While iPhone 15 Pro users can create spatial video, there are limitations to usi
 Screenshot by David Gewirtz/ZDNET
 
 This allows more commercial and prosumer projects where the photographer or videographer needs more control over the complex range of settings available in a more traditional camera. Those videos can then be edited in Final Cut Pro, Apple's only mention of Final Cut during WWDC. There's also a new Vimeo app for VisionOS, that will allow spatial videos to be shared. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Third-party immersive video workflow
 
@@ -113,10 +117,6 @@ One of the truly breathtaking experiences of the Vision Pro is what Apple calls 
 Apple is opening up the format for third-party creators to create immersive video. The approach is to use cameras and DaVinci Resolve Studio from [Blackmagic Design](https://www.blackmagicdesign.com/). There's no doubt that Blackmagic makes excellent gear and that DaVinci Resolve is a fine application. It's just a little surprising that Apple didn't bake this capability into its own high-end video production tool, Final Cut Pro.
 
 Even so, I think this is great. Those immersive videos are fantastic. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Other new features
 
@@ -171,19 +171,19 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-maximizing-fb-instream-ad-impact-configuration-techniques-and-metrics/"><u>[New] 2024 Approved Maximizing FB Instream Ad Impact Configuration Techniques and Metrics</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-best-free-mac-apps-for-professional-tiktok-cuts/"><u>[Updated] In 2024, Best Free Mac Apps for Professional TikTok Cuts</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-ultimate-guide-top-11-kid-easy-vlog-camcorders-waterproof/"><u>[Updated] In 2024, Ultimate Guide Top 11 Kid-Easy Vlog Camcorders, Waterproof</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-enhancing-team-call-aesthetics-before-and-after/"><u>2024 Approved Enhancing Team Call Aesthetics Before & After</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/add-more-space-to-your-xbox-one-game-library-using-external-hdds/"><u>Add More Space to Your Xbox One Game Library Using External HDDs</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/awaken-to-excellence-with-these-top-7-alarm-app-picks/"><u>Awaken to Excellence with These Top 7 Alarm App Picks</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/boost-productivity-on-your-apple-device-using-the-top-18-shortcuts-in-ios/"><u>Boost Productivity on Your Apple Device Using the Top 18 Shortcuts in iOS</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-review-32-premium-yet-free-backup-tools-for-data-security/"><u>Comprehensive Review: 32 Premium Yet Free Backup Tools for Data Security</u></a></li>
-<li><a href="https://driver-error.techidaily.com/identifying-missing-seagate-external-hd-in-windows-11/"><u>Identifying Missing Seagate External HD in Windows 11</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-explore-the-best-video-cameras-of-the-future/"><u>In 2024, Explore the Best Video Cameras of the Future</u></a></li>
-<li><a href="https://ai-video.techidaily.com/in-2024-maximize-yandex-translate-in-video-translation-and-beyond/"><u>In 2024, Maximize Yandex Translate in Video Translation and Beyond</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-fixes-for-the-critical-mapi32dll-missing-or-cannot-be-found-error-on-windows-systems/"><u>Step-by-Step Fixes for the Critical 'Mapi32.dll Missing or Cannot Be Found' Error on Windows Systems</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/unleash-creativity-with-animated-gifs-for-2024/"><u>Unleash Creativity with Animated GIFS for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/watching-lord-of-the-rings-a-guide-to-experience-it-as-released/"><u>Watching 'Lord of the Rings': A Guide to Experience It as Released</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-preserving-the-pulse-of-internet-radio-waves/"><u>[New] 2024 Approved Preserving the Pulse of Internet Radio Waves</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-sm-bus-controller-driver-issues-in-windows-1011/"><u>[SOLVED] SM Bus Controller Driver Issues in Windows 10/11</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-master-guide-implementing-chapters-in-vimeo/"><u>[Updated] Master Guide Implementing Chapters in Vimeo</u></a></li>
+<li><a href="https://os-tips.techidaily.com/creating-animated-gifs-using-your-iphone-a-step-by-step-guide/"><u>Creating Animated GIFs Using Your iPhone: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-fix-msidll-is-missing-or-not-found-errors/"><u>How to Fix Msi.dll Is Missing or Not Found Errors</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-craft-your-own-multitasking-masterpiece-with-these-15-tips/"><u>In 2024, Craft Your Own Multitasking Masterpiece with These 15 Tips</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/20347499-in-2024-how-to-custom-your-youtube-channel-url-super-easy/"><u>In 2024, How to Custom Your YouTube Channel URL – Super Easy</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-multiple-bluetooth-speaker-connection-in-your-space/"><u>Mastering the Art of Multiple Bluetooth Speaker Connection in Your Space</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/optimizing-file-management-tailoring-explorer-display-preferences-for-top-level-and-inherited-folders/"><u>Optimizing File Management: Tailoring Explorer Display Preferences for Top-Level & Inherited Folders</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quick-fixes-for-airpods-that-wont-charge-learn-how-with-our-top/"><u>Quick Fixes for AirPods That Won't Charge - Learn How With Our Top</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-easy-driver-upgrade-for-your-intel-ac-3160-wireless-network-card/"><u>Step by Step - Easy Driver Upgrade for Your Intel AC 3160 Wireless Network Card</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-basics-of-bing-how-it-works-and-why-use-it/"><u>The Basics of Bing: How It Works and Why Use It</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-5-strategies-for-securely-storing-and-protecting-your-digital-information/"><u>Top 5 Strategies for Securely Storing & Protecting Your Digital Information</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/uncover-hidden-notifications-from-the-past-strategies-for-iphones/"><u>Uncover Hidden Notifications From the Past: Strategies for iPhones</u></a></li>
 </ul></div>
 

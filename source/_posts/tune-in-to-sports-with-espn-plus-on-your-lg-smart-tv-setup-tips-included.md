@@ -1,7 +1,7 @@
 ---
 title: Tune in to Sports with ESPN Plus on Your LG Smart TV - Setup Tips Included!
-date: 2024-08-30T14:45:01.777Z
-updated: 2024-08-31T14:45:01.777Z
+date: 2024-12-10T04:44:44.723Z
+updated: 2024-12-10T19:01:23.865Z
 categories:
   - BestProducts
 description: This Article Describes Tune in to Sports with ESPN Plus on Your LG Smart TV - Setup Tips Included!
@@ -31,6 +31,10 @@ thumbnail: https://www.lifewire.com/thmb/EHKe4yF-tC4p1cixcDCoE1WkaAY=/400x300/fi
 
  If an update is detected when you first turn the TV on, it will download and install it before you can proceed to watch anything or use the TV's other functions. This may take several minutes, depending on the nature of the update.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Update Your TV Manually via the Internet
 
  If your TV is connected to the internet, but you prefer to activate software updates manually, you can do so by following these steps:
@@ -41,8 +45,9 @@ thumbnail: https://www.lifewire.com/thmb/EHKe4yF-tC4p1cixcDCoE1WkaAY=/400x300/fi
 3. If no updates available, select**OK** to exit the Settings menu and proceed to use the TV.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Update Your TV Manually via USB
 
  If your TV isn't connected to the internet or if you prefer to install updates locally, you have the option of doing this via USB. To use this option, you need to first download the update to a computer, then transfer it to a USB device. Here's how to do this:
@@ -52,11 +57,13 @@ thumbnail: https://www.lifewire.com/thmb/EHKe4yF-tC4p1cixcDCoE1WkaAY=/400x300/fi
 3. When you see your TV populate in the list of suggestions, select it to open its download page.  
 ![A Samsung TV model number and suggested search entry highlighted on Samsung's website](https://www.lifewire.com/thmb/x12DxO4ugFSz7Kx9nc1Y9fqFg0Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-download-center-model-number-search-6bd1bd2b096a4a71b91daf95b1ea2299.png)
 4. Locate the firmware for your TV from the**Firmware** section, and select**Download** next to it. If there are multiple to choose from, select the item at the top to get the latest version.  
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![The first download button highlighted from the Firmware area of the Samsung website](https://www.lifewire.com/thmb/BwGE5WAPVl5Mte9oNktWY06vc6o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-tv-firmware-e3e85af300dc4772b3c8dcc42c0b06ed.png)  
  The download might take a few minutes, depending on the file's size and the speed of your internet.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Save the[ZIP file](https://www.lifewire.com/zip-file-2622675) to your computer, then unzip it to reveal its contents.
 6. With a[flash drive](https://www.lifewire.com/what-is-a-flash-drive-2625794) plugged in to your computer, copy all the contents of the unzipped file onto the flash drive.  
  Do not copy the .ZIP file itself (only its extracted contents) and do not put the files into any other folder on the flash drive (just the[root](https://www.lifewire.com/what-is-a-root-folder-or-root-directory-2625989) of the drive).
@@ -69,14 +76,17 @@ thumbnail: https://www.lifewire.com/thmb/EHKe4yF-tC4p1cixcDCoE1WkaAY=/400x300/fi
 11. Follow any further prompts to start the update process.  
 ![Samsung TV — Software Update in Progress](https://www.lifewire.com/thmb/jfjs4R0fR4EMhJEQ1NGOxCiVGqU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-tv-soft-firmware-update-c-5b3bf68f46e0fb0037108a40.jpg)
 12. When the process is completed, the TV will turn off automatically, then turn back on, indicating the software update installed correctly and is ready to use.
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 13. To further confirm you've updated the software, you can return to the**Software Update** page to see the latest update.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Update Apps on Samsung Smart TV
 
  It's equally important to update the apps you've downloaded to your device. This is a separate process from updating the TV's system software. The easiest way to keep your apps updated is to have the TV do it automatically. Here's what to do:
@@ -87,16 +97,10 @@ thumbnail: https://www.lifewire.com/thmb/EHKe4yF-tC4p1cixcDCoE1WkaAY=/400x300/fi
 4. Select**Options** and make sure**Auto Update** is set to**On** .  
 ![Samsung TV — App Auto Update Option](https://www.lifewire.com/thmb/gF4jFQ3Mg01dPRAUVppxAUPq_Gs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-update-apps-screen-f-5b3bf6db46e0fb0036d44d40.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
  If you're updating apps manually, you'll be notified if an update is available when you select the app. Follow any further prompts to initiate the update process. When the update is completed, the app will open so you can use it.
 
 [How to Fix It When Samsung TV Apps Aren't Working](https://www.lifewire.com/fix-samsung-tv-apps-not-working-8603497)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Differences Between Samsung TVs
 
  If you own an older Samsung smart TV, such as one released before the 2016 model year, there may be some variations in the steps needed to update apps. Try these directions instead:
@@ -140,8 +144,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +151,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-adding-youtube-captionssubtitles-made-simple-and-fast/"><u>[Updated] In 2024, Adding YouTube Captions/Subtitles Made Simple and Fast</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-depth-analysis-the-powerhouse-in-your-pocket-lightroom-for-2024/"><u>[Updated] In-Depth Analysis The Powerhouse in Your Pocket - Lightroom for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/download-ios-18-now-compatible-iphone-models-and-step-by-step-installation-guide-tech-insider/"><u>Download IOS 18 Now! Compatible iPhone Models & Step-by-Step Installation Guide | Tech Insider</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-insights-on-apples-latest-timepiece-watch-series-9/"><u>Expert Insights on Apple's Latest Timepiece: Watch Series 9</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-honor-x7b-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Honor X7b to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/setting-up-custom-finder-preferences-for-organizing-your-folders/"><u>Setting Up Custom Finder Preferences for Organizing Your Folders</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/skillful-shortcuts-quick-background-elimination-tactics-for-2024/"><u>Skillful Shortcuts Quick Background Elimination Tactics for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-essential-how-to-manual-for-using-telnet-on-windows-pcs/"><u>The Essential How-To Manual for Using Telnet on Windows PCs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-magsafe-chargers-comprehensive-analysis-and-reviews-by-tech-experts-pcmag/"><u>Top-Rated MagSafe Chargers : Comprehensive Analysis & Reviews by Tech Experts - PCMag</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-the-most-efficient-wireless-charger-models-of-2024-a-comprehensive-analysis-from-zdnet-experts/"><u>Ultimate Guide to the Most Efficient Wireless Charger Models of 2024: A Comprehensive Analysis From ZDNET Experts</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-tecno-spark-go-2024-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Tecno Spark Go (2024) | Dr.fone</u></a></li>
+</ul></div>
 

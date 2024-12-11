@@ -1,7 +1,7 @@
 ---
 title: Discover the Hidden Intel-Based Smart Assistant in Your Mac or iPad – Is Yours Equipped with It?
-date: 2024-11-30T00:37:33.734Z
-updated: 2024-12-05T04:26:07.924Z
+date: 2024-12-07T10:42:21.011Z
+updated: 2024-12-11T11:33:42.117Z
 tags:
   - apple
 categories:
@@ -28,11 +28,11 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-## How to customize your iPhone's new Control Center with iOS 18
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## How to customize your iPhone's new Control Center with iOS 18
 
 ## 1\. Access Control Center
 
@@ -41,7 +41,7 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -53,7 +53,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -69,7 +69,7 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -81,7 +81,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -126,19 +126,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-achieving-broadcast-excellence-from-recordings-to-livestreams-on-obs/"><u>[New] 2024 Approved Achieving Broadcast Excellence From Recordings to Livestreams on OBS</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-top-5-mac-software-for-mkv-files/"><u>[Updated] 2024 Approved Top 5 Mac Software for MKV Files</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/discover-a-sea-of-knowledge-navigating-googles-digital-book-archive/"><u>Discover a Sea of Knowledge: Navigating Google's Digital Book Archive</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722954997802-effortless-setup-with-pioneer-djs-ddj-sx2-controller-free-download-now/"><u>Effortless Setup with Pioneer DJ's DDJ-SX2 Controller - Free Download Now!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/elevate-your-vr-experience-logitech-enhances-meta-quest-2-with-cutting-edge-chorus-audio/"><u>Elevate Your VR Experience: Logitech Enhances Meta Quest 2 with Cutting-Edge Chorus Audio</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exclusive-look-sonys-latest-professional-grade-xr-headset-outshines-the-vision-pro-incorporates-two-essential-functions-for-a-comparable-apple-device/"><u>Exclusive Look: Sony's Latest Professional-Grade XR Headset Outshines the Vision Pro, Incorporates Two Essential Functions for a Comparable Apple Device</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-latest-innovations-in-visionos-2-revealed-at-apples-worldwide-developers-conference-the-highlights-and-questions-that-arise/"><u>Exploring the Latest Innovations in VisionOS 2 Revealed at Apple’s Worldwide Developers Conference: The Highlights and Questions That Arise</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/final-cut-pro-x-debugging-secrets-unleash-your-editing-potential/"><u>Final Cut Pro X Debugging Secrets Unleash Your Editing Potential</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-key-to-combining-linktree-and-tiktok-biographies/"><u>In 2024, The Key to Combining Linktree and TikTok Biographies</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/new-zoom-features-bring-unpredictable-surprises-to-vision-pro-headsets-an-in-depth-look/"><u>New Zoom Features Bring Unpredictable Surprises to Vision Pro Headsets: An In-Depth Look</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-a-non-functional-lenovo-keyboard-solutions-explored/"><u>Troubleshooting a Non-Functional Lenovo Keyboard: Solutions Explored</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlock-enhanced-in-store-trials-of-apple-vision-pro-tips-for-scheduling-your-session-zdnet-exclusives/"><u>Unlock Enhanced In-Store Trials of Apple Vision Pro - Tips for Scheduling Your Session | ZDNet Exclusives</u></a></li>
-<li><a href="https://article-files.techidaily.com/youtubes-role-in-shaping-brands-and-collaborations/"><u>YouTube's Role in Shaping Brands & Collaborations</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/66qo67cu7j287zmuioqwgoukpe2vncdrkzag7jib7iobioqyso2vqsdrsknrspuglsdrr7jrsknsoitsnyqg7jye7zw07isc/"><u>모바일화 가능한 두 영상 결합 방법 - 미방전을 위해서</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-becoming-a-whatsapp-pro-uncovering-invaluable-tips-and-tricks-for-2024/"><u>[Updated] Becoming a WhatsApp Pro Uncovering Invaluable Tips and Tricks for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-diaspora-user-visualization-measurements-format-length-for-2024/"><u>[Updated] Diaspora User Visualization Measurements, Format, Length for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-night-photography-perfection-with-iphones/"><u>[Updated] In 2024, Night Photography Perfection with iPhones</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/classroom-mastery-the-prime-10-audio-visual-aids-for-instructors/"><u>Classroom Mastery The Prime 10 Audio-Visual Aids for Instructors</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-enhanced-airpods-4-with-revolutionary-find-my-speaker-and-updated-usb-c-port-as-covered/"><u>Discover the Enhanced AirPods 4 with Revolutionary Find My Speaker and Updated USB-C Port as Covered</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-top-4-revolutionary-apple-health-innovations-unveiled-in-latest-event/"><u>Discover the Top 4 Revolutionary Apple Health Innovations Unveiled in Latest Event</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-how-to-correct-lens-distortion-with-filmora/"><u>In 2024, How to Correct Lens Distortion With Filmora</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/is-the-latest-airpower-footage-a-sign-of-apples-return-to-qi-enabled-wireless-charging-mats/"><u>Is the Latest AirPower Footage a Sign of Apple's Return to Qi-Enabled Wireless Charging Mats?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/protecting-your-new-iphone-16-essential-reasons-to-invest-in-a-quality-phone-case/"><u>Protecting Your New iPhone 16: Essential Reasons to Invest in a Quality Phone Case</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/solving-common-issues-with-samsung-television-closed-captioning/"><u>Solving Common Issues with Samsung Television Closed Captioning</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/sonos-reveals-user-friendly-s2-app-with-surprising-limitations-tech-insights-on-zdnet/"><u>Sonos Reveals User-Friendly S2 App with Surprising Limitations | Tech Insights on ZDNet</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/step-by-step-guide-to-boost-your-social-media-presence-with-instagram-hashtags/"><u>Step-by-Step Guide to Boost Your Social Media Presence with Instagram Hashtags</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-guide-to-using-look-up-tables-luts-in-photoshop/"><u>The Ultimate Guide to Using Look-Up Tables (LUTs) in Photoshop</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-ranking-windows-10-video-and-audio-converter-software-mp4-mkv-avi-and-more/"><u>Top-Ranking Windows 10 Video & Audio Converter Software: MP4, MKV, AVI, and More</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-patch-tuesday-what-you-need-to-know/"><u>Understanding Patch Tuesday: What You Need to Know</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-apples-revolutionary-ai-tech-to-transform-your-iphone-screen-and-empower-siri-zdnet/"><u>Unveiling Apple's Revolutionary AI Tech to Transform Your iPhone Screen and Empower Siri | ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upgrading-to-iphone-14-is-it-worth-leaving-iphone-13-behind-an-in-depth-comparison-for-tech-enthusiasts-zdnet/"><u>Upgrading to iPhone 14: Is It Worth Leaving iPhone 13 Behind? An In-Depth Comparison for Tech Enthusiasts - ZDNet</u></a></li>
 </ul></div>
 

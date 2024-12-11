@@ -1,7 +1,7 @@
 ---
 title: "Beginner's Guide: Top 10 Fundamental Windows Terminal Commands"
-date: 2024-08-30T14:39:05.771Z
-updated: 2024-08-31T14:39:05.771Z
+date: 2024-12-08T22:54:38.266Z
+updated: 2024-12-11T02:13:01.607Z
 tags:
   - desktop
 categories:
@@ -42,6 +42,10 @@ cd Documents
 
 ![Using the change directory command in Windows to go up one level.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/cd_up_one_level.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also navigate to a specific path, no matter where you are, by providing the full path, starting from the root directory. Remember to use the correct syntax and spelling. To navigate to the System32 directory, type this command:
 
 cd C:\Windows\System32
@@ -60,10 +64,11 @@ cd C:\Windows\System32
 
 ![Using the dir command in Windows to display hidden directories and files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/dir_see_hidden_files.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
  Use the Tab key to auto-complete file and directory names while typing commands, saving time and reducing errors.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3  mkdir: Create New Directories 
 
@@ -73,18 +78,12 @@ mkdir NewFolder
 
 ![Using the mkdir command in Windows to create a new directory.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/mkdir_newfolder.png) 
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
  This command is a great way to keep your system organized.
 
  If you want to create a nested directory structure in one go, you can use the **mkdir a\\b\\c** command. This command will create directory "a," and within "a," it will create directory "b," and within "b," it will create directory "c." It's a convenient way to set up multiple levels of directories with a single command rather than having to create each directory individually.
 
 ![Using mkdir to create nested directories in Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/mkdir_nested.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4  rmdir: Remove Directories 
 
  Do you have an empty folder you don’t need? The rmdir (remove directory) command will take care of it. But if it’s not empty, you’ll need a different approach. To remove an empty directory, simply type:
@@ -93,22 +92,24 @@ rmdir NewFolder
 
 ![Using the rmdir command in WIndows to remove a folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/rmdir_newfolder.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To remove a directory along with everything within it, use the **rmdir /s NewFolder** command.
 
 ![Using the rmdir command in Windows to remove a directory and its contents.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/rmdir_newfolder_andcontents.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Just be careful with that second one, and make sure you really want everything gone.
 
  When using the mkdir or rmdir commands, you won't see any confirmation message if the action is successful. To ensure the directory has been created or removed, you can use the dir command to list the contents of the current directory. If the action is successful, the new directory will appear or disappear from the list accordingly.
 
  If you need more information on a specific command, simply enter help followed by the command. For example, if you need more information on the rmdir command, type the **help rmdir** command.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5  del: Delete Files 
 
  Do you need to delete a file? The del command will do it. Use it wisely because once it's gone, it's gone (sort of). [Deleted files on hard drives aren't immediately erased](https://screen-recording.techidaily.com/updated-enhancing-facebook-viewership-with-obs-broadcasts/), while on solid-state drives, the data may be wiped more quickly.
@@ -119,16 +120,10 @@ del file.txt
 
 ![Using the del command in Windows to delete a file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/del_file.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
  It’s a powerful command, so handle it with care.
 
  The del command doesn't print anything in response to its use, which might surprise you. Once you run the command, the file will be deleted silently. You can verify that the file has been deleted by using the dir command to check the contents of the directory where the file was located.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## 6  copy: Copy Files to Another Location 
 
  Do you want to back up your files? The copy command makes duplicating files a breeze. To copy file.txt to the C:\\Backup folder, type the following:
@@ -144,13 +139,15 @@ copy * .txt C:\Backup
 ![Using the copy command to copy multiple files in Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/copy_multiple_files.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Press F7 to view and select from your command history. This allows you to easily re-run previous commands without retyping them.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7  move: Move Files to a New Location 
 
  Are you reorganizing your files? The move command lets you move files around on Windows without having to copy them to a new location. To move a file, use the move command followed by the filename and, finally, the location where you want it moved.
@@ -160,6 +157,10 @@ copy * .txt C:\Backup
 move file.txt C:\Backup
 
 ![Using the move command in Windows to move a file to a new location.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/move_tobackup.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8  type: Display the Contents of a Text File 
 
@@ -171,19 +172,15 @@ type file.txt
 
  The cls command clears all text from the terminal screen, giving you a clean slate to work from.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9  systeminfo: View System Information 
 
  The systeminfo command provides an [overview of your Windows system](https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-redmi-k70-pro-by-fonelab-android-recover-music/), perfect for troubleshooting or satisfying your curiosity. It displays information such as the operating system version, processor type, and installed RAM. It also includes details about the computer's network configuration.
 
 ![Using the systeminfo command in Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/systeminfo.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10  tree: Display Directory Structure 
 
@@ -192,6 +189,10 @@ type file.txt
 tree C:\Users
 
 ![Using the tree command to see the structure of the Users folder in Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/tree.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -203,8 +204,6 @@ tree C:\Users
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -212,4 +211,23 @@ tree C:\Users
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-seamless-strategy-integrating-linktree-into-your-tiktok-bio/"><u>[New] In 2024, Seamless Strategy Integrating Linktree Into Your TikTok Bio</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-instagram-pro-tips-effortless-video-upload-from-pcmac-for-2024/"><u>[New] Instagram Pro Tips Effortless Video Upload From PC/Mac for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-pro-level-text-templates-for-adobe-ae/"><u>[New] Pro-Level Text Templates for Adobe AE</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/6-exceptional-journal-apps-ranked-by-users-perfect-your-note-taking-habits-today/"><u>6 Exceptional Journal Apps Ranked by Users – Perfect Your Note-Taking Habits Today</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/approach-calculate-the-new-total-capacitance-after-one-capacitor-fails-and-then-use-e-12-cv2-to-find-the-remaining-energy/"><u>Approach: Calculate the New Total Capacitance After One Capacitor Fails and Then Use E = 1/2 CV^2 to Find the Remaining Energy.</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/breaking-apple-hit-with-2-billion-euro-fine-by-european-union-over-anti-competitive-app-store-tactics-coverage-by-zdnet/"><u>Breaking: Apple Hit with 2 Billion Euro Fine by European Union Over Anti-Competitive App Store Tactics | Coverage by ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-hidden-rewards-of-electric-vehicles-exclusive-parking-rights-and-high-occupancy-lanes-access/"><u>Discover Hidden Rewards of Electric Vehicles: Exclusive Parking Rights & High Occupancy Lanes Access</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-nokia-c300-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Nokia C300</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/free-reactive-ui-dashboard-with-argon-and-material-ui-integration-by-creative-tim/"><u>Free Reactive UI Dashboard with Argon and Material-UI Integration by Creative Tim</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-tecno-spark-go-2023-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Tecno Spark Go (2023) to iPod | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/new-footage-emerges-for-apples-long-lost-airpower-pad-is-qi-charging-technology-to-blame-or-bless/"><u>New Footage Emerges for Apple's Long-Lost AirPower Pad - Is Qi Charging Technology to Blame or Bless?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/reviving-your-pc-a-step-by-step-guide-when-it-powers-on-but-wont-show-anything/"><u>Reviving Your PC: A Step-by-Step Guide When It Powers On But Won't Show Anything</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/smoothly-shift-your-pictures-from-google-photos-to-icloud-with-this-simple-method/"><u>Smoothly Shift Your Pictures From Google Photos to iCloud with This Simple Method!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-ipad-pro-protectors-comprehensive-reviews-by-tech-specialists-zdnet/"><u>Top-Rated iPad Pro Protectors : Comprehensive Reviews by Tech Specialists - ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-non-apple-non-tile-wallet-airtag-a-comprehensive-review/"><u>Top-Rated Non-Apple, Non-Tile Wallet AirTag: A Comprehensive Review</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-w10-with-latest-thinkpad-device-drivers/"><u>Upgrade W10 with Latest ThinkPad Device Drivers</u></a></li>
+</ul></div>
 

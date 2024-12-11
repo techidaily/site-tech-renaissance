@@ -1,7 +1,7 @@
 ---
 title: "DIY Repair: What to Do When a MacBook Pro Keyboard Stops Working"
-date: 2024-08-30T14:46:30.112Z
-updated: 2024-08-31T14:46:30.112Z
+date: 2024-12-03T20:54:29.721Z
+updated: 2024-12-11T10:15:50.918Z
 categories:
   - BestProducts
 description: "This Article Describes DIY Repair: What to Do When a MacBook Pro Keyboard Stops Working"
@@ -15,6 +15,10 @@ thumbnail: https://thmb.techidaily.com/ecc3916e90aab64f99ff84f9c45d036bcf1e08682
  You'll need to attempt fixes such as cleaning it, checking for updates, and removing potential problem apps to get your keyboard working again. Most of these fixes also work for MacBook Air keyboards.
 
  Apple's butterfly keyboards were such a problem; Apple had to issue a[Keyboard Service Program for the MacBook, MacBook Air, and MacBook Pro](https://support.apple.com/keyboard-service-program-for-mac-notebooks) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix a MacBook Pro Keyboard That Isn't Working
 
@@ -46,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/ecc3916e90aab64f99ff84f9c45d036bcf1e08682
  Apple fixes some keyboard issues at no charge due to defects in the butterfly switch mechanisms, but customer support can tell you whether your MacBook is covered.
 
  Before you take your MacBook in for service, make sure to[back up the data on your Mac](https://www.lifewire.com/back-up-mac-to-external-hard-drive-with-time-machine-5069853) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Causes a MacBook Pro Keyboard to Stop Working?
 
@@ -92,8 +100,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -101,8 +107,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-adjust-your-video-feedback-control-in-youtube/"><u>[New] 2024 Approved Adjust Your Video Feedback Control in YouTube</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-launching-videos-efficiently-with-free-intros/"><u>[Updated] 2024 Approved Launching Videos Efficiently with FREE Intros</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-craft-your-facebook-profile-video/"><u>[Updated] Craft Your Facebook Profile Video</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1-issues-with-liquid-found-in-iphone-charging-port-what-are-the-solutions-a-comprehensive-guide-by-zdnet/"><u>1. 'Issues with Liquid Found in iPhone Charging Port: What Are the Solutions?' - A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-graphic-design-journeys-from-passion-to-profession/"><u>2024 Approved Graphic Design Journeys From Passion to Profession</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-the-key-role-of-image-quality-in-generating-clicks-on-youtube-videos/"><u>2024 Approved The Key Role of Image Quality in Generating Clicks on YouTube Videos</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ing-channels-earning-dollars-a-beginners-guide-for-2024/"><u>Creating Channels, Earning Dollars A Beginner's Guide for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enhance-your-apple-watchs-endurance-with-these-eight-crucial-battery-life-tweaks-learn-the-tips-inside/"><u>Enhance Your Apple Watch's Endurance with These Eight Crucial Battery Life Tweaks - Learn the Tips Inside</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/get-ready-for-the-apple-watch-series-now-preorder-strategies-and-exclusive-deals-await-on-zdnet/"><u>Get Ready for the Apple Watch Series Now! Preorder Strategies & Exclusive Deals Await on ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/introducing-stable-diffusion-3-next-level-ai-innovation-unveiled/"><u>Introducing Stable Diffusion 3: Next-Level AI Innovation Unveiled</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/introducing-the-future-of-corporate-tech-managing-devices-with-apples-vision-pro-insights-from-zdnet/"><u>Introducing the Future of Corporate Tech: Managing Devices with Apple's Vision Pro – Insights From ZDNet</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1725288102921-k-lite-codec-pack/"><u>K-Lite Codec Pack: 初心者が知るべき全貌 - 最新ガイド</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolutionize-your-holds-the-correct-way-to-carry-iphone-and-airpods-revealed/"><u>Revolutionize Your Holds: The Correct Way to Carry iPhone & AirPods Revealed!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionizing-hotel-entertainment-discover-how-selected-hotels-are-embracing-apple-airplay-for-pristine-remotes-and-seamless-streaming-experiences/"><u>Revolutionizing Hotel Entertainment: Discover How Selected Hotels Are Embracing Apple AirPlay for Pristine Remotes and Seamless Streaming Experiences</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solved-how-to-repair-a-broken-front-speaker-connector-on-your-device/"><u>Solved! How To Repair A Broken Front Speaker Connector On Your Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-5-ultimate-notetakers-in-depth-analysis-and-expert-reviews-by-zdnet/"><u>Top 5 Ultimate Notetakers - In-Depth Analysis & Expert Reviews by ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-iphone-16-protection-the-ultimate-guide-to-cases-and-covers-for-first-timers-insights-from-tech-experts-at-zdnet/"><u>Unlocking iPhone 16 Protection: The Ultimate Guide to Cases and Covers for First-Timers – Insights From Tech Experts at ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-the-secret-to-acquiring-an-iphone-15-pro-max-for-just-one-cent-on-amazon-exposed/"><u>Unlocking The Secret To Acquiring An iPhone 15 Pro Max For Just One Cent on Amazon - Exposed!</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->

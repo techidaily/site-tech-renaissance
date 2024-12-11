@@ -1,7 +1,7 @@
 ---
 title: "Top 4 Apple Devices Currently Not Worth Your Money: Insights From ZDNet"
-date: 2024-12-02T03:28:52.222Z
-updated: 2024-12-04T17:50:49.902Z
+date: 2024-12-10T00:00:28.809Z
+updated: 2024-12-11T02:30:39.818Z
 tags:
   - apple
 categories:
@@ -59,10 +59,6 @@ Don't buy these devices:
 
 ## **The 'Nice' list**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Apple iPhone 16**
 
 iPhone 16
@@ -79,6 +75,10 @@ Kerry Wan/ZDNET
 
 The [Apple Watch Series 10](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) starts at $399 for GPS and $499 for cellular. It comes in three colors: jet black, rose gold, and silver aluminum. The new black [Apple Watch Ultra 2](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch-ultra&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) starts at $799\. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Apple M3 MacBook Air**
 
 Apple MacBook Air M3
@@ -92,10 +92,6 @@ Apple's MacBook Air has an M3 chip -- more oomph to tackle heavier-duty AI tasks
 Along with the updated processor, this MacBook Air can also power two external monitors with the lid closed, making it a great desktop replacement -- just add two screens! 
 
 With prices for the [13-inch M3 MacBook Air starting at $1,099](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-midnight-apple-m3-chip-with-8-core-cpu-and-8-core-gpu-8gb-memory-256gb&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and the [15-inch version starting at $200 more](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F15-inch-midnight-apple-m3-chip-with-8-core-cpu-and-10-core-gpu-8gb-memory-256gb&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), these systems represent some serious processing power for an extremely competitive price (especially when you consider these are Apple laptops). 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Apple Vision Pro**
 
@@ -112,7 +108,7 @@ It's hard to bet against Apple, but a futuristic set of goggles with a starting 
 [Apple Vision Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-vision&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Apple 14-inch and 16-inch MacBook Pro**
@@ -130,6 +126,10 @@ This lineup of MacBooks has the entire lineup of M3 chips -- from the powerful M
 
 [2023 M3-powered MacBook Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Apple's 24-inch iMac**
 
 Apple [refreshed the iMac in October 2023](https://www.zdnet.com/article/everything-apple-announced-at-its-october-scary-fast-event-m3-macbook-pro-24-inch-imac-more/), and while it has the same 24-inch, 4.5K Retina display, it received the M3 chip upgrade. Here are the highlights:
@@ -146,7 +146,7 @@ Apple [refreshed the iMac in October 2023](https://www.zdnet.com/article/everyth
 [Apple iMac 24-inch View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fimac&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **2nd-gen AirPods Pro (now with USB-C)**
@@ -171,7 +171,7 @@ And soon, your AirPods Pro earbuds will be able to function as [clinical-grade h
 [2nd Gen AirPods Pro $189.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6447382%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6447382.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Apple AirTag**
@@ -214,20 +214,14 @@ Well-made, robust, and with a replaceable battery, these will make misplaced key
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-tagging-and-title-strategies-for-youtube-success-stories/"><u>[New] 2024 Approved Tagging and Title Strategies for YouTube Success Stories</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/all-about-nothing-phone-3-projected-pricing-expected-release-date-specifications-the-buzz-continues/"><u>All About Nothing Phone 3: Projected Pricing, Expected Release Date, Specifications - The Buzz Continues</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/amplify-your-sound-experience-connecting-an-array-of-bluetooth-speakers-to-one-device/"><u>Amplify Your Sound Experience: Connecting an Array of Bluetooth Speakers to One Device</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-why-you-might-not-see-facebook-marketplace-available/"><u>Exploring Why You Might Not See Facebook Marketplace Available</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2527886-9780811746489-haunted-tennessee/"><u>Haunted Tennessee | Free Book</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-how-to-take-screenshots-on-a-chromebook/"><u>In 2024, How to Take Screenshots on A Chromebook</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/master-the-pairing-process-setting-up-a-connection-between-your-samsung-clicker-and-smart-tv/"><u>Master the Pairing Process: Setting Up a Connection Between Your Samsung Clicker and Smart TV</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-fixes-accelerating-downloads-in-ubisoft-connect-for-streamlined-gaming/"><u>Quick Fixes: Accelerating Downloads in Ubisoft Connect for Streamlined Gaming</u></a></li>
-<li><a href="https://techtrends.techidaily.com/streamlined-sound-with-sonos-s2-discover-the-surprising-drawbacks-revealed-by-tech-experts-at-zdnet/"><u>Streamlined Sound with Sonos S2? Discover the Surprising Drawbacks Revealed by Tech Experts at ZDNet</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-comprehensive-playbook-for-self-branded-content-creators-for-2024/"><u>The Comprehensive Playbook for Self-Branded Content Creators for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/ultimate-list-of-the-11-premier-video-game-recorders-for-windows-users/"><u>Ultimate List of the 11 Premier Video Game Recorders for Windows Users</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-tips-for-emptying-your-email-account-on-gmails-mobile-platform/"><u>Ultimate Tips for Emptying Your Email Account on Gmail's Mobile Platform</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/what-to-do-when-you-encounter-an-nspr4dll-file-not-found-issue/"><u>What to Do When You Encounter an Nspr4.dll File Not Found Issue</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722868938577-windows-10-search-problem-here-are-the-best-solutions-for-immediate-results/"><u>Windows 10 Search Problem? Here Are the Best Solutions for Immediate Results</u></a></li>
-<li><a href="https://win-premium.techidaily.com/yl-softwares-stunning-blossom-backdrops-high-res-imagery-and-background-photos-for-your-screen/"><u>YL Software's Stunning Blossom Backdrops: High-Res Imagery & Background Photos for Your Screen</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-innovative-interface-intensity/"><u>[Updated] In 2024, Innovative Interface Intensity</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-premium-sound-collection-no-cost-top-luts-listed-here/"><u>2024 Approved Premium Sound Collection No-Cost, Top LUTs Listed Here</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2039175-9781782798538-a-kitchen-witchs-world-of-magical-food/"><u>A Kitchen Witch's World of Magical Food | Free Book</u></a></li>
+<li><a href="https://extra-information.techidaily.com/becoming-a-final-cut-pro-expert-your-quick-reference-for-2024/"><u>Becoming a Final Cut Pro Expert – Your Quick Reference for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/choosing-between-ipad-pro-and-macbook-air-a-comprehensive-guide-on-which-best-suits-your-needs/"><u>Choosing Between iPad Pro and MacBook Air: A Comprehensive Guide on Which Best Suits Your Needs</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-from-capturing-to-sharing-mastery-of-aiseesoft-recorder-features/"><u>In 2024, From Capturing to Sharing Mastery of Aiseesoft Recorder Features</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/locate-apples-official-guides-accessing-iphone-manuals-by-model-number/"><u>Locate Apple's Official Guides: Accessing iPhone Manuals by Model Number</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-the-pathway-to-college-savings-with-apple-musics-student-discount-program-expert-advice/"><u>Navigating the Pathway to College Savings with Apple Music's Student Discount Program: Expert Advice</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/switching-whatsapp-platforms-heres-how-to-move-your-chats-from-android-to-ios/"><u>Switching WhatsApp Platforms? Here's How to Move Your Chats From Android to iOS</u></a></li>
 </ul></div>
 

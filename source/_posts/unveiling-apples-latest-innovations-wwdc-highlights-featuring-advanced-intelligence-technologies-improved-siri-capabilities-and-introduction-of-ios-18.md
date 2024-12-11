@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Apple's Latest Innovations: WWDC Highlights Featuring Advanced Intelligence Technologies, Improved Siri Capabilities and Introduction of iOS 18"
-date: 2024-11-29T09:55:41.001Z
-updated: 2024-12-05T02:27:35.010Z
+date: 2024-12-10T02:22:33.550Z
+updated: 2024-12-10T22:17:38.791Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is expected at WWDC 2024?
@@ -53,7 +53,7 @@ The event provides developers with access to experts, along with highlights of n
 "We're so excited to connect with developers from around the world for an extraordinary week of technology and community at WWDC24," Susan Prescott, Apple's VP of Worldwide Developer Relations, said in a news release. "WWDC is all about sharing new ideas and providing our amazing developers with innovative tools and resources to help them make something even more wonderful." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. You'll be hearing AI (or Apple Intelligence) a lot
@@ -73,7 +73,7 @@ Apple has also allegedly been seeking a partner for outside help, possibly teami
 More recently, rumors have suggested that some new AI features will include more intelligent and helpful searches in Safari, AI-generated emojis based on conversations in Messages, and an AI-powered [photo editing app](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/) similar to Google's Magic Eraser. It's worth noting that such features are believed to only function on the more recent Apple products, including the iPhone 15 Pro with its A17 Pro chip and M-series iPads and MacBooks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Don't forget the other acronym: RCS
@@ -87,7 +87,7 @@ To the surprise of many, except for the European Commission, Apple [announced la
 The decision to bring RCS to the iPhone came after mounting pressure from the European Union's Digital Markets Act (DMA), which stressed cross-platform compatibility. While a more [recent statement from Google](https://www.zdnet.com/article/google-seems-to-have-leaked-apples-timeframe-for-bringing-rcs-to-the-iphone/) suggested that Apple would integrate RCS later this fall, highlighting the transition at WWDC could potentially help Apple's defense against the [DOJ's antitrust lawsuit](https://x.com/getpeid/status/1798369533889302576), filed in March. Regardless of when and how Apple chooses to announce the new feature, it'll be big news for both iOS and Android users.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. MacOS 15, iPadOS 18, WatchOS 11, VisionOS 2, tvOS 18
@@ -128,24 +128,14 @@ As for [VisionOS](https://www.zdnet.com/article/10-things-id-like-to-see-in-visi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-video-to-audio-quickly-create-mp3-from-youtube-on-mac-for-2024/"><u>[New] From Video to Audio Quickly Create MP3 From YouTube on Mac for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-resolve-chromes-video-playback-woes-for-2024/"><u>[New] Resolve Chrome's Video Playback Woes for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/he-ultimate-camera-selection-for-youtube-filmmakers-for-2024/"><u>[New] The Ultimate Camera Selection for YouTube Filmmakers for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-ultimate-overview-of-du-recorders-technical-specifications-for-2024/"><u>[New] Ultimate Overview of Du Recorder’s Technical Specifications for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-unveiling-vlcs-network-live-stream-capabilities/"><u>[Updated] In 2024, Unveiling VLC's Network Live Stream Capabilities</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-power-of-persuasion-hire-success-stories-1-10-for-2024/"><u>[Updated] The Power of Persuasion Hire Success Stories #1-10 for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/best-4-instruments-to-monitor-and-engage-in-hashtag-conversations-on-twitter/"><u>Best 4 Instruments to Monitor and Engage in #Hashtag Conversations on Twitter</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/diy-laptop-maintenance-putting-away-lost-keycaps-on-your-keyboard-easily/"><u>DIY Laptop Maintenance: Putting Away Lost Keycaps On Your Keyboard Easily</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/elevate-your-computers-performance-with-these-8-free-driver-updaters/"><u>Elevate Your Computer's Performance with These 8 Free Driver Updaters</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-advice-overcoming-the-challenge-of-steam-disk-write-malfunctions/"><u>Expert Advice: Overcoming the Challenge of Steam Disk Write Malfunctions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-fix-the-steam-disk-write-error/"><u>How to Fix the Steam Disk Write Error</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Infinix Hot 30 5G | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-samsung-galaxy-f04-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Samsung Galaxy F04 Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/master-level-graphics-tips-and-tricks-for-hitting-120-frames-per-second-on-the-ps5-console/"><u>Master Level Graphics: Tips and Tricks for Hitting 120 Frames Per Second on the PS5 Console</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/master-the-art-of-ev-charging-at-home-essential-insights-and-tips/"><u>Master the Art of EV Charging at Home – Essential Insights and Tips</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-x-chat-a-comprehensive-guide-to-joining-twitter-discussions/"><u>Mastering the Art of X Chat: A Comprehensive Guide to Joining Twitter Discussions</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/purifyplayback-enhancing-video-quality/"><u>PurifyPlayback: Enhancing Video Quality</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-for-fixing-the-libxml2dll-error-message/"><u>Troubleshooting Tips for Fixing the Libxml2.dll Error Message</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/vimeo-mastery-in-motion-building-high-impact-gifs/"><u>Vimeo Mastery in Motion Building High-Impact GIFs</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-discover-everything-in-stardews-hidden-gem-ginger-isle/"><u>[New] In 2024, Discover Everything in Stardew's Hidden Gem, Ginger Isle</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-maximizing-mobile-smartphones-and-youtube-success/"><u>2024 Approved Maximizing Mobile Smartphones & YouTube Success</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-open-source-banner-resources-a-gift-to-youtubers/"><u>2024 Approved Open Source Banner Resources A Gift to YouTubers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ace-your-macs-facetime-camera-with-apple-vision-pro-tips-screenshots-recordings-done-right-no-quirks-included/"><u>Ace Your Mac's FaceTime Camera with Apple Vision Pro Tips: Screenshots, Recordings Done Right (No Quirks Included)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-elevates-user-experience-with-openais-chatgpt-for-ios-ipados-and-macos-insights-from-zdnet/"><u>Apple Elevates User Experience with OpenAI's ChatGPT for iOS, iPadOS, and MacOS - Insights From ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-well-does-the-new-iphone-14-meet-user-expectations-an-in-depth-analysis-by-zdnet/"><u>How Well Does the New iPhone 14 Meet User Expectations? An In-Depth Analysis by ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/introducing-the-next-generation-apples-airpods-pro-2023-featuring-enhanced-tracking-and-new-charging-options-insights-from-tech-news-today/"><u>Introducing the Next Generation: Apple's AirPods Pro 2023 Featuring Enhanced Tracking & New Charging Options - Insights From Tech News Today</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-laptops-for-professional-video-editors-comprehensive-guide-and-reviews-techradar/"><u>Top-Rated Laptops for Professional Video Editors: Comprehensive Guide & Reviews - TechRadar</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-how-to-get-print-driver-host-has-stopped-working-message-away-32bit/"><u>Troubleshooting Tips: How to Get 'Print Driver Host Has Stopped Working' Message Away (32Bit)</u></a></li>
 </ul></div>
 

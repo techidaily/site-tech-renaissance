@@ -1,7 +1,7 @@
 ---
 title: NYT Daily Connection Insights & Solutions, Unlock the Puzzle on May 21St (#345)
-date: 2024-08-30T14:38:12.691Z
-updated: 2024-08-31T14:38:12.691Z
+date: 2024-12-03T16:39:48.570Z
+updated: 2024-12-10T22:20:11.342Z
 tags:
   - web
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## NYT Daily Connection Insights & Solutions, Unlock the Puzzle on May 21St (#345)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -28,9 +32,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Once you're confident you understand the connection, select 4 words, then hit "Submit." You have only four attempts in total, so don't be too guess-happy.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Hints for Today's Connections Groups
 
  Here are a few hints for the 345th Connections game to get you started:
@@ -41,15 +42,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * **Purple:** A social media company and a laptop.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  What Are Today's Connections Groups?
 
 ![May 21st's words.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/may-21st-connections.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you still need help, the actual group names are:
 
 * **Yellow:** Smidgen
@@ -58,11 +61,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * **Purple:** \_\_\_Book (That's Not a Book)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Today's NYT Connections Answers
 
 ![May 21st Connections groups and words.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/may-21st-connections-filled.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Smidgen (Yellow):** 
 
@@ -80,18 +88,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Face, Mac, Match, Pocket
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How Did We Solve This Connections Game?
 
  May 21st was pretty straightforward. 
@@ -104,10 +100,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  That left buy, deal, steal, and value in the Green group, which was "Bargain." 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ##  How Do You Guess Connections Groups?
 
  There is no quick, reliable way to approach Connections like there is with Wordle, since Connections isn't algorithmic. However, there are a few things to keep in mind that can help.
@@ -127,8 +119,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,4 +126,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-bridging-the-digital-divide-with-gratuitous-animations/"><u>[Updated] 2024 Approved Bridging the Digital Divide with Gratuitous Animations</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-meizu-21-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fitness-meets-tech-discover-how-the-new-airpods-pro-track-your-workout-heart-rate-insights-from-zdnet/"><u>Fitness Meets Tech: Discover How the New AirPods Pro Track Your Workout Heart Rate - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/icloud-note-integration-into-linux-systems-steps-and-strategies/"><u>ICloud Note Integration Into Linux Systems: Steps & Strategies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/introducing-bard-googles-latest-artificial-intelligence-innovation-battling-against-chatgpt/"><u>Introducing Bard: Google's Latest Artificial Intelligence Innovation Battling Against ChatGPT</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-from-selfie-to-toon-top-rated-apps-for-cartoon-style-photos-for-2024/"><u>New From Selfie to Toon Top-Rated Apps for Cartoon-Style Photos for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/share-the-article-on-all-relevant-social-media-platforms-including-linkedin-for-professional-audiences-twitter-facebook-and-instagram-use-eye-catching-visua24/"><u>Share the Article on All Relevant Social Media Platforms, Including LinkedIn (for Professional Audiences), Twitter, Facebook, and Instagram. Use Eye-Catching Visuals or Graphics that Relate to Quantum Computing and AI when Posting.</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-world-of-digital-culture-decoding-the-meaning-of-memes/"><u>The World of Digital Culture: Decoding the Meaning of Memes</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/top-imovie-replacements-for-windows-10-free-and-premium-options-for-2024/"><u>Top iMovie Replacements for Windows 10 Free and Premium Options for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/transform-your-tunes-how-the-latest-apple-music-feature-simplifies-migrating-from-spotify-playlists/"><u>Transform Your Tunes: How the Latest Apple Music Feature Simplifies Migrating From Spotify Playlists</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-world-of-lg-channels-key-information-at-your-fingertps/"><u>Unveiling the World of LG Channels: Key Information at Your Fingertps</u></a></li>
+</ul></div>
 

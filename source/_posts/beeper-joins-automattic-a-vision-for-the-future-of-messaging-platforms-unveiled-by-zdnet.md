@@ -1,7 +1,7 @@
 ---
 title: "Beeper Joins Automattic: A Vision for the Future of Messaging Platforms Unveiled by ZDNet"
-date: 2024-11-28T07:23:22.856Z
-updated: 2024-12-04T23:46:41.334Z
+date: 2024-12-04T00:16:10.200Z
+updated: 2024-12-10T23:44:12.354Z
 tags:
   - apple
 categories:
@@ -42,6 +42,10 @@ There's a reason the Apple Watch is acclaimed as one of the best smartwatches in
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. A less-distracting extension of your iPhone
 
 Jason Hiner/ZDNET
@@ -58,10 +62,6 @@ The watch is also a great way to reduce distractions. When you have your phone o
 
 Of course, your mileage may vary with this experience. Not everyone has or wants a cellular-connected Apple Watch, and all the dings and buzzes you get during the day can be distracting. But for me, having the watch strapped to my wrist and paired with my phone number makes it incredibly easy to cut the reliance on my phone and reduce the temptation to get carried away with all the apps I have installed. It's great.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. A truly great fitness-tracking experience
 
 Jason Hiner/ZDNET
@@ -75,7 +75,7 @@ From the concept of "closing your rings" every day (and the various awards you c
 Apple's platform isn't perfect, mind you. You'll find better sleep-tracking information on other watches, like the Google Pixel Watch 2, you don't get any recovery information _at all_, and the Health app doesn't proactively tell you whether you're improving during your fitness journey. Still, for general consumers and fitness enthusiasts, using the Apple Watch for health tracking is a fantastic experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Notifications you want to interact with
@@ -87,7 +87,7 @@ I can't tell you how many times I've used a smartwatch and wanted it to replicat
 Seriously, the Apple Watch's notification system is excellent. A gentle tap on the wrist lets you know something has just popped up, while the animation from app icon to notification is fast and clear. You can swipe the alert away with minimal effort, the notification shade is tight yet descriptive, and any notification you dismiss is also dismissed from your phone (a synchronization many Android phones don't have when paired with a smartwatch). The Apple Watch has the best notifications in the game, bar none.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. The greatest haptics on any watch
@@ -100,6 +100,10 @@ One reason notifications are so good is the Apple Watch's Taptic Engine, which d
 
 The feel of haptics on a watch can set the tone for how you perceive the quality of the device. My [ScanWatch from Withings](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FWithings-ScanWatch-Light-Smartwatch-Monitoring%2Fdp%2FB0CG9RZFLN%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd68bc2ab-4b95-4dbb-8461-3abb4a46ecac%7Cdtp&dtb=1), for example, buzzes like a cheap cell phone from 2014\. My [Galaxy Watch](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Bluetooth-Smartwatch-Personalized-Advanced%2Fdp%2FB0C797946T%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd68bc2ab-4b95-4dbb-8461-3abb4a46ecac%7Cdtp&dtb=1)'s vibrations are stronger and not as buzzy, but feel unnatural. The Apple Watch's haptics feel the most natural by far, which makes the watch feel great to wear by extension.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Navigating with Apple Maps
 
 Can you use other smartwatches to navigate to a new destination? You absolutely can. Am I unjustifiably biased towards the Apple Watch for having my favorite navigation experience? Yes, I am.
@@ -109,10 +113,6 @@ So, what makes navigating with Apple Maps on my Apple Watch so good? I like Siri
 **Also: [Apple Maps vs. Google Maps, which is best?](https://www.zdnet.com/article/apple-maps-vs-google-maps/)**
 
 If I'm going somewhere I've never been, I wear my Apple Watch simply for the navigation perks. Yes, you'll find a similar experience on other smartwatch platforms, but I like Apple's the most. Sue me.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. watchOS is the best smartwatch platform
 
@@ -129,7 +129,7 @@ The platform just works the way you'd expect. When paired to your iPhone, so man
 When I have to test a new Wear OS watch, I immediately miss using watchOS. It feels clunkier and slower, the watch faces aren't as nice (although there are some decent third-party options), and the apps aren't as good. If you want the best smartwatch software experience and have to ditch your Android phone for an iPhone, making that switch is worth it. I have friends who have switched to the iPhone simply because the Apple Watch and watchOS are so good.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -166,24 +166,24 @@ While the [Apple Watch](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=http
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-webcam-breakthroughs-ideas-to-try-now-for-2024/"><u>[Updated] Webcam Breakthroughs Ideas to Try Now for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-clear-and-bright-optimizing-visuals-in-zoom-calls/"><u>2024 Approved Clear and Bright Optimizing Visuals in Zoom Calls</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-leveraging-instagram-for-monetary-success/"><u>2024 Approved Leveraging Instagram for Monetary Success</u></a></li>
-<li><a href="https://win-web.techidaily.com/guida-completa-alla-ricostruzione-del-sistema-operativo-windows-server-tramite-prompt-dei-comandi/"><u>Guida Completa Alla Ricostruzione Del Sistema Operativo Windows Server Tramite Prompt Dei Comandi</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-long-can-you-play-secrets-of-xbox-controller-power/"><u>How Long Can You Play? Secrets of Xbox Controller Power</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Itel P55+ | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Honor Magic V2? | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722965520775-legislation-such-as-the-biological-weapons-convention-bwc-plays-a-key-role-in-preventing-the-development-and-proliferation-of-biological-weapons/"><u>Legislation Such as the Biological Weapons Convention (BWC) Plays a Key Role in Preventing the Development and Proliferation of Biological Weapons</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/meme-ology-the-science-of-popularizing-video-laughs-on-social-platforms-for-2024/"><u>Meme-Ology The Science of Popularizing Video Laughs on Social Platforms for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/seamless-driver-downloads-for-surface-book-2-effortlessly-enhance-performance/"><u>Seamless Driver Downloads for Surface Book 2 - Effortlessly Enhance Performance</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-gifting-carbon-offset-certificates-this-festive-period-insights-from-zdnet/"><u>The Ultimate Guide to Gifting Carbon Offset Certificates This Festive Period - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/tired-of-teslas-battery-solution-discover-the-alternative-the-anker-solix-x1/"><u>Tired of Tesla's Battery Solution? Discover the Alternative: The Anker Solix X1</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-5-affordable-lawn-mowers-expert-reviews-and-buyers-guide-zdnet/"><u>Top 5 Affordable Lawn Mowers : Expert Reviews and Buyer's Guide - ZDNET</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-5-premium-gas-grills-expert-picks-featured-on-zdnet/"><u>Top 5 Premium Gas Grills : Expert Picks Featured on ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-5-premium-headlamp-picks-a-comprehensive-review-by-zdnet/"><u>Top 5 Premium Headlamp Picks - A Comprehensive Review by ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-ranked-smart-irrigation-controllers-comparing-rachio-rainmachine-wyze-and-beyond-insights-from-zdnet/"><u>Top-Ranked Smart Irrigation Controllers : Comparing Rachio, RainMachine, Wyze, and Beyond - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-intelligent-avian-food-dispensers-the-ultimate-guide-gizmotech/"><u>Top-Rated Intelligent Avian Food Dispensers - The Ultimate Guide | GizmoTech</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-lawnmowers-expert-reviews-and-rankings-zdnet/"><u>Top-Rated Lawnmowers : Expert Reviews & Rankings - ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-outdoor-screen-projectors-comprehensive-reviews-and-testing-insights-techradar/"><u>Top-Rated Outdoor Screen Projectors: Comprehensive Reviews & Testing Insights | TechRadar</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-navigating-the-marketing-landscape-essential-strategies-for-newbies/"><u>[New] 2024 Approved Navigating the Marketing Landscape Essential Strategies for Newbies</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-innovative-11-audio-devices-for-professionals/"><u>[New] Innovative 11 Audio Devices for Professionals</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-nailing-the-art-of-ppt-video-reproduction-for-2024/"><u>[New] Nailing the Art of PPT Video Reproduction for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-the-ultimate-guide-to-choosing-5-chrome-extensions-for-facebook-videos/"><u>[Updated] 2024 Approved The Ultimate Guide to Choosing 5 Chrome Extensions for Facebook Videos</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-turning-viewers-into-cash-a-youtube-advertising-primer/"><u>[Updated] 2024 Approved Turning Viewers Into Cash A YouTube Advertising Primer</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/10-hot-and-viral-videos-on-twitter-for-2024/"><u>10 Hot and Viral Videos on Twitter for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/28-innovative-replacements-for-openais-point-of-sale-apps/"><u>28 Innovative Replacements for OpenAI’s Point-of-Sale Apps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apples-intensified-push-in-ai-technology-discover-the-impressive-features-of-new-machine-learning-models-zdnet/"><u>Apple's Intensified Push in AI Technology: Discover the Impressive Features of New Machine Learning Models | ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/decode-and-conquer-effective-techniques-to-address-error-0x80004005/"><u>Decode and Conquer: Effective Techniques to Address Error 0X80004005</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-qi2-charger-the-comprehensive-solution-every-apple-enthusiast-deserves-explore-why-zdnet-recommends/"><u>Discover the Ultimate Qi2 Charger: The Comprehensive Solution Every Apple Enthusiast Deserves - Explore Why ZDNet Recommends!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enhanced-sound-on-lg-televisions-an-exclusive-perk-for-apple-enthusiasts-revealed/"><u>Enhanced Sound on LG Televisions: An Exclusive Perk for Apple Enthusiasts Revealed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/experience-a-revolutionary-upgrade-on-your-apple-watch-explore-key-features-of-watchos-11-gadgetpulse/"><u>Experience a Revolutionary Upgrade on Your Apple Watch - Explore Key Features of WatchOS 11 | GadgetPulse</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-missing-or-damaged-nsp4rdll-files-expert-tips-and-techniques/"><u>Fixing Missing or Damaged nsp4r.dll Files: Expert Tips and Techniques</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/game-changing-hud-in-action-my-journey-biking-with-photochromic-glasses-reviewed-by-zdnet/"><u>Game-Changing HUD in Action: My Journey Biking with Photochromic Glasses Reviewed by ZDNET</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-a-stepwise-approach-to-srt-mastery-and-expert-tips/"><u>In 2024, A Stepwise Approach to SRT Mastery and Expert Tips</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Tecno Camon 20 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-which-platform-triumphs-in-revenue-generation-dailymotion-vs-youtube/"><u>In 2024, Which Platform Triumphs in Revenue Generation? Dailymotion Vs YouTube</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-correcting-missing-and-dll-unfound-system-issues/"><u>Step-by-Step Guide: Correcting Missing and DLL Unfound System Issues</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-non-apple-non-tile-brands-discovering-exceptional-alternatives-to-the-famous-wallet-airtags/"><u>Top Non-Apple, Non-Tile Brands: Discovering Exceptional Alternatives to the Famous Wallet AirTags</u></a></li>
 </ul></div>
 

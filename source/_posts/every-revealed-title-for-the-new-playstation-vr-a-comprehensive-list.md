@@ -1,7 +1,7 @@
 ---
 title: "Every Revealed Title for the New PlayStation VR²: A Comprehensive List"
-date: 2024-08-30T14:47:47.438Z
-updated: 2024-08-31T14:47:47.438Z
+date: 2024-12-09T19:44:15.784Z
+updated: 2024-12-10T16:57:09.942Z
 categories:
   - BestProducts
 description: "This Article Describes Every Revealed Title for the New PlayStation VR²: A Comprehensive List"
@@ -169,6 +169,10 @@ These games have all been announced, but some may not be out yet.
 
 ![Screenshot of Walking Dead Saints and Sinners VR game](https://www.lifewire.com/thmb/dpqpTAB_v9-hQg5ZD3Gd0L2kMv0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2020-02-25at12.46.47PM-5d154df58fdb440c94c2812c33f4d897.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * _Prison Boss VR_
 * _Project Wingman: Frontline 59_
 * _Propagation: Paradise Hotel_
@@ -196,6 +200,10 @@ These games have all been announced, but some may not be out yet.
 * _Star Wars: Tales from the Galaxy's Edge – Enhanced Edition_
 
 ![Star Wars: Tales from the Galaxy's Edge](https://www.lifewire.com/thmb/wImrJPdNMESOO7HTTYioC-CdpoM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Screenshot2024-05-08at9.14.00PM-aa05959a25e3416a99ba272e3408df35.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * _Startenders: Intergalactic Bartending_
 * _Stilt_
@@ -265,8 +273,13 @@ These games have all been announced, but some may not be out yet.
 ![Screenshot from Resident Evil: The Village](https://www.lifewire.com/thmb/V6jQIWVtc6zr6YWGV4yhA1rhuhw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/RE_Village_Apr_2021_Screens_05-4177f157cd1d4760bf3ca5e7b5475d66.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  The Dark Pictures: Switchback VR 
 
 _The Dark Pictures_ developer Supermassive Games' original rail shooter,_Until Dawn: Rush of Blood_ , put players onto a terrifying rollercoaster ride full of scares and monsters from that title. The follow-up is the same idea, only it has four episodes to draw from the first "season" of_The Dark Pictures Anthology_ .
@@ -274,41 +287,27 @@ _The Dark Pictures_ developer Supermassive Games' original rail shooter,_Until D
 **Release Date** : March 2023
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Resident Evil: Village 
 
  Capcom did PSVR 2 owners a huge service by making the entirety of 2021's_Resident Evil: Village_ playable in virtual reality. This version features manual reloads, the ability to dual-wield weapons, and a new perspective on just how tall internet-favorite vampire Lady Dimitrescu is.
 
 **Release Date** : February 2023 (VR mode)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ### Phasmophobia 
 
  Console owners can finally play this previously PC-only title, in which you and up to three friends form a ghost-hunting team and explore a variety of cursed locations. Your goal is to investigate, identify the entities haunting the site, and then escape before the spirits add you to their ranks.
 
 **Release Date** : August 2023  
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ### Cosmodread 
 
  This rogue-like, space-based horror drops you into a huge, scary spaceship with a different layout every time you try. Your job is to escape to Earth, but all you have is a crossbow and a will to survive.
 
 **Release Date** : May 2023
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ##  The Best PSVR 2 Games for Sports Fans 
 
  PlayStation VR 2 has a variety of games for people who want a more immersive version of their favorite sports or even a real workout. Here are some of the best.
@@ -318,8 +317,9 @@ _The Dark Pictures_ developer Supermassive Games' original rail shooter,_Until D
 Polyphony Digital
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Creed: Rise to Glory – Championship Edition 
 
  Fans of the_Creed_ movie series will have a blast stepping into the virtual ring._Rise to Glory: Championship Edition_ includes levels and fighters based on all three_Creeds_ , along with the ability to face off against legendary fighters like Apollo Creed, Rocky Balboa, and Ivan Drago.
@@ -328,9 +328,6 @@ Polyphony Digital
 
 **Release Date** : April 2023
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Gran Turismo 7 
 
  The_Gran Turismo_ series aims to be the most accurate racing simulator, so letting players feel like they're behind the wheel is a great match.
@@ -338,8 +335,9 @@ Polyphony Digital
 **Release Date** : March 2022
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  2MD: VR Football Unleashed All-Star 
 
  While you don't have to do all the running yourself in this VR football game (that's what analog sticks are for), it will be up to you to block the defenders as you head for the end zone. This title prides itself on its passing physics, which will also exercise your arm.
@@ -351,8 +349,9 @@ Polyphony Digital
 ![Tetris Effect: Connected video game on Xbox One, Xbox Series X, PS4, PS5, and Windows PC.](https://www.lifewire.com/thmb/7roJV1mYBrPIndXhqDXNT8DVyhM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tetris-effect-cheats-codes-and-secrets-04-09ea72d3f9a04970859a00d6f72e798f.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Puzzling Places 
 
  If you like jigsaw puzzles,_Puzzling Places_ will do you one better. You'll sit in a virtual space and assemble 3D versions of real places while a beautiful setting and ambient noise surround you. You can start easy with just a few pieces, but you can also go all the way up to 400 if you want an extra challenge.
@@ -369,9 +368,6 @@ Polyphony Digital
 
 **Release Date** : February 2023
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Kayak VR: Mirage 
 
 _Kayak VR: Mirage_ is a relaxing exploration game that takes you to Antarctica, Norway, and other locations in a tiny, virtual boat. You don't have many goals (although you can do races and speed trials), so you're free to paddle around and say hi to all the penguins.
@@ -383,6 +379,14 @@ _Kayak VR: Mirage_ is a relaxing exploration game that takes you to Antarctica, 
  PlayStation VR 2 owners who want to push their action skills should check out these games.
 
 ![Horizon: Call of the Mountain](https://www.lifewire.com/thmb/jD6wdUnV4hFDEByl5uWOt1b1YBc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HorizonCalloftheMountain-702c4adc02cf4e5daf6e7de3702753f2.jpeg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Horizon: Call of the Mountain 
 
@@ -396,10 +400,6 @@ _Kayak VR: Mirage_ is a relaxing exploration game that takes you to Antarctica, 
 
 **Release Date** : March 2023
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ### Resident Evil 4 
 
  While it's also a horror title in one of the most successful gaming franchises of all time,_Resident Evil 4_ turns up the action with hero Leon S. Kennedy's increased firepower, ability to parry a chainsaw with a knife, and knack for suplexing the undead. The VR edition of this previously flat game brings the battles, scares, and monsters into full 3D.
@@ -461,8 +461,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -470,4 +468,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-design-with-confidence-best-free-high-quality-windowsmac-capture-tools/"><u>[New] Design with Confidence Best Free, High-Quality Windows/Mac Capture Tools</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-mastering-the-art-of-digital-image-preservation/"><u>2024 Approved Mastering the Art of Digital Image Preservation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722871973366-best-iphone-gps-applications-our-top-picks-revealed/"><u>Best iPhone GPS Applications: Our Top Picks Revealed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/boosting-efficiency-expert-advice-on-key-productivity-apps-and-strategies-for-streamlining-your-daily-tasks/"><u>Boosting Efficiency: Expert Advice on Key Productivity Apps & Strategies for Streamlining Your Daily Tasks</u></a></li>
+<li><a href="https://win-net.techidaily.com/cosmic-designs-by-yl-software-explore-galaxy-themed-wallpaper-image-and-picture-catalogues-for-your-digital-universe/"><u>Cosmic Designs by YL Software: Explore Galaxy-Themed Wallpaper, Image & Picture Catalogues for Your Digital Universe</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1725288788814-digiarty-winxdvd/"><u>Digiarty WinXDVDソフトウェアの使用方法と一般的な疑問点：詳細解析</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-switch-experience-with-these-services/"><u>Elevate Your Switch Experience with These Services</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-dyson-shakes-up-the-wireless-audio-market-with-ontrac-a-new-contender-for-airpod-max-supremacy-zdnet-review/"><u>How Dyson Shakes Up the Wireless Audio Market with 'OnTrac': A New Contender for AirPod Max Supremacy | ZDNet Review</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/how-to-watch-facebook-live-on-your-apple-media-hub/"><u>How to Watch Facebook Live on Your Apple Media Hub</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-10-capabilities-required-for-apples-ai-to-match-the-power-of-google-and-openai-an-in-depth-analysis/"><u>Top 10 Capabilities Required for Apple's AI to Match the Power of Google & OpenAI: An In-Depth Analysis</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-m4-mac-mini-latest-rumors-on-costs-availability-date-and-comprehensive-specifications/"><u>Unveiling the M4 Mac Mini: Latest Rumors on Costs, Availability Date & Comprehensive Specifications</u></a></li>
+</ul></div>
 

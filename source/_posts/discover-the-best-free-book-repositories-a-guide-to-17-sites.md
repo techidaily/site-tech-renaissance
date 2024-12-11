@@ -1,7 +1,7 @@
 ---
 title: "Discover the Best Free Book Repositories: A Guide to 17 Sites"
-date: 2024-08-30T14:42:48.029Z
-updated: 2024-08-31T14:42:48.029Z
+date: 2024-12-08T03:03:30.803Z
+updated: 2024-12-11T03:45:12.970Z
 categories:
   - BestProducts
 description: "This Article Describes Discover the Best Free Book Repositories: A Guide to 17 Sites"
@@ -19,6 +19,10 @@ of 07
 ## [Tried and True Navigation: Google Maps](https://www.google.com/maps/about)
 
 ![Google Maps Navigation App Best of 2018](https://www.lifewire.com/thmb/pbv4_ULoaGW9rtcU0ruj3WNVXx8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GoogleMaps-5c01b06e46e0fb00015b1530.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Google
 
@@ -82,16 +86,14 @@ of 07
 
 of 07
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [Offline Metropolitan Navigation: HERE WeGo](https://www.here.com/products/wego)
 
 ![HERE WeGo Navigation app](https://www.lifewire.com/thmb/URZtLf93Vs_MCpK4Nq_a8jll2oA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-best-traffic-apps-4570916--b327482f3e82498fb4225b9ead1034e3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  What We Like
 
 * Offline keeps you in the know even when you're on a subway or out of data.
@@ -117,10 +119,6 @@ of 07
 
 of 07
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## [Proactive Navigation Exclusively for Apple Users: Maps](https://www.apple.com/maps/)
 
 ![Apple Maps app on the iPad](https://www.lifewire.com/thmb/zcDj0-XetONog5hXIMhTTdOG_ug=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/apple-maps-ipad-7346f569f6ab421fae53cc8d7f0f4353.png)
@@ -150,6 +148,10 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 05
 
 of 07
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## [Global Navigation With Real Views and Heads Up Display: Sygic](https://www.sygic.com/gps-navigation)
 
@@ -181,13 +183,14 @@ Sygic
 
 of 07
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [Still Navigating, Now With Useful Layers: MapQuest](https://hello.mapquest.com/mobile/)
 
 ![MapQuest navigation app](https://www.lifewire.com/thmb/p7n4evn71QtEEMG8IqOIvPGnDCo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-best-traffic-apps-4570916-a83e11b7f6e141b8bd1edfd0f3fd61e9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
  What We Like
 
 * Turn-by-turn directions and alternative routes based on live traffic conditions.
@@ -211,21 +214,14 @@ of 07
 
 of 07
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ## [Best for Live Traffic Alerts: ETA](https://whatsmyeta.co/)
 
 ![ETA best live traffic alerts app](https://www.lifewire.com/thmb/NpuZs9FCVctQawpWPTERajCMWG4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-best-traffic-apps-4570916-b5a13c7bf5ff4378bfc53e1e67c1dd84.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  What We Like
 
 * Beautiful user interface.
@@ -265,8 +261,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -274,4 +268,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-beyond-the-screen-arvr-infused-inspirational-sayings/"><u>[New] Beyond the Screen AR/VR-Infused Inspirational Sayings</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-prime-8-converters-seamless-sub-and-srt-transition-for-2024/"><u>[Updated] Prime 8 Converters Seamless Sub and SRT Transition for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1-expert-tips-boosting-efficiency-with-key-productivity-apps-and-strategies-in-your-day-to-day-routine-insights-from-zdnet/"><u>1. Expert Tips: Boosting Efficiency with Key Productivity Apps & Strategies in Your Day-to-Day Routine - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-whatsapps-sonic-status-boost/"><u>2024 Approved WhatsApp's Sonic Status Boost</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-launches-a-bold-challenge-against-leading-web-browsers-with-startling-commercial-campaign-witness-here-zdnet/"><u>Apple Launches a Bold Challenge Against Leading Web Browsers with Startling Commercial Campaign – Witness Here | ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/detailed-solutions-for-rectifying-not-found-d3dx930dll-issues/"><u>Detailed Solutions For Rectifying Not Found d3dx9_30.dll Issues</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/elite-network-equipment-cabinets-and-racks-reviewed-2er-2024s-top-choices/"><u>Elite Network Equipment Cabinets & Racks Reviewed: 2Er 2024'S Top Choices</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ipad-air-with-m2-chip-the-ideal-choice-for-most-users-according-to-zdnet/"><u>IPad Air with M2 Chip - The Ideal Choice for Most Users According to ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/macbook-air-with-m1-chip-available-at-unbeatable-price-of-649-best-deal/"><u>MacBook Air with M1 Chip Available at Unbeatable Price of $649 – Best Deal</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ct-your-youtube-presence-learn-to-create-engaging-ads-and-thumbnails-for-2024/"><u>Perfect Your YouTube Presence Learn to Create Engaging Ads & Thumbnails for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/re-identify-disconnected-devices-windows-nt-workstation/"><u>Re-Identify Disconnected Devices Windows NT Workstation</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-capturing-life-moments-with-iphones-running-ios-16/"><u>Step-by-Step Tutorial: Capturing Life Moments with iPhones Running iOS 16</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-apple-iphone-offers-in-june-2024-exclusive-finds/"><u>Top Apple iPhone Offers in June 2024: Exclusive Finds</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-savings-top-atandt-mobile-plans-and-offers-in-may-2024-zdnets-guide/"><u>Top Savings: Top AT&T Mobile Plans and Offers in May 2024 - ZDNet's Guide</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-the-hisense-40h5590f-screen-marvel-a-comprehensive-analysis-of-a-cost-effective-smart-tv-option/"><u>Unveiling the Hisense 40H5590F Screen Marvel - A Comprehensive Analysis of a Cost-Effective Smart TV Option</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-lifespan-of-your-apple-watch-battery-unexpected-insights-revealed/"><u>Unveiling the Lifespan of Your Apple Watch Battery: Unexpected Insights Revealed</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/vibrant-krishna-wallpaper-collection-by-yl-computing-inspirational-imagery-and-designs/"><u>Vibrant Krishna Wallpaper Collection by YL Computing: Inspirational Imagery & Designs</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/windows-movie-maker-a-toolkit-for-youtube-videographers-for-2024/"><u>Windows Movie Maker A Toolkit for YouTube Videographers for 2024</u></a></li>
+</ul></div>
 

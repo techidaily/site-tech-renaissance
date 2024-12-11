@@ -1,7 +1,7 @@
 ---
 title: "Section 3B: Five Facts to Remember"
-date: 2024-12-01T04:27:16.284Z
-updated: 2024-12-04T18:35:03.748Z
+date: 2024-12-10T06:18:38.014Z
+updated: 2024-12-11T00:33:55.577Z
 tags:
   - apple
 categories:
@@ -27,10 +27,6 @@ Whatever the form, mobile spyware may steal your information, track your locatio
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is spyware?
 
@@ -64,10 +60,6 @@ Spyware and stalkerware may be used for the following purposes:
 Stalkerware is typically used to spy on someone as an individual and watch what they do, say, and where they go. Stalkerware is commonly linked to cases of [domestic abuse](https://www.zdnet.com/article/how-todays-technologies-become-weapons-in-modern-domestic-abuse/). 
 
 Finally, there's **government-grade commercial spyware**. [Pegasus](https://www.zdnet.com/article/nso-groups-pegasus-spyware-used-against-journalists-political-activists-worldwide-report/) is one of the most well-known variants, sold to governments as a tool for combating terrorism and for law enforcement purposes. Pegasus was ultimately found on smartphones belonging to journalists, activists, political dissidents, and lawyers. Unless you're part of a group of specific interest to ethically challenged governments, it's unlikely that commercial-grade spyware will impact you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the warning signs of a spyware infection attempt?
 
@@ -108,7 +100,7 @@ Previously, [Google removed malicious apps](https://www.zdnet.com/article/androi
 Unfortunately, there's little that the average user can do if an app is updated with data stealing and other malicious functions. However, if you recently downloaded a mobile app and now your phone is displaying odd behavior, consider removing them and running a malware scan.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What other signs might I see on Android and iOS devices?
@@ -132,7 +124,7 @@ iOS devices that aren't jailbroken are generally harder to install malware on th
 Both iOS and Android phones, however, will typically show some sign of a malware infection.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How can I remove spyware from my device?
@@ -162,6 +154,10 @@ If you have found suspicious software on your handset, consider the following:
 * **Change your passwords:** If you suspect account compromise, change the passwords of every important account you have. Many of us have one or two central "hub" accounts, such as an email address linked to all of our other services. Remove access to any such hub services you use from a compromised device. For added security, consider changing your account passwords on a PC and forcing a logout on other devices.
 * **Creating a new email address:** Known only to you, the new email becomes tethered to your main accounts. If stalkerware is involved, this should be an option you consider if it is safe. It can help you wrestle back control of your accounts in a discreet and quiet way without alerting anyone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What can I do about about advanced, commercial spyware?
 
 Government-grade spyware can be more difficult to detect. However, as noted in a [guide on Pegasus](https://www.kaspersky.com/blog/how-to-protect-from-pegasus-spyware/43453/) and other forms of commercial-grade malware published by Kaspersky, there are some actions you can take to mitigate the risk of being subject to such surveillance, based on current research and findings:
@@ -171,6 +167,10 @@ Government-grade spyware can be more difficult to detect. However, as noted in a
 * **Use an alternative browser other than Safari or default Chrome:** Some exploits do not work well on alternatives such as Firefox Focus or the Tor Browser.
 * **Use a** [**trusted, paid VPN service**](https://www.zdnet.com/article/best-vpn/) **and install an app that warns when your device has been jailbroken. Some AV apps will also** perform this check.
 * **GrapheneOS**: It is also recommended that individuals who suspect a Pegasus infection make use of a secondary device, preferably running the Android-based [GrapheneOS](https://grapheneos.org/), for secure communication.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How do I keep spyware and stalkerware off my device in the first place?
 
@@ -186,6 +186,10 @@ Unfortunately, no mobile device is completely protected against the scourge of s
 * **Do not jailbreak your device**: Jailbreaking not only voids your warranty but can also allow malicious apps and software to have a deep foothold in your operating system, which may make removal extremely difficult or impossible.
 * **Enable multi-factor authentication (MFA):** When account activity and logins require further consent from a mobile device, this can also help protect individual accounts. (However, spyware may intercept the codes sent during [2FA](https://www.zdnet.com/article/better-than-the-best-password-how-to-use-2fa-to-improve-your-security/) protocols.)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What are Google and Apple doing to protect Android and iOS devices?
 
 Google and Apple are generally quick to tackle malicious apps that manage to avoid the privacy and security protections imposed in their respective official app stores. 
@@ -199,10 +203,6 @@ Since then, Google has banned stalkerware ads, and the firm's [Threat Analysis G
 Apple has [cracked down](https://www.zdnet.com/article/apple-refutes-anti-competitive-parent-control-app-claims-says-removal-was-for-security-user-privacy/) on parental control apps, citing privacy-invading functions as the reason for removal. The company offers its own parental device control service called [Screen Time](https://www.cnet.com/how-to/ios-12-screen-time-and-stronger-parental-controls/) for parents who want to limit their child's device usage. Furthermore, the company does not allow [sideloading](https://www.apple.com/privacy/docs/Building%5Fa%5FTrusted%5FEcosystem%5Ffor%5FMillions%5Fof%5FApps%5FA%5FThreat%5FAnalysis%5Fof%5FSideloading.pdf) \-- that is, the installing of third-party apps from sources other than Apple's App Store, and is quick to remove any iOS apps that display privacy-eroding functionality.
 
 In 2022, Apple revealed the details of a [$10 million grant](https://www.apple.com/uk/newsroom/2022/07/apple-expands-commitment-to-protect-users-from-mercenary-spyware/) to research ways to combat state-sponsored spyware. Recently, the company [issued an alert](https://www.forbes.com/sites/kateoflahertyuk/2024/04/12/apple-issues-new-spyware-attack-warning-to-iphone-users/) to iPhone users in 92 countries, warning them of remote, targeted attacks launched by spyware operators. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Are parental control apps spyware?
 
@@ -251,19 +251,22 @@ However, they are limited in scope and you may not be able to use them once a ch
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-from-standard-to-stylish-installation-of-personalized-ringtones-and-alerts-in-android/"><u>[New] 2024 Approved From Standard to Stylish Installation of Personalized Ringtones & Alerts in Android</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-elevate-farming-fun-with-these-top-7-stardew-valley-enhancements/"><u>[Updated] 2024 Approved Elevate Farming Fun with These Top 7 Stardew Valley Enhancements</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-a-list-websites-with-free-thrones-audio-downloads/"><u>[Updated] A-List Websites with Free Thrones Audio Downloads</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-navigating-exit-the-guide-to-disconnecting-from-a-discord-community/"><u>[Updated] In 2024, Navigating Exit The Guide to Disconnecting From a Discord Community</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-saving-instagram-content-easy-no-frill-methods-exposed-for-2024/"><u>[Updated] Saving Instagram Content Easy, No-Frill Methods Exposed for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1-a-weekend-with-apple-vision-pro-top-3-insights-unveiled-zdnet-review/"><u>1. A Weekend with Apple Vision Pro: Top 3 Insights Unveiled | ZDNet Review</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/2023-the-pioneering-milestones-defining-the-most-revolutionary-era-for-technology-since-2013-insights-from-zdnet/"><u>2023: The Pioneering Milestones Defining the Most Revolutionary Era for Technology Since 2013 – Insights From ZDNet</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/access-unlimited-stock-photos-via-four-noteworthy-youtubes/"><u>Access Unlimited Stock Photos via Four Noteworthy YouTubes</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-meta-universe-how-a-fellow-enthusiast-keeps-me-awake/"><u>Exploring the Meta Universe: How a Fellow Enthusiast Keeps Me Awake</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/inspirational-slide-shows-10-best-places-to-download-them-for-free-for-2024/"><u>Inspirational Slide Shows 10 Best Places to Download Them For Free for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/introducing-the-immersed-visor-xr-headset-a-game-changer-in-tackling-major-concerns-with-vision-pro-zdnet-insights/"><u>Introducing the Immersed Visor XR Headset - A Game-Changer in Tackling Major Concerns with Vision Pro | ZDNET Insights</u></a></li>
-<li><a href="https://win-blog.techidaily.com/masterful-fix-no-more-crashes-in-star-wars-squadrons/"><u>Masterful Fix: No More Crashes in Star Wars: Squadrons</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigating-the-future-of-remote-work-with-vr-and-digital-twins-in-technical-fields-expert-analysis-by-zdnet/"><u>Navigating the Future of Remote Work with VR and Digital Twins in Technical Fields | Expert Analysis by ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/transforming-your-meta-quest-into-an-impressive-full-hd-experience-on-any-hdmi-output-a-comprehensive-guide/"><u>Transforming Your Meta Quest Into an Impressive Full-HD Experience on Any HDMI Output: A Comprehensive Guide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-swiftly-upload-to-twitter-premium-video-convertors-guide/"><u>[New] 2024 Approved Swiftly Upload to Twitter Premium Video Convertors Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-advanced-technology-showcase-reviewing-the-top-5-slow-motion-cameras/"><u>[New] Advanced Technology Showcase Reviewing the Top 5 Slow-Motion Cameras</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-the-dynamics-of-dialing-up-digital-devotees/"><u>[New] In 2024, The Dynamics of Dialing Up Digital Devotees</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/implified-methods-to-validate-your-youtube-status/"><u>[New] Simplified Methods to Validate Your YouTube Status</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-glimpse-into-tomorrow-unveiling-apples-vision-of-household-robotic-assistance/"><u>A Glimpse Into Tomorrow: Unveiling Apple's Vision of Household Robotic Assistance</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/could-premium-access-to-expert-apple-analytics-cost-only-20-a-month-zdnet-reveals-the-future-of-tech-subscriptions/"><u>Could Premium Access to Expert Apple Analytics Cost Only $20 a Month? ZDNet Reveals the Future of Tech Subscriptions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-enhanced-apple-vision-pro-experiences-tips-and-tricks-for-securing-your-demo-insights/"><u>Discover Enhanced Apple Vision Pro Experiences: Tips & Tricks for Securing Your Demo - Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-correct-the-error-msodll-not-detected-or-absent/"><u>How to Correct the Error: Mso.dll Not Detected or Absent</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-ios-of-apple-iphone-se-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS of Apple iPhone SE? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-oneplus-ace-2-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast OnePlus Ace 2 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/iphone-15-pro-vs-iphone-14-pro-showdown-evaluating-the-enhancements-in-apples-newest-release-tech-comparison/"><u>IPhone 15 Pro vs iPhone 14 Pro Showdown: Evaluating the Enhancements in Apple's Newest Release | Tech Comparison</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/maximizing-your-apple-watchs-endurance-top-8-essential-battery-boosting-settings-revealed/"><u>Maximizing Your Apple Watch's Endurance: Top 8 Essential Battery-Boosting Settings Revealed</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-setting-up-videoleap-on-macbook-download-install-and-start-editing/"><u>New Setting Up Videoleap on MacBook Download, Install, and Start Editing</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Realme 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-infinix-smart-8-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Infinix Smart 8? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-elegance-top-rated-titanium-apple-watch-band-reviewed/"><u>Ultimate Elegance: Top-Rated Titanium Apple Watch Band Reviewed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-top-4-new-ipados-16-enhancements-revealed-at-apples-wwdc-2024-compatible-devices-included/"><u>Unveiling the Top 4 New iPadOS 16 Enhancements Revealed at Apple's WWDC 2024, Compatible Devices Included</u></a></li>
 </ul></div>
 

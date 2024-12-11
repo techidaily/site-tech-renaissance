@@ -1,7 +1,7 @@
 ---
 title: "Efficiently Launch PowerShell in Windows N: A Guide with 9 Techniques"
-date: 2024-08-30T14:39:17.219Z
-updated: 2024-08-31T14:39:17.219Z
+date: 2024-12-08T11:11:47.011Z
+updated: 2024-12-11T01:16:58.078Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/177db7c45381f8f94f304fef5764a3ae21d49762f
 ---
 
 ## Efficiently Launch PowerShell in Windows N: A Guide with 9 Techniques
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -32,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/177db7c45381f8f94f304fef5764a3ae21d49762f
 
  PowerShell is a more powerful command-line shell and scripting language than Command Prompt. Since the release of Windows 10, it's become the default choice, and there are many ways you can open it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Is the Difference Between PowerShell and Command Prompt? 
 
  PowerShell is more complicated to use, but it's a [much more robust](https://techno-recovery.techidaily.com/x-men-film-series-viewing-guide-the-ultimate-sequence/) and powerful than Command Prompt. That's why it's become the preferred scripting language and command-line interface for Power Users and IT pros, competing favorably with other Linux and Unix-like shells.
@@ -40,9 +48,6 @@ thumbnail: https://thmb.techidaily.com/177db7c45381f8f94f304fef5764a3ae21d49762f
 
  While you can open PowerShell from the Start menu, this list includes some (potentially) easier and lesser-known ways you can launch this tool.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Open PowerShell From the Power Users Menu
 
  The Power Users menu appears in the taskbar when you press Windows+X. It's an easy way to access a multitude of settings, utilities, and system programs from one menu.
@@ -51,36 +56,24 @@ thumbnail: https://thmb.techidaily.com/177db7c45381f8f94f304fef5764a3ae21d49762f
 
 ![Click &quot;Windows PowerShell&quot; or &quot;Windows PowerShell (Admin).&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-16_12h23_06.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
  Note that since the [Creators Update for Windows 10,](https://hardware-help.techidaily.com/exploring-technology-with-tom-your-trusted-source-for-hardware-insights-and-reviews/) PowerShell appears in the Power Users menu by default. If you don't see it, your computer may not be up-to-date, or, perhaps, you replaced it with Command Prompt in the Settings menu.
 
  It's straightforward to [switch back to showing the PowerShell](https://video-screen-grab.techidaily.com/updated-in-2024-gameboy-advance-mastered-android-emulator-selection/) in the Power User menu. 
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Use the Start Menu Search to Open PowerShell
 
  Probably one of the fastest ways to open PowerShell is via a Start Menu Search. Just click the Start or Search icon, and then type "powershell" in the search box.
 
 ![Click the Search icon and type &quot;powershell&quot; in the text box.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-16_14h02_57.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
  Now, click "Open" or "Run as Administrator" to open PowerShell either normally or with [administrative privileges](https://win11.techidaily.com/a-guide-to-quickly-opens-sticky-notes-in-windows-11/).
 
 ![Click &quot;Open&quot; or &quot;Run As Administrator.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-16_13h52_39.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ##  By Scrolling Through All Apps in the Start Menu
 
  Because PowerShell is a default Windows 10 program, you can find its application icon in the "All Apps" section of the Start Menu.
@@ -93,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/177db7c45381f8f94f304fef5764a3ae21d49762f
 
 ![Click the &quot;Windows PowerShell&quot; folder, and then click &quot;Windows PowerShell.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-16_14h22_29.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To run PowerShell with admin privileges, right click the icon, and then click "Run as Administrator" in the context menu that appears.
 
 ![Right-click &quot;Windows PowerShell,&quot; and then click &quot;Run as Administrator.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-16_14h34_16.png) 
@@ -104,9 +101,9 @@ thumbnail: https://thmb.techidaily.com/177db7c45381f8f94f304fef5764a3ae21d49762f
 ![Type &quot;powershell&quot; in the text box, and then click &quot;OK.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-16_15h56_56.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Launch PowerShell From the File Explorer File Menu
 
  If you need to open a PowerShell instance from a specific folder on your computer, you can use File Explorer to initiate it within the currently selected directory.
@@ -128,17 +125,14 @@ thumbnail: https://thmb.techidaily.com/177db7c45381f8f94f304fef5764a3ae21d49762f
 
 ![Type &quot;powershell&quot; in the File Explorer address bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-16_19h29_17.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  PowerShell will open with the path of the current folder already set.
 
 ![PowerShell open in Windows Terminal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/powershell-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  From Task Manager
 
  To open Task Manager, press Ctrl+Shift+Esc. In the window that appears, click "More details".
@@ -153,9 +147,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![Type &quot;powershell&quot; in the text box, and then click &quot;OK.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-16_19h17_20.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
  If you want to run PowerShell with administrator permissions, make sure the "Create This Task with Administrator Privileges" option is selected.
 
 ##  From the Right-Click Context Menu
@@ -169,17 +160,13 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 ![The &quot;Open PowerShell Here&quot; option in the context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/01/apc_top.png) 
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Create a PowerShell Shortcut on the Desktop
 
  If you'd rather just click an icon to open PowerShell, it's easy to create one for your Desktop.
@@ -192,34 +179,30 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![Type &quot;powershell&quot; in the text box, and then click &quot;Next.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-16_18h57_27.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Name your shortcut, and then click "Finish" to create it.
 
 ![Type a name for your shortcut in the text box, and then click &quot;Finish.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-16_18h58_05.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Now, whenever you double click the icon, PowerShell will open.
 
 ![A &quot;Windows PowerShell&quot; window opened from a desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-16_19h09_17.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
  If you want to open PowerShell with administrative privileges, right click the shortcut and choose "Properties" from the context menu.
 
 ![Click &quot;Properties.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-17_13h57_38.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
  Click "Advanced".
 
 ![Click &quot;Advanced.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-17_13h57_53.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Finally, select the box next to the "Run as Administrator" option to allow the shortcut to run with the highest privileges.
 
 ![Select the &quot;Run as Administrator&quot; option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-17_13h58_05.png) 
@@ -236,8 +219,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -245,4 +226,21 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-beneath-the-surface-secrets-to-professional-underwater-videos-with-gopro/"><u>2024 Approved Beneath the Surface Secrets to Professional Underwater Videos with GoPro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-iphone-selfie-gear-the-ultimate-compilation-8/"><u>Best iPhone Selfie Gear - The Ultimate Compilation (#8)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/cutting-edge-photography-with-apples-latest-innovation-an-ai-tool-that-edits-images-via-user-prompts-explored/"><u>Cutting Edge Photography with Apple's Latest Innovation: An AI Tool That Edits Images Via User Prompts, Explored</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/deciphering-the-new-features-of-visionos-2-showcased-at-wwdc-anticipated-innovations-and-unexpected-challenges-gadgetguru-news/"><u>Deciphering the New Features of VisionOS 2 Showcased at WWDC: Anticipated Innovations & Unexpected Challenges | GadgetGuru News</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/exploring-types-and-methods-of-touchless-technology/"><u>Exploring Types and Methods of Touchless Technology</u></a></li>
+<li><a href="https://fox-info.techidaily.com/funimate-unlocking-the-secrets-of-easy-downloads-for-2024/"><u>Funimate Unlocking the Secrets of Easy Downloads for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-samsung-galaxy-m14-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Samsung Galaxy M14 5G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ipad-showdown-in-depth-review-of-ipad-pro-and-ipad-air-to-determine-which-fits-you-best/"><u>IPad Showdown: In-Depth Review of iPad Pro and iPad Air to Determine Which Fits You Best</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mac-professionals-reviewed-apples-studio-display-a-stunning-yet-expensive-27/"><u>Mac Professionals Reviewed Apple's Studio Display: A Stunning, Yet Expensive $27</u></a></li>
+<li><a href="https://solve-help.techidaily.com/missing-page-alert-content-couldnt-be-located/"><u>Missing Page Alert: Content Couldn't Be Located</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/perfect-your-video-calls-essential-10-free-recording-solutions-for-slack/"><u>Perfect Your Video Calls Essential 10 Free Recording Solutions for Slack</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96031807-9781633410831-queen-up-reclaim-your-crown-when-life-knocks-you-down/"><u>Queen Up! Reclaim Your Crown When Life Knocks You Down | Free Book</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-vpn-apps-for-apple-devices-comprehensive-reviews-and-comparisons-by-experts/"><u>Top-Rated VPN Apps for Apple Devices: Comprehensive Reviews & Comparisons by Experts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upcoming-iphone-16-leak-new-features-include-advanced-spatial-recording-and-slimmer-edges-across-models-insights-from-zdnet/"><u>Upcoming iPhone 16 Leak: New Features Include Advanced Spatial Recording & Slimmer Edges Across Models - Insights From ZDNet</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Analysis: Microsoft Surface Pro 8 Enterprise Evaluation"
-date: 2024-12-02T22:57:14.248Z
-updated: 2024-12-05T00:14:24.799Z
+date: 2024-12-08T01:19:12.158Z
+updated: 2024-12-10T23:18:01.830Z
 tags:
   - apple
 categories:
@@ -42,15 +42,15 @@ As part of my journey, I've been testing a [Surface Pro 8 with LTE](https://clic
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## A new-look Surface… kind of
 
 Jason Cipriani/ZDNet
 
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -74,6 +74,10 @@ You don't have to use a physical SIM card thanks to the Pro 8's support for an e
 
 **Also:** [**eSIM vs. SIM: What's the difference?**](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best tablets (aren't all iPads) Choosing the best tablet can be tricky. Yes, the top picks include the Apple iPad and iPad Pro, but we also love the Samsung Galaxy Tab S8 Ultra, Microsoft Surface Go 3, and others.  Read now](https://www.zdnet.com/article/best-tablet/)
@@ -90,10 +94,6 @@ Regardless of which keyboard you pick up, all of them have a slot for a Surface 
 
 Overall, I love the design of the Pro 8\. I've actually found myself using it as a tablet more than I do the iPad Pro simply because the kickstand is built into the housing. There isn't another cover or case I have to manage. It's fantastic. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## But can it replace an iPad Pro?
 
 Jason Cipriani/ZDNet
@@ -101,10 +101,6 @@ Jason Cipriani/ZDNet
 Inside the Surface Pro 8 I've been testing is an 11th Generation Intel Core i7 processor, 16GB of memory, and a 256GB SSD. It was running Windows 11 Pro out of the box. 
 
 The LTE options range in price from $1,349 for an Intel Core i5, 8GB of memory, and 128GB of storage up to the build I tested, which normally retails for $1,849 but is currently on sale for $1,599\. Again, those prices don't include a keyboard. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### More Microsoft
 
@@ -131,10 +127,6 @@ The ability to connect a tablet to an external display and have it actually work
 
 When working on my iPad Pro connected to a monitor, whatever's on the iPad's screen is mirrored on the larger display. There are some apps that use Apple's rudimentary API for external displays, but it's not great. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best iPads: Which model should you buy? Apple's tablet lineup has a wide range of prices and capabilities.  Read now](https://www.zdnet.com/article/best-ipad/)
@@ -146,7 +138,7 @@ I realize that the Pro 8 is running a full-fledged operating system in Windows 1
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## There are still many things the iPad Pro does better
@@ -173,7 +165,15 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQ
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Should I get a Surface Pro 8 or an iPad Pro?
 
@@ -212,18 +212,22 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-expert-audio-adjustments-for-youtube-content-makers/"><u>[New] In 2024, Expert Audio Adjustments for YouTube Content Makers</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-exclusive-insights-into-top-8-facebook-film-extractors-for-2024/"><u>[Updated] Exclusive Insights Into Top 8 Facebook Film Extractors for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-xiaomi-redmi-13c-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Xiaomi Redmi 13C | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unleash-your-potential-on-telegram-a-comprehensive-marketing-guide/"><u>2024 Approved Unleash Your Potential on Telegram A Comprehensive Marketing Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/affordable-anker-555-mobile-power-unit-at-just-799-exclusive-offer-on-zdnet/"><u>Affordable Anker 555 Mobile Power Unit at Just $799 - Exclusive Offer on ZDNet</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/behind-the-scenes-a-comprehensive-review-of-lgs-digital-cinema-31mu97-b-monitor/"><u>Behind the Scenes A Comprehensive Review of LG's Digital Cinema 31MU97-B Monitor</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/cam-5s-for-home-surveillance-now-discounted/"><u>Cam 5S for Home Surveillance Now Discounted!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-affordable-houses-in-a-box-options-for-under-50k-a-guide-to-economical-prefab-housing-the-verge/"><u>Discover the Best Affordable 'Houses in a Box' Options for Under $50K: A Guide to Economical Prefab Housing | The Verge</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-places-for-pickleball-enthusiasts-the-ultimate-ranking-of-americas-top-3-states/"><u>Discover the Best Places for Pickleball Enthusiasts: The Ultimate Ranking of America's Top 3 States</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/examining-conversational-algorithms-gpt-versus-bing/"><u>Examining Conversational Algorithms: GPT Versus Bing</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Nubia Z50S Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-gopro-hero4-session-vs-hero5-session/"><u>In 2024, GoPro Hero4 Session Vs Hero5 Session</u></a></li>
-<li><a href="https://fox-that.techidaily.com/is-your-iphone-sending-messages-as-text-indicating-that-you-have-been-blocked/"><u>Is Your iPhone Sending Messages as Text Indicating That You Have Been Blocked?</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-best-quick-windows-gallery-app/"><u>[New] 2024 Approved Best Quick Windows Gallery App</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-free-to-download-star-performances-release/"><u>[New] Free-to-Download Star Performances Release</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-crafting-visual-brilliance-mastering-luts-in-ae/"><u>2024 Approved Crafting Visual Brilliance Mastering LUTs in AE</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/anticipated-launch-apples-upcoming-airpods-lite-and-premium-airpods-max-set-for-release-in-the-coming-months/"><u>Anticipated Launch: Apple's Upcoming 'AirPods Lite' And Premium AirPods Max Set for Release in the Coming Months</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-vision-pro-revealing-customer-insights-from-a-unique-selling-question-tech-trends/"><u>Apple Vision Pro: Revealing Customer Insights From a Unique Selling Question | Tech Trends</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/creating-a-child-friendly-environment-on-discord-enabling-parental-settings/"><u>Creating a Child-Friendly Environment on Discord: Enabling Parental Settings</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-disk-checks-and-fixes-with-the-chkdsk-command-on-windows/"><u>Effective Disk Checks and Fixes with the ChkDsk Command on Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-apples-tvos-18-update-boosts-speech-quality-for-a-superior-sound-on-apple-tv-zdnet-insights/"><u>How Apple's tvOS 18 Update Boosts Speech Quality for a Superior Sound on Apple TV | ZDNET Insights</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-youtube-earnings-update-what-you-need-to-know/"><u>In 2024, YouTube Earnings Update - What You Need to Know</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/julys-top-discounts-on-apple-products-secure-exclusive-rates-on-iphones-apple-watches-and-ipads-in-depth-reviews/"><u>July's Top Discounts on Apple Products : Secure Exclusive Rates on iPhones, Apple Watches, and iPads | In-Depth Reviews</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/optimal-mac-screen-capturing-unveiling-the-top-5-strategies/"><u>Optimal Mac Screen Capturing Unveiling The Top 5 Strategies</u></a></li>
+<li><a href="https://techtrends.techidaily.com/performance-reliability-how-do-evs-handle-extreme-hot-and-cold-weather/"><u>Performance Reliability: How Do EVs Handle Extreme Hot and Cold Weather?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/presidents-day-sale-alert-save-big-with-macbook-pro-plus-m3-pro-chip-for-a-cool-200-off-shop-smart-at-zdnet/"><u>President's Day Sale Alert! Save Big with MacBook Pro + M3 Pro Chip for a Cool $200 Off | Shop Smart at ZDNET</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/seamless-text-overlay-the-key-to-interactive-instagram-media/"><u>Seamless Text Overlay The Key to Interactive Instagram Media</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-download-and-installation-of-updated-geforce-gtx-amoledsrtx1650superdrivers-for-windows-11-computers/"><u>Step-by-Step Download and Installation of Updated GeForce GTX Amoleds_rtx_1650_super_drivers for Windows 11 Computers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722872283914-troubleshooting-the-missing-system-files-fix-procpsdll-errors-today/"><u>Troubleshooting the 'Missing System Files': Fix Procps.dll Errors Today!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unbeatable-deals-alert-score-an-ipad-for-just-199-in-time-for-the-labor-day-sale-on-amazon-what-you-need-to-know-zdnets-coverage/"><u>Unbeatable Deals Alert: Score an iPad for Just $199 in Time for the Labor Day Sale on Amazon – What You Need to Know (ZDNet's Coverage)</u></a></li>
 </ul></div>
 

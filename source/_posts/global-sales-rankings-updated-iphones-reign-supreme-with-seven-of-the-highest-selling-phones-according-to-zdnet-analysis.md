@@ -1,7 +1,7 @@
 ---
 title: "Global Sales Rankings Updated: IPhones Reign Supreme with Seven of the Highest Selling Phones, According to ZDNet Analysis"
-date: 2024-12-03T19:48:13.825Z
-updated: 2024-12-05T01:41:35.869Z
+date: 2024-12-04T01:31:54.528Z
+updated: 2024-12-10T18:33:05.277Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,22 +109,18 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-ultimate-guide-to-top-6-creative-mojave-dwellings-for-2024/"><u>[New] Ultimate Guide to Top 6 Creative Mojave Dwellings for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-transform-your-content-3-effective-techniques-for-youtube-reaction-magic/"><u>[Updated] 2024 Approved Transform Your Content 3 Effective Techniques for YouTube Reaction Magic</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-discover-top-6-mac-capture-software-selections/"><u>[Updated] In 2024, Discover Top 6 Mac Capture Software Selections</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-secure-your-memories-long-term-webcam-video-storage-in-vlc/"><u>[Updated] In 2024, Secure Your Memories Long-Term Webcam Video Storage in VLC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/behind-the-scenes-with-sonys-revolutionary-xr-tech-showcased-at-ces-2abstraction-2024-zdnet/"><u>Behind the Scenes with Sony's Revolutionary XR Tech Showcased at CES 2Abstraction 2024 | ZDNET</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/chick-fil-a-cracks-the-sunday-profit-code-an-inside-look-at-their-weekend-strategy-tech-insights/"><u>Chick-Fil-A Cracks the Sunday Profit Code: An Inside Look at Their Weekend Strategy | Tech Insights</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-more-affordable-and-surprisingly-superior-alternative-to-apples-vision-pro-travel-bag-zdnet-review/"><u>Discover the More Affordable & Surprisingly Superior Alternative to Apple's Vision Pro Travel Bag - ZDNet Review</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/groundbreaking-fcc-decision-opens-up-new-horizons-in-the-6ghz-band-for-virtual-reality-and-augmented-reality-headsets-zdnet-insights/"><u>Groundbreaking FCC Decision Opens Up New Horizons in the 6GHz Band for Virtual Reality and Augmented Reality Headsets | ZDNET Insights</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/immersive-tv-show-enjoyment-on-apple-vision-pro-blending-joy-strangeness-and-fatigue-insights-from-zdnet-reader/"><u>Immersive TV Show Enjoyment on Apple Vision Pro: Blending Joy, Strangeness, and Fatigue | Insights From ZDNET Reader</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-tweaking-sound-on-ps5ps4-games/"><u>In 2024, Tweaking Sound on PS5/PS4 Games</u></a></li>
-<li><a href="https://win-latest.techidaily.com/la-soluzione-migliore-per-il-trasferimento-di-dati-sincronizzazione-file-con-dischi-esterni-in-diverse-versioni-di-windows/"><u>La Soluzione Migliore per Il Trasferimento Di Dati: Sincronizzazione File Con Dischi Esterni in Diverse Versioni Di Windows</u></a></li>
-<li><a href="https://techtrends.techidaily.com/my-spontaneous-buy-of-apples-latest-17-usb-c-earpods-during-amazon-prime-day-insights-and-reviews-from-zdnet/"><u>My Spontaneous Buy of Apple's Latest $17 USB-C EarPods During Amazon Prime Day - Insights & Reviews From ZDNet</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-troubleshooting-the-0xc000007b-application-startup-failure/"><u>Step-by-Step Solution for Troubleshooting the 0xC000007b Application Startup Failure</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-cyber-monday-offer-unbeatable-349-meta-quest-2-package-limited-time/"><u>Top Cyber Monday Offer: Unbeatable $349 Meta Quest 2 Package - Limited Time!</u></a></li>
-<li><a href="https://article-files.techidaily.com/top-offline-transcription-programs-for-speech-for-2024/"><u>Top Offline Transcription Programs for Speech for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/transforming-the-future-of-interaction-with-xr-and-digital-twins-in-business-a-comprehensive-guide-by-zdnet/"><u>Transforming the Future of Interaction with XR & Digital Twins in Business - A Comprehensive Guide by ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-future-of-vrar-my-hands-on-encounter-with-sonys-latest-xr-innovation-at-ces-202n4-gadgetguru/"><u>Unveiling the Future of VR/AR: My Hands-On Encounter with Sony's Latest XR Innovation at CES 202N4 | GadgetGuru</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-50plus-motivational-messages-from-tiktok-stars/"><u>[New] 50+ Motivational Messages From TikTok Stars</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-art-of-video-integration-youtube-meets-microsoft-powerpoint/"><u>[Updated] The Art of Video Integration YouTube Meets Microsoft PowerPoint</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1-apple-tv-os-evolution-unveiling-the-secrets-of-homeos-in-latest-developer-preview-insights/"><u>1. Apple TV OS Evolution: Unveiling the Secrets of 'homeOS' In Latest Developer Preview - Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/budget-friendly-xr-spectacles-overcome-tech-envy-with-apples-latest-innovation-techsavvy-review/"><u>Budget-Friendly XR Spectacles Overcome Tech Envy with Apple's Latest Innovation | TechSavvy Review</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comparing-iphone-16-pro-and-iphone-14-pro-evaluating-if-the-new-release-justifies-an-upgrade-tech-insights/"><u>Comparing iPhone 16 Pro and iPhone 14 Pro: Evaluating if the New Release Justifies an Upgrade | Tech Insights</u></a></li>
+<li><a href="https://win-dash.techidaily.com/compatible-hp-ethernet-driver-updates-for-windows-1087-computers/"><u>Compatible HP Ethernet Driver Updates for Windows 10/8/7 Computers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-personal-connections-in-ai-technology-with-apples-vision-pro-query-innovation-digest/"><u>Exploring Personal Connections in AI Technology with Apple's Vision Pro Query | Innovation Digest</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/hoe-je-missen-van-toegeven-terug-te-krijgen-verloren-bestanden-herstellen-in-de-eigen-stad-vanaf-playstation-portable-psp/"><u>Hoe Je Missen Van Toegeven Terug Te Krijgen: Verloren Bestanden Herstellen In De Eigen Stad Vanaf PlayStation Portable (PSP)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-10-leading-budget-friendly-quality-webcall-providers/"><u>In 2024, 10 Leading Budget-Friendly, Quality Webcall Providers</u></a></li>
+<li><a href="https://review-topics.techidaily.com/master-your-gadgets-discover-in-depth-guides-on-toms-hardware-hub/"><u>Master Your Gadgets: Discover In-Depth Guides on Tom's Hardware Hub</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pinnacle-of-picture-perfection-with-video-enhance-v22/"><u>Pinnacle of Picture Perfection with Video Enhance V2.2</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unraveling-the-mystery-of-cmos-checksum-issues-a-comprehensive-guide-to-repair/"><u>Unraveling the Mystery of CMOS Checksum Issues – A Comprehensive Guide to Repair</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mp3wav-moveavi/"><u>온라인 MP3/WAV 자유성 대중화를 위한 Moveavi의 무료 변환기</u></a></li>
 </ul></div>
 

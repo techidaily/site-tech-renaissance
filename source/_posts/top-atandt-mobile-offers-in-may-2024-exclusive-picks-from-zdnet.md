@@ -1,7 +1,7 @@
 ---
 title: Top AT&T Mobile Offers in May 2024 - Exclusive Picks From ZDNet
-date: 2024-11-29T21:09:28.228Z
-updated: 2024-12-04T17:10:34.232Z
+date: 2024-12-04T04:17:12.001Z
+updated: 2024-12-11T06:32:22.980Z
 tags:
   - apple
 categories:
@@ -117,7 +117,7 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 [View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-razrplus.html) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## More AT&T deals
@@ -135,7 +135,7 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 [Motorola moto g stylus, $2.99/month, no trade-in required View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-moto-g-stylus-5g-2023.html)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Accessory and service deals
@@ -149,7 +149,7 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 [BodyGuardz Pure 2 Edge antimicrobial glass screen protector (iPhone 14 range) for $10 (save $35) $10 at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/accessories/Screen-Protectors/bodyguardz-pure-2-edge-antimicrobial-tempered-glass-screen-protector-iphone-14-13-13-pro.html)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How did we choose these AT&T phone deals?
@@ -163,12 +163,16 @@ When we made our selection for the best AT&T deals, we wanted to include options
 * **Events**: It's always worth checking retailers after a major event, such as Samsung Unpacked. You will often find that deals will be launched just after, luring customers to agree to preorder their new handset in return for discounts and free storage upgrades.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Does AT&T offer deals for existing customers?
 
 It's true that carriers are the most aggressive with their offers when it's year-end and new customers are shopping around for services to switch to. Still, AT&T has done a fairly balanced job of pushing promotions for new and existing customers, including all the deals we have listed above. If you've been a loyal customer, we'd even recommend reaching out to your local AT&T provider to see if there are any exclusive deals just for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is it cheaper to buy a phone online or in-store?
 
@@ -177,10 +181,6 @@ In general, there is no difference in how much money you save whether you shop o
 ## What are the best deals right now?
 
 ZDNET experts split out the latest and greatest deals for you below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Best deals by retailer**
 
@@ -236,21 +236,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-windows-11-unveiled-the-new-era-begins/"><u>[Updated] 2024 Approved Windows 11 Unveiled The New Era Begins</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-unmarked-eyes-facebook-story-viewer-for-2024/"><u>[Updated] Unmarked Eyes Facebook Story Viewer for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-optimize-remote-work-with-smart-zoom-scheduling/"><u>2024 Approved Optimize Remote Work with Smart Zoom Scheduling</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/can-electric-car-battery-life-match-or-surpass-conventional-gas-engines-longeaster/"><u>Can Electric Car Battery Life Match or Surpass Conventional Gas Engines' Longeaster?</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/convert-your-blog-video-files-into-mp4movavi-formats-easily-on-both-mac-and-pc/"><u>Convert Your Blog Video Files Into MP4/MOV/AVI Formats Easily on Both Mac & PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-transport-solutions-the-ultimate-guide-to-teleportation-on-minecraft/"><u>Easy Transport Solutions: The Ultimate Guide to Teleportation on Minecraft</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/effective-methods-for-restricting-video-sharing-sites-on-apple-tablets/"><u>Effective Methods for Restricting Video Sharing Sites on Apple Tablets</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-tools-top-5-must-have-applications-for-successful-twitch-streamers/"><u>Essential Tools: Top 5 Must-Have Applications for Successful Twitch Streamers</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/expert-tips-for-high-quality-sound-memos-for-2024/"><u>Expert Tips for High-Quality Sound Memos for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-next-gen-apple-watch-x-price-estimates-release-window-and-detailed-tech-features-with-insider-gossip/"><u>Exploring the Next-Gen Apple Watch X: Price Estimates, Release Window & Detailed Tech Features with Insider Gossip</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fixing-d3dx933dll-errors-when-they-cant-be-found-by-system-searches/"><u>Fixing d3dx9_33.dll Errors When They Can't Be Found by System Searches</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-8-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 8? | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-streamlining-your-iphone-7-video-saving-routine/"><u>In 2024, Streamlining Your iPhone 7 Video Saving Routine</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/keeping-your-mac-active-a-step-by-step-process-for-continuous-operation/"><u>Keeping Your Mac Active: A Step-by-Step Process for Continuous Operation</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-navigating-instagrams-question-marker-magic/"><u>[New] Navigating Instagram’s Question Marker Magic</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-dialing-in-on-youtube-success-identifying-ranks-boosters-for-2024/"><u>[Updated] Dialing in on YouTube Success Identifying Ranks Boosters for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-making-the-most-out-of-video-calls-combining-skype-and-zoom/"><u>[Updated] Making the Most Out of Video Calls Combining Skype & Zoom</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-comprehensible-path-to-proficient-greenscreen-in-kinemaster/"><u>2024 Approved The Comprehensible Path to Proficient Greenscreen in KineMaster</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-who-takes-the-prize-for-best-cinematic-recording-in-extreme-sports/"><u>2024 Approved Who Takes the Prize for Best Cinematic Recording in Extreme Sports?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-your-path-to-perfect-videos-with-any-of-these-7-free-tools/"><u>2024 Approved Your Path to Perfect Videos with Any of These 7 Free Tools</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enhancing-your-iphone-experience-with-apples-integration-of-googles-gemini-insights/"><u>Enhancing Your iPhone Experience with Apple's Integration of Google's Gemini - Insights</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/enhancing-your-laptops-soundscape-elevating-system-volume-on-win10-systems/"><u>Enhancing Your Laptop's Soundscape: Elevating System Volume on Win10 Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-safely-alter-your-facebook-sign-in-key-information/"><u>How To Safely Alter Your Facebook Sign-In Key Information</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-craft-the-ultimate-mac-app-for-incredible-document-management-a-step-by-step-tutorial-zdnet/"><u>Mastering Craft: The Ultimate Mac App for Incredible Document Management - A Step-by-Step Tutorial | ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionizing-conversational-ai-on-apple-devices-chatgpt-now-available-via-collaboration-with-openai-zdnet-coverage/"><u>Revolutionizing Conversational AI on Apple Devices: ChatGPT Now Available via Collaboration with OpenAI | ZDNet Coverage</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/shockingly-fast-crafting-a-google-image-collaboration/"><u>Shockingly Fast Crafting a Google Image Collaboration</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/shoot-higher-your-mobile-for-vertical-panoramas/"><u>Shoot Higher Your Mobile for Vertical Panoramas</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-crucial-5-features-android-must-adopt-to-rivet-against-iphones-ios-supremacy/"><u>The Crucial 5 Features Android Must Adopt to Rivet Against iPhone's iOS Supremacy</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-savings-on-computers-july-2024s-premier-offers-zdnet-spotlight/"><u>Ultimate Savings on Computers: July 2024'S Premier Offers | ZDNet Spotlight</u></a></li>
 </ul></div>
 

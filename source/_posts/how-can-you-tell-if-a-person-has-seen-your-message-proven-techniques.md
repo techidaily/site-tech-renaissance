@@ -1,7 +1,7 @@
 ---
 title: How Can You Tell if a Person Has Seen Your Message? Proven Techniques
-date: 2024-08-30T14:47:42.945Z
-updated: 2024-08-31T14:47:42.945Z
+date: 2024-12-09T04:32:11.918Z
+updated: 2024-12-10T18:56:52.962Z
 categories:
   - BestProducts
 description: This Article Describes How Can You Tell if a Person Has Seen Your Message? Proven Techniques
@@ -35,8 +35,9 @@ thumbnail: https://www.lifewire.com/thmb/WGXcV5iJLLtCvP9k0MhN7Wkdvj0=/400x300/fi
  If you don't want people to know that when you read their messages,[turn off read receipts on your iPhone or Android](https://www.lifewire.com/turn-read-receipts-on-or-off-on-iphone-and-android-5074420) .
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Read Receipts on Android Smartphones
 
  The process is similar on Android. The[Google Messages app](https://www.lifewire.com/use-android-messages-app-4177697) supports read receipts, but the carrier must also support this feature. Your recipient must have read receipts activated for you to see if they read your message.
@@ -51,11 +52,9 @@ thumbnail: https://www.lifewire.com/thmb/WGXcV5iJLLtCvP9k0MhN7Wkdvj0=/400x300/fi
 ![The Google Messages menu, Settings screen, and RCS chats options](https://www.lifewire.com/thmb/B7JVQg4q7aeE8dmAE_ap6ttFnuQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/android-read-receipts-rcs-chats-19d035e50fc3487ba50f8d7d782765fa.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
+
 ## WhatsApp Read Receipts
 
  WhatsApp uses built-in read receipts. The status of sent messages[is tracked through check marks next to messages](https://www.lifewire.com/how-to-track-messages-with-whatsapp-check-marks-4781495) . One grey check mark means the message was sent; two grey check marks mean the message was delivered, and two blue check marks mean the message was read.
@@ -65,8 +64,9 @@ thumbnail: https://www.lifewire.com/thmb/WGXcV5iJLLtCvP9k0MhN7Wkdvj0=/400x300/fi
  WhatsApp read receipts are a two-way street. If you disable read receipts to prevent others from knowing you read their messages, you won't know when they read yours.
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### WhatsApp Message Details
 
  If you're looking for specific information about the messages you've sent in WhatsApp, here's how to see those details:
@@ -87,18 +87,21 @@ thumbnail: https://www.lifewire.com/thmb/WGXcV5iJLLtCvP9k0MhN7Wkdvj0=/400x300/fi
 3. Scroll down and tap**Privacy & safety** .  
 ![The Chats, menu, and settings in the Facebook Messenger app for Android](https://www.lifewire.com/thmb/-ps7dMRHQclfLVgQWYJGmoAfjQo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facebook-messenger-app-settings-ac60afcaccab437aaa235122cf6cebc8.png)
 4. Choose**Read receipts** .
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. Tap the toggle next to**Show read receipts** so it turns on.  
 ![The Privacy and security screen and read receipts toggle in the Facebook Messenger app](https://www.lifewire.com/thmb/bbHvAPlOyTbtWcVcsFhlUuuQUy4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/read-receipts-facebook-messenger-c45c63e4858e4a67b967003f10089270.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The Facebook Messenger app provides detailed indicators about the delivery and read status each time you send a message. When your message is actively sending, you'll briefly see a blue circle. When it's sent, you'll see a blue circle with a checkmark. When it's delivered, you'll see a filled-in blue circle. Finally, when it's read, you'll see a small version of your recipient's profile image below the message.
 
 ![Read indicators in Facebook Messenger](https://www.lifewire.com/thmb/KfSmMETDPxk2OzNUveEZTEEAf6M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-read-my-text-message-4148206-6116e0f818784404a8debc67972541c2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Instagram Read Receipts
 
@@ -137,8 +140,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +147,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-unlocking-creative-potential-garageband-editing-guide/"><u>[New] 2024 Approved Unlocking Creative Potential GarageBand Editing Guide</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-crafting-captivating-photo-based-video-content-using-pixizs-features-for-2024/"><u>[New] Crafting Captivating Photo-Based Video Content Using Pixiz's Features for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-launch-live-fb-broadcast-from-any-device-with-obs-guide/"><u>[New] Launch Live FB Broadcast From Any Device with OBS Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/catch-em-all-the-comprehensive-pokemon-go-playbook/"><u>Catch 'Em All: The Comprehensive Pokémon Go Playbook</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-how-to-identify-if-someones-using-an-airtag-for-surveillance-expert-tips/"><u>Discover How to Identify If Someone's Using an AirTag for Surveillance – Expert Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/embracing-the-future-with-intelligence-the-evolution-from-bing-to-siri-and-why-its-time-for-change/"><u>Embracing the Future with Intelligence: The Evolution From Bing to Siri and Why It's Time for Change</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/empower-your-site-with-cookiebots-advanced-conversion-optimization-features/"><u>Empower Your Site with Cookiebot's Advanced Conversion Optimization Features</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enhancing-engagement-a-beginners-guide-to-captioning-your-instagram-story-highlights/"><u>Enhancing Engagement: A Beginner's Guide to Captioning Your Instagram Story Highlights</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-samsung-galaxy-f04-lock-screen-password-by-drfone-android/"><u>How To Change Samsung Galaxy F04 Lock Screen Password?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/imessage-guide-sending-and-receiving-on-a-pc-with-windows-zdnet/"><u>IMessage Guide: Sending & Receiving on a PC with Windows (ZDNet)</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-optimal-video-kick-offs-selecting-the-top-16-for-more-viewers/"><u>In 2024, Optimal Video Kick-Offs Selecting the Top 16 for More Viewers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ios-18-update-fails-commonly-overlooked-drawbacks-when-upgrading-your-iphone-were-not-the-only-ones-struggling/"><u>IOS 18 Update Fails: Commonly Overlooked Drawbacks When Upgrading Your iPhone - We're Not the Only Ones Struggling!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/lg-stylo-6-smartphone-evaluation-exceptional-design-with-integrated-pen/"><u>LG Stylo 6 Smartphone Evaluation: Exceptional Design with Integrated Pen</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/perfecting-your-vocal-harmony-in-canva-projects/"><u>Perfecting Your Vocal Harmony in Canva Projects</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-apples-latest-enhancements-top-4-new-traits-of-improved-airpods-lines-insights-for-tech-savvies/"><u>Unveiling Apple's Latest Enhancements: Top 4 New Traits of Improved AirPods Lines - Insights for Tech Savvies</u></a></li>
+</ul></div>
 

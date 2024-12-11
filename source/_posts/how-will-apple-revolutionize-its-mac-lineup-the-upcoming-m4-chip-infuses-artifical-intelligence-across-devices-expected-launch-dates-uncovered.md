@@ -1,7 +1,7 @@
 ---
 title: How Will Apple Revolutionize Its Mac Lineup? The Upcoming M4 Chip Infuses Artifical Intelligence Across Devices - Expected Launch Dates Uncovered
-date: 2024-12-03T00:53:47.986Z
-updated: 2024-12-05T04:11:15.732Z
+date: 2024-12-09T10:43:00.301Z
+updated: 2024-12-10T23:17:23.550Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -60,6 +64,10 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -67,10 +75,6 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -104,10 +108,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -119,7 +119,7 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -132,10 +132,6 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -155,7 +151,7 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -165,6 +161,10 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,24 +210,21 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-exclusive-fb-download-tools-optimized-for-firefox-users/"><u>[New] 2024 Approved Exclusive FB Download Tools - Optimized For FireFox Users</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-android-and-ios-leaders-in-asmr-content-for-2024/"><u>[New] Android & iOS Leaders in ASMR Content for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-instagram-top-borders-and-frames-for-perfect-photos-for-2024/"><u>[New] Mastering Instagram Top Borders & Frames for Perfect Photos for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-the-future-in-your-hands-screenflows-role-in-macos-innovation-for-2024/"><u>[New] The Future in Your Hands ScreenFlow's Role in MacOS Innovation for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-decoding-video-thread-embellishments/"><u>[Updated] In 2024, Decoding Video Thread Embellishments</u></a></li>
-<li><a href="https://change-location.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Vivo V27 | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-oppo-reno-11-5g-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Oppo Reno 11 5G</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/effective-strategies-for-restoring-text-communication-on-android-phones/"><u>Effective Strategies for Restoring Text Communication on Android Phones</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-removing-images-from-icloud-without-losing-iphone-copies/"><u>Guide: Removing Images From iCloud Without Losing iPhone Copies</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-enable-and-create-text-overlays-in-instagram-stories/"><u>How To Enable and Create Text Overlays in Instagram Stories</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722845516870-how-to-restore-audio-output-when-your-chromecast-is-mute-or-silent/"><u>How to Restore Audio Output When Your Chromecast Is Mute or Silent</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Realme C67 4G? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On OnePlus Nord N30 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-the-selection-of-classroom-laptops-and-desktops-your-complete-guide/"><u>Mastering the Selection of Classroom Laptops and Desktops: Your Complete Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/steps-to-install-custom-fonts-on-your-iphone/"><u>Steps to Install Custom Fonts on Your iPhone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-mystery-solved-what-makes-car-speakers-fail/"><u>The Mystery Solved: What Makes Car Speakers Fail?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-list-of-6-favorite-digital-journals-to-boost-your-creativity/"><u>The Ultimate List of 6 Favorite Digital Journals to Boost Your Creativity</u></a></li>
-<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On OnePlus Nord N30 SE? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-techniques-for-becoming-a-champion-at-royal-match/"><u>Ultimate Techniques for Becoming a Champion at Royal Match</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-breaking-through-youtubes-walls-using-advanced-creator-studio-skills-for-2024/"><u>[New] Breaking Through YouTube's Walls Using Advanced Creator Studio Skills for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-effective-strategies-to-mute-unwanted-voices-in-gomeet/"><u>[Updated] In 2024, Effective Strategies to Mute Unwanted Voices in GoMeet</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtubes-updated-strategy-for-content-creators/"><u>2024 Approved YouTube's Updated Strategy for Content Creators</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/accelerated-iphone-16-charging-esrs-latest-qi2-magsafe-series-features-cold-efficiency-tech-for-swift-power-ups-insights-from-zdnet/"><u>Accelerated iPhone 16 Charging: ESR's Latest Qi2 MagSafe Series Features Cold-Efficiency Tech for Swift Power Ups - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/access-comprehensive-apple-device-guides-manuals-specifications-and-diy-repairs-all-under-one-roof/"><u>Access Comprehensive Apple Device Guides: Manuals, Specifications & DIY Repairs – All Under One Roof</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-unveils-chilling-marketing-ploy-targeting-dominant-web-browser-witness-the-buzz/"><u>Apple Unveils Chilling Marketing Ploy Targeting Dominant Web Browser: Witness the Buzz !</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/groundbreaking-webinar-name-builder/"><u>Groundbreaking Webinar Name Builder</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-iphone-xs-complete-guide-by-drfone-ios/"><u>In 2024, How To Remove Passcode From iPhone XS? Complete Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/most-popular-world-cup-matches-youtubes-all-time-leading-watch-time-ranking/"><u>Most Popular World Cup Matches: YouTube's All-Time Leading Watch Time Ranking</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-solution-overcoming-the-tfla0002-issue-in-academic-testing/"><u>Step-by-Step Solution: Overcoming the TFLA0002 Issue in Academic Testing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-impact-of-advanced-ai-on-iphone-16-success-an-in-depth-analysis/"><u>The Impact of Advanced AI on iPhone 16 Success: An In-Depth Analysis</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-oppo-a59-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-apple-watch-band-picks-for-2e-2024-in-depth-analysis-and-reviews-by-tech-experts/"><u>Top-Rated Apple Watch Band Picks for 2E 2024: In-Depth Analysis & Reviews by Tech Experts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-mac-maintenance-tools-of-2022-the-editors-picks-featured-on-zdnet/"><u>Top-Rated Mac Maintenance Tools of 2022: The Editor's Picks Featured on ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiled-apple-introduces-the-new-13-and-15-macbook-air-powered-by-m3-processor-key-features-explained/"><u>Unveiled: Apple Introduces the New 13 & 15 MacBook Air Powered by M3 Processor - Key Features Explained</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-upgrades-in-the-latest-version-of-the-classic-samsung-galaxy-smartwatch-series/"><u>Unveiling Upgrades in the Latest Version of the Classic Samsung Galaxy Smartwatch Series</u></a></li>
 </ul></div>
 

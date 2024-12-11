@@ -1,7 +1,7 @@
 ---
 title: Integrating New Members Into Linux User Groups Efficiently and Effectively
-date: 2024-08-30T14:38:53.549Z
-updated: 2024-08-31T14:38:53.549Z
+date: 2024-12-05T23:36:49.780Z
+updated: 2024-12-11T07:11:38.254Z
 tags:
   - desktop
 categories:
@@ -21,6 +21,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [Add a User to Multiple Groups](https://pokemon-go-android.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-realme-c53-drfone-by-drfone-virtual-android/)
 * [View All Groups on the System](https://driver-download.techidaily.com/download-and-update-drivers-hp-z440-desktop-computer-system/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
  To add a user to a group, open the Terminal, then type "sudo usermod -a -G examplegroup exampleusername" into the window. Replace "examplegroup" and "exampleusername" with the group and username you want to modify.
@@ -39,12 +43,6 @@ sudo groupadd new_group
 
 ![Adding a new group named &quot;new_group.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/04/img_58fe4b860542a.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Add an Existing User Account to a Group
 
  To add an existing user account to a group on your system, use the `usermod` command, replacing `examplegroup` with the name of the group you want to add the user to and `exampleusername` with the name of the user you want to add.
@@ -70,8 +68,9 @@ usermod -g examplegroup exampleusername
 ![Changing the Geek user's primary group to example.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/04/img_58fe4c1c81233.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  View the Groups a User Account is Assigned To
 
  To view the groups the current user account is assigned to, run the `groups` command. You'll see a list of groups.
@@ -84,9 +83,6 @@ id
 
 ![Checking what groups there are, and what their numerical IDs are.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/04/img_58fe4ba2082cf.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
  To view the groups another user account is assigned to, run the `groups` command and specify the name of the user account.
 
 groups exampleusername
@@ -116,8 +112,9 @@ passwd jsmith
 ![Creating a new user and simultaneously adding it to a group.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/04/img_58fe4bbf1c94b.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Add a User to Multiple Groups
 
  While assigning the secondary groups to a user account, you can easily assign multiple groups at once by separating the list with a comma.
@@ -133,8 +130,13 @@ usermod -a -G ftp,sudo,example geek
 ![Adding a user to multiple groups with one command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/04/img_58fe4bc896672.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  View All Groups on the System
 
  If you want to [view a list of all groups on your system](https://hardware-updates.techidaily.com/comprehensive-guide-downloading-and-installing-canon-ip1-10-drivers-on-windows-windows-111087/), you can use the `getent` command:
@@ -146,8 +148,9 @@ getent group
 ![List of groups available on the system.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/04/img_58fe4bd589833.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  That should cover everything you need to know about adding users to groups on Linux.
 
 | |  Linux Commands |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |  |
@@ -162,8 +165,6 @@ getent group
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -171,4 +172,19 @@ getent group
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/nlock-creative-potential-with-no-cost-green-screen-knowledge-from-top-4-educational-channels/"><u>[New] Unlock Creative Potential with No-Cost Green Screen Knowledge From Top 4 Educational Channels</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-effortlessly-elusive-facial-shadows-harnessing-the-power-of-motion-blur-in-photos-with-picsart/"><u>[Updated] In 2024, Effortlessly Elusive Facial Shadows Harnessing the Power of Motion Blur in Photos with Picsart</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-panoramic-lenses-and-fixed-angle-gear/"><u>[Updated] In 2024, Panoramic Lenses & Fixed-Angle Gear</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-retro-editing-magic-cutting-classical-cinematography-for-2024/"><u>[Updated] Retro Editing Magic Cutting Classical Cinematography for 2024</u></a></li>
+<li><a href="https://win-top.techidaily.com/automatisation-de-la-sauvegarde-des-e-mails-dans-microsoft-outlook-sur-un-disque-dur/"><u>Automatisation De La Sauvegarde Des E-Mails Dans Microsoft Outlook Sur Un Disque Dur</u></a></li>
+<li><a href="https://win-webster.techidaily.com/how-can-older-video-card-drivers-impact-system-speed-and-efficiency-exploring-the-truth-with-yl-solutions/"><u>How Can Older Video Card Drivers Impact System Speed and Efficiency? - Exploring the Truth with YL Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/inside-look-at-the-next-gen-samsung-galaxy-z-flip7-price-forecast-release-schedule-and-expert-speculations-on-its-capabilities/"><u>Inside Look at the Next-Gen Samsung Galaxy Z Flip7: Price Forecast, Release Schedule & Expert Speculations on Its Capabilities</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/mastering-frame-rates-for-best-slow-motion-effects/"><u>Mastering Frame Rates for Best Slow Motion Effects</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/protecting-memories-a-safe-approach-for-reacquiring-deleted-iphone-photos/"><u>Protecting Memories: A Safe Approach for Reacquiring Deleted iPhone Photos</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-airtag-wallet-reviews-in-depth-analysis-by-tech-experts-gizmopundit/"><u>Top-Rated AirTag Wallet Reviews - In-Depth Analysis by Tech Experts | GizmoPundit</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/why-the-latest-mac-studios-standout-features-are-swaying-my-choice-over-the-upcoming-m4-mac-mini-a-detailed-comparison/"><u>Why the Latest Mac Studio's Standout Features Are Swaying My Choice Over the Upcoming M4 Mac Mini: A Detailed Comparison</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/zdnets-techniques-for-rigorous-smartphone-evaluations-and-reviews/"><u>ZDNet's Techniques for Rigorous Smartphone Evaluations and Reviews</u></a></li>
+</ul></div>
 

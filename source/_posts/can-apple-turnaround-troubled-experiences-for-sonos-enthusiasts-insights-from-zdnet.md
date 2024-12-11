@@ -1,7 +1,7 @@
 ---
 title: Can Apple Turnaround Troubled Experiences for Sonos Enthusiasts? Insights From ZDNet
-date: 2024-11-29T16:37:00.924Z
-updated: 2024-12-04T17:29:02.685Z
+date: 2024-12-08T00:29:46.331Z
+updated: 2024-12-11T08:36:17.888Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Reputation botched by a software rollout
 
 Founded in 2002, Sonos revolutionized home audio with its wireless, multiroom speaker systems. The company became a household name known for high-quality sound and seamless integration with music services. 
@@ -63,6 +59,10 @@ My own experiences have also not been positive. I find the web-based user interf
 The Sonos S2 firmware, which requires additional memory and relies more on cloud connections than previous versions, makes the response time from the new apps sluggish, particularly with the web interface.
 
 It's not hard to imagine that [Play:3, Play:1, Play:5 Gen2, and Sub Gen1 speakers](https://support.sonos.com/en-us/article/sonos-app-version-compatibility) that have been in the wild for more than 10 years will become obsolete in the next year or so when Sonos introduces a revised S2 or S3 firmware. These speakers will likely need to be run [on legacy networks and controlled separately](https://support.sonos.com/en-us/article/set-up-separate-s1-and-s2-sonos-systems), like the S1 components were when Sonos initially rolled out S2 in August 2020.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## A lack of competitors
 
@@ -89,7 +89,7 @@ Apple has the resources to make this move, and now is the right time for HomePod
 A set-top box, whether an updated Apple TV or a centralized processor unit for Apple TV and HomePod, could be the central control unit for a multiroom and surround sound audio system. In addition to providing the expected [artificial intelligence](https://www.zdnet.com/article/what-is-ai-heres-everything-you-need-to-know-about-artificial-intelligence/) (AI) features of a more intelligent Siri and orchestrating home automation functions, the unit could transform Apple Music into a highly personalized and interactive experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Personalized music experiences
@@ -101,7 +101,7 @@ Imagine an AI processor with built-in [Apple Foundation Model LLM](https://www.z
 With interactive music discovery, you could converse with Siri to explore new music, uncover interesting facts about songs and artists, and receive personalized insights and trivia while listening. Customized listening sessions would adapt to your feedback, setting goals like discovering new artists and curating sessions to meet those objectives.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Social and collaborative features
@@ -109,7 +109,7 @@ With interactive music discovery, you could converse with Siri to explore new mu
 Social and collaborative features could facilitate the creation of collaborative playlists with friends and family, allowing real-time voting on songs and interactive chats about playlist content. Personalized messages generated by the new Apple Intelligence-powered Siri could help with custom recommendations for friends based on shared listening habits.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Smart home integration
@@ -123,7 +123,7 @@ The AI's adaptive learning capabilities could continuously refine music recommen
 **Also: [LG TVs are getting a free audio upgrade that Apple users will absolutely love](https://www.zdnet.com/home-and-office/home-entertainment/lg-tvs-are-getting-a-free-audio-upgrade-that-apple-users-will-absolutely-love/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is Sonos cooked, and can Apple step in?
@@ -160,20 +160,19 @@ The recent missteps by Sonos have left a void in the multiroom audio market, pre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-essential-software-for-animation-and-3d-models-for-2024/"><u>[New] Essential Software for Animation & 3D Models for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-mobile-mastery-high-shots-with-your-smartphone/"><u>[Updated] 2024 Approved Mobile Mastery High Shots with Your Smartphone</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-create-fantastic-youtube-description-with-templates-to-get-more-viewers/"><u>[Updated] In 2024, Create Fantastic YouTube Description With Templates To Get More Viewers</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-strategies-for-effective-screen-sharing-via-skype-at-home/"><u>2024 Approved Strategies for Effective Screen Sharing via Skype at Home</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/clearing-up-memory-issues-how-to-address-photoshoper-scratch-overflow-errors/"><u>Clearing Up Memory Issues: How to Address Photoshop'er Scratch Overflow Errors</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-to-import-photos-and-videos-in-windows-10-deepest-secret-for-2024/"><u>How to Import Photos and Videos in Windows 10 (Deepest Secret) for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/imovie-soundtracks-made-easy-and-effective/"><u>IMovie Soundtracks Made Easy & Effective</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-vivo-x90s-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Vivo X90S to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-look-at-the-asus-zenwifi-ax6600-xt8-top-tier-mesh-wi-fi-solution-reviewed/"><u>In-Depth Look at the ASUS ZenWiFi AX6600 (XT8): Top-Tier Mesh Wi-Fi Solution Reviewed</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/jvmdll-file-not-found-heres-how-you-can-correctly-address-this-common-windows-error/"><u>JVM.dll File Not Found? Here’s How You Can Correctly Address This Common Windows Error</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/simple-steps-to-enable-and-disable-network-discovery-on-windows-10-devices/"><u>Simple Steps to Enable and Disable Network Discovery on Windows 10 Devices</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-techniques-for-the-opengl32dll-file-not-found-mishap/"><u>Troubleshooting Techniques for the OpenGL32.dll File Not Found Mishap</u></a></li>
-<li><a href="https://fox-that.techidaily.com/utilize-hashtags-and-challenges/"><u>Utilize Hashtags & Challenges</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/what-you-need-to-know-about-the-monthly-security-fix-day-known-as-patch-tuesday/"><u>What You Need to Know About the Monthly Security Fix Day Known as Patch Tuesday</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722862000469-which-smart-home-helper-wins-a-comparison-of-alexa-and-google-assistant/"><u>Which Smart Home Helper Wins?: A Comparison of Alexa and Google Assistant</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-essential-mobile-apps-top-8-creativity-boosters-on-ios-and-android/"><u>[Updated] 2024 Approved Essential Mobile Apps Top 8 Creativity Boosters on iOS and Android</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-srgb-efficiency-against-basic-rgb-for-2024/"><u>[Updated] Srgb Efficiency Against Basic Rgb for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-revolutionize-your-online-video-content-expert-tips-on-youtube-live-with-wirecast/"><u>2024 Approved Revolutionize Your Online Video Content Expert Tips on Youtube Live with WireCast</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/bargain-hunting-in-apples-secondhand-marketplace-smart-strategies-to-dodge-scams-and-snag-great-offers/"><u>Bargain Hunting in Apple's Secondhand Marketplace - Smart Strategies to Dodge Scams and Snag Great Offers</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/customize-your-desktop-view-easily-with-the-windows-display-settings-walkthrough-by-yl-software-specialists/"><u>Customize Your Desktop View Easily with the Windows Display Settings Walkthrough by YL Software Specialists</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-tips-for-activating-and-deactivating-iphone-system-repair-mode/"><u>Essential Tips for Activating & Deactivating iPhone System Repair Mode</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-the-leading-printer-brands-and-models-for-202n-insights-from-zdnets-latest-review/"><u>Explore the Leading Printer Brands and Models for 202N - Insights From ZDNet's Latest Review</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-sharing-errors-with-nvidias-gui/"><u>Fixing Sharing Errors with NVIDIA's GUI</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-individualized-music-for-engaging-video-conclusions-for-2024/"><u>Free, Individualized Music for Engaging Video Conclusions for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-apples-recent-ai-endeavors-overlooked-crucial-innovations-anticipation-for-what-comes-next-analysis/"><u>How Apple's Recent AI Endeavors Overlooked Crucial Innovations - Anticipation for What Comes Next | Analysis</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/iphone-2023-what-you-need-to-know-about-the-expected-pricing-launch-date-and-specs-updates/"><u>IPhone 2023 - What You Need to Know About the Expected Pricing, Launch Date, and Specs Updates</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/powercoreplus-26800-portable-charger-evaluation-a-streamlined-tech-companion/"><u>PowerCore+ 26800 Portable Charger Evaluation: A Streamlined Tech Companion</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-xiaomi-13t-pro-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Xiaomi 13T Pro Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/why-your-imessages-might-not-have-sent-unveiling-the-reasons-behind-missing-messages/"><u>Why Your iMessages Might Not Have Sent: Unveiling the Reasons Behind Missing Messages</u></a></li>
 </ul></div>
 

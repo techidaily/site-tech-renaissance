@@ -1,7 +1,7 @@
 ---
 title: "Join the Chorus of Discontent: The Unforeseen Consequences of Moving to iOS 18 on Your iPhone, as Revealed by ZDNet's Readers"
-date: 2024-12-02T07:19:18.921Z
-updated: 2024-12-05T05:29:52.139Z
+date: 2024-12-07T17:22:23.088Z
+updated: 2024-12-11T03:28:01.921Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,20 +109,17 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-leading-tools-for-extracting-fb-videos-top-5/"><u>[New] In 2024, Leading Tools for Extracting FB Videos - TOP 5</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-convenient-ways-to-archive-your-insta-story-for-2024/"><u>[Updated] Convenient Ways to Archive Your Insta Story for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/3-insight-on-zdnet/"><u>3 - Insight on ZDNet</u></a></li>
-<li><a href="https://facebook.techidaily.com/apples-vision-for-technology-not-chasing-after-virtual-space/"><u>Apple's Vision for Technology: Not Chasing After Virtual Space</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/best-chuckle-inducing-edits-on-mobile-platforms-for-2024/"><u>Best Chuckle-Inducing Edits on Mobile Platforms for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-apple-vision-pro-key-discoveries-after-two-days-of-testing-zdnet-tech-blog/"><u>Exploring the Apple Vision Pro: Key Discoveries After Two Days of Testing | ZDNet Tech Blog</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/federal-commission-greenlights-enhanced-6ghz-spectrum-use-for-immersive-tech-arvr-devices-gain-speed-boost-zdnet-reports/"><u>Federal Commission Greenlights Enhanced 6GHz Spectrum Use for Immersive Tech: AR/VR Devices Gain Speed Boost, ZDNet Reports</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-on-iphone-14-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code On iPhone 14 in the Best Ways</u></a></li>
-<li><a href="https://discover-best.techidaily.com/live-streaming-pro-enhancing-your-broadcasts-with-manycam-features/"><u>Live Streaming Pro: Enhancing Your Broadcasts with ManyCam Features</u></a></li>
-<li><a href="https://windows11.techidaily.com/regain-control-of-inactive-usb-ports-with-easy-steps-win/"><u>Regain Control of Inactive USB Ports with Easy Steps Win</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-secret-brilliance-behind-apple-vision-pro-discover-why-its-a-game-changer-insights-from-zdnet/"><u>The Secret Brilliance Behind Apple Vision Pro - Discover Why It's a Game Changer (Insights From ZDNet)</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-waiting-game-for-meta-ai-understanding-the-hold-up-on-lying-down-mode-feature-in-metas-upcoming-quest-evolution-tech-analysis-by-zdnet/"><u>The Waiting Game for Meta AI: Understanding the Hold-Up on 'Lying Down Mode' Feature in Meta’s Upcoming Quest Evolution | Tech Analysis by ZDNET</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-make-excel-compatible-with-notepad/"><u>Tips: Make Excel Compatible with Notepad</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-3-critical-mistakes-in-handling-apple-vision-pro-avoid-them-or-risk-losing-it-all-insights-by-zdnet/"><u>Top 3 Critical Mistakes in Handling Apple Vision Pro - Avoid Them or Risk Losing It All | Insights by ZDNET</u></a></li>
-<li><a href="https://video-capture.techidaily.com/ultra-hd-playback-best-ps5-and-hdmi-21-compatible-monitors/"><u>Ultra HD Playback Best PS5 & HDMI 2.1 Compatible Monitors</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-live-broadcasters-dilemma-which-tool-triumphs-obs-or-streamlabs/"><u>[New] 2024 Approved Live Broadcasters' Dilemma Which Tool Triumphs – OBS or Streamlabs?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-best-pricing-in-the-cloud-unveil-your-options-here/"><u>[Updated] 2024 Approved Best Pricing in the Cloud? Unveil Your Options Here</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-cutting-edge-techniques-for-free-from-photo-backgrounds-for-2024/"><u>[Updated] Cutting Edge Techniques for Free-From Photo Backgrounds for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/2024s-elite-lineup-of-magsafe-wallets-professional-insights-tested-and-reviewed-zdnet/"><u>2024'S Elite Lineup of MagSafe Wallets: Professional Insights, Tested & Reviewed | ZDNET</u></a></li>
+<li><a href="https://windows11.techidaily.com/compute-chronology-determining-window-system-era/"><u>Compute Chronology: Determining Window System Era</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/essential-tips-to-improve-your-chromebooks-zooming-skills/"><u>Essential Tips to Improve Your Chromebook's Zooming Skills</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-your-ipad-10-crucial-setups-and-tricks-for-apple-enthusiasts-of-all-levels-zdnet-insights/"><u>Master Your iPad: 10 Crucial Setups and Tricks for Apple Enthusiasts of All Levels | ZDNET Insights</u></a></li>
+<li><a href="https://facebook.techidaily.com/respect-in-relationships-navigating-facebook-humor/"><u>Respect in Relationships: Navigating Facebook Humor</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211228090-9798889828099-the-gentle-art-of-denial/"><u>The Gentle Art of Denial | Free Book</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-18-unbeatable-prime-day-deals-on-laptops-explore-savings-from-brands-like-hp-apple-and-razer/"><u>Top 18 Unbeatable Prime Day Deals on Laptops: Explore Savings From Brands Like HP, Apple & Razer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/transforming-technology-one-device-at-a-time-the-rise-of-personalized-ai-as-predicted-by-zdnet/"><u>Transforming Technology, One Device at a Time: The Rise of Personalized AI as Predicted by ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/why-does-my-car-battery-keep-losing-charge-explore-these-common-factors/"><u>Why Does My Car Battery Keep Losing Charge? Explore These Common Factors</u></a></li>
 </ul></div>
 

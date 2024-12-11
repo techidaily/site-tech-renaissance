@@ -1,7 +1,7 @@
 ---
 title: "Breaking Down the Latest Buzz on iPhone 17: Pricing Forecasts, Release Schedule & Feature Speculations"
-date: 2024-11-27T23:47:26.898Z
-updated: 2024-12-05T03:52:16.008Z
+date: 2024-12-08T17:36:14.284Z
+updated: 2024-12-10T16:52:36.468Z
 categories:
   - BestProducts
 description: "This Article Describes Breaking Down the Latest Buzz on iPhone 17: Pricing Forecasts, Release Schedule & Feature Speculations"
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/24c0edcba484cab644836ae0bb31bb9d7220262ab
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When Will iPhone 17 Be Released?
 
  The iPhone 17 release date has not been announced, but it's likely to be in Fall 2025\. Apple is very consistent with its[iPhone release dates](https://www.lifewire.com/when-does-new-iphone-come-out-1999740) :
@@ -42,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/24c0edcba484cab644836ae0bb31bb9d7220262ab
 
 A September 2025 release date seems like a lock.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPhone 17 Price Rumors
 
  Just like with release dates, Apple is consistent in[the pricing of new iPhones](https://www.lifewire.com/cost-of-iphone-1999299) . While nothing has been confirmed, expect that the iPhone 17 price will be very similar to previous models, if not the exactly same. The launch price of the entry-level model of the last three iPhones was:
@@ -56,16 +56,12 @@ A September 2025 release date seems like a lock.
 
  So, the iPhone 17 price might vary a little, but a starting price around $799 is a safe bet, with the cost going up based on screen size and storage. And of course, the Pro version will be more expensive.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Pre-Order Information
 
  The iPhone 17 will go up for pre-order once Apple makes it official. Check back here for info once it's available.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPhone 17 Specs & Features
@@ -95,10 +91,6 @@ A September 2025 release date seems like a lock.
 
  Ross Young, an industry analyst with Display Supply Chain Consultants,[says that the iPhone 17 Pro models will bring a big change to Face ID](https://www.macrumors.com/2023/04/03/under-display-face-id-to-debut-on-iphone-17-pro/) : Instead of using a camera notch at the top of the screen, the[Face ID](https://www.lifewire.com/face-id-4151714) will be embedded under the phone's screen. While the selfie camera cutout would stay, moving the Face ID sensors under the screen would be a step towards getting rid of the notch entirely and having an all-screen front on a future iPhone model.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Processor and Chips
 
  Each year, Apple introduces a new processor that powers the iPhone. Based on past evolution of those chips, expect the iPhone 17 series to be built around the not-yet-revealed Apple A18 processor.
@@ -117,16 +109,24 @@ A September 2025 release date seems like a lock.
 
  Lastly, noted Apple analyst Kuo Ming-Chi suggests that[the camera lenses on the iPhone 17 will be built using 6 elements](https://hothardware.com/news/apples-iphone-17-could-have-heavily-revised-selfie-camera) , up from 5 on current models, which will improve image quality, especially in low-light situations.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Phone Size
 
  While not a widely reported rumor,[HotHardware says](https://hothardware.com/news/apples-iphone-17-could-have-heavily-revised-selfie-camera) that the iPhone 17 may change its physical dimensions, becoming taller and skinnier, with a 19.6:9 aspect ratio (the aspect ratio of current iPhone is 16:9).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### AI
 
  While there are no specific rumors about the use of[AI](https://www.lifewire.com/artificial-intelligence-and-science-6386405) in the iPhone 17 yet, it's an absolute certainty that that model, and its version of the iOS, will feature lots of new AI tools. What they are depends on[what features debut with the iPhone 16/iOS 18 in 2024](https://www.lifewire.com/apple-is-using-ai-everywhere-7509132) , and how the rapidly changing AI field evolves, but count on some new artificial intelligence enhancements.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Latest News About iPhone 17
@@ -158,24 +158,24 @@ A September 2025 release date seems like a lock.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-transformative-file-conversion-your-quick-srt-to-text-txt-guide/"><u>[New] 2024 Approved Transformative File Conversion Your Quick SRT to Text (TXT) Guide</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-elevate-your-online-presence-with-easy-video-sharing-on-fb/"><u>[New] Elevate Your Online Presence with Easy Video Sharing on FB</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-polka-dotted-parakeet-party/"><u>[Updated] In 2024, Polka-Dotted Parakeet Party</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-instagram-edge-constructing-compelling-square-footage-in-imovie/"><u>[Updated] Instagram Edge Constructing Compelling Square Footage in iMovie</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-spookiest-zdnets-pick-for-best-animatronics-of-halloween-2022/"><u>Exploring the Spookiest: ZDNet's Pick for Best Animatronics of Halloween 2022</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/facial-recognition-tech-takes-over-a-firsthand-review-of-a-game-changing-smart-lock-that-outshines-old-security-systems-zdnet/"><u>Facial Recognition Tech Takes Over: A Firsthand Review of a Game-Changing Smart Lock That Outshines Old Security Systems | ZDNET</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/get-the-ideal-home-defense-the-arlo-pro-5s-at-a-steep-discount-now-just-180-zdnet/"><u>Get the Ideal Home Defense: The Arlo Pro 5S at a Steep Discount, Now Just $180! | ZDNET</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Vivo Y100t? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/introducing-the-tronsmart-force-x-a-dual-purpose-marvel-with-superior-audio-and-portable-charging-for-outdoors-enthusiasts/"><u>Introducing the Tronsmart Force X: A Dual-Purpose Marvel with Superior Audio & Portable Charging for Outdoors Enthusiasts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/labor-day-savings-unbeatable-bargain-on-blink-mini-2-top-pick-for-home-security-systems/"><u>Labor Day Savings: Unbeatable Bargain on Blink Mini 2 - Top Pick for Home Security Systems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/leading-seed-supply-companies-ranked-find-the-best-options-today/"><u>Leading Seed Supply Companies Ranked: Find the Best Options Today!</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/navigating-the-basics-of-zoom-meeting-setup/"><u>Navigating the Basics of Zoom Meeting Setup</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/revolutionize-yard-work-with-fun-and-easy-grass-cutting-the-ultimate-guide-to-enjoying-remote-controlled-lawnmowers-today/"><u>Revolutionize Yard Work with Fun and Easy Grass Cutting: The Ultimate Guide to Enjoying Remote-Controlled Lawnmowers Today!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/score-a-deal-on-blinks-4-camera-security-system-and-floodlight-bundle-at-only-80-exclusive-labor-day-offer/"><u>Score a Deal on Blink's 4-Camera Security System and Floodlight Bundle at Only $80 - Exclusive Labor Day Offer!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/score-a-steal-with-blink-outdoors-advanced-4-camera-and-floodlight-package-at-just-80-unveiled-by-zdnet-for-the-holiday-sale-extravaganza/"><u>Score a Steal with Blink Outdoor's Advanced 4-Camera & Floodlight Package at Just $80 - Unveiled by ZDNet for the Holiday Sale Extravaganza!</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/irst-timers-blueprint-for-youtube-income/"><u>The First-Timer's Blueprint for YouTube Income</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/unveiling-the-secrets-of-powerful-titles/"><u>Unveiling the Secrets of Powerful Titles</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-full-guide-how-to-add-a-skin-smoother-effect-with-final-cut-pro/"><u>Updated In 2024, Full Guide How to Add a Skin Smoother Effect with Final Cut Pro</u></a></li>
-<li><a href="https://discover-data.techidaily.com/windows-10-system-image-restore-failures-discover-the-top-10-fixes-right-here/"><u>Windows 10 System Image Restore Failures? Discover the Top 10 Fixes Right Here!</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-complete-manual-for-creating-condensed-youtube-videos/"><u>[New] The Complete Manual for Creating Condensed YouTube Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-crafting-visual-stories-select-the-best-ig-video-editors/"><u>[Updated] Crafting Visual Stories Select the Best IG Video Editors</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-churning-charts-todays-1-backdrop-music-for-youtube-shorts/"><u>[Updated] In 2024, Churning Charts Today's #1 Backdrop Music for YouTube Shorts</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-educators-manual-for-integrating-videos-in-instruction/"><u>[Updated] In 2024, Educator's Manual for Integrating Videos in Instruction</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-maximizing-impact-video-marketing-on-youtube/"><u>2024 Approved Maximizing Impact Video Marketing on YouTube</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/compare-and-contrast-apples-cutting-edge-airpods-4-models-with-in-depth-analysis-from-zdnet/"><u>Compare & Contrast Apple's Cutting-Edge AirPods 4 Models with In-Depth Analysis From ZDNET</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-dictates-selecting-perfect-audio-visuals-for-2024/"><u>Dance Dictates Selecting Perfect Audio-Visuals for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/elevate-your-shots-mastering-the-art-of-iphoneipad-photography/"><u>Elevate Your Shots: Mastering the Art of iPhone/iPad Photography</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-parental-guides-to-choosing-superior-kids-tablets-insights-ratings/"><u>Expert Parental Guides to Choosing Superior Kids’ Tablets - Insights Ratings</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-review-the-lian-li-galahad-ii-with-integrated-led-display-ideal-for-overclockers-and-gamers-using-the-i7-14900k/"><u>Expert Review: The Lian Li Galahad II with Integrated LED Display, Ideal for Overclockers and Gamers Using the I7-14900K</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-world-of-online-television-a-guide-to-internet-enabled-tvs/"><u>Exploring the World of Online Television: A Guide to Internet-Enabled TVs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fix-your-non-responsive-echo-a-guide-to-reactivating-alexa/"><u>Fix Your Non-Responsive Echo: A Guide to Reactivating Alexa</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-lg-360-camera-full-review-2023-update/"><u>In 2024, LG 360 Camera Full Review -2023 Update</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/land-the-best-tech-discounts-of-the-season-with-amazon-prime-day-offers/"><u>Land the Best Tech Discounts of the Season with Amazon Prime Day Offers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-apples-offerings-why-the-iphone-16-might-not-be-your-smartest-bet-explore/"><u>Navigating Apple's Offerings: Why the iPhone 16 Might Not Be Your Smartest Bet | Explore</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-list-of-viral-stock-images-and-stories-for-2024/"><u>The Ultimate List of Viral Stock Images & Stories for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/three-essential-steps-apple-needs-to-take-to-revitalize-the-vision-pro-insights-from-zdnet/"><u>Three Essential Steps Apple Needs to Take to Revitalize the Vision Pro - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unleash-the-magic-of-apples-universal-control-a-step-by-step-guide-to-manipulating-your-ipad-via-mac-zdnet/"><u>Unleash the Magic of Apple's Universal Control: A Step-by-Step Guide to Manipulating Your iPad via Mac | ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-the-ultimate-fan-experience-on-iphone-dive-into-appleer-free-sporting-app-as-highlighted-by-zdnet/"><u>Unlocking the Ultimate Fan Experience on iPhone - Dive Into Apple'er Free Sporting App, as Highlighted by ZDNet</u></a></li>
 </ul></div>
 

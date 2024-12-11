@@ -1,7 +1,7 @@
 ---
 title: Unlocking the Full Potential of Meta Quest 3 with Apple's Spatial Video Offerings – Step-by-Step Instructions | ZDNet
-date: 2024-11-29T20:04:20.104Z
-updated: 2024-12-05T02:12:28.969Z
+date: 2024-12-07T16:45:02.950Z
+updated: 2024-12-11T08:01:40.121Z
 tags:
   - apple
 categories:
@@ -32,35 +32,31 @@ Jason Hiner/ZDNET
 
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Go to General in your iPhone Settings
 
 Go to your iPhone's Settings and select General. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Go to Software Update in Settings
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Download and install
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Enter your passcode and follow steps to install
 
 Enter your passcode, if necessary, to authorize the installation of the new iOS on your iPhone, and follow the prompts to complete the installation.
 
 After installing the latest iOS update, your iPhone will restart.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## FAQs
 
@@ -69,7 +65,7 @@ After installing the latest iOS update, your iPhone will restart.
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### When was iOS 18 released?
@@ -79,7 +75,7 @@ Apple released the iOS 18 developer beta during WWDC 2024 in June, and the publi
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
@@ -89,6 +85,10 @@ You can always be part of the Apple Beta program to get the latest beta versions
 * Back up your device and personal information.
 * Don't download beta software, which will likely have bugs and glitches, on your everyday iPhone.
 * You should go into the experience to test new features and share feedback to improve iOS, which is why beta versions are released.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How do I install the iOS 18 beta version?
 
@@ -161,22 +161,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-secrets-to-effortless-obs-broadcasts-on-fb-for-2024/"><u>[New] Secrets to Effortless OBS Broadcasts on FB for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-unleashing-profitability-with-innovative-fb-animation-techniques/"><u>[New] Unleashing Profitability with Innovative FB Animation Techniques</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-high-performance-graphics-displayed-by-asus-proart/"><u>2024 Approved High-Performance Graphics Displayed by ASUS ProArt</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/5-star-picks-the-leading-10-exerceboard-software-choices-for-athletes/"><u>5 Star Picks: The Leading 10 Exerceboard Software Choices for Athletes</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/android-and-iphones-essential-apps-to-elevate-fb-likes-count-quickly-for-2024/"><u>Android & iPhone's Essential Apps to Elevate FB Likes Count Quickly for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/anticipated-launch-of-apple-watch-series-x-price-predictions-official-release-date-detailed-specifications-and-latest-buzz/"><u>Anticipated Launch of Apple Watch Series X: Price Predictions, Official Release Date, Detailed Specifications & Latest Buzz</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevating-file-extractions-with-win11-sefx-magic/"><u>Elevating File Extractions with Win11 SEFx Magic</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/emoji-essentials-exposed-10-startling-facts-you-might-miss/"><u>Emoji Essentials Exposed: 10 Startling Facts You Might Miss</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/enhancing-collaborative-coding-in-microsoft-teams-using-github-copilot-techniques/"><u>Enhancing Collaborative Coding in Microsoft Teams Using GitHub Copilot Techniques</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/hulu-streaming-errors-demystified-correcting-error-code-rununk13-easily-at-home/"><u>Hulu Streaming Errors Demystified: Correcting Error Code RUNUNK13 Easily at Home</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-a-guide-to-finding-hidden-youtube-treasures/"><u>In 2024, A Guide to Finding Hidden YouTube Treasures</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-all-time-highest-chart-youtubes-premier-video-list/"><u>In 2024, All-Time Highest Chart YouTube's Premier Video List</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/innovating-virtual-reality-gaming-the-2023-update/"><u>Innovating Virtual Reality Gaming - The 2023 Update</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722896410172-new-tech-purchase-master-it-quickly-with-these-first-5-tips/"><u>New Tech Purchase? Master It Quickly With These First 5 Tips!</u></a></li>
-<li><a href="https://win11.techidaily.com/resolve-non-existent-camera-issue-in-windows-device-hub/"><u>Resolve Non-Existent Camera Issue in Windows Device Hub</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-correcting-missing-msvbvm50dll-error-messages/"><u>Step-by-Step Guide: Correcting Missing msvbvm50.dll Error Messages</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/streaming-tiktok-videos-a-step-by-step-guide-to-displaying-on-your-television/"><u>Streaming TikTok Videos: A Step-by-Step Guide to Displaying on Your Television</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-interactive-tips-youtube-to-facebook-shareability-for-2024/"><u>[New] Interactive Tips YouTube to Facebook Shareability for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-full-vision-media-the-smart-mcn-selection-process/"><u>2024 Approved Full Vision Media The Smart MCN Selection Process</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exclusive-look-the-game-changing-feature-in-ipados-18-unveiled-at-wwdc-2024-that-could-sway-users-to-apples-tablet-tech-analysis-by-zdnet/"><u>Exclusive Look: The Game-Changing Feature in iPadOS 18 Unveiled at WWDC 2024 That Could Sway Users to Apple's Tablet | Tech Analysis by ZDNET</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-apple-podcasts-get-your-audio-fix-instantly/"><u>In 2024, Apple Podcasts Get Your Audio Fix Instantly</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-on-apple-iphone-xr-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account On Apple iPhone XR</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Tecno Spark 20C? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/meta-quest-series-3-prototype-lite-price-predictions-and-launch-window-comprehensive-rumor-roundup-included/"><u>Meta Quest Series 3 Prototype 'Lite' - Price Predictions & Launch Window; Comprehensive Rumor Roundup Included</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/smartphone-camera-transformation-unveiling-the-impact-of-artificial-intelligence-on-tomorrows-visual-marvels-insights-from-zdnet/"><u>Smartphone Camera Transformation: Unveiling the Impact of Artificial Intelligence on Tomorrow's Visual Marvels - Insights From ZDNet</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-realme-gt-5-pro-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Realme GT 5 Pro Phones</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-4-essential-ai-innovations-iphones-must-embrace-to-match-androids-capabilities-insights/"><u>Top 4 Essential AI Innovations iPhones Must Embrace to Match Android's Capabilities: Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-ranking-iphone-choices-comprehensive-expert-evaluations-and-reviews-zdnet/"><u>Top-Ranking iPhone Choices : Comprehensive Expert Evaluations & Reviews | ZDNet</u></a></li>
 </ul></div>
 

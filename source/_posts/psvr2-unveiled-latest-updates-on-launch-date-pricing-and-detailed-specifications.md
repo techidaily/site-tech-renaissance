@@ -1,7 +1,7 @@
 ---
 title: "PSVR2 Unveiled: Latest Updates on Launch Date, Pricing & Detailed Specifications"
-date: 2024-08-30T14:49:36.463Z
-updated: 2024-08-31T14:49:36.463Z
+date: 2024-12-05T06:59:19.580Z
+updated: 2024-12-11T08:08:24.296Z
 categories:
   - BestProducts
 description: "This Article Describes PSVR2 Unveiled: Latest Updates on Launch Date, Pricing & Detailed Specifications"
@@ -19,6 +19,10 @@ Close
 
 Sony Interactive Entertainment
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## PSVR 2 Release Date 
 
  The PSVR 2 launched on February 22, 2023.
@@ -31,9 +35,6 @@ Sony Interactive Entertainment
 
  The $599.99 option is identical, but includes a PlayStation Store voucher code for_Horizon Call of the Mountain_ .
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## PSVR 2 Features 
 
  Sony calls the PlayStation VR2 a "true next-gen experience with high-fidelity visuals, new sensory features, and enhanced tracking – along with a simplified single-cord setup." Their[ PlayStation VR2: The Ultimate FAQ](https://blog.playstation.com/2023/02/06/playstation-vr2-the-ultimate-faq/) is a great source for all things PSVR 2\. Below are some of these notable features.
@@ -53,8 +54,9 @@ Sony Interactive Entertainment
 * Set up your space and view your surroundings while wearing the headset via the See-Through View feature. This is possible through the headset's function key, or Quick Settings
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## PSVR 2 Specs and Hardware 
 
  These are the official specs from Sony:
@@ -78,8 +80,9 @@ Sony Interactive Entertainment
 ![Sony PS VR2 headset and controllers](https://www.lifewire.com/thmb/YQOZPsDJRvkR6H16-bJbeNPwiEo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sony-psvr2-headset-controllers-260b6a7a01394b4eb22225694cfa4632.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Sony
 
  Instead, you're put through a calibration that make sure your eyes are situated properly. It works by showing you two circles on an animated face. Just adjust the headset's fit and IPD so your eyes (the circles) look normal on the cartoon's face.
@@ -89,9 +92,9 @@ Sony
 [  Sony VR Headset: News and Expected Price, Release Date, Specs; and More Rumors ](https://www.lifewire.com/sony-vr-headset-news-and-expected-price-release-date-specs-and-more-rumors-8656495) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## PSVR 2 Controllers 
 
 [ Sony revealed the PS5 VR controller](https://blog.playstation.com/2021/03/18/next-gen-vr-on-ps5-the-new-controller/) in 2021\. The orb-like design looks ergonomic and will, according to Sony, allow developers more freedom to create unique gameplay experiences. The controllers have exciting new features like adaptive triggers, haptic feedback, and finger touch detection for smoother and more realistic gameplay.
@@ -99,8 +102,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![Hands in the PSVR 2 controllers](https://www.lifewire.com/thmb/10YFeOcuuE8u308PEiKqtTNmyyg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/psvr-controllers-216b1d9a6fd1492ebdcbfc8a1b40e847.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Sony
 
 | PlayStation VR2 Sense Controller Specs |                                                                                                                                                                                                                                              |
@@ -112,14 +116,6 @@ Sony
 | **Communication:**                     | Bluetooth 5.1                                                                                                                                                                                                                                |
 | **Battery:**                           | Built-in Lithium-ion rechargeable battery​                                                                                                                                                                                                   |
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Confirmed PSVR 2 Games 
 
 [ Over 40 titles launched the same day as the PSVR 2 release](https://blog.playstation.com/2023/02/21/10-new-ps-vr2-titles-revealed-launch-window-lineup-now-over-40-games/) , with others arriving shortly after or at some time in the future. There are currently[ over 100 games in development](https://www.lifewire.com/psvr-2-games-list-7509088) .
@@ -186,8 +182,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -195,4 +189,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-insights-streamlining-filters-integration-in-media-production/"><u>[New] Expert Insights Streamlining Filters Integration in Media Production</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-mirrorless-4k-cameras-top-10-list-unveiled/"><u>[Updated] In 2024, Mirrorless 4K Cameras Top 10 List Unveiled</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-ultimate-guide-to-zero-price-virtual-gatherings-for-2024/"><u>[Updated] The Ultimate Guide to Zero-Price Virtual Gatherings for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/7-effective-solutions-to-stop-screen-flicker-on-your-mobile-device/"><u>7 Effective Solutions to Stop Screen Flicker on Your Mobile Device</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-windows-11-error-code-0x800f0922/"><u>Eliminating Windows 11 Error Code 0X800f0922</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-connect-a-laptop-to-a-tv-via-hdmi/"><u>How to Connect a Laptop to a TV via HDMI</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-your-htc-u23-lock-screen-password-by-drfone-android/"><u>How to Reset your HTC U23 Lock Screen Password</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-leading-edge-tech-for-high-quality-video-discs-via-macos/"><u>In 2024, Leading Edge Tech for High-Quality Video Discs via MacOS</u></a></li>
+<li><a href="https://article-helps.techidaily.com/iphones-high-dynamic-range-photography-demystified/"><u>IPhone's High-Dynamic Range Photography Demystified</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-the-netflix-library-a-guide-to-popular-teen-flicks/"><u>Navigating the Netflix Library: A Guide to Popular Teen Flicks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-the-mystery-of-stop-code-0x0000003d-a-comprehensive-guide/"><u>Resolving the Mystery of Stop Code 0X0000003D: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-to-fix-the-stop-code-0x00000078-phase0exception-issue-in-windows/"><u>Step-by-Step Tutorial to Fix the STOP Code 0X00000078 (PHASE0_EXCEPTION) Issue in Windows</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-rise-of-horizontal-pc-cases-as-the-ultimate-choice-in-motherboard-enclosures-insights-revealed/"><u>The Rise of Horizontal PC Cases as the Ultimate Choice in Motherboard Enclosures – Insights Revealed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-wayback-machine-user-manual-tips-for-effective-archival-web-browsing/"><u>The Wayback Machine User Manual: Tips for Effective Archival Web Browsing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-indicators-of-read-receipts-for-text-messaging-communication/"><u>Understanding Indicators of Read Receipts for Text Messaging Communication</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-smartwatches-features-functions-and-capabilities/"><u>Understanding Smartwatches: Features, Functions & Capabilities</u></a></li>
+</ul></div>
 

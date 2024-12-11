@@ -1,7 +1,7 @@
 ---
 title: "Top 4 Essential AI Innovations iPhones Must Embrace to Match Android's Capabilities: Insights"
-date: 2024-12-04T10:01:13.346Z
-updated: 2024-12-05T09:08:03.954Z
+date: 2024-12-07T04:35:00.553Z
+updated: 2024-12-11T08:06:24.147Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Generative AI for a context-aware Siri
@@ -55,7 +55,7 @@ If Apple can give Siri generative AI, iPhone users could ask the voice assistant
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
@@ -69,7 +69,7 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Personalized text generation
@@ -81,7 +81,7 @@ ChatGPT became popular for its ability to generate text and have conversations t
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
@@ -126,17 +126,20 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-from-capture-to-share-proven-methods-for-live-360-video-on-youtube/"><u>[New] 2024 Approved From Capture to Share Proven Methods for Live 360° Video on Youtube</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-step-by-step-process-to-get-a-clean-canvas-in-figma/"><u>[New] 2024 Approved Step-by-Step Process to Get a Clean Canvas in Figma</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-dive-into-video-production-mastering-green-screens-on-yt/"><u>[Updated] Dive Into Video Production Mastering Green Screens on YT</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-twisting-tales-in-photography-the-ultimate-guide-to-angled-spins-on-digital-platforms/"><u>[Updated] In 2024, Twisting Tales in Photography The Ultimate Guide to Angled Spins on Digital Platforms</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/complete-psvr-2-release-schedule-all-announced-titles/"><u>Complete PSVR 2 Release Schedule: All Announced Titles</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-tips-preparing-yourself-before-purchasing-stereo-audio-equipment/"><u>Essential Tips: Preparing Yourself Before Purchasing Stereo Audio Equipment</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/inside-look-at-meta-quest-3-lite-forthcoming-release-dates-and-leaked-hardware-specifications/"><u>Inside Look at Meta Quest 3 Lite - Forthcoming Release Dates and Leaked Hardware Specifications</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/most-efficient-cable-modemrouter-combinations-available/"><u>Most Efficient Cable Modem/Router Combinations Available</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-s-hottest-vlog-editor-apps-for-ios-and-android-devices-for-2024/"><u>New S Hottest Vlog Editor Apps for iOS and Android Devices for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/streaming-wars-the-digital-platform-showdown-for-2024/"><u>Streaming Wars The Digital Platform Showdown for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-pick-6-top-rated-journaling-apps-to-transform-your-thought-processes/"><u>The Ultimate Pick: 6 Top-Rated Journaling Apps to Transform Your Thought Processes</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/top-10-best-flvto-alternatives-youtube-converter-you-can-try/"><u>Top 10 Best Flvto Alternatives YouTube Converter You Can Try</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-discover-the-most-effective-5-screen-capturing-tools-for-chromebook/"><u>[New] In 2024, Discover the Most Effective 5 Screen Capturing Tools for Chromebook</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-pricing-outline-the-cost-to-film-melodies-visually/"><u>[Updated] 2024 Approved Pricing Outline The Cost to Film Melodies Visually</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-bite-sized-content-explanation-the-lowdown/"><u>[Updated] Bite-Sized Content Explanation The Lowdown</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-premium-choice-top-12-apps-with-no-time-limit-feature/"><u>[Updated] In 2024, Premium Choice Top 12 Apps with No Time Limit Feature</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/aomei-backupper-windows/"><u>AOMEI Backupper: Windows向けデータの安全な復元とバックアップ方法</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-store-insider-shares-unbelievable-appeal-of-vision-pro-zdnet/"><u>Apple Store Insider Shares Unbelievable Appeal of Vision Pro - ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/battlenet-connectivity-woes-whats-really-going-on/"><u>Battle.net Connectivity Woes – What's Really Going On?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-r9-errors-the-final-step-for-win11/"><u>Fixing R9 Errors: The Final Step for Win11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ipad-pro-showdown-comparing-latest-models-to-decide-which-flagship-fits-you-best-techradar-guide/"><u>IPad Pro Showdown: Comparing Latest Models to Decide Which Flagship Fits You Best | TechRadar Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/legally-recording-phone-calls-using-iphone-a-comprehensive-guide-by-zdnet/"><u>Legally Recording Phone Calls Using iPhone – A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-windows-10-features-for-seamless-video-editing-for-2024/"><u>Navigating Windows 10 Features for Seamless Video Editing for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/next-gen-faceoff-comparing-apples-latest-marvel-series-10-to-its-predecessor-series-8/"><u>Next-Gen Faceoff: Comparing Apple's Latest Marvel, Series 10 to Its Predecessor Series 8</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/safe-and-quick-steps-transferring-your-recovery-partition-to-an-sd-card/"><u>Safe & Quick Steps: Transferring Your Recovery Partition to an SD Card</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-your-stuck-instagram-story-troubleshooting-tips/"><u>Solving Your Stuck Instagram Story: Troubleshooting Tips</u></a></li>
 </ul></div>
 

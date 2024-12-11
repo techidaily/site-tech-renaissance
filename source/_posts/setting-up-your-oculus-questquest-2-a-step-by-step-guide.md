@@ -1,7 +1,7 @@
 ---
 title: "Setting Up Your Oculus Quest/Quest 2: A Step-by-Step Guide"
-date: 2024-12-02T04:55:58.444Z
-updated: 2024-12-05T03:33:42.890Z
+date: 2024-12-10T00:29:10.679Z
+updated: 2024-12-10T17:26:01.275Z
 categories:
   - BestProducts
 description: "This Article Describes Setting Up Your Oculus Quest/Quest 2: A Step-by-Step Guide"
@@ -16,10 +16,6 @@ thumbnail: https://thmb.techidaily.com/7055739b2ba9c96c4320b4adbabab9131b89b7fc1
 
 ## Personalize Your Emails with Unique Sounds in Gmail – Step-by-Step Guide
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What to Know
 
 * With Notifier for Gmail installed, select**Extensions** next to the Chrome navigation bar.
@@ -29,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/7055739b2ba9c96c4320b4adbabab9131b89b7fc1
  This article explains how to enable Gmail sound notifications using the Notifier for Gmail extension for Chrome. It includes information for enabling a pop-up notification for Gmail and sound notifications for other email providers.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Enable a New Mail Sound for Gmail
@@ -44,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/7055739b2ba9c96c4320b4adbabab9131b89b7fc1
 ![Options menu item for Notifier for Gmail.](https://www.lifewire.com/thmb/ItTlmQe_8CNY3vW37Q6ac7spTJ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-add-a-new-mail-sound-for-gmail-5b50d46b9a594db3bd73946ea64549aa.jpg)
 2. Scroll down to the Notifications section and make sure **Play alert sound for new emails** is selected.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Play alert sound for new emails.](https://www.lifewire.com/thmb/EaGNTDoH2lcLO8QxHT0Z1KVeUPk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-add-a-new-mail-sound-for-gmail-1e074c5a399d403aab64b2ec37afbbf8.jpg)
 3. Change the sound using the drop-down menu.  
 
@@ -51,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/7055739b2ba9c96c4320b4adbabab9131b89b7fc1
 4. Exit the window when you're done. The changes are saved automatically.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also[change your notification sounds on Android](https://www.lifewire.com/how-to-change-create-android-notification-sounds-4783114) or[change the new mail sound on iOS](https://www.lifewire.com/how-to-change-the-new-mail-sound-in-ios-mail-1172501) to achieve a similar effect in those mobile apps.
@@ -59,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/7055739b2ba9c96c4320b4adbabab9131b89b7fc1
  If you use Gmail through a downloadable email client like[Microsoft Outlook](https://www.lifewire.com/microsoft-outlook-4164620) ,[Thunderbird](https://www.lifewire.com/gmail-access-thunderbird-1173150) , or[eM Client](http://www.emclient.com/) , you make the sound change from within those programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Enable a Pop-Up Notification
@@ -67,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/7055739b2ba9c96c4320b4adbabab9131b89b7fc1
  You can set Gmail to display a pop-up notification when new email messages arrive in Chrome, Firefox, or Safari when you are signed in to Gmail and have it open in the browser. Just turn on that setting in Gmail by selecting the **Settings**  icon then choosing **See all settings** and going to **General** \> **Desktop Notifications** . The notification is not accompanied by a sound.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Change Gmail Notification Sounds in Other Email Clients
@@ -116,24 +116,19 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-drone-visuals-perfection-editing-essentials-unveiled-for-2024/"><u>[New] Drone Visuals Perfection Editing Essentials Unveiled for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-prime-4k-capture-devices-the-1-18-lineup/"><u>[New] In 2024, Prime 4K Capture Devices The #1-#18 Lineup</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/nveiling-the-secret-behind-successful-youtube-thumbnails/"><u>[New] Unveiling The Secret Behind Successful YouTube Thumbnails</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-essential-thumbnail-strategies-for-amplifying-viewership-on-youtube/"><u>[Updated] 2024 Approved Essential Thumbnail Strategies for Amplifying Viewership on YouTube</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/a-step-by-step-guide-to-solve-a-504-gateway-timeout-problem/"><u>A Step-by-Step Guide to Solve a 504 Gateway Timeout Problem</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/diagnose-and-repair-error-0xc0000185-a-step-by-step-walkthrough/"><u>Diagnose and Repair 'Error 0Xc0000185' - A Step-by-Step Walkthrough</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-what-sets-the-most-recent-generation-of-ipad-apart-from-its-predecessors/"><u>Discover What Sets the Most Recent Generation of iPad Apart From Its Predecessors</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fixing-the-faulty-subtitle-system-of-amazons-video-on-demand-service/"><u>Fixing the Faulty Subtitle System of Amazon's Video-on-Demand Service</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-ping-a-website/"><u>How to Ping a Website</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-21-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on 21</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-chill-out-playlists-for-non-profit-video-arrangements/"><u>New In 2024, Chill-Out Playlists for Non-Profit Video Arrangements</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-nubia-z50s-pro-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Nubia Z50S Pro Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tips-for-fixing-trackpad-malfunctions-on-the-magic-mouse/"><u>Step-by-Step Tips for Fixing Trackpad Malfunctions on the Magic Mouse</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/t-mobile-metro-unlimited-plan-how-to-benefit-from-nationwide-roaming-perks/"><u>T-Mobile Metro Unlimited Plan: How to Benefit From Nationwide Roaming Perks</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-truth-about-iphone-13-and-its-ability-to-withstand-water/"><u>The Truth About iPhone 13 and Its Ability to Withstand Water</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-5-solar-charger-reviews-and-buying-guide-techradar/"><u>Top 5 Solar Charger Reviews & Buying Guide - TechRadar</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unete-a-la-fiesta-de-las-rebajas-encuentra-los-mejores-precios-con-cupones-de-movavi/"><u>Únete a La Fiesta De Las Rebajas - Encuentra Los Mejores Precios Con Cupones De Movavi</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/upcoming-google-unveiling-latest-insights-and-expected-revelations/"><u>Upcoming Google Unveiling: Latest Insights & Expected Revelations</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-harmonizing-words-into-sounds-top-choices-in-online-text-to-speech-services/"><u>Updated 2024 Approved Harmonizing Words Into Sounds Top Choices in Online Text-to-Speech Services</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-best-choices-8-edits-suites-for-linux-users/"><u>[New] In 2024, Best Choices 8 Edits Suites for Linux Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1-how-to-handle-liquid-found-in-iphone-charging-port-choices-explained-insights-from-zdnet/"><u>1. 'How to Handle Liquid Found in iPhone Charging Port: Choices Explained - Insights From ZDNet'</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/critical-error-at-recent-ipad-release-strategies-for-apple-to-correct-the-course-articles-from-zdnet/"><u>Critical Error at Recent iPad Release: Strategies for Apple to Correct the Course | Articles From ZDNet</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/decoding-your-own-tiktok-trend-identifier-key-for-2024/"><u>Decoding Your Own TikTok Trend Identifier Key for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-solutions-for-the-dciman32dll-absence-issue-in-your-pc/"><u>Effective Solutions for the dciman32.dll Absence Issue in Your PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/experience-the-ios-181-preview-release-leveraging-apples-new-ai-capabilities-get-started-today/"><u>Experience the IOS 18.1 Preview Release: Leveraging Apple's New AI Capabilities | Get Started Today</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fiscal-football-footage-how-to-capture-and-edit-for-dirt-cheap-for-2024/"><u>Fiscal Football Footage How To Capture and Edit for Dirt-Cheap for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oppo-find-n3-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Oppo Find N3 Devices | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/inside-look-mac-mini-vs-mac-studio-unveiling-the-performance-edge-of-m2-over-m1-expert-analysis-by-zdnet/"><u>Inside Look: Mac Mini vs Mac Studio – Unveiling the Performance Edge of M2 over M1 | Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-through-western-digitals-data-lifeguard-diagnostics-expert-reviews-and-user-experiences/"><u>Navigating Through Western Digital's Data LifeGuard Diagnostics: Expert Reviews & User Experiences</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/score-a-free-macbook-air-m3-at-best-buy-using-this-insider-trick-discover-the-secret-now/"><u>Score a FREE MacBook Air M3 at Best Buy Using This Insider Trick - Discover the Secret Now!</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-filmmaking-on-a-shoestring-10-essential-low-budget-tools/"><u>Updated In 2024, Filmmaking on a Shoestring 10 Essential Low-Budget Tools</u></a></li>
+<li><a href="https://change-location.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/winxp-haldll-not-found-heres-your-step-by-step-fix/"><u>WinXP Hal.dll Not Found? Here's Your Step-by-Step Fix</u></a></li>
 </ul></div>
 

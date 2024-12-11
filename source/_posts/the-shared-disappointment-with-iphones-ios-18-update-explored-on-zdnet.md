@@ -1,7 +1,7 @@
 ---
 title: The Shared Disappointment with iPhone's iOS 18 Update Explored on ZDNet
-date: 2024-12-01T07:54:03.349Z
-updated: 2024-12-05T05:57:38.212Z
+date: 2024-12-10T02:20:41.459Z
+updated: 2024-12-11T09:54:17.950Z
 tags:
   - apple
 categories:
@@ -43,7 +43,7 @@ As someone who is not nearly an influencer but loves to use their imagination, I
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Video scroll bar and playback options
@@ -63,7 +63,7 @@ When you do find the perfect take, the editing menu now allows an option to slow
 When viewing videos, the scroll bar automatically pops up. To access the playback options, select edit and then the clock icon at the top right corner. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Customizable layout with 'Recent Days'
@@ -83,7 +83,7 @@ For example, during the Apple launch, my phone was essentially exploding with co
 With customization, you can keep this collection at the top of your feed, or any other categories that would help you stay the most organized. Now I can pull content from a certain day without having to scroll all the way back, and hopefully it does the same for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Filter button
@@ -101,7 +101,7 @@ To narrow content more, you can also filter to favorites, previously edited cont
 And just with one slide up, it resets the filters. If you add the ability to organize your photos app to your liking, your photos app becomes so much more efficient.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Honorable mentions
@@ -112,7 +112,7 @@ And just with one slide up, it resets the filters. If you add the ability to org
 * A 'recovered' album in Utilities recovers corrupted images that were previously not visible.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which iPhones are compatible with iOS 18?
@@ -175,24 +175,18 @@ And just with one slide up, it resets the filters. If you add the ability to org
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-laughter-unleashed-a-stepwise-strategy-for-making-impactful-gifs-for-2024/"><u>[New] Laughter Unleashed A Stepwise Strategy for Making Impactful GIFs for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-quick-fire-photos-with-iphone-burst-feature-for-2024/"><u>[New] Quick-Fire Photos with iPhone Burst Feature for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-immediate-flagging-of-insta-de-following-events-for-2024/"><u>[Updated] Immediate Flagging of Insta De-Following Events for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-effortlessly-share-window-movie-creations-with-vimeo/"><u>[Updated] In 2024, Effortlessly Share Window Movie Creations with Vimeo</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-navigating-facebooks-copyright-enforcement-on-live-feeds/"><u>2024 Approved Navigating Facebook's Copyright Enforcement on Live Feeds</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-insight-on-the-primary-issue-plaguing-vr-its-all-about-utilization-zdnet/"><u>Expert Insight on the Primary Issue Plaguing VR: It’s All About Utilization | ZDNet</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-motorola-edgeplus-2023-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Motorola Edge+ (2023) Without Password | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-unmatched-portable-experience-with-top-gba-simulators-android/"><u>In 2024, Unmatched Portable Experience with Top GBA Simulators, Android</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/photo-cropping-apps-how-to-crop-photos-on-iphone-for-2024/"><u>Photo Cropping Apps How to Crop Photos on iPhone for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/smart-homes-at-your-fingertips-with-ai-assistance/"><u>Smart Homes at Your Fingertips with AI Assistance</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-dog-products-and-services-of-2n2-fun-toys-and-essential-care-ideas-zdnet/"><u>Top Dog Products and Services of 2N2: Fun Toys & Essential Care Ideas - ZDNET</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-lawn-mowers-expert-picks-and-reviews/"><u>Top Rated Lawn Mowers - Expert Picks & Reviews</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-outdoor-products-on-sale-exclusive-offers-from-the-latest-amazon-prime-day-events/"><u>Top-Rated Outdoor Products on Sale: Exclusive Offers From the Latest Amazon Prime Day Events</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-portable-chargers-comprehensive-testing-and-reviews-by-tech-gurus-zdnet/"><u>Top-Rated Portable Chargers : Comprehensive Testing & Reviews by Tech Gurus | ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-snow-throwers-of-2024-expert-reviews-and-buyers-guide-zdnet/"><u>Top-Rated Snow Throwers of 2024: Expert Reviews & Buyer's Guide - ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-pick-for-mobile-power-starter-kits-2024-reviews-and-comparisons-wiredmag/"><u>Ultimate Pick for Mobile Power Starter Kits - 2024 Reviews and Comparisons | WiredMag</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unmissable-memoerial-day-blowout-find-the-hottest-offers-for-gardens-and-lawns-exclusive-deals-inside/"><u>Unmissable Memoerial Day Blowout: Find the Hottest Offers for Gardens and Lawns - Exclusive Deals Inside!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/upgrade-your-night-sky-with-the-new-brightest-govee-permanent-outdoor-lights-install-now/"><u>Upgrade Your Night Sky with the New Brightest Govee Permanent Outdoor Lights - Install Now!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1725285582876-dvd/"><u>オススメ: 市販・レンタルDVD全種類に対応した最新のコピーガード解除ソフト一挙比較</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-detailed-review-navigating-through-polarrs-features-easily/"><u>[Updated] 2024 Approved Detailed Review Navigating Through Polarr's Features Easily</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-the-best-ai-naming-software-for-podcasters/"><u>[Updated] Explore the Best AI Naming Software for Podcasters</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1-apple-unveils-initial-visionos-upgrade-revamps-user-profiles-discover-more-changes/"><u>1. Apple Unveils Initial VisionOS Upgrade, Revamps User Profiles – Discover More Changes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/all-you-need-to-know-about-the-next-big-thing-samsung-galaxy-s25-ultras-price-points-release-schedule-and-teased-features/"><u>All You Need to Know About the Next Big Thing - Samsung Galaxy S25 Ultra's Price Points, Release Schedule & Teased Features</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/enhanced-marketing-automation-with-the-latest-cookiebot-technology/"><u>Enhanced Marketing Automation with the Latest Cookiebot Technology</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/get-ahead-of-apple-with-meta-quest-3s-early-ai-implementation-activation-tips-revealed-on-zdnet/"><u>Get Ahead of Apple with Meta Quest 3’S Early AI Implementation - Activation Tips Revealed on ZDNET</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/hard250gb500gbssd/"><u>Hardディスク250GBへのクランプ：廉価な無料ソフトで500GBSSDから移行する</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/huge-savings-alert-700-discount-on-the-amazing-new-ipad-pro-this-labor-day-find-out-how-in-our-latest-review/"><u>Huge Savings Alert: $700 Discount on the Amazing New iPad Pro This Labor Day - Find Out How in Our Latest Review!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-techniques-for-softening-volume-in-logic-pro-mixing/"><u>In 2024, Techniques for Softening Volume in Logic Pro Mixing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-apple-vision-pro-ultimate-guide-for-flawless-screenshots-and-screen-captures/"><u>Mastering Apple Vision Pro: Ultimate Guide for Flawless Screenshots & Screen Captures</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolved-battery-management-bug-in-microsofts-acpi-standard-compliance-driver/"><u>Resolved: Battery Management Bug in Microsoft's ACPI Standard Compliance Driver</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-to-stop-non-data-transfer-from-usb-ports-on-pc/"><u>Solutions to Stop Non-Data Transfer From USB Ports on PC</u></a></li>
+<li><a href="https://extra-information.techidaily.com/zipped-scripts-into-speaking-texts-srt-file-conversion/"><u>Zipped Scripts Into Speaking Texts .Srt File Conversion</u></a></li>
 </ul></div>
 

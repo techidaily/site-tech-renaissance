@@ -1,7 +1,7 @@
 ---
 title: A Step-by-Step Guide to Contrasting Libraries in Windows 10 & Windows 11 Versions
-date: 2024-08-30T14:38:51.135Z
-updated: 2024-08-31T14:38:51.135Z
+date: 2024-12-05T17:39:01.101Z
+updated: 2024-12-10T17:11:57.367Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## A Step-by-Step Guide to Contrasting Libraries in Windows 10 & Windows 11 Versions
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -26,8 +30,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Do you want to compare the number of files or folders or simply visualize the difference between two folders? If so, you have two graphical and one command line method to do that. We’ll show you how to perform the folder comparison task on your Windows 11 or Windows 10 PC.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Compare Folders From Properties
 
  To compare the number of files, subfolders, the size, and the creation date of two folders, use the Properties option in Windows File Explorer. This lets you quickly glance at the main attributes of a folder.
@@ -36,15 +41,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Properties' highlighted for a folder in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-folder-properties.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Keep the first folder’s "Properties" window open. Then, find the second folder, right-click it, and select "Properties."
 
  You now have the "Properties" window open for both your folders. Bring these windows side-by-side by [dragging them](https://extra-resources.techidaily.com/mastering-complex-video-effects-and-transitions-in-gopro-studio/), and you can see the differences in the contents of these folders. For example, you can see how many files both folders have, what size these folders are, and so on.
 
 !['Properties' windows for two folders in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-compare-folder-properties.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  That gives you a general overview of the differences between your folders.
 
 ##  Compare Folders Using Command Prompt
@@ -55,6 +61,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Command Prompt highlighted in Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-launch-command-prompt.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In Command Prompt, type the following command. Replace "Folder1" with the path to your first folder and "Folder2" with the path to your second folder. Ensure both folder paths are enclosed in double quotes.
 
  To copy a folder’s full path along with double quotes around the path, hold down the Shift key on your keyboard, right-click your folder, and choose "Copy as Path."
@@ -63,9 +73,6 @@ robocopy "Folder1" "Folder2" /L /NJH /NJS /NP /NS
 
 ![The 'robocopy' command typed in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-compare-folders-command-prompt.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You’ll see the differences between your folders.
 
  If you’re curious as to what the robocopy command does, here’s an explanation of each flag we used with the command:
@@ -76,10 +83,6 @@ robocopy "Folder1" "Folder2" /L /NJH /NJS /NP /NS
 * **NP**: This flag excludes folder timestamps.
 * **NS**: This flag excludes file security information.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ##  Compare Folders With WinMerge
 
  If you want more details about the differences in your folders, Windows doesn't have a built-in tool to help you with that. However, you can use a free third-party app called WinMerge to compare multiple folders.
@@ -90,19 +93,17 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![File > Open highlighted in WinMerge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-open-folder-winmerge.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
  For the "1st File or Folder" field, select "Browse" and choose the first folder to compare.
 
 !['Browse' highlighted for the '1st File or Folder' field in WinMerge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-add-first-folder-winmerge.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  For the "2nd File or Folder" field, click the "Browse" button and choose the second folder to compare.
 
 !['Browse' highlighted for the '2nd File or Folder' field in WinMerge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-add-second-folder-winmerge.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In both fields, enable the "Read-Only" option. Click the "Folder: Filter" field and type **\*.\*** if it isn’t already there. This ensures the app compares all the files in both the specified folders. Then, at the bottom, click "Compare."
 
@@ -120,8 +121,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -129,4 +128,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-restoring-your-online-presence-post-strike/"><u>[New] In 2024, Restoring Your Online Presence Post-Strike</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-stepwise-route-to-discovering-elusive-youtube-footage/"><u>[New] The Stepwise Route to Discovering Elusive YouTube Footage</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-2023-how-to-share-twitter-videos-on-facebook/"><u>[Updated] 2024 Approved 2023 | How to Share Twitter Videos on Facebook?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-unleash-your-twitter-potential-premium-video-upload-tools-for-2024/"><u>[Updated] Unleash Your Twitter Potential Premium Video Upload Tools for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-from-purchase-to-use-installing-vrecord/"><u>2024 Approved From Purchase to Use Installing VRecord</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/a-comprehensive-step-by-step-tutorial-for-downloading-and-installing-aoc-monitor-drivers-on-various-windows-versions/"><u>A Comprehensive Step-by-Step Tutorial for Downloading and Installing AOC Monitor Drivers on Various Windows Versions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/beyond-siri-how-apples-shift-towards-an-ai-centric-approach-mirrors-microsofts-use-of-bing/"><u>Beyond Siri: How Apple's Shift Towards an AI-Centric Approach Mirrors Microsoft's Use of Bing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/future-of-tablets-unveiled-anticipate-two-advanced-oled-ipads-and-a-refreshed-129-air-by-apple-in-early-2024-as-revealed/"><u>Future of Tablets Unveiled: Anticipate Two Advanced OLED iPads & A Refreshed 12.9 Air by Apple in Early 2024, as Revealed</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-realme-11x-5g-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Realme 11X 5G?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-online-video-orientation-changer-best-options/"><u>New Free Online Video Orientation Changer Best Options</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionizing-mobile-cinematography-apple-integrates-final-cut-pro-into-iphones-for-stunningly-professional-results/"><u>Revolutionizing Mobile Cinematography: Apple Integrates Final Cut Pro Into iPhones for Stunningly Professional Results</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/risks-alerted-authentic-apple-watch-chargers-vital-avoid-fakes-and-certification-doubts/"><u>Risks Alerted: Authentic Apple Watch Chargers Vital - Avoid Fakes and Certification Doubts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tech-update-apples-projected-launch-of-budget-friendly-ar-glasses-and-vision-devices-as-revealed-by-zdnet/"><u>Tech Update: Apple's Projected Launch of Budget-Friendly AR Glasses and Vision Devices as Revealed by ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-throwback-gadget-upgrade-an-iphone-case-that-makes-you-feel-like-the-blackberry-heyday-again/"><u>The Ultimate Throwback Gadget Upgrade: An iPhone Case That Makes You Feel Like the BlackBerry Heyday Again!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-ranked-macos-software-a-comprehensive-guide-by-zdnet/"><u>Top-Ranked macOS Software : A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-ranking-2024-stylus-tablets-comprehensive-reviews-by-tech-specialists-zdnet/"><u>Top-Ranking 2024 Stylus Tablets: Comprehensive Reviews by Tech Specialists | ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-the-secrets-of-affordable-tunes-a-step-by-step-guide-to-snagging-your-apple-music-student-rate/"><u>Unlocking the Secrets of Affordable Tunes: A Step-by-Step Guide to Snagging Your Apple Music Student Rate</u></a></li>
+</ul></div>
 

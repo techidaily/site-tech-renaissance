@@ -1,7 +1,7 @@
 ---
 title: Apple Slashes the Price of Their Latest M2 Mac Mini to an All-Time Low at Only $479 - Insights From ZDNet
-date: 2024-12-02T03:06:56.553Z
-updated: 2024-12-05T00:45:00.631Z
+date: 2024-12-10T03:00:57.082Z
+updated: 2024-12-10T20:11:40.069Z
 tags:
   - apple
 categories:
@@ -47,7 +47,7 @@ So what could Apple tell me now that would make me instantly conclude I need an 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## It's the camera, stupid
@@ -67,7 +67,7 @@ Next Apple offers: "Get more room to zoom with a 2x Telephoto. It's like having 
 On which subject, we move to Apple's next tease: "If your subject is a person, dog, or cat, iPhone 15 lets you quickly capture the shot and turn it into a portrait later." This makes it sound like it's a feature only for people, dogs, and cats. Which, again, is nice but is it worth the upgrade?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## And it's the movies
@@ -89,7 +89,7 @@ Apple explains: "Longer battery life lets you watch up to 3 more hours of video 
 That's the thing when people buy phones. They prefer actual results. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can I buy into the dynamism?
@@ -150,22 +150,16 @@ Perhaps that one will have something about it that I just can't resist. I can wa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-perfect-every-post-automated-mac-methods-for-instagram-video-sizing/"><u>[New] In 2024, Perfect Every Post Automated Mac Methods for Instagram Video Sizing</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-elevate-your-views-degrees-of-rotation-on-youtube-a-2023-guide/"><u>2024 Approved Elevate Your Views Degrees of Rotation on YouTube - A 2023 Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/compatibility-check-using-airpods-on-the-nintendo-switch-console/"><u>Compatibility Check: Using AirPods on the Nintendo Switch Console</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-vivo-y200e-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Vivo Y200e 5G Quickly | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/historic-tech-find-first-desktop-pcs-uncovered-in-abandoned-boxes-featuring-early-intel-architecture-and-modest-processing-speeds/"><u>Historic Tech Find: First Desktop PCs Uncovered in Abandoned Boxes Featuring Early Intel Architecture and Modest Processing Speeds</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-honor-x50iplus-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Honor X50i+ to iPod | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Oppo Find N3 | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/is-collaborative-music-streaming-achievable-with-the-spotify-app/"><u>Is Collaborative Music Streaming Achievable with the Spotify App?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mordhau-stability-fixes-a-comprehensive-guide-to-preventing-crashes/"><u>Mordhau Stability Fixes: A Comprehensive Guide to Preventing Crashes</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/neo-qled-versus-oled-which-screen-is-superior-for-your-home-theater/"><u>Neo QLED Versus OLED: Which Screen Is Superior for Your Home Theater?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016942453-new-release-sound-trouble-heres-how-to-rectify-it/"><u>New Release Sound Trouble? Here's How to Rectify It</u></a></li>
-<li><a href="https://extra-support.techidaily.com/step-by-step-on-azure-speech-transcription-services-for-2024/"><u>Step-by-Step on Azure Speech Transcription Services for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-insiders-info-on-what-to-expect-from-amazon-prime-day-2024/"><u>The Ultimate Insider's Info on What to Expect From Amazon Prime Day 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-verizon-phone-promotions-this-month/"><u>Top Verizon Phone Promotions This Month</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/uncomplicated-video-snip-for-win10-users-for-2024/"><u>Uncomplicated Video Snip for Win10 Users for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/visual-snippet-retriever-for-2024/"><u>Visual Snippet Retriever for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/watch-for-free-10-great-streaming-options-beyond-netflix/"><u>Watch for Free: 10 Great Streaming Options Beyond Netflix</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-pro-audio-recording-the-ultimate-audacity-course/"><u>[New] Pro Audio Recording The Ultimate Audacity Course</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-everlasting-impressions-save-instagram-stories-endlessly/"><u>2024 Approved Everlasting Impressions Save Instagram Stories Endlessly</u></a></li>
+<li><a href="https://blog-min.techidaily.com/10top-pc/"><u>今年推荐的10名TOP PC影片编辑器：功能全面、用户友好！</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-what-apple-is-brewing-for-gamers-exploring-the-latest-rumors-and-insights-on-its-new-game-mode/"><u>Discover What Apple Is Brewing for Gamers: Exploring the Latest Rumors and Insights on Its New Game Mode</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/invisible-culprits-affecting-windows-11s-efficiency/"><u>Invisible Culprits Affecting Windows 11'S Efficiency</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-the-fixes-for-multiversus-launch-failures-on-pc-systems/"><u>Master the Fixes for MultiVersus Launch Failures on PC Systems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/paladins-stability-boost-cutting-edge-solutions-to-eliminate-game-crashes/"><u>Paladins Stability Boost - Cutting-Edge Solutions to Eliminate Game Crashes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-secret-superpowers-of-the-iphone-how-apple-has-masterfully-concealed-remarkable-features/"><u>The Secret Superpowers of the iPhone: How Apple Has Masterfully Concealed Remarkable Features</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-pick-alert-the-ultimate-guide-to-choosing-apples-newest-innovation-the-m2-powered-ipad-air-what-you-need-to-know/"><u>Top Pick Alert: The Ultimate Guide to Choosing Apple's Newest Innovation, the M2-Powered iPad Air - What You Need to Know!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-top-rated-iphone-se-cases-of-2022-safeguard-your-device-with-style/"><u>Ultimate Guide to Top-Rated iPhone SE Cases of 2022: Safeguard Your Device with Style</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/x-media-library-manager-personal-computer/"><u>X-Media Library Manager, Personal Computer</u></a></li>
 </ul></div>
 

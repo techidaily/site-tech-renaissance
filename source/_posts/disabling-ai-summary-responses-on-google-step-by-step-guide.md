@@ -1,7 +1,7 @@
 ---
 title: "Disabling AI Summary Responses on Google: Step-by-Step Guide"
-date: 2024-08-30T14:37:58.943Z
-updated: 2024-08-31T14:37:58.943Z
+date: 2024-12-05T05:15:44.545Z
+updated: 2024-12-10T23:42:15.532Z
 tags:
   - web
 categories:
@@ -29,9 +29,6 @@ Have you been scrolling through Google settings looking for the button that turn
 
  The web filter also gets rid of snippets, images, and knowledge panels though. So if you want to keep them, give the other solutions on this list a try.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Web filter
 
  The simplest way to filter by web links is to just click “Web” on top of the search results page. If it’s not visible to you, try clicking the three-dot menu to show additional filters. As soon as you click it, the page should reload and display a list of links.
@@ -39,13 +36,14 @@ Have you been scrolling through Google settings looking for the button that turn
 ![Web filter active in a Google search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ksnip_20240810-204430.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
+
 ### 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Set Up a Custom Search Engine
 
@@ -68,17 +66,9 @@ Close
 ![Setting a default search engine within site search on Chrome.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ksnip_20240810-191317.png) 
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Now to test this new shortcut, type the shortcut you assigned in the browser URL bar. I used “@g” as my shortcut, so I just had to type those two characters and then type my search query.
 
 ![Shortcut custom search engine in Chrome.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ksnip_20240810-191632.png) 
@@ -91,9 +81,6 @@ Close
 
  Don't enter sensitive personal information into them. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Use a Content Blocker
 
  If you don’t want to get rid of the knowledge panels, [featured snippets](https://hardware-help.techidaily.com/resolving-controller-connectivity-errors-for-xbox-devices-on-older-windows-versions/), or other search features along with the AI overviews, a content blocker is your best bet. Content blockers are special browser extensions that hide or block specific content from web pages. I’m using uBlock Origin for this demonstration, but you can use any content blocker that has custom filters.
@@ -106,11 +93,19 @@ Close
 
 ![Opening the dashboard on uBlock Origin.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ksnip_20240810-192016.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Hop over to the “My filters” tab and paste the following line of code.
 
 google.com##.M8OgIe
 
 ![ksnip_20240810-192410](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ksnip_20240810-192410.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Click “Apply Changes” and you’re done. The content blocker will automatically filter out all generative AI results, leaving the snippets, knowledge panels, and other search features untouched.
 
@@ -123,8 +118,9 @@ google.com##.M8OgIe
 Close 
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Install an Extension
 
  You can find a few extensions that automatically filter out AI overviews without input or setup. Chrome Web Store and Mozilla Add-ons both have a few good options. All you have to do is install the extension for your browser, and it’ll do the work in the background. I’m going to demonstrate how with Chrome.
@@ -133,9 +129,6 @@ Close
 
 ![ksnip_20240810-193951](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ksnip_20240810-193951.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
  Click “Add to Chrome” and wait for it to show up in the Extensions tab.
 
  Remember that not all browser extensions are safe. As a rule of thumb, make sure any extension you install isn’t asking for any unnecessary permissions.
@@ -160,8 +153,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -169,4 +160,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-personal-growth-reflections-for-digital-platforms/"><u>[Updated] 2024 Approved Personal Growth Reflections for Digital Platforms</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-the-best-picture-quality-neo-qled-or-oled-televisions-compared/"><u>Choosing the Best Picture Quality: Neo QLED or OLED Televisions Compared</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-new-apple-studio-display-a-sleek-and-expensive-choice-for-mac-enthusiasts-insights/"><u>Exploring the New Apple Studio Display: A Sleek & Expensive Choice for Mac Enthusiasts | Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-does-googles-newly-released-palm-2-change-the-landscape-of-natural-language-processing/"><u>How Does Google's Newly Released PaLM 2 Change the Landscape of Natural Language Processing?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-huawei-nova-y91-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Huawei Nova Y91 to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/modern-seismic-design-codes-incorporate-factors-like-material-ductility-redundancy-and-energy-dissipating-devices-to-reduce-the-risk-of-these-failure-modes-328/"><u>Modern Seismic Design Codes Incorporate Factors Like Material Ductility, Redundancy, and Energy-Dissipating Devices to Reduce the Risk of These Failure Modes During an Earthquake.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/reviewing-the-balanced-capabilities-of-the-affordable-dell-inspiron-3671-desktop-unit/"><u>Reviewing the Balanced Capabilities of the Affordable Dell Inspiron 3671 Desktop Unit</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/securing-your-documents-learn-file-privacy-from-yl-software-experts/"><u>Securing Your Documents: Learn File Privacy From YL Software Experts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-deleting-more-than-one-friend-from-your-snapchat-list/"><u>Step-by-Step Guide: Deleting More than One Friend From Your Snapchat List</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-critical-error-that-plagued-the-recent-ipad-debut-expert-tips-on-how-apple-can-correct-it/"><u>The Critical Error that Plagued the Recent iPad Debut: Expert Tips on How Apple Can Correct It</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-vivo-s18e-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Vivo S18e</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-vpn-apps-for-ios-comprehensive-testing-and-reviews-by-experts/"><u>Top-Rated VPN Apps for iOS: Comprehensive Testing & Reviews by Experts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unbeatable-4th-of-july-mobile-plan-offers-expert-picks-by-zdnet/"><u>Unbeatable 4Th of July Mobile Plan Offers: Expert Picks by ZDNet</u></a></li>
+</ul></div>
 

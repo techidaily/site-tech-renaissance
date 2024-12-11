@@ -1,7 +1,7 @@
 ---
 title: "Education-Friendly Deals: Tapping Into Microsoft's Student Discount Program"
-date: 2024-08-30T14:49:05.099Z
-updated: 2024-08-31T14:49:05.099Z
+date: 2024-12-09T21:59:58.445Z
+updated: 2024-12-10T17:58:21.217Z
 categories:
   - BestProducts
 description: "This Article Describes Education-Friendly Deals: Tapping Into Microsoft's Student Discount Program"
@@ -23,33 +23,50 @@ thumbnail: https://thmb.techidaily.com/4dbb96e84abbbc08787367a1af5777cd4560a19b1
 3. Fill in your country, university (options will populate as you type), first and last name, date of birth, and email address. Check the box to agree to the verification process.  
 ![Signing up for the YouTube Premium Student Discount.](https://www.lifewire.com/thmb/RbANARHcGpEqx7ykFJQlw7ekb88=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YouTubePremiumStudent3-a3e301e3cb8145d0af9590f894384169.jpg)
 4. Click**NEXT** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Signing up for the YouTube Premium Student Discount.](https://www.lifewire.com/thmb/7tGfuyn3esdJ6s8C_cTF0COO_i0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YouTubePremiumStudent4-7c7525111bd04feca4169668a01cd7fa.jpg)
 5. Sometimes SheerID needs more information like a scan of your student ID, transcript, or other documentation from your university. Upload the files and click**SUBMIT** . YouTube says you'll get an email notification about your status within 20 minutes if you live in the U.S., and within 48 hours if you live elsewhere.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Signing up for the YouTube Premium Student Discount.](https://www.lifewire.com/thmb/07ZCByqXzt1wu2K99BIv8tMj010=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YouTubePremiumStudent5-2a7e2d362d164245b62e94a36e7b923b.jpg)
 6. If the verification is successful, SheerID will redirect you back to the YouTube Premium sign-up page. You might need to log into your YouTube account.
 7. Click your profile picture.
 8. Select**Paid memberships** and follow the on-screen prompts.  
 ![Signing up for the YouTube Premium Student Discount.](https://www.lifewire.com/thmb/-WpwGJr3fmxf4xJ9IARe9kgVYiM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YouTubePremiumStudent6-1b4b0214a68a4ab9849880fcedaff3b3.jpg)
 9. Click**LEARN MORE** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Signing up for the YouTube Premium Student Discount.](https://www.lifewire.com/thmb/1tWG3IuFBa1j6bGZYup9DK1N9a0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YouTubePremiumStudent7-38cbeb35f7d9480d81a44d3d8ddc4a18.jpg)
 10. Choose a payment method or add a new one. Click**START 1-MONTH TRIAL** . After the first month, YouTube will start billing you.  
 ![Signing up for the YouTube Premium Student Discount.](https://www.lifewire.com/thmb/A_h1uMjvVexpll2JqR730jpwQQ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YouTubePremiumStudent8-4fe99ffd2800473d83a5e2610d0623a0.jpg)  
  This screen is for the regular free trial. You will click 1-MONTH TRIAL.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Who Is Eligible for a YouTube Premium Student Discount?
 
  Students can sign up for a YouTube Music Premium or YouTube Premium membership at a discount. Students must be enrolled full-time at an eligible higher education institution in the U.S. and 60-plus other countries to qualify. The discounted subscriptions are valid for up to four years, and students must re-verify their eligibility each year. A company called SheerID does the verification.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Does the YouTube Premium Student Discount Include?
 
  Students get a 1-month free trial and pay about half of the monthly subscription amount. The membership includes the same benefits as a non-discounted membership. Members get access to both YouTube and YouTube Music Premium, ad-free videos and music, video and music downloads for offline viewing and listening, and the ability to play videos in the background while using other apps or when your screen is locked.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## What Happens When You Finish School?
 
  The YouTube Premium Student discount is only available if you attend an eligible school and is limited to four years total. Whichever comes first—graduation or four years in school—is when your discount expires.
@@ -76,8 +93,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -85,4 +100,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-key-players-in-top-6-4k-youtube-to-mp3-conversion-software/"><u>[Updated] In 2024, Key Players in Top 6 4K YouTube-to-MP3 Conversion Software</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-snapshot-revamp-with-samsung-image-studio-analysis/"><u>[Updated] In 2024, Snapshot Revamp with Samsung Image Studio Analysis</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-stay-on-top-of-your-streaks-must-try-techniques-for-2024/"><u>[Updated] Stay on Top of Your Streaks Must-Try Techniques for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-strategic-first-impressions-the-unpacking-edge-for-2024/"><u>[Updated] Strategic First Impressions The Unpacking Edge for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-pushing-perception-analyzing-the-dreamcolors-z32x-4k/"><u>2024 Approved Pushing Perception Analyzing the DreamColor's Z32X 4K</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/all-about-espnplus-how-does-it-revolutionize-your-sports-viewing-experience/"><u>All About ESPN+: How Does It Revolutionize Your Sports Viewing Experience?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-strategies-boosting-engagement-through-tiktok-video-duets/"><u>Expert Strategies: Boosting Engagement Through TikTok Video Duets</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-microphone-issues-solutions-for-non-functional-mic-on-windows-11/"><u>Fixing Microphone Issues: Solutions for Non-Functional Mic on Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-establish-a-new-user-account-on-the-oculus-quest-or-quest-2-platform/"><u>How to Establish a New User Account on the Oculus Quest or Quest 2 Platform</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-rethink-your-classic-movies-best-swaps-7/"><u>In 2024, Rethink Your Classic Movies - Best Swaps #7</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-androids-picture-in-picture-feature-a-comprehensive-guide/"><u>Mastering Android's Picture-in-Picture Feature: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/monthly-top-picks-greatest-verizon-contract-free-plans/"><u>Monthly Top Picks: Greatest Verizon Contract-Free Plans</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quick-solutions-how-to-resolve-magic-mouse-tracking-issues/"><u>Quick Solutions: How to Resolve Magic Mouse Tracking Issues</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-discontinuing-your-apple-music-subscription-independently-from-itunes-insights-by-zdnet/"><u>Step-by-Step Guide: Discontinuing Your Apple Music Subscription Independently From iTunes - Insights by ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/strategies-for-recognizing-counterfeit-connectivity-invites/"><u>Strategies for Recognizing Counterfeit Connectivity Invites</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-choice-of-luminous-screen-shields/"><u>Ultimate Choice of Luminous Screen Shields</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-the-secrets-of-viewing-instagram-stories-and-posts-as-a-guest-user/"><u>Unlock the Secrets of Viewing Instagram Stories & Posts as a Guest User</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-most-attractive-verizon-mobile-upgrades-of-the-season/"><u>Unveiling the Most Attractive Verizon Mobile Upgrades of The Season</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-best-solarmovie-alternatives-watch-movies-free-online/"><u>Updated Best SolarMovie Alternatives-Watch Movies Free Online</u></a></li>
+</ul></div>
 

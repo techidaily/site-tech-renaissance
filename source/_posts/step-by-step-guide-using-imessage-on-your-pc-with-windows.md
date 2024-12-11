@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Using iMessage on Your PC with Windows"
-date: 2024-12-01T01:20:21.527Z
-updated: 2024-12-05T05:26:59.496Z
+date: 2024-12-04T19:13:52.912Z
+updated: 2024-12-11T03:36:40.928Z
 tags:
   - apple
 categories:
@@ -42,11 +42,11 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to send and receive iMessages on Windows
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Use Microsoft Phone Link
 
@@ -66,10 +66,6 @@ Click the Start button, go to All Apps, and select Phone Link from the list. The
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Scan the QR codes
 
 A QR code should appear in the Phone Link app. Launch the camera on your iPhone and scan the code. On your iPhone, tap the link at the bottom of the camera screen to pair your devices. If you can't scan the code for any reason, click the link to continue manually without a QR code and follow those steps.
@@ -85,10 +81,6 @@ Screenshot by Lance Whitney/ZDNET
 Your phone should ask if you want your PC to receive notifications from your iPhone. Tap Allow to OK this. Go to the Bluetooth settings screen on your phone, tap the Info icon for your computer, and turn on the switches for Show Notifications, Sync Contacts, and Share System Notifications. Doing so will let you fully access and use the apps and data from your phone on your PC, including messages.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Run Phone Link
 
@@ -108,10 +100,14 @@ You can also start a new conversation. To do this, select one of your displayed 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Use Intel Unison
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Install Intel Unison
@@ -134,11 +130,19 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Launch the Windows Unison app
 
 At the "Let's get started" screen in the Windows Unison app, click the icon for "Send messages." 
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  4\. Go to the Messages screen
 
@@ -151,10 +155,6 @@ Screenshot by Lance Whitney/ZDNET
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -192,22 +192,16 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-green-canvas-essential-templates-to-enhance-your-cinematographic-journey/"><u>[New] In 2024, Green Canvas Essential Templates to Enhance Your Cinematographic Journey</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-enhanced-google-chats-essential-techniques-4-ways/"><u>[Updated] 2024 Approved Enhanced Google Chats Essential Techniques, 4 Ways</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-clearer-captures-await-with-next-gen-tracker-tech/"><u>[Updated] Clearer Captures Await with Next-Gen Tracker Tech</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-auto-enhancing-shots-with-innovative-exposure-algorithms/"><u>[Updated] In 2024, Auto-Enhancing Shots with Innovative Exposure Algorithms</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-innovative-audio-dramatic-writing/"><u>[Updated] In 2024, Innovative Audio Dramatic Writing</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/best-mp3-to-mpg-video-converters-available-at-no-cost-easy-step-by-step-guide/"><u>Best MP3-to-MPG Video Converters Available at No Cost – Easy Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/celebrate-may-4-with-acemagics-latest-release-the-mini-x-wing-inspired-gaming-machine/"><u>Celebrate May 4 with AceMagic's Latest Release: The Mini X-Wing Inspired Gaming Machine</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/chatgpt-plus-is-it-a-smart-move-explore-5-key-advantages/"><u>ChatGPT Plus: Is It a Smart Move? Explore 5 Key Advantages</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fire-stick-and-projector-connection-simple-steps-for-the-perfect-viewing-experience/"><u>Fire Stick and Projector Connection - Simple Steps For the Perfect Viewing Experience</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/o-harness-youtubes-creative-commons-in-video-making/"><u>How to Harness YouTube's Creative Commons in Video Making</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/improving-quality-the-definitive-guide-to-tweaking-display-settings-on-a-samsung-4k-series-television/"><u>Improving Quality: The Definitive Guide to Tweaking Display Settings on a Samsung 4K Series Television</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-oppo-find-x7-ultra-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Oppo Find X7 Ultra to Protect Your Individual Information</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-stolen-iphone-14-pro-in-different-conditionsin-by-drfone-ios/"><u>In 2024, How To Unlock Stolen iPhone 14 Pro In Different Conditionsin</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/leading-video-editors-a-list-of-5-industry-favorites-unveiled/"><u>Leading Video Editors: A List of 5 Industry Favorites Unveiled</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-on-implementing-effective-slack-notifications/"><u>Step-by-Step Instructions on Implementing Effective Slack Notifications</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-setting-up-fubotv-streaming-on-amazon-fire-tv-stick/"><u>Ultimate Guide: Setting Up FuboTV Streaming on Amazon Fire TV Stick</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/windows-10-customization-tips-how-to-alter-and-personalize-your-taskbar-colors/"><u>Windows 10 Customization Tips: How to Alter and Personalize Your Taskbar Colors</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-discover-top-ios-video-downloads-facebook-edition/"><u>[Updated] 2024 Approved Discover Top iOS Video Downloads Facebook Edition</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-discover-youtubes-free-text-translations-and-downloads-for-2024/"><u>[Updated] Discover YouTube's Free Text Translations & Downloads for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-expert-tips-extracting-audio-from-youtube-video-playback-for-2024/"><u>[Updated] Expert Tips Extracting Audio From YouTube Video Playback for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/amazon-prime-day-discounts-save-an-additional-80-on-new-gen-apple-watch-se-as-reported/"><u>Amazon Prime Day Discounts: Save an Additional $80 on New Gen Apple Watch SE as Reported</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/applying-luts-for-cinematic-color-grades/"><u>Applying Luts for Cinematic Color Grades</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/beat-your-charger-woes-with-this-budget-friendly-20-anker-power-bank-expert-review-on-zdnet/"><u>Beat Your Charger Woes with This Budget-Friendly $20 Anker Power Bank - Expert Review on ZDNet</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/enhancing-your-vtuber-presence-with-premier-voice-editors-for-2024/"><u>Enhancing Your VTuber Presence with Premier Voice Editors for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionize-your-iphone-s-battery-life-discover-esrs-latest-qi2-magsafe-charger-faster-charging-and-lower-heat-with-the-advanced-cryoboost-feature-zdnet.m32/"><u>Revolutionize Your iPhone S Battery Life – Discover ESR's Latest Qi2 MagSafe Charger: Faster Charging and Lower Heat with the Advanced CryoBoost Feature | ZDNET</u></a></li>
+<li><a href="https://howto.techidaily.com/tecno-pova-6-pro-5g-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Pova 6 Pro 5G Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-showdown-macbook-air-versus-macbook-pro-your-essential-buyers-guide-to-picking-the-perfect-apple-laptop-gizmodo/"><u>The Ultimate Showdown: MacBook Air versus MacBook Pro | Your Essential Buyer's Guide to Picking the Perfect Apple Laptop | Gizmodo</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/why-experts-are-choosing-ios-177-over-ios-18-this-week-insights-latest-analysis/"><u>Why Experts Are Choosing iOS 17.7 Over iOS 18 This Week - Insights Latest Analysis</u></a></li>
 </ul></div>
 

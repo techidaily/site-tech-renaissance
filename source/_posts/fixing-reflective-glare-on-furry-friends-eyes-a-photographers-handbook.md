@@ -1,7 +1,7 @@
 ---
 title: Fixing Reflective Glare on Furry Friends’ Eyes - A Photographer's Handbook
-date: 2024-08-30T14:45:28.955Z
-updated: 2024-08-31T14:45:28.955Z
+date: 2024-12-04T21:13:22.647Z
+updated: 2024-12-10T21:25:49.897Z
 categories:
   - BestProducts
 description: This Article Describes Fixing Reflective Glare on Furry Friends’ Eyes - A Photographer's Handbook
@@ -14,6 +14,10 @@ thumbnail: https://www.lifewire.com/thmb/z73PgjjjyG2VSkxi_eKoay0KudQ=/400x300/fi
 
  Instructions in this article apply broadly to all desktop photo editing software.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Fix Pet Eyes in Your Photos
 
  The following screenshots come from Gimp, an[open-source](https://www.lifewire.com/what-is-open-source-software-4147547) image editor for[Windows](https://www.lifewire.com/brief-history-of-microsoft-windows-3507078) ,[Mac](https://www.lifewire.com/what-is-a-mac-4155662) , and[Linux](https://www.lifewire.com/operating-systems-2625912) , but the general process is the same for other programs. Open the image in your editing software and follow these steps:
@@ -24,14 +28,34 @@ thumbnail: https://www.lifewire.com/thmb/z73PgjjjyG2VSkxi_eKoay0KudQ=/400x300/fi
  You might need to use an elliptical brush shape when dealing with cat eyes.  
 ![GIMP with the paintbrush tool highlighted](https://www.lifewire.com/thmb/N4mn7cz6Wntw73I6KB4zjmKkcpk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-photoshop-fix-pet-eye-1702736-4fe9a79114ea440fb6f66425b51ece63.jpg)
 3. Zoom in and click on each eye to paint over the pet eye reflections. You might need to click a few times with the paintbrush to cover the entire problem area. At this point, the eye will look strange because there is no glint of light reflection in the eye.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Zoom in and click on each eye to paint over the pet eye reflections.](https://www.lifewire.com/thmb/z_MaSjZ_favz1ym7nDv4jIp1D6o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_photoshop-fix-pet-eye-1702736-0763eb1c830b45a6ad1e932b165c3423.jpg)
 4. Temporarily hide the layer where you painted black over the eye in the last step. In Gimp, select the**eye** icon next to the layer in the**Layers** palette.  
 ![GIMP with the Layer Visibility button highlighted](https://www.lifewire.com/thmb/sC9VllAXxMJScdwobi6XShNQ3r0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-photoshop-fix-pet-eye-1702736-6d710553fe9241d39e5476d915d7fa0c.jpg)
 5. To make the eyes look natural, replace the reflected points of light you painted over in the previous steps. Select a hard-edge brush, set the size to very small (about 3 to 5[pixels](https://www.lifewire.com/what-are-effective-pixels-493741) ), and set the foreground color to white.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Select a hard-edge brush, set the size very small (about 5-10 pixels), and set the foreground color to white.](https://www.lifewire.com/thmb/46y0P-5ZGKfm5HzHtA5Uobd2lZ4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-how-to-fix-pet-eye-in-your-photos-98fdd160147a412bb69acfeca64f596e.jpg)
 6. Create another transparent[layer](https://www.lifewire.com/how-to-link-layers-in-gimp-1701658) in the document above all other layers in the document. With the painted layer hidden, you should be able to see the original photo. Make a note of where the glints appear in the original photo and click once with the paintbrush directly over each eye glint in the original.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Create another transparent layer in your document above all other layers in your document.](https://www.lifewire.com/thmb/g0HzomFlfYolvwf2lpyWzEMod6w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-how-to-fix-pet-eye-in-your-photos-8c2380dec0954dc6bdce1fe39602dae3.jpg)
 7. Unhide the black paint layer to see the final result. If it doesn't look natural, clear the layer, and keep trying. If the image is acceptable, save and export it to your preferred image format.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Unhide the black paint layer to see the final result.](https://www.lifewire.com/thmb/a1-mYYmXQ7-gw80hAbFvw8RBM24=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007_photoshop-fix-pet-eye-1702736-d582bd1f00bb4ff6aa62d1820e4b7f0f.jpg)  
  You can add a slight amount of Gaussian blur on the black paint layer to blend the pupil into the iris. Use the eraser tool to clean up the black paint that went outside of the eye area onto your pet's fur.
 
@@ -65,8 +89,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -74,8 +96,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-behind-the-scenes-look-at-creating-dynamic-facebook-reels/"><u>[New] Behind-the-Scenes Look at Creating Dynamic Facebook Reels</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-decoding-youtubes-strategic-approach-to-short-form-video-promotion/"><u>[Updated] In 2024, Decoding YouTube's Strategic Approach to Short-Form Video Promotion</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-instagram-experience-adding-vimeo-videos/"><u>2024 Approved The Instagram Experience Adding Vimeo Videos</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/best-buy-how-i-spontaneously-added-apples-newest-17-earpods-with-usb-c-to-my-cart-for-amazon-prime-day-deals-insights/"><u>Best Buy: How I Spontaneously Added Apple's Newest $17 EarPods with USB-C to My Cart for Amazon Prime Day Deals - Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comparing-iphone-se-models-discover-the-updates-from-iphone-se-2020-to-iphone-se-2022-techreview/"><u>Comparing iPhone SE Models: Discover the Updates From iPhone SE 2020 to iPhone SE #2022 | TechReview</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/decoding-the-401-unauthorized-bug-tactics-to-restore-access-successfully/"><u>Decoding the 401 Unauthorized Bug: Tactics to Restore Access Successfully</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/diving-into-fortnites-latest-adventure-comprehensive-insights-for-a-brand-new-season/"><u>Diving Into Fortnite's Latest Adventure: Comprehensive Insights for a Brand-New Season</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-aperture-allstars-the-best-camera-lenses-to-capture-the-moment-ranked-1-10/"><u>In 2024, Aperture Allstars The Best Camera Lenses to Capture the Moment, Ranked #1-10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ios-18-unveiled-a-step-by-step-guide-to-tailoring-your-iphones-control-center-insights/"><u>IOS 18 Unveiled: A Step-by-Step Guide to Tailoring Your iPhone's Control Center - Insights</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-htc-u23-pro-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on HTC U23 Pro with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211224404-9780762486755-the-cosmic-symposium/"><u>The Cosmic Symposium | Free Book</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-list-of-must-have-airpods-pro-extensions-curated-by-zdnet/"><u>The Ultimate List of Must-Have AirPods Pro Extensions , Curated by ZDNet</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-oppo-find-n3-flip-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Oppo Find N3 Flip Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-recommended-macos-applications-expert-picks/"><u>Top Recommended macOS Applications : Expert Picks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-tablet-protection-gear-professional-evaluation-of-ideal-ipad-air-safeguards-techreviews/"><u>Top-Rated Tablet Protection Gear: Professional Evaluation of Ideal iPad Air Safeguards | TechReviews</u></a></li>
+<li><a href="https://article-helps.techidaily.com/unlocking-the-secrets-quickly-change-your-characters-vocal-tone-pubg/"><u>Unlocking the Secrets Quickly Change Your Character's Vocal Tone (PUBG)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-power-of-the-ipad-pro-a-distinctive-tech-marvel-beyond-the-macbook-in-depth-analysis/"><u>Unveiling the Power of the IPad Pro – A Distinctive Tech Marvel Beyond the MacBook | In-Depth Analysis</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

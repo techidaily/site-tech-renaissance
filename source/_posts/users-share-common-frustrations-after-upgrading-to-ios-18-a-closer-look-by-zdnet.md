@@ -1,7 +1,7 @@
 ---
 title: Users Share Common Frustrations After Upgrading to iOS 18 - A Closer Look by ZDNet
-date: 2024-12-01T07:10:28.526Z
-updated: 2024-12-04T18:00:40.268Z
+date: 2024-12-07T17:23:10.762Z
+updated: 2024-12-11T02:39:09.945Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,15 +109,22 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-perfecting-live-video-capture-with-logitech-webcam-technology/"><u>[New] In 2024, Perfecting Live Video Capture with Logitech Webcam Technology</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-streamlining-capture-procedures-with-adobe-presenter-for-2024/"><u>[New] Streamlining Capture Procedures with Adobe Presenter for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-swift-skills-sharpen-your-windows-images/"><u>[New] Swift Skills Sharpen Your Windows Images</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-techniques-for-straightening-aerial-video-stability/"><u>2024 Approved Techniques for Straightening Aerial Video Stability</u></a></li>
-<li><a href="https://windows11.techidaily.com/4-ways-microsoft-is-replacing-cortana-in-windows/"><u>4 Ways Microsoft Is Replacing Cortana in Windows</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/dealing-with-streaming-errors-a-guide-to-restoring-paramount-plus-on-amazon-fire-tv/"><u>Dealing With Streaming Errors: A Guide to Restoring Paramount Plus on Amazon Fire TV</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/explore-the-ultimate-selection-of-free-worldwide-communication-tools-the-best-5/"><u>Explore the Ultimate Selection of Free Worldwide Communication Tools - The Best 5!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/master-the-pairing-process-comprehensive-instructions-for-linking-your-fire-stick-remote-to-smart-tvs/"><u>Master the Pairing Process: Comprehensive Instructions for Linking Your Fire Stick Remote to Smart TVs</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/pioneering-the-future-of-ai-with-metas-revolutionary-tools/"><u>Pioneering the Future of AI with Meta's Revolutionary Tools</u></a></li>
-<li><a href="https://fox-where.techidaily.com/strategie-per-il-backup-di-sistema-in-windows-nella-tua-rete-privata-con-qnap-nas-soluzione-a-e-b/"><u>Strategie per Il Backup Di Sistema in Windows Nella Tua Rete Privata Con QNAP NAS (Soluzione A E B)</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-decades-best-car-surveillance-camera-list/"><u>[New] Decade's Best Car Surveillance Camera List</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-streamlining-your-itunes-video-recordings/"><u>[New] Streamlining Your iTunes Video Recordings</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-crafting-emotional-impact-in-personal-youtube-content/"><u>[Updated] Crafting Emotional Impact in Personal YouTube Content</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-ultimate-guide-to-utilizing-zero-cost-clocks/"><u>[Updated] In 2024, The Ultimate Guide to Utilizing Zero-Cost Clocks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/2024s-ultimate-guide-to-small-tablets-expert-testing-in-depth-analysis-zdnet/"><u>2024'S Ultimate Guide to Small Tablets: Expert Testing, In-Depth Analysis | ZDNET</u></a></li>
+<li><a href="https://extra-information.techidaily.com/boutonniere-bookmarks-casino-critique-for-2024/"><u>BOUTONNIERE BOOKMARKS Casino Critique for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/easy-to-follow-obs-setup-on-thriftier-tech-for-2024/"><u>Easy-to-Follow OBS Setup on Thriftier Tech for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-windows-wont-boot-after-updating-drivers/"><u>Fixed: Windows Won’t Boot After Updating Drivers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-tecno-spark-10-4g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Tecno Spark 10 4G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/moving-on-up-exploring-apples-new-measures-for-a-seamless-shift-to-android-devices/"><u>Moving On Up: Exploring Apple's New Measures for a Seamless Shift to Android Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/reactivating-the-night-look-solutions-when-facebooks-dark-mode-disappears/"><u>Reactivating the Night Look: Solutions When Facebook's Dark Mode Disappears</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-kid-friendly-smartphones-a-guide-by-zdnet/"><u>Top Kid-Friendly Smartphones: A Guide by ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-the-error-in-moderation-on-chatgpt-tips-and-solutions/"><u>Troubleshooting the 'Error in Moderation' On ChatGPT: Tips & Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-enhanced-visual-smarts-in-iphone-16-apples-latest-feature-takes-a-cue-from-google-lens-insights-by-zdnet/"><u>Unveiling Enhanced Visual Smarts in iPhone 16: Apple's Latest Feature Takes a Cue From Google Lens - Insights by ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-watchos-11-top-enhancements-bring-new-life-to-your-apple-watch/"><u>Unveiling WatchOS 11: Top Enhancements Bring New Life to Your Apple Watch</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-perfecting-your-soundtrack-techniques-for-implementing-automatic-audio-suppression-in-final-cut-pro-x-for-2024/"><u>Updated Perfecting Your Soundtrack Techniques for Implementing Automatic Audio Suppression in Final Cut Pro X for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upgrading-with-excitement-unveiling-the-top-three-breakthrough-features-of-the-new-iphone-section-1-understanding-hydrostatic-test-pressure-in-welding-metho69/"><u>Upgrading with Excitement: Unveiling the Top Three Breakthrough Features of the New iPhone # Section 1: Understanding Hydrostatic Test Pressure in Welding Methods</u></a></li>
 </ul></div>
 

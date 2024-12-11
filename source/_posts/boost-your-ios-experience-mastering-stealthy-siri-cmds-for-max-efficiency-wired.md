@@ -1,7 +1,7 @@
 ---
 title: "Boost Your iOS Experience: Mastering Stealthy Siri Cmds for Max Efficiency | Wired"
-date: 2024-11-29T23:40:19.792Z
-updated: 2024-12-04T16:24:56.160Z
+date: 2024-12-05T16:48:13.832Z
+updated: 2024-12-11T10:27:30.132Z
 tags:
   - apple
 categories:
@@ -19,7 +19,7 @@ As many have come to know, iPhones are amazingly powerful little computers. Many
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -35,7 +35,7 @@ Voice dictation is another voice input mode. This is most often initiated by tap
 As it turns out, though, there's an incredibly powerful voice input mode that's hidden from most users because it's turned off by default. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Introducing Voice Control
@@ -57,7 +57,7 @@ You can say things like "tap number" or "pan up number", "swipe left" with an it
 To find out what commands work with Voice Control, start by saying, "What can I say?" iMore has an [excellent comprehensive list of all the commands](https://www.imore.com/everything-you-can-do-voice-control-iphone-and-ipad). Just point your browser there to see all that's available. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Enabling Voice Control on your phone
@@ -67,7 +67,7 @@ Not only is Voice Control not turned on by default, but the code that runs Voice
 You'll know Voice Control is enabled when there's a little blue microphone icon at the top of your screen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Additional features
@@ -110,17 +110,21 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-mastering-file-saving-on-windows-11-a-compendium-of-six-techniques/"><u>[New] In 2024, Mastering File Saving on Windows 11 A Compendium of Six Techniques</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-leveraging-cross-functional-collaboration-for-comprehensive-market-research/"><u>[Updated] 2024 Approved Leveraging Cross-Functional Collaboration for Comprehensive Market Research</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-cutting-edge-video-techniques-for-windows-11-users/"><u>[Updated] Cutting-Edge Video Techniques for Windows 11 Users</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-capture-creativity-with-smartphones-best-apps/"><u>[Updated] In 2024, Capture Creativity with Smartphones' Best Apps</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-optimizing-youtube-banners-with-best-practices-in-mind/"><u>[Updated] In 2024, Optimizing YouTube Banners with Best Practices in Mind</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-2022-camping-must-haves-expert-picks-by-zdnet/"><u>Discover the Ultimate 2022 Camping Must-Haves - Expert Picks by ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-joy-of-gardening-a-look-at-the-worlds-first-rc-lawnmower-highlights-from-zdnet/"><u>Discover the Ultimate Joy of Gardening: A Look at the World's First R/C Lawnmower - Highlights From ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ecoflows-portable-battery-a-reliable-source-of-energy-for-your-entire-household-amidst-frequent-blackouts-insights-from-zdnet/"><u>EcoFlow's Portable Battery: A Reliable Source of Energy for Your Entire Household Amidst Frequent Blackouts - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/enduring-led-string-light-solutions-at-lower-prices-compared-to-market-leaders-gadget-savings-insider/"><u>Enduring LED String Light Solutions at Lower Prices Compared to Market Leaders | Gadget Savings Insider</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/experience-unmatched-home-surveillance-the-arlo-pro-5s-at-a-steal-now-just-180/"><u>Experience Unmatched Home Surveillance: The Arlo Pro 5S at a Steal, Now Just $180!</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unveiling-methods-for-scaling-up-tiktok-video-importation/"><u>Unveiling Methods for Scaling Up TikTok Video Importation</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-action-packed-escapades-the-next-big-things-post-gta-v-for-2024/"><u>[Updated] Action-Packed Escapades - The Next Big Things Post-GTA V for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-expert-tactics-for-designing-attention-grabbing-thumbnails-for-2024/"><u>[Updated] Expert Tactics for Designing Attention-Grabbing Thumbnails for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-visionary-selection-best-10-audio-plugins-for-spotify/"><u>[Updated] In 2024, Visionary Selection Best 10 Audio Plugins for Spotify</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/action-camera-showdown-our-top-7-4k-picks/"><u>Action Camera Showdown Our Top 7 4K Picks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-eyes-future-with-new-buy-implications-of-an-ai-enhanced-iphone-on-the-horizon/"><u>Apple Eyes Future with New Buy: Implications of an AI-Enhanced iPhone on the Horizon?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/demystifying-electric-vehicle-charge-levels-how-they-compare-from-slow-to-fast/"><u>Demystifying Electric Vehicle Charge Levels: How They Compare From Slow to Fast</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-teen-movies-for-your-next-binge-session-on-netflix/"><u>Essential Teen Movies for Your Next Binge Session on Netflix</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-realme-12plus-5g-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Realme 12+ 5G</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-top-alternatives-to-apple-and-tile-discovering-an-exceptional-non-apple-wallet-airtag/"><u>Exploring Top Alternatives to Apple & Tile: Discovering an Exceptional Non-Apple Wallet AirTag</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-recover-nvidia-configurations-on-windows-os/"><u>How to Recover NVIDIA Configurations on Windows OS</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ring-engagement-your-essential-list-of-15-opener-templates-for-2024/"><u>Mastering Engagement Your Essential List of 15 Opener Templates for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quick-fix-tweaking-typography-for-windows-11-users/"><u>Quick Fix: Tweaking Typography for Windows 11 Users</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/recorded-talk-extraction-and-study-for-2024/"><u>Recorded Talk Extraction & Study for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-apple-bargains-in-july-2024-iphone-apple-watch-ipad-offers-explored/"><u>Top Apple Bargains in July 2024: IPhone, Apple Watch, iPad Offers Explored</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-2023-mac-application-guide-for-professionals-featured/"><u>Ultimate 2023 Mac Application Guide for Professionals - Featured</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-selection-of-iphone-12-and-12-pro-skins-and-shields-reviewed-tech-insights/"><u>Ultimate Selection of iPhone 12 and 12 Pro Skins & Shields Reviewed | Tech Insights</u></a></li>
 </ul></div>
 

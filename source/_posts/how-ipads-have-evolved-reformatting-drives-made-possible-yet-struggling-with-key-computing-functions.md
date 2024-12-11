@@ -1,7 +1,7 @@
 ---
 title: "How iPads Have Evolved: Reformatting Drives Made Possible Yet Struggling with Key Computing Functions"
-date: 2024-08-30T14:38:26.198Z
-updated: 2024-08-31T14:38:26.198Z
+date: 2024-12-05T22:08:16.235Z
+updated: 2024-12-11T10:10:50.056Z
 tags:
   - mobile
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/d8236c8823bf190018d4a9a0035905199e51992e3
 
  iPadOS 18 introduces the ability to format external drives using Apple's tablet, a feature previously reserved for "real" operating systems like macOS and Windows. As iPads become more capable, they seem more viable as full-blown computer replacements. Unfortunately, the iPad still lags behind the Mac in some very important areas.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  System-Level Customization
 
  Desktop operating systems are incredibly customizable. With useful [system tweaks to macOS available](https://change-location.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/), as well as downloadable applications and utilities, you can easily tailor your computing experience to meet your needs.
@@ -35,16 +39,10 @@ thumbnail: https://thmb.techidaily.com/d8236c8823bf190018d4a9a0035905199e51992e3
 
 ![Swift Playgrounds running on iPad.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screen-learn-explore-large_2x.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 Apple
 
  The [Swift Playgrounds](https://www.apple.com/swift/playgrounds/) app is available on iPad and is a great way to learn to code and build basic applications. However, without a version of Xcode for iPad, building full, complex apps for Apple devices and publishing them is currently not possible.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ##  Switch Operating Systems and Run Virtual Machines
 
  A "real" computer makes it possible to use a variety of operating systems. Virtualization software like [VMWare](https://www.vmware.com) allows for the creation of virtual machines loaded with the OS of your choosing, and macOS software like [Parallels Desktop](https://screen-mirror.techidaily.com/in-2024-how-to-cast-oneplus-11r-screen-to-pc-using-wifi-drfone-by-drfone-android/) allows Mac users to easily open Windows applications and operate completely within the Windows operating system.
@@ -56,11 +54,16 @@ Apple
 ![iPad mini remotely accessing a Mac desktop using AnyDesk application.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/img_4835.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Hannah Brostrom / How-To Geek
 
  Virtual Machine software like [UTM](https://mac.getutm.app/gallery/) does allow for the creation and use of virtual machines, but it needs to be [sideloaded](https://tech-haven.techidaily.com/navigating-nuance-the-human-advantage-over-bots/), and requires a jailbreak for use on modern iPads. Without access to another Mac or PC, you are not going to have an easy time working with another operating system using only an iPad.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Install Apps from Anywhere
 
@@ -71,18 +74,20 @@ Hannah Brostrom / How-To Geek
 ![MacOS warning message alerting users to potential malicious software.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/applesamplesoftware.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Without macOS support, or fundamental changes to iPadOS as a whole, its unlikely that installing software from the wider internet will be possible.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  User Swapping
 
  When sharing a computer among several people, user profiles are an indispensable feature. User profiles allow everyone who shares a computer to have their own desktop layout, apps, and information stored separately from others, and lock their data behind a password. This feature is standard on nearly every major operating system.
 
 ![macOS Multiple user profile settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/7b328e1de977b5cf3e3a5488b5561a12-2.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Currently, there is no equivalent sharing system on iPadOS. Data cannot be separated by user, and all apps, photos, and information on the iPad is constantly accessible.
 
@@ -98,9 +103,6 @@ Hannah Brostrom / How-To Geek
 
 ![iPad showing Stage Manager in use, with windows for Files, Maps, Notes, and Weather.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/c12c8eed56d20e9419d473efb62bfb38.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 Apple
 
  The key difference between iPad multitasking and computer multitasking is freedom. I like to have dozens of different tabs and windows open at once, as well as several programs open on my desktop to click between.
@@ -117,8 +119,6 @@ Apple
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,4 +126,19 @@ Apple
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-premier-vhs-inspired-tricks-for-editing-excellence/"><u>[New] 2024 Approved Premier VHS-Inspired Tricks for Editing Excellence</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-immediate-insta-photo-series-viewing/"><u>[New] In 2024, Immediate Insta Photo Series Viewing</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-common-youtube-shorts-when-thumbnails-disappear-without-notice/"><u>[Updated] In 2024, Common YouTube Shorts When Thumbnails Disappear Without Notice</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/4-ways-to-take-screenshots-in-windows-11/"><u>4 Ways to Take Screenshots in Windows 11</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/add-panache-to-videos-border-magic-on-insta-for-2024/"><u>Add Panache to Videos Border Magic on Insta for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/breaking-barriers-meta-and-its-mighty-global-ai-supercomputer/"><u>Breaking Barriers: Meta and Its Mighty Global AI Supercomputer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-leading-mac-models-according-to-experts-zdnet/"><u>Discover the Leading Mac Models According to Experts - ZDNet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-ai-variants-unpacking-the-contrast-between-strong-and-weak-artificial-intelligence/"><u>Exploring AI Variants: Unpacking the Contrast Between Strong and Weak Artificial Intelligence</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-windows-update-hurdles-effortlessly/"><u>Tackling Windows Update Hurdles Effortlessly</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-choosing-your-airpods-pro-add-ons-expert-recommendations-from-pcmag/"><u>The Ultimate Guide to Choosing Your AirPods Pro Add-Ons – Expert Recommendations From PCMag</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-ipad-air-test-drive-understanding-why-i-chose-it-over-my-expensive-ipad-pro/"><u>The Ultimate IPad Air Test Drive – Understanding Why I Chose It Over My Expensive iPad Pro</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/your-guide-to-choosing-a-reliable-dash-cam-the-9-must-know-details/"><u>Your Guide to Choosing a Reliable Dash Cam: The 9 Must-Know Details</u></a></li>
+</ul></div>
 

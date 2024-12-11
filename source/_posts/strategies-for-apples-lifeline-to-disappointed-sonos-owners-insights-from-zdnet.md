@@ -1,7 +1,7 @@
 ---
 title: "Strategies for Apple's Lifeline to Disappointed Sonos Owners: Insights From ZDNet"
-date: 2024-11-28T20:37:28.383Z
-updated: 2024-12-05T03:07:53.502Z
+date: 2024-12-05T06:05:41.357Z
+updated: 2024-12-11T10:03:55.650Z
 tags:
   - apple
 categories:
@@ -29,20 +29,20 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to customize your iPhone's new Control Center with iOS 18
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -51,10 +51,6 @@ You can move any of the current controls on the first screen. To start, tap the 
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Resize a control
 
@@ -69,7 +65,7 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -80,6 +76,10 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
@@ -87,7 +87,7 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -126,24 +126,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-pathway-for-pixels-transferring-data-to-computers/"><u>[New] In 2024, Pathway for Pixels Transferring Data to Computers</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-fight-to-the-end-nintendos-top-10-fighters/"><u>[Updated] 2024 Approved Fight to the End Nintendo's Top 10 Fighters</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-elevate-snappy-moments-with-convenient-voice-customization-tips-for-2024/"><u>[Updated] Elevate Snappy Moments with Convenient Voice Customization Tips for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-resolving-dark-scenes-on-youtube-videos/"><u>[Updated] Resolving Dark Scenes on YouTube Videos</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ace-your-swim-season-with-top-tier-waterproof-phone-guards/"><u>Ace Your Swim Season with Top-Tier Waterproof Phone Guards</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypassing-the-persistent-0x80240034-master-guide-for-successful-windows-10-updates/"><u>Bypassing the Persistent 0X80240034: Master Guide for Successful Windows 10 Updates</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comparing-ev-charging-stages-insights-into-level-1-level-2-and-level-3-systems/"><u>Comparing EV Charging Stages: Insights Into Level 1, Level 2, & Level 3 Systems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-to-keeping-your-inbox-accessible-a-deep-dive-into-email-safelisting/"><u>Comprehensive Guide to Keeping Your Inbox Accessible: A Deep Dive Into Email Safelisting</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discovering-document-viewer-activity-a-guide-to-tracking-your-google-docs/"><u>Discovering Document Viewer Activity: A Guide to Tracking Your Google Docs</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1723808277301-effortless-downloading-of-directxs-direct3d-library-now/"><u>Effortless Downloading of DirectX's Direct3D Library Now</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fixing-the-elusive-msvcrt10dll-not-found-problem-for-windows-users/"><u>Fixing The Elusive MSVCRT10.Dll Not Found Problem for Windows Users</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-diagnose-and-solve-no-display-error-when-turning-on-your-desktop/"><u>How to Diagnose and Solve No Display Error When Turning On Your Desktop</u></a></li>
-<li><a href="https://some-skills.techidaily.com/innovative-approach-to-enjoying-taylor-swift-reputation-turn-her-hits-into-a-storytelling-audiobook/"><u>Innovative Approach to Enjoying Taylor Swift - 'Reputation': Turn Her Hits Into a Storytelling Audiobook</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/laymans-how-to-initiating-your-membership-on-the-playstation-community-site/"><u>Layman's How-To: Initiating Your Membership on the PlayStation Community Site</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/professional-tips-and-tricks-to-ensure-a-clean-background-in-your-next-google-meet-call/"><u>Professional Tips and Tricks to Ensure a Clean Background in Your Next Google Meet Call</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-list-of-complimentary-worldwide-calls-services-top-5-picks/"><u>The Ultimate List of Complimentary Worldwide Calls Services (Top 5 Picks)</u></a></li>
-<li><a href="https://article-tips.techidaily.com/top-10-best-free-image-overlay-apps-for-android-and-iphone/"><u>Top 10 Best Free Image Overlay Apps for Android and iPhone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-tricks-for-optimizing-windows-11-for-2024/"><u>Top Tricks for Optimizing Windows 11 for 2024</u></a></li>
-<li><a href="https://discover-able.techidaily.com/transformar-archivos-au-en-formato-ogg-sin-costo-con-el-convertidor-online-de-movavi/"><u>Transformar Archivos AU en Formato OGG Sin Costo Con El Convertidor Online De Movavi</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-essential-skills-androids-screen-recording-functionality/"><u>[New] In 2024, Essential Skills Android's Screen Recording Functionality</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-expert-advice-on-maximizing-fidelity-in-vr-recording/"><u>[New] In 2024, Expert Advice on Maximizing Fidelity in VR Recording</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-charting-success-with-these-top-15-youtube-introduction-techniques-for-2024/"><u>[Updated] Charting Success with These Top 15 YouTube Introduction Techniques for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apples-strategies-for-safeguarding-cloud-processed-ai-information-what-you-need-to-know-and-why-it-matters-zdnet/"><u>Apple's Strategies for Safeguarding Cloud-Processed AI Information: What You Need to Know (and Why It Matters) | ZDNet</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/customizing-input-devices-a-detailed-walkthrough-for-tweaking-mouse-and-touchpad-settings-in-control-panel-by-yl-computing/"><u>Customizing Input Devices: A Detailed Walkthrough for Tweaking Mouse and Touchpad Settings in Control Panel by YL Computing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-finest-selection-of-prime-day-laptop-bargains-still-on-offer-featuring-selections-by-hp-apple-and-razer/"><u>Discover the Finest Selection of Prime Day Laptop Bargains Still On Offer: Featuring Selections by HP, Apple and Razer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-new-iphone-12s-upgraded-charging-capability-with-qi2-standard-independently-of-magsafe-znet/"><u>Discover the New iPhone 12'S Upgraded Charging Capability with Qi2 Standard, Independently of MagSafe | Znet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-tips-for-stunning-iphone-close-ups-and-macros-for-2024/"><u>Expert Tips for Stunning iPhone Close-Ups & Macros for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-non-youtube-havens-for-unparalleled-video-streaming/"><u>In 2024, Non-Youtube Havens for Unparalleled Video Streaming</u></a></li>
+<li><a href="https://win-dash.techidaily.com/logitech-supported-audio-device-drivers-for-microsoft-operating-systems-windows-10-7-and/"><u>Logitech Supported Audio Device Drivers for Microsoft Operating Systems (Windows 10, 7 &</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/tackling-windows-blue-screen-with-expertise/"><u>Tackling Windows Blue Screen with Expertise</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-the-premium-titanium-apple-watch-band-the-top-pick/"><u>Ultimate Guide to the Premium Titanium Apple Watch Band - The Top Pick!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unbeatable-presidents-day-savings-real-time-offers-from-major-retailers-like-amazon-walmart-and-best-buy-zdnet-insider-info/"><u>Unbeatable Presidents' Day Savings: Real-Time Offers From Major Retailers Like Amazon, Walmart, and Best Buy | ZDNET Insider Info</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/why-im-holding-off-on-the-2023-mac-mini-for-the-exciting-features-of-the-new-mac-studio-tech-insights-by-zdnet/"><u>Why I'm Holding Off on the 2023 Mac Mini for the Exciting Features of the New Mac Studio | Tech Insights by ZDNet</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Bringing Back the Traditional Design of YouTube: Tips & Techniques"
-date: 2024-08-30T14:37:55.376Z
-updated: 2024-08-31T14:37:55.376Z
+date: 2024-12-10T02:27:03.921Z
+updated: 2024-12-11T00:10:44.946Z
 tags:
   - web
 categories:
@@ -26,9 +26,6 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 
  Second, the scripts we’re using are pretty simple and small, so it’s easy to audit them for privacy reasons. [Extensions](https://extra-support.techidaily.com/2024-approved-selective-soundscape-picks-for-video-editors/) (unless they’re open source, and you’ve compiled them yourself) aren’t transparent like that.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Installing a Userscript Extension
 
  Userscripts run inside a script extension. TamperMonkey and ViolentMonkey are two solid options. I’m going to use TamperMonkey since it’s available on every popular browser.
@@ -37,7 +34,15 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 
 ![TamperMonkey download page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240627-174903.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You’re now ready to load the userscript that will revert YouTube's layout.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Revert YouTube to the Old Layout
 
@@ -55,13 +60,18 @@ Close
 
 ![TamperMonkey Dashboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240627-180921.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Open YouTube in your browser and the layout should be changed. If it hasn’t, click the TamperMonkey extension icon and make sure the script is active.
 
 ![Enabling the old YouTube layout script in TamperMonkey.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240627-181106.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Hide YouTube Shorts
 
  You can also [get rid of YouTube Shorts](https://review-topics.techidaily.com/recover-your-messages-after-civi-3-disney-100th-anniversary-edition-has-been-deleted-by-fonelab-android-recover-messages/) from the feed and search with a simple script. There are more than a dozen scripts available that do the trick. I tested a few of them, and they all worked perfectly.
@@ -72,9 +82,6 @@ Close
 
  Go to YouTube and scroll down to see if the Shorts panel is gone.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Disable the Rounded Design
 
  I’m not a fan of the rounded design that YouTube has now. If you prefer the old boxy look, here’s how to get it back (you can skip this step if you don’t mind it).
@@ -84,24 +91,19 @@ Close
 Close 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Solution 2: Add a Filter to uBlock Origin
 
  You can also add filters to uBlock Origin to restore the old YouTube layout. I recommend this solution if you already have uBlock Origin installed. It's also a great option if you don't want to bother with userscripts. It works by disabling some experimental features that trigger the new YouTube layout (since it is still in beta).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ###  Install uBlock Origin
 
  The uBlock Origin extension is a popular content blocker. It’s open source and safe. You can install it on Chrome, Edge, Opera, and Firefox. Open the [uBlock Origin website](https://ublockorigin.com/) and click the “Get uBlock Origin” button.
 
 ![Installing uBlock Origin.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240627-202937.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Set Up Filters
 
  Once it’s installed, click the red uBlock Origin icon in the Extensions tab. Then open the uBlock Origin dashboard by clicking the three gear icons on the bottom.
@@ -148,8 +150,6 @@ youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.kevlar_watch_max_player_width,
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,4 +157,22 @@ youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.kevlar_watch_max_player_width,
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-streamline-your-screen-share-with-enhanced-zoom-on-google-meet/"><u>[New] Streamline Your Screen Share with Enhanced Zoom on Google Meet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-gratitude-freepaid-video-outro-template-gallery/"><u>2024 Approved Gratitude Free/Paid Video Outro Template Gallery</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-maintains-strict-control-over-iphone-sales-in-european-market-insights/"><u>Apple Maintains Strict Control Over iPhone Sales in European Market - Insights</u></a></li>
+<li><a href="https://fox-access.techidaily.com/dreamweaver-ai-design-your-masterpieces/"><u>DreamWeaver AI Design Your Masterpieces</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-8-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 8 without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/introducing-apple-airplay-integration-for-guests-top-hotels-now-offer-seamless-entertainment-understand-how-it-works/"><u>Introducing Apple AirPlay Integration for Guests: Top Hotels Now Offer Seamless Entertainment - Understand How It Works</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722862622277-master-the-art-of-restarting-an-iphone-15-top-strategies-revealed/"><u>Master the Art of Restarting an iPhone 15 - Top Strategies Revealed!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-professional-camera-spin-360-edition-2023/"><u>Mastering Professional Camera Spin 360° Edition, 2023</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ize-your-music-experience-the-best-apps-for-turning-spotify-into-youtube/"><u>Optimize Your Music Experience The Best Apps for Turning Spotify Into YouTube</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/protecting-your-experience-the-essential-guide-to-using-a-vpn-with-vision-pro-and-competing-xr-headsets-insights-from-zdnet/"><u>Protecting Your Experience: The Essential Guide to Using a VPN with Vision Pro and Competing XR Headsets - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/say-goodbye-to-charger-woes-the-game-changing-20-anker-power-bank-reviewed-on-zdnet/"><u>Say Goodbye to Charger Woes: The Game-Changing $20 Anker Power Bank Reviewed on ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-a-blue-screen-free-windows-11-top-strategies-for-success/"><u>Unlock a Blue-Screen Free Windows 11: Top Strategies for Success</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-savings-with-the-budget-friendly-iphone-14-pro-exceptional-battery-life-and-reasons-to-fall-in-love-zdnet-exclusive/"><u>Unlocking Savings with the Budget-Friendly iPhone 14 Pro: Exceptional Battery Life and Reasons to Fall in Love (ZDNET Exclusive)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/why-were-my-imessages-undelivered-recently-discover-the-reason-behind-it-tech-insights-by-zdnet/"><u>Why Were My iMessages Undelivered Recently? Discover the Reason Behind It! | Tech Insights by ZDNet</u></a></li>
+</ul></div>
 

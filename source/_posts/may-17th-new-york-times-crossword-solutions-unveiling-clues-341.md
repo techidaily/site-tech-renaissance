@@ -1,7 +1,7 @@
 ---
 title: May 17Th New York Times Crossword Solutions - Unveiling Clues #341
-date: 2024-08-30T14:38:09.574Z
-updated: 2024-08-31T14:38:09.574Z
+date: 2024-12-04T23:27:19.328Z
+updated: 2024-12-10T17:44:09.395Z
 tags:
   - web
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## May 17Th New York Times Crossword Solutions - Unveiling Clues #341
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -22,6 +26,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Connections is a game from the New York Times that challenges you to find the association between words. It sounds easy, but it isn't—Connections categories can be almost anything, and they're usually quite specific. If you need a hand getting the answers, we've got you covered.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Is Connections?
 
  Connections is a game from the New York Times. The objective is simple: sort 16 words into groups of 4\. Each group of words will be connected by some common idea or theme. That common element could be anything. We have seen everything from games that rely on the number of letters in the words to categories that require you to spot an extra letter at the end of the word. Sometimes they're references to economics, other times they reference fairy tales. There is no telling what sort of association there will be between words.
@@ -29,8 +37,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Once you're confident you understand the connection, select 4 words, then hit "Submit." You have only four attempts in total, so don't be too guess-happy.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Hints for Today's Connections Groups
 
  Here are a few hints for the 341st Connections game to get you started:
@@ -45,9 +54,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![May 17th's Connections Words.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/may-17th-connections.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you still need help, the actual group names are:
 
 * **Yellow:** Corrupt
@@ -55,16 +64,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * **Blue:** Classic Still Life Components
 * **Purple:** Beer \_\_\_\_\_
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ##  Today's NYT Connections Answers
 
 ![May 17th Connections words sorted into groups.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/may-17th-connections-filled.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Corrupt (Yellow):** 
 
  Base, Dirty, Low, Vile
@@ -81,10 +84,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Batter, Can, Garden, Pong
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  How Did We Solve This Connections Game?
 
  May 17th wasn't too hard, except for the Blue group. 
@@ -98,8 +97,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  That left fruit, pitcher, skull, and tablecloth. I was thoroughly and completely lost here and couldn't find the connection. Blue was "Classic Still Life Components." Still Life, if you don't know, is a type of art (usually paintings) that depicts mundane objects. It'll commonly be things like fruit on a table with a candle. Modern Still Life art includes contemporary objects, too, like phones, computers, and so on. Still, that was pretty tough.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How Do You Guess Connections Groups?
 
  There is no quick, reliable way to approach Connections like there is with Wordle, since Connections isn't algorithmic. However, there are a few things to keep in mind that can help.
@@ -119,8 +119,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,4 +126,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-from-social-media-hits-to-customizable-ringtone-a-comprehensive-walkthrough/"><u>[New] 2024 Approved From Social Media Hits to Customizable Ringtone A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-vivo-y36i-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-elite-gaming-phone-market-our-2022-curated-list/"><u>Exploring the Elite Gaming Phone Market: Our 2022 Curated List</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/getting-the-most-out-of-your-money-with-the-fitbit-versa-lite-a-detailed-review/"><u>Getting the Most Out of Your Money with the Fitbit Versa Lite - A Detailed Review</u></a></li>
+<li><a href="https://driver-error.techidaily.com/guide-addressing-unable-to-install-this-device-access-is-denied-for-usb-devices/"><u>Guide: Addressing 'Unable To Install This Device (Access Is Denied)' For USB Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-apples-new-nfc-feature-in-iphones-opens-doors-for-third-party-developers-exclusive-benefits-revealed/"><u>How Apple's New NFC Feature in iPhones Opens Doors for Third-Party Developers: Exclusive Benefits Revealed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-reconnect-your-samsung-galaxy-device-when-you-get-the-not-registered-on-network-error/"><u>How to Reconnect Your Samsung Galaxy Device When You Get the 'Not Registered on Network' Error</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-eye-catching-insta-highlights-unveiling-3-secrets/"><u>In 2024, Eye-Catching Insta Highlights Unveiling 3 Secrets</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/iphone-15-assessment-a-top-pick-for-both-casual-and-pro-tech-enthusiasts-insights-from-zdnet/"><u>IPhone 15 Assessment: A Top Pick for Both Casual and Pro Tech Enthusiasts - Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/izing-online-exposure-on-youtube-by-keeping-up-creative-commons-usage/"><u>Maximizing Online Exposure on YouTube by Keeping Up Creative Commons Usage</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-the-rental-market-the-ultimate-list-of-10-useful-sites/"><u>Navigating the Rental Market: The Ultimate List of 10 Useful Sites</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/recording-your-conversations-made-easy-with-ios-18-say-goodbye-to-third-party-dependency/"><u>Recording Your Conversations Made Easy with iOS 18 – Say Goodbye to Third-Party Dependency!</u></a></li>
+<li><a href="https://win11.techidaily.com/sidestep-win11-screensaver-exceptions-easily/"><u>Sidestep WIN11 Screensaver Exceptions Easily</u></a></li>
+<li><a href="https://fox-info.techidaily.com/the-logo-journey-key-steps-in-crafting-iconic-covers/"><u>The Logo Journey Key Steps in Crafting Iconic Covers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-value-for-money-tablets-comprehensive-analysis-by-tech-experts-on-zdnet/"><u>Top Value-for-Money Tablets : Comprehensive Analysis by Tech Experts on ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unexpected-glitch-why-were-my-imessages-undelivered-on-date-insights/"><u>Unexpected Glitch: Why Were My iMessages Undelivered on [Date]? Insights</u></a></li>
+</ul></div>
 
