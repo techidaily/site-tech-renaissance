@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Configuring Your New Apple Watch - Tips From ZDNet
-date: 2024-12-08T19:32:27.838Z
-updated: 2024-12-11T01:12:37.786Z
+date: 2024-12-12T16:00:55.884Z
+updated: 2024-12-17T16:00:02.988Z
 tags:
   - apple
 categories:
@@ -44,12 +44,16 @@ Here's how.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to enable Slack notifications on your Apple Watch
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Install the Slack app on your iPhone
@@ -57,10 +61,6 @@ Here's how.
 There is no dedicated Slack app for the Apple Watch, but there is an iPhone app. This app controls everything about how Slack works with notifications on your phone. So, if you don't already have Slack on your iPhone, go to [the App Store and install it](https://apps.apple.com/us/app/slack/id618783545).
 
 Once it's installed, go ahead and log into your various Slack channels. Get those setup and working as you like before configuring the app for notifications.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Set up Slack notifications in the system settings
 
@@ -76,13 +76,13 @@ Now, back out to the top of the Settings app and tap the red Notifications icon.
 
 Screenshot by David Gewirtz/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Set up Slack notifications in the Slack app
 
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##   
 
@@ -101,10 +101,6 @@ Next, tap Notify Me on Mobile. This will give you a few options.
 Screenshot by David Gewirtz/ZDNET
 
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Set your notification schedule
 
@@ -131,7 +127,7 @@ Recommendation to Slack: Where you put the "Every day" option in that setting, a
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   
@@ -139,6 +135,10 @@ We're almost done configuring notifications. Open the Watch app and scroll down 
 Screenshot by David Gewirtz/ZDNET
 
 There. You've set up notifications. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
 
@@ -179,22 +179,20 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-game-ahead-with-funimates-easy-apk-instructions/"><u>[New] 2024 Approved Game Ahead with Funimate's Easy APK Instructions</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-perfect-your-posts-instagram-video-edits-with-borders/"><u>[New] 2024 Approved Perfect Your Posts Instagram Video Edits with Borders</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-unleash-creativity-with-a-diy-guide-to-haul-edits/"><u>[New] Unleash Creativity with a DIY Guide to Haul Edits</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-decoding-the-tech-behind-immersive-vr-experiences/"><u>[Updated] In 2024, Decoding the Tech Behind Immersive VR Experiences</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-meme-magic-sending-laughs-across-fb-and-insta-with-video-content/"><u>2024 Approved Meme Magic Sending Laughs Across FB & Insta with Video Content</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/camera-enthusiasts-top-list-ultimate-6-4k-dslr-cameras/"><u>Camera Enthusiasts' Top List Ultimate 6 4K DSLR Cameras</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/crafting-custom-imessage-stickers-from-personal-images-a-step-by-step-guide/"><u>Crafting Custom iMessage Stickers From Personal Images: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-hidden-intel-based-smart-assistant-in-your-mac-or-ipad-is-yours-equipped-with-it/"><u>Discover the Hidden Intel-Based Smart Assistant in Your Mac or iPad – Is Yours Equipped with It?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-strategies-for-developing-visually-stunning-applications-in-the-era-of-apples-visionos-insights/"><u>Essential Strategies for Developing Visually Stunning Applications in the Era of Apple's VisionOS - Insights</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-tools-every-windows-or-mac-user-should-know-about-insights-top-11-picks/"><u>Essential Tools Every Windows or Mac User Should Know About - Insights Top 11 Picks</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-honor-x50-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Honor X50 | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-enhancing-streaming-quality-using-obs-plus-zoom/"><u>In 2024, Enhancing Streaming Quality Using OBS + Zoom</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-personalize-your-prayers-with-scripture-inspired-tunes-guide/"><u>In 2024, Personalize Your Prayers with Scripture-Inspired Tunes Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/iphone-13-vs-iphone-14-showdown-is-it-worth-upgrading-to-apples-latest-smartphone-techinsights/"><u>IPhone 13 vs iPhone 14 Showdown: Is It Worth Upgrading to Apple's Latest Smartphone? | TechInsights</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/smartphone-face-off-deciding-between-googles-pixel-6-pro-and-apples-iphone-13-pro-for-your-next-professional-device/"><u>Smartphone Face-Off: Deciding Between Google's Pixel 6 Pro and Apple's iPhone 13 Pro for Your Next Professional Device</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-pricey-reality-of-missing-out-why-older-iphones-are-left-out-of-apples-new-ai-upgrades-zdnet-insights/"><u>The Pricey Reality of Missing Out: Why Older iPhones Are Left Out of Apple’s New AI Upgrades | ZDNET Insights</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-apples-vintageobsolescence-criteria-implications-for-your-devices-tech-insights/"><u>Understanding Apple's Vintage/Obsolescence Criteria: Implications for Your Devices | Tech Insights</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-the-ring-with-video-recording-who-will-triumph-obs-or-bandicam/"><u>[New] In the Ring with Video Recording Who Will Triumph, OBS or Bandicam?</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-boost-your-videos-impact-with-top-ranking-software-solutions-for-2024/"><u>[Updated] Boost Your Videos' Impact with Top-Ranking Software Solutions for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-breaking-down-t-series-income-mechanism-on-youtube/"><u>[Updated] In 2024, Breaking Down T-Series Income Mechanism on YouTube</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-action-cams-duel-black-hero5-against-sj7/"><u>2024 Approved Action Cams Duel Black Hero5 Against SJ7</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/all-you-need-to-know-about-apples-m3-macbook-pro-specs-price-guide-and-availability-timeline/"><u>All You Need to Know About Apple's M3 MacBook Pro: Specs, Price Guide, and Availability Timeline</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/captivating-more-eyes-on-your-engaging-instagram-videos/"><u>Captivating More Eyes on Your Engaging Instagram Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/clarifying-windows-memory-management-via-pagefilesys-files/"><u>Clarifying Windows' Memory Management via Pagefile.sys Files</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-latest-ipad-release-whats-new-in-the-current-gen/"><u>Discover the Latest iPad Release: What's New in the Current Gen</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enable-siri-audio-narration-on-your-iphone-or-mac-the-complete-tutorial/"><u>Enable Siri Audio Narration on Your iPhone or Mac - The Complete Tutorial</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-does-roaming-work-on-the-atandt-wireless-network/"><u>How Does Roaming Work on the AT&T Wireless Network?</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-maximizing-visual-storytelling-with-b-roll-integration/"><u>In 2024, Maximizing Visual Storytelling with B Roll Integration</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/in-depth-reviews-and-buying-guides-at-toms-tech-hub/"><u>In-Depth Reviews & Buying Guides at Tom's Tech Hub</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-round-up-best-news-aggregator-tools/"><u>The Ultimate Round-Up: Best News Aggregator Tools</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-picks-must-watch-lgbtq-series-on-netflix-as-of-july-2024/"><u>Top Picks: Must-Watch LGBTQ Series on Netflix as of July 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unpacking-variations-between-exe-and-msi-formats/"><u>Unpacking Variations Between EXE and MSI Formats</u></a></li>
 </ul></div>
 

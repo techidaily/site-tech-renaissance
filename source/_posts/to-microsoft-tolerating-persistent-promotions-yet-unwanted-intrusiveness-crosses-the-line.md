@@ -1,7 +1,7 @@
 ---
 title: "To Microsoft: Tolerating Persistent Promotions - Yet Unwanted Intrusiveness Crosses the Line"
-date: 2024-08-30T14:39:39.435Z
-updated: 2024-08-31T14:39:39.435Z
+date: 2024-12-13T23:55:21.048Z
+updated: 2024-12-17T11:32:50.002Z
 tags:
   - desktop
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/48dc7fa7b04b0f7445d8755963cdda5ac93794a2c
 * [An Operating System Is No Place for Ads](https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/)
 * [I'm Staying on Windows 10](https://facebook-video-recording.techidaily.com/new-2024-approved-decoding-fbs-interface-how-to-find-just-watched-content/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Microsoft's aggressive self-promotion involves constantly pushing Edge and OneDrive onto users.
@@ -28,8 +32,9 @@ thumbnail: https://thmb.techidaily.com/48dc7fa7b04b0f7445d8755963cdda5ac93794a2c
  An operating system's primary role is to provide a clean foundation to run other programs. That's why it's so concerning that Microsoft has been increasingly more aggressive with ads in Windows 11\. Is this going to be the future of our operating systems?
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Microsoft's Self-Promotion Knows No Bounds
 
  Windows is already full of Microsoft's built-in apps and bloatware. Although this is a relatively common practice among most operating systems and their customized versions, Microsoft goes above and beyond to promote Microsoft Edge and OneDrive. Edge and OneDrive aren't bad products (quite the contrary), but there's no need for Microsoft to shove them down our throats.
@@ -38,9 +43,6 @@ thumbnail: https://thmb.techidaily.com/48dc7fa7b04b0f7445d8755963cdda5ac93794a2c
 
  Another [recent bit of news](https://www.windowscentral.com/software-apps/bing/microsofts-45-rated-performance-optimization-tool-bizarrely-recommends-using-bing-as-the-default-search-engine-to-repair-windows-11) is that Microsoft PC Manager recommends setting Bing as the default search engine in Windows 11 to "repair" your system. This, combined with the constant pop-up notifications to set Edge as your default browser, makes it [hard to recommend any Microsoft products](https://facebook-videos.techidaily.com/updated-in-2024-seamless-strategies-downloading-graphics-images-from-facebook-and-beyond/). All this self-promotion does is clutter an otherwise great operating system.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Ads in the Start Menu, Seriously?
 
  The Start Menu has always been the place you go to open an app installed on your PC or change a setting. It's a safe and familiar spot within your operating system. I use it to hide my less frequently used apps like game launchers and hardware monitoring tools.
@@ -51,22 +53,14 @@ thumbnail: https://thmb.techidaily.com/48dc7fa7b04b0f7445d8755963cdda5ac93794a2c
 
 ![The location of the recommended section in the Windows 11 Start menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/windows-start-ads.jpeg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  The Windows 11 Start menu is already a confusing mess, and I don't think that the [grid layout](https://facebook-record-videos.techidaily.com/new-in-2024-capture-youtube-video-in-screenshot-forms-for-free/) can save it. If you agree, check out [Stardock's Start11 app](https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-realme-11-proplus-by-drfone-android/) to see how you can customize your Start Menu. Again, it's worth noting that these changes are only present in the Beta update, so there's a sliver of hope that Microsoft won't roll this update out in the final version.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  The Danger of Promoting Third-Party Apps
 
  There's nothing wrong with ads and promoting third-party apps, but there's just something about recommending them within an operating system that feels off-putting. If you get an ad in Chrome, you know that it's an ad, but it feels much more subtle when it's on your operating system.
@@ -74,15 +68,17 @@ Jerome Thomas / How-To Geek
 ![1Password app listed in Recommended section of Start Menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/untitled.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Microsoft
 
  The average user might interpret the recommended third-party product as a pre-installed or Microsoft product, which can lead to confusion, a loss of trust, and potential safety risks. After all, Microsoft can't guarantee the quality and safety of the advertised product, so what happens if a recommended app ends up embroiled in a controversy or legal dispute?
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  An Operating System Is No Place for Ads
 
  Call me old-school, but I think that an operating system is the one "sacred" piece of software that shouldn't have ads, promotions, or any form of pesky clutter. Users expect that their operating system is professional and free of clutter. macOS and most Linux distributions don't bombard users with ads in core functionalities and system apps, whereas Windows has become increasingly more intrusive with its constant ads.
@@ -91,9 +87,6 @@ Microsoft
 
  If you use your Windows PC for work, ads within the operating system are an unwelcome distraction that diminishes your user experience. Fortunately, you [can remove most ads in Windows 11](https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-tecno-devices-by-drfone-android/), but I still wish that Microsoft would reconsider its approach to monetization within its operating system.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ##  I'm Staying on Windows 10
 
 [Windows 10 support ends next year](https://facebook.techidaily.com/crafting-your-virtual-reflection-with-oculus-avatars/), so I was planning to get ahead of the curve by upgrading to Windows 11 now. However, after talking to a few friends who have upgraded and doing some research, I decided to hold off, in no small part because of ads.
@@ -110,8 +103,6 @@ Microsoft
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -119,4 +110,21 @@ Microsoft
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-instagram-etiquette-ceasing-connections/"><u>[New] 2024 Approved Instagram Etiquette Ceasing Connections</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-windows-11-gamers-guide-to-excellent-game-capturing/"><u>[New] In 2024, Windows 11 Gamers' Guide to Excellent Game Capturing</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-budget-friendly-video-recorder-sets-top-11-picks/"><u>[Updated] Budget-Friendly Video Recorder Sets Top 11 Picks</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-leading-innovations-in-video-calls-discover-the-top-10-apps/"><u>2024 Approved Leading Innovations in Video Calls Discover the Top 10 Apps</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-top-iphones-and-android-premium-coverage-for-your-ig-highlights/"><u>2024 Approved Top iPhones & Android Premium Coverage for Your IG Highlights</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-enabled-personalization-optimize-your-site/"><u>Cookiebot-Enabled Personalization: Optimize Your Site</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/elevate-your-pc-with-these-11-fantastic-free-update-utilities/"><u>Elevate Your PC with These 11 Fantastic Free Update Utilities</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-advice-on-integrating-a-subwoofer-into-your-samsung-acoustic-setup/"><u>Expert Advice on Integrating a Subwoofer Into Your Samsung Acoustic Setup</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/get-ahead-of-the-curve-learn-about-the-new-samsung-galaxy-z-fold-6-specs-and-news-now/"><u>Get Ahead of the Curve - Learn About the New Samsung Galaxy Z Fold 6 Specs and News Now</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-get-your-acer-predator-xb271h-display-drivers-in-a-flash/"><u>How to Get Your Acer Predator XB271H Display Drivers in a Flash!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/key-features-to-consider-when-buying-your-next-gaming-computer/"><u>Key Features to Consider When Buying Your Next Gaming Computer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-tips-to-resolve-nspr4dll-error-avoid-getting-stuck-with-missing-dlls/"><u>Master Tips to Resolve nspr4.dll Error: Avoid Getting Stuck with Missing DLLs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/swift-film-techniques-for-at-home-creators-for-2024/"><u>Swift Film Techniques for At-Home Creators for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/what-to-expect-from-googles-tv-streamer-projections-on-release-date-pricing-features-dive-into-the-rumor-mill/"><u>What to Expect From Google's TV Streamer: Projections on Release Date, Pricing, Features - Dive Into the Rumor Mill</u></a></li>
+</ul></div>
 

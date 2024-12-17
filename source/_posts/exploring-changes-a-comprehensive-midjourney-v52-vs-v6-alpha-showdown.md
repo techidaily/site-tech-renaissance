@@ -1,7 +1,7 @@
 ---
 title: "Exploring Changes: A Comprehensive MidJourney v5.2 Vs. V6 Alpha Showdown"
-date: 2024-08-30T14:41:07.800Z
-updated: 2024-08-31T14:41:07.800Z
+date: 2024-12-14T12:08:45.976Z
+updated: 2024-12-16T18:41:14.591Z
 tags:
   - cutting-edge
 categories:
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/d47941553c96756e0922bd70e1fb7654903727793
 ## Exploring Changes: A Comprehensive MidJourney v5.2 Vs. V6 Alpha Showdown
 
 MidJourney has launched the Alpha version of it's V6 model, and there are many promised improvements over V5.2\. We look at what's better on paper, and test it against the older model.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What's New in V6?
 
@@ -38,11 +42,19 @@ Draw a marketplace in a futuristic city. To the left of the frame, is a woman wi
 
 ![An AI-generated image of a marketplace in a futuristic city.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/gendowasright_draw_a_marketplace_in_a_futuristic_city-_to_the_l_331cbb65-3a95-4443-aec2-835aada2c302.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Sydney Louw Butler/How-To Geek/MidJourney
 
  Here is the best that V6 came up with.
 
 ![AI-generated image of a marketplace in a futuristic city.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/gendowasright_draw_a_marketplace_in_a_futuristic_city-_to_the_l_32a325c2-5ab4-4e07-b332-fe97af38616b.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Sydney Louw Butler/How-To Geek/MidJourney
 
@@ -58,23 +70,14 @@ A fabric flag with the words "How To Geek" on it.
 
 ![Four AI-generated flags in each quadrant of the image, with garbled text.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/gendowasright_a_fabric_flag_with_the_words_how_to_geek_on_it_0bcc3c5e-f1c0-4ab8-bf6e-23aa90a614d2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Sydney Louw Butler/How-To Geek/MidJourney
 
  With V6 however, it was 75% successful on the first attempt, and you can clearly see the text is properly integrated into the image, rather than simply overlaid.
 
 ![Four AI-generated flags that have the words How-To Geek on them.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/flag-v6.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 Sydney Louw Butler/How-To Geek/MidJourney
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Artistic Quality
 
  While we can more or less objectively test how well V6 can follow a prompt or integrate text, artistic quality is much harder to nail down. In my [comparison of MidJourney models V1 to V5.2](https://instagram-clips.techidaily.com/2024-approved-visual-storytelling-on-social-media-crafting-an-effective-plan/), it was clear that with every new model the AI was becoming more "imaginative" for lack of a better word. Composition and detail also drastically improved, and honestly, V5.2 still came out on top when it comes to artistic flair, as I noted when I [compared MidJourney to DALL-E 3](https://screen-activity-recording.techidaily.com/new-the-complete-user-manual-how-to-use-screen-recording-on-mac-for-2024/).
@@ -83,18 +86,12 @@ Sydney Louw Butler/How-To Geek/MidJourney
 
 ![Two side-by-side AI-generated images of idyllic elven villages featuring whimsical houses and lush greenery.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-4.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Sydney Louw Butler/How-To Geek/MidJourney
 
 Prompt: An epic and beatiful fantasy scene of an elvish village where the elves are going about their business. Make it an oil painting
 
 ![Two side-by-side images of a futuristic street scene with aliens, robots, and humans all living in the same city.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-5.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Sydney Louw Butler/How-To Geek/MidJourney
 
 Prompt: A futuristic street scene with aliens, robots, and humans all living in the same city. Make it in the style of a digital speed painting.
@@ -102,11 +99,16 @@ Prompt: A futuristic street scene with aliens, robots, and humans all living in 
 ![An AI-generated pair of images side-by-side of A nature photograph of mountains as seen from the beach, with a large visible moon in the sky.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-4.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Sydney Louw Butler/How-To Geek/MidJourney
 
 Prompt: A nature photograph of mountains as seen from the beach, with a large visible moon in the sky.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  It's Just an Alpha (For Now)
 
@@ -120,8 +122,6 @@ Prompt: A nature photograph of mountains as seen from the beach, with a large vi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -129,4 +129,20 @@ Prompt: A nature photograph of mountains as seen from the beach, with a large vi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-mastering-faces-in-picsart-applying-motion-blur-effects/"><u>[New] 2024 Approved Mastering Faces in Picsart Applying Motion Blur Effects</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-mac-high-quality-video-and-audible-recording/"><u>[New] In 2024, Mac High-Quality Video & Audible Recording</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-navigating-away-from-youtube-penalties-for-2024/"><u>[Updated] Navigating Away From YouTube Penalties for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/comment-creer-un-powerpoint-sur-mac-avec-lassistant-de-diaporamas-movavi/"><u>Comment Créer Un Powerpoint Sur Mac Avec L'Assistant De Diaporamas - Movavi</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-ace-soundtracks-collection-for-cinematography/"><u>In 2024, Ace Soundtracks Collection for Cinematography</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premium-winpodcast-solutions-roundup/"><u>In 2024, Premium WinPodcast Solutions Roundup</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/in-depth-analysis-the-present-condition-of-5g-connectivity-via-verizon/"><u>In-Depth Analysis: The Present Condition of 5G Connectivity via Verizon</u></a></li>
+<li><a href="https://techidaily.com/solved-mac-doesnt-recognize-my-iphone-8-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Mac Doesnt Recognize my iPhone 8 | Stellar</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-dilemma-effective-methods-for-restoring-power-to-unresponsive-computers/"><u>Solving the Dilemma: Effective Methods for Restoring Power to Unresponsive Computers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-most-effective-multi-person-video-call-applications/"><u>The Most Effective Multi-Person Video Call Applications</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-for-correcting-missing-msvbvm50dll-error-messages/"><u>Troubleshooting Steps for Correcting Missing MSVBVM50.DLL Error Messages</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-the-missing-d3d9dll-error-on-your-pc-easily/"><u>Troubleshooting the 'Missing d3d9.dll' Error on Your PC Easily</u></a></li>
+</ul></div>
 

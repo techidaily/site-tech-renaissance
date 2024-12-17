@@ -1,7 +1,7 @@
 ---
 title: Discover the Top 5 Exciting Features of Apple's iOS 18 Preview - What You Can Test Today
-date: 2024-12-09T05:39:38.332Z
-updated: 2024-12-10T19:38:21.907Z
+date: 2024-12-10T16:01:54.413Z
+updated: 2024-12-17T16:00:04.985Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ I've been testing the public beta on a spare iPhone. Though I've run into severa
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Place your Home screen icons anywhere
@@ -47,7 +47,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Try a different Home screen theme
@@ -57,7 +57,7 @@ Next, you can apply different themes to the Home screen. Press down on any empty
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
@@ -69,7 +69,7 @@ You can now apply bold, italics, underline, or strikethrough for the selected te
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Schedule a text
@@ -81,7 +81,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Lock down an app
@@ -120,20 +120,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-exploring-the-prime-linux-screenshot-applications/"><u>[New] In 2024, Exploring the Prime Linux Screenshot Applications</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-into-the-heart-of-windows-10-flawless-media-import-techniques/"><u>[New] Into the Heart of Windows 10 Flawless Media Import Techniques</u></a></li>
-<li><a href="https://win-news.techidaily.com/can-windows-backup-system-restore-deleted-data-a-comprehensive-guide-by-yl-computing/"><u>Can Windows Backup System Restore Deleted Data? A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/capture-cinematic-masterpieces-with-apples-final-cut-for-iphone-revolutionizing-mobile-filmmaking-discover-how/"><u>Capture Cinematic Masterpieces with Apple's Final Cut for iPhone: Revolutionizing Mobile Filmmaking - Discover How!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-innovative-camera-button-on-every-iphone-16-unveiling-its-functionality-and-advantages/"><u>Discover the Innovative Camera Button on Every iPhone 16: Unveiling Its Functionality and Advantages</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-role-of-telecommunication-service-providers-in-your-life/"><u>Exploring the Role of Telecommunication Service Providers in Your Life</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-lava-agni-2-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Lava Agni 2 5G To Phone | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-itel-s23plus-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Itel S23+</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Vivo Y200e 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/maximize-device-longevity-charge-and-regulate-temperature-of-apple-tech-using-the-all-in-one-magsafe-dock-zdnets-review/"><u>Maximize Device Longevity: Charge & Regulate Temperature of Apple Tech Using the All-in-One MagSafe Dock - ZDNET's Review</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigate-and-ride-smarter-how-photochromic-head-up-display-glasses-transform-biking-exclusive-insights/"><u>Navigate and Ride Smarter: How Photochromic Head-Up Display Glasses Transform Biking | Exclusive Insights</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/personalizing-your-iphones-control-center-for-ios-18-step-by-step-instructions-from-tech-experts-at-zdnet/"><u>Personalizing Your iPhone's Control Center for iOS 18 - Step by Step Instructions From Tech Experts at ZDNet</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-tutorial-on-swf-file-conversion-to-avi-video-type/"><u>Step-by-Step Tutorial on SWF File Conversion to AVI Video Type</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-fix-for-windows-error-code-28-a-comprehensive-guide/"><u>Ultimate Fix for Windows Error Code 28: A Comprehensive Guide</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/unveiling-igtv-insights-key-measures-for-effective-content-for-2024/"><u>Unveiling IGTV Insights Key Measures for Effective Content for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-deciphering-the-world-of-youtube-media-conglomerates/"><u>[Updated] In 2024, Deciphering the World of YouTube Media Conglomerates</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-facebooks-visual-storytelling-what-angle-matters-most/"><u>2024 Approved Facebook's Visual Storytelling What Angle Matters Most?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-your-online-presence-by-mastering-video-editing-in-sony-vegas-for-2024/"><u>Boost Your Online Presence by Mastering Video Editing in Sony Vegas for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/common-fixes-for-a-keyboard-that-wont-type-expert-advice/"><u>Common Fixes for a Keyboard That Won't Type – Expert Advice</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/create-your-ideal-day-out-the-7-best-summer-edc-products-to-pack/"><u>Create Your Ideal Day Out: The 7 Best Summer EDC Products to Pack</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/efficient-methods-for-rectifying-the-msvcr100dll-file-is-missing-issue/"><u>Efficient Methods for Rectifying the Msvcr100.dll File Is Missing Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-performance-gauges-for-pcs/"><u>Efficient Performance Gauges for PCs</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-high-speed-recording-tool-with-guided-soundtracks/"><u>In 2024, High-Speed Recording Tool with Guided Soundtracks</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-xiaomi-redmi-k70-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Xiaomi Redmi K70 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-vivo-s18-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo S18 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/reformez-votre-macbook-air-de-2017-avec-une-nouvelle-ssd-pour-un-meilleur-fonctionnement/"><u>Reformez Votre MacBook Air De 2017 Avec Une Nouvelle SSD Pour Un Meilleur Fonctionnement</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-the-winhttpdll-file-cannot-be-found-issue-a-step-by-step-guide/"><u>Resolving the 'Winhttp.dll File Cannot Be Found' Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/king-asmrs-hidden-layers-for-2024/"><u>Unlocking ASMR's Hidden Layers for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/why-isnt-my-gmail-syncing-find-answers-here/"><u>Why Isn't My Gmail Syncing? Find Answers Here</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: A Step-by-Step Process on Picking the Best Phone Cover
-date: 2024-08-26T07:30:46.913Z
-updated: 2024-08-27T07:30:46.913Z
+date: 2024-12-14T13:18:23.636Z
+updated: 2024-12-17T09:39:35.845Z
 categories:
   - BestProducts
 description: This Article Describes A Step-by-Step Process on Picking the Best Phone Cover
@@ -25,6 +25,10 @@ thumbnail: https://www.lifewire.com/thmb/r8M9KfAMPVBrkhdFb_I3HRov3Vk=/300x200/fi
 3. Scroll to the bottom of the page and select **Save Changes** .  
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Create, Send, and Forward Email
 
  With Gmail[keyboard](https://www.lifewire.com/what-is-a-keyboard-2618153) shortcuts, you can quickly create, send, and forward Gmail messages:
@@ -36,9 +40,6 @@ thumbnail: https://www.lifewire.com/thmb/r8M9KfAMPVBrkhdFb_I3HRov3Vk=/300x200/fi
 
  On Macs, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Reply to Email
 
  By using the**R** and**A** keys, you can quickly reply to[email messages](https://www.lifewire.com/electronic-mail-overview-1164107) or send to multiple recipients:
@@ -46,9 +47,6 @@ thumbnail: https://www.lifewire.com/thmb/r8M9KfAMPVBrkhdFb_I3HRov3Vk=/300x200/fi
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Scroll Through Emails
 
  These shortcuts are handy for navigating through your messages and long email threads:
@@ -57,9 +55,6 @@ thumbnail: https://www.lifewire.com/thmb/r8M9KfAMPVBrkhdFb_I3HRov3Vk=/300x200/fi
 * **Scroll up an email list (K)** : Press the**K** key to scroll up.
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Select Multiple Emails
 
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
@@ -78,8 +73,9 @@ thumbnail: https://www.lifewire.com/thmb/r8M9KfAMPVBrkhdFb_I3HRov3Vk=/300x200/fi
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Add Elements to an Email
 
  Addling links, numbered lists, and bullet points to your emails can also be done using keyboard shortcuts:
@@ -91,8 +87,9 @@ thumbnail: https://www.lifewire.com/thmb/r8M9KfAMPVBrkhdFb_I3HRov3Vk=/300x200/fi
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Email Maintenance Shortcuts
 
  Use these shortcuts to help manage your inbox:
@@ -116,8 +113,9 @@ thumbnail: https://www.lifewire.com/thmb/r8M9KfAMPVBrkhdFb_I3HRov3Vk=/300x200/fi
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to View All Gmail Shortcuts
 
  Need help remembering a shortcut? You can quickly pull up the entire list with a keyboard shortcut:
@@ -125,6 +123,10 @@ thumbnail: https://www.lifewire.com/thmb/r8M9KfAMPVBrkhdFb_I3HRov3Vk=/300x200/fi
 * **Open keyboard shortcut help (Shift** +**?)** : Press**Shift** +**?** to get the full list of Gmail keyboard shortcuts.
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Was this page helpful?
 
@@ -146,8 +148,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +155,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-endless-escapades-top-10-best-freeware-online-rpgs/"><u>[New] Endless Escapades Top 10 Best Freeware Online RPGs</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-iphone-under-the-moonlight-photography-tips/"><u>[New] IPhone Under the Moonlight Photography Tips</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-digital-recorders-companion-pc-mac-phone-edition-for-2024/"><u>[Updated] Digital Recorder's Companion PC, Mac, Phone Edition for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-first-steps-into-filmmaking-the-ultimate-guide-for-making-your-first-10-youtube-videos/"><u>2024 Approved First Steps Into Filmmaking The Ultimate Guide for Making Your First 10 YouTube Videos</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-review-and-critique-of-apples-watch-series-9/"><u>Expert Review and Critique of Apple's Watch Series 9</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/getting-verified-a-comprehensive-strategy-for-proving-authenticity-on-formerly-twitter-platform/"><u>Getting Verified: A Comprehensive Strategy for Proving Authenticity on Formerly Twitter Platform</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/how-to-securely-delete-everything-a-list-of-the-top-10-iphone-data-wipe-tools/"><u>How to Securely Delete Everything: A List of the Top 10 iPhone Data Wipe Tools</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-file-document-with-digital-signature-service-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a .pdf file document with digital signature service</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-itel-a60-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-virality-a-10-step-roadmap-for-instagram-growth/"><u>Mastering the Art of Virality - A 10-Step Roadmap for Instagram Growth</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolve-your-apple-watch-cellular-woes-with-these-effective-steps/"><u>Resolve Your Apple Watch Cellular Woes with These Effective Steps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/smart-strategies-for-controlling-and-evaluating-monthly-data-use/"><u>Smart Strategies for Controlling and Evaluating Monthly Data Use</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solutions-for-fixing-ksuserdll-not-detected-or-absent-errors-effectively/"><u>Solutions for Fixing 'ksuser.dll Not Detected or Absent' Errors Effectively</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-to-linking-airpods-for-seamless-listening-on-a-windows-pc/"><u>Step-by-Step Guide to Linking AirPods for Seamless Listening on a Windows PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-the-wmvcoredll-not-found-issue-solutions-and-tips/"><u>Troubleshooting the wmvcore.dll Not Found Issue: Solutions and Tips</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ultimate-evaluation-of-the-apple-iphone-xs-max-top-tier-performance-at-a-premium/"><u>Ultimate Evaluation of the Apple iPhone XS Max: Top-Tier Performance at a Premium</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-twitch-community-quirks-insights-for-first-time-watchers/"><u>Understanding Twitch Community Quirks: Insights for First-Time Watchers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-future-of-smartphones-whats-coming-with-the-next-gen-oneplus-n-price-drops-and-feature-speculations-ahead/"><u>Unveiling the Future of Smartphones – What's Coming with the Next Gen OnePlus N: Price Drops & Feature Speculations Ahead</u></a></li>
+</ul></div>
 

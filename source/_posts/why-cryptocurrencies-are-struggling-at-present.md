@@ -1,7 +1,7 @@
 ---
 title: Why Cryptocurrencies Are Struggling at Present
-date: 2024-08-30T14:41:37.133Z
-updated: 2024-08-31T14:41:37.133Z
+date: 2024-12-09T18:09:17.932Z
+updated: 2024-12-16T22:46:24.332Z
 tags:
   - cutting-edge
 categories:
@@ -29,8 +29,6 @@ Related: [Ethereum's Biggest Problem Is Being Fixed With "The Merge"](https://vi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -38,22 +36,25 @@ Related: [Ethereum's Biggest Problem Is Being Fixed With "The Merge"](https://vi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-voicing-it-up-how-to-save-on-iphone/"><u>[Updated] 2024 Approved Voicing It Up How to Save on iPhone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-3-best-ways-to-get-pinterest-video-to-mp3-downloaded/"><u>[Updated] In 2024, 3 Best Ways to Get Pinterest Video to MP3 Downloaded</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/adding-an-extra-shield-of-safety-to-icloud-mail-via-two-step-authentification/"><u>Adding an Extra Shield of Safety to iCloud Mail via Two-Step Authentification</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/decoding-and-repairing-website-security-blocks-the-401-unauthorized-code-guide/"><u>Decoding and Repairing Website Security Blocks - The 401 Unauthorized Code Guide</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/discover-the-best-tools-and-tips-to-accurately-tag-your-videos/"><u>Discover the Best Tools & Tips to Accurately Tag Your Videos</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-portrait-photography-a-beginners-guide-to-the-best-selfie-lights/"><u>Mastering Portrait Photography: A Beginner's Guide to the Best Selfie Lights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-cutting-edge-tech-the-insights-into-meta-artificial-intelligence/"><u>Navigating Cutting-Edge Tech: The Insights Into Meta Artificial Intelligence</u></a></li>
+<li><a href="https://article-files.techidaily.com/ranked-highest-audio-transformation-tools-including-magic/"><u>Ranked Highest Audio Transformation Tools, Including Magic</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/sharing-fun-a-comprehensive-guide-to-sharing-games-and-playlists-on-your-ps5/"><u>Sharing Fun: A Comprehensive Guide to Sharing Games & Playlists on Your PS5</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/strategic-steps-making-your-private-yt-videos-public-via-google-for-2024/"><u>Strategic Steps Making Your Private YT Videos Public via Google for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-complete-2023-handbook-for-transforming-your-dvd-files-to-mp4-format-with-handbrake/"><u>The Complete 2023 Handbook for Transforming Your DVD Files to MP4 Format with HandBrake</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-the-asus-pce-ac56-driver-compatibility-in-various-windows-versions-fixed/"><u>Troubleshooting the ASUS PCE-AC56 Driver Compatibility in Various Windows Versions [FIXED]</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upcoming-tech-marvel-discover-what-to-expect-from-the-new-samsung-galaxy-s25-leaked-prices-launch-date-and-key-features-highlighted/"><u>Upcoming Tech Marvel: Discover What to Expect From The New Samsung Galaxy S25 - Leaked Prices, Launch Date, and Key Features Highlighted</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+

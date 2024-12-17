@@ -1,7 +1,7 @@
 ---
 title: Can Apple Turnaround Troubled Experiences for Sonos Enthusiasts? Insights From ZDNet
-date: 2024-12-08T00:29:46.331Z
-updated: 2024-12-11T08:36:17.888Z
+date: 2024-12-16T16:01:29.898Z
+updated: 2024-12-17T16:00:01.889Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Reputation botched by a software rollout
 
 Founded in 2002, Sonos revolutionized home audio with its wireless, multiroom speaker systems. The company became a household name known for high-quality sound and seamless integration with music services. 
@@ -61,7 +65,7 @@ The Sonos S2 firmware, which requires additional memory and relies more on cloud
 It's not hard to imagine that [Play:3, Play:1, Play:5 Gen2, and Sub Gen1 speakers](https://support.sonos.com/en-us/article/sonos-app-version-compatibility) that have been in the wild for more than 10 years will become obsolete in the next year or so when Sonos introduces a revised S2 or S3 firmware. These speakers will likely need to be run [on legacy networks and controlled separately](https://support.sonos.com/en-us/article/set-up-separate-s1-and-s2-sonos-systems), like the S1 components were when Sonos initially rolled out S2 in August 2020.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A lack of competitors
@@ -73,6 +77,10 @@ While many users like myself are looking for a clear migration path to a competi
 For Apple (or Amazon or Google) to truly compete with Sonos, the companies will need to support Dolby Digital 5.1 and [Dolby Atmos](https://www.dolby.com/technologies/dolby-atmos/). This would require the development of a full range of components, such as a soundbar/center channel, subwoofer, and rear surrounds, in addition to the existing left and right HomePod speakers for stereo and simulated surround (spatial audio).
 
 Here's an idea, Apple: Either buy Sonos outright and take over software development, or independently develop HomePod into a true home entertainment solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why Apple should do it
 
@@ -88,43 +96,35 @@ Apple has the resources to make this move, and now is the right time for HomePod
 
 A set-top box, whether an updated Apple TV or a centralized processor unit for Apple TV and HomePod, could be the central control unit for a multiroom and surround sound audio system. In addition to providing the expected [artificial intelligence](https://www.zdnet.com/article/what-is-ai-heres-everything-you-need-to-know-about-artificial-intelligence/) (AI) features of a more intelligent Siri and orchestrating home automation functions, the unit could transform Apple Music into a highly personalized and interactive experience.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Personalized music experiences
 
 Imagine an AI processor with built-in [Apple Foundation Model LLM](https://www.zdnet.com/article/apple-builds-a-slimmed-down-ai-model-using-stanford-google-innovations/) and [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration that offers dynamic playlists tailored to your real-time preferences, activities, and moods. This AI could provide context-aware music suggestions based on your current activity, location in your home, or time of day, seamlessly enhancing your environment whether you're working out, hosting a party, or relaxing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Interactive music discovery
 
 With interactive music discovery, you could converse with Siri to explore new music, uncover interesting facts about songs and artists, and receive personalized insights and trivia while listening. Customized listening sessions would adapt to your feedback, setting goals like discovering new artists and curating sessions to meet those objectives.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Social and collaborative features
 
 Social and collaborative features could facilitate the creation of collaborative playlists with friends and family, allowing real-time voting on songs and interactive chats about playlist content. Personalized messages generated by the new Apple Intelligence-powered Siri could help with custom recommendations for friends based on shared listening habits.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Smart home integration
 
 Smart home integration could allow voice-controlled music management across HomePod and other devices, setting up multiroom audio experiences with personalized settings for different rooms and family members. Event-based playlists could be automatically generated for scheduled events, syncing with other Apple devices to create immersive audio experiences tailored to specific activities.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Learning and adaptation
 
 The AI's adaptive learning capabilities could continuously refine music recommendations based on your interactions. Mood and sentiment analysis could recommend music to match or alter your mood, offering comforting or uplifting tunes as needed. Additionally, integrating with other streaming services and social media platforms could provide a unified music experience, allowing you to import and export playlists and create music-related content.
 
 **Also: [LG TVs are getting a free audio upgrade that Apple users will absolutely love](https://www.zdnet.com/home-and-office/home-entertainment/lg-tvs-are-getting-a-free-audio-upgrade-that-apple-users-will-absolutely-love/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is Sonos cooked, and can Apple step in?
 
@@ -160,19 +160,24 @@ The recent missteps by Sonos have left a void in the multiroom audio market, pre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-essential-mobile-apps-top-8-creativity-boosters-on-ios-and-android/"><u>[Updated] 2024 Approved Essential Mobile Apps Top 8 Creativity Boosters on iOS and Android</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-srgb-efficiency-against-basic-rgb-for-2024/"><u>[Updated] Srgb Efficiency Against Basic Rgb for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-revolutionize-your-online-video-content-expert-tips-on-youtube-live-with-wirecast/"><u>2024 Approved Revolutionize Your Online Video Content Expert Tips on Youtube Live with WireCast</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/bargain-hunting-in-apples-secondhand-marketplace-smart-strategies-to-dodge-scams-and-snag-great-offers/"><u>Bargain Hunting in Apple's Secondhand Marketplace - Smart Strategies to Dodge Scams and Snag Great Offers</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/customize-your-desktop-view-easily-with-the-windows-display-settings-walkthrough-by-yl-software-specialists/"><u>Customize Your Desktop View Easily with the Windows Display Settings Walkthrough by YL Software Specialists</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-tips-for-activating-and-deactivating-iphone-system-repair-mode/"><u>Essential Tips for Activating & Deactivating iPhone System Repair Mode</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/explore-the-leading-printer-brands-and-models-for-202n-insights-from-zdnets-latest-review/"><u>Explore the Leading Printer Brands and Models for 202N - Insights From ZDNet's Latest Review</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-sharing-errors-with-nvidias-gui/"><u>Fixing Sharing Errors with NVIDIA's GUI</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/free-individualized-music-for-engaging-video-conclusions-for-2024/"><u>Free, Individualized Music for Engaging Video Conclusions for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-apples-recent-ai-endeavors-overlooked-crucial-innovations-anticipation-for-what-comes-next-analysis/"><u>How Apple's Recent AI Endeavors Overlooked Crucial Innovations - Anticipation for What Comes Next | Analysis</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/iphone-2023-what-you-need-to-know-about-the-expected-pricing-launch-date-and-specs-updates/"><u>IPhone 2023 - What You Need to Know About the Expected Pricing, Launch Date, and Specs Updates</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/powercoreplus-26800-portable-charger-evaluation-a-streamlined-tech-companion/"><u>PowerCore+ 26800 Portable Charger Evaluation: A Streamlined Tech Companion</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-xiaomi-13t-pro-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Xiaomi 13T Pro Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/why-your-imessages-might-not-have-sent-unveiling-the-reasons-behind-missing-messages/"><u>Why Your iMessages Might Not Have Sent: Unveiling the Reasons Behind Missing Messages</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-how-to-make-macbook-pro-video-tutorials-easy/"><u>[New] 2024 Approved How to Make Macbook Pro Video Tutorials Easy</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ankers-affordable-20-power-bank-the-ultimate-solution-for-your-portable-charger-woes-insights/"><u>Anker's Affordable $20 Power Bank: The Ultimate Solution for Your Portable Charger Woes - Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/are-evs-truly-sustainable-a-deeper-look-into-their-green-credentials/"><u>Are EVs Truly Sustainable: A Deeper Look Into Their Green Credentials</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/bypassing-login-requirements-a-guide-to-observing-instagram-posts-anonymously/"><u>Bypassing Login Requirements: A Guide to Observing Instagram Posts Anonymously</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-techniques-for-snapping-pictures-of-your-desktop-in-windowsmac-os/"><u>Easy Techniques for Snapping Pictures of Your Desktop in Windows/Mac OS</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effective-strategies-integrating-chatgpt-into-cognitive-behavioral-therapy-sessions/"><u>Effective Strategies: Integrating ChatGPT Into Cognitive Behavioral Therapy Sessions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-save-big-on-best-buys-prime-day-offer-snag-an-hp-victus-15-gamer-at-just-515/"><u>Exclusive: Save Big on Best Buy's Prime Day Offer - Snag an HP Victus #15 Gamer at Just $515!</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-stable-usb-connection-issues-and-prevent-sudden-pc-restarts-guide-for-windows-pressure-surge/"><u>Fix Stable USB Connection Issues and Prevent Sudden PC Restarts - Guide for Windows Pressure Surge</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-samsung-galaxy-f54-5g-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Samsung Galaxy F54 5G to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-to-repair-libxml2dll-is-missing-problems-in-windows-systems/"><u>Guide to Repair 'libxml2.dll Is Missing' Problems in Windows Systems</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-honor-x8b-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Honor X8b</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/join-forces-with-your-pals-syncing-up-for-a-group-listening-experience-on-spotify/"><u>Join Forces with Your Pals: Syncing Up for a Group Listening Experience on Spotify</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722854988017-managing-your-iphones-native-apps-can-you-delete-them-heres-what-you-need-to-know/"><u>Managing Your iPhone's Native Apps: Can You Delete Them? Here's What You Need to Know</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-your-device-a-complete-history-of-ipados-releases/"><u>Mastering Your Device: A Complete History of iPadOS Releases</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/perfect-phone-match-up-for-samsungs-virtual-reality-dreams-update-2023/"><u>Perfect Phone Match-Up for Samsung's Virtual Reality Dreams - Update 2023</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-motorola-moto-g73-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Motorola Moto G73 5G Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/speak-snapchats-language-a-detailed-decoder-of-emoji-meanings-within-the-app/"><u>Speak Snapchat's Language: A Detailed Decoder of Emoji Meanings Within the App</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-fix-for-when-system-cant-find-java-vm-missing-jvmdll/"><u>The Ultimate Fix for When System Can’t Find Java VM (Missing JVM.DLL)</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/ultimate-fb-downloading-kit-best-for-ff-browser-users-for-2024/"><u>Ultimate FB Downloading Kit - Best for FF Browser Users for 2024</u></a></li>
 </ul></div>
 

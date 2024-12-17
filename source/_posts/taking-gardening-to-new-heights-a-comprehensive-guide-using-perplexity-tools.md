@@ -1,7 +1,7 @@
 ---
 title: "Taking Gardening to New Heights: A Comprehensive Guide Using Perplexity Tools"
-date: 2024-08-30T14:41:28.318Z
-updated: 2024-08-31T14:41:28.318Z
+date: 2024-12-16T12:42:42.080Z
+updated: 2024-12-16T19:07:43.681Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/98a74ce7172ad2a57d4310a18c57051ce671b66b0
 ---
 
 ## Taking Gardening to New Heights: A Comprehensive Guide Using Perplexity Tools
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -25,34 +29,32 @@ thumbnail: https://thmb.techidaily.com/98a74ce7172ad2a57d4310a18c57051ce671b66b0
 
 ## ![A screenshot of the Perplexity AI user interface showing the prompt box.](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/perplexityui.jpeg)An AI-Powered Search Engine
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [ChatGPT](https://chatgpt.com) does have a search engine add-on tool, but web searches aren't an add-on or afterthought to Perplexity. It is an AI chatbot built from the ground up to be an AI-powered internet search engine. [ChatGPT and Perplexity have different strengths](https://instagram-video-files.techidaily.com/updated-2024-approved-enhance-your-video-impact-with-slow-motion-on-ig/), but Perplexity's unique response layout may be its most valuable feature.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  The List of Sources
 
  Entering the simple prompt, "How to grow buckwheat", provided the sources used to compose the answer. Perplexity uses its own knowledge and the search results to confirm and compose its response. For this prompt, three sources on how to grow buckwheat, one source on the advantages of growing buckwheat in your vegetable garden, and a YouTube video on its uses.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### ![A screen shot of Perplexity AI search results displaying the search prompt, sources, answer, and picture/videos.](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/perplexitybuckwheat.jpeg)A Step-By-Step Answer
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  In both the web browser and mobile layout, the row of sources is followed by step-by-step bullets of information. For this prompt, the answer included ideal conditions for growing buckwheat, a description of growth from seed to flower, and the advantages of using it as a cover crop in vegetable gardens. Each step has citations from the source list. However, because Perplexity performs a new search each time, results can vary slightly with each search. Later, the same prompt resulted in information on "planting buckwheat", "growing buckwheat", and "harvesting buckwheat". After that well-organized answer, there's an option to ask a follow-up question.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Pictures and Video
 
  To the right of the sources and answer is an arrangement of pictures of flowering buckwheat. There is also a thumbnail of the YouTube video referenced in the sources that can be played in-app.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  The Focus Feature: For Searching YouTube, Reddit, and More!
 
  For my next prompt, I clicked the "Focus" button under the prompt box. This cues you to select one of six options for your area of focus.
@@ -64,19 +66,17 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 * YouTube - Discover and watch videos
 * Reddit - Search for discussions and opinions
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### ![A screenshot of the Perplexity AI focus feature below the prompt box on the home screen.](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/perplexityuifocus-1.jpeg)Focus: Reddit
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
  Crows began eating our freshly planted popcorn. I allowed my children to construct a scarecrow out of PVC pipe, but I knew there were likely some hacks on Reddit. Perplexity could save me at least an hour of scrolling aimlessly through dozens of posts and provide a summary of suggestions in a moment. This focused Perplexity answer had a list of Reddit posts as the sources and six numbered suggestions. They included hanging distracting shiny objects like wind chimes or pinwheels, placing fake owls or hawks around the garden, or constructing a physical barrier out of bird netting. They did not include a PVC scarecrow named Ted.
 
 ### ![A screenshot of focused Perplexity AI search results displaying sources and the answer.](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/perplexityreddit.jpeg)Focus: YouTube
 
  While our popcorn is sprouting, I'm planning ahead and trying to learn how to harvest both popcorn and buckwheat. After harvesting, buckwheat must be threshed, and popcorn must be cured. For the prompts, "How to thresh buckwheat" and then "How to harvest popcorn" the sources list five specific YouTube videos. The answer has numbered instructions on harvesting, and each step cites the specific video which the step was sourced from. On the right is a column of the source thumbnails, all playable in-app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Elephant in the Room: Why Don't You Just Use Google?
 
@@ -90,8 +90,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -99,4 +97,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-excellent-podcast-platforms-for-windows-users/"><u>[New] Excellent Podcast Platforms for Windows Users</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-ultimate-ai-powered-image-editor/"><u>[Updated] In 2024, Ultimate AI-Powered Image Editor</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/amd-radeon-graphics-drivers-version-2410-update-and-features/"><u>AMD Radeon Graphics Drivers Version 24.10: Update and Features</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-8-ebook-reader-apps-dominating-2024/"><u>Discover the Best 8 Ebook Reader Apps Dominating 2024!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/essential-websites-for-youtube-video-promotion/"><u>Essential Websites for YouTube Video Promotion</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-our-picked-5-apple-watch-apps-guaranteed-to-optimize-your-sleep-quality/"><u>Explore Our Picked 5 Apple Watch Apps Guaranteed to Optimize Your Sleep Quality</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-future-of-transport-tesla-robotaxi-price-speculations-expected-debut-date-technical-details-and-emerging-rumors/"><u>Exploring the Future of Transport: Tesla Robotaxi Price Speculations, Expected Debut Date, Technical Details, and Emerging Rumors</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Motorola G54 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-create-a-shared-spotify-experience-for-you-and-your-friends/"><u>How to Create a Shared Spotify Experience for You and Your Friends</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-enjoy-how-to-train-your-dragon-films-viewing-order-explained/"><u>How to Enjoy How to Train Your Dragon Films - Viewing Order Explained</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-tecno-pova-5-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Tecno Pova 5 Pattern Lock Screen</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-vivo-s18-pro-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Vivo S18 Pro? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/initiating-a-new-era-of-usability-top-6-recommendations-for-the-windows-11-taskbar/"><u>Initiating a New Era of Usability: Top 6 Recommendations for the Windows 11 Taskbar</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-account-creation-on-sonys-playstation-network/"><u>Mastering Account Creation on Sony’s PlayStation Network</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/techniques-for-swiftly-finding-deleted-reddit-contributions-for-2024/"><u>Techniques for Swiftly Finding Deleted Reddit Contributions for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-checklist-5-factors-to-weigh-before-getting-your-new-smartwatch/"><u>The Ultimate Checklist - 5 Factors to Weigh Before Getting Your New Smartwatch</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/unveiling-social-network-regulations-can-you-share-videos-for-2024/"><u>Unveiling Social Network Regulations Can You Share Videos for 2024</u></a></li>
+</ul></div>
 

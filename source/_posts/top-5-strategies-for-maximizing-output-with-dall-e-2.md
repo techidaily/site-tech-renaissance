@@ -1,7 +1,7 @@
 ---
 title: Top 5 Strategies for Maximizing Output with DALL-E 2
-date: 2024-08-30T14:41:33.900Z
-updated: 2024-08-31T14:41:33.900Z
+date: 2024-12-15T23:53:41.723Z
+updated: 2024-12-17T13:12:44.478Z
 tags:
   - cutting-edge
 categories:
@@ -45,21 +45,24 @@ Related: [OpenAI's DALL-E 2 AI Is Only Bad News for Some Artists](https://extra-
 
 ![A grasshopper superhero action figure.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/2022-09-29_11-57-04.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  I've got a pretty good result for my grasshopper superhero action figure, but now I need a background. By adding "being held by a kid" I've created a much more interesting image.
 
 ![A grasshopper superhero action figure being held by a kid.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/2022-09-29_11-56-57.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  An easy way to fill out the background is to use a location. You can simply add "in Times Square" at the end, for example. The key is to give the background some love.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Specify an Art Style
 
  One of the best ways to get really good results is to use art styles in your prompts. This can be broad art styles or even specific artists and paintings.
@@ -72,9 +75,6 @@ Related: [OpenAI's DALL-E 2 AI Is Only Bad News for Some Artists](https://extra-
 
 Related: [What Can You Do With AI Generated Art?](https://technical-tips.techidaily.com/the-ultimate-checklist-pre-purchase-assessments-for-optimal-video-recording-devices/) 
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Set the Mood of the Scene
 
  You're probably noticing a theme---be descriptive. That applies to more than the subject and background. It's also important to describe the general mood you're going for.
@@ -87,13 +87,6 @@ Related: [What Can You Do With AI Generated Art?](https://technical-tips.techida
 
 ![A sad zebra running through a candy corn field in the dark.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/2022-09-29_12-15-54.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ##  Expand on Existing Photos
 
  "[Outpainting](https://openai.com/blog/dall-e-introducing-outpainting/)" is a feature that allows you to expand on existing photos in a number of ways. First, you can literally expand a photo by adding more to the frame.
@@ -103,15 +96,17 @@ Related: [What Can You Do With AI Generated Art?](https://technical-tips.techida
 ![DALL-E outpainting.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/dall-e-outpainting.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can also use this feature to "edit" certain parts of images. Say I didn't like the Sombrero in one of the robot images above. I can erase the Sombrero and describe a different hat or let DALL-E remove it entirely from the image.
 
 ![A robot eating a taco without the sombrero.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/2022-09-29_12-29-15.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Outpainting is one of the coolest DALL-E features. There's a lot you can do with it to edit your own existing images or images created by DALL-E. It's easy to get lost in creating new prompts, but don't overlook Outpainting.
 
 ---
@@ -130,8 +125,6 @@ Related: [ChatGPT: How to Use the AI Chatbot for Free](https://extra-resources.t
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,4 +132,26 @@ Related: [ChatGPT: How to Use the AI Chatbot for Free](https://extra-resources.t
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-illuminating-imagery-mastering-three-key-insta-hits/"><u>[New] 2024 Approved Illuminating Imagery Mastering Three Key Insta Hits</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-honesty-in-high-definition-reviewing-recordcasts-efficacy/"><u>[New] Honesty in High-Definition Reviewing RecordCast's Efficacy</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-top-10-youtube-business-channels-to-create-one-easily/"><u>[New] In 2024, Top 10 YouTube Business Channels to Create One Easily</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-exploring-innovative-sequencing-with-gopros-burst-feature-for-2024/"><u>[Updated] Exploring Innovative Sequencing with GoPro's Burst Feature for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-transforming-live-youtube-broadcasts-into-recorded-soundtracks/"><u>[Updated] In 2024, Transforming Live YouTube Broadcasts Into Recorded Soundtracks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/boost-engagement-with-text-annotations-for-your-instagram-story-posts/"><u>Boost Engagement with Text Annotations for Your Instagram Story Posts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-review-of-the-geometric-future-eskimo-jr-impressive-appearance-and-low-noise-profile-with-limited-performance-features/"><u>Comprehensive Review of the Geometric Future Eskimo Jr.: Impressive Appearance and Low Noise Profile with Limited Performance Features</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/demystifying-ussd-an-in-depth-look-at-unstructured-supplementary-service-data/"><u>Demystifying USSD: An In-Depth Look at Unstructured Supplementary Service Data</u></a></li>
+<li><a href="https://techtrends.techidaily.com/disable-news-and-information-widgets-in-windows-11-instructions-included/"><u>Disable News & Information Widgets in Windows 11 - Instructions Included</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ending-the-darkness-effective-strategies-to-fix-black-screen-issues-on-your-windows-11-pc/"><u>Ending the Darkness: Effective Strategies to Fix Black Screen Issues on Your Windows 11 PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/experts-picks-the-ultimate-7-traffic-management-applications/"><u>Experts' Picks: The Ultimate 7 Traffic Management Applications</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-these-1-boosting-local-communities-through-volunteer-tourism-a-sustainable-approach-to-traveling/"><u>Explore These 1 # Boosting Local Communities Through Volunteer Tourism: A Sustainable Approach to Traveling</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Nokia C22? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-recover-and-protect-after-a-security-breach-on-your-apple-id/"><u>How to Recover and Protect After a Security Breach on Your Apple ID</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-enthralling-thesis-fabricator/"><u>In 2024, Enthralling Thesis Fabricator</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ipad-and-wi-fi-woes-heres-how-you-can-get-connected-again/"><u>IPad and Wi-Fi Woes? Here's How You Can Get Connected Again!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/leading-portable-powerhouses-discover-the-finest-mini-gaming-rigs/"><u>Leading Portable Powerhouses: Discover the Finest Mini Gaming Rigs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722885947141-subwoofer-dilemma-solved-get-rid-of-the-irritating-audio-hum-once-and-for-all/"><u>Subwoofer Dilemma Solved? Get Rid of the Irritating Audio Hum Once and For All</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/uncover-personal-details-top-8-online-databases-for-finding-persons/"><u>Uncover Personal Details: Top 8 Online Databases for Finding Persons</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Say Goodbye to Clutter: Master the Simple Technique for a Cleaner Email Experience – Discover How | ZDNET"
-date: 2024-12-04T03:07:35.295Z
-updated: 2024-12-11T07:47:36.987Z
+date: 2024-12-14T16:00:02.857Z
+updated: 2024-12-17T16:00:26.711Z
 tags:
   - apple
 categories:
@@ -25,7 +25,7 @@ If you're going to be one of those people, read on.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -57,13 +57,13 @@ These are the iPhones that can run iOS 15:
 
 If your iPhone is one of these and is not running the latest version of iOS 15, then I recommend upgrading to the latest release to get the best experience. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. Look out for apps that need additional handholding during a transfer
 
 Next, some apps -- specifically banking apps in my experience -- prefer it if you deactivate or deauthorize them on the old iPhone before moving to a new handset. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### read this
 
@@ -74,10 +74,6 @@ It's not that you can't still get the service to work, but you may have to jump 
 I'd definitely check any banking and financial apps for any special process involved in moving them to a new handset and take care of that up front. 
 
 **Also:** [**The 5 best payment apps (Venmo isn't your only option)**](https://www.zdnet.com/article/best-payment-app/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  3\. Protect your data
 
@@ -92,7 +88,7 @@ Don't have enough iCloud space? Don't worry! Apple will let you borrow some [tem
 **Also:** [**Here's a hidden way to increase your iCloud storage**](https://www.zdnet.com/article/the-secret-hidden-way-you-can-double-apples-maximum-2tb-icloud-storage-limit/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  4\. Get ready for the transfer
@@ -110,7 +106,7 @@ Apple has made transferring to a new iPhone easy.
 Screenshot/Adrian Kingsley-Hughes
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  5\. Wiping the old iPhone
@@ -146,6 +142,10 @@ Remember, once you start this process, there's no going back!
 * [How to clean your Apple Watch in 5 steps](https://www.zdnet.com/article/how-to-clean-your-apple-watch-in-5-steps/)
 * [How to clean and sanitize your AirPods](https://www.zdnet.com/article/how-to-clean-and-sanitize-your-airpods/)
 * [How to clean a mechanical keyboard](https://www.zdnet.com/article/how-to-clean-a-mechanical-keyboard/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Spring-clean your iPhone
 
@@ -187,24 +187,20 @@ Now you can relax and enjoy your [new iPhone](https://www.zdnet.com/article/here
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-next-gen-storytelling-10-sci-fi-films-transporting-you-elsewhere/"><u>[New] Next Gen Storytelling 10 Sci-Fi Films Transporting You Elsewhere</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-the-anatomy-of-apple-m1-chip-redefining-tech/"><u>[New] The Anatomy of Apple M1 Chip, Redefining Tech</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-what-actions-can-i-take-if-my-content-is-swiftly-stripped-by-fb-for-2024/"><u>[New] What Actions Can I Take if My Content Is Swiftly Stripped by FB for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-revamping-screen-recording-a-critical-look-at-camstudios-new-features/"><u>[Updated] 2024 Approved Revamping Screen Recording - A Critical Look at CamStudio's New Features</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-win11s-leading-video-creators-guide/"><u>[Updated] In 2024, Win11's Leading Video Creators Guide</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-the-art-of-lenovos-video-screen-capture/"><u>[Updated] The Art of Lenovo's Video Screen Capture</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/experts-choice-ultimate-guide-to-the-best-compact-tablets-of-202insert-year-detailed-analysis/"><u>Experts' Choice: Ultimate Guide to the Best Compact Tablets of 202([Insert Year]) - Detailed Analysis</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/explore-the-best-android-collage-platforms-for-2024/"><u>Explore the Best Android Collage Platforms for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-apple-can-level-the-playing-field-in-intelligence-tech-against-giants-openai-and-google-according-to-zdnet-analysis/"><u>How Apple Can Level the Playing Field in Intelligence Tech Against Giants OpenAI and Google, According to ZDNET Analysis</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-exclusive-list-general-knowledge-quiz-channels-24/"><u>In 2024, Exclusive List General Knowledge Quiz Channels '24</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ios-18-tutorial-a-step-by-step-guide-to-personalizing-the-control-center-on-your-iphone/"><u>IOS 18 Tutorial: A Step-by-Step Guide to Personalizing the Control Center on Your iPhone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/joining-the-crowd-in-disappointment-how-iphone-users-are-reacting-to-ios-18-update/"><u>Joining the Crowd in Disappointment? How iPhone Users Are Reacting to iOS 18 Update.</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/macbook-air-with-m1-chip-now-at-unbeatable-price-of-649-the-ultimate-deal/"><u>MacBook Air with M1 Chip Now at Unbeatable Price of $649: The Ultimate Deal</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/making-the-shift-from-legacy-systems-is-it-time-for-an-apple-macbook-pro-upgrade-to-m1-technology-gadgetguru/"><u>Making the Shift From Legacy Systems: Is It Time for an Apple MacBook Pro Upgrade to M1 Technology? | GadgetGuru</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-your-imessage-delivery-problems-discover-causes-and-fixes-on-zdnet/"><u>Solving Your iMessage Delivery Problems: Discover Causes and Fixes on ZDNet</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/streamlining-video-sequence-assembly-through-blends/"><u>Streamlining Video Sequence Assembly Through Blends</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/tech-triumph-apple-developers-ecstatic-as-their-key-software-receives-monumental-complimentary-ai-upgrade-explore-on-zdnet/"><u>Tech Triumph: Apple Developers Ecstatic as Their Key Software Receives Monumental, Complimentary AI Upgrade - Explore on ZDNet!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/telegram-unveiled-an-insight-into-this-popular-communication-application/"><u>Telegram Unveiled: An Insight Into This Popular Communication Application</u></a></li>
-<li><a href="https://extra-information.techidaily.com/turbocharged-windows-content-assessment/"><u>Turbocharged Windows Content Assessment</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-elevate-your-vlogging-skills-with-pro-gopro-tips-for-2024/"><u>[New] Elevate Your Vlogging Skills with Pro GoPro Tips for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-how-to-make-slow-motion-videos-on-instagram-reels-step-by-step-for-2024/"><u>[New] How to Make Slow Motion Videos on Instagram Reels [Step by Step] for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-listenlogic-evaluating-alternatives-to-dacast/"><u>[New] ListenLogic Evaluating Alternatives to DaCast</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-optimal-mp4-transporter-to-fb-hub/"><u>[Updated] Optimal MP4 Transporter to FB Hub</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/44cm44ot44oh44kq44kz44oz44og44ok5asj5oplusb44ks44kk44oj77ya5ywo44gm6kal44gb44gh44kd44ge44gplus44gz77yb44cn/"><u>「ビデオコンテナ変換ガイド：全て見せちゃいます！」</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/11-must-watch-films-for-a-dose-of-inspiration-ranked/"><u>11 Must-Watch Films for a Dose of Inspiration: Ranked!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/activating-evening-display-settings-for-enhanced-comfort-on-ios-devices/"><u>Activating Evening Display Settings for Enhanced Comfort on iOS Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/advanced-techniques-for-organizing-inbox-with-gmail-custom-filters/"><u>Advanced Techniques for Organizing Inbox with Gmail Custom Filters</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-software-to-fix-and-repair-corrupt-mp4-mov-avi-video-files-of-y200e-5g-by-stellar-video-repair-mobile-video-repair/"><u>Best software to Fix and Repair Corrupt MP4,MOV,AVI video files of Y200e 5G</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Infinix Zero 5G 2023 Turbo? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-vivo-x100-pro-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Vivo X100 Pro</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/masterclass-in-creating-the-ideal-home-4k-editing-pc/"><u>Masterclass in Creating the Ideal Home 4K Editing PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/order-matters-learn-to-enjoy-the-entire-dragon-ball-z-storyline-correctly/"><u>Order Matters! Learn to Enjoy the Entire Dragon Ball Z Storyline Correctly</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-resolving-issues-with-windows-1n-failure-to-power-off/"><u>Ultimate Guide: Resolving Issues with Windows 1N Failure to Power Off</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/uncover-hidden-gems-free-movie-selections-for-cinema-lovers-on-youtube-in-july-2024/"><u>Uncover Hidden Gems: Free Movie Selections for Cinema Lovers on YouTube in July 2024</u></a></li>
 </ul></div>
 

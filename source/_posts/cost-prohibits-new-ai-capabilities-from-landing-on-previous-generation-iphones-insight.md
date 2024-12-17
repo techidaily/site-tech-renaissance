@@ -1,7 +1,7 @@
 ---
 title: Cost Prohibits New AI Capabilities From Landing on Previous Generation iPhones - Insight
-date: 2024-12-07T03:16:56.779Z
-updated: 2024-12-10T16:40:27.922Z
+date: 2024-12-11T16:00:36.122Z
+updated: 2024-12-17T16:00:21.878Z
 tags:
   - apple
 categories:
@@ -37,7 +37,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The cost of GPU processing
@@ -49,7 +49,7 @@ Advanced AI features require substantial computational power, typically provided
 Even [major AI service providers](https://www.zdnet.com/article/best-ai-chatbot/) such as OpenAI, Microsoft, and Google encounter challenges in offering dependable and quick access to LLM and Generative AI models to the general public without downtime and overcommitting resources. The shortage and cost of GPU-enabled servers make these issues worse. To maintain the rapid response times expected by its customers, Apple will need to invest substantially in servers, data centers, and edge infrastructure -- an infrastructure level it likely does not currently possess.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple's approach to Private Cloud Compute (PCC)
@@ -61,7 +61,7 @@ For the initial rollout of Apple Intelligence, the company has chosen a hybrid a
 Apple is currently focused on rolling out its [Generative AI services](https://www.zdnet.com/article/apple-unveils-on-device-ai-image-generator-for-iphone-ipad-and-mac/) to high-end devices as part of the initial phase of Apple Intelligence deployment. This allows Apple to enhance its AI capabilities and infrastructure before expanding to a wider range of devices. To bring Apple Intelligence to the rest of its ecosystem, the company will likely deploy AI-accelerated server appliances at the edge, enabling less capable devices to benefit from advanced AI features. However, this infrastructure is not yet ready for large-scale deployment, as Apple's shift towards AI development is still recent.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The challenges of edge computing
@@ -75,7 +75,7 @@ While NVIDIA is a major player in the GPU server space, others include tradition
 As reported by _The Register_, Apple is [developing its own AI servers](https://www.theregister.com/2024/06/11/apple%5Fbuilt%5Fai%5Fcloud%5Fservers%5Fos/), which are expected to be more cost-effective and better integrated with its ecosystem. These servers are currently being tested in data centers for foundation model use, and a broader rollout is anticipated in 2025\. This phased approach ensures Apple can maintain high privacy, security, and user experience standards while gradually expanding its AI capabilities across its device lineup.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Broader implications for IoT and other devices
@@ -120,22 +120,22 @@ As Apple continues developing its AI infrastructure, including potential edge co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-boost-your-views-with-premium-youtube-rank-watchers-for-2024/"><u>[New] Boost Your Views with Premium YouTube Rank Watchers for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-virtual-forum-transcription-for-2024/"><u>[New] Virtual Forum Transcription for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-financial-impact-of-viewership-on-content-makers-for-2024/"><u>[Updated] The Financial Impact of Viewership on Content Makers for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/8-on-zdnet/"><u>8 on ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-elite-list-of-mac-devices-insights-from-zdnets-comprehensive-guide/"><u>Discover the Elite List of Mac Devices : Insights From ZDNet's Comprehensive Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-latest-ipados-18-innovations-introduced-at-wwdc-202er-and-which-devices-are-eligible-tech-analysis-from-zdnet/"><u>Discover The Latest iPadOS 18 Innovations Introduced at WWDC 202Er and Which Devices Are Eligible | Tech Analysis From ZDNet</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/expertenempfohlene-methode-zur-sicherheitskopie-von-samsung-nvme-speichernutzern/"><u>Expertenempfohlene Methode Zur Sicherheitskopie Von Samsung NVMe Speichernutzern</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixes-available-troubleshooting-cod-black-ops-cold-war-pc-startup-issues/"><u>Fixes Available! Troubleshooting Cod: Black Ops Cold War PC Startup Issues</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>How to get the dragon scale and evolution-enabled pokemon On Apple iPhone 13? | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-keep-your-canoscan-lide-120-scanner-current-with-latest-software-updates/"><u>How to Keep Your CanoScan LiDE 120 Scanner Current with Latest Software Updates</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/innovative-shift-in-music-streaming-apples-latest-upgrade-enables-easy-transfer-of-spotify-lists-technews/"><u>Innovative Shift in Music Streaming: Apple's Latest Upgrade Enables Easy Transfer of Spotify Lists | TechNews</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722893573815-insider-insights-potential-launch-date-price-point-and-specs-of-the-pixel-9/"><u>Insider Insights: Potential Launch Date, Price Point & Specs of the Pixel 9</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/lenovo-screen-fix-responsive-again/"><u>Lenovo Screen Fix: Responsive Again</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/psvr-2-insights-exploring-recent-updates-on-pricing-availability-specs-and-more/"><u>PSVR 2 Insights: Exploring Recent Updates On Pricing, Availability, Specs & More</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/record-calls-with-ios-a-step-by-step-tutorial-and-legal-considerations-for-iphone-users/"><u>Record Calls with iOS: A Step-by-Step Tutorial & Legal Considerations for iPhone Users</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-techniques-to-check-for-a-secretly-tracked-device-how-to-identify-an-airtag-surveillance/"><u>Unveiling the Techniques to Check for a Secretly Tracked Device: How to Identify an AirTag Surveillance</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-how-to-access-and-watch-nonstop-nba-live-stream-free-online-for-2024/"><u>Updated How To Access and Watch Nonstop NBA Live Stream Free Online for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-amplify-content-with-free-audio-samples/"><u>[Updated] In 2024, Amplify Content with Free Audio Samples!</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-youtubes-top-5-apps-that-trim-your-long-video-links-down-for-2024/"><u>[Updated] Youtube’s Top 5 Apps That Trim Your Long Video Links Down for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-downloading-and-watching-netflix-movies-on-windowsmac-computers/"><u>Comprehensive Guide: Downloading and Watching Netflix Movies on Windows/Mac Computers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/eliminating-echoes-effective-strategies-for-reducing-delay-on-your-chromecast-audio-setup/"><u>Eliminating Echoes: Effective Strategies for Reducing Delay on Your Chromecast Audio Setup</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/free-cad-solutions-unveiled-top-4-picks-for-aspiring-designers/"><u>Free CAD Solutions Unveiled: Top 4 Picks for Aspiring Designers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/gmail-meets-google-duo-simplify-adding-voice-and-video-calling-to-your-email-service/"><u>Gmail Meets Google Duo: Simplify Adding Voice and Video Calling to Your Email Service</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-xiaomi-civi-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-realme-narzo-n55-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Realme Narzo N55 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/invisible-conversations-revealing-who-youre-truly-messaging-on-the-web-and-unraveling-the-phantom-net-notion/"><u>Invisible Conversations: Revealing Who You're Truly Messaging on the Web and Unraveling the Phantom Net Notion</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/maximize-gaming-experience-by-adding-an-external-hdd-to-xbox-one-how-to-guide/"><u>Maximize Gaming Experience by Adding an External HDD to Xbox One - How-To Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-obs-studio-startup-blunders-win-edition/"><u>Preventing OBS Studio Startup Blunders (Win Edition)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quick-fixes-for-iphones-that-wont-make-a-sound-when-calling/"><u>Quick Fixes for iPhones That Won't Make a Sound When Calling</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/steps-to-cure-intermittent-obs-frames-for-2024/"><u>Steps to Cure Intermittent OBS Frames for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-future-of-tech-unveiled-google-event-preview-rumors-and-releases/"><u>The Future of Tech Unveiled: Google Event Preview, Rumors & Releases</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/toms-tech-reviews-unveiling-the-latest-in-computer-hardware/"><u>Tom's Tech Reviews: Unveiling the Latest in Computer Hardware</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-6-causes-behind-frequent-car-battery-failures/"><u>Top 6 Causes Behind Frequent Car Battery Failures</u></a></li>
 </ul></div>
 

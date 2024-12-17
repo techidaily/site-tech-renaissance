@@ -1,7 +1,7 @@
 ---
 title: "Cut Costs, Boost Learning: How To Snag a Steep Student Discount From Dell"
-date: 2024-08-26T07:25:25.172Z
-updated: 2024-08-27T07:25:25.172Z
+date: 2024-12-14T16:00:06.390Z
+updated: 2024-12-17T16:00:04.343Z
 categories:
   - BestProducts
 description: "This Article Describes Cut Costs, Boost Learning: How To Snag a Steep Student Discount From Dell"
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/2281b9c089178cef469efa6df066ce173ea670348
 ## Walkthrough to Securing Lower Cost on Microsoft Products Through Student Savings
  Microsoft sells a lot of software that's useful for students, and devices like the[Surface and Surface Pro](https://www.lifewire.com/microsoft-surface-series-4163521) are great for keeping productivity up while you're on the go. If you're an eligible student (or a parent of one), you can take advantage of Microsoft's student discount to gain free access to powerful software like[Office 365](https://www.lifewire.com/microsoft-office-for-students-teachers-2511861) and save on computers and other devices.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Get the Microsoft Student Discount
 
  To get the Microsoft student discount, all you have to do is access the online Microsoft store through the student and military discount portal. Here's how the process works:
@@ -21,12 +25,21 @@ thumbnail: https://thmb.techidaily.com/2281b9c089178cef469efa6df066ce173ea670348
 2. The site tells you you're eligible for special pricing. Select**OK** .  
 ![A screenshot of the Microsoft Student Discount confirmation notice.](https://www.lifewire.com/thmb/_opw21hzYkn3V9Wb_mLqP5iLV7U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-get-a-microsoft-store-student-discount-3eae80c050da4116adf04508a1cb8e42.jpg)
 3. Select**Student Deals** from the list of store categories.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Microsoft online store.](https://www.lifewire.com/thmb/AgZeGz5ITQKUJ8jp0pIPIsbbSzI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-get-a-microsoft-store-student-discount-51ae65ba3fbc4b11b3eee0030822ec9e.jpg)
 4. Locate the software or device you want to buy, and add it to your cart.  
 ![Adding an item to your cart.](https://www.lifewire.com/thmb/syXuUKJeVh9EZEPIoxTMwY8Li3g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-get-a-microsoft-store-student-discount-0d1004a1092e4a5dbf63a1905d0fa237.jpg)
 5. Complete the checkout process.  
 ![Checking out at the online Microsoft store.](https://www.lifewire.com/thmb/gF3Dy3jJNOJlbYJPatebpx5EyGw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-how-to-get-a-microsoft-store-student-discount-011f2569dab04dcb8c3c942c4cba5e55.jpg)  
  If you choose to pick up your order at a local Microsoft store, remember to bring your student ID. Microsoft doesn't verify enrollment during online purchases, but they may ask for proof of enrollment during pickup.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Who Is Eligible for Microsoft's Student Discount?
 
@@ -39,8 +52,9 @@ thumbnail: https://thmb.techidaily.com/2281b9c089178cef469efa6df066ce173ea670348
 ![Person accessing the Microsoft student discount on a phone.](https://www.lifewire.com/thmb/h1sE0kaVMIxmUmfOCw7SnD4v-cI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/microsoftstudentdiscount-3fb8972d9f274cb5a0c5dbc2bc56beb1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Does Microsoft's Student Discount Get You?
 
  The Microsoft student discount typically provides up to 10-percent savings on hardware like desktop computers, laptops, and tablets. It also grants free access to some software, like Office 365.
@@ -53,8 +67,9 @@ Certain items are specifically excluded, including:
 * Gift cards and subscriptions to services like Xbox Game Pass.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Does Microsoft Verify Student Enrollment?
 
  When you request the student discount at a physical Microsoft store, you need to show your student ID or some another supporting document like a class schedule, transcript, or acceptance letter.
@@ -85,8 +100,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -94,4 +107,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-convert-with-confidence-best-apps-to-turn-spotify-into-youtube-channels-for-2024/"><u>[Updated] Convert with Confidence Best Apps to Turn Spotify Into YouTube Channels for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-expert-advice-on-free-youtube-events-without-extra-cost-for-2024/"><u>[Updated] Expert Advice on Free Youtube Events without Extra Cost for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-captivating-hdr-portraits-for-the-art-enthusiast/"><u>[Updated] In 2024, Captivating HDR Portraits for the Art Enthusiast</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-revolutionary-rider-helmet-cams-top-picks-for-23/"><u>2024 Approved Revolutionary Rider Helmet Cams - Top Picks for '23</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-vivo-x100-pro-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Vivo X100 Pro Phone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-buyers-checklist-the-key-qualities-of-a-superior-projector/"><u>A Buyer's Checklist: The Key Qualities of a Superior Projector</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-tp-link-re505x-range-extender-evaluation/"><u>Expert Analysis: TP-Link RE505X Range Extender Evaluation</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-your-new-era-audio-issues-with-these-simple-steps/"><u>Fix Your New Era Audio Issues with These Simple Steps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-adjust-or-shut-down-trackpadmouse-acceleration-in-macos-devices/"><u>How to Adjust or Shut Down Trackpad/Mouse Acceleration in macOS Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-fix-it-when-tiktok-isnt-working/"><u>How to Fix It When TikTok Isn't Working</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-fix-the-whea-uncorrectable-error/"><u>How to Fix the WHEA Uncorrectable Error</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-measure-and-control-your-online-data-usage-with-these-simple-tips/"><u>How To Measure And Control Your Online Data Usage With These Simple Tips</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-comprehensive-list-8-top-android-mp3-downloads/"><u>In 2024, Comprehensive List 8 Top Android MP3 Downloads</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/no-tether-online-experience-tips-for-a-cable-and-phone-free-internet/"><u>No-Tether Online Experience: Tips for a Cable and Phone-Free Internet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-restoring-wi-fi-access-on-your-ipad/"><u>Step-by-Step Tutorial: Restoring Wi-Fi Access on Your iPad</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/streamlining-the-acquisition-of-background-visual-content/"><u>Streamlining the Acquisition of Background Visual Content</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-taming-your-inbox-utilizing-labels-for-better-organization-on-gmail/"><u>The Ultimate Guide to Taming Your Inbox: Utilizing Labels for Better Organization on Gmail</u></a></li>
+</ul></div>
 

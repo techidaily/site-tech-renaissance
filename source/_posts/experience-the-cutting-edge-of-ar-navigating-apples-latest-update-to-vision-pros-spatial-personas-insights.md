@@ -1,7 +1,7 @@
 ---
 title: "Experience the Cutting-Edge of AR: Navigating Apple's Latest Update to Vision Pro's Spatial Personas Insights"
-date: 2024-12-07T19:38:21.770Z
-updated: 2024-12-11T00:26:22.012Z
+date: 2024-12-13T16:02:52.950Z
+updated: 2024-12-17T16:02:58.834Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Did they improve the overall quality of life and usability of Apple's most quixo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Turn 2D images into spatial photos
@@ -45,10 +45,6 @@ Now, Apple has announced that it's using machine learning to derive a left eye a
 Now, here's the thing. I tried watching a couple of Marvel 3D movies via Disney+ on the Vision Pro. All the Marvel movies were filmed in 2D and digitally remastered into 3D movies. The 3D effect is pretty underwhelming. Sometimes an object seems to be pulled from the background, but otherwise, it's not much to write home about. 
 
 I'm guessing that Apple's 3Difying of a 2D image will be at about the same level. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Watch those images together using SharePlay in the Photos app
 
@@ -65,7 +61,7 @@ In VisionOS 2, there are gestures. Holding your hand palm up and tapping fingers
 Unlike the previous two features, this _is_ a quality of life improvement. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Mac virtual display improvements
@@ -92,10 +88,6 @@ There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, 
 * **TabletopKit:** Helps developers create apps that anchor to flat surfaces. One obvious example is board game kits, but this could apply to interior design apps, architectural and construction projects, gaming, navigation, and more.
 * **Enterprise APIs:** These were described as enterprise-specific APIs, so we can assume they're somewhat special purpose. Examples given were surgical training and manufacturing.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. New Canon spatial lens for creating spatial video
 
 While iPhone 15 Pro users can create spatial video, there are limitations to using an iPhone as a camera. Apple announced today that Canon will be introducing a spatial lens for its [EOS R7 digital camera](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCanon-RF-S18-150mm-Mirrorless-Processor-Detection%2Fdp%2FB0B2KSD7WW%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbfbe271d-4f99-40f4-b81e-3b3c556a641c%7Cdtp&dtb=1). 
@@ -105,7 +97,7 @@ Screenshot by David Gewirtz/ZDNET
 This allows more commercial and prosumer projects where the photographer or videographer needs more control over the complex range of settings available in a more traditional camera. Those videos can then be edited in Final Cut Pro, Apple's only mention of Final Cut during WWDC. There's also a new Vimeo app for VisionOS, that will allow spatial videos to be shared. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Third-party immersive video workflow
@@ -118,6 +110,10 @@ Apple is opening up the format for third-party creators to create immersive vide
 
 Even so, I think this is great. Those immersive videos are fantastic. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Other new features
 
 Apple didn't cover all the new features during its announcement. At the end of the Vision Pro segment, the company put up one of its feature grid graphics (shown at the beginning of this article). Here are a few that weren't mentioned: 
@@ -126,6 +122,10 @@ Apple didn't cover all the new features during its announcement. At the end of t
 * **Keyboard breakthrough:** This was another feature I felt it was important for Apple to introduce, and apparently it will be available. No mention was made of it, so we have no idea if it's limited solely to Apple's own keyboards (but that's probably the case).
 * **Bora Bora environment:** I wanted to see more environments and we get…one. Personally, I think all the work on spatial photos and spatial videos could have been replaced with the ability for third parties to create 3D environments, but Apple didn't go there. But hey, Bora Bora, right?
 * **Rearrangeable Home View:** This was also not described but I'm guessing this means you can move around the Home icons.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What do you think?
 
@@ -171,19 +171,22 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-preserving-the-pulse-of-internet-radio-waves/"><u>[New] 2024 Approved Preserving the Pulse of Internet Radio Waves</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-sm-bus-controller-driver-issues-in-windows-1011/"><u>[SOLVED] SM Bus Controller Driver Issues in Windows 10/11</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-master-guide-implementing-chapters-in-vimeo/"><u>[Updated] Master Guide Implementing Chapters in Vimeo</u></a></li>
-<li><a href="https://os-tips.techidaily.com/creating-animated-gifs-using-your-iphone-a-step-by-step-guide/"><u>Creating Animated GIFs Using Your iPhone: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-fix-msidll-is-missing-or-not-found-errors/"><u>How to Fix Msi.dll Is Missing or Not Found Errors</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-craft-your-own-multitasking-masterpiece-with-these-15-tips/"><u>In 2024, Craft Your Own Multitasking Masterpiece with These 15 Tips</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/20347499-in-2024-how-to-custom-your-youtube-channel-url-super-easy/"><u>In 2024, How to Custom Your YouTube Channel URL – Super Easy</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-multiple-bluetooth-speaker-connection-in-your-space/"><u>Mastering the Art of Multiple Bluetooth Speaker Connection in Your Space</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/optimizing-file-management-tailoring-explorer-display-preferences-for-top-level-and-inherited-folders/"><u>Optimizing File Management: Tailoring Explorer Display Preferences for Top-Level & Inherited Folders</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/quick-fixes-for-airpods-that-wont-charge-learn-how-with-our-top/"><u>Quick Fixes for AirPods That Won't Charge - Learn How With Our Top</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-easy-driver-upgrade-for-your-intel-ac-3160-wireless-network-card/"><u>Step by Step - Easy Driver Upgrade for Your Intel AC 3160 Wireless Network Card</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-basics-of-bing-how-it-works-and-why-use-it/"><u>The Basics of Bing: How It Works and Why Use It</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-5-strategies-for-securely-storing-and-protecting-your-digital-information/"><u>Top 5 Strategies for Securely Storing & Protecting Your Digital Information</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/uncover-hidden-notifications-from-the-past-strategies-for-iphones/"><u>Uncover Hidden Notifications From the Past: Strategies for iPhones</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pictorial-synthesis-pro-online-blender-deluxe/"><u>[New] Pictorial Synthesis Pro Online Blender Deluxe</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/demystifying-the-art-of-apple-watch-face-swap-easy-tricks-and-tips-revealed/"><u>Demystifying the Art of Apple Watch Face Swap: Easy Tricks & Tips Revealed</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722965367428-install-asus-dvd-drivers-with-one-click-download/"><u>Install ASUS DVD Drivers with One-Click Download!</u></a></li>
+<li><a href="https://techidaily.com/is-your-honor-magic-vs-2-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Honor Magic Vs 2 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventing-and-handling-file-unreadable-problem-on-windows/"><u>Preventing and Handling ‘File Unreadable’ Problem on Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolve-windows-explorer-not-responding-errors-on-your-windows-7-system/"><u>Resolve 'Windows Explorer Not Responding' Errors on Your Windows 7 System</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolved-overcoming-mouse-delays-and-irregular-movements-in-windows-11-environments/"><u>Resolved: Overcoming Mouse Delays & Irregular Movements in Windows 11 Environments</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-logitech-mouse-issues-on-windows-11-a-comprehensive-guide/"><u>Resolving Logitech Mouse Issues on Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/roblox-gaming-optimized-increase-fps-with-these-2024-best-practices/"><u>Roblox Gaming Optimized: Increase FPS with These 2024 Best Practices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/secrets-to-browsing-the-net-invisibly-protect-your-digital-footprint/"><u>Secrets to Browsing the Net Invisibly: Protect Your Digital Footprint</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/sharable-gaming-adventures-an-insiders-guide-to-the-steam-sharing-function/"><u>Sharable Gaming Adventures: An Insider’s Guide to the Steam Sharing Function</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solution-steps-for-fixing-windows-pc-health-checker-malfunction/"><u>Solution Steps for Fixing Windows PC Health Checker Malfunction</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solutions-for-when-your-computer-wont-recognize-an-sd-card/"><u>Solutions for When Your Computer Won’t Recognize an SD Card</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-13-apps-de-videoconferencia-para-computadoras-su-guia-integral/"><u>Top 13 Apps De Videoconferencia Para Computadoras: Su Guía Integral</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/whos-gaining-thunder-in-the-video-cosmos/"><u>Who's Gaining Thunder in the Video Cosmos?</u></a></li>
 </ul></div>
 

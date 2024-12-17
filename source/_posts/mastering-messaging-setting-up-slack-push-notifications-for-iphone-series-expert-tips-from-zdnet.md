@@ -1,7 +1,7 @@
 ---
 title: "Mastering Messaging: Setting Up Slack Push Notifications for iPhone Series | Expert Tips From ZDNet"
-date: 2024-12-07T09:59:20.334Z
-updated: 2024-12-10T22:15:56.223Z
+date: 2024-12-14T16:01:44.221Z
+updated: 2024-12-17T16:04:28.028Z
 tags:
   - apple
 categories:
@@ -44,6 +44,10 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 
 ## How to send and receive iMessages on Windows
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Use Microsoft Phone Link
 
 Before you can use Phone Link, you'll have to take care of a few items on your phone and your PC.
@@ -56,15 +60,15 @@ Next, confirm that you're running the latest version of Phone Link. To do this, 
 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Open Phone Link
 
 Click the Start button, go to All Apps, and select Phone Link from the list. The first screen prompts you to select your device. Click the button for iPhone.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Scan the QR codes
 
@@ -94,21 +98,17 @@ To access your iPhone's text messages in Phone Link, tap the Messages heading at
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Start a new chat
 
 You can also start a new conversation. To do this, select one of your displayed contacts and then compose and send your text. To chat with someone else, click the New Message icon and type the name or phone number of the recipient. Compose and send your message.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Use Intel Unison
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Install Intel Unison
 
@@ -117,10 +117,6 @@ To use Intel Unison, download and install the app from [the Microsoft Store](htt
 Launch the app and click the Accept & Continue button. You'll be asked how you'd like to use Unison. In the section for "Empower your PC," click the "Add your phone" button.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Pair your phone and computer
 
@@ -134,15 +130,15 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Launch the Windows Unison app
 
 At the "Let's get started" screen in the Windows Unison app, click the icon for "Send messages." 
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  4\. Go to the Messages screen
 
@@ -155,6 +151,10 @@ Screenshot by Lance Whitney/ZDNET
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -192,24 +192,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-pushing-the-boundaries-animated-fb-ads-that-increase-return-on-investment/"><u>[New] 2024 Approved Pushing the Boundaries Animated FB Ads That Increase Return on Investment</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-twitter-takeover-1-10-must-watch-threads/"><u>[Updated] 2024 Approved Twitter Takeover #1-#10 Must-Watch Threads</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-examining-youtubes-mobile-app-for-iosandroid-devices-for-2024/"><u>[Updated] Examining YouTube's Mobile App for iOS/Android Devices for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-the-8-best-sketch-tools-for-digital-illustrators/"><u>[Updated] In 2024, The 8 Best Sketch Tools for Digital Illustrators</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-pcmobile-video-filter-techniques/"><u>[Updated] Mastering PC/Mobile Video Filter Techniques</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/boost-your-ios-experience-mastering-stealthy-siri-cmds-for-max-efficiency-wired/"><u>Boost Your iOS Experience: Mastering Stealthy Siri Cmds for Max Efficiency | Wired</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/choosing-between-the-iphones-a-comparison-of-iphone-14-pro-and-iphone-14-pro-max-for-your-next-upgrade-insights-from-zdnet/"><u>Choosing Between the iPhones: A Comparison of iPhone 14 Pro and iPhone 14 Pro Max for Your Next Upgrade – Insights From ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comparative-analysis-meta-quest-3-versus-apple-vision-pro-decoding-mark-zuckerbergs-reviews/"><u>Comparative Analysis: Meta Quest 3 Versus Apple Vision Pro | Decoding Mark Zuckerberg's Reviews</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comparing-iphones-unveiling-the-enhanced-features-of-the-iphone-15-pro-over-its-predecessor-the-iphone-14-pro/"><u>Comparing iPhones: Unveiling the Enhanced Features of the iPhone 15 Pro Over Its Predecessor, the iPhone ^[14 Pro</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-for-securing-your-iphone-content-via-icloudmac-backup-techniques/"><u>Comprehensive Guide for Securing Your iPhone Content via iCloud/Mac Backup Techniques</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-tips-on-removing-connected-devices-from-google-home-interface/"><u>Expert Tips on Removing Connected Devices From Google Home Interface</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/experts-picks-ultimate-selection-of-iphone-16-and-iphone-16-pro-defender-cases-in-202erials/"><u>Experts' Picks: Ultimate Selection of iPhone 16 and iPhone 16 Pro Defender Cases in 202Erials</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/hands-on-with-hp-envy-27-pushing-screen-tech-to-limits/"><u>Hands-On with HP Envy 27 Pushing Screen Tech to Limits</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-your-iphone-15-plus-on-metropcs-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Your iPhone 15 Plus on MetroPCS</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/is-the-latest-generation-of-airpods-pro-from-2022-worth-buying-expert-insights-and-comparison/"><u>Is the Latest Generation of AirPods Pro From 2022 Worth Buying? Expert Insights & Comparison</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/professional-video-production-on-your-iphone-with-apples-new-final-cut-app-exclusive-details-revealed-by-zdnet/"><u>Professional Video Production on Your iPhone with Apple's New Final Cut App: Exclusive Details Revealed by ZDNet</u></a></li>
-<li><a href="https://fox-http.techidaily.com/score-big-with-these-8-no-cost-3d-videos-apps-for-windows-and-mac-os/"><u>Score Big with These 8 No-Cost 3D Videos Apps for Windows & Mac OS</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/1722603674362-taking-a-deep-dive-into-the-features-of-creatives-2013-premium-sound-blaster-zxr/"><u>Taking a Deep Dive Into the Features of Creative's 2013 Premium Sound Blaster ZxR</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-your-chatgpt-top-4-causes-and-solutions-for-when-youre-banned/"><u>Unlocking Your ChatGPT: Top 4 Causes & Solutions for When You're Banned</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-8-mistakes-to-avoid-as-a-new-youtuber/"><u>[New] In 2024, 8 Mistakes to Avoid as a New Youtuber</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-ultimate-chromebook-snapshot-tool/"><u>[New] Ultimate Chromebook Snapshot Tool</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-brief-vignettes-facebooks-fast-lane/"><u>2024 Approved Brief Vignettes Facebook’s Fast Lane</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-solutions-to-correct-the-missing-dnssddll-error/"><u>Effective Solutions to Correct the Missing dnssd.dll Error</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-solving-no-wi-fi-signal-for-surface-pro-users/"><u>Guide: Solving No Wi-Fi Signal for Surface Pro Users</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-update-your-usb-30-network-adapter-drivers-in-windows/"><u>How to Update Your USB 3.0 Network Adapter Drivers in Windows</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-vivo-t2-pro-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Vivo T2 Pro 5G</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-your-options-a-comprehensive-look-at-9-key-considerations-when-investing-in-a-dash-cam/"><u>Navigating Your Options: A Comprehensive Look at 9 Key Considerations When Investing in a Dash Cam</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-gopro-quik-for-pc-a-comprehensive-review-and-alternatives/"><u>New 2024 Approved GoPro Quik for PC A Comprehensive Review and Alternatives</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/pixel-10-preview-inside-scoop-on-rumored-pricing-specs-and-the-exciting-future-of-google-phones/"><u>Pixel 10 Preview - Inside Scoop on Rumored Pricing, Specs and the Exciting Future of Google Phones</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/prevent-macbook-sleep-on-lid-close-a-guide-to-continuous-use/"><u>Prevent MacBook Sleep on Lid Close: A Guide to Continuous Use</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/proven-youtube-seo-tricks-boosting-video-reach-and-visibility/"><u>Proven YouTube SEO Tricks Boosting Video Reach and Visibility</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/simple-steps-for-integrating-your-airpods-into-macos-systems/"><u>Simple Steps for Integrating Your AirPods Into macOS Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solution-how-to-address-and-repair-missing-d3dx924dll-issue/"><u>Step-by-Step Solution: How to Address and Repair Missing D3DX9_24.dll Issue</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-how-to-fix-plugins-not-working-in-final-cut-pro-x-in-2024/"><u>Updated How to Fix Plugins Not Working in Final Cut Pro X, In 2024</u></a></li>
 </ul></div>
 

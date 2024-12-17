@@ -1,7 +1,7 @@
 ---
 title: "Join the Chorus of Discontent: The Unforeseen Consequences of Moving to iOS 18 on Your iPhone, as Revealed by ZDNet's Readers"
-date: 2024-12-07T17:22:23.088Z
-updated: 2024-12-11T03:28:01.921Z
+date: 2024-12-13T16:05:10.609Z
+updated: 2024-12-17T16:04:32.953Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,17 +109,20 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-live-broadcasters-dilemma-which-tool-triumphs-obs-or-streamlabs/"><u>[New] 2024 Approved Live Broadcasters' Dilemma Which Tool Triumphs – OBS or Streamlabs?</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-best-pricing-in-the-cloud-unveil-your-options-here/"><u>[Updated] 2024 Approved Best Pricing in the Cloud? Unveil Your Options Here</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-cutting-edge-techniques-for-free-from-photo-backgrounds-for-2024/"><u>[Updated] Cutting Edge Techniques for Free-From Photo Backgrounds for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/2024s-elite-lineup-of-magsafe-wallets-professional-insights-tested-and-reviewed-zdnet/"><u>2024'S Elite Lineup of MagSafe Wallets: Professional Insights, Tested & Reviewed | ZDNET</u></a></li>
-<li><a href="https://windows11.techidaily.com/compute-chronology-determining-window-system-era/"><u>Compute Chronology: Determining Window System Era</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/essential-tips-to-improve-your-chromebooks-zooming-skills/"><u>Essential Tips to Improve Your Chromebook's Zooming Skills</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/master-your-ipad-10-crucial-setups-and-tricks-for-apple-enthusiasts-of-all-levels-zdnet-insights/"><u>Master Your iPad: 10 Crucial Setups and Tricks for Apple Enthusiasts of All Levels | ZDNET Insights</u></a></li>
-<li><a href="https://facebook.techidaily.com/respect-in-relationships-navigating-facebook-humor/"><u>Respect in Relationships: Navigating Facebook Humor</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211228090-9798889828099-the-gentle-art-of-denial/"><u>The Gentle Art of Denial | Free Book</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-18-unbeatable-prime-day-deals-on-laptops-explore-savings-from-brands-like-hp-apple-and-razer/"><u>Top 18 Unbeatable Prime Day Deals on Laptops: Explore Savings From Brands Like HP, Apple & Razer</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/transforming-technology-one-device-at-a-time-the-rise-of-personalized-ai-as-predicted-by-zdnet/"><u>Transforming Technology, One Device at a Time: The Rise of Personalized AI as Predicted by ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/why-does-my-car-battery-keep-losing-charge-explore-these-common-factors/"><u>Why Does My Car Battery Keep Losing Charge? Explore These Common Factors</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-4-ways-to-record-powerpoint-presentation-with-webcam-2023/"><u>[New] In 2024, 4 Ways to Record PowerPoint Presentation with Webcam 2023</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-essential-filming-gear-for-novices-and-aspiring-cinematographers/"><u>[Updated] In 2024, Essential Filming Gear for Novices and Aspiring Cinematographers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-mastering-webinar-capture-straightforward-steps-for-os-xwindows/"><u>[Updated] Mastering Webinar Capture Straightforward Steps for OS X/Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/2024s-top-25-pick-complimentary-programs-for-pc-performance-boost/"><u>2024'S Top 25 Pick: Complimentary Programs for PC Performance Boost</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/best-budget-friendly-streaming-options-to-replace-netflix-free/"><u>Best Budget-Friendly Streaming Options to Replace Netflix (Free)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/decoding-whatsapp-voice-communication/"><u>Decoding WhatsApp Voice Communication</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-apples-most-recent-macbook-innovations/"><u>Discover Apple's Most Recent MacBook Innovations</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/ensuring-smooth-interoperability-of-devices-and-programs-tips-from-yl-software-experts/"><u>Ensuring Smooth Interoperability of Devices and Programs: Tips From YL Software Experts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-what-to-do-if-the-disc-reader-on-your-wii-is-malfunctioning/"><u>Guide: What To Do If The Disc Reader On Your Wii Is Malfunctioning</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-savings-with-our-selection-of-6-prime-coupon-destinations/"><u>Mastering Savings with Our Selection of 6 Prime Coupon Destinations</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/muting-mastery-keeping-your-meeting-focus-on-google-go/"><u>Muting Mastery Keeping Your Meeting Focus on Google Go</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/peals-of-laughter-fun-tones-websites-unveiled-for-2024/"><u>Peals of Laughter Fun Tones Websites Unveiled for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/steady-hand-techniques-for-videographers-for-2024/"><u>Steady-Hand Techniques for Videographers for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-for-when-microsoft-office-msodll-is-unavailable/"><u>Troubleshooting Steps for When Microsoft Office mso.dll Is Unavailable</u></a></li>
+<li><a href="https://discover-data.techidaily.com/ultimate-guide-to-4k-video-conversion-best-software-options-for-macos-and-pc/"><u>Ultimate Guide to 4K Video Conversion: Best Software Options for macOS & PC</u></a></li>
 </ul></div>
 

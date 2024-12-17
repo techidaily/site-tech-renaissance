@@ -1,7 +1,7 @@
 ---
 title: How Will Apple Revolutionize Its Mac Lineup? The Upcoming M4 Chip Infuses Artifical Intelligence Across Devices - Expected Launch Dates Uncovered
-date: 2024-12-09T10:43:00.301Z
-updated: 2024-12-10T23:17:23.550Z
+date: 2024-12-11T16:00:10.202Z
+updated: 2024-12-17T16:01:08.248Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Intelligence (AI)
@@ -65,7 +65,7 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -119,7 +119,7 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -132,6 +132,10 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -151,7 +155,7 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -161,10 +165,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,21 +210,22 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-breaking-through-youtubes-walls-using-advanced-creator-studio-skills-for-2024/"><u>[New] Breaking Through YouTube's Walls Using Advanced Creator Studio Skills for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-effective-strategies-to-mute-unwanted-voices-in-gomeet/"><u>[Updated] In 2024, Effective Strategies to Mute Unwanted Voices in GoMeet</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtubes-updated-strategy-for-content-creators/"><u>2024 Approved YouTube's Updated Strategy for Content Creators</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/accelerated-iphone-16-charging-esrs-latest-qi2-magsafe-series-features-cold-efficiency-tech-for-swift-power-ups-insights-from-zdnet/"><u>Accelerated iPhone 16 Charging: ESR's Latest Qi2 MagSafe Series Features Cold-Efficiency Tech for Swift Power Ups - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/access-comprehensive-apple-device-guides-manuals-specifications-and-diy-repairs-all-under-one-roof/"><u>Access Comprehensive Apple Device Guides: Manuals, Specifications & DIY Repairs – All Under One Roof</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apple-unveils-chilling-marketing-ploy-targeting-dominant-web-browser-witness-the-buzz/"><u>Apple Unveils Chilling Marketing Ploy Targeting Dominant Web Browser: Witness the Buzz !</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/groundbreaking-webinar-name-builder/"><u>Groundbreaking Webinar Name Builder</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-iphone-xs-complete-guide-by-drfone-ios/"><u>In 2024, How To Remove Passcode From iPhone XS? Complete Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/most-popular-world-cup-matches-youtubes-all-time-leading-watch-time-ranking/"><u>Most Popular World Cup Matches: YouTube's All-Time Leading Watch Time Ranking</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-solution-overcoming-the-tfla0002-issue-in-academic-testing/"><u>Step-by-Step Solution: Overcoming the TFLA0002 Issue in Academic Testing</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-impact-of-advanced-ai-on-iphone-16-success-an-in-depth-analysis/"><u>The Impact of Advanced AI on iPhone 16 Success: An In-Depth Analysis</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-oppo-a59-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Oppo A59 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-apple-watch-band-picks-for-2e-2024-in-depth-analysis-and-reviews-by-tech-experts/"><u>Top-Rated Apple Watch Band Picks for 2E 2024: In-Depth Analysis & Reviews by Tech Experts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-mac-maintenance-tools-of-2022-the-editors-picks-featured-on-zdnet/"><u>Top-Rated Mac Maintenance Tools of 2022: The Editor's Picks Featured on ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiled-apple-introduces-the-new-13-and-15-macbook-air-powered-by-m3-processor-key-features-explained/"><u>Unveiled: Apple Introduces the New 13 & 15 MacBook Air Powered by M3 Processor - Key Features Explained</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-upgrades-in-the-latest-version-of-the-classic-samsung-galaxy-smartwatch-series/"><u>Unveiling Upgrades in the Latest Version of the Classic Samsung Galaxy Smartwatch Series</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-mastering-your-fb-profile-picture-update/"><u>[New] In 2024, Mastering Your FB Profile Picture Update</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-revolutionary-revelations-top-30-quotes-for-ar-vr-dreamers-for-2024/"><u>[New] Revolutionary Revelations Top 30 Quotes for AR-VR Dreamers for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-15-best-ideas-to-post-on-snapchat/"><u>[Updated] In 2024, 15 Best Ideas To Post On Snapchat</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-innovative-ways-to-capture-online-discussions/"><u>2024 Approved Innovative Ways to Capture Online Discussions</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-pixelpie-slicer/"><u>2024 Approved PixelPie Slicer</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-the-ultimate-film-guide-top-15-timeless-stop-motion-classics/"><u>2024 Approved The Ultimate Film Guide - Top 15 Timeless Stop Motion Classics</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-tutorial-for-enhancing-your-samsung-tv-with-a-new-update/"><u>Comprehensive Tutorial for Enhancing Your Samsung TV with a New Update</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-solutions-to-repair-color-inaccuracies-and-warping-issues-in-monitor-display/"><u>Effective Solutions to Repair Color Inaccuracies & Warping Issues in Monitor Display</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effortless-conversion-exporting-your-favorite-spotify-tunes-as-readable-texts/"><u>Effortless Conversion: Exporting Your Favorite Spotify Tunes as Readable Texts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/from-textbooks-to-tech-claiming-your-microsoft-student-deal-explained/"><u>From Textbooks to Tech: Claiming Your Microsoft Student Deal Explained</u></a></li>
+<li><a href="https://media-tips.techidaily.com/guida-passo-passo-allabilitazione-di-dlna-per-la-piu-ottimale-experienza-di-streaming-video-su-windows/"><u>Guida Passo-Passo All'Abilitazione Di DLNA per La Più Ottimale Experienza Di Streaming Video Su Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/in-depth-analysis-ipad-vs-standard-tablets-a-comparison-guide/"><u>In-Depth Analysis: IPad Vs. Standard Tablets - A Comparison Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/stream-disneys-magic-on-the-big-screen-a-simple-guide-to-connect-disney-plus-with-chromecast/"><u>Stream Disney's Magic on the Big Screen: A Simple Guide to Connect Disney Plus with Chromecast</u></a></li>
+<li><a href="https://techtrends.techidaily.com/taylor-swift-filmography-the-complete-guide-in-sequence/"><u>Taylor Swift Filmography: The Complete Guide - In Sequence</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-struggle-to-upgrade-navigating-troubled-waters-with-windows-10-version-1607s-failed-deployment/"><u>The Struggle to Upgrade: Navigating Troubled Waters with Windows 10 Version 1607'S Failed Deployment</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-secrets-to-inverting-video-content-in-snapchat-for-stunning-effects/"><u>Unveiling The Secrets to Inverting Video Content in Snapchat for Stunning Effects</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/yahoo-mail-disposal-a-comprehensive-walkthrough-to-erase-it-completely/"><u>Yahoo Mail Disposal: A Comprehensive Walkthrough to Erase It Completely</u></a></li>
 </ul></div>
 

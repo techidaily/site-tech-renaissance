@@ -1,7 +1,7 @@
 ---
 title: The Shared Disappointment with iPhone's iOS 18 Update Explored on ZDNet
-date: 2024-12-10T02:20:41.459Z
-updated: 2024-12-11T09:54:17.950Z
+date: 2024-12-11T16:03:00.441Z
+updated: 2024-12-17T16:02:38.407Z
 tags:
   - apple
 categories:
@@ -43,7 +43,7 @@ As someone who is not nearly an influencer but loves to use their imagination, I
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Video scroll bar and playback options
@@ -63,7 +63,7 @@ When you do find the perfect take, the editing menu now allows an option to slow
 When viewing videos, the scroll bar automatically pops up. To access the playback options, select edit and then the clock icon at the top right corner. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Customizable layout with 'Recent Days'
@@ -83,7 +83,7 @@ For example, during the Apple launch, my phone was essentially exploding with co
 With customization, you can keep this collection at the top of your feed, or any other categories that would help you stay the most organized. Now I can pull content from a certain day without having to scroll all the way back, and hopefully it does the same for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Filter button
@@ -101,7 +101,7 @@ To narrow content more, you can also filter to favorites, previously edited cont
 And just with one slide up, it resets the filters. If you add the ability to organize your photos app to your liking, your photos app becomes so much more efficient.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Honorable mentions
@@ -112,7 +112,7 @@ And just with one slide up, it resets the filters. If you add the ability to org
 * A 'recovered' album in Utilities recovers corrupted images that were previously not visible.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which iPhones are compatible with iOS 18?
@@ -175,18 +175,22 @@ And just with one slide up, it resets the filters. If you add the ability to org
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-detailed-review-navigating-through-polarrs-features-easily/"><u>[Updated] 2024 Approved Detailed Review Navigating Through Polarr's Features Easily</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-explore-the-best-ai-naming-software-for-podcasters/"><u>[Updated] Explore the Best AI Naming Software for Podcasters</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1-apple-unveils-initial-visionos-upgrade-revamps-user-profiles-discover-more-changes/"><u>1. Apple Unveils Initial VisionOS Upgrade, Revamps User Profiles – Discover More Changes</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/all-you-need-to-know-about-the-next-big-thing-samsung-galaxy-s25-ultras-price-points-release-schedule-and-teased-features/"><u>All You Need to Know About the Next Big Thing - Samsung Galaxy S25 Ultra's Price Points, Release Schedule & Teased Features</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/enhanced-marketing-automation-with-the-latest-cookiebot-technology/"><u>Enhanced Marketing Automation with the Latest Cookiebot Technology</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/get-ahead-of-apple-with-meta-quest-3s-early-ai-implementation-activation-tips-revealed-on-zdnet/"><u>Get Ahead of Apple with Meta Quest 3’S Early AI Implementation - Activation Tips Revealed on ZDNET</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/hard250gb500gbssd/"><u>Hardディスク250GBへのクランプ：廉価な無料ソフトで500GBSSDから移行する</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/huge-savings-alert-700-discount-on-the-amazing-new-ipad-pro-this-labor-day-find-out-how-in-our-latest-review/"><u>Huge Savings Alert: $700 Discount on the Amazing New iPad Pro This Labor Day - Find Out How in Our Latest Review!</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-techniques-for-softening-volume-in-logic-pro-mixing/"><u>In 2024, Techniques for Softening Volume in Logic Pro Mixing</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-apple-vision-pro-ultimate-guide-for-flawless-screenshots-and-screen-captures/"><u>Mastering Apple Vision Pro: Ultimate Guide for Flawless Screenshots & Screen Captures</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/resolved-battery-management-bug-in-microsofts-acpi-standard-compliance-driver/"><u>Resolved: Battery Management Bug in Microsoft's ACPI Standard Compliance Driver</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solutions-to-stop-non-data-transfer-from-usb-ports-on-pc/"><u>Solutions to Stop Non-Data Transfer From USB Ports on PC</u></a></li>
-<li><a href="https://extra-information.techidaily.com/zipped-scripts-into-speaking-texts-srt-file-conversion/"><u>Zipped Scripts Into Speaking Texts .Srt File Conversion</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-how-to-make-a-private-story-on-snapchat-a-complete-guide-for-2024/"><u>[New] How to Make a Private Story on Snapchat A Complete Guide for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-navigating-kinemasters-features-expert-tips-and-best-online-rivals/"><u>[Updated] Navigating KineMaster's Features Expert Tips & Best Online Rivals</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-sharp-focus-tech-best-4k-camera-phones-of-the-genre/"><u>[Updated] Sharp Focus Tech Best 4K Camera Phones of the Genre</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diy-desktop-customization-adjusting-the-color-of-your-windows-11-taskbar/"><u>DIY Desktop Customization: Adjusting the Color of Your Windows 11 Taskbar</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-team-collaboration-through-slack-strategies-to-boost-efficiency/"><u>Effective Team Collaboration Through Slack: Strategies to Boost Efficiency</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-vivo-v29e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Vivo V29e? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-x-properly-drfone-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone X Properly | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/lost-your-ipad-passcode-heres-how-to-regain-entry-easily/"><u>Lost Your iPad Passcode? Here's How to Regain Entry Easily!</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/love-in-full-view-discovering-youtube-and-vimeos-top-7-wedding-movies-for-2024/"><u>Love in Full View Discovering Youtube & Vimeo's Top 7 Wedding Movies for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-at-expo-2020-dubai-the-future-of-language-learning/"><u>Mondly At Expo 2020 Dubai: The Future Of Language Learning</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-solutions-how-to-free-up-space-on-your-iphones-nearly-full-storage/"><u>Quick Solutions: How to Free Up Space on Your iPhone's Nearly Full Storage</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resetting-time-display-a-comprehensive-walkthrough-for-amazon-kindle-paperwhite/"><u>Resetting Time Display: A Comprehensive Walkthrough for Amazon Kindle Paperwhite</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-to-acquire-ebooks-through-your-ios-device-with-the-books-application/"><u>Step-by-Step Instructions to Acquire eBooks Through Your iOS Device with the Books Application</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-best-retailers-offering-superior-selection-of-mobile-phones/"><u>The Best Retailers Offering Superior Selection of Mobile Phones</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-mystery-of-the-lifeless-screen-expert-tips-to-reactivate-your-pcs-display-functionality/"><u>The Mystery of the Lifeless Screen: Expert Tips to Reactivate Your PC's Display Functionality</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-deciding-the-right-time-and-methods-for-leaving-former-twitter-accounts/"><u>The Ultimate Guide: Deciding the Right Time & Methods for Leaving Former Twitter Accounts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-purchasing-playstation-5-exclusives/"><u>Ultimate Guide to Purchasing PlayStation 5 Exclusives</u></a></li>
 </ul></div>
 

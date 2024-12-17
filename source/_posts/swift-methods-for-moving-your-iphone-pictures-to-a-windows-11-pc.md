@@ -1,7 +1,7 @@
 ---
 title: Swift Methods for Moving Your iPhone Pictures to a Windows 11 PC
-date: 2024-08-30T14:40:20.104Z
-updated: 2024-08-31T14:40:20.104Z
+date: 2024-12-14T15:22:55.834Z
+updated: 2024-12-17T01:27:22.877Z
 tags:
   - deals
 categories:
@@ -36,31 +36,34 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![A USB-C to Lightning cable.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/52420356257_2569a9bf0e_c.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Hannah Stryker / How-To Geek  
   
  When you plug in your iPhone, the phone will ask you if you want to allow the PC to access photos and videos on the device. Tap "Allow." This will make the iPhone's "DCIM" photos and videos folder available to Windows 11.
 
 ![Tap "Allow" on the iPhone screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/tap_allow.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Back on the Windows PC, open File Explorer and navigate to "This PC." If the iPhone was properly recognized by your PC (and allowed to connect), it will show up as a removable drive in the "Devices and Drives" section.
 
 ![Locate your iPhone in "This PC."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/apple_iphone_in_file_explorer.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Right-click the icon for your iPhone in File Explorer and select "Import Pictures and Videos" in the menu that appears.
 
 ![In Windows 11, right-click the iPhone and select "Import pictures or videos."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/iphone_import_pictures.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  An "Import Pictures and Videos" window will appear. Windows will scan the pictures folder in your iPhone to look for photos and videos it can copy to your PC.
 
 ![Lookfing for photos and videos in Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/looking_for_photos.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After Windows has found all the new photos and videos it hasn't imported before, it will show you how many can be imported.
 
@@ -69,8 +72,9 @@ Hannah Stryker / How-To Geek
 ![Select "Import all items now" and click "Import."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/import_items_2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  During the import process, Windows will copy the photos and videos to a new time-stamped folder in your Pictures folder by default. If you'd like to erase all the photos and videos from your iPhone after you're done importing, place a checkmark beside "Erase After Importing."
 
  If you check "Erase After Importing" during the import, Windows will delete all the photos and videos it imported off your iPhone when it's done. If you want to leave a copy of the imported photos and videos on your phone, leave the "Erase After Importing" box unchecked.
@@ -82,8 +86,9 @@ Hannah Stryker / How-To Geek
 ![You'll find the imported photos in your Pictures folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/photos_in_pictures_folder.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you notice a bunch of AAE files in the folder with the pictures, don't be alarmed. Those are special metadata files Apple uses to store photo editing info. They are useless on Windows, so [it's safe to delete any .AAE files you find](https://fox-friendly.techidaily.com/new-in-2024-capture-clarity-optimal-tripods-for-iphone-and-android/).
 
  After that, unplug your iPhone, and you're done. You can plug it back in again to import photos or videos any time you want. If you didn't select "Erase After Importing" during your last import, Windows will remember which photos it imported before, and you won't get any duplicates on your next import. Pretty nice!
@@ -94,16 +99,8 @@ Hannah Stryker / How-To Geek
 
 ![Tap the "Share" button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-share-email.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
  In the menu that appears, tap the Mail app icon, then you can compose an email in the Mail app. You can only send a limited number of photos at a time this way, so it's usually only good for a handful of images or a couple of videos. But it works in a pinch.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ##  Share Photos via a Cloud Service
 
  If you need to send more than a few photos, and you can't use a cable to physically connect your phone to your PC to transfer photos, [a cloud storage service](https://instagram-video-recordings.techidaily.com/navigating-the-truth-in-your-photos-an-instagram-selfie-audit/) is probably your best option. Install the cloud storage client on both your PC and your iPhone, select the photos you'd like to share, then tap the share button. 
@@ -114,6 +111,10 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ![Tap the "OneDrive" icon to upload the images to a OneDrive folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-tap-onedrive.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Keep in mind that if you have slow internet or [an Internet data cap](https://network-issues.techidaily.com/nvidia-driver-anomaly-corrected-display-normalized/) this option may present a problem. Images are large, and slow Internet could take hours to upload and then download all the photos. You could also very easily use up several gigabytes of a data cap, if you have one.
 
 <ins class="adsbygoogle"
@@ -122,8 +123,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -131,4 +130,24 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/updated-10-best-cars-surveillance-systems-decoded/"><u>[Updated] 10 Best Cars Surveillance Systems Decoded</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-mastering-shade-changes-3-photoshop-hacks/"><u>[Updated] Mastering Shade Changes 3 Photoshop Hacks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/can-google-chrome-os-outshine-windows-with-the-launch-of-chromebook-plus-and-enhanced-ai-capabilities-insights/"><u>Can Google Chrome OS Outshine Windows with the Launch of Chromebook Plus and Enhanced AI Capabilities? Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-gripping-mysteries-with-these-13-true-crime-shows/"><u>Discover Gripping Mysteries with These 13 True Crime Shows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/find-the-top-8-free-easy-to-use-html-design-apps-for-windows-pcs/"><u>Find the Top 8 Free, Easy-to-Use HTML Design Apps for Windows PCs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/handling-libxmln2dll-file-not-found-warnings-comprehensive-solutions-and-steps/"><u>Handling libxmln2.dll File Not Found Warnings: Comprehensive Solutions and Steps</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-nokia-c210-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Nokia C210 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Xiaomi Redmi Note 12T Pro? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-looking-beyond-final-cut-pro-x-10-top-video-editing-software-options/"><u>New 2024 Approved Looking Beyond Final Cut Pro X 10 Top Video Editing Software Options</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revive-your-lost-correspondence-steps-for-finding-misplaced-gmail-emails/"><u>Revive Your Lost Correspondence: Steps for Finding Misplaced Gmail Emails</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/teach-yourself-the-secrets-of-seamless-multiple-picture-sharing-on-facebook-today/"><u>Teach Yourself the Secrets of Seamless Multiple Picture Sharing on Facebook Today!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-most-reliable-and-user-friendly-free-skype-replacements-for-202n4/"><u>The Most Reliable & User-Friendly Free Skype Replacements for 202N4</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-professionals-way-of-removing-backgrounds-for-2024/"><u>The Professional's Way of Removing Backgrounds for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/uber-vs-taxi-a-cost-comparison/"><u>Uber vs Taxi: A Cost Comparison</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-troubleshooting-for-rockalldlldll-is-missing-error-fixes/"><u>Ultimate Troubleshooting for Rockalldll.dll Is Missing Error Fixes</u></a></li>
+</ul></div>
 

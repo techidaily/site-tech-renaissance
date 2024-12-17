@@ -1,7 +1,7 @@
 ---
 title: "Run0: The Emerging Contender That Could Replace Sudo on Linux Systems"
-date: 2024-08-30T14:39:31.248Z
-updated: 2024-08-31T14:39:31.248Z
+date: 2024-12-15T13:22:00.054Z
+updated: 2024-12-17T11:12:37.910Z
 tags:
   - desktop
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/2c72878e4c5b851b7d621c520b7075b9d80e911d0
 * [Using run0](https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-on-iphone-13-mini-without-password-by-drfone-ios/)
 * [Will run0 replace sudo?](https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-motorola-moto-e13-device-by-drfone-android/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * run0 is a new systemd command intended to replace sudo, offering elevated permissions for commands.
@@ -27,8 +31,9 @@ thumbnail: https://thmb.techidaily.com/2c72878e4c5b851b7d621c520b7075b9d80e911d0
  On April 24, 2024, Lennart Poettering posted [a description](https://mastodon.social/@pid%5Feins/112353324518585654) of a new systemd command, called run0\. It’s a replacement for sudo. Here’s what you need to know about the latest systemd controversy.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  What’s Wrong With Sudo?
 
  The sudo command seems to have been around forever. It actually dates back to the 1980s. It lets you run commands or programs as though you were either the owner of the command, or a member of the group of the command. Importantly, if the actual owner of the command has elevated permissions and capabilities, the command will run with those elevated permissions. It’s as if their elevated privileges have been bestowed upon you temporarily.
@@ -38,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/2c72878e4c5b851b7d621c520b7075b9d80e911d0
  For a command or app to be able to run with elevated permissions by regular users, either the SUID or GUID bits, or both of them, need to be set on the command. And of course, the user in question must be [permitted to use the sudo command](https://instagram-clips.techidaily.com/new-2024-approved-social-media-momentum-linking-igtv-and-fb/).
 
  The elevated or privileged code is run in the execution context of the calling user, so it runs in an environment intended to run unprivileged code. That in itself is a security concern. Also, if the command isn’t written to correctly respect its elevated permissions, or it doesn’t clean up after itself thoroughly and correctly, other vulnerabilities can arise. One well-known attack vector [exploits poorly written or poorly configured](https://tbhaxor.com/exploiting-suid-binaries-to-get-root-user-shell/) SUID binaries to obtain a root shell.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What run0 Does Differently
 
@@ -69,15 +78,13 @@ run0 ls
 ![The run0 authentication dialog in GNOME](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The terminal text background changes color to force home the message you’re using escalated privileges. Note that it returns to the usual background colors once the command has been completed.
 
 ![Output from a command launched by run0, showing the text's colored background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can use the --background option to turn off the background color, or change it to an [ANSI color combination](https://en.wikipedia.org/wiki/ANSI%5Fescape%5Fcode#8-bit) of your choice.
 
  To see white text on a blue background, use this ANSI sequence.
@@ -99,23 +106,17 @@ run0
 ![Issuing run0 without command line paramters to effectively log in as root](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/6.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Note the change in the command prompt. You can return to your regular user status by typing exit and hitting Enter, or hitting Ctrl+D.
 
 ![Exiting from the root session and returning to regular user status](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/7.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
  If you use run0 on a Linux computer without a desktop environment, the prompt for your password happens in the terminal window.
 
 ![Authenticating on the command line on a Linux installtion with no graphical desktop environment](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/8.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Will run0 replace sudo?
 
  Commands do get supplanted over time. In fact, sudo replaced its much older predecessor, [su](https://extra-support.techidaily.com/maximize-your-listening-experience-ios-podcast-mastery-for-2024/), which had been part of Unix-like operating systems since 1971\. But nobody is expecting run0 to swoop in and oust sudo. sudo is too deeply entrenched to go away quickly.
@@ -138,8 +139,6 @@ The ultimate burning program for all your needs!</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +146,21 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-crafting-your-first-twitter-profile/"><u>[New] 2024 Approved Crafting Your First Twitter Profile</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/nfographic-spotlight-on-emerging-23-trends-for-2024/"><u>[New] Infographic Spotlight on Emerging '23 Trends for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-from-vision-to-reality-taking-control-of-your-lyric-videos-with-lyric-video-maker/"><u>[Updated] From Vision to Reality Taking Control of Your Lyric Videos with Lyric Video Maker</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/android-tips-how-to-go-incognito-and-hide-your-number-from-calls/"><u>Android Tips: How To Go Incognito and Hide Your Number From Calls</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/current-hot-deals-for-your-new-apple-smartwatch/"><u>Current Hot Deals for Your New Apple Smartwatch</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/descargue-convertidor-de-video-de-todos-los-formatos-al-formato-mov-en-linea-sin-coste-alguno-moovavi/"><u>Descargue Convertidor De Video De Todos Los Formatos Al Formato MOV En Línea Sin Coste Alguno - Moovavi</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-advice-diagnosing-and-repairing-errors-related-to-the-nt-loader-ntldr/"><u>Expert Advice: Diagnosing & Repairing Errors Related to the NT Loader (NTLDR)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-oneplus-11r-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your OnePlus 11R to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/insights-on-playstation-5-slim-latest-updates-pricing-info-and-launch-timeline/"><u>Insights on PlayStation 5 Slim - Latest Updates, Pricing Info & Launch Timeline</u></a></li>
+<li><a href="https://review-topics.techidaily.com/poco-c65-music-recovery-recover-deleted-music-from-poco-c65-by-fonelab-android-recover-music/"><u>Poco C65 Music Recovery - Recover Deleted Music from Poco C65</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-resolving-issues-when-your-mac-app-wont-launch/"><u>Troubleshooting Tips: Resolving Issues When Your Mac App Won't Launch</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722997978900-troubleshooting-your-apex-legends-connections-expert-fixes/"><u>Troubleshooting Your Apex Legends Connections - Expert Fixes!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-solutions-for-windows-11-black-screen-troubleshooting-tips/"><u>Unveiling Solutions for Windows 11 Black Screen Troubleshooting Tips</u></a></li>
+</ul></div>
 

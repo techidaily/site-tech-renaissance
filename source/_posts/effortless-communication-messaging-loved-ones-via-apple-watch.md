@@ -1,7 +1,7 @@
 ---
 title: "Effortless Communication: Messaging Loved Ones via Apple Watch"
-date: 2024-12-03T18:12:03.219Z
-updated: 2024-12-10T19:45:57.935Z
+date: 2024-12-15T16:01:44.071Z
+updated: 2024-12-17T16:02:27.447Z
 tags:
   - apple
 categories:
@@ -27,16 +27,12 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to check in with a friend or family member from your Apple Watch
 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Update your devices
 
@@ -55,7 +51,7 @@ Launch the Messages app on your Apple Watch. Start or continue a conversation wi
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. View the initial Check In notification
@@ -74,6 +70,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. View the actual Check in alert
 
 When the timer is up to indicate that you should have reached your destination, you'll be prompted to stop the Check In to confirm that you've arrived. You can add more time or cancel the Check In. Otherwise, the recipient will receive your Check In notification. If the confirmation isn't sent, more time will be added. After that, the recipient will be informed that you haven't yet checked in. They can then try to contact you by text or phone call to find out why you haven't yet arrived.
@@ -90,6 +90,10 @@ If you still wish to use a timer for the Check In option but change the amount o
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Send a customized Check In through the Messages app
 
 To further customize the Check In, tap the Edit button at the Check In screen. Tap Check In. You can now set a notification to be sent when you've arrived at your destination, after the timer ends, or when a workout ends. Tap the option for "When I arrive."
@@ -105,7 +109,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Set a Check In for a workout in the Messages app
@@ -113,10 +117,6 @@ Screenshot by Lance Whitney/ZDNET
 Maybe you're working out at the gym or at home and want to let someone know when you've finished. You can do this a couple of ways. In the Messages app on your watch, start or continue a conversation with the recipient. Tap the Add icon, select Check In, and then tap Edit. Tap the option for Check In and change it to "When workout ends." Start your workout. When you're done, swipe the screen to the right and tap End. The other person will then receive the notification.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
 
@@ -154,20 +154,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-clearfocuscutout-how-to-blur-your-youtube-videos-background-for-2024/"><u>[New] ClearFocusCutOut How to Blur Your YouTube Video's Background for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-gigglegraph-make-amusing-graphics-swiftly/"><u>[New] GiggleGraph Make Amusing Graphics Swiftly</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-audience-engagement-trends-to-master-on-instagram/"><u>[Updated] Audience Engagement Trends to Master on Instagram</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-top-10-youtube-cameras-from-novices-to-experts/"><u>[Updated] In 2024, Top 10 YouTube Cameras, From Novices to Experts</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-pioneering-techniques-to-improve-your-fb-video-ad-effectiveness-for-2024/"><u>[Updated] Pioneering Techniques to Improve Your FB Video Ad Effectiveness for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-current-selections-on-disneyplus-for-movie-lovers/"><u>Discover the Best Current Selections on Disney+ for Movie Lovers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-perform-a-firmware-upgrade-for-your-apple-studio-display-tips-and-tricks/"><u>How to Perform a Firmware Upgrade for Your Apple Studio Display (Tips and Tricks )</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-zte-axon-40-litewithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on ZTE Axon 40 Litewith/without a PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/march-2024s-ultimate-phone-deals-curated-by-tech-experts-at-zdnet-save-big-on-high-quality-handsets/"><u>March 2024'S Ultimate Phone Deals Curated by Tech Experts at ZDNet – Save Big on High-Quality Handsets</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/my-extraordinary-experience-with-apple-vision-pro-while-catching-up-on-my-top-pick-series-a-deep-dive-into-the-marvels-of-modern-viewing/"><u>My Extraordinary Experience with Apple Vision Pro While Catching Up on My Top-Pick Series - A Deep Dive Into the Marvels of Modern Viewing</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/new-ios-181-preview-released-featuring-advanced-apple-smart-technology-start-testing-today/"><u>New IOS 18.1 Preview Released Featuring Advanced Apple Smart Technology – Start Testing Today!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/simple-steps-to-determine-your-nvidia-graphics-cards-current-driver-software/"><u>Simple Steps to Determine Your NVIDIA Graphics Card's Current Driver Software</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-fix-for-coredll-not-detected-or-absent-on-your-pc/"><u>Step-by-Step Fix for Core.dll Not Detected or Absent on Your PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/tricks-save-and-access-onedrive-around-clients/"><u>Tricks: Save & Access OneDrive Around Clients</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unbeatable-memorial-day-deal-score-60-off-your-ideal-apple-watch-se-as-recommended-by-a-tech-enthusiast/"><u>Unbeatable Memorial Day Deal: Score $60 Off Your Ideal Apple Watch SE, As Recommended by a Tech Enthusiast</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-game-changing-strategies-for-effective-video-capture/"><u>[New] 2024 Approved Game-Changing Strategies for Effective Video Capture</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-dji-aerial-innovation-packs-starter-pro-upgrade-high-definition-ultra-for-2024/"><u>[New] DJI Aerial Innovation Packs Starter, Pro Upgrade, High-Definition Ultra for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-mastering-macbook-air-beginners-guide-to-screen-recording/"><u>[New] In 2024, Mastering MacBook Air Beginner's Guide to Screen Recording</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-the-basics-of-telegram-advertising-as-a-novice/"><u>[New] Mastering the Basics of Telegram Advertising as a Novice</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-numbers-in-focus-yearly-yt-trends-and-trivia-2017/"><u>2024 Approved Numbers in Focus! Yearly YT Trends & Trivia (2017)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/2024s-elite-lineup-the-top-8-tv-streaming-services-you-cant-miss/"><u>2024'S Elite Lineup: The Top 8 TV Streaming Services You Can't Miss</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/chromebook-video-editing-software-top-10-online-options-for-2024/"><u>Chromebook Video Editing Software Top 10 Online Options for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-choice-the-finest-keyboards-gaming/"><u>Gamers' Choice: The Finest Keyboards Gaming</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/get-the-scoop-on-apple-watch-series-x-anticipated-price-points-release-window-specs-deep-dive-and-rumored-innovations-await/"><u>Get the Scoop on Apple Watch Series X - Anticipated Price Points, Release Window, Specs Deep Dive, and Rumored Innovations Await!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-fixing-androids-wireless-sign-in-problems/"><u>Mastering the Art of Fixing Android's Wireless Sign-In Problems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-your-ipad-an-in-depth-look-at-each-iteration-of-ipados/"><u>Mastering Your iPad: An In-Depth Look at Each Iteration of iPadOS</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-by-step-windows-10-audio-capture/"><u>Step-by-Step Windows 10 Audio Capture</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/strategies-to-address-playback-difficulties-when-accessing-titles-on-netflix/"><u>Strategies to Address Playback Difficulties When Accessing Titles on Netflix</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tactics-and-tricks-to-overcome-the-ferocious-lynels-in-breath-of-the-wild/"><u>Tactics and Tricks to Overcome the Ferocious Lynels in Breath of the Wild</u></a></li>
 </ul></div>
 

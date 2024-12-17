@@ -1,7 +1,7 @@
 ---
 title: "The Downfall of GM's Pioneering Electric Vehicle: A Comprehensive Analysis"
-date: 2024-08-30T14:41:30.673Z
-updated: 2024-08-31T14:41:30.673Z
+date: 2024-12-16T04:41:44.513Z
+updated: 2024-12-17T08:35:00.865Z
 tags:
   - cutting-edge
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
 * [The Star Trek Crossover](https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/)
 * [Saying Goodbye to the EV1](https://instagram-videos.techidaily.com/exclusive-tips-for-dominating-the-instagram-story-space/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
  The EV1 was a real electric car on the roads in 1996\. So where did it go?
@@ -25,10 +29,9 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
  The modern electric car revolution is still in its early stages, but it could have started much earlier if history had gone a little differently. This is the story of the EV1, the first modern electric car from General Motors.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Need for Electric Speed
 
  In January 1990, [General Motors showed off a concept car at that year's LA Auto Show](https://www.nytimes.com/1990/01/04/business/gm-displays-the-impact-an-advanced-electric-car.html), called the "Impact." It was an all-electric two-seat vehicle, designed from the ground up as an EV, instead of using an existing frame from a gas car. GM said it could go from zero to 60 miles per hour in 8 seconds. For comparison, the Tesla Model 3 Performance can do that in [about 3 seconds](https://electrek.co/2019/11/14/tesla-model-3-performance-0-60-mph-acceleration-dips-below-3-sec-software-update/), while the [2023 Chevy Bolt EV](https://www.chevrolet.com/electric/bolt-ev) is advertised at 6.5 seconds.
@@ -42,8 +45,9 @@ The powerful video editing program for your Windows PC</a>
  The law applied to any manufacturer selling 35,000 or more cars per year in California, which at the time included Chrysler, Ford, Honda, Mazda, Nissan, Toyota, and General Motors. New York and Massachusetts also pledged to follow California's lead. Suddenly, GM had a market for the Impact.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  From Concept to Reality
 
  Even though the Impact was an impressive concept car, and regulators wanted car companies to sell EVs, some at General Electric continued to insist that no one wanted an electric car. A production version of the Impact would cost too much, and the limited range wouldn't be enough for anyone to be interested. State governments alleged that automakers just didn't want to make their decades-long investments in gas engines obsolete.
@@ -58,16 +62,14 @@ Related: [How Long Do Electric Car Batteries Actually Last?](https://win-howtos.
 
 ![General Motors EV-1 diagram](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/EV1_poster.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 _[Smithsonian](https://americanhistory.si.edu/exhibitions/ev1-electric-car)_
 
  Despite the limited range and availability, the car was [relatively popular with drivers](https://www.nytimes.com/1997/05/07/business/gm-is-trying-to-make-a-go-of-its-electric-car.html). A [1996 review from Autocar](https://www.autocar.co.uk/car-news/throwback-thursday-1996-general-motors-ev1-first-drive) said, "you can't help but be impressed by the overall driving experience. The EV1 is impressively quick, comfortable, and maneuverable and boasts all the normal amenities. Furthermore, it is bursting with cleverly engineered features." The [March 1997 issue of Car and Driver](https://www.caranddriver.com/reviews/a32944084/tested-1997-general-motors-ev1-proves-to-be-the-start-of-something-big/) stated, "we can observe that the EV1 has limited appeal right now. It is quiet, it performs well, and it emits no pollution, but the range problems, the recharging time, and the high purchase cost (see sidebar) are obstacles that will have to be overlooked or overcome before the EV1 presents a viable alternative to gas-powered cars. Still, it's a start."
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Star Trek Crossover
 
  Early drivers were excited about the EV1, or at least willing to accept the compromises of the early technology, but General Motors still wasn't completely onboard. Advertising was mostly limited to direct mail and some magazines. General Motors had only leased 176 EV1 cars by May 1997, and only 300 by the end of 1997\. One GM employee later told The New York Times, "We launched the car in December of 1996, and by about April, I figured we'd been duped. They weren't marketing the vehicle."
@@ -85,8 +87,9 @@ _[Smithsonian](https://americanhistory.si.edu/exhibitions/ev1-electric-car)_
  Four radio ads were aired on KFI AM 640 in Los Angeles in May 1998, and at least five more were recorded by Rush. General Motors later decided to [reimburse Rush and continue using the radio commercials](https://web.archive.org/web/20210308040842/https://www.latimes.com/archives/la-xpm-1998-may-22-fi-52566-story.html).
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Saying Goodbye to the EV1
 
  General Motors [updated the EV1 for the 1999 model year](https://www.nytimes.com/1998/12/18/automobiles/gm-tries-to-increase-appeal-of-electric-car.html), dubbing it the "Gen 2," available in two versions. The first used the same lead-acid batteries as the original, with a range of 80-100 miles. The other option had nickel metal hydride batteries, with an estimated range of 100-140 miles. General Motors also cut the cost of installing home chargers in half to $500.
@@ -101,9 +104,6 @@ Related: [How Far Can an Electric Car Go on One Charge?](https://fox-hovers.tech
 
 ![Photo of several EV1s parked in a cemetery, with flowers and a drape covering one of the cars](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/2.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 _[Bob Sexton / EV1 Club](https://www.eanet.com/ev1-club/archive/030724/photos.htm)_
 
 [General Motors crushed most EV1 cars](https://www.nytimes.com/2003/10/22/automobiles/california-motor-city-leased-and-abandoned-revolt-of-the-ev-1-lovers.html) after they were returned, alleging that selling the cars (or allowing people to salvage them) would cost too much money in warranty claims and parts overhead. However, some cars were saved for donation to universities and museums.
@@ -128,8 +128,6 @@ Related: [California Plans to Block Sales of New Gas Cars by 2035](https://artic
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +135,18 @@ Related: [California Plans to Block Sales of New Gas Cars by 2035](https://artic
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-optimal-mac-recording-choices-top-5-apps-recommended-for-2024/"><u>[New] Optimal Mac Recording Choices Top 5 Apps Recommended for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-proven-strategies-for-building-an-insightful-and-interactive-instagram-puzzle-feed/"><u>[Updated] In 2024, Proven Strategies for Building an Insightful and Interactive Instagram Puzzle Feed</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-ultimate-free-choice-high-definition-software-listing/"><u>[Updated] In 2024, Ultimate Free Choice High Definition Software Listing</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-simplified-method-for-youtubers-to-dailymotion-for-2024/"><u>[Updated] Simplified Method for YouTubers to Dailymotion for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-small-scale-startups-guide-to-trustworthy-video-tools/"><u>2024 Approved Small-Scale Startups' Guide to Trustworthy Video Tools</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/amazon-prime-video-subtitles-off-a-comprehensive-guide/"><u>Amazon Prime Video Subtitles Off: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/choosing-your-streaming-platform-hulu-or-hulu-plus-explored/"><u>Choosing Your Streaming Platform: Hulu or Hulu Plus Explored</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/crafting-memories-one-hashtag-at-a-time-discover-the-top-507-caption-gems-for-insta-savvy-users-of-2024/"><u>Crafting Memories, One Hashtag at a Time: Discover the Top 507 Caption Gems for Insta-Savvy Users of 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/highlight-heroes-iosandroid-covers-that-shine-bright-for-2024/"><u>Highlight Heroes IOS/Android Covers That Shine Bright for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-trigger-or-suppress-windows-file-dialogs/"><u>How to Trigger or Suppress Windows File Dialogs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-408-errors-why-pages-take-too-long-to-load-and-how-to-fix-them/"><u>Troubleshooting 408 Errors: Why Pages Take Too Long to Load & How to Fix Them</u></a></li>
+</ul></div>
 

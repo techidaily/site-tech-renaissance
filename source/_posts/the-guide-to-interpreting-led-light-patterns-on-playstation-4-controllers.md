@@ -1,7 +1,7 @@
 ---
 title: The Guide to Interpreting LED Light Patterns on PlayStation 4 Controllers
-date: 2024-08-26T07:27:50.612Z
-updated: 2024-08-27T07:27:50.612Z
+date: 2024-12-10T05:34:37.608Z
+updated: 2024-12-16T19:25:32.050Z
 categories:
   - BestProducts
 description: This Article Describes The Guide to Interpreting LED Light Patterns on PlayStation 4 Controllers
@@ -18,6 +18,10 @@ thumbnail: https://www.lifewire.com/thmb/GGTZ0BXa-Os59BSoGo_ab_Mr7qs=/400x300/fi
 
  This article explains how to disable Amber alerts on an iPhone. It also covers how to turn off similar government alerts, including emergency, public safety, and test alerts.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Disable Amber Alerts and Other iPhone Emergency Alerts
 
  You're just a few taps away from shutting down these notifications, but be sure to keep reading to learn why we recommend keeping Amber alerts turned on.
@@ -27,11 +31,16 @@ thumbnail: https://www.lifewire.com/thmb/GGTZ0BXa-Os59BSoGo_ab_Mr7qs=/400x300/fi
 3. Tap**Emergency Alerts** for a few other options. From there, you can control emergency alerts without affecting the option you chose for Amber alerts in the last step. This is also how you stop emergency alerts from bypassing silent mode.  
 ![The Settings, Notifications, and Emergency Alerts screens on an iPhone](https://www.lifewire.com/thmb/k4Pdtou2x8ooq0Bqd1UnlBWO_KA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iphone-amber-alerts-bc193ddbd3c24bd895b61242e22ca176.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Got an Apple Watch?[Check out how to avoid notification overload](https://www.lifewire.com/avoid-notification-overload-apple-watch-1999672) , including notifications from emergency alerts.
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Can Do Not Disturb Silence Emergency and Amber Alerts on iPhone?
 
  The[iPhone's Do Not Disturb feature](https://www.lifewire.com/use-do-not-disturb-on-iphone-apple-watch-2000547) lets you silence notifications, but it does not work with Amber alerts and other emergency alerts. Because they signal an emergency that could affect your life and safety or someone else's, Do Not Disturb can't block these alerts.
@@ -39,8 +48,9 @@ thumbnail: https://www.lifewire.com/thmb/GGTZ0BXa-Os59BSoGo_ab_Mr7qs=/400x300/fi
  There is no way to block or silence Amber alerts except by turning them off. As for emergency alerts, there is a toggle called**Always Play Sound** that you can turn off (see Step 3 above). Doing this prevents the sound from coming through your phone when you're in silent mode.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Can You Change Emergency and Amber Alert Tones on iPhone?
 
  While you can[change the sound used for other alerts](https://www.lifewire.com/how-to-change-the-default-ringtone-on-your-iphone-2000554) , you can't customize emergency alert sounds. Yes, the noise for these alerts is unpleasant and may even be startling, but it's worth remembering that they're unpleasant because they're supposed to get your attention.
@@ -50,8 +60,9 @@ thumbnail: https://www.lifewire.com/thmb/GGTZ0BXa-Os59BSoGo_ab_Mr7qs=/400x300/fi
 [How to Turn Off SOS on an iPhone 14](https://www.lifewire.com/iphone-14-turn-off-sos-8630001)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why You Shouldn't Disable Amber and Emergency Alerts on iPhone
 
  Even though these alerts can sometimes be surprising or unwelcome, you should leave them on—especially the emergency alerts. These messages arrive when there is dangerous weather or another severe health or safety event imminent in your area. If a tornado, flash flood, or other potential natural disaster is heading your way, you'll want to know so that you can take action.
@@ -89,8 +100,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -98,4 +107,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-create-memes-with-kapwing-magic-tool/"><u>[New] 2024 Approved Create Memes with Kapwing Magic Tool</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-exclusive-insights-3-secrets-to-capture-every-moment-on-discord/"><u>[New] Exclusive Insights 3 Secrets to Capture Every Moment on Discord</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-prime-sites-where-your-presents-stand-out-in-a-sea-of-boxes/"><u>[Updated] 2024 Approved Prime Sites Where Your Presents Stand Out in a Sea of Boxes</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-balancing-work-and-leisure-enhancing-podcast-listening-for-2024/"><u>[Updated] Balancing Work and Leisure Enhancing Podcast Listening for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-top-10-secrets-for-recording-sports-events-live-online/"><u>[Updated] In 2024, Top 10 Secrets for Recording Sports Events Live Online</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722892289870-all-you-need-to-know-about-apples-latest-wearable-audio-tech-rumors-and-specs-included/"><u>All You Need to Know About Apple's Latest Wearable Audio Tech, Rumors & Specs Included</u></a></li>
+<li><a href="https://techidaily.com/immediate-access-topmost-ai-tools-for-professional-image-generation/"><u>Immediate Access: Topmost AI Tools for Professional Image Generation</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-decoding-the-mystery-of-laptop-video-editing-with-inshot/"><u>In 2024, Decoding the Mystery of Laptop Video Editing With Inshot</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-instagram-to-tiktok-connection-protocol/"><u>In 2024, The Instagram to TikTok Connection Protocol</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/installing-microsoft-office-365-seamlessly-a-step-by-step-process-for-windows-and-mac-users/"><u>Installing Microsoft Office 365 Seamlessly - A Step-by-Step Process for Windows and Mac Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/securing-your-spot-a-comprehensive-look-into-setting-up-an-appointment-with-apple/"><u>Securing Your Spot: A Comprehensive Look Into Setting Up an Appointment with Apple</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-hidden-pathways-open-directory-games-in-windows/"><u>The Hidden Pathways: Open Directory Games in Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-4-free-web-based-calendar-apps-we-love/"><u>Top 4 Free Web-Based Calendar Apps We Love</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722890047303-trouble-with-physxloaderdll-heres-how-you-can-solve-the-absence-issue/"><u>Trouble with PhysXLoader.dll? Here’s How You Can Solve the Absence Issue</u></a></li>
+</ul></div>
 

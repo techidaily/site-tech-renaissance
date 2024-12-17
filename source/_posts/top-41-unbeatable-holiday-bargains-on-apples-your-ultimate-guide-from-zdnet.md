@@ -1,7 +1,7 @@
 ---
 title: "Top 41 Unbeatable Holiday Bargains on Apples: Your Ultimate Guide From ZDNet"
-date: 2024-11-21T16:04:16.495Z
-updated: 2024-11-25T16:05:35.311Z
+date: 2024-12-14T16:04:57.639Z
+updated: 2024-12-17T16:08:17.029Z
 tags:
   - apple
 categories:
@@ -83,6 +83,10 @@ Asus/ZDNET
 * [Asus Chromebook Plus CX34 for $432](https://www.amazon.com/ASUS-Chromebook-1920x1080-Processor-CX3402CBA-DH386-WH/dp/B0CGJGZZ1L/ref=sxin%5F15%5Fpa%5Fsp%5Fsearch%5Fthematic%5Fsspa?tag=zdnet-buy-button-20): Asus' stylish CX34 Chromebook Plus comes with a bit more local storage than most Chromebooks (256GB) as well as an ultra-thin form factor and over 10 hours of battery life.
 * [HP Chromebook 14 for $189 (Save $100)](https://www.amazon.com/HP-Chromebook-Graphics-Keyboard-14a-na0226nr/dp/B09SVSBVP1?tag=zdnet-buy-button-20): It doesn't get much more budget than this. HP's 14-inch Chromebook comes with just 4GB of RAM, so it's perfect as a backup machine or secondary travel device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Prime Day MacBook deals
 
 Kyle Kucharski/ZDNET
@@ -90,10 +94,6 @@ Kyle Kucharski/ZDNET
 * [Apple MacBook Air (M2) for $799 (save $200)](https://www.amazon.com/2022-Apple-MacBook-Laptop-chip/dp/B0B3BVWJ6Y?tag=zdnet-buy-button-20): [The MacBook Air (M2)](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/) combines performance and portability. It's one of our favorite laptops at ZDNET and our Product of the Year -- and it's on sale for just $799, the lowest price we've ever seen.
 * [Apple MacBook Air (M3) for $899 (save $200)](https://www.amazon.com/Apple-2024-MacBook-13-inch-Laptop/dp/B0CX23V2ZK?tag=zdnet-buy-button-20): If you want to purchase one of Apple's latest MacBook Air products, you can save $200 on the [2024 version](https://www.zdnet.com/article/m3-macbook-air-review/), powered by an M3 chip -- the lowest price of the year. Don't forget to apply the coupon.
 * [Apple MacBook Pro (M3) for $1,400 (save $200)](https://www.amazon.com/Apple-MacBook-Laptop-8%E2%80%91core-10%E2%80%91core/dp/B0CM5JV268?tag=zdnet-buy-button-20): The [MacBook Pro (M3)](https://www.zdnet.com/article/m3-macbook-pro-buying-advice/) is one of the best-performing laptops on the market, and it's $200 off -- make sure you add the coupon offer on the page.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Prime Day HP laptop deals
 
@@ -111,7 +111,7 @@ Lenovo/ZDNET
 * [Lenovo ThinkBook 15 for $525 (save $74)](https://www.amazon.com/Lenovo-ThinkBook-15-Business-i7-1165G7/dp/B0D1CQPWPG/?tag=zdnet-buy-button-20): This laptop is a powerhouse for your back-to-school or business needs. Its 8-core AMD Ryzen 7 processor pairs with 16GB of RAM, so any major spec-heavy tasks will perform smoothly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Buy laptop deals during Prime Day
@@ -122,6 +122,10 @@ Kyle Kucharski/ZDNET
 * [HP Chromebook x360 2-in-1 Laptop for $293 (save $35 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FHP-Chromebook-X360-14-HD-Touchscreen-2-in-1-Laptop-Intel-Celeron-N4020-4GB-RAM-64GB-eMMC-Teal-14a-ca0130wm%2F518977383&subId1=subid%5Fvalue): In [our testing](https://www.zdnet.com/article/this-hp-chromebook-made-living-without-windows-easier-than-i-expected/), we found this 2-in-1 Chromebook easily flexes between a laptop and a tablet, with a large 14-inch screen, comfortable keyboard, and sturdy build.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## More Prime Day 2024 laptop deals
 
@@ -134,20 +138,20 @@ Kyle Kucharski/ZDNET
 ## FAQs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### When is Amazon Prime Day 2024?
 
 Amazon Prime Day officially ran from July 16 to July 17, but sometimes deals continue afterward.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What's the best gaming laptop deal on Prime Day?
 
 There are a lot of great gaming laptops on sale right now, but in our opinion, [this deal on the Razer Blade 16](https://www.amazon.com/Razer-Blade-Gaming-Laptop-4090-13th/dp/B0BQP1WCP4?tag=zdnet-buy-button-20) is the best. We're talking $1,000 off one of the most high-end gaming laptops on the market, with hardware that is future-proofed to be relevant for years to come. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Is Amazon Prime Day a good time to buy a laptop?
 
@@ -158,10 +162,6 @@ Even though Amazon isn't typically the first place you think of when you're shop
 At ZDNET, we only write about deals our team members would want to buy -- devices and products we desire, need, or would recommend. We looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops.
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we recommend. These recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### When will these deals expire?
 
@@ -230,18 +230,22 @@ And the best deals still available from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-downloading-facebook-videos-ultimate-5-list-ranked/"><u>[Updated] 2024 Approved Downloading Facebook Videos Ultimate 5 List Ranked</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-facebook-content-at-your-fingertips-best-downloader-apps-for-ios/"><u>[Updated] Facebook Content at Your Fingertips Best Downloader Apps for iOS</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-step-by-step-guide-to-upgrading-your-mac-to-11-big-sur/"><u>2024 Approved A Step-by-Step Guide to Upgrading Your Mac to 11 Big Sur</u></a></li>
-<li><a href="https://article-files.techidaily.com/accelerate-office-productivity-with-speech-recognition-word/"><u>Accelerate Office Productivity with Speech Recognition (Word)</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/best-free-language-learning-platforms-2024-edition/"><u>Best Free Language Learning Platforms: 2024 Edition</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/crucial-tech-innovations-the-top-3-trends-you-cant-miss/"><u>Crucial Tech Innovations: The Top 3 Trends You Can't Miss</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/duality-in-display-rotating-videos-on-instagram-one-click-at-a-time-for-2024/"><u>Duality in Display Rotating Videos on Instagram, One Click at a Time for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fix-the-btballoondll-not-found-issue-with-easy-tips-and-tricks/"><u>Fix the 'BTBalloon.Dll Not Found' Issue with Easy Tips and Tricks</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/insider-insights-on-google-tv-streaming-box-anticipated-cost-launch-timeline-and-feature-speculations/"><u>Insider Insights on Google TV Streaming Box – Anticipated Cost, Launch Timeline & Feature Speculations</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/quick-solutions-for-resolving-windows-11-ntfs-error-codes/"><u>Quick Solutions for Resolving Windows 11 NTFS Error Codes</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/setting-up-cookies-for-a-personalized-web-experience/"><u>Setting Up Cookies for a Personalized Web Experience</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ultimate-guide-to-choosing-hdmi-splitters-the-top-picks/"><u>Ultimate Guide to Choosing HDMI Splitters - The Top Picks</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-the-discontinued-google-hangouts-service/"><u>Understanding the Discontinued Google Hangouts Service</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-understanding-instagrams-video-length-cap-for-2024/"><u>[New] Understanding Instagram's Video Length Cap for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-picture-perfect-the-essential-photo-editing-tools/"><u>[Updated] 2024 Approved Picture Perfect The Essential Photo Editing Tools</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-adjusting-obs-encoding-settings/"><u>[Updated] In 2024, Adjusting OBS Encoding Settings</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/crafting-your-legacy-the-ultimate-list-of-20-iconic-tiktok-captions/"><u>Crafting Your Legacy The Ultimate List of 20 Iconic TikTok Captions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/decoding-the-mysteries-of-windows-10-mastery/"><u>Decoding the Mysteries of Windows 10 Mastery</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhancing-text-realism-with-illustrators-tools/"><u>Enhancing Text Realism with Illustrator's Tools</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-persistent-slow-stream-on-netflix-effective-troubleshooting-steps/"><u>Solving the Persistent Slow Stream on Netflix: Effective Troubleshooting Steps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/start-anew-with-windows-11-mastering-the-art-of-system-restoration-in-just-4-steps/"><u>Start Anew with Windows 11: Mastering the Art of System Restoration in Just 4 Steps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/stepping-up-from-chatgpt-top-innovations/"><u>Stepping Up From ChatGPT: Top Innovations</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-fix-for-your-bluetooth-mouse-problems-after-the-windows-10-creators-update-on-arch-linux/"><u>The Ultimate Fix for Your Bluetooth Mouse Problems After the Windows 10 Creator's Update on Arch Linux</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-free-antivirus-cleanup-applications-comprehensive-virus-eradication-tutorial/"><u>Top Free Antivirus Cleanup Applications: Comprehensive Virus Eradication Tutorial</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshoot-and-repair-realtek-hd-audio-issues-in-windows-1011/"><u>Troubleshoot and Repair Realtek HD Audio Issues in Windows 10/11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshoot-setting-up-a-smooth-connection-between-beats-audio-and-windows-os/"><u>Troubleshoot: Setting Up a Smooth Connection Between Beats Audio & Windows OS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-for-restoring-asus-touchpad-functionality-on-windows-1110-fixed/"><u>Troubleshooting Steps for Restoring ASUS Touchpad Functionality on Windows 11/10 [FIXED]</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-to-fix-power-state-failure-driver-issues/"><u>Troubleshooting Tips to Fix Power State Failure Driver Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-the-most-durable-iphone-16-and-pro-cases-for-2vear-2024-verified-by-experts/"><u>Ultimate Guide to the Most Durable iPhone 16 and Pro Cases for 2Vear 2024 - Verified by Experts</u></a></li>
 </ul></div>
 

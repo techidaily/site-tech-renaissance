@@ -1,7 +1,7 @@
 ---
 title: "2023'S Ultimate Defenders for Your iPhone 12/12 Pro: Expert Ratings and Buyer’s Guide by ZDNet"
-date: 2024-12-08T23:27:11.310Z
-updated: 2024-12-10T21:47:46.434Z
+date: 2024-12-11T16:00:42.466Z
+updated: 2024-12-17T16:01:35.456Z
 tags:
   - apple
 categories:
@@ -15,10 +15,6 @@ thumbnail: https://thmb.techidaily.com/84fef5f35988a89f310851ba69e27f36f222e4900
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -70,6 +66,10 @@ Pros
 Cons 
 * Pricier
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple Silicone Case with MagSafe
 
 ### Best MagSafe iPhone 12 case
@@ -96,6 +96,10 @@ Pros
 Cons 
 * Clear design may yellow
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bodyguardz Ace Pro
 
 ### Best budget iPhone 12 case
@@ -121,10 +125,14 @@ Pros
 Cons 
 * Shipping can take up to 12 business days for US orders and up to 23 business days for non-US orders
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Casetify cases
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best customizable iPhone 12 case
@@ -148,11 +156,11 @@ Pros
 Cons 
 * May still yellow over time
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ESR Air Armor
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best clear iPhone 12 case
 
@@ -178,11 +186,11 @@ Pros
 Cons 
 * Price varies
 
-## Incipio Organicore
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Incipio Organicore
 
 ### Best eco-friendly iPhone 12 case
 
@@ -206,10 +214,6 @@ Cons
 * May show scratches easily
 
 ## Nomad Rugged case
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best leather iPhone 12 case
 
@@ -235,11 +239,11 @@ Cons
 * Fingerprints may show up easily
 * Colors may not be vibrant against a darker color phone
 
-## Speck Presidio Edition
-
 <!-- affiliate ads begin -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Speck Presidio Edition
 
 ### Best iPhone 12 case for drop protection
 
@@ -292,6 +296,10 @@ The best iPhone 12 case is the Pela case, chosen for its environmental safety, d
 | Speck Products Presidio Edition  | $23       | 13 feet             |
 | Totallee case                    | $19       | Unspecified         |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which iPhone case is right for you?
 
 Each case on this list has unique pros and cons. One case might be a better choice for you, depending on the features you can't live without. 
@@ -308,10 +316,6 @@ Each case on this list has unique pros and cons. One case might be a better choi
 | Speck Products Presidio Edition   | The best slim iPhone 12 case                                                          |
 | Totallee case                     | The best ultra thin case that protects your phone and camera from nicks and scratches |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What should I look for in an iPhone case?
 
 If you've invested in a top-notch smartphone like an iPhone 12 or 12 Pro, you'll likely want to protect it. There are many features you can look for, but I consider protection, size, style, and features the most important:
@@ -324,10 +328,6 @@ If you've invested in a top-notch smartphone like an iPhone 12 or 12 Pro, you'll
 ## Does wireless charging work with a case?
 
 Wireless charging does work with phone cases. Almost all of the cases on this list are MagSafe-compatible. Usually, cases with a slimmer profile are more likely to be compatible. Most cases specify whether or not they are MagSafe-compatible, so make sure to check out the product specifications to verify if wireless charging works with the case of your choice. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Which case is best for iPhone 12?
 
@@ -342,7 +342,7 @@ Yes. OtterBox cases are durable, and I added an OtterBox option to my list of fa
 The Pela case is made out of non-toxic materials and has been tested for safety. It's free of phthalates, BPA, cadmium, and lead and is verified to meet child safety standards in the U.S., Canada, Europe, Australia, and New Zealand. You can compost it in a home composting environment or an industrial composting facility. Each case on this list keeps your phone safe to varying degrees.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Do you need a case for iPhone 12?
@@ -389,22 +389,24 @@ Of course. Here are a few options to consider.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-step-by-step-journey-mastering-the-art-of-gs-with-kinemaster/"><u>[New] Step-by-Step Journey Mastering the Art of GS with KineMaster</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-effortless-selfie-sending-learn-the-technique-now/"><u>[Updated] 2024 Approved Effortless Selfie Sending - Learn the Technique Now</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-how-to-add-logowatermark-to-youtube-video/"><u>2024 Approved How to Add Logo/Watermark to YouTube Video</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-skys-dynamic-range-wonders-top-10-sites-guide/"><u>2024 Approved Sky's Dynamic Range Wonders - Top 10 Sites Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comparing-ipad-air-4-and-ipad-air-nplus-do-the-improvements-warrant-a-switch/"><u>Comparing iPad Air 4 and iPad Air N+: Do the Improvements Warrant a Switch?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discovering-the-nearly-flawless-qualities-of-the-apple-watch-ultra-available-for-just-100-less-this-labor-day/"><u>Discovering the Nearly Flawless Qualities of the Apple Watch Ultra - Available for Just $100 Less This Labor Day!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/dont-panic-just-power-down-the-ultimate-troubleshooting-for-water-damaged-iphones-and-ipods/"><u>Don't Panic, Just Power Down! The Ultimate Troubleshooting for Water-Damaged iPhones & iPods</u></a></li>
-<li><a href="https://driver-error.techidaily.com/effective-steps-for-fixing-improper-device-configuration-overcoming-error-1-hurdle/"><u>Effective Steps for Fixing Improper Device Configuration – Overcoming Error 1 Hurdle</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/extend-battery-life-on-macos-monterrey-mastering-the-low-power-feature/"><u>Extend Battery Life on MacOS Monterrey: Mastering the Low-Power Feature</u></a></li>
-<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-nokia-c02-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Nokia C02 | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-use-gmail-plus-codes-to-establish-new-emails/"><u>How to Use Gmail Plus Codes to Establish New Emails</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/investigating-possible-aol-mail-service-interruptions-tips-for-users/"><u>Investigating Possible AOL Mail Service Interruptions: Tips for Users</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-are-you-also-a-fan-of-the-slow-mo-guys-well-who-isnt-learn-how-you-can-create-compelling-slow-mo-videos-like-the-slow-mo-guys-here-for-2024/"><u>New Are You Also a Fan of the Slow Mo Guys? Well! Who Isnt? Learn How You Can Create Compelling Slow-Mo Videos Like the Slow Mo Guys Here for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/security-vulnerabilities-and-mitigations/"><u>Security Vulnerabilities & Mitigations</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/stop-motion-on-instagram-like-a-pro-a-beginners-guide-for-2024/"><u>Stop Motion on Instagram Like a Pro A Beginners Guide for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unbeatable-apple-watch-promotions-avoid-missing-out/"><u>Unbeatable Apple Watch Promotions: Avoid Missing Out!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/upgrading-from-iphone-13-pro-to-iphone-15-pro-is-it-worth-the-leap-tech-insights/"><u>Upgrading From iPhone 13 Pro to iPhone 15 Pro: Is It Worth the Leap? | Tech Insights</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-computational-photography-what-are-auto-hdr-smart-hdr-3-and-4-shooting-modes-in-2024/"><u>[New] Computational Photography What Are Auto HDR, Smart HDR 3 & 4 Shooting Modes, In 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-streamline-your-tiktok-experience-4-desktop-broadcast-strategies/"><u>[Updated] 2024 Approved Streamline Your TikTok Experience 4 Desktop Broadcast Strategies</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-best-ways-to-take-amazing-time-lapse-videos-on-android-2024/"><u>[Updated] Best Ways to Take Amazing Time-Lapse Videos on Android 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-escalate-your-channels-popularity-to-1kplus/"><u>2024 Approved Escalate Your Channel's Popularity to 1K+</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/assistant/"><u>Assistant</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/best-free-premiere-pro-templates/"><u>Best Free Premiere Pro Templates</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/dealing-with-libeay32dll-errors-effective-solutions-and-prevention-methods/"><u>Dealing with Libeay32.dll Errors: Effective Solutions and Prevention Methods</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-fix-driverpowerstatefailure-issue/"><u>How to Fix DRIVER_POWER_STATE_FAILURE Issue</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-utilize-chatgpt-for-tailoring-your-watchlist-choices/"><u>How to Utilize ChatGPT for Tailoring Your Watchlist Choices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-through-windows-network-layers-with-the-powerful-tracert-utility/"><u>Navigating Through Windows Network Layers with the Powerful Tracert Utility</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-mac-movie-magic-how-to-bring-your-vision-to-life-for-2024/"><u>New Mac Movie Magic How to Bring Your Vision to Life for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-blue-screen-blues-fixing-stop-code-0x00000078-phase0exception/"><u>Overcoming Blue Screen Blues: Fixing STOP Code 0X00000078 (Phase0_Exception)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/sequential-watchlist-for-dragon-ball-fans-the-right-way-to-enjoy-gokus-journey/"><u>Sequential Watchlist for Dragon Ball Fans: The Right Way to Enjoy Goku's Journey</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solve-the-mystery-of-disappearing-helperdll-files-tips-and-tricks-for-success/"><u>Solve the Mystery of Disappearing Helper.dll Files: Tips and Tricks for Success</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/spotify-to-scribble-how-to-change-your-online-playlists-to-printable-files/"><u>Spotify to Scribble: How To Change Your Online Playlists to Printable Files</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-on-integrating-disneyplus-into-your-chromecast-experience/"><u>Step-by-Step Instructions on Integrating Disney+ Into Your Chromecast Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-successful-launch-of-destiny-2-on-windows-and-mac-os/"><u>Troubleshooting Guide: Successful Launch of Destiny 2 on Windows and Mac OS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unleashing-the-power-of-gaming-in-the-cloud-a-users-manual-for-xbox-game-pass-ultimate/"><u>Unleashing the Power of Gaming in the Cloud: A User's Manual for Xbox Game Pass Ultimate</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-international-conversations-with-these-top-5-free-calling-solutions/"><u>Unlock International Conversations with These Top 5 Free Calling Solutions</u></a></li>
 </ul></div>
 

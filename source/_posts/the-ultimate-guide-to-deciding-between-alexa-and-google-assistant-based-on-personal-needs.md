@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Deciding Between Alexa and Google Assistant Based on Personal Needs
-date: 2024-08-26T07:29:33.548Z
-updated: 2024-08-27T07:29:33.548Z
+date: 2024-12-14T18:18:51.850Z
+updated: 2024-12-17T05:44:17.064Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate Guide to Deciding Between Alexa and Google Assistant Based on Personal Needs
@@ -10,6 +10,11 @@ thumbnail: https://www.lifewire.com/thmb/d844hDogKnMrl2-3QxCHMOlrfwM=/300x200/fi
 ---
 
 ## Gmail and You: Master the Art of Selecting Personalized Email Tones – Here's How
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * With Notifier for Gmail installed, select**Extensions** next to the Chrome navigation bar.
@@ -17,6 +22,10 @@ thumbnail: https://www.lifewire.com/thmb/d844hDogKnMrl2-3QxCHMOlrfwM=/300x200/fi
 * Change the sound in the drop-down menu and exit.
 
  This article explains how to enable Gmail sound notifications using the Notifier for Gmail extension for Chrome. It includes information for enabling a pop-up notification for Gmail and sound notifications for other email providers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Enable a New Mail Sound for Gmail
 
@@ -29,25 +38,33 @@ thumbnail: https://www.lifewire.com/thmb/d844hDogKnMrl2-3QxCHMOlrfwM=/300x200/fi
 1. Select**Extensions** next to Chrome's navigation bar, then select**More actions** (three vertical dots) and choose **Options** .  
 ![Options menu item for Notifier for Gmail.](https://www.lifewire.com/thmb/ItTlmQe_8CNY3vW37Q6ac7spTJ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-add-a-new-mail-sound-for-gmail-5b50d46b9a594db3bd73946ea64549aa.jpg)
 2. Scroll down to the Notifications section and make sure **Play alert sound for new emails** is selected.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Play alert sound for new emails.](https://www.lifewire.com/thmb/EaGNTDoH2lcLO8QxHT0Z1KVeUPk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-add-a-new-mail-sound-for-gmail-1e074c5a399d403aab64b2ec37afbbf8.jpg)
 3. Change the sound using the drop-down menu.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Notifier for Gmail settings screen highlighting Play alert sound for new emails and Default sound notification drop-down menu](https://www.lifewire.com/thmb/DUBiUTKL1yNY2AP6anJNY9OE1cM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-add-a-new-mail-sound-for-gmail-db10f7ff4e56480c8acefb921da8d1b6.jpg)
 4. Exit the window when you're done. The changes are saved automatically.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also[change your notification sounds on Android](https://www.lifewire.com/how-to-change-create-android-notification-sounds-4783114) or[change the new mail sound on iOS](https://www.lifewire.com/how-to-change-the-new-mail-sound-in-ios-mail-1172501) to achieve a similar effect in those mobile apps.
 
  If you use Gmail through a downloadable email client like[Microsoft Outlook](https://www.lifewire.com/microsoft-outlook-4164620) ,[Thunderbird](https://www.lifewire.com/gmail-access-thunderbird-1173150) , or[eM Client](http://www.emclient.com/) , you make the sound change from within those programs.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Enable a Pop-Up Notification
 
  You can set Gmail to display a pop-up notification when new email messages arrive in Chrome, Firefox, or Safari when you are signed in to Gmail and have it open in the browser. Just turn on that setting in Gmail by selecting the **Settings**  icon then choosing **See all settings** and going to **General** \> **Desktop Notifications** . The notification is not accompanied by a sound.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Change Gmail Notification Sounds in Other Email Clients
 
  You can[turn on notification sounds for Outlook](https://www.lifewire.com/change-new-mail-notification-sound-outlook-1173674) email messages in the **FILE** \>**Options** \>**Mail**  menu, with the **Play a sound** option from the Message arrival section. To change the sound,[open Control Panel](https://www.lifewire.com/how-to-open-control-panel-2625782) and search for "sound". Open the Sound [Control Panel applet](https://www.lifewire.com/control-panel-applet-2625831) and modify the **New Mail Notification** option from the Sounds tab.
@@ -85,8 +102,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -94,4 +109,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-raw-footage-to-youtube-perfection-premiere-pro-techniques/"><u>[New] In 2024, From Raw Footage to YouTube Perfection - Premiere Pro Techniques</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-illusions-manipulating-past-and-future-events/"><u>[Updated] Illusions Manipulating Past & Future Events</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-recover-missing-youtube-like-icon-in-fb-watch/"><u>[Updated] In 2024, Recover Missing YouTube-Like Icon in FB Watch</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazons-exclusive-deal-top-ranked-tech-laptop-discounted-by-500-before-prime-day-shop-now/"><u>Amazon's Exclusive Deal: Top-Ranked Tech Laptop Discounted by $500 Before Prime Day - Shop Now!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/detailed-fixes-for-the-farming-simulator-22-launch-failure/"><u>Detailed Fixes for the Farming Simulator 22 Launch Failure</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diagnosing-and-repairing-netflix-playback-problems-on-your-roku-hardware/"><u>Diagnosing and Repairing Netflix Playback Problems on Your Roku Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-official-canon-pixma-mg5420-driver-for-windows-10-8-or-7-free-download-now/"><u>Get Official Canon Pixma MG5420 Driver for Windows 10, 8 or 7 – Free Download Now!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-streaming-content-from-your-android-device-to-amazon-fire-tv/"><u>Guide: Streaming Content From Your Android Device to Amazon Fire TV</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/improving-color-fidelity-in-post-export-videos/"><u>Improving Color Fidelity in Post-Export Videos</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/key-steps-prior-to-transitioning-to-an-iphone-15-ensure-all-essentials-are-safe-and-secured/"><u>Key Steps Prior to Transitioning to an iPhone 15 - Ensure All Essentials Are Safe and Secured!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/qled-vs-oled-tvs-unveiling-the-distinctive-features/"><u>QLED Vs. OLED TVs: Unveiling the Distinctive Features</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/securing-your-emails-with-gmails-dual-factor-authentication-tutorial/"><u>Securing Your Emails with Gmail's Dual Factor Authentication Tutorial</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-creating-and-sharing-imessage-voicemails/"><u>Step-by-Step Instructions: Creating and Sharing iMessage Voicemails</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/teslas-robotaxi-launch-anticipated-cost-and-release-timeline-discover-the-latest-updates/"><u>Tesla's Robotaxi Launch: Anticipated Cost & Release Timeline - Discover the Latest Updates</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-collection-the-best-13-true-crime-podcasts-you-shouldnt-miss/"><u>Ultimate Collection: The Best 13 True Crime Podcasts You Shouldn't Miss</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-access-how-to-enable-your-facebook-marketplace-feature/"><u>Unlocking Access: How to Enable Your Facebook Marketplace Feature</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-full-ram-potential-on-your-windows-pc/"><u>Unlocking Full RAM Potential on Your Windows PC</u></a></li>
+</ul></div>
 

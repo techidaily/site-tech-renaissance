@@ -1,7 +1,7 @@
 ---
 title: Tensile Strength and Yield Strength Are Critical in Determining a Material's Capacity to Withstand Loads During Service.
-date: 2024-11-24T16:04:05.297Z
-updated: 2024-11-25T16:05:07.387Z
+date: 2024-12-12T16:03:11.431Z
+updated: 2024-12-17T16:00:27.978Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ In this article, I'll talk about that use case -- and why VPNs are so important 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The killer app for XR (2024 edition)
@@ -63,7 +63,7 @@ Sure, there are many other uses for XR. ZDNET editor-in-chief [Jason Hiner loves
 I would argue that using XR while traveling or living in a small space is, however, the first killer app for these types of devices. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The obvious necessity of a VPN
@@ -81,7 +81,7 @@ Worse, those connections are often shared, and there's a fair chance someone mig
 The primary protection for those who need to travel and go online is using a VPN to encrypt traffic as it leaves your computing device. Some companies require employees to connect to their corporate networks over a VPN for similar reasons. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to use a VPN with an XR headset
@@ -109,7 +109,7 @@ Virtual Dude also recommends sideloading an app that lets you sideload Android a
 That said, Virtual Dude's video is a proof of concept that VPNs can work on XR devices like the Quest. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Give it some time
@@ -161,18 +161,16 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-renaissance.techidaily.com/boost-your-twitter-strategy-with-effective-post-scheduling-techniques/"><u>Boost Your Twitter Strategy with Effective Post Scheduling Techniques</u></a></li>
-<li><a href="https://win-updates.techidaily.com/cant-delete-mcafee-from-your-system-successful-steps-to-fully-eliminate-mcafee-antivirus/"><u>Can't Delete McAfee From Your System? Successful Steps to Fully Eliminate McAfee Antivirus</u></a></li>
-<li><a href="https://article-files.techidaily.com/cutting-edge-techniques-for-video-production-in-windows-photos-for-2024/"><u>Cutting-Edge Techniques for Video Production in Windows Photos for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/diagnosing-and-fixing-mac-software-that-wont-start-up-properly/"><u>Diagnosing and Fixing Mac Software That Won't Start Up Properly</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-vivo-y17s-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Vivo Y17s Without Password | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Infinix Hot 40 | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/lgs-latest-audio-improvement-is-a-game-changer-especially-for-apple-enthusiasts-zdnet-insider/"><u>LG's Latest Audio Improvement Is a Game-Changer, Especially for Apple Enthusiasts | ZDNET Insider</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/no-more-searching-the-best-filmora-coupon-codes-revealed-for-2024/"><u>No More Searching The Best Filmora Coupon Codes Revealed for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-warcraft-3-reforged-issues-top-solutions-for-a-smooth-gameplay-experience-in-202/"><u>Overcoming Warcraft 3 Reforged Issues: Top Solutions for a Smooth Gameplay Experience in 202</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-charger-categories-for-electric-vehicles-levels-1-2-and-3-explained/"><u>The Ultimate Guide to Charger Categories for Electric Vehicles: Levels 1, 2, and 3 Explained</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/top-gratis-dvd-player-software-fur-windows-10-und-mac-jetzt-herunterladen/"><u>Top Gratis DVD Player Software Für Windows 10 Und Mac - Jetzt Herunterladen!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-mysteries-of-the-blue-screen-an-explanation-of-bsod-error-codes-and-solutions/"><u>Unveiling the Mysteries of the Blue Screen: An Explanation of BSOD Error Codes and Solutions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/watch-movies-legally-without-paying-best-free-online-platforms-for-cinema-buffs-ranked-1-12/"><u>Watch Movies Legally Without Paying: Best Free Online Platforms for Cinema Buffs (Ranked #1-12)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-innovative-approaches-to-documenting-film-content-on-various-os-for-2024/"><u>[New] Innovative Approaches to Documenting Film Content on Various OS for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-vlc-options-and-rivals/"><u>2024 Approved Exploring VLC Options and Rivals</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-comprehensive-guide-to-atandt-wireless-data-roaming-fees/"><u>A Comprehensive Guide to AT&T Wireless Data Roaming Fees</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/capturing-the-spirit-of-olympism-from-home-your-tutorial-on-live-streaming-2024-summer-olympics/"><u>Capturing the Spirit of Olympism From Home: Your Tutorial on Live-Streaming 2024 Summer Olympics</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-guide-running-android-applications-on-windows-11-efficiently/"><u>Complete Guide: Running Android Applications on Windows 11 Efficiently</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-restore-functionality-when-windows-1ebysearch-isnt-working-properly/"><u>How to Restore Functionality When Windows 1Ebysearch Isn’t Working Properly</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/immersing-in-a-changed-landscape-the-intricate-review-of-watch-dogs-legion/"><u>Immersing in a Changed Landscape: The Intricate Review of Watch Dogs: Legion</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/os-windowsvirtualbox/"><u>OS WindowsインストールをVIRTUALBOXにうまく転送する方法 - 簡単ガイド</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solutions-for-smoother-gameplay-addressing-lag-issues-in-guilty-gear-strive/"><u>Solutions for Smoother Gameplay: Addressing Lag Issues in Guilty Gear Strive</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-strategy-for-identifying-read-messages-in-gmail-what-you-need-to-know/"><u>The Ultimate Strategy for Identifying Read Messages in Gmail – What You Need to Know</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-vivo-y27-4g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Vivo Y27 4G IMEI without Root A Comprehensive Guide</u></a></li>
 </ul></div>
 

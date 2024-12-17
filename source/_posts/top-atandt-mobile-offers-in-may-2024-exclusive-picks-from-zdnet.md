@@ -1,7 +1,7 @@
 ---
 title: Top AT&T Mobile Offers in May 2024 - Exclusive Picks From ZDNet
-date: 2024-12-04T04:17:12.001Z
-updated: 2024-12-11T06:32:22.980Z
+date: 2024-12-16T16:00:48.051Z
+updated: 2024-12-17T16:00:09.802Z
 tags:
   - apple
 categories:
@@ -116,10 +116,6 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 
 [View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-razrplus.html) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## More AT&T deals
 
 [Apple iPhone 15 Pro Max, $5.56/month with trade-in View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/apple-iphone-15-pro-max.html)
@@ -134,10 +130,6 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 
 [Motorola moto g stylus, $2.99/month, no trade-in required View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-moto-g-stylus-5g-2023.html)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Accessory and service deals
 
 [Google Pixel Buds A-Series wireless earbuds: Save 50% when you buy a Pixel device View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/accessories/Headphones/google-pixel-buds-a-series-true-wireless-earbuds-clearly-white.html)
@@ -149,7 +141,7 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 [BodyGuardz Pure 2 Edge antimicrobial glass screen protector (iPhone 14 range) for $10 (save $35) $10 at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/accessories/Screen-Protectors/bodyguardz-pure-2-edge-antimicrobial-tempered-glass-screen-protector-iphone-14-13-13-pro.html)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How did we choose these AT&T phone deals?
@@ -163,7 +155,7 @@ When we made our selection for the best AT&T deals, we wanted to include options
 * **Events**: It's always worth checking retailers after a major event, such as Samsung Unpacked. You will often find that deals will be launched just after, luring customers to agree to preorder their new handset in return for discounts and free storage upgrades.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Does AT&T offer deals for existing customers?
@@ -171,12 +163,16 @@ When we made our selection for the best AT&T deals, we wanted to include options
 It's true that carriers are the most aggressive with their offers when it's year-end and new customers are shopping around for services to switch to. Still, AT&T has done a fairly balanced job of pushing promotions for new and existing customers, including all the deals we have listed above. If you've been a loyal customer, we'd even recommend reaching out to your local AT&T provider to see if there are any exclusive deals just for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is it cheaper to buy a phone online or in-store?
 
 In general, there is no difference in how much money you save whether you shop online or in stores. Instead, deciding between the two really boils down to your preference for transactions. With how complicated carrier phone deals can be, you may be better off heading down to the local AT&T store and consulting with a product expert to help you navigate the fine print. Otherwise, shopping online can be faster and more convenient.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the best deals right now?
 
@@ -186,6 +182,10 @@ ZDNET experts split out the latest and greatest deals for you below.
 
 * [The best AT&T deals](https://www.zdnet.com/article/att-deals/)
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Best deals by category**
 
@@ -236,20 +236,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-navigating-instagrams-question-marker-magic/"><u>[New] Navigating Instagram’s Question Marker Magic</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-dialing-in-on-youtube-success-identifying-ranks-boosters-for-2024/"><u>[Updated] Dialing in on YouTube Success Identifying Ranks Boosters for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-making-the-most-out-of-video-calls-combining-skype-and-zoom/"><u>[Updated] Making the Most Out of Video Calls Combining Skype & Zoom</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-comprehensible-path-to-proficient-greenscreen-in-kinemaster/"><u>2024 Approved The Comprehensible Path to Proficient Greenscreen in KineMaster</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-who-takes-the-prize-for-best-cinematic-recording-in-extreme-sports/"><u>2024 Approved Who Takes the Prize for Best Cinematic Recording in Extreme Sports?</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-your-path-to-perfect-videos-with-any-of-these-7-free-tools/"><u>2024 Approved Your Path to Perfect Videos with Any of These 7 Free Tools</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/enhancing-your-iphone-experience-with-apples-integration-of-googles-gemini-insights/"><u>Enhancing Your iPhone Experience with Apple's Integration of Google's Gemini - Insights</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/enhancing-your-laptops-soundscape-elevating-system-volume-on-win10-systems/"><u>Enhancing Your Laptop's Soundscape: Elevating System Volume on Win10 Systems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-safely-alter-your-facebook-sign-in-key-information/"><u>How To Safely Alter Your Facebook Sign-In Key Information</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-craft-the-ultimate-mac-app-for-incredible-document-management-a-step-by-step-tutorial-zdnet/"><u>Mastering Craft: The Ultimate Mac App for Incredible Document Management - A Step-by-Step Tutorial | ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/revolutionizing-conversational-ai-on-apple-devices-chatgpt-now-available-via-collaboration-with-openai-zdnet-coverage/"><u>Revolutionizing Conversational AI on Apple Devices: ChatGPT Now Available via Collaboration with OpenAI | ZDNet Coverage</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/shockingly-fast-crafting-a-google-image-collaboration/"><u>Shockingly Fast Crafting a Google Image Collaboration</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/shoot-higher-your-mobile-for-vertical-panoramas/"><u>Shoot Higher Your Mobile for Vertical Panoramas</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-crucial-5-features-android-must-adopt-to-rivet-against-iphones-ios-supremacy/"><u>The Crucial 5 Features Android Must Adopt to Rivet Against iPhone's iOS Supremacy</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-savings-on-computers-july-2024s-premier-offers-zdnet-spotlight/"><u>Ultimate Savings on Computers: July 2024'S Premier Offers | ZDNet Spotlight</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-virtual-realms-unveiled-gear-vs-lgcam-review/"><u>[Updated] 2024 Approved Virtual Realms Unveiled Gear vs LGCam Review</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-instasaves-the-leading-videophoto-downloaders-for-2024/"><u>[Updated] InstaSaves The Leading Video/Photo Downloaders for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-quick-solutions-for-the-crashy-windows-11-photos-app/"><u>[Updated] Quick Solutions for the Crashy Windows 11 Photos App</u></a></li>
+<li><a href="https://fox-links.techidaily.com/advanced-techniques-for-efficient-use-of-luts-in-cs6cc-for-2024/"><u>Advanced Techniques for Efficient Use of LUTs in CS6/CC for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/benefits-of-upgrading-to-an-nvidia-rtx-card-is-it-worth-it/"><u>Benefits of Upgrading to an NVIDIA RTX Card: Is It Worth It?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-solutions-to-address-the-missing-vcompdll-error-in-windows/"><u>Complete Solutions to Address the Missing vcomp.dll Error in Windows</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/endgultige-anleitung-fur-die-behandlung-der-datenwiederherstellung-nach-dem-neuaufbau-des-fabrikenmodus-in-windows-7/"><u>Endgültige Anleitung Für Die Behandlung Der Datenwiederherstellung Nach Dem Neuaufbau Des Fabrikenmodus in Windows 7</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-overcoming-the-microsoft-edge-freezing-dilemma-in-windows-11/"><u>Expert Tips: Overcoming the Microsoft Edge Freezing Dilemma in Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-a-silent-sirius-a-guide-for-dealing-with-unresponsive-alexa-devices/"><u>Fixing a Silent Sirius - A Guide for Dealing With Unresponsive Alexa Devices</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-xiaomi-civi-3-disney-100th-anniversary-edition-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Xiaomi Civi 3 Disney 100th Anniversary Edition to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ipad-pro-vs-macbook-air-a-comprehensive-review-of-their-unique-features/"><u>IPad Pro vs MacBook Air - A Comprehensive Review of Their Unique Features</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/must-watch-animated-adventures-on-disneyplus-the-best-picks-for-kids-and-families-july-2atury/"><u>Must-Watch Animated Adventures on Disney+ – The Best Picks for Kids and Families, July 2Atury</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pixel-playfulness-harnessing-funny-lenses-in-snapchat/"><u>Pixel Playfulness Harnessing Funny Lenses in Snapchat</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Nokia C12? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/synchronize-successfully-a-comprehensive-method-for-wireless-samsung-earbuds-and-laptop-integration/"><u>Synchronize Successfully: A Comprehensive Method for Wireless Samsung Earbuds and Laptop Integration</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-8-must-have-travel-organizer-apps-for-effortless-trip-planning/"><u>Top 8 Must-Have Travel Organizer Apps for Effortless Trip Planning</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unleash-efficient-viewing-with-the-picture-in-picture-functionality-on-your-android-smartphone/"><u>Unleash Efficient Viewing with the Picture-in-Picture Functionality on Your Android Smartphone</u></a></li>
 </ul></div>
 

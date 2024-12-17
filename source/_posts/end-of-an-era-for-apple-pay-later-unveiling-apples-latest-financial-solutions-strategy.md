@@ -1,7 +1,7 @@
 ---
 title: "End of an Era for Apple Pay Later: Unveiling Apple’s Latest Financial Solutions Strategy"
-date: 2024-12-08T03:41:07.092Z
-updated: 2024-12-10T16:02:30.318Z
+date: 2024-12-16T16:02:57.967Z
+updated: 2024-12-17T16:00:32.599Z
 tags:
   - apple
 categories:
@@ -31,10 +31,6 @@ To continue this conversation, I'm going to ask you to hold two competing though
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How could Meta possibly beat Apple?
 
 Good, better, best. What does this mean? How can a $500 device from Meta (Facebook, believe it or not) beat Apple's offering?
@@ -60,7 +56,7 @@ During this time, the company focused on providing viable mixed reality and VR e
 Essentially, Meta's focus has been on finding the sweet spot for AR and VR devices using current technology and baking that into its products. In the Quest 3, it has introduced a truly great device at a reasonably affordable price.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  That old Apple magic
@@ -90,6 +86,10 @@ Bloomberg's Gurman believes Apple is more willing to kill products now than it h
 
 His inference is that it's possible Apple will lose patience with the slow progress of the Vision Pro and kill it off, although he says his sources claim the company is more focused on introducing a cost-cut Vision device that off-loads the processing to a tethered iPhone or Mac. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Think different?
 
 For Apple to be able to move forward with the Vision Pro, it must answer one simple question: Why should I buy this thing? 
@@ -109,6 +109,10 @@ Image: Apple
 The virtual Mac screen the Vision Pro now offers doesn't add much. But being able to wrap a Mac screen around a user and provide ultra-wide support is a major productivity win for some heavy Mac users. 
 
 There are always reasons for delays. It's certainly possible the company hit technical hurdles. But perhaps it could have moved resources over from circus sideshow projects like converting 2D photos into 3D photos -- a feature _no one_ will use as a justification to buy a Vision Pro -- into something that could and will provide real, tangible value and even a justification for the high purchase price. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  A Vision for the rest of us
 
@@ -135,7 +139,7 @@ The eye tracking and hand gestures interface that are the primary means of opera
 You can see this in action with the [Puzzling Places game](https://www.meta.com/experiences/3931148300302917/). On the Quest 3, the game provides a much richer interface than on the Vision Pro. That's because it's much easier to navigate objects in the 3D space using the Quest controllers. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Stay away from cable tethering
@@ -151,7 +155,7 @@ The idea that a future Vision device might need to be physically tethered to an 
 There might be one compromise, which is to wirelessly offload some processing to an iPhone, similar to the symbiotic relationship the Apple Watch has with the iPhone. That could work. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Make a tough margin decision
@@ -173,10 +177,6 @@ Think about that. If the Quest 3 is sold for $500, retailers like Amazon are lik
 **Also: [Who's afraid of VR? I was - until I tried Meta Quest 3](https://www.zdnet.com/article/whos-afraid-of-vr-i-was-until-i-tried-meta-quest-3/)**
 
 Apple, by contrast, is making a fairly predictable margin on the Vision Pro, which is why the price is so high by comparison. Apple does have some cost-cutting options (display, chips, assembly, structure, and lenses), but if Facebook is competing at a loss, that puts Apple into the uncomfortable position of also taking a per-unit COGS loss or pricing well higher than the current market leader. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Looking towards the future
 
@@ -227,18 +227,17 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-10-best-online-photo-background-changers-filmora/"><u>[New] 10 Best Online Photo Background Changers - Filmora</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-how-much-will-it-cost-to-shoot-a-music-video/"><u>[Updated] 2024 Approved How Much Will It Cost To Shoot A Music Video</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-step-by-step-ps4-recording-techniques-for-gamers/"><u>[Updated] 2024 Approved Step-by-Step PS4 Recording Techniques for Gamers</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-voyage-to-greatness-youtubes-best-travel-vids-for-2024/"><u>[Updated] Voyage to Greatness YouTube's Best Travel Vids for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-digital-dominance-highest-viewed-youtube-videos-today/"><u>2024 Approved Digital Dominance Highest Viewed YouTube Videos Today</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/beat-the-apple-vision-pro-hype-with-affordable-xr-glasses-a-game-changer-for-tech-enthusiasts/"><u>Beat the Apple Vision Pro Hype with Affordable XR Glasses – A Game Changer for Tech Enthusiasts!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/decoding-the-drama-how-the-infamous-crowdstrike-vs-windows-showdown-of-2024-unfolded-an-insightful-retrospect-on-zdnet/"><u>Decoding the Drama: How the Infamous CrowdStrike Vs. Windows Showdown of 2024 Unfolded | An Insightful Retrospect on ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/desktop-edition-of-snapchat-the-ultimate-guide-for-non-mobile-use/"><u>Desktop Edition of Snapchat: The Ultimate Guide for Non-Mobile Use</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-see-someones-location-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to See Someones Location on Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-nokia-g310-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Nokia G310 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/microdrama-writers-guide/"><u>Microdrama Writers Guide</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/passfab-apple-iphone-11-pro-max-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab Apple iPhone 11 Pro Max Backup Unlocker Top 4 Alternatives</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-resolving-no-audio-issues-with-your-stereo-receiver/"><u>Troubleshooting Tips: Resolving No Audio Issues with Your Stereo Receiver</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-navigating-the-seas-of-success-utilizing-social-blade-for-youtube-data/"><u>[New] In 2024, Navigating the Seas of Success Utilizing Social Blade for YouTube Data</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-step-by-step-approach-to-crafting-youtube-intros/"><u>[Updated] Step-by-Step Approach to Crafting YouTube Intros</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-subscription-sensation-top-10-youtube-personalities-by-counts/"><u>[Updated] Subscription Sensation Top 10 YouTube Personalities by Counts</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-deciphering-the-connotations-of-pfp-on-social-media/"><u>2024 Approved Deciphering the Connotations of 'PFP' On Social Media</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-joke-journey-begins-for-free-our-meme-toolset/"><u>2024 Approved Joke Journey Begins for Free - Our Meme Toolset</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-tecno-spark-10c-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-intelligent-features-of-android-systems/"><u>Exploring the Intelligent Features of Android Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722852222050-guide-fixing-alexas-unresponsiveness-a-step-by-c/"><u>Guide: Fixing Alexa's Unresponsiveness – A Step-by-C...</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-effortlessly-pick-out-specific-messages-from-a-cluttered-gmail-collection/"><u>How to Effortlessly Pick Out Specific Messages From a Cluttered Gmail Collection</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-enable-and-use-compatibility-mode-for-legacy-software-on-windows-11/"><u>How to Enable and Use Compatibility Mode for Legacy Software on Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/repairing-lost-cellular-function-in-your-apple-watch-expert-tips-and-tricks/"><u>Repairing Lost Cellular Function in Your Apple Watch: Expert Tips & Tricks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-espnplus-a-guide-to-disneys-premier-sports-streaming-platform/"><u>Understanding ESPN+: A Guide to Disney's Premier Sports Streaming Platform</u></a></li>
 </ul></div>
 

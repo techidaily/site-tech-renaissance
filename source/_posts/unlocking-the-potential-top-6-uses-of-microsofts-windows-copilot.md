@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the Potential: Top 6 Uses of Microsoft's Windows Copilot"
-date: 2024-08-30T14:41:36.075Z
-updated: 2024-08-31T14:41:36.075Z
+date: 2024-12-12T10:40:36.588Z
+updated: 2024-12-17T10:06:33.159Z
 tags:
   - cutting-edge
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/24c0edcba484cab644836ae0bb31bb9d7220262ab
 Windows Copilot is Microsoft's AI-powered assistant that comes integrated into Windows 11, with plans to feature it in Windows 10 at the time of writing. Like a copilot in the cockpit, Windows Copilot can help you with various tasks as you use your computer. Here's what it can do.
 
  Haven't used Windows Copilot yet? You can summon it by clicking the dedicated Copilot icon on the taskbar or using the Windows+C shortcut key. When launched, Copilot appears as a handy sidebar on the right side of your screen. If it doesn't appear for you, read our guide on how to [get Windows Copilot up and running on your computer](https://vimeo-videos.techidaily.com/new-2024-approved-ultimate-vimeo-cutting-suite-revealed/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Generate Text Content
 
@@ -50,9 +54,9 @@ Windows Copilot is Microsoft's AI-powered assistant that comes integrated into W
  You can customize a summary by specifying the number of sentences or asking for specific formats like bulleted lists.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  3\. Create Images Using DALL·E 3
 
  Windows Copilot (using Microsoft Bing Image Creator) leverages OpenAI's DALL·E 3 to [turn text prompts into vivid visual creations](https://visual-screen-recording.techidaily.com/updated-myvidhub-testing-a-quest-for-more-features-for-2024/). You can craft prompts to produce original icons, logos, scene illustrations, concept art, and more. The possibilities are limited only by your imagination.
@@ -67,14 +71,19 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![A variation of DALL E 3 generated images by prompting on Windows Copilot](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot-2023-11-23-142353.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  I clicked on my preferred generated image and was presented with four options. I could click the "Share" button to copy the link to that image. Or I could click "Save" to add it to my Bing Image Collection for later use. I also had the option to "Download" the image directly to my computer or use Microsoft Designer to "Customize" it further.
 
 ![Options for a preferred DALLE 3 generated image by Windows Copilot](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot-2023-11-23-142507.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Getting that perfect image may take some trial and error, but fine-tuning via text simplifies experimenting with DALL·E 3 in Windows Copilot.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  4\. Analyze and Describe the Contents of an Image
 
@@ -82,9 +91,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![bluetti power station being held by man outside caravan](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/bluetti-power-station-black-friday.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Bluetti
 
  It described the image in detail better than I probably would have.
@@ -92,8 +98,9 @@ Bluetti
 ![Screenshot 2023-11-23 144320](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot-2023-11-23-144320.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can also ask Copilot to read any text it detects in an image. Its optical character recognition works for everything from street signs to restaurant menus.
 
  For privacy reasons, Copilot will blur any faces it detects before describing the rest of the image.
@@ -107,8 +114,9 @@ Bluetti
 ![Windows Copilot opening Notepad app via prompt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot-2023-11-23-145318.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can also use Copilot to control Windows settings through text and voice commands. Try prompting Windows Copilot with something like "Change my background image," and Windows will open the background personalization screen, ready for you to select a new wallpaper. That's much quicker than digging through the Settings app manually.
 
 ![Windows Copilot opening background personalization settings via prompting](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot-2023-11-23-145856.jpg) 
@@ -123,18 +131,16 @@ Bluetti
 
 ![A Javascript code generated by Windows Copilot](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot-2023-11-23-150604.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  It generated functioning code to do so, which I confirmed by testing it in Visual Studio Code.
 
 ![Windows Pilot Generated Code run on Visual Studio Code](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/screenshot-windows-pilot.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  However, you should review the generated code, as Copilot may not always produce working or efficient code.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Take Windows Copilot for a Test Drive
 
  Copilot on Windows 11 ([and possibly Windows 10](https://fox-friendly.techidaily.com/updated-2024-approved-the-definitive-guide-to-captivating-podcast-covers/)) is nothing short of a productivity-enhancing digital assistant. The examples I've outlined illustrate some of its capabilities.
@@ -147,8 +153,6 @@ Bluetti
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,4 +160,24 @@ Bluetti
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-exploring-ffmpegs-original-audio-extraction-capabilities/"><u>[Updated] Exploring FFmpeg’s Original Audio Extraction Capabilities</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-channel-labeling-101-how-to-make-yourself-hard-to-ignore/"><u>[Updated] In 2024, Channel Labeling 101 How to Make Yourself Hard to Ignore</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-premium-picks-recommended-spots-for-procuring-snapchat-chime/"><u>[Updated] In 2024, Premium Picks Recommended Spots for Procuring Snapchat Chime</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-your-creative-potential-embrace-these-top-10-iphone-image-rules/"><u>2024 Approved Unlocking Your Creative Potential Embrace These Top 10 iPhone Image Rules</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/dive-into-the-latest-features-of-apples-most-recent-ipad-release/"><u>Dive Into the Latest Features of Apple's Most Recent iPad Release</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-slash-your-spending-with-these-6-must-visit-coupon-portals/"><u>How to Slash Your Spending with These 6 Must-Visit Coupon Portals</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-oppo-find-x7-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Oppo Find X7 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722848848078-is-twitch-really-down-or-is-your-connection-at-fault/"><u>Is Twitch Really Down, or Is Your Connection at Fault?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/maximizing-productivity-with-two-screens-on-your-apple-device/"><u>Maximizing Productivity with Two Screens on Your Apple Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/must-watch-originals-featured-on-max-streaming-service/"><u>Must-Watch Originals Featured on Max Streaming Service</u></a></li>
+<li><a href="https://facebook.techidaily.com/platforms-exemption-continued-spread-of-anti-vax-rhetoric/"><u>Platform's Exemption: Continued Spread of Anti-Vax Rhetoric</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-unspoken-rewards-of-electric-vehicle-owners-tap-into-free-parking-and-fast-track-on-hov-lanes/"><u>The Unspoken Rewards of Electric Vehicle Owners: Tap Into Free Parking and Fast-Track on HOV Lanes</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-rated-wifi-range-extenders-a-comprehensive-guide/"><u>Top Rated WiFi Range Extenders : A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/twitters-without-symbols-linuss-exposed-content-trojans-demystified-and-gpt-errors-spotlighted/"><u>Twitters Without Symbols, Linus’s Exposed Content, Trojans Demystified, & GPT Errors Spotlighted</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-the-world-of-wireless-essential-tips-for-novice-home-audio-enthusiasts/"><u>Unlocking the World of Wireless: Essential Tips for Novice Home Audio Enthusiasts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/xbox-live-access-issues-identifying-a-widespread-disruption-vs-private-connectivity-woes/"><u>Xbox Live Access Issues - Identifying a Widespread Disruption Vs. Private Connectivity Woes</u></a></li>
+</ul></div>
 

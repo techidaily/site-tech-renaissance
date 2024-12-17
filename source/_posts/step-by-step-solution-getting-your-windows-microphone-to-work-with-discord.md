@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Solution: Getting Your Windows Microphone to Work with Discord"
-date: 2024-08-30T14:39:35.555Z
-updated: 2024-08-31T14:39:35.555Z
+date: 2024-12-12T15:36:27.227Z
+updated: 2024-12-17T05:53:34.085Z
 tags:
   - desktop
 categories:
@@ -29,11 +29,12 @@ thumbnail: https://thmb.techidaily.com/3f45b4986206d046cd956542a295fe465671e73b8
 
 !['Run as Administrator' highlighted for Discord in the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-launch-discord-as-admin.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Select "Yes" in the User Account Control prompt.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Test Your Mic in Another App and Give Discord Microphone Access
 
  It’s possible the mic is functioning properly but isn’t being recognized by Discord for some reason. To [test your mic](https://change-location.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-vivo-y200e-5g-drfone-by-drfone-virtual-android/), open another mic-utilizing app on your PC and see if the mic works.
@@ -53,8 +54,9 @@ thumbnail: https://thmb.techidaily.com/3f45b4986206d046cd956542a295fe465671e73b8
 ![The 'Change' toggle and 'Allow Apps to Access Your Microphone' highlighted in Windows 10 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-turn-on-mic-windows-10.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Select the Correct Mic in Discord
 
  If you have multiple mics connected to your PC, ensure the correct mic is chosen in Discord. You can [review your Discord mic settings](https://ai-editing-video.techidaily.com/new-2024-approved-creative-ways-to-add-green-screen-effects-in-photoshop/) as follows.
@@ -64,15 +66,13 @@ thumbnail: https://thmb.techidaily.com/3f45b4986206d046cd956542a295fe465671e73b8
 ![Click the gear icon to open User Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/discord-gear.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  From the left sidebar, choose "Voice & Video." On the right pane, select the "Input Device" drop-down menu and choose the correct mic.
 
 !['Voice & Video' and 'Input Device' highlighted in Discord User Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-choose-mic-discord.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Disable QoS High Packet Priority in Discord
 
  Discord’s [QoS](https://digital-screen-recording.techidaily.com/updated-in-2024-nine-powerful-microphone-capture-options-decoded/) High Packet Priority feature tells your router the app’s internet packets are high priority. This feature sometimes clashes with the app configuration. Turn it off and see if that resolves your mic problem.
@@ -81,9 +81,6 @@ thumbnail: https://thmb.techidaily.com/3f45b4986206d046cd956542a295fe465671e73b8
 
 !['Voice & Video' and 'Enable Quality of Service High Packet Priority' highlighted in Discord User Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-disable-qos-discord.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Reset Discord's Voice Settings
 
  If the issue persists, your last option is to reset Discord’s voice settings. This clears the current mic configuration, possibly resolving the problem.
@@ -93,11 +90,16 @@ thumbnail: https://thmb.techidaily.com/3f45b4986206d046cd956542a295fe465671e73b8
 !['Voice & Video' and 'Reset Voice Settings' highlighted in Discord User Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-reset-voice-settings-discord.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In the open prompt, select "Okay."
 
 !['Okay' highlighted in the 'Reset Voice Settings' prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/10-reset-voice-settings-prompt-discord.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Close and relaunch Discord](https://techtrends.techidaily.com/navigating-the-digital-age-laptops-smartphones-and-literary-treasures-galore/) and check if your mic is working. 
 
@@ -111,8 +113,6 @@ thumbnail: https://thmb.techidaily.com/3f45b4986206d046cd956542a295fe465671e73b8
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -120,4 +120,22 @@ thumbnail: https://thmb.techidaily.com/3f45b4986206d046cd956542a295fe465671e73b8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-diving-into-viral-video-dialogues/"><u>[New] In 2024, Diving Into Viral Video Dialogues</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-sound-excellence-on-a-shoestring-superior-asmr-mics-affordably/"><u>[Updated] Sound Excellence on a Shoestring - Superior ASMR Mics Affordably</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-a-quick-tutorial-on-how-to-convert-image-to-youtube-thumbnail/"><u>2024 Approved A Quick Tutorial On How To Convert Image To YouTube Thumbnail</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-the-leading-8-digital-library-platforms-for-avid-readers/"><u>Explore the Leading 8 Digital Library Platforms for Avid Readers</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/guia-practica-para-grabar-en-slow-motion-con-tu-camara-mejorar-la-calidad-de-video/"><u>Guía Práctica Para Grabar en Slow Motion Con Tu Cámara - Mejorar La Calidad De Video</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/guida-alla-ruota-libera-fotovideo-mp4-con-ottima-fedelta-della-risoluzione-ruotare-in-varie-angolazioni-senza-perdere-qualita/"><u>Guida Alla Ruota Libera Foto/Video MP4 Con Ottima Fedeltà Della Risoluzione: Ruotare in Varie Angolazioni Senza Perdere Qualità</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/hands-free-solution-high-quality-recording-of-skype-chats-with-skype-call-logger/"><u>Hands-Free Solution: High-Quality Recording of Skype Chats with Skype Call Logger</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-can-i-uninstall-preinstalled-apple-apps-on-my-iphone-device/"><u>How Can I Uninstall Preinstalled Apple Apps on My iPhone Device?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-craft-movies-on-windows-11-using-the-free-movie-maker-app/"><u>In 2024, Craft Movies on Windows 11 Using the Free Movie Maker App</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/inside-scoop-on-apple-watch-series-x-projections-for-pricing-release-timeline-specs-and-exciting-rumors-revealed/"><u>Inside Scoop on Apple Watch Series X – Projections for Pricing, Release Timeline, Specs & Exciting Rumors Revealed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/real-time-navigation-made-easy-learn-how-to-use-live-view-on-google-maps/"><u>Real-Time Navigation Made Easy: Learn How to Use Live View on Google Maps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/splendor-without-spending-big-best-value-luxury-tech-picks-revealed/"><u>Splendor Without Spending Big: Best Value Luxury Tech Picks Revealed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/watching-dragons-a-fans-journey-through-the-how-to-train-your-dragon-film-sequences/"><u>Watching Dragons: A Fan's Journey Through the How to Train Your Dragon Film Sequences</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/whats-coming-in-macos-15-sequoia-explore-upcoming-innovations-and-launch-date-details/"><u>What's Coming in macOS 15 (Sequoia)? Explore Upcoming Innovations & Launch Date Details</u></a></li>
+</ul></div>
 

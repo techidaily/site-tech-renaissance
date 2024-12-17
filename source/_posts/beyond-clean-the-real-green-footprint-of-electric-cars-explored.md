@@ -1,7 +1,7 @@
 ---
 title: "Beyond 'Clean': The Real Green Footprint of Electric Cars Explored"
-date: 2024-08-26T07:31:22.967Z
-updated: 2024-08-27T07:31:22.967Z
+date: 2024-12-15T20:57:14.657Z
+updated: 2024-12-16T22:31:20.921Z
 categories:
   - BestProducts
 description: "This Article Describes Beyond 'Clean': The Real Green Footprint of Electric Cars Explored"
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/fc8887d59721c7da8e208813dadb0a36f15829b69
 
  In the U.S., the Environmental Protection Agency says that transportation related to the burning of fossil fuels accounts for 29 percent of the country’s greenhouse gas emissions. Worldwide, transportation is responsible for a quarter of carbon dioxide emissions, while a few cities even estimate that it’s the cause of more than half of their emissions problem. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Yes, Even Some EVs Can Generate Emissions 
 
  Of course, there’s no such thing as a free lunch or, in this case, a free ride. Just because electric vehicles don’t have tailpipes doesn’t mean they are perfectly clean. In fact, electric vehicles actually generate more emissions during their construction than gasoline-powered cars due to the use of materials that must be mined and other manufacturing issues.
@@ -30,8 +34,9 @@ thumbnail: https://thmb.techidaily.com/fc8887d59721c7da8e208813dadb0a36f15829b69
  Hybrid EVs, of course, can contribute plenty of emissions since most hybrids use some sort of fossil-fuel and electric combination for power, despite the fact those emissions can ultimately be less than those of gasoline powered cars. Still, even when those issues are factored in, EVs that run strictly on battery power seem to come out on top from a green perspective.
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How Green Is an EV in General? 
 
  Overall, EVs are pretty green. It's a little tricky to compare them to cars that burn fossil fuels but not impossible.
@@ -59,19 +64,13 @@ Bailey Mariner
  Given the fact that the average gasoline-powered vehicle generates those 6 tons of emissions on average annually, that still gives both EVs the edge when it comes to saving the planet.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Some People Say Electric Vehicles are a Green Dream 
 
  Even if electric vehicles do produce fewer carbon dioxide emissions than gasoline counterparts, the story isn’t all wine and roses. EVs are still cleaner than conventional vehicles, no matter how you lay out the deck, but there are some drawbacks for naysayers to call them just a green dream. Three key arguments give them their ammunition.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Electric Vehicle Production Generates Higher Emissions 
 
  It’s true that electric vehicles use some very special materials in their construction. Rare earth metals are required to build batteries, electric motors, and the electronics to control it all. Extracting cobalt, lithium, and neodymium is responsible for soil and water pollution. The miners of those materials, which sometimes include children, often go without basic protections. 
@@ -79,8 +78,9 @@ No advertising on the website.
  On the flip side, new processes and technology are in constant development, reducing the materials required or using them more efficiently. Responsible company policies are reducing the impact on man and planet day by day.  
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Electric Vehicles are Hard to Recycle 
 
  Particularly in the electronics sector, recycling has always been a challenge, technologically and economically. Electric vehicle manufacturing practices and end-of-life recycling issues is only making things worse. 
@@ -90,8 +90,9 @@ No advertising on the website.
 [  Can EV Batteries be Replaced or Upgraded? ](https://www.lifewire.com/can-ev-batteries-be-replaced-or-upgraded-5201827) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Some Electric Vehicles Generate Higher Emissions 
 
  Depending on the vehicle, it’s possible the least-efficient electric vehicle on the highest-emissions grid could produce carbon dioxide emissions that might indeed be higher than their conventional or hybrid counterparts. Some hybrid electric vehicles, too, could be a source of higher emissions for the same reasons. 
@@ -102,9 +103,6 @@ No advertising on the website.
 
 [  The Electric Grid Is Actually Cleaner Than You Think ](https://www.lifewire.com/the-electric-grid-is-actually-cleaner-than-you-think-5202010) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Can Electric Vehicles Save the Planet? 
 
  Yes, electric vehicles can help save the planet, but only in the same way that eating a salad can help someone lose weight. Just like a balanced diet and exercise are critical to a healthy lifestyle, electric vehicles are just one important part of a broader approach to a healthy planet, right down to its inhabitants, no matter how many legs they have. 
@@ -125,8 +123,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -134,4 +130,23 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://common-error.techidaily.com/camera-troubles-behind-you-expert-tips-to-rectify-windows-error-0xa00f4292-and-resume-photography/"><u>[Camera Troubles Behind You]: Expert Tips to Rectify Windows Error 0xA00F4292 and Resume Photography!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-olympic-zenith-highlighting-snowboard-x-races/"><u>[New] Olympic Zenith Highlighting Snowboard X Races</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-unlock-expertise-proven-hidden-window-11-strategies-for-everyday-users-for-2024/"><u>[New] Unlock Expertise Proven, Hidden WINDOW 11 Strategies for Everyday Users for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-elevating-roi-with-strategic-facebook-animation-ads/"><u>[Updated] 2024 Approved Elevating ROI with Strategic Facebook Animation Ads</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-ultimate-21-monitors-showdown-the-clear-winners/"><u>[Updated] Ultimate 2.1 Monitors Showdown - The Clear Winners</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/best-free-iphone-6s-imei-checker-by-drfone-ios/"><u>Best Free iPhone 6s IMEI Checker</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/can-you-sync-your-airpods-to-play-on-the-nintendo-switch/"><u>Can You Sync Your AirPods to Play on the Nintendo Switch?</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-vanished-desktop-icons-on-windows-10-a-complete-guide/"><u>Fixing Vanished Desktop Icons on Windows 10: A Complete Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-embrace-a-collective-album-invitation-on-apple-devices/"><u>How to Embrace a Collective Album Invitation on Apple Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/identifying-people-who-have-shared-your-content-on-facebook-easily/"><u>Identifying People Who Have Shared Your Content on Facebook Easily</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-vivo-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Vivo Phone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/kobo-forma-assessment-the-devoted-readers-dream-tablet/"><u>Kobo Forma Assessment: The Devoted Reader's Dream Tablet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-the-method-entering-an-ipad-without-a-passcode/"><u>Master the Method: Entering an iPad Without a Passcode</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-capturing-images-a-complete-guide-to-taking-screenshots-on-your-playstation-4/"><u>Mastering the Art of Capturing Images: A Complete Guide to Taking Screenshots on Your PlayStation 4</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-when-your-samsung-soundbar-fails-to-play/"><u>Troubleshooting Tips: When Your Samsung Soundbar Fails to Play</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/universal-guide-viewing-your-icloud-photos-across-all-devices/"><u>Universal Guide: Viewing Your iCloud Photos Across All Devices</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Apple's Quiet Game-Changer: The Essential yet Understated AI Feature Coming This WWDC"
-date: 2024-12-07T16:42:37.948Z
-updated: 2024-12-11T10:25:07.068Z
+date: 2024-12-14T16:03:40.191Z
+updated: 2024-12-17T16:05:39.286Z
 tags:
   - apple
 categories:
@@ -36,15 +36,15 @@ Even with a healthy battery life in my device, I'm not sure when the problem ori
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Turn off the always-on display
 
 This is the most effective thing you can do to preserve your Apple Watch's battery life. While yes, it can be super inconvenient to ditch the always-on display, it can be the difference between your Apple Watch lasting all day and it dying before dinner time. I turned mine off for a weekend and was surprised to find that it greatly enhances endurance, albeit not to the point of pre-watchOS 10.
 
 **How to:** On your Apple Watch, head to Settings > Display & Brightness > Always On, then toggle the feature off.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Use Low Power Mode when you can
 
@@ -53,6 +53,10 @@ I don't recommend using Low Power Mode all day since it limits the functionality
 **How to:** Lift your Apple Watch and press the side button to bring up the quick settings menu. Tap your battery percentage, then hit the "Low Power Mode" button. From there, scroll down through the list of features that Apple says the feature will disable. Then, tap the yellow "Turn On" button. You can also schedule it to turn off after a while, if you want.
 
 **Also:** [**Apple Watch Ultra 2 vs. Watch Ultra: Is it time to upgrade?**](https://www.zdnet.com/article/apple-watch-ultra-2-vs-ultra/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Disable cellular connectivity
 
@@ -63,7 +67,7 @@ If you have an Apple Watch with cellular connectivity, it's best to not use your
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Turn off background app refresh
@@ -84,15 +88,15 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Turn off irregular heart rate notifications
 
 With some of the newest Apple Watches, Apple includes a feature that can alert you when your heart rate is beating in irregular intervals and alert you when it may be atrial fibrillation. While that's nice to have for tracking your health over time, it means the heart rate sensor is constantly on collecting your heart rate, which isn't good for battery life.
 
 **How to:** Visit Settings > Heart > Irregular Rhythm Notifications and flick the feature off.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Reduce the amount of notifications you get
 
@@ -102,6 +106,10 @@ When a notification comes in, it not only plays a "ding!" to alert you, it also 
 
 **Also:** [**Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11**](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Turn off Siri
 
 Ah, Siri. Many people swear by the voice assistant and use it daily to do things like check the weather, start a timer (or two), play some music, or start a workout. But if you're like me (and, presumably, many others), you don't touch Siri at all on your Apple Watch, and it's just sitting there wasting your battery, constantly listening to hear that magical phrase "Hey, Siri." In other words, you should turn it off.
@@ -110,19 +118,11 @@ Ah, Siri. Many people swear by the voice assistant and use it daily to do things
 
 Adrian Kingsley-Hughes/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Factory reset your Apple Watch (a.k.a. the last resort)
 
 I've heard from many folks who have faced issues with battery life on the Apple Watch that it's best to do a complete factory reset. Full disclosure: it's not going to work for everyone, but if you've exhausted every option on your Apple Watch to extend battery life, the battery is still healthy, and you don't want to upgrade, your best bet is to reset it and start from scratch. That way, you can set up your watch and, along the way, spot the app or service that drains your battery the most. It may also help clean up some of the system bloat in watchOS 10 that's led to poor efficiency on your watch.
 
 **How to:** Go to Settings > General > Reset on your Apple Watch, then choose "Erase All Content and Settings." You won't have to disable Find My or get rid of your cellular plan since you'll be setting it up with your iPhone again, but if you want to get rid of absolutely everything, make sure you disable Find My and dump your cellular plan during the process.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How we test smartwatches
 
@@ -165,19 +165,22 @@ For a deeper look at our testing process, check out our comprehensive [smartwatc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-enhancing-package-revelation-7-ways/"><u>[New] In 2024, Enhancing Package Revelation 7 Ways</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-affordable-text-animation-strategies-webreal-world/"><u>2024 Approved Affordable Text Animation Strategies Web/Real World</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-uncovering-the-efficacy-of-youtubes-4-second-rule/"><u>2024 Approved Uncovering the Efficacy of YouTube's 4-Second Rule</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-unleashing-the-power-of-subtitles-discover-the-top-8-efficient-convertors-to-srt-on-windowsmacosx/"><u>2024 Approved Unleashing the Power of Subtitles - Discover The Top 8 Efficient Convertors to SRT on Windows/MacOSX</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/automating-safe-closure-of-safari-browser-tabs-on-macos-high-sierra-with-easy-steps/"><u>Automating Safe Closure of Safari Browser Tabs on macOS High Sierra with Easy Steps</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-restoring-camera-features-on-your-lenovo-notebook/"><u>Expert Tips: Restoring Camera Features on Your Lenovo Notebook</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/explore-with-ease-selecting-the-top-5-iphone-gps-navigation-tools/"><u>Explore with Ease: Selecting the Top 5 iPhone GPS Navigation Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-evening-epics-a-look-at-video-driven-bedtime-fables/"><u>In 2024, Evening Epics A Look at Video-Driven Bedtime Fables</u></a></li>
-<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Realme 11 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/labor-day-alert-grab-your-ipad-for-a-steal-at-199-on-amazon-sale-as-featured-by-zdnet/"><u>Labor Day Alert: Grab Your iPad for a Steal at $199 on Amazon Sale, as Featured by ZDNET</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/master-your-ipad-with-expert-advice-10-key-tips-and-setups-every-apple-user-must-know-zdnet/"><u>Master Your iPad with Expert Advice: 10 Key Tips and Setups Every Apple User Must Know | ZDNET</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/prime-day-2024-unbeatable-deals-on-35plus-tablets-still-available-shop-now/"><u>Prime Day 2024: Unbeatable Deals on 35+ Tablets Still Available – Shop Now !</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tips-on-resetting-and-repairing-non-responsive-airpods/"><u>Step-by-Step Tips on Resetting and Repairing Non-Responsive AirPods</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlock-the-secrets-of-your-facebook-share-history-finding-out-who-passed-along-your-posts/"><u>Unlock the Secrets of Your Facebook Share History: Finding Out Who Passed Along Your Posts</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-building-brands-and-bonds-on-instagram-steps-to-reach-a-thousand-followers/"><u>[New] 2024 Approved Building Brands and Bonds on Instagram Steps to Reach a Thousand Followers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/onverting-your-favourite-tracks-bridging-spotify-with-youtube-music-for-2024/"><u>[New] Converting Your Favourite Tracks Bridging Spotify with YouTube Music for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-innovative-approaches-to-tiktok-lives-from-desktop-devices/"><u>[Updated] In 2024, Innovative Approaches to TikTok Lives From Desktop Devices</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigate-noisy-zoom-sounds-effective-remedies/"><u>[Updated] Navigate Noisy Zoom Sounds Effective Remedies</u></a></li>
+<li><a href="https://driver-download.techidaily.com/access-official-gigabyte-drivers-for-the-gc-wb8e867d-i-model/"><u>Access Official Gigabyte Drivers for the GC-WB8e867D-I Model</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-7-traffic-control-software/"><u>Discover the Ultimate 7 Traffic Control Software</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-list-of-complimentary-cross-border-chat-tools/"><u>Discover the Ultimate List of Complimentary Cross-Border Chat Tools</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-canon-printer-mf8200c-drivers-compatible-with-windows-7-81-and-10/"><u>Download Canon Printer MF8200C Drivers: Compatible with Windows 7, 8.1 & 10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-methods-to-add-new-programs-to-your-samsung-television/"><u>Easy Methods to Add New Programs to Your Samsung Television</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-harness-free-fb-link-downloaders/"><u>In 2024, Harness Free FB Link Downloaders</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-m14-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy M14 5G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/regain-entry-to-your-ipad-a-guide-on-password-or-passcode-restoration/"><u>Regain Entry to Your iPad: A Guide on Password or Passcode Restoration</u></a></li>
+<li><a href="https://common-error.techidaily.com/revived-silent-mic-now-shouting-on-discord/"><u>Revived Silent Mic, Now Shouting on Discord</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-linking-disneyplus-with-your-google-chromecast-for-hassle-free-viewing/"><u>Step-by-Step Tutorial: Linking Disney+ with Your Google Chromecast for Hassle-Free Viewing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-combining-your-favorite-songs-into-one-spotify-list/"><u>The Ultimate Guide to Combining Your Favorite Songs Into One Spotify List</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-7-must-have-items-for-a-perfect-summer-everyday-carry/"><u>Top 7 Must-Have Items for a Perfect Summer Everyday Carry</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-victorious-battles-against-links-enemies-defeat-a-breath-of-the-wild-lynel/"><u>Ultimate Guide to Victorious Battles Against Link's Enemies: Defeat a Breath of the Wild Lynel</u></a></li>
 </ul></div>
 

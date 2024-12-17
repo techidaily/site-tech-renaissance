@@ -1,7 +1,7 @@
 ---
 title: Users Share Common Frustrations After Upgrading to iOS 18 - A Closer Look by ZDNet
-date: 2024-12-07T17:23:10.762Z
-updated: 2024-12-11T02:39:09.945Z
+date: 2024-12-12T16:01:36.595Z
+updated: 2024-12-17T16:00:13.924Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,22 +109,18 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-decades-best-car-surveillance-camera-list/"><u>[New] Decade's Best Car Surveillance Camera List</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-streamlining-your-itunes-video-recordings/"><u>[New] Streamlining Your iTunes Video Recordings</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-crafting-emotional-impact-in-personal-youtube-content/"><u>[Updated] Crafting Emotional Impact in Personal YouTube Content</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-ultimate-guide-to-utilizing-zero-cost-clocks/"><u>[Updated] In 2024, The Ultimate Guide to Utilizing Zero-Cost Clocks</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/2024s-ultimate-guide-to-small-tablets-expert-testing-in-depth-analysis-zdnet/"><u>2024'S Ultimate Guide to Small Tablets: Expert Testing, In-Depth Analysis | ZDNET</u></a></li>
-<li><a href="https://extra-information.techidaily.com/boutonniere-bookmarks-casino-critique-for-2024/"><u>BOUTONNIERE BOOKMARKS Casino Critique for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/easy-to-follow-obs-setup-on-thriftier-tech-for-2024/"><u>Easy-to-Follow OBS Setup on Thriftier Tech for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixed-windows-wont-boot-after-updating-drivers/"><u>Fixed: Windows Won’t Boot After Updating Drivers</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-tecno-spark-10-4g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Tecno Spark 10 4G? Fixed | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/moving-on-up-exploring-apples-new-measures-for-a-seamless-shift-to-android-devices/"><u>Moving On Up: Exploring Apple's New Measures for a Seamless Shift to Android Devices</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/reactivating-the-night-look-solutions-when-facebooks-dark-mode-disappears/"><u>Reactivating the Night Look: Solutions When Facebook's Dark Mode Disappears</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-kid-friendly-smartphones-a-guide-by-zdnet/"><u>Top Kid-Friendly Smartphones: A Guide by ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-the-error-in-moderation-on-chatgpt-tips-and-solutions/"><u>Troubleshooting the 'Error in Moderation' On ChatGPT: Tips & Solutions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-enhanced-visual-smarts-in-iphone-16-apples-latest-feature-takes-a-cue-from-google-lens-insights-by-zdnet/"><u>Unveiling Enhanced Visual Smarts in iPhone 16: Apple's Latest Feature Takes a Cue From Google Lens - Insights by ZDNET</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-watchos-11-top-enhancements-bring-new-life-to-your-apple-watch/"><u>Unveiling WatchOS 11: Top Enhancements Bring New Life to Your Apple Watch</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-perfecting-your-soundtrack-techniques-for-implementing-automatic-audio-suppression-in-final-cut-pro-x-for-2024/"><u>Updated Perfecting Your Soundtrack Techniques for Implementing Automatic Audio Suppression in Final Cut Pro X for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/upgrading-with-excitement-unveiling-the-top-three-breakthrough-features-of-the-new-iphone-section-1-understanding-hydrostatic-test-pressure-in-welding-metho69/"><u>Upgrading with Excitement: Unveiling the Top Three Breakthrough Features of the New iPhone # Section 1: Understanding Hydrostatic Test Pressure in Welding Methods</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-immersive-memories-a-compreeved-guide-to-saving-your-vr-gaming-journey/"><u>[New] Immersive Memories A Compreeved Guide to Saving Your VR Gaming Journey</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-top-nvidia-and-amd-gpus-for-4k-workstations/"><u>[New] Top NVIDIA & AMD GPUs for 4K Workstations</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-itel-a60s-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/demystifying-the-world-of-internet-memes/"><u>Demystifying the World of Internet Memes</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/driven-by-cookiebot-enhanced-user-experience-and-data-management/"><u>Driven by Cookiebot: Enhanced User Experience and Data Management</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-infinix-gt-10-prowithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Infinix GT 10 Prowith/without a PC</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-becoming-a-pro-in-video-enhancement-vce-22-guide/"><u>In 2024, Becoming a Pro in Video Enhancement - VCE 2.2 Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamlining-audacity-for-superior-audio-capture/"><u>In 2024, Streamlining Audacity for Superior Audio Capture</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tesla-robotaxi-revealed-speculations-surrounding-price-point-expected-launch-and-technical-details/"><u>Tesla Robotaxi Revealed - Speculations Surrounding Price Point, Expected Launch, and Technical Details</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-device-unveiled-all-in-one-high-speed-charging-usb-and-hdmi-hub/"><u>The Ultimate Device Unveiled - All in One: High Speed Charging, USB & HDMI Hub!</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-video-editing-made-easy-splitting-videos-in-windows-live-movie-maker-for-pc-users/"><u>Updated Video Editing Made Easy Splitting Videos in Windows Live Movie Maker for PC Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/usb-tethering-not-working-heres-what-to-do-next/"><u>USB Tethering Not Working? Here's What to Do Next</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/wireless-play-integrating-your-nintendo-switch-with-your-television/"><u>Wireless Play: Integrating Your Nintendo Switch with Your Television</u></a></li>
 </ul></div>
 

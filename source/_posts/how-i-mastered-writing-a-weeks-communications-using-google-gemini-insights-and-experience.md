@@ -1,7 +1,7 @@
 ---
 title: How I Mastered Writing a Week's Communications Using Google Gemini – Insights & Experience
-date: 2024-08-30T14:41:12.655Z
-updated: 2024-08-31T14:41:12.655Z
+date: 2024-12-13T19:46:08.688Z
+updated: 2024-12-16T16:28:27.011Z
 tags:
   - cutting-edge
 categories:
@@ -19,13 +19,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  I did not expect Gemini to text me out of the blue on Google Messages! I was eager to test it out, but do we really need another AI chatbot in our lives? I decided to find out!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Gemini Chimed In
 
  As a generative AI specialist, I'm often on my phone seeking out updates on the latest generative AI models and features. It's rare for an AI model to contact me, but Google Gemini texted me out of the blue. I learned it was rolled out this way on a few models of Samsung and Google Pixel phones. I've been underwhelmed with Google's recent "[AI Overview](https://ai-vdieo-software.techidaily.com/in-2024-best-top-free-video-editing-tools-for-gamers/)" addition to their search results. However, I've experienced that each AI model has its own specialties and idiosyncrasies (and maybe personalities?). Gemini's search results and AI overview capabilities do not have any bearing on other AI-powered tasks. So I was willing to take it up on its offer.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ##  Gemini Introduces Itself
 
  Gemini sent me an RCS text over the Google Messages app I use for texting with the following message, "Hi, I'm Gemini in Google Messages. Chat with me to draft messages, brainstorm ideas, plan events or simply have a fun conversation." My response was to first verify it wasn't a scam text. Then, I responded, "Are you free?" Because even if the text wasn't from scammers, I worried that Google was just as capable!
@@ -33,18 +34,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Screenshot of Gemini's initial text](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_20240614_012255_messages.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Yes! It's Free! If You Have the Free Version
 
  I have the minimum [Google One subscription](https://common-error.techidaily.com/expert-guide-modifying-windows-settings-under-corporate-governance/) that gives extra storage. I do not have the "AI Premium" subscription for $20/month or $99/year. AI Premium puts Gemini AI onto Google's productivity apps, including Gmail, Slides, Sheets, and Meet. With it, you can ask Gemini to do things like create a Slides presentation. The more specific the prompt, the better the presentation. Then, like with any AI-generated material, you check for accuracy and edit however you like. Effectively, [Gemini AI has replaced Google Assistant.](https://youtube-lab.techidaily.com/24-unleash-creativity-without-breaking-the-bank-top-9-affordable-editors/) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  The Free Version
 
  On most devices, the free version of Gemini can be accessed by going to [Gemini's homepage](https://gemini.google.com/app) or downloading the Gemini app on [Android](https://buynow-marvelous.techidaily.com/getting-to-know-the-new-samsung-galaxy-s2-early-review-insights/)or [iPhone](https://some-knowledge.techidaily.com/innovative-typesetting-in-adobe-ae-for-2024/). Texting Gemini through Google Messages is possible on most Google Pixel series phones and some of the newest Samsung devices. The free version is a Chatbot that works like ChatGPT or Perplexity AI. You ask it questions, and it draws from data sets of knowledge updated by Google. Since Gemini can't search the internet for up-to-date information, I asked it a few questions about recent news events. It knew about sports news and scores that occurred only a few days ago. Its database appears to be kept reasonably current.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What Can You Use the Free Version For?
 
@@ -52,17 +55,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  When Gemini sent me that first text, it suggested I use it to "brainstorm ideas, draft messages, plan events, or simply have a fun conversation." I have not found Perplexity or ChatGPT to be useful for short-form communication like texts or emails. If Gemini can do it, I think that would be a unique use. I decided to go over all the communications I'd written the previous week and see if Gemini would have made a difference.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ##  The World's Most Difficult Text
 
  Why not start with the hardest possible text to write? A tricky text to a boomer mom or mother-in-law. Last week I had to tell my mom that her offer to take us to Disney was an unmanageable trip for us. As Gemini had not yet texted, my sister swooped in, saved the day, and it all worked out. However, as boomers go, my mother is quite reasonable. I think a carefully worded text would probably have been fine. Could Gemini have saved the day? My prompt was, "Write a text thanking my mom for inviting us to Disney, but politely let her know it's too big of a trip for a single mom with little kids. Maybe suggest an alternative."
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ##  World's Greatest Response?
 
  Gemini responded, "Mom, thanks so much for the amazing invitation to Disney! While it sounds incredible, a Disney trip feels a bit overwhelming for the little ones and me right now. Maybe a closer \[local zoo/children's museum/park\] visit in the near future? We'd love to spend some quality time with you! Love you!"
@@ -71,9 +67,17 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Screenshot of prompt requesting Gemini write a text, and the response](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_20240614_012307_messages.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Everyday Texts Didn't Go as Well.
 
  I tried to use Gemini to duplicate another text conversation I had last week, but this one didn't go as well. I was delayed an hour away from home and needed someone to pick up my youngest son from camp. What followed was a series of short logistical texts between me and a babysitter. Not only is it not worth the effort to prompt, "write a text to \[sitter\] asking them if they can pick up \[son\] from camp at 4 pm," but this is already a good job for a voice assistant like Siri, Alexa, or Google Assistant. Those apps will put your voice to text and send it to any of your contacts.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Other Tasks
 
@@ -87,9 +91,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  You'd have to write the entire prompt over with the additional instructions. You also can't ask any follow-up questions. If you can't have a conversation with it, is it even a chatbot? Thankfully, this is only an issue when using Google Messages to access Gemini. When accessing Gemini through their homepage, you can ask follow-up questions or adjust instructions through conversation like a normal chatbot.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Gemini's Data Security
 
  When I asked Gemini "Do you remember previous conversations?" in Messages, it said "I can't access or remember previous conversations to maintain user privacy. Each interaction is independent, but I can use the context of your current query to provide the most relevant response."
@@ -101,17 +102,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  This kind of data is crucial to improving the technology, but you can easily opt-out. To do this, turn off "Gemini Apps Activity" in your Google Account settings. If you've already interacted with Gemini you can visit [myactivity.google.com/product/gemini](https://myactivity.google.com/product/gemini) to delete all your Gemini data or specific conversations.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Will Gemini Continue on My Phone?
 
  I will not be keeping the Gemini app, but I will continue to text it through Google Messages. It's so convenient to copy and paste its short responses right into another conversation or app. I don't want to lose that option, and foresee myself using it a few times a week. As for Gemini's future, I think Google is on the right track with this, and I expect more to come. For now, Gemini feels unfinished compared to other AI models, but I'm glad it texted me.
@@ -122,8 +115,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -131,4 +122,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-broadcast-battleground-pick-your-preferred-livestreaming-champion-vmixwirecast/"><u>[New] Broadcast Battleground Pick Your Preferred Livestreaming Champion (VMix/Wirecast)</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-deciding-on-a-top-gopro-camera-max-or-hero-11-for-2024/"><u>[New] Deciding on a Top GoPro Camera Max or Hero 11 for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-4-unrooted-ways-to-log-internal-android-audio/"><u>[Updated] 2024 Approved 4 Unrooted Ways to Log Internal Android Audio</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-building-brands-and-bonds-on-instagram-steps-to-reach-a-thousand-followers/"><u>2024 Approved Building Brands and Bonds on Instagram Steps to Reach a Thousand Followers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/achieving-validation-on-x-a-step-by-step-guide/"><u>Achieving Validation on X: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/capture-the-blue-depths-pro-tips-for-gopro-water-filming-for-2024/"><u>Capture the Blue Depths Pro Tips for GoPro Water Filming for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-latest-in-gratis-digital-fax-providers/"><u>Discover the Latest in Gratis Digital Fax Providers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effortless-wallet-free-shopping-learn-how-to-utilize-apple-pay-on-your-wrist-device/"><u>Effortless Wallet-Free Shopping: Learn How to Utilize Apple Pay on Your Wrist Device</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/tlessly-post-videos-on-youtube-with-our-expert-guide-for-2024/"><u>Effortlessly Post Videos on YouTube with Our Expert Guide for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-essentials-of-usb-20-understanding-data-rates-wiring-options-and-connection-methods/"><u>Exploring the Essentials of USB 2.0: Understanding Data Rates, Wiring Options, and Connection Methods</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/first-things-first-key-setup-actions-for-your-new-computer-experience/"><u>First Thing's First - Key Setup Actions for Your New Computer Experience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/free-film-fest-discover-all-you-need-to-know-about-crackles-offerings/"><u>Free Film Fest - Discover All You Need to Know About Crackle’s Offerings!</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-navigating-classic-gaming-on-modern-computers-with-5-top-gb-advance-emulators/"><u>In 2024, Navigating Classic Gaming on Modern Computers with 5 Top GB Advance Emulators</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-comprehensive-guide-to-no-cost-meme-magic/"><u>In 2024, The Comprehensive Guide to No-Cost Meme Magic</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/leading-experts-on-aspers-asmr-for-better-sleep-for-2024/"><u>Leading Experts on Asper's ASMR for Better Sleep for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solutions-for-correcting-cmos-checksum-failures/"><u>Step-by-Step Solutions for Correcting CMOS Checksum Failures</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-xiaomi-redmi-13c-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Xiaomi Redmi 13C to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-affordable-education-your-guide-to-lenovos-student-pricing-offers/"><u>Unlocking Affordable Education: Your Guide to Lenovo's Student Pricing Offers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/watch-your-favorite-shows-using-hulu-with-an-lg-smart-tv-in-5-simple-steps/"><u>Watch Your Favorite Shows: Using Hulu with an LG Smart TV in 5 Simple Steps</u></a></li>
+</ul></div>
 

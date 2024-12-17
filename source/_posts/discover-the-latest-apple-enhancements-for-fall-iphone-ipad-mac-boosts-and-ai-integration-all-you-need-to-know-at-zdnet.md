@@ -1,7 +1,7 @@
 ---
 title: "Discover the Latest Apple Enhancements for Fall: IPhone, iPad, Mac Boosts & AI Integration | All You Need to Know at ZDNET!"
-date: 2024-12-07T18:40:06.283Z
-updated: 2024-12-11T00:11:06.282Z
+date: 2024-12-12T16:00:45.437Z
+updated: 2024-12-17T16:01:22.514Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Intelligence (AI)
@@ -65,7 +65,7 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -77,7 +77,7 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -112,6 +112,10 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -121,10 +125,6 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -163,7 +163,7 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -210,22 +210,16 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-high-quality-fullscreen-recorders-for-desktops/"><u>[New] High-Quality Fullscreen Recorders for Desktops</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-perpetual-screen-snapshot/"><u>[New] Perpetual Screen Snapshot</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-essential-tips-for-pc-based-console-game-recording/"><u>2024 Approved Essential Tips for PC-Based Console Game Recording</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/a-comprehensive-guide-to-finding-and-using-microsoft-word-at-zero-price/"><u>A Comprehensive Guide to Finding and Using Microsoft Word at Zero Price</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/1723070195224-combining-cutting-edge-precision-with-sturdy-cables-discover-the-power-of-the-sabrent-portable-mouse/"><u>Combining Cutting-Edge Precision with Sturdy Cables: Discover the Power of the Sabrent Portable Mouse</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discovering-apple-vision-pros-potential-a-weekend-review-with-key-findings-for-tech-enthusiasts/"><u>Discovering Apple Vision Pro's Potential: A Weekend Review with Key Findings for Tech Enthusiasts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/effective-strategies-for-teamwork-on-apple-pages-via-icloud-tips-from-zdnet/"><u>Effective Strategies for Teamwork on Apple Pages via iCloud - Tips From ZDNet</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-pro-to-other-iphone-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 Pro To Other iPhone devices? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-masterful-artwork-corrections/"><u>In 2024, Masterful Artwork Corrections</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-streamline-your-videos-acoustic-appeal-on-youtube/"><u>In 2024, Streamline Your Video's Acoustic Appeal on YouTube</u></a></li>
-<li><a href="https://games-able.techidaily.com/playstation-lite-a-closer-look-at-sonys-device/"><u>PlayStation Lite: A Closer Look at Sony’s Device</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/qualified-macbook-buyers-begin-receiving-payout-from-apples-60m-class-action-agreement-cnet-news/"><u>Qualified MacBook Buyers Begin Receiving Payout From Apple's $60M Class Action Agreement - CNET News</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/revolutionizing-connectivity-how-apple-enables-third-party-app-integration-with-iphone-nfc-technology/"><u>Revolutionizing Connectivity: How Apple Enables Third-Party App Integration with iPhone NFC Technology</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/silencing-distractions-enhancing-youtube-videos/"><u>Silencing Distractions Enhancing YouTube Videos</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-mac-computers-comprehensive-list-and-reviews/"><u>Top Rated Mac Computers : Comprehensive List & Reviews</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-magsafe-chargers-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated MagSafe Chargers : Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unleash-the-power-of-time-with-apple-watch-series-10-secure-yours-at-just-99-through-preorders-at-best-buy-your-step-by-step-guide-techsavvy/"><u>Unleash the Power of Time with Apple Watch Series 10: Secure Yours at Just $99 Through Preorders at Best Buy – Your Step-by-Step Guide | TechSavvy</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-maximizing-impact-strategies-for-watermark-and-logo-insertion-in-yt-videos/"><u>[New] In 2024, Maximizing Impact Strategies for Watermark & Logo Insertion in YT Videos</u></a></li>
+<li><a href="https://article-posts.techidaily.com/a-step-by-step-approach-to-incorporating-luts-in-obs-studio-projects-for-2024/"><u>A Step-by-Step Approach to Incorporating LUTs in OBS Studio Projects for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-methods-shutting-down-and-eliminating-your-yahoo-email-service/"><u>Comprehensive Methods: Shutting Down and Eliminating Your Yahoo Email Service</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-collection-of-ps5-exclusive-games/"><u>Discover the Ultimate Collection of PS5-Exclusive Games</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/identifying-inauthentic-connections-a-guide-to-recognizing-phony-friend-requests-online/"><u>Identifying Inauthentic Connections: A Guide to Recognizing Phony Friend Requests Online</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-infinix-smart-7-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Infinix Smart 7 Devices | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-the-art-of-iphone-macro-and-micro-imaging/"><u>In 2024, Mastering the Art of iPhone Macro & Micro Imaging</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-ready-set-edit-top-15-fast-and-fun-tricks-to-use-in-pixlr/"><u>In 2024, Ready, Set, Edit! Top 15 Fast and Fun Tricks to Use in Pixlr</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/inside-look-at-sonys-224-innovations-and-press-highlights/"><u>Inside Look at Sony's 2^24 Innovations and Press Highlights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ipad-vs-tablet-understanding-key-distinctions/"><u>IPad vs Tablet: Understanding Key Distinctions</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/overcoming-missed-frames-in-real-time-streaming/"><u>Overcoming Missed Frames in Real-Time Streaming</u></a></li>
 </ul></div>
 

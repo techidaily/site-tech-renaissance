@@ -1,7 +1,7 @@
 ---
 title: Quick and Easy Firestick Pairing Techniques Everyone Should Know
-date: 2024-12-05T20:50:33.005Z
-updated: 2024-12-11T11:27:47.394Z
+date: 2024-12-16T16:00:11.255Z
+updated: 2024-12-17T16:01:28.876Z
 categories:
   - BestProducts
 description: This Article Describes Quick and Easy Firestick Pairing Techniques Everyone Should Know
@@ -25,7 +25,7 @@ thumbnail: https://www.lifewire.com/thmb/bBnc1OCDT50I6uVWBEWLEmBlWIk=/400x300/fi
  This article explains how to enable Gmail sound notifications using the Notifier for Gmail extension for Chrome. It includes information for enabling a pop-up notification for Gmail and sound notifications for other email providers.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Enable a New Mail Sound for Gmail
@@ -41,34 +41,34 @@ thumbnail: https://www.lifewire.com/thmb/bBnc1OCDT50I6uVWBEWLEmBlWIk=/400x300/fi
 2. Scroll down to the Notifications section and make sure **Play alert sound for new emails** is selected.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Play alert sound for new emails.](https://www.lifewire.com/thmb/EaGNTDoH2lcLO8QxHT0Z1KVeUPk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-add-a-new-mail-sound-for-gmail-1e074c5a399d403aab64b2ec37afbbf8.jpg)
 3. Change the sound using the drop-down menu.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Notifier for Gmail settings screen highlighting Play alert sound for new emails and Default sound notification drop-down menu](https://www.lifewire.com/thmb/DUBiUTKL1yNY2AP6anJNY9OE1cM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-add-a-new-mail-sound-for-gmail-db10f7ff4e56480c8acefb921da8d1b6.jpg)
 4. Exit the window when you're done. The changes are saved automatically.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also[change your notification sounds on Android](https://www.lifewire.com/how-to-change-create-android-notification-sounds-4783114) or[change the new mail sound on iOS](https://www.lifewire.com/how-to-change-the-new-mail-sound-in-ios-mail-1172501) to achieve a similar effect in those mobile apps.
 
  If you use Gmail through a downloadable email client like[Microsoft Outlook](https://www.lifewire.com/microsoft-outlook-4164620) ,[Thunderbird](https://www.lifewire.com/gmail-access-thunderbird-1173150) , or[eM Client](http://www.emclient.com/) , you make the sound change from within those programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Enable a Pop-Up Notification
 
  You can set Gmail to display a pop-up notification when new email messages arrive in Chrome, Firefox, or Safari when you are signed in to Gmail and have it open in the browser. Just turn on that setting in Gmail by selecting the **Settings**  icon then choosing **See all settings** and going to **General** \> **Desktop Notifications** . The notification is not accompanied by a sound.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Change Gmail Notification Sounds in Other Email Clients
 
@@ -116,19 +116,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-no-charges-yes-to-superior-free-webm-player-selections/"><u>[New] No Charges? Yes to Superior, Free WebM Player Selections</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-the-art-and-science-behind-effective-youtube-shorts-templates/"><u>[Updated] In 2024, The Art & Science Behind Effective YouTube Shorts Templates</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/discord-trick-decoded-successfully-sharing-in-game-music/"><u>Discord Trick Decoded: Successfully Sharing In-Game Music</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-apples-airtag-bargain-get-a-4-pack-for-less-from-walmart-on-labor-day-save-big-now/"><u>Discover Apple's AirTag Bargain: Get a 4-Pack for Less From Walmart on Labor Day! - Save Big Now</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/effective-strategies-for-sharing-and-editing-apple-pages-files-through-icloud-insights/"><u>Effective Strategies for Sharing and Editing Apple Pages Files Through iCloud - Insights</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/eminent-exchanges-a-curated-list-of-top-reddit-posts/"><u>Eminent Exchanges A Curated List of Top Reddit Posts</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-11-pro-max-to-other-iphone-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 11 Pro Max To Other iPhone devices? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-lenovo-thinkphone-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Lenovo ThinkPhone? Fixed | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ipad-creatives-battle-comparing-performance-of-apple-pencil-pro-and-apple-pencil-2-find-out-which-one-suits-you-better/"><u>IPad Creatives Battle: Comparing Performance of Apple Pencil Pro and Apple Pencil 2 - Find Out Which One Suits You Better</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-craft-a-comprehensive-guide-to-the-powerful-mac-os-document-editing-platform/"><u>Mastering Craft: A Comprehensive Guide to the Powerful Mac OS Document Editing Platform</u></a></li>
-<li><a href="https://facebook.techidaily.com/navigating-facebooks-mobile-code-creation/"><u>Navigating Facebook's Mobile Code Creation</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-tech-face-off-begins-how-dysons-latest-ontrac-headphones-could-eclipse-the-dominance-of-airpod-maxes/"><u>The Tech Face-Off Begins: How Dyson's Latest OnTrac Headphones Could Eclipse the Dominance of AirPod Maxes</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-strategy-for-a-productive-home-office-using-the-ipad-pro-insights/"><u>The Ultimate Strategy for a Productive Home Office Using the iPad Pro, Insights</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unsuccessful-upgrade-windows-10-v1607-patch-installation-errors/"><u>Unsuccessful Upgrade: Windows 10 v1607 Patch Installation Errors</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-essential-vr-games-for-oculus-users-of-all-ages/"><u>[Updated] 2024 Approved Essential VR Games for Oculus Users of All Ages</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-sync-your-style-across-ios-and-android-with-a-customized-whatsapp-sound/"><u>[Updated] In 2024, Sync Your Style Across iOS and Android with a Customized WhatsApp Sound</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/7-ways-to-unlock-a-locked-oppo-reno-10-proplus-5g-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Oppo Reno 10 Pro+ 5G Phone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/all-about-macos-15-sequoia-when-to-expect-its-debut-remarkable-functionality-and-recent-developments-explained/"><u>All About MacOS 15 'Sequoia': When to Expect Its Debut, Remarkable Functionality & Recent Developments Explained</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/best-deals-in-streaming-premium-roku-library-access-without-breaking-the-bank/"><u>Best Deals in Streaming: Premium Roku Library Access Without Breaking the Bank</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/can-you-successfully-operate-multiple-channels-on-youtube/"><u>Can You Successfully Operate Multiple Channels On YouTube?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/connect-fubotv-to-fire-tv-stick-a-comprehensive-walkthrough/"><u>Connect FuboTV to Fire TV Stick - A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/cross-social-smiles-top-meme-picks-on-reddit-and-twitter/"><u>Cross-Social Smiles Top Meme Picks on Reddit & Twitter</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/essential-techniques-for-saving-facebook-messenger-calls-for-2024/"><u>Essential Techniques for Saving Facebook Messenger Calls for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/free-image-savers-optimizing-video-graphics-for-2024/"><u>FREE Image Savers Optimizing Video Graphics for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722886637634-hottest-apple-watch-savings-dont-miss-out/"><u>Hottest Apple Watch Savings: Don't Miss Out</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/intensive-investigation-the-gecata-game-logger-for-2024/"><u>Intensive Investigation The Gecata Game Logger for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/making-movies-magical-the-use-of-youtube-music-in-videos/"><u>Making Movies Magical The Use of YouTube Music in Videos</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/snapchat-support-queries-answered-how-to-reach-out-successfully/"><u>Snapchat Support Queries Answered: How to Reach Out Successfully</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-retrieving-deleted-texts-across-all-smartphones/"><u>Step-by-Step Guide: Retrieving Deleted Texts Across All Smartphones</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-errors-how-to-fix-failed-attempts-at-opening-word-files/"><u>Troubleshooting Errors: How to Fix Failed Attempts at Opening Word Files</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-for-the-elusive-rpcrt4dll-file-mismatch/"><u>Troubleshooting Tips for the Elusive Rpcrt4.dll File Mismatch</u></a></li>
 </ul></div>
 

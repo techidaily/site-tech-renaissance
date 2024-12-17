@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide to iPad Tools for Enhanced Output: Ace Your Productivity with Expert Tips"
-date: 2024-11-20T16:00:06.647Z
-updated: 2024-11-25T16:07:21.238Z
+date: 2024-12-10T16:07:12.085Z
+updated: 2024-12-17T16:03:30.868Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ But then something sort of magical happened -- I started using the app. Once I u
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Craft?
@@ -40,7 +40,7 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -64,7 +64,7 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -78,7 +78,7 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -129,19 +129,22 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-climb-the-ladder-the-best-12-tycoon-games-for-aspiring-leaders/"><u>[New] 2024 Approved Climb the Ladder The Best 12 Tycoon Games for Aspiring Leaders</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-crafting-success-on-youtube-standard-studio-or-beta/"><u>[New] 2024 Approved Crafting Success on YouTube Standard Studio or Beta</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-screen-seizing-specialists-the-best-browser-recorder-tools-ranked/"><u>[New] In 2024, Screen Seizing Specialists The Best Browser Recorder Tools Ranked</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-best-screen-recorder-for-chromebook/"><u>[Updated] In 2024, Best Screen Recorder for Chromebook</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-play-nba-anytime-anywhere-with-these-15-livestream-tips/"><u>[Updated] In 2024, Play NBA Anytime, Anywhere with These 15 Livestream Tips</u></a></li>
-<li><a href="https://solve-help.techidaily.com/comment-contourner-le-probleme-de-demarrage-ssd-dans-les-systemes-dexploitation-v11-v10-v8-et-v7-guide-complet/"><u>Comment Contourner Le Problème De Démarrage SSD Dans Les Systèmes D'Exploitation V11, V10, V8 Et V7 - Guide Complet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/from-online-to-onscreen-a-step-by-nstep-guide-for-connecting-your-theater-system-to-the-internet/"><u>From Online to Onscreen: A Step-by-nStep Guide for Connecting Your Theater System to the Internet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-design-and-code-a-cross-platform-universal-remote-control-system/"><u>How to Design and Code a Cross-Platform Universal Remote Control System</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-the-maze-of-cloud-data-tariffs/"><u>In 2024, Navigating the Maze of Cloud Data Tariffs</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-time-management-for-weekly-video-conferencing-sessions/"><u>In 2024, Time Management for Weekly Video Conferencing Sessions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/journey-through-time-the-transformative-story-behind-electric-cars/"><u>Journey Through Time: The Transformative Story Behind Electric Cars</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/iews-max-impact-discover-best-posting-days-for-2024/"><u>Max Views, Max Impact Discover Best Posting Days for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/revive-lost-memories-find-and-restore-deleted-instagram-reels-with-ease/"><u>Revive Lost Memories: Find and Restore Deleted Instagram Reels with Ease</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlocking-no-cost-access-to-your-favorite-shows-on-netflix/"><u>Unlocking No-Cost Access to Your Favorite Shows on Netflix</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-revolutionize-your-video-presence-with-personalized-shorts-thumbnails/"><u>[New] 2024 Approved Revolutionize Your Video Presence with Personalized Shorts Thumbnails</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-step-by-step-adding-snapchat-to-your-mac/"><u>[New] 2024 Approved Step-by-Step Adding Snapchat to Your Mac</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-tips-to-improve-your-gopros-power-sustainability-for-2024/"><u>[New] Tips to Improve Your GoPro's Power Sustainability for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-free-skype-recording-made-easy-mp3-edition/"><u>[Updated] Free Skype Recording Made Easy - MP3 Edition</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-leverage-your-xbox-gameplay-for-virtual-engagement-on-fb-for-2024/"><u>[Updated] Leverage Your Xbox Gameplay for Virtual Engagement on FB for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-beyond-imagination-the-best-sci-fi-metaverse-films-for-adventurers/"><u>2024 Approved Beyond Imagination The Best Sci-Fi Metaverse Films for Adventurers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-comprehensive-guide-to-using-hps-softpaq-download-manager-for-efficient-software-installation/"><u>A Comprehensive Guide to Using HP's SoftPaq Download Manager for Efficient Software Installation</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722959689710-amd-smbus-driver-download-and-update-quickly-and-easily/"><u>AMD SMBus Driver Download & Update. Quickly & Easily</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/boosting-your-godfall-gameplay-with-enhanced-fps-optimization-techniques/"><u>Boosting Your Godfall Gameplay with Enhanced FPS Optimization Techniques</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-tutorial-altering-pixel-size-of-images-in-windowsmac-os/"><u>Comprehensive Tutorial: Altering Pixel Size of Images in Windows/Mac OS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/cutting-through-pixels-disable-mouse-acceleration-in-5-simple-steps/"><u>Cutting Through Pixels: Disable Mouse Acceleration in 5 Simple Steps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/disabling-cortana-in-windows-10-your-ultimate-how-to-guide/"><u>Disabling Cortana in Windows 10 - Your Ultimate How-To Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-steps-for-taking-screenshots-on-your-windows-pc-fast-method/"><u>Easy Steps for Taking Screenshots on Your Windows PC - Fast Method</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1723808367007-exclusive-20-discount-on-drivecare-app-save-now-with-our-promo-codes/"><u>Exclusive 20% Discount on Drivecare App - Save Now with Our Promo Codes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolve-modern-warfare-3-error-12707-for-a-smooth-gaming-experience/"><u>Resolve Modern Warfare 3 Error 12707 for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silent-g435-wireless-headset-heres-how-you-can-restore-audio/"><u>Silent G435 Wireless Headset? Here's How You Can Restore Audio!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1723808273124-ultimate-tutorial-on-linking-laptop-and-television-through-hdmi-visual-steps-included/"><u>Ultimate Tutorial on Linking Laptop and Television Through HDMI – Visual Steps Included!</u></a></li>
 </ul></div>
 

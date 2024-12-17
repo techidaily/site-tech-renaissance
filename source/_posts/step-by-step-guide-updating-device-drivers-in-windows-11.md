@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Updating Device Drivers in Windows 11"
-date: 2024-08-30T14:39:52.555Z
-updated: 2024-08-31T14:39:52.555Z
+date: 2024-12-14T15:24:48.200Z
+updated: 2024-12-16T21:35:08.039Z
 tags:
   - deals
 categories:
@@ -26,8 +26,9 @@ thumbnail: https://thmb.techidaily.com/e937c769751b4b8235d825da190a8de514c18ce6c
  Windows 10 updates most of your device drivers automatically. But if you'd like to manually install the latest drivers (say for your graphics card), you can do so by downloading the drivers from the device manufacturer's site or using Device Manager. We'll show you how.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  When Should You Manually Update Your Device Drivers?
 
  Windows 10's update system [installs the latest drivers](https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-apple-iphone-x-drfone-by-drfone-virtual-ios/) for most of your hardware components automatically, saving you time and effort. However, it may not install drivers for specific devices.
@@ -42,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/e937c769751b4b8235d825da190a8de514c18ce6c
 
 ![Search for 'Device Manager' in the Start menu search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-search-device-mananger.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In Device Manager, find your device's category and click the right-arrow icon beside it. Then right-click your actual device and choose "Update Driver."
 
 ![Choose "Update Driver."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/2-update-device-drivers.png) 
@@ -54,9 +59,6 @@ thumbnail: https://thmb.techidaily.com/e937c769751b4b8235d825da190a8de514c18ce6c
 
 ![Automatically find or manually pick the drivers.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/3-search-device-drivers.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
  If Device Manager finds new drivers for your device, it'll download and install them for you. You'll then have to [restart your Windows 10 PC](https://win11.techidaily.com/invisible-windows-bar-make-it-transparent-on-win11/).
 
  If newer drivers are not available, Device Manager will say that the best drivers for your device are already installed. In this case, you can still force your PC to check for the latest drivers via system updates by clicking "Search for Updated Drivers on Windows Update."
@@ -68,16 +70,17 @@ thumbnail: https://thmb.techidaily.com/e937c769751b4b8235d825da190a8de514c18ce6c
 ![Find drivers with Windows Update.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/5-find-windows-updates.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  And that's how you let Windows support you in finding and installing the latest device drivers on your PC. It is important to note that many drivers will be delivered under "View Optional Updates." 
 
 ![The optional driver update section in Windows Update.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-optional-updates.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Manually Download and Install the Latest Device Drivers
 
  Most device manufacturers offer driver downloads on their websites. This way, you don't have to use Windows Update or Device Manager to find and install the latest drivers.
@@ -90,16 +93,14 @@ thumbnail: https://thmb.techidaily.com/e937c769751b4b8235d825da190a8de514c18ce6c
 
 ![The AMD drive download page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/amd-driver-page.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Similarly, [to download NVIDIA drivers](https://windows11.techidaily.com/getting-started-with-the-windows-11-voice-chat/), head to the [NVIDIA download site](https://www.nvidia.com/download/index.aspx). There, choose your device from the list and you can download the appropriate drivers for your PC.
 
 ![The NVIDIA driver download page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/nvidia-dl.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  When your driver file is downloaded, run it to begin installing the drivers. When you're done, [give your PC a reboot](https://win11.techidaily.com/invisible-windows-bar-make-it-transparent-on-win11/) and your drivers will become active.
 
  And that's how you ensure you're always using the most up-to-date device drivers on your Windows 10 PC.
@@ -110,8 +111,6 @@ thumbnail: https://thmb.techidaily.com/e937c769751b4b8235d825da190a8de514c18ce6c
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -119,4 +118,24 @@ thumbnail: https://thmb.techidaily.com/e937c769751b4b8235d825da190a8de514c18ce6c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-online-image-enhancement-with-audio/"><u>[New] Online Image Enhancement with Audio</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-security-victory-making-your-fb-available-again/"><u>[New] Security Victory Making Your FB Available Again</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-best-hashtags-for-youtube-to-get-your-views-to-6-figures/"><u>[Updated] 2024 Approved Best Hashtags for YouTube To Get Your Views to 6 Figures</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-charting-the-course-from-scale-to-submillions-in-youtube/"><u>[Updated] Charting the Course From Scale to Submillions in Youtube</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-top-8-youtube-imagery-techniques-for-higher-engagement/"><u>[Updated] In 2024, Top 8 YouTube Imagery Techniques for Higher Engagement</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/advanced-email-organization-creating-specific-rules-in-gmail-tutorial/"><u>Advanced Email Organization: Creating Specific Rules in Gmail Tutorial</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/android-users-how-to-free-up-space-by-cleaning-the-cache/"><u>Android Users: How to Free Up Space by Cleaning the Cache</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-list-of-new-linksys-default-credentials-as-of-july-2024/"><u>Comprehensive List of New Linksys Default Credentials as of July 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-free-automotive-updater-programs-available-in-july-2024/"><u>Discover the Best Free Automotive Updater Programs Available in July 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-pulsepundit-critique-of-live-performances/"><u>In 2024, PulsePundit Critique of Live Performances</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-mp4-video-editing-on-a-budget-top-10-free-editors/"><u>New MP4 Video Editing on a Budget Top 10 Free Editors</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/pausing-auto-play-on-apple-music-a-step-by-step-guide/"><u>Pausing Auto-Play on Apple Music: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-parenting-in-a-connected-age-our-top-8-tools-for-online-safety-2024-edition/"><u>The Ultimate Guide to Parenting in a Connected Age: Our Top 8 Tools for Online Safety, 2024 Edition</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-10-must-watch-culinary-series-on-netflix/"><u>Top 10 Must-Watch Culinary Series on Netflix</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/transformer-film-saga-a-step-by-step-guide-to-watching-them-correctly/"><u>Transformer Film Saga: A Step-by-Step Guide to Watching Them Correctly</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/tycoon-titanics-unveil-the-best-12-for-your-ultimate-business-triumph/"><u>Tycoon Titanics Unveil the Best 12 for Your Ultimate Business Triumph</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/what-to-expect-at-apple-groovy-wwdc-2025-sneak-peeks-into-future-tech-and-dev-tools/"><u>What to Expect at Apple' Groovy WWDC 2025: Sneak Peeks Into Future Tech & Dev Tools</u></a></li>
+</ul></div>
 

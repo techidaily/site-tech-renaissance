@@ -1,7 +1,7 @@
 ---
 title: How To Repair Your AirPods If They Won't Charge – A 9 Step Method
-date: 2024-08-26T07:30:51.743Z
-updated: 2024-08-27T07:30:51.743Z
+date: 2024-12-12T14:10:42.190Z
+updated: 2024-12-17T04:25:15.247Z
 categories:
   - BestProducts
 description: This Article Describes How To Repair Your AirPods If They Won't Charge – A 9 Step Method
@@ -26,6 +26,10 @@ thumbnail: https://www.lifewire.com/thmb/UhTQO9GHebnTRAHrio99cXJ4ZJo=/400x300/fi
 4. **Remove the SIM card.** The more drying air that gets inside the wet iPhone, the better. You[can't remove the battery](https://www.lifewire.com/how-long-do-ipod-batteries-last-2000142) and there aren't many other openings, but you can[remove the SIM card](https://www.lifewire.com/what-is-iphone-sim-card-2000363) . The SIM slot isn't large, but every little bit helps. Just don't lose your SIM card!
 5. **Leave it in a warm place.** Once you've gotten as much water as possible out of the phone, keep your device off and leave it somewhere warm to dry. Some people leave wet iPods or iPhones on the top of a TV, where the heat from the TV helps dry the device. Others prefer a sunny windowsill. Choose whatever tactic you like. Let it dry a day or two.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Don't Do This to a Wet iPhone
 
  If your iPhone is soaked, what you don't do is just as important as what you do. If you're not careful, you might accidentally do something that could further damage your device. So, if your iPhone or iPod is wet, don't do the following:
@@ -34,8 +38,9 @@ thumbnail: https://www.lifewire.com/thmb/UhTQO9GHebnTRAHrio99cXJ4ZJo=/400x300/fi
 2. **Don't use a hair dryer.** While this technique has worked for some people, you can also damage your device or spread the water around more. It's best to avoid fans for the same reason. Don't leave your device on a radiator, either. That will get much[too hot and could damage the phone in other ways](https://www.lifewire.com/red-iphone-battery-icon-help-2000272) .
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Advanced Techniques for Fixing a Wet iPhone
 
  The simplest and probably safest method to save a wet iPhone is to let it dry out naturally. But there are a couple of advanced options you can try to speed up the process:
@@ -44,9 +49,6 @@ thumbnail: https://www.lifewire.com/thmb/UhTQO9GHebnTRAHrio99cXJ4ZJo=/400x300/fi
 2. **Put it in rice.** This is the most famous technique (though not necessarily the best). Get a ziplock bag big enough to hold the wet iPhone or iPod and some rice. Re-insert the SIM card, put the device in the bag, and fill most of the bag with uncooked rice. Leave it in the bag for a couple of days. The rice should draw the moisture out of the device. Many a wet iPhone has been saved this way. Just watch out for pieces of rice getting inside the phone.  
  Don't use enriched rice. It can leave dust behind that can get into your phone.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ## Try This Only If You're Desperate to Fix Your Wet iPhone
 
  If you're really desperate, or really skilled, you can try this option—but you better know what you're doing. You can ruin your iPhone and[void your warranty](https://www.lifewire.com/iphone-warranty-plus-applecare-1999284) .
@@ -55,8 +57,9 @@ thumbnail: https://www.lifewire.com/thmb/UhTQO9GHebnTRAHrio99cXJ4ZJo=/400x300/fi
  This is very risky. Unless you really, really know what you're doing, you're likely to do more harm than good and should avoid this. Don't say we didn't warn you.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try the Experts on Saving a Wet iPhone
 
  Don't want to take on this task yourself? Try the folks with experience in repairing wet iPhones and iPods.
@@ -65,8 +68,9 @@ thumbnail: https://www.lifewire.com/thmb/UhTQO9GHebnTRAHrio99cXJ4ZJo=/400x300/fi
 2. **Try Apple.**  While moisture damage isn't covered by Apple's warranty, Apple will repair iPhones that have water damaged. Different models have different repair prices, so[keep an eye on this page on Apple's site](https://support.apple.com/iphone/repair) for the latest details.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Check for Water Damage in a Used iPhone or iPod
 
  If you're[buying a used iPhone or iPod](https://www.lifewire.com/check-if-used-iphone-is-stolen-1999376) or lent someone your device and now it's not working so well, you want to check if it got wet. You can do this using the moisture indicator built into iPods and iPhones.
@@ -75,10 +79,6 @@ thumbnail: https://www.lifewire.com/thmb/UhTQO9GHebnTRAHrio99cXJ4ZJo=/400x300/fi
 
 [The moisture indicator is far from foolproof](https://www.cnet.com/tech/tech-industry/apple-settles-iphone-water-damage-lawsuit-for-53m/) . But, if you see the orange dot, you need to at least consider that the device may have had a bad experience with water.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Software Tips for Dealing with a Wet iPhone
 
  After you've dried your iPhone or iPod, it may start up just fine and work as though nothing happened. But many people encounter some software problems when they first try using it. Try these tips, which also apply to[iPod touch](https://www.lifewire.com/ipod-touch-everything-to-know-1999772) and iPad, for dealing with some of the common problems:
@@ -87,8 +87,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 * [How to Fix an iPhone Stuck at the Apple Logo](https://www.lifewire.com/how-to-fix-an-iphone-stuck-on-the-apple-logo-2000268) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Waterproof iPhones: iPhone 7 and Newer
 
  Probably the easiest—but not the cheapest—way to save a wet iPhone is to get one that resists water damage in the first place.
@@ -117,8 +118,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,4 +125,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-best-iphone-selfie-devices-ranked-8/"><u>[New] 2024 Approved The Best Iphone Selfie Devices Ranked (#8)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-premier-7-phone-apps-for-changing-tone-quality/"><u>2024 Approved Premier 7 Phone Apps for Changing Tone Quality</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-premium-internet-havens-tune-downloads-directory/"><u>2024 Approved Premium Internet Havens Tune Downloads Directory</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-unlocking-the-potential-a-compreayers-guide-to-batched-video-downloads-from-tiktok/"><u>2024 Approved Unlocking the Potential A Compreayer's Guide to Batched Video Downloads From TikTok</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ace-your-pitches-tips-on-creating-persuasive-proposals-with-the-help-of-chaturbate/"><u>Ace Your Pitches: Tips on Creating Persuasive Proposals with the Help of Chaturbate</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-6-food-diary-apps-on-your-phone/"><u>Discover the Best 6 Food Diary Apps on Your Phone!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-fixes-for-when-you-encounter-a-missing-bootmgr-error/"><u>Easy Fixes for When You Encounter a Missing BOOTMGR Error</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-our-ultimate-selection-the-8-most-popular-book-apps/"><u>Explore Our Ultimate Selection: The 8 Most Popular Book Apps</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-photographers-favorites-iosandroid-writing-apps/"><u>In 2024, Photographers' Favorites IOS/Android Writing Apps</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/innovative-fixes-for-dealing-with-the-persistent-hulu-rununk13-error-on-streaming-services/"><u>Innovative Fixes for Dealing with the Persistent Hulu Rununk13 Error on Streaming Services</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-permission-controls-altering-trustedinstaller-accessibility-in-windows-11-systems/"><u>Mastering Permission Controls: Altering TrustedInstaller Accessibility in Windows 11 Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-the-intersection-of-modern-gadgets-and-timeless-tales-phones-computers-and-bibliophile-delights/"><u>Navigating the Intersection of Modern Gadgets and Timeless Tales: Phones, Computers, and Bibliophile Delights</u></a></li>
+<li><a href="https://fox-info.techidaily.com/navigating-the-world-of-videomosaic-androids-8-freepaid-selection/"><u>Navigating the World of Videomosaic Android's #8-Free/Paid Selection</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ps4-game-compatibility-with-ps5-can-you-enjoy-your-old-favorites/"><u>PS4 Game Compatibility with PS5: Can You Enjoy Your Old Favorites?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-tutorial-for-seamlessly-changing-wrf-to-mp4-with-leading-video-conversion-tools/"><u>Step-by-Step Tutorial for Seamlessly Changing WRF to MP4 with Leading Video Conversion Tools</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-intersection-of-faith-and-tech-how-does-pope-francis-incorporate-email-into-his-daily-life/"><u>The Intersection of Faith and Tech: How Does Pope Francis Incorporate Email Into His Daily Life?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unmasking-your-macs-secret-files-with-easy-terminal-commands/"><u>Unmasking Your Mac's Secret Files with Easy Terminal Commands</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/winning-youtube-affiliate-deals-famebits-guide-to-earnings/"><u>Winning YouTube Affiliate Deals FameBit's Guide to Earnings</u></a></li>
+</ul></div>
 

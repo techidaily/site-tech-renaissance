@@ -1,7 +1,7 @@
 ---
 title: Decoding the Great CrowdStrike-Windows Crisis of '24 - Insights From History | ZDNET
-date: 2024-12-08T16:48:06.949Z
-updated: 2024-12-11T07:42:53.093Z
+date: 2024-12-16T16:01:54.598Z
+updated: 2024-12-17T16:02:51.769Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What happened?
@@ -55,7 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -95,7 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -176,17 +176,18 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-a-comprehensive-overview-recording-saving-and-sharing-youtube-videos-for-free/"><u>[New] 2024 Approved A Comprehensive Overview Recording, Saving & Sharing YouTube Videos for Free</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-navigating-youtubes-privacy-controls-for-video-accessibility/"><u>[Updated] Navigating YouTube's Privacy Controls for Video Accessibility</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-the-ultimate-guide-to-choosing-between-free-and-paid-zoom-transcribers-for-2024/"><u>[Updated] The Ultimate Guide to Choosing Between Free & Paid Zoom Transcribers for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/choosing-the-right-sidekick-a-detailed-comparison-of-google-pixel-watch-and-apple-watch-series-9/"><u>Choosing the Right Sidekick: A Detailed Comparison of Google Pixel Watch and Apple Watch Series 9</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-from-your-iphone-14-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID From Your iPhone 14</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/make-the-most-of-your-subscription-instructions-for-projecting-apple-tvplus-on-a-chromecast-screen/"><u>Make the Most of Your Subscription: Instructions for Projecting Apple TV+ on a Chromecast Screen</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/petcube-lights-out-pets-camera-high-definition-at-a-low-price/"><u>Petcube Lights Out Pets Camera – High Definition at a Low Price</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-essential-guide-to-turning-on-gmails-second-level-of-protection-2fa/"><u>The Essential Guide to Turning On Gmail's Second Level of Protection - 2FA</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-aufzeichnungsprogramme-fur-windows-10-8-und-7-professionelle-losungen-zur-schirmaufzeichnung/"><u>Top-Aufzeichnungsprogramme Für Windows 10, 8 Und 7: Professionelle Lösungen Zur Schirmaufzeichnung</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/why-im-not-swapping-my-iphone-n-for-an-iphone-16-pro-read-more-on-zdnet/"><u>Why I'm Not Swapping My iPhone N for an iPhone 16 Pro (Read More on ZDNET)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnet-unveils-the-ideal-lightweight-laptop-for-remote-workers-a-comprehensive-test-report/"><u>ZDNet Unveils the Ideal Lightweight Laptop for Remote Workers - A Comprehensive Test Report</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/zdnets-favorite-phones-a-closer-look-at-the-techies-real-life-choices/"><u>ZDNet's Favorite Phones: A Closer Look at the Techies' Real-Life Choices</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-how-to-repost-photos-and-video-on-instagram/"><u>[New] How to Repost Photos and Video on Instagram</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-creating-captivating-360-footage-for-social-media-sharing/"><u>[New] In 2024, Creating Captivating 360 Footage for Social Media Sharing</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-laugh-loom-imgur-memomaker/"><u>2024 Approved Laugh Loom Imgur MemoMaker</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-4-free-online-calendar-solutions-today/"><u>Discover the Best 4 Free Online Calendar Solutions Today!</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-13-pro-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 13 Pro Max Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-tier-5-speedy-screen-recorders/"><u>In 2024, Tier 5 Speedy Screen Recorders</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/is-discord-experiencing-an-outage-or-is-there-something-wrong-with-my-internet/"><u>Is Discord Experiencing an Outage, or Is There Something Wrong with My Internet?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/mastering-instagram-media-the-finest-downloading-options/"><u>Mastering Instagram Media The Finest Downloading Options</u></a></li>
+<li><a href="https://win11.techidaily.com/perfecting-screen-organization-custom-snap-setups-in-windows/"><u>Perfecting Screen Organization: Custom Snap Setups in Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-pairing-your-airpods-with-an-hp-computer/"><u>Step-by-Step Guide: Pairing Your AirPods with an HP Computer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-not-found-for-d3d9dll-in-windows-tips-and-solutions/"><u>Troubleshooting 'Not Found' For D3D9.dll in Windows - Tips & Solutions</u></a></li>
 </ul></div>
 

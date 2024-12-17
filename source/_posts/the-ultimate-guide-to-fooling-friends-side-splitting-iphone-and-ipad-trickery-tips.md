@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to Fooling Friends: Side-Splitting iPhone & iPad Trickery Tips!"
-date: 2024-08-26T07:30:40.919Z
-updated: 2024-08-27T07:30:40.919Z
+date: 2024-12-14T21:24:55.535Z
+updated: 2024-12-16T18:37:01.777Z
 categories:
   - BestProducts
 description: "This Article Describes The Ultimate Guide to Fooling Friends: Side-Splitting iPhone & iPad Trickery Tips!"
@@ -15,6 +15,10 @@ thumbnail: https://thmb.techidaily.com/3f251edfe87940db023c8b9c0c8cf809bbc15f1b0
 01
 
 of 06
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## [Use Siri to Set Reminders, Alarms, Events, Etc.](https://www.lifewire.com/what-is-siri-help-1994303)
 
@@ -42,6 +46,10 @@ of 06
 
 ![Ipad2 Comparison](https://www.lifewire.com/thmb/jPN69wWYT2zLJfh18NfogwaSrHo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-457316526-57deda085f9b58651650818c.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Credit: Justin Sullivan / Staff Editorial #: 457316526
 
  The screenshot prank involves[taking a screenshot](https://www.lifewire.com/how-to-take-an-ipad-screenshot-4103779) of the home screen and[using it as the wallpaper for the lock screen](https://www.lifewire.com/set-ipads-background-wallpaper-1994638) . This change can cause your unsuspecting victim to think the iPad or iPhone is ready to use, but all the taps in the world won't open an app until they slide to unlock.
@@ -50,16 +58,10 @@ of 06
 
 of 06
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [The Screenshot Home Screen](https://www.lifewire.com/customize-iphone-home-screen-5194141)
 
 ![A woman is using a mobile phone](https://www.lifewire.com/thmb/jjAY5RfCf0bXbyTAiGQR8Hch-IY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1024775444-046154f6b201485c8e1e9159c420b6d3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Karl Tapales/Getty Images
 
  This one is similar to the screenshot background.
@@ -75,16 +77,10 @@ of 06
 
 of 06
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ## [The Blue Screen of Death](https://www.lifewire.com/blue-screen-of-death-bsod-2625816)
 
 ![blue-screen-of-death-trick.jpg](https://www.lifewire.com/thmb/_gxotYS62h_k3CB3IJcw8XjirCo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/blue-screen-of-death-trick-56a532a05f9b58b7d0db708b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
  This one is funnier if you're targeting an IT professional or anyone that knows a bit about computers. The famed "Blue Screen of Death" is the error screen Windows gives when the operating system crashes.
 
  Having the Blue Screen of Death appear on an Apple device may or may not trick someone who knows a thing or two about computers. But, at the very least, it should draw a good laugh.
@@ -95,13 +91,18 @@ of 06
 
 of 06
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [Invert the Colors](https://www.lifewire.com/how-to-invert-colors-on-iphone-4154078)
 
 ![Computer graphic of a human eye (negative-image)](https://www.lifewire.com/thmb/_a_kXKBXJhuHJ1QPW0N00LOavkE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-680799841-653726185c454bf29f730cce93fcb45a.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 MEHAU KULYK/SCIENCE PHOTO LIBRARY / Getty Images
 
 [iOS's accessibility options](https://www.lifewire.com/ipad-accessibility-guide-1994516) can be a goldmine for pranksters. Inverting the colors can make the iPad look all out of whack with no easy way to put it back to normal. Unless your target has really experimented with all the iPad settings, they probably won't figure it out.
@@ -114,13 +115,14 @@ MEHAU KULYK/SCIENCE PHOTO LIBRARY / Getty Images
 
 of 06
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [Put the Device in Zoom Mode](https://www.lifewire.com/zoom-in-and-out-on-ipad-4103821)
 
 ![Ladybird on girl's hand under magnifying glass](https://www.lifewire.com/thmb/ly93teq_5dn-YxKk4JmXf6WLY7E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-588494079-6d7dfd09ac874928924cdc745685e929.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Westend61 / Getty Images
 
  The iPhone and iPad's accessibility options also have a zoom mode, which is great for those with vision problems and those who want to have a laugh at a friend's expense.
@@ -149,8 +151,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -158,4 +158,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-how-to-make-facebook-videos-full-screen-for-2024/"><u>[New] How to Make Facebook Videos Full Screen for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-mystical-video-pause-hints-for-2024/"><u>[Updated] Mystical Video Pause Hints for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/a-critical-analysis-of-luminances-role-in-hdr-development/"><u>A Critical Analysis of Luminance's Role in HDR Development</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/s-high-quality-youtube-images-without-paying-a-dime-for-2024/"><u>Access High-Quality YouTube Images Without Paying a Dime for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/best-free-and-easy-to-use-antivirus-software-selections/"><u>Best Free and Easy-to-Use Antivirus Software Selections</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/bouncie-autotracker-overview-a-straightforward-and-economical-car-location-solution/"><u>Bouncie AutoTracker Overview: A Straightforward and Economical Car Location Solution</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-whats-next-in-communication-witness-samsungs-revolutionary-handset-release/"><u>Discover What's Next in Communication - Witness Samsung's Revolutionary Handset Release</u></a></li>
+<li><a href="https://driver-install.techidaily.com/easy-install-for-gtx-760-drivers/"><u>Easy Install for GTX 760 Drivers</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-oneplus-nord-ce-3-lite-5g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor OnePlus Nord CE 3 Lite 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-samsung-galaxy-f15-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Samsung Galaxy F15 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/indiana-jones-franchise-a-comprehensive-guide-on-viewing-sequences/"><u>Indiana Jones Franchise: A Comprehensive Guide on Viewing Sequences</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-screenshots-for-personal-computers/"><u>Mastering the Art of Screenshots for Personal Computers</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-not-enough-memory-problems-for-seamless-performance/"><u>Resolve ‘Not Enough Memory’ Problems for Seamless Performance</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/surviving-the-elements-electric-vehicle-functionality-in-harsh-temperatures/"><u>Surviving the Elements: Electric Vehicle Functionality in Harsh Temperatures</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-picks-the-best-series-streaming-on-max-at-this-moment/"><u>Top Picks: The Best Series Streaming on MAX at This Moment</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-for-correcting-d3dx928dll-errors-in-windows/"><u>Troubleshooting Steps for Correcting d3dx9_28.dll Errors in Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-overcoming-error-in-moderation-on-chatgpt/"><u>Troubleshooting: Overcoming 'Error in Moderation' On ChatGPT</u></a></li>
+</ul></div>
 

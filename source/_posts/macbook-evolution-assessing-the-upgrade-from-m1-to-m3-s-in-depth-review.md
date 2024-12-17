@@ -1,7 +1,7 @@
 ---
 title: "MacBook Evolution: Assessing the Upgrade From M1 to M3 'S In-Depth Review"
-date: 2024-12-06T07:47:15.794Z
-updated: 2024-12-10T21:40:47.467Z
+date: 2024-12-12T16:04:35.651Z
+updated: 2024-12-17T16:06:02.405Z
 tags:
   - apple
 categories:
@@ -50,10 +50,6 @@ But if you have the M1 MacBook Pro, the question of upgrading becomes a little t
 
 Jason Cipriani/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  1\. You need more battery life
 
 While you might expect the newest device to have the [better battery life](https://www.zdnet.com/article/how-to-make-your-macbook-battery-last-all-day/), the extra processing power does take a toll. In terms of pure battery life, the M1 beats the M3 by a decent margin. For general use, the M1 has up to 17 hours while the M3 only makes it to 12\. Solely on streaming, the gap lessens a little at 20 hours compared to 18\. 
@@ -61,6 +57,10 @@ While you might expect the newest device to have the [better battery life](https
 **Also: [MacBook Pro vs MacBook Air: How to decide which Apple laptop to buy](https://www.zdnet.com/article/macbook-air-vs-macbook-pro-how-to-decide-which-apple-laptop-to-buy/)**
 
 Now, it's worth noting that most people do use their MacBooks plugged in, and going more than half a day without access to an outlet is pretty rare. But, in the event that you often find yourself in situations where a power supply isn't readily available and you work very long days, the M1 should be your choice. This is, of course, by Apple's numbers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  2\. You're doing mostly web-based work or don't need the absolute fastest option
 
@@ -79,7 +79,7 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  3\. You prefer a smaller overall size and touch bar
@@ -89,7 +89,7 @@ The M1 and M2 versions of the MacBook Pro had a 13-inch option, but that choice 
 [Buy the M1 MacBook Pro View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-14-inch-10%E2%80%91core-16%E2%80%91core%2Fdp%2FB09JQWSQK7%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C897edf32-4d54-4731-a0de-3986662b4a90%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You should buy the M3 MacBook Pro if...
@@ -97,10 +97,6 @@ The M1 and M2 versions of the MacBook Pro had a 13-inch option, but that choice 
 Buy a MacBook Pro with an M3 Pro chip on sale now.
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  1\. You're working outside or in other very bright environments
 
@@ -114,6 +110,10 @@ While there's very little the M3 can do that the M1 just can't, the biggest diff
 
 If you're working in a very fast-paced environment (say, live sports or entertainment) and seconds make the difference, it might be worth springing for the M3\. Of course, you'll likely only notice the performance difference when dealing with high-end graphics and video. But power users will be right at home with the M3.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  3\. You want a new-conditioned laptop
 
 It's been almost three years since Apple launched its M1-powered systems, so the chances of you finding one in brand-new condition today are rare. Instead, the fresher MacBook Pro with M3 chip is guaranteed to be available at your local Apple store, third-party retailers, and more. You can also expect [better deals on the M3 model](https://www.zdnet.com/article/buy-a-new-macbook-pro-with-m3-pro-chip-for-200-off-right-now/) going into the holiday shopping season. For the M1, it's buying a second-hand device or keeping your fingers crossed that somewhere on the internet is still selling one in pristine condition.
@@ -121,7 +121,7 @@ It's been almost three years since Apple launched its M1-powered systems, so the
 [Buy the MacBook Pro M3 View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-Laptop-8%E2%80%91core-10%E2%80%91core%2Fdp%2FB0CM5KC8X7%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C897edf32-4d54-4731-a0de-3986662b4a90%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -158,20 +158,20 @@ It's been almost three years since Apple launched its M1-powered systems, so the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-elevate-engagement-crafting-anime-subscribe-bars-for-youtube-content-for-2024/"><u>[New] Elevate Engagement Crafting Anime Subscribe Bars for YouTube Content for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solved-discord-lagging-issues-2024-guide/"><u>[Solved] Discord Lagging Issues | 2024 Guide</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-deciphering-the-function-of-the-blue-icon-in-messenger/"><u>[Updated] Deciphering the Function of the Blue Icon in Messenger</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-essential-strategies-preserving-whatsapp-call-recordings/"><u>[Updated] Essential Strategies Preserving WhatsApp Call Recordings</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/educational-perks-steps-to-access-discounted-lenovo-devices-as-a-scholar/"><u>Educational Perks: Steps to Access Discounted Lenovo Devices as a Scholar</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/enhancing-engagement-best-practices-for-b-roll-integration/"><u>Enhancing Engagement Best Practices for B Roll Integration</u></a></li>
-<li><a href="https://win-answers.techidaily.com/eyeface-protection/"><u>Eye/Face Protection</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/find-the-hottest-preorders-for-ipad-pro-and-latest-accessories-exclusive-deals-spotted/"><u>Find the Hottest Preorders for iPad Pro and Latest Accessories: Exclusive Deals Spotted !</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-upgrade-to-ios-n18-installation-guide-and-eligible-iphones-latest-update-covered-by-zdnet/"><u>How to Upgrade to iOS N18: Installation Guide & Eligible iPhones | Latest Update Covered by ZDNet</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-ps5xbox-gaming-monitors-the-5-most-exciting-choices/"><u>In 2024, PS5/Xbox Gaming Monitors The 5 Most Exciting Choices</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-understanding-whatsapps-telephony-services/"><u>In 2024, Understanding WhatsApp’s Telephony Services</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/preserve-your-iphone-ns-pristine-appearance-with-these-3-must-have-accessories-insights-by-zdnet/"><u>Preserve Your iPhone N's Pristine Appearance with These 3 Must-Have Accessories | Insights by ZDNET</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/say-goodbye-to-clutter-master-the-simple-technique-for-a-cleaner-email-experience-discover-how-zdnet/"><u>Say Goodbye to Clutter: Master the Simple Technique for a Cleaner Email Experience – Discover How | ZDNET</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/solved-move-from-nokia-c22-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Nokia C22 to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-ranked-desktops-and-laptops-an-in-depth-comparison-featuring-apple-dell-and-beyond-insights/"><u>Top-Ranked Desktops & Laptops : An In-Depth Comparison Featuring Apple, Dell & Beyond - Insights</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-essential-manual-for-crafting-perfect-podcast-titles-and-50plus-inspirations/"><u>[New] In 2024, Essential Manual for Crafting Perfect Podcast Titles & 50+ Inspirations</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-prime-acoustic-collectors-at-schools-for-2024/"><u>[New] Prime Acoustic Collectors at Schools for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-fast-track-your-feed-mastering-instagram-likes-and-vids-artistry/"><u>[Updated] In 2024, Fast-Track Your Feed Mastering Instagram Likes & Vids Artistry</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/beginners-tutorial-establishing-wi-fi-calls-between-your-phone-and-laptop/"><u>Beginner's Tutorial: Establishing Wi-Fi Calls Between Your Phone & Laptop</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/conquering-hulu-glitches-effective-solutions-to-deal-with-error-code-rununk13/"><u>Conquering Hulu Glitches: Effective Solutions to Deal with Error Code RUNUNK13</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/directx-direct3d-compatible-software-quick-easy-and-reliable-installation/"><u>DirectX Direct3D Compatible Software: Quick, Easy and Reliable Installation</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enable-and-disable-cookies-on-windows-10-chrome-firefox-opera-and-edge/"><u>Enable & Disable Cookies on Windows 10 Chrome, Firefox, Opera and Edge</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enhancing-your-game-experience-tips-to-resolve-frame-rate-issues-fps-drops-and-stutters-while-playing-diablo-4-on-pc/"><u>Enhancing Your Game Experience: Tips to Resolve Frame Rate Issues, FPS Drops & Stutters While Playing Diablo 4 on PC</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/essential-youtube-equipment-for-starting-your-channel-for-2024/"><u>Essential YouTube Equipment For Starting Your Channel for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fast-secure-torrent-downloads-made-possible-by-top-rated-global-vpn-providers/"><u>Fast, Secure Torrent Downloads Made Possible by Top-Rated Global VPN Providers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gamers-guide-to-best-4k-laptop-models-for-2024/"><u>Gamer's Guide to Best 4K Laptop Models for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-fixing-the-issue-of-compattelrunnerexe-overwhelming-disk-space-in-both-windows-11-and-7-environments/"><u>Guide: Fixing the Issue of CompatTelRunner.exe Overwhelming Disk Space in Both Windows 11 & 7 Environments</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-realme-narzo-60x-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Realme Narzo 60x 5G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-guide-on-how-to-remove-apple-id-from-iphone-se-by-drfone-ios/"><u>In 2024, Guide on How To Remove Apple ID From iPhone SE</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/mastering-hashtags-to-hit-6k-youtube-growth-for-2024/"><u>Mastering Hashtags to Hit $6K YouTube Growth for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Guide to Integrating Self-Taken Pictures Into the MidJourney Experience
-date: 2024-08-30T14:40:45.048Z
-updated: 2024-08-31T14:40:45.048Z
+date: 2024-12-15T12:56:08.774Z
+updated: 2024-12-16T16:43:12.524Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## Guide to Integrating Self-Taken Pictures Into the MidJourney Experience
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -34,28 +38,33 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 Adding an image to the Discord Chat
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Getting the Image Link
 
  Now that you've uploaded your image to the Discord servers and its visible in your chat, we need to extract the link pointing directly at the image file. To do this, [right-click](https://desktop-recording.techidaily.com/updated-the-art-of-recording-fun-6-techniques-to-document-minecraft-for-2024/) on the image and select "Copy link". (If you're on the mobile app, tap and hold the image, then select "Copy media link.") Be careful not to click "Copy image" since this copies the image itself to the clipboard rather than the hyperlink.
 
 ![Copy the link to the image you just uploaded.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/screenshot-2023-07-27-at-14-15-22.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 Copying a Discord image link
 
  If you paste the contents of the clipboard into your chat box or any other text field, you'll see this long string ending in an image extension, in this case .[JPG](https://change-location.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-vivo-y27s-drfone-by-drfone-virtual-android/).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Constructing Your Prompt
 
  Start your prompt the usual way by typing "/imagine" and then pressing the spacebar.
 
 ![Start typing a regular prompt in the Discord server.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/screenshot-2023-07-27-at-13-36-28.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Starting a MidJourney Prompt
 
@@ -71,16 +80,10 @@ Pasting image link into MidJourney prompt
 
 ![Type your prompt after the image link.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/screenshot-2023-07-27-at-13-36-46.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Adding Prompt to image link in MidJourney
 
  Don't submit the prompt yet, because we have to include two more important parameters.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Setting the Image Weight and Aspect Ratio
 
  The _image weight_ parameter tells MidJourney how closely it should stick to the original picture. The image weight parameter for [MidJourney V5](https://instagram-clips.techidaily.com/2024-approved-visual-storytelling-on-social-media-crafting-an-effective-plan/) (5.2 is the latest as of this writing) can range from 0-2\. With an image weight of 2, the result will be strongly inspired by the image prompt, but something like 0.5 will only loosely inspire it.
@@ -89,9 +92,6 @@ Adding Prompt to image link in MidJourney
 
 ![Use weight parameters to modify how the output image will look.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/screenshot-2023-07-27-at-13-36-52.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Adding Image Weights to MidJourney
 
  Next, we'll specify the aspect ratio. MidJourney makes square images by default, but that's not always what you need. Our image prompt is square as well, but we're going to widen it to 16:9, which is the most common widescreen [aspect ratio](https://youtube-lab.techidaily.com/gateway-to-youtube-entrepreneurship-the-best-10-easy-to-create-channels/). To do this, we add "--ar 16:9" to the end of the prompt.
@@ -117,8 +117,9 @@ MidJourney / How-To Geek / Sydney Butler
 ![An image of the Starship Enterprise generated by MidJourney with space in the background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/gendowasright_starship_enterprise_star_trek_flying_in_space_epi_b3e39e49-1e28-4a03-8089-e08e1b2cb912.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 MidJourney / How-To Geek / Sydney Butler
 
  And now we have a pretty cool result!
@@ -135,8 +136,6 @@ MidJourney / How-To Geek / Sydney Butler
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +143,23 @@ MidJourney / How-To Geek / Sydney Butler
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-techniques-for-discarding-backlogged-youtube-videos/"><u>[New] In 2024, Techniques for Discarding Backlogged YouTube Videos</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ro-tip-8-key-sites-to-harvest-free-eco-friendly-filming-backdrops/"><u>[New] Pro Tip! 8 Key Sites to Harvest FREE Eco-Friendly Filming Backdrops</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nderstanding-your-earning-potential-youtubes-latest-rules-for-2024/"><u>[New] Understanding Your Earning Potential - YouTube's Latest Rules for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-detailed-guidance-how-to-add-custom-ringtones-and-sounds-to-your-android-for-2024/"><u>A Detailed Guidance How To Add Custom Ringtones And Sounds To Your Android for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/apple-iphone-6s-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>Apple iPhone 6s Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/free-movie-goldmine-your-guide-to-the-best-film-selections-on-youtube-in-july-2024/"><u>Free Movie Goldmine: Your Guide to the Best Film Selections on YouTube in July 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-disable-or-reset-your-login-pin-in-windows-11-easily/"><u>How to Disable or Reset Your Login PIN in Windows 11 Easily</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fast-easy-free-uncovering-the-best-10-image-converters/"><u>In 2024, Fast, Easy, FREE Uncovering the Best 10 Image Converters</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-optimize-your-viewing-experience-on-youtube-with-speed-settings/"><u>In 2024, Optimize Your Viewing Experience on YouTube with Speed Settings</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/leading-lists-compelling-google-cardboard-vr-game-selections-for-2024/"><u>Leading Lists Compelling Google Cardboard VR Game Selections for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-headlines-the-elite-list-of-news-aggregators/"><u>Navigating Headlines: The Elite List of News Aggregators</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-issues-with-the-spell-check-feature-in-your-outlook-email-client/"><u>Overcoming Issues with the Spell Check Feature in Your Outlook Email Client</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/simplified-steps-comprehensive-method-for-picking-out-selected-messages-on-gmail/"><u>Simplified Steps: Comprehensive Method for Picking Out Selected Messages on Gmail</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/spotlight-on-innovation-meet-the-latest-in-apples-iphone-lineup/"><u>Spotlight on Innovation: Meet the Latest in Apple's iPhone Lineup</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solutions-for-d3dx926dll-error-recovery/"><u>Step-by-Step Solutions for d3dx9_26.dll Error Recovery</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-the-technical-marvels-of-dji-inspire-2-for-2024/"><u>Unveiling the Technical Marvels of DJI Inspire 2 for 2024</u></a></li>
+</ul></div>
 

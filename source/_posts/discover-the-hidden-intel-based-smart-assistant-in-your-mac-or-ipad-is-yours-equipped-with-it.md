@@ -1,7 +1,7 @@
 ---
 title: Discover the Hidden Intel-Based Smart Assistant in Your Mac or iPad – Is Yours Equipped with It?
-date: 2024-12-07T10:42:21.011Z
-updated: 2024-12-11T11:33:42.117Z
+date: 2024-12-16T16:01:09.032Z
+updated: 2024-12-17T16:03:29.904Z
 tags:
   - apple
 categories:
@@ -28,10 +28,6 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to customize your iPhone's new Control Center with iOS 18
 
 ## 1\. Access Control Center
@@ -41,7 +37,7 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -53,7 +49,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -62,6 +58,10 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
@@ -69,7 +69,7 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -80,15 +80,15 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,22 +126,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-becoming-a-whatsapp-pro-uncovering-invaluable-tips-and-tricks-for-2024/"><u>[Updated] Becoming a WhatsApp Pro Uncovering Invaluable Tips and Tricks for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-diaspora-user-visualization-measurements-format-length-for-2024/"><u>[Updated] Diaspora User Visualization Measurements, Format, Length for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-night-photography-perfection-with-iphones/"><u>[Updated] In 2024, Night Photography Perfection with iPhones</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/classroom-mastery-the-prime-10-audio-visual-aids-for-instructors/"><u>Classroom Mastery The Prime 10 Audio-Visual Aids for Instructors</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-enhanced-airpods-4-with-revolutionary-find-my-speaker-and-updated-usb-c-port-as-covered/"><u>Discover the Enhanced AirPods 4 with Revolutionary Find My Speaker and Updated USB-C Port as Covered</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-top-4-revolutionary-apple-health-innovations-unveiled-in-latest-event/"><u>Discover the Top 4 Revolutionary Apple Health Innovations Unveiled in Latest Event</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/in-2024-how-to-correct-lens-distortion-with-filmora/"><u>In 2024, How to Correct Lens Distortion With Filmora</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/is-the-latest-airpower-footage-a-sign-of-apples-return-to-qi-enabled-wireless-charging-mats/"><u>Is the Latest AirPower Footage a Sign of Apple's Return to Qi-Enabled Wireless Charging Mats?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/protecting-your-new-iphone-16-essential-reasons-to-invest-in-a-quality-phone-case/"><u>Protecting Your New iPhone 16: Essential Reasons to Invest in a Quality Phone Case</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/solving-common-issues-with-samsung-television-closed-captioning/"><u>Solving Common Issues with Samsung Television Closed Captioning</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/sonos-reveals-user-friendly-s2-app-with-surprising-limitations-tech-insights-on-zdnet/"><u>Sonos Reveals User-Friendly S2 App with Surprising Limitations | Tech Insights on ZDNet</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/step-by-step-guide-to-boost-your-social-media-presence-with-instagram-hashtags/"><u>Step-by-Step Guide to Boost Your Social Media Presence with Instagram Hashtags</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-ultimate-guide-to-using-look-up-tables-luts-in-photoshop/"><u>The Ultimate Guide to Using Look-Up Tables (LUTs) in Photoshop</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-ranking-windows-10-video-and-audio-converter-software-mp4-mkv-avi-and-more/"><u>Top-Ranking Windows 10 Video & Audio Converter Software: MP4, MKV, AVI, and More</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-patch-tuesday-what-you-need-to-know/"><u>Understanding Patch Tuesday: What You Need to Know</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-apples-revolutionary-ai-tech-to-transform-your-iphone-screen-and-empower-siri-zdnet/"><u>Unveiling Apple's Revolutionary AI Tech to Transform Your iPhone Screen and Empower Siri | ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/upgrading-to-iphone-14-is-it-worth-leaving-iphone-13-behind-an-in-depth-comparison-for-tech-enthusiasts-zdnet/"><u>Upgrading to iPhone 14: Is It Worth Leaving iPhone 13 Behind? An In-Depth Comparison for Tech Enthusiasts - ZDNet</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-tech-tutorial-saving-screen-movies-from-your-gadgets/"><u>[New] 2024 Approved Tech Tutorial Saving Screen Movies From Your Gadgets</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-photographic-prowess-the-best-lens-choices-for-stunning-images-2024-edition/"><u>[New] Photographic Prowess The Best Lens Choices for Stunning Images, 2024 Edition</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-easy-broadcast-obs-plus-streamlabs-tutorial-for-mac-users/"><u>2024 Approved Easy Broadcast OBS + Streamlabs Tutorial for Mac Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-comprehensive-tutorial-for-mac-os-dual-monitor-setup/"><u>A Comprehensive Tutorial for Mac OS Dual Monitor Setup</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/anticipation-mounts-for-the-new-apple-ring-projection-on-pricing-release-timeline-and-technical-specs/"><u>Anticipation Mounts for the New Apple Ring – Projection on Pricing, Release Timeline & Technical Specs</u></a></li>
+<li><a href="https://facebook.techidaily.com/channels-as-pathways-within-facebook-communities/"><u>Channels as Pathways Within Facebook Communities</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/cyber-security-shielding/"><u>Cyber Security Shielding</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-linking-your-amazon-firestick-with-wi-fi-via-cellular-network/"><u>Guide: Linking Your Amazon Firestick with Wi-Fi via Cellular Network</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-remove-iphone-15-sim-lock-by-drfone-ios/"><u>In 2024, How to Remove iPhone 15 SIM Lock?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-13-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, iPhone 13 Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-top-10-best-free-mmorpg-games-you-can-find/"><u>In 2024, Top 10 Best Free MMORPG Games You Can Find</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-the-art-of-message-modification-in-instagram-conversations/"><u>Master the Art of Message Modification in Instagram Conversations</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722867479048-overcome-pairing-challenges-with-your-apple-watch-using-these-easy-fix-steps/"><u>Overcome Pairing Challenges with Your Apple Watch Using These Easy Fix Steps!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/perfect-focus-in-teams-meetings-mastering-background-blur-for-2024/"><u>Perfect Focus in Teams Meetings Mastering Background Blur for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/review-of-the-cubefit-terramat-enhance-fitness-by-simply-standing/"><u>Review of the CubeFit TerraMat: Enhance Fitness by Simply Standing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-fixes-for-reducing-unwanted-vibrations-in-your-surfaces-display/"><u>Step-by-Step Fixes for Reducing Unwanted Vibrations in Your Surface's Display</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/transferring-code-segments-seamlessly-into-word-documents/"><u>Transferring Code Segments Seamlessly Into Word Documents</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-navigating-the-internet-archives-wayback-machine/"><u>Ultimate Guide: Navigating the Internet Archive's Wayback Machine</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-hidden-reminders-how-to-access-archived-notifications-on-ios-devices/"><u>Unlocking Hidden Reminders: How to Access Archived Notifications on iOS Devices</u></a></li>
 </ul></div>
 

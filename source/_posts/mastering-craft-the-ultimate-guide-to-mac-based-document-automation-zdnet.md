@@ -1,7 +1,7 @@
 ---
 title: "Mastering Craft: The Ultimate Guide to Mac-Based Document Automation | ZDNet"
-date: 2024-11-24T16:04:03.907Z
-updated: 2024-11-25T16:03:12.152Z
+date: 2024-12-12T16:01:50.394Z
+updated: 2024-12-17T16:04:38.429Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ But then something sort of magical happened -- I started using the app. Once I u
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Craft?
@@ -40,7 +40,7 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -64,7 +64,7 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -78,7 +78,7 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -129,22 +129,18 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/spiring-youtube-guides-for-aspiring-singers-and-instrumentalists/"><u>15 Inspiring YouTube Guides for Aspiring Singers and Instrumentalists</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-oppo-k11x-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Oppo K11x | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/best-free-disk-defragmenters-in-july-2024-a-comprehensive-guide/"><u>Best Free Disk Defragmenters in July 2024: A Comprehensive Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/bridge-devices-pairing-xbox-one-with-a-controller/"><u>Bridge Devices: Pairing Xbox One with a Controller</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/converging-music-and-imagery-online/"><u>Converging Music and Imagery Online</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/creative-composition-concepts-fostering-joyful-spaces/"><u>Creative Composition Concepts Fostering Joyful Spaces</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-root-causes-behind-a-computers-blue-screen-error/"><u>Exploring the Root Causes Behind a Computer's Blue Screen Error</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fast-track-solutions-for-enhancing-your-computers-speed/"><u>Fast-Track Solutions for Enhancing Your Computer’s Speed</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-use-photo-cutout-on-an-iphone-ios-16/"><u>How to Use Photo Cutout on an iPhone (iOS 16)</u></a></li>
-<li><a href="https://facebook.techidaily.com/igniting-the-digital-conversation-12-revolutionary-strategies-for-engagement/"><u>Igniting the Digital Conversation: 12 Revolutionary Strategies for Engagement</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Samsung Galaxy A23 5G? | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/instagram-innovation-how-final-cut-x-shapes-your-tall-screen-footage-for-2024/"><u>Instagram Innovation How Final Cut X Shapes Your Tall-Screen Footage for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/sequential-guide-viewing-all-transformers-films-correctly/"><u>Sequential Guide: Viewing All Transformers Films Correctly</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/simplify-your-experience-a-step-by-step-guide-to-androids-quick-settings-functionality/"><u>Simplify Your Experience: A Step-by-Step Guide to Android's Quick Settings Functionality</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-the-problem-a-step-by-step-guide-to-speed-up-your-sluggish-wifi/"><u>Solving the Problem: A Step-by-Step Guide to Speed Up Your Sluggish WiFi</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/tech-hack-operate-your-roku-without-a-traditional-remote-a-comprehensive-guide/"><u>Tech Hack: Operate Your Roku Without a Traditional Remote - A Comprehensive Guide</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ltimate-guide-sharing-your-private-youtube-snippets-via-email/"><u>The Ultimate Guide Sharing Your Private YouTube Snippets via Email</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-guide-on-downloading-processing-and-saving-twitter-vids-as-mp3s/"><u>[New] In 2024, Guide on Downloading, Processing, and Saving Twitter Vids as MP3s</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-mp3-broadcasting-toolkit-convert-upload-and-stream-youtube/"><u>[Updated] MP3 Broadcasting Toolkit Convert, Upload & Stream YouTube</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/behind-the-curtain-of-silence-uncovering-the-potential-of-truthgpt-with-elon-musk-at-the-helm/"><u>Behind the Curtain of Silence: Uncovering the Potential of TruthGPT with Elon Musk at the Helm</u></a></li>
+<li><a href="https://win-updates.techidaily.com/entfernen-sie-falschlicherweise-markierte-dateien-auf-ihrem-pc-mit-zwei-effektiven-strategien-in-windows-11/"><u>Entfernen Sie Fälschlicherweise Markierte Dateien Auf Ihrem PC Mit Zwei Effektiven Strategien in Windows 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-celebrating-masterpieces-top-15-outstanding-stop-motion-works/"><u>In 2024, Celebrating Masterpieces Top 15 Outstanding Stop-Motion Works</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/iphone-tips-how-to-access-and-enjoy-shared-albums/"><u>IPhone Tips: How to Access and Enjoy Shared Albums</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/streamline-your-email-workflow-setting-up-tailored-rules-in-gmail/"><u>Streamline Your Email Workflow: Setting Up Tailored Rules in Gmail</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-complete-tutorial-for-erasing-personal-pictures-from-your-facebook-profile/"><u>The Complete Tutorial for Erasing Personal Pictures From Your Facebook Profile</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-hierarchy-within-royal-match-discovering-the-number-of-stages/"><u>The Hierarchy Within 'Royal Match': Discovering the Number of Stages</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-next-generation-of-wireless-tech-exploring-the-advantages-of-verizon-5g/"><u>The Next Generation of Wireless Tech: Exploring the Advantages of Verizon 5G</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-what-to-do-when-your-zoom-camera-fails/"><u>Troubleshooting Guide: What to Do When Your Zoom Camera Fails</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/universal-guide-hulu-recording-on-pc-apple-ios-and-android/"><u>Universal Guide Hulu Recording on PC, Apple, iOS & Android</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-eight-key-benefits-why-educators-need-to-welcome-artificial-intelligence-in-the-classroom/"><u>Unveiling Eight Key Benefits: Why Educators Need to Welcome Artificial Intelligence in the Classroom</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Control Your PC's Social Side with These Simple Tips to Turn On or Off Network Discovery on Windows 11
-date: 2024-08-26T07:25:19.187Z
-updated: 2024-08-27T07:25:19.187Z
+date: 2024-12-15T16:00:14.176Z
+updated: 2024-12-17T16:00:11.315Z
 categories:
   - BestProducts
 description: This Article Describes Control Your PC's Social Side with These Simple Tips to Turn On or Off Network Discovery on Windows 11
@@ -20,6 +20,10 @@ thumbnail: https://www.lifewire.com/thmb/qM1nNnmQahuj0QFb4ZrHH5hMw1k=/400x300/fi
 
 New Line Cinemas
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Watch 'The Lord of the Rings' in Chronological Order
 
  One way to watch_The Lord of the Rings_ is to watch them in the chronological order Tolkien told the tale. As Bilbo Baggins wrote, "Down from the door where it began. Now, far ahead the road has gone, and I must follow if I can."
@@ -37,6 +41,10 @@ New Line Cinemas
 
  If you think you're going to make it through this epic adventure in one sitting, you might be in for a surprise. The_Hobbit_ trilogy totals almost 8 hours._The Lord of the Rings_ trilogy is a whopping 9.5 hours. To watch all six, you'd have to sit for almost 17.5 hours straight. But don't worry, as Samwise Gamgee said, "It's the job that never started as takes longest to finish."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Watch 'The Lord of the Rings' in Order of Release
 
  Do you want to watch_The Lord of the Rings_ , including_The Hobbit_ , in the order they were released? Many people do this to experience how it felt to experience the Tolkien story in the way Director Peter Jackson told it on the screen. This is because there is information and elements of the story which make more sense to moviegoers who've already seen the LOTR trilogy.
@@ -53,8 +61,9 @@ New Line Cinemas
 | _The Hobbit: The Battle of the Five Armies_         | December 4, 2014  | Max                 | •Amazon Prime •Apple TV •Fandango at Home •Google Play •YouTube                                                                                                                                                                                                                             |
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Which Is the Right Order?
 
  While you could boil 'em, mash 'em, and stick 'em in a stew, some of the stories in_The Lord of the Rings_ set up the viewer for seeing those tales unfold in_The Hobbit_ trilogy. On the other hand, the actual storyline in The Hobbit itself serves as a backdrop to events that take place in LOTR.
@@ -62,8 +71,9 @@ New Line Cinemas
  The bottom line is when it comes to_The Lord of the Rings_ , the end of each story tends to mold into the beginning of another. Or as Gandalf said, "For even the very wise cannot see all ends." The movies are so addictive you'll see them all from wherever you start. And back again.
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## When Does 'The Rings of Power' Take Place?
 
  Amazon's original series_The Rings of Power_ happens thousands of years before both_The Lord of the Rings_ and_The Hobbit_ . In fact, it's in a wholly different era of Middle-earth: the Second Age. Despite that, it does include some returning characters from the later stories, including Galadriel and Elrond (elves are immortal, remember).
@@ -71,8 +81,9 @@ New Line Cinemas
  Completion fans will want to watch_The Rings of Power_ before the other two stories, but as it's still running, you can't see all of that story just yet.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is 'The Hunt for Gollum'?
 
  In May 2024, Warner Bros. announced it had started development two more Middle-earth films. The first of these,_The Hunt for Gollum_ , will be out in 2026 and bring the writers of the original trilogy back. Andy Serkis, who played Gollum in four movies, will direct (and likely reprise the role, given the title).
@@ -112,8 +123,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,4 +130,19 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-top-screen-capture-contenders-a-comprehensive-review/"><u>[New] In 2024, Top Screen Capture Contenders A Comprehensive Review</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-innovative-8-android-video-chat-apps-beyond-duostrios-for-2024/"><u>[New] Innovative 8 Android Video Chat Apps Beyond Duos/Trios for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/haley-ba-et-al-nd-glyphosate-occurrence-and-potential-impacts-on-surface-water-ecosystems-a-review-retrieved-from-httpswwwusgsgovspecial-topicwater-science-570/"><u>Haley BA., Et Al (N.d.). Glyphosate Occurrence and Potential Impacts on Surface Water Ecosystems: A Review. Retrieved From https://www.usgs.gov/special-topic/water-science-school/science/glyphosate-occurrence-and-potential-impacts-surface</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-securely-silence-unwanted-imessages-and-sms-on-iphone/"><u>How to Securely Silence Unwanted iMessages and SMS on iPhone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-realme-gt-5-pro-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Realme GT 5 Pro Phone Now with These Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-gaming-woes-how-to-fix-ready-or-not-constant-crashes/"><u>PC Gaming Woes: How to Fix 'Ready Or Not' Constant Crashes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reestablishing-access-rectifying-unreachable-ea-services/"><u>Reestablishing Access: Rectifying Unreachable EA Services</u></a></li>
+<li><a href="https://fox-within.techidaily.com/step-by-step-guide-restoring-deleted-items-from-your-microsoft-onedrive-account/"><u>Step-by-Step Guide: Restoring Deleted Items From Your Microsoft OneDrive Account</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/steps-to-disable-youtube-access-on-your-ipad-device/"><u>Steps to Disable YouTube Access on Your iPad Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ins-and-outs-of-ray-tracing-technology-explained/"><u>The Ins and Outs of Ray Tracing Technology Explained</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-fix-for-btballoondll-not-found-issues/"><u>The Ultimate Fix for 'btballoon.dll Not Found' Issues</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-leading-innovations-in-technology-for-year/"><u>Unveiling the Leading Innovations in Technology for [Year]</u></a></li>
+</ul></div>
 

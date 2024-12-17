@@ -1,7 +1,7 @@
 ---
 title: "Accessing Midjourney with Ease: A Guide to Utilizing the New Web Interface"
-date: 2024-08-30T14:40:55.943Z
-updated: 2024-08-31T14:40:55.943Z
+date: 2024-12-14T23:02:47.089Z
+updated: 2024-12-17T15:04:44.616Z
 tags:
   - cutting-edge
 categories:
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/2b667f6d425e137d74634d5b5e43d01ba3b3015e3
 
  Since it's inception, MidJourney has used the Discord chat platform as an interface for its AI image generation technology. It's not the most elegant solution, but most users have adapted and learned the commands you type in to get the pictures you want. Those times might soon be behind us, as MidJourney now has a web interface in the alpha stages of development.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Is MidJourney’s Web Interface?
 
  While it may soon fancy, the new web interface for MidJourney is simply a custom website designed to act as the front end of MidJourney. It's user-friendly, designed specifically for MidJourmey, and doesn't require you to learn any special commands or know how to operate a Discord Bot. It also offers a single destination where you can both browse your own creations and those of other users.
@@ -33,13 +37,18 @@ thumbnail: https://thmb.techidaily.com/2b667f6d425e137d74634d5b5e43d01ba3b3015e3
  This has been long overdue for MidJourney, which has become incredibly popular in spite of the relatively arcane Discord interface it's used so far. if you have access to
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Who Gets Access to the New Interface?
 
  When the alpha version of the website was first unveiled, only MidJourney users who had already generated at least 1000 images using the Discord interface were eligible to try it out. Since then, that number has been lowered way down to only 100 images, and I expect that open access to all subscribers won't be long after the publication of this article. Even so, 100 images isn't much, and if you're a new user you'll blow through that halfway through your first month's allocation of images. 
 
  Most people who've been subscribed MidJourney for at least one month will already be eligible, so simply head to [Midjourney Web](https://alpha.midjourney.com/) and log in using your Discord credentials.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Getting to Know the Web Interface
 
@@ -48,50 +57,26 @@ thumbnail: https://thmb.techidaily.com/2b667f6d425e137d74634d5b5e43d01ba3b3015e3
 ![The MidJourney web interface.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-17-at-14-34-02.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To get started making your images, switch to the "Create" tab.
 
 ![MidJourney Create Tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/midjourney-create-tab.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
  Here you'll find all of your previously created images, with the prompt, and other useful information about that generation to the right.
 
 ![The MidJourney image prompt information as displayed in the web interface.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-17-at-14-37-50.png) 
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To start a new image generation, type your prompt into the text field marked with "Imagine..." and press Enter.
 
 ![The MidJourney web interface, showing the 'Imagine' prompt field.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-17-at-14-40-29.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
  Your latest generated images will appear at the top of the "Create" feed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Tips and Tricks for Generating Images the New Way
 
@@ -99,9 +84,6 @@ Key features:
 
 ![MidJourney Settings as seen when expanding the prompt box in the web interface.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/midjourney-settings.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
  Here you can change some important settings with the click of a button:
 
 * Under "Image Size" you can change the aspect ratio either with a preset button, or with a slider that has all the most common aspect ratios.
@@ -134,8 +116,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -143,4 +123,26 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-converge-your-viewing-proficiently-using-netflix-pip-mode/"><u>2024 Approved Converge Your Viewing Proficiently Using Netflix PIP Mode</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-essential-steps-to-implement-video-card-anchors-on-youtube/"><u>2024 Approved Essential Steps to Implement Video Card Anchors on YouTube</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-streamlined-methods-to-store-mov-on-your-windows-pc/"><u>2024 Approved Streamlined Methods to Store .mov on Your Windows PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-correcting-microsoftdirectxdirectinputdll-errors-effectively/"><u>Comprehensive Guide: Correcting 'Microsoft.DirectX.DirectInput.dll' Errors Effectively</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/differences-decoded-a-deep-dive-into-rokus-express-and-stick-options/"><u>Differences Decoded: A Deep Dive Into Roku's Express and Stick Options</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/discostreaming-101-desktop-plus-mobile-tips-for-2024/"><u>DiscoStreaming 101 Desktop + Mobile Tips for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722895713932-exciting-insights-on-the-next-google-watch-pricing-release-window-and-expected-specs-revealed/"><u>Exciting Insights on the Next Google Watch – Pricing, Release Window & Expected Specs Revealed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-the-best-places-to-watch-free-family-friendly-movies-online/"><u>Explore the Best Places to Watch Free Family-Friendly Movies Online</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-functionality-of-your-lucidsound-ls30-audio-device/"><u>How to Restore Functionality of Your LucidSound LS30 Audio Device</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-flawless-inshot-edit-transitions/"><u>In 2024, The Art of Flawless Inshot Edit Transitions</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-time-allocation-mastery-work-and-youtube-synergy/"><u>In 2024, Time Allocation Mastery Work & YouTube Synergy</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-vivo-y200-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Vivo Y200 FRP Without Computer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/no-cost-no-hassle-discover-7-premium-free-online-fax-services/"><u>No Cost, No Hassle: Discover 7 Premium-Free Online Fax Services</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/premier-gamers-streaming-software-for-2024/"><u>Premier Gamers' Streaming Software for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/smart-texting-strategies-how-to-stay-connected-without-exceeding-your-data/"><u>Smart Texting Strategies: How to Stay Connected without Exceeding Your Data</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-mastering-conversations-in-mozilla-thunderbird/"><u>Step-by-Step Guide: Mastering Conversations in Mozilla Thunderbird</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-selecting-a-quality-previously-owned-ipad-5-critical-considerations/"><u>The Ultimate Guide to Selecting a Quality Previously Owned iPad (5 Critical Considerations)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/universal-access-to-icloud-pictures-tips-for-iphone-android-and-pc-users/"><u>Universal Access to iCloud Pictures: Tips for iPhone, Android & PC Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-the-secrets-to-locating-archived-reels-on-instagram-with-simple-tips/"><u>Unlock the Secrets to Locating Archived Reels on Instagram with Simple Tips</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How Frequently Are Electrical Vehicles Prone to Fires?
-date: 2024-08-30T14:41:11.424Z
-updated: 2024-08-31T14:41:11.424Z
+date: 2024-12-12T07:58:42.849Z
+updated: 2024-12-16T20:59:21.190Z
 tags:
   - cutting-edge
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 
 ## How Frequently Are Electrical Vehicles Prone to Fires?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Do EVs Catch Fire More Often Than Gas Cars?](https://facebook-video-footage.techidaily.com/updated-in-2024-chuckle-factory-designing-7-video-ideas-for-humorists/)
@@ -19,6 +23,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 * [Should You Worry About Electric Car Fires?](https://fox-glue.techidaily.com/digital-delivery-diary-poker-perspectives/)
 
  Given the [intense stories](https://www.washingtonpost.com/technology/2021/08/04/tesla-fire/) about electric vehicle fires, and past disasters with overheating lithium-ion [cell phone batteries](https://iphone-unlock.techidaily.com/in-2024-apple-iphone-15-plus-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/), it's reasonable to be concerned about an electric vehicle (EV) battery catching fire. But how often does that actually happen, and why?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Do EVs Catch Fire More Often Than Gas Cars?
 
@@ -35,8 +43,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
  Overall, EVs were about 0.3% likely to catch fire, while gas cars were 1.05% likely to ignite. That should be good news for EV owners, but as the AutoinsuranceEZ report points out, car fires are dangerous no matter the cause.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  EV Fires Are Rarer, But More Difficult to Extinguish
 
  Though the data show EV fires to be rarer than fires in gasoline cars, EV car fires burn hotter and for a longer period of time. In gas cars there's usually a single reaction, like a spark in a puddle of gasoline, that leads to the fire and that reaction eventually burns down. When an EV's lithium-ion battery ignites the battery burns the energy stored inside, becoming the fire's main source of energy and taking much longer to expend itself.
@@ -50,8 +59,9 @@ Related: [How Does an Electric Vehicle Work?](https://instagram-video-recordings
  Since first responders are mostly trained in how to extinguish fires in a gasoline car, they can have trouble putting out an EV fire because it behaves differently. Instead of cooling down the part of the car a firefighter normally would, they need to [direct water to the underside](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU205730/https://www.youtube.com/watch?v=J6eS6JzBn0k&%3Bt=13s) of the vehicle where the battery pack sits. Stored energy left over inside the battery, called stranded energy, can cause the battery to reignite hours or even days after the initial fire is extinguished if that energy is not properly dealt with.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  What Can Cause an EV to Catch Fire?
 
  Multiple factors can start a fire in an electric car, mostly pertaining to the battery. If the battery is damaged in a crash, for example, it can cause a short circuit in one or more of the lithium-ion cells and start a thermal runaway chain reaction.
@@ -61,8 +71,9 @@ Related: [How Does an Electric Vehicle Work?](https://instagram-video-recordings
  Age may also be a factor. There isn't enough data yet to show whether electric car batteries that are, say, 20 years old are more of a fire risk but it is something to be aware of as the [components may degrade over time](https://youtube-web.techidaily.com/ed-in-2024-youtubes-earnings-go-up-with-500-subs/) with hard use and poor maintenance.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Should You Worry About Electric Car Fires?
 
  The bottom line at the time of writing is that EV fires are far rarer than fires in gasoline cars. They're also much hotter, burn for longer periods, and can therefore be very dangerous.
@@ -77,8 +88,6 @@ Related: [Why Does an Electric Car's Battery Degrade?](https://youtube-web.techi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -86,4 +95,21 @@ Related: [Why Does an Electric Car's Battery Degrade?](https://youtube-web.techi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/updated-technical-savvy-selecting-the-best-capture-tools/"><u>[Updated] Technical Savvy Selecting the Best Capture Tools</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effortless-file-sharing-top-7-methods-to-move-data-from-iphone-to-computer/"><u>Effortless File Sharing: Top 7 Methods to Move Data From iPhone to Computer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-history-behind-yahoo-messengers-discontinuation/"><u>Exploring the History Behind Yahoo! Messenger's Discontinuation</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-discovering-individual-email-addresses-with-precision/"><u>Guide: Discovering Individual Email Addresses with Precision</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-poco-c51-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-effortlessly-sync-a-bluetooth-audio-device-with-your-computer/"><u>How To Effortlessly Sync A Bluetooth Audio Device With Your Computer</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-from-the-apple-iphone-14-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock From the Apple iPhone 14 Without Previous Owner?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-securely-install-your-arduino-device-drivers-on-a-windows-operating-system/"><u>How To Securely Install Your Arduino Device Drivers on a Windows Operating System</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-dimensions-of-dreaming-vrs-story/"><u>In 2024, Dimensions of Dreaming VR's Story</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-oppo-a2-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Oppo A2</u></a></li>
+<li><a href="https://windows11.techidaily.com/race-the-rate-unveiling-windows-techniques-for-measuring-ethernet-speed/"><u>Race the Rate: Unveiling Windows Techniques for Measuring Ethernet Speed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-achieving-verification-status-on-the-new-x-platform/"><u>Step-by-Step Guide: Achieving Verification Status on the New X Platform</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-walkthrough-for-downloading-and-using-fandango-on-fire-stick/"><u>Ultimate Walkthrough for Downloading and Using Fandango on Fire Stick</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-wi-fi-call-technology-and-its-impact-on-communication/"><u>Understanding Wi-Fi Call Technology and Its Impact on Communication</u></a></li>
+</ul></div>
 

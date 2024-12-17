@@ -1,7 +1,7 @@
 ---
 title: "Global Sales Rankings Updated: IPhones Reign Supreme with Seven of the Highest Selling Phones, According to ZDNet Analysis"
-date: 2024-12-04T01:31:54.528Z
-updated: 2024-12-10T18:33:05.277Z
+date: 2024-12-16T16:04:38.735Z
+updated: 2024-12-17T16:01:32.031Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,18 +109,16 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-50plus-motivational-messages-from-tiktok-stars/"><u>[New] 50+ Motivational Messages From TikTok Stars</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-art-of-video-integration-youtube-meets-microsoft-powerpoint/"><u>[Updated] The Art of Video Integration YouTube Meets Microsoft PowerPoint</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1-apple-tv-os-evolution-unveiling-the-secrets-of-homeos-in-latest-developer-preview-insights/"><u>1. Apple TV OS Evolution: Unveiling the Secrets of 'homeOS' In Latest Developer Preview - Insights</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/budget-friendly-xr-spectacles-overcome-tech-envy-with-apples-latest-innovation-techsavvy-review/"><u>Budget-Friendly XR Spectacles Overcome Tech Envy with Apple's Latest Innovation | TechSavvy Review</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comparing-iphone-16-pro-and-iphone-14-pro-evaluating-if-the-new-release-justifies-an-upgrade-tech-insights/"><u>Comparing iPhone 16 Pro and iPhone 14 Pro: Evaluating if the New Release Justifies an Upgrade | Tech Insights</u></a></li>
-<li><a href="https://win-dash.techidaily.com/compatible-hp-ethernet-driver-updates-for-windows-1087-computers/"><u>Compatible HP Ethernet Driver Updates for Windows 10/8/7 Computers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-personal-connections-in-ai-technology-with-apples-vision-pro-query-innovation-digest/"><u>Exploring Personal Connections in AI Technology with Apple's Vision Pro Query | Innovation Digest</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/hoe-je-missen-van-toegeven-terug-te-krijgen-verloren-bestanden-herstellen-in-de-eigen-stad-vanaf-playstation-portable-psp/"><u>Hoe Je Missen Van Toegeven Terug Te Krijgen: Verloren Bestanden Herstellen In De Eigen Stad Vanaf PlayStation Portable (PSP)</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-10-leading-budget-friendly-quality-webcall-providers/"><u>In 2024, 10 Leading Budget-Friendly, Quality Webcall Providers</u></a></li>
-<li><a href="https://review-topics.techidaily.com/master-your-gadgets-discover-in-depth-guides-on-toms-hardware-hub/"><u>Master Your Gadgets: Discover In-Depth Guides on Tom's Hardware Hub</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/pinnacle-of-picture-perfection-with-video-enhance-v22/"><u>Pinnacle of Picture Perfection with Video Enhance V2.2</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unraveling-the-mystery-of-cmos-checksum-issues-a-comprehensive-guide-to-repair/"><u>Unraveling the Mystery of CMOS Checksum Issues – A Comprehensive Guide to Repair</u></a></li>
-<li><a href="https://blog-min.techidaily.com/mp3wav-moveavi/"><u>온라인 MP3/WAV 자유성 대중화를 위한 Moveavi의 무료 변환기</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-virtual-playstation-experience-at-your-fingertips-top-5/"><u>[New] 2024 Approved Virtual PlayStation Experience at Your Fingertips (Top 5)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-cherished-holiday-hits-our-top-10-family-friendly-films/"><u>[New] Cherished Holiday Hits Our Top 10 Family-Friendly Films</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-streamlining-your-iphones-album-organization-and-icloud-connection-for-2024/"><u>[Updated] Streamlining Your iPhone's Album Organization and iCloud Connection for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/st-intro-maker-apps-for-iphone-and-android-for-2024/"><u>10 Best Intro Maker Apps for iPhone and Android for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-guide-to-navigating-atandt-wireless-roaming-charges-and-policies/"><u>A Guide to Navigating AT&T Wireless Roaming Charges & Policies</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-oppo-reno-11f-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Oppo Reno 11F 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/audacity-lame-dll-crashes-easy-fixes-and-workarounds-you-cant-miss/"><u>Audacity Lame DLL Crashes: Easy Fixes and Workarounds You Can't Miss!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/parental-supervision-in-the-digital-age-how-google-family-link-can-help-safeguard-your-childs-online-experience/"><u>Parental Supervision in the Digital Age: How Google Family Link Can Help Safeguard Your Child's Online Experience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-wireless-connection-problems-for-the-surface-pro-user/"><u>Resolving Wireless Connection Problems for the Surface Pro User</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-booking-your-visit-at-the-apple-store/"><u>Step-by-Step Guide: Booking Your Visit at the Apple Store</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-brain-of-your-device-examining-android-system-intellect/"><u>The Brain of Your Device: Examining Android System Intellect</u></a></li>
 </ul></div>
 

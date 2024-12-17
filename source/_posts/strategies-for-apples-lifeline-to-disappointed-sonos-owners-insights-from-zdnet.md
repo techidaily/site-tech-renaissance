@@ -1,7 +1,7 @@
 ---
 title: "Strategies for Apple's Lifeline to Disappointed Sonos Owners: Insights From ZDNet"
-date: 2024-12-05T06:05:41.357Z
-updated: 2024-12-11T10:03:55.650Z
+date: 2024-12-14T16:00:45.400Z
+updated: 2024-12-17T16:02:17.292Z
 tags:
   - apple
 categories:
@@ -29,10 +29,14 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to customize your iPhone's new Control Center with iOS 18
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Access Control Center
 
@@ -41,7 +45,7 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -51,6 +55,10 @@ You can move any of the current controls on the first screen. To start, tap the 
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Resize a control
 
@@ -64,10 +72,6 @@ Next, you can directly delete a control you don't need or want. With the icons i
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Add a control to an existing screen
 
 You can easily add a control to any screen that has available space. Pick a screen with some empty space at the bottom. After tapping the plus icon, tap the command for "Add a Control." Browse the screens of accessible controls until you find the one you want to add. You can also look for a specific control by name through the Search field at the top. Tap the control, and it should appear in the available space, where you can move or resize it if you wish.
@@ -77,7 +81,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -85,10 +89,6 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,19 +126,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-essential-skills-androids-screen-recording-functionality/"><u>[New] In 2024, Essential Skills Android's Screen Recording Functionality</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-expert-advice-on-maximizing-fidelity-in-vr-recording/"><u>[New] In 2024, Expert Advice on Maximizing Fidelity in VR Recording</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-charting-success-with-these-top-15-youtube-introduction-techniques-for-2024/"><u>[Updated] Charting Success with These Top 15 YouTube Introduction Techniques for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apples-strategies-for-safeguarding-cloud-processed-ai-information-what-you-need-to-know-and-why-it-matters-zdnet/"><u>Apple's Strategies for Safeguarding Cloud-Processed AI Information: What You Need to Know (and Why It Matters) | ZDNet</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/customizing-input-devices-a-detailed-walkthrough-for-tweaking-mouse-and-touchpad-settings-in-control-panel-by-yl-computing/"><u>Customizing Input Devices: A Detailed Walkthrough for Tweaking Mouse and Touchpad Settings in Control Panel by YL Computing</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-finest-selection-of-prime-day-laptop-bargains-still-on-offer-featuring-selections-by-hp-apple-and-razer/"><u>Discover the Finest Selection of Prime Day Laptop Bargains Still On Offer: Featuring Selections by HP, Apple and Razer</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-new-iphone-12s-upgraded-charging-capability-with-qi2-standard-independently-of-magsafe-znet/"><u>Discover the New iPhone 12'S Upgraded Charging Capability with Qi2 Standard, Independently of MagSafe | Znet</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/expert-tips-for-stunning-iphone-close-ups-and-macros-for-2024/"><u>Expert Tips for Stunning iPhone Close-Ups & Macros for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-non-youtube-havens-for-unparalleled-video-streaming/"><u>In 2024, Non-Youtube Havens for Unparalleled Video Streaming</u></a></li>
-<li><a href="https://win-dash.techidaily.com/logitech-supported-audio-device-drivers-for-microsoft-operating-systems-windows-10-7-and/"><u>Logitech Supported Audio Device Drivers for Microsoft Operating Systems (Windows 10, 7 &</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/tackling-windows-blue-screen-with-expertise/"><u>Tackling Windows Blue Screen with Expertise</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-the-premium-titanium-apple-watch-band-the-top-pick/"><u>Ultimate Guide to the Premium Titanium Apple Watch Band - The Top Pick!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unbeatable-presidents-day-savings-real-time-offers-from-major-retailers-like-amazon-walmart-and-best-buy-zdnet-insider-info/"><u>Unbeatable Presidents' Day Savings: Real-Time Offers From Major Retailers Like Amazon, Walmart, and Best Buy | ZDNET Insider Info</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/why-im-holding-off-on-the-2023-mac-mini-for-the-exciting-features-of-the-new-mac-studio-tech-insights-by-zdnet/"><u>Why I'm Holding Off on the 2023 Mac Mini for the Exciting Features of the New Mac Studio | Tech Insights by ZDNet</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-strategies-to-reinforce-stability-in-windows-10-photo-viewer/"><u>[New] In 2024, Strategies to Reinforce Stability in Windows 10 Photo Viewer</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-twitters-top-10-giggle-generators-for-2024/"><u>[New] Twitter's Top 10 Giggle Generators for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-editing-experience-workshop/"><u>[Updated] In 2024, Editing Experience Workshop</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-return-artisan-set/"><u>[Updated] Return Artisan Set</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-instructions-on-keeping-your-chromecast-updated/"><u>Comprehensive Instructions on Keeping Your Chromecast Updated</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-techniques-for-applying-a-blur-effect-on-your-backdrop-during-google-meet-calls/"><u>Effective Techniques for Applying a Blur Effect on Your Backdrop During Google Meet Calls</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/elevate-your-photos-utilizing-luts-in-adobes-image-editor-for-2024/"><u>Elevate Your Photos Utilizing LUTs in Adobe's Image Editor for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enhance-your-mobile-photography-skills-smooth-zoom-on-idevices/"><u>Enhance Your Mobile Photography Skills: Smooth Zoom on iDevices</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-critical-process-died-bsod-issue-on-your-pc-understanding-stop-code-0x0000003b/"><u>Fixing Critical Process Died BSOD Issue on Your PC: Understanding Stop Code 0X0000003B</u></a></li>
+<li><a href="https://article-files.techidaily.com/how-to-personalize-and-change-ringtones-on-your-iphone-for-2024/"><u>How to Personalize and Change Ringtones on Your iPhone for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-removing-your-facebook-live-video-tech-steps/"><u>In 2024, Removing Your Facebook Live Video Tech Steps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/insider-insights-on-samsungs-upcoming-galaxy-s25-ultra-what-to-expect-in-price-and-features-at-release/"><u>Insider Insights on Samsung's Upcoming Galaxy S25 Ultra – What to Expect in Price and Features at Release</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/psvr-2-unveiled-latest-updates-on-features-launch-date-and-pricing-details/"><u>PSVR 2 Unveiled: Latest Updates on Features, Launch Date & Pricing Details</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-download-realtek-alc892a-hd-audio-driver-for-windows-10/"><u>Quick Download: Realtek ALC892A HD Audio Driver for Windows 10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/walkthrough-for-removing-a-personal-identification-number-pin-from-microsofts-latest-os/"><u>Walkthrough for Removing a Personal Identification Number (PIN) From Microsoft's Latest OS</u></a></li>
 </ul></div>
 

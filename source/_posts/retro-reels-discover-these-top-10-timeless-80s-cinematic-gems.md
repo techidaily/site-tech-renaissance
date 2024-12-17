@@ -1,7 +1,7 @@
 ---
 title: "Retro Reels: Discover These Top 10 Timeless '80S Cinematic Gems"
-date: 2024-11-18T16:00:21.401Z
-updated: 2024-11-25T16:03:21.626Z
+date: 2024-12-12T16:00:22.890Z
+updated: 2024-12-17T16:09:06.608Z
 categories:
   - BestProducts
 description: "This Article Describes Retro Reels: Discover These Top 10 Timeless '80S Cinematic Gems"
@@ -54,6 +54,10 @@ of 17
 
 ![ManyBooks horror books](https://www.lifewire.com/thmb/VUNvSbfPj4JxsPpoQ-aeLSDRMoo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/manybooks-horror-66393c2957f74d4e887e11a46e63cbae.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  What We Like
 
 * Selection includes more than just classics and Creative Commons books.
@@ -82,7 +86,7 @@ of 17
 ![Open Library free fantasy books](https://www.lifewire.com/thmb/-ctO4xId9XQoiLRkftJcE3RwBc0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/open-library-free-books-90d83651ac8441ecbcf38bd648ad33ce.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  What We Like
@@ -106,6 +110,10 @@ of 17
 04
 
 of 17
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## [Librivox](https://librivox.org/)
 
@@ -136,6 +144,10 @@ of 17
 
 ![Google Play's top free ebooks](https://www.lifewire.com/thmb/rWdOx4g3sL9wBs75Gen-8fKmwLc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/google-play-free-books-7805ff6114d3413b981bad07ad9309a9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  What We Like
 
 * Saves books in your online account.
@@ -156,10 +168,6 @@ of 17
 06
 
 of 17
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## [Internet Archive](https://archive.org/details/texts)
 
@@ -192,10 +200,6 @@ of 17
 
 ![Authorama free book library](https://www.lifewire.com/thmb/lYssuu_g6PSku3pyk0pf5_swye8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/authorama-free-books-58fce73bc8574d86adfd5ea1ca34208f.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  What We Like
 
 * Easily readable format.
@@ -219,10 +223,6 @@ of 17
 08
 
 of 17
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## [Wikisource](https://wikisource.org/wiki/Main%5FPage)
 
@@ -249,7 +249,7 @@ of 17
 of 17
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## [Wikibooks](https://www.wikibooks.org/)
@@ -281,10 +281,6 @@ of 17
 
 ![free-ebooks.net romance books](https://www.lifewire.com/thmb/MFwV8nsWimWGfjT3kr47omFtjzM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/free-ebooks-romance-books-e1de021c14b64c58b4e148e0d206c144.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  What We Like
 
 * Diverse selection.
@@ -310,7 +306,7 @@ of 17
 ![The Online Books Page](https://www.lifewire.com/thmb/NtXfFY_H2MOVz3zuO7C0KZ49Fs8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/online-books-page-292c14fbd74942d0bb05d4b5241be408.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  What We Like
@@ -334,10 +330,6 @@ of 17
 12
 
 of 17
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## [eBooks.com](https://www.ebooks.com/free)
 
@@ -370,7 +362,7 @@ of 17
 ![International Children's Digital Library](https://www.lifewire.com/thmb/BfmcMPozUonvQpPrd_lOJrsHPRk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/international-childrens-digital-library-2bc17e8bfa0c4a8f87f80e695d36b273.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  What We Like
@@ -393,13 +385,13 @@ of 17
 
 of 17
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [Everand](https://www.everand.com)
 
 ![The Everand home page](https://www.lifewire.com/thmb/_RKXRhYWjNmhnh4iDOAdnWVgFSU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Everand-dc93d107c8644c8c96c22fb35117be3b.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  What We Like
 
@@ -447,6 +439,10 @@ of 17
 
 of 17
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [Sacred Texts](https://www.sacred-texts.com/)
 
 ![The home page for the Internet Sacred Text Archive website](https://www.lifewire.com/thmb/ntP2NHa4fP5BSlaszy1nVXzXXVA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sacred-texts-e689ebc376f646b59b8c7af55726591b.png)
@@ -475,6 +471,10 @@ of 17
 ## [SlideShare](https://www.slideshare.net/)
 
 ![The Slideshare home page](https://www.lifewire.com/thmb/u86635z-EttY7kv47Qh_qv5FUwE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Slideshare-1843ff9a9d0c41389449798ac5a4aecf.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  What We Like
 
@@ -523,17 +523,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-top-7-free-apps-for-tiktok-creations-on-macos-devices/"><u>[New] In 2024, Top 7 Free Apps for TikTok Creations on MacOS Devices</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-inside-look-what-makes-asmr-special/"><u>[Updated] 2024 Approved Inside Look What Makes ASMR Special</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-unlicensed-music-for-games-top-10-online-hits/"><u>[Updated] In 2024, Unlicensed Music for Games - Top 10 Online Hits</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-total-control-guide-powerdirector-user-manual-for-2024/"><u>[Updated] Total Control Guide PowerDirector User Manual for 2024</u></a></li>
-<li><a href="https://win-community.techidaily.com/clear-viewing-experience-restored-comprehensive-solutions-for-sharpening-your-4k-tvs-picture-quality/"><u>Clear Viewing Experience Restored: Comprehensive Solutions for Sharpening Your 4K TV's Picture Quality</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-best-10-action-cams-steady-shooting-excellence/"><u>In 2024, Best 10 Action Cams Steady Shooting Excellence</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/matrix-series-viewing-guide-watch-all-films-sequentially/"><u>Matrix Series Viewing Guide: Watch All Films Sequentially</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-deploying-chatbots-on-your-discord-platform/"><u>Step-by-Step Tutorial: Deploying Chatbots on Your Discord Platform</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/tackling-vpn-issue-step-by-step-guide-for-resolving-error-800-on-clients-and-servers/"><u>Tackling VPN Issue: Step-by-Step Guide for Resolving Error 800 on Clients and Servers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-story-of-facebook-how-it-started-became-a-hit-and-its-prime-features/"><u>The Story of Facebook: How It Started, Became a Hit, and Its Prime Features</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-ultimate-top-5-iphone-podcast-apps-guide/"><u>The Ultimate Top 5 iPhone Podcast Apps Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-tutorial-operating-the-measure-application-on-android-phones/"><u>The Ultimate Tutorial: Operating the Measure Application on Android Phones</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-award-winners-in-writing-for-different-movie-types-for-2024/"><u>[New] Award Winners in Writing for Different Movie Types for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-key-iphone-shot-design-guidelines-unveiled/"><u>[New] Key iPhone Shot Design Guidelines Unveiled</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-broadcast-your-curated-playlist-with-ease-for-2024/"><u>[Updated] Broadcast Your Curated Playlist with Ease for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/beat-windows-error-code-31-with-these-simple-troubleshooting-steps/"><u>Beat Window’s Error Code 31 with These Simple Troubleshooting Steps!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/find-your-insignias-vga-driver-a-comprehensive-download-and-setup-tutorial/"><u>Find Your Insignia's VGA Driver: A Comprehensive Download and Setup Tutorial</u></a></li>
+<li><a href="https://fox-that.techidaily.com/improve-iphone-safari-speed-with-these-4-proven-tricks/"><u>Improve iPhone Safari Speed with These 4 Proven Tricks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-precision-and-performance-in-every-shade-the-eizo-cg318-4k-monitor/"><u>In 2024, Precision and Performance in Every Shade – The EIZO CG318-4K Monitor</u></a></li>
+<li><a href="https://win-blog.techidaily.com/stop-ghost-recon-breakpoint-from-crashing-now-with-easy-steps/"><u>Stop Ghost Recon Breakpoint From Crashing Now with Easy Steps!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-contrast-of-virtual-realms-meta-vs-omni-universe-for-2024/"><u>The Contrast of Virtual Realms Meta Vs. Omni Universe for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-usa-vpn-free-trial-for-privacy-security-unblocking/"><u>Top USA VPN [Free Trial] - for Privacy, Security, Unblocking</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshoot-and-repair-comprehensive-steps-for-a-malfunctioning-logitech-k750-keyboard/"><u>Troubleshoot & Repair: Comprehensive Steps for a Malfunctioning Logitech K750 Keyboard</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-eliminate-latency-in-wireless-keyboards-for-a-smooth-windows-operation/"><u>Troubleshooting Guide: Eliminate Latency in Wireless Keyboards for a Smooth Windows Operation</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-fixes-to-bring-back-colour-addressing-the-bandw-display-problem-on-windows-10/"><u>Ultimate Fixes to Bring Back Colour: Addressing the B&W Display Problem on Windows 10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-installing-netflix-on-kodi-a-beginner-friendly-approach/"><u>Ultimate Guide to Installing Netflix on Kodi - A Beginner-Friendly Approach</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-capturing-your-screen-easily-on-a-laptop/"><u>Ultimate Guide: Capturing Your Screen Easily On A Laptop</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-enhancing-performance-and-efficiency-in-windows-10/"><u>Ultimate Guide: Enhancing Performance and Efficiency in Windows 10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-rundll32exe-identification-and-response-strategies/"><u>Understanding rundll32.exe: Identification & Response Strategies</u></a></li>
 </ul></div>
 

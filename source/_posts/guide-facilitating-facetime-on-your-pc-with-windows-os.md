@@ -1,7 +1,7 @@
 ---
 title: "Guide: Facilitating FaceTime on Your PC with Windows OS"
-date: 2024-08-26T07:27:02.880Z
-updated: 2024-08-27T07:27:02.880Z
+date: 2024-12-13T01:20:14.853Z
+updated: 2024-12-16T23:32:34.790Z
 categories:
   - BestProducts
 description: "This Article Describes Guide: Facilitating FaceTime on Your PC with Windows OS"
@@ -19,14 +19,33 @@ thumbnail: https://thmb.techidaily.com/13fc80b5d967307ffa59212655cd04104762f09d1
 1. Go to the[Microsoft Student and Military Discounts site](https://www.microsoft.com/en-us/store/r/student-discounts) , log in with your Microsoft account, and click**Shop Now** .  
 ![A screenshot of the Microsoft Student and Military Discounts site.](https://www.lifewire.com/thmb/X2vwXV9ttV8LhYs5flrq2E9F4I4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-get-a-microsoft-store-student-discount-c8d2274843014bbb90c744cecc473495.jpg)
 2. The site tells you you're eligible for special pricing. Select**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![A screenshot of the Microsoft Student Discount confirmation notice.](https://www.lifewire.com/thmb/_opw21hzYkn3V9Wb_mLqP5iLV7U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-get-a-microsoft-store-student-discount-3eae80c050da4116adf04508a1cb8e42.jpg)
 3. Select**Student Deals** from the list of store categories.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Microsoft online store.](https://www.lifewire.com/thmb/AgZeGz5ITQKUJ8jp0pIPIsbbSzI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-get-a-microsoft-store-student-discount-51ae65ba3fbc4b11b3eee0030822ec9e.jpg)
 4. Locate the software or device you want to buy, and add it to your cart.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Adding an item to your cart.](https://www.lifewire.com/thmb/syXuUKJeVh9EZEPIoxTMwY8Li3g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-get-a-microsoft-store-student-discount-0d1004a1092e4a5dbf63a1905d0fa237.jpg)
 5. Complete the checkout process.  
 ![Checking out at the online Microsoft store.](https://www.lifewire.com/thmb/gF3Dy3jJNOJlbYJPatebpx5EyGw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-how-to-get-a-microsoft-store-student-discount-011f2569dab04dcb8c3c942c4cba5e55.jpg)  
  If you choose to pick up your order at a local Microsoft store, remember to bring your student ID. Microsoft doesn't verify enrollment during online purchases, but they may ask for proof of enrollment during pickup.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Who Is Eligible for Microsoft's Student Discount?
 
@@ -39,8 +58,9 @@ thumbnail: https://thmb.techidaily.com/13fc80b5d967307ffa59212655cd04104762f09d1
 ![Person accessing the Microsoft student discount on a phone.](https://www.lifewire.com/thmb/h1sE0kaVMIxmUmfOCw7SnD4v-cI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/microsoftstudentdiscount-3fb8972d9f274cb5a0c5dbc2bc56beb1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Does Microsoft's Student Discount Get You?
 
  The Microsoft student discount typically provides up to 10-percent savings on hardware like desktop computers, laptops, and tablets. It also grants free access to some software, like Office 365.
@@ -52,9 +72,6 @@ Certain items are specifically excluded, including:
 * Personalized and customized items.
 * Gift cards and subscriptions to services like Xbox Game Pass.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How Does Microsoft Verify Student Enrollment?
 
  When you request the student discount at a physical Microsoft store, you need to show your student ID or some another supporting document like a class schedule, transcript, or acceptance letter.
@@ -85,8 +102,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -94,4 +109,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-secrets-to-successfully-obtain-windows-movie-maker-6/"><u>[New] In 2024, Secrets to Successfully Obtain Windows Movie Maker 6</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-comprehensive-look-at-yahoo-messenger-and-the-decision-to-discontinue/"><u>A Comprehensive Look at Yahoo! Messenger & The Decision to Discontinue</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/affordable-tech-on-campus-navigating-your-way-to-microsoft-student-discount-deals/"><u>Affordable Tech on Campus: Navigating Your Way to Microsoft Student Discount Deals</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/boost-views-through-effective-youtube-thumbnail-selection-for-2024/"><u>Boost Views Through Effective YouTube Thumbnail Selection for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-tips-and-solutions-to-resolve-the-avcodecdll-missing-file-issue/"><u>Easy Tips and Solutions to Resolve the avcodec.dll Missing File Issue</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/global-language-popularity-top-15-ranking/"><u>Global Language Popularity: Top 15 Ranking</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-itel-s23-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Itel S23</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-obs-vs-twitch-studio-which-is-better/"><u>In 2024, OBS Vs Twitch Studio Which Is Better?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-amd-radeon-wattman-malfunction-crashed-and-restored-expert-troubleshooting-guide/"><u>Resolving AMD Radeon Wattman Malfunction: Crashed and Restored - Expert Troubleshooting Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/seven-handy-gadgets-and-accessories-for-your-sunny-season-edc-kit/"><u>Seven Handy Gadgets and Accessories for Your Sunny Season EDC Kit</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/step-by-step-guide-removing-digital-rights-management-drm-from-dvd-media-on-computers/"><u>Step-by-Step Guide: Removing Digital Rights Management (DRM) From DVD Media on Computers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-12-best-free-voip-services-a-comprehensive-guide/"><u>Top 12 Best Free VoIP Services : A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/winning-against-error-28-a-comprehensive-guide-for-windows-users/"><u>Winning Against Error ^[[2][8]: A Comprehensive Guide for Windows Users</u></a></li>
+</ul></div>
 

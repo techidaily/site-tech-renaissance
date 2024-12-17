@@ -1,7 +1,7 @@
 ---
 title: Discover the New PlayStation Portal - Timetable for Release, Price Range, Device Details & Retailers Near You
-date: 2024-08-26T07:30:52.898Z
-updated: 2024-08-27T07:30:52.898Z
+date: 2024-12-14T03:45:36.638Z
+updated: 2024-12-17T04:46:28.668Z
 categories:
   - BestProducts
 description: This Article Describes Discover the New PlayStation Portal - Timetable for Release, Price Range, Device Details & Retailers Near You
@@ -21,24 +21,34 @@ thumbnail: https://www.lifewire.com/thmb/7u-yGGkv8opvFKXgYgl5GmH7PQU=/400x300/fi
 
  Sony's PlayStation Portal (formerly Project Q), a handheld device that lets you stream games from your PS5, is out now. Here are all of the details.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  PlayStation Portal Release Date 
 
  The Playstation Portal launched November 15, 2023\. Sony first revealed the handheld device at its showcase in May 2023.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## PlayStation Portal Price 
 
  The PlayStation Portal costs $199.99.  
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Where to Buy 
 
  You can[ order PlayStation Portal directly from Sony](https://direct.playstation.com/en-us/buy-accessories/playstation-portal-remote-player) . You can also pick it up from other electronics retailers like Target, Amazon, and Best Buy.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  PlayStation Portal Specs and Features 
 
  PlayStation Portal has all the main features of the DualSense, including adaptive triggers, vibration, and a speaker. Sony has opted for an LCD screen rather than OLED, likely to help keep the production costs down.
@@ -57,8 +67,9 @@ thumbnail: https://www.lifewire.com/thmb/7u-yGGkv8opvFKXgYgl5GmH7PQU=/400x300/fi
 [  Sony Pulse Elite Headset: News, Price, Release Date, and Specs ](https://www.lifewire.com/sony-pulse-elite-headset-8419539) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Latest News About the PlayStation Portal 
 
  You can get[ more gaming news from Lifewire](https://www.lifewire.com/gaming-news-4797039) . Meanwhile, here are some stories about Sony and its other gaming products:
@@ -77,8 +88,6 @@ thumbnail: https://www.lifewire.com/thmb/7u-yGGkv8opvFKXgYgl5GmH7PQU=/400x300/fi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -86,4 +95,24 @@ thumbnail: https://www.lifewire.com/thmb/7u-yGGkv8opvFKXgYgl5GmH7PQU=/400x300/fi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-efficient-steps-for-capturing-iphone-screens/"><u>[New] Efficient Steps for Capturing iPhone Screens</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-viral-visuals-photos-and-their-lives/"><u>[Updated] 2024 Approved Viral Visuals Photos and Their Lives</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-convert-tweets-into-audible-format-with-ease-for-2024/"><u>[Updated] Convert Tweets Into Audible Format with Ease for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/amd-radeon-graphics-card-firmware-update-v2410/"><u>AMD Radeon Graphics Card Firmware Update V24.10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/before-you-invest-in-a-wrist-companion-the-five-must-know-criteria-for-smartwatch-shoppers/"><u>Before You Invest in a Wrist Companion: The Five Must-Know Criteria for Smartwatch Shoppers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/clearing-space-easy-ways-to-delete-apps-on-a-samsung-television-set/"><u>Clearing Space: Easy Ways to Delete Apps on a Samsung Television Set</u></a></li>
+<li><a href="https://solve-news.techidaily.com/cookiebot-enabled-optimize-your-site-with-advanced-analytics/"><u>Cookiebot-Enabled: Optimize Your Site with Advanced Analytics</u></a></li>
+<li><a href="https://blog-min.techidaily.com/demystifying-dvd-picture-quality-common-questions-answered/"><u>Demystifying DVD Picture Quality: Common Questions Answered</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-advice-on-correcting-wmvcoredll-not-found-problems/"><u>Expert Advice on Correcting 'Wmvcore.dll Not Found' Problems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-secrets-of-duckduckgo-how-safe-is-it-really-for-internet-searching/"><u>Exploring the Secrets of DuckDuckGo - How Safe Is It Really for Internet Searching?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-troubleshoot-and-repair-hp-screen-drivers-on-win-1087/"><u>How To Troubleshoot and Repair HP Screen Drivers on Win 10/8/7</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-lava-yuva-3-pro-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Lava Yuva 3 Pro Unlock Without Password</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722875427456-kids-ultimate-game-list-7-amazing-online-adventures-awaits/"><u>Kids' Ultimate Game List: 7 Amazing Online Adventures Awaits</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-the-art-of-inserting-text-overlays-in-instagram-story-mode/"><u>Master the Art of Inserting Text Overlays in Instagram Story Mode</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-fix-for-msvcr120dll-non-existence-on-computers/"><u>The Ultimate Fix for MSVCR120.DLL Non-Existence on Computers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-for-a-smooth-netflix-experience-amidst-ui-800-3-glitches/"><u>Troubleshooting Tips for a Smooth Netflix Experience Amidst UI-800-3 Glitches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-photo-shortcut-insights/"><u>Windows Photo Shortcut Insights</u></a></li>
+</ul></div>
 

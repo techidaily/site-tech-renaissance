@@ -1,7 +1,7 @@
 ---
 title: "Explore Hidden Functions: Maximizing Your Experience with the Oculus Quest VR Gear's Best-Kept Secrets"
-date: 2024-08-30T14:41:03.573Z
-updated: 2024-08-31T14:41:03.573Z
+date: 2024-12-14T23:38:48.768Z
+updated: 2024-12-17T05:28:04.692Z
 tags:
   - cutting-edge
 categories:
@@ -27,13 +27,25 @@ thumbnail: https://thmb.techidaily.com/c76014f183cb941dddc5e361ad7d0edd6dead041e
 
  The Meta Quest VR headsets are brilliant standalone [VR systems](https://vp-tips.techidaily.com/visual-harmony-ios-and-macos-photoviewer-blend/) packed with accessible games and experiences, but these affordable VR machines can do much more than you may realize. These are ten of the coolest features you should try today.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  1\. Mixed Reality
 
  The cameras on the outside of the Quest headset were originally meant for nothing more than [environmental tracking](https://tech-savvy.techidaily.com/windows-10-visual-recall-a-step-by-step-screenshot-tutorial/), but now they can be used for Mixed Reality (MR) applications as well. Depending on the app, this means that you can bring real-world objects into VR. The Quest itself allows you to see your [real-world couch in VR](https://uploadvr.com/oculus-quest-couch-guardian/), and pair and track a [limited number of keyboard models](https://store.facebook.com/help/quest/articles/headsets-and-accessories/meta-quest-accessories/Tracked%20Keyboards%20for%20Meta%20Quest%202/). Apps like [PianoVision](https://www.oculus.com/experiences/quest/5271074762922599/) let you play a real piano in VR, learning as you go.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. The Passthrough Mode Shortcut
 
 ![Quest Passthrough](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/Quest-Passthrough.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _[Meta](https://twitter.com/MetaQuestVR/status/1315004172518010881/photo/1)_
 
@@ -49,9 +61,17 @@ _[Meta](https://store.facebook.com/help/quest/articles/headsets-and-accessories/
 
  The Touch controllers that come with the Quest are great, but you can ditch them entirely and use your bare hands to navigate the Quest UI and even play a few games. After you've [enabled hand-tracking](https://store.facebook.com/help/quest/articles/headsets-and-accessories/controllers-and-hand-tracking/hand-tracking-quest-2/) you'll find that many non-gaming apps, such as web browsers, or streaming video are much more comfortable to use if you don't have to fumble for a controller all the time. There are also a few brilliant games built around this feature, offering an entirely different kind of VR immersion.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4\. PC VR!
 
 ![Half Life Alyx Official Screenshot](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/Alyx.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _[Valve](https://store.steampowered.com/app/546560/HalfLife%5FAlyx/)_
 
@@ -65,40 +85,26 @@ _[Valve](https://store.steampowered.com/app/546560/HalfLife%5FAlyx/)_
 
  This will impact battery life, but there are a few [Quest games](https://uploadvr.com/every-game-120hz-quest-2/) that take advantage of this refresh rate. If you're using your Quest for PC VR with a USB-C cable, battery life concerns obviously don't apply.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ##  6\. Keyboard and Controller Support
 
 ![An Xbox controller](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/xbox-wireless-controller.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 Microsoft
 
  We mentioned that the Quest headsets could be paired with some models of Bluetooth keyboard above, but you can also pair a gamepad to your Quest, which will work with certain games and apps. For example, you can use a controller with Tetris Effect or Virtual Desktop. Just follow the [steps to pair a gamepad](https://store.facebook.com/help/quest/articles/headsets-and-accessories/controllers-and-hand-tracking/gamepad-with-oculus-quest-2/), and you're set.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  7\. Fitness Tracking
 
 ![Fit XR Official Screenshot](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/Fit-XR.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 _[Fit XR](https://fitxr.com/)_
 
  There are many great fitness apps on Quest, and VR is a great way to stay active even when you're not playing something specifically meant as exercise. So it makes sense that Meta added a feature called [Oculus Move](https://www.oculus.com/blog/oculus-move-updates-track-your-vr-fitness-stats-and-goals-outside-your-headset/) to track how much exercise you're getting while in VR. Best of all, if you use an iPhone or Apple Watch to track your fitness, you can sync your Quest data directly to Apple Health. Quest Move can be found in your VR app library.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  8\. Voice Commands
 
  Navigating VR in a Quest is pretty intuitive, but why use your hands when you can just say what you want to happen? Like a smartphone, Quest has voice commands you can activate by turning the option on in the Settings menu or your Quick Settings panel. From there, you can say "Hey Facebook' or double-press the right controller Quest button and then use a command from an [extensive list](https://store.facebook.com/help/quest/articles/in-vr-experiences/oculus-features/what-can-I-say-with-voice-commands/) for social media, apps, taking captures, controlling the device, and even FAQs.
@@ -107,22 +113,20 @@ _[Fit XR](https://fitxr.com/)_
 
  It's cool to cast your VR viewpoint to the Meta app so that others can see what you're seeing, but what's even cooler is projecting yourself into VR and then capturing that on video. If you have a [supported iPhone model and VR game](https://store.facebook.com/help/quest/articles/in-vr-experiences/oculus-features/mobile-mixed-reality-camera/), you can stream or record videos of yourself in VR, although you will need the help of a friend to do the camera work!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  10\. Casting to a TV
 
 ![A man using a Quest VR headset with the visuals casting to a TV on the wall.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/Quest-TV-Cast.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 Sydney Butler / How-To Geek
 
  Casting your Quest to the Meta app is great, but you can only share your experience with a limited number of people huddled around your tiny phone screen. The good news is that you can [cast your Quest 2](https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-se-2020-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/) to any Chromecast or Chromecast-compatible TV or device.
 
 ![31NvkemfRkL._SL500_-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/31nvkemfrkl-_sl500_-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #####  Chromecast 3rd-Generation
 
 $42 $50 Save $8 
@@ -131,9 +135,6 @@ The Google Chromecast is a simple device that acts as a bridge between your TV a
 
 [$42 at Amazon](https://www.amazon.com/Google-Chromecast-Generation-Media-Streamer/dp/B07M9BKHNZ/) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ##  More Features Are Coming
 
  The engineers at Meta seem to be constantly coming up with new ways to use the existing hardware on Quest Headsets, even while they [work on the Quest 3](https://visual-screen-recording.techidaily.com/2024-approved-a-visual-journey-through-pc-games-snapping-the-best/). Third-party app developers are also constantly innovating within the capabilities of these devices, so we're sure it won't be long before even more amazing features make their debut on these affordable VR systems.
@@ -144,8 +145,6 @@ The Google Chromecast is a simple device that acts as a bridge between your TV a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,4 +152,24 @@ The Google Chromecast is a simple device that acts as a bridge between your TV a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-invisible-broadcasts-anonymous-instagram-live-tips/"><u>[Updated] 2024 Approved Invisible Broadcasts Anonymous Instagram Live Tips</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-score-high-with-these-superior-waterproof-video-gadgets/"><u>[Updated] Score High With These Superior Waterproof Video Gadgets</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/access-hidden-notifications-in-your-iphones-history-tutorial-included/"><u>Access Hidden Notifications in Your iPhone's History - Tutorial Included!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/correcting-xinput13dll-not-present-expert-tips-and-tricks/"><u>Correcting 'xinput1_3.dll' Not Present: Expert Tips and Tricks</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/creating-thriving-giveaways-a-facebook-marketers-blueprint-for-2024/"><u>Creating Thriving Giveaways A Facebook Marketer's Blueprint for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/deciphering-nvidias-custom-ai-framework-who-can-access-it-and-why-you-should/"><u>Deciphering NVIDIA's Custom AI Framework – Who Can Access It and Why You Should</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diy-tech-support-tips-and-tricks-to-overcome-stop-error-0x00000078/"><u>DIY Tech Support: Tips and Tricks to Overcome Stop Error 0X00000078</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-steps-for-retrieving-saved-reels-in-the-instagram-app/"><u>Easy Steps for Retrieving Saved Reels in the Instagram App</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-honor-x50iplus-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor X50i+ without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ipad-printing-problems-heres-what-you-need-to-know/"><u>IPad Printing Problems? Here's What You Need to Know</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/premier-green-screen-tech-how-to-optimize-usage-for-2024/"><u>Premier Green Screen Tech How to Optimize Usage for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolve-vibratingflashing-screen-issues-on-microsoft-surface-pro-with-these-steps/"><u>Resolve Vibrating/Flashing Screen Issues on Microsoft Surface Pro with These Steps</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/the-essential-list-7-leading-generators-for-nft-artworks-for-2024/"><u>The Essential List 7 Leading Generators for NFT Artworks for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-road-to-silence-identifying-common-reasons-for-car-speaker-malfunction/"><u>The Road to Silence: Identifying Common Reasons for Car Speaker Malfunction</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-11-motivational-films-guaranteed-to-uplift-your-spirits/"><u>Top 11 Motivational Films Guaranteed to Uplift Your Spirits</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-for-connecting-a-second-screen-with-your-macbook/"><u>Troubleshooting Tips for Connecting a Second Screen with Your MacBook</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-samsung-galaxy-f04-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Samsung Galaxy F04? Here Is the Answer | Dr.fone</u></a></li>
+</ul></div>
 

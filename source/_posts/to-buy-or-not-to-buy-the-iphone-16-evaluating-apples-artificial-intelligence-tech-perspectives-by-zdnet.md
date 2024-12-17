@@ -1,7 +1,7 @@
 ---
 title: "To Buy or Not to Buy the iPhone 16: Evaluating Apple’s Artificial Intelligence Tech | Perspectives by ZDNet"
-date: 2024-12-04T04:51:07.009Z
-updated: 2024-12-10T17:04:36.427Z
+date: 2024-12-11T16:00:49.492Z
+updated: 2024-12-17T16:01:27.314Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ During [WWDC](https://www.zdnet.com/article/apple-wwdc-2024-recap-every-new-feat
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Apple Intelligence?
@@ -39,10 +39,6 @@ While we weren't expecting the company to unveil a slew of [flashy generative AI
 Apple was expected to focus on incorporating AI into its apps to simplify users' daily tasks, categorizing such AI features under the name "Apple Intelligence." We didn't miss the wordplay.
 
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What does Apple Intelligence do?
 
@@ -79,6 +75,10 @@ The voice assistant will also be able to perform hundreds of new actions across 
 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What's new in Apple's photo editing & search?
 
 Apple
@@ -92,7 +92,7 @@ Apple is adding natural language photo and video search to its Photos app. This 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does systemwide AI text generation work?
@@ -119,10 +119,6 @@ In the Notes app, for example, a new tool called Image Wand will let you circle 
 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
 
 Apple
@@ -134,10 +130,6 @@ When users make a Siri request that the voice assistant determines would be bett
 **Also: [Apple finally gave us the iPad app we've waited 14 years for at WWDC 2024](https://www.zdnet.com/article/apple-finally-gave-us-the-ipad-app-weve-waited-14-years-for-at-wwdc-2024/)**
 
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Will Apple Intelligence be processed on-device or in the cloud?
 
@@ -155,6 +147,10 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is Apple Intelligence actually private and secure?
 
 Apple
@@ -169,6 +165,10 @@ The company is striving to keep the AI features secure through several mechanism
 * **Independent code review:** With Private Cloud Compute, Apple explained that the code is available for independent experts to inspect and verify it meets privacy standards.
 * **Data encryption:** Apple encrypts all data sent to and from its servers as another layer of security.
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
 
@@ -210,19 +210,19 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-essential-tips-for-achieving-facebooks-trusted-marker-for-2024/"><u>[New] Essential Tips for Achieving Facebook's Trusted Marker for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-real-time-recording-rivalry-obs-versus-shadowreplay/"><u>[New] Real-Time Recording Rivalry OBS Versus ShadowReplay</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-quick-start-to-establishing-an-online-platform-for-tech-analysis/"><u>[Updated] Quick Start to Establishing an Online Platform for Tech Analysis</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-ultimate-tactics-to-record-lol-clashes/"><u>2024 Approved Ultimate Tactics to Record LOL Clashes</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/affordable-iphone-14-pro-max-enduring-power-and-more-features-that-will-impress-zdnet-review/"><u>Affordable iPhone 14 Pro Max - Enduring Power and More Features That Will Impress [ZDNet Review]</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apple-expands-its-reach-with-new-artificial-intelligence-training-available-to-thousands-of-academic-community-members/"><u>Apple Expands Its Reach with New Artificial Intelligence Training Available to Thousands of Academic Community Members</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/expert-advice-extracting-and-saving-tweets-video-files-in-android-for-2024/"><u>Expert Advice Extracting & Saving Tweets' Video Files in Android for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-xiaomi-redmi-12-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Xiaomi Redmi 12 Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-reigning-reddit-stars-10-all-time-favorites/"><u>In 2024, Reigning Reddit Stars 10 All-Time Favorites</u></a></li>
-<li><a href="https://techtrends.techidaily.com/stay-protected-updated-july-202-cuidate-con-sus-dispositivos-de-netgear-lista-de-contrasenas-predeterminadas/"><u>Stay Protected: Updated July 202 Cuidate Con Sus Dispositivos De Netgear - Lista De Contraseñas Predeterminadas</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-the-missing-d3dx924dll-file-step-by-step-instructions/"><u>Troubleshooting the Missing d3dx9_2‍​4.dll File - Step-by-Step Instructions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-choice-of-powerhouse-computers-unveiled-in-depth-review-of-samsungs-latest-laptop-versus-apples-stalwart-macbook-pro-zdnet-analysis/"><u>Ultimate Choice of Powerhouse Computers Unveiled: In-Depth Review of Samsung's Latest Laptop Versus Apple’s Stalwart MacBook Pro | ZDNET Analysis</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-future-of-tech-explore-how-artificial-intelligence-is-revolutionizing-iphones-macbooks-and-ipads-with-apples-latest-ai-innovations-insights-by25/"><u>Unveiling the Future of Tech: Explore How Artificial Intelligence Is Revolutionizing iPhones, MacBooks & iPads with Apple's Latest AI Innovations | Insights by ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/zdnet-reveals-how-siri-will-evolve-through-enhanced-ai-by-apple-anticipate-key-improvements-by-2cuary-2025/"><u>ZDNet Reveals How Siri Will Evolve Through Enhanced AI by Apple – Anticipate Key Improvements by 2Cuary 2025</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-zoom-meetings-for-beginners-a-comprehensive-introduction-guide-for-2024/"><u>[New] Zoom Meetings for Beginners A Comprehensive Introduction Guide for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-the-ultimate-guide-to-mp3-skype-recorder-record-skype-call-for-free-for-2024/"><u>[Updated] The Ultimate Guide to MP3 Skype Recorder| Record Skype Call For Free for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-itel-p40-frp-bypass-by-drfone-android/"><u>About Itel P40 FRP Bypass</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-guide-deleting-every-message-on-your-gmail-mobile-application/"><u>Complete Guide: Deleting Every Message on Your Gmail Mobile Application</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/demystifying-digital-tagging-an-in-depth-look-into-categorizing-content/"><u>Demystifying Digital Tagging: An In-Depth Look Into Categorizing Content</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-8-premier-free-html-editing-tools-for-windows-users/"><u>Discover the 8 Premier Free HTML Editing Tools for Windows Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-overcome-initialization-hurdles-with-mozilla-thunderbird/"><u>How to Overcome Initialization Hurdles with Mozilla Thunderbird</u></a></li>
+<li><a href="https://win-able.techidaily.com/improve-your-gaming-experience-by-eliminating-blurriness-in-call-of-duty-warzone-graphics-on-pc/"><u>Improve Your Gaming Experience by Eliminating Blurriness in Call of Duty: Warzone Graphics on PC</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-conquer-chronological-chaos-snapchats-video-inversion/"><u>In 2024, Conquer Chronological Chaos Snapchat's Video Inversion</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/libxml2dll-not-detected-heres-what-you-need-to-know/"><u>Libxml2.dll Not Detected? Here's What You Need to Know!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/mastering-narratives-the-science-and-art-of-crafting-memorable-fb-stories-for-2024/"><u>Mastering Narratives The Science and Art of Crafting Memorable FB Stories for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigational-assistance-methods-to-determine-a-friends-location-via-iphone/"><u>Navigational Assistance: Methods to Determine a Friend's Location via iPhone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-to-updating-microsoft-powerpoint-efficiently/"><u>Step-by-Step Guide to Updating Microsoft PowerPoint Efficiently</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/omplete-rundown-of-essential-youtube-video-downloading-apps-android-for-2024/"><u>The Complete Rundown of Essential YouTube Video Downloading Apps (Android) for 2024</u></a></li>
 </ul></div>
 

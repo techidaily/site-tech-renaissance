@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Effortlessly Setting Up LibreOffice on Your Ubuntu System"
-date: 2024-08-30T14:39:33.916Z
-updated: 2024-08-31T14:39:33.916Z
+date: 2024-12-14T15:44:05.363Z
+updated: 2024-12-17T03:00:53.475Z
 tags:
   - desktop
 categories:
@@ -48,8 +48,9 @@ thumbnail: https://thmb.techidaily.com/3d0c7b28b7640277a83e56148652cb264b53fd3e0
  You can also install the LibreOffice suite as a [Snap](https://some-guidance.techidaily.com/in-2024-top-10-innovative-mobile-layering-apps-for-android-and-iphone/) or [DEB](https://facebook-video-share.techidaily.com/new-2024-approved-capturing-contentment-a-practical-guide-to-daily-vlogging/) package on Ubuntu. We will also discuss how to run LibreOffice without installing—through an [AppImage](https://facebook-video-recording.techidaily.com/updated-in-2024-expert-picks-top-6-fb-lite-extractors/).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  1\. Install LibreOffice From the Ubuntu Repositories
 
  To install LibreOffice from the official Ubuntu repositories, first, update the system package list with:
@@ -61,6 +62,10 @@ sudo apt update
 sudo apt install libreoffice
 
 ![a terminal with apt command to install libreoffice](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/screenshot_1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Ubuntu repository doesn't always have the most up-to-date version of LibreOffice. Typically, it lags behind the official LibreOffice releases. So you might miss out on some new features or bug fixes. However, to get the latest stable release of LibreOffice, we recommend downloading it from its official PPA.
 
@@ -83,8 +88,9 @@ sudo apt update
 ![Linux terminal with command updating the package list using the apt update](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-5.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After updating your system package list, install LibreOffice with the **apt install** command:
 
 sudo apt install libreoffice -y
@@ -94,8 +100,9 @@ sudo apt install libreoffice -y
  That's it, you have successfully installed LibreOffice on Ubuntu.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  3\. Install the LibreOffice Snap Package on Ubuntu
 
  To install LibreOffice using Snap, all you have to do is run the **sudo snap install libreoffice** command. Snaps are versatile software packages that operate on various Linux distros. They come prepackaged with all the required dependencies, so they run smoothly and are isolated from the system.
@@ -103,11 +110,9 @@ sudo apt install libreoffice -y
 ![Linux terminal with the command to install LibreOffice using the snap](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-3.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ###  4\. Download and Install the LibreOffice DEB Package
 
  Installing LibreOffice via the DEB package requires downloading and extracting the package file. A DEB package is a standard format for installing software on Debian-based [Linux distributions](https://sim-unlock.techidaily.com/in-2024-sim-unlock-honor-80-pro-straight-screen-edition-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/), such as Ubuntu. It contains the executable files, configuration files, and software metadata required for a program to run.
@@ -116,10 +121,6 @@ sudo apt install libreoffice -y
 
 ![LibreOffice official download page with deb file selected for download](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5-5.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  You can save the DEB package file to your preferred location.
 
  Next, open the terminal and head over to the directory where you saved the package file. For example, if you have saved the file in the "Downloads" directory, navigate to it using [the cd command](https://techidaily.com/is-your-oppo-k11-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/) followed by the directory name:
@@ -160,6 +161,10 @@ sudo dpkg -i *.deb
 
 ![LibreOffice AppImage download page](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/11-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After that, save the AppImage file to your preferred location on your system.
 
  Now, open the file manager and navigate to the directory where the AppImage is located. Right-click on the AppImage icon and click the "Properties" option in the context menu.
@@ -170,25 +175,22 @@ sudo dpkg -i *.deb
 
 ![Permissions section with a tick mark to allow executing file as a program option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/13-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
  Now, that LibreOffice is ready to run, simply right-click on the AppImage Icon and select "Run".
 
 ![Context menu of LibreOffice AppImage with run option selected](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/14-2.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can now use the LibreOffice portable version.
 
 ![LibreOffice on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/15-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
+
 ##  Verify LibreOffice Installation on Ubuntu
 
  To check if LibreOffice is successfully installed or not, all you need to do is open a terminal and enter:
@@ -199,9 +201,6 @@ libreoffice --version
 
 ![Linux terminal with the command to check the LibreOffice version](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/16-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
  This won't work if you installed LibreOffice as an AppImage since an AppImage is never _technically_ installed on your PC.
 
  To launch LibreOffice from the terminal, run:
@@ -212,28 +211,14 @@ libreoffice
 
 ![LibreOffice on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/17-2.png) 
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can also launch LibreOffice applications directly from the terminal. For example, the **libreoffice --writer** command will launch LibreOffice Writer directly from the terminal.
 
 ![LibreOffice Writer on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/18-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ##  How to Remove LibreOffice on Ubuntu
 
  To completely remove LibreOffice and [free up disk space](https://desktop-recording.techidaily.com/amd-gpu-revival-suite-for-2024/) on your system, run this command:
@@ -261,8 +246,9 @@ sudo apt autoremove
  If you installed LibreOffice as an AppImage, simply find the AppImage file and delete it as you would any other file.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Improve Your Work Performance on Ubuntu With LibreOffice
 
  And that wraps up the guide on how you can install LibreOffice on Ubuntu. You can start working on your documents, spreadsheets, presentations, and more with this powerful and free office suite. To make things even better, you can also explore LibreOffice extensions and templates to enhance your productivity and creativity.
@@ -273,8 +259,6 @@ sudo apt autoremove
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -282,4 +266,24 @@ sudo apt autoremove
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-elevating-your-youtube-presence-with-effective-tags-for-2024/"><u>[New] Elevating Your YouTube Presence with Effective Tags for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-can-i-browse-through-my-contacts-shared-material-in-messaging/"><u>[New] In 2024, Can I Browse Through My Contacts' Shared Material in Messaging?</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-mastering-xbox-livestreaming-on-facebook-platform/"><u>[New] Mastering Xbox Livestreaming on Facebook Platform</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-optimal-voice-capture-systems-reviewed-top-7-2023/"><u>[Updated] 2024 Approved Optimal Voice Capture Systems Reviewed Top 7 2023</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-podcast-perfection-editing-techniques-in-garageband/"><u>[Updated] 2024 Approved Podcast Perfection Editing Techniques in GarageBand</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-outwit-facebook-vids-ad-blocking-basics/"><u>[Updated] In 2024, Outwit Facebook Vids Ad-Blocking Basics</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-simplifying-vfx-with-magix-video-pro-x/"><u>[Updated] In 2024, Simplifying VFX with Magix Video Pro X</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/anticipated-google-symposium-breaking-news-and-fresh-reveals/"><u>Anticipated Google Symposium: Breaking News & Fresh Reveals</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diy-repair-tips-enabling-wi-fi-connectivity-on-your-vizio-screen/"><u>DIY Repair Tips: Enabling Wi-Fi Connectivity on Your Vizio Screen</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-on-removing-grime-and-ensuring-hygiene-of-your-personal-loudspeakers-at-home/"><u>Expert Tips on Removing Grime and Ensuring Hygiene of Your Personal Loudspeakers at Home</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-tiny-snippets-deciphered-important-facts/"><u>In 2024, Tiny Snippets Deciphered Important Facts!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximize-your-work-efficiency-in-depth-analysis-of-zendure-superbase-pro-2000-zdnet-insights/"><u>Maximize Your Work Efficiency: In-Depth Analysis of Zendure SuperBase Pro 2000 | ZDNET Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-wlanapidll-file-absence-issues-a-step-by-step-guide/"><u>Resolving 'WLANAPI.DLL' File Absence Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solutions-to-resolve-missing-d3dx939dll-files/"><u>Solutions to Resolve Missing d3dx9_39.dll Files</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722873844369-step-by-step-guide-repairing-dvd-blu-ray-and-cd-drives-stuck-in-closed-position/"><u>Step-by-Step Guide: Repairing DVD, Blu-Ray, and CD Drives Stuck in Closed Position</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solution-handling-rockaldlldll-absence-errors/"><u>Step-by-Step Solution: Handling rockaldll.dll Absence Errors</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-cross-platform-functionality-run-your-favorite-android-apps-in-windows-10/"><u>Unlocking Cross-Platform Functionality: Run Your Favorite Android Apps in Windows 10</u></a></li>
+</ul></div>
 

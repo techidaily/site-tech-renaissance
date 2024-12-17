@@ -1,7 +1,7 @@
 ---
 title: "When & How To Cut Ties: Disconnecting From Old X (Twitter's Successor) Profiles Effectively"
-date: 2024-08-26T07:24:56.838Z
-updated: 2024-08-27T07:24:56.838Z
+date: 2024-12-13T16:00:29.253Z
+updated: 2024-12-17T16:00:29.451Z
 categories:
   - BestProducts
 description: "This Article Describes When & How To Cut Ties: Disconnecting From Old X (Twitter's Successor) Profiles Effectively"
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/e31ea3ce93bbad92b9f67f88ba076a5c1c44f8153
 
  Instructions in this article apply broadly to all devices that are able to connect to Discord.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Tell If Discord Is Down
 
  If you think the Discord servers are down for everyone, try these steps to check:
@@ -24,11 +28,25 @@ thumbnail: https://thmb.techidaily.com/e31ea3ce93bbad92b9f67f88ba076a5c1c44f8153
 2. Search X (formerly Twitter) for #discorddown. Pay attention to when people tweeted about Discord being down. If the tweets are recent, they may have the same issues as you're running into.  
 ![#discorddown hashtag on Twitter](https://www.lifewire.com/thmb/VTkvVzzWtl2q1P78ZIep47rwOBo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256952-c360b9c4c6d64c2e8214179b37a1931a.jpg)
 3. While you're on X, check Discord's page for any updates on whether the service is down. Discord doesn't often post service information here, but it's worth a quick look.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Discord Twitter account](https://www.lifewire.com/thmb/duH1jCzJjaIdBXNdYvzfWT2dzjk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256953-0ac75f448e784f739501c218e70589b5.jpg)  
  If you can't open X either, then the problem is likely on your end or with your ISP.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Use a third-party status checker website like[Down For Everyone Or Just Me](https://downforeveryoneorjustme.com/discord) ,[Downdetector](https://downdetector.com/status/discord/) ,[Is It Down Right Now?](https://www.isitdownrightnow.com/discord.com.html) , and[Outage.Report](https://outage.report/discord) .  
 ![Discord Downdetector page](https://www.lifewire.com/thmb/Dkbd1Gn7UxOCVbebPQPG9QuzVpQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256954-e47fef8c259d4a9d805e652ae722fcbd.jpg)  
  If no one else is having an issue with Discord, then the problem is likely something on your end.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What to Do When You Can't Connect to Discord
 
@@ -47,8 +65,9 @@ thumbnail: https://thmb.techidaily.com/e31ea3ce93bbad92b9f67f88ba076a5c1c44f8153
  If nothing has worked yet, you're probably dealing with an internet issue on your end. Contact your[ISP](https://www.lifewire.com/internet-service-provider-isp-2625924) to request further help.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Discord Error Messages
 
  Discord is a fairly reliable service most of the time but when it has issues, it often displays error messages that explain[why you can't connect](https://www.lifewire.com/fix-it-when-discord-wont-open-5076489) . For example:
@@ -80,8 +99,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -89,4 +106,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-nexus-of-delight-kid-focused-gaming-guide-for-2024/"><u>[New] Nexus of Delight Kid-Focused Gaming Guide for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-ultimate-tutorial-for-wm6-setup-for-2024/"><u>[New] Ultimate Tutorial for WM6 Setup for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-vimeos-video-mosaics-inserting-chapters-for-clarity-for-2024/"><u>[Updated] Vimeo's Video Mosaics Inserting Chapters for Clarity for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/achieving-high-quality-tiktok-videos-the-zoom-method/"><u>Achieving High-Quality TikTok Videos The Zoom Method</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210237613-9780645096316-awakening/"><u>AWAKENING | Free Book</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/beginning-on-the-right-foot-five-important-steps-for-new-computer-setup/"><u>Beginning on the Right Foot: Five Important Steps for New Computer Setup</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/decoding-the-502-bad-gateway-mistake-and-how-to-resolve-it/"><u>Decoding the 502 Bad Gateway Mistake and How to Resolve It</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-newest-intel-raid-software-and-driver-updates-compatible-with-win-11-win-10-win-8-and-win-7/"><u>Get the Newest Intel RAID Software & Driver Updates Compatible with Win 11, Win 10, Win 8, and Win 7</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-streaming-the-creme-de-la-cam-of-6-zoom-cameras/"><u>In 2024, Expert Streaming The Crème De La Câm' Of #6 Zoom Cameras</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-the-ultimate-guide-to-clean-image-borders-on-canva/"><u>In 2024, The Ultimate Guide to Clean Image Borders on Canva</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-d3dx925dll-file-not-found-a-comprehensive-guide/"><u>Resolving d3dx9_25.dll File Not Found: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-device-managers-code-eror-a-step-by-step-guide/"><u>Resolving Device Manager's Code Eror: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/uncover-the-premier-defense-ready-email-solutions-on-the-market/"><u>Uncover the Premier Defense-Ready Email Solutions on the Market</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-excitement-dive-into-the-details-of-samsungs-new-smartphone-line-up/"><u>Unveiling Excitement: Dive Into the Details of Samsung's New Smartphone Line-Up</u></a></li>
+</ul></div>
 

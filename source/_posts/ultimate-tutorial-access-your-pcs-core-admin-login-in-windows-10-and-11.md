@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Tutorial: Access Your PC's Core - Admin Login in Windows 10 & 11"
-date: 2024-08-30T14:40:25.794Z
-updated: 2024-08-31T14:40:25.794Z
+date: 2024-12-10T00:54:00.975Z
+updated: 2024-12-17T01:23:30.861Z
 tags:
   - deals
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/9be334cdafc76019f9e5ad788ad6c3507c69da5b0
 ---
 
 ## Ultimate Tutorial: Access Your PC's Core - Admin Login in Windows 10 & 11
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -29,8 +33,9 @@ thumbnail: https://thmb.techidaily.com/9be334cdafc76019f9e5ad788ad6c3507c69da5b0
  It is sometimes useful to run programs as administrator — but what if you want to run everything as administrator? Windows 10 and Windows 11 include an administrator account, but it is disabled by default — for good reasons. Here's how to activate it. 
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  What Is the Administrator Account?
 
  Windows 10 and 11 restrict access to certain files and commands behind administrative privileges. These files are essential to the operating system, and the commands tend to be the type that, if misused, could cause problems.
@@ -55,15 +60,16 @@ thumbnail: https://thmb.techidaily.com/9be334cdafc76019f9e5ad788ad6c3507c69da5b0
 
 ![Click "Run as administrator."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/2022-02-17_10h10_53.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Type `net user administrator /active:yes` into the window. If it worked, you should see "The command completed successfully."
 
 ![Command prompt showing administrator account enabled](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/command-prompt-success.png) 
 
  Once the account has been enabled, all you have to do is [switch users](https://remote-screen-capture.techidaily.com/updated-screen-recording-mastery-with-lenovo-gear-for-2024/) to access it. It will also be available any time you restart your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Enable the Administrator Account with PowerShell
 
  The process for enabling the administrator account with PowerShell is identical to Command Prompt.
@@ -72,9 +78,6 @@ thumbnail: https://thmb.techidaily.com/9be334cdafc76019f9e5ad788ad6c3507c69da5b0
 
 ![Click "Run as administrator."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/Launch_PowerShell.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Type `net user administrator /active:yes` in PowerShell, then hit Enter. If the account was activated, you'll see "The command completed successfully."
 
 ![PowerShell showing administrator account enabled](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/PowerShell-Success-1.png) 
@@ -90,11 +93,9 @@ thumbnail: https://thmb.techidaily.com/9be334cdafc76019f9e5ad788ad6c3507c69da5b0
 ![command prompt with administrator account password set](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/AddPassword.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ##  How to Disable the Administrator Account
 
  Disabling the administrator account uses the same command as enabling it — with one small tweak.
@@ -106,8 +107,9 @@ thumbnail: https://thmb.techidaily.com/9be334cdafc76019f9e5ad788ad6c3507c69da5b0
 ![Command prompt with successful deactivation](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/deacivate.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You should see "The command completed successfully" again. Log out or switch users to verify that the account has been disabled.
 
  The administrator account adds convenience, but is definitely not something you should use daily. Be sure to double check any commands that you run, and any files you move, modify, or delete. Also remember that leaving the administrator account enabled is a serious security vulnerability.
@@ -118,8 +120,6 @@ thumbnail: https://thmb.techidaily.com/9be334cdafc76019f9e5ad788ad6c3507c69da5b0
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -127,4 +127,20 @@ thumbnail: https://thmb.techidaily.com/9be334cdafc76019f9e5ad788ad6c3507c69da5b0
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-10plus-preferred-no-pay-webm-player-options-for-2024/"><u>[New] 10+ Preferred No-Pay WebM Player Options for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-freezing-your-window-windows-screenshoting-guide-for-2024/"><u>[New] Freezing Your Window Windows Screenshoting Guide for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-keeping-your-content-in-the-spotlight-adhering-to-youtubes-cc-policy/"><u>[New] In 2024, Keeping Your Content in the Spotlight Adhering to YouTube's CC Policy</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-step-by-step-guide-to-understanding-vr-technology/"><u>[New] In 2024, Step-by-Step Guide to Understanding VR Technology</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-differences-between-signal-and-whatsapp-messaging-apps/"><u>Exploring the Differences Between Signal & WhatsApp Messaging Apps</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-reel-it-in-8-online-utilities-for-creating-and-sharing-instagram-videos/"><u>In 2024, Reel It In 8 Online Utilities For Creating & Sharing Instagram Videos</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/maximize-your-movie-night-how-to-access-and-enjoy-3d-films-with-fandango-at-home/"><u>Maximize Your Movie Night: How To Access and Enjoy 3D Films with Fandango at Home</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/simplify-inbox-management-building-powerful-and-versatile-filters-in-gmail/"><u>Simplify Inbox Management: Building Powerful and Versatile Filters in Gmail</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-10-must-watch-sporting-films-perfect-for-movie-night/"><u>Top 10 Must-Watch Sporting Films Perfect for Movie Night</u></a></li>
+<li><a href="https://win-unique.techidaily.com/transition-en-un-clic-comparer-et-choisir-entre-les-solutions-nas-synology-et-nas-qnap/"><u>Transition en Un Clic : Comparer Et Choisir Entre Les Solutions NAS Synology Et NAS QNAP</u></a></li>
+<li><a href="https://fox-access.techidaily.com/ultimate-selection-budget-friendly-4k-cameras-(1k/"><u>Ultimate Selection Budget-Friendly 4K Cameras <$1K</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210234675-9786171252707-semejnyj-sonnik-s-otvetami-na-kazhdyj-den/"><u>Семейный сонник с ответами на каждый день | Free Book</u></a></li>
+</ul></div>
 

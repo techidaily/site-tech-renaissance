@@ -1,7 +1,7 @@
 ---
 title: Top 10 Resources for Efficiently Finding an Apartment
-date: 2024-08-26T07:31:25.380Z
-updated: 2024-08-27T07:31:25.380Z
+date: 2024-12-11T05:25:03.367Z
+updated: 2024-12-17T02:16:13.370Z
 categories:
   - BestProducts
 description: This Article Describes Top 10 Resources for Efficiently Finding an Apartment
@@ -10,6 +10,11 @@ thumbnail: https://www.lifewire.com/thmb/5rSbm7O_uRhDtaXaWsHwfVgEeMI=/400x300/fi
 ---
 
 ## Curious About Your Audience? Pinpoint Visitors for Any Shared Google Document Here
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * Select the **Activity dashboard** icon (jagged arrow) on the top right.
@@ -25,6 +30,11 @@ thumbnail: https://www.lifewire.com/thmb/5rSbm7O_uRhDtaXaWsHwfVgEeMI=/400x300/fi
 1. Select the **Activity dashboard** icon (jagged arrow) on the top right or **Tools** \> **Activity dashboard** from the menu.  
 ![Google Docs with Activity Dashboard and its Icon highlighted](https://www.lifewire.com/thmb/6h366_IuWsz8F-9uddJvUAX1F58=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ActivityDashboard2-5a823fbc319f4c3eb4e04702b3e925fe.jpg)
 2. Confirm that **Viewers** is selected on the left side.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Use the **All viewers** tab on the right to see who has viewed the document. You’ll see their name and when they last viewed it.  
 ![Viewers and All Viewers in the Activity Dashboard highlighted](https://www.lifewire.com/thmb/V6MAIeOj8jrGdn4DrWoeNivd42s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Viewers-51d26efb564141b29bc474b002b448ad.jpg)
 
@@ -36,12 +46,13 @@ thumbnail: https://www.lifewire.com/thmb/5rSbm7O_uRhDtaXaWsHwfVgEeMI=/400x300/fi
 
 ![Google Docs viewers with Shared With highlighted](https://www.lifewire.com/thmb/bywM-Ml7U5N7c90E1SnLQkJDl6s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SharedWith-86eb4b621c0041ffbfa67b162e505438.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Select **Viewer trend** to see the unique daily viewers. Choose a particular day on the column chart to see how many viewers were captured that day.
 
 ![All Viewers highlighted in the Activity Dashboard](https://www.lifewire.com/thmb/UeEIkxsvAeTMYWv0pVzHE-M8fBU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ViewTrend-86a1d4df7ab842f89348da5b37b03576.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Don’t See Any Viewing Activity?
 
@@ -53,9 +64,6 @@ thumbnail: https://www.lifewire.com/thmb/5rSbm7O_uRhDtaXaWsHwfVgEeMI=/400x300/fi
 * The people you expect to view the document might have opted out of displaying their View History (see below).
 * You or the Admin may have View History turned off (see below).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Turn on Activity Dashboard View History
 
  If you are the Admin for the Google account and want to be sure that you have View History turned on for Google Docs,[visit your Google Admin Console](https://admin.google.com/) and log in.  
@@ -64,19 +72,18 @@ thumbnail: https://www.lifewire.com/thmb/5rSbm7O_uRhDtaXaWsHwfVgEeMI=/400x300/fi
 2. Scroll down to and select **Activity dashboard settings** .  
 ![Activity Dashboard Settings highlighted in the Admin console](https://www.lifewire.com/thmb/SNvzb0A93xucOZeGWmy-K7IJIzg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ActivityDashboard-f8b9c4ccf2cd49b09fc48d58b48862d7.jpg)
 3. Confirm that**Users’ view history** is turned on. If not, click the **edit** icon (pencil) to the right, choose **On (recommended)** and click **Save** .  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
-![Users' View History turned on in the Admin console](https://www.lifewire.com/thmb/BxokFwEg-UVGYlVp8dUELu73h1w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/UsersViewHistory-b95295a4ec8c41d7b4248c00bacdaa33.jpg)  
- Depending on your workspace, you may see the option able to turn on**Access to view history** for other users to see Viewers and Viewer Trends in the Activity Dashboard.
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Users' View History turned on in the Admin console](https://www.lifewire.com/thmb/BxokFwEg-UVGYlVp8dUELu73h1w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/UsersViewHistory-b95295a4ec8c41d7b4248c00bacdaa33.jpg)  
+ Depending on your workspace, you may see the option able to turn on**Access to view history** for other users to see Viewers and Viewer Trends in the Activity Dashboard.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Turn on Individual View History
 
  To help someone you expect to review the document display their View History or to display yours,[open the document in Google Docs](https://www.lifewire.com/open-google-docs-5089238) and follow these steps.  
@@ -87,9 +94,6 @@ thumbnail: https://www.lifewire.com/thmb/5rSbm7O_uRhDtaXaWsHwfVgEeMI=/400x300/fi
 4. Select **Save** .  
 ![Privacy Settings in the Activity Dashboard](https://www.lifewire.com/thmb/1fuSObYbrH0fupoOGGrh7GfTcPo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/privacysettings-2c944fd8e2274f788b1528e855b75158.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Seeing who viewed a Google Doc is a convenient way to make sure everyone reviews the document. To see who edited a document you’ve shared, you can also[look at the revision history](https://www.lifewire.com/how-to-manage-revision-history-in-google-docs-4776095) .
 
 [How to Use Google Duet in Docs](https://www.lifewire.com/use-google-bard-in-docs-7499168)
@@ -123,8 +127,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -132,4 +134,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-monetizing-mastery-in-your-mind-the-no-ad-youtube-money-manual/"><u>[New] 2024 Approved Monetizing Mastery in Your Mind The No-Ad YouTube Money Manual</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-inside-the-io-recording-process-what-you-must-know/"><u>[New] In 2024, Inside the IO Recording Process What You Must Know</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-amplify-youtube-performance-rapid-video-rendering-guide/"><u>[Updated] 2024 Approved Amplify YouTube Performance - Rapid Video Rendering Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-adjusting-visuals-in-teams-conversations-at-any-time/"><u>[Updated] In 2024, Adjusting Visuals in Teams Conversations at Any Time</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-top-5-pro-digital-cameras-for-smooth-twitch-broadcasts/"><u>[Updated] Top 5 Pro Digital Cameras for Smooth Twitch Broadcasts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/best-programs-on-discovery-plus-for-july-2nndash24-expert-recommendations/"><u>Best Programs on Discovery Plus for July 2Nndash'24: Expert Recommendations</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/car-audio-woes-diagnosing-when-your-vehicles-radio-fails-unexpectedly/"><u>Car Audio Woes: Diagnosing When Your Vehicle's Radio Fails Unexpectedly</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comparing-neo-qled-and-oled-tv-technologies-which-one-takes-the-lead/"><u>Comparing Neo QLED and OLED TV Technologies: Which One Takes The Lead?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-fixes-for-common-zoom-video-conferencing-camera-errors/"><u>Essential Fixes for Common Zoom Video Conferencing Camera Errors</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-intricacies-of-organic-light-emitting-diodes-oled-explained/"><u>Exploring the Intricacies of Organic Light-Emitting Diodes (OLED) Explained</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-silent-mode-expert-advice-on-reactivating-iphone-speakers/"><u>Fixing Silent Mode: Expert Advice on Reactivating iPhone Speakers</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-vivo-s18-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Vivo S18 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-managing-pages-file-formats-on-pc-systems/"><u>Mastering the Art of Managing Pages File Formats on PC Systems</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/professional-webcam-setup-on-macbook/"><u>Professional Webcam Setup on MacBook</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/steps-to-sync-apple-homepod-and-televisions-seamlessly/"><u>Steps to Sync Apple HomePod and Televisions Seamlessly</u></a></li>
+<li><a href="https://fox-info.techidaily.com/videographic-velocity-top-cams-for-smoothly-snapped-slow-motion-for-2024/"><u>Videographic Velocity Top Cams for Smoothly Snapped Slow Motion for 2024</u></a></li>
+</ul></div>
 

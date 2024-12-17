@@ -1,7 +1,7 @@
 ---
 title: Top 15 Complimentary Artificial Intelligence Courses You Can Learn At Your Own Pace
-date: 2024-08-26T07:27:23.697Z
-updated: 2024-08-27T07:27:23.697Z
+date: 2024-12-11T15:43:43.240Z
+updated: 2024-12-17T10:06:59.418Z
 categories:
   - BestProducts
 description: This Article Describes Top 15 Complimentary Artificial Intelligence Courses You Can Learn At Your Own Pace
@@ -20,6 +20,10 @@ thumbnail: https://www.lifewire.com/thmb/0cyZ5wTNcXbzXZso2C2zYQU9rzk=/400x300/fi
 
  Lifewire / Derek Abella
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## USB 2.0 Connectors
 
 _Plug_ is the name given to the_male_ connector on a USB 2.0 cable or[flash drive](https://www.lifewire.com/what-is-a-flash-drive-2625794) , while the_receptacle_ is the name given to the_female_ connector on a USB 2.0 device or extension cable.
@@ -36,6 +40,10 @@ _Plug_ is the name given to the_male_ connector on a USB 2.0 cable or[flash driv
 
  You may want to consult a[USB Physical Compatibility Chart](https://www.lifewire.com/usb-physical-compatibility-chart-2624585) for a reference on what-fits-with-what.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Interconnected Device Speeds
 
  Older USB 1.1 devices and cables are, for the most part, physically compatible with USB 2.0 hardware. However, the only way to reach USB 2.0 transmission speeds is if all devices and cables being connected to each other support USB 2.0.
@@ -47,8 +55,9 @@ _Plug_ is the name given to the_male_ connector on a USB 2.0 cable or[flash driv
  In other words, the transmission speed falls to the older of the two technologies. This makes sense, since you can't pull USB 3.0 speeds out of a USB 2.0 cable, nor can you get USB 2.0 transmission speeds using a USB 1.1 cable.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## USB On-the-Go (OTG)
 
 [USB On-the-Go](https://www.lifewire.com/what-is-usb-otg-and-what-does-it-do-4768902) was released in December 2006\. It allows devices to switch between acting as a host and as a subordinate when necessary so that they can be connected to each other directly.
@@ -81,8 +90,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -90,4 +97,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-copyright-protection-for-instatunes/"><u>[New] 2024 Approved Copyright Protection for InstaTunes</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-make-money-with-facebook-a-practical-roadmap/"><u>[New] 2024 Approved Make Money with Facebook A Practical Roadmap</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-mastering-zoom-transcribing-top-5-suggestions-for-all-budgets/"><u>[New] 2024 Approved Mastering Zoom Transcribing Top 5 Suggestions for All Budgets</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-framemaster-hd-recording-suite/"><u>[Updated] FrameMaster HD Recording Suite</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-how-to-give-a-makeover-to-existing-images-and-videos-with-ig-filters/"><u>2024 Approved How to Give a Makeover to Existing Images and Videos with IG Filters</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exposing-hidden-files-in-macos-the-ultimate-terminal-command-tutorial/"><u>Exposing Hidden Files in macOS - The Ultimate Terminal Command Tutorial</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-the-criticalprocessdied-error-0xc0000185-in-windows/"><u>Fixing the CRITICAL_PROCESS_DIED Error (0XC0000185) in Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/freshly-compiled-list-of-standard-passwords-for-d-link-products-july-2024-edition/"><u>Freshly Compiled List of Standard Passwords for D-Link Products - July 2024 Edition</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722898263157-handling-iphone-email-problems-heres-what-you-need-to-know/"><u>Handling iPhone Email Problems? Here's What You Need to Know!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-block-no-caller-id-calls-on-iphone/"><u>How to Block No Caller ID Calls on iPhone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-disable-unsolicited-youtube-video-listings/"><u>In 2024, Disable Unsolicited YouTube Video Listings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-maximizing-b-roll-effective-techniques-for-enhancing-videos/"><u>In 2024, Maximizing B-Roll Effective Techniques for Enhancing Videos</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-parrots-at-play-unpacking-bebops-next-gen-flight/"><u>In 2024, Parrots at Play Unpacking Bebop’s Next-Gen Flight</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/masterful-platformers-the-top-6-super-mario-bros-games-to-play-on-windows-and-mac/"><u>Masterful Platformers: The Top 6 Super Mario Bros Games to Play on Windows and Mac</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-technology-with-toms-hardware-guidance/"><u>Mastering Technology with Tom's Hardware Guidance</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-how-to-fix-couldnt-retrieve-directory-information-on-kodi/"><u>Resolved! How to Fix 'Couldn’t Retrieve Directory Information' On Kodi</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solutions-for-resolving-propsysdll-file-cannot-be-located-issues/"><u>Solutions for Resolving 'Propsys.dll File Cannot Be Located' Issues</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-essentials-of-facebook-decoded-understanding-its-birth-appeal-and-main-functions/"><u>The Essentials of Facebook Decoded: Understanding Its Birth, Appeal, and Main Functions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-ranked-gaming-systems-in-2nnd-2024/"><u>Top-Ranked Gaming Systems in 2Nnd 2024</u></a></li>
+</ul></div>
 

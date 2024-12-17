@@ -1,7 +1,7 @@
 ---
 title: "Quick Fixes: How to Restore Default BIOS Configuration by Clearing CMOS"
-date: 2024-08-26T07:28:41.439Z
-updated: 2024-08-27T07:28:41.439Z
+date: 2024-12-16T04:42:13.422Z
+updated: 2024-12-17T09:53:53.028Z
 categories:
   - BestProducts
 description: "This Article Describes Quick Fixes: How to Restore Default BIOS Configuration by Clearing CMOS"
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/44262321bc90c68bb30ae630045aeeb3d770e2573
  This article explains how to fix an unresponsive keyboard. This guide covers built-in keyboards as well as wired and wireless keyboards.
 
 [The Best Ergonomic Keyboards of 2024](https://www.lifewire.com/best-ergonomic-keyboards-4147386)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9 Ways to Fix the Problem
 
@@ -38,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/44262321bc90c68bb30ae630045aeeb3d770e2573
  If your keyboard stopped working after an update, you may need to[roll back your driver](https://www.lifewire.com/how-to-roll-back-a-driver-in-windows-2619217) instead.
 9. [Disable sticky and filter keys](https://www.lifewire.com/how-to-turn-off-sticky-keys-windows-4692841) . If your keyboard seems to work but is behaving unexpectedly and doesn't type the keys you're pressing, you may be able to fix it by disabling sticky, filter, and toggle keys.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why the Keyboard Quit Working
 
  Some of the reasons a keyboard might be unresponsive include:
@@ -50,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/44262321bc90c68bb30ae630045aeeb3d770e2573
 [The Best Bluetooth Keyboards for Smartphones in 2024](https://www.lifewire.com/best-bluetooth-keyboards-for-smartphones-4177695)
 
 ![A computer keyboard on white paper](https://www.lifewire.com/thmb/CeM-fcdHU1euNfVLy8semOjckm4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/bryan-natanael-hR8l1s4u8QE-unsplash-bf561a995f8840d29937369560cabfab.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Bryan Natanael / Unsplash
 
@@ -80,8 +92,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -89,8 +99,17 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-how-does-a-whole-sphere-video-work-for-2024/"><u>[New] How Does a Whole-Sphere Video Work for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-how-to-get-vids-to-autoplay-effortlessly-on-fb/"><u>[New] How to Get Vids to Autoplay Effortlessly on FB</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-making-the-right-vr-purchase-on-the-go-vs-tethered-tech/"><u>[New] Making the Right VR Purchase On-the-Go Vs. Tethered Tech</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-fast-easy-free-the-top-choices-for-onsite-gif-to-video-changes/"><u>[Updated] Fast, Easy, Free The Top Choices for Onsite GIF to Video Changes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-unveiling-the-d500s-4k-capabilities-in-full-hd/"><u>[Updated] In 2024, Unveiling the D500's 4K Capabilities in Full HD</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-comprehensive-walkthrough-to-master-the-photo-cutout-capability-on-iphones-with-ios-16-tips-and-tricks-inside/"><u>A Comprehensive Walkthrough to Master the Photo Cutout Capability on iPhones with iOS 16 - Tips and Tricks Inside</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-guide-running-android-applications-on-windows-11-systems/"><u>Complete Guide: Running Android Applications on Windows 11 Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/installation-files-for-logitech-g27-racing-controller-on-windows-11-10-and-7-systems/"><u>Installation Files for Logitech G27 Racing Controller on Windows 11, 10 & 7 Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-hdcp-issues-and-solutions-a-comprehensive-guide/"><u>Understanding HDCP Issues & Solutions - A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-the-secrets-to-a-well-prepared-summer-everyday-carry-kit-top-7-insider-tips/"><u>Unlocking the Secrets to a Well-Prepared Summer Everyday Carry Kit: Top 7 Insider Tips</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
