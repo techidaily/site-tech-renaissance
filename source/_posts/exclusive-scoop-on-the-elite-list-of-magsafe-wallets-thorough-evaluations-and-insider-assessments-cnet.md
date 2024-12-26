@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Scoop on the Elite List of MagSafe Wallets : Thorough Evaluations and Insider Assessments | CNET"
-date: 2024-12-15T16:01:48.101Z
-updated: 2024-12-17T16:01:02.720Z
+date: 2024-12-25T02:56:12.259Z
+updated: 2024-12-26T08:19:46.732Z
 tags:
   - apple
 categories:
@@ -26,10 +26,6 @@ The display sizes of small tablets can range from six to 10 inches, with eight i
 
 Based on our extensive hands-on testing with various tablets of all sizes, our pick for the best small tablet is the [iPad Mini](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2021-Apple-iPad-Mini-Wi-Fi%2Fdp%2FB09G9FW785%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C9701de1e-efd0-4d3c-8a60-b29761050e29%7Cdtp&dtb=1), thanks to its 8.3-inch Liquid Retina display and weight of just under 1 pound. We also included compact-sized tablets from Amazon, Samsung, and other brands for those looking for something more compact and easy to carry. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The best small tablets of 2024
 
 Show less 
@@ -46,10 +42,6 @@ Cons
 * Expensive
 
 ## Apple iPad Mini 6th Generation
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best small tablet overall
 
@@ -85,7 +77,7 @@ Cons
 ## Amazon Fire 7 Tablet
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best budget small tablet
@@ -119,6 +111,10 @@ Cons
 * Some complaints of lag
 
 ## Boox Tab Mini C
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best small tablet for note-taking
 
@@ -177,6 +173,10 @@ Pros
 Cons 
 * Performance could be better
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Samsung Galaxy Tab A7 Lite
 
 ### Best Samsung small tablet
@@ -191,6 +191,10 @@ In addition, you can expand your storage beyond the 32GB or 64GB allotted. The t
 
 Show Expert Take Show less 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best small tablet?
 
 The best small tablet is the iPad Mini because of its sharp display and impressive cameras. Plus, the A15 Bionic chip is packed with power in a small package. 
@@ -202,10 +206,6 @@ The best small tablet is the iPad Mini because of its sharp display and impressi
 | Boox Tab Mini C        | $400      | 7.8 inches          | Electronic ink    |
 | Amazon Kindle          | $100      | 6 inches            | 300ppi glare-free |
 | Samsung Galaxy A7 Lite | $100      | 8.7 inches          | 1340x800 pixels   |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Which small tablet is right for you?
 
@@ -220,7 +220,7 @@ It really depends on what size tablet you're looking for, which operating system
 | Samsung Galaxy A7 Lite                      | A small Samsung tablet with expandable storage and an exceptional battery life. The tablet allows for up to 1TB of expandable storage.                                                                                                                                                   |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Factors to consider when choosing the best small tablets:
@@ -244,6 +244,10 @@ We also compare the display's performance with what the manufacturer promised, t
 
 For a deeper look into our testing process, check out our comprehensive [tablet testing methodology](https://www.zdnet.com/article/how-we-test-tablets-at-zdnet-in-2024/). 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the smallest tablet screen size?
 
 The smallest tablet screen size on the market is 6 to 7 inches. Anything smaller would be more similar to a smartphone.
@@ -264,16 +268,12 @@ Yes, they can be. Small Android tablets allow you to do everything you would nor
 
 Their lightweight body and compact design make them perfect traveling companions. So, if you're searching for the best Android tablet with great battery life and lightweight design, the minis are an enticing choice. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the smallest iPad?
 
 The smallest [iPad](https://www.zdnet.com/article/best-ipad/) is the iPad Mini which has a screen size of 8.3 inches. It's also lightweight at just under one pound. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Are there alternative small tablets worth considering?
@@ -322,20 +322,15 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-capturing-every-angle-how-to-post-360-photos-on-androidios/"><u>[New] In 2024, Capturing Every Angle How to Post 360 Photos on Android/iOS</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-extracting-youtube-content-with-ease/"><u>[Updated] 2024 Approved Extracting YouTube Content with Ease</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-collaborate-for-success-video-strategies/"><u>[Updated] In 2024, Collaborate for Success Video Strategies</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-exhaustive-overview-insights-into-googles-podcast-application/"><u>[Updated] In 2024, Exhaustive Overview Insights Into Google's Podcast Application</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/contrast-of-tech-giants-tabs-features-that-set-apart-ipad-mini-from-the-ipad-air/"><u>Contrast of Tech Giants' Tabs: Features That Set Apart iPad Mini From the iPad Air</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-advice-how-to-maintain-crystal-clear-sound-with-cleaned-home-speakers/"><u>Expert Advice: How to Maintain Crystal Clear Sound with Cleaned Home Speakers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fixing-connection-issues-macs-and-their-inability-to-detect-external-screens/"><u>Fixing Connection Issues: Macs and Their Inability to Detect External Screens</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/funny-tech-antics-best-practical-jokes-for-your-apple-devices/"><u>Funny Tech Antics: Best Practical Jokes for Your Apple Devices</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/grand-unveiling-the-latest-apple-iphone-release-event/"><u>Grand Unveiling: The Latest Apple iPhone Release Event</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/prevent-auto-play-on-apple-music-a-comprehensive-guide/"><u>Prevent Auto-Play on Apple Music: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/quick-tips-for-successfully-casting-content-to-apple-tv-via-vlc-video-player/"><u>Quick Tips for Successfully Casting Content to Apple TV via VLC Video Player</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-windows-error-code-0x80071a90-a-quick-guide/"><u>Resolving Windows Error Code: 0X80071a90 - A Quick Guide</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/solving-motherboard-issues-a-comprehensive-guide-by-yl-computing/"><u>Solving Motherboard Issues: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-safeguard-your-files-with-these-5-techniques/"><u>The Ultimate Guide: Safeguard Your Files with These 5 Techniques</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshoot-driver-corrupted-expool-bugs-in-windows-11-top-fixes-revealed/"><u>Troubleshoot DRIVER CORRUPTED EXPOOL Bugs in Windows 11 – Top Fixes Revealed</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211456557--a-journey-of-thoughts/"><u>A Journey of Thoughts | Free Book</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/combining-several-jpeg-pictures-into-one-compact-pdf-document/"><u>Combining Several JPEG Pictures Into One Compact PDF Document</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-insights-on-lgs-distribution-network/"><u>Essential Insights on LG's Distribution Network</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-realme-12-proplus-5g-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Realme 12 Pro+ 5G</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-securing-a-spotlight-with-zoom-and-fb-live-integration/"><u>In 2024, Securing a Spotlight with ZOOM & FB Live Integration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-firewall-and-network-settings-visibility/"><u>Navigating Windows Firewall & Network Settings Visibility</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-realme-gt-3-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Realme GT 3 Phone? Unlock It Now</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-webm-to-mp4-conversion-made-simple-top-10-software/"><u>New WebM to MP4 Conversion Made Simple Top 10 Software</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/steps-for-deactivating-smart-scroll-features-on-your-apple-device/"><u>Steps for Deactivating Smart Scroll Features on Your Apple Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-system-files-tips-for-managing-trustedinstaller-privileges-on-windows-11/"><u>Unlocking System Files: Tips for Managing TrustedInstaller Privileges on Windows 11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Best 4 Free Online Calendar Tools for Efficient Time Management
-date: 2024-08-20T10:42:23.983Z
-updated: 2024-08-21T10:42:23.983Z
+date: 2024-12-23T16:43:35.929Z
+updated: 2024-12-26T06:49:09.365Z
 categories:
   - BestProducts
 description: This Article Describes The Best 4 Free Online Calendar Tools for Efficient Time Management
@@ -20,6 +20,10 @@ thumbnail: https://www.lifewire.com/thmb/VLSSitM1OGw2pQaft2pwqeXWXxo=/540x405/fi
 
  Split View is only available for[macOS 10.15 Catalina](https://www.lifewire.com/macos-catalina-4692636) or later. On older versions of macOS, you’ll need to use a different method to access a similar feature, explained below. If you still can’t access it, make sure your MacBook Air’s system software is up to date.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is the Shortcut for Split Screen on Mac?
 
  Having more than one monitor is essential if you regularly work with multiple windows or apps at the same time on your MacBook Air. However, if you don’t have access to an external monitor, macOS has a built-in solution: Split View.
@@ -37,18 +41,29 @@ thumbnail: https://www.lifewire.com/thmb/VLSSitM1OGw2pQaft2pwqeXWXxo=/540x405/fi
 4. On the other half of the screen, you’ll see all of your other open windows. Click the one you want to view, and it should snap into place beside the original window.  
 ![Split view between Lifewire and Apple home pages on Google Chrome for Mac.](https://www.lifewire.com/thmb/x9FQUuRcpsMmovvnN_-Se9XX1OM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-do-split-screen-on-a-macbook-air-01c3445392a446f3918a88fe65f6e04f.jpg)
 5. To switch window positions, click and drag one to the left or right. The windows should swap places.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Swapping window positioning in Mac Split View.](https://www.lifewire.com/thmb/GAwIa1w8f77NK8-gBbBHusTCjRY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_how-to-do-split-screen-on-a-macbook-air-cfa17d37feff42d497f36d89c8511b4c.jpg)
 6. If you’d like one window to be larger than the other, you can resize them by clicking and dragging the border between the two windows. Both windows will still fill the entire screen.  
  In macOS Monterey (12.0) and later, you can also swap out apps in Split View and make either pane switch to full screen.  
 ![Adjusting window sizing in Mac Split View with window border highlighted](https://www.lifewire.com/thmb/ky3DzDBOWrxCjrhndHnTSpdFrq8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Resizewindowborder-8af934138964454391c58ee55601ccf8.jpg)
 7. To exit Split View, hover over the top of the screen until the grey menu bar reappears. Next, hover over the green circle button and select**Exit Full Screen** . Alternatively, you can click the green circle button.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![MacBook Air website with Exit Full Screen highlighted](https://www.lifewire.com/thmb/RVpGTM72IBamY9sxdq9WmLr-0W0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Exitfullscreen-e847fb5e1a44486a981675dd367db301.jpg)  
  Sometimes, exiting full screen will cause one of your windows to disappear. If this happens to you, it’s most likely because something put the window in a separate view in[Mission Control.](https://www.lifewire.com/assign-mac-apps-to-open-in-specific-desktop-space-2260812) On your keyboard, tap**F3** (it looks like a series of rectangles) to open Mission Control, and you should see your lost window in the bar at the top of your screen.  
 [How to Connect a MacBook Air to a Monitor](https://www.lifewire.com/connect-monitor-to-macbook-air-5192977)  
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Open Other Apps in Split View  
 
  You can easily toggle between apps or open a new one while in Split View by opening Mission Control, which lets you view all your open windows, apps, and desktop spaces. With Split View active, click F3 on your keyboard to open Mission Control. You should now be able to access any app you wish.  
@@ -58,9 +73,6 @@ thumbnail: https://www.lifewire.com/thmb/VLSSitM1OGw2pQaft2pwqeXWXxo=/540x405/fi
 * Swipe up with three or four fingers on your MacBook Air’s trackpad  
 * Double-tap with two fingers on your Magic Mouse (if applicable)  
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why Won't My Mac Do Split Screen?  
 
  If you can’t access Split View on your Mac, it’s most likely because your operating system is outdated.  
@@ -74,19 +86,15 @@ thumbnail: https://www.lifewire.com/thmb/VLSSitM1OGw2pQaft2pwqeXWXxo=/540x405/fi
    9. Select**System Preferences** .  
 ![Selecting System Preferences from Apple Menu on Mac desktop.](https://www.lifewire.com/thmb/AT4sp2cD3Beo1IheLO6LBwWi3y4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SystemPreferences-160902a7424c425ca3f1db702db4a8ae.jpg)
    10. Click**Mission Control** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Selecting Mission Control from Mac System Preferences.](https://www.lifewire.com/thmb/70YcgJiWcCWWw-8xubpZZzUJapI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MissionControl-c80efa1f457e4e39a0ce93d76f1bfeb2.jpg)
    11. Ensure**Displays have separate Spaces** is selected.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
-![Mission Control settings in Mac System Preferences with "Displays have separate Spaces" highlighted](https://www.lifewire.com/thmb/KZRt3NLpeVf-QkSjk6E3D8vx96s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Displayshaveseparatefaces-f4ce44168f12424f9a0739d255350714.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Mission Control settings in Mac System Preferences with "Displays have separate Spaces" highlighted](https://www.lifewire.com/thmb/KZRt3NLpeVf-QkSjk6E3D8vx96s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Displayshaveseparatefaces-f4ce44168f12424f9a0739d255350714.jpg)
+
  FAQ
 
 * How do I split the screen on a MacBook Pro?  
@@ -118,8 +126,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -127,4 +133,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-creating-dynamic-content-with-youtube-playlist-embedding/"><u>[Updated] 2024 Approved Creating Dynamic Content with YouTube Playlist Embedding</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-essential-linux-software-for-efficient-screen-capture/"><u>[Updated] Essential Linux Software for Efficient Screen Capture</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-night-avenger-black-vs-day-defender-silver/"><u>[Updated] In 2024, Night Avenger (Black) VS Day Defender (Silver)</u></a></li>
+<li><a href="https://article-helps.techidaily.com/airborne-vigils-the-most-durable-drone-fleet-for-2024/"><u>Airborne Vigils The Most Durable Drone Fleet for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ce-audio-quality-get-high-quality-fx-for-2024/"><u>Enhance Audio Quality, Get High-Quality FX for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-effortless-elite-status-in-the-instagram-sphere/"><u>In 2024, Effortless Elite Status in the Instagram Sphere</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-websites-directory-personalized-ringtone-source/"><u>In 2024, Expert Websites Directory Personalized Ringtone Source</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-itel-a60s-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Itel A60s For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/in-depth-how-to-install-and-configure-windows-10-on-a-new-disk-unit/"><u>In Depth: How To Install and Configure Windows 10 on a New Disk Unit</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/insider-info-on-the-samsung-galaxy-s25-ultra-release-timeline-estimated-cost-and-full-tech-breakdown/"><u>Insider Info on the Samsung Galaxy S25 Ultra - Release Timeline, Estimated Cost, & Full Tech Breakdown</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/prime-video-recorders-head-on-screen-viewing/"><u>Prime Video Recorders Head-On Screen Viewing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quickening-your-pc-solutions-for-accelerating-windows-11-performance/"><u>Quickening Your PC: Solutions for Accelerating Windows 11 Performance</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solutions-for-handling-unresponsive-alexa-on-amazon-echo/"><u>Solutions for Handling Unresponsive Alexa on Amazon Echo</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722888310400-top-6-best-standalone-translation-tools-avoid-the-internet/"><u>Top 6 Best Standalone Translation Tools: Avoid the Internet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-viewers-of-your-facebook-post-share-history-tips-and-tricks/"><u>Unveiling the Viewers of Your Facebook Post Share History – Tips & Tricks</u></a></li>
+</ul></div>
 

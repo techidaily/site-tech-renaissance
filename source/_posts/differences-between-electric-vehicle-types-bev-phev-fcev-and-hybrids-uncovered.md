@@ -1,7 +1,7 @@
 ---
 title: "Differences Between Electric Vehicle Types: BEV, PHEV, FCEV & Hybrids Uncovered"
-date: 2024-08-26T07:24:32.507Z
-updated: 2024-08-27T07:24:32.507Z
+date: 2024-12-24T03:46:21.548Z
+updated: 2024-12-25T16:58:25.845Z
 categories:
   - BestProducts
 description: "This Article Describes Differences Between Electric Vehicle Types: BEV, PHEV, FCEV & Hybrids Uncovered"
@@ -15,6 +15,10 @@ thumbnail: https://thmb.techidaily.com/b4f580ce30c65e88850f0865bcf76e9b30f93eff5
 
  The unifying factor is that every electric vehicle includes an electric motor to drive the vehicle, either alone or in concert with a gasoline-reliant internal combustion engine (ICE). While all of these vehicles use electricity in one way or another, only battery electric vehicles are pure EVs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Basic Breakdown 
 
 Julie Bang
@@ -27,11 +31,19 @@ Julie Bang
 * **EREV** : Extended-range electric vehicles are hybrids that are designed to run entirely on the electric motor, and they don’t include a traditional internal combustion engine. Instead, they have a gasoline generator that can provide electricity to the batteries and electric motor when needed to extend the overall range.
 * **FCEV** : Fuel cell electric vehicles are different from other electric vehicles. Instead of a rechargeable battery, they use fuel cells that generate electricity through a reaction between hydrogen and oxygen. They have to be refueled at hydrogen charging stations.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Electric Vehicles (EV) and Battery Electric Vehicles (BEV) 
 
  Battery electric vehicles are purely electric. Unlike other types of EVs, BEVs rely only on battery power. These vehicles don’t have internal combustion engines, don’t have tailpipes, and produce zero emissions during operation. Since there is no internal combustion engine, the battery needs to be charged by plugging it in.
 
 ![Close Up Of Electric Motor In Engine Bay Of Electric Car](https://www.lifewire.com/thmb/ffwwoE4gDDdyP2WtPjkGPtd0ffQ=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/EVenginecloseup_mokeybusinessimages_iStock_GettyImagesPlus-44213dd675b54cf9851b2d793638aa74.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Close up of electric motor. 
 
@@ -43,9 +55,6 @@ monkeybusinessimages/iStock/Getty Images Plus
 
  Since BEVs have to be plugged in, and charging can take a long time without a fast charging station, it’s only natural to be concerned about range. BEV range has increased a lot in recent years though, with some driving up to 400 miles on a single charge. Even the most affordable BEVs provide around 100 miles on a charge though, making them well-suited to city driving and moderate commutes. Longer trips can require some pre-planning depending on the range of the BEV, but charging stations are widely available in most areas.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Hybrid Electric Vehicles (HEV) 
 
  The reason that the term EV gets applied to vehicles that aren’t, strictly speaking, pure electric vehicles is that hybrid electrics were the first to reach the mainstream. These hybrid electric vehicles are a lot like traditional gas-powered vehicles with similar drivetrains, except they include both an electric motor and an internal combustion engine (ICE).
@@ -54,9 +63,6 @@ monkeybusinessimages/iStock/Getty Images Plus
 
 ![A hybrid car engine.](https://www.lifewire.com/thmb/uVPkl2cTlSiqQLXZPZWImBUQd1o=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Hybridcarengine_cipango27_istock_GettyImagesPlus-cf4ab821bf0046169f1cb7bd2fa1982c.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 A hybrid car engine. 
 
 cipango27/iStock/Getty Images Plus
@@ -68,8 +74,9 @@ cipango27/iStock/Getty Images Plus
  The main benefit of an HEV is convenience. From the perspective of the driver, an HEV is no different from an ICE vehicle. You still fill it up with gas like a traditional ICE vehicle, and the electric part takes place under the hood and out of sight with no input from the driver. The downside is that they still burn fossil fuel and still produce a significant amount of carbon emissions.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Plug-in Hybrids (PHEV): Parallel and Series 
 
  Plug-in hybrid electric vehicles come in two flavors: parallel and series. The parallel type is usually just referred to as PHEV, while the series variation can be referred to as extended range electric vehicles (EREV).
@@ -82,9 +89,6 @@ cipango27/iStock/Getty Images Plus
 
 ![Close up of plug-in hybrid port of an Hybrid Electric Vehicle (PHEV).](https://www.lifewire.com/thmb/UZwtFdgGMf7WVcSLy44woscGk-A=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/PHEVpluginport_Boy_Anupong_Moment_Getty-663b083340fb44b5a8105fd74beffb53.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Close up of the plug-in/gas port of an Hybrid Electric Vehicle (PHEV). 
 
 Boy\_Anupong/Moment/Getty
@@ -105,18 +109,6 @@ Boy\_Anupong/Moment/Getty
 
 ![HydroGen 3 Fuel Cell Minivan Engine](https://www.lifewire.com/thmb/YWfDVNWTFGaPJrWOCm7GpOvXtrM=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Fuelcellengine_Arctic-Images_TheImageBankUnreleased-1e096669f0f5453ba1c4c5e997679dbc.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  HydroGen 3 Fuel Cell Minivan Engine. 
 
 Arctic-Images/The Image Bank Unreleased
@@ -126,8 +118,9 @@ Arctic-Images/The Image Bank Unreleased
  For example, if you lived near fuel stations in Los Angeles, you couldn’t take a weekend trip to Las Vegas. While the travel distance of about 240 miles might be inside your range, you wouldn’t be able to fuel up before heading home. Even if your FCEV had a range of 366 miles, you’d run out of hydrogen somewhere in the desert on your return trip. To safely make the same trip, a long range BEV could simply charge up before the return trip, while a shorter range BEV could stop at charging stations along the way.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Why Are There So Many Types of EVs? 
 
  Electric vehicle technology has been around for over 200 years, but it only came back into focus and started evolving rapidly in the last couple decades.
@@ -162,8 +155,6 @@ Arctic-Images/The Image Bank Unreleased
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -171,4 +162,24 @@ Arctic-Images/The Image Bank Unreleased
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-gif-design-essentials-top-9-tools-to-elevate-your-creativity/"><u>[New] GIF Design Essentials Top 9 Tools to Elevate Your Creativity</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/audio-essentials-explained-unveiling-the-differences-between-ht-and-sr-receivers/"><u>Audio Essentials Explained: Unveiling the Differences Between HT and SR Receivers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/audio-service-halted-in-win-11-solution-provided/"><u>Audio Service Halted in Win 11, Solution Provided</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-cloud-gaming-strategies-using-xbox-game-pass-ultimate/"><u>Comprehensive Cloud Gaming Strategies Using Xbox Game Pass Ultimate</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/considerations-you-shouldnt-ignore-before-buying-a-printer/"><u>Considerations You Shouldn't Ignore Before Buying a Printer</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/effortlessly-transferring-images-from-your-iphone-to-ipad-using-the-easy-pinch-technique-and-other-top-strategies/"><u>Effortlessly Transferring Images From Your iPhone to iPad Using the Easy Pinch Technique and Other Top Strategies</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-become-a-trending-sensation-with-these-effective-youtube-seo-strategies/"><u>In 2024, Become a Trending Sensation with These Effective YouTube SEO Strategies</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-instagram-stories-mastering-the-art-of-time-manipulation/"><u>In 2024, Instagram Stories – Mastering the Art of Time Manipulation</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-iphone-14-pro-max-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of iPhone 14 Pro Max Prevention & Solution</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-the-essential-guide-to-streaming-quality-via-obs-youtube-and-twitch/"><u>In 2024, The Essential Guide to Streaming Quality via OBS, YouTube & Twitch</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/making-windows-reload-in-protective-safe-mode-a-detailed-guide/"><u>Making Windows Reload in Protective Safe Mode – A Detailed Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/masterclass-the-art-of-sharing-games-through-steam-gifts/"><u>Masterclass: The Art of Sharing Games Through Steam Gifts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/samsung-galaxy-s25-tease-release-forecasts-estimated-costs-and-potential-features-leaked-so-far/"><u>Samsung Galaxy S25 Tease: Release Forecasts, Estimated Costs, and Potential Features Leaked So Far</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-creating-reverse-effects-with-snapchats-tools/"><u>Step-by-Step Tutorial: Creating Reverse Effects with Snapchat's Tools</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-key-differences-between-an-ipad-and-standard-tablets/"><u>Unveiling Key Differences Between an iPad and Standard Tablets</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/yahoo-users-heres-how-you-can-erase-your-email-account-forever/"><u>Yahoo Users, Here's How You Can Erase Your Email Account Forever</u></a></li>
+</ul></div>
 

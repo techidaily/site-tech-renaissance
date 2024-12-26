@@ -1,7 +1,7 @@
 ---
 title: "Smart Choices in Smartphones: The Case Against Purchasing an iPhone 16 From Apple | ZDNet Insights"
-date: 2024-12-16T16:02:10.602Z
-updated: 2024-12-17T16:01:39.908Z
+date: 2024-12-25T01:01:22.930Z
+updated: 2024-12-25T18:15:04.541Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ As an iPhone 14 Pro Max user, I'm not convinced that the new AI-enabled [iPhone 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -58,7 +58,7 @@ Apple's artificial intelligence push, aptly named Apple Intelligence, will be av
 To run smoothly, the Apple Intelligence features require an A17 chip or newer and at least 8GB of RAM, but the iPhone 14 Pro has the A16 chip and only 6GB of RAM. The iPhone 16 Pro features an A18 Pro chip and 8GB of RAM, making it a good device to run Apple's AI features. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. You'd like to get your hands on the bigger screen
@@ -69,10 +69,6 @@ Apple has thinned out the iPhone 16 Pro's bezels to the bare minimum and stretch
 
 The larger smartphone also means that the iPhone 16 Pro has a larger battery than the 14 Pro, at 3,355 mAh compared to 3,200 mAh. But even without the welcome battery upgrade, the new Pro models support faster charging than ever. The iPhone 16 Pro supports 40W wired charging and 20W of MagSafe charging, so if you find the iPhone 14 Pro's charging slow, it could be time to upgrade.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. You love taking beautiful photos
 
 The iPhone 16 Pro features some of the best camera enhancements, including the improved ultrawide camera. The UW camera moved to align with a larger, improved Sony sensor, so it's going from a measly 12MP to 48MP. 
@@ -82,6 +78,10 @@ The iPhone 16 Pro features some of the best camera enhancements, including the i
 If you love taking photos with your smartphone, the camera upgrades alone may be enough to upgrade to an iPhone 16 Pro. The optical zoom is now 5x, an upgrade from the iPhone 14 Pro's 3x zoom. The iPhone 16 Pro will also feature Apple's new capture button, which lets you control the camera with gestures, like moving your finger and tapping the touch-enabled button. 
 
 [Pre-order the iPhone 16 Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-16-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## You should buy (or keep) the iPhone 14 Pro if…
 
@@ -96,7 +96,7 @@ Even with the Apple Intelligence features, the iPhone 16 seems to be an incremen
 [Rumors](https://9to5mac.com/2024/07/12/iphone-16-new-features-worth-the-wait/) suggest the iPhone 17 may feature more dramatic design and functionality updates, making it a worthwhile jump. Besides, upgrading after two generations can be costly, which brings me to my next point. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. You just finished paying it off
@@ -110,7 +110,7 @@ As an iPhone 14 Pro Max user, I'm still pretty happy with how my iPhone performs
 [iPhone 14 Pro (Pre-owned) $627.45 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BN95FRW9%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4691f0ff-b619-40d5-ba5e-5f03bf587b66%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -147,24 +147,24 @@ As an iPhone 14 Pro Max user, I'm still pretty happy with how my iPhone performs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-keeping-it-real-in-the-rat-race-of-retweets-and-likes-for-2024/"><u>[New] Keeping It Real in the Rat Race of Retweets and Likes for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-easy-steps-to-capture-iphone-screens-seamlessly/"><u>[Updated] 2024 Approved Easy Steps to Capture iPhone Screens Seamlessly</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-superior-recording-devices-face-camera-included/"><u>[Updated] In 2024, Superior Recording Devices - Face Camera Included</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/-channels-to-partner-status-in-under-90-days-start-now-in-2024/"><u>Boost Channels to Partner Status in Under 90 Days, Start Now, In 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/capturing-the-moment-how-to-use-timer-function-on-iphone-for-photography/"><u>Capturing the Moment: How to Use Timer Function on iPhone for Photography</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/deciphering-twitter-terminology-the-meaning-of-retweet-versus-re-tweet/"><u>Deciphering Twitter Terminology: The Meaning of 'Retweet' Versus 'Re-Tweet'</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-does-atandt-handle-wireless-connectivity-abroad/"><u>How Does AT&T Handle Wireless Connectivity Abroad?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-correctly-handle-missing-or-not-detected-jscriptdll-problems-on-your-pc/"><u>How to Correctly Handle 'Missing or Not Detected' JScript.dll Problems on Your PC</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-poco-c51-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Poco C51 to Outlook | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-vivo-t2x-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Vivo T2x 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://fox-http.techidaily.com/laughter-labyrinas-ideas-that-resonate-with-crowds-for-2024/"><u>Laughter Labyrinas Ideas That Resonate with Crowds for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revitalize-your-tech-a-zdnet-guide-to-essential-springtime-device-maintenance-tips-6-must-do-tasks/"><u>Revitalize Your Tech: A ZDNet Guide to Essential Springtime Device Maintenance Tips (6 Must-Do Tasks)</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/revive-your-facetime-conversations-a-guide-to-rectifying-black-screens/"><u>Revive Your FaceTime Conversations: A Guide to Rectifying Black Screens</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/steps-to-redial-an-unlisted-phone-number-a-complete-guide/"><u>Steps to Redial an Unlisted Phone Number: A Complete Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/student-savings-unleashed-how-to-access-discounted-spotify-premium/"><u>Student Savings Unleashed: How to Access Discounted Spotify Premium</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-rise-of-tiktok-eclipsing-facebooks-growth-and-profits/"><u>The Rise of TikTok Eclipsing Facebook's Growth and Profits</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-tutorial-for-assessing-personal-data-usage-habits/"><u>The Ultimate Tutorial for Assessing Personal Data Usage Habits</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-wi-fi-calling-a-comprehensive-guide/"><u>Understanding Wi-Fi Calling: A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unraveling-top-hdr-camera-brands-and-features/"><u>Unraveling Top HDR Camera Brands and Features</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ecrets-revealed-6-strategies-to-keep-your-youtube-audience-hooked-and-returning-for-2024/"><u>[New] Secrets Revealed 6 Strategies to Keep Your YouTube Audience Hooked and Returning for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-a-look-at-earnings-understanding-your-monthly-income-from-youtubes-adsense/"><u>[Updated] In 2024, A Look at Earnings Understanding Your Monthly Income From YouTube's AdSense</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transformative-strategies-for-podcast-rankings-and-visibility/"><u>2024 Approved Transformative Strategies for Podcast Rankings and Visibility</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/bypassing-the-hurdle-steps-for-successfully-uploading-an-instagram-story-again/"><u>Bypassing the Hurdle: Steps for Successfully Uploading an Instagram Story Again</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficient-setup-guide-update-tp-link-usb-wi-fi-on-windows-pcs/"><u>Efficient Setup Guide: Update TP Link USB Wi-Fi on Windows PCs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-80240020-on-your-pc-heres-how-to-successfully-install-windows-10/"><u>Error 80240020 on Your PC? Here's How to Successfully Install Windows 10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-waters-understanding-iphone-15s-resistance-levels/"><u>Exploring the Waters: Understanding iPhone 15'S Resistance Levels</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/has-pope-francis-embraced-email-technology-for-vatican-communication/"><u>Has Pope Francis Embraced Email Technology for Vatican Communication?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/potplayer-plus-windows-media-counterpart-for-2024/"><u>PotPlayer Plus Windows Media Counterpart for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-youtube-revenue-assessments-available-for-2024/"><u>Quick YouTube Revenue Assessments Available for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-mystery-of-a-missing-msvcr80dll-a-step-by-step-guide/"><u>Solving the Mystery of a Missing msvcr80.dll: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/sonys-playstation-vr-2-library-unveiled-comprehensive-game-roster/"><u>Sony's PlayStation VR 2 Library Unveiled: Comprehensive Game Roster</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-mastery-of-cloud-gaming-with-your-xbox-game-pass-ultimate/"><u>Step-by-Step Mastery of Cloud Gaming with Your Xbox Game Pass Ultimate</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209991361-9781609883324-the-hidden-power-of-sound/"><u>The Hidden Power of SOund | Free Book</u></a></li>
+<li><a href="https://discover-data.techidaily.com/the-sentence-the-charm-of-older-properties-often-lies-in-the-architectural-details-including-built-in-wardrobes-and-archways-scores-a-complexity-level-of-45351/"><u>The Sentence 'The Charm of Older Properties Often Lies in the Architectural Details, Including Built-In Wardrobes and Archways' Scores a Complexity Level of 4/5. (More Complex Structure and Use of Words Like Charm and Lies)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-507-most-creative-instagram-caption-ideas-of-2024/"><u>Top 507 Most Creative Instagram Caption Ideas of 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722876360503-unplugged-and-unresponsive-get-your-roku-tv-running-again-with-our-quick-fixes/"><u>Unplugged & Unresponsive? Get Your Roku TV Running Again with Our Quick Fixes</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Xiaomi Civi 3? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/wininetdll-errors-explained-techniques-to-restore-missing-dll-files/"><u>Wininet.dll Errors Explained: Techniques to Restore Missing DLL Files</u></a></li>
 </ul></div>
 

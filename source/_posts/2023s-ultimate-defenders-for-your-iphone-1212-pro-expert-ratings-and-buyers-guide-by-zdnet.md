@@ -1,7 +1,7 @@
 ---
 title: "2023'S Ultimate Defenders for Your iPhone 12/12 Pro: Expert Ratings and Buyer’s Guide by ZDNet"
-date: 2024-12-11T16:00:42.466Z
-updated: 2024-12-17T16:01:35.456Z
+date: 2024-12-21T18:51:14.787Z
+updated: 2024-12-25T23:18:58.036Z
 tags:
   - apple
 categories:
@@ -46,6 +46,10 @@ Cons
 
 ## Pela case
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best iPhone 12 case overall
 
 Pela cases are made of Flaxstic, a plastic alternative made of flax straw that's non-toxic and free of phthalates, BPA, cadmium, and lead. The material is soft to the touch, flexible, and able to survive a 20-foot drop test. That means Pela cases are both shock-absorbing and biodegradable. And when you no longer need it, you can send it back to Pela. The company will turn it into a new product or compost it to promote a circular economy. The case is also packaged in recycled paper material (no plastic!).
@@ -67,10 +71,14 @@ Cons
 * Pricier
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Silicone Case with MagSafe
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best MagSafe iPhone 12 case
 
@@ -96,11 +104,11 @@ Pros
 Cons 
 * Clear design may yellow
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Bodyguardz Ace Pro
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best budget iPhone 12 case
 
@@ -125,15 +133,7 @@ Pros
 Cons 
 * Shipping can take up to 12 business days for US orders and up to 23 business days for non-US orders
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Casetify cases
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best customizable iPhone 12 case
 
@@ -158,10 +158,6 @@ Cons
 
 ## ESR Air Armor
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best clear iPhone 12 case
 
 Finally, a clear case that doesn't yellow with time! The ESR Air Armor is available in crystal clear for only $14, while other colors like black, blue, and frosted frame, are under $17\. 
@@ -185,10 +181,6 @@ Pros
 
 Cons 
 * Price varies
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Incipio Organicore
 
@@ -215,6 +207,10 @@ Cons
 
 ## Nomad Rugged case
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best leather iPhone 12 case
 
 Nomad offers a few case options ranging in price from from $50 to $70 and ZDNET's Matthew Miller [spent time with a couple](https://www.zdnet.com/article/nomad-rugged-leather-cases-for-apple-iphone-12-classic-horween-leather-cases-provide-stylish-protection/)of the cases. If you're interested in a Horween leather case that ages well over time and looks great, then Nomad is definitely one of the best options to consider. The Horween leather case is sourced from Horween Leather Company and has a buttery surface that develops a unique patina over time. It costs $50 and offers 10-foot drop protection.
@@ -239,11 +235,11 @@ Cons
 * Fingerprints may show up easily
 * Colors may not be vibrant against a darker color phone
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Speck Presidio Edition
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best iPhone 12 case for drop protection
 
@@ -280,6 +276,10 @@ The case has a camera lens "lip" to make sure that the camera does not get scrat
 
 Show Expert Take Show less 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best iPhone case?
 
 The best iPhone 12 case is the Pela case, chosen for its environmental safety, drop protection, biodegradable quality, and tactile feel. In the table below, I compare price to drop protection level for each case above.
@@ -295,10 +295,6 @@ The best iPhone 12 case is the Pela case, chosen for its environmental safety, d
 | Nomad Rugged case                | $25       | 10 feet             |
 | Speck Products Presidio Edition  | $23       | 13 feet             |
 | Totallee case                    | $19       | Unspecified         |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Which iPhone case is right for you?
 
@@ -316,6 +312,10 @@ Each case on this list has unique pros and cons. One case might be a better choi
 | Speck Products Presidio Edition   | The best slim iPhone 12 case                                                          |
 | Totallee case                     | The best ultra thin case that protects your phone and camera from nicks and scratches |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What should I look for in an iPhone case?
 
 If you've invested in a top-notch smartphone like an iPhone 12 or 12 Pro, you'll likely want to protect it. There are many features you can look for, but I consider protection, size, style, and features the most important:
@@ -324,6 +324,10 @@ If you've invested in a top-notch smartphone like an iPhone 12 or 12 Pro, you'll
 * **Size:** Some iPhone users prefer maintaining the slim contours of their phones, while others don't mind sacrificing slimness for added protection. On the sliding scale of slim to extremely bulky, where does your ideal case fall?
 * **Style:** Custom cases, like Casetify cases, emphasize personalization, while cases made of leather or compostable materials emphasize lifestyle choices or texture preferences. Your phone case can be a reflection of you and your values. Make sure to choose a case that feels good and looks good -- chances are, you'll be looking at it a lot.
 * **Features:** The cases on this list come with a number of added features, including antimicrobial protection and MagSafe compatibility.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Does wireless charging work with a case?
 
@@ -340,10 +344,6 @@ Yes. OtterBox cases are durable, and I added an OtterBox option to my list of fa
 ## What is the safest case for iPhone 12 Pro?
 
 The Pela case is made out of non-toxic materials and has been tested for safety. It's free of phthalates, BPA, cadmium, and lead and is verified to meet child safety standards in the U.S., Canada, Europe, Australia, and New Zealand. You can compost it in a home composting environment or an industrial composting facility. Each case on this list keeps your phone safe to varying degrees.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Do you need a case for iPhone 12?
 
@@ -389,24 +389,21 @@ Of course. Here are a few options to consider.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-computational-photography-what-are-auto-hdr-smart-hdr-3-and-4-shooting-modes-in-2024/"><u>[New] Computational Photography What Are Auto HDR, Smart HDR 3 & 4 Shooting Modes, In 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-streamline-your-tiktok-experience-4-desktop-broadcast-strategies/"><u>[Updated] 2024 Approved Streamline Your TikTok Experience 4 Desktop Broadcast Strategies</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-best-ways-to-take-amazing-time-lapse-videos-on-android-2024/"><u>[Updated] Best Ways to Take Amazing Time-Lapse Videos on Android 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-escalate-your-channels-popularity-to-1kplus/"><u>2024 Approved Escalate Your Channel's Popularity to 1K+</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/assistant/"><u>Assistant</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/best-free-premiere-pro-templates/"><u>Best Free Premiere Pro Templates</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/dealing-with-libeay32dll-errors-effective-solutions-and-prevention-methods/"><u>Dealing with Libeay32.dll Errors: Effective Solutions and Prevention Methods</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-fix-driverpowerstatefailure-issue/"><u>How to Fix DRIVER_POWER_STATE_FAILURE Issue</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-utilize-chatgpt-for-tailoring-your-watchlist-choices/"><u>How to Utilize ChatGPT for Tailoring Your Watchlist Choices</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigating-through-windows-network-layers-with-the-powerful-tracert-utility/"><u>Navigating Through Windows Network Layers with the Powerful Tracert Utility</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-mac-movie-magic-how-to-bring-your-vision-to-life-for-2024/"><u>New Mac Movie Magic How to Bring Your Vision to Life for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/overcoming-blue-screen-blues-fixing-stop-code-0x00000078-phase0exception/"><u>Overcoming Blue Screen Blues: Fixing STOP Code 0X00000078 (Phase0_Exception)</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/sequential-watchlist-for-dragon-ball-fans-the-right-way-to-enjoy-gokus-journey/"><u>Sequential Watchlist for Dragon Ball Fans: The Right Way to Enjoy Goku's Journey</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solve-the-mystery-of-disappearing-helperdll-files-tips-and-tricks-for-success/"><u>Solve the Mystery of Disappearing Helper.dll Files: Tips and Tricks for Success</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/spotify-to-scribble-how-to-change-your-online-playlists-to-printable-files/"><u>Spotify to Scribble: How To Change Your Online Playlists to Printable Files</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-on-integrating-disneyplus-into-your-chromecast-experience/"><u>Step-by-Step Instructions on Integrating Disney+ Into Your Chromecast Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-successful-launch-of-destiny-2-on-windows-and-mac-os/"><u>Troubleshooting Guide: Successful Launch of Destiny 2 on Windows and Mac OS</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unleashing-the-power-of-gaming-in-the-cloud-a-users-manual-for-xbox-game-pass-ultimate/"><u>Unleashing the Power of Gaming in the Cloud: A User's Manual for Xbox Game Pass Ultimate</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlock-international-conversations-with-these-top-5-free-calling-solutions/"><u>Unlock International Conversations with These Top 5 Free Calling Solutions</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-chrome-os-screen-capture-mastering-the-art-in-four-steps/"><u>[New] 2024 Approved Chrome OS Screen Capture Mastering the Art in Four Steps</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-cutting-edge-radio-theatre-scripting/"><u>[New] 2024 Approved Cutting-Edge Radio Theatre Scripting</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-unleash-creativity-top-8-sites-offering-free-green-screen-footage-and-backgrounds/"><u>[New] 2024 Approved Unleash Creativity Top 8 Sites Offering Free Green Screen Footage & Backgrounds</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-accelerating-or-slowing-down-video-playback-on-insta-stories-for-2024/"><u>[New] Accelerating or Slowing Down Video Playback on Insta Stories for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/rack-the-code-unearthing-hidden-gems-in-youtubes-archive-for-2024/"><u>[New] Crack the Code Unearthing Hidden Gems in YouTube's Archive for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/adaptation-measures-are-a-key-aspect-of-climate-change-law-focving-on-increasing-resilience-to-the-impacts-of-global-warming-through-planning-for-sea-level-42/"><u>Adaptation Measures Are a Key Aspect of Climate Change Law, Focving on Increasing Resilience to the Impacts of Global Warming Through Planning for Sea-Level Rise, Extreme Weather Events, and Other Related Risks.</u></a></li>
+<li><a href="https://win-premium.techidaily.com/emeditor-text-editor-with-syntax-highlighting-support-for-various-file-extensions/"><u>EmEditor Text Editor with Syntax Highlighting Support for Various File Extensions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/home-cinema-with-fandango-how-to-enjoy-endless-entertainment-on-apple-tv/"><u>Home Cinema with Fandango: How to Enjoy Endless Entertainment on Apple TV</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-recover-from-msstdfmtdll-missing-a-comprehensive-troubleshooting-guide/"><u>How To Recover From Msstdfmt.dll Missing: A Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-bring-back-the-buzz-transforming-previous-media-with-ig-filters/"><u>In 2024, Bring Back the Buzz Transforming Previous Media with IG Filters</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-instant-upload-solutions-top-5-free-online-converter-services/"><u>In 2024, Instant Upload Solutions Top 5 Free Online Converter Services</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-resolving-the-missing-msstdfmtdll-error/"><u>Step-by-Step Guide: Resolving the Missing Msstdfmt.dll Error</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-and-repairing-not-found-or-missing-gsdll32dll-errors-efficiently/"><u>Troubleshooting and Repairing 'Not Found' Or 'Missing' gsdll32.dll Errors Efficiently</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-the-infamous-cmos-checksum-mismatch-heres-how/"><u>Troubleshooting the Infamous CMOS Checksum Mismatch – Here's How!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-the-differences-among-battery-electric-vehicles-plug-in-hybrs-hydrogen-cell-vehicles-and-traditional-hybrids/"><u>Understanding the Differences Among Battery Electric Vehicles, Plug-In Hybrs, Hydrogen Cell Vehicles & Traditional Hybrids</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/wiring-up-an-apple-homepod-for-streamlined-use-with-your-television-system/"><u>Wiring Up an Apple HomePod for Streamlined Use with Your Television System</u></a></li>
 </ul></div>
 

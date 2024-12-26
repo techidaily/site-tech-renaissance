@@ -1,7 +1,7 @@
 ---
 title: Apple Slashes the Price of Their Latest M2 Mac Mini to an All-Time Low at Only $479 - Insights From ZDNet
-date: 2024-12-15T16:00:10.441Z
-updated: 2024-12-17T16:01:58.786Z
+date: 2024-12-22T18:13:46.226Z
+updated: 2024-12-26T00:33:31.059Z
 tags:
   - apple
 categories:
@@ -47,7 +47,7 @@ So what could Apple tell me now that would make me instantly conclude I need an 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## It's the camera, stupid
@@ -67,7 +67,7 @@ Next Apple offers: "Get more room to zoom with a 2x Telephoto. It's like having 
 On which subject, we move to Apple's next tease: "If your subject is a person, dog, or cat, iPhone 15 lets you quickly capture the shot and turn it into a portrait later." This makes it sound like it's a feature only for people, dogs, and cats. Which, again, is nice but is it worth the upgrade?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## And it's the movies
@@ -89,7 +89,7 @@ Apple explains: "Longer battery life lets you watch up to 3 more hours of video 
 That's the thing when people buy phones. They prefer actual results. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can I buy into the dynamism?
@@ -150,22 +150,19 @@ Perhaps that one will have something about it that I just can't resist. I can wa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-how-to-secure-and-swift-transfer-of-photos-from-iphoneandroid-to-snapchat/"><u>[Updated] 2024 Approved How-To Secure and Swift Transfer of Photos From iPhone/Android to Snapchat</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-revisiting-old-memories-how-to-upload-them-on-snapchat/"><u>[Updated] 2024 Approved Revisiting Old Memories How to Upload Them on Snapchat</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96489639-9781578594658-alien-mysteries-conspiracies-and-cover-ups/"><u>Alien Mysteries, Conspiracies and Cover-Ups | Free Book</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722859088355-discover-the-advantages-of-downloading-ios-16-cost-free-version-with-exciting-enhancements-released-now/"><u>Discover the Advantages of Downloading iOS 16: Cost-Free Version with Exciting Enhancements Released Now</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-and-setup-insignia-vga-connector-for-your-usb-comprehensive-guide/"><u>Download and Setup Insignia VGA Connector for Your USB: Comprehensive Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-internet-archives-wayback-machine-essential-techniques-for-beginners/"><u>Exploring the Internet Archive's Wayback Machine – Essential Techniques for Beginners</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fixing-the-d3dx924dll-not-detected-on-your-pc/"><u>Fixing the d3dx9_24.dll Not Detected on Your PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-capturing-screen-images-on-hp-laptops-efficiently/"><u>Guide: Capturing Screen Images on HP Laptops Efficiently</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-lock-from-your-iphone-6-plus-and-ipad-by-drfone-ios/"><u>In 2024, How to Unlock iCloud lock from your iPhone 6 Plus and iPad?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/overcoming-spell-check-failures-tips-for-microsoft-outlook-users/"><u>Overcoming Spell Check Failures: Tips for Microsoft Outlook Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reacquiring-your-windows-11-pin-a-fix-guide/"><u>Reacquiring Your Windows 11 PIN: A Fix Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tapping-into-dream-careers-with-artificial-intelligence/"><u>Tapping Into Dream Careers with Artificial Intelligence</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-silent-dilemma-exploring-the-root-causes-of-malfunctioning-car-speakers/"><u>The Silent Dilemma: Exploring the Root Causes of Malfunctioning Car Speakers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-resolve-missing-d3dx933dll-error-effectively/"><u>Troubleshooting: Resolve 'Missing d3dx9_33.dll' Error Effectively</u></a></li>
-<li><a href="https://article-helps.techidaily.com/unleash-creativity-in-editing-leveraging-storyremix-with-windows-11-photos-for-2024/"><u>Unleash Creativity in Editing Leveraging StoryRemix with Windows 11 Photos for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-t2x-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo T2x 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/winning-tactics-against-the-ferocious-lynel-of-breath-of-the-wild/"><u>Winning Tactics Against the Ferocious Lynel of Breath of the Wild</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-10-essential-methods-to-record-virtual-seminars-at-no-expense/"><u>[New] In 2024, 10 Essential Methods to Record Virtual Seminars at No Expense</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-eliminate-grainy-footage-tips-for-social-media-apps/"><u>[Updated] 2024 Approved Eliminate Grainy Footage Tips for Social Media Apps</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-navigating-youtubes-profit-maze/"><u>[Updated] Navigating YouTube's Profit Maze</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-tweettwirling-the-ultimate-guide-to-fun-and-friendly-gifs-2-written-by-authors-name-for-2024/"><u>[Updated] TweetTwirling The Ultimate Guide to Fun and Friendly Gifs, 2 Written by [Author's Name] for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-adopting-advanced-advertising-approaches-metaverse/"><u>2024 Approved Adopting Advanced Advertising Approaches Metaverse</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-strategies-for-leveraging-the-wayback-machine-to-access-archived-web-pages/"><u>Expert Strategies for Leveraging the Wayback Machine to Access Archived Web Pages</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-on-fixing-a-broken-samsung-soundbar-quickly-and-efficiently/"><u>Expert Tips on Fixing a Broken Samsung Soundbar Quickly & Efficiently</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-the-elusive-normalizdll-error-expert-tips-and-solutions/"><u>Fixing the Elusive Normaliz.dll Error: Expert Tips and Solutions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-meizu-21-pro-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Meizu 21 Pro Phone without PIN</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-leveraging-vimeos-end-credits-for-visual-impact/"><u>In 2024, Leveraging Vimeo's End Credits for Visual Impact</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/iphone-to-ipad-messaging-conversion-how-to-for-seamless-communication/"><u>IPhone to iPad Messaging Conversion: How-To for Seamless Communication</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-android-text-message-issues-a-comprehensive-guide/"><u>Solving Android Text Message Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/top-30-windows-film-editor-applications-reviewed-and-rated/"><u>Top 30 Windows Film Editor Applications Reviewed & Rated</u></a></li>
 </ul></div>
 

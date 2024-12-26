@@ -1,7 +1,7 @@
 ---
 title: Top AT&T Mobile Offers in May 2024 - Exclusive Picks From ZDNet
-date: 2024-12-16T16:00:48.051Z
-updated: 2024-12-17T16:00:09.802Z
+date: 2024-12-21T20:09:44.500Z
+updated: 2024-12-26T06:53:16.409Z
 tags:
   - apple
 categories:
@@ -141,7 +141,7 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 [BodyGuardz Pure 2 Edge antimicrobial glass screen protector (iPhone 14 range) for $10 (save $35) $10 at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/accessories/Screen-Protectors/bodyguardz-pure-2-edge-antimicrobial-tempered-glass-screen-protector-iphone-14-13-13-pro.html)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How did we choose these AT&T phone deals?
@@ -155,7 +155,7 @@ When we made our selection for the best AT&T deals, we wanted to include options
 * **Events**: It's always worth checking retailers after a major event, such as Samsung Unpacked. You will often find that deals will be launched just after, luring customers to agree to preorder their new handset in return for discounts and free storage upgrades.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Does AT&T offer deals for existing customers?
@@ -163,20 +163,20 @@ When we made our selection for the best AT&T deals, we wanted to include options
 It's true that carriers are the most aggressive with their offers when it's year-end and new customers are shopping around for services to switch to. Still, AT&T has done a fairly balanced job of pushing promotions for new and existing customers, including all the deals we have listed above. If you've been a loyal customer, we'd even recommend reaching out to your local AT&T provider to see if there are any exclusive deals just for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is it cheaper to buy a phone online or in-store?
 
 In general, there is no difference in how much money you save whether you shop online or in stores. Instead, deciding between the two really boils down to your preference for transactions. With how complicated carrier phone deals can be, you may be better off heading down to the local AT&T store and consulting with a product expert to help you navigate the fine print. Otherwise, shopping online can be faster and more convenient.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What are the best deals right now?
 
 ZDNET experts split out the latest and greatest deals for you below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Best deals by retailer**
 
@@ -184,7 +184,7 @@ ZDNET experts split out the latest and greatest deals for you below.
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Best deals by category**
@@ -236,22 +236,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-virtual-realms-unveiled-gear-vs-lgcam-review/"><u>[Updated] 2024 Approved Virtual Realms Unveiled Gear vs LGCam Review</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-instasaves-the-leading-videophoto-downloaders-for-2024/"><u>[Updated] InstaSaves The Leading Video/Photo Downloaders for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-quick-solutions-for-the-crashy-windows-11-photos-app/"><u>[Updated] Quick Solutions for the Crashy Windows 11 Photos App</u></a></li>
-<li><a href="https://fox-links.techidaily.com/advanced-techniques-for-efficient-use-of-luts-in-cs6cc-for-2024/"><u>Advanced Techniques for Efficient Use of LUTs in CS6/CC for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/benefits-of-upgrading-to-an-nvidia-rtx-card-is-it-worth-it/"><u>Benefits of Upgrading to an NVIDIA RTX Card: Is It Worth It?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/complete-solutions-to-address-the-missing-vcompdll-error-in-windows/"><u>Complete Solutions to Address the Missing vcomp.dll Error in Windows</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/endgultige-anleitung-fur-die-behandlung-der-datenwiederherstellung-nach-dem-neuaufbau-des-fabrikenmodus-in-windows-7/"><u>Endgültige Anleitung Für Die Behandlung Der Datenwiederherstellung Nach Dem Neuaufbau Des Fabrikenmodus in Windows 7</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-overcoming-the-microsoft-edge-freezing-dilemma-in-windows-11/"><u>Expert Tips: Overcoming the Microsoft Edge Freezing Dilemma in Windows 11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fixing-a-silent-sirius-a-guide-for-dealing-with-unresponsive-alexa-devices/"><u>Fixing a Silent Sirius - A Guide for Dealing With Unresponsive Alexa Devices</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-xiaomi-civi-3-disney-100th-anniversary-edition-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Xiaomi Civi 3 Disney 100th Anniversary Edition to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ipad-pro-vs-macbook-air-a-comprehensive-review-of-their-unique-features/"><u>IPad Pro vs MacBook Air - A Comprehensive Review of Their Unique Features</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/must-watch-animated-adventures-on-disneyplus-the-best-picks-for-kids-and-families-july-2atury/"><u>Must-Watch Animated Adventures on Disney+ – The Best Picks for Kids and Families, July 2Atury</u></a></li>
-<li><a href="https://extra-information.techidaily.com/pixel-playfulness-harnessing-funny-lenses-in-snapchat/"><u>Pixel Playfulness Harnessing Funny Lenses in Snapchat</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Nokia C12? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/synchronize-successfully-a-comprehensive-method-for-wireless-samsung-earbuds-and-laptop-integration/"><u>Synchronize Successfully: A Comprehensive Method for Wireless Samsung Earbuds and Laptop Integration</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-8-must-have-travel-organizer-apps-for-effortless-trip-planning/"><u>Top 8 Must-Have Travel Organizer Apps for Effortless Trip Planning</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unleash-efficient-viewing-with-the-picture-in-picture-functionality-on-your-android-smartphone/"><u>Unleash Efficient Viewing with the Picture-in-Picture Functionality on Your Android Smartphone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-innovative-approaches-to-fb-video-sharing-pcandroid-platforms-for-2024/"><u>[New] Innovative Approaches to FB Video Sharing PC/Android Platforms for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-simplified-techniques-for-converting-vimeo-media/"><u>[Updated] In 2024, Simplified Techniques for Converting Vimeo Media</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-why-are-my-insta-vids-upside-down-in-2024/"><u>[Updated] Why Are My Insta Vids Upside Down, In 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-skyrocket-views-on-youtube-in-minutes-2-strategies/"><u>2024 Approved Skyrocket Views on YouTube in Minutes (2 Strategies)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/decoding-innovation-understanding-meta-ai-capabilities/"><u>Decoding Innovation: Understanding Meta AI Capabilities</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/discovering-the-tech-behind-dji-phantom-3-professional-for-2024/"><u>Discovering the Tech Behind DJI Phantom 3 Professional for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/gaming-on-the-go-finding-your-ideal-iphone/"><u>Gaming on the Go: Finding Your Ideal iPhone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-tecno-spark-go-2023-easily-by-drfone-android/"><u>In 2024, How To Unlock a Tecno Spark Go (2023) Easily?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/iphone-tutorial-how-to-add-personalized-fonts-for-a-unique-touch/"><u>IPhone Tutorial: How to Add Personalized Fonts for a Unique Touch</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/phone-lifespan-secrets-determining-ideal-upgrading-intervals/"><u>Phone Lifespan Secrets: Determining Ideal Upgrading Intervals</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-8-search-tools-for-locating-individuals/"><u>Top 8 Search Tools for Locating Individuals</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-fourteen-hd-cameras-reimagined-for-cinema/"><u>Top Fourteen HD Cameras Reimagined for Cinema</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-the-power-of-email-how-to-effortlessly-chat-using-mozilla-thunderbird/"><u>Unlocking the Power of Email: How to Effortlessly Chat Using Mozilla Thunderbird</u></a></li>
 </ul></div>
 

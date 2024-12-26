@@ -1,7 +1,7 @@
 ---
 title: "Strategies for Apple's Lifeline to Disappointed Sonos Owners: Insights From ZDNet"
-date: 2024-12-14T16:00:45.400Z
-updated: 2024-12-17T16:02:17.292Z
+date: 2024-12-19T17:57:32.677Z
+updated: 2024-12-26T03:17:52.377Z
 tags:
   - apple
 categories:
@@ -29,13 +29,13 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -45,7 +45,7 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -57,7 +57,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -65,6 +65,10 @@ Screenshot by Lance Whitney/ZDNET
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Delete a control
 
@@ -79,10 +83,6 @@ You can easily add a control to any screen that has available space. Pick a scre
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
 
@@ -126,20 +126,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-strategies-to-reinforce-stability-in-windows-10-photo-viewer/"><u>[New] In 2024, Strategies to Reinforce Stability in Windows 10 Photo Viewer</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-twitters-top-10-giggle-generators-for-2024/"><u>[New] Twitter's Top 10 Giggle Generators for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-editing-experience-workshop/"><u>[Updated] In 2024, Editing Experience Workshop</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-return-artisan-set/"><u>[Updated] Return Artisan Set</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-instructions-on-keeping-your-chromecast-updated/"><u>Comprehensive Instructions on Keeping Your Chromecast Updated</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/effective-techniques-for-applying-a-blur-effect-on-your-backdrop-during-google-meet-calls/"><u>Effective Techniques for Applying a Blur Effect on Your Backdrop During Google Meet Calls</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/elevate-your-photos-utilizing-luts-in-adobes-image-editor-for-2024/"><u>Elevate Your Photos Utilizing LUTs in Adobe's Image Editor for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/enhance-your-mobile-photography-skills-smooth-zoom-on-idevices/"><u>Enhance Your Mobile Photography Skills: Smooth Zoom on iDevices</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-critical-process-died-bsod-issue-on-your-pc-understanding-stop-code-0x0000003b/"><u>Fixing Critical Process Died BSOD Issue on Your PC: Understanding Stop Code 0X0000003B</u></a></li>
-<li><a href="https://article-files.techidaily.com/how-to-personalize-and-change-ringtones-on-your-iphone-for-2024/"><u>How to Personalize and Change Ringtones on Your iPhone for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-removing-your-facebook-live-video-tech-steps/"><u>In 2024, Removing Your Facebook Live Video Tech Steps</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/insider-insights-on-samsungs-upcoming-galaxy-s25-ultra-what-to-expect-in-price-and-features-at-release/"><u>Insider Insights on Samsung's Upcoming Galaxy S25 Ultra – What to Expect in Price and Features at Release</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/psvr-2-unveiled-latest-updates-on-features-launch-date-and-pricing-details/"><u>PSVR 2 Unveiled: Latest Updates on Features, Launch Date & Pricing Details</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-download-realtek-alc892a-hd-audio-driver-for-windows-10/"><u>Quick Download: Realtek ALC892A HD Audio Driver for Windows 10</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/walkthrough-for-removing-a-personal-identification-number-pin-from-microsofts-latest-os/"><u>Walkthrough for Removing a Personal Identification Number (PIN) From Microsoft's Latest OS</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-hero-vs-hero-a-technological-comparison/"><u>[New] 2024 Approved Hero Vs Hero A Technological Comparison</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-direct-download-process-from-vimeo-to-mp3-format/"><u>[New] In 2024, Direct Download Process From Vimeo to MP3 Format</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-ring-sound-repeat-a-comprehensible-guide-to-personalization-on-android-devices/"><u>[Updated] 2024 Approved Ring, Sound, Repeat A Comprehensible Guide to Personalization on Android Devices</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-ranking-top-10-srt-modifications-for-pc-and-macos/"><u>[Updated] Ranking Top 10 SRT Modifications for PC & macOS</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1726029698513-instagram/"><u>「インスタ映え！綺麗な画質でInstagramのビデオチャット録画テクニック」</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/all-about-bing-microsofts-search-engine-explained/"><u>All About Bing - Microsoft's Search Engine Explained</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/elevate-your-email-game-with-these-powerful-gmail-customization-tips/"><u>Elevate Your Email Game with These Powerful Gmail Customization Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-the-moderation-error-issue-with-chatgpt-expert-tips/"><u>Fixing the 'Moderation Error' Issue with ChatGPT - Expert Tips</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-motorola-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Motorola FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-mitigate-internal-error-in-windows-remote-desktop/"><u>Steps to Mitigate Internal Error in Windows Remote Desktop</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-rise-and-fall-of-aol-instant-messenger-aim-a-digital-revolution-recap/"><u>The Rise and Fall of AOL Instant Messenger (AIM): A Digital Revolution Recap</u></a></li>
+<li><a href="https://win-answers.techidaily.com/tips-and-tricks-to-optimize-your-pc-tackle-high-cpu-usage-by-god-of-war/"><u>Tips and Tricks to Optimize Your PC: Tackle High CPU Usage by God of War</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-how-to-handle-a-disappearing-ocidll-file/"><u>Troubleshooting Steps: How to Handle a Disappearing oci.dll File</u></a></li>
 </ul></div>
 

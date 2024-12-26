@@ -1,7 +1,7 @@
 ---
 title: "Mastering Touch Typing with Windows 10'S Screen Keyboard Feature: Enabling & Disabling Steps"
-date: 2024-08-26T07:19:28.967Z
-updated: 2024-08-27T07:19:28.967Z
+date: 2024-12-19T08:28:38.531Z
+updated: 2024-12-26T07:43:52.604Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering Touch Typing with Windows 10'S Screen Keyboard Feature: Enabling & Disabling Steps"
@@ -25,8 +25,9 @@ thumbnail: https://thmb.techidaily.com/0601694670761ece64bb04b0e2f4e5442e44a57f3
  Use the RUN command to open the keyboard, too. Type**RUN** in the search box, then type**OSK** and click**OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Turn on the On-Screen Keyboard Using the Ease of Access Center
 
  To enable the screen keyboard, follow these steps:  
@@ -44,20 +45,9 @@ thumbnail: https://thmb.techidaily.com/0601694670761ece64bb04b0e2f4e5442e44a57f3
 ![On-screen keyboard with the close (X) highlighted](https://www.lifewire.com/thmb/kYDMvug0GyD3GrUTRQRSdjAKAxY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Closekeyboard-e71f23764cb9422aa37acc4cd54de131.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## How to Get the On-Screen Keyboard (Kind of) Permanently
 
  You can't keep the keyboard displayed on your screen permanently; it will close when you turn off your computer. However, you can pin it to the Start menu, so it's quick and easy to find the Ease of Access menu and toggle the keyboard on when you need it.
@@ -70,22 +60,27 @@ thumbnail: https://thmb.techidaily.com/0601694670761ece64bb04b0e2f4e5442e44a57f3
 3. Click**Ease of Access** .  
 ![The Ease of Access menu showing the Keyboard option.](https://www.lifewire.com/thmb/-hk-yX7ph5_d4xmPvyJ5yR6MKbA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/EaseofAccessKeyboard-3775dd4845c9455caf9e2ab2d5bc2048.jpg)
 4. Right-click**Keyboard** and click**Pin to Start** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![The Keyboard Pin to Start option.](https://www.lifewire.com/thmb/6onPeVu62gKPqEMc0mF5EZgPkl0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Pintostart-43a98be5b4e5458ebea70c1f99142f42.jpg)
 5. A pop-up window will ask you to confirm you want to pin the keyboard to Start. Click**Yes** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The pop up windows asking for confirmation before pinning the keyboard to Start.](https://www.lifewire.com/thmb/jdpQp9RhLDBPwiQqxerbtKzXDrQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Yes-b467b978554447f4bc4943f875534a98.jpg)
 6. The on-screen keyboard tile will now appear when you click the**Start** button.  
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Keyboard tile in the Start menu.](https://www.lifewire.com/thmb/N7xGBRkclSjmboYKhBv_J28ZglM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Keyboardtile-49c06bd0dbda47f792a1457560d7a768.jpg)
 7. Click**Keyboard** to take you directly to the Ease of Access menu.
+
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 8. Toggle the keyboard to**On** .
 
 [How to Turn off the On-Screen Keyboard in Windows 10](https://www.lifewire.com/turn-off-on-screen-keyboard-in-windows-10-5190892)
@@ -119,8 +114,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,4 +121,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-dive-into-a-stream-of-9-full-length-festive-flicks-no-charge/"><u>[New] 2024 Approved Dive Into a Stream of 9 Full-Length Festive Flicks - No Charge</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-optimal-online-sound-snatching/"><u>[New] In 2024, Optimal Online Sound Snatching</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-dynamic-videos-that-keep-your-audience-spinning-around/"><u>[Updated] 2024 Approved Dynamic Videos That Keep Your Audience Spinning Around</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-craft-professional-scenes-access-these-top-8-free-green-screen-backdrops-sites-for-2024/"><u>[Updated] Craft Professional Scenes - Access These Top 8 Free Green Screen Backdrops Sites for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/choosing-between-the-standard-and-slim-ps5-key-features-compared/"><u>Choosing Between the Standard and Slim PS5: Key Features Compared!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-for-repairing-critical-kernel-paging-errors-on-windows-systems/"><u>Comprehensive Guide for Repairing Critical Kernel Paging Errors on Windows Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effective-strategies-for-students-avoiding-common-pitfalls-with-chatgpt/"><u>Effective Strategies for Students: Avoiding Common Pitfalls with ChatGPT</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/hp-zbook-firefly-15-g8-review-mobile-masterpiece/"><u>HP Zbook Firefly 15 G8 Review: Mobile Masterpiece</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-poco-x6-pro-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Poco X6 Pro Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-ejection-issues-a-users-manual-for-optical-disc-drive-repair/"><u>Overcoming Ejection Issues: A User's Manual for Optical Disc Drive Repair</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/techniques-for-easy-video-recording-on-youtube-for-2024/"><u>Techniques for Easy Video Recording on YouTube for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-18-must-try-hacks-for-iphone-shortcuts-user/"><u>The Ultimate Guide: 18 Must-Try Hacks for iPhone Shortcuts User</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-step-by-step-tutorial-on-building-a-dorm-wireless-theatrical-experience/"><u>The Ultimate Step-by-Step Tutorial on Building a Dorm Wireless Theatrical Experience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-12-complimentary-disk-defragmentation-applications-july-2024-edition/"><u>Top 12 Complimentary Disk Defragmentation Applications - July 2024 Edition</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-your-tabletop-gaming-with-these-6-chatgpt-hacks-for-gamemasters/"><u>Transform Your Tabletop Gaming with These 6 ChatGPT Hacks for Gamemasters</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-steps-to-clear-out-all-inboxes-in-the-gmail-mobile-application/"><u>Ultimate Steps to Clear Out All Inboxes in the Gmail Mobile Application</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/why-is-my-search-bar-in-windows-10-not-working-corrective-measures-to-try/"><u>Why Is My Search Bar in Windows 10 Not Working? Corrective Measures to Try</u></a></li>
+</ul></div>
 

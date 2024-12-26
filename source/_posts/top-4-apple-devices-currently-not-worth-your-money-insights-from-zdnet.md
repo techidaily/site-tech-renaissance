@@ -1,7 +1,7 @@
 ---
 title: "Top 4 Apple Devices Currently Not Worth Your Money: Insights From ZDNet"
-date: 2024-12-14T16:01:48.880Z
-updated: 2024-12-17T16:01:45.851Z
+date: 2024-12-25T05:36:59.647Z
+updated: 2024-12-26T01:56:56.612Z
 tags:
   - apple
 categories:
@@ -49,7 +49,7 @@ Beyond that, Apple's lineup seems pretty strong, from the [M3 MacBook Air system
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **The 'Naughty' list**
@@ -61,11 +61,11 @@ Don't buy these devices:
 * **Mac Studio**: The M2-powered Mac Studio is no longer the beast it was, and given that it's over a year old and running on previous-generation silicon, I suggest giving it a miss and getting a [MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fmacbook-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) instead.
 * **Apple TV**: Last updated in October 2022, this device is due for a refresh, possibly alongside the iPhone, so unless you desperately need a new one, wait a few months.
 
-## **The 'Nice' list**
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## **The 'Nice' list**
 
 ### **Apple iPhone 16**
 
@@ -82,10 +82,6 @@ Apple Watch Series 10
 Kerry Wan/ZDNET
 
 The [Apple Watch Series 10](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) starts at $399 for GPS and $499 for cellular. It comes in three colors: jet black, rose gold, and silver aluminum. The new black [Apple Watch Ultra 2](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch-ultra&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) starts at $799\. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Apple M3 MacBook Air**
 
@@ -116,7 +112,7 @@ It's hard to bet against Apple, but a futuristic set of goggles with a starting 
 [Apple Vision Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-vision&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Apple 14-inch and 16-inch MacBook Pro**
@@ -149,6 +145,10 @@ Apple [refreshed the iMac in October 2023](https://www.zdnet.com/article/everyth
 
 [Apple iMac 24-inch View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fimac&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **2nd-gen AirPods Pro (now with USB-C)**
 
 Christina Darby/ZDNET
@@ -171,7 +171,7 @@ And soon, your AirPods Pro earbuds will be able to function as [clinical-grade h
 [2nd Gen AirPods Pro $189.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6447382%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6447382.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Apple AirTag**
@@ -214,22 +214,24 @@ Well-made, robust, and with a replaceable battery, these will make misplaced key
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-filmmakers-toolbox-in-depth-guide-to-cinematic-techniques-in-24/"><u>[Updated] In 2024, The Filmmaker’s Toolbox In-Depth Guide to Cinematic Techniques in '24</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-soundscapes-for-vimeo-a-compreayers-manual/"><u>[Updated] Soundscapes for Vimeo A Compreayer's Manual</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-nokia-g310-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Nokia G310 | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/becoming-multilingual-at-your-fingertitsps-with-mondlyvr/"><u>Becoming Multilingual at Your Fingertitsps with MondlyVR</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/detailed-tips-to-correctly-resolve-when-file-d3dx927dll-is-absent/"><u>Detailed Tips to Correctly Resolve When File d3dx9_27.dll Is Absent</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fixing-pdhdll-not-detected-problem-on-your-pc/"><u>Fixing 'pdh.dll' Not Detected Problem on Your PC</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/freedom-in-the-digital-age-leaving-chatgpt-behind/"><u>Freedom in the Digital Age - Leaving ChatGPT Behind</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/has-pope-francis-adopted-email-communication-in-the-vatican/"><u>Has Pope Francis Adopted Email Communication in the Vatican?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/meme-magic-perfect-10-design-tips-and-tricks-for-2024/"><u>Meme Magic Perfect 10 Design Tips & Tricks for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-unleash-your-creativity-top-video-collage-apps-for-iphone-and-ipad/"><u>New 2024 Approved Unleash Your Creativity Top Video Collage Apps for iPhone and iPad</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/revolutionize-your-site-optimization-with-state-of-the-art-cookiebot-features/"><u>Revolutionize Your Site Optimization with State-of-the-Art Cookiebot Features</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solution-overcoming-uncorrectable-system-memory-problems-with-whea/"><u>Step by Step Solution: Overcoming Uncorrectable System Memory Problems with WHEA</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-5-free-online-sports-broadcasts-watch-live/"><u>Top 5 Free Online Sports Broadcasts : Watch Live</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/form-footage-into-visual-art-with-youtube-studio-for-2024/"><u>Transform Footage Into Visual Art with YouTube Studio for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-troubleshooting-techniques-fixing-dll-files-that-arent-detected/"><u>Ultimate Troubleshooting Techniques: Fixing DLL Files That Aren't Detected</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/what-does-it-mean-when-your-tv-is-internet-enabled-a-comprehensive-guide/"><u>What Does It Mean When Your TV Is Internet Enabled? A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/windows-11-search-not-working-try-these-fixes/"><u>Windows 11 Search Not Working? Try These Fixes</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-free-and-secure-3-ways-to-extract-youtube-music-content/"><u>[New] 2024 Approved Free and Secure 3 Ways to Extract YouTube Music Content</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-unraveling-the-mystery-of-frame-rates-in-videos/"><u>[New] 2024 Approved Unraveling the Mystery of Frame Rates in Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-budding-entrepreneurs-guide-mastering-the-art-of-social-media-advertising-for-2024/"><u>[New] Budding Entrepreneurs Guide Mastering the Art of Social Media Advertising for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-critical-approaches-to-documenting-youtube-live-video-for-2024/"><u>[New] Critical Approaches to Documenting Youtube LIVE Video for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2023-how-to-watch-facebook-live/"><u>[Updated] 2023 | How to Watch Facebook Live?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-the-complete-process-of-logging-google-voice-calls-for-2024/"><u>[Updated] The Complete Process of Logging Google Voice Calls for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-journey-through-aether-insights-and-how-you-can-be-a-part-of-it/"><u>A Journey Through Aether: Insights and How You Can Be a Part of It</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beat-the-crowd-strategies-for-buying-new-macbook-and-mac-mini-models-without-waiting-in-line-tech-insights/"><u>Beat the Crowd: Strategies for Buying New MacBook and Mac Mini Models Without Waiting in Line | Tech Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722856512919-best-childrens-movie-selection-for-disneyplus-watch-party-july-2024-edition/"><u>Best Children's Movie Selection for Disney+ Watch Party - July 2024 Edition</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ensuring-a-safe-chat-environment-implementing-family-friendly-restrictions-on-discord/"><u>Ensuring a Safe Chat Environment: Implementing Family-Friendly Restrictions on Discord</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-advice-the-ultimate-techniques-for-purging-cache-on-android-devices/"><u>Expert Advice: The Ultimate Techniques for Purging Cache on Android Devices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-benefits-of-using-claude-artificial-intelligence-your-ultimate-guide/"><u>Exploring the Benefits of Using Claude Artificial Intelligence - Your Ultimate Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-vivo-s17e-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Vivo S17e 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-to-switching-off-iphone-15-propro-max-devices-easy-steps-inside/"><u>Guide to Switching Off iPhone 15 Pro/Pro Max Devices: Easy Steps Inside</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722901513634-macos-15-sequoia-is-coming-find-out-the-announcement-date-enhancements-and-latest-updates/"><u>MacOS 15 Sequoia Is Coming: Find Out the Announcement Date, Enhancements & Latest Updates</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/telegram-explained-everything-you-need-to-know-about-this-messaging-app/"><u>Telegram Explained: Everything You Need to Know About This Messaging App</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-gopro-quik-and-its-pc-alternatives-for-video-editing-mastery/"><u>The Ultimate Guide to GoPro Quik & Its PC Alternatives for Video Editing Mastery</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-wii-disc-reading-problems-expert-tips-and-tricks/"><u>Troubleshooting Wii Disc Reading Problems: Expert Tips and Tricks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-resolving-the-binkw32dll-file-not-found-issue/"><u>Ultimate Guide: Resolving the Binkw32.dll File Not Found Issue</u></a></li>
 </ul></div>
 

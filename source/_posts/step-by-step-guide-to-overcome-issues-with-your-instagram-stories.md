@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Overcome Issues With Your Instagram Stories
-date: 2024-08-26T07:22:11.042Z
-updated: 2024-08-27T07:22:11.042Z
+date: 2024-12-21T02:04:48.609Z
+updated: 2024-12-26T07:39:21.020Z
 categories:
   - BestProducts
 description: This Article Describes Step-by-Step Guide to Overcome Issues With Your Instagram Stories
@@ -18,6 +18,10 @@ thumbnail: https://www.lifewire.com/thmb/BgQuggIF__RV6C1r2nXBGTgxd0Q=/400x300/fi
 
  This article explains how to enable Gmail sound notifications using the Notifier for Gmail extension for Chrome. It includes information for enabling a pop-up notification for Gmail and sound notifications for other email providers.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Enable a New Mail Sound for Gmail
 
  If you want to hear a new email sound when you use Gmail in your desktop web browser, you can make that happen—just not in Gmail itself.
@@ -29,30 +33,36 @@ thumbnail: https://www.lifewire.com/thmb/BgQuggIF__RV6C1r2nXBGTgxd0Q=/400x300/fi
 1. Select**Extensions** next to Chrome's navigation bar, then select**More actions** (three vertical dots) and choose **Options** .  
 ![Options menu item for Notifier for Gmail.](https://www.lifewire.com/thmb/ItTlmQe_8CNY3vW37Q6ac7spTJ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-add-a-new-mail-sound-for-gmail-5b50d46b9a594db3bd73946ea64549aa.jpg)
 2. Scroll down to the Notifications section and make sure **Play alert sound for new emails** is selected.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Play alert sound for new emails.](https://www.lifewire.com/thmb/EaGNTDoH2lcLO8QxHT0Z1KVeUPk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-add-a-new-mail-sound-for-gmail-1e074c5a399d403aab64b2ec37afbbf8.jpg)
 3. Change the sound using the drop-down menu.  
 ![Notifier for Gmail settings screen highlighting Play alert sound for new emails and Default sound notification drop-down menu](https://www.lifewire.com/thmb/DUBiUTKL1yNY2AP6anJNY9OE1cM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-add-a-new-mail-sound-for-gmail-db10f7ff4e56480c8acefb921da8d1b6.jpg)
 4. Exit the window when you're done. The changes are saved automatically.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also[change your notification sounds on Android](https://www.lifewire.com/how-to-change-create-android-notification-sounds-4783114) or[change the new mail sound on iOS](https://www.lifewire.com/how-to-change-the-new-mail-sound-in-ios-mail-1172501) to achieve a similar effect in those mobile apps.
 
  If you use Gmail through a downloadable email client like[Microsoft Outlook](https://www.lifewire.com/microsoft-outlook-4164620) ,[Thunderbird](https://www.lifewire.com/gmail-access-thunderbird-1173150) , or[eM Client](http://www.emclient.com/) , you make the sound change from within those programs.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Enable a Pop-Up Notification
 
  You can set Gmail to display a pop-up notification when new email messages arrive in Chrome, Firefox, or Safari when you are signed in to Gmail and have it open in the browser. Just turn on that setting in Gmail by selecting the **Settings**  icon then choosing **See all settings** and going to **General** \> **Desktop Notifications** . The notification is not accompanied by a sound.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Change Gmail Notification Sounds in Other Email Clients
 
  You can[turn on notification sounds for Outlook](https://www.lifewire.com/change-new-mail-notification-sound-outlook-1173674) email messages in the **FILE** \>**Options** \>**Mail**  menu, with the **Play a sound** option from the Message arrival section. To change the sound,[open Control Panel](https://www.lifewire.com/how-to-open-control-panel-2625782) and search for "sound". Open the Sound [Control Panel applet](https://www.lifewire.com/control-panel-applet-2625831) and modify the **New Mail Notification** option from the Sounds tab.
@@ -90,8 +100,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -99,4 +107,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unlocking-video-potential-youtube-to-igtv/"><u>[New] Unlocking Video Potential YouTube to IGTV</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-critical-factors-for-an-effective-4k-camera-upgrade/"><u>[Updated] Critical Factors for an Effective 4K Camera Upgrade</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-ditching-xsplit-ideal-splitting-software-for-2024/"><u>[Updated] Ditching XSplit Ideal Splitting Software for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-premier-software-selection-for-youtube-intros/"><u>[Updated] The Premier Software Selection for YouTube Intros</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-the-latest-magic-mouse-software-for-your-pc/"><u>Download and Install the Latest Magic Mouse Software for Your PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fast-track-solutions-for-enhancing-your-computers-speed/"><u>Fast-Track Solutions for Enhancing Your Computer’s Speed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fix-pdhdll-absent-error-a-comprehensive-tutorial/"><u>Fix pdh.dll Absent Error - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-get-the-newest-zebra-printer-software-on-your-pc-windows-compatible/"><u>How to Get the Newest Zebra Printer Software on Your PC: Windows Compatible</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-use-photo-cutout-on-an-iphone-ios-16/"><u>How to Use Photo Cutout on an iPhone (iOS 16)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mac-reinstallation-made-easy-entering-and-using-recovery-mode/"><u>Mac Reinstallation Made Easy: Entering and Using Recovery Mode</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-gmail-protection-how-to-set-up-a-safe-list-of-contacts/"><u>Mastering Gmail Protection: How to Set Up a Safe List of Contacts</u></a></li>
+<li><a href="https://network-issues.techidaily.com/triumph-over-failed-detection-driver-of-amd-in-wndows-os/"><u>Triumph over Failed Detection Driver of AMD in Wndows OS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-your-surface-pro-solutions-for-eliminating-screen-tremors-and-flares/"><u>Troubleshooting Your Surface Pro: Solutions for Eliminating Screen Tremors & Flares</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Definitive List: Accessible & Gratis Public Domain Name System Services"
-date: 2024-08-26T07:19:23.161Z
-updated: 2024-08-27T07:19:23.161Z
+date: 2024-12-21T02:23:03.755Z
+updated: 2024-12-26T04:47:20.118Z
 categories:
   - BestProducts
 description: "This Article Describes The Definitive List: Accessible & Gratis Public Domain Name System Services"
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/c5a835a587cbde63390ec7ae0f646f52f65cc154a
 
  Those are my top choices. A list of additional free DNS servers can be found in the table near the bottom of the page.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Top Free & Public DNS Servers
 
  Below are more details on these free DNS servers that you can use instead of the ones assigned to your device automatically.
@@ -52,9 +56,6 @@ thumbnail: https://thmb.techidaily.com/c5a835a587cbde63390ec7ae0f646f52f65cc154a
 
  As you can see above,[IPv6](https://www.lifewire.com/ipv4-vs-ipv6-4780834) IP addresses use colons. If you're not sure which one to use for Google's servers or any of the others on this page, stick with IPv4.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ### Control D: 76.76.2.0 & 76.76.10.0
 
 ![A list of free DNS options at Control D](https://www.lifewire.com/thmb/W1PoIB20e3W5hSR-CYEJ_oBCo-o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/control-d-free-dns-2f558b21cde84ae5a686dece15e913c0.png)
@@ -76,13 +77,9 @@ thumbnail: https://thmb.techidaily.com/c5a835a587cbde63390ec7ae0f646f52f65cc154a
 ![Quad9 website](https://www.lifewire.com/thmb/iRlEKiR8f7CmoRJ2O1dytTs_Exw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/quad9-d6eaf2378c0149b497e6792759186953.jpg)
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [Quad9](https://www.quad9.net/) has free public DNS servers that protect your computer and other devices from cyber threats by immediately and automatically blocking access to unsafe websites. One thing I appreciated while researching this company is that it works without storing your personal data; their website clearly states that when you use Quad9, "no data containing your IP address is ever logged."
 
 * **Primary DNS** : 9.9.9.9
@@ -94,6 +91,10 @@ thumbnail: https://thmb.techidaily.com/c5a835a587cbde63390ec7ae0f646f52f65cc154a
 * **Secondary DNS** : 2620:fe::9
 
  Quad9 doesn't filter content—only domains that are phishing or contain malware will be blocked.[There's also an unsecured IPv4 public DNS](https://www.quad9.net/service/service-addresses-and-features/#unsec) (i.e., no malware blocking) at 9.9.9.10 (2620:fe::10 for IPv6). Quad9 also supports DoH.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### OpenDNS: 208.67.222.222 & 208.67.220.220
 
@@ -114,15 +115,17 @@ thumbnail: https://thmb.techidaily.com/c5a835a587cbde63390ec7ae0f646f52f65cc154a
  For DNS servers that block adult content, use[OpenDNS FamilyShield](https://www.opendns.com/setupguide/#familyshield) : 208.67.222.123 and 208.67.220.123\. Those two also[support DNS over HTTPS](https://support.opendns.com/hc/en-us/articles/360038086532-Using-DNS-over-HTTPS-DoH-with-OpenDNS) .
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Cloudflare: 1.1.1.1 & 1.0.0.1
 
 ![Cloudflare 1.1.1.1 public DNS server website](https://www.lifewire.com/thmb/8O47Sc85B2ywZWpyfsbqiBMLIEI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/free-and-public-dns-servers-2626062-cloudflare-1111-7977c2b8a42e408c81b0d59694bd634f.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [Cloudflare](https://one.one.one.one/dns/) built 1.1.1.1 to be the "internet’s fastest DNS directory" ([here's how DNSPerf ranks them](https://www.dnsperf.com/#!dns-resolvers) ). I like them for the privacy commitment—they will never log your IP address, never sell your data, and never use your data to target ads.
 
 * **Primary DNS** : 1.1.1.1
@@ -136,14 +139,9 @@ thumbnail: https://thmb.techidaily.com/c5a835a587cbde63390ec7ae0f646f52f65cc154a
  There are setup directions for all your devices through the link above. Another way to use it is through the[1.1.1.1 app](https://one.one.one.one/) , which provides quick DNS setup on mobile and desktop devices; it also doubles as a VPN.[1.1.1.1 for Families](https://blog.cloudflare.com/introducing-1-1-1-1-for-families/) can block malware (1.1.1.2) or malware and adult content (1.1.1.3). It[supports DNS over HTTPS and TLS](https://developers.cloudflare.com/1.1.1.1/encryption/) as well.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### AdGuard DNS: 94.140.14.14 & 94.140.15.15
 
 ![AdGuard DNS website](https://www.lifewire.com/thmb/VGFWb-Sg7jSxs7MM04dHcD40dbQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/adguard-dns-b78348dab9e240bc94d94fd9be62e8e6.png)
@@ -164,6 +162,10 @@ thumbnail: https://thmb.techidaily.com/c5a835a587cbde63390ec7ae0f646f52f65cc154a
 
 ![CleanBrowsing public DNS servers](https://www.lifewire.com/thmb/vXD5OF-pxtI8y-8lcOMqbwGDDAc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cleanbrowsing-44622bf548554faa886745618c97b08a.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [CleanBrowsing has three free public DNS server options](https://cleanbrowsing.org/filters/) : a security filter, adult filter, and family filter. These are the DNS servers for the security filter, the most basic of the three that updates hourly to block malware and phishing sites:
 
 * **Primary DNS** : 185.228.168.9
@@ -180,9 +182,6 @@ thumbnail: https://thmb.techidaily.com/c5a835a587cbde63390ec7ae0f646f52f65cc154a
 
 ![Alternate DNS website](https://www.lifewire.com/thmb/-4LtpRDVaV8Hg2TKADqt1kg7jSc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/alternate-dns-b37b229caddf47a3b4808394e1d80350.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 [Alternate DNS](https://alternate-dns.com/) is a free public DNS service that blocks ads before they reach your network. It works pretty well in my experience, but it's not 100 percent perfect.
 
 * **Primary DNS** : 76.76.19.19
@@ -195,9 +194,6 @@ thumbnail: https://thmb.techidaily.com/c5a835a587cbde63390ec7ae0f646f52f65cc154a
 
  You can[sign up with Alternate DNS for free](https://alternate-dns.com/registration%5Ffree.php) , but there's also a[Family Premium DNS](https://alternate-dns.com/family-premium.php) option that blocks adult content.  
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Why Use Different DNS Servers?
 
  One reason you might want to change the DNS servers assigned by your ISP is if you suspect there's a problem with the ones you're using now. An easy way to test for a DNS server issue is by typing a[website's IP address](https://www.lifewire.com/find-the-ip-address-of-a-web-site-818155) into the browser. If you can reach the website with the IP address, but not the name, then the DNS server is likely having issues.
@@ -229,9 +225,6 @@ thumbnail: https://thmb.techidaily.com/c5a835a587cbde63390ec7ae0f646f52f65cc154a
 
  Some of these providers have several DNS servers. Visit the link above and select a server that's geographically nearby for the optimal performance, or one that has the features you're interested in.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## What Are DNS Servers?
 
  DNS servers translate the friendly domain name you enter into a browser (like_lifewire.com_ ) into the[public IP address](https://www.lifewire.com/what-is-a-public-ip-address-2625974) that's needed for your device to actually communicate with that site.
@@ -267,8 +260,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -276,4 +267,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-comprehensive-guide-to-the-updated-facetune-photo-editing/"><u>[Updated] 2024 Approved Comprehensive Guide to the Updated Facetune Photo Editing</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-rated-mp4-video-save-and-review/"><u>[Updated] Top-Rated MP4 Video Save & Review</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-unleash-artistry-a-curated-list-of-premium-3d-animation-software-for-2024/"><u>[Updated] Unleash Artistry A Curated List of Premium 3D Animation Software for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-secrets-to-making-spectacular-haul-videos/"><u>2024 Approved Unveiling the Secrets to Making Spectacular Haul Videos</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/comment-copier-un-ssd-sur-un-hdd-avec-windows-7-et-repartir-en-toute-surete/"><u>Comment Copier Un SSD Sur Un HDD Avec Windows 7 Et Repartir en Toute Sûreté</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/here-are-different-ways-to-find-pokemon-go-trainer-codes-to-add-to-your-account-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>Here are Different Ways to Find Pokemon Go Trainer Codes to Add to Your Account On Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-i-mastered-writing-a-weeks-communications-using-google-gemini-insights-and-experience/"><u>How I Mastered Writing a Week's Communications Using Google Gemini – Insights & Experience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-nvidias-latest-innovation-an-ai-chatbot-operating-locally-outperforms-traditional-cloud-based-alternatives/"><u>How Nvidia's Latest Innovation: An AI Chatbot Operating Locally Outperforms Traditional Cloud-Based Alternatives</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/innovative-3d-printing-technology-powered-by-saltwater-instead-of-light-and-heat/"><u>Innovative 3D Printing Technology Powered by Saltwater Instead of Light and Heat</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/iphone-users-rejoice-new-enhancements-now-available-in-the-latest-chatgpt-update/"><u>IPhone Users Rejoice: New Enhancements Now Available in the Latest ChatGPT Update</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/join-microsoft-designer-today-say-goodbye-to-the-previous-hold-lists/"><u>Join Microsoft Designer Today - Say Goodbye to the Previous Hold Lists!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-creating-winning-resumes-with-chatgpt-a-comprehensive-guide/"><u>Mastering the Art of Creating Winning Resumes with ChatGPT: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-twitter-the-ultimate-guide-to-earning-cryptocurrency-advice/"><u>Mastering Twitter: The Ultimate Guide to Earning Cryptocurrency Advice</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-nubia-red-magic-9-pro-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Nubia Red Magic 9 Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/virtual-voyages-top-9-strategies-for-mobile-gaming-explorers/"><u>Virtual Voyages: Top 9 Strategies for Mobile Gaming Explorers</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Honor Magic 5 Lite | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Bypassing the Remote: Effective Techniques to Manually Navigate Your Roku TV Interface"
-date: 2024-08-26T07:20:40.372Z
-updated: 2024-08-27T07:20:40.372Z
+date: 2024-12-23T21:46:21.775Z
+updated: 2024-12-26T00:24:18.884Z
 categories:
   - BestProducts
 description: "This Article Describes Bypassing the Remote: Effective Techniques to Manually Navigate Your Roku TV Interface"
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/df14118d9f463815cdf73b98eeffe83796c8ab688
  NETGEAR routers usually have a default password of**password** and a default IP address of either**192.168.1.1** or**192.168.0.1** . However, as the table below shows, there are plenty of exceptions.
 
 [The Best Netgear Routers of 2024](https://www.lifewire.com/best-netgear-routers-4159862)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## NETGEAR Default Passwords (Valid July 2024)
 
@@ -259,6 +263,10 @@ thumbnail: https://thmb.techidaily.com/df14118d9f463815cdf73b98eeffe83796c8ab688
 
  If you don't see your NETGEAR router, switch, or other network device listed in the table above,[contact us](https://www.lifewire.com/mailto:feedback@lifewire.com) to have your router added to the list.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What to Do If the NETGEAR Default Password Doesn't Work
 
  When the NETGEAR default password for your device is no longer the configured password, reset the device to the factory defaults.
@@ -270,8 +278,9 @@ thumbnail: https://thmb.techidaily.com/df14118d9f463815cdf73b98eeffe83796c8ab688
  If this process doesn't work, reference the PDF manual for your specific NETGEAR router, available from[NETGEAR Support](https://www.netgear.com/support/) .
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What to Do If the NETGEAR Default IP Address Doesn't Work
 
  A factory reset also resets the IP address to the default for your model in the table above.
@@ -283,8 +292,9 @@ thumbnail: https://thmb.techidaily.com/df14118d9f463815cdf73b98eeffe83796c8ab688
  If this doesn't work,[find the default gateway IP address](https://www.lifewire.com/how-to-find-your-default-gateway-ip-address-2626072) to determine the default gateway on your network, which is also the IP address for the router.
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Change Your NETGEAR Default Password
 
  While you can log in to your NETGEAR router or switch with the default data, this information is all public. This means that anyone can access any NETGEAR device and make changes, including injecting malware and doing other damage.
@@ -313,8 +323,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -322,4 +330,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-pioneering-techniques-in-hand-based-tracking/"><u>[New] Pioneering Techniques in Hand-Based Tracking</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-elevate-video-engagement-by-inserting-captions/"><u>[Updated] Elevate Video Engagement by Inserting Captions</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-expertise-in-quick-creation-professional-valorant-thumbnail-art/"><u>[Updated] Expertise in Quick Creation Professional Valorant Thumbnail Art</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-steps-to-alter-login-credentials-for-others-on-your-windows-pc/"><u>Easy Steps to Alter Login Credentials for Others on Your Windows PC</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-advice-for-tackling-cc-troubles-on-windows/"><u>Essential Advice for Tackling CC Troubles on Windows</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-xiaomi-13t-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Xiaomi 13T Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-xiaomi-redmi-note-12t-pro-is-unlocked-by-drfone-android/"><u>How To Check if Your Xiaomi Redmi Note 12T Pro Is Unlocked</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-the-binkw32dll-missing-file-issue-a-comprehensive-guide/"><u>Resolving the binkw32.dll Missing File Issue: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-tutorial-for-identifying-powershell-versions-in-windows-11/"><u>Step-by-Step Tutorial for Identifying PowerShell Versions in Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-creating-unified-music-lists-in-spotify/"><u>Step-by-Step Tutorial: Creating Unified Music Lists in Spotify</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-common-issues-a-guide-to-solving-tiktok-problems/"><u>Troubleshooting Common Issues: A Guide to Solving TikTok Problems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-steps-for-fixing-hcmondriver-installation-errors/"><u>Troubleshooting Steps for Fixing Hcmondriver Installation Errors</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-resolving-the-500-internal-server-mistake/"><u>Ultimate Guide: Resolving the 500 Internal Server Mistake</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-the-distinct-features-ht-sub-vs-stereo-av-receiver/"><u>Understanding the Distinct Features: HT Sub Vs. Stereo A/V Receiver</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "How to Upgrade to iOS N18: Installation Guide & Eligible iPhones | Latest Update Covered by ZDNet"
-date: 2024-12-11T16:00:19.212Z
-updated: 2024-12-17T16:00:01.619Z
+date: 2024-12-20T20:07:25.970Z
+updated: 2024-12-26T00:10:05.679Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,22 +109,24 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-boosting-watch-time-and-reducing-churn-on-youtube-the-ultimate-list-of-methods/"><u>[Updated] Boosting Watch Time and Reducing Churn on YouTube The Ultimate List of Methods</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-mac-excellence-unleashed-screenflows-influence-on-development/"><u>[Updated] In 2024, Mac Excellence Unleashed ScreenFlow’s Influence on Development</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-5-premier-no-cost-sports-streaming-platforms-this-year/"><u>Discover the 5 Premier No-Cost Sports Streaming Platforms This Year</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-leading-open-source-ai-programs-for-image-generation/"><u>Discover the Leading Open-Source AI Programs for Image Generation</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-the-newest-hp-deskjet-printing-solutions-updated-drivers-for-your-device/"><u>Download the Newest HP DeskJet ²³) Printing Solutions: Updated Drivers for Your Device</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/editing-techniques-for-enhancing-instagram-content/"><u>Editing Techniques for Enhancing Instagram Content</u></a></li>
-<li><a href="https://win-premium.techidaily.com/gardez-vos-donnees-sures-and-gratuites-avec-le-meilleur-logiciel-de-sauvegarde-ssd-en-2e-trimestre-2024/"><u>Gardez Vos Données Sûres & Gratuites Avec Le Meilleur Logiciel De Sauvegarde SSD en 2E Trimestre 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/google-pixel-tablet-news-price-release-date-specs-and-more/"><u>Google Pixel Tablet: News, Price, Release Date, Specs, and More</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-buy-a-tv-for-your-home/"><u>How to Buy a TV For Your Home</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-the-overwatch-server-connection-error-quickly-and-easily/"><u>How to Resolve the Overwatch Server Connection Error Quickly and Easily</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-sync-or-adjust-your-kindle-paperwhite-screen-clock-a-complete-guide/"><u>How to Sync or Adjust Your Kindle Paperwhite Screen Clock: A Complete Guide</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Google Pixel 7a | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigating-the-path-to-safer-communication-activate-your-kids-discord-safeguards/"><u>Navigating the Path to Safer Communication: Activate Your Kid's Discord Safeguards</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-icloud-download-challenges-on-pc/"><u>Overcoming iCloud Download Challenges on PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/revolutionary-tech-evolutions-top-11-inventions-post-1844/"><u>Revolutionary Tech Evolutions: Top 11 Inventions Post-1844</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-5-free-online-sports-channels-for-watching-live-games/"><u>Top 5 Free Online Sports Channels for Watching Live Games</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/top-7-icloud-activation-bypass-tools-for-your-iphone-se-2020-by-drfone-ios/"><u>Top 7 iCloud Activation Bypass Tools For your iPhone SE (2020)</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-best-youtube-channel-name-ideas-for-aspiring-vloggers-and-film-makers-maximum-length-156-characters/"><u>[New] Best Youtube Channel Name Ideas For Aspiring Vloggers & Film Makers (Maximum Length 156 Characters)</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-instagram-videography-size-guide-ready-for-2024/"><u>[New] Instagram Videography Size Guide - Ready for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-font-power-boosters-secrets-to-stellar-video-thumbnails/"><u>[Updated] 2024 Approved Font Power Boosters Secrets to Stellar Video Thumbnails</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-high-end-horizons-the-elite-8k-camera-selection/"><u>2024 Approved High-End Horizons The Elite 8K Camera Selection</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-closer-look-at-apple-tablets-ipad-mini-vs-ipad-air-differences-unveiled/"><u>A Closer Look at Apple Tablets: IPad Mini vs iPad Air Differences Unveiled</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/android-16-beta-revealed-free-access-info-upcoming-release-timeline-and-hardware-facts-whats-the-hype/"><u>Android 16 Beta Revealed: Free Access Info, Upcoming Release Timeline & Hardware Facts – What's the Hype?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/bridging-clouds-the-ultimate-tutorial-on-integrating-google-photos-with-apples-icloud/"><u>Bridging Clouds: The Ultimate Tutorial on Integrating Google Photos with Apple's iCloud</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comprehensive-nvidia-shield-tv-pro-analysis-the-ultimate-gaming-streamers-choice/"><u>Comprehensive Nvidia Shield TV Pro Analysis: The Ultimate Gaming Streamer's Choice</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-worlds-leading-online-destinations-ranking-the-top-10-websites-in-use-today/"><u>Discover the World's Leading Online Destinations: Ranking the Top 10 Websites in Use Today</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-easily-monitor-your-macbooks-core-heat/"><u>Guide: Easily Monitor Your MacBook's Core Heat</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-play-mkv-movies-on-edge-40-pro-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How do I play MKV movies on Edge 40 Pro?</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-vivo-y55s-5g-2023-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Vivo Y55s 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-mac-acoustic-arena-deep-dive/"><u>In 2024, Mac Acoustic Arena Deep Dive</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-best-programs-to-edit-mp4-video-tags-for-2024/"><u>New Best Programs to Edit MP4 Video Tags for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-adding-your-personal-touch-with-email-signatures-on-godaddy-mail/"><u>Step-by-Step Guide: Adding Your Personal Touch with Email Signatures on GoDaddy Mail</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-iphone-15s-battle-with-liquids-assessing-its-waterproof-ratings-and-features/"><u>The iPhone 15'S Battle with Liquids: Assessing Its Waterproof Ratings and Features</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-streaming-spider-man-no-way-home/"><u>The Ultimate Guide to Streaming 'Spider-Man: No Way Home'</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-streaming-gadgets-definitions-and-uses-explained/"><u>The Ultimate Guide to Streaming Gadgets: Definitions & Uses Explained</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Discover the Latest Apple Enhancements for Fall: IPhone, iPad, Mac Boosts & AI Integration | All You Need to Know at ZDNET!"
-date: 2024-12-12T16:00:45.437Z
-updated: 2024-12-17T16:01:22.514Z
+date: 2024-12-21T05:56:53.562Z
+updated: 2024-12-26T04:49:43.022Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Intelligence (AI)
@@ -65,7 +65,7 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -75,10 +75,6 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -112,10 +108,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -137,6 +129,10 @@ Adam Breeden/ZDNET
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## VisionOS 2
 
 Jason Hiner/ZDNET
@@ -154,6 +150,10 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -163,7 +163,7 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -210,16 +210,22 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-maximizing-impact-strategies-for-watermark-and-logo-insertion-in-yt-videos/"><u>[New] In 2024, Maximizing Impact Strategies for Watermark & Logo Insertion in YT Videos</u></a></li>
-<li><a href="https://article-posts.techidaily.com/a-step-by-step-approach-to-incorporating-luts-in-obs-studio-projects-for-2024/"><u>A Step-by-Step Approach to Incorporating LUTs in OBS Studio Projects for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-methods-shutting-down-and-eliminating-your-yahoo-email-service/"><u>Comprehensive Methods: Shutting Down and Eliminating Your Yahoo Email Service</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-collection-of-ps5-exclusive-games/"><u>Discover the Ultimate Collection of PS5-Exclusive Games</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/identifying-inauthentic-connections-a-guide-to-recognizing-phony-friend-requests-online/"><u>Identifying Inauthentic Connections: A Guide to Recognizing Phony Friend Requests Online</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-infinix-smart-7-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Infinix Smart 7 Devices | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-the-art-of-iphone-macro-and-micro-imaging/"><u>In 2024, Mastering the Art of iPhone Macro & Micro Imaging</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-ready-set-edit-top-15-fast-and-fun-tricks-to-use-in-pixlr/"><u>In 2024, Ready, Set, Edit! Top 15 Fast and Fun Tricks to Use in Pixlr</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/inside-look-at-sonys-224-innovations-and-press-highlights/"><u>Inside Look at Sony's 2^24 Innovations and Press Highlights</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ipad-vs-tablet-understanding-key-distinctions/"><u>IPad vs Tablet: Understanding Key Distinctions</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/overcoming-missed-frames-in-real-time-streaming/"><u>Overcoming Missed Frames in Real-Time Streaming</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-free-guide-to-navigating-and-hosting-google-meet-sessions-effectively/"><u>[New] In 2024, Free Guide to Navigating and Hosting Google Meet Sessions Effectively</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-the-definitive-srt-file-generation-manual/"><u>[New] The Definitive SRT File Generation Manual</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-top-talents-exceptional-instagram-hlv-artisans/"><u>[Updated] 2024 Approved Top Talents Exceptional Instagram HLV Artisans</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-step-by-step-method-to-verify-and-update-your-tiktok-age/"><u>2024 Approved Step-by-Step Method to Verify and Update Your TikTok Age</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/customizing-your-iphone-with-dark-mode-features-users-manual/"><u>Customizing Your iPhone with Dark Mode Features: User's Manual</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-guide-overcoming-apex-legends-latency-and-connectivity-woes/"><u>Expert Guide: Overcoming Apex Legends Latency and Connectivity Woes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/from-keys-to-charms-a-simple-tutorial-on-typing-the-universal-love-sign/"><u>From Keys to Charms: A Simple Tutorial on Typing the Universal Love Sign</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/inside-scoop-on-the-new-m4-mac-mini-pricing-insights-launch-schedule-and-full-feature-breakdown/"><u>Inside Scoop on the New M4 Mac Mini - Pricing Insights, Launch Schedule, and Full Feature Breakdown</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/memorial-day-savings-alert-secure-the-razer-blade-15-laptop-at-an-unbeatable-price-of-only-800-at-walmart-tech-news/"><u>Memorial Day Savings Alert: Secure the Razer Blade 15 Laptop at an Unbeatable Price of Only $800 at Walmart - Tech News</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigate-with-ease-the-ultimate-selection-of-iphone-gps-applications/"><u>Navigate with Ease: The Ultimate Selection of iPhone GPS Applications</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-unleash-your-creativity-top-free-green-screen-apps-for-mobile/"><u>New Unleash Your Creativity Top Free Green Screen Apps for Mobile</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/sony-playstation-showdown-ps5-slim-versus-traditional-ps5-head-to-head-review/"><u>Sony PlayStation Showdown: PS5 Slim Versus Traditional PS5 Head-to-Head Review</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-connecting-your-samsung-universal-remote-with-any-television/"><u>Step-by-Step Guide: Connecting Your Samsung Universal Remote with Any Television</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-downloading-free-manuals-for-all-iphone-models-online/"><u>Step-by-Step Instructions: Downloading Free Manuals for All iPhone Models Online</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-for-libgdk-win32-20-0dll-not-detected-problem/"><u>Troubleshooting Steps for libgdk-win32-2.0-0.dll Not Detected Problem</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/troubleshooting-tips-solving-microsoft-teams-webcam-issues-on-your-pc/"><u>Troubleshooting Tips: Solving Microsoft Teams Webcam Issues on Your PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-top-substitutes-to-chatgpt-you-cant-miss/"><u>Unveiling the Top Substitutes to ChatGPT You Can't Miss</u></a></li>
 </ul></div>
 

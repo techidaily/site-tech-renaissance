@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: What To Do When You Can't Find MSVCR80.DLL"
-date: 2024-08-26T07:20:55.124Z
-updated: 2024-08-27T07:20:55.124Z
+date: 2024-12-24T22:43:28.477Z
+updated: 2024-12-25T19:36:46.355Z
 categories:
   - BestProducts
 description: "This Article Describes Troubleshooting: What To Do When You Can't Find MSVCR80.DLL"
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/63d0193e0fa009273c448c859b93e6725b6f99b3e
 
  This article is about fixing msvcr80.dll errors, not to be confused with[msvcr90.dll errors](https://www.lifewire.com/how-to-fix-msvcr90-dll-not-found-or-missing-errors-2623807) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Fix Msvcr80.dll Errors
 
  Follow the steps in the order they're listed below to try the more likely fixes first.
@@ -24,20 +28,40 @@ thumbnail: https://thmb.techidaily.com/63d0193e0fa009273c448c859b93e6725b6f99b3e
 [How to Tell if You Have Windows 64-Bit or 32-Bit](https://www.lifewire.com/am-i-running-a-32-bit-or-64-bit-version-of-windows-2624475)  
 ![Download and install the Microsoft Visual C++ 2008 Service Pack 1 Redistributable Package MFC Security Update.](https://www.lifewire.com/thmb/y0cJF8YcT7jUhoYHa6I2MLkUK34=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-fix-msvcr80-dll-not-found-or-missing-errors-2623805-d6779f27587a4e7e82f12da8733de903.jpg)  
  If you're unable to access Windows normally due to the error, try[starting Windows in Safe Mode](https://www.lifewire.com/how-do-i-start-windows-in-safe-mode-2624480) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. [Restore msvcr80.dll from the Recycle Bin](https://www.lifewire.com/how-to-restore-deleted-files-from-the-recycle-bin-2624515) if you accidentally deleted it. If you've already emptied the Recycle Bin, you might have luck using a[free file recovery program](https://www.lifewire.com/free-data-recovery-software-tools-2622893) to undelete it.  
 ![Recycle bin on the Windows 10 desktop](https://www.lifewire.com/thmb/4ut5BIE7nDWKwmd_W4aHzm-d8s8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-to-fix-msvcr80-dll-not-found-or-missing-errors-2623805-2bce627cec6b462da3ff837017f14eb4.jpg)
 3. [Run a virus/malware scan](https://www.lifewire.com/properly-scan-your-computer-for-viruses-and-other-malware-2624526) if you think the msvcr80.dll error could be caused by a hostile program masquerading as the DLL file.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. [Use System Restore to undo recent system changes](https://www.lifewire.com/how-to-use-system-restore-in-windows-2626131) . If you suspect that the msvcr80.dll error was caused by recent changes made to an important file or configuration,[System Restore](https://www.lifewire.com/what-is-system-restore-2626022) might be able to restore it.  
 ![System Restore in the Windows System Properties menu](https://www.lifewire.com/thmb/_-1sJ8p4CJYlFzHdYO59LHYJa6A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-fix-msvcr90-dll-not-found-or-missing-errors-2623807-eba3b628271e4185b41ac1cdbd6c661f.jpg)
 5. [Reinstall the program that uses the msvcr80.dll file](https://www.lifewire.com/what-is-the-proper-way-to-reinstall-a-software-program-2624478) if you encounter these errors when using a particular program. Doing so should replace the missing DLL file.  
 ![Uninstall apps in the Windows settings](https://www.lifewire.com/thmb/aR4ZlFW-s9gwHqMKvW-W07CQYKU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_how-to-fix-msvcr80-dll-not-found-or-missing-errors-2623805-1c4381251a3f4f778657b0bc91aef6cb.jpg)
 6. [Install any available Windows updates](https://www.lifewire.com/how-to-check-for-install-windows-updates-2624596) . Some[service packs](https://www.lifewire.com/what-is-a-service-pack-2626010) and [patches](https://www.lifewire.com/what-is-a-patch-2625960) installed through Windows Update include important updates that could be related to this DLL file.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. [Repair your installation of Windows](https://www.lifewire.com/how-do-i-automatically-repair-windows-problems-2624907) . This should restore all Windows DLL files to their working versions, which might include the msvcr80.dll file.
 8. Use a [registry cleaner program](https://www.lifewire.com/free-registry-cleaners-2626176) to repair msvcr80.dll related issues in the registry. This will remove invalid msvcr80.dll [registry entries](https://www.lifewire.com/what-is-a-registry-key-2625999) that might be causing the DLL error.  
  Only really specific "fix it" solutions call for a registry cleaner. You can read more on what they do and when you might need one in our[Registry Cleaners FAQ](https://www.lifewire.com/registry-cleaner-faq-2625124) .
 9. [Perform a clean installation of Windows](https://www.lifewire.com/how-to-clean-install-windows-2624904) . As a last resort, this step will erase everything from the hard drive and install a fresh copy of the operating system.  
 ![Windows installation screen](https://www.lifewire.com/thmb/UHym4EqxQc8zrcXcggydWXdpQWk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009_how-to-fix-msvcr80-dll-not-found-or-missing-errors-2623805-00d097c0975044eb84b2d6b6908e5a15.jpg)  
  All the information on your hard drive will be erased during a clean installation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 10. Use a [free memory testing tool](https://www.lifewire.com/free-memory-test-programs-2626178) or a [hard drive testing program](https://www.lifewire.com/free-hard-drive-testing-programs-2626183) to check for [hardware-related DLL errors](https://www.lifewire.com/fix-a-dll-issue-caused-by-a-hardware-problem-2624493) . If the hardware fails any of your tests, [replace the memory](https://www.lifewire.com/how-to-replace-the-memory-ram-in-a-computer-2626201) or [replace the hard drive](https://www.lifewire.com/how-to-replace-a-hard-drive-2626200) as soon as possible, or take your PC to a professional [computer repair service](https://www.lifewire.com/how-do-i-get-my-computer-fixed-2625167) .
 
 ## Causes of Msvcr80.dll Errors
@@ -73,8 +97,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -82,8 +104,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-catalog-films-for-streamlined-playback/"><u>[Updated] In 2024, Catalog Films for Streamlined Playback</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/android-tips-keeping-your-number-private-when-calling/"><u>Android Tips: Keeping Your Number Private When Calling</u></a></li>
+<li><a href="https://win-latest.techidaily.com/bring-your-eyes-some-relief-with-bing-chats-dark-mode-now-available-tutorial-zdnet/"><u>Bring Your Eyes Some Relief with Bing Chat's Dark Mode Now Available - Tutorial | ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/detailed-analysis-of-snappy-driver-installer-v113/"><u>Detailed Analysis of Snappy Driver Installer V1.13</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discovering-the-unique-identifier-of-your-macbook-effortlessly/"><u>Discovering the Unique Identifier of Your MacBook Effortlessly</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/ensuring-seamless-scanner-integration-in-windows-solutions-from-yl-softwares-expertise/"><u>Ensuring Seamless Scanner Integration in Windows: Solutions From YL Software's Expertise</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-how-to-address-and-repair-missing-d3dx934dll-errors-on-your-pc/"><u>Guide: How To Address and Repair 'Missing d3dx9_34.dll' Errors on Your PC</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210679265-9781910559796-home-to-her/"><u>Home to Her | Free Book</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/how-to-set-up-a-unique-nintendo-network-id-for-your-nintendo-3ds-gaming-experience/"><u>How to Set Up a Unique Nintendo Network ID for Your Nintendo 3DS Gaming Experience</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Apple iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/invisible-to-others-windows-network-concealment/"><u>Invisible to Others: Windows Network Concealment</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/sculpt-the-subject-mastering-the-art-of-background-takedown/"><u>Sculpt the Subject Mastering the Art of Background Takedown</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-downloading-and-watching-fandango-movies-from-your-couch-with-amazon-fire-tv/"><u>Step-by-Step Guide: Downloading and Watching Fandango Movies From Your Couch with Amazon Fire TV</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-rated-magsafe-accessories-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top-Rated MagSafe Accessories : Comprehensive Reviews by Tech Gurus - ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-and-resolving-gsdll32dll-could-not-be-found-issues-on-your-pc/"><u>Troubleshooting and Resolving 'gSdll32.dll' Could Not Be Found Issues on Your PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-your-iphone-why-it-wont-ring-and-how-to-fix-it/"><u>Troubleshooting Your iPhone: Why It Won't Ring and How to Fix It</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/what-are-streaming-devices-and-how-do-they-work/"><u>What Are Streaming Devices and How Do They Work?</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->

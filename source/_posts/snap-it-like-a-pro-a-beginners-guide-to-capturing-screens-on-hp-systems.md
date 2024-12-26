@@ -1,7 +1,7 @@
 ---
 title: "Snap It Like a Pro: A Beginner's Guide to Capturing Screens on HP Systems"
-date: 2024-08-20T10:44:45.884Z
-updated: 2024-08-21T10:44:45.884Z
+date: 2024-12-22T00:18:49.227Z
+updated: 2024-12-26T04:10:59.394Z
 categories:
   - BestProducts
 description: "This Article Describes Snap It Like a Pro: A Beginner's Guide to Capturing Screens on HP Systems"
@@ -24,9 +24,6 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
 
  There are a few ways to take screenshots using the keyboard. Most methods require you to paste and save the screen capture in the image editor of your choice.  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Save the Screen to the Clipboard
 
  Use the**PrtSc** (Print Screen) button to capture everything visible on the screen to the clipboard. It's often on the far right of the top row of the keyboard. You will then need to paste the image into an editor like Paint (or some[other image editor](https://www.lifewire.com/free-photo-editors-1357098) ) to see and manipulate the image further.
@@ -34,10 +31,9 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
  To use the screenshot in a document, place the cursor where you want the image to be, and then press**Ctrl** +**V** to paste.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Capture the Whole Screen
 
  Press**Win** +**PrtSc** to capture the whole screen. You'll see a flash on the screen for just a moment to indicate that the screenshot was taken. By default, this kind of screen capture goes directly into this folder:
@@ -50,9 +46,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  Simultaneously press**Win** +**Shift** +**S** . Drag your cursor over the area of the screen you want to capture. The selected section will be saved to the clipboard and also stored in the**Pictures\\Screenshots** folder.  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Capture the Active Window
 
  Use**Alt** +**PrtSc** to capture the active window and add it to the clipboard. You will see no indication that the capture actually happened.
@@ -64,32 +57,39 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 1. Open the**Start menu** , search for**Snipping Tool** , and select the app to open it.  
 ![Windows Start Menu and Snipping Tool highlighted in Windows 11](https://www.lifewire.com/thmb/yDKtCYY9bVcFaqvfAjmri6XNumI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/090-how-to-screenshot-on-an-hp-laptop-5113272-f8cfaa2ad64742638281e865550875e7.jpg)
 2. Under the**Mode** menu, choose the type of selection you want to use. To capture the entire screen, choose**Full screen** . You can also choose a rectangular section, a single window, or draw a custom shape.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. Select**New** to start your screen capture.  
 !['New' and 'Full screen' highlighted in Windows 11 Snipping Tool.](https://www.lifewire.com/thmb/g66hVFQzkmgPsL_-O_rBUg5_zcc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-ScreenshotonanHPLaptop-annotated-445623206c1e4eef89a213342557830b.jpg)
 4. Snipping Tool will open the screenshot in a new window. From here, you can use the tools up top to make notes and highlights, or copy the image to Paint, before you save the screenshot, which you can do from the**floppy disk** icon.  
-![Editing tools and save button highlighted in the Windows 11 Snipping Tool.](https://www.lifewire.com/thmb/UOBedWb_YxuBBdnppspmJ6w-akE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A4-ScreenshotonanHPLaptop-annotated-f68b452cb4314b9097d3a1e2851933ec.jpg)  
- There are also third-party[screenshot apps for Windows](https://www.lifewire.com/best-screenshot-apps-windows-4177685) that offer more editing options.  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Editing tools and save button highlighted in the Windows 11 Snipping Tool.](https://www.lifewire.com/thmb/UOBedWb_YxuBBdnppspmJ6w-akE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A4-ScreenshotonanHPLaptop-annotated-f68b452cb4314b9097d3a1e2851933ec.jpg)  
+ There are also third-party[screenshot apps for Windows](https://www.lifewire.com/best-screenshot-apps-windows-4177685) that offer more editing options.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Use Snip & Sketch in Windows 10  
 
  Windows 10 also has the Snip & Sketch app. Here's how to use it:
 5. With the window or screen you want to capture open, click the**Start menu** .  
 ![The Start menu in Windows 10](https://www.lifewire.com/thmb/jhfqJPusffnGbRDz0h4z34Cr2KY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-screenshot-on-an-hp-laptop-5113272-18280d7e9f2646ec9737b568a63e1f6d.jpg)
 6. Search for**Snip & Sketch** in the**search bar** and select it from the results.  
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![Snip & Sketch in Windows 10 search](https://www.lifewire.com/thmb/BVW5_zNPQIiLElFJfb9LJncuxCA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-screenshot-on-an-hp-laptop-5113272-90cfac0731be469b84f371dd350418b7.jpg)
 7. A menu will appear at the top of the screen. Click the fourth option to capture the whole image, which looks like a rectangle with marks in each corner.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Fullscreen Snap option in Snip & Sketch ](https://www.lifewire.com/thmb/J0OSAm42Pokyx2lgosQHb1FGec4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-how-to-screenshot-on-an-hp-laptop-5113272-e15fbcfa15374ebba4b40f6c9ae509e6.jpg)  
  The other options let you draw a rectangle to capture, make a freeform shape, or grab the active window.
 8. However you take the screen, Windows will save it to the clipboard, and a notification will appear. Select the notification (which includes a thumbnail of the screen you just took) to open a customization window.  
@@ -97,9 +97,11 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 9. In this window, you can mark up, highlight, and crop the image using the tools at the top of the screen.  
 ![Editing tools in Snip & Sketch](https://www.lifewire.com/thmb/sYD0JV4SnJihP8vQIPKLDtLcK3A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007-how-to-screenshot-on-an-hp-laptop-5113272-9bdc8e07001c4cb6ba077d56b6f127b8.jpg)
 10. To save the screenshot, select the**Save** icon.  
+
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![The Save button in Snip & Sketch](https://www.lifewire.com/thmb/tne8-m5QuuEH054CwG8jz5Ysklc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008-how-to-screenshot-on-an-hp-laptop-5113272-0d187feff1f046bb90f87e2567b2540c.jpg)
 11. In the next window, choose a file name, file type, and location for your saved screenshot, then select**Save** .  
 ![Save in the Save window in Windows Snip & Sketch](https://www.lifewire.com/thmb/ytqrZAnY_rgAb2JoVonbEBpA5H4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009-how-to-screenshot-on-an-hp-laptop-5113272-5537372a44cc491baa434a42656ba761.jpg)
@@ -111,8 +113,9 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 ![The Power and Volume Down buttons on an HP tablet](https://www.lifewire.com/thmb/LQyDhN14pOtcwoGTDvOYoDj3aKA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-screenshot-on-an-hp-laptop-5113272-108a6439e9a64000a39c0ed68fa2f6c1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 HP
 
 [How to Screenshot on HP Envy](https://www.lifewire.com/take-screenshot-on-hp-envy-5187988)
@@ -146,8 +149,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +156,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-quick-insights-for-accelerating-editing-tasks-efficiently/"><u>[New] 2024 Approved Quick Insights for Accelerating Editing Tasks Efficiently</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-webcam-filming-made-professional-in-no-time/"><u>[New] 2024 Approved Webcam Filming Made Professional in No Time</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/udget-friendly-vlogging-cameras-unveiled-our-picks-for-2024/"><u>[New] Budget-Friendly Vlogging Cameras Unveiled Our Picks for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-ultimate-selection-choosing-excellent-free-srt-translators-for-2024/"><u>[New] Ultimate Selection Choosing Excellent FREE SRT Translators for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-the-ultimate-screencast-blueprint-tools-and-techniques-mastery/"><u>[Updated] In 2024, The Ultimate Screencast Blueprint Tools & Techniques Mastery</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/all-about-amazon-prime-day-202/"><u>All About Amazon Prime Day 202</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-tutorial-creating-and-sharing-voice-memos-with-ios-devices/"><u>Complete Tutorial: Creating and Sharing Voice Memos with iOS Devices</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expertly-curated-selection-of-top-performing-asus-router-brands/"><u>Expertly Curated Selection of Top-Performing ASUS Router Brands</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-safety-features-of-duckduckgos-private-browsing/"><u>Exploring the Safety Features of DuckDuckGo's Private Browsing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-your-unresponsive-lenovo-mouse-pad-in-any-version-of-windows-11-8-or-7-easy-guide/"><u>Fix Your Unresponsive Lenovo Mouse Pad in Any Version of Windows (11, 8 or 7) – Easy Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-12-pro-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 12 Pro to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mfplatdll-missing-comprehensive-guide-to-repair-the-error/"><u>mfplat.dll Missing? Comprehensive Guide to Repair the Error</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-process-of-experiencing-the-indiana-jones-saga-correctly/"><u>Step-by-Step Process of Experiencing the Indiana Jones Saga Correctly</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/streaming-on-any-device-accessing-content-from-the-roku-channel/"><u>Streaming on Any Device: Accessing Content From The Roku Channel</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/twitch-mastery-discovering-the-top-5-utilities-for-enhancing-your-live-stream-quality/"><u>Twitch Mastery: Discovering the Top 5 Utilities for Enhancing Your Live-Stream Quality</u></a></li>
+</ul></div>
 

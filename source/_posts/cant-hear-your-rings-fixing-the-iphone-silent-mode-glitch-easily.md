@@ -1,7 +1,7 @@
 ---
 title: "Can't Hear Your Rings: Fixing the iPhone Silent Mode Glitch Easily"
-date: 2024-08-26T07:24:11.623Z
-updated: 2024-08-27T07:24:11.623Z
+date: 2024-12-19T06:47:34.155Z
+updated: 2024-12-25T21:02:27.985Z
 categories:
   - BestProducts
 description: "This Article Describes Can't Hear Your Rings: Fixing the iPhone Silent Mode Glitch Easily"
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/c878f30c184513e5e2ecdd904a42a40c824bea0f8
  There are many reasons why an iPhone won't ring, but most of these problems are easy to fix. If your iPhone isn't ringing when someone calls you, try these tips before concluding that your iPhone needs an expensive repair.
 
  The tips in this article apply to all supported iPhone models and recent iOS versions, including iOS 13, 12, and 11.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix an iPhone That Won't Ring
 
@@ -36,6 +40,11 @@ thumbnail: https://thmb.techidaily.com/c878f30c184513e5e2ecdd904a42a40c824bea0f8
  If you want to keep Silence Unknown Callers turned on but still get calls from certain numbers,[add those callers to Contacts](https://www.lifewire.com/manage-contacts-iphone-address-book-2000570) .  
 ![iPhone showing the Phone settings and Silence Unknown Callers switch](https://www.lifewire.com/thmb/PfmlpvYkxD5z2_TErc_402j9xA8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-b93c2874c9784090a83900ec430caf0b.jpg)
 7. Change your custom ringtone. If your iPhone still doesn't ring for incoming calls, check your ringtone. If you[set up unique ringtones for contacts](https://www.lifewire.com/assign-unique-ringtone-on-iphone-2000557) , a deleted or corrupted ringtone can prevent the phone from ringing when someone calls.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To check the default ringtone, tap**Settings** \>**Sounds & Haptics** \>**Ringtone** , and then select a new ringtone.  
  If you miss calls from only certain people, open the Phone app, and then complete these steps:  
    1. Tap**Contacts** .  
@@ -43,7 +52,16 @@ thumbnail: https://thmb.techidaily.com/c878f30c184513e5e2ecdd904a42a40c824bea0f8
    3. Tap**Ringtone** , and then assign the contact a new ringtone.  
 ![Three iOS screens showing Contacts, Edit button and Ringtone area in Phone settings app](https://www.lifewire.com/thmb/dQgktPdfOQV7lnazDKmKLLfIXPI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-5bbe5923c9e77c005156dd60.jpg)  
  If the unique ringtone is the source of the problem, find all the contacts to whom you assigned that ringtone and select a new ringtone for each.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. [Make sure the phone isn't stuck in Headphone mode](https://www.lifewire.com/fix-iphone-stuck-in-headphone-mode-4175912) . It could be that your iPhone is ringing but sending the audio to the wrong place. In this situation, the iPhone thinks that another audio source is attached to it—like headphones or a Bluetooth device—and tries to ring there instead of through your iPhone speaker.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## If None of These Tips Fixed the Problem
 
@@ -52,8 +70,9 @@ thumbnail: https://thmb.techidaily.com/c878f30c184513e5e2ecdd904a42a40c824bea0f8
 [How to Fix It When iPhone Call Volume Is Low](https://www.lifewire.com/fix-low-volume-on-call-on-iphone-5186012)
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Causes of the iPhone Not Ringing Problem
 
  If your iPhone isn't ringing, there are several possible culprits:
@@ -93,8 +112,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -102,4 +119,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-the-insiders-guide-to-captivating-youtube-headlines/"><u>[New] The Insider's Guide to Captivating YouTube Headlines</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-cross-platform-strategies-for-maximum-instagram-exposure/"><u>[Updated] 2024 Approved Cross-Platform Strategies for Maximum Instagram Exposure</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-how-to-guide-on-bypassing-iphone-6-icloud-activation-lock-by-drfone-ios/"><u>A How-To Guide on Bypassing iPhone 6 iCloud Activation Lock</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-fixes-for-kernel-data-page-errors-in-windows-os/"><u>Comprehensive Fixes for Kernel Data Page Errors in Windows OS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-strategies-to-resolve-ftd2xxdll-missing-error-messages/"><u>Effective Strategies to Resolve ftd2xx.dll Missing Error Messages</u></a></li>
+<li><a href="https://article-files.techidaily.com/fostering-friendship-through-conversations-with-viewers-for-2024/"><u>Fostering Friendship Through Conversations With Viewers for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-leap-into-efficiency-with-quick-srt-to-txt-2023-guide/"><u>In 2024, Leap Into Efficiency with Quick SRT to TXT 2023 Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-boost-mobile-apple-iphone-15-plus-before-the-plan-expires-by-drfone-ios/"><u>In 2024, Unlock Your Boost Mobile Apple iPhone 15 Plus Before the Plan Expires</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/iphone-15-pro-max-vs-samsung-galaxy-s24-ultra-showdown-key-comparisons-and-contrasts/"><u>IPhone 15 Pro Max Vs. Samsung Galaxy S24 Ultra Showdown: Key Comparisons and Contrasts</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-s-top-rated-free-mod-video-editing-tools-for-2024/"><u>New S Top-Rated Free MOD Video Editing Tools for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/optimizing-play-for-avatar-frontiers-of-pandora-fixing-delays-and-stutters/"><u>Optimizing Play for Avatar: Frontiers of Pandora – Fixing Delays and Stutters</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ps4-controller-flashes-explained-identifying-blue-white-red-and-orange-signals/"><u>PS4 Controller Flashes Explained: Identifying Blue, White, Red, and Orange Signals</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/seamless-integration-enabling-apple-tv-streaming-capabilities-on-amazon-fire-stick-devices/"><u>Seamless Integration: Enabling Apple TV Streaming Capabilities on Amazon Fire Stick Devices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transformer-un-fichier-midi-ou-mod-en-fichier-wav-gratuitement-avec-des-outils-en-ligne-guide-par-movavi/"><u>Transformer Un Fichier MIDI Ou MOD en Fichier WAV Gratuitement Avec Des Outils en Ligne - Guidé Par Movavi</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-mozilla-thunderbird-v52-the-next-evolution-of-secure-reliable-messaging/"><u>Unveiling Mozilla Thunderbird v52 – The Next Evolution of Secure, Reliable Messaging</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722898554652-xbox-series-xs-headset-wont-work-heres-how-you-can-repair-it/"><u>Xbox Series X/S Headset Won't Work? Here’s How You Can Repair It!</u></a></li>
+</ul></div>
 

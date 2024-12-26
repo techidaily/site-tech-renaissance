@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Samsung Galaxy S25 Leaked Info: Price Forecasts & Launch Details Unveiled"
-date: 2024-08-26T07:21:22.921Z
-updated: 2024-08-27T07:21:22.921Z
+date: 2024-12-18T22:38:43.517Z
+updated: 2024-12-26T00:17:38.389Z
 categories:
   - BestProducts
 description: "This Article Describes Upcoming Samsung Galaxy S25 Leaked Info: Price Forecasts & Launch Details Unveiled"
@@ -22,11 +22,19 @@ thumbnail: https://thmb.techidaily.com/255a2b0d86b70a9b8b182a32b7f077670444b2206
 
  Since[the latest Samsung Galaxy phones](https://www.lifewire.com/newest-samsung-galaxy-phone-7567396) were launched just this year, there's not a lot in the way of Galaxy S25 leaks. Nevertheless, we have some ideas about this upcoming smartphone pair and will keep this page updated as we uncover new rumors and leaks throughout the year.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When Will the Samsung Galaxy S25 Be Released?
 
  Samsung consistently releases its Galaxy S series phones during the first half of each year. With a track record of unveiling new models every year since 2010, there's no need for speculation about the arrival of new Samsung phones.
 
  Since the Galaxy S24 debuted in 2024, we can expect the Galaxy S25 and S25+ to land in 2025.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Lifewire's Release Date Estimate
 
@@ -47,19 +55,12 @@ January or February 2025 is our best guess right now.
 
 [The Best Places to Buy Phones in 2024](https://www.lifewire.com/best-places-to-buy-cell-phones-580000)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ## Pre-Order Information
 
  Samsung Galaxy S25 pre-orders will start when the phones are announced early next year.
 
  Interested in a foldable phone? Samsung's[Z Fold 6](https://www.lifewire.com/galaxy-z-fold-6-8418354) and[Z Flip 6](https://www.lifewire.com/samsung-galaxy-z-flip-6-8621840) are coming this year.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Samsung Galaxy S25 Features
 
 [Android 15 will arrive later this year](https://www.lifewire.com/android-15-7547471) , so the Galaxy S25 will run that version of the Android OS (with the[One UI](https://www.lifewire.com/what-is-samsung-one-ui-4178405) 7 skin). Samsung will likely support the S25 for the same length of time as in past years, meaning you'll get major Android operating system updates and security fixes for seven years.
@@ -78,17 +79,15 @@ January or February 2025 is our best guess right now.
  Aside from the possibility of some slight design changes (that's all we've heard; no details yet), here are the bigger changes we're looking forward to:  
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Newer Processor
 
  The next Samsung Galaxy phones will likely be powered by the Qualcomm Snapdragon 8 Gen 4 in the US and the Exynos 2500 everywhere else. The Qualcomm processor[is said to support faster RAM](https://wccftech.com/lpddr6-support-for-snapdragon-8-gen-not-for-a18-pro/) , which will be much needed as on-device AI continues to work its way into these phones.
 
  We're not yet sure how much RAM these phones could be packing, but we're hoping the base model has 12 GB and the Plus model increases to 16 GB. More RAM means that AI can work faster because it can run some of its operations locally, and other phone functions will also benefit.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Larger Displays
 
 [If this rumor is true](https://twitter.com/TheGalox%5F/status/1782058803468423431) , next year's phones could be a little bigger. The X/Twitter post states that the Galaxy S25 will increase from a 6.2-inch display to a 6.36-inch one. It's not a_huge_ change, but it could usher in more than just a bigger screen.
@@ -96,8 +95,9 @@ January or February 2025 is our best guess right now.
  The Galaxy S25+ could be bigger, too, but we haven't seen any supporting leaks. The current model is 6.7 inches and we don't see that changing unless the Galaxy S25 Ultra_also_ increases in size, since it's already 6.8 inches.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Better Image Quality
 
  A larger phone, overall, means Samsung could stuff a bigger battery into the phone or work in some different cameras. Currently, Samsung and other phone makers use Samsung's ISOCELL sensor for their phone cameras.
@@ -115,22 +115,9 @@ January or February 2025 is our best guess right now.
 * The S25 phones could follow Google's lead with the[Pixel 9](https://www.lifewire.com/google-pixel-9-8630767) and support Qi2, the next version of the[Qi wireless charging standard](https://www.lifewire.com/qi-wireless-charging-4151894) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Latest News About Samsung Galaxy S25
 
  You[read more smartphone news here at Lifewire](https://www.lifewire.com/mobile-phones-4781509) . Below are some of those stories and more about Samsung and Android specifically.
@@ -147,8 +134,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,4 +141,21 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/updated-blend-your-belief-with-mobile-melodies/"><u>[Updated] Blend Your Belief with Mobile Melodies</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-grab-your-guiltless-film-endings-with-our-template-service-for-2024/"><u>[Updated] Grab Your Guiltless Film Endings with Our Template Service for 2024</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/lan/"><u>無線・LANケーブルを使ったパソコン間データ転送・共有 - 簡単ガイド</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-troubleshooting-for-coredll-not-found-errors-on-your-pc/"><u>Comprehensive Troubleshooting for 'Core.dll Not Found' Errors on Your PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enhance-clarity-and-contrast-expert-tips-for-tuning-your-samsung-4k-screens-image-quality/"><u>Enhance Clarity & Contrast: Expert Tips for Tuning Your Samsung 4K Screen's Image Quality</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/error-free-gaming-correctly-installing-the-elusive-d3dx9-library-file/"><u>Error-Free Gaming: Correctly Installing the Elusive D3DX9 Library File</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-bootmgr-is-missing-errors-expert-tips-and-tricks/"><u>Fixing 'BOOTMGR Is Missing' Errors: Expert Tips and Tricks</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-enjoy-snapchat-features-from-the-comfort-of-your-desktop/"><u>How to Enjoy Snapchat Features From the Comfort of Your Desktop</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-special-features-virtual-location-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Vivo Y77t? | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-perfecting-youtube-videos-through-enhancement-tips/"><u>In 2024, Perfecting YouTube Videos Through Enhancement Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-nospinlockavailable-error-a-guide-to-fixing-stop-code-0x0000001d/"><u>Solving the NO_SPIN_LOCK_AVAILABLE Error: A Guide to Fixing Stop Code 0X0000001D</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/ultimate-earnings-prediction-top-6-tiktok-tools-for-2024/"><u>Ultimate Earnings Prediction Top 6 TikTok Tools for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-your-logitech-audio-device-with-the-newest-drivers-for-windows-1178-download-here/"><u>Update Your Logitech Audio Device with the Newest Drivers for Windows 11/7/8 - Download Here</u></a></li>
+</ul></div>
 

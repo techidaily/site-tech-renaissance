@@ -1,7 +1,7 @@
 ---
 title: "Next-Gen Faceoff: Comparing Apple's Latest Marvel, Series 10 to Its Predecessor Series 8"
-date: 2024-12-13T16:08:34.763Z
-updated: 2024-12-17T16:05:05.399Z
+date: 2024-12-23T17:01:25.795Z
+updated: 2024-12-26T01:16:56.135Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ In a [previous article](https://www.zdnet.com/article/6-ways-apple-can-leapfrog-
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Apple Intelligence will bring to the company's operating system platforms
@@ -57,7 +57,7 @@ In terms of AI infrastructure, Apple also introduced its [Foundation Models](htt
 **Room for Improvement:** Apple fell short in AI infrastructure leadership by not announcing AI-accelerated server appliances at the edge, which would allow less capable devices, like the base iPhone 15 and earlier iOS 18-supported models, to use Apple Intelligence's more advanced features. While the hybrid AI model with on-device and PCC is a step in the right direction, AI-accelerated edge network devices were not mentioned to enhance performance and reduce latency. Apple is typically not transparent about deploying resources in its data centers, so it may plan to deploy these appliances at the edge without disclosing specifics. While the short list of Responsible AI Principles that the company [has documented here](https://machinelearning.apple.com/research/introducing-apple-foundation-models) is a good start, an AI [ethical disclosure](https://www.adobe.com/content/dam/cc/en/ai-ethics/pdfs/Adobe-AI-Ethics-Principles.pdf) statement [along the lines of what Adobe is doing](https://www.adobe.com/ai/overview/ethics.html) would further bolster trust and transparency.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Embracing third-party AI providers
@@ -76,6 +76,10 @@ Smart notifications in Apple's operating systems will leverage on-device LLMs to
 
 **Room for improvement:** Building on the Reduce Interruptions Focus, further development in proactive assistance features that anticipate user needs based on past behavior and context would be beneficial.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### AI image generation and Genmoji
 
 Apple has opened up a world of creative possibilities by integrating the [Image Playground](https://www.zdnet.com/article/forget-dall-e-apples-new-ai-image-generator-runs-on-device-and-works-like-magic/) API into all apps. Users can create AI-generated images in three styles: Sketch, Animation, and Realism. Imagine creating and sharing these images directly within Messages or Pages -- it's a game-changer. In Notes, a new Image Wand tool can generate images based on the current page content. [Genmoji](https://www.zdnet.com/article/apples-new-ai-generated-genmoji-solve-a-problem-weve-all-had-before/) allows users to create custom emojis, adding a personalized touch to communications.
@@ -83,7 +87,7 @@ Apple has opened up a world of creative possibilities by integrating the [Image 
 **Room for improvement:** Providing more granular controls and customization options for the generated images and Genmojis, such as fine-tuning styles and attributes, could cater to more specific user preferences. Additionally, implementing features that suggest image enhancements or emoji creations based on user activity and context could further streamline the creative process.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Enhanced Siri and task automation
@@ -107,10 +111,6 @@ Lastly, enhancing AI capabilities across all Apple products, including Siri, App
 **Also: [What is Apple Intelligence? How the iPhone's on-device and cloud-based AI works](https://www.zdnet.com/article/what-is-apple-intelligence-how-the-iphones-on-device-and-cloud-based-ai-will-work/)**
 
 **Room for improvement:** We also haven't heard anything about [HomePod](https://www.zdnet.com/home-and-office/home-entertainment/homepod-vs-homepod-mini-which-one-of-apples-smart-speakers-is-right-for-you/) or Apple TV with Apple Intelligence, although neither of these products has the computational power to perform on-device generative AI. Similarly, there were no mentions of new AI capabilities in [WatchOS](https://www.zdnet.com/article/every-apple-watch-model-that-will-support-watchos-11-and-which-ones-wont/). While these devices might be able to use some of the cloud capabilities of Apple Intelligence, this was not brought up in the keynote. Additionally, with its M2 chip, the [Vision Pro](https://www.zdnet.com/article/apple-vision-pro-faq-price-features-hands-on-insights-and-everything-you-need-to-know/) is powerful enough to handle Apple Intelligence on-device features. Still, the keynote did not discuss what would be coming to that device specifically.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The developer story
 
@@ -137,7 +137,7 @@ Finally, the new Translation API will be unveiled. It will help developers build
 By equipping developers with these resources, Apple is ensuring that the potential of Apple Intelligence can be fully realized across its ecosystem, driving innovation and enhancing user experiences.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Did Apple go far enough with AI improvements?
@@ -180,24 +180,24 @@ Addressing the remaining gaps could enhance Apple's competitive position in the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-five-to-fiveteen-tactics-against-oculus-discomfort/"><u>2024 Approved Five to Fiveteen Tactics Against Oculus Discomfort</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-top-30-youtube-intro-creators-for-spectacular-opening-videos/"><u>2024 Approved Top 30 YouTube Intro Creators for Spectacular Opening Videos</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-update-bcm20702a0-windows-drivers-fast-and-simple-solution/"><u>Download & Update BCM20702A0 Windows Drivers - Fast & Simple Solution</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-steps-to-download-and-update-your-toshiba-dynabook-recovery-solution-for-windows-computers/"><u>Easy Steps to Download & Update Your Toshiba Dynabook Recovery Solution for Windows Computers</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-meizu-21-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Meizu 21 | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-started-with-easycap-today-free-driver-download-for-seamless-experience/"><u>Get Started with EasyCap Today! Free Driver Download for Seamless Experience.</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-resolve-the-persistent-black-screen-on-launch-in-far-cry-n6/"><u>How to Resolve the Persistent Black Screen on Launch in Far Cry N6</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-advanced-card-selections-uhd-video-perfection/"><u>In 2024, Advanced Card Selections UHD Video Perfection</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Infinix Smart 8 Pro? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/master-the-art-of-connecting-your-printer-to-a-computer-running-windows-10/"><u>Master the Art of Connecting Your Printer to a Computer Running Windows 10</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/master-the-art-of-taking-screenshots-on-your-acer-laptop/"><u>Master the Art of Taking Screenshots on Your Acer Laptop</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/master-the-connection-wireless-xbox-one-controllers-setup-for-pc/"><u>Master the Connection: Wireless Xbox One Controllers Setup for PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-gameplay-clarity-fixing-second-monitor-hiccups-for-flawless-gaming-in-windows-11-systems/"><u>Mastering Gameplay Clarity: Fixing Second Monitor Hiccups for Flawless Gaming in Windows 11 Systems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-mobile-gaming-stream-your-ps4-games-on-android-with-just-3-simple-steps/"><u>Mastering Mobile Gaming: Stream Your PS4 Games on Android with Just 3 Simple Steps</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/maximize-speed-and-productivity-expert-strategies-for-a-fully-functional-windows-aturated-with-keywords-clear-language-and-action-oriented-phrases/"><u>Maximize Speed and Productivity: Expert Strategies for a Fully Functional Windows Aturated with Keywords, Clear Language, and Action-Oriented Phrases</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/online-anonymity-matters-explore-why-you-need-a-vpn-and-learn-about-its-working-process/"><u>Online Anonymity Matters: Explore Why You Need a VPN and Learn About Its Working Process</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/pairing-your-sony-bluetooth-headset-made-easy-step-by-step-instructions/"><u>Pairing Your Sony Bluetooth Headset Made Easy - Step-by-Step Instructions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/preparing-your-pc-essential-tips-before-upgrading-to-the-windows-11-creators-edition/"><u>Preparing Your PC: Essential Tips Before Upgrading to the Windows 11 Creator's Edition</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-samsung-galaxy-m14-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Samsung Galaxy M14 5G</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-apples-m1-battle-is-the-air-or-pro-more-efficient-in-2024/"><u>[Updated] Apple's M1 Battle Is the Air or Pro More Efficient, In 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-breakthrough-bots-providing-virtual-therapy-assistance/"><u>5 Breakthrough Bots Providing Virtual Therapy Assistance</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-apples-visionos-update-a-closer-look-at-persona-improvements-and-new-innovations-on-your-devices-zdnet/"><u>Exploring Apple's VisionOS Update: A Closer Look at Persona Improvements & New Innovations on Your Devices | ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-discussing-metas-vision-for-tomorrow-keeps-me-awake-a-conversation-highlighted-on-zdnet/"><u>How Discussing Meta's Vision for Tomorrow Keeps Me Awake - A Conversation Highlighted on ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-loreal-clinched-two-prestigious-honors-for-pioneering-accessible-beauty-tech-during-ces-2er-2023-a-deep-dive-by-zdnet/"><u>How L'Oréal Clinched Two Prestigious Honors for Pioneering Accessible Beauty Tech During CES 2Er 2023: A Deep Dive by ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/immerse-yourself-in-sound-how-logitechs-chorus-add-on-elevates-the-meta-quest-2-vr-experience-zdnet-insights/"><u>Immerse Yourself in Sound: How Logitech's Chorus Add-On Elevates the Meta Quest 2 VR Experience | ZDNET Insights</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-vivo-x90s-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Vivo X90S without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-realme-narzo-60-5g-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Realme Narzo 60 5G</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-revolutionizing-photos-through-automated-hdr-techniques/"><u>In 2024, Revolutionizing Photos Through Automated HDR Techniques</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-lava-yuva-3-pro-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Lava Yuva 3 Pro Device</u></a></li>
+<li><a href="https://extra-support.techidaily.com/irreversible-integration-of-tiktok-profile-linking-technique-for-2024/"><u>Irreversible Integration of TikTok Profile Linking Technique for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/meta-quest-3-the-innovative-game-based-mindfulness-approach-by-headspace-as-featured-on-zdnet/"><u>Meta Quest #3: The Innovative Game-Based Mindfulness Approach by Headspace, as Featured on ZDNet</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-melody-compendium-the-15-best-music-selections-for-different-visual-media-types/"><u>New Melody Compendium The 15 Best Music Selections for Different Visual Media Types</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/secure-the-best-virtual-reality-deal-of-2023-with-meta-quest-(200-comprehensive-review-and-tips-from-zdnet/"><u>Secure the Best Virtual Reality Deal of 2023 with Meta Quest <$200 | Comprehensive Review and Tips From ZDNET</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/strategies-for-overseeing-client-systems-spread-over-various-subnets/"><u>Strategies for Overseeing Client Systems Spread Over Various Subnets</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unity-launches-beta-testing-for-apples-vision-pro-kickstart-your-ar-and-vr-game-development-now/"><u>Unity Launches Beta Testing for Apple's Vision Pro - Kickstart Your AR and VR Game Development Now!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/unlocking-full-potential-with-obs-and-skype-collaboration-tools/"><u>Unlocking Full Potential with OBS and Skype Collaboration Tools</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-surge-of-virtual-augmented-and-extended-realities-insights-from-mits-reality-hack/"><u>Unveiling the Surge of Virtual, Augmented, and Extended Realities: Insights From MIT's 'Reality Hack'</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/whos-leading-the-charge-in-crafting-tomorrows-digital-realm-exploring-the-innovators-of-the-metaverse-with-zdnet/"><u>Who's Leading the Charge in Crafting Tomorrow's Digital Realm? Exploring the Innovators of the Metaverse with ZDNET</u></a></li>
 </ul></div>
 

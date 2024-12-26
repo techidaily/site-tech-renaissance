@@ -1,7 +1,7 @@
 ---
 title: "End of an Era for Apple Pay Later: Unveiling Apple’s Latest Financial Solutions Strategy"
-date: 2024-12-16T16:02:57.967Z
-updated: 2024-12-17T16:00:32.599Z
+date: 2024-12-23T22:02:05.150Z
+updated: 2024-12-25T20:49:45.477Z
 tags:
   - apple
 categories:
@@ -31,6 +31,10 @@ To continue this conversation, I'm going to ask you to hold two competing though
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How could Meta possibly beat Apple?
 
 Good, better, best. What does this mean? How can a $500 device from Meta (Facebook, believe it or not) beat Apple's offering?
@@ -56,7 +60,7 @@ During this time, the company focused on providing viable mixed reality and VR e
 Essentially, Meta's focus has been on finding the sweet spot for AR and VR devices using current technology and baking that into its products. In the Quest 3, it has introduced a truly great device at a reasonably affordable price.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  That old Apple magic
@@ -86,10 +90,6 @@ Bloomberg's Gurman believes Apple is more willing to kill products now than it h
 
 His inference is that it's possible Apple will lose patience with the slow progress of the Vision Pro and kill it off, although he says his sources claim the company is more focused on introducing a cost-cut Vision device that off-loads the processing to a tethered iPhone or Mac. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Think different?
 
 For Apple to be able to move forward with the Vision Pro, it must answer one simple question: Why should I buy this thing? 
@@ -110,10 +110,6 @@ The virtual Mac screen the Vision Pro now offers doesn't add much. But being abl
 
 There are always reasons for delays. It's certainly possible the company hit technical hurdles. But perhaps it could have moved resources over from circus sideshow projects like converting 2D photos into 3D photos -- a feature _no one_ will use as a justification to buy a Vision Pro -- into something that could and will provide real, tangible value and even a justification for the high purchase price. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  A Vision for the rest of us
 
 Right now, the Quest 3 is the [spatial computing](https://www.zdnet.com/article/what-is-spatial-computing-and-how-does-it-work/) headset for the rest of us. While head-mounted displays are still a challenging sell, the Quest 3 offers enough compelling value ([especially as a theatre-sized Netflix player](https://www.zdnet.com/article/netflix-is-now-meta-quest-3s-killer-app-thanks-to-these-two-new-modes/)) to make it the mainstream, easy-to-adopt solution. 
@@ -128,6 +124,10 @@ In other words, for the Vision to be successful, it has to stop fooling around a
 
 So what, beyond shipping useful software like the ultra-wide Mac display, needs to factor into that probably elusive Apple mindset change? Three things. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Give the Vision a controller
 
 VisionOS 2 has made some improvements. Beyond a trackpad, the new OS version (coming this fall) will support a mouse for pointing. It will also allow some form of keyboard passthrough, even in immersive environments, enabling you to see your keyboard. 
@@ -139,7 +139,7 @@ The eye tracking and hand gestures interface that are the primary means of opera
 You can see this in action with the [Puzzling Places game](https://www.meta.com/experiences/3931148300302917/). On the Quest 3, the game provides a much richer interface than on the Vision Pro. That's because it's much easier to navigate objects in the 3D space using the Quest controllers. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Stay away from cable tethering
@@ -155,7 +155,7 @@ The idea that a future Vision device might need to be physically tethered to an 
 There might be one compromise, which is to wirelessly offload some processing to an iPhone, similar to the symbiotic relationship the Apple Watch has with the iPhone. That could work. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Make a tough margin decision
@@ -227,17 +227,18 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-navigating-the-seas-of-success-utilizing-social-blade-for-youtube-data/"><u>[New] In 2024, Navigating the Seas of Success Utilizing Social Blade for YouTube Data</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-step-by-step-approach-to-crafting-youtube-intros/"><u>[Updated] Step-by-Step Approach to Crafting YouTube Intros</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-subscription-sensation-top-10-youtube-personalities-by-counts/"><u>[Updated] Subscription Sensation Top 10 YouTube Personalities by Counts</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/2024-approved-deciphering-the-connotations-of-pfp-on-social-media/"><u>2024 Approved Deciphering the Connotations of 'PFP' On Social Media</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-joke-journey-begins-for-free-our-meme-toolset/"><u>2024 Approved Joke Journey Begins for Free - Our Meme Toolset</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-tecno-spark-10c-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Tecno Spark 10C | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-intelligent-features-of-android-systems/"><u>Exploring the Intelligent Features of Android Systems</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722852222050-guide-fixing-alexas-unresponsiveness-a-step-by-c/"><u>Guide: Fixing Alexa's Unresponsiveness – A Step-by-C...</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-effortlessly-pick-out-specific-messages-from-a-cluttered-gmail-collection/"><u>How to Effortlessly Pick Out Specific Messages From a Cluttered Gmail Collection</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-enable-and-use-compatibility-mode-for-legacy-software-on-windows-11/"><u>How to Enable and Use Compatibility Mode for Legacy Software on Windows 11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/repairing-lost-cellular-function-in-your-apple-watch-expert-tips-and-tricks/"><u>Repairing Lost Cellular Function in Your Apple Watch: Expert Tips & Tricks</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-espnplus-a-guide-to-disneys-premier-sports-streaming-platform/"><u>Understanding ESPN+: A Guide to Disney's Premier Sports Streaming Platform</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-setting-up-a-facebook-donation-challenge/"><u>[New] Setting Up a Facebook Donation Challenge</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-select-your-footage-editor-hero-or-cube-edition/"><u>[Updated] In 2024, Select Your Footage Editor Hero or Cube Edition?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-comprehensive-guide-to-leveraging-the-power-of-google-gemini/"><u>A Comprehensive Guide to Leveraging the Power of Google Gemini</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/an-overview-of-electric-vehicle-progression-in-history/"><u>An Overview of Electric Vehicle Progression in History</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enjoy-endless-entertainment-with-these-10-affordable-alternatives-to-netflix/"><u>Enjoy Endless Entertainment with These 10 Affordable Alternatives to Netflix</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-realme-gt-neo-5-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Realme GT Neo 5 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-rectify-steam-library-error-no-sync-available/"><u>How to Rectify Steam Library Error: No Sync Available</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-xiaomi-redmi-note-12-proplus-5g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Xiaomi Redmi Note 12 Pro+ 5G Phone that is Locked?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/seamless-integration-how-to-use-your-favorite-android-apps-directly-on-a-windows-10-desktop/"><u>Seamless Integration: How to Use Your Favorite Android Apps Directly on a Windows 10 Desktop</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/secure-free-mpow-bluetooth-driver-software-for-windows-users-compatible-with-11-8-7/"><u>Secure Free MPOW Bluetooth Driver Software for Windows Users: Compatible with 11, 8, 7</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-issue-of-unanswered-calls-on-your-samsung-galaxy-smartwatch/"><u>Solving the Issue of Unanswered Calls on Your Samsung Galaxy Smartwatch</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-oleaut32dll-file-not-detected-a-step-by-step-guide/"><u>Solving the oleaut32.dll File Not Detected: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-how-to-successfully-catch-em-all-in-pokemon-go/"><u>Step-by-Step Instructions: How to Successfully Catch 'Em All in Pokémon Go</u></a></li>
 </ul></div>
 

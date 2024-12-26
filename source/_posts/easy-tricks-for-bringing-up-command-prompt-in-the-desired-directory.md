@@ -1,7 +1,7 @@
 ---
 title: Easy Tricks for Bringing Up Command Prompt in the Desired Directory
-date: 2024-08-26T07:21:15.802Z
-updated: 2024-08-27T07:21:15.802Z
+date: 2024-12-21T22:44:37.723Z
+updated: 2024-12-25T17:12:11.321Z
 categories:
   - BestProducts
 description: This Article Describes Easy Tricks for Bringing Up Command Prompt in the Desired Directory
@@ -10,6 +10,11 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
 ---
 
 ## Perfect Order for Enjoying All the Superman Feature Films
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * In release order:_Superman: The Movie_ \>_Superman II_ \>_Superman III_ \>_Superman IV_ \>_Superman Returns_ \>_Man of Steel_ \>_Batman v. Superman_ \>_Justice League._
@@ -18,13 +23,14 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
 
  This article explains how to watch all the_Superman_ movies in order of release and by series, along with some non-linear ways to watch.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Note
 
  While they’re not featured on this list, several serials were created in 1948 and 1950, which you can find on YouTube. And in 1951, Superman appeared in an independent black-and-white film called_Superman and the Mole Men_ , and that’s available on Amazon.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Watch the 'Superman' Movies in Release Order
 
  If you have a healthy chunk of time to spare for a movie marathon, you could easily get through the original four_Superman_ movies in a weekend.
@@ -33,9 +39,6 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
 
 ![Christopher Reeve as Superman in Superman: The Movie](https://www.lifewire.com/thmb/ZHL-RJQzh5JTDa7wGAkoe9HBn2U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-watch-the-superman-movies-in-order-5089046-f2fb55ac5c7c456787e9e5f545bc3a8f.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Keystone / Getty Images
 
  Let’s not forget two other important supporting characters from these films: the impressive precision of Superman’s S-shaped forehead curl and his favorite changing vessel: the trusty phone booth.
@@ -59,8 +62,9 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
 | _Zack Snyder's Justice League_ (2021)       | A four-hour version of the 2017 film by original director Zack Snyder. This one contains restored footage and reworked scenes. | Max                |
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Watch the 'Superman' Movies By Era
 
  You could also break up your viewing with a couple of strategic groupings by series.
@@ -78,6 +82,10 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
 | _Superman III_                     | Max                |
 | _Superman IV: The Quest for Peace_ | Max                |
 | _Superman Returns_                 | Max                |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### DC Extended Universe
 
@@ -101,26 +109,21 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
  If you’re less concerned about chronological order or release order and more interested in comparing similar storylines, here are a few suggested non-linear pairings.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Compare Origin Stories
 
  Origin stories are a quintessential part of superhero anything. Watch the original_Superman: The Movie_ and_Man of Steel_ to see where the two meet and diverge. There’s a considerable time gap between the two, 1978 versus 2013, but all things considered, the special effects from 1978 still hold up in their own (often comical) way.
 
  If you’re interested in seeing more, several platforms offer extended cuts and special editions of both the Christopher Reeve era and DCEU Superman movies. Look for these versions on Amazon Prime, Google Play, Vudu, and YouTube.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Something Old, Something New, Something Newer
 
  If you want to experience the Christopher Reeve era but don’t want to watch the whole series, you don’t have to._Superman II_ does a great job of summarizing the first movie in the intro credits and features two formidable enemies: General Zod and Lex Luthor._Superman III_ and_Superman IV_ are not as good, so you can leave it at the second one.
 
  As for the newer options, you have your pick between a few. You could opt for the stand-alone retelling in the mid-aughts or a_Man of Steel_ /_Batman v. Superman_ /_Justice League_ triple-feature.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ## What Is ‘Superman’ (2025)?
 
  The upcoming_Superman_ , directed by_The Suicide Squad_ writer-director James Gunn, is the start of the next franchise of DC movies: the DCU. It was formerly called_Superman: Legacy_ .
@@ -149,8 +152,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -158,4 +159,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-pioneering-apps-for-diverse-game-file-logging-needs/"><u>[New] Pioneering Apps for Diverse Game File Logging Needs</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-simplifying-meeting-execution-combining-slacks-ease-with-filmora-writes/"><u>[Updated] Simplifying Meeting Execution Combining Slack's Ease With Filmora' Writes</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/a-comprehensive-look-at-creative-labs-flagship-audio-device-the-sound-blaster-zxr-in-2013/"><u>A Comprehensive Look at Creative Labs' Flagship Audio Device: The Sound Blaster ZXR in 2013</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comparing-the-differences-ps5-slim-vs-original-ps5-console/"><u>Comparing the Differences: PS5 Slim Vs. Original PS5 Console</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/eliminating-copilot-assistant-a-comprehensive-tutorial-for-windows-11-users/"><u>Eliminating Copilot Assistant: A Comprehensive Tutorial for Windows 11 Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhance-your-ui-personalize-the-color-of-your-windows-10-taskbar-heres-how/"><u>Enhance Your UI: Personalize the Color of Your Windows 10 Taskbar Here's How!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/excel-expertise-how-to-fuse-two-columns-seamlessly-for-enhanced-analysis/"><u>Excel Expertise: How To Fuse Two Columns Seamlessly For Enhanced Analysis</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-world-of-dts-virtual-x-a-comprehensive-guide/"><u>Exploring the World of DTS Virtual X - A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-system-up-to-date-with-new-nvidia-drivers-for-windows-platforms/"><u>Get Your System Up to Date with New Nvidia Drivers for Windows Platforms</u></a></li>
+<li><a href="https://discover-great.techidaily.com/praktische-schritte-zum-schutz-ihrer-daten-handhabung-bei-fehlerhafterer-windows-startup/"><u>Praktische Schritte Zum Schutz Ihrer Daten – Handhabung Bei Fehlerhafterer Windows-Startup</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/roblox-performance-check-identifying-if-the-issue-is-with-you-or-the-game-server/"><u>Roblox Performance Check – Identifying if the Issue Is With You or the Game Server.</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-lessening-high-cpu-demand-from-tiworkerexe-tasks/"><u>Strategies for Lessening High CPU Demand From TiWorker.exe Tasks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-checklist-key-points-before-investing-in-a-smartwatch/"><u>The Ultimate Checklist: Key Points Before Investing in a Smartwatch</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformative-moment-openai-releases-gpt-4/"><u>Transformative Moment: OpenAI Releases GPT-4</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-advanced-features-with-meta-ai-technology-on-instagram/"><u>Unlocking Advanced Features with Meta AI Technology on Instagram</u></a></li>
+</ul></div>
 

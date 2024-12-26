@@ -1,7 +1,7 @@
 ---
 title: "The Perils of Trusting Large Technology Firms: Lessons From Microsoft's Recent Failures"
-date: 2024-08-20T10:42:16.948Z
-updated: 2024-08-21T10:42:16.948Z
+date: 2024-12-23T21:17:26.130Z
+updated: 2024-12-25T17:58:25.176Z
 categories:
   - BestProducts
 description: "This Article Describes The Perils of Trusting Large Technology Firms: Lessons From Microsoft's Recent Failures"
@@ -25,20 +25,26 @@ In This Article
 
  Rumors say the company will announce this Google TV streaming device at[the next Google event](https://www.lifewire.com/google-event-5205756) in August. This is the same event poised to introduce several other Google products like the[Pixel Watch 3](https://www.lifewire.com/google-pixel-watch-3-8431024) and[Pixel 9 smartphone](https://www.lifewire.com/google-pixel-9-8630767) .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Lifewire's Release Date Estimate
 
 August 13 is our best guess.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Google TV Streamer Price Rumors
 
  The only reference point we have to price this new[streaming device](https://www.lifewire.com/what-is-a-streaming-device-5208767) is Google's 4K Chromecast with Google TV, which is priced at $50\. They could easily drop that price and slot the Google TV Streamer in its place. If not, the most we can see Google charging for the Google TV Streamer is $70.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Pre-Order Information
 
  Pre-orders for the Google TV Streamer will probably start immediately following its announcement on August 13.
@@ -47,14 +53,12 @@ August 13 is our best guess.
 
 ![The Google TV Streamer and remote](https://www.lifewire.com/thmb/-vnWbTJuk9OzmaxhkBjEiqhYPRA=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/google-tv-streamer-remote-f778bf371f604247a3e9592a4f4d4f6b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 9to5Google
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Google TV Streamer Specs & Features
 
  In the picture above, you can see that, apart from the remote, this device looks nothing like the Chromecast with Google TV. Otherwise, we think it will work exactly like a Chromecast, letting you stream music and videos from online services and cast media to it from other devices.
@@ -70,13 +74,11 @@ August 13 is our best guess.
 ![Google TV Streamer remote](https://www.lifewire.com/thmb/a47wfU6UCU7urolc1HR8HsvT2D8=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Google-TV-Streamer-Remote-ee116f9ff7d44f16a632d2414517c129.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 9to5Google
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Latest News About the Google TV Streamer
 
  You can[read all the latest on streaming devices here on Lifewire](https://www.lifewire.com/streaming-news-4797038) . Below are some stories about Google products that you might find interesting.
@@ -87,14 +89,11 @@ August 13 is our best guess.
 
 [Chromecast vs. Roku: Which Streaming Device Is Better?](https://www.lifewire.com/chromecast-vs-roku-4580492)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -103,4 +102,22 @@ August 13 is our best guess.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-a-comprehensive-list-of-15-competitors-to-gopro-cameras/"><u>[New] A Comprehensive List of 15 Competitors to GoPro Cameras</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-insiders-pathway-to-trustworthy-insta-selfies/"><u>[New] The Insider’s Pathway to Trustworthy Insta Selfies</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/are-wi-fi-mesh-networks-cost-effective-and-efficient/"><u>Are Wi-Fi Mesh Networks Cost-Effective and Efficient?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/closed-chatgpt-sign-ups-exploring-the-shutdown-and-future-availability/"><u>Closed ChatGPT Sign-Ups: Exploring the Shutdown & Future Availability</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-solutions-for-msstfmtdll-is-not-found-issues/"><u>Comprehensive Solutions for 'msstfmt.dll Is Not Found' Issues</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/conquering-zoom-meetings-a-tech-savvy-setup-strategy-for-2024/"><u>Conquering Zoom Meetings A Tech-Savvy Setup Strategy for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-wlanapidll-errors-in-windows-tips-and-tricks/"><u>Fixing WLANAPI.DLL Errors in Windows: Tips and Tricks</u></a></li>
+<li><a href="https://facebook.techidaily.com/frequent-digital-breaches-on-social-platforms/"><u>Frequent Digital Breaches on Social Platforms</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-resolve-issues-with-turned-off-subtitles-on-your-roku-player/"><u>How to Resolve Issues with Turned Off Subtitles on Your Roku Player</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-basic-understanding-of-digital-lore-making/"><u>In 2024, Basic Understanding of Digital Lore Making</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/simplify-life-for-parents-7-unique-shared-calendar-solutions/"><u>Simplify Life for Parents: 7 Unique Shared Calendar Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-admin-access-denied-message-in-windows-security/"><u>Tackling Admin Access Denied Message in Windows Security</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/unplugging-pauses-from-social-streams-a-2023-approach-to-fixing-livestream-issues-for-2024/"><u>Unplugging Pauses From Social Streams A 2023 Approach to Fixing Livestream Issues for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/wireless-audio-setup-how-to-sync-any-computer-with-a-bluetooth-speaker/"><u>Wireless Audio Setup: How to Sync Any Computer with a Bluetooth Speaker</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/xiaomi-mi-12-rumors-predicted-price-range-expected-arrival-and-technical-specs-revealed/"><u>Xiaomi Mi 12 Rumors: Predicted Price Range, Expected Arrival, and Technical Specs Revealed</u></a></li>
+</ul></div>
 

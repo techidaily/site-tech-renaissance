@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Alter Login Credentials for Others on Your Windows PC
-date: 2024-08-26T07:23:18.801Z
-updated: 2024-08-27T07:23:18.801Z
+date: 2024-12-23T00:11:31.472Z
+updated: 2024-12-26T03:22:39.178Z
 categories:
   - BestProducts
 description: This Article Describes Easy Steps to Alter Login Credentials for Others on Your Windows PC
@@ -10,6 +10,11 @@ thumbnail: https://www.lifewire.com/thmb/YKWuGd-lk9FsawBt565L488hmx4=/400x300/fi
 ---
 
 ## This Title Suggests an Upgrade in Skills that Will Unlock More Capabilities on Your PC, Appealing to Power Users and Enthusiasts Looking for Deeper Insights
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * Search the Start menu for**Command Prompt** .
@@ -17,6 +22,10 @@ thumbnail: https://www.lifewire.com/thmb/YKWuGd-lk9FsawBt565L488hmx4=/400x300/fi
 * Another method that works in all Windows versions is to execute the**cmd** command from the Run dialog box.
 
  This article explains how to open[Command Prompt](https://www.lifewire.com/command-prompt-2625840) , which is one of the[command-line interface](https://www.lifewire.com/what-is-a-command-line-interpreter-2625827) programs used to execute[commands](https://www.lifewire.com/what-is-a-command-2625828) in Windows operating systems. These directions apply to Windows 11, Windows 10, Windows 8, Windows 7, Windows Vista, and Windows XP.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Open Command Prompt in Windows 11 or 10
 
@@ -32,6 +41,10 @@ thumbnail: https://www.lifewire.com/thmb/YKWuGd-lk9FsawBt565L488hmx4=/400x300/fi
 
  Some popular Command Prompt commands you might have heard of include[ping](https://www.lifewire.com/ping-command-2618099) ,[netstat](https://www.lifewire.com/netstat-command-2618098) ,[tracert](https://www.lifewire.com/tracert-command-2618101) ,[shutdown](https://www.lifewire.com/shutdown-command-2618100) , and[attrib](https://www.lifewire.com/attrib-command-2625802) , but there are_many_ more. We have a[complete list of Windows Command Prompt commands](https://www.lifewire.com/list-of-command-prompt-commands-4092302) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Open Command Prompt Through the Start Menu Folder
 
  Another way to open the Windows Command Prompt in Windows 10 is to look in its Start menu folder. Open the**Start menu** , select the**Windows System** folder from the list, and then choose**Command Prompt** from the folder group.
@@ -39,16 +52,18 @@ thumbnail: https://www.lifewire.com/thmb/YKWuGd-lk9FsawBt565L488hmx4=/400x300/fi
 ![Command Prompt menu item in Windows System folder in Start menu on Windows 10](https://www.lifewire.com/thmb/M8TRCTyz0ujUzmDzFZsFJjffiq4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-open-command-prompt-2618089-5c6468a146e0fb0001f25667.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ### Open Command Prompt Using Power User Menu
 
  One more method is through the[Power User Menu](https://www.lifewire.com/what-is-the-power-user-menu-2625968) . If you're using a keyboard or mouse, choose**Terminal** (Windows 11) or**Command Prompt** (Windows 10) from the menu that appears after pressing**Win** +**X** or right-clicking the**Start** **Menu** .
 
 ![Command Prompt in Windows 10 Power User menu](https://www.lifewire.com/thmb/7_8z-AOur7jJSd6_2bz9Yp2VnDA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-open-command-prompt-2618089-5c646ad746e0fb0001dcd81a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You might see PowerShell options in the Power User Menu instead of Command Prompt. In more recent versions of Windows 10, Command Prompt has been replaced by PowerShell, but you can[switch between PowerShell and Command Prompt](https://www.lifewire.com/switch-command-prompt-and-powershell-on-the-win-x-menu-2626247) from the Power User Menu. Terminal is the replacement in Windows 11.
 
@@ -75,9 +90,6 @@ thumbnail: https://www.lifewire.com/thmb/YKWuGd-lk9FsawBt565L488hmx4=/400x300/fi
 
  See our [list of Windows 7 commands](https://www.lifewire.com/list-of-windows-7-command-prompt-commands-4107370) and[list of Windows XP commands](https://www.lifewire.com/windows-xp-commands-4687695) if you need a command reference for any of those versions of Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ## Other Ways to Open Command Prompt
 
  Command Prompt in Windows 11 through Windows XP can also be opened with a command. This is especially helpful if you like using the Run dialog box or if File Explorer has crashed and the Start menu is inaccessible (and thus the directions above don't work).
@@ -86,13 +98,6 @@ thumbnail: https://www.lifewire.com/thmb/YKWuGd-lk9FsawBt565L488hmx4=/400x300/fi
 
 ![cmd command in Windows task manager](https://www.lifewire.com/thmb/vmaNGH1y0PVAMe1joTnnpWVqJ-Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cmd-command-task-manager-da3a31f675de41198c4948fbaff46829.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ## Elevated Command Prompts and Old Windows Versions
 
  Command Prompt doesn't exist in versions of Windows released before Windows XP, like Windows 98 and Windows 95\. However, the older and very similar MS-DOS Prompt does. This program is located in the Start menu and can be opened with the**command** run command.
@@ -105,9 +110,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![sfc scannow elevated prompt message](https://www.lifewire.com/thmb/PmVejDjk3-H5ABhTpR5vFhEpxXE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sfc-scannow-administrator-command-prompt-775fe2bfbdd54342813261652a3de86f.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  See[How to Open an Elevated Command Prompt](https://www.lifewire.com/how-to-open-an-elevated-command-prompt-2618088) for help starting Command Prompt as an administrator, a process that's a bit more complicated than what's outlined above.
 
  FAQ
@@ -143,8 +145,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -152,4 +152,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-experts-rankings-top-social-media-viewers/"><u>[New] In 2024, Expert's Rankings Top Social Media Viewers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-renaming-yourself-in-google-meet-pcandroid-tips/"><u>[New] Renaming Yourself in Google Meet PC/Android Tips</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-simplify-screen-views-transforming-fb-content-for-televisions/"><u>[New] Simplify Screen Views Transforming FB Content for Televisions</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-gamers-guide-to-high-quality-live-recording/"><u>[Updated] Gamers' Guide to High-Quality Live Recording</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-unleashing-potential-a-moto-z2-deep-dive-for-2024/"><u>[Updated] Unleashing Potential A Moto Z2 Deep Dive for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/best-autonomous-vehicle-producers-top-picks/"><u>Best Autonomous Vehicle Producers : Top Picks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/best-free-language-learning-platforms-2024-edition/"><u>Best Free Language Learning Platforms: 2024 Edition</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cod-modern-warfare-stability-improved-no-more-unexpected-shutdowns/"><u>Cod: Modern Warfare Stability Improved - No More Unexpected Shutdowns</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/crucial-tech-innovations-the-top-3-trends-you-cant-miss/"><u>Crucial Tech Innovations: The Top 3 Trends You Can't Miss</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enjoy-fun-filled-play-the-worlds-finest-free-kids-educational-games/"><u>Enjoy Fun-Filled Play: The World's Finest Free Kids’ Educational Games</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-xiaomi-redmi-12-5g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Xiaomi Redmi 12 5G?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-lava-blaze-curve-5g-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Lava Blaze Curve 5G Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/insider-insights-on-google-tv-streaming-box-anticipated-cost-launch-timeline-and-feature-speculations/"><u>Insider Insights on Google TV Streaming Box – Anticipated Cost, Launch Timeline & Feature Speculations</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/pictorial-mosaic-construction-with-digital-photography/"><u>Pictorial Mosaic Construction with Digital Photography</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-mastering-task-reminders-on-slack/"><u>Ultimate Guide: Mastering Task Reminders on Slack</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-the-discontinued-google-hangouts-service/"><u>Understanding the Discontinued Google Hangouts Service</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Instructions for Connecting Your Firestick Controller
-date: 2024-08-26T07:22:14.616Z
-updated: 2024-08-27T07:22:14.616Z
+date: 2024-12-25T04:16:57.856Z
+updated: 2024-12-25T19:25:35.067Z
 categories:
   - BestProducts
 description: This Article Describes Step-by-Step Instructions for Connecting Your Firestick Controller
@@ -18,6 +18,10 @@ thumbnail: https://www.lifewire.com/thmb/bBnc1OCDT50I6uVWBEWLEmBlWIk=/400x300/fi
 
  This article explains how to enable Gmail sound notifications using the Notifier for Gmail extension for Chrome. It includes information for enabling a pop-up notification for Gmail and sound notifications for other email providers.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Enable a New Mail Sound for Gmail
 
  If you want to hear a new email sound when you use Gmail in your desktop web browser, you can make that happen—just not in Gmail itself.
@@ -29,8 +33,18 @@ thumbnail: https://www.lifewire.com/thmb/bBnc1OCDT50I6uVWBEWLEmBlWIk=/400x300/fi
 1. Select**Extensions** next to Chrome's navigation bar, then select**More actions** (three vertical dots) and choose **Options** .  
 ![Options menu item for Notifier for Gmail.](https://www.lifewire.com/thmb/ItTlmQe_8CNY3vW37Q6ac7spTJ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-add-a-new-mail-sound-for-gmail-5b50d46b9a594db3bd73946ea64549aa.jpg)
 2. Scroll down to the Notifications section and make sure **Play alert sound for new emails** is selected.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Play alert sound for new emails.](https://www.lifewire.com/thmb/EaGNTDoH2lcLO8QxHT0Z1KVeUPk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-add-a-new-mail-sound-for-gmail-1e074c5a399d403aab64b2ec37afbbf8.jpg)
 3. Change the sound using the drop-down menu.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Notifier for Gmail settings screen highlighting Play alert sound for new emails and Default sound notification drop-down menu](https://www.lifewire.com/thmb/DUBiUTKL1yNY2AP6anJNY9OE1cM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-add-a-new-mail-sound-for-gmail-db10f7ff4e56480c8acefb921da8d1b6.jpg)
 4. Exit the window when you're done. The changes are saved automatically.
 
@@ -39,16 +53,17 @@ thumbnail: https://www.lifewire.com/thmb/bBnc1OCDT50I6uVWBEWLEmBlWIk=/400x300/fi
  If you use Gmail through a downloadable email client like[Microsoft Outlook](https://www.lifewire.com/microsoft-outlook-4164620) ,[Thunderbird](https://www.lifewire.com/gmail-access-thunderbird-1173150) , or[eM Client](http://www.emclient.com/) , you make the sound change from within those programs.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Enable a Pop-Up Notification
 
  You can set Gmail to display a pop-up notification when new email messages arrive in Chrome, Firefox, or Safari when you are signed in to Gmail and have it open in the browser. Just turn on that setting in Gmail by selecting the **Settings**  icon then choosing **See all settings** and going to **General** \> **Desktop Notifications** . The notification is not accompanied by a sound.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Change Gmail Notification Sounds in Other Email Clients
 
  You can[turn on notification sounds for Outlook](https://www.lifewire.com/change-new-mail-notification-sound-outlook-1173674) email messages in the **FILE** \>**Options** \>**Mail**  menu, with the **Play a sound** option from the Message arrival section. To change the sound,[open Control Panel](https://www.lifewire.com/how-to-open-control-panel-2625782) and search for "sound". Open the Sound [Control Panel applet](https://www.lifewire.com/control-panel-applet-2625831) and modify the **New Mail Notification** option from the Sounds tab.
@@ -86,8 +101,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -95,4 +108,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-channel-cash-crusade-harnessing-every-device-with-yt-studio/"><u>[Updated] 2024 Approved Channel Cash Crusade Harnessing Every Device with YT Studio</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-innovations-enhancers-that-excite/"><u>[Updated] Instagram Innovations Enhancers that Excite</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/1-free-open-source-argon-css-framework-based-on-bootstrap-4-by-creative-tim/"><u>1. Free, Open-Source Argon CSS Framework Based on Bootstrap 4 by Creative Tim</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-vsdc-vs-alternatives-a-comprehensive-evaluation/"><u>2024 Approved VSDC vs Alternatives A Comprehensive Evaluation</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-to-understanding-lg-channel-partnerships/"><u>Comprehensive Guide to Understanding LG Channel Partnerships</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/helmet-hats-a-comprehensive-look-at-best-cams-in-bike-culture-for-2024/"><u>Helmet Hats A Comprehensive Look at Best Cams in Bike Culture for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-perform-a-master-reset-on-your-samsung-flat-screen/"><u>How to Perform a Master Reset on Your Samsung Flat Screen</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/iphone-15-troubleshooting-starting-fresh-with-a-reboot/"><u>IPhone 15 Troubleshooting: Starting Fresh with a Reboot</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/launch-of-apples-vision-pro-an-exclusive-lineup-of-600-curated-apps-unveiled-tech-news-by-zdnet/"><u>Launch of Apple's Vision Pro: An Exclusive Lineup of 600 Curated Apps Unveiled | Tech News by ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/maximize-enjoyment-essential-tips-for-a-stellar-tv-and-audio-system-for-football-fans/"><u>Maximize Enjoyment: Essential Tips for a Stellar TV and Audio System for Football Fans</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/value-meets-quality-experts-weigh-in-on-the-pruveeo-f5-high-definition-dashcam/"><u>Value Meets Quality: Experts Weigh in on the Pruveeo F5 High Definition Dashcam</u></a></li>
+</ul></div>
 

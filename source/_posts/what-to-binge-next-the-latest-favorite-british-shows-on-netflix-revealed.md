@@ -1,7 +1,7 @@
 ---
 title: What to Binge Next? The Latest Favorite British Shows on Netflix Revealed
-date: 2024-08-20T10:42:22.806Z
-updated: 2024-08-21T10:42:22.806Z
+date: 2024-12-22T07:40:39.440Z
+updated: 2024-12-25T23:06:49.399Z
 categories:
   - BestProducts
 description: This Article Describes What to Binge Next? The Latest Favorite British Shows on Netflix Revealed
@@ -20,6 +20,10 @@ Close
 01
 
 of 11
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## [ Best Historical Crime Drama: Peaky Blinders](https://www.imdb.com/title/tt2442560/?ref%5F=fn%5Fal%5Ftt%5F1) 
 
@@ -91,15 +95,13 @@ Laurence Cendrowicz / Neal Street Productions
 of 11
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [ Best Irish Comedy: Derry Girls](https://www.imdb.com/title/tt7120662/?ref%5F=fn%5Fal%5Ftt%5F1) 
 
 ![Derry Girls promotional photo](https://www.lifewire.com/thmb/g6bXZkk6JXLt6jnBH0Mr2ncIJzo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/derry-girls-8773589522b0456aa5afe793430b4a81.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 IMDB
 
 * **IMDb rating** : 8.5/10
@@ -120,6 +122,10 @@ IMDB
 05
 
 of 11
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## [ Best Football Docuseries: Sunderland 'Til I Die](https://www.imdb.com/title/tt8914684/?ref%5F=fn%5Fal%5Ftt%5F1) 
 
@@ -145,13 +151,14 @@ Craig Sugden
 
 of 11
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [ Best Spy Thriller: Bodyguard](https://www.imdb.com/title/tt7493974/?ref%5F=fn%5Fal%5Ftt%5F1) 
 
 ![Bodyguard promotional image](https://www.lifewire.com/thmb/AJRiyoAlPtrfdZ7mToSFN-6wGZo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/bodyguard-ce713789686746d9a075662159f4853c.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 IMDB
 
 * **IMDb rating** : 8.0/10
@@ -196,13 +203,14 @@ Channel 4
 
 of 11
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [ Best Cookoff: The Great British Baking Show](https://www.imdb.com/title/tt1877368/?ref%5F=fn%5Fal%5Ftt%5F1) 
 
 ![Great British Baking Show promotional image](https://www.lifewire.com/thmb/byjgsdAGD-ujWPVGgXn5GmDeMmk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/british-baking-show-2b78fde06b7b4160968625b7fe419c9b.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 IMDB
 
 * **IMDb rating** : 8.6/10
@@ -225,11 +233,16 @@ IMDB
 of 11
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [ Best Suburban Thriller: The Stranger](https://www.imdb.com/title/tt9698480/?ref%5F=fn%5Fal%5Ftt%5F1) 
 
 ![The Stranger promotional photo](https://www.lifewire.com/thmb/9SihNfrS1OhfajAK51Y5gALYO9E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/stranger-7b2351eb49a64c4ea7b211be5974e821.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 IMDB
 
@@ -250,16 +263,10 @@ IMDB
 
 of 11
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## [ Best Serial Killer Docuseries: The Ripper](https://www.imdb.com/title/tt13492374/?ref%5F=fn%5Fal%5Ftt%5F2) 
 
 ![The Ripper promotional photo](https://www.lifewire.com/thmb/uf3LU4FO1E1Mu_jlg5-rE0_kAB8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-ripper-1fa2dd923788472fb2bc17cb985b2099.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 IMDB
 
 * **IMDb rating** : 7.1/10
@@ -280,15 +287,13 @@ IMDB
 of 11
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [ Best Drugs Saga: Top Boy](https://www.imdb.com/title/tt1830379/?ref%5F=fn%5Fal%5Ftt%5F1) 
 
 ![Top Boy promotional photo](https://www.lifewire.com/thmb/ixUNUj9UyH5hUNNH_piH_tWXEo0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/top-boy-e989963ce2734263a427eca4ee3f5032.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Chris Harris
 
 * **IMDb rating:**  8.4/10
@@ -339,8 +344,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -348,4 +351,19 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-enhancing-podcast-appeal-crafting-effective-intros/"><u>[New] 2024 Approved Enhancing Podcast Appeal Crafting Effective Intros</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/treamlining-video-craft-youtube-studio-edition-for-2024/"><u>[New] Streamlining Video Craft YouTube Studio Edition for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-efficiently-export-facebook-features-via-chrome-plug-ins-for-2024/"><u>[Updated] Efficiently Export Facebook Features via Chrome Plug-Ins for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-swiftly-convert-creepy-slow-videos-with-best-apps/"><u>2024 Approved Swiftly Convert Creepy-Slow Videos with Best Apps</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-quality-discover-why-this-android-tablet-is-a-total-game-changer-exclusive-review-on-zdnet/"><u>Affordable Quality: Discover Why This Android Tablet Is a Total Game-Changer - Exclusive Review on ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/decoding-the-competition-unpacking-features-of-ps5-slim-against-original-playstation-5/"><u>Decoding the Competition: Unpacking Features of PS5 Slim Against Original PlayStation 5</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/discover-the-best-3d-video-production-tools-for-stunning-visuals-for-2024/"><u>Discover the Best 3D Video Production Tools for Stunning Visuals for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-11-free-torrent-and-movie-downloading-websites-you-must-try/"><u>Top 11 Free Torrent and Movie Downloading Websites You Must Try</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-7-october-black-friday-smartphone-bargains-exclusive-offers-you-cant-miss/"><u>Top 7 October Black Friday Smartphone Bargains - Exclusive Offers You Can't Miss</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-earphones-on-sale-in-march-2024-features-reviews-and-prices-techradar/"><u>Top-Rated Earphones on Sale in March 2024 - Features, Reviews & Prices - TechRadar</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-silence-expert-techniques-to-restore-ringtones-on-iphones/"><u>Unlock Silence: Expert Techniques to Restore Ringtones on iPhones</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-telegram-a-comprehensive-explanation-of-the-popular-app/"><u>Unveiling Telegram - A Comprehensive Explanation of the Popular App</u></a></li>
+</ul></div>
 

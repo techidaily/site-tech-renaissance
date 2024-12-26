@@ -1,7 +1,7 @@
 ---
 title: Cost Prohibits New AI Capabilities From Landing on Previous Generation iPhones - Insight
-date: 2024-12-11T16:00:36.122Z
-updated: 2024-12-17T16:00:21.878Z
+date: 2024-12-22T01:20:41.040Z
+updated: 2024-12-25T16:55:46.632Z
 tags:
   - apple
 categories:
@@ -37,7 +37,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The cost of GPU processing
@@ -49,7 +49,7 @@ Advanced AI features require substantial computational power, typically provided
 Even [major AI service providers](https://www.zdnet.com/article/best-ai-chatbot/) such as OpenAI, Microsoft, and Google encounter challenges in offering dependable and quick access to LLM and Generative AI models to the general public without downtime and overcommitting resources. The shortage and cost of GPU-enabled servers make these issues worse. To maintain the rapid response times expected by its customers, Apple will need to invest substantially in servers, data centers, and edge infrastructure -- an infrastructure level it likely does not currently possess.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple's approach to Private Cloud Compute (PCC)
@@ -61,7 +61,7 @@ For the initial rollout of Apple Intelligence, the company has chosen a hybrid a
 Apple is currently focused on rolling out its [Generative AI services](https://www.zdnet.com/article/apple-unveils-on-device-ai-image-generator-for-iphone-ipad-and-mac/) to high-end devices as part of the initial phase of Apple Intelligence deployment. This allows Apple to enhance its AI capabilities and infrastructure before expanding to a wider range of devices. To bring Apple Intelligence to the rest of its ecosystem, the company will likely deploy AI-accelerated server appliances at the edge, enabling less capable devices to benefit from advanced AI features. However, this infrastructure is not yet ready for large-scale deployment, as Apple's shift towards AI development is still recent.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The challenges of edge computing
@@ -75,7 +75,7 @@ While NVIDIA is a major player in the GPU server space, others include tradition
 As reported by _The Register_, Apple is [developing its own AI servers](https://www.theregister.com/2024/06/11/apple%5Fbuilt%5Fai%5Fcloud%5Fservers%5Fos/), which are expected to be more cost-effective and better integrated with its ecosystem. These servers are currently being tested in data centers for foundation model use, and a broader rollout is anticipated in 2025\. This phased approach ensures Apple can maintain high privacy, security, and user experience standards while gradually expanding its AI capabilities across its device lineup.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Broader implications for IoT and other devices
@@ -120,22 +120,19 @@ As Apple continues developing its AI infrastructure, including potential edge co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-amplify-content-with-free-audio-samples/"><u>[Updated] In 2024, Amplify Content with Free Audio Samples!</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-youtubes-top-5-apps-that-trim-your-long-video-links-down-for-2024/"><u>[Updated] Youtube’s Top 5 Apps That Trim Your Long Video Links Down for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-downloading-and-watching-netflix-movies-on-windowsmac-computers/"><u>Comprehensive Guide: Downloading and Watching Netflix Movies on Windows/Mac Computers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/eliminating-echoes-effective-strategies-for-reducing-delay-on-your-chromecast-audio-setup/"><u>Eliminating Echoes: Effective Strategies for Reducing Delay on Your Chromecast Audio Setup</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/free-cad-solutions-unveiled-top-4-picks-for-aspiring-designers/"><u>Free CAD Solutions Unveiled: Top 4 Picks for Aspiring Designers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/gmail-meets-google-duo-simplify-adding-voice-and-video-calling-to-your-email-service/"><u>Gmail Meets Google Duo: Simplify Adding Voice and Video Calling to Your Email Service</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-xiaomi-civi-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Xiaomi Civi 3 | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Oppo A38 | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-realme-narzo-n55-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Realme Narzo N55 Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/invisible-conversations-revealing-who-youre-truly-messaging-on-the-web-and-unraveling-the-phantom-net-notion/"><u>Invisible Conversations: Revealing Who You're Truly Messaging on the Web and Unraveling the Phantom Net Notion</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/maximize-gaming-experience-by-adding-an-external-hdd-to-xbox-one-how-to-guide/"><u>Maximize Gaming Experience by Adding an External HDD to Xbox One - How-To Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/preventing-obs-studio-startup-blunders-win-edition/"><u>Preventing OBS Studio Startup Blunders (Win Edition)</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/quick-fixes-for-iphones-that-wont-make-a-sound-when-calling/"><u>Quick Fixes for iPhones That Won't Make a Sound When Calling</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/steps-to-cure-intermittent-obs-frames-for-2024/"><u>Steps to Cure Intermittent OBS Frames for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-future-of-tech-unveiled-google-event-preview-rumors-and-releases/"><u>The Future of Tech Unveiled: Google Event Preview, Rumors & Releases</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/toms-tech-reviews-unveiling-the-latest-in-computer-hardware/"><u>Tom's Tech Reviews: Unveiling the Latest in Computer Hardware</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-6-causes-behind-frequent-car-battery-failures/"><u>Top 6 Causes Behind Frequent Car Battery Failures</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-exclusive-free-mcb-visual-tools/"><u>[New] 2024 Approved Exclusive Free MCB Visual Tools</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-top-10-best-free-mmorpg-games-you-can-find/"><u>[Updated] Top 10 Best Free MMORPG Games You Can Find</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-viewers-on-your-youtube-content-a-guide/"><u>Discover Viewers on Your YouTube Content: A Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-promos-boost-your-gaming-experience/"><u>Exclusive Promos: Boost Your Gaming Experience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-the-blue-screen-of-death-tackling-halinitializationfailure-and-error-code-0x0000005c/"><u>Fixing the Blue Screen of Death: Tackling HAL_INITIALIZATION_FAILURE and Error Code 0X0000005C</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-jpg-document-with-digital-signature-tutorial-by-ldigisigner-sign-a-jpg-sign-a-jpg/"><u>How to Sign JPG document with Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-curating-your-music-collection-the-easy-guide-to-youtube-playlist-creation-webapp/"><u>In 2024, Curating Your Music Collection The Easy Guide to YouTube Playlist Creation (Web/App)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-itel-p55plus-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Itel P55+ Phone that is Locked?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-through-options-the-5-key-aspects-to-review-before-investing-in-a-fitness-monitor/"><u>Navigating Through Options: The 5 Key Aspects to Review Before Investing in a Fitness Monitor</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/resolving-the-windows-server-2016-startup-cycle-issues-post-update-top-5-methods/"><u>Resolving the Windows Server 2016 Startup Cycle Issues Post-Update: Top 5 Methods</u></a></li>
+<li><a href="https://facebook.techidaily.com/scheduling-for-maximum-fb-traffic/"><u>Scheduling for Maximum Fb Traffic</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/speed-up-your-email-with-these-30-gmail-keyboard-commands/"><u>Speed Up Your Email with These 30 Gmail Keyboard Commands</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-fixes-for-stubborn-media-drives-that-wont-open/"><u>Step-by-Step Fixes for Stubborn Media Drives That Won't Open</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-art-of-crafting-unique-chatgpt-directives/"><u>The Art of Crafting Unique ChatGPT Directives</u></a></li>
 </ul></div>
 

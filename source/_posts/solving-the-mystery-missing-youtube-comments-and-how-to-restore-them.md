@@ -1,7 +1,7 @@
 ---
 title: "Solving the Mystery: Missing YouTube Comments and How to Restore Them"
-date: 2024-08-20T10:43:42.561Z
-updated: 2024-08-21T10:43:42.561Z
+date: 2024-12-21T22:59:07.303Z
+updated: 2024-12-26T01:03:56.757Z
 categories:
   - BestProducts
 description: "This Article Describes Solving the Mystery: Missing YouTube Comments and How to Restore Them"
@@ -15,6 +15,10 @@ Close
 
  This article explains what might be preventing YouTube comments from appearing for you, either as a viewer or as a channel, and what you can do to fix the issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Why Is YouTube Not Showing Comments? 
 
  Here are some reasons you can't see comments on YouTube:
@@ -25,6 +29,10 @@ Close
 * There's a browser extension conflict
 * Your browser or app has a bug
 * YouTube is having problems displaying comments
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Fix YouTube Comments Not Showing Up 
 
@@ -37,6 +45,11 @@ Close
  If this is your channel that has no comments,[ open YouTube Studio](https://studio.youtube.com/) and go to**Settings** \>**Community** \>**Defaults** to check your settings.  
 ![Comment settings for a YouTube channel](https://www.lifewire.com/thmb/u34Cgu0xytzQBLqFE406hAsNG_w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/youtube-comments-settings-9e4d0be80f6a4a2eb28d5a174ab798c3.png)
 4. Check your internet connection. If it's too weak, it's possible that not everything on the page loaded, leaving you with missing comments. If you suspect this,[ consider addressing network lag](https://www.lifewire.com/lag-on-computer-networks-and-online-817370) .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Pay close attention to the way the page loads. If it takes longer than usual or if one or parts of the page appear out of place, there's a good chance the network is to blame.
 5. [ Disable browser extensions](https://www.lifewire.com/disable-chrome-extensions-and-plugins-4136252) that could be interfering with YouTube. You don't have to delete them; just switch them off and then check if the comments came back.  
  Be sure to complete this step if YouTube stopped showing comments shortly after you installed a new extension, especially one that's designed to change YouTube's website in some way.
@@ -79,8 +92,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -88,8 +99,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-navigating-vector-editing-beyond-magixs-domain/"><u>[New] Navigating Vector Editing Beyond Magix's Domain</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-crafting-viral-vignettes/"><u>[Updated] Crafting Viral Vignettes</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/explore-the-ins-and-outs-of-securing-refunds-with-flipbuilder-a-builders-guide-to-assurance/"><u>Explore the Ins and Outs of Securing Refunds with FlipBuilder: A Builder’s Guide to Assurance</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fix-your-computer-resolve-python24dll-file-missing-issues-easily/"><u>Fix Your Computer: Resolve Python24.dll File Missing Issues Easily</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/dget-maximum-quality-8-prime-editors-for-youtubers-for-2024/"><u>No Budget, Maximum Quality 8 Prime Editors for YouTubers for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/openai-fires-ceo-sam-altman-but-what-does-that-mean-for-chatgpt/"><u>OpenAI Fires CEO Sam Altman, but What Does That Mean for ChatGPT?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionize-your-gaming-experience-with-smooth-120fps-gameplay-on-ps5/"><u>Revolutionize Your Gaming Experience with Smooth 120Fps Gameplay on PS5</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-restoring-access-to-your-deactivated-snapchat-profile/"><u>Step-by-Step Guide: Restoring Access to Your Deactivated Snapchat Profile</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-missing-avcodecdll-errors-on-your-computer/"><u>Troubleshooting Missing avcodec.dll Errors on Your Computer</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/uav-technology-unveiled-the-yuneec-4k-journey/"><u>UAV Technology Unveiled The Yuneec 4K Journey</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/uncover-the-10-most-trusted-wedding-timer-apps-androidios-of-2023/"><u>Uncover the 10 Most Trusted Wedding Timer Apps (Android/iOS) of 2023</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->

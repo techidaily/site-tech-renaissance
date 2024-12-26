@@ -1,7 +1,7 @@
 ---
 title: "The Pathway to Smoother Gameplay: Maximizing FPS to 120 on the PlayStation 5"
-date: 2024-08-20T10:42:15.801Z
-updated: 2024-08-21T10:42:15.801Z
+date: 2024-12-20T19:12:58.133Z
+updated: 2024-12-26T02:32:16.309Z
 categories:
   - BestProducts
 description: "This Article Describes The Pathway to Smoother Gameplay: Maximizing FPS to 120 on the PlayStation 5"
@@ -10,6 +10,11 @@ thumbnail: https://thmb.techidaily.com/9512aea1a507981ddcbdbe0823cb40f28338d2e0f
 ---
 
 ## Maximizing PS5 Gameplay: A Step-by-Step Guide to Achieving a Buttery Smooth 1Nterframe Rate of 120FPS
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * Go to**Settings** \>**Screen and Video** \>**Video Output** and enable 120 Hz output. You'll also have to turn it on in-game.
@@ -17,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/9512aea1a507981ddcbdbe0823cb40f28338d2e0f
 * Only certain games support 120 frames per second on PS5.
 
  This article explains how to get 120 frames per second—which you'll also see as "FPS" or "Hz"–on PS5\. Not every game on PS5 supports this option, so while you can prep your console for it, it won't work for every title.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Turn On 120 FPS on PS5
 
@@ -27,6 +36,11 @@ thumbnail: https://thmb.techidaily.com/9512aea1a507981ddcbdbe0823cb40f28338d2e0f
 1. Turn on your PS5, and open**Settings** from the main menu.  
 ![Playstation 5 dashboard with Settings highlighted](https://www.lifewire.com/thmb/SgkRTTRVRqbxRg0AJLYr6FWqfG4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-remote-play-ps5-games-on-android-50896111-df8a16a465fe41e7aef3d5ad05b4a7c8.jpg)
 2. Then, navigate to**Screen and Video** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Screen and Video in PS5 settings](https://www.lifewire.com/thmb/YCLQ2vGLnavPgpRPNtxhU7n6NFw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Screen-and-Video-Settings-aa8ff277b8254627a1a8c88e1c91f9cf.jpg)
 3. Choose**Video Output** on the left side of the screen.  
 ![Video Output in PS5 Screen and Video settings](https://www.lifewire.com/thmb/Xgk1MNv2WwvyRO7tv2bHEF4oiqo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Video-Output-46b505f379064535ac4977a29faee336.jpg)
@@ -37,8 +51,9 @@ thumbnail: https://thmb.techidaily.com/9512aea1a507981ddcbdbe0823cb40f28338d2e0f
 6. Now, if a game has an option for 120 frames per second and you turn it on, your PS5 will output at that rate.
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What You Need to Get 120 FPS on PS5
 
  The most important requirement is a display with a 120 Hz refresh rate. You can use a TV or a monitor, and displays with 120 Hz support are pretty common today, so you shouldn't have trouble finding one.
@@ -50,8 +65,9 @@ thumbnail: https://thmb.techidaily.com/9512aea1a507981ddcbdbe0823cb40f28338d2e0f
  Lastly, keep in mind that not every game supports 120 FPS. You won't typically see that information on the game box, unfortunately, but you should find it in shop listings. And, of course, you can check the menus for a 120 FPS option.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Which PS5 Games Support 120 FPS?
 
  There are over 100 PlayStation 5 games that support 120Hz, with more coming out all the time. Here are some popular ones:
@@ -89,8 +105,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -98,4 +112,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-mastering-the-art-of-discerning-true-from-false-insta-pals/"><u>[Updated] 2024 Approved Mastering the Art of Discerning True From False Insta Pals</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-navigating-the-waters-of-youtube-broadcasting-via-google-meet/"><u>2024 Approved Navigating the Waters of Youtube Broadcasting via Google Meet</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-unmatched-download-experience-with-our-top-tools-list/"><u>2024 Approved Unmatched Download Experience with Our Top Tools List</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discord-not-working-heres-how-to-check-if-the-problem-lies-with-your-network/"><u>Discord Not Working? Here's How to Check If The Problem Lies With Your Network</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-honor-magic5-ultimate-easily-by-drfone-android/"><u>In 2024, How To Unlock a Honor Magic5 Ultimate Easily?</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/kostenlose-cloning-software-fur-windows-besten-datensicherung-mit-bootfahigen-tools/"><u>Kostenlose Cloning-Software Für Windows - Besten Datensicherung Mit Bootfähigen Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/microsofts-new-laptop-go-3-cpu-assessment-strengthening-weaknesses/"><u>Microsoft's New Laptop Go 3 CPU Assessment: Strengthening Weaknesses</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/snapchat-magic-unveiled-how-to-easily-reverse-videos-on-your-device/"><u>Snapchat Magic Unveiled: How to Easily Reverse Videos on Your Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-5-manufacturers-of-driverless-cars-to-watch/"><u>Top 5 Manufacturers of Driverless Cars to Watch</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-for-when-dbghelpdll-is-unavailable-or-undetected/"><u>Troubleshooting Steps for When Dbghelp.dll Is Unavailable or Undetected</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-resolving-lameencdll-issues-in-audacity-mp3-encoding/"><u>Ultimate Guide: Resolving lame_enc.dll Issues in Audacity MP3 Encoding</u></a></li>
+<li><a href="https://fox-access.techidaily.com/ultimate-headset-guide-for-drone-racing-enthusiasts/"><u>Ultimate Headset Guide for Drone Racing Enthusiasts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-creativity-the-4-best-free-cad-software-for-aspiring-engineers/"><u>Unlocking Creativity: The 4 Best Free CAD Software for Aspiring Engineers</u></a></li>
+</ul></div>
 

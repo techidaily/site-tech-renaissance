@@ -1,7 +1,7 @@
 ---
 title: Solving Your Microsoft Outlook's Faulty Spellcheck Issues
-date: 2024-08-20T10:42:39.443Z
-updated: 2024-08-21T10:42:39.443Z
+date: 2024-12-24T23:05:16.209Z
+updated: 2024-12-26T03:02:15.835Z
 categories:
   - BestProducts
 description: This Article Describes Solving Your Microsoft Outlook's Faulty Spellcheck Issues
@@ -12,6 +12,10 @@ thumbnail: https://www.lifewire.com/thmb/JfgP7jGGucz7DMBy1KEbqE2Gsfc=/400x300/fi
 ## Navigating Microsoft's Scholarly Promotions: Secure a Student Price Cut Today
  Microsoft sells a lot of software that's useful for students, and devices like the[Surface and Surface Pro](https://www.lifewire.com/microsoft-surface-series-4163521) are great for keeping productivity up while you're on the go. If you're an eligible student (or a parent of one), you can take advantage of Microsoft's student discount to gain free access to powerful software like[Office 365](https://www.lifewire.com/microsoft-office-for-students-teachers-2511861) and save on computers and other devices.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Get the Microsoft Student Discount
 
  To get the Microsoft student discount, all you have to do is access the online Microsoft store through the student and military discount portal. Here's how the process works:
@@ -21,12 +25,31 @@ thumbnail: https://www.lifewire.com/thmb/JfgP7jGGucz7DMBy1KEbqE2Gsfc=/400x300/fi
 2. The site tells you you're eligible for special pricing. Select**OK** .  
 ![A screenshot of the Microsoft Student Discount confirmation notice.](https://www.lifewire.com/thmb/_opw21hzYkn3V9Wb_mLqP5iLV7U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-get-a-microsoft-store-student-discount-3eae80c050da4116adf04508a1cb8e42.jpg)
 3. Select**Student Deals** from the list of store categories.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Microsoft online store.](https://www.lifewire.com/thmb/AgZeGz5ITQKUJ8jp0pIPIsbbSzI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-get-a-microsoft-store-student-discount-51ae65ba3fbc4b11b3eee0030822ec9e.jpg)
 4. Locate the software or device you want to buy, and add it to your cart.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Adding an item to your cart.](https://www.lifewire.com/thmb/syXuUKJeVh9EZEPIoxTMwY8Li3g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-get-a-microsoft-store-student-discount-0d1004a1092e4a5dbf63a1905d0fa237.jpg)
 5. Complete the checkout process.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Checking out at the online Microsoft store.](https://www.lifewire.com/thmb/gF3Dy3jJNOJlbYJPatebpx5EyGw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-how-to-get-a-microsoft-store-student-discount-011f2569dab04dcb8c3c942c4cba5e55.jpg)  
  If you choose to pick up your order at a local Microsoft store, remember to bring your student ID. Microsoft doesn't verify enrollment during online purchases, but they may ask for proof of enrollment during pickup.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Who Is Eligible for Microsoft's Student Discount?
 
@@ -38,9 +61,6 @@ thumbnail: https://www.lifewire.com/thmb/JfgP7jGGucz7DMBy1KEbqE2Gsfc=/400x300/fi
 
 ![Person accessing the Microsoft student discount on a phone.](https://www.lifewire.com/thmb/h1sE0kaVMIxmUmfOCw7SnD4v-cI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/microsoftstudentdiscount-3fb8972d9f274cb5a0c5dbc2bc56beb1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ## What Does Microsoft's Student Discount Get You?
 
  The Microsoft student discount typically provides up to 10-percent savings on hardware like desktop computers, laptops, and tablets. It also grants free access to some software, like Office 365.
@@ -52,9 +72,6 @@ Certain items are specifically excluded, including:
 * Personalized and customized items.
 * Gift cards and subscriptions to services like Xbox Game Pass.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How Does Microsoft Verify Student Enrollment?
 
  When you request the student discount at a physical Microsoft store, you need to show your student ID or some another supporting document like a class schedule, transcript, or acceptance letter.
@@ -85,8 +102,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -94,4 +109,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ed-digital-dollars-crafting-an-online-wealth-journey-for-2024/"><u>[Updated] Digital Dollars Crafting an Online Wealth Journey for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-nokia-g22-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Nokia G22 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-sync-your-favorite-tunes-with-buddies-on-spotify/"><u>How to Sync Your Favorite Tunes with Buddies on Spotify</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-vivo-y78t-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Vivo Y78t FRP Without Computer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/introducing-chatgpt-how-microsofts-language-model-is-shaping-communication/"><u>Introducing ChatGPT: How Microsoft's Language Model Is Shaping Communication</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-ultimate-guide-to-funny-video-dubbing-apps-2023-edition/"><u>New 2024 Approved The Ultimate Guide to Funny Video Dubbing Apps (2023 Edition)</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/short-effective-daily-tagsawiin-language-goals-achieved/"><u>Short, Effective Daily Tagsawiin: Language Goals Achieved</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/step-by-step-guide-for-transforming-dvds-into-mkv-files-on-windows-1011/"><u>Step-by-Step Guide for Transforming DVDs Into MKV Files on Windows 10/11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-top-5-no-cost-platforms-for-watching-sports-in-action-2024-rankings/"><u>The Top 5 No-Cost Platforms for Watching Sports in Action, 2024 Rankings</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-latest-generation-a-closer-look-at-apples-new-ipad-lineup/"><u>Unveiling the Latest Generation: A Closer Look at Apple's New iPad Lineup</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ultimate-guide-to-streaming-google-meet-on-youtube-for-2024/"><u>Your Ultimate Guide to Streaming Google Meet on YouTube for 2024</u></a></li>
+</ul></div>
 

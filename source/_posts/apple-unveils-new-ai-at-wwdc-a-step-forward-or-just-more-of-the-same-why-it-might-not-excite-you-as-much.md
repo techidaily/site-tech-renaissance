@@ -1,7 +1,7 @@
 ---
 title: "Apple Unveils New AI at WWDC: A Step Forward or Just More of the Same? – Why It Might Not Excite You as Much"
-date: 2024-12-15T16:05:19.830Z
-updated: 2024-12-17T16:01:55.516Z
+date: 2024-12-24T21:28:19.268Z
+updated: 2024-12-25T20:51:45.370Z
 tags:
   - apple
 categories:
@@ -30,10 +30,6 @@ Here's where you can preorder the latest Apple products, as well as where to fin
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPhone 15 and iPhone 15 Plus
 
 June Wan/ZDNET
@@ -45,7 +41,7 @@ Apple's entry-level iPhone models received new upgrades like a Dynamic Island di
 [PREORDER NOW Apple Store The iPhone 15 and iPhone 15 Plus are available for preorder now, starting at $799 and $899, respectively. On the Apple Store, you can also get up to $800 off on a new iPhone 15 or iPhone 15 Plus when you trade in an iPhone 11 or newer model. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)[PREORDER NOW Best Buy Preorder for the iPhone 15 and iPhone 15 Plus starts Friday, September 15, at Best Buy. View at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-iphone-15-128gb-blue-verizon%2F6418073.p%3FskuId%3D6418073&publisher_slug=itechdaily19598&exclusive=1)[PREORDER NOW Verizon New or existing Verizon customers adding a new line on the Unlimited Ultimate plan can get up to $1,000 off the new iPhone 15 line-up when you trade in any old iPhone in any condition. If you are already a Verizon customer and are looking to upgrade, you can get up to $830 off the iPhone 15 line-up with select trade-in and select Unlimited plans. View at Verizon](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.verizon.com/wireless-devices/smartphones/apple-iphone-15-announcement)[PREORDER NOW AT&T At AT&T, both new and existing customers can get the new iPhone 15 through the carrier, as long as they have an eligible trade-in. View at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/browse/apple/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPhone 15 Pro and iPhone 15 Pro Max
@@ -59,7 +55,7 @@ Meanwhile, Apple's more premium iPhone models have a new Titanium design that's 
 [PREORDER NOW Apple Store The iPhone 15 Pro and iPhone 15 Pro Max are available to preorder on Friday, September 15, starting at $999 and $1,199, respectively. On the Apple Store, you can also get up to $1,000 off on a new iPhone 15 Pro or iPhone 15 Pro Max when you trade in an iPhone 11 or newer model. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)[PREORDER NOW Best Buy Preorder for the iPhone 15 Pro and iPhone 15 Pro Max starts Friday, September 15, at Best Buy. View at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-iphone-15-pro-max-256gb-black-titanium-at-t%2F6525421.p%3FskuId%3D6525421&publisher_slug=itechdaily19598&exclusive=1)[PREORDER NOW Verizon New or existing Verizon customers adding a new line on the Unlimited Ultimate plan can get up to $1,000 off the new iPhone 15 line-up when you trade in any old iPhone in any condition. If you are already a Verizon customer and are looking to upgrade, you can get up to $830 off the iPhone 15 line-up with select trade-in and select Unlimited plans. View at Verizon](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.verizon.com/wireless-devices/smartphones/apple-iphone-15-announcement)[PREORDER NOW T-Mobile New and existing T-Mobile customers can get the iPhone 15 Pro for free (via 24 monthly bill credits when you trade in an eligible device on a Go5G Plus or Go5G Next plan). View at T-mobile](https://tmobile.prf.hn/click/camref:1100l3XZFI/pubref:zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/destination:https%3A%2F%2Ft-mobile.com)[PREORDER NOW AT&T New and existing customers at AT&T can get the iPhone 15 Pro for $1,000 off when they bring in an eligible trade-in. View at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/browse/apple/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Watch Series 9
@@ -73,7 +69,7 @@ The new [Apple Watch Series 9](https://www.zdnet.com/article/apple-watch-series-
 [PREORDER NOW Apple Store The Apple Watch Series 9 is available to preorder now and will be available officially on Friday, September 22\. Pricing starts at $399. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)[PREORDER NOW Best Buy Preorder for the Apple Watch Series 9 starts Friday, September 15, at Best Buy. View at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-watch-series9-gps-45mm-pink-aluminum-case-with-light-pink-sport-band-s-m-pink%2F6340289.p%3FskuId%3D6340289&publisher_slug=itechdaily19598&exclusive=1)[PREORDER NOW Verizon At Verizon, you can get the new Apple Watch Series 9 for less than $6 a month when you purchase select iPhones (with qualified watch trade-in). View at Verizon](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.verizon.com/wireless-devices/smart-watches/apple-watch-series-9-announcement/)[PREORDER NOW AT&T AT&T is offering a sort of "Buy one, get one free" deal for all Apple Watches. When you buy an Apple Watch Series 9, you can get the second one for $300 off. View at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/wearables/browse/apple/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Watch Ultra 2
@@ -87,10 +83,14 @@ Apple announced the [Apple Watch Ultra](https://www.zdnet.com/article/apple-watc
 [PREORDER NOW Apple Store The Apple Watch Ultra 2 is available to preorder now, and will be officially available on Friday, September 22\. It starts at $799. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch-ultra&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)[PREORDER NOW Best Buy Preorder for the Apple Watch Ultra 2 starts Friday, September 15, at Best Buy. View at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-watch-ultra-2-gps-cellular-49mm-titanium-case-with-orange-beige-trail-loop-m-l-titanium%2F6560077.p%3FskuId%3D6560077&publisher_slug=itechdaily19598&exclusive=1)[PREORDER NOW Verizon At Verizon, you can get the new Apple Watch Ultra 2 for $14 a month when you purchase select iPhones (with qualified watch trade-in). View at Verizon](https://www.tkqlhce.com/click-9041660-15498661-1682437093000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### PREORDER NOW
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## AT&T
 
@@ -138,20 +138,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-unveiling-the-secrets-of-iphone-podcast-integration/"><u>[New] 2024 Approved Unveiling the Secrets of iPhone Podcast Integration</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-rhythm-and-reel-incorporating-tunes-on-instagram/"><u>[New] In 2024, Rhythm & Reel Incorporating Tunes on Instagram</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-the-best-editing-software-for-professional-dji-videos/"><u>[New] In 2024, The Best Editing Software for Professional DJi Videos</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-engagement-top-5-compelling-book-trailers/"><u>2024 Approved Unlocking Engagement Top 5 Compelling Book Trailers</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/5-solutions-for-infinix-gt-10-pro-unlock-without-password-by-drfone-android/"><u>5 Solutions For Infinix GT 10 Pro Unlock Without Password</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/a-comprehensive-guide-to-electric-vehicle-chargers-comparing-level-1-2-and-3-systems/"><u>A Comprehensive Guide to Electric Vehicle Chargers: Comparing Level 1, 2 & 3 Systems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-sites-to-streamline-your-apartment-search-process/"><u>Essential Sites to Streamline Your Apartment Search Process</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/explore-the-best-free-image-editors-top-6-solutions-beyond-photoshop/"><u>Explore The Best Free Image Editors: Top 6 Solutions Beyond Photoshop</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-on-iphone-se-2020-without-password-by-drfone-ios/"><u>How to Delete iCloud Account On iPhone SE (2020) without Password?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exceptional-environments-the-best-screen-snapshots/"><u>In 2024, Exceptional Environments The Best Screen Snapshots</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-vivo-y28-5g-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Vivo Y28 5G online without jailbreak</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-the-mfc71dll-file-not-detectedmissing-problem/"><u>Resolving the mfc71.dll File Not Detected/Missing Problem</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-the-rpcrt4dll-file-not-found-a-comprehensive-guide/"><u>Solving the 'rpcrt4.dll' File Not Found: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-your-problems-with-non-syncing-gmail-expert-tips-and-tricks/"><u>Solving Your Problems with Non-Syncing Gmail: Expert Tips & Tricks</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveil-the-secrets-find-anyone-youre-searching-for-with-these-tricks-on-facebook/"><u>Unveil the Secrets: Find Anyone You're Searching For with These Tricks on Facebook</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-crafting-cinematic-tales-in-documentary-scripts/"><u>[Updated] Crafting Cinematic Tales in Documentary Scripts</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-ios-guide-to-premium-ps2-emulation-software/"><u>[Updated] In 2024, IOS Guide to Premium PS2 Emulation Software</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-racing-revelry-junior-edition-for-2024/"><u>[Updated] Racing Revelry Junior Edition for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-fixes-for-the-binkw32dll-error-not-found-warning/"><u>Comprehensive Fixes for the binkw32.dll Error Not Found Warning</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-insights-on-amazonbasics-versatile-and-reliable-7-port-usb-30-hub/"><u>Expert Insights on AmazonBasics' Versatile and Reliable 7 Port USB 3.0 Hub</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-our-selection-the-8-premier-no-cost-roku-channels/"><u>Explore Our Selection: The 8 Premier No-Cost Roku Channels</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guide-to-restoring-missing-events-functionality-on-iphone-calendars/"><u>Guide to Restoring Missing Events Functionality on iPhone Calendars</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-resolve-msvcr80dll-not-found-issues-on-your-pc-easily/"><u>How To Resolve 'MSVCR80.DLL Not Found' Issues On Your PC Easily</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-screenflix-recorder-insider-report/"><u>In 2024, ScreenFlix Recorder Insider Report</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ps4-led-signals-explained-why-does-my-controller-flash-blue-white-red-or-orange/"><u>PS4 LED Signals Explained - Why Does My Controller Flash Blue, White, Red or Orange?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-the-mystery-a-step-by-step-guide-to-correcting-stop-0x0000003d-errors/"><u>Resolving the Mystery: A Step-by-Step Guide to Correcting STOP 0X0000003D Errors</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solutions-for-handling-d3dx939dll-file-not-found-mishaps/"><u>Step-by-Step Solutions for Handling 'd3dx9_39.dll' File Not Found Mishaps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-address-microsoft-store-error-0x80073cf3/"><u>Strategies to Address Microsoft Store Error 0X80073cf3</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-sony-xperia-1-v-by-drfone-android/"><u>Three Ways to Sim Unlock Sony Xperia 1 V</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-how-to-repair-facetime-when-it-stops-responding/"><u>Troubleshooting Guide: How to Repair FaceTime When It Stops Responding</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-the-binkw32dll-not-found-issue-on-your-computer/"><u>Troubleshooting the binkw32.dll Not Found Issue on Your Computer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-ultimate-list-of-2024s-premier-gaming-systems/"><u>Unveiling the Ultimate List of 2024'S Premier Gaming Systems</u></a></li>
 </ul></div>
 

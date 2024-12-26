@@ -1,7 +1,7 @@
 ---
 title: Unlocking the Full Potential of Meta Quest 3 with Apple's Spatial Video Offerings – Step-by-Step Instructions | ZDNet
-date: 2024-12-11T16:04:35.631Z
-updated: 2024-12-17T16:05:48.482Z
+date: 2024-12-24T00:52:25.184Z
+updated: 2024-12-25T21:53:02.523Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ While the official iOS 18 general release is today, users have already been able
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to install iOS 18
@@ -35,10 +35,6 @@ While the official iOS 18 general release is today, users have already been able
 Jason Hiner/ZDNET
 
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Go to General in your iPhone Settings
 
@@ -48,17 +44,9 @@ Go to your iPhone's Settings and select General.
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Download and install
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Enter your passcode and follow steps to install
 
@@ -66,21 +54,29 @@ Enter your passcode, if necessary, to authorize the installation of the new iOS 
 
 After installing the latest iOS update, your iPhone will restart.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### When is Apple Intelligence coming out?
 
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### When was iOS 18 released?
 
 Apple released the iOS 18 developer beta during WWDC 2024 in June, and the public beta version was released on July 15\. The general release of iOS 18 is September 16.
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
 
@@ -116,6 +112,10 @@ If you can't see this option, go to your **Settings,** select **Privacy & Securi
 **Also: [How to use and customize your iPhone's new Control Center with iOS 18](https://www.zdnet.com/article/how-to-use-and-customize-your-iphones-new-control-center-with-ios-18/)**
 
 If you aren't already a member of the Apple Developer Program, you can sign up to become one in the app. An annual membership costs $99.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What is in iOS 18 beta 3?
 
@@ -161,20 +161,22 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-achieving-clip-perfection-with-blending-techniques-for-2024/"><u>[New] Achieving Clip Perfection with Blending Techniques for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-oculus-spectacular-expert-reviews-and-choices/"><u>[New] Oculus Spectacular Expert Reviews and Choices</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-deciphering-sharex-comparisons-and-replacements/"><u>[Updated] 2024 Approved Deciphering ShareX Comparisons & Replacements</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-perfecting-the-introduction-writing-impressive-summaries/"><u>2024 Approved Perfecting the Introduction Writing Impressive Summaries</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apples-audio-wearable-unveiling-the-future-of-direct-sound-price-predictions-and-launch-details-revealed/"><u>Apple's Audio Wearable: Unveiling the Future of Direct Sound – Price Predictions and Launch Details Revealed</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/changing-languages-on-your-windows-10-pc-a-step-by-step-guide-by-yl-computing/"><u>Changing Languages on Your Windows 10 PC: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-connection-tips-hooking-up-your-firestick-device-to-any-modern-projector-model/"><u>Easy Connection Tips: Hooking up Your Firestick Device to Any Modern Projector Model</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fixing-external-display-detection-issues-on-your-mac-computer/"><u>Fixing External Display Detection Issues on Your Mac Computer</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-conquer-profits-on-the-go-youtube-studio-monetization-explained/"><u>In 2024, Conquer Profits On-the-Go YouTube Studio Monetization Explained</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-macbook-thermal-management-techniques-for-assessing-device-temperature/"><u>Mastering MacBook Thermal Management: Techniques for Assessing Device Temperature</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/seamless-connectivity-bringing-the-web-to-your-living-room-theaters/"><u>Seamless Connectivity: Bringing the Web to Your Living Room Theaters</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-solving-gta-n-online-functionality-errors/"><u>Step-by-Step Guide to Solving GTA N Online Functionality Errors</u></a></li>
-<li><a href="https://media-tips.techidaily.com/ultimate-guide-for-superior-video-conversion-how-to-seamlessly-change-mts-files-into-hd-mp4-videos/"><u>Ultimate Guide for Superior Video Conversion: How to Seamlessly Change MTS Files Into HD MP4 Videos</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-our-selection-top-12-free-online-phone-services/"><u>Unveiling Our Selection: Top 12 Free Online Phone Services</u></a></li>
-<li><a href="https://win-dash.techidaily.com/update-alert-microsoft-enhances-windows-11-with-native-printerscanner-capabilities/"><u>Update Alert: Microsoft Enhances Windows 11 with Native Printer/Scanner Capabilities</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-lava-yuva-3-pro-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Lava Yuva 3 Pro Phone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apples-revolutionary-robotic-helper-coming-soon-learn-about-projected-timelines-and-tech-insights/"><u>Apple's Revolutionary Robotic Helper Coming Soon? Learn About Projected Timelines & Tech Insights</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-budget-friendly-player-showdown-free-video-warriors-vlc-and-mpc-for-2024/"><u>Best Budget Friendly Player Showdown Free Video Warriors (VLC & MPC) for 2024</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/echtzeit-synchronisation-von-dokumenten-und-verzeichnissen-fur-windows-betriebssysteme-10-8-7/"><u>Echtzeit-Synchronisation Von Dokumenten Und Verzeichnissen Für Windows-Betriebssysteme (10, 8, 7)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/finding-and-buying-the-best-televisions-to-suit-your-homes-needs/"><u>Finding & Buying the Best Televisions to Suit Your Home's Needs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-assign-new-audio-cues-to-your-gmail-messages/"><u>How to Assign New Audio Cues to Your Gmail Messages</u></a></li>
+<li><a href="https://extra-support.techidaily.com/optimizing-audio-transition-from-cds-using-wmp-for-2024/"><u>Optimizing Audio Transition From Cds Using WMP for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-missing-mss32dll-essential-steps-to-restore-functionality/"><u>Overcoming 'Missing MSS32.DLL' - Essential Steps to Restore Functionality</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-guide-how-to-update-your-intel-nuc-drivers-with-ease/"><u>Quick Guide: How to Update Your Intel NUC Drivers with Ease</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/realtek-rtl8188ee-wireless-network-interface-controller/"><u>Realtek RTL8188EE Wireless Network Interface Controller</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-to-restoring-charge-functionality-in-ps5-gamepads/"><u>Step-by-Step Guide to Restoring Charge Functionality in PS5 Gamepads</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-endurance-battle-can-evs-compete-with-gas-cars-for-a-longer-drive-timeframe/"><u>The Endurance Battle: Can EVs Compete with Gas Cars for a Longer Drive Timeframe?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-essentials-of-choosing-between-standard-hulu-and-plus-tier/"><u>The Essentials of Choosing Between Standard Hulu and Plus Tier</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-5-solutions-to-resolve-zoom-cant-start-video-issues/"><u>Top 5 Solutions to Resolve 'Zoom Can't Start Video' Issues</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/troubleshooting-steps-when-your-pcs-cooling-system-malfunctions-tech-tips-by-yl-computing/"><u>Troubleshooting Steps When Your PC's Cooling System Malfunctions - Tech Tips by YL Computing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-fix-boot-manager-failures-and-get-your-pc-running-again/"><u>Ultimate Guide to Fix Boot Manager Failures & Get Your PC Running Again 💻</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Shared Disappointment with iPhone's iOS 18 Update Explored on ZDNet
-date: 2024-12-11T16:03:00.441Z
-updated: 2024-12-17T16:02:38.407Z
+date: 2024-12-21T22:48:57.262Z
+updated: 2024-12-26T05:08:44.729Z
 tags:
   - apple
 categories:
@@ -43,7 +43,7 @@ As someone who is not nearly an influencer but loves to use their imagination, I
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Video scroll bar and playback options
@@ -63,7 +63,7 @@ When you do find the perfect take, the editing menu now allows an option to slow
 When viewing videos, the scroll bar automatically pops up. To access the playback options, select edit and then the clock icon at the top right corner. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Customizable layout with 'Recent Days'
@@ -83,7 +83,7 @@ For example, during the Apple launch, my phone was essentially exploding with co
 With customization, you can keep this collection at the top of your feed, or any other categories that would help you stay the most organized. Now I can pull content from a certain day without having to scroll all the way back, and hopefully it does the same for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Filter button
@@ -101,7 +101,7 @@ To narrow content more, you can also filter to favorites, previously edited cont
 And just with one slide up, it resets the filters. If you add the ability to organize your photos app to your liking, your photos app becomes so much more efficient.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Honorable mentions
@@ -112,7 +112,7 @@ And just with one slide up, it resets the filters. If you add the ability to org
 * A 'recovered' album in Utilities recovers corrupted images that were previously not visible.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which iPhones are compatible with iOS 18?
@@ -175,22 +175,22 @@ And just with one slide up, it resets the filters. If you add the ability to org
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-how-to-make-a-private-story-on-snapchat-a-complete-guide-for-2024/"><u>[New] How to Make a Private Story on Snapchat A Complete Guide for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-navigating-kinemasters-features-expert-tips-and-best-online-rivals/"><u>[Updated] Navigating KineMaster's Features Expert Tips & Best Online Rivals</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-sharp-focus-tech-best-4k-camera-phones-of-the-genre/"><u>[Updated] Sharp Focus Tech Best 4K Camera Phones of the Genre</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/diy-desktop-customization-adjusting-the-color-of-your-windows-11-taskbar/"><u>DIY Desktop Customization: Adjusting the Color of Your Windows 11 Taskbar</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effective-team-collaboration-through-slack-strategies-to-boost-efficiency/"><u>Effective Team Collaboration Through Slack: Strategies to Boost Efficiency</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-vivo-v29e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Vivo V29e? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-x-properly-drfone-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone X Properly | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/lost-your-ipad-passcode-heres-how-to-regain-entry-easily/"><u>Lost Your iPad Passcode? Here's How to Regain Entry Easily!</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/love-in-full-view-discovering-youtube-and-vimeos-top-7-wedding-movies-for-2024/"><u>Love in Full View Discovering Youtube & Vimeo's Top 7 Wedding Movies for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mondly-at-expo-2020-dubai-the-future-of-language-learning/"><u>Mondly At Expo 2020 Dubai: The Future Of Language Learning</u></a></li>
-<li><a href="https://os-tips.techidaily.com/quick-solutions-how-to-free-up-space-on-your-iphones-nearly-full-storage/"><u>Quick Solutions: How to Free Up Space on Your iPhone's Nearly Full Storage</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resetting-time-display-a-comprehensive-walkthrough-for-amazon-kindle-paperwhite/"><u>Resetting Time Display: A Comprehensive Walkthrough for Amazon Kindle Paperwhite</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-to-acquire-ebooks-through-your-ios-device-with-the-books-application/"><u>Step-by-Step Instructions to Acquire eBooks Through Your iOS Device with the Books Application</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-best-retailers-offering-superior-selection-of-mobile-phones/"><u>The Best Retailers Offering Superior Selection of Mobile Phones</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-mystery-of-the-lifeless-screen-expert-tips-to-reactivate-your-pcs-display-functionality/"><u>The Mystery of the Lifeless Screen: Expert Tips to Reactivate Your PC's Display Functionality</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-deciding-the-right-time-and-methods-for-leaving-former-twitter-accounts/"><u>The Ultimate Guide: Deciding the Right Time & Methods for Leaving Former Twitter Accounts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-purchasing-playstation-5-exclusives/"><u>Ultimate Guide to Purchasing PlayStation 5 Exclusives</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-a-step-by-step-approach-to-lut-application-in-ae/"><u>[New] 2024 Approved A Step-by-Step Approach to LUT Application in AE</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-the-art-of-action-shots-with-gopro/"><u>[Updated] Mastering the Art of Action Shots with GoPro</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-embarking-on-twitter-steps-for-newbies/"><u>2024 Approved Embarking on Twitter Steps for Newbies</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-pearl-like-pixels-tips-for-perfect-underwater-footage-with-gopro/"><u>2024 Approved Pearl-Like Pixels Tips for Perfect Underwater Footage with GoPro</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/are-you-having-trouble-with-microsoft-teams-heres-how-to-tell/"><u>Are You Having Trouble with Microsoft Teams? Here's How to Tell.</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/comprehensive-lookup-experience-the-world-in-virtual-reality-for-2024/"><u>Comprehensive Lookup Experience the World in Virtual Reality for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/defeat-strategies-for-challenging-the-mighty-lynel-foes-in-the-legend-of-zelda-botw/"><u>Defeat Strategies for Challenging the Mighty Lynel Foes in The Legend of Zelda: BOTW</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-convert-and-edit-your-pages-files-seamlessly-in-windows-or-macos-environments/"><u>How To Convert & Edit Your .pages Files Seamlessly in Windows or macOS Environments</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-honor-magic-6-pro-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Honor Magic 6 Pro online without jailbreak</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-google-pixel-8-pro-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Google Pixel 8 Pro Phone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-watch-fandango-at-home-on-apple-tv/"><u>How to Watch Fandango at Home on Apple TV</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-motorola-moto-e13-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Motorola Moto E13 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-take-control-of-time-top-10-free-video-speed-manipulation-apps-for-mobile/"><u>New Take Control of Time Top 10 Free Video Speed Manipulation Apps for Mobile</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resetting-samsung-tv-made-easy-a-complete-walkthrough/"><u>Resetting Samsung TV Made Easy - A Complete Walkthrough</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-next-gen-marvel-unveiling-rumors-on-the-samsung-galaxy-super-ultra-edition-cost-predictions-and-release-schedule-included/"><u>The Next-Gen Marvel: Unveiling Rumors on the Samsung Galaxy Super Ultra Edition - Cost Predictions & Release Schedule Included</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-correcting-msvcr70dll-error-on-your-computer/"><u>Ultimate Guide: Correcting 'MSVCR70.DLL' Error on Your Computer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/why-you-need-a-ps5-four-compelling-reasons-to-upgrade-now/"><u>Why You Need a PS5: Four Compelling Reasons to Upgrade Now</u></a></li>
 </ul></div>
 

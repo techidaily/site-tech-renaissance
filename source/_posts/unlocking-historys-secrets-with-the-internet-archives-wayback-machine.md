@@ -1,7 +1,7 @@
 ---
 title: Unlocking History's Secrets with The Internet Archive’s Wayback Machine
-date: 2024-08-20T10:43:44.931Z
-updated: 2024-08-21T10:43:44.931Z
+date: 2024-12-18T19:15:31.811Z
+updated: 2024-12-25T16:35:27.011Z
 categories:
   - BestProducts
 description: This Article Describes Unlocking History's Secrets with The Internet Archive’s Wayback Machine
@@ -13,6 +13,10 @@ thumbnail: https://www.lifewire.com/thmb/pIkWjlA3P_2dZwUS0mBLkOsB_Bk=/400x300/fi
  There are many reasons why an iPhone won't ring, but most of these problems are easy to fix. If your iPhone isn't ringing when someone calls you, try these tips before concluding that your iPhone needs an expensive repair.
 
  The tips in this article apply to all supported iPhone models and recent iOS versions, including iOS 13, 12, and 11.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix an iPhone That Won't Ring
 
@@ -33,9 +37,19 @@ thumbnail: https://www.lifewire.com/thmb/pIkWjlA3P_2dZwUS0mBLkOsB_Bk=/400x300/fi
    3. Tap the red circle beside the blocked number, and then tap**Unblock** .  
 ![An iPhone with the Phone settings, Blocked Contacts heading, and Unblock button highlighted](https://www.lifewire.com/thmb/MPfrUdCCr2HLjH9Va4OIkm1zN3o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-2308e3feb71f4c9194900da12675ecb2.jpg)
 6. Disable Silence Unknown Callers. To help users avoid spam calls and robocalls, Apple added a feature in[iOS 13](https://www.lifewire.com/ios-13-4586609) that automatically silences all calls from unknown numbers. If this feature is turned on, you won't hear calls from numbers that aren't in the Contacts app. Instead, the iPhone sends them right to voicemail. To disable this feature, select**Settings** \>**Phone** , and then turn off the**Silence Unknown Callers** switch.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you want to keep Silence Unknown Callers turned on but still get calls from certain numbers,[add those callers to Contacts](https://www.lifewire.com/manage-contacts-iphone-address-book-2000570) .  
 ![iPhone showing the Phone settings and Silence Unknown Callers switch](https://www.lifewire.com/thmb/PfmlpvYkxD5z2_TErc_402j9xA8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-b93c2874c9784090a83900ec430caf0b.jpg)
 7. Change your custom ringtone. If your iPhone still doesn't ring for incoming calls, check your ringtone. If you[set up unique ringtones for contacts](https://www.lifewire.com/assign-unique-ringtone-on-iphone-2000557) , a deleted or corrupted ringtone can prevent the phone from ringing when someone calls.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To check the default ringtone, tap**Settings** \>**Sounds & Haptics** \>**Ringtone** , and then select a new ringtone.  
  If you miss calls from only certain people, open the Phone app, and then complete these steps:  
    1. Tap**Contacts** .  
@@ -43,6 +57,11 @@ thumbnail: https://www.lifewire.com/thmb/pIkWjlA3P_2dZwUS0mBLkOsB_Bk=/400x300/fi
    3. Tap**Ringtone** , and then assign the contact a new ringtone.  
 ![Three iOS screens showing Contacts, Edit button and Ringtone area in Phone settings app](https://www.lifewire.com/thmb/dQgktPdfOQV7lnazDKmKLLfIXPI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-5bbe5923c9e77c005156dd60.jpg)  
  If the unique ringtone is the source of the problem, find all the contacts to whom you assigned that ringtone and select a new ringtone for each.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. [Make sure the phone isn't stuck in Headphone mode](https://www.lifewire.com/fix-iphone-stuck-in-headphone-mode-4175912) . It could be that your iPhone is ringing but sending the audio to the wrong place. In this situation, the iPhone thinks that another audio source is attached to it—like headphones or a Bluetooth device—and tries to ring there instead of through your iPhone speaker.
 
 ## If None of These Tips Fixed the Problem
@@ -52,8 +71,9 @@ thumbnail: https://www.lifewire.com/thmb/pIkWjlA3P_2dZwUS0mBLkOsB_Bk=/400x300/fi
 [How to Fix It When iPhone Call Volume Is Low](https://www.lifewire.com/fix-low-volume-on-call-on-iphone-5186012)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Causes of the iPhone Not Ringing Problem
 
  If your iPhone isn't ringing, there are several possible culprits:
@@ -93,8 +113,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -102,4 +120,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-ultimate-guide-to-7-superior-video-players-on-mac/"><u>[Updated] 2024 Approved Ultimate Guide to 7 Superior Video Players on Mac</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-understanding-vr-headsets-an-overview/"><u>[Updated] Understanding VR Headsets An Overview</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-streamlining-post-production-with-after-effects-and-luts/"><u>2024 Approved Streamlining Post Production with After Effects and LUTs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diy-fix-for-windows-blue-screen-handling-nospinlockavailable/"><u>DIY Fix for Windows Blue Screen - Handling NO_SPIN_LOCK_AVAILABLE</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-on-how-to-eliminate-your-pcs-recovery-volume-in-windows/"><u>Expert Tips on How to Eliminate Your PC's Recovery Volume in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-lsassexe-unable-to-locate-component-error-in-windows/"><u>How to Fix the lsass.exe Unable to Locate Component Error in Windows</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-x50-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Honor X50 Phone without Google Account?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/snap-worthy-success-logging-galaxy-gaming-stories-for-2024/"><u>Snap-Worthy Success Logging Galaxy Gaming Stories for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-tracking-down-followers-who-bookmarked-your-ig-content/"><u>The Ultimate Guide to Tracking Down Followers Who Bookmarked Your IG Content</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/tweet-audio-conversion-free-video-downloads/"><u>Tweet Audio Conversion Free Video Downloads</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-tips-for-snapping-a-quick-shot-on-your-hp-notebook-device/"><u>Ultimate Tips for Snapping a Quick Shot on Your HP Notebook Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/wireless-audio-setup-steps-to-pair-your-pc-with-a-bluetooth-speaker/"><u>Wireless Audio Setup: Steps to Pair Your PC with a Bluetooth Speaker</u></a></li>
+</ul></div>
 

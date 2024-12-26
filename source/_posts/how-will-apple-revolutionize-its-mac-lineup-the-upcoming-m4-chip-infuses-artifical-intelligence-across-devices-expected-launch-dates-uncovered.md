@@ -1,7 +1,7 @@
 ---
 title: How Will Apple Revolutionize Its Mac Lineup? The Upcoming M4 Chip Infuses Artifical Intelligence Across Devices - Expected Launch Dates Uncovered
-date: 2024-12-11T16:00:10.202Z
-updated: 2024-12-17T16:01:08.248Z
+date: 2024-12-25T01:29:52.306Z
+updated: 2024-12-26T03:42:54.087Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -64,10 +60,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -75,6 +67,10 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -93,6 +89,10 @@ Adam Breeden/ZDNET
 * The Messages app now supports [**Rich Communication Services (RCS).**](https://www.zdnet.com/article/apple-is-finally-adding-rcs-to-the-iphone-and-i-couldnt-be-more-excited/)
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## WatchOS 11
 
@@ -119,7 +119,7 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -132,10 +132,6 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -155,7 +151,7 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -165,6 +161,10 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,22 +210,22 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-mastering-your-fb-profile-picture-update/"><u>[New] In 2024, Mastering Your FB Profile Picture Update</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-revolutionary-revelations-top-30-quotes-for-ar-vr-dreamers-for-2024/"><u>[New] Revolutionary Revelations Top 30 Quotes for AR-VR Dreamers for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-15-best-ideas-to-post-on-snapchat/"><u>[Updated] In 2024, 15 Best Ideas To Post On Snapchat</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-innovative-ways-to-capture-online-discussions/"><u>2024 Approved Innovative Ways to Capture Online Discussions</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-pixelpie-slicer/"><u>2024 Approved PixelPie Slicer</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-the-ultimate-film-guide-top-15-timeless-stop-motion-classics/"><u>2024 Approved The Ultimate Film Guide - Top 15 Timeless Stop Motion Classics</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-tutorial-for-enhancing-your-samsung-tv-with-a-new-update/"><u>Comprehensive Tutorial for Enhancing Your Samsung TV with a New Update</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/effective-solutions-to-repair-color-inaccuracies-and-warping-issues-in-monitor-display/"><u>Effective Solutions to Repair Color Inaccuracies & Warping Issues in Monitor Display</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/effortless-conversion-exporting-your-favorite-spotify-tunes-as-readable-texts/"><u>Effortless Conversion: Exporting Your Favorite Spotify Tunes as Readable Texts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/from-textbooks-to-tech-claiming-your-microsoft-student-deal-explained/"><u>From Textbooks to Tech: Claiming Your Microsoft Student Deal Explained</u></a></li>
-<li><a href="https://media-tips.techidaily.com/guida-passo-passo-allabilitazione-di-dlna-per-la-piu-ottimale-experienza-di-streaming-video-su-windows/"><u>Guida Passo-Passo All'Abilitazione Di DLNA per La Più Ottimale Experienza Di Streaming Video Su Windows</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/in-depth-analysis-ipad-vs-standard-tablets-a-comparison-guide/"><u>In-Depth Analysis: IPad Vs. Standard Tablets - A Comparison Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/stream-disneys-magic-on-the-big-screen-a-simple-guide-to-connect-disney-plus-with-chromecast/"><u>Stream Disney's Magic on the Big Screen: A Simple Guide to Connect Disney Plus with Chromecast</u></a></li>
-<li><a href="https://techtrends.techidaily.com/taylor-swift-filmography-the-complete-guide-in-sequence/"><u>Taylor Swift Filmography: The Complete Guide - In Sequence</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-struggle-to-upgrade-navigating-troubled-waters-with-windows-10-version-1607s-failed-deployment/"><u>The Struggle to Upgrade: Navigating Troubled Waters with Windows 10 Version 1607'S Failed Deployment</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-secrets-to-inverting-video-content-in-snapchat-for-stunning-effects/"><u>Unveiling The Secrets to Inverting Video Content in Snapchat for Stunning Effects</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/yahoo-mail-disposal-a-comprehensive-walkthrough-to-erase-it-completely/"><u>Yahoo Mail Disposal: A Comprehensive Walkthrough to Erase It Completely</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-essential-instagram-repost-strategies/"><u>[New] Essential Instagram Repost Strategies</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-influencing-your-drones-performance-choosing-right-propellers/"><u>[Updated] 2024 Approved Influencing Your Drone's Performance Choosing Right Propellers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-proven-approaches-to-exceptional-android-time-lapse-photography/"><u>[Updated] Proven Approaches to Exceptional Android Time-Lapse Photography</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/best-interactive-web-based-games-for-kids-entertainment/"><u>Best Interactive Web-Based Games for Kids' Entertainment</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-exquisite-visual-enhancement-implementing-filters-on-videos-pc-and-mobile/"><u>In 2024, Exquisite Visual Enhancement Implementing Filters on Videos (PC & Mobile)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-galactic-glitter-top-10-accessories-for-sj4000-stargazers/"><u>In 2024, Galactic Glitter Top 10 Accessories for SJ4000 Stargazers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-updated-software-for-your-logitech-corsair-k55-device-today/"><u>Install Updated Software for Your Logitech Corsair K55 Device Today!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-xbox-game-pass-ultimate-the-definitive-guide-to-cloud-based-gaming/"><u>Mastering Xbox Game Pass Ultimate: The Definitive Guide to Cloud-Based Gaming</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/orbital-accountancy-revival-guide/"><u>Orbital Accountancy Revival Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcome-apple-watch-pairing-glitches-with-these-6-strategies/"><u>Overcome Apple Watch Pairing Glitches with These 6 Strategies</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ps5-value-assessment-why-procurement-pays-off-a-deep-dive-into-4-compelling-reasons/"><u>PS5 Value Assessment: Why Procurement Pays Off - A Deep Dive Into 4 Compelling Reasons</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/rectifying-the-non-delivery-of-emails-in-yahoo-mail-account/"><u>Rectifying the Non-Delivery of Emails in Yahoo Mail Account</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/samsungs-next-gen-smartphone-revealed-the-galaxy-z-fold-6-price-point-and-launch-forecast/"><u>Samsung's Next-Gen Smartphone Revealed - The Galaxy Z Fold 6 Price Point and Launch Forecast</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-10-inspiring-sports-films-perfect-for-a-movie-night/"><u>Top 10 Inspiring Sports Films Perfect for a Movie Night</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-device-wont-boot-issue-fixing-error-10-with-ease/"><u>Troubleshooting Device Won't Boot Issue: Fixing Error 10 with Ease</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-from-apple-iphone-12-mini-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication From Apple iPhone 12 mini? 5 Tips You Must Know</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-the-glitch-effect-shows-errors-and-flaws-in-the-image-or-a-video-the-write-up-presents-the-complete-procedure-of-adding-premiere-pros-/"><u>Updated 2024 Approved The Glitch Effect Shows Errors and Flaws in the Image or a Video. The Write-Up Presents the Complete Procedure of Adding Premiere Pros Glitch Effect and Introduces Eight Free Glitch Effects</u></a></li>
 </ul></div>
 

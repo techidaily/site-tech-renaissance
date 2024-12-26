@@ -1,7 +1,7 @@
 ---
 title: "Experience the Cutting-Edge of AR: Navigating Apple's Latest Update to Vision Pro's Spatial Personas Insights"
-date: 2024-12-13T16:02:52.950Z
-updated: 2024-12-17T16:02:58.834Z
+date: 2024-12-23T01:17:59.631Z
+updated: 2024-12-26T03:16:38.378Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Did they improve the overall quality of life and usability of Apple's most quixo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Turn 2D images into spatial photos
@@ -61,7 +61,7 @@ In VisionOS 2, there are gestures. Holding your hand palm up and tapping fingers
 Unlike the previous two features, this _is_ a quality of life improvement. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Mac virtual display improvements
@@ -88,6 +88,10 @@ There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, 
 * **TabletopKit:** Helps developers create apps that anchor to flat surfaces. One obvious example is board game kits, but this could apply to interior design apps, architectural and construction projects, gaming, navigation, and more.
 * **Enterprise APIs:** These were described as enterprise-specific APIs, so we can assume they're somewhat special purpose. Examples given were surgical training and manufacturing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. New Canon spatial lens for creating spatial video
 
 While iPhone 15 Pro users can create spatial video, there are limitations to using an iPhone as a camera. Apple announced today that Canon will be introducing a spatial lens for its [EOS R7 digital camera](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCanon-RF-S18-150mm-Mirrorless-Processor-Detection%2Fdp%2FB0B2KSD7WW%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbfbe271d-4f99-40f4-b81e-3b3c556a641c%7Cdtp&dtb=1). 
@@ -97,7 +101,7 @@ Screenshot by David Gewirtz/ZDNET
 This allows more commercial and prosumer projects where the photographer or videographer needs more control over the complex range of settings available in a more traditional camera. Those videos can then be edited in Final Cut Pro, Apple's only mention of Final Cut during WWDC. There's also a new Vimeo app for VisionOS, that will allow spatial videos to be shared. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Third-party immersive video workflow
@@ -111,7 +115,7 @@ Apple is opening up the format for third-party creators to create immersive vide
 Even so, I think this is great. Those immersive videos are fantastic. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Other new features
@@ -122,10 +126,6 @@ Apple didn't cover all the new features during its announcement. At the end of t
 * **Keyboard breakthrough:** This was another feature I felt it was important for Apple to introduce, and apparently it will be available. No mention was made of it, so we have no idea if it's limited solely to Apple's own keyboards (but that's probably the case).
 * **Bora Bora environment:** I wanted to see more environments and we get…one. Personally, I think all the work on spatial photos and spatial videos could have been replaced with the ability for third parties to create 3D environments, but Apple didn't go there. But hey, Bora Bora, right?
 * **Rearrangeable Home View:** This was also not described but I'm guessing this means you can move around the Home icons.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  What do you think?
 
@@ -171,22 +171,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-pictorial-synthesis-pro-online-blender-deluxe/"><u>[New] Pictorial Synthesis Pro Online Blender Deluxe</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/demystifying-the-art-of-apple-watch-face-swap-easy-tricks-and-tips-revealed/"><u>Demystifying the Art of Apple Watch Face Swap: Easy Tricks & Tips Revealed</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Motorola Moto G84 5G | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722965367428-install-asus-dvd-drivers-with-one-click-download/"><u>Install ASUS DVD Drivers with One-Click Download!</u></a></li>
-<li><a href="https://techidaily.com/is-your-honor-magic-vs-2-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Honor Magic Vs 2 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/preventing-and-handling-file-unreadable-problem-on-windows/"><u>Preventing and Handling ‘File Unreadable’ Problem on Windows</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolve-windows-explorer-not-responding-errors-on-your-windows-7-system/"><u>Resolve 'Windows Explorer Not Responding' Errors on Your Windows 7 System</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolved-overcoming-mouse-delays-and-irregular-movements-in-windows-11-environments/"><u>Resolved: Overcoming Mouse Delays & Irregular Movements in Windows 11 Environments</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-logitech-mouse-issues-on-windows-11-a-comprehensive-guide/"><u>Resolving Logitech Mouse Issues on Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/roblox-gaming-optimized-increase-fps-with-these-2024-best-practices/"><u>Roblox Gaming Optimized: Increase FPS with These 2024 Best Practices</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/secrets-to-browsing-the-net-invisibly-protect-your-digital-footprint/"><u>Secrets to Browsing the Net Invisibly: Protect Your Digital Footprint</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/sharable-gaming-adventures-an-insiders-guide-to-the-steam-sharing-function/"><u>Sharable Gaming Adventures: An Insider’s Guide to the Steam Sharing Function</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solution-steps-for-fixing-windows-pc-health-checker-malfunction/"><u>Solution Steps for Fixing Windows PC Health Checker Malfunction</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solutions-for-when-your-computer-wont-recognize-an-sd-card/"><u>Solutions for When Your Computer Won’t Recognize an SD Card</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-13-apps-de-videoconferencia-para-computadoras-su-guia-integral/"><u>Top 13 Apps De Videoconferencia Para Computadoras: Su Guía Integral</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/whos-gaining-thunder-in-the-video-cosmos/"><u>Who's Gaining Thunder in the Video Cosmos?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-the-ultimate-snapchat-plus-twitter-duo-video-posting-guide/"><u>[New] 2024 Approved The Ultimate Snapchat + Twitter Duo (Video Posting Guide)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-timeless-thread-triumphs-reddits-all-time-fave-list-top-10/"><u>[New] Timeless Thread Triumphs Reddit’s All-Time Fave List (Top 10)</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-discover-new-movie-experiences-top-7-swaps-for-2024/"><u>[Updated] Discover New Movie Experiences - Top 7 Swaps for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/2022s-elite-cooler-selection-expert-picks-by-zdnet-unveiled/"><u>2022'S Elite Cooler Selection: Expert Picks by ZDNet Unveiled</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/arlo-pro-zdnet/"><u>Arlo Pro 지속성: 현재 판매중인 원래같은 보안 시스템이 될 수 있습니다 - ZDNET</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/filtering-through-youtube-talks/"><u>Filtering Through YouTube Talks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-techniques-for-fascinating-vlog-dialogue-structure/"><u>In 2024, Techniques for Fascinating Vlog Dialogue Structure</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/losung-fur-iphone-backup-fehler-wiederherstellung-der-sitzung-nach-misserfolg/"><u>Lösung Für iPhone-Backup-Fehler: Wiederherstellung Der Sitzung Nach Misserfolg</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-vpn-connection-woes-on-your-iphone-with-7-powerful-strategies/"><u>Overcome VPN Connection Woes on Your iPhone with 7 Powerful Strategies</u></a></li>
+<li><a href="https://windows11.techidaily.com/process-to-undo-system-image-fault-0x80780119/"><u>Process to Undo System Image Fault: 0X80780119</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-ultimate-gear-list-for-any-aspiring-vlogger-top-12-cameras-for-2024/"><u>The Ultimate Gear List for Any Aspiring Vlogger - Top 12 Cameras for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-list-of-aplus-metal-detection-gadgets-for-202n4-tech-pros-weigh-in-zdnet/"><u>Ultimate List of A+ Metal Detection Gadgets for 202N4: Tech Pros Weigh In | ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-surprising-delights-the-ring-spotlight-cam-pro-review-on-zdnet/"><u>Unveiling Surprising Delights: The Ring Spotlight Cam Pro Review on ZDNet</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/verify-and-optimize-your-audio-hardware-a-step-by-step-check-for-a-working-sound-card-by-yl-software-experts/"><u>Verify and Optimize Your Audio Hardware: A Step-by-Step Check for a Working Sound Card by YL Software Experts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/why-the-arlo-pro-5s-almost-made-it-as-my-ideal-home-surveillance-system-an-in-depth-review-on-zdnet/"><u>Why the Arlo Pro 5S Almost Made It As My Ideal Home Surveillance System – An In-Depth Review on ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/zdnet-exclusive-why-ecoflow-river-3-dominates-as-the-ideal-starter-battery/"><u>ZDNet Exclusive: Why EcoFlow River 3 Dominates as the Ideal Starter Battery</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/zdnet-review-discover-why-ecoflow-river-amoeba-is-a-top-pick-for-beginners-in-portable-power-solutions/"><u>ZDNet Review: Discover Why EcoFlow River Amoeba Is a Top Pick for Beginners in Portable Power Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/zdnets-complete-guide-to-the-april-2024-lunar-eclipse-tips-for-viewing-essential-gear-and-key-facts-you-should-be-aware-of/"><u>ZDNet's Complete Guide to the April 2024 Lunar Eclipse: Tips for Viewing, Essential Gear & Key Facts You Should Be Aware Of</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/zdnets-deep-dive-into-tesla-cybertruck-powered-robot-mowers-exceeding-anticipation-with-innovative-features-and-efficiency/"><u>ZDNet's Deep Dive Into Tesla Cybertruck-Powered Robot Mowers: Exceeding Anticipation with Innovative Features and Efficiency</u></a></li>
 </ul></div>
 

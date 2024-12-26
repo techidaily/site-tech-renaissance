@@ -1,7 +1,7 @@
 ---
 title: "Revealing Hidden Information: Find Your Wi-Fi Network Password on Windows 11"
-date: 2024-08-26T07:19:57.770Z
-updated: 2024-08-27T07:19:57.770Z
+date: 2024-12-21T07:59:56.098Z
+updated: 2024-12-25T18:59:49.142Z
 categories:
   - BestProducts
 description: "This Article Describes Revealing Hidden Information: Find Your Wi-Fi Network Password on Windows 11"
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/a08727f11a7832f787474e1a64a135e87ab43cd2d
 
  This article will show you how to find the Wi-Fi password your Windows 11 device uses to get online.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Find the Wi-Fi Password in Settings
 
  Windows 11 makes it incredibly easy to view the password to the Wi-Fi network in just a few steps.
@@ -28,7 +32,16 @@ thumbnail: https://thmb.techidaily.com/a08727f11a7832f787474e1a64a135e87ab43cd2d
 3. Choose the Wi-Fi network listed as**Connected** .  
 ![Wi-Fi settings in Windows 11](https://www.lifewire.com/thmb/bhH-9VuFoCODAR-6GvOHYewTIls=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-wi-fi-settings-51c2df038e7e487eb876f3d33c2c29b5.png)
 4. Scroll to the bottom and choose**View** to see the Wi-Fi password.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![A Wi-Fi password displayed in Windows 11 Settings](https://www.lifewire.com/thmb/QFm5BWQGHpnnBFNXdkIsmbunWso=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-wi-fi-password-4e708b5883104965a4afc64195dd43aa.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to View Wi-Fi Passwords in Windows 11 Control Panel
 
@@ -37,26 +50,19 @@ thumbnail: https://thmb.techidaily.com/a08727f11a7832f787474e1a64a135e87ab43cd2d
 1. [Open Control Panel](https://www.lifewire.com/open-control-panel-in-windows-11-5193187) . One way is to search for it from the Start menu.  
 ![Control Panel in the Windows Start menu](https://www.lifewire.com/thmb/pMZQNKGUKu1auJL5Ih90DIUvM6Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_find-wifi-password-on-windows-11-5216845-8ee974cdeffe43809b6a1817faebde94.jpg)
 2. Select**Network and Internet** \>**Network and Sharing Center** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Network and Internet and Network and Sharing Center in Windows Control Panel](https://www.lifewire.com/thmb/HT2QUOSjcz8gJxGwB6RvWqtMezo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_find-wifi-password-on-windows-11-5216845-8073b99aea23455fa0be2a3f34158e0f.jpg)
 3. Select the network name next to**Connections** .  
 ![Connections: Wi-Fi highlighted in Windows Network and Sharing Center](https://www.lifewire.com/thmb/AWY-19Zg3leiYniXwcR4ypNAgN4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_find-wifi-password-on-windows-11-5216845-8d0585c1a9794654847d16d0662ee1f7.jpg)
 4. Select**Wireless Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
-![Wireless Properties in Windows Wi-Fi Connections](https://www.lifewire.com/thmb/DpMgVGcpnlDqkek7-IC7KS74xcY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_find-wifi-password-on-windows-11-5216845-4ce6ae5a405d4157addd33d139d41532.jpg)
-5. Open the**Security** tab and choose**Show characters** . You'll find the Wi-Fi password in the**Network security key** box.  
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
-![Security and Show characters in Windows Wireless Properties](https://www.lifewire.com/thmb/qI7hMw7f2MakNbTxxuVVq_9uvhg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_find-wifi-password-on-windows-11-5216845-4bfb99976f494124a3250fc1e0b950e1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Wireless Properties in Windows Wi-Fi Connections](https://www.lifewire.com/thmb/DpMgVGcpnlDqkek7-IC7KS74xcY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_find-wifi-password-on-windows-11-5216845-4ce6ae5a405d4157addd33d139d41532.jpg)
+5. Open the**Security** tab and choose**Show characters** . You'll find the Wi-Fi password in the**Network security key** box.  
+![Security and Show characters in Windows Wireless Properties](https://www.lifewire.com/thmb/qI7hMw7f2MakNbTxxuVVq_9uvhg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_find-wifi-password-on-windows-11-5216845-4bfb99976f494124a3250fc1e0b950e1.jpg)
+
 ## How to View Wi-Fi Passwords for Old Networks
 
  Windows keeps a record of all the Wi-Fi passwords you've entered over time to connect to different networks. This information can be displayed in Command Prompt if you enter a few commands.
@@ -64,21 +70,20 @@ thumbnail: https://thmb.techidaily.com/a08727f11a7832f787474e1a64a135e87ab43cd2d
 1. [Open an elevated Command Prompt](https://www.lifewire.com/how-to-open-an-elevated-command-prompt-2618088) . Just search for it from the Start menu and choose**Run as administrator** .  
 ![Run as an administrator under Command Prompt in Windows Search](https://www.lifewire.com/thmb/bMKKbubk1ngHB_cw3XC26rZQY98=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008_find-wifi-password-on-windows-11-5216845-aa25a24986324c52bae079f42260ea69.jpg)  
  Another way there is through[Terminal](https://www.lifewire.com/windows-terminal-4779951) . Press**Win** +**X** and then select**Terminal (Admin)** .
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Type this into Command Prompt and then press**Enter** .  
  `netsh wlan show profiles`  
 ![The netsh wlan show profiles results in Command Prompt](https://www.lifewire.com/thmb/8W8Cx6VCJduquGVtFpMAj7JyDT0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/netsh-command-wi-fi-networks-5f3ecc20b8a342d0b1e5358611179dda.png)
 3. Listed here are all the Wi-Fi networks you've connected to from this device. Note the exact name of the network for which you need the password.  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
  You can[locate the name of the currently connected network](https://www.lifewire.com/find-name-of-your-wifi-network-5206127) if that's the one you're searching for in Command Prompt.
 4. Type the following and then press**Enter** , but replace**example** with the[SSID](https://www.lifewire.com/definition-of-service-set-identifier-816547) you noted in the last step. Surround the name in quotes if it has any spaces.  
  `netsh wlan show profile name=example key=clear | findstr "Key Content"`  
 ![A Wi-Fi password listed in Command Prompt](https://www.lifewire.com/thmb/pbn4InJQ2gPKYEYd1LeT_Lewi6I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/wi-fi-password-command-dca3294835834b9db0022a03bd28ea2c.png)  
  The Wi-Fi password is displayed next to**Key Content** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  An easy way to do this without typing the whole command is to paste it into Command Prompt and then use the left arrow key to put the cursor to the right of 'example.' You can then erase that word and type the correct network name.
 
  FAQ
@@ -112,8 +117,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,4 +124,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-bringing-back-tunes-to-twitters-video-posts-for-2024/"><u>[New] Bringing Back Tunes to Twitter's Video Posts for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-vivo-y27-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-masterful-strategies-for-saving-lol-rounds/"><u>2024 Approved Masterful Strategies for Saving LOL Rounds</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-mastery-over-cloud-expenses-cheapest-options-showcased/"><u>2024 Approved Mastery Over Cloud Expenses Cheapest Options Showcased</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/budget-friendly-binge-watching-how-to-legally-stream-netflix-for-free/"><u>Budget-Friendly Binge Watching: How to Legally Stream Netflix for Free</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/double-lock-protocol-secure-your-icloud-email-through-advanced-authentication-measures/"><u>Double Lock Protocol: Secure Your iCloud Email Through Advanced Authentication Measures</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/enhancing-narratives-a-guide-to-using-b-roll/"><u>Enhancing Narratives A Guide to Using B-Roll</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-oppo-a38-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/google-pixel-2023-leak-scoop-predicted-specs-expected-cost-and-launch-window-rumors-unpacked/"><u>Google Pixel 2023 Leak Scoop: Predicted Specs, Expected Cost & Launch Window Rumors Unpacked</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-on-thoroughly-cleaning-a-mechanical-keyboard/"><u>Step-by-Step Tutorial on Thoroughly Cleaning a Mechanical Keyboard</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-best-long-range-routers-of-2024/"><u>The Best Long-Range Routers of 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/the-definitive-guide-to-du-recorders-capabilities-for-2024/"><u>The Definitive Guide to Du Recorder's Capabilities for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-troubleshooting-technique-how-to-access-the-recovery-partition-on-macs/"><u>Ultimate Troubleshooting Technique: How to Access the Recovery Partition on Macs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-zoom-problems-tech-failures-or-personal-perceptions/"><u>Understanding Zoom Problems: Tech Failures or Personal Perceptions?</u></a></li>
+</ul></div>
 

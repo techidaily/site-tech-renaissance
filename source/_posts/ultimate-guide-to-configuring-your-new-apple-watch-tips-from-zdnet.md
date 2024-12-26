@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Configuring Your New Apple Watch - Tips From ZDNet
-date: 2024-12-12T16:00:55.884Z
-updated: 2024-12-17T16:00:02.988Z
+date: 2024-12-23T08:38:15.145Z
+updated: 2024-12-25T21:56:42.337Z
 tags:
   - apple
 categories:
@@ -44,16 +44,12 @@ Here's how.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to enable Slack notifications on your Apple Watch
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Install the Slack app on your iPhone
@@ -61,6 +57,10 @@ Here's how.
 There is no dedicated Slack app for the Apple Watch, but there is an iPhone app. This app controls everything about how Slack works with notifications on your phone. So, if you don't already have Slack on your iPhone, go to [the App Store and install it](https://apps.apple.com/us/app/slack/id618783545).
 
 Once it's installed, go ahead and log into your various Slack channels. Get those setup and working as you like before configuring the app for notifications.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Set up Slack notifications in the system settings
 
@@ -80,10 +80,6 @@ Screenshot by David Gewirtz/ZDNET
 
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##   
 
 Screenshot by David Gewirtz/ZDNET
@@ -101,6 +97,10 @@ Next, tap Notify Me on Mobile. This will give you a few options.
 Screenshot by David Gewirtz/ZDNET
 
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Set your notification schedule
 
@@ -127,7 +127,7 @@ Recommendation to Slack: Where you put the "Every day" option in that setting, a
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   
@@ -137,7 +137,7 @@ Screenshot by David Gewirtz/ZDNET
 There. You've set up notifications. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
@@ -179,20 +179,20 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-the-ring-with-video-recording-who-will-triumph-obs-or-bandicam/"><u>[New] In the Ring with Video Recording Who Will Triumph, OBS or Bandicam?</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-boost-your-videos-impact-with-top-ranking-software-solutions-for-2024/"><u>[Updated] Boost Your Videos' Impact with Top-Ranking Software Solutions for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-breaking-down-t-series-income-mechanism-on-youtube/"><u>[Updated] In 2024, Breaking Down T-Series Income Mechanism on YouTube</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-action-cams-duel-black-hero5-against-sj7/"><u>2024 Approved Action Cams Duel Black Hero5 Against SJ7</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/all-you-need-to-know-about-apples-m3-macbook-pro-specs-price-guide-and-availability-timeline/"><u>All You Need to Know About Apple's M3 MacBook Pro: Specs, Price Guide, and Availability Timeline</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/captivating-more-eyes-on-your-engaging-instagram-videos/"><u>Captivating More Eyes on Your Engaging Instagram Videos</u></a></li>
-<li><a href="https://win11.techidaily.com/clarifying-windows-memory-management-via-pagefilesys-files/"><u>Clarifying Windows' Memory Management via Pagefile.sys Files</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-latest-ipad-release-whats-new-in-the-current-gen/"><u>Discover the Latest iPad Release: What's New in the Current Gen</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/enable-siri-audio-narration-on-your-iphone-or-mac-the-complete-tutorial/"><u>Enable Siri Audio Narration on Your iPhone or Mac - The Complete Tutorial</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-does-roaming-work-on-the-atandt-wireless-network/"><u>How Does Roaming Work on the AT&T Wireless Network?</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-maximizing-visual-storytelling-with-b-roll-integration/"><u>In 2024, Maximizing Visual Storytelling with B Roll Integration</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/in-depth-reviews-and-buying-guides-at-toms-tech-hub/"><u>In-Depth Reviews & Buying Guides at Tom's Tech Hub</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-round-up-best-news-aggregator-tools/"><u>The Ultimate Round-Up: Best News Aggregator Tools</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-picks-must-watch-lgbtq-series-on-netflix-as-of-july-2024/"><u>Top Picks: Must-Watch LGBTQ Series on Netflix as of July 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/unpacking-variations-between-exe-and-msi-formats/"><u>Unpacking Variations Between EXE and MSI Formats</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-diverse-opinions-one-easeus-evaluation/"><u>[New] In 2024, Diverse Opinions, One EaseUS Evaluation</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-understanding-tseries-financial-gain-in-youtube-space/"><u>[New] In 2024, Understanding TSeries' Financial Gain in YouTube Space</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-rapid-fire-guide-to-successful-double-exposures-for-2024/"><u>[Updated] Rapid-Fire Guide to Successful Double Exposures for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/auditory-aesthetics-guide-media-sound-choices-for-2024/"><u>Auditory Aesthetics Guide Media Sound Choices for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/delving-into-beyerdynamics-mmx-200-masterpiece/"><u>Delving Into Beyerdynamic's MMX 200 Masterpiece</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-steps-for-successfully-connecting-and-using-your-chromecast-remote/"><u>Easy Steps for Successfully Connecting and Using Your Chromecast Remote</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-solutions-for-restoring-functionality-to-a-broken-samsung-soundbar/"><u>Expert Solutions for Restoring Functionality to a Broken Samsung Soundbar</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-from-your-apple-iphone-xs-max-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock from your Apple iPhone XS Max and iPad</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pro-level-gopro-tricks-and-insights/"><u>In 2024, Pro-Level GoPro Tricks and Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-your-smart-tv-purchase-expert-advice-on-the-7-critical-aspects-to-review/"><u>Mastering Your Smart TV Purchase: Expert Advice on the 7 Critical Aspects to Review</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/speedy-movie-making-hacks-tips-to-learn-and-apply-at-home-for-2024/"><u>Speedy Movie Making Hacks Tips to Learn and Apply at Home for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721467096822-stuck-on-ios-update-here-are-9-solutions-to-get-you-up-to-date/"><u>Stuck on iOS Update? Here Are 9 Solutions to Get You Up-to-Date</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-applying-meta-ai-for-instagram-success/"><u>The Ultimate Guide to Applying Meta AI for Instagram Success</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-titles-only-available-on-playstation-5-the-ultimate-game-collection/"><u>Top Titles Only Available on PlayStation 5: The Ultimate Game Collection</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-expert-hacks-to-boost-productivity-with-apples-shortcuts-app-18-must-know-techniques/"><u>Ultimate Guide: Expert Hacks to Boost Productivity with Apple's Shortcuts App - 18 Must-Know Techniques</u></a></li>
 </ul></div>
 

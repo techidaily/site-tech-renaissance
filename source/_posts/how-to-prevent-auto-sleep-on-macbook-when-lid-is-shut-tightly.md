@@ -1,7 +1,7 @@
 ---
 title: How To Prevent Auto-Sleep on MacBook When Lid Is Shut Tightly
-date: 2024-12-13T16:06:54.406Z
-updated: 2024-12-17T16:08:37.097Z
+date: 2024-12-19T01:15:25.232Z
+updated: 2024-12-25T17:55:40.426Z
 categories:
   - BestProducts
 description: This Article Describes How To Prevent Auto-Sleep on MacBook When Lid Is Shut Tightly
@@ -23,6 +23,10 @@ thumbnail: https://www.lifewire.com/thmb/qOnmzUsqLM9HSPhPI2oKnrNPVZg=/400x300/fi
 
  This article explains how to prevent your MacBook from sleeping when the lid is closed.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Keep Your MacBook On When Closed
 
  You'll need to change a few settings to stop your MacBook from going to sleep with the lid closed.  
@@ -32,32 +36,28 @@ thumbnail: https://www.lifewire.com/thmb/qOnmzUsqLM9HSPhPI2oKnrNPVZg=/400x300/fi
 2. Click**Lock Screen** , then select the menu next to**Turn display off on power adapter when inactive** . Pick**Never** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Never chosen in the Lock Screen settings on a MacBook](https://www.lifewire.com/thmb/WGYons73UuXIODOh3ULyu4XYico=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macbook-never-turn-display-off-e1e0548dce774a84b6993fc70ed6d0ff.png)  
  If you don't see that option, go to**Battery** \>**Power Adapter** instead, then select the slider and move it to**Never** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Power Adapter highlighted in MacBook battery settings.](https://www.lifewire.com/thmb/5fyup25_ft7wTwiyCcWz7UeWulA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_prevent-macbook-from-sleeping-when-lid-is-closed-5203069-1f901024bdd54206baa2bd00c8544065.jpg)
 3. Click**Battery** from the menu, then choose**Options** . Switch on the toggle next to **Prevent automatic sleeping on power adapter when the display is off** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The prevent automatic sleeping on power adapter option toggled on for a MacBook](https://www.lifewire.com/thmb/TdcjINJG4V-giAXqHylO_KVorlQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macbook-prevent-automatic-sleeping-f9b2e9316b674a2090717f4e035ca9b8.png)  
  In some versions of macOS, this option is in the**Power Adapter** menu and it's called **Prevent computer from sleeping automatically when the display is off** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The prevent computer from sleeping checkbox highlighted in MacBook battery settings.](https://www.lifewire.com/thmb/RFati3T9B0Vn3TUJFCgh9KBh2aU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_prevent-macbook-from-sleeping-when-lid-is-closed-5203069-17e72f1f27a841a2b500dee73546c20d.jpg)
 4. Plug your MacBook into power.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Connect your MacBook to an external monitor using an adapter if necessary.
 6. You can now close your MacBook without the external display turning off. Note that the display on the MacBook itself does turn off, just not the external monitor.
@@ -71,7 +71,7 @@ thumbnail: https://www.lifewire.com/thmb/qOnmzUsqLM9HSPhPI2oKnrNPVZg=/400x300/fi
  The most common reason to want to keep a MacBook from sleeping when the lid is closed is if you're going to use it with an external monitor and keyboard. Apple makes that reasonably easy if you follow the instructions provided in the previous section.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can You Keep a MacBook From Sleeping With the Lid Closed Without a Monitor?
@@ -118,19 +118,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-harnessing-online-platforms-beyond-youtube-to-30plus-communities/"><u>[New] 2024 Approved Harnessing Online Platforms Beyond YouTube to 30+ Communities</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-techniques-for-effective-capturing-of-chat-conversations/"><u>[New] 2024 Approved Techniques for Effective Capturing of Chat Conversations</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-crafting-dynamic-collab-videos-with-content-partners-on-youtube/"><u>[New] In 2024, Crafting Dynamic Collab Videos with Content Partners on YouTube</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-how-to-use-a-whiteboard-in-google-meet/"><u>[New] In 2024, How to Use a Whiteboard in Google Meet</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-fine-tuning-dimensions-aspect-ratio-essentials/"><u>2024 Approved Fine-Tuning Dimensions Aspect Ratio Essentials</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-from-your-apple-iphone-se-2022-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID From your Apple iPhone SE (2022) without Security Questions?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/identify-and-retrieve-your-internet-ip-address-for-free-today/"><u>Identify and Retrieve Your Internet IP Address for Free Today!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/identifying-bluetooth-support-on-your-notebook-simple-methods-for-discovery/"><u>Identifying Bluetooth Support on Your Notebook: Simple Methods for Discovery</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-fps-in-pubg-essential-tweaks-and-adjustments-for-nvidia-enthusiasts/"><u>Mastering FPS in PUBG: Essential Tweaks and Adjustments for NVIDIA Enthusiasts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-screen-capture-a-step-by-step-guide-for-windows-10-users/"><u>Mastering Screen Capture: A Step-by-Step Guide for Windows 10 Users</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/maximize-pc-gaming-experience-with-newly-updated-nvidia-gpu-drivers-for-windows-10/"><u>Maximize PC Gaming Experience with Newly Updated Nvidia GPU Drivers for Windows 10</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/overwatch-system-requirements-check-it-out/"><u>Overwatch System Requirements [Check It Out]</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/savvy-soccer-snatching-how-to-record-and-cut-cheap-for-2024/"><u>Savvy Soccer Snatching How to Record and Cut Cheap for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unlocking-studio-secrets-extensive-xvideoreview-for-2024/"><u>Unlocking Studio Secrets Extensive XVideoReview for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-humorhub-generate-awesome-memes/"><u>[New] 2024 Approved HumorHub Generate Awesome Memes</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-elite-performers-top-picks-from-skate-highlights/"><u>[New] Elite Performers Top Picks From Skate Highlights</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-navigating-instagram-copyright/"><u>[Updated] 2024 Approved Navigating Instagram Copyright</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-essential-tips-for-obs-on-android-platforms-for-2024/"><u>[Updated] Essential Tips for OBS on Android Platforms for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-bone-chilling-image-builder/"><u>[Updated] In 2024, Bone-Chilling Image Builder</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1-exclusive-offer-get-your-own-triple-screen-vr-experience-with-discounted-xr-glasses-during-amazon-prime-day-zdnet/"><u>1. Exclusive Offer: Get Your Own Triple-Screen VR Experience with Discounted XR Glasses During Amazon Prime Day (ZDNET)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/experts-reveal-the-major-hurdle-in-virtual-reality-adoption-user-application-practices-zdnet-innovations/"><u>Experts Reveal the Major Hurdle in Virtual Reality Adoption - User Application Practices | ZDNET Innovations</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-devotion-how-an-apple-vision-pro-pitch-revealed-deep-emotions-according-to-a-zdnet-article-love-and-technology-collide/"><u>Exploring Devotion: How an Apple Vision Pro Pitch Revealed Deep Emotions, According to a ZDNet Article | Love & Technology Collide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Meizu 21 Pro? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-review-the-compelling-world-of-campfire-tales-minecraft-packs/"><u>In-Depth Review: The Compelling World of Campfire Tales Minecraft Packs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/inside-information-on-apples-imminent-vrar-device-launch-what-you-need-to-know-now/"><u>Inside Information on Apple's Imminent VR/AR Device Launch – What You Need to Know Now</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/prevent-loss-of-vr-assets-as-meta-commences-oculus-account-purges-a-complete-guide-to-secure-yours-now-zdnet/"><u>Prevent Loss of VR Assets as Meta Commences Oculus Account Purges - A Complete Guide to Secure Yours Now | ZDNET</u></a></li>
+<li><a href="https://fox-access.techidaily.com/reflect-your-vision-affordable-personalization-of-professional-logo-designs-free-for-2024/"><u>Reflect Your Vision Affordable Personalization of Professional Logo Designs (Free) for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-7-insights-on-users-comeback-to-the-apple-vision-pro-the-reddit-take-zdnet/"><u>Top 7 Insights on Users' Comeback to the Apple Vision Pro - The Reddit Take | ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-ranked-augmented-reality-eyewear-featured-on-zdnet/"><u>Top-Ranked Augmented Reality Eyewear - Featured on ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unleashing-the-power-of-5g-discovering-an-innovative-application-surpassing-traditional-connectivity-techworld-insights/"><u>Unleashing the Power of 5G: Discovering an Innovative Application Surpassing Traditional Connectivity | TechWorld Insights</u></a></li>
 </ul></div>
 

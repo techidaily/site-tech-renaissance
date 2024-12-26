@@ -1,7 +1,7 @@
 ---
 title: "Section 3B: Five Facts to Remember"
-date: 2024-12-12T16:01:36.690Z
-updated: 2024-12-17T16:00:09.897Z
+date: 2024-12-24T06:30:37.690Z
+updated: 2024-12-26T05:09:56.660Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ Whatever the form, mobile spyware may steal your information, track your locatio
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is spyware?
@@ -103,12 +103,16 @@ Previously, [Google removed malicious apps](https://www.zdnet.com/article/androi
 
 Unfortunately, there's little that the average user can do if an app is updated with data stealing and other malicious functions. However, if you recently downloaded a mobile app and now your phone is displaying odd behavior, consider removing them and running a malware scan.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What other signs might I see on Android and iOS devices?
 
 Surveillance software is becoming more sophisticated and can be difficult to detect. However, not all forms of spyware and stalkerware are invisible, and it is possible, in many cases, to find out if you are being monitored.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Android
@@ -121,15 +125,15 @@ This setting is found in most modern Android builds in **Settings** \> **Securit
 
 Some forms of spyware will also use generic names and icons to avoid detection. For example, they may appear to be useful utility apps such as calendars, calculators, utilities, or currency converters. If a process or app comes up on the app list that you are not familiar with, a quick search online may help you find out whether it is legitimate.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### iOS
 
 iOS devices that aren't jailbroken are generally harder to install malware on than Android handsets unless a spyware developer is exploiting for a zero-day or unpatched vulnerability. However, the same principles apply: with the right tool, exploit, or software, your device could be compromised either with physical access or remotely. You may be more susceptible to infection if you have not updated your iPhone's firmware to the latest version and you do not run frequent antivirus scans.
 
 Both iOS and Android phones, however, will typically show some sign of a malware infection.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How can I remove spyware from my device?
 
@@ -168,10 +172,6 @@ Government-grade spyware can be more difficult to detect. However, as noted in a
 * **Use a** [**trusted, paid VPN service**](https://www.zdnet.com/article/best-vpn/) **and install an app that warns when your device has been jailbroken. Some AV apps will also** perform this check.
 * **GrapheneOS**: It is also recommended that individuals who suspect a Pegasus infection make use of a secondary device, preferably running the Android-based [GrapheneOS](https://grapheneos.org/), for secure communication.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How do I keep spyware and stalkerware off my device in the first place?
 
 Unfortunately, no mobile device is completely protected against the scourge of spyware. However, we have provided some tips below to mitigate the risk of future infections:
@@ -186,10 +186,6 @@ Unfortunately, no mobile device is completely protected against the scourge of s
 * **Do not jailbreak your device**: Jailbreaking not only voids your warranty but can also allow malicious apps and software to have a deep foothold in your operating system, which may make removal extremely difficult or impossible.
 * **Enable multi-factor authentication (MFA):** When account activity and logins require further consent from a mobile device, this can also help protect individual accounts. (However, spyware may intercept the codes sent during [2FA](https://www.zdnet.com/article/better-than-the-best-password-how-to-use-2fa-to-improve-your-security/) protocols.)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What are Google and Apple doing to protect Android and iOS devices?
 
 Google and Apple are generally quick to tackle malicious apps that manage to avoid the privacy and security protections imposed in their respective official app stores. 
@@ -203,6 +199,10 @@ Since then, Google has banned stalkerware ads, and the firm's [Threat Analysis G
 Apple has [cracked down](https://www.zdnet.com/article/apple-refutes-anti-competitive-parent-control-app-claims-says-removal-was-for-security-user-privacy/) on parental control apps, citing privacy-invading functions as the reason for removal. The company offers its own parental device control service called [Screen Time](https://www.cnet.com/how-to/ios-12-screen-time-and-stronger-parental-controls/) for parents who want to limit their child's device usage. Furthermore, the company does not allow [sideloading](https://www.apple.com/privacy/docs/Building%5Fa%5FTrusted%5FEcosystem%5Ffor%5FMillions%5Fof%5FApps%5FA%5FThreat%5FAnalysis%5Fof%5FSideloading.pdf) \-- that is, the installing of third-party apps from sources other than Apple's App Store, and is quick to remove any iOS apps that display privacy-eroding functionality.
 
 In 2022, Apple revealed the details of a [$10 million grant](https://www.apple.com/uk/newsroom/2022/07/apple-expands-commitment-to-protect-users-from-mercenary-spyware/) to research ways to combat state-sponsored spyware. Recently, the company [issued an alert](https://www.forbes.com/sites/kateoflahertyuk/2024/04/12/apple-issues-new-spyware-attack-warning-to-iphone-users/) to iPhone users in 92 countries, warning them of remote, targeted attacks launched by spyware operators. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are parental control apps spyware?
 
@@ -251,14 +251,17 @@ However, they are limited in scope and you may not be able to use them once a ch
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-an-experts-guide-to-accumulating-mass-tiktok-videos-effortlessly/"><u>[Updated] 2024 Approved An Expert's Guide to Accumulating Mass TikTok Videos Effortlessly</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-the-seventh-line-up-of-all-weather-action-cams-for-2024/"><u>[Updated] The Seventh Line-Up of All-Weather Action Cams for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Honor Magic V2 | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amazon-now-offering-top-ranked-laptops-at-a-steep-discount-before-prime-day-shop-the-deal/"><u>Amazon Now Offering Top-Ranked Laptops at a Steep Discount Before Prime Day - Shop the Deal!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/optimal-frequency-when-is-it-time-to-upgrade-your-mobile-device/"><u>Optimal Frequency: When Is It Time to Upgrade Your Mobile Device?</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721474268860-safari-image-woes-beat-the-glitch-discover-9-reliable-strategies-for-iphone-users/"><u>Safari Image Woes? Beat the Glitch: Discover 9 Reliable Strategies for iPhone Users.</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-process-of-requesting-a-steam-game-refund-online/"><u>Step-by-Step Process of Requesting a Steam Game Refund Online</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-step-by-step-process-for-performing-a-factory-restore-on-your-lenovo-notebook/"><u>Ultimate Guide: Step-by-Step Process for Performing a Factory Restore on Your Lenovo Notebook</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-best-of-offroad-racing-your-guide-to-5-free-titles/"><u>Unveiling the Best of Offroad Racing: Your Guide to 5 Free Titles</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-free-ways-to-liven-up-static-video-texts-for-2024/"><u>[Updated] FREE Ways to Liven Up Static Video Texts for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/change-your-windows-11-taskbar-shade-a-complete-how-to-guide/"><u>Change Your Windows 11 Taskbar Shade - A Complete How-To Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-walkthrough-how-to-take-quick-shots-on-an-hp-desktoplaptop/"><u>Complete Walkthrough: How to Take Quick Shots on an HP Desktop/Laptop</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-solutions-for-when-your-computer-says-wmvcoredll-is-missing/"><u>Easy Solutions for when Your Computer Says wmvcore.dll Is Missing</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/effortless-techniques-to-edit-multisnapping-videos-for-2024/"><u>Effortless Techniques to Edit Multisnapping Videos for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-add-music-to-instagram-video/"><u>How to Add Music to Instagram Video</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-enhance-your-outdoor-adventures-with-google-maps-live-view-functionality/"><u>How to Enhance Your Outdoor Adventures with Google Maps Live View Functionality</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-interpret-your-laptopamoor-power-statistics-on-windows-10-insights-and-advice/"><u>How to Interpret Your Laptop'amoor Power Statistics on Windows 10: Insights & Advice</u></a></li>
+<li><a href="https://win-answers.techidaily.com/maplestory-troubleshooting-solve-your-windows-11-crash-issues-with-these-expert-strategies/"><u>MapleStory Troubleshooting: Solve Your Windows 11 Crash Issues with These Expert Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simple-way-to-construct-a-windows-speech-recognition-app-using-autohotkey/"><u>Simple Way to Construct a Window's Speech Recognition App Using AutoHotkey</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-pinnacle-of-audio-our-list-of-excellent-wired-earbuds/"><u>The Pinnacle of Audio: Our List of Excellent Wired Earbuds</u></a></li>
 </ul></div>
 

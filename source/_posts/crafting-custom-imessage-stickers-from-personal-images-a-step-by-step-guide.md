@@ -1,7 +1,7 @@
 ---
 title: "Crafting Custom iMessage Stickers From Personal Images: A Step-by-Step Guide"
-date: 2024-12-15T16:01:11.952Z
-updated: 2024-12-17T16:04:07.016Z
+date: 2024-12-18T16:23:48.859Z
+updated: 2024-12-26T05:45:38.763Z
 tags:
   - apple
 categories:
@@ -44,10 +44,6 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 
 ## How to send and receive iMessages on Windows
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Use Microsoft Phone Link
 
 Before you can use Phone Link, you'll have to take care of a few items on your phone and your PC.
@@ -59,6 +55,10 @@ Microsoft added iPhone support to Phone Link in Windows 11 in early 2023\. To ma
 Next, confirm that you're running the latest version of Phone Link. To do this, open the Microsoft Store app from the Start menu and click the Library icon. Click the Get Updates button and allow all your installed apps to be updated, including Phone Link if necessary.
 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Open Phone Link
 
@@ -76,25 +76,21 @@ You should see pairing prompts on both your iPhone and your Windows 11 computer.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Sync your iPhone data
 
 Your phone should ask if you want your PC to receive notifications from your iPhone. Tap Allow to OK this. Go to the Bluetooth settings screen on your phone, tap the Info icon for your computer, and turn on the switches for Show Notifications, Sync Contacts, and Share System Notifications. Doing so will let you fully access and use the apps and data from your phone on your PC, including messages.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Run Phone Link
 
 The Phone Link welcome screen should appear on your PC and ask if you want to open the app each time you log into Windows. If you do, check the box.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Access your recent messages
 
@@ -109,6 +105,10 @@ You can also start a new conversation. To do this, select one of your displayed 
 Screenshot by Lance Whitney/ZDNET
 
 ## Use Intel Unison
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Install Intel Unison
 
@@ -130,6 +130,10 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Launch the Windows Unison app
 
 At the "Let's get started" screen in the Windows Unison app, click the icon for "Send messages." 
@@ -142,10 +146,6 @@ At the Messages screen, click the icon for "Compose a new message." Choose the r
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Send a message
 
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
@@ -153,7 +153,7 @@ Compose and send your message. Wait for the other person to respond. You can the
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Receive a message
@@ -192,19 +192,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-7-essential-tips-for-flawless-underwater-filming/"><u>[New] 7 Essential Tips for Flawless Underwater Filming</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-a-compreranstive-approach-to-high-fidelity-recording-no-mic-necessary/"><u>[Updated] A Compreranstive Approach to High-Fidelity Recording, No Mic Necessary</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-charting-the-course-to-cash-how-much-does-pewdopeep-make/"><u>[Updated] Charting the Course to Cash How Much Does PewDoPeep Make?</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-mastering-multiplatform-meeting-logistics-on-zoom/"><u>[Updated] In 2024, Mastering Multiplatform Meeting Logistics on Zoom</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-synthesize-vision-constructing-dynamic-photographic-ensembles-for-2024/"><u>[Updated] Synthesize Vision Constructing Dynamic Photographic Ensembles for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-app-aesthetics-with-win11s-automatic-tuning/"><u>Boosting App Aesthetics with Win11's Automatic Tuning</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-line-application-analysis-a-users-perspective/"><u>Comprehensive Line Application Analysis: A User's Perspective</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/dragon-training-watch-the-how-to-train-your-dragon-series-the-complete-sequential-guide/"><u>Dragon Training: Watch the How to Train Your Dragon Series - The Complete Sequential Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/editing-sentiments-a-comprehensive-tutorial-on-revising-instagram-direct-messages/"><u>Editing Sentiments: A Comprehensive Tutorial on Revising Instagram Direct Messages</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/embracing-metaverse-characters-a-guide-to-seamless-avatars/"><u>Embracing Metaverse Characters A Guide to Seamless Avatars</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-note-13-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Xiaomi Redmi Note 13 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-technical-difficulties-playing-resident-evil-5-pc-version-without-errors/"><u>Solving Technical Difficulties: Playing Resident Evil 5 PC Version Without Errors</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-secret-to-tracking-down-missed-connections-from-hidden-contacts-on-your-phone/"><u>The Secret to Tracking Down Missed Connections From Hidden Contacts on Your Phone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-the-not-found-d3dx934dll-issue-on-windows-pcs/"><u>Troubleshooting the 'Not Found' d3dx9_34.dll Issue on Windows PCs</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-masterclass-review-top-tier-professional-cameras-spin-full-circle-2023/"><u>[Updated] In 2024, Masterclass Review Top-Tier Professional Cameras Spin Full Circle - 2023</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-revolutionize-your-videos-top-10-mobile-editing-apps-on-iosandroid/"><u>[Updated] Revolutionize Your Videos Top 10 Mobile Editing Apps on iOS/Android</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-innovative-titling-techniques-to-explore/"><u>2024 Approved Innovative Titling Techniques to Explore</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/7-free-online-fax-services/"><u>7 Free Online Fax Services</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-fix-netflix-error-code-nw-1-19/"><u>How to Fix Netflix Error Code NW-1-19</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/intel-iris-xe-graphics-software-update-for-windows-11-available-now/"><u>Intel Iris Xe Graphics Software Update for Windows 11 Available Now</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movavi-mxf-mkv/"><u>Movavi 提供的 MXF 至 MKV 線上無限制過渡工具 - 自由轉換影片格式</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/snappy-adjustments-the-art-of-perfecting-photos-on-snapchat-for-2024/"><u>Snappy Adjustments The Art of Perfecting Photos on Snapchat for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95816284-9781944529109-telepathy/"><u>Telepathy | Free Book</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210630649-9780760377093-the-tarot-spellbook/"><u>The Tarot Spellbook | Free Book</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshoot-your-iphones-autofocus-problems-with-these-solutions/"><u>Troubleshoot Your iPhone's Autofocus Problems with These Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-malfunctioning-closed-captions-in-amazon-prime-streams/"><u>Troubleshooting Malfunctioning Closed Captions in Amazon Prime Streams</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722884113163-troubleshooting-steps-resolving-your-ipads-wi-fi-connection-issues/"><u>Troubleshooting Steps: Resolving Your iPad's Wi-Fi Connection Issues</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-switching-fonts-on-windows-11-easily/"><u>Ultimate Guide: Switching Fonts on Windows 11 Easily</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-best-tech-secrets-your-guide-to-toms-hardware-wisdom/"><u>Unveiling the Best Tech Secrets - Your Guide to Tom's Hardware Wisdom</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Top Savings on Amazon in August 2024 - Exclusive Offers Featured by ZDNet
-date: 2024-12-13T16:05:09.455Z
-updated: 2024-12-17T16:05:46.690Z
+date: 2024-12-21T00:20:56.446Z
+updated: 2024-12-25T23:16:52.859Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ The shopping giant frequently cuts prices on top tech products all year round, i
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The best Amazon deals of August 2024
@@ -40,6 +40,10 @@ Jason Hiner/ZDNET
 * [Dyson V8 Cordless Plus Vacuum](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDyson-Cordless-Vacuum-Silver-Nickel%2Fdp%2FB0CT9552BL%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB0CT9552BL%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1a99eb49-0f75-4c75-bf0c-b3df2a26f35e%7Cdtp&dtb=1) for $350 (save $120)
 * [Bose SoundLink Flex Speaker](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBose-SoundLink-Bluetooth-Portable-Waterproof%2Fdp%2FB099TJGJ91%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB099TJGJ91%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1a99eb49-0f75-4c75-bf0c-b3df2a26f35e%7Cdtp&dtb=1) for $109 (save $40)
 * [Asus Tuf Gaming A16 2024 Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-TUF-Gaming-Laptop-165Hz%2Fdp%2FB0CRCWY9VT%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB0CRCWY9VT%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1a99eb49-0f75-4c75-bf0c-b3df2a26f35e%7Cdtp&dtb=1) for $1,300 (save $500)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The best Amazon tech deals
 
@@ -66,7 +70,7 @@ Jason Hiner/ZDNET
 * [LG 75-inch QNED80T LED Smart TV](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLG-75-Inch-Processor-AI-Powered-75QNED80TUC%2Fdp%2FB0CVSK2F85%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB0CVSK2F85%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1a99eb49-0f75-4c75-bf0c-b3df2a26f35e%7Cdtp&dtb=1) for $1,197 (save $203)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The best Amazon robot vacuum deals
@@ -80,10 +84,6 @@ Maria Diaz/ZDNET
 * [Eufy L60 Robot Vacuum](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Feufy-Vacuum-Suction-Navigation-Cleaning%2Fdp%2FB0CDB56ZWV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1a99eb49-0f75-4c75-bf0c-b3df2a26f35e%7Cdtp&dtb=1) for $200 (save $80 with on-page coupon)
 * [Roborock S8 Pro Ultra Robot Vacuum and Mop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPro-Ultra-Self-Washing-Self-Refilling-Self-Emptying%2Fdp%2FB0BVB5PTDK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1a99eb49-0f75-4c75-bf0c-b3df2a26f35e%7Cdtp&dtb=1) for $950 (save $650)
 * [Roborock Q8 Max Robot Vacuum and Mop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Froborock-Q8-Max-Navigation-Multi-Level%2Fdp%2FB0C7VFD9Q4%2Fref%3Dsxin%5F15%5Fpa%5Fsp%5Fsearch%5Fthematic%5Fsspa%3Fcontent-id%3Damzn1.sym.60b0c4ef-0fd2-46d0-8724-84b6f746d062%3Aamzn1.sym.60b0c4ef-0fd2-46d0-8724-84b6f746d062%26crid%3D37DMVM6CIU4Y0%26cv%5Fct%5Fcx%3Drobot%2Bvacuum%26dib%3DeyJ2IjoiMSJ9.A4bejnO1HqJM%5FozbrGpsoYI205q99h9DoNEZVmg9dNI-ILQl1J-mSnznl4IKQtzDgOTGYo%5Fa7rpT3PH-A2Mpiw.a4a0hgwCDw4CmRSsqS2wHRhfJu%5FuKKwf5z-r8S-VJok%26dib%5Ftag%3Dse%26keywords%3Drobot%2Bvacuum%26pd%5Frd%5Fi%3DB0C7VFD9Q4%26pd%5Frd%5Fr%3Dc5436de8-abf5-4537-95f0-9cc48163f596%26pd%5Frd%5Fw%3DOlqAp%26pd%5Frd%5Fwg%3DQ2Iuk%26pf%5Frd%5Fp%3D60b0c4ef-0fd2-46d0-8724-84b6f746d062%26pf%5Frd%5Fr%3DAKHVV8K35XC7VV3MS5S3%26qid%3D1723557736%26sbo%3DRZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D%26sprefix%3Drobot%2Bvacuum%2B%2Caps%2C104%26sr%3D1-20-f853d353-bf33-45e7-b5c2-2cb2b31abc9b-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1a99eb49-0f75-4c75-bf0c-b3df2a26f35e%7Cdtp&dtb=1) for $320 (save $280)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The best Amazon home deals
 
@@ -100,10 +100,6 @@ Maria Diaz/ZDNET
 
 ##   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How did we choose these Amazon deals?
 
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
@@ -111,12 +107,16 @@ ZDNET only writes about deals we want to buy -- devices and products we desire, 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will these deals expire?
 
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on a deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How much is an Amazon Prime membership?
 
@@ -166,19 +166,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-frame-loss-enigma-why-are-videos-cropped-by-imovie/"><u>[Updated] In 2024, Frame Loss Enigma Why Are Videos Cropped by iMovie?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-seamless-photo-transformations-with-adobe-photoshops-background-erase-technique/"><u>[Updated] Seamless Photo Transformations with Adobe Photoshop's Background Erase Technique</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-win11-elite-screen-recording-software/"><u>[Updated] Win11 Elite Screen Recording Software</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722989997474-alien-fireteam-elite-ultimate-solution-for-persistent-pc-game-crashes/"><u>Alien Fireteam Elite - Ultimate Solution for Persistent PC Game Crashes!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/audio-equipment-assessment-5-key-points-to-note/"><u>Audio Equipment Assessment: 5 Key Points to Note</u></a></li>
-<li><a href="https://win-blog.techidaily.com/exploring-call-of-duty-how-modern-warfare-revolutionizes-the-fps-genre/"><u>Exploring Call of Duty: How Modern Warfare Revolutionizes the FPS Genre</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-apple-iphone-14-plus-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for Apple iPhone 14 Plus With 7 Methods</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/perfect-your-iphone-photo-craftsmanship-with-top-10-design-tips-for-2024/"><u>Perfect Your iPhone Photo Craftsmanship with Top 10 Design Tips for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/the-ultimate-list-of-top-rated-free-video-editors-without-a-watermark-discover-your-perfect-match/"><u>The Ultimate List of Top-Rated Free Video Editors Without a Watermark – Discover Your Perfect Match!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/trouble-with-your-logitech-clicker-heres-how-you-can-make-it-work-again/"><u>Trouble with Your Logitech Clicker? Here's How You Can Make It Work Again!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-grayed-sync-functions-on-windows-11-a-step-by-step-guide/"><u>Troubleshooting Grayed Sync Functions on Windows 11 – A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-resolving-camera-error-0xa00f4244-in-windows-11-operating-system/"><u>Troubleshooting Guide: Resolving Camera Error 0Xa00f4244 in Windows 11 Operating System</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-adjusting-your-screen-resolution-and-orientation-in-windows-10/"><u>Ultimate Guide: Adjusting Your Screen Resolution and Orientation in Windows 10</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-efficiently-erase-your-google-activity-without-hitches/"><u>Ultimate Guide: Efficiently Erase Your Google Activity Without Hitches</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-plotting-powerful-promotional-portraits/"><u>[New] 2024 Approved Plotting Powerful Promotional Portraits</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-windows-movie-maker-the-ultimate-guide-to-youtube-video-production/"><u>[Updated] Windows Movie Maker The Ultimate Guide to YouTube Video Production</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exclusive-deal-jackery-explorer-1000-portable-solar-generator-huge-discount-of-250-on-black-friday-202n-sale-alert/"><u>Exclusive Deal: Jackery Explorer 1000 Portable Solar Generator - Huge Discount of $250 on Black Friday 202N, Sale Alert!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exclusive-offer-save-50-off-top-rated-weber-electric-grill-available-now-at-zdnet/"><u>Exclusive Offer - Save $50 Off Top-Rated Weber Electric Grill Available Now at ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-spookiest-zdnets-pick-for-best-animatronics-of-halloween-2022/"><u>Exploring the Spookiest: ZDNet's Pick for Best Animatronics of Halloween 2022</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/facial-recognition-tech-takes-over-a-firsthand-review-of-a-game-changing-smart-lock-that-outshines-old-security-systems-zdnet/"><u>Facial Recognition Tech Takes Over: A Firsthand Review of a Game-Changing Smart Lock That Outshines Old Security Systems | ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/get-the-ideal-home-defense-the-arlo-pro-5s-at-a-steep-discount-now-just-180-zdnet/"><u>Get the Ideal Home Defense: The Arlo Pro 5S at a Steep Discount, Now Just $180! | ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/introducing-the-tronsmart-force-x-a-dual-purpose-marvel-with-superior-audio-and-portable-charging-for-outdoors-enthusiasts/"><u>Introducing the Tronsmart Force X: A Dual-Purpose Marvel with Superior Audio & Portable Charging for Outdoors Enthusiasts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/labor-day-savings-unbeatable-bargain-on-blink-mini-2-top-pick-for-home-security-systems/"><u>Labor Day Savings: Unbeatable Bargain on Blink Mini 2 - Top Pick for Home Security Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/leading-seed-supply-companies-ranked-find-the-best-options-today/"><u>Leading Seed Supply Companies Ranked: Find the Best Options Today!</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-top-mac-video-editors-similar-to-vsdc/"><u>New Top Mac Video Editors Similar to VSDC</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/perfect-stitching-of-gopro-videos-into-complete-360-imagery-for-2024/"><u>Perfect Stitching of GoPro Videos Into Complete 360 Imagery for 2024</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/simple-methods-for-moving-your-tunes-from-iphone-to-itunes/"><u>Simple Methods for Moving Your Tunes From iPhone to iTunes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transform-your-edits-with-smart-use-of-luts-in-premiere-pro-for-2024/"><u>Transform Your Edits with Smart Use of LUTs in Premiere Pro for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transforming-ui-interactions-the-rise-of-generative-ai-and-the-end-of-traditional-cursor-controls-insights-from-zdnet/"><u>Transforming UI Interactions: The Rise of Generative AI and the End of Traditional Cursor Controls - Insights From ZDNet</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-step-into-virtual-reality-top-converters-for-seamless-video-conversion-for-2024/"><u>Updated Step Into Virtual Reality Top Converters for Seamless Video Conversion for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/we-cant-sign-into-your-account-in-windows-11-solved/"><u>We Can't Sign Into Your Account in Windows 11 [Solved]</u></a></li>
 </ul></div>
 

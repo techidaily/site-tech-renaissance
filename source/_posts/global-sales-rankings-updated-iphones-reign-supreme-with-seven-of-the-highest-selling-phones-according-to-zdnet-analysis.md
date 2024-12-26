@@ -1,7 +1,7 @@
 ---
 title: "Global Sales Rankings Updated: IPhones Reign Supreme with Seven of the Highest Selling Phones, According to ZDNet Analysis"
-date: 2024-12-16T16:04:38.735Z
-updated: 2024-12-17T16:01:32.031Z
+date: 2024-12-21T23:29:07.423Z
+updated: 2024-12-25T19:42:55.041Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,16 +109,24 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-virtual-playstation-experience-at-your-fingertips-top-5/"><u>[New] 2024 Approved Virtual PlayStation Experience at Your Fingertips (Top 5)</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-cherished-holiday-hits-our-top-10-family-friendly-films/"><u>[New] Cherished Holiday Hits Our Top 10 Family-Friendly Films</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-streamlining-your-iphones-album-organization-and-icloud-connection-for-2024/"><u>[Updated] Streamlining Your iPhone's Album Organization and iCloud Connection for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/st-intro-maker-apps-for-iphone-and-android-for-2024/"><u>10 Best Intro Maker Apps for iPhone and Android for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/a-guide-to-navigating-atandt-wireless-roaming-charges-and-policies/"><u>A Guide to Navigating AT&T Wireless Roaming Charges & Policies</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-oppo-reno-11f-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Oppo Reno 11F 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/audacity-lame-dll-crashes-easy-fixes-and-workarounds-you-cant-miss/"><u>Audacity Lame DLL Crashes: Easy Fixes and Workarounds You Can't Miss!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/parental-supervision-in-the-digital-age-how-google-family-link-can-help-safeguard-your-childs-online-experience/"><u>Parental Supervision in the Digital Age: How Google Family Link Can Help Safeguard Your Child's Online Experience</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-wireless-connection-problems-for-the-surface-pro-user/"><u>Resolving Wireless Connection Problems for the Surface Pro User</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-booking-your-visit-at-the-apple-store/"><u>Step-by-Step Guide: Booking Your Visit at the Apple Store</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-brain-of-your-device-examining-android-system-intellect/"><u>The Brain of Your Device: Examining Android System Intellect</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-effortless-win-11-screen-captures-here/"><u>[New] 2024 Approved Effortless Win 11 Screen Captures Here</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-discover-the-best-phone-apps-to-improve-vocality/"><u>[New] In 2024, Discover the Best Phone Apps to Improve Vocality</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-smooth-and-simple-guide-to-iphone-screensaving-process/"><u>[New] Smooth & Simple Guide to Iphone Screensaving Process</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/1-effettuata-la-riparazione-guida-gratuita-per-sistemare-i-file-video-mp4-danneggiati-su-computer-windows-o-mac/"><u>1. Effettuata La Riparazione: Guida Gratuita per Sistemare I File Video MP4 Danneggiati Su Computer Windows O Mac</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ai-innovations-in-meta-quest-3-surpass-apple-vision-pro-step-by-step-enablement-guide-exclusive-feature-at-zdnet/"><u>AI Innovations in Meta Quest 3 Surpass Apple Vision Pro - Step-by-Step Enablement Guide | Exclusive Feature at ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ar-vs-vr-vs-mr-vs-xr-whats-the-difference/"><u>AR Vs. VR Vs. MR Vs. XR: What's the Difference?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dealing-with-an-unresponsive-iphone-touchscreen-effective-solutions-explored/"><u>Dealing with an Unresponsive iPhone Touchscreen: Effective Solutions Explored</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/demystifying-the-concept-of-an-open-internet/"><u>Demystifying the Concept of an Open Internet</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-itel-p55-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Itel P55 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-vivo-x-fold-2-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-kids-earning-big-the-success-story-of-young-ryan-kaji/"><u>In 2024, Kids Earning Big The Success Story of Young Ryan Kaji</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/maximizing-your-experience-ultimate-guide-to-enhancing-apple-tv/"><u>Maximizing Your Experience: Ultimate Guide to Enhancing Apple TV</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/secrets-to-successfully-purchasing-iphoneipad-ebooks-with-apple-books-application/"><u>Secrets to Successfully Purchasing iPhone/iPad eBooks with Apple Books Application</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/setting-up-fubotv-streaming-on-your-amazon-firestick-a-step-by-step-guide/"><u>Setting Up FuboTV Streaming on Your Amazon Firestick: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-disappearing-act-of-fbs-dark-mode-quick-troubleshooting-tips/"><u>Solving the Disappearing Act of FB's Dark Mode - Quick Troubleshooting Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-correcting-the-absence-of-x3daudiodll-on-your-pc/"><u>Step-by-Step Guide: Correcting the Absence of X3DAudio.dll on Your PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/t-mobiles-unlimited-data-plan-and-comprehensive-roaming-agreement-with-metropcs/"><u>T-Mobile's Unlimited Data Plan and Comprehensive Roaming Agreement with MetroPCS</u></a></li>
+<li><a href="https://win-unique.techidaily.com/ultimate-how-to-manual-for-setting-up-automatic-data-recovery-in-windows-n-like-time-machine-for-mac/"><u>Ultimate How-To Manual for Setting Up Automatic Data Recovery in Windows N Like Time Machine for Mac</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-sonys-future-exclusive-updates-from-the-202n4-state-of-play-event/"><u>Unveiling Sony's Future: Exclusive Updates From the 202N4 State of Play Event</u></a></li>
 </ul></div>
 

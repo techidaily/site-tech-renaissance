@@ -1,7 +1,7 @@
 ---
 title: "Mastering Messaging: Setting Up Slack Push Notifications for iPhone Series | Expert Tips From ZDNet"
-date: 2024-12-14T16:01:44.221Z
-updated: 2024-12-17T16:04:28.028Z
+date: 2024-12-20T05:26:10.838Z
+updated: 2024-12-25T19:32:50.049Z
 tags:
   - apple
 categories:
@@ -44,10 +44,6 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 
 ## How to send and receive iMessages on Windows
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Use Microsoft Phone Link
 
 Before you can use Phone Link, you'll have to take care of a few items on your phone and your PC.
@@ -59,10 +55,6 @@ Microsoft added iPhone support to Phone Link in Windows 11 in early 2023\. To ma
 Next, confirm that you're running the latest version of Phone Link. To do this, open the Microsoft Store app from the Start menu and click the Library icon. Click the Get Updates button and allow all your installed apps to be updated, including Phone Link if necessary.
 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Open Phone Link
 
@@ -79,6 +71,10 @@ At the screen to pair your devices, tap "Link to Windows" to download and instal
 You should see pairing prompts on both your iPhone and your Windows 11 computer. Select the Pair button on both devices and wait for the two to pair.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Sync your iPhone data
 
@@ -98,6 +94,10 @@ To access your iPhone's text messages in Phone Link, tap the Messages heading at
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Start a new chat
 
 You can also start a new conversation. To do this, select one of your displayed contacts and then compose and send your text. To chat with someone else, click the New Message icon and type the name or phone number of the recipient. Compose and send your message.
@@ -107,7 +107,7 @@ Screenshot by Lance Whitney/ZDNET
 ## Use Intel Unison
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Install Intel Unison
@@ -130,6 +130,10 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Launch the Windows Unison app
 
 At the "Let's get started" screen in the Windows Unison app, click the icon for "Send messages." 
@@ -137,7 +141,7 @@ At the "Let's get started" screen in the Windows Unison app, click the icon for 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  4\. Go to the Messages screen
@@ -151,10 +155,6 @@ Screenshot by Lance Whitney/ZDNET
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -192,20 +192,17 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-8-mistakes-to-avoid-as-a-new-youtuber/"><u>[New] In 2024, 8 Mistakes to Avoid as a New Youtuber</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-ultimate-chromebook-snapshot-tool/"><u>[New] Ultimate Chromebook Snapshot Tool</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-brief-vignettes-facebooks-fast-lane/"><u>2024 Approved Brief Vignettes Facebook’s Fast Lane</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effective-solutions-to-correct-the-missing-dnssddll-error/"><u>Effective Solutions to Correct the Missing dnssd.dll Error</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-solving-no-wi-fi-signal-for-surface-pro-users/"><u>Guide: Solving No Wi-Fi Signal for Surface Pro Users</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-update-your-usb-30-network-adapter-drivers-in-windows/"><u>How to Update Your USB 3.0 Network Adapter Drivers in Windows</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-vivo-t2-pro-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Vivo T2 Pro 5G</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigating-your-options-a-comprehensive-look-at-9-key-considerations-when-investing-in-a-dash-cam/"><u>Navigating Your Options: A Comprehensive Look at 9 Key Considerations When Investing in a Dash Cam</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-gopro-quik-for-pc-a-comprehensive-review-and-alternatives/"><u>New 2024 Approved GoPro Quik for PC A Comprehensive Review and Alternatives</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/pixel-10-preview-inside-scoop-on-rumored-pricing-specs-and-the-exciting-future-of-google-phones/"><u>Pixel 10 Preview - Inside Scoop on Rumored Pricing, Specs and the Exciting Future of Google Phones</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/prevent-macbook-sleep-on-lid-close-a-guide-to-continuous-use/"><u>Prevent MacBook Sleep on Lid Close: A Guide to Continuous Use</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/proven-youtube-seo-tricks-boosting-video-reach-and-visibility/"><u>Proven YouTube SEO Tricks Boosting Video Reach and Visibility</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/simple-steps-for-integrating-your-airpods-into-macos-systems/"><u>Simple Steps for Integrating Your AirPods Into macOS Systems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solution-how-to-address-and-repair-missing-d3dx924dll-issue/"><u>Step-by-Step Solution: How to Address and Repair Missing D3DX9_24.dll Issue</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-how-to-fix-plugins-not-working-in-final-cut-pro-x-in-2024/"><u>Updated How to Fix Plugins Not Working in Final Cut Pro X, In 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-irresistible-article-announcer/"><u>[Updated] Irresistible Article Announcer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/addressing-and-resolving-the-offline-message-on-your-amazon-echo-unit/"><u>Addressing and Resolving the 'Offline' Message on Your Amazon Echo Unit</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-ios-chatgpt-mobile-application-unlocking-ai-conversations-on-your-phone/"><u>Discover the iOS ChatGPT Mobile Application: Unlocking AI Conversations on Your Phone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722887340633-discover-the-leading-substitutes-for-gmail-top-8-picks-revealed/"><u>Discover the Leading Substitutes for Gmail - Top 8 Picks Revealed!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-fix-chatgpts-error-in-moderation/"><u>How to Fix ChatGPT's ‘Error in Moderation’</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-14-pro-max-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 14 Pro Max without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-skyline-scanning-smartphone-panorama-techniques/"><u>In 2024, Skyline Scanning Smartphone Panorama Techniques</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/optimal-video-kick-offs-selecting-the-top-16-for-more-viewers-for-2024/"><u>Optimal Video Kick-Offs Selecting the Top 16 for More Viewers for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-compreenas-guide-to-seamless-time-marking-in-youtube-videos-desktopmobile-for-2024/"><u>The Compreenas Guide to Seamless Time Marking in YouTube Videos (Desktop/Mobile) for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-showdown-how-do-macs-and-pcs-compare/"><u>The Ultimate Showdown: How Do Macs and PCs Compare?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-is-the-current-roblox-downtime-affecting-everyone-or-just-you/"><u>Troubleshooting Tips: Is the Current Roblox Downtime Affecting Everyone or Just You?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/viewing-high-efficiency-video-coding-files-on-windows-11-a-step-by-step-tutorial/"><u>Viewing High-Efficiency Video Coding Files on Windows 11: A Step-by-Step Tutorial</u></a></li>
 </ul></div>
 

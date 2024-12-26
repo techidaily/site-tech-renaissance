@@ -1,7 +1,7 @@
 ---
 title: "Customizing the Control Center on iOS 18: A Step-by-Step Guide"
-date: 2024-12-12T16:00:26.722Z
-updated: 2024-12-17T16:00:41.603Z
+date: 2024-12-19T22:55:06.272Z
+updated: 2024-12-26T01:17:28.263Z
 tags:
   - apple
 categories:
@@ -28,11 +28,11 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-## How to customize your iPhone's new Control Center with iOS 18
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## How to customize your iPhone's new Control Center with iOS 18
 
 ## 1\. Access Control Center
 
@@ -48,10 +48,6 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
@@ -59,7 +55,7 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -67,6 +63,10 @@ Screenshot by Lance Whitney/ZDNET
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -77,7 +77,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -87,7 +87,7 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -126,18 +126,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-discovering-the-secret-to-engaging-content-with-aspect-ratios-in-youtube/"><u>[New] 2024 Approved Discovering the Secret to Engaging Content with ASPECT RATIOS in YOUTUBE</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/connecting-a-television-to-a-samsung-sound-bar-step-by-step-instructions/"><u>Connecting a Television to a Samsung Sound Bar: Step-By-Step Instructions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/effective-strategies-to-correct-x3daudiodll-disappeared-or-undetected-errors/"><u>Effective Strategies to Correct 'x3daudio.dll' Disappeared or Undetected Errors</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-for-resolving-driverpowerstatefailure-in-windows-systems/"><u>Expert Advice for Resolving DRIVER_POWER_STATE_FAILURE in Windows Systems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fixing-dll-not-found-issues-with-comctl32dll-on-windows-computers/"><u>Fixing 'DLL Not Found' Issues with Comctl32.dll on Windows Computers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-effortlessly-take-screenshots-on-your-playstation/"><u>How to Effortlessly Take Screenshots on Your PlayStation 지킬</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-google-home-a-step-by-step-guide-for-desktop-usage/"><u>Mastering Google Home: A Step-by-Step Guide for Desktop Usage</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-quick-access-uwp-apps-shortcuts-on-windows-11/"><u>Mastering Quick Access: UWP Apps Shortcuts on Windows 11</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/138627456-9781401922559-mother-god/"><u>Mother God | Free Book</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-tv-programs-streaming-on-discoveryplus-this-july-must-watch-selection/"><u>Top TV Programs Streaming on Discovery+ This July: Must-Watch Selection</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-iphone-se-cases-of-2022-ultimate-safety-and-style-options-reviewed-by-tech-experts-at-zdnet/"><u>Top-Rated iPhone SE Cases of 2022: Ultimate Safety & Style Options Reviewed by Tech Experts at ZDNet</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/transform-standard-pixels-into-stunning-4k-8k-or-10k-quality-using-winxvideos-smart-ai-technology/"><u>Transform Standard Pixels Into Stunning 4K, 8K or 10K Quality Using Winxvideo's Smart AI Technology</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-for-reducing-computer-fan-sounds-and-vibrations/"><u>Troubleshooting Steps for Reducing Computer Fan Sounds and Vibrations</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-itops-expert-selection-best-windows-screencasters/"><u>[New] 2024 Approved ITop's Expert Selection Best Windows Screencasters</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-leading-speedy-visualizer-in-windows/"><u>[Updated] 2024 Approved Leading Speedy Visualizer in Windows</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-assessing-max-360-and-hero-11-the-ultimate-gopro-video-experience/"><u>[Updated] Assessing Max 360 & Hero 11 The Ultimate GoPro Video Experience</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-turn-the-virtual-keys-visible-or-hidden-in-windows-10-interface/"><u>How to Turn the Virtual Keys Visible or Hidden in Windows 10 Interface</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-best-meme-generator-app-downlaod/"><u>In 2024, Best Meme Generator App Downlaod</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Motorola G24 Power? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/innovative-approach-preparing-for-successful-interviews-using-chatgpt/"><u>Innovative Approach: Preparing for Successful Interviews Using ChatGPT</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-missing-dll-files-fixes-for-the-normalizdll-problem/"><u>Overcoming Missing DLL Files: Fixes for the Normaliz.dll Problem</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/playstation-5-slim-guide-release-schedule-price-points-and-specs-breakdown/"><u>PlayStation 5 Slim Guide: Release Schedule, Price Points, and Specs Breakdown</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/premier-virtual-gathering-and-video-conferencing-systems/"><u>Premier Virtual Gathering and Video Conferencing Systems</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/reimagining-commerce-through-immersive-technology-for-2024/"><u>Reimagining Commerce Through Immersive Technology for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/visual-vault-safeguarding-the-artistry-of-twitters-gifs/"><u>Visual Vault - Safeguarding the Artistry of Twitter's GIFs</u></a></li>
 </ul></div>
 

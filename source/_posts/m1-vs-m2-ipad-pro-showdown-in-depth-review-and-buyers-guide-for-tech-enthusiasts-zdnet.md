@@ -1,7 +1,7 @@
 ---
 title: "M1 Vs. M2 iPad Pro Showdown: In-Depth Review & Buyer's Guide for Tech Enthusiasts | ZDNET"
-date: 2024-12-16T16:00:08.204Z
-updated: 2024-12-17T16:00:43.167Z
+date: 2024-12-24T20:04:54.783Z
+updated: 2024-12-25T23:21:13.740Z
 tags:
   - apple
 categories:
@@ -45,6 +45,10 @@ Months of testing have proved that Apple's standard [iPhone 15 and iPhone 15 Plu
 
 If you don't see yourself shooting videos in ProRAW, requiring the extra Action button, or drooling over the 5X zoom camera on the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-15-pro-review/), you'll be plenty comfortable with the $799 iPhone 15 and $899 iPhone 15 Plus. Between the two, buy the former if you want one of the most compact (yet capable) handsets on the market, and buy the latter if you want a more affordable big-screen iPhone and the best battery life of all the models in the latest lineup.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Specifications
 
 | iPhone 15    | iPhone 15 Plus                                    |                                                   |
@@ -61,7 +65,7 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How I tested the iPhone 15 and iPhone 15 Plus
@@ -71,7 +75,7 @@ Whenever I review [the latest iPhones](https://www.zdnet.com/article/best-iphone
 The difference between the two latest iPhone handsets mainly boils down to display size and battery life; unlike the Pro models, there's no camera hardware discrepancy, which means the general user experience of the two is pleasantly similar. That made my life as a phone reviewer a little easier -- and makes the list below all the more applicable to both iPhone models.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the iPhone 15's best features?
@@ -129,7 +133,7 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should I upgrade from my older iPhone?
@@ -146,10 +150,6 @@ It's true that [consumers are now upgrading their smartphones at a slower rate](
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What I'd like to see in the next model
 
 Kerry Wan/ZDNET
@@ -163,7 +163,7 @@ Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don'
 **An Action button:** Given how many iPhone 14 Pro features Apple carried over to the iPhone 15, I have my fingers crossed that Apple will replace the alert slider with the Action button this year. Over the course of testing the latest iPhones, I've used the alert slider less than a dozen times. An Action button would give the iPhone much more functionality.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Final thought
@@ -204,24 +204,22 @@ It's easy to call the standard iPhone model the "Best iPhone for most people." T
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/fixed-arch-bluetooth-mouse-not-working-after-windows-11-creators-update/"><u>[FIXED] Arch Bluetooth Mouse Not Working After Windows 11 Creators Update</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-the-essential-playbook-youtubes-seo-keywords-guide/"><u>[New] 2024 Approved The Essential Playbook YouTube's SEO Keywords Guide</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-discover-how-to-fine-tune-game-audio-on-ps-console/"><u>[New] In 2024, Discover How to Fine-Tune Game Audio on PS Console</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-depth-look-techniques-for-screen-capturing-on-android/"><u>[New] In-Depth Look Techniques for Screen Capturing on Android</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-unlock-the-art-of-snapchat-pins/"><u>[Updated] Unlock the Art of Snapchat Pins</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/android-tips-unlock-the-potential-of-picture-in-picture-on-your-smartphone/"><u>Android Tips: Unlock the Potential of Picture-in-Picture on Your Smartphone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/beyond-zero-emissions-investigating-the-eco-friendly-facts-about-electric-cars/"><u>Beyond Zero Emissions: Investigating the Eco-Friendly Facts About Electric Cars</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/can-you-authentically-hear-the-depth-of-dolby-atmos-audio/"><u>Can You Authentically Hear the Depth of Dolby Atmos Audio?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-our-top-picks-for-free-typing-instruction-suitable-for-all-ages/"><u>Discover Our Top Picks for Free Typing Instruction - Suitable for All Ages!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/effective-strategies-to-remove-recommended-for-you-section-on-instagram/"><u>Effective Strategies to Remove 'Recommended For You' Section on Instagram</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-computer-hardware-with-tom-a-comprehensive-resource/"><u>Expert Insights on Computer Hardware with Tom - A Comprehensive Resource</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-address-error-code-0xc0000001-in-windows/"><u>How To Address Error Code 0XC0000001 in Windows</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-collection-top-notch-free-meme-designs/"><u>In 2024, Ultimate Collection Top-Notch FREE Meme Designs</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96418282-9780486123394-nostradamus-and-his-prophecies/"><u>Nostradamus and His Prophecies | Free Book</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/sharing-music-magic-a-guide-on-playing-spotify-with-your-crew/"><u>Sharing Music Magic: A Guide on Playing Spotify with Your Crew</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/the-ultimate-guide-to-accessing-and-enjoying-your-kindle-library-on-a-windows-or-mac-pc/"><u>The Ultimate Guide to Accessing and Enjoying Your Kindle Library on a Windows or Mac PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/tidals-top-strategies-for-scoring-an-educational-concert-perk/"><u>Tidal's Top Strategies for Scoring an Educational Concert Perk</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-mastering-slack-reminder-features/"><u>Ultimate Guide: Mastering Slack Reminder Features</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/your-summer-survival-kit-top-7-edc-must-haves-to-beat-the-heat/"><u>Your Summer Survival Kit: Top 7 Edc Must-Haves to Beat the Heat</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-essential-handbook-for-iphone-vr-viewing/"><u>[Updated] The Essential Handbook for iPhone VR Viewing</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/10-best-webcam-recorders-windows-11/"><u>10 Best Webcam Recorders Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/alexa-not-talking-heres-how-you-can-make-her-respond-again/"><u>Alexa Not Talking? Here's How You Can Make Her Respond Again!</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/boost-your-pcs-speed-on-windows-top-tips-and-tricks-by-yl-computing/"><u>Boost Your PC's Speed on Windows: Top Tips & Tricks by YL Computing</u></a></li>
+<li><a href="https://games-able.techidaily.com/control-commandments-for-switch-games-via-ryujinx-platform/"><u>Control Commandments for Switch Games via Ryujinx Platform</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-an-unavailable-instagram-account-what-you-need-to-know/"><u>Fixing an Unavailable Instagram Account: What You Need to Know</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-realme-12-pro-5g-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Realme 12 Pro 5G? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-seamless-srt-to-sub-a-comprehensive-guide/"><u>In 2024, Seamless SRT to SUB A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/keeping-your-macbook-awake-tips-to-stop-it-from-going-into-sleep-mode-with-the-lid-closed/"><u>Keeping Your MacBook Awake: Tips to Stop It From Going Into Sleep Mode with the Lid Closed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-d3dx941dll-missing-file-issue-expert-guide-and-solutions/"><u>Solving the d3dx9_41.dll Missing File Issue: Expert Guide & Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-sharing-your-printer-across-multiple-devices/"><u>Step-by-Step Guide: Sharing Your Printer Across Multiple Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/teslas-robotaxi-revealed-latest-updates-on-launch-date-pricing-and-features/"><u>Tesla's Robotaxi Revealed: Latest Updates on Launch Date, Pricing & Features</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211399986-9798990532403-the-great-descend/"><u>The Great Descend | Free Book</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tips-for-preventing-unwanted-android-application-activity-in-the-background/"><u>Tips for Preventing Unwanted Android Application Activity in the Background</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-vivo-y100i-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Vivo Y100i Device</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/turbo-faster-window-photo-editor-for-2024/"><u>Turbo Faster Window Photo Editor for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-atandt-mobile-roaming-terms-and-conditions/"><u>Understanding AT&T Mobile Roaming Terms and Conditions</u></a></li>
 </ul></div>
 

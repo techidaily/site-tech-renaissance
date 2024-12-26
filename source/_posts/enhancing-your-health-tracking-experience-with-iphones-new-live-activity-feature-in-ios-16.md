@@ -1,7 +1,7 @@
 ---
 title: Enhancing Your Health Tracking Experience with iPhone's New Live Activity Feature in iOS 16
-date: 2024-08-26T07:19:26.667Z
-updated: 2024-08-27T07:19:26.667Z
+date: 2024-12-20T21:57:31.399Z
+updated: 2024-12-25T16:11:37.302Z
 categories:
   - BestProducts
 description: This Article Describes Enhancing Your Health Tracking Experience with iPhone's New Live Activity Feature in iOS 16
@@ -16,6 +16,10 @@ thumbnail: https://www.lifewire.com/thmb/2quEB8nuOrsyyAweqvcHn4YXHhw=/540x405/fi
 * Live Activities work on all iPhones running iOS 16 and up and, if the hardware supports it, in the Dynamic Island.
 
  This article explains what Live Activities are, how they differ on iPhones that offer the Dynamic Island, and provides step-by-step instructions to enable Live Activities.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Use Live Activities on iPhone (iOS 16)
 
@@ -32,13 +36,18 @@ thumbnail: https://www.lifewire.com/thmb/2quEB8nuOrsyyAweqvcHn4YXHhw=/540x405/fi
 4. In the**Allow Access when Locked** section, move the**Live Activities** slider to**on/green** .  
 ![An iPhone's passcode requested and Live Activities settings highlighted on an iPhone.](https://www.lifewire.com/thmb/WPWmHO77VZ9w8Z9n83qb2ESzdIY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A4-UseLiveActivitiesoniPhone-annotated-851f3c2f08934a27bcc5c71e8d91e21d.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Which Live Activities are available in your apps, and how you activate them, differs based on which apps you use. You can clear a Live Activity from your lock screen by swiping from right to left on it.
 
  On iPhones running iOS 16.2 and up, you can set Live Activities to update sports scores more frequently. First, enable this option in**Settings** \>**TV** \>**Live Activities** \> move to**on/green** the sliders for both**Allow Live Activities** and**More Frequent Updates** . Then, in the TV app, tap the game and, on its detail page, tap**Follow** . The Live Activity for that game on your lock screen is updated frequently.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Are Live Activities?
 
  Live Activities are small views of apps you can add to your iPhone Lock screen.
@@ -48,16 +57,13 @@ thumbnail: https://www.lifewire.com/thmb/2quEB8nuOrsyyAweqvcHn4YXHhw=/540x405/fi
 ![Two examples (the timer and a sports score) of Live Activities on an iPhone lock screen.](https://www.lifewire.com/thmb/F7qAlcpaHoGypZ2a1E_kfeWc6dA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B1-UseLiveActivitiesoniPhone-annotated-b0c38245f36a419783db4085ca63fb00.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  As their name suggests, Live Activities are updated regularly and let you get important information with just a glance at your screen (great with the iPhone 14's always-on screen) and without opening an app.
 
  Think of them as being like[lock screen widgets](https://www.lifewire.com/customize-iphone-lockscreen-5443101) or[notifications](https://www.lifewire.com/notification-center-iphone-1999192) that update in close to real time and that you can interact with.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ## Live Activities on iPhone 14 Pro and Up
 
  On the iPhone 14 Pro and Pro Max, Live Activities also take advantage of the Dynamic Island to provide updates while you use other apps, not just from the lock screen.
@@ -67,15 +73,13 @@ The ultimate burning program for all your needs!</a>
 ![Examples of Live Activities on the lock screen and in the Dynamic Island.](https://www.lifewire.com/thmb/V-2k8wH_Idts_JUaWWAvgskSiAM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/C1-UseLiveActivitiesoniPhone-annotated-c36b823b25554946b7e02eb630ec2033.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  For example, when listening to a song in Music, the Dynamic Island shows a thumbnail of the album art for the song you're listening to and a tap takes you to the album in Music.
 
  In another example, a sports game that you're following shows the team logos and the current score in the Dynamic Island. When the game ends, the Dynamic Island expands to show the final.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Apps That Support Live Activities
 
  As of this writing, there are a few dozen, or maybe a couple hundred, apps that support Live Activities. Given that number, there's no way to list them all here, but a search in the App Store for "live activities" or "dynamic island" will turn up some good options.
@@ -117,8 +121,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,4 +128,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-sky-high-explorations-made-simple-a-compreenasive-review-of-dji-sparks-miniature-drone-design/"><u>[New] Sky High Explorations Made Simple A Compreenasive Review of DJI Spark's Miniature Drone Design</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-crafting-content-for-success-a-step-by-step-channel-guide/"><u>[Updated] 2024 Approved Crafting Content for Success A Step-by-Step Channel Guide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-optimal-typographic-animations-compiled-for-2024/"><u>[Updated] Optimal Typographic Animations Compiled for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/beyond-clean-the-real-green-footprint-of-electric-cars-explored/"><u>Beyond 'Clean': The Real Green Footprint of Electric Cars Explored</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/common-problems-and-solutions-for-lucidsound-ls30-malfunctioning-mic/"><u>Common Problems & Solutions for LucidSound LS30 Malfunctioning Mic</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/eliminate-your-yahoo-mail-account-for-good-with-these-simple-instructions/"><u>Eliminate Your Yahoo Mail Account for Good with These Simple Instructions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-a-malfunctioning-iphone-email-system-tips-and-tricks-for-smooth-communication/"><u>Fixing a Malfunctioning iPhone Email System: Tips and Tricks for Smooth Communication</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-on-apple-iphone-xs-by-drfone-ios/"><u>How to Fix when Apple Account Locked On Apple iPhone XS?</u></a></li>
+<li><a href="https://solve-news.techidaily.com/mac-professionals-choice-advanced-hd-video-converter-effortlessly-convert-avchd-mkv-mov-to-mp4/"><u>Mac Professional's Choice: Advanced HD Video Converter - Effortlessly Convert AVCHD, MKV, MOV to MP4</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-code-1-error-how-to-properly-set-up-your-device/"><u>Resolving Code 1 Error: How to Properly Set Up Your Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-resolving-directxdirectinputdll-problems-on-windows-pcs/"><u>Step-by-Step Tutorial: Resolving DirectX.directinput.dll Problems on Windows PCs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-10-resources-for-efficiently-finding-an-apartment/"><u>Top 10 Resources for Efficiently Finding an Apartment</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tricks-to-alter-applied-geographic-position-on-your-phone-seamlessly/"><u>Tricks to Alter Applied Geographic Position on Your Phone Seamlessly</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-missing-or-not-found-avcodecdll-error-messages-on-your-pc/"><u>Troubleshooting 'Missing' Or 'Not Found' Avcodec.dll Error Messages on Your PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-resolving-persistent-image-retention-on-your-display/"><u>Ultimate Guide: Resolving Persistent Image Retention on Your Display</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unstuck-gears-of-war-resolving-continuous-freezing-issues-on-playstation-and-pc/"><u>Unstuck Gears of War: Resolving Continuous Freezing Issues on PlayStation and PC</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/vivo-y27-4g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Vivo Y27 4G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+</ul></div>
 

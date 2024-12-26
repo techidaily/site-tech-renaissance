@@ -1,7 +1,7 @@
 ---
 title: "Join the Chorus of Discontent: The Unforeseen Consequences of Moving to iOS 18 on Your iPhone, as Revealed by ZDNet's Readers"
-date: 2024-12-13T16:05:10.609Z
-updated: 2024-12-17T16:04:32.953Z
+date: 2024-12-20T17:26:55.912Z
+updated: 2024-12-25T16:29:16.006Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,20 +109,17 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-4-ways-to-record-powerpoint-presentation-with-webcam-2023/"><u>[New] In 2024, 4 Ways to Record PowerPoint Presentation with Webcam 2023</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-essential-filming-gear-for-novices-and-aspiring-cinematographers/"><u>[Updated] In 2024, Essential Filming Gear for Novices and Aspiring Cinematographers</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-mastering-webinar-capture-straightforward-steps-for-os-xwindows/"><u>[Updated] Mastering Webinar Capture Straightforward Steps for OS X/Windows</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/2024s-top-25-pick-complimentary-programs-for-pc-performance-boost/"><u>2024'S Top 25 Pick: Complimentary Programs for PC Performance Boost</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/best-budget-friendly-streaming-options-to-replace-netflix-free/"><u>Best Budget-Friendly Streaming Options to Replace Netflix (Free)</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/decoding-whatsapp-voice-communication/"><u>Decoding WhatsApp Voice Communication</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-apples-most-recent-macbook-innovations/"><u>Discover Apple's Most Recent MacBook Innovations</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/ensuring-smooth-interoperability-of-devices-and-programs-tips-from-yl-software-experts/"><u>Ensuring Smooth Interoperability of Devices and Programs: Tips From YL Software Experts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-what-to-do-if-the-disc-reader-on-your-wii-is-malfunctioning/"><u>Guide: What To Do If The Disc Reader On Your Wii Is Malfunctioning</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-savings-with-our-selection-of-6-prime-coupon-destinations/"><u>Mastering Savings with Our Selection of 6 Prime Coupon Destinations</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/muting-mastery-keeping-your-meeting-focus-on-google-go/"><u>Muting Mastery Keeping Your Meeting Focus on Google Go</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/peals-of-laughter-fun-tones-websites-unveiled-for-2024/"><u>Peals of Laughter Fun Tones Websites Unveiled for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/steady-hand-techniques-for-videographers-for-2024/"><u>Steady-Hand Techniques for Videographers for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-for-when-microsoft-office-msodll-is-unavailable/"><u>Troubleshooting Steps for When Microsoft Office mso.dll Is Unavailable</u></a></li>
-<li><a href="https://discover-data.techidaily.com/ultimate-guide-to-4k-video-conversion-best-software-options-for-macos-and-pc/"><u>Ultimate Guide to 4K Video Conversion: Best Software Options for macOS & PC</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-instagram-video-limits-explained-in-detail/"><u>[Updated] 2024 Approved Instagram Video Limits Explained in Detail</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-complete-guide-to-video-studios-focusing-on-xvideo/"><u>[Updated] Complete Guide to Video Studios Focusing on XVideo</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-identifying-affordable-cloud-providers-for-businesses-for-2024/"><u>[Updated] Identifying Affordable Cloud Providers for Businesses for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-mastering-igtv-video-downloads-on-windows-and-mac-top-5-methods/"><u>[Updated] Mastering IGTV Video Downloads on Windows & Mac Top 5 Methods</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-strategic-first-impressions-the-unpacking-edge-for-2024/"><u>[Updated] Strategic First Impressions The Unpacking Edge for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-infinix-zero-5g-2023-turbo-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Infinix Zero 5G 2023 Turbo</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/detecting-and-upgrading-obsolete-programs-a-guide-by-yl-computing-modernize-your-tech/"><u>Detecting & Upgrading Obsolete Programs: A Guide by YL Computing - Modernize Your Tech</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-the-drone-that-never-loses-you-top-10-list/"><u>In 2024, The Drone that Never Loses You - Top 10 List</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722876261291-macbook-air-woes-learn-how-to-successfully-de-frozen-and-continue-working/"><u>MacBook Air Woes? Learn How to Successfully De-Frozen and Continue Working!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-rpcrt4dll-file-doesnt-exist-issue-effective-strategies/"><u>Solving the 'Rpcrt4.dll' File Doesn't Exist Issue: Effective Strategies</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-mastering-the-art-of-ps4-gameplay-recording/"><u>Step-by-Step Tutorial: Mastering the Art of PS4 Gameplay Recording</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-when-you-cant-find-shell3dll-on-your-computer/"><u>Troubleshooting Tips: When You Can't Find Shell3.dll on Your Computer</u></a></li>
 </ul></div>
 

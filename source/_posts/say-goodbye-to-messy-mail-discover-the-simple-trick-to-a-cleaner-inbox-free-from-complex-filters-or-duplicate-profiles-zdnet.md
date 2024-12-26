@@ -1,7 +1,7 @@
 ---
 title: "Say Goodbye to Messy Mail: Discover the Simple Trick to a Cleaner Inbox, Free From Complex Filters or Duplicate Profiles | ZDNET"
-date: 2024-12-13T16:02:39.632Z
-updated: 2024-12-17T16:01:09.108Z
+date: 2024-12-22T18:12:50.205Z
+updated: 2024-12-25T23:40:18.154Z
 tags:
   - apple
 categories:
@@ -23,6 +23,10 @@ We've gone hands-on with dozens of laptops this year, and scoured the internet f
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The best laptop deals for Amazon Prime Day 2024
 
@@ -76,7 +80,7 @@ Equipped with an Nvidia GeForce RTX 4080 GPU and a dual mode mini LED display, t
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C3P346B4%2Fref%3Dasc%5Fdf%5FB0C3P346B41727348400000%3Fcreative%3D395261%26creativeASIN%3DB0C3P346B4%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c77e5d0-9e3a-48e0-88c5-10a20051f694%7Cdtp&dtb=1) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Prime Day Chromebook deals
@@ -95,6 +99,10 @@ Kyle Kucharski/ZDNET
 * [Apple MacBook Air (M3) for $899 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-2024-MacBook-13-inch-Laptop%2Fdp%2FB0CX23V2ZK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c77e5d0-9e3a-48e0-88c5-10a20051f694%7Cdtp&dtb=1): If you want to purchase one of Apple's latest MacBook Air products, you can save $200 on the [2024 version](https://www.zdnet.com/article/m3-macbook-air-review/), powered by an M3 chip -- the lowest price of the year. Don't forget to apply the coupon.
 * [Apple MacBook Pro (M3) for $1,400 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-Laptop-8%E2%80%91core-10%E2%80%91core%2Fdp%2FB0CM5JV268%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c77e5d0-9e3a-48e0-88c5-10a20051f694%7Cdtp&dtb=1): The [MacBook Pro (M3)](https://www.zdnet.com/article/m3-macbook-pro-buying-advice/) is one of the best-performing laptops on the market, and it's $200 off -- make sure you add the coupon offer on the page.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Prime Day HP laptop deals
 
 HPZDNET
@@ -103,20 +111,12 @@ HPZDNET
 * [HP Victus 15.6-inch laptop for $599 (Save $100)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Display-i5-12450H-Dedicated-15-fa1029nr%2Fdp%2FB0CVNJ7LLN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c77e5d0-9e3a-48e0-88c5-10a20051f694%7Cdtp&dtb=1): This is a great price for a 15-inch laptop designed for cloud gaming and light creative work. It's got an Nvidia GeForce RTX 2050 dedicated graphics card and a144Hz Full-HD display.
 * [HP 14 inch Laptop for $349 (Save $120)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Generation-i3-1215U-Graphics-14-dq5009nr%2Fdp%2FB0CS3XPZNH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c77e5d0-9e3a-48e0-88c5-10a20051f694%7Cdtp&dtb=1): This budget laptop features a modest suite of hardware but covers all the basics for an inexpensive but capable and portable machine.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Prime Day Lenovo deals
 
 Lenovo/ZDNET
 
 * [Lenovo Legion 5i for $1,339 (save $160)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Display-GeForce-2560x1600-Battery%2Fdp%2FB0CVLFS7WP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c77e5d0-9e3a-48e0-88c5-10a20051f694%7Cdtp&dtb=1): This 16-inch laptop from Lenovo's gaming PC line features an Intel i7 processor, 32GB of RAM, and a solid selection of ports for all your gaming accessories for just $1,500.
 * [Lenovo ThinkBook 15 for $525 (save $74)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkBook-15-Business-i7-1165G7%2Fdp%2FB0D1CQPWPG%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c77e5d0-9e3a-48e0-88c5-10a20051f694%7Cdtp&dtb=1): This laptop is a powerhouse for your back-to-school or business needs. Its 8-core AMD Ryzen 7 processor pairs with 16GB of RAM, so any major spec-heavy tasks will perform smoothly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best Buy laptop deals during Prime Day
 
@@ -126,6 +126,10 @@ Kyle Kucharski/ZDNET
 * [HP Chromebook x360 2-in-1 Laptop for $293 (save $35 at Walmart)](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FHP-Chromebook-X360-14-HD-Touchscreen-2-in-1-Laptop-Intel-Celeron-N4020-4GB-RAM-64GB-eMMC-Teal-14a-ca0130wm%2F518977383&subId1=zd-__COM_CLICK_ID__-dtp): In [our testing](https://www.zdnet.com/article/this-hp-chromebook-made-living-without-windows-easier-than-i-expected/), we found this 2-in-1 Chromebook easily flexes between a laptop and a tablet, with a large 14-inch screen, comfortable keyboard, and sturdy build.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## More Prime Day 2024 laptop deals
 
@@ -142,7 +146,7 @@ Kyle Kucharski/ZDNET
 Amazon Prime Day officially ran from July 16 to July 17, but sometimes deals continue afterward.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the best gaming laptop deal on Prime Day?
@@ -162,10 +166,6 @@ We also looked over customer reviews to find out what matters to real people who
 ### When will these deals expire?
 
 Prime Day 2024 has ended, so deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on a deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What are the best Prime Day 2024 deals still available?
 
@@ -230,22 +230,20 @@ And the best deals still available from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/kyrocket-to-success-mastering-seo-for-youtubers-and-beyond/"><u>[New] Skyrocket to Success Mastering SEO for YouTubers and Beyond</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-hues-unleashed-mastery-over-video-editing-colors/"><u>[Updated] Hues Unleashed Mastery over Video Editing Colors</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/a-detailed-breakdown-of-espnplus-services-for-sports-fans-understanding-its-operations/"><u>A Detailed Breakdown of ESPN+ Services for Sports Fans – Understanding Its Operations</u></a></li>
-<li><a href="https://win11.techidaily.com/bypass-quick-access-initiate-file-explorer-via-onedrive-link/"><u>Bypass Quick Access: Initiate File Explorer via OneDrive Link</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-latest-hp-wireless-network-drivers-for-your-windows-pc/"><u>Download the Latest HP Wireless Network Drivers for Your Windows PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-calendar-solutions-for-time-management-in-large-households/"><u>Essential Calendar Solutions for Time Management in Large Households</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-bridge-your-tv-with-a-samsung-soundbar-easy-methods-explained/"><u>How To Bridge Your TV With a Samsung Soundbar – Easy Methods Explained</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/maintain-security-how-to-erase-sensitive-content-on-iphones-effectively/"><u>Maintain Security: How to Erase Sensitive Content on iPhones Effectively</u></a></li>
-<li><a href="https://win-hot.techidaily.com/master-your-beats-with-jason-spencer-and-jason-jones-exclusive-mobile-music-showcase-on-dj-nights-tv/"><u>Master Your Beats with Jason Spencer and Jason Jones - Exclusive 'Mobile Music' Showcase on DJ Nights TV</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211253260-9781958997482-priesthood-prophecy/"><u>Priesthood & Prophecy | Free Book</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-the-issue-when-ac1st16dll-is-not-available-on-your-pc/"><u>Solving The Issue When ac1st16.dll Is Not Available on Your PC</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-oppo-f23-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Oppo F23 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-disabling-the-security-pin-on-windows-11/"><u>Step-by-Step Guide: Disabling the Security PIN on Windows 11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/stop-0x00000078-phase0exception-bugs-solutions-to-get-your-system-running-smoothly-again/"><u>Stop 0X00000078 (PHASE0_EXCEPTION) Bugs: Solutions to Get Your System Running Smoothly Again</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-tutorial-for-stealth-mode-in-chrome-edge-firefox-safari-and-opera/"><u>The Ultimate Tutorial for Stealth Mode in Chrome, Edge, Firefox, Safari & Opera</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-ssd-models-expert-reviews-by-techradar/"><u>Top-Rated SSD Models - Expert Reviews by TechRadar</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/what-to-binge-on-max-right-now-our-expert-selection/"><u>What to Binge on Max Right Now? Our Expert Selection!</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-how-to-navigate-virtual-realities-without-nausea/"><u>[Updated] 2024 Approved How to Navigate Virtual Realities without Nausea</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-windows-11-capture-top-eight-tools-ranked/"><u>[Updated] 2024 Approved Windows 11 Capture Top Eight Tools Ranked</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-androids-top-10-moba-gaming-spectacles/"><u>2024 Approved Android's Top 10 MOBA Gaming Spectacles</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-the-wizards-journey-watching-harry-potter-movies-sequentially/"><u>Complete the Wizard's Journey: Watching Harry Potter Movies Sequentially.</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-latest-8-premier-gratis-driver-update-applications-july-edition/"><u>Discover the Latest: 8 Premier Gratis Driver Update Applications, July Edition</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-steps-to-correct-the-absence-of-avcodecdll-on-your-system/"><u>Easy Steps to Correct the Absence of Avcodec.dll on Your System</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effortless-techniques-to-remove-red-eye-effect-from-animal-photographs/"><u>Effortless Techniques to Remove Red-Eye Effect From Animal Photographs</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/high-performance-screen-recorders-for-windows-users-for-2024/"><u>High-Performance Screen Recorders for Windows Users for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-create-an-electronic-signature-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to create an electronic signature online</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-motorola-edge-40-pro-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Motorola Edge 40 Pro to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-tv-troubleshooting-expert-advice-on-addressing-standard-problems/"><u>Mastering TV Troubleshooting: Expert Advice on Addressing Standard Problems</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/premium-selection-of-mp4-devices/"><u>Premium Selection of MP4 Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-communication-problems-enable-call-functionality-on-your-samsung-galaxy-watch/"><u>Solving Communication Problems: Enable Call Functionality on Your Samsung Galaxy Watch</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-how-to-manual-for-operating-the-windows-telnet-client/"><u>The Ultimate How-To Manual for Operating the Windows Telnet Client</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/trending-british-shows-to-watch-on-netflix-right-now/"><u>Trending British Shows to Watch on Netflix Right Now</u></a></li>
 </ul></div>
 

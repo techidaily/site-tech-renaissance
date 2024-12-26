@@ -1,7 +1,7 @@
 ---
 title: Users Share Common Frustrations After Upgrading to iOS 18 - A Closer Look by ZDNet
-date: 2024-12-12T16:01:36.595Z
-updated: 2024-12-17T16:00:13.924Z
+date: 2024-12-21T03:19:14.386Z
+updated: 2024-12-26T08:04:30.704Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,18 +109,16 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-immersive-memories-a-compreeved-guide-to-saving-your-vr-gaming-journey/"><u>[New] Immersive Memories A Compreeved Guide to Saving Your VR Gaming Journey</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-top-nvidia-and-amd-gpus-for-4k-workstations/"><u>[New] Top NVIDIA & AMD GPUs for 4K Workstations</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-itel-a60s-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Itel A60s | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/demystifying-the-world-of-internet-memes/"><u>Demystifying the World of Internet Memes</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/driven-by-cookiebot-enhanced-user-experience-and-data-management/"><u>Driven by Cookiebot: Enhanced User Experience and Data Management</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-infinix-gt-10-prowithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Infinix GT 10 Prowith/without a PC</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-becoming-a-pro-in-video-enhancement-vce-22-guide/"><u>In 2024, Becoming a Pro in Video Enhancement - VCE 2.2 Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-streamlining-audacity-for-superior-audio-capture/"><u>In 2024, Streamlining Audacity for Superior Audio Capture</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/tesla-robotaxi-revealed-speculations-surrounding-price-point-expected-launch-and-technical-details/"><u>Tesla Robotaxi Revealed - Speculations Surrounding Price Point, Expected Launch, and Technical Details</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-device-unveiled-all-in-one-high-speed-charging-usb-and-hdmi-hub/"><u>The Ultimate Device Unveiled - All in One: High Speed Charging, USB & HDMI Hub!</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-video-editing-made-easy-splitting-videos-in-windows-live-movie-maker-for-pc-users/"><u>Updated Video Editing Made Easy Splitting Videos in Windows Live Movie Maker for PC Users</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/usb-tethering-not-working-heres-what-to-do-next/"><u>USB Tethering Not Working? Here's What to Do Next</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/wireless-play-integrating-your-nintendo-switch-with-your-television/"><u>Wireless Play: Integrating Your Nintendo Switch with Your Television</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-9-steps-to-combat-chromes-video-blackout/"><u>[New] 9 Steps to Combat Chrome's Video Blackout</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-achieve-peak-performance-with-these-8-scheduler-apps/"><u>[Updated] 2024 Approved Achieve Peak Performance with These 8 Scheduler Apps</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-vdr-screen-capture-compilation-extensive-guide/"><u>[Updated] VDR Screen Capture Compilation Extensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/battle-of-the-beats-analyzing-google-nest-audio-and-apple-homepod-head-to-head/"><u>Battle of the Beats: Analyzing Google Nest Audio and Apple HomePod Head-to-Head</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/complete-walkthrough-on-removing-bandicam-marks-with-3-simple-methods-for-content-creators/"><u>Complete Walkthrough on Removing Bandicam Marks with 3 Simple Methods for Content Creators</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-how-to-stay-up-to-date-the-ultimate-guide-to-hashtag-trackers-on-twitter/"><u>Discover How to Stay Up-to-Date: The Ultimate Guide to Hashtag Trackers on Twitter</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-reactivate-an-instagram-account-after-its-been-halted-or-turned-off/"><u>How to Reactivate an Instagram Account After It's Been Halted or Turned Off</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722884954689-the-future-unfolds-with-the-samsung-z-fold-4-know-more-about-its-arrival-date-price-tag-and-specifications/"><u>The Future Unfolds with the Samsung Z Fold 4: Know More About Its Arrival Date, Price Tag and Specifications!</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/tiktokplusinstagram-social-media-fusion-guide/"><u>TikTok+Instagram Social Media Fusion Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-ae-titles-for-striking-visual-impact-for-2024/"><u>Top AE Titles for Striking Visual Impact for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-secrets-a-comprehensive-guide-to-playing-pokemn-go/"><u>Unveiling Secrets: A Comprehensive Guide to Playing Pokémn Go</u></a></li>
 </ul></div>
 

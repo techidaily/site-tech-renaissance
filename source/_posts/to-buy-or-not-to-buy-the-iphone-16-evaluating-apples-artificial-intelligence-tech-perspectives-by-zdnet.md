@@ -1,7 +1,7 @@
 ---
 title: "To Buy or Not to Buy the iPhone 16: Evaluating Apple’s Artificial Intelligence Tech | Perspectives by ZDNet"
-date: 2024-12-11T16:00:49.492Z
-updated: 2024-12-17T16:01:27.314Z
+date: 2024-12-18T20:34:37.737Z
+updated: 2024-12-25T18:57:53.930Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ During [WWDC](https://www.zdnet.com/article/apple-wwdc-2024-recap-every-new-feat
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Apple Intelligence?
@@ -76,7 +76,7 @@ The voice assistant will also be able to perform hundreds of new actions across 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's new in Apple's photo editing & search?
@@ -92,7 +92,7 @@ Apple is adding natural language photo and video search to its Photos app. This 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does systemwide AI text generation work?
@@ -107,6 +107,10 @@ The same feature can help users make major edits to text, such as changing the t
 
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is Image Playground?
 
 Apple
@@ -118,6 +122,10 @@ Apple will let users generate images using AI in Messages, Photos Notes, Keynote
 In the Notes app, for example, a new tool called Image Wand will let you circle a rough sketch and use on-device AI to have Image Playground pull ideas from the surrounding areas to generate an image. 
 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
 
@@ -147,10 +155,6 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Is Apple Intelligence actually private and secure?
 
 Apple
@@ -165,10 +169,6 @@ The company is striving to keep the AI features secure through several mechanism
 * **Independent code review:** With Private Cloud Compute, Apple explained that the code is available for independent experts to inspect and verify it meets privacy standards.
 * **Data encryption:** Apple encrypts all data sent to and from its servers as another layer of security.
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
 
@@ -210,19 +210,17 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-zoom-meetings-for-beginners-a-comprehensive-introduction-guide-for-2024/"><u>[New] Zoom Meetings for Beginners A Comprehensive Introduction Guide for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-the-ultimate-guide-to-mp3-skype-recorder-record-skype-call-for-free-for-2024/"><u>[Updated] The Ultimate Guide to MP3 Skype Recorder| Record Skype Call For Free for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/about-itel-p40-frp-bypass-by-drfone-android/"><u>About Itel P40 FRP Bypass</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/complete-guide-deleting-every-message-on-your-gmail-mobile-application/"><u>Complete Guide: Deleting Every Message on Your Gmail Mobile Application</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/demystifying-digital-tagging-an-in-depth-look-into-categorizing-content/"><u>Demystifying Digital Tagging: An In-Depth Look Into Categorizing Content</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-8-premier-free-html-editing-tools-for-windows-users/"><u>Discover the 8 Premier Free HTML Editing Tools for Windows Users</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-overcome-initialization-hurdles-with-mozilla-thunderbird/"><u>How to Overcome Initialization Hurdles with Mozilla Thunderbird</u></a></li>
-<li><a href="https://win-able.techidaily.com/improve-your-gaming-experience-by-eliminating-blurriness-in-call-of-duty-warzone-graphics-on-pc/"><u>Improve Your Gaming Experience by Eliminating Blurriness in Call of Duty: Warzone Graphics on PC</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-conquer-chronological-chaos-snapchats-video-inversion/"><u>In 2024, Conquer Chronological Chaos Snapchat's Video Inversion</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/libxml2dll-not-detected-heres-what-you-need-to-know/"><u>Libxml2.dll Not Detected? Here's What You Need to Know!</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/mastering-narratives-the-science-and-art-of-crafting-memorable-fb-stories-for-2024/"><u>Mastering Narratives The Science and Art of Crafting Memorable FB Stories for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigational-assistance-methods-to-determine-a-friends-location-via-iphone/"><u>Navigational Assistance: Methods to Determine a Friend's Location via iPhone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-to-updating-microsoft-powerpoint-efficiently/"><u>Step-by-Step Guide to Updating Microsoft PowerPoint Efficiently</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/omplete-rundown-of-essential-youtube-video-downloading-apps-android-for-2024/"><u>The Complete Rundown of Essential YouTube Video Downloading Apps (Android) for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-content-control-muting-followers-for-2024/"><u>[New] Mastering Content Control Muting Followers for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-decoding-the-underlying-messages-in-snapchats-symbolic-language/"><u>[Updated] 2024 Approved Decoding the Underlying Messages in Snapchat's Symbolic Language</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-selective-picks-for-audible-transformation-technologies/"><u>[Updated] 2024 Approved Selective Picks for Audible Transformation Technologies</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-decoding-snapchat-emoji-language/"><u>[Updated] Decoding Snapchat Emoji Language</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-nova-y71-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on Nova Y71</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/discover-how-cryptocurrencies-can-enhance-your-financial-freedom-insights-by-yl-computing/"><u>Discover How Cryptocurrencies Can Enhance Your Financial Freedom - Insights by YL Computing</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-auto-dim-functionality-explained-here-are-the-top-10-triggers-for-you/"><u>IPhone Auto-Dim Functionality Explained: Here Are the Top 10 Triggers for You</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/standard-ps5-vs-ps5-slim-which-sony-playstation-model-is-right-for-you/"><u>Standard PS5 Vs. PS5 Slim: Which Sony PlayStation Model Is Right for You?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-watching-fandango-movies-on-your-firestick/"><u>Step-by-Step Guide: Watching Fandango Movies on Your Firestick</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-how-to-tell-if-playstation-network-outage-affects-everyone/"><u>Troubleshooting: How to Tell if PlayStation Network Outage Affects Everyone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/uncovering-hidden-notifications-on-iphones-easily/"><u>Uncovering Hidden Notifications on iPhones Easily</u></a></li>
+<li><a href="https://games-able.techidaily.com/zero-delays-maximum-speed-razers-top-tier-gaming-machine/"><u>Zero Delays, Maximum Speed: Razer's Top-Tier Gaming Machine</u></a></li>
 </ul></div>
 

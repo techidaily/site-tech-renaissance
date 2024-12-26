@@ -1,7 +1,7 @@
 ---
 title: Tips and Tricks for Effortless Screen Division on Your Apple MacBook Air Laptop
-date: 2024-08-20T10:44:07.253Z
-updated: 2024-08-21T10:44:07.253Z
+date: 2024-12-19T21:17:58.868Z
+updated: 2024-12-25T16:32:33.704Z
 categories:
   - BestProducts
 description: This Article Describes Tips and Tricks for Effortless Screen Division on Your Apple MacBook Air Laptop
@@ -10,6 +10,11 @@ thumbnail: https://www.lifewire.com/thmb/FTiljm4NdlrQ1helbE7W7UJSJFM=/400x300/fi
 ---
 
 ## Effortless Screen Capturing in Windows 11? Unlock These 4 Proven Tricks
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * The**PrtScn** /**PrtSc** button captures the entire screen and saves it to the clipboard.
@@ -17,6 +22,10 @@ thumbnail: https://www.lifewire.com/thmb/FTiljm4NdlrQ1helbE7W7UJSJFM=/400x300/fi
 * **Win** +**Shift** +**S** lets you pick a window or section of the screen.
 
  This article explains all the different ways to make Windows 11 screenshots.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Use PrtScn to Screenshot the Whole Screen
 
@@ -29,8 +38,9 @@ thumbnail: https://www.lifewire.com/thmb/FTiljm4NdlrQ1helbE7W7UJSJFM=/400x300/fi
 [16 Ways To Fix It When Print Screen Is Not Working in Windows](https://www.lifewire.com/fix-print-screen-not-working-5442833)
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fullscreen Screenshot and Auto-save to Folder
 
  `Win+PrtSc`
@@ -41,11 +51,16 @@ thumbnail: https://www.lifewire.com/thmb/FTiljm4NdlrQ1helbE7W7UJSJFM=/400x300/fi
 
 ![ Screenshot folder with picture inside on Windows 11.](https://www.lifewire.com/thmb/9JnkOkVNK4-g810E3yMqwhOjIcY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-screenshots-615d31976db445bb9f725b510becd850.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [How to Screenshot on a Logitech Keyboard](https://www.lifewire.com/take-screenshot-with-logitech-keyboard-5186441)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Screenshot Part of the Screen
 
  `Win+Shift+S`
@@ -61,9 +76,6 @@ thumbnail: https://www.lifewire.com/thmb/FTiljm4NdlrQ1helbE7W7UJSJFM=/400x300/fi
 
 ![Windows 11 snip tool capturing calculator. ](https://www.lifewire.com/thmb/DxIz1nlXgizX8YqQ1wgTdi_r9eE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/snip-tool-windows-11-30e70f87ddfc45799a2dc78ebd4dc0b0.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
  To avoid memorizing this shortcut, you can tie it to the PrtSc button so that when you press it, this same menu shows up automatically. To do this, go to**Settings** \>**Accessibility** \>**Keyboard** , and then turn on**Use the Print screen key to open screen capture** .
 
  After choosing one of those options, the image will be saved to the clipboard, which you can paste into an email or some other program that accepts pasting pictures.
@@ -72,13 +84,6 @@ thumbnail: https://www.lifewire.com/thmb/FTiljm4NdlrQ1helbE7W7UJSJFM=/400x300/fi
 
 ![A Windows 11 screenshot open in Snipping Tool](https://www.lifewire.com/thmb/n8hloKQGZfQTHNEMKqTmWZC4D_M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-snipping-tool-cfcc4b1e0c154d509e2d312ce4538e4e.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## Delayed Screenshots With Snipping Tool
 
  Pull up the search button from the taskbar and enter**Snipping Tool** to open the app. This tool was briefly covered above, but what we'll look at now is the delayed screenshot function.
@@ -87,9 +92,6 @@ thumbnail: https://www.lifewire.com/thmb/FTiljm4NdlrQ1helbE7W7UJSJFM=/400x300/fi
 
  With the program open, select the**stopwatch** . There are three options:**3-second delay** ,**5-second delay** , and**10-second delay** . Select one, choose**New** , and then quickly arrange the screen in the way you need it for the screenshot. When the time you chose is reached, the four options above will display at the top of the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ## Tips for Taking Screenshots in Windows 11
 
 * Once an image is loaded in Snipping Tool, use the crop tool to define further which part you want to keep without needing to retake the screenshot.
@@ -127,8 +129,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,4 +136,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-boosting-channel-profitability-famebit-powered-sponsorship-tactics/"><u>[New] 2024 Approved Boosting Channel Profitability FameBit-Powered Sponsorship Tactics</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-a-lens-on-innovation-how-hdri-redefines-video-production-standards/"><u>[New] A Lens on Innovation How HDRI Redefines Video Production Standards</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-elevating-vistas-mastering-vertical-mobile-photography/"><u>[Updated] In 2024, Elevating Vistas Mastering Vertical Mobile Photography</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/amazons-persuasive-power-how-i-found-myself-unplannedly-buying-an-apple-watch/"><u>Amazon's Persuasive Power: How I Found Myself Unplannedly Buying an Apple Watch</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/deceptive-copycat-of-chatgpt-plugin-risks-hijacking-your-facebook-credentials/"><u>Deceptive Copycat of ChatGPT Plugin Risks Hijacking Your Facebook Credentials</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-progress-of-5g-with-a-focus-on-verizons-contributions/"><u>Exploring the Progress of 5G with a Focus on Verizon's Contributions</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Honor X9a? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-shift-from-standard-definition-to-dynamic-range-brilliance/"><u>In 2024, The Ultimate Shift From Standard Definition to Dynamic Range Brilliance</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/make-an-informed-choice-discover-8-important-aspects-before-getting-your-next-desktop-unit/"><u>Make an Informed Choice: Discover 8 Important Aspects Before Getting Your Next Desktop Unit</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/steps-to-install-a-new-browser-in-place-of-the-default-one-on-your-smart-tv/"><u>Steps to Install a New Browser in Place of the Default One on Your Smart TV</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-the-secrets-eight-steps-to-boost-your-videos-virality-on-youtube/"><u>Unlocking the Secrets: Eight Steps to Boost Your Video's Virality on YouTube</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unpacking-the-need-for-diversification-in-tech-after-recent-microsoft-service-interruptions/"><u>Unpacking the Need for Diversification in Tech After Recent Microsoft Service Interruptions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722889481984-unveiling-2024s-a-list-top-network-server-racks-and-secure-cabinets-compared/"><u>Unveiling 2024'S A-List: Top Network Server Racks and Secure Cabinets Compared</u></a></li>
+</ul></div>
 

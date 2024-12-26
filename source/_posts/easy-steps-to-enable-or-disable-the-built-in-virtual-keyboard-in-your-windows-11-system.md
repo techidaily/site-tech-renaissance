@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Enable or Disable the Built-In Virtual Keyboard in Your Windows 11 System
-date: 2024-08-26T07:19:50.284Z
-updated: 2024-08-27T07:19:50.284Z
+date: 2024-12-23T01:28:02.937Z
+updated: 2024-12-26T02:12:24.852Z
 categories:
   - BestProducts
 description: This Article Describes Easy Steps to Enable or Disable the Built-In Virtual Keyboard in Your Windows 11 System
@@ -13,6 +13,10 @@ thumbnail: https://www.lifewire.com/thmb/k3_1sospmHadLdMZjMmUrMcPTnI=/400x300/fi
  This article explains how to fix an unresponsive keyboard. This guide covers built-in keyboards as well as wired and wireless keyboards.
 
 [The Best Ergonomic Keyboards of 2024](https://www.lifewire.com/best-ergonomic-keyboards-4147386)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9 Ways to Fix the Problem
 
@@ -38,6 +42,10 @@ thumbnail: https://www.lifewire.com/thmb/k3_1sospmHadLdMZjMmUrMcPTnI=/400x300/fi
  If your keyboard stopped working after an update, you may need to[roll back your driver](https://www.lifewire.com/how-to-roll-back-a-driver-in-windows-2619217) instead.
 9. [Disable sticky and filter keys](https://www.lifewire.com/how-to-turn-off-sticky-keys-windows-4692841) . If your keyboard seems to work but is behaving unexpectedly and doesn't type the keys you're pressing, you may be able to fix it by disabling sticky, filter, and toggle keys.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why the Keyboard Quit Working
 
  Some of the reasons a keyboard might be unresponsive include:
@@ -50,6 +58,10 @@ thumbnail: https://www.lifewire.com/thmb/k3_1sospmHadLdMZjMmUrMcPTnI=/400x300/fi
 [The Best Bluetooth Keyboards for Smartphones in 2024](https://www.lifewire.com/best-bluetooth-keyboards-for-smartphones-4177695)
 
 ![A computer keyboard on white paper](https://www.lifewire.com/thmb/CeM-fcdHU1euNfVLy8semOjckm4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/bryan-natanael-hR8l1s4u8QE-unsplash-bf561a995f8840d29937369560cabfab.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Bryan Natanael / Unsplash
 
@@ -80,8 +92,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -89,8 +99,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-unlocking-secrets-of-strong-openings-podcasters-guidebook/"><u>[New] 2024 Approved Unlocking Secrets of Strong Openings Podcaster's Guidebook</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/1716069200311-updated-2024-approved-offline-android-delights-top-screen-free-game-list-you-must-play/"><u>[Updated] 2024 Approved Offline Android Delights Top Screen-Free Game List You Must Play!</u></a></li>
+<li><a href="https://win-hot.techidaily.com/come-ripristinare-i-tuoi-supporti-ottici-con-area-modificata-un-manuale-fai-da-te/"><u>Come Ripristinare I Tuoi Supporti Ottici Con Area Modificata: Un Manuale Fai Da Te</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/cross-generational-gaming-running-ps4-titles-on-ps5-systems/"><u>Cross-Generational Gaming: Running PS4 Titles on PS5 Systems</u></a></li>
+<li><a href="https://techidaily.com/download-linux-mint-22-alpha-preview-test-the-latest-ubuntu-based-os/"><u>Download Linux Mint 22 Alpha Preview: Test the Latest Ubuntu-Based OS!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-the-ideal-places-to-stream-live-concerts-and-artist-performances-for-free-online/"><u>Explore the Ideal Places to Stream Live Concerts and Artist Performances for Free Online</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-correctly-handle-the-missing-msodll-error-on-your-pc/"><u>How to Correctly Handle the Missing mso.dll Error on Your PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-host-a-virtual-movie-night-on-netflix-via-screen-sharing/"><u>How to Host a Virtual Movie Night on Netflix via Screen Sharing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-personalize-your-appearance-in-discord-by-altering-your-icon/"><u>How-To: Personalize Your Appearance in Discord by Altering Your Icon</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-animated-text-tips-free-inclusion-techniques/"><u>In 2024, Animated Text Tips Free Inclusion Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-access-control-return-users-to-standard-settings/"><u>Mastering Access Control: Return Users to Standard Settings</u></a></li>
+<li><a href="https://extra-information.techidaily.com/optimal-audio-10-best-microphones-for-action-footage/"><u>Optimal Audio 10 Best Microphones for Action Footage</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quick-fixes-how-to-restore-default-bios-configuration-by-clearing-cmos/"><u>Quick Fixes: How to Restore Default BIOS Configuration by Clearing CMOS</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-the-issue-of-non-launching-finals-a-comprehensive-guide/"><u>Resolving the Issue of Non-Launching Finals : A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-pairing-your-airpods-with-macbook-air/"><u>Step-by-Step Guide: Pairing Your AirPods with MacBook Air</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210771159-9798218148201-who-am-i/"><u>Who Am I | Free Book</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
