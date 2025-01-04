@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Configuring Your New Apple Watch - Tips From ZDNet
-date: 2024-12-23T08:38:15.145Z
-updated: 2024-12-25T21:56:42.337Z
+date: 2024-12-30T16:53:34.152Z
+updated: 2025-01-04T16:08:40.581Z
 tags:
   - apple
 categories:
@@ -44,12 +44,16 @@ Here's how.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to enable Slack notifications on your Apple Watch
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Install the Slack app on your iPhone
@@ -59,12 +63,16 @@ There is no dedicated Slack app for the Apple Watch, but there is an iPhone app.
 Once it's installed, go ahead and log into your various Slack channels. Get those setup and working as you like before configuring the app for notifications.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Set up Slack notifications in the system settings
 
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##   
 
@@ -98,10 +106,6 @@ Screenshot by David Gewirtz/ZDNET
 
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Set your notification schedule
 
 Let's go back to the Slack app's Notifications screen for a moment. Scroll down to General Settings and notice the Notification Schedule option. See how it says "Every day."
@@ -126,10 +130,6 @@ Recommendation to Slack: Where you put the "Every day" option in that setting, a
 
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##   
 
 Screenshot by David Gewirtz/ZDNET
@@ -137,7 +137,7 @@ Screenshot by David Gewirtz/ZDNET
 There. You've set up notifications. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
@@ -179,20 +179,22 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-diverse-opinions-one-easeus-evaluation/"><u>[New] In 2024, Diverse Opinions, One EaseUS Evaluation</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-understanding-tseries-financial-gain-in-youtube-space/"><u>[New] In 2024, Understanding TSeries' Financial Gain in YouTube Space</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-rapid-fire-guide-to-successful-double-exposures-for-2024/"><u>[Updated] Rapid-Fire Guide to Successful Double Exposures for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/auditory-aesthetics-guide-media-sound-choices-for-2024/"><u>Auditory Aesthetics Guide Media Sound Choices for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/delving-into-beyerdynamics-mmx-200-masterpiece/"><u>Delving Into Beyerdynamic's MMX 200 Masterpiece</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-steps-for-successfully-connecting-and-using-your-chromecast-remote/"><u>Easy Steps for Successfully Connecting and Using Your Chromecast Remote</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-solutions-for-restoring-functionality-to-a-broken-samsung-soundbar/"><u>Expert Solutions for Restoring Functionality to a Broken Samsung Soundbar</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-from-your-apple-iphone-xs-max-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock from your Apple iPhone XS Max and iPad</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-pro-level-gopro-tricks-and-insights/"><u>In 2024, Pro-Level GoPro Tricks and Insights</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-your-smart-tv-purchase-expert-advice-on-the-7-critical-aspects-to-review/"><u>Mastering Your Smart TV Purchase: Expert Advice on the 7 Critical Aspects to Review</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/speedy-movie-making-hacks-tips-to-learn-and-apply-at-home-for-2024/"><u>Speedy Movie Making Hacks Tips to Learn and Apply at Home for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721467096822-stuck-on-ios-update-here-are-9-solutions-to-get-you-up-to-date/"><u>Stuck on iOS Update? Here Are 9 Solutions to Get You Up-to-Date</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-applying-meta-ai-for-instagram-success/"><u>The Ultimate Guide to Applying Meta AI for Instagram Success</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-titles-only-available-on-playstation-5-the-ultimate-game-collection/"><u>Top Titles Only Available on PlayStation 5: The Ultimate Game Collection</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-expert-hacks-to-boost-productivity-with-apples-shortcuts-app-18-must-know-techniques/"><u>Ultimate Guide: Expert Hacks to Boost Productivity with Apple's Shortcuts App - 18 Must-Know Techniques</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-durecorder-simplified-essential-guidelines-and-reviews/"><u>[Updated] 2024 Approved DuRecorder Simplified Essential Guidelines & Reviews</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-visual-flair-filmmaking-the-foremost-15-luts-for-gopro-videos/"><u>[Updated] In 2024, Visual Flair Filmmaking The Foremost 15 LUTs for GoPro Videos</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/anticipated-release-date-new-ipad-models-expected-in-late-spring-of-2024-insights-from-zdnet/"><u>Anticipated Release Date: New iPad Models Expected in Late Spring of 2024 - Insights From ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comparing-iphone-models-is-upgrading-from-iphone-14-pro-to-iphone-16-pro-a-smart-move-insights-and-analysis-for-tech-enthusiasts-zdnet/"><u>Comparing iPhone Models: Is Upgrading From iPhone 14 Pro to iPhone 16 Pro a Smart Move? Insights & Analysis for Tech Enthusiasts | ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/elite-selection-premier-ceiling-speaker-choices/"><u>Elite Selection: Premier Ceiling Speaker Choices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/get-ahead-with-apple-watch-series-10-preorders-essential-guide-and-top-tricks-for-savings/"><u>Get Ahead with Apple Watch Series 10 Preorders - Essential Guide & Top Tricks for Savings</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-infinix-note-30-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Infinix Note 30 5G Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-vivo-y200e-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Vivo Y200e 5G to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/investigating-the-evolution-of-back-and-filter-buttons-in-pt/"><u>Investigating the Evolution of Back & Filter Buttons in PT</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-motorola-moto-g73-5g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Motorola Moto G73 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win-web3.techidaily.com/optimizing-your-machine-effective-strategies-for-boosting-computer-speed-guidance-from-yl-software/"><u>Optimizing Your Machine: Effective Strategies for Boosting Computer Speed - Guidance From YL Software</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionize-your-iphone-14-with-ios-18-for-effortless-content-production-as-featured-on-zdnet/"><u>Revolutionize Your iPhone 14 with iOS 18 for Effortless Content Production, as Featured on ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-3-iphone-13-gadgets-for-preserving-pristine-appearance-insights-from-zdnet/"><u>Top 3 iPhone 13 Gadgets for Preserving Pristine Appearance - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-iphone-1616-pro-case-selection-expert-ratings-and-reviews/"><u>Ultimate Guide to iPhone 16/16 Pro Case Selection: Expert Ratings and Reviews</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-concepts-behind-ray-tracing/"><u>Unveiling the Concepts Behind Ray Tracing</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/unveiling-windows-11s-protection-features-a-comprehensive-guide-by-yl-computing/"><u>Unveiling Windows 11'S Protection Features: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/winning-strategies-to-repair-osetupdll-not-detected-issues-effortlessly/"><u>Winning Strategies to Repair 'Osetup.dll Not Detected' Issues Effortlessly</u></a></li>
 </ul></div>
 

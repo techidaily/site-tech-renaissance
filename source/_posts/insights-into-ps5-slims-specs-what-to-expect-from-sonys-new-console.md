@@ -1,7 +1,7 @@
 ---
 title: Insights Into PS5 Slim's Specs - What to Expect From Sony's New Console!
-date: 2024-08-20T10:41:56.443Z
-updated: 2024-08-21T10:41:56.443Z
+date: 2024-12-31T16:25:11.837Z
+updated: 2025-01-04T16:06:04.330Z
 categories:
   - BestProducts
 description: This Article Describes Insights Into PS5 Slim's Specs - What to Expect From Sony's New Console!
@@ -25,20 +25,26 @@ In This Article
 
  Rumors say the company will announce this Google TV streaming device at[the next Google event](https://www.lifewire.com/google-event-5205756) in August. This is the same event poised to introduce several other Google products like the[Pixel Watch 3](https://www.lifewire.com/google-pixel-watch-3-8431024) and[Pixel 9 smartphone](https://www.lifewire.com/google-pixel-9-8630767) .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Lifewire's Release Date Estimate
 
 August 13 is our best guess.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Google TV Streamer Price Rumors
 
  The only reference point we have to price this new[streaming device](https://www.lifewire.com/what-is-a-streaming-device-5208767) is Google's 4K Chromecast with Google TV, which is priced at $50\. They could easily drop that price and slot the Google TV Streamer in its place. If not, the most we can see Google charging for the Google TV Streamer is $70.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Pre-Order Information
 
  Pre-orders for the Google TV Streamer will probably start immediately following its announcement on August 13.
@@ -47,15 +53,12 @@ August 13 is our best guess.
 
 ![The Google TV Streamer and remote](https://www.lifewire.com/thmb/-vnWbTJuk9OzmaxhkBjEiqhYPRA=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/google-tv-streamer-remote-f778bf371f604247a3e9592a4f4d4f6b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 9to5Google
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Google TV Streamer Specs & Features
 
  In the picture above, you can see that, apart from the remote, this device looks nothing like the Chromecast with Google TV. Otherwise, we think it will work exactly like a Chromecast, letting you stream music and videos from online services and cast media to it from other devices.
@@ -71,13 +74,11 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 ![Google TV Streamer remote](https://www.lifewire.com/thmb/a47wfU6UCU7urolc1HR8HsvT2D8=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Google-TV-Streamer-Remote-ee116f9ff7d44f16a632d2414517c129.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 9to5Google
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## The Latest News About the Google TV Streamer
 
  You can[read all the latest on streaming devices here on Lifewire](https://www.lifewire.com/streaming-news-4797038) . Below are some stories about Google products that you might find interesting.
@@ -88,14 +89,11 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 [Chromecast vs. Roku: Which Streaming Device Is Better?](https://www.lifewire.com/chromecast-vs-roku-4580492)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -104,4 +102,22 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-achieving-clip-perfection-with-blending-techniques/"><u>[New] 2024 Approved Achieving Clip Perfection with Blending Techniques</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-mastering-the-art-of-professional-gopro-cinematography/"><u>[New] 2024 Approved Mastering the Art of Professional Gopro Cinematography</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-next-gen-psvr-experience-essential-upcoming-games-to-watch/"><u>[Updated] 2024 Approved Next Gen PSVR Experience Essential Upcoming Games to Watch</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-how-to-watch-deleted-youtube-videos-online-in-2-ways-ultimate-guide-for-2024/"><u>[Updated] How to Watch Deleted YouTube Videos Online in 2 Ways | Ultimate Guide for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-digital-diary-documenting-windows-desktop/"><u>[Updated] In 2024, Digital Diary Documenting Windows Desktop</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-mastering-vimeo-uploads-with-imovie-videos/"><u>[Updated] In 2024, Mastering Vimeo Uploads with iMovie Videos</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1-walmart-beats-amazon-exclusive-200-oculus-quest-2-steals-the-show-during-major-spring-discount-event-tech-news-today/"><u>1. Walmart Beats Amazon: Exclusive $200 Oculus Quest 2 Steals the Show During Major Spring Discount Event – Tech News Today</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/anticipated-launch-all-insider-details-on-apples-upcoming-arvr-headset-exclusive-update-from-zdnet/"><u>Anticipated Launch: All Insider Details on Apple's Upcoming AR/VR Headset - Exclusive Update From ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/do-you-really-need-customized-meta-quest-3-lenses-a-comprehensive-guide-from-a-vr-enthusiast/"><u>Do You Really Need Customized Meta Quest 3 Lenses? A Comprehensive Guide From a VR Enthusiast</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-components-of-a-successful-digital-twins-strategy-integrating-ai-for-enhanced-business-operations/"><u>Essential Components of a Successful Digital Twins Strategy: Integrating AI for Enhanced Business Operations</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/federal-commission-greenlights-enhanced-6ghz-spectrum-use-for-immersive-tech-arvr-devices-gain-speed-boost-zdnet-reports/"><u>Federal Commission Greenlights Enhanced 6GHz Spectrum Use for Immersive Tech: AR/VR Devices Gain Speed Boost, ZDNet Reports</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-this-budget-friendly-ultraportable-vr-headset-unleashes-the-potential-of-vision-pro-at-a-fraction-of-the-price-zdnet/"><u>How This Budget-Friendly, Ultraportable VR Headset Unleashes the Potential of Vision Pro at a Fraction of the Price | ZDNET</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-explore-1-5-iphone-podcast-platforms-for-all/"><u>In 2024, Explore #1-#5 iPhone Podcast Platforms for All</u></a></li>
+<li><a href="https://driver-download.techidaily.com/keep-your-microsoft-pointing-device-smooth-update-its-windows-driver-today/"><u>Keep Your Microsoft Pointing Device Smooth: Update Its Windows Driver Today!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-3-critical-mistakes-in-handling-apple-vision-pro-avoid-them-or-risk-losing-it-all-insights-by-zdnet/"><u>Top 3 Critical Mistakes in Handling Apple Vision Pro - Avoid Them or Risk Losing It All | Insights by ZDNET</u></a></li>
+</ul></div>
 

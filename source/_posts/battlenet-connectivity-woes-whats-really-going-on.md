@@ -1,7 +1,7 @@
 ---
 title: Battle.net Connectivity Woes – What's Really Going On?
-date: 2024-12-22T05:55:58.957Z
-updated: 2024-12-26T05:33:30.241Z
+date: 2024-12-29T16:51:53.120Z
+updated: 2025-01-04T17:04:51.743Z
 categories:
   - BestProducts
 description: This Article Describes Battle.net Connectivity Woes – What's Really Going On?
@@ -25,7 +25,7 @@ thumbnail: https://www.lifewire.com/thmb/7SVNsNvJRUYagG161s9Wb40HsGI=/400x300/fi
  This article explains how to add a printer to your home network using an Ethernet or wireless connection on Windows and Mac devices.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Add a Network Printer in Windows
@@ -37,22 +37,18 @@ thumbnail: https://www.lifewire.com/thmb/7SVNsNvJRUYagG161s9Wb40HsGI=/400x300/fi
 2. Open the Start menu and search for**printers** . Choose**Printers & scanners** from the list, or**Devices and Printers** in some versions of Windows.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![A screenshot of Windows' Start menu with the Printers & Scanners option highlighted](https://www.lifewire.com/thmb/qjYN6dM4IdckwIT0z5IiZHp155k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-networking-a-printer-817579-a4a6339ae1e6404b883a2925906f0054.jpg)
 3. Select the printer you want to share and then go to**Printer properties** \>**Sharing** . Select the**Share this printer** check box.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Printer settings in Windows with the Sharing tab and Share checkbox highlighted](https://www.lifewire.com/thmb/FMznevOCPfflR4PrsuJo27zeQYw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-networking-a-printer-817579-479b4bf125d54847b2c6265deb2945e4.jpg)
 4. Change the share name if you want, then press**OK** to save.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [When another computer adds the printer](https://www.lifewire.com/add-printer-to-windows-11-5194315) , they will need the right printer driver. This should be a seamless process as long as the PC that shared the printer has the correct drivers installed. If other computers can't print to the shared printer, they should visit the manufacturer's website to[get the correct printer drivers](https://www.lifewire.com/how-to-install-a-printer-driver-4781671) .
 
@@ -65,7 +61,7 @@ thumbnail: https://www.lifewire.com/thmb/7SVNsNvJRUYagG161s9Wb40HsGI=/400x300/fi
 * Different Unix and Linux distributions provide generic support for network printing. User interface details differ, but most are based on a common Unix printing mechanism called CUPS_._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Using Wireless Printers on a Network
@@ -79,6 +75,10 @@ thumbnail: https://www.lifewire.com/thmb/7SVNsNvJRUYagG161s9Wb40HsGI=/400x300/fi
  Some home printers offer[Bluetooth](https://www.lifewire.com/what-is-bluetooth-2377412) network capability, usually enabled by an attached adapter rather than being built-in. Bluetooth printers are designed to support general-purpose printing from cell phones. Because it is a short-range wireless protocol, phones running Bluetooth must be placed close to the printer to work.
 
 [How to Find the Printer on Your Network in Windows 11](https://www.lifewire.com/find-printer-on-network-in-windows-11-5193983)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Wireless Printer Adapters
 
@@ -122,20 +122,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-eye-of-excellence-a-comprehensive-list-of-8k-cameras/"><u>[New] Eye of Excellence A Comprehensive List of 8K Cameras</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-discover-ultimate-sites-for-stunning-sky-photos/"><u>[New] In 2024, Discover Ultimate Sites for Stunning Sky Photos</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-top-linux-tools-for-high-quality-screenshots-revealed/"><u>[New] Top Linux Tools For High-Quality Screenshots Revealed</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-explore-artistic-possibilities-premier-android-graphics-app-selection/"><u>2024 Approved Explore Artistic Possibilities Premier Android Graphics App Selection</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/explore-apples-virtual-worlds-with-meta-vr-headsets-mastering-the-process-zdnet/"><u>Explore Apple's Virtual Worlds with Meta VR Headsets - Mastering the Process | ZDNET</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-collaborative-creativity-the-disney-and-marvel-vision-pro-multiverse-experience-with-you-as-the-hero-zdnet-unveiled/"><u>Exploring Collaborative Creativity: The Disney & Marvel Vision Pro Multiverse Experience with You as the Hero | ZDNet Unveiled</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/guide-assure-pour-linstallation-dun-ssd-dans-windows-710-pas-besoin-de-reformatage/"><u>Guide Assuré Pour L'installation D'un SSD Dans Windows 7/1^0 : Pas Besoin De Reformatage!</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723209659317-hidden-in-plain-sight-your-sd-card-solution/"><u>Hidden in Plain Sight - Your SD Card Solution!</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-master-your-media-comprehensive-guide-to-instagram-converters-windowsmac/"><u>In 2024, Master Your Media Comprehensive Guide to Instagram Converters (Windows/Mac)</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/iphone-and-ipad-applications-now-pre-loaded-on-the-vision-professional-app-store-zdnet-update/"><u>IPhone & iPad Applications Now Pre-Loaded on the Vision Professional App Store - ZDNet Update</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/is-apples-vision-pro-game-changer-for-enhancing-your-economy-class-experience-insights-from-zdnet/"><u>Is Apple's Vision Pro Game-Changer for Enhancing Your Economy Class Experience? Insights From ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/overcoming-key-challenges-how-immerseds-latest-visor-xr-headset-fixes-issues-with-vision-pro-exclusive-insights-from-zdnet/"><u>Overcoming Key Challenges: How Immersed's Latest Visor XR Headset Fixes Issues with Vision Pro - Exclusive Insights From ZDNet</u></a></li>
-<li><a href="https://video-capture.techidaily.com/plain-screenshot-software-for-windows-10-for-2024/"><u>Plain Screenshot Software for Windows 10 for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/revolutionary-vision-pro-led-technology-reshapes-samsungs-roadmap-new-2024-deadline-set-for-cutting-edge-vr-headset-unveiled-by-zdnet-report/"><u>Revolutionary Vision Pro Led Technology Reshapes Samsung's Roadmap: New 2024 Deadline Set for Cutting-Edge VR Headset Unveiled by ZDNET Report</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-ar-glasses-trends-a-comprehensive-review-by-zdnet/"><u>Top AR Glasses Trends : A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-maximizing-youtube-visibility-with-key-hashtags/"><u>[New] In 2024, Maximizing YouTube Visibility with Key #Hashtags</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-a-treasure-trove-of-9-complete-holiday-flicks-free-streaming/"><u>[Updated] A Treasure Trove of 9 Complete Holiday Flicks, Free Streaming</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-revolutionize-your-videos-top-10-mobile-editing-apps-on-iosandroid/"><u>[Updated] In 2024, Revolutionize Your Videos Top 10 Mobile Editing Apps on iOS/Android</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-premier-no-cost-screen-recorder-tool/"><u>[Updated] Premier No-Cost Screen Recorder Tool</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/boost-your-apple-watch-lifespan-unlock-key-settings-for-better-battery-usage-expert-advice/"><u>Boost Your Apple Watch Lifespan: Unlock Key Settings for Better Battery Usage - Expert Advice</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-toppers-on-screen-uploading-songs-methodically/"><u>Chart-Toppers on Screen Uploading Songs Methodically</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/compare-and-contrast-in-depth-review-of-new-features-on-apples-airpods-4-lineup-insights-from-zdnet/"><u>Compare and Contrast: In-Depth Review of New Features on Apple's AirPods 4 Lineup | Insights From ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/critical-bugs-in-macos-sierra-version-144-exposed-prepare-before-upgrading-insights-from-zdnet/"><u>Critical Bugs in macOS Sierra Version 14.4 Exposed - Prepare Before Upgrading: Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discovering-excellence-in-audio-a-comparative-analysis-of-the-best-alternatives-to-bose-and-sony-soundbars-by-zdnet/"><u>Discovering Excellence in Audio: A Comparative Analysis of the Best Alternatives to Bose and Sony Soundbars by ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/evaluating-the-iphone-14-a-device-that-fits-its-role-perfectly-gadgetreviewcentral/"><u>Evaluating the iPhone 14: A Device That Fits Its Role Perfectly | GadgetReviewCentral</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exclusive-guide-to-premium-free-slo-mo-photo-and-video-apps-for-2024/"><u>Exclusive Guide to Premium, Free Slo-Mo Photo & Video Apps for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/get-your-hands-on-an-iphone-15-pro-max-at-just-a-penny-unlocking-amazons-steep-discount-strategy-a-detailed-guide/"><u>Get Your Hands on an iPhone 15 Pro Max at Just a Penny: Unlocking Amazon's Steep Discount Strategy - A Detailed Guide!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-instagrams-podcast-post-and-story-distribution/"><u>In 2024, Mastering Instagram's Podcast Post & Story Distribution</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionizing-mobile-interaction-apple-introduces-eye-controlled-commands-for-iphone-and-ipad-insights/"><u>Revolutionizing Mobile Interaction: Apple Introduces Eye-Controlled Commands for iPhone and iPad - Insights</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211440706--thinking-about-thinking/"><u>Thinking About Thinking | Free Book</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-energy-efficiency-activating-your-apple-watchs-low-power-feature-insights/"><u>Unlocking Energy Efficiency: Activating Your Apple Watch's Low-Power Feature | Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-apples-secret-project-the-intriguing-new-game-mode-explained-what-you-need-to-know-techinsights/"><u>Unveiling Apple's Secret Project: The Intriguing New Game Mode Explained - What You Need to Know | TechInsights</u></a></li>
 </ul></div>
 

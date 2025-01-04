@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Reveals: Siri's Next Leap in Intelligence Thanks to Apple Innovations, Anticipate Key Enhancements by 2Astock"
-date: 2024-12-21T01:56:32.438Z
-updated: 2024-12-25T21:32:59.243Z
+date: 2024-12-28T16:15:37.077Z
+updated: 2025-01-04T16:58:27.446Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ The ever-evolving, rapidly changing landscape of mobile technology means that wh
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### SPECIAL FEATURE
@@ -35,7 +35,7 @@ This year, five topics will likely dominate the headlines, dictate the next indu
 And that's just the beginning, as you'll find more notable trends in the list below, all of which have already begun to take shape.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. On-device AI puts the 'smart' in smartphone
@@ -53,7 +53,7 @@ Samsung's just-released [Galaxy S24 smartphones](https://www.zdnet.com/article/e
 Qualcomm is playing a major role here as well, with its flagship [Snapdragon 8 Gen 3 chipset](https://www.zdnet.com/article/qualcomms-new-snapdragon-8-gen-3-mobile-chip-brings-generative-ai-to-smartphones/) enabling performance gains across the board on smartphones, from a 20% improvement in CPU, 30% in GPU, and 41% in NPU -- the latter of which is critical for devices to perform generative AI tasks in a power-efficient manner. Expect more flagship [Android phones](https://www.zdnet.com/article/best-android-phone/) this year -- as well as [VR and XR headsets](https://www.zdnet.com/article/best-vr-headset/) \-- to field Qualcomm's new processor, with plenty of AI-enabled capabilities in tow.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Foldables are getting better (and cheaper)
@@ -72,6 +72,10 @@ Now that the major players have entered the competition, the big question this y
 
 But there's hope. Carrier providers, who often discount the latest devices aggressively in exchange for customer loyalty (read: agreement to long-term installment plans), remain a primary source of US smartphone sales. Motorola's [standard Razr model](https://www.zdnet.com/article/this-motorola-is-still-200-off-and-its-surprisingly-capable/), which can be purchased for [as low as $499](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmotorola-razr-2023-128gb-unlocked-sage-green%2F6557867.p%3F&publisher_slug=itechdaily19598&exclusive=1) at the time of writing, is another sign of good things to come. With that in mind, 2024 is looking to be a promising sequel to foldables' breakout year in 2023.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Qi2 bridges a long-standing gap in charging
 
 The iPhone 15 Pro (left) next to the Samsung Galaxy S23 Ultra (right).
@@ -89,7 +93,7 @@ The adoption of such technology bridges a longstanding gap between MagSafe-compa
 **Also: [The best wireless chargers for iPhone and Android phones](https://www.zdnet.com/article/best-wireless-charger/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Periscope lenses push cameras to further distances
@@ -109,10 +113,6 @@ Companies like Samsung have long adopted periscope lenses to improve their camer
 As manufacturers continue to figure out ways to shrink and fit better components within the framework of smartphones, expect better, more capable cameras in 2024 and beyond.
 
 **Also:** [**The evolution of smartphone cameras: From megapixels to AI-driven photography**](https://www.zdnet.com/article/the-evolution-of-smartphone-cameras-from-megapixels-to-ai-driven-photography/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. A new class of mobile devices
 
@@ -168,19 +168,20 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/updated-quick-memes-on-demand-unlocking-kinemaster/"><u>[Updated] Quick Memes on Demand Unlocking KineMaster</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-top-tier-hd-screen-recording-technology-for-2024/"><u>[Updated] Top-Tier HD Screen Recording Technology for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1725288564709-windows-11dvd/"><u>【最新情報】Windows 11でDVD認識がうまくいかない理由とその対処法を学ぶ！</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-digital-game-chronicles/"><u>2024 Approved Digital Game Chronicles</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-how-to-change-your-tiktok-username-an-ultimate-guide/"><u>2024 Approved How to Change Your TikTok Username - an Ultimate Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-unseen-aspects-of-drone-shopping-you-mustnt-ignore/"><u>2024 Approved The Unseen Aspects of Drone Shopping You Mustn’t Ignore</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/chatgpts-backstory-pinpointing-microsoft-as-its-rightful-parent-company/"><u>ChatGPT's Backstory: Pinpointing Microsoft as Its Rightful Parent Company</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722869373755-error-free-searching-on-windows-11-a-comprehensive-troubleshooting-guide/"><u>Error-Free Searching on Windows 11: A Comprehensive Troubleshooting Guide</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/selecting-the-perfect-online-source-15-best-royalty-free-music-urls-for-2024/"><u>Selecting the Perfect Online Source 15 Best Royalty-Free Music URLs for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/simple-steps-to-connect-your-apple-homepod-to-the-tv-an-easy-guide/"><u>Simple Steps to Connect Your Apple HomePod to the TV: An Easy Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solution-steps-why-your-instagram-stories-wont-upload-and-how-to-fix-them/"><u>Solution Steps: Why Your Instagram Stories Won’t Upload and How to Fix Them</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-taking-a-screenshot-with-logitechs-comfort-keys/"><u>Step-by-Step Guide: Taking a Screenshot with Logitech's Comfort Keys</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-best-ways-to-watch-spider-man-no-way-home-at-home/"><u>The Best Ways to Watch 'Spider-Man: No Way Home' At Home</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlocking-history-with-the-wayback-machine-step-by-step-tutorial/"><u>Unlocking History with The Wayback Machine - Step by Step Tutorial</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-innovative-youtube-channel-titles-the-key-to-successful-blogging-and-filmmaking-no-more-than-156-characters/"><u>[Updated] 2024 Approved Innovative YouTube Channel Titles The Key to Successful Blogging & Filmmaking (No More than 156 Characters)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/common-pitfalls-in-transitioning-to-ios-18-what-users-like-me-dont-want-you-to-miss/"><u>Common Pitfalls in Transitioning to iOS 18: What Users Like Me Don't Want You To Miss!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/early-steal-on-the-new-apple-m2-macbook-air-available-at-amazon-for-only-800-dont-miss-out-before-prime-day-hits/"><u>Early Steal on the New Apple M2 MacBook Air Available at Amazon for Only $800 – Don't Miss Out Before Prime Day Hits!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/efficiently-monitor-trending-topics-4-essential-hashtag-follower-applications-on-twitter/"><u>Efficiently Monitor Trending Topics: 4 Essential Hashtag Follower Applications on Twitter</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-our-choice-of-the-6-greatest-portable-translator-tools/"><u>Explore Our Choice of the 6 Greatest Portable Translator Tools</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-chill-troubleshooting-and-solutions-for-call-of-duty-black-ops-cold-war-glitches-free-of-charge/"><u>Fixing the Chill: Troubleshooting & Solutions for Call of Duty: Black Ops Cold War Glitches Free of Charge</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/hololens-review-pioneering-virtual-spacecraft/"><u>HoloLens Review Pioneering Virtual Spacecraft</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-oppo-reno-10-proplus-5g-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Oppo Reno 10 Pro+ 5G to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximizing-chatgpts-potential-with-usechatgpt-co-pilot-extension/"><u>Maximizing ChatGPT's Potential with UseChatGPT Co-Pilot Extension</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/premium-keyboard-cushion-covers-ranked-enhance-typing-comfort/"><u>Premium Keyboard Cushion Covers Ranked: Enhance Typing Comfort</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/saving-photo-printouts-from-failures/"><u>Saving Photo Printouts From Failures</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/snag-the-perfect-pair-premium-earbud-and-over-ear-deals-for-march-2-insider-tips/"><u>Snag the Perfect Pair: Premium Earbud and Over-Ear Deals for March 2^ | Insider Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-the-haldll-issue-solutions-for-windows-xp/"><u>Troubleshooting the Hal.dll Issue: Solutions for Windows XP</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/why-you-wont-find-the-latest-ai-innovations-on-your-aging-iphone-the-costly-truth-behind-apples-strategy-zdnet/"><u>Why You Won't Find the Latest AI Innovations on Your Aging iPhone: The Costly Truth Behind Apple's Strategy | ZDNet</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Join the Chorus of Discontent: The Unforeseen Consequences of Moving to iOS 18 on Your iPhone, as Revealed by ZDNet's Readers"
-date: 2024-12-20T17:26:55.912Z
-updated: 2024-12-25T16:29:16.006Z
+date: 2025-01-02T16:59:31.438Z
+updated: 2025-01-04T16:01:26.011Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,17 +109,19 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-instagram-video-limits-explained-in-detail/"><u>[Updated] 2024 Approved Instagram Video Limits Explained in Detail</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-complete-guide-to-video-studios-focusing-on-xvideo/"><u>[Updated] Complete Guide to Video Studios Focusing on XVideo</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-identifying-affordable-cloud-providers-for-businesses-for-2024/"><u>[Updated] Identifying Affordable Cloud Providers for Businesses for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-mastering-igtv-video-downloads-on-windows-and-mac-top-5-methods/"><u>[Updated] Mastering IGTV Video Downloads on Windows & Mac Top 5 Methods</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-strategic-first-impressions-the-unpacking-edge-for-2024/"><u>[Updated] Strategic First Impressions The Unpacking Edge for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-infinix-zero-5g-2023-turbo-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Infinix Zero 5G 2023 Turbo</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/detecting-and-upgrading-obsolete-programs-a-guide-by-yl-computing-modernize-your-tech/"><u>Detecting & Upgrading Obsolete Programs: A Guide by YL Computing - Modernize Your Tech</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-the-drone-that-never-loses-you-top-10-list/"><u>In 2024, The Drone that Never Loses You - Top 10 List</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722876261291-macbook-air-woes-learn-how-to-successfully-de-frozen-and-continue-working/"><u>MacBook Air Woes? Learn How to Successfully De-Frozen and Continue Working!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-the-rpcrt4dll-file-doesnt-exist-issue-effective-strategies/"><u>Solving the 'Rpcrt4.dll' File Doesn't Exist Issue: Effective Strategies</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-mastering-the-art-of-ps4-gameplay-recording/"><u>Step-by-Step Tutorial: Mastering the Art of PS4 Gameplay Recording</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-when-you-cant-find-shell3dll-on-your-computer/"><u>Troubleshooting Tips: When You Can't Find Shell3.dll on Your Computer</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-endings-that-wow-ranked-for-you-top-6-for-2024/"><u>[Updated] Free Endings That Wow - Ranked for You (Top 6) for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/5-quick-hacks-to-sharpen-your-indie-filmmaking-skills/"><u>5 Quick Hacks to Sharpen Your Indie Filmmaking Skills</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/amplifying-viewership-strategies-for-unboxing-tiktoks-for-2024/"><u>Amplifying Viewership Strategies for Unboxing TikToks for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/budget-friendly-fitbit-versa-comprehensive-smartwatch-evaluation/"><u>Budget-Friendly Fitbit Versa: Comprehensive Smartwatch Evaluation</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/decluttering-inbox-made-easy-learn-the-simple-strategy-for-uncluttered-emails-without-multiple-accounts-or-rules-cybersavvy/"><u>Decluttering Inbox Made Easy: Learn the Simple Strategy for Uncluttered Emails without Multiple Accounts or Rules | CyberSavvy</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-world-of-dvrs-what-are-they-and-how-do-they-work/"><u>Exploring the World of DVRs: What Are They and How Do They Work?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/galaxy-ais-rise-in-tech-innovations-outshines-googles-setback-from-antitrust-loss-zdnet-insights/"><u>Galaxy AI's Rise in Tech Innovations Outshines Google's Setback From Antitrust Loss | ZDNet Insights</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-instant-setup-free-targus-docking-station-driver-download/"><u>Get Instant Setup: Free Targus Docking Station Driver Download</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-fully-remove-and-cancel-your-yahoo-mail-account-securely/"><u>How To Fully Remove and Cancel Your Yahoo! Mail Account Securely</u></a></li>
+<li><a href="https://win11.techidaily.com/lockdown-windows-7-ways-to-secure-your-system/"><u>Lockdown Windows: 7 Ways to Secure Your System</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/next-gen-siri-boosted-with-apples-intelligence-upgrades-major-overhaul-coming-insights-from-zdnet/"><u>Next-Gen Siri Boosted with Apple's Intelligence Upgrades; Major Overhaul Coming - Insights From ZDNet</u></a></li>
+<li><a href="https://win-net.techidaily.com/step-by-step-guide-to-setting-up-a-restoration-point-on-windows-server-200/"><u>Step-by-Step Guide to Setting Up a Restoration Point on Windows Server 200</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/the-ultimate-mp4-editor-for-windows-8-fast-and-user-friendly-for-2024/"><u>The Ultimate MP4 Editor for Windows 8 Fast and User-Friendly for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-to-correctly-address-the-blue-screen-with-error-code-0x0000007b/"><u>Troubleshooting Tips to Correctly Address the Blue Screen with Error Code 0X0000007B</u></a></li>
 </ul></div>
 

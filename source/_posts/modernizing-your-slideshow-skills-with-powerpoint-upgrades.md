@@ -1,7 +1,7 @@
 ---
 title: Modernizing Your Slideshow Skills with PowerPoint Upgrades
-date: 2024-08-20T10:38:54.417Z
-updated: 2024-08-21T10:38:54.417Z
+date: 2024-12-29T16:56:09.654Z
+updated: 2025-01-04T16:57:04.010Z
 categories:
   - BestProducts
 description: This Article Describes Modernizing Your Slideshow Skills with PowerPoint Upgrades
@@ -20,6 +20,10 @@ thumbnail: https://www.lifewire.com/thmb/Sg28sCuw-d6diHm6-V8qqDluqXI=/400x300/fi
 
  Make sure you're signed in to your iPad and iPhone with the same Apple ID to enable text forwarding.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Set up Text Forwarding
 
  When you set up text forwarding between your iPad and iPhone, you can text people from your iPad even if they have an Android device or a phone without smart features.
@@ -33,15 +37,25 @@ thumbnail: https://www.lifewire.com/thmb/Sg28sCuw-d6diHm6-V8qqDluqXI=/400x300/fi
 3. This screen lists the Apple devices you own that can use the Continuity feature. Tap the toggle switch**On** beside your iPad to enable text message forwarding for it.  
 ![Three iOS screens showing Messages icon, Text Message Forwarding, and iPad toggle to ON](https://www.lifewire.com/thmb/Pycxc-rb6i-156HiPxbUAYDRAt0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_text-message-on-ipad-1994688-5c30051546e0fb00012bffe8.jpg)
 4. You are prompted to type a code on the iPad to activate the feature. After you type the code, your iPad can send text messages to both iPhone users and non-iPhone users.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The iPad uses the same stickers, animations, and drawings that are included with the iPhone text messaging app.[Upgrade to the latest operating system](https://www.lifewire.com/upgrade-iphones-operating-system-2000293) to ensure you have the recent features.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Text on Your iPad if You Don't Own an iPhone
 
  If you don't own an iPhone, there are several ways to use your iPad to send text messages. Use Apple's service, alternatives to text messaging, or one of the apps that provide free SMS messaging on the iPad.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Messages App
 
  The Messages app can send text messages to anyone who owns an iPhone or iPad, even if you don't own an iPhone.
@@ -50,23 +64,14 @@ thumbnail: https://www.lifewire.com/thmb/Sg28sCuw-d6diHm6-V8qqDluqXI=/400x300/fi
 
  To turn on this feature, tap**Settings** \>**Messages** \>**Send & Receive** . The iPad lists the email accounts associated with your Apple ID. Tap to put a check mark next to the email addresses you want to use.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ### Facebook Messenger
 
  If you have friends or family that use Android or a Windows Phone, send them messages using the Facebook Messenger app. Anyone who has a Facebook account can be reached via Facebook Messenger.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ### Skype
 
  Skype allows you to use your iPad as a phone. In addition to sending text messages, you can send video messages, place phone calls, and video conference. If you want to stay in touch with someone and can't use Messages because they don't own an iOS device, Skype is a great alternative.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ### Snapchat
 
  Snapchat works on the iPad. However, you'll jump through a hoop to install it.
@@ -75,9 +80,6 @@ thumbnail: https://www.lifewire.com/thmb/Sg28sCuw-d6diHm6-V8qqDluqXI=/400x300/fi
 
  Snapchat isn't true text messaging because you can only message people who signed up for the service, but it offers a fun alternative to traditional text messaging.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Viber
 
  Viber has all the bells and whistles you would expect in a social messaging service, including Viber Wink, which deletes the message after it is viewed.
@@ -85,8 +87,9 @@ thumbnail: https://www.lifewire.com/thmb/Sg28sCuw-d6diHm6-V8qqDluqXI=/400x300/fi
  You can also place phone calls and video calls and get involved in public chats. Viber also supports[split-view multitasking](https://www.lifewire.com/how-to-use-ipad-split-screen-4687495) .  
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### More Free Texting Apps
 
  FreeTone (formerly Text Me) and textPlus offer free texting to iPad users. FreeTone offers users a free phone number capable of sending SMS messages to the U.S., Canada, and 40 other countries.
@@ -124,8 +127,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -133,4 +134,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/approved-cutting-through-content-clutter-youtube-shorts-essentials/"><u>2024 Approved Cutting Through Content Clutter YouTube Shorts Essentials</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-tutorial-on-eliminating-windows-boot-repair-section/"><u>Comprehensive Tutorial on Eliminating Windows Boot Repair Section</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-ways-to-integrate-titles-or-descriptions-with-instagram-video-clips/"><u>Easy Ways to Integrate Titles or Descriptions with Instagram Video Clips</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-samsung-galaxy-z-flip-5-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Samsung Galaxy Z Flip 5</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolve-valorant-graphics-driver-failure-swiftly-and-easily/"><u>Resolve Valorant Graphics Driver Failure Swiftly and Easily</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/steam-gifting-made-simple-a-step-by-step-tutorial-to-send-virtual-gifts-online/"><u>Steam Gifting Made Simple: A Step-by-Step Tutorial to Send Virtual Gifts Online</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-5-easy-steps-for-altering-game-voices-in-pubg-for-2024/"><u>The 5 Easy Steps for Altering Game Voices in PUBG for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-virtual-realities-ios-and-androids-best-apps-for-2024/"><u>Top Virtual Realities IOS & Android's Best Apps for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-cross-platform-potential-run-your-favorite-android-apps-on-windows-11/"><u>Unlocking Cross-Platform Potential: Run Your Favorite Android Apps on Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upcoming-meta-quest-3-lite-insider-info-on-speculated-launch-dates-price-range-and-hardware-details-uncovered/"><u>Upcoming Meta Quest 3 Lite – Insider Info on Speculated Launch Dates, Price Range & Hardware Details Uncovered</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/youtube-windows-10/"><u>YouTube動画録画講座: Windows 10ユーザーへのシンプルかつステップバイステップ</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Guide: Sending & Receiving iMessage From a PC with Windows - Tech Tips"
-date: 2024-12-20T03:02:53.643Z
-updated: 2024-12-26T00:34:17.986Z
+date: 2025-01-02T16:06:49.780Z
+updated: 2025-01-04T16:48:19.274Z
 tags:
   - apple
 categories:
@@ -42,11 +42,11 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to send and receive iMessages on Windows
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Use Microsoft Phone Link
 
@@ -60,10 +60,6 @@ Next, confirm that you're running the latest version of Phone Link. To do this, 
 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Open Phone Link
 
 Click the Start button, go to All Apps, and select Phone Link from the list. The first screen prompts you to select your device. Click the button for iPhone.
@@ -71,7 +67,7 @@ Click the Start button, go to All Apps, and select Phone Link from the list. The
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Scan the QR codes
@@ -90,6 +86,10 @@ Your phone should ask if you want your PC to receive notifications from your iPh
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Run Phone Link
 
 The Phone Link welcome screen should appear on your PC and ask if you want to open the app each time you log into Windows. If you do, check the box.
@@ -107,10 +107,6 @@ Screenshot by Lance Whitney/ZDNET
 You can also start a new conversation. To do this, select one of your displayed contacts and then compose and send your text. To chat with someone else, click the New Message icon and type the name or phone number of the recipient. Compose and send your message.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Use Intel Unison
 
@@ -140,6 +136,10 @@ At the "Let's get started" screen in the Windows Unison app, click the icon for 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4\. Go to the Messages screen
 
 At the Messages screen, click the icon for "Compose a new message." Choose the recipient from your list of contacts or type the name, email address, or phone number for someone not in your contact list.
@@ -147,7 +147,7 @@ At the Messages screen, click the icon for "Compose a new message." Choose the r
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Send a message
@@ -192,17 +192,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-download-unlimited-mcb-visual-elements/"><u>[New] 2024 Approved Download Unlimited MCB Visual Elements</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-unveiled-top-5-visual-treats-on-social-medias-giant-for-2024/"><u>[New] Unveiled Top 5 Visual Treats on Social Media's Giant for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-implementing-video-timelines-on-youtube/"><u>[Updated] Implementing Video Timelines on YouTube</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-balancing-frequency-and-quality-in-youtube-video-uploads/"><u>[Updated] In 2024, Balancing Frequency & Quality in YouTube Video Uploads</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-wit-whisperer-visual-snap/"><u>[Updated] In 2024, Wit Whisperer Visual Snap</u></a></li>
-<li><a href="https://fox-info.techidaily.com/best-subtitle-converters-win-and-mac-edition-leading-8-sbt-to-srtr-tools/"><u>Best Subtitle Converters Win & Mac Edition, Leading 8 SBT to SRTR Tools</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-4-smartphone-applications-for-home-painting-projects/"><u>Essential 4 Smartphone Applications for Home Painting Projects</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-oppo-f23-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Oppo F23 5G to Outlook | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-missing-haldll-issues-on-windows-xp-a-comprehensive-guide/"><u>Resolving 'Missing hal.dll' Issues on Windows XP: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-hideaway-techniques-for-internet-browsers-chrome-edge-firefox-safari-and-opera/"><u>The Ultimate Hideaway Techniques for Internet Browsers (Chrome, Edge, Firefox, Safari & Opera)</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-elite-keys-discovering-devices-of-202email-protected/"><u>Ultimate Guide: Elite Keys Discovering Devices of 202([Email Protected])</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-zero-watermark-total-freedom-best-free-online-video-editors-for-2024/"><u>Updated Zero Watermark, Total Freedom Best Free Online Video Editors for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-nintendos-best-hd-recorders-for-enthusiasts/"><u>[New] Nintendo's Best HD Recorders for Enthusiasts</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-driven-website-optimization-boosting-traffic-and-conversions/"><u>Cookiebot-Driven Website Optimization: Boosting Traffic and Conversions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-latest-updates-unveiling-apple-airpods-pro-2s-exciting-new-capabilities-your-ultimate-guide-to-download/"><u>Discover the Latest Updates: Unveiling Apple AirPods Pro 2'S Exciting New Capabilities - Your Ultimate Guide to Download!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/early-explorer-unlock-testflight-trials-of-the-upcoming-apple-vision-app-a-step-by-step-guide/"><u>Early Explorer: Unlock TestFlight Trials of the Upcoming Apple Vision App – A Step-by-Step Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-poco-c65-is-unlocked-by-drfone-android/"><u>How To Check if Your Poco C65 Is Unlocked</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-play-40c-phone-without-password-by-drfone-android/"><u>How To Unlock Honor Play 40C Phone Without Password?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-apple-iphone-14-in-3-ways-drfone-by-drfone-virtual-ios/"><u>In 2024, Edit and Send Fake Location on Telegram For your Apple iPhone 14 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/simple-guide-connecting-an-extra-thunderbolt-display-to-your-apple-m1-powered-mac-mini-tips-from-zdnet/"><u>Simple Guide: Connecting an Extra Thunderbolt Display to Your Apple M1-Powered Mac Mini - Tips From ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-detecting-and-eliminating-mobile-phone-spyware-tips/"><u>Step-by-Step Guide: Detecting & Eliminating Mobile Phone Spyware - Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-testing-your-sites-latency-with-simple-ping-commands/"><u>Step-by-Step Tutorial: Testing Your Site's Latency with Simple Ping Commands</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-pioneers-guide-to-gopro-and-timelapse-magic-for-2024/"><u>The Pioneer's Guide to GoPro and Timelapse Magic for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-unreachable-settings-issue-with-nvidia-experience/"><u>Troubleshooting Unreachable Settings Issue with NVIDIA Experience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unbeatable-deal-discover-the-top-non-apple-non-anker-magsafe-wallet-in-my-experiments-now-on-sale/"><u>Unbeatable Deal: Discover the Top Non-Apple, Non-Anker MagSafe Wallet in My Experiments - Now On Sale!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-mystery-methods-to-detect-whether-your-location-is-being-tracked-by-an-airtag/"><u>Unveiling the Mystery: Methods to Detect Whether Your Location Is Being Tracked by an AirTag</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/zdnet-editors-favorite-phones-the-handsets-they-prefer-in-real-life/"><u>ZDNet Editors' Favorite Phones: The Handsets They Prefer in Real Life!</u></a></li>
 </ul></div>
 

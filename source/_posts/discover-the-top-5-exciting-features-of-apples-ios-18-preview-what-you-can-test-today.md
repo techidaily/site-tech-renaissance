@@ -1,7 +1,7 @@
 ---
 title: Discover the Top 5 Exciting Features of Apple's iOS 18 Preview - What You Can Test Today
-date: 2024-12-23T01:34:53.389Z
-updated: 2024-12-26T02:49:12.662Z
+date: 2025-01-01T16:35:08.641Z
+updated: 2025-01-04T16:38:01.950Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ I've been testing the public beta on a spare iPhone. Though I've run into severa
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Place your Home screen icons anywhere
@@ -47,7 +47,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Try a different Home screen theme
@@ -57,7 +57,7 @@ Next, you can apply different themes to the Home screen. Press down on any empty
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
@@ -69,7 +69,7 @@ You can now apply bold, italics, underline, or strikethrough for the selected te
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Schedule a text
@@ -81,7 +81,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Lock down an app
@@ -120,20 +120,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-quick-and-easy-fb-video-access-choose-from-these-5-chromium-tools/"><u>[New] In 2024, Quick and Easy FB Video Access Choose From These 5 Chromium Tools</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-fifas-favorite-footage-charted-on-youtube/"><u>[Updated] 2024 Approved FIFA's Favorite Footage Charted on YouTube</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-high-fidelity-window-listening-the-ultimate-list-of-the-best-8-podcasts-8/"><u>[Updated] High Fidelity Window Listening The Ultimate List of the Best 8 Podcasts (#8)</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-key-top-5-agile-camcorders-for-adventure-selections/"><u>[Updated] In 2024, Key Top 5 Agile Camcorders for Adventure Selections</u></a></li>
-<li><a href="https://change-location.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Samsung Galaxy M34 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/best-free-hard-drive-defrag-software-selection-for-july-2024-reviewed/"><u>Best Free Hard Drive Defrag Software Selection for July 2024 Reviewed</u></a></li>
-<li><a href="https://solve-help.techidaily.com/de-zeven-gewone-methoden-om-je-windows-server-in-te-geknipperte-back-ups-voor-een-qnap-nas/"><u>De Zeven Gewone Methoden Om Je Windows Server In Te Geknipperte Back-Ups Voor Een QNAP NAS</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-hottest-kids-and-family-shows-available-on-amazon-prime-video-in-june-2024/"><u>Discover the Hottest Kids' And Family Shows Available on Amazon Prime Video in June 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-sony-xperia-1-v-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Sony Xperia 1 V Phone Screen?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-revive-a-dead-computer-a-step-by-step-guide/"><u>How to Revive a Dead Computer - A Step by Step Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-screenshotting-your-desktop-views/"><u>Mastering the Art of Screenshotting Your Desktop Views</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722875473245-projector-shopping-heres-what-you-need-to-know/"><u>Projector Shopping? Here's What You Need To Know!</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/rexing-v1-dashcam-assessment-concealed-style-and-economical-without-sacrificing-quality/"><u>Rexing V1 Dashcam Assessment: Concealed Style and Economical Without Sacrificing Quality</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-photoshop-scratch-disk-overfill-a-comprehensive-guide/"><u>Solving Photoshop Scratch Disk Overfill: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722881111596-why-isnt-my-yahoo-mail-getting-new-messages-heres-how-to-fix-it/"><u>Why Isn't My Yahoo Mail Getting New Messages? Here's How to Fix It!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-supreme-five-optimal-dvd-software-for-sierra-os/"><u>[Updated] 2024 Approved Supreme Five Optimal Dvd Software for Sierra OS</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-revitalize-your-day-with-these-top-10-yoga-videos/"><u>[Updated] Revitalize Your Day with These Top 10 Yoga Videos</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-top-25-hashtags-that-will-make-you-a-social-media-star-on-instagram/"><u>[Updated] Top 25 Hashtags That Will Make You a Social Media Star on Instagram</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-interactive-design-best-practices-for-srgb-and-rgb/"><u>2024 Approved Interactive Design Best Practices for Srgb and Rgb</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-resurrects-advanced-ai-technology-progress-and-pitfalls-explored/"><u>Apple Resurrects Advanced AI Technology: Progress and Pitfalls Explored</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/download-ios-18-complete-guide-on-installation-and-compatible-iphone-models-zdnet/"><u>Download IOS 18: Complete Guide on Installation & Compatible iPhone Models | ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/efficient-methods-open-cmd-in-your-desired-directory-instantly/"><u>Efficient Methods: Open CMD in Your Desired Directory Instantly</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exclusive-selection-of-leading-waterproof-wearables-in-depth-analysis-and-ratings/"><u>Exclusive Selection of Leading Waterproof Wearables : In-Depth Analysis and Ratings</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/global-mobile-market-leader-apple-surpasses-samsung-in-worldwide-smartphone-deliveries-insights-by-zdnet/"><u>Global Mobile Market Leader: Apple Surpasses Samsung in Worldwide Smartphone Deliveries - Insights by ZDNet</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-analyzing-the-frequency-of-youtube-payments/"><u>In 2024, Analyzing the Frequency of YouTube Payments</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-lead-the-way-in-igtv-videos-with-best-ever-edits/"><u>In 2024, Lead the Way in IGTV Videos with Best-Ever Edits</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Oppo A18? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/masterclass-on-curtailing-intense-cpu-use-during-starfield-sessions-gamers-guide-to-a-smooth-experience/"><u>Masterclass on Curtailing Intense CPU Use During Starfield Sessions - Gamer's Guide to a Smooth Experience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionizing-device-interaction-apple-enhances-user-experience-with-cutting-edge-eye-tracking-for-ios-devices/"><u>Revolutionizing Device Interaction: Apple Enhances User Experience with Cutting-Edge Eye Tracking for iOS Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/score-the-new-ipad-9th-generation-at-a-steal-only-250-post-apple-unveil-techradar/"><u>Score the New iPad (9Th Generation) at a Steal - Only $250 Post-Apple Unveil! | TechRadar</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/sticking-with-the-series-7-a-major-reason-im-not-jumping-on-the-imaginary-series-cuyano-perspectives/"><u>Sticking with the Series 7: A Major Reason I'm Not Jumping on the Imaginary Series Cuyano | Perspectives</u></a></li>
 </ul></div>
 

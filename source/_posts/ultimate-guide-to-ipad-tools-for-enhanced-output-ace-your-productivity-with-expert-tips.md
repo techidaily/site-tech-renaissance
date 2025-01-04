@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide to iPad Tools for Enhanced Output: Ace Your Productivity with Expert Tips"
-date: 2024-12-10T16:07:12.085Z
-updated: 2024-12-17T16:03:30.868Z
+date: 2024-12-31T16:46:28.946Z
+updated: 2025-01-04T16:25:44.289Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ But then something sort of magical happened -- I started using the app. Once I u
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Craft?
@@ -40,7 +40,7 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -64,7 +64,7 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -78,7 +78,7 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -129,22 +129,20 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-revolutionize-your-video-presence-with-personalized-shorts-thumbnails/"><u>[New] 2024 Approved Revolutionize Your Video Presence with Personalized Shorts Thumbnails</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-step-by-step-adding-snapchat-to-your-mac/"><u>[New] 2024 Approved Step-by-Step Adding Snapchat to Your Mac</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-tips-to-improve-your-gopros-power-sustainability-for-2024/"><u>[New] Tips to Improve Your GoPro's Power Sustainability for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-free-skype-recording-made-easy-mp3-edition/"><u>[Updated] Free Skype Recording Made Easy - MP3 Edition</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-leverage-your-xbox-gameplay-for-virtual-engagement-on-fb-for-2024/"><u>[Updated] Leverage Your Xbox Gameplay for Virtual Engagement on FB for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-beyond-imagination-the-best-sci-fi-metaverse-films-for-adventurers/"><u>2024 Approved Beyond Imagination The Best Sci-Fi Metaverse Films for Adventurers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/a-comprehensive-guide-to-using-hps-softpaq-download-manager-for-efficient-software-installation/"><u>A Comprehensive Guide to Using HP's SoftPaq Download Manager for Efficient Software Installation</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722959689710-amd-smbus-driver-download-and-update-quickly-and-easily/"><u>AMD SMBus Driver Download & Update. Quickly & Easily</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/boosting-your-godfall-gameplay-with-enhanced-fps-optimization-techniques/"><u>Boosting Your Godfall Gameplay with Enhanced FPS Optimization Techniques</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-tutorial-altering-pixel-size-of-images-in-windowsmac-os/"><u>Comprehensive Tutorial: Altering Pixel Size of Images in Windows/Mac OS</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/cutting-through-pixels-disable-mouse-acceleration-in-5-simple-steps/"><u>Cutting Through Pixels: Disable Mouse Acceleration in 5 Simple Steps</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/disabling-cortana-in-windows-10-your-ultimate-how-to-guide/"><u>Disabling Cortana in Windows 10 - Your Ultimate How-To Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-steps-for-taking-screenshots-on-your-windows-pc-fast-method/"><u>Easy Steps for Taking Screenshots on Your Windows PC - Fast Method</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1723808367007-exclusive-20-discount-on-drivecare-app-save-now-with-our-promo-codes/"><u>Exclusive 20% Discount on Drivecare App - Save Now with Our Promo Codes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolve-modern-warfare-3-error-12707-for-a-smooth-gaming-experience/"><u>Resolve Modern Warfare 3 Error 12707 for a Smooth Gaming Experience</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/silent-g435-wireless-headset-heres-how-you-can-restore-audio/"><u>Silent G435 Wireless Headset? Here's How You Can Restore Audio!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1723808273124-ultimate-tutorial-on-linking-laptop-and-television-through-hdmi-visual-steps-included/"><u>Ultimate Tutorial on Linking Laptop and Television Through HDMI – Visual Steps Included!</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-embrace-freedom-no-cost-movie-player-software/"><u>[New] In 2024, Embrace Freedom No-Cost MOVIE PLAYER Software</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-becoming-an-insta-star-in-a-flash-top-15-insider-tactics-that-work-wonders-for-rapid-fame-growth/"><u>[Updated] 2024 Approved Becoming an Insta Star in a Flash Top 15 Insider Tactics That Work Wonders for Rapid Fame Growth</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-channel-success-story-turning-budget-into-brands/"><u>[Updated] Channel Success Story Turning Budget Into Brands</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-the-art-of-aligning-brands-with-youtube-content/"><u>2024 Approved The Art of Aligning Brands with YouTube Content</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/breakthrough-messaging-feature-for-safety-just-arrived-with-ios-from-apple-discover-the-details-at-zdnet/"><u>Breakthrough Messaging Feature for Safety Just Arrived with iOS #! From Apple | Discover the Details at ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/embark-on-an-adventure-in-the-marvel-dimension-via-apple-vision-pro-insiders-guide-revealed-may-30th/"><u>Embark on an Adventure in the Marvel Dimension via Apple Vision Pro, Insider's Guide Revealed May 30Th</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/galaxy-s24-ultra-versus-iphone-15-pro-max-who-wins-the-smartphone-supremacy/"><u>Galaxy S24 Ultra versus iPhone 15 Pro Max: Who Wins the Smartphone Supremacy?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-itel-s23-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Itel S23 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-samsung-galaxy-f54-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Samsung Galaxy F54 5G to New Phone | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-xiaomi-14-pro-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Xiaomi 14 Pro Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/personalizing-the-quick-settings-on-your-iphone-using-ios-18-expert-advice/"><u>Personalizing the Quick Settings on Your iPhone Using iOS 18 | Expert Advice</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionizing-mobile-imaging-iphone-16-integrates-advanced-visual-recognition-tech-mirroring-google-lens-features-zdnet-analysis/"><u>Revolutionizing Mobile Imaging: IPhone 16 Integrates Advanced Visual Recognition Tech, Mirroring Google Lens Features | ZDNET Analysis</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/simplified-steps-swiftly-move-all-your-macbook-info-with-these-surprising-techniques/"><u>Simplified Steps: Swiftly Move All Your MacBook Info With These Surprising Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/transforming-doubt-into-action-channeling-vlogger-excellence-for-2024/"><u>Transforming Doubt Into Action Channeling Vlogger Excellence for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/urgent-alert-from-apple-protect-your-iphone-against-emerging-espionage-malware-learn-more-on-zdnet/"><u>Urgent Alert From Apple: Protect Your iPhone Against Emerging Espionage Malware - Learn More on ZDNet</u></a></li>
 </ul></div>
 

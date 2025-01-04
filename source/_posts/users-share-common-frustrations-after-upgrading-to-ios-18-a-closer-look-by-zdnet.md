@@ -1,7 +1,7 @@
 ---
 title: Users Share Common Frustrations After Upgrading to iOS 18 - A Closer Look by ZDNet
-date: 2024-12-21T03:19:14.386Z
-updated: 2024-12-26T08:04:30.704Z
+date: 2024-12-28T16:43:09.563Z
+updated: 2025-01-04T16:38:28.823Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,16 +109,21 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-9-steps-to-combat-chromes-video-blackout/"><u>[New] 9 Steps to Combat Chrome's Video Blackout</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-achieve-peak-performance-with-these-8-scheduler-apps/"><u>[Updated] 2024 Approved Achieve Peak Performance with These 8 Scheduler Apps</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-vdr-screen-capture-compilation-extensive-guide/"><u>[Updated] VDR Screen Capture Compilation Extensive Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/battle-of-the-beats-analyzing-google-nest-audio-and-apple-homepod-head-to-head/"><u>Battle of the Beats: Analyzing Google Nest Audio and Apple HomePod Head-to-Head</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/complete-walkthrough-on-removing-bandicam-marks-with-3-simple-methods-for-content-creators/"><u>Complete Walkthrough on Removing Bandicam Marks with 3 Simple Methods for Content Creators</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-how-to-stay-up-to-date-the-ultimate-guide-to-hashtag-trackers-on-twitter/"><u>Discover How to Stay Up-to-Date: The Ultimate Guide to Hashtag Trackers on Twitter</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-reactivate-an-instagram-account-after-its-been-halted-or-turned-off/"><u>How to Reactivate an Instagram Account After It's Been Halted or Turned Off</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722884954689-the-future-unfolds-with-the-samsung-z-fold-4-know-more-about-its-arrival-date-price-tag-and-specifications/"><u>The Future Unfolds with the Samsung Z Fold 4: Know More About Its Arrival Date, Price Tag and Specifications!</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/tiktokplusinstagram-social-media-fusion-guide/"><u>TikTok+Instagram Social Media Fusion Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-ae-titles-for-striking-visual-impact-for-2024/"><u>Top AE Titles for Striking Visual Impact for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-secrets-a-comprehensive-guide-to-playing-pokemn-go/"><u>Unveiling Secrets: A Comprehensive Guide to Playing Pokémn Go</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-top-10-best-4k-tvs/"><u>[New] Top 10 Best 4K TVs</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-capture-all-hulu-streaming-on-different-os-and-devices/"><u>[Updated] 2024 Approved Capture All Hulu Streaming on Different OS and Devices</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-digital-identification-showdown-iphone-x-and-galaxy-edition/"><u>[Updated] In 2024, Digital Identification Showdown IPhone X and Galaxy Edition</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-from-small-screens-to-big-screen-success-fb-video-guide-2023/"><u>2024 Approved From Small Screens to Big Screen Success FB Video Guide 2023</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apples-revolutionary-move-new-camera-enabled-airpods-on-the-horizon-for-2eighty-six-according-to-zdnet-coverage/"><u>Apple's Revolutionary Move? New Camera-Enabled AirPods on the Horizon for 2Eighty-Six, According to ZDNET Coverage</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/automate-your-file-backup-with-three-methods-of-synchronizing-desktop-to-onedrive/"><u>Automate Your File Backup with Three Methods of Synchronizing Desktop to OneDrive</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-gionee-by-fonelab-android-recover-data/"><u>Easy steps to recover deleted data from Gionee</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/elevate-your-wristwear-game-in-depth-review-and-faceoff-between-new-google-pixel-watch-and-apple-watch-series-9/"><u>Elevate Your Wristwear Game: In-Depth Review and Faceoff Between New Google Pixel Watch and Apple Watch Series 9</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/immersive-4k-visuals-and-seamless-roku-integration-in-hitachi-television-models/"><u>Immersive 4K Visuals and Seamless Roku Integration in Hitachi Television Models</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-audience-captivation-for-personal-podcasts/"><u>In 2024, Audience Captivation for Personal Podcasts</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/methods-to-resolve-code-0x0001-glitch-in-w10w11-setup/"><u>Methods to Resolve Code 0X0001 Glitch in W10/W11 Setup</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/stay-protected-with-macos-14n-the-key-to-safe-and-easy-mac-updates-revealed-by-zdnet/"><u>Stay Protected with macOS 14.n - The Key to Safe and Easy Mac Updates Revealed by ZDNET!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-inexpensive-apple-watch-series-se-gets-a-fresh-look-discover-the-latest-enhancements-digitaltrends/"><u>The Inexpensive Apple Watch Series SE Gets a Fresh Look - Discover the Latest Enhancements | DigitalTrends</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-linking-a-single-telephone-number-across-multiple-platforms/"><u>The Ultimate Guide to Linking a Single Telephone Number Across Multiple Platforms</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/turn-off-autoplay-in-your-itunes-library-quick-tips-and-tricks/"><u>Turn Off AutoPlay in Your iTunes Library: Quick Tips & Tricks</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Efficiently Multitask with Split Screen Mode on MacBook Air – A How-To Guide
-date: 2024-08-20T10:41:27.495Z
-updated: 2024-08-21T10:41:27.495Z
+date: 2025-01-01T16:08:29.623Z
+updated: 2025-01-04T16:46:29.991Z
 categories:
   - BestProducts
 description: This Article Describes Efficiently Multitask with Split Screen Mode on MacBook Air – A How-To Guide
@@ -10,6 +10,11 @@ thumbnail: https://www.lifewire.com/thmb/FTiljm4NdlrQ1helbE7W7UJSJFM=/400x300/fi
 ---
 
 ## Efficiently Batch Edit Your Gmail Conversations with This Simple Selection Trick
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * To select every email, click the**checkbox** above the messages, then click**Select all \[#\] conversations** .
@@ -17,6 +22,10 @@ thumbnail: https://www.lifewire.com/thmb/FTiljm4NdlrQ1helbE7W7UJSJFM=/400x300/fi
 * This works for the Inbox, All Mail, and other labels. You can then delete, label, and archive emails in bulk.
 
  This article explains how to select every Gmail email at once from the desktop website. Doing so lets you apply a new label to the selected messages, bulk-delete emails,[mark them as read](https://www.lifewire.com/how-to-mark-email-read-in-gmail-1171945) , and more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Select All Emails in Gmail
 
@@ -26,12 +35,14 @@ thumbnail: https://www.lifewire.com/thmb/FTiljm4NdlrQ1helbE7W7UJSJFM=/400x300/fi
 2. Right below the search bar and above your emails, click the**checkbox** to select all the messages that are currently displayed. Or, select the**arrow** next to this checkbox to choose the types of emails to be selected, such as Read, Unread, Starred, or Unstarred.  
 ![Screenshot of Select All button in Gmail](https://www.lifewire.com/thmb/nDxAo7ifTPWhhJHpwNwtDS2jSIk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_select-all-messages-in-a-gmail-label-collection-or-search-1172098-5baea535c9e77c002636c2bc.jpg)  
  At this point, you have only selected the messages that are visible on the screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. To select every email in Gmail, including those that are not currently displayed, look at the top of your email list for an additional button, and select it. It look like this:**Select all \[#\] conversations in \[label\]** .  
 ![A list of emails selected in Gmail](https://www.lifewire.com/thmb/4VAxqfY1MDMB8VrzP3z18uSp99Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/select-all-gmail-messages-59c38ca927ab46cbb225ebda805c03cc.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Select All Gmail Emails From a Search
 
  Gmail provides some powerful[search tools to help you find emails quickly](https://www.lifewire.com/how-to-search-mail-in-gmail-1172081) . For example, you can locate your biggest emails, look for messages that have attachments, or find emails that arrived on a specific date.
@@ -44,11 +55,13 @@ thumbnail: https://www.lifewire.com/thmb/FTiljm4NdlrQ1helbE7W7UJSJFM=/400x300/fi
 ![Gmail emails highlighted from a search](https://www.lifewire.com/thmb/n2qAQZOsSxNaeRsOvsrHDnmIFoY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/select-all-conversations-match-search-b3214279e6b44aa89ebcfb82199b23f9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What You Can Do With Selected Emails
 
  Anything you can do with a single email, Gmail lets you do with a selection of messages. Here are some actions you can take when you select lots of emails at once:
@@ -101,8 +114,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -110,4 +121,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/updated-from-base-to-pro-level-gopro-hero5-black-vs-hero4-silver-showdown/"><u>[Updated] From Base to Pro-Level GoPro Hero5 Black vs Hero4 Silver Showdown</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-top-5-innovative-mac-capturing-solutions-moving-past-bandicam/"><u>2024 Approved Top 5 Innovative Mac Capturing Solutions, Moving Past Bandicam</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/audiophiles-guide-distinguishing-features-of-ht-vs-sr-amplifiers/"><u>Audiophile's Guide: Distinguishing Features of HT Vs. SR Amplifiers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/brainy-battalions-ultimate-list-of-general-knowledge-trivia-networks-2024/"><u>Brainy Battalions Ultimate List of General Knowledge Trivia Networks, 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/crafting-the-perfect-efficacy-potion-a-step-by-step-guide-in-minecraft/"><u>Crafting the Perfect Efficacy Potion: A Step-by-Step Guide in Minecraft</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-step-wise-approach-to-organize-youtube-content-into-chapters/"><u>In 2024, Step-Wise Approach to Organize YouTube Content Into Chapters</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-installation-hurdles-a-comprehensive-guide-to-handling-error-1-grotesquely/"><u>Overcome Installation Hurdles: A Comprehensive Guide to Handling Error 1 Grotesquely</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-no-typing-from-keyboard-issue/"><u>Resolved: No Typing From Keyboard Issue</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionizing-connectivity-get-insight-into-samsungs-fresh-phone-collection/"><u>Revolutionizing Connectivity: Get Insight Into Samsung's Fresh Phone Collection</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-blaming-luck-proven-strategies-to-keep-among-us-running-smoothly/"><u>Stop Blaming Luck: Proven Strategies to Keep 'Among Us' Running Smoothly</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/streaming-first-look-7-key-sites-for-upcoming-film-preview-galore/"><u>Streaming First Look: 7 Key Sites for Upcoming Film Preview Galore</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-list-of-safest-email-solutions-ranked/"><u>The Ultimate List of Safest Email Solutions - Ranked</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-a-missing-page-404-error-a-comprehensive-guide/"><u>Troubleshooting a Missing Page (404 Error): A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/twitch-outage-determining-if-the-service-is-down-or-user-specific/"><u>Twitch Outage: Determining If The Service Is Down or User-Specific</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-and-controlling-macbook-overheating-a-comprehensive-guide-to-internal-temperatures/"><u>Understanding and Controlling MacBook Overheating: A Comprehensive Guide to Internal Temperatures</u></a></li>
+</ul></div>
 

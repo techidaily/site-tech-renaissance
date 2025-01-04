@@ -1,7 +1,7 @@
 ---
 title: "2023'S Market Update: Apple Overtakes Samsung as Top Smartphone Supplier Globally – Exclusive Report From ZDNet"
-date: 2024-12-20T06:47:14.203Z
-updated: 2024-12-26T03:35:23.562Z
+date: 2025-01-02T16:41:35.179Z
+updated: 2025-01-04T16:27:40.206Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ Below, you'll find the best iPhone deals currently available through US carriers
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best iPhone deals
@@ -102,6 +102,10 @@ Over at T-Mobile, both new and existing customers can pick up a device from the 
 
 [View now at T-Mobile](https://tmobile.prf.hn/click/camref:1100l3XZFI/pubref:subid%5Fvalue/destination:https%3A%2F%2Fwww.t-mobile.com%2Fcell-phone%2Fapple-iphone-14) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## More Apple iPhone deals
 
 [Six months of service free with Apple iPhone purchase View now at Mint Mobile](https://mint-mobile.58dp.net/c/159047/444520/7915?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.mintmobile.com%2Fdeals%2Fiphone-deals%2F&subId1=subid%5Fvalue)
@@ -131,7 +135,7 @@ Over at T-Mobile, both new and existing customers can pick up a device from the 
 [Refurbished iPhones at Apple (save $100+) View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Frefurbished%2Fiphone&subId1=subid%5Fvalue)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple iPhone accessory deals
@@ -149,7 +153,7 @@ Over at T-Mobile, both new and existing customers can pick up a device from the 
 [Apple Lightning to 3.5 mm headphone jack adapter deal for $8 (save $2) $8 at Walmart](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Lightning-to-3-5-mm-Headphone-Jack-Adapter%2F54738078%3Fathbdg%3DL1103&subId1=subid%5Fvalue)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How did we choose these iPhone deals?
@@ -164,23 +168,19 @@ Factors influencing our recommendations include:
 * **Variety**: Here at ZDNET, we want to provide you with a variety of iPhone options with bonuses. We've selected deals that bring down the price of your new handset, alongside bonus incentives such as free services or discounts on other devices in the Apple ecosystem.
 * **Availability**: If we come across a great Apple deal but only a few units are in stock, unless it is a stellar saving you only see once in a blue moon, we will discount it and select a product with better stock levels instead.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the best iPhone?
 
 The best iPhone currently on the market is the iPhone 15 Pro Max. The 6.7-inch model is the largest of the iPhone 15 line and comes stacked with Apple's latest features, such as a strong, lightweight titanium design, Dynamic Island, an A17 Pro chip, and a 48MP Main camera that shoots detailed imagery.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will the iPhone 16 come out?
 
 While it's too early for us to know any definitive details, Apple typically refreshes its smartphone lineup once a year. 
 
 However, if the iPad and iPhone maker follows its usual schedule, considering the iPhone 15 was launched in September 2023, we can expect an iPhone 16 to appear around September 2024.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the best tech deals in 2024?
 
@@ -228,21 +228,20 @@ ZDNET has scoured the web to find the best deals by category:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-avoid-the-biggest-slip-ups-for-new-youtube-enthusiasts/"><u>[Updated] 2024 Approved How to Avoid the Biggest Slip-Ups for New YouTube Enthusiasts</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-the-top-strategies-for-gamers-recording-with-windows-10/"><u>[Updated] In 2024, The Top Strategies for Gamers Recording with Windows 10</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-unforgettable-cinematic-journey-top-15-timeless-motion-pictures/"><u>[Updated] In 2024, Unforgettable Cinematic Journey - Top 15 Timeless Motion Pictures</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-unveiling-the-best-practices-for-timing-and-organizing-google-collaborations/"><u>2024 Approved Unveiling the Best Practices for Timing and Organizing Google Collaborations</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/4kwindows-1/"><u>4K動画がWindows 1#で再生できない? - 詳しく見て！問題と解決法をご紹介</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-infinix-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Infinix Pattern Lock Screen</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Motorola Razr 40 | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/new-era-of-adaptive-oculus-personas-arrives/"><u>New Era of Adaptive Oculus Personas Arrives</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/rediscover-your-love-for-yard-work-using-this-amazing-rc-mower-a-game-changer-by-zdnet/"><u>Rediscover Your Love for Yard Work Using This Amazing RC Mower - A Game Changer by ZDNET</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/save-big-this-labor-day-with-exclusive-2022-offers-on-outdoor-essentials-zdnet/"><u>Save Big This Labor Day with Exclusive 2022 Offers on Outdoor Essentials | ZDNet</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/solutiones-facil-per-superar-la-pantalla-de-benvinguda-que-sactiva-en-windows-7-5-opcions/"><u>Solutiones Fàcil per Superar La Pantalla De Benvinguda Que S'Activa en Windows 7 - 5 Opcions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/stay-lit-during-blackouts-and-cut-costs-save-hundreds-with-our-top-reviewed-portable-solar-generator-featured-on-zdnet/"><u>Stay Lit During Blackouts & Cut Costs: Save Hundreds with Our Top-Reviewed Portable Solar Generator - Featured on ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/storm-prep-savings-secure-40-off-an-indispensable-anker-generator-before-the-next-winter-hit-gadget-deals-buzz/"><u>Storm Prep Savings: Secure 40% Off an Indispensable Anker Generator Before the Next Winter Hit | Gadget Deals Buzz</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-checklist-for-hosting-an-unforgettable-labor-day-celebration-advice-by-zdnet/"><u>The Ultimate Checklist for Hosting an Unforgettable Labor Day Celebration - Advice by ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-best-practices-for-donating-carbon-offset-credits-this-festive-period-insights-from-zdnet/"><u>The Ultimate Guide: Best Practices for Donating Carbon Offset Credits This Festive Period - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-5-affordable-house-in-a-box-solutions-below-50k-comprehensive-review-by-zdnet/"><u>Top 5 Affordable House in a Box Solutions Below $50K: Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-top-5-budget-friendly-pinterest-video-grabs/"><u>[New] 2024 Approved Top 5 Budget-Friendly Pinterest Video Grabs</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-no-more-costs-discover-best-free-camera-screen-recorder-apps/"><u>[New] No More Costs? Discover Best FREE Camera Screen Recorder Apps</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-art-of-enticing-instagram-followers-a-puzzle-post-primer/"><u>[New] The Art of Enticing Instagram Followers A Puzzle Post Primer</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-fraps-as-a-video-recorder-what-you-need-to-know-for-2024/"><u>[Updated] Fraps as a Video Recorder What You Need To Know for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-harmonizing-tech-and-artistry-mac-studios-for-2024/"><u>[Updated] Harmonizing Tech & Artistry Mac Studios for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-elevate-your-aspects-of-sound-and-sight-in-asmr-recording/"><u>[Updated] In 2024, Elevate Your Aspects of Sound and Sight in ASMR Recording</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-timing-your-instagram-posts-for-optimal-results/"><u>[Updated] Timing Your Instagram Posts for Optimal Results</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-become-a-design-pro-expertise-in-bypassing-backgrounds-with-canva/"><u>2024 Approved Become a Design Pro Expertise in Bypassing Backgrounds with Canva</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-unlock-icloud-account-without-password-from-apple-iphone-13-pro-by-drfone-ios/"><u>3 Effective Ways to Unlock iCloud Account Without Password From Apple iPhone 13 Pro</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/embrace-hassle-free-shopping-with-apple-pay-tips-for-utilizing-it-offline-and-online-according-to-zdnet-experts/"><u>Embrace Hassle-Free Shopping with Apple Pay: Tips for Utilizing It Offline and Online, According to ZDNet Experts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/game-on-make-sure-with-our-5-key-tips-before-buying-your-gaming-console/"><u>Game On? Make Sure with Our 5 Key Tips Before Buying Your Gaming Console</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/seamless-connection-tips-for-linking-up-airpods-with-quest-3-headphones-without-disturbing-others/"><u>Seamless Connection: Tips for Linking Up AirPods with Quest 3 Headphones Without Disturbing Others</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/story-2-the-myth-of-valine/"><u>Story 2: The Myth of Valine</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-apple-watch-accessories-comprehensive-reviews-by-tech-gurus/"><u>Top-Rated Apple Watch Accessories - Comprehensive Reviews by Tech Gurus</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/transforming-your-workspace-essential-tips-for-running-a-home-office-on-your-ipad-pro-insights-from-zdnet/"><u>Transforming Your Workspace: Essential Tips for Running a Home Office on Your iPad Pro - Insights From ZDNet</u></a></li>
 </ul></div>
 

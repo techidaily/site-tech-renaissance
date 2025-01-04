@@ -1,7 +1,7 @@
 ---
 title: "Launch Details: PlayStation Portal - Official Release Timeline, Pricing Info, Hardware Features & Purchase Locations"
-date: 2024-08-20T10:39:08.387Z
-updated: 2024-08-21T10:39:08.387Z
+date: 2025-01-03T16:30:45.560Z
+updated: 2025-01-04T16:28:11.101Z
 categories:
   - BestProducts
 description: "This Article Describes Launch Details: PlayStation Portal - Official Release Timeline, Pricing Info, Hardware Features & Purchase Locations"
@@ -21,25 +21,34 @@ thumbnail: https://thmb.techidaily.com/d7456d8b7faa111d0a43957b4a5dc6a2bd7fa022e
 
  Sony's PlayStation Portal (formerly Project Q), a handheld device that lets you stream games from your PS5, is out now. Here are all of the details.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  PlayStation Portal Release Date 
 
  The Playstation Portal launched November 15, 2023\. Sony first revealed the handheld device at its showcase in May 2023.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## PlayStation Portal Price 
 
  The PlayStation Portal costs $199.99.  
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Where to Buy 
 
  You can[ order PlayStation Portal directly from Sony](https://direct.playstation.com/en-us/buy-accessories/playstation-portal-remote-player) . You can also pick it up from other electronics retailers like Target, Amazon, and Best Buy.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  PlayStation Portal Specs and Features 
 
  PlayStation Portal has all the main features of the DualSense, including adaptive triggers, vibration, and a speaker. Sony has opted for an LCD screen rather than OLED, likely to help keep the production costs down.
@@ -58,8 +67,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 [  Sony Pulse Elite Headset: News, Price, Release Date, and Specs ](https://www.lifewire.com/sony-pulse-elite-headset-8419539) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Latest News About the PlayStation Portal 
 
  You can get[ more gaming news from Lifewire](https://www.lifewire.com/gaming-news-4797039) . Meanwhile, here are some stories about Sony and its other gaming products:
@@ -78,8 +88,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -87,4 +95,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-the-beginners-handbook-to-instagrams-most-popular-feature-reels/"><u>[New] The Beginner’s Handbook to Instagram’s Most Popular Feature – Reels</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-unveiling-recmeisters-high-quality-screen-recording-capabilities/"><u>[Updated] In 2024, Unveiling Recmeister's High-Quality Screen Recording Capabilities</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-rediscovering-the-riches-delving-into-literary-masterpieces-of-yore/"><u>2024 Approved Rediscovering the Riches Delving Into Literary Masterpieces of Yore</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/2024s-premier-choices-in-intelligent-eyewear-technology/"><u>2024'S Premier Choices in Intelligent Eyewear Technology</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-honor-magic-5-pro-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Honor Magic 5 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-from-apple-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account From Apple iPhone 12 Pro Max</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/in-depth-evaluation-of-snappydriver-installer-version-113-features/"><u>In-Depth Evaluation of SnappyDriver Installer Version 1.13 Features</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/insider-tips-how-to-secure-verification-on-xs-platform-after-its-evolution-from-twitter/"><u>Insider Tips: How to Secure Verification on X's Platform After Its Evolution From Twitter</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-oppo-find-x6-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Oppo Find X6</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-on-employing-github-copilot-for-streamlined-microsoft-teams-projects/"><u>Step-by-Step Tutorial on Employing GitHub Copilot for Streamlined Microsoft Teams Projects</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/temporarily-cut-by-50-save-big-on-geforce-now-subscription-fees-today/"><u>Temporarily Cut by 50% - Save Big on GeForce Now Subscription Fees Today!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-samsung-galaxy-z-flip-6-revealed-release-dates-pricing-details-and-noteworthy-features/"><u>The Samsung Galaxy Z Flip 6 Revealed: Release Dates, Pricing Details, and Noteworthy Features</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-techniques-to-eliminate-vertical-lines-on-samsung-televisions/"><u>Troubleshooting Techniques to Eliminate Vertical Lines on Samsung Televisions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/what-to-expect-from-teslas-futuristic-bot-rumored-features-cost-estimates-and-anticipated-release-date-analyzed/"><u>What to Expect From Tesla's Futuristic Bot: Rumored Features, Cost Estimates & Anticipated Release Date Analyzed</u></a></li>
+</ul></div>
 

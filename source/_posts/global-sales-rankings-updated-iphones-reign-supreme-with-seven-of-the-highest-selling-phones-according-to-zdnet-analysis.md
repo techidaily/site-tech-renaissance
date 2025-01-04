@@ -1,7 +1,7 @@
 ---
 title: "Global Sales Rankings Updated: IPhones Reign Supreme with Seven of the Highest Selling Phones, According to ZDNet Analysis"
-date: 2024-12-21T23:29:07.423Z
-updated: 2024-12-25T19:42:55.041Z
+date: 2024-12-28T16:54:40.654Z
+updated: 2025-01-04T16:36:18.113Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,24 +109,22 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-effortless-win-11-screen-captures-here/"><u>[New] 2024 Approved Effortless Win 11 Screen Captures Here</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-discover-the-best-phone-apps-to-improve-vocality/"><u>[New] In 2024, Discover the Best Phone Apps to Improve Vocality</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-smooth-and-simple-guide-to-iphone-screensaving-process/"><u>[New] Smooth & Simple Guide to Iphone Screensaving Process</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/1-effettuata-la-riparazione-guida-gratuita-per-sistemare-i-file-video-mp4-danneggiati-su-computer-windows-o-mac/"><u>1. Effettuata La Riparazione: Guida Gratuita per Sistemare I File Video MP4 Danneggiati Su Computer Windows O Mac</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ai-innovations-in-meta-quest-3-surpass-apple-vision-pro-step-by-step-enablement-guide-exclusive-feature-at-zdnet/"><u>AI Innovations in Meta Quest 3 Surpass Apple Vision Pro - Step-by-Step Enablement Guide | Exclusive Feature at ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ar-vs-vr-vs-mr-vs-xr-whats-the-difference/"><u>AR Vs. VR Vs. MR Vs. XR: What's the Difference?</u></a></li>
-<li><a href="https://fox-that.techidaily.com/dealing-with-an-unresponsive-iphone-touchscreen-effective-solutions-explored/"><u>Dealing with an Unresponsive iPhone Touchscreen: Effective Solutions Explored</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/demystifying-the-concept-of-an-open-internet/"><u>Demystifying the Concept of an Open Internet</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-itel-p55-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Itel P55 to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-vivo-x-fold-2-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Vivo X Fold 2 | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-kids-earning-big-the-success-story-of-young-ryan-kaji/"><u>In 2024, Kids Earning Big The Success Story of Young Ryan Kaji</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/maximizing-your-experience-ultimate-guide-to-enhancing-apple-tv/"><u>Maximizing Your Experience: Ultimate Guide to Enhancing Apple TV</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/secrets-to-successfully-purchasing-iphoneipad-ebooks-with-apple-books-application/"><u>Secrets to Successfully Purchasing iPhone/iPad eBooks with Apple Books Application</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/setting-up-fubotv-streaming-on-your-amazon-firestick-a-step-by-step-guide/"><u>Setting Up FuboTV Streaming on Your Amazon Firestick: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-the-disappearing-act-of-fbs-dark-mode-quick-troubleshooting-tips/"><u>Solving the Disappearing Act of FB's Dark Mode - Quick Troubleshooting Tips</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-correcting-the-absence-of-x3daudiodll-on-your-pc/"><u>Step-by-Step Guide: Correcting the Absence of X3DAudio.dll on Your PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/t-mobiles-unlimited-data-plan-and-comprehensive-roaming-agreement-with-metropcs/"><u>T-Mobile's Unlimited Data Plan and Comprehensive Roaming Agreement with MetroPCS</u></a></li>
-<li><a href="https://win-unique.techidaily.com/ultimate-how-to-manual-for-setting-up-automatic-data-recovery-in-windows-n-like-time-machine-for-mac/"><u>Ultimate How-To Manual for Setting Up Automatic Data Recovery in Windows N Like Time Machine for Mac</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-sonys-future-exclusive-updates-from-the-202n4-state-of-play-event/"><u>Unveiling Sony's Future: Exclusive Updates From the 202N4 State of Play Event</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-identify-10-shadowy-instagram-story-observers/"><u>[New] Identify 10 Shadowy Instagram Story Observers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-choosing-the-best-footage-editor-hero-vs-polaroid-edition/"><u>[Updated] Choosing the Best Footage Editor Hero Vs. Polaroid Edition</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-first-steps-on-social-landscape-creating-a-facebook-account-for-2024/"><u>[Updated] First Steps on Social Landscape Creating a Facebook Account for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/charge-and-chill-with-the-ultimate-magsafe-multi-device-dock-for-apple-gadgets-zdnets-top-picks/"><u>Charge and Chill with the Ultimate MagSafe Multi-Device Dock for Apple Gadgets - ZDNet's Top Picks!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comprehensive-list-of-all-iphones-compatible-with-apples-latest-artificial-intelligence-enhancements-siri-and-beyond-techsavvy/"><u>Comprehensive List of All iPhones Compatible with Apple's Latest Artificial Intelligence Enhancements: Siri and Beyond | TechSavvy</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-top-features-of-an-iphone-case-with-a-standout-physical-keyboard-beyond-just-typing-techinsights/"><u>Exploring the Top Features of an iPhone Case with a Standout Physical Keyboard: Beyond Just Typing | TechInsights</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-execute-the-windows-startup-check/"><u>How to Execute the Windows Startup Check</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-flash-dead-tecno-pova-5-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Tecno Pova 5 Safely | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-honor-90-lite-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Honor 90 Lite to New Phone | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-list-7-mac-focused-vids/"><u>In 2024, Ultimate List 7 Mac-Focused Vids</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revamp-your-iphone-experience-on-ios-18-learn-how-to-personalize-the-new-control-center/"><u>Revamp Your iPhone Experience on iOS 18 - Learn How to Personalize the New Control Center!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/score-big-savings-walmart-slashes-24-from-apples-airtag-bundle-for-labor-day-insider-tips/"><u>Score Big Savings: Walmart Slashes $24 From Apple's AirTag Bundle for Labor Day - Insider Tips</u></a></li>
+<li><a href="https://howto.techidaily.com/tecno-camon-20-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Camon 20 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-battle-of-silicon-valley-reshuffles-as-samsung-galaxy-ai-soars-post-google-antitrust-ruling-innovation-leaders-index/"><u>The Battle of Silicon Valley Reshuffles as Samsung Galaxy AI Soars Post-Google Antitrust Ruling | Innovation Leaders Index</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-ipad-tools-for-enhanced-output-ace-your-productivity-with-expert-tips-by-zdnet/"><u>Ultimate Guide to iPad Tools for Enhanced Output: Ace Your Productivity with Expert Tips by ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-apples-strategy-how-new-investments-signal-an-ai-future-for-the-iphone-techinsights/"><u>Unveiling Apple's Strategy: How New Investments Signal an AI Future for the iPhone | TechInsights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/whats-new-with-apple-airpods-unveiling-three-must-know-enhancements-for-certain-models-this-fall-tech-buzz/"><u>What's New with Apple AirPods? Unveiling Three Must-Know Enhancements for Certain Models This Fall | Tech Buzz</u></a></li>
 </ul></div>
 

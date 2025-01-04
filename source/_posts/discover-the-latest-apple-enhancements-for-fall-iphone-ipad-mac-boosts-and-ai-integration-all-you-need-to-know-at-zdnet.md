@@ -1,7 +1,7 @@
 ---
 title: "Discover the Latest Apple Enhancements for Fall: IPhone, iPad, Mac Boosts & AI Integration | All You Need to Know at ZDNET!"
-date: 2024-12-21T05:56:53.562Z
-updated: 2024-12-26T04:49:43.022Z
+date: 2024-12-28T16:00:15.136Z
+updated: 2025-01-04T16:06:26.847Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Intelligence (AI)
@@ -64,10 +64,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -75,6 +71,10 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -108,6 +108,10 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -130,7 +134,7 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -150,10 +154,6 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -163,7 +163,7 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -210,22 +210,24 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-free-guide-to-navigating-and-hosting-google-meet-sessions-effectively/"><u>[New] In 2024, Free Guide to Navigating and Hosting Google Meet Sessions Effectively</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-the-definitive-srt-file-generation-manual/"><u>[New] The Definitive SRT File Generation Manual</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-top-talents-exceptional-instagram-hlv-artisans/"><u>[Updated] 2024 Approved Top Talents Exceptional Instagram HLV Artisans</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-step-by-step-method-to-verify-and-update-your-tiktok-age/"><u>2024 Approved Step-by-Step Method to Verify and Update Your TikTok Age</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/customizing-your-iphone-with-dark-mode-features-users-manual/"><u>Customizing Your iPhone with Dark Mode Features: User's Manual</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-guide-overcoming-apex-legends-latency-and-connectivity-woes/"><u>Expert Guide: Overcoming Apex Legends Latency and Connectivity Woes</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/from-keys-to-charms-a-simple-tutorial-on-typing-the-universal-love-sign/"><u>From Keys to Charms: A Simple Tutorial on Typing the Universal Love Sign</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/inside-scoop-on-the-new-m4-mac-mini-pricing-insights-launch-schedule-and-full-feature-breakdown/"><u>Inside Scoop on the New M4 Mac Mini - Pricing Insights, Launch Schedule, and Full Feature Breakdown</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/memorial-day-savings-alert-secure-the-razer-blade-15-laptop-at-an-unbeatable-price-of-only-800-at-walmart-tech-news/"><u>Memorial Day Savings Alert: Secure the Razer Blade 15 Laptop at an Unbeatable Price of Only $800 at Walmart - Tech News</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigate-with-ease-the-ultimate-selection-of-iphone-gps-applications/"><u>Navigate with Ease: The Ultimate Selection of iPhone GPS Applications</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-unleash-your-creativity-top-free-green-screen-apps-for-mobile/"><u>New Unleash Your Creativity Top Free Green Screen Apps for Mobile</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/sony-playstation-showdown-ps5-slim-versus-traditional-ps5-head-to-head-review/"><u>Sony PlayStation Showdown: PS5 Slim Versus Traditional PS5 Head-to-Head Review</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-connecting-your-samsung-universal-remote-with-any-television/"><u>Step-by-Step Guide: Connecting Your Samsung Universal Remote with Any Television</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-downloading-free-manuals-for-all-iphone-models-online/"><u>Step-by-Step Instructions: Downloading Free Manuals for All iPhone Models Online</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-for-libgdk-win32-20-0dll-not-detected-problem/"><u>Troubleshooting Steps for libgdk-win32-2.0-0.dll Not Detected Problem</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/troubleshooting-tips-solving-microsoft-teams-webcam-issues-on-your-pc/"><u>Troubleshooting Tips: Solving Microsoft Teams Webcam Issues on Your PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-top-substitutes-to-chatgpt-you-cant-miss/"><u>Unveiling the Top Substitutes to ChatGPT You Can't Miss</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ongwriting-in-action-a-guide-to-creating-content-with-musicians-for-2024/"><u>[New] Songwriting in Action A Guide to Creating Content with Musicians for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/4-ways-to-unlock-iphone-6-plus-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>4 Ways to Unlock iPhone 6 Plus to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-revolutionizes-iphone-usage-by-enabling-nfc-for-external-applications-discover-the-incredible-benefits-awaiting-you-zdnet/"><u>Apple Revolutionizes iPhone Usage by Enabling NFC for External Applications - Discover the Incredible Benefits Awaiting You | ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/beyond-the-couch-potato-life-activating-remote-access-for-samsung-televisions/"><u>Beyond the Couch Potato Life: Activating Remote Access for Samsung Televisions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/cat5-versus-cat6-a-detailed-comparison-for-optimal-connectivity/"><u>Cat5 Versus Cat6 - A Detailed Comparison for Optimal Connectivity</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-top-5-exciting-features-of-the-newly-released-ios-18-public-beta-insights-from-zdnet/"><u>Discover Top 5 Exciting Features of the Newly Released iOS 18 Public Beta - Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/te-your-fitness-routine-top-10-yoga-streams-unveiled/"><u>Elevate Your Fitness Routine - Top 10 Yoga Streams Unveiled</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/experience-enhanced-performance-discover-key-benefits-of-the-new-macos-15-update-for-your-macbook/"><u>Experience Enhanced Performance: Discover Key Benefits of the New MacOS 15 Update for Your MacBook</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-top-features-of-an-exceptional-iphone-case-with-a-tactile-keyboard-more-than-meets-the-eye/"><u>Exploring the Top Features of an Exceptional iPhone Case with a Tactile Keyboard - More than Meets the Eye!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/find-your-perfect-free-software-top-8-vehicle-driver-updates-tools-july-2024-edition/"><u>Find Your Perfect Free Software: Top 8 Vehicle Driver Updates Tools - July 2024 Edition</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-the-latest-iosipados-beta-version-on-iphone-6s-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS/iPadOS Beta Version on iPhone 6s Plus? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Motorola Phone with Broken Screen</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/market-15-could-mean-missing-essential-advancements-revealed-by-zdnet-analysis/"><u>Market 15 Could Mean Missing Essential Advancements, Revealed by ZDNET Analysis</u></a></li>
+<li><a href="https://extra-support.techidaily.com/markets-top-picks-premier-drone-gimbals-for-2024/"><u>Market's Top Picks Premier Drone Gimbals for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2622889-9781936740284-the-art-of-living-joyfully/"><u>The Art of Living Joyfully | Free Book</u></a></li>
+<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-from-apple-iphone-11-pro-max-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue From Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-4-revolutionary-iphone-16-innovations-you-cant-miss-why-the-new-apple-model-is-a-must-have/"><u>Top 4 Revolutionary iPhone 16 Innovations You Can’t Miss: Why the New Apple Model Is a Must-Have</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/velocita-di-conversione-su-super-nitro-winxvideo-ai-usando-la-gpu-per-velocita-accelerata-audio-and-video/"><u>Velocità Di Conversione Su Super Nitro: Winxvideo AI Usando La GPU per Velocità Accelerata Audio & Video</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/windows-11-and-trustedinstaller-securing-the-right-to-modify-system-files/"><u>Windows 11 and TrustedInstaller: Securing the Right to Modify System Files</u></a></li>
 </ul></div>
 

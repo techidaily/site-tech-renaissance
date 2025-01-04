@@ -1,7 +1,7 @@
 ---
 title: "Experience the Cutting-Edge of AR: Navigating Apple's Latest Update to Vision Pro's Spatial Personas Insights"
-date: 2024-12-23T01:17:59.631Z
-updated: 2024-12-26T03:16:38.378Z
+date: 2025-01-03T16:40:56.028Z
+updated: 2025-01-04T16:40:14.069Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Did they improve the overall quality of life and usability of Apple's most quixo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Turn 2D images into spatial photos
@@ -60,10 +60,6 @@ In VisionOS 2, there are gestures. Holding your hand palm up and tapping fingers
 
 Unlike the previous two features, this _is_ a quality of life improvement. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Mac virtual display improvements
 
 The Mac virtual display feature of the Vision Pro has been nice, but limited. In VisionOS 1, you could only show one 4K display. Personally, I'm waiting for Apple to ditch the entire display paradigm and just show windows, but that's not going to happen this year. 
@@ -71,6 +67,10 @@ The Mac virtual display feature of the Vision Pro has been nice, but limited. In
 Screenshot by David Gewirtz/ZDNET
 
 On the other hand, Apple "later this year" will enable you to create displays with more resolutions. The most interesting is the full wrap-around display, which will be the equivalent of two 4K monitors. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Choo-choo train mode
 
@@ -89,7 +89,7 @@ There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, 
 * **Enterprise APIs:** These were described as enterprise-specific APIs, so we can assume they're somewhat special purpose. Examples given were surgical training and manufacturing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. New Canon spatial lens for creating spatial video
@@ -99,10 +99,6 @@ While iPhone 15 Pro users can create spatial video, there are limitations to usi
 Screenshot by David Gewirtz/ZDNET
 
 This allows more commercial and prosumer projects where the photographer or videographer needs more control over the complex range of settings available in a more traditional camera. Those videos can then be edited in Final Cut Pro, Apple's only mention of Final Cut during WWDC. There's also a new Vimeo app for VisionOS, that will allow spatial videos to be shared. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Third-party immersive video workflow
 
@@ -115,7 +111,7 @@ Apple is opening up the format for third-party creators to create immersive vide
 Even so, I think this is great. Those immersive videos are fantastic. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Other new features
@@ -126,6 +122,10 @@ Apple didn't cover all the new features during its announcement. At the end of t
 * **Keyboard breakthrough:** This was another feature I felt it was important for Apple to introduce, and apparently it will be available. No mention was made of it, so we have no idea if it's limited solely to Apple's own keyboards (but that's probably the case).
 * **Bora Bora environment:** I wanted to see more environments and we get…one. Personally, I think all the work on spatial photos and spatial videos could have been replaced with the ability for third parties to create 3D environments, but Apple didn't go there. But hey, Bora Bora, right?
 * **Rearrangeable Home View:** This was also not described but I'm guessing this means you can move around the Home icons.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What do you think?
 
@@ -171,24 +171,21 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-the-ultimate-snapchat-plus-twitter-duo-video-posting-guide/"><u>[New] 2024 Approved The Ultimate Snapchat + Twitter Duo (Video Posting Guide)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-timeless-thread-triumphs-reddits-all-time-fave-list-top-10/"><u>[New] Timeless Thread Triumphs Reddit’s All-Time Fave List (Top 10)</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-discover-new-movie-experiences-top-7-swaps-for-2024/"><u>[Updated] Discover New Movie Experiences - Top 7 Swaps for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/2022s-elite-cooler-selection-expert-picks-by-zdnet-unveiled/"><u>2022'S Elite Cooler Selection: Expert Picks by ZDNet Unveiled</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/arlo-pro-zdnet/"><u>Arlo Pro 지속성: 현재 판매중인 원래같은 보안 시스템이 될 수 있습니다 - ZDNET</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/filtering-through-youtube-talks/"><u>Filtering Through YouTube Talks</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-techniques-for-fascinating-vlog-dialogue-structure/"><u>In 2024, Techniques for Fascinating Vlog Dialogue Structure</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/losung-fur-iphone-backup-fehler-wiederherstellung-der-sitzung-nach-misserfolg/"><u>Lösung Für iPhone-Backup-Fehler: Wiederherstellung Der Sitzung Nach Misserfolg</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcome-vpn-connection-woes-on-your-iphone-with-7-powerful-strategies/"><u>Overcome VPN Connection Woes on Your iPhone with 7 Powerful Strategies</u></a></li>
-<li><a href="https://windows11.techidaily.com/process-to-undo-system-image-fault-0x80780119/"><u>Process to Undo System Image Fault: 0X80780119</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-ultimate-gear-list-for-any-aspiring-vlogger-top-12-cameras-for-2024/"><u>The Ultimate Gear List for Any Aspiring Vlogger - Top 12 Cameras for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-list-of-aplus-metal-detection-gadgets-for-202n4-tech-pros-weigh-in-zdnet/"><u>Ultimate List of A+ Metal Detection Gadgets for 202N4: Tech Pros Weigh In | ZDNET</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-surprising-delights-the-ring-spotlight-cam-pro-review-on-zdnet/"><u>Unveiling Surprising Delights: The Ring Spotlight Cam Pro Review on ZDNet</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/verify-and-optimize-your-audio-hardware-a-step-by-step-check-for-a-working-sound-card-by-yl-software-experts/"><u>Verify and Optimize Your Audio Hardware: A Step-by-Step Check for a Working Sound Card by YL Software Experts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/why-the-arlo-pro-5s-almost-made-it-as-my-ideal-home-surveillance-system-an-in-depth-review-on-zdnet/"><u>Why the Arlo Pro 5S Almost Made It As My Ideal Home Surveillance System – An In-Depth Review on ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/zdnet-exclusive-why-ecoflow-river-3-dominates-as-the-ideal-starter-battery/"><u>ZDNet Exclusive: Why EcoFlow River 3 Dominates as the Ideal Starter Battery</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/zdnet-review-discover-why-ecoflow-river-amoeba-is-a-top-pick-for-beginners-in-portable-power-solutions/"><u>ZDNet Review: Discover Why EcoFlow River Amoeba Is a Top Pick for Beginners in Portable Power Solutions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/zdnets-complete-guide-to-the-april-2024-lunar-eclipse-tips-for-viewing-essential-gear-and-key-facts-you-should-be-aware-of/"><u>ZDNet's Complete Guide to the April 2024 Lunar Eclipse: Tips for Viewing, Essential Gear & Key Facts You Should Be Aware Of</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/zdnets-deep-dive-into-tesla-cybertruck-powered-robot-mowers-exceeding-anticipation-with-innovative-features-and-efficiency/"><u>ZDNet's Deep Dive Into Tesla Cybertruck-Powered Robot Mowers: Exceeding Anticipation with Innovative Features and Efficiency</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-turn-the-last-scenes-first-with-android/"><u>[New] Turn the Last Scenes First with Android</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-decoding-the-economic-incentives-behind-youtubes-shorts-programme/"><u>[Updated] In 2024, Decoding the Economic Incentives Behind YouTube's Shorts Programme</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-perfectly-pivoted-videos-the-ultimate-android-editing-guide/"><u>[Updated] Perfectly Pivoted Videos The Ultimate Android Editing Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1723807900441-how-to-fix-a-required-cddvd-drive-device-driver-is-missing-error/"><u>How to Fix 'A Required CD/DVD Drive Device Driver Is Missing' Error</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-motorola-edge-2023-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Motorola Edge 2023 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/introducing-apples-latest-update-logic-pro-enhances-music-creation-with-ai-powered-band-features-for-ipad-and-mac-discover-how/"><u>Introducing Apple's Latest Update: Logic Pro Enhances Music Creation with AI-Powered Band Features for iPad & Mac - Discover How!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ios-175-beta-2-unveiled-allowing-eu-citizens-to-download-apps-online-a-comprehensive-guide/"><u>IOS 17.5 Beta 2 Unveiled: Allowing EU Citizens to Download Apps Online - A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ios-18-unveiled-top-6-ai-enhancements-for-iphone-devices-and-future-updates-to-watch-out-for/"><u>IOS 18 Unveiled: Top 6 AI Enhancements for iPhone Devices & Future Updates to Watch Out For!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/leading-ipads-detailed-inspections-and-expert-opinions-featured/"><u>Leading iPads : Detailed Inspections & Expert Opinions Featured</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/premiere-pro-a-launchpad-for-youtube-videos/"><u>Premiere Pro A Launchpad for YouTube Videos</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210404229-9781735740140-quantum-golf-2nd-edition/"><u>Quantum Golf 2nd Edition | Free Book</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-the-d3dx933dll-file-cannot-be-located-a-step-by-step-guide/"><u>Resolving the d3dx9_33.dll File Cannot Be Located: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-ipad-applications-boosting-efficiency-streamline-task-management-and-improve-focus-insights/"><u>Top iPad Applications Boosting Efficiency: Streamline Task Management & Improve Focus - Insights</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-dfu-mode-on-your-iphone-a-comprehensive-guide/"><u>Understanding DFU Mode on Your iPhone: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/zdnets-ultimate-guide-for-screen-recording-on-iphones-made-simple/"><u>ZDNet's Ultimate Guide for Screen Recording on iPhones Made Simple</u></a></li>
 </ul></div>
 

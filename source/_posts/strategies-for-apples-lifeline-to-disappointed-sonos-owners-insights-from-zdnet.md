@@ -1,7 +1,7 @@
 ---
 title: "Strategies for Apple's Lifeline to Disappointed Sonos Owners: Insights From ZDNet"
-date: 2024-12-19T17:57:32.677Z
-updated: 2024-12-26T03:17:52.377Z
+date: 2025-01-01T16:27:19.664Z
+updated: 2025-01-04T16:51:24.591Z
 tags:
   - apple
 categories:
@@ -29,13 +29,13 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -45,7 +45,7 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -56,10 +56,6 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
@@ -67,7 +63,7 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -83,6 +79,10 @@ You can easily add a control to any screen that has available space. Pick a scre
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
 
@@ -126,18 +126,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-hero-vs-hero-a-technological-comparison/"><u>[New] 2024 Approved Hero Vs Hero A Technological Comparison</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-direct-download-process-from-vimeo-to-mp3-format/"><u>[New] In 2024, Direct Download Process From Vimeo to MP3 Format</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-ring-sound-repeat-a-comprehensible-guide-to-personalization-on-android-devices/"><u>[Updated] 2024 Approved Ring, Sound, Repeat A Comprehensible Guide to Personalization on Android Devices</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-ranking-top-10-srt-modifications-for-pc-and-macos/"><u>[Updated] Ranking Top 10 SRT Modifications for PC & macOS</u></a></li>
-<li><a href="https://video-capture.techidaily.com/1726029698513-instagram/"><u>「インスタ映え！綺麗な画質でInstagramのビデオチャット録画テクニック」</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/all-about-bing-microsofts-search-engine-explained/"><u>All About Bing - Microsoft's Search Engine Explained</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/elevate-your-email-game-with-these-powerful-gmail-customization-tips/"><u>Elevate Your Email Game with These Powerful Gmail Customization Tips</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fixing-the-moderation-error-issue-with-chatgpt-expert-tips/"><u>Fixing the 'Moderation Error' Issue with ChatGPT - Expert Tips</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-motorola-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Motorola FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-mitigate-internal-error-in-windows-remote-desktop/"><u>Steps to Mitigate Internal Error in Windows Remote Desktop</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-rise-and-fall-of-aol-instant-messenger-aim-a-digital-revolution-recap/"><u>The Rise and Fall of AOL Instant Messenger (AIM): A Digital Revolution Recap</u></a></li>
-<li><a href="https://win-answers.techidaily.com/tips-and-tricks-to-optimize-your-pc-tackle-high-cpu-usage-by-god-of-war/"><u>Tips and Tricks to Optimize Your PC: Tackle High CPU Usage by God of War</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-how-to-handle-a-disappearing-ocidll-file/"><u>Troubleshooting Steps: How to Handle a Disappearing oci.dll File</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-synchronize-your-surfing-master-multi-video-youtube-use/"><u>[Updated] 2024 Approved Synchronize Your Surfing Master Multi-Video YouTube Use</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-creating-compelling-call-to-actions-utilizing-three-critical-copy-techniques-for-2024/"><u>[Updated] Creating Compelling Call-To-Actions Utilizing Three Critical Copy Techniques for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/6-methods-to-share-apple-iphone-xs-screen-with-pc-drfone-by-drfone-ios/"><u>6 Methods to Share Apple iPhone XS Screen with PC | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/affordable-quality-discover-how-beats-latest-solo-earbuds-could-outshine-sub-100-competitors-like-apples-airpods-insights-from-zdnet/"><u>Affordable Quality: Discover How Beats' Latest Solo Earbuds Could Outshine Sub-$100 Competitors Like Apple's AirPods – Insights From ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-enhances-carplay-experience-with-new-upgrades-announced-at-wwdc-2024-the-latest-innovations-explained-gizmodo/"><u>Apple Enhances CarPlay Experience with New Upgrades Announced at WWDC 2024 - The Latest Innovations Explained | Gizmodo</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/continue-to-score-huge-savings-ongoing-presidents-day-offers-at-major-retailers-including-best-buy-zdnet/"><u>Continue to Score Huge Savings: Ongoing Presidents’ Day Offers at Major Retailers Including Best Buy | ZDNet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/erfolgreiches-wenden-sie-um-ruckerstattung-fur-winxdvd-nach-der-softwarerichtlinie-digitarti/"><u>Erfolgreiches Wenden Sie Um Rückerstattung Für WinXDVD Nach Der Softwarerichtlinie | DigitArti</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-factors-behind-the-historic-crowdstrike-windows-crisis-insights-from-zdnet/"><u>Exploring the Factors Behind the Historic CrowdStrike Windows Crisis - Insights From ZDNet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/foremost-companies-pioneering-vr-technology-for-2024/"><u>Foremost Companies Pioneering VR Technology for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fusion-functionality-combining-watch-mac-access-for-2024/"><u>Fusion Functionality Combining Watch, Mac Access for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-an-overview-of-basic-and-simplified-hdr-photography/"><u>In 2024, An Overview of Basic and Simplified HDR Photography</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-google-pixel-fold-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Google Pixel Fold Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-motorola-moto-g14s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Motorola Moto G14s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/snag-the-latest-9gen-ipad-for-just-250-after-apples-fresh-reveal-expert-analysis/"><u>Snag the Latest 9Gen iPad for Just $250 After Apple's Fresh Reveal | Expert Analysis</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-capturing-images-with-your-hp-notebook/"><u>Step-by-Step Guide: Capturing Images with Your HP Notebook</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/thousands-receive-apples-newly-launched-ai-education-program-opportunities-for-current-and-former-students-tech-news-zdnet/"><u>Thousands Receive Apple's Newly Launched AI Education Program: Opportunities for Current & Former Students | Tech News - ZDNet</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/time-management-the-art-of-planning-zoom-meetings/"><u>Time Management The Art of Planning Zoom Meetings</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-3-key-technology-innovations-you-cant-ignore/"><u>Top 3 Key Technology Innovations You Can't Ignore</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-apple-bargains-in-july-2024-iphone-apple-watch-ipad-offers-explored-by-zdnet/"><u>Top Apple Bargains in July 2024: IPhone, Apple Watch, iPad Offers Explored by ZDNet</u></a></li>
 </ul></div>
 

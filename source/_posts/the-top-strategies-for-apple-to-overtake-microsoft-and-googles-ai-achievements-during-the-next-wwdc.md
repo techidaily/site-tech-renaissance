@@ -1,7 +1,7 @@
 ---
 title: The Top Strategies for Apple to Overtake Microsoft and Google's AI Achievements During the Next WWDC
-date: 2024-12-21T03:44:49.843Z
-updated: 2024-12-25T16:33:20.822Z
+date: 2024-12-31T16:46:53.541Z
+updated: 2025-01-04T16:12:20.982Z
 tags:
   - apple
 categories:
@@ -51,7 +51,7 @@ But should you splurge on Apple's newest mid-range wearable? Is it time for an u
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -69,25 +69,25 @@ But should you splurge on Apple's newest mid-range wearable? Is it time for an u
 
 \*Original MSRP
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 
 
 ---
 
 Kerry Wan/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## You should buy the Apple Watch Series 10 if...
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. You want a thinner design or larger watch sizes
 
 For the first time since the Watch Series 7 in 2021, the Apple Watch has had a facelift. The new Series 10 has a thinner overall profile and features larger faces and more rounded edges. Choose from a 42mm or 46mm display and enjoy a wearable lighter than the previous Series 9\. So, if you've been avoiding an Apple Watch because you've wanted a slimmer profile or larger face, here's your chance. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. You'd benefit from sleep apnea tracking
 
@@ -96,10 +96,6 @@ Sleep tracking is all the rage in tech (seriously, ZDNET readers [frequently pur
 **Also:** [**The best smart rings: Expert tested**](https://www.zdnet.com/article/best-smart-ring/)
 
 Brand new for the Series 10, sleep apnea tracking is now built-in and there's a host of other features, such as [depth gauge](https://www.zdnet.com/article/apple-watch-series-9-vs-series-10-which-smartwatch-is-right-for-you/), for sports like snorkeling and diving.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. You're looking for something future-proof
 
@@ -127,6 +123,10 @@ If you want top functions and maximum longevity, the new Watch Series 10 is the 
 
 Jason Hiner/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. You want an affordable option
 
 If you want to experience the integrated benefits of the Apple ecosystem on your wrist or upgrade your smartwatch without breaking the bank, older models, such as the [Series 8](https://www.zdnet.com/article/apple-watch-series-8-review/) or [Series 9](https://www.zdnet.com/article/apple-watch-series-9-review/), are a great way to save a few dollars while still nabbing excellent features. While the Series 8 lacks the updated elements offered in the Series 10 (and even the Series 9), it's still a solid watch with the ability to do many of the basic tasks users require: track workouts, manage calls and texts, sync with your iPhone, and more. 
@@ -135,15 +135,15 @@ If you want to experience the integrated benefits of the Apple ecosystem on your
 
 While the [Series 9](https://www.zdnet.com/article/apple-watch-series-9-review/) has been available for [upwards of $150 off](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-Series-9-With-Blood-Oxygen-GPS-Cellular-41mm-Starlight-Aluminum-Case-with-Starlight-Sport-Band-S-M%2F5031676480%3Fwmlspartner%3Dwlpa%26selectedSellerId%3D0%26gclsrc%3Daw.ds%26%26adid%3D222222222275031676480_156221679273_18387865360%26wl0%3D%26wl1%3Dg%26wl2%3Dc%26wl3%3D677785081658%26wl4%3Dpla-2228157757188%26wl5%3D9192199%26wl6%3D%26wl7%3D%26wl8%3D%26wl9%3Dpla%26wl10%3D8175035%26wl11%3Donline%26wl12%3D5031676480%26veh%3Dsem%26gad_source%3D1%26gclid%3DCjwKCAjwufq2BhAmEiwAnZqw8qlhlHZgVBlgIzIofDP3CSyc29wH8YwdGFvBqUfPmphFZr9oKyfkTRoCL_cQAvD_BwE&subId1=zd-__COM_CLICK_ID__-dtp) lately, the Series 8 is often even more affordable. You can find [refurbished options](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C2VT692T%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C20333517-e200-4733-8afd-d64ed5fd7345%7Cdtp&dtb=1) for under $250, though a major downside is this model is increasingly hard to find, especially in new condition. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. You're looking for blood oxygen sensors
 
 A major reason you may be interested in the Series 8, even though it's now a few years old, is the blood oxygen feature. Since the blood oxygen sensor [was banned](https://www.zdnet.com/article/apple-removes-blood-oxygen-sensor-from-new-watches-what-does-this-mean-for-current-users/) for the Series 9, Ultra 2, and as expected, the Series 10, no newer Apple Watch model offers the same capabilities. This situation means the Series 8 is the best option if you're looking for an Apple Watch equipped with blood oxygen sensing. 
 
 [Buy the Apple Watch Series 8 View now at Target](https://shop-links.co/link/?url=https%3A%2F%2Fwww.target.com%2Fp%2Frefurbished-apple-watch-series-8-gps-41mm-midnight-aluminum-case-with-midnight-sport-band-m-l-2022-8th-generation-target-certified-refurbished%2F-%2FA-89776439%3F&publisher_slug=itechdaily19598&exclusive=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -179,22 +179,22 @@ A major reason you may be interested in the Series 8, even though it's now a few
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-androids-best-free-mp3-extraction-tools-for-2024/"><u>[Updated] Android's Best Free MP3 Extraction Tools for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-enrich-your-visuals-captions-on-the-go-in-instagram/"><u>[Updated] Enrich Your Visuals Captions on the Go in Instagram</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-prime-focus-systems-ultimate-4k-dslr-rig-guide-for-2024/"><u>[Updated] Prime Focus Systems Ultimate 4K DSLR Rig Guide for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-the-impact-of-freesync-on-lgs-ultra-hd-monitors-27uhd68-for-2024/"><u>[Updated] The Impact of FreeSync on LG's Ultra HD Monitors (27UHD68) for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/brighten-your-yard-with-new-high-lumen-govee-permanent-outdoor-leds-install-now-for-a-radiant-evening-oasis/"><u>Brighten Your Yard with New High-Lumen Govee Permanent Outdoor LEDs – Install Now for a Radiant Evening Oasis!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/celebrating-a-milestone-on-mars-100k-bot-choir-serenades-nasas-red-planet-explorer-insights-from-zdnet/"><u>Celebrating a Milestone on Mars: 100K-Bot Choir Serenades NASA's Red Planet Explorer - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/cost-effective-travel-charger-transforms-long-journecks-smart-savings-by-zdnet/"><u>Cost-Effective Travel Charger Transforms Long Journecks | Smart Savings by ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-elite-lineup-expert-picks-for-ultimate-electric-smoking-devices-2023-edition/"><u>Discover the Elite Lineup: Expert Picks for Ultimate Electric Smoking Devices - 2023 Edition</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-hottest-gadgets-of-ces-2023-on-day-2-insider-reviews-and-analysis-by-zdnet/"><u>Discover the Hottest Gadgets of CES 2023 on Day 2: Insider Reviews and Analysis by ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discovering-americas-cutest-minimalist-homes-of-2022-stunning-small-space-living-solutions-for-modern-nomads/"><u>Discovering America's Cutest Minimalist Homes of 2022: Stunning Small-Space Living Solutions for Modern Nomads</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ecoflow-river-vee-a-top-pick-for-budget-friendly-high-performance-portable-power-solutions-reviewed-by-tech-expert/"><u>EcoFlow River Vee: A Top Pick for Budget-Friendly, High-Performance Portable Power Solutions Reviewed by Tech Expert</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-steps-for-planning-a-memorable-labor-day-celebration-insights-by-zdnets-experts/"><u>Essential Steps for Planning a Memorable Labor Day Celebration: Insights by ZDNet's Experts</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-overcome-initialization-issues-with-mozilla-thunderbird-and-ensure-smooth-operation/"><u>How to Overcome Initialization Issues with Mozilla Thunderbird and Ensure Smooth Operation</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-steady-craft-fights-against-camera-jiggles/"><u>In 2024, Steady Craft Fights Against Camera Jiggles</u></a></li>
-<li><a href="https://blog-min.techidaily.com/ultimate-list-of-top-13-universal-screen-casting-apps-reviewed-for-every-user-movavi-insights/"><u>Ultimate List of Top 13 Universal Screen Casting Apps Reviewed for Every User - Movavi Insights</u></a></li>
-<li><a href="https://fox-making.techidaily.com/oinalina-asama-rasayakal-bna-ka-hatakara-safitavayara-para-nakasana-tha-aapaka-fail-dhadha/"><u>ऑनलाइन-असिम रीसायकल बिन को हटाकर, सॉफ़्टवेयर पर नुकसान दें: आपकी फाइलें ढूंढें!</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-a-lens-on-innovation-how-hdri-redefines-video-production-standards-for-2024/"><u>[New] A Lens on Innovation How HDRI Redefines Video Production Standards for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-5-best-snipping-tools-for-windows/"><u>[Updated] In 2024, 5 Best Snipping Tools for Windows</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-honor-play-40c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Honor Play 40C? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-surpasses-samsung-as-worldwide-leader-in-smartphone-shipments-according-to-zdnet-report/"><u>Apple Surpasses Samsung as Worldwide Leader in Smartphone Shipments, According to ZDNet Report</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/can-you-ditch-your-garmin-for-apple-watchs-latest-workout-sync-feature/"><u>Can You Ditch Your Garmin for Apple Watch's Latest Workout Sync Feature?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/color-unification-in-final-cut-pro-a-beginners-guide-to-pro-results/"><u>Color Unification in Final Cut Pro A Beginners Guide to Pro Results</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-how-mac-studios-unique-features-outshine-the-new-m4-mac-mini-for-fall-release-enthusiasts-tech-insights-by-zdnet/"><u>Exploring How Mac Studio's Unique Features Outshine the New M4 Mac Mini for Fall Release Enthusiasts | Tech Insights by ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/hesitate-before-getting-iphone-16-explore-if-apples-ingenuity-measures-up/"><u>Hesitate Before Getting iPhone 16? Explore if Apple’s Ingenuity Measures Up!</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>How to Use Pokémon Emerald Master Ball Cheat On Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-unveiling-the-secret-acquiring-twitter-gifs-effortlessly-on-pc/"><u>In 2024, Unveiling the Secret Acquiring Twitter GIFs Effortlessly on PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/is-the-new-iphone-16-worth-it-expert-advice-on-why-to-embrace-or-avoid-the-upgrade-zdnet-analysis/"><u>Is the New iPhone 16 Worth It? Expert Advice on Why to Embrace or Avoid the Upgrade | ZDNET Analysis</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/leveraging-health-data-in-online-healthcare-ads/"><u>Leveraging Health Data in Online Healthcare Ads</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/power-players-unleashed-youtubes-female-elite/"><u>Power Players Unleashed YouTube’s Female Elite</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/samsung-galaxy-ring-overview-understanding-prices-debut-date-and-tech-specifications/"><u>Samsung Galaxy Ring Overview: Understanding Prices, Debut Date, and Tech Specifications</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/snap-up-on-details-with-videoleaps-advanced-zooming-for-2024/"><u>Snap Up on Details with VideoLeap's Advanced Zooming for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-4-standout-functions-of-the-new-iphone-16-that-justify-an-upgrade-from-apples-previous-models-insights/"><u>Top 4 Standout Functions of the New iPhone 16 That Justify an Upgrade From Apple’s Previous Models - Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-green-myth-a-closer-look-at-the-real-eco-friendlinnss-of-electric-cars/"><u>Unveiling the Green Myth: A Closer Look at the Real Eco-Friendlinnss of Electric Cars</u></a></li>
 </ul></div>
 

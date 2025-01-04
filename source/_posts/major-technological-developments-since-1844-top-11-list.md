@@ -1,7 +1,7 @@
 ---
 title: "Major Technological Developments Since 1844: Top 11 List"
-date: 2024-08-20T10:37:59.916Z
-updated: 2024-08-21T10:37:59.916Z
+date: 2024-12-29T16:18:25.869Z
+updated: 2025-01-04T16:14:41.028Z
 categories:
   - BestProducts
 description: "This Article Describes Major Technological Developments Since 1844: Top 11 List"
@@ -36,9 +36,17 @@ thumbnail: https://thmb.techidaily.com/8952485f60295f3d1e3d2e7fb384d7f4849fc0ba1
 
  We can avoid ever being in the dark with[smart light bulbs](https://www.lifewire.com/smart-light-bulbs-4149561) that you can turn on and off with a virtual assistant like[Alexa](https://www.lifewire.com/amazon-alexa-voice-assistant-4152107) or[Google Assistant](https://www.lifewire.com/what-is-google-assistant-4120911) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Television — 1927
 
 ![Old television on stand, in front of curtain](https://www.lifewire.com/thmb/sT1Lb9obt08EDKCn3w7CXCy6tE0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/old-television-on-stand--in-front-of-curtain-200453943-001-293b961ae282457791c4eed589eff3cb.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Steven Errico / Getty Images
 
@@ -48,12 +56,13 @@ thumbnail: https://thmb.techidaily.com/8952485f60295f3d1e3d2e7fb384d7f4849fc0ba1
 
  Many people watch movies and TV shows on their smartphones, tablets, or laptops, though flat-screen TVs are still popular.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Personal Computers — 1970s
 
 ![alter IBM Compter von 1981](https://www.lifewire.com/thmb/4cl0LjPSEzswX-i1Q48NuRe8jNk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/alter-ibm-compter-von-1981-513809422-7189b1cbfe1b47339bdda64dc60627e0.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 EdnaM / Getty Images
 
@@ -62,6 +71,10 @@ EdnaM / Getty Images
  Personal computers didn't take off in the_personal_ sense until Apple introduced the Apple II line of computers in 1977\. They were sold at stores and included software that expanded what it could do beyond simple programming. The first spreadsheet, ViscCalc, was available on the Apple II line.
 
  The personal computer we all know today exploded once IBM introduced the IBM PC in 1981\. Once businesses adopted it, the entire industry expanded to produce all the products we know and use today.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Global Positioning System — 1970s
 
@@ -72,15 +85,17 @@ EdnaM / Getty Images
  The system can triangulate data and pinpoint your location, and it powers the GPS devices and apps that people use now to get around.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Internet: ARPANET — 1973
 
 ![Arpanet Map from May 1973](https://www.lifewire.com/thmb/fsyBzcuavn9WlcR_Ve8EK_dlpro=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Arpanet_map_1973-2983e062888f4a23a9ec989af0c6f487.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ARPANET /Public domain
 
  It’s hard to imagine a computer without the[internet or the web](https://www.lifewire.com/difference-between-the-internet-and-the-web-2483335) . In the early '80s, ARPANET, a precursor to the internet, was created with funding from the U.S. Department of Defense and the Advanced Research Projects Agency Network (hence the acronym).
@@ -89,16 +104,10 @@ ARPANET /Public domain
 
  It’s common for people to conflate the two terms. The internet is a global computer network running standardized communication protocols, while the WWW consists of public sites connected to the internet.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## GPS Navigation — 1990s
 
 ![San Francisco, California scenics](https://www.lifewire.com/thmb/JBcxbVh9X27hnW5roLmvGZOywbM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/san-francisco--california-scenics-1048327060-238a789e54b94cf799aee655c2f19c1b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Robert Alexander / Getty Images
 
  Thanks to GPS (see above), getting lost is becoming a more and more rare occurrence.
@@ -108,6 +117,10 @@ ARPANET /Public domain
  Navigation software has evolved to include traffic information, transit schedules, and walking and biking directions to get from point A to point B any way you like.
 
 [How to Plan an Alternate Route With Google Maps](https://www.lifewire.com/alternate-route-plan-google-maps-1616470)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Digital Camera — 1990s
 
@@ -122,32 +135,23 @@ ARPANET /Public domain
  Digital cameras are everywhere now, from security cameras to smartphones and laptop and desktop computers. Even the least expensive product with a camera embedded in it is far better than those cameras from the early days.
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Web Browser — 1994
 
 ![Mosaic web browser](https://www.lifewire.com/thmb/ZHIWa9h-A3m6SDVXmfSIkj-wQP8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NCSA_Mosaic_Browser_Screenshot-2f1f4b065a284b37bb79f433cc515659.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
  Programm: National Center for Supercomputing Applications/CC0
 
  Surfing the web was made more comfortable with the arrival of Mosaic, a web browser that was significantly more intuitive than its predecessors.
 
  Compatible with Windows, Mosaic was accessible to the masses, not just tech types, though Netscape Navigator eventually dethroned it. But we can thank Mosaic for giving us modern browsers like Chrome and Firefox.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Social Media — 2004
 
 ![Facebook's Sign Up Page](https://www.lifewire.com/thmb/49daxvoCJfOTzoBPeb_SlLG6Eho=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FacebookSignIn-a4c1c336e92a436c952e1dc7e3813c40.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  Love it or hate it (or both), but Facebook (initially The Facebook), which launched out of Mark Zuckerberg’s dorm room, was the first social media platform to gain worldwide popularity.
 
  From connecting with the people you went to high school to planning protests against the government, Facebook brings people together. Of course, it also causes all sorts of strife, including hate speech and “fake news,” which the platform struggles to contain.
@@ -186,8 +190,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -195,4 +197,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-tech-tips-efficient-gameplay-archiving-in-roblox-on-macos-for-2024/"><u>[New] Tech Tips Efficient Gameplay Archiving in Roblox on MacOS for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-snap-your-world-how-to-watch-360-videos-on-android/"><u>[Updated] In 2024, Snap Your World How to Watch 360 Videos on Android</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-top-10-professional-360-degree-cameras-2023-update/"><u>[Updated] Top 10 Professional 360 Degree Cameras -2023 Update</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-twirl-chill-and-groove-the-ultimate-country-playlist-on-tiktok/"><u>[Updated] Twirl, Chill, and Groove The Ultimate Country Playlist on TikTok</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-essential-7-android-apps-to-eliminate-intrusive-ads/"><u>2024 Approved Essential 7 Android Apps to Eliminate Intrusive Ads</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/avoiding-device-malfunctions-essential-tips-for-a-smooth-ios-18-transition-on-your-ipad-gadgetflow-insights/"><u>Avoiding Device Malfunctions: Essential Tips for a Smooth iOS 18 Transition on Your iPad | GadgetFlow Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/beat-the-crowd-score-apples-m2-macbook-air-at-unbelievable-prices-under-800-on-amazon-ahead-of-prime-day-season/"><u>Beat The Crowd - Score Apple's M2 MacBook Air at Unbelievable Prices Under $800 on Amazon, Ahead of Prime Day Season!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehvein-effective-methods-for-fixing-the-blue-screen-of-death-problem/"><u>Comprehvein: Effective Methods for Fixing the 'Blue Screen of Death' Problem</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/efficient-techniques-for-tweaking-snapchat-video-speed/"><u>Efficient Techniques for Tweaking Snapchat Video Speed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-the-latest-updates-to-final-cut-pro-on-ipad-revolutionize-filmmaking-for-professionals-exclusive-review-by-a-cinematic-visionary/"><u>How the Latest Updates to Final Cut Pro on iPad Revolutionize Filmmaking for Professionals: Exclusive Review by a Cinematic Visionary</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-lava-storm-5g-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Lava Storm 5G Phone with Broken Screen</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/m3-vs-m1-macbook-pro-comparing-apples-latest-laptops-for-tech-enthusiasts-gadget-review/"><u>M3 vs M1 MacBook Pro: Comparing Apple’s Latest Laptops for Tech Enthusiasts | Gadget Review</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revive-your-samsung-soundbar-expert-tips-for-restoring-functionality/"><u>Revive Your Samsung Soundbar: Expert Tips for Restoring Functionality</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/safari-tab-management-on-macos-monterey-enabling-self-destruct-feature-for-efficient-browsing/"><u>Safari Tab Management on macOS Monterey: Enabling Self-Destruct Feature for Efficient Browsing</u></a></li>
+<li><a href="https://win-special.techidaily.com/sofortige-hilfe-benotigt-organisatorischer-fehler-fuhrte-zum-loschen-eines-gesamten-ordners-was-nun-zu-tun-ist/"><u>Sofortige Hilfe Benötigt! Organisatorischer Fehler Führte Zum Löschen Eines Gesamten Ordners, Was Nun Zu Tun Ist?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-mac-maintenance-tools-of-2022-expert-picks/"><u>Top-Rated Mac Maintenance Tools of 2022 - Expert Picks</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/ultimate-troubleshooting-manual-how-to-unstick-windows-11-update-from-permanent-0-or-99/"><u>Ultimate Troubleshooting Manual: How to Unstick Windows 11 Update From Permanent 0% or 99%</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-nokia-c12-plus-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Nokia C12 Plus.</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unpacking-the-enhanced-ease-of-iphone-16s-maintenance-over-earlier-versions-insights-from-apple/"><u>Unpacking the Enhanced Ease of iPhone 16'S Maintenance Over Earlier Versions - Insights From Apple</u></a></li>
+</ul></div>
 

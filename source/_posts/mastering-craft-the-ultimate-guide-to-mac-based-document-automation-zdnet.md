@@ -1,7 +1,7 @@
 ---
 title: "Mastering Craft: The Ultimate Guide to Mac-Based Document Automation | ZDNet"
-date: 2024-12-12T16:01:50.394Z
-updated: 2024-12-17T16:04:38.429Z
+date: 2024-12-28T16:49:13.484Z
+updated: 2025-01-04T16:57:21.276Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ But then something sort of magical happened -- I started using the app. Once I u
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Craft?
@@ -40,7 +40,7 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -64,7 +64,7 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -78,7 +78,7 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -129,18 +129,22 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-guide-on-downloading-processing-and-saving-twitter-vids-as-mp3s/"><u>[New] In 2024, Guide on Downloading, Processing, and Saving Twitter Vids as MP3s</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-mp3-broadcasting-toolkit-convert-upload-and-stream-youtube/"><u>[Updated] MP3 Broadcasting Toolkit Convert, Upload & Stream YouTube</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/behind-the-curtain-of-silence-uncovering-the-potential-of-truthgpt-with-elon-musk-at-the-helm/"><u>Behind the Curtain of Silence: Uncovering the Potential of TruthGPT with Elon Musk at the Helm</u></a></li>
-<li><a href="https://win-updates.techidaily.com/entfernen-sie-falschlicherweise-markierte-dateien-auf-ihrem-pc-mit-zwei-effektiven-strategien-in-windows-11/"><u>Entfernen Sie Fälschlicherweise Markierte Dateien Auf Ihrem PC Mit Zwei Effektiven Strategien in Windows 11</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-celebrating-masterpieces-top-15-outstanding-stop-motion-works/"><u>In 2024, Celebrating Masterpieces Top 15 Outstanding Stop-Motion Works</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/iphone-tips-how-to-access-and-enjoy-shared-albums/"><u>IPhone Tips: How to Access and Enjoy Shared Albums</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/streamline-your-email-workflow-setting-up-tailored-rules-in-gmail/"><u>Streamline Your Email Workflow: Setting Up Tailored Rules in Gmail</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-complete-tutorial-for-erasing-personal-pictures-from-your-facebook-profile/"><u>The Complete Tutorial for Erasing Personal Pictures From Your Facebook Profile</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-hierarchy-within-royal-match-discovering-the-number-of-stages/"><u>The Hierarchy Within 'Royal Match': Discovering the Number of Stages</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-next-generation-of-wireless-tech-exploring-the-advantages-of-verizon-5g/"><u>The Next Generation of Wireless Tech: Exploring the Advantages of Verizon 5G</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-what-to-do-when-your-zoom-camera-fails/"><u>Troubleshooting Guide: What to Do When Your Zoom Camera Fails</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/universal-guide-hulu-recording-on-pc-apple-ios-and-android/"><u>Universal Guide Hulu Recording on PC, Apple, iOS & Android</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-eight-key-benefits-why-educators-need-to-welcome-artificial-intelligence-in-the-classroom/"><u>Unveiling Eight Key Benefits: Why Educators Need to Welcome Artificial Intelligence in the Classroom</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-ios-the-ultimate-list-of-ps2-emulators/"><u>[New] In 2024, IOS The Ultimate List of PS2 Emulators</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-ultimate-strategy-for-boosted-instagram-video-traffic-for-2024/"><u>[New] The Ultimate Strategy for Boosted Instagram Video Traffic for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-digital-brushstrokes-unearthing-the-best-8-artist-apps-for-iphones/"><u>[Updated] Digital Brushstrokes Unearthing the Best 8 Artist Apps for iPhones</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1-discover-what-an-apple-vision-pro-can-reveal-about-your-marriage-insights-from-a-sales-encounter-featured-on-zdnet/"><u>1. Discover What an Apple Vision Pro Can Reveal About Your Marriage: Insights From a Sales Encounter Featured on ZDNet</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-where-creativity-meets-technology-in-youtube-studio/"><u>2024 Approved Where Creativity Meets Technology in YouTube Studio</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comparing-ipad-air-4-and-ipad-air-prise-to-upgrade-your-tablet-experience-with-tech-tips/"><u>Comparing iPad Air 4 and iPad Air Prise to Upgrade Your Tablet Experience with Tech Tips!</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/complete-guide-accessing-and-checking-your-installed-applications-via-windows-control-panel-tips-by-yl-computing/"><u>Complete Guide: Accessing & Checking Your Installed Applications via Windows Control Panel - Tips by YL Computing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-dyson-shakes-up-the-wireless-audio-market-with-ontrac-a-new-contender-for-airpod-max-supremacy-review/"><u>How Dyson Shakes Up the Wireless Audio Market with 'OnTrac': A New Contender for AirPod Max Supremacy Review</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-get-your-hands-on-apple-vision-pro-before-everyone-else-tips-for-early-access-through-testflight-zdnet/"><u>How to Get Your Hands on Apple Vision Pro Before Everyone Else - Tips for Early Access Through TestFlight | ZDNET</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-mastering-mp4-downloading-vimeo-videos-easily/"><u>In 2024, Mastering MP4 Downloading Vimeo Videos Easily</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-realme-c67-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Realme C67 5G FRP Bypass</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-se-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone SE Passcode without a Computer</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/leverage-the-strength-of-cookiebot-for-enhanced-user-experience-metrics/"><u>Leverage the Strength of Cookiebot for Enhanced User Experience Metrics</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/snag-the-bargain-of-the-year-apples-new-m2-macbook-pro-now-at-only-800-on-amazon-beating-october-prime-day-offers/"><u>Snag the Bargain of the Year: Apple's New M2 MacBook Pro Now at Only $800 on Amazon, Beating October Prime Day Offers!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-one-big-factor-that-outshines-a-hypothetical-series-10-tech-analysis/"><u>The One Big Factor That Outshines a Hypothetical Series 10 | Tech Analysis</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-recovering-msvbvm50dll-and-eliminating-errors/"><u>The Ultimate Guide to Recovering msvbvm50.dll and Eliminating Errors</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-walkthrough-for-adding-your-ca-drivers-license-to-digital-wallets-on-apple-and-google-platforms/"><u>The Ultimate Walkthrough for Adding Your CA Driver's License to Digital Wallets on Apple & Google Platforms</u></a></li>
 </ul></div>
 

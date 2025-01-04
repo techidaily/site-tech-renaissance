@@ -1,7 +1,7 @@
 ---
 title: "Next-Gen Faceoff: Comparing Apple's Latest Marvel, Series 10 to Its Predecessor Series 8"
-date: 2024-12-23T17:01:25.795Z
-updated: 2024-12-26T01:16:56.135Z
+date: 2025-01-01T16:25:02.310Z
+updated: 2025-01-04T16:03:59.102Z
 tags:
   - apple
 categories:
@@ -28,10 +28,6 @@ In a [previous article](https://www.zdnet.com/article/6-ways-apple-can-leapfrog-
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Apple Intelligence will bring to the company's operating system platforms
 
 ### AI on the device and in the cloud
@@ -57,7 +53,7 @@ In terms of AI infrastructure, Apple also introduced its [Foundation Models](htt
 **Room for Improvement:** Apple fell short in AI infrastructure leadership by not announcing AI-accelerated server appliances at the edge, which would allow less capable devices, like the base iPhone 15 and earlier iOS 18-supported models, to use Apple Intelligence's more advanced features. While the hybrid AI model with on-device and PCC is a step in the right direction, AI-accelerated edge network devices were not mentioned to enhance performance and reduce latency. Apple is typically not transparent about deploying resources in its data centers, so it may plan to deploy these appliances at the edge without disclosing specifics. While the short list of Responsible AI Principles that the company [has documented here](https://machinelearning.apple.com/research/introducing-apple-foundation-models) is a good start, an AI [ethical disclosure](https://www.adobe.com/content/dam/cc/en/ai-ethics/pdfs/Adobe-AI-Ethics-Principles.pdf) statement [along the lines of what Adobe is doing](https://www.adobe.com/ai/overview/ethics.html) would further bolster trust and transparency.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Embracing third-party AI providers
@@ -68,6 +64,10 @@ Apple has dipped its toes into [ChatGPT](https://www.zdnet.com/article/what-is-c
 
 **Room for improvement:** While Apple's intention to be LLM-agnostic is a positive sign for the company's AI strategy, I had hoped for a broader embrace of third-party platforms, particularly health, finance, and education, with AI integration. However, this shift will have to come with developers embracing the new [SiriKit, App Intents, Core ML, Create ML, and other APIs](https://www.zdnet.com/article/apple-coders-rejoice-your-programming-tools-just-got-a-big-free-ai-boost/). Deeper integration with specialized AI providers could significantly enhance Apple Intelligence's functionality and versatility.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Smart notifications and writing tools
 
 Smart notifications in Apple's operating systems will leverage on-device LLMs to sift through the noise and ensure that only the most important alerts make it through. This is part of the new Reduce Interruptions Focus, which shows users key details for each notification. System-wide writing tools can write, proofread, and summarize text for users, from short messages to long blog posts, with the Rewrite feature providing multiple versions of text based on the intended audience.
@@ -77,7 +77,7 @@ Smart notifications in Apple's operating systems will leverage on-device LLMs to
 **Room for improvement:** Building on the Reduce Interruptions Focus, further development in proactive assistance features that anticipate user needs based on past behavior and context would be beneficial.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### AI image generation and Genmoji
@@ -87,7 +87,7 @@ Apple has opened up a world of creative possibilities by integrating the [Image 
 **Room for improvement:** Providing more granular controls and customization options for the generated images and Genmojis, such as fine-tuning styles and attributes, could cater to more specific user preferences. Additionally, implementing features that suggest image enhancements or emoji creations based on user activity and context could further streamline the creative process.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Enhanced Siri and task automation
@@ -103,6 +103,10 @@ The new Reduce Interruptions feature ensures that only the most important notifi
 Apple Intelligence also performs actions within apps on behalf of the user. It can open Photos and show images of specific groups based on a request. In Mail, priority messages are highlighted with summaries for quick insight. Notes users can record, transcribe, and summarize audio, creating summary transcripts of calls with automatic notifications to participants.
 
 **Room for improvement:** While Apple has made significant progress, future updates could further enhance Siri's capabilities, automate more complex tasks, and provide deeper personalization across the Apple ecosystem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### AI capabilities across Apple products
 
@@ -135,10 +139,6 @@ Finally, the new Translation API will be unveiled. It will help developers build
 **Also: [Apple unveils an on-device AI image generator for iPhone, iPad, and Mac](https://www.zdnet.com/article/apple-unveils-on-device-ai-image-generator-for-iphone-ipad-and-mac/)**
 
 By equipping developers with these resources, Apple is ensuring that the potential of Apple Intelligence can be fully realized across its ecosystem, driving innovation and enhancing user experiences.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Did Apple go far enough with AI improvements?
 
@@ -180,24 +180,15 @@ Addressing the remaining gaps could enhance Apple's competitive position in the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-apples-m1-battle-is-the-air-or-pro-more-efficient-in-2024/"><u>[Updated] Apple's M1 Battle Is the Air or Pro More Efficient, In 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/5-breakthrough-bots-providing-virtual-therapy-assistance/"><u>5 Breakthrough Bots Providing Virtual Therapy Assistance</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-apples-visionos-update-a-closer-look-at-persona-improvements-and-new-innovations-on-your-devices-zdnet/"><u>Exploring Apple's VisionOS Update: A Closer Look at Persona Improvements & New Innovations on Your Devices | ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-discussing-metas-vision-for-tomorrow-keeps-me-awake-a-conversation-highlighted-on-zdnet/"><u>How Discussing Meta's Vision for Tomorrow Keeps Me Awake - A Conversation Highlighted on ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-loreal-clinched-two-prestigious-honors-for-pioneering-accessible-beauty-tech-during-ces-2er-2023-a-deep-dive-by-zdnet/"><u>How L'Oréal Clinched Two Prestigious Honors for Pioneering Accessible Beauty Tech During CES 2Er 2023: A Deep Dive by ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/immerse-yourself-in-sound-how-logitechs-chorus-add-on-elevates-the-meta-quest-2-vr-experience-zdnet-insights/"><u>Immerse Yourself in Sound: How Logitech's Chorus Add-On Elevates the Meta Quest 2 VR Experience | ZDNET Insights</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-vivo-x90s-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Vivo X90S without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-realme-narzo-60-5g-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Realme Narzo 60 5G</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-revolutionizing-photos-through-automated-hdr-techniques/"><u>In 2024, Revolutionizing Photos Through Automated HDR Techniques</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-lava-yuva-3-pro-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Lava Yuva 3 Pro Device</u></a></li>
-<li><a href="https://extra-support.techidaily.com/irreversible-integration-of-tiktok-profile-linking-technique-for-2024/"><u>Irreversible Integration of TikTok Profile Linking Technique for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/meta-quest-3-the-innovative-game-based-mindfulness-approach-by-headspace-as-featured-on-zdnet/"><u>Meta Quest #3: The Innovative Game-Based Mindfulness Approach by Headspace, as Featured on ZDNet</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-melody-compendium-the-15-best-music-selections-for-different-visual-media-types/"><u>New Melody Compendium The 15 Best Music Selections for Different Visual Media Types</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/secure-the-best-virtual-reality-deal-of-2023-with-meta-quest-(200-comprehensive-review-and-tips-from-zdnet/"><u>Secure the Best Virtual Reality Deal of 2023 with Meta Quest <$200 | Comprehensive Review and Tips From ZDNET</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/strategies-for-overseeing-client-systems-spread-over-various-subnets/"><u>Strategies for Overseeing Client Systems Spread Over Various Subnets</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unity-launches-beta-testing-for-apples-vision-pro-kickstart-your-ar-and-vr-game-development-now/"><u>Unity Launches Beta Testing for Apple's Vision Pro - Kickstart Your AR and VR Game Development Now!</u></a></li>
-<li><a href="https://video-capture.techidaily.com/unlocking-full-potential-with-obs-and-skype-collaboration-tools/"><u>Unlocking Full Potential with OBS and Skype Collaboration Tools</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-surge-of-virtual-augmented-and-extended-realities-insights-from-mits-reality-hack/"><u>Unveiling the Surge of Virtual, Augmented, and Extended Realities: Insights From MIT's 'Reality Hack'</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/whos-leading-the-charge-in-crafting-tomorrows-digital-realm-exploring-the-innovators-of-the-metaverse-with-zdnet/"><u>Who's Leading the Charge in Crafting Tomorrow's Digital Realm? Exploring the Innovators of the Metaverse with ZDNET</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-igtv-vs-youtube-differences-and-which-one-should-you-use/"><u>[Updated] In 2024, IGTV VS YouTube Differences and Which One Should You Use?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-from-dull-to-delightful-how-to-craft-standout-youtube-thumbnails/"><u>2024 Approved From Dull to Delightful How To Craft Standout YouTube Thumbnails</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/anticipate-this-falls-tech-evolution-as-apple-reveals-new-upgrades-for-iphone-ipad-and-more-featuring-advanced-ai-analysis-from-zdnet/"><u>Anticipate This Fall's Tech Evolution as Apple Reveals New Upgrades for iPhone, iPad, and More – Featuring Advanced AI | Analysis From ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/choosing-the-perfect-apple-smart-speaker-in-depth-comparison-between-homepod-and-homepod-mini-tech-insights/"><u>Choosing the Perfect Apple Smart Speaker: In-Depth Comparison Between HomePod and HomePod Mini | Tech Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/deciding-on-an-upgrade-m3-macbook-air-versus-m2-in-depth-review-for-prospective-buyers-cnet/"><u>Deciding on an Upgrade? M3 MacBook Air Versus M2 – In-Depth Review for Prospective Buyers | CNET</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/journey-to-high-definition-mastering-sdr-to-hdr-conversion-for-2024/"><u>Journey to High Definition Mastering SDR to HDR Conversion for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/protect-and-restore-your-digital-life-essential-techniques-for-encrypting-and-decrypting-a-mac-hard-drive-video-guide/"><u>Protect & Restore Your Digital Life: Essential Techniques for Encrypting & Decrypting a Mac Hard Drive (Video Guide)</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/resolving-sound-card-driver-problems-a-step-by-step-guide-by-yl-computing/"><u>Resolving Sound Card Driver Problems: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-your-browsing-experience-7-extensions-for-ai-enthusiasts/"><u>Transform Your Browsing Experience: 7 Extensions for AI Enthusiasts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/wwdc-2024-sneak-peek-the-ipados-feature-that-could-convince-me-to-go-apple/"><u>WWDC 2024 Sneak Peek: The iPadOS Feature That Could Convince Me to Go Apple</u></a></li>
 </ul></div>
 

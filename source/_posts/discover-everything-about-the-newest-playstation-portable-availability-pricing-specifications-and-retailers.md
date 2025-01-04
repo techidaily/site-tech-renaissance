@@ -1,7 +1,7 @@
 ---
 title: Discover Everything About the Newest PlayStation Portable - Availability, Pricing, Specifications & Retailers
-date: 2024-08-20T10:40:38.415Z
-updated: 2024-08-21T10:40:38.415Z
+date: 2024-12-30T16:20:34.489Z
+updated: 2025-01-04T16:50:38.536Z
 categories:
   - BestProducts
 description: This Article Describes Discover Everything About the Newest PlayStation Portable - Availability, Pricing, Specifications & Retailers
@@ -21,24 +21,34 @@ thumbnail: https://www.lifewire.com/thmb/7u-yGGkv8opvFKXgYgl5GmH7PQU=/400x300/fi
 
  Sony's PlayStation Portal (formerly Project Q), a handheld device that lets you stream games from your PS5, is out now. Here are all of the details.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  PlayStation Portal Release Date 
 
  The Playstation Portal launched November 15, 2023\. Sony first revealed the handheld device at its showcase in May 2023.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## PlayStation Portal Price 
 
  The PlayStation Portal costs $199.99.  
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Where to Buy 
 
  You can[ order PlayStation Portal directly from Sony](https://direct.playstation.com/en-us/buy-accessories/playstation-portal-remote-player) . You can also pick it up from other electronics retailers like Target, Amazon, and Best Buy.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  PlayStation Portal Specs and Features 
 
  PlayStation Portal has all the main features of the DualSense, including adaptive triggers, vibration, and a speaker. Sony has opted for an LCD screen rather than OLED, likely to help keep the production costs down.
@@ -57,8 +67,9 @@ thumbnail: https://www.lifewire.com/thmb/7u-yGGkv8opvFKXgYgl5GmH7PQU=/400x300/fi
 [  Sony Pulse Elite Headset: News, Price, Release Date, and Specs ](https://www.lifewire.com/sony-pulse-elite-headset-8419539) 
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Latest News About the PlayStation Portal 
 
  You can get[ more gaming news from Lifewire](https://www.lifewire.com/gaming-news-4797039) . Meanwhile, here are some stories about Sony and its other gaming products:
@@ -77,8 +88,6 @@ thumbnail: https://www.lifewire.com/thmb/7u-yGGkv8opvFKXgYgl5GmH7PQU=/400x300/fi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -86,4 +95,18 @@ thumbnail: https://www.lifewire.com/thmb/7u-yGGkv8opvFKXgYgl5GmH7PQU=/400x300/fi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-shades-of-success-color-grading-fundamentals/"><u>[Updated] In 2024, Shades of Success Color Grading Fundamentals</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-your-ultimate-roadmap-for-optimal-youtube-video-resolution-width-and-height-for-2024/"><u>[Updated] Your Ultimate Roadmap for Optimal YouTube Video Resolution, Width & Height for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-the-world-of-srt-extensions-for-audible-enjoyment/"><u>2024 Approved Navigating the World of SRT Extensions for Audible Enjoyment</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/detailed-breakdown-the-essence-of-hero4-black/"><u>Detailed Breakdown The Essence of Hero4 Black</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-everything-about-the-newly-announced-samsung-galaxy-z-fold-6-specs-pricing-and-expected-release-date/"><u>Discover Everything About the Newly Announced Samsung Galaxy Z Fold 6: Specs, Pricing & Expected Release Date</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diy-guide-resolving-screen-irregularities-and-eliminating-line-defects-on-pcs/"><u>DIY Guide: Resolving Screen Irregularities and Eliminating Line Defects On PCs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-diy-methods-for-refreshing-and-sanitizing-your-stereo-systems-speakers/"><u>Easy DIY Methods for Refreshing and Sanitizing Your Stereo System's Speakers</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/expert-advice-on-how-to-thoroughly-wipe-data-from-an-iphone-a-step-by-step-process/"><u>Expert Advice on How to Thoroughly Wipe Data From an iPhone: A Step-by-Step Process</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-the-choices-a-guide-to-pre-purchase-considerations-for-smartwatches-number-5/"><u>Navigating the Choices: A Guide to Pre-Purchase Considerations for Smartwatches (Number 5)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-removing-microsofts-code-companion-from-your-windows-11/"><u>Step-by-Step Guide: Removing Microsoft's Code Companion From Your Windows 11</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/swift-screen-preserve-audio-accompanying/"><u>Swift Screen Preserve Audio Accompanying</u></a></li>
+</ul></div>
 

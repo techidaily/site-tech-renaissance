@@ -1,7 +1,7 @@
 ---
 title: What to Expect From Apple Watch’s New Version - Unveiling WatchOS N 11’S Improved Features | Insights
-date: 2024-12-18T17:02:27.108Z
-updated: 2024-12-25T22:59:58.100Z
+date: 2024-12-29T16:35:11.145Z
+updated: 2025-01-04T16:04:40.908Z
 tags:
   - apple
 categories:
@@ -52,10 +52,6 @@ The feature plays into the Apple Watch's cycle-tracking experience, so everythin
 
 Apple
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. More widgets for your Smart Stack, including Live Activities
 
 The Smart Stack, introduced in WatchOS 10, is improving slightly with some new widgets.
@@ -66,15 +62,15 @@ Plus, Live Activities are coming to Smart Stack, so you can keep tabs on live ev
 
 Apple
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. The Photos face, powered by machine learning
 
 The Photos face is one of the most popular faces on the Apple Watch, given its high level of customization. And it's getting a facelift (pun intended) with WatchOS 11.
 
 Your watch will use machine learning to analyze your photo library and find the best snaps to use as a watch face based on aesthetics, composition, and facial expressions. Apple's algorithm will then optimize the image for the watch face and add depth effects, different colored backgrounds, fonts, and more. You can customize it on your own to your heart's content, plus get treated to a new look every time you raise your wrist.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Double Tap now works with any app
 
@@ -83,6 +79,10 @@ One of the biggest complaints with the [Apple Watch Series 9](https://www.zdnet.
 Double tap gesture on Apple Watch Series 9.
 
 Jason Hiner/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Check In comes to your wrist
 
@@ -95,7 +95,7 @@ Move over, Venmo. Also in iOS 18, Apple is bringing Tap to Cash to WatchOS 11\. 
 **Also: [How to use 'Tap to Cash' to send money in iOS 18](https://www.zdnet.com/article/how-to-use-tap-to-cash-to-send-money-in-ios-18/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Translate on the fly
@@ -103,7 +103,7 @@ Move over, Venmo. Also in iOS 18, Apple is bringing Tap to Cash to WatchOS 11\. 
 Apple is adding the Translate app to WatchOS 11, allowing you to translate in any of 20 supported languages. Previously, the app was available only on the iPhone and iPad. When you're traveling abroad where a supported language is spoken, it'll automatically pop up in your watch's Smart Stack. Otherwise, choose the target and source languages and speak the words you want to be translated. Tap the Play button, and the translation plays through your watch's internal speaker.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 10\. Improved workout tracking for GPS-specific workouts
@@ -115,7 +115,7 @@ Soccer, American Football, Australian Football, Outdoor Hockey, Lacrosse, Downhi
 If you often use your digital wallet on your Apple Watch, you'll be intrigued by the improved ticketing experience. In WatchOS 11, Apple is adding more information on the event you're going to see, such as when the venue opens, what time it starts, and more. Plus, once you've loaded a ticket into your wallet and that special day approaches, you'll find seating information and other notable tidbits in a widget in your Smart Stack automatically.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does WatchOS 11 come out?
@@ -152,17 +152,17 @@ Right now, [WatchOS 11 is available as a public beta](https://www.zdnet.com/arti
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-expertly-edited-content-choosing-the-best-editor-for-2024/"><u>[New] Expertly Edited Content Choosing The Best Editor for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-lgs-monitor-marvel-the-31mu97-b-4k-showcase-review/"><u>[Updated] LG's Monitor Marvel The 31MU97-B 4K Showcase Review</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-youtubes-highest-income-stream-successors/"><u>[Updated] YouTube's Highest Income Stream Successors</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-must-watch-programming-list-of-max-broadcast-schedule/"><u>Discover Must-Watch Programming List of MAX Broadcast Schedule</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/dont-get-stranded-again-uncover-the-6-common-triggers-of-car-battery-deaths/"><u>Don't Get Stranded Again: Uncover the 6 Common Triggers of Car Battery Deaths</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-social-stardom-awaits-add-1k-to-your-insta-profile-each-month/"><u>In 2024, Social Stardom Awaits Add 1K to Your Insta Profile Each Month</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-samsung-galaxy-a34-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Samsung Galaxy A34 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/is-it-worth-switching-to-an-nvidia-rtx-gpu/"><u>Is It Worth Switching to an NVIDIA RTX GPU?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-xiaomi-redmi-k70-pro-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Xiaomi Redmi K70 Pro Device</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/monitor-mending-swift-steps-for-clear-visual-feed/"><u>Monitor Mending: Swift Steps for Clear Visual Feed</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/privacy-control-how-to-break-free-from-chatgpt/"><u>Privacy Control: How to Break Free From ChatGPT</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/set-up-your-pc-a-guide-to-skype-zoom-and-more-on-windows/"><u>Set Up Your PC: A Guide to Skype, Zoom & More on Windows</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-pictorial-word-constructor/"><u>[New] In 2024, Pictorial Word Constructor</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/2024s-ultimate-computer-showdown-in-depth-review-of-leading-brands-like-apple-and-dell/"><u>2024'S Ultimate Computer Showdown: In-Depth Review of Leading Brands Like Apple and Dell</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-dealing-with-windows-code-19-errors-successfully-what-you-need-to-know/"><u>Comprehensive Guide: Dealing with Windows 'Code 19' Errors Successfully – What You Need To Know</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/experience-an-affordable-and-personalized-chatgpt-clone-right-from-your-windows-desktop/"><u>Experience an Affordable and Personalized ChatGPT Clone Right From Your Windows Desktop!</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-for-diablo-2-resurrected-sudden-shutdowns/"><u>Fixes for 'Diablo 2: Resurrected' Sudden Shutdowns</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-discover-top-5-cost-free-windows-10-screencast-recorders/"><u>In 2024, Discover Top 5 Cost-Free Windows 10 Screencast Recorders</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/is-microsoft-poised-to-surpass-apple-with-optimized-windows-on-arm-architecture/"><u>Is Microsoft Poised to Surpass Apple with Optimized Windows on ARM Architecture?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-winmedia-tool-fault-x8007043c/"><u>Strategies for WinMedia Tool Fault X.8007043C</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/tecnicas-faciles-de-hacer-videos-con-sonido-usando-movavi/"><u>Técnicas Fáciles De Hacer Videos Con Sonido Usando Movavi</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-smartwatches-comprehensive-reviews-by-industry-experts-techradar/"><u>Top-Rated Smartwatches - Comprehensive Reviews by Industry Experts | TechRadar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleashing-windows-11-potential-via-powertoys-install/"><u>Unleashing Windows 11 Potential via PowerToys Install</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-you-should-consider-transitioning-to-claude-3-over-chatgpt/"><u>Why You Should Consider Transitioning to Claude 3 Over ChatGPT</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Decoding the Great CrowdStrike-Windows Crisis of '24 - Insights From History | ZDNET
-date: 2024-12-21T16:43:27.540Z
-updated: 2024-12-26T08:04:53.064Z
+date: 2025-01-01T16:20:37.245Z
+updated: 2025-01-04T16:01:28.457Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What happened?
@@ -55,7 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -95,7 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -125,7 +125,7 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -176,22 +176,18 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-speedy-shot-mastery-discovering-the-best-5-hacks-for-filming/"><u>[New] Speedy Shot Mastery Discovering the Best 5 Hacks for Filming</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-elevating-your-video-brand-tips-for-great-youtube-banners/"><u>[Updated] 2024 Approved Elevating Your Video Brand Tips for Great YouTube Banners</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-discovering-chromebooks-best-digital-art-stations/"><u>[Updated] In 2024, Discovering Chromebook's Best Digital Art Stations</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-yi-4k-action-excellence-choosing-the-best-extras/"><u>2024 Approved YI 4K Action Excellence Choosing the Best Extras</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/facebook-image-discovery-top-techniques-for-effective-search-results/"><u>Facebook Image Discovery: Top Techniques for Effective Search Results</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-issue-wd-my-passport-ultra-missing-from-windows-device-manager/"><u>Fixing the Issue: WD My Passport Ultra Missing From Windows Device Manager</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-faster-internet-on-windows-download-and-install-updated-usb-30-ethernet-adapter-drivers/"><u>Get Faster Internet on Windows: Download and Install Updated USB 3.0 Ethernet Adapter Drivers</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-a14-4g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy A14 4G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-make-your-content-explode-10-tips-for-instagram-fame/"><u>How to Make Your Content Explode: 10 Tips for Instagram Fame</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigating-the-tech-world-through-toms-hardware-lens/"><u>Navigating the Tech World Through Tom's Hardware Lens</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-mss32dll-file-not-detectedmissing-issues-a-comprehensive-guide/"><u>Resolving mss32.dll File Not Detected/Missing Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-best-ups-battery-backups-of-2024/"><u>The Best UPS Battery Backups of 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/troubleshoot-and-update-master-the-installation-of-epson-et-3760-printer-driver-on-your-window-machine/"><u>Troubleshoot and Update: Master the Installation of Epson ET-3760 Printer Driver on Your Window Machine</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/twitch-account-deletion-process-explained-in-simple-steps/"><u>Twitch Account Deletion Process Explained in Simple Steps</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-configuring-finder-preferences-for-organized-folder-management/"><u>Ultimate Guide: Configuring Finder Preferences for Organized Folder Management</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-list-of-mario-gaming-adventures-for-your-computer/"><u>Ultimate List of Mario Gaming Adventures for Your Computer</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Realme GT 5 (240W) | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-bridge-gap-twitter-video-and-chrome-compatibility/"><u>[New] 2024 Approved Bridge Gap Twitter Video and Chrome Compatibility</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-a-step-by-step-approach-to-macos-sierra-integration/"><u>[New] A Step-by-Step Approach to macOS Sierra Integration</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-evaluating-earnings-the-effective-3-step-process-for-youtube-financial-analysis/"><u>[New] Evaluating Earnings The Effective 3-Step Process for YouTube Financial Analysis</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-cognitive-conclaves-educational-yt-powerhouses/"><u>[New] In 2024, Cognitive Conclaves Educational YT Powerhouses</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-capture-your-audience-the-smartphone-guide-to-youtube-thumbnails/"><u>[Updated] In 2024, Capture Your Audience The Smartphone Guide to YouTube Thumbnails</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-securing-the-title-top-5-hmds-for-drone-pilots/"><u>[Updated] Securing the Title Top 5 HMDs for Drone Pilots</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1-crafting-multiple-network-interfaces-on-macos-a-guide-to-enhanced-connectivity-options/"><u>1. Crafting Multiple Network Interfaces on macOS: A Guide to Enhanced Connectivity Options</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-guide-protecting-your-iphone-16-with-the-right-case-a-must-read-for-first-time-users/"><u>Essential Guide: Protecting Your iPhone 16 with the Right Case – A Must-Read for First-Time Users!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-advice-on-resetting-your-airpods-know-when-how-and-why-to-do-it-right/"><u>Expert Advice on Resetting Your AirPods – Know When, How, and Why to Do It Right!</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-oppo-a78-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/master-iphone-filmmaking-for-full-sphere-effects-for-2024/"><u>Master iPhone Filmmaking for Full Sphere Effects for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/prime-day-splurge-discovering-value-in-apples-affordable-17-earpods-with-usb-c-a-surprising-find/"><u>Prime Day Splurge: Discovering Value in Apple's Affordable $17 EarPods with USB-C – A Surprising Find</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-tier-elegance-with-newly-launched-titanium-band-for-the-apple-watch-feature-highlights/"><u>Top-Tier Elegance with Newly Launched Titanium Band for the Apple Watch | Feature Highlights</u></a></li>
 </ul></div>
 

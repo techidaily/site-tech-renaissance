@@ -1,7 +1,7 @@
 ---
 title: "How Upgrading to iOS 18 Transformed My iPhone 14 Into a Superior Content-Creating Device: Insights"
-date: 2024-12-20T18:05:18.703Z
-updated: 2024-12-25T18:00:03.177Z
+date: 2024-12-30T16:39:46.938Z
+updated: 2025-01-04T16:06:01.199Z
 tags:
   - apple
 categories:
@@ -28,11 +28,11 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-## How to customize your iPhone's new Control Center with iOS 18
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## How to customize your iPhone's new Control Center with iOS 18
 
 ## 1\. Access Control Center
 
@@ -49,7 +49,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -58,6 +58,10 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
@@ -65,7 +69,7 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -76,10 +80,6 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
@@ -87,7 +87,7 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -126,18 +126,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-from-free-to-profitable-a-video-marketing-masterclass-for-vimeo-for-2024/"><u>[New] From Free to Profitable A Video Marketing Masterclass for Vimeo for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-navigating-kinemasters-zoom-features-for-professional-results-for-2024/"><u>[New] Navigating Kinemaster's Zoom Features for Professional Results for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-free-public-dns-servers-available-online-now/"><u>Discover the Best Free Public DNS Servers Available Online Now</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-breathless-races-showcasing-2022s-elite-snowboard-cross-at-winter-olympics/"><u>In 2024, Breathless Races Showcasing 2022'S Elite Snowboard Cross at Winter Olympics</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-is-mega-mewtwo-the-strongest-pokemon-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, Is Mega Mewtwo The Strongest Pokémon On Apple iPhone SE (2022)? | Dr.fone</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-top-5-free-streaming-options-for-watching-mlb-matches/"><u>New Top 5 Free Streaming Options for Watching MLB Matches</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/quick-tips-connecting-and-enjoying-music-through-your-samsung-soundbar-and-tv-combo/"><u>Quick Tips: Connecting and Enjoying Music Through Your Samsung Soundbar & TV Combo</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/secure-the-latest-epson-xp-42n-driver-free-download-and-installation-instructions/"><u>Secure the Latest Epson XP-42n Driver - Free Download and Installation Instructions</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/tailored-soundtracks-at-your-fingertips-constructing-youtube-music-collections-webmobile/"><u>Tailored Soundtracks at Your Fingertips Constructing YouTube Music Collections (Web/Mobile)</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-smartwatches-and-their-capabilities/"><u>The Ultimate Guide to Smartwatches and Their Capabilities</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-list-of-netgear-default-usernames-and-passwords-july-2024-update/"><u>Ultimate List of NETGEAR Default Usernames and Passwords (July 2024 Update)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-and-using-the-windows-package-manager-wpm/"><u>Understanding and Using the Windows Package Manager (WPM)</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/windows-hacking-essentials-modifying-someone-elses-login-credentials/"><u>Windows Hacking Essentials: Modifying Someone Else's Login Credentials</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-reviewing-cybernetic-tools-for-live-video-capture/"><u>[New] Reviewing Cybernetic Tools for Live Video Capture</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-live-recording-simplified-logitech-webcam-setup-steps-for-2024/"><u>[Updated] Live Recording Simplified Logitech Webcam Setup Steps for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-tecno-camon-20-pro-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Tecno Camon 20 Pro 5G to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-faces-doj-lawsuit-potential-impacts-on-ios-developers-and-iphone-enthusiasts-insights-from-zdnet/"><u>Apple Faces DOJ Lawsuit: Potential Impacts on iOS Developers & iPhone Enthusiasts - Insights From ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/automattic-scores-victory-in-tech-arena-with-beeper-acquisition-future-messaging-ambitions-revealed/"><u>Automattic Scores Victory in Tech Arena with Beeper Acquisition; Future Messaging Ambitions Revealed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/boost-your-apple-watchs-battery-top-8-essential-settings-tweaks-revealed/"><u>Boost Your Apple Watch's Battery: Top 8 Essential Settings Tweaks Revealed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-dual-purpose-macbook-stand-and-charger-at-just-102-features-reviewed/"><u>Discover the Dual-Purpose MacBook Stand & Charger at Just $102 - Features Reviewed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-solutions-for-stabilizing-your-surface-pros-display/"><u>Effective Solutions for Stabilizing Your Surface Pro's Display</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-motorola-defy-2-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Motorola Defy 2 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-8-plus-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 8 Plus To Other iPhone 12 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/three-essential-actions-required-by-apple-to-save-tophield-pro-success-insights-from-zdnet/"><u>Three Essential Actions Required by Apple to Save Tophield Pro Success: Insights From ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-5-must-watch-british-series-streaming-on-netflix-today/"><u>Top 5 Must-Watch British Series Streaming on Netflix Today</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-keyboards-professional-insights-comparisons-and-reviews-techradar/"><u>Top Rated Keyboards : Professional Insights, Comparisons & Reviews | TechRadar</u></a></li>
 </ul></div>
 

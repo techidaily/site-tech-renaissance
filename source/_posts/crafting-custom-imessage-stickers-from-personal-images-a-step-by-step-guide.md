@@ -1,7 +1,7 @@
 ---
 title: "Crafting Custom iMessage Stickers From Personal Images: A Step-by-Step Guide"
-date: 2024-12-18T16:23:48.859Z
-updated: 2024-12-26T05:45:38.763Z
+date: 2025-01-01T16:25:02.624Z
+updated: 2025-01-04T16:11:02.360Z
 tags:
   - apple
 categories:
@@ -56,10 +56,6 @@ Next, confirm that you're running the latest version of Phone Link. To do this, 
 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Open Phone Link
 
 Click the Start button, go to All Apps, and select Phone Link from the list. The first screen prompts you to select your device. Click the button for iPhone.
@@ -82,6 +78,10 @@ Your phone should ask if you want your PC to receive notifications from your iPh
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Run Phone Link
 
 The Phone Link welcome screen should appear on your PC and ask if you want to open the app each time you log into Windows. If you do, check the box.
@@ -89,7 +89,7 @@ The Phone Link welcome screen should appear on your PC and ask if you want to op
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Access your recent messages
@@ -107,7 +107,7 @@ Screenshot by Lance Whitney/ZDNET
 ## Use Intel Unison
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Install Intel Unison
@@ -131,7 +131,7 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Launch the Windows Unison app
@@ -146,15 +146,15 @@ At the Messages screen, click the icon for "Compose a new message." Choose the r
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Send a message
 
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -192,20 +192,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-masterclass-review-top-tier-professional-cameras-spin-full-circle-2023/"><u>[Updated] In 2024, Masterclass Review Top-Tier Professional Cameras Spin Full Circle - 2023</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-revolutionize-your-videos-top-10-mobile-editing-apps-on-iosandroid/"><u>[Updated] Revolutionize Your Videos Top 10 Mobile Editing Apps on iOS/Android</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-innovative-titling-techniques-to-explore/"><u>2024 Approved Innovative Titling Techniques to Explore</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/7-free-online-fax-services/"><u>7 Free Online Fax Services</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-fix-netflix-error-code-nw-1-19/"><u>How to Fix Netflix Error Code NW-1-19</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/intel-iris-xe-graphics-software-update-for-windows-11-available-now/"><u>Intel Iris Xe Graphics Software Update for Windows 11 Available Now</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/movavi-mxf-mkv/"><u>Movavi 提供的 MXF 至 MKV 線上無限制過渡工具 - 自由轉換影片格式</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/snappy-adjustments-the-art-of-perfecting-photos-on-snapchat-for-2024/"><u>Snappy Adjustments The Art of Perfecting Photos on Snapchat for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95816284-9781944529109-telepathy/"><u>Telepathy | Free Book</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210630649-9780760377093-the-tarot-spellbook/"><u>The Tarot Spellbook | Free Book</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshoot-your-iphones-autofocus-problems-with-these-solutions/"><u>Troubleshoot Your iPhone's Autofocus Problems with These Solutions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-malfunctioning-closed-captions-in-amazon-prime-streams/"><u>Troubleshooting Malfunctioning Closed Captions in Amazon Prime Streams</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722884113163-troubleshooting-steps-resolving-your-ipads-wi-fi-connection-issues/"><u>Troubleshooting Steps: Resolving Your iPad's Wi-Fi Connection Issues</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-switching-fonts-on-windows-11-easily/"><u>Ultimate Guide: Switching Fonts on Windows 11 Easily</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-best-tech-secrets-your-guide-to-toms-hardware-wisdom/"><u>Unveiling the Best Tech Secrets - Your Guide to Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-editors-guide-to-effective-lut-implementation/"><u>[New] The Editor's Guide to Effective LUT Implementation</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-dxgkrnlsys-blue-screen-of-death-on-windows/"><u>[Solved] dxgkrnl.sys Blue Screen of Death on Windows</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-essential-tips-for-effective-voice-to-text-in-google-docs/"><u>[Updated] Essential Tips for Effective Voice-to-Text in Google Docs</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-top-6-budget-friendly-4k-sharp-projectors-for-2024/"><u>[Updated] Top 6 Budget-Friendly 4K Sharp Projectors for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-complete-understanding-of-srt-covering-everything-important/"><u>2024 Approved Complete Understanding of SRT, Covering Everything Important</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-top-10-guides-for-crafting-stellar-music-reactions-on-youtube/"><u>2024 Approved Top 10 Guides for Crafting Stellar Music Reactions on YouTube</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/automatically-manage-your-safari-browser-windows-on-macos-mojave-for-a-clean-desktop-experience/"><u>Automatically Manage Your Safari Browser Windows on macOS Mojave for a Clean Desktop Experience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/download-ios-18-now-compatible-iphone-models-and-step-by-step-installation-guide-tech-insider/"><u>Download IOS 18 Now! Compatible iPhone Models & Step-by-Step Installation Guide | Tech Insider</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-tecno-spark-10-pro-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Tecno Spark 10 Pro For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/playstations-finest-selections-your-must-have-list-of-30-pc-emulators/"><u>PlayStation's Finest Selections: Your Must-Have List of 30 PC Emulators</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-essential-how-to-manual-for-using-telnet-on-windows-pcs/"><u>The Essential How-To Manual for Using Telnet on Windows PCs</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-essential-pathway-for-digital-lithuanian-study/"><u>The Essential Pathway for Digital Lithuanian Study</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-10-no-cost-email-services-we-recommend/"><u>Top 10 No-Cost Email Services We Recommend</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-picks-for-the-best-affordable-power-banks-overcoming-challenges-with-20-anker-charger/"><u>Top Picks for the Best Affordable Power Banks - Overcoming Challenges with $20 Anker Charger</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-magsafe-chargers-comprehensive-analysis-and-reviews-by-tech-experts-pcmag/"><u>Top-Rated MagSafe Chargers : Comprehensive Analysis & Reviews by Tech Experts - PCMag</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-the-most-efficient-wireless-charger-models-of-2024-a-comprehensive-analysis-from-zdnet-experts/"><u>Ultimate Guide to the Most Efficient Wireless Charger Models of 2024: A Comprehensive Analysis From ZDNET Experts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-the-years-finest-mp3-devices-featured-by-zdnet/"><u>Ultimate Guide to the Year's Finest MP3 Devices – Featured by ZDNet</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-vivo-y78t-by-drfone-android/"><u>Universal Unlock Pattern for Vivo Y78t</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-m4-boosted-mac-mini-a-small-device-with-a-big-bang-like-apples-set-top-box-zdnet/"><u>Unveiling the M4-Boosted Mac Mini: A Small Device with a Big Bang Like Apple's Set-Top Box | ZDNet</u></a></li>
 </ul></div>
 

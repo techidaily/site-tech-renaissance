@@ -1,7 +1,7 @@
 ---
 title: Apple Slashes the Price of Their Latest M2 Mac Mini to an All-Time Low at Only $479 - Insights From ZDNet
-date: 2024-12-22T18:13:46.226Z
-updated: 2024-12-26T00:33:31.059Z
+date: 2024-12-28T16:02:13.748Z
+updated: 2025-01-04T16:50:24.003Z
 tags:
   - apple
 categories:
@@ -47,7 +47,7 @@ So what could Apple tell me now that would make me instantly conclude I need an 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## It's the camera, stupid
@@ -67,7 +67,7 @@ Next Apple offers: "Get more room to zoom with a 2x Telephoto. It's like having 
 On which subject, we move to Apple's next tease: "If your subject is a person, dog, or cat, iPhone 15 lets you quickly capture the shot and turn it into a portrait later." This makes it sound like it's a feature only for people, dogs, and cats. Which, again, is nice but is it worth the upgrade?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## And it's the movies
@@ -89,7 +89,7 @@ Apple explains: "Longer battery life lets you watch up to 3 more hours of video 
 That's the thing when people buy phones. They prefer actual results. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can I buy into the dynamism?
@@ -150,19 +150,24 @@ Perhaps that one will have something about it that I just can't resist. I can wa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-10-essential-methods-to-record-virtual-seminars-at-no-expense/"><u>[New] In 2024, 10 Essential Methods to Record Virtual Seminars at No Expense</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-eliminate-grainy-footage-tips-for-social-media-apps/"><u>[Updated] 2024 Approved Eliminate Grainy Footage Tips for Social Media Apps</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-navigating-youtubes-profit-maze/"><u>[Updated] Navigating YouTube's Profit Maze</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-tweettwirling-the-ultimate-guide-to-fun-and-friendly-gifs-2-written-by-authors-name-for-2024/"><u>[Updated] TweetTwirling The Ultimate Guide to Fun and Friendly Gifs, 2 Written by [Author's Name] for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-adopting-advanced-advertising-approaches-metaverse/"><u>2024 Approved Adopting Advanced Advertising Approaches Metaverse</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-strategies-for-leveraging-the-wayback-machine-to-access-archived-web-pages/"><u>Expert Strategies for Leveraging the Wayback Machine to Access Archived Web Pages</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-tips-on-fixing-a-broken-samsung-soundbar-quickly-and-efficiently/"><u>Expert Tips on Fixing a Broken Samsung Soundbar Quickly & Efficiently</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fixing-the-elusive-normalizdll-error-expert-tips-and-solutions/"><u>Fixing the Elusive Normaliz.dll Error: Expert Tips and Solutions</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-meizu-21-pro-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Meizu 21 Pro Phone without PIN</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-leveraging-vimeos-end-credits-for-visual-impact/"><u>In 2024, Leveraging Vimeo's End Credits for Visual Impact</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/iphone-to-ipad-messaging-conversion-how-to-for-seamless-communication/"><u>IPhone to iPad Messaging Conversion: How-To for Seamless Communication</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-android-text-message-issues-a-comprehensive-guide/"><u>Solving Android Text Message Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/top-30-windows-film-editor-applications-reviewed-and-rated/"><u>Top 30 Windows Film Editor Applications Reviewed & Rated</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-best-15-portable-videography-tools/"><u>[Updated] Best 15 Portable Videography Tools</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-secrets-of-effortless-online-video-downloading-on-pinterest/"><u>[Updated] In 2024, Secrets of Effortless Online Video Downloading on Pinterest</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1-spotting-liquid-on-iphone-charger-port-choose-the-right-course-of-action/"><u>1. 'Spotting Liquid on iPhone Charger Port: Choose the Right Course of Action!'</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-step-by-step-guide-to-streaming-incredible-3d-movies-using-fandangos-service/"><u>A Step-by-Step Guide to Streaming Incredible 3D Movies Using Fandango's Service</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordability-meets-maneuverability-in-the-propella-aboard-review/"><u>Affordability Meets Maneuverability in the Propella Aboard Review</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/can-apple-vision-pro-soften-the-blow-of-economy-travel-or-make-you-resent-it-even-more/"><u>Can Apple Vision Pro Soften the Blow of Economy Travel – Or Make You Resent It Even More?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/empower-your-meta-quest-3-with-ai-features-beating-apple-vision-pro-setup-guide-for-advanced-capabilities/"><u>Empower Your Meta Quest 3 with AI Features, Beating Apple Vision Pro: Setup Guide for Advanced Capabilities</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-crafting-animation-dynamic-bouncy-text-techniques/"><u>In 2024, Crafting Animation Dynamic, Bouncy Text Techniques</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-dive-into-a-stream-of-9-full-length-festive-flicks-no-charge/"><u>In 2024, Dive Into a Stream of 9 Full-Length Festive Flicks - No Charge!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-samsung-galaxy-m34-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Samsung Galaxy M34 5G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Poco M6 5G? | Dr.fone</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-beginners-tutorial-stream-to-facebook-with-obs-studio/"><u>New 2024 Approved Beginners Tutorial Stream to Facebook With OBS Studio</u></a></li>
+<li><a href="https://win11.techidaily.com/restart-and-reconfigure-memory-in-win-11/"><u>Restart and Reconfigure Memory in Win 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/testing-revealed-apples-top-durable-iphone-case-with-unique-security-feature-insider-tech-at-zdnet/"><u>Testing Revealed! Apple's Top Durable iPhone Case with Unique Security Feature | Insider Tech at ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-4-artificial-intelligence-enhancements-required-in-iphones-to-match-android-capabilities/"><u>Top 4 Artificial Intelligence Enhancements Required in iPhones to Match Android Capabilities</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-choosing-the-best-waterproof-smartwatch-of-2024-comprehensive-reviews-and-comparisons/"><u>Ultimate Guide to Choosing the Best Waterproof Smartwatch of 2024 - Comprehensive Reviews and Comparisons</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-smartwatch-features-top-5-aspects-you-must-evaluate-before-a-purchase/"><u>Understanding Smartwatch Features: Top 5 Aspects You Must Evaluate Before a Purchase</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlocking-premiere-pro-full-screen-magic/"><u>Unlocking Premiere Pro Full-Screen Magic</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/zdnet-reviews-the-slimmer-alternative-to-apples-vision-pro-case-a-space-saving-marvel/"><u>ZDNet Reviews: The Slimmer Alternative to Apple's Vision Pro Case – A Space-Saving Marvel!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Effortless Communication: Messaging Loved Ones via Apple Watch"
-date: 2024-12-24T02:21:32.868Z
-updated: 2024-12-26T05:38:48.704Z
+date: 2024-12-31T16:26:12.216Z
+updated: 2025-01-04T16:35:34.029Z
 tags:
   - apple
 categories:
@@ -26,9 +26,17 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to check in with a friend or family member from your Apple Watch
 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Update your devices
 
@@ -46,10 +54,6 @@ Launch the Messages app on your Apple Watch. Start or continue a conversation wi
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. View the initial Check In notification
 
 The recipient receives a notification alerting them that you sent them a Check In with a specific time. After tapping OK, the recipient is asked if they want to allow critical alerts, which they should do. A text message then displays the time when they'll receive the alert that you reached your destination.
@@ -66,15 +70,15 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. View the actual Check in alert
 
 When the timer is up to indicate that you should have reached your destination, you'll be prompted to stop the Check In to confirm that you've arrived. You can add more time or cancel the Check In. Otherwise, the recipient will receive your Check In notification. If the confirmation isn't sent, more time will be added. After that, the recipient will be informed that you haven't yet checked in. They can then try to contact you by text or phone call to find out why you haven't yet arrived.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Change the time for a Check In
 
@@ -86,10 +90,6 @@ If you still wish to use a timer for the Check In option but change the amount o
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Send a customized Check In through the Messages app
 
 To further customize the Check In, tap the Edit button at the Check In screen. Tap Check In. You can now set a notification to be sent when you've arrived at your destination, after the timer ends, or when a workout ends. Tap the option for "When I arrive."
@@ -97,7 +97,7 @@ To further customize the Check In, tap the Edit button at the Check In screen. T
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Add a destination and send the text
@@ -109,7 +109,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Set a Check In for a workout in the Messages app
@@ -154,24 +154,21 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-ideation-to-implementation-a-comprehensive-approach-for-quality-edu-videos/"><u>[New] In 2024, From Ideation to Implementation A Comprehensive Approach for Quality Edu-Videos</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-realme-narzo-n55-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Realme Narzo N55? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/capture-and-share-leading-the-charge-with-androids-best-8-free-tools/"><u>Capture & Share - Leading the Charge with Android's Best 8 Free Tools</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/collaborative-creativity-unleashed-the-definitive-guide-to-mastering-tiktok-duets/"><u>Collaborative Creativity Unleashed: The Definitive Guide to Mastering TikTok Duets</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-line-app-evaluation-features-and-usability/"><u>Comprehensive Line App Evaluation: Features & Usability</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/cutting-edge-sleep-solutions-the-best-tech-innovations-for-a-peaceful-nights-rest/"><u>Cutting-Edge Sleep Solutions: The Best Tech Innovations for a Peaceful Night's Rest</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fix-your-stalled-gadget-effective-solutions-for-dealing-with-a-code-10-not-responding-situation/"><u>Fix Your Stalled Gadget: Effective Solutions for Dealing with a Code 10 Not Responding Situation</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fixing-android-parse-errors-top-8-solutions/"><u>Fixing Android Parse Errors: Top 8 Solutions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-internal-audio-errors-in-audacity-for-windows-1111/"><u>Fixing Internal Audio Errors in Audacity for Windows 11/11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fixing-lameencdll-errors-a-user-friendly-approach-with-audacity-and-lame-software/"><u>Fixing lame_enc.dll Errors: A User-Friendly Approach with Audacity and LAME Software</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/from-confusion-to-clarity-overcoming-the-challenge-of-windows-code-28-malfunctions/"><u>From Confusion to Clarity: Overcoming the Challenge of Windows 'Code 28' Malfunctions</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/fundamentals-of-digital-tale-construction-for-2024/"><u>Fundamentals of Digital Tale Construction for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-6s-plus-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 6s Plus without Losing Any Data? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-samsung-galaxy-m14-4g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Samsung Galaxy M14 4G Devices</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/in-depth-analysis-neo-qled-vs-oled-what-sets-them-apart/"><u>In-Depth Analysis: Neo QLED Vs. OLED - What Sets Them Apart?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/just-started-with-x-here-are-10-must-know-tips-for-rookies/"><u>Just Started with X? Here Are 10 Must-Know Tips for Rookies!</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/live-stream-audio-effective-recording-methods-for-the-digital-age/"><u>Live Stream Audio Effective Recording Methods for the Digital Age</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-your-path-to-becoming-a-verified-instagram-user/"><u>Mastering Your Path to Becoming a Verified Instagram User</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-essential-information-for-successful-tiktok-use-on-macos/"><u>[Updated] 2024 Approved Essential Information for Successful TikTok Use on macOS</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-logic-pro-xs-audio-magic-tricks-for-seamless-sounds/"><u>[Updated] Logic Pro X's Audio Magic Tricks for Seamless Sounds</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-ranked-comedic-image-editor/"><u>2024 Approved Top-Ranked Comedic Image Editor</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unraveling-historys-fabric-with-open-source-canvases/"><u>2024 Approved Unraveling History's Fabric with Open-Source Canvases</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/3-simple-ways-to-block-unwanted-messages-on-iphone-a-step-by-step-guide-zdnet/"><u>3 Simple Ways to Block Unwanted Messages on iPhone: A Step-by-Step Guide (ZDNet)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/achieving-optimal-image-quality-with-advanced-picture-settings-on-a-4k-smart-tv-from-samsung/"><u>Achieving Optimal Image Quality with Advanced Picture Settings on a 4K Smart TV From Samsung</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/affordable-alternative-how-these-xr-glasses-beat-apple-vision-pro-and-ended-my-tech-envy-for-less/"><u>Affordable Alternative: How These XR Glasses Beat Apple Vision Pro and Ended My Tech Envy for Less!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discounted-labor-day-offer-save-on-the-new-generation-apple-pencil-at-only-95-shop-now/"><u>Discounted Labor Day Offer: Save on the New Generation Apple Pencil at Only $95 - Shop Now!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-ways-to-project-your-desktop-onto-a-tv-with-chromecast-compatibility/"><u>Easy Ways to Project Your Desktop Onto a TV with Chromecast Compatibility</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-reviews-and-buying-guides-by-toms-technology-hub/"><u>Expert Reviews & Buying Guides by Tom’s Technology Hub</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/galaxy-s10plus-vs-s20-showdown-an-in-depth-comparison-and-review/"><u>Galaxy S10+ Vs. S20 Showdown: An In-Depth Comparison and Review</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-mastering-the-art-of-using-ez-grabber-with-this-tutorial/"><u>In 2024, Mastering the Art of Using EZ Grabber with This Tutorial</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-the-potential-of-apples-spatial-videos-with-your-meta-quest-3-watch-now/"><u>Unlock the Potential of Apple's Spatial Videos with Your Meta Quest 3 - Watch Now!</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-ai-capabilities-for-windows-with-vivetool-help/"><u>Unlocking AI Capabilities for Windows with ViveTool Help</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-apples-enigmatic-homeos-its-reappearance-within-tvos-developers-latest-beta-release-insights-by-zdnet/"><u>Unveiling Apple's Enigmatic 'homeOS': Its Reappearance Within tvOS Developers' Latest Beta Release – Insights by ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/zdnets-ultimate-guide-top-mac-computers-and-laptops-reviewed/"><u>ZDNet's Ultimate Guide: Top Mac Computers and Laptops Reviewed</u></a></li>
 </ul></div>
 

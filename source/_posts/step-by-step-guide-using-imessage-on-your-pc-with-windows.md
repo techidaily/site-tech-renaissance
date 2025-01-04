@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Using iMessage on Your PC with Windows"
-date: 2024-12-20T03:37:23.949Z
-updated: 2024-12-26T08:18:04.215Z
+date: 2024-12-28T16:03:02.445Z
+updated: 2025-01-04T16:07:34.873Z
 tags:
   - apple
 categories:
@@ -42,10 +42,6 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to send and receive iMessages on Windows
 
 ## Use Microsoft Phone Link
@@ -59,6 +55,10 @@ Microsoft added iPhone support to Phone Link in Windows 11 in early 2023\. To ma
 Next, confirm that you're running the latest version of Phone Link. To do this, open the Microsoft Store app from the Start menu and click the Library icon. Click the Get Updates button and allow all your installed apps to be updated, including Phone Link if necessary.
 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Open Phone Link
 
@@ -82,19 +82,11 @@ Your phone should ask if you want your PC to receive notifications from your iPh
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Run Phone Link
 
 The Phone Link welcome screen should appear on your PC and ask if you want to open the app each time you log into Windows. If you do, check the box.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Access your recent messages
 
@@ -108,6 +100,10 @@ You can also start a new conversation. To do this, select one of your displayed 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Use Intel Unison
 
 ## 1\. Install Intel Unison
@@ -117,6 +113,10 @@ To use Intel Unison, download and install the app from [the Microsoft Store](htt
 Launch the app and click the Accept & Continue button. You'll be asked how you'd like to use Unison. In the section for "Empower your PC," click the "Add your phone" button.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Pair your phone and computer
 
@@ -131,7 +131,7 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Launch the Windows Unison app
@@ -141,7 +141,7 @@ At the "Let's get started" screen in the Windows Unison app, click the icon for 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  4\. Go to the Messages screen
@@ -192,17 +192,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-leading-directory-of-cost-free-online-resources-for-superior-vector-graphics/"><u>[New] Leading Directory of Cost-Free Online Resources for Superior Vector Graphics</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-the-evolution-of-hand-tracking-systems-over-time-for-2024/"><u>[New] The Evolution of Hand Tracking Systems Over Time for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-8-best-free-websites-for-3d-text-psd-files/"><u>[Updated] In 2024, 8 Best Free Websites for 3D Text PSD Files</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-list-7-indispensable-devices-in-the-metaverse/"><u>[Updated] The Ultimate List 7 Indispensable Devices in the Metaverse</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1-how-can-you-transform-an-epub-into-a-pdf-without-costing-you-anything/"><u>1. How Can You Transform an EPUB Into a PDF Without Costing You Anything?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/bambu-lab-unveils-quick-printing-bed-slinger-meet-the-advanced-a1-3d-printer-available-december-14th/"><u>Bambu Lab Unveils Quick Printing 'Bed Slinger': Meet the Advanced A1 3D Printer – Available December 14Th</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-fixes-to-address-ocidll-errors-on-your-pc-how-to/"><u>Easy Fixes to Address OCI.DLL Errors on Your PC - How To</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fandangos-home-viewing-experience-how-to-stream-high-quality-3d-movies-easily/"><u>Fandango's Home Viewing Experience: How to Stream High-Quality 3D Movies Easily</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-honor-100-pro-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Honor 100 Pro to iPad | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/1716464672934-mastering-the-download-of-your-youtube-playlist-today/"><u>Mastering the Download of Your YouTube Playlist Today!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-troubleshooting-your-zoom-camera-issues/"><u>Ultimate Guide: Troubleshooting Your Zoom Camera Issues</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/what-does-it-mean-when-your-ps4-d-pad-glows-interpreting-blue-white-red-and-orange-flashes/"><u>What Does It Mean When Your PS4 D-Pad Glows? Interpreting Blue, White, Red and Orange Flashes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-strategize-and-succeed-a-stepwise-approach-to-impactful-reddit-sharing/"><u>[Updated] Strategize & Succeed A Stepwise Approach to Impactful Reddit Sharing</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-tools-full-sphere-filming-and-photography/"><u>2024 Approved Best Tools Full Sphere Filming and Photography</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exclusive-apple-unveils-over-600-tailor-made-applications-for-its-upcoming-vision-pro-arvr-headset-detailed-analysis-by-zdnet/"><u>Exclusive: Apple Unveils Over 600 Tailor-Made Applications for Its Upcoming Vision Pro AR/VR Headset - Detailed Analysis by ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-easier-fixes-a-closer-look-at-how-much-the-iphone-16-outshines-its-previous-versions-in-repairability-zdnet/"><u>Exploring Easier Fixes: A Closer Look at How Much the iPhone 16 Outshines Its Previous Versions in Repairability | ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/flexible-connection-setup-on-macos-with-multiple-network-locations-tips-from-zdnet/"><u>Flexible Connection Setup on macOS with Multiple Network Locations - Tips From ZDNet</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723010622892-get-back-in-the-game-with-these-crucial-tweaks-for-tiny-tinas-awesome-island-on-your-pc/"><u>Get Back in the Game with These Crucial Tweaks for Tiny Tina's Awesome Island on Your PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-automattics-acquisition-of-beeper-signals-a-major-shift-in-messaging-services-according-to-zdnet-exclusive/"><u>How Automattic's Acquisition of Beeper Signals a Major Shift in Messaging Services, According to ZDNet Exclusive</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-11-pro-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Data from Apple iPhone 11 Pro to New iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unleash-the-full-potential-in-the-metaverse-with-this-list/"><u>In 2024, Unleash the Full Potential in the Metaverse with This List</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/mastering-technology-with-toms-expertise/"><u>Mastering Technology with Tom’s Expertise</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-selection-of-top-performing-rechargeable-battery-chargers-for-enhanced-power-management/"><u>The Ultimate Selection of Top-Performing Rechargeable Battery Chargers for Enhanced Power Management</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-buyers-guide-to-the-best-tablets-of-2024-expert-insights-from-zdnet/"><u>Ultimate Buyer’s Guide to the Best Tablets of 2024 - Expert Insights From ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-ipads-cutting-edge-calculator-app-a-game-changer-prompting-an-apple-pencil-purchase-explore-more-at-zdnet/"><u>Unveiling iPad’s Cutting-Edge Calculator App: A Game Changer Prompting an Apple Pencil Purchase | Explore More at ZDNET</u></a></li>
 </ul></div>
 

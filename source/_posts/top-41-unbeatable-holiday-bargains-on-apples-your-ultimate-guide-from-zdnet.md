@@ -1,7 +1,7 @@
 ---
 title: "Top 41 Unbeatable Holiday Bargains on Apples: Your Ultimate Guide From ZDNet"
-date: 2024-12-18T17:18:54.976Z
-updated: 2024-12-26T03:02:54.995Z
+date: 2024-12-28T16:17:28.708Z
+updated: 2025-01-04T16:05:27.650Z
 tags:
   - apple
 categories:
@@ -23,10 +23,6 @@ We've gone hands-on with dozens of laptops this year, and scoured the internet f
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The best laptop deals for Amazon Prime Day 2024
 
@@ -79,10 +75,6 @@ Equipped with an Nvidia GeForce RTX 4080 GPU and a dual mode mini LED display, t
 
 [View now at Amazon](https://assoc-redirect.amazon.com/g/r/https://www.amazon.com/dp/B0C3P346B4/ref=asc%5Fdf%5FB0C3P346B41727002800000?tag=cnet-pc-20&creative=395261&creativeASIN=B0C3P346B4&linkCode=asn) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Prime Day Chromebook deals
 
 Asus/ZDNET
@@ -91,6 +83,10 @@ Asus/ZDNET
 * [Asus Chromebook Plus CX34 for $432](https://www.amazon.com/ASUS-Chromebook-1920x1080-Processor-CX3402CBA-DH386-WH/dp/B0CGJGZZ1L/ref=sxin%5F15%5Fpa%5Fsp%5Fsearch%5Fthematic%5Fsspa?tag=zdnet-buy-button-20): Asus' stylish CX34 Chromebook Plus comes with a bit more local storage than most Chromebooks (256GB) as well as an ultra-thin form factor and over 10 hours of battery life.
 * [HP Chromebook 14 for $189 (Save $100)](https://www.amazon.com/HP-Chromebook-Graphics-Keyboard-14a-na0226nr/dp/B09SVSBVP1?tag=zdnet-buy-button-20): It doesn't get much more budget than this. HP's 14-inch Chromebook comes with just 4GB of RAM, so it's perfect as a backup machine or secondary travel device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Prime Day MacBook deals
 
 Kyle Kucharski/ZDNET
@@ -98,6 +94,10 @@ Kyle Kucharski/ZDNET
 * [Apple MacBook Air (M2) for $799 (save $200)](https://www.amazon.com/2022-Apple-MacBook-Laptop-chip/dp/B0B3BVWJ6Y?tag=zdnet-buy-button-20): [The MacBook Air (M2)](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/) combines performance and portability. It's one of our favorite laptops at ZDNET and our Product of the Year -- and it's on sale for just $799, the lowest price we've ever seen.
 * [Apple MacBook Air (M3) for $899 (save $200)](https://www.amazon.com/Apple-2024-MacBook-13-inch-Laptop/dp/B0CX23V2ZK?tag=zdnet-buy-button-20): If you want to purchase one of Apple's latest MacBook Air products, you can save $200 on the [2024 version](https://www.zdnet.com/article/m3-macbook-air-review/), powered by an M3 chip -- the lowest price of the year. Don't forget to apply the coupon.
 * [Apple MacBook Pro (M3) for $1,400 (save $200)](https://www.amazon.com/Apple-MacBook-Laptop-8%E2%80%91core-10%E2%80%91core/dp/B0CM5JV268?tag=zdnet-buy-button-20): The [MacBook Pro (M3)](https://www.zdnet.com/article/m3-macbook-pro-buying-advice/) is one of the best-performing laptops on the market, and it's $200 off -- make sure you add the coupon offer on the page.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Prime Day HP laptop deals
 
@@ -124,7 +124,7 @@ Kyle Kucharski/ZDNET
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## More Prime Day 2024 laptop deals
@@ -149,22 +149,22 @@ There are a lot of great gaming laptops on sale right now, but in our opinion, [
 
 Even though Amazon isn't typically the first place you think of when you're shopping for a new laptop, there are some great deals that pop up if you're willing to look. We've thoroughly combed through the deals to find some diamonds in the rough, and listed the best ones here.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How did we choose these Prime Day deals?
 
 At ZDNET, we only write about deals our team members would want to buy -- devices and products we desire, need, or would recommend. We looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops.
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we recommend. These recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### When will these deals expire?
 
 Prime Day 2024 has ended, so deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on a deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What are the best Prime Day 2024 deals still available?
@@ -230,19 +230,20 @@ And the best deals still available from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/espoke-urls-for-youtube-channels-an-easy-way-for-2024/"><u>[New] Bespoke URLs for YouTube Channels An Easy Way for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-how-to-create-time-travel-teleportation-effects/"><u>[Updated] 2024 Approved How to Create Time Travel Teleportation Effects?</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-deciphering-youtubes-cc-policy-for-video-makers/"><u>[Updated] In 2024, Deciphering YouTube's CC Policy for Video Makers</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-navigating-the-necessary-youtube-viewer-threshold/"><u>[Updated] Navigating the Necessary Youtube Viewer Threshold</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-top-notch-screen-recorder-pcmacos-edition-for-2024/"><u>[Updated] Top-Notch Screen Recorder PC/macOS Edition for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amd-takes-the-lead-with-fastest-new-mobile-chip-against-apples-m3-max-multi-core-war-commences/"><u>AMD Takes the Lead with Fastest New Mobile Chip Against Apple's M3 Max - Multi-Core War Commences!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apple-unveils-groundbreaking-software-enhancements-during-wwdc-exclusive-breakdown-on-how-they-will-transform-your-experience-cnet-news/"><u>Apple Unveils Groundbreaking Software Enhancements During WWDC - Exclusive Breakdown on How They Will Transform Your Experience | CNET News</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apples-projected-inexpensive-vision-pro-glasses-still-seem-more-myth-than-reality-an-analysis-by-zdnet/"><u>Apple's Projected Inexpensive Vision Pro Glasses Still Seem More Myth Than Reality – An Analysis by ZDNET</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoiding-unintended-read-only-file-states-in-windows-11/"><u>Avoiding Unintended Read-Only File States in Windows 11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/experience-vast-visuals-with-affordable-400-xr-glasses-ultimate-for-gaming-and-movie-viewing-insights-from-zdnet/"><u>Experience Vast Visuals with Affordable $400 XR Glasses: Ultimate for Gaming & Movie Viewing - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/free-download-why-marvels-what-if-is-essential-for-your-apple-vision-pro-experience/"><u>Free Download: Why Marvel's 'What If...?' Is Essential for Your Apple Vision Pro Experience</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-best-five-full-frame-cameras-for-uhd-capture/"><u>In 2024, Best Five Full Frame Cameras for UHD Capture</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/iphone-15-pro-unveiled-revolutionary-spatial-recording-capabilities-for-the-upcoming-apple-vision-pro/"><u>IPhone 15 Pro Unveiled: Revolutionary Spatial Recording Capabilities for the Upcoming Apple Vision Pro</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unexplained-vision-professional-system-failures-essential-steps-and-solutions-insights-from-zdnet/"><u>Unexplained Vision Professional System Failures: Essential Steps & Solutions - Insights From ZDNet</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-best-virtual-background-for-google-meet/"><u>[New] In 2024, Best Virtual Background for Google Meet</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-enhancing-synchronization-between-cameras-and-obs/"><u>[Updated] In 2024, Enhancing Synchronization Between Cameras and OBS</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/advantages-of-driving-electric-how-evs-triumph-over-traditional-car-engines/"><u>Advantages of Driving Electric: How EVs Triumph Over Traditional Car Engines</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-bids-farewell-to-itunes-and-introduces-new-media-player-apps-on-windows-a-detailed-look-by-zdnet/"><u>Apple Bids Farewell to iTunes and Introduces New Media Player Apps on Windows - A Detailed Look by ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discounted-powerbands-for-apple-watch-save-40-now-features-and-reviews-techradar/"><u>Discounted PowerBands for Apple Watch: Save $40 Now - Features & Reviews | TechRadar</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/get-ahead-with-the-latest-apple-watch-series-nnow-ultimate-pre-order-strategies-and-top-discounts-revealed-digital-gadgets-daily/"><u>Get Ahead with the Latest Apple Watch Series nNow! Ultimate Pre-Order Strategies & Top Discounts Revealed | Digital Gadgets Daily</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-realme-c55-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Realme C55? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/next-gen-powerhouse-amds-flagship-zen-5-processor-dominates-rendering-tests-outshining-ryzen-9-7950x-by-24/"><u>Next-Gen Powerhouse: AMD’s Flagship Zen 5 Processor Dominates Rendering Tests, Outshining Ryzen 9 7950X by 24%</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016328763-quickly-resolve-your-bluetooth-audio-delay-problems-today/"><u>Quickly Resolve Your Bluetooth Audio Delay Problems Today!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/secure-your-discounted-apple-watch-series-10-now-exclusive-pre-order-offer-starting-at-just-99-with-best-buy-detailed-guide/"><u>Secure Your Discounted Apple Watch Series 10 Now: Exclusive Pre-Order Offer Starting At Just $99 with Best Buy – Detailed Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-appeal-of-the-new-ipad-air-unveiled-by-apple-in-depth-review-and-reasons-to-upgrade/"><u>The Ultimate Appeal of the New iPad Air Unveiled by Apple | In-Depth Review & Reasons to Upgrade</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-10-enhancements-required-for-siri-ai-closing-the-gap-with-google-assistant-and-microsofts-cortana/"><u>Top 10 Enhancements Required for Siri AI: Closing the Gap with Google Assistant and Microsoft's Cortana</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/twice-the-joy-twice-the-fun-televised-repetition-made-easy/"><u>Twice the Joy, Twice the Fun Televised Repetition Made Easy</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unbeatable-bargain-apple-m2-mac-mini-now-just-479-exclusive-insight-from-zdnet/"><u>Unbeatable Bargain: Apple M2 Mac Mini Now Just $479 - Exclusive Insight From ZDNet</u></a></li>
+<li><a href="https://fox-http.techidaily.com/understanding-your-potential-earnings-as-a-podcaster/"><u>Understanding Your Potential Earnings as a Podcaster</u></a></li>
 </ul></div>
 

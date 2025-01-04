@@ -1,7 +1,7 @@
 ---
 title: "Say Goodbye to Clutter: Master the Simple Technique for a Cleaner Email Experience – Discover How | ZDNET"
-date: 2024-12-24T23:33:00.897Z
-updated: 2024-12-26T05:56:14.774Z
+date: 2024-12-30T16:38:29.612Z
+updated: 2025-01-04T16:12:51.489Z
 tags:
   - apple
 categories:
@@ -25,7 +25,7 @@ If you're going to be one of those people, read on.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -36,6 +36,10 @@ If you're going to be one of those people, read on.
 * [The best robot vacuum and mop combos (and if they're worth the money)](https://www.zdnet.com/article/best-robot-vacuum-mop/)
 
 You don't want to mess up this transfer, because not only could you lose data, but the next person could end up being unable to use the iPhone you sold or gave them. Follow these steps for a successful result for both of you. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Update
 
@@ -57,13 +61,13 @@ These are the iPhones that can run iOS 15:
 
 If your iPhone is one of these and is not running the latest version of iOS 15, then I recommend upgrading to the latest release to get the best experience. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. Look out for apps that need additional handholding during a transfer
 
 Next, some apps -- specifically banking apps in my experience -- prefer it if you deactivate or deauthorize them on the old iPhone before moving to a new handset. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### read this
 
@@ -87,10 +91,6 @@ Don't have enough iCloud space? Don't worry! Apple will let you borrow some [tem
 
 **Also:** [**Here's a hidden way to increase your iCloud storage**](https://www.zdnet.com/article/the-secret-hidden-way-you-can-double-apples-maximum-2tb-icloud-storage-limit/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  4\. Get ready for the transfer
 
 Apple has made the transfer process pretty straightforward. 
@@ -104,10 +104,6 @@ Tap **Get Started** to begin the process of backing up your iPhone and getting r
 Apple has made transferring to a new iPhone easy.
 
 Screenshot/Adrian Kingsley-Hughes
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  5\. Wiping the old iPhone
 
@@ -137,7 +133,7 @@ Remember, once you start this process, there's no going back!
 **Also:** [**iOS 15 privacy and security checklist**](https://www.zdnet.com/article/ios-15-ultimate-privacy-and-security/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### See also
@@ -146,6 +142,10 @@ Remember, once you start this process, there's no going back!
 * [How to clean your Apple Watch in 5 steps](https://www.zdnet.com/article/how-to-clean-your-apple-watch-in-5-steps/)
 * [How to clean and sanitize your AirPods](https://www.zdnet.com/article/how-to-clean-and-sanitize-your-airpods/)
 * [How to clean a mechanical keyboard](https://www.zdnet.com/article/how-to-clean-a-mechanical-keyboard/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Spring-clean your iPhone
 
@@ -187,20 +187,21 @@ Now you can relax and enjoy your [new iPhone](https://www.zdnet.com/article/here
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-perfecting-audio-capture-on-skype-with-obs-tools/"><u>[New] In 2024, Perfecting Audio Capture on Skype With OBS Tools</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-integrating-end-screen-elements-with-vimeo/"><u>[New] Integrating End Screen Elements with Vimeo</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-pioneering-the-future-of-aerial-film-craftsmanship/"><u>[Updated] Pioneering the Future of Aerial Film Craftsmanship</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722893964617-best-no-cost-backup-solutions-the-ultimate-list-and-assessment-of-32-options/"><u>Best No-Cost Backup Solutions: The Ultimate List and Assessment of 32 Options</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/complete-guide-to-securing-brother-mfc-9130cw-drivers-free-download-links-inside/"><u>Complete Guide to Securing Brother MFC-9130CW Drivers: Free Download Links Inside!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/efficient-ways-to-monitor-and-manage-your-internet-consumption/"><u>Efficient Ways to Monitor and Manage Your Internet Consumption</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/essential-top-7-floodproof-video-cameras-guide/"><u>Essential Top 7 Floodproof Video Cameras Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-fix-xlivedll-not-found-or-missing-errors/"><u>How to Fix Xlive.dll Not Found or Missing Errors</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-bring-your-gslides-to-life-with-youtube-media/"><u>In 2024, Bring Your GSlides to Life with YouTube Media</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/introducing-biometrics-technology-for-secure-identity-verification/"><u>Introducing Biometrics: Technology for Secure Identity Verification</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/neros-essential-guide-to-repairing-advrcntr2dll-is-missing-complications/"><u>Nero's Essential Guide to Repairing 'Advrcntr2.dll Is Missing' Complications</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-issues-with-stuck-disc-drives-in-computers-and-laptops/"><u>Solving Issues with Stuck Disc Drives in Computers and Laptops</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/step-by-step-approach-to-webinar-savings-mac-and-pc-systems/"><u>Step-by-Step Approach to Webinar Savings Mac & PC Systems</u></a></li>
-<li><a href="https://article-posts.techidaily.com/the-finest-chromebook-pencil-stores-you-need-to-know-about/"><u>The Finest Chromebook Pencil Stores You Need to Know About</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-2024-guide-transforming-audible-files-into-mp3-format/"><u>Ultimate 2024 Guide: Transforming Audible Files Into MP3 Format</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-can-you-project-youtube-and-fb-videos-onto-your-hdtv-for-2024/"><u>[New] Can You Project YouTube & FB Videos Onto Your HDTV for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ecuring-your-youtube-profile-a-guide-for-2024/"><u>[New] Securing Your YouTube Profile A Guide for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-dive-deep-into-obs-advanced-techniques-for-game-capture/"><u>[Updated] In 2024, Dive Deep Into OBS Advanced Techniques for Game Capture</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apples-latest-showdown-choosing-between-the-m3-and-m2-macbook-air-expert-comparisons-revealed/"><u>Apple's Latest Showdown: Choosing Between the M3 and M2 MacBook Air - Expert Comparisons Revealed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/choosing-the-perfect-phone-for-your-child-see-our-expert-picks-on-zdnets-best-list/"><u>Choosing the Perfect Phone for Your Child? See Our Expert Picks on ZDNet's Best List!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comparing-home-theatre-vs-stereo-receivers-understanding-the-key-distinctions/"><u>Comparing Home Theatre Vs. Stereo Receivers: Understanding the Key Distinctions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-artificial-intelligence-prompts-what-are-they-and-how-do-they-function/"><u>Exploring Artificial Intelligence Prompts: What Are They and How Do They Function?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/future-siri-improvements-with-apples-advanced-intelligence-set-reveal-zdnet-news/"><u>Future Siri Improvements with Apple's Advanced Intelligence Set Reveal | ZDNet News</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-instantly-professional-rapidly-crafting-valorant-game-imagery/"><u>In 2024, Instantly Professional Rapidly Crafting Valorant Game Imagery</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-master-your-mp3-ultimate-guide-to-youtube-converters/"><u>In 2024, Master Your MP3 Ultimate Guide to YouTube Converters</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-the-photographers-guide-to-pc-gaming-scenes/"><u>In 2024, The Photographer’s Guide to PC Gaming Scenes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/labor-day-savings-alert-score-an-unprecedented-700-off-the-new-202-ipad-pro-check-out-our-report-at-zdnet/"><u>Labor Day Savings Alert: Score an Unprecedented $700 Off the New 202# iPad Pro! Check Out Our Report at ZDNET.</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ering-brands-spotlight-on-top-9-free-youtube-logos-craftors-for-2024/"><u>Pioneering Brands Spotlight on Top 9 Free YouTube Logos Craftors for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-macbook-peripherals-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated MacBook Peripherals - Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-eye-candy-for-digital-performances-for-2024/"><u>Ultimate Eye Candy for Digital Performances for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-iphone-vpn-providers-in-depth-analysis-by-industry-experts-pcmag/"><u>Ultimate Guide to iPhone VPN Providers: In-Depth Analysis by Industry Experts | PCMag</u></a></li>
 </ul></div>
 

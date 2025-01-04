@@ -1,7 +1,7 @@
 ---
 title: "Customizing the Control Center on iOS 18: A Step-by-Step Guide"
-date: 2024-12-19T22:55:06.272Z
-updated: 2024-12-26T01:17:28.263Z
+date: 2025-01-01T16:50:00.453Z
+updated: 2025-01-04T16:35:46.689Z
 tags:
   - apple
 categories:
@@ -28,17 +28,21 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to customize your iPhone's new Control Center with iOS 18
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -48,15 +52,15 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Delete a control
 
@@ -65,7 +69,7 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -77,7 +81,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -85,10 +89,6 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,18 +126,16 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-itops-expert-selection-best-windows-screencasters/"><u>[New] 2024 Approved ITop's Expert Selection Best Windows Screencasters</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-leading-speedy-visualizer-in-windows/"><u>[Updated] 2024 Approved Leading Speedy Visualizer in Windows</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-assessing-max-360-and-hero-11-the-ultimate-gopro-video-experience/"><u>[Updated] Assessing Max 360 & Hero 11 The Ultimate GoPro Video Experience</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Oppo A58 4G | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-turn-the-virtual-keys-visible-or-hidden-in-windows-10-interface/"><u>How to Turn the Virtual Keys Visible or Hidden in Windows 10 Interface</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-best-meme-generator-app-downlaod/"><u>In 2024, Best Meme Generator App Downlaod</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Motorola G24 Power? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/innovative-approach-preparing-for-successful-interviews-using-chatgpt/"><u>Innovative Approach: Preparing for Successful Interviews Using ChatGPT</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/overcoming-missing-dll-files-fixes-for-the-normalizdll-problem/"><u>Overcoming Missing DLL Files: Fixes for the Normaliz.dll Problem</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/playstation-5-slim-guide-release-schedule-price-points-and-specs-breakdown/"><u>PlayStation 5 Slim Guide: Release Schedule, Price Points, and Specs Breakdown</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/premier-virtual-gathering-and-video-conferencing-systems/"><u>Premier Virtual Gathering and Video Conferencing Systems</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/reimagining-commerce-through-immersive-technology-for-2024/"><u>Reimagining Commerce Through Immersive Technology for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/visual-vault-safeguarding-the-artistry-of-twitters-gifs/"><u>Visual Vault - Safeguarding the Artistry of Twitter's GIFs</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-adding-music-to-photo-online/"><u>[New] 2024 Approved Adding Music to Photo Online</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/1716184099077-new-2024-approved-how-to-use-the-instagram-green-screen-effect/"><u>[New] 2024 Approved How to Use the Instagram Green Screen Effect</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-unleash-the-power-of-live-broadcast-recording-techniques-online/"><u>[New] 2024 Approved Unleash the Power of Live Broadcast Recording Techniques Online</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-watch-enhancements-unveiled-discover-top-watchos-11-improvements/"><u>Apple Watch Enhancements Unveiled: Discover Top WatchOS 11 Improvements</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-oneplus-nord-n30-5g-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix OnePlus Nord N30 5G Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-to-correcting-the-error-when-steam-writes-to-disks/"><u>Guide to Correcting the Error When Steam Writes to Disks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/in-depth-ipad-pro-assessment-reveals-it-as-a-topnotch-tablet-not-a-macbook-replacement-and-thats-fine/"><u>In-Depth iPad Pro Assessment Reveals It as a Topnotch Tablet; Not A MacBook Replacement & That's Fine</u></a></li>
+<li><a href="https://discover-able.techidaily.com/mastering-linguistic-skills-the-key-to-unlocking-global-communication/"><u>Mastering Linguistic Skills: The Key to Unlocking Global Communication</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-the-best-ms-business-applications-on-iphoneipad-expert-picks-by-zdnet/"><u>The Ultimate Guide to the Best MS Business Applications on iPhone/iPad - Expert Picks by ZDNet</u></a></li>
+<li><a href="https://fox-that.techidaily.com/track-down-your-lost-iphone-step-by-step-tips-for-using-the-find-my-app/"><u>Track Down Your Lost iPhone: Step-by-Step Tips for Using the Find My App</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Honor 100 Pro? | Dr.fone</u></a></li>
 </ul></div>
 

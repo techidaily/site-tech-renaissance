@@ -1,7 +1,7 @@
 ---
 title: "Boost Your iPhone Efficiency: Discover Stealthy Voice Control Tricks for Power Users | InnovateTech"
-date: 2024-12-23T07:09:48.331Z
-updated: 2024-12-25T22:55:30.443Z
+date: 2025-01-03T16:27:11.731Z
+updated: 2025-01-04T16:01:39.065Z
 tags:
   - apple
 categories:
@@ -29,20 +29,20 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to customize your iPhone's new Control Center with iOS 18
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -59,7 +59,7 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -67,6 +67,10 @@ Screenshot by Lance Whitney/ZDNET
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -77,7 +81,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -85,10 +89,6 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,20 +126,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-revolutionize-your-content-with-top-twitter-video-pipelines-for-2024/"><u>[New] Revolutionize Your Content with Top Twitter Video Pipelines for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-creative-components-free-youtube-visual-resources/"><u>[Updated] Creative Components FREE YouTube Visual Resources</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-setting-up-sports-content-sharing-on-a-mac-device/"><u>[Updated] Setting Up Sports Content Sharing on a Mac Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/activated-security-measure-lsa-local-security-authority-now-active/"><u>Activated Security Measure: LSA (Local Security Authority) Now Active</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/avoid-parsing-failures-8-essential-tips-for-cleaner-android-app-development/"><u>Avoid Parsing Failures: 8 Essential Tips for Cleaner Android App Development</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boost-your-convos-introducing-us-exclusive-chatgpt-plus-us20mth/"><u>Boost Your Convos: Introducing U.S.-exclusive ChatGPT Plus (US$20/Mth)</u></a></li>
-<li><a href="https://media-tips.techidaily.com/convert-avi-videos-free-online-mp4-converter-and-mac-software/"><u>Convert AVI Videos Free: Online MP4 Converter & Mac Software</u></a></li>
-<li><a href="https://fox-where.techidaily.com/detecting-malware-and-viruses-a-comprehensive-guide-tech-insights-by-yl/"><u>Detecting Malware and Viruses: A Comprehensive Guide - Tech Insights by YL</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-aether-understanding-its-nature-and-the-pathways-to-engagement/"><u>Discover Aether: Understanding Its Nature & The Pathways to Engagement</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-monthly-highlights-premium-verizon-device-exchange-options/"><u>Discover Monthly Highlights: Premium Verizon Device Exchange Options</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-silence-the-verbal-directions-feature-on-a-samsung-set-top-box/"><u>How To Silence the Verbal Directions Feature On A Samsung Set-Top Box</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-can-i-unlock-my-apple-iphone-7-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>In 2024, How Can I Unlock My Apple iPhone 7 After Forgetting my PIN Code? | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211264317-9780062028938-magick-made-easy/"><u>Magick Made Easy | Free Book</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-full-image-uploads-a-complete-guide-for-instagram/"><u>Mastering Full Image Uploads: A Complete Guide for Instagram</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-not-connected-to-network-errors-on-galaxy-devices/"><u>Troubleshooting 'Not Connected to Network' Errors on Galaxy Devices</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-mastering-hashtags-for-six-figure-youtube-growth/"><u>[Updated] 2024 Approved Mastering Hashtags for Six-Figure YouTube Growth</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-steps-for-retrieving-personal-hidden-snapchat-photos-for-2024/"><u>[Updated] Steps for Retrieving Personal, Hidden Snapchat Photos for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-stepwise-guide-integrating-subtitles-into-your-vimeo-content/"><u>[Updated] Stepwise Guide Integrating Subtitles Into Your Vimeo Content</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-capture-and-crop-with-ios-top-iphone-apps-reviewed/"><u>2024 Approved Capture & Crop with iOS Top iPhone Apps Reviewed</u></a></li>
+<li><a href="https://discover-community.techidaily.com/comprehensive-guide-on-transforming-prores-videos-into-h64-format-and-back-understanding-key-differences/"><u>Comprehensive Guide on Transforming ProRes Videos Into H.#64 Format & Back – Understanding Key Differences</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-superior-wallet-airtags-beyond-apple-and-tile-a-comprehensive-review-on-zdnet/"><u>Discover Superior Wallet AirTags Beyond Apple and Tile - A Comprehensive Review on ZDNet</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-pixel-fold-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from Pixel Fold</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/embrace-the-future-with-apple-discover-what-youre-losing-by-ignoring-the-upgrade-to-iphone-15-zdnet-exclusive/"><u>Embrace the Future with Apple: Discover What You're Losing by Ignoring the Upgrade to iPhone 15 | ZDNet Exclusive</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/galactic-rise-in-tech-innovations-how-googles-legal-battles-and-samsungs-ai-drive-rankings-on-the-innovation-scoreboard/"><u>Galactic Rise in Tech Innovations: How Google’s Legal Battles & Samsung’s AI Drive Rankings on the Innovation Scoreboard</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/gamify-your-wallet-seek-out-ibuypowers-memorable-memorial-offers-on-new-gaming-pc-treasures-this-weekend/"><u>Gamify Your Wallet: Seek Out iBUYPOWER's Memorable Memorial Offers on New Gaming PC Treasures This Weekend</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-apple-revolutionized-ai-with-a-promising-resurgence-yet-room-for-improvement-remains/"><u>How Apple Revolutionized AI with a Promising Resurgence, Yet Room for Improvement Remains</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-score-a-dollar-deal-iphone-15-pro-max-available-at-just-pennies-more-on-amazon-insider-tips/"><u>How to Score a Dollar-Deal: IPhone 15 Pro Max Available at Just Pennies More on Amazon - Insider Tips!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-motorola-g24-power-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Motorola G24 Power? Fixed | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/m3-vs-m2-macbook-air-comparison-a-detailed-guide-to-apples-new-laptop-offerings-zdnet/"><u>M3 Vs. M2 MacBook Air Comparison: A Detailed Guide to Apple’s New Laptop Offerings | ZDNET</u></a></li>
+<li><a href="https://facebook.techidaily.com/meta-resurrects-trumps-social-media-presence/"><u>Meta Resurrects Trump's Social Media Presence</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/order-matters-a-step-by-step-list-for-watching-the-james-bond-series/"><u>Order Matters! A Step-By-Step List for Watching the James Bond Series</u></a></li>
+<li><a href="https://win-help.techidaily.com/reset-lenovo-laptops-auf-die-originalen-einstellungen-einfache-tipps-und-tricks-fur-windows-11-benutzer/"><u>Reset Lenovo Laptops Auf Die Originalen Einstellungen: Einfache Tipps Und Tricks Für Windows 11 Benutzer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-3-cutting-edge-innovations-in-the-iphone-16-reasons-to-get-pumped-for-an-upgrade-zdnets-guide/"><u>Top 3 Cutting-Edge Innovations in the iPhone 16: Reasons to Get Pumped for an Upgrade! - ZDNet's Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/unpacking-the-hidden-costs-and-benefits-of-using-facebook-for-multi-app-logins/"><u>Unpacking the Hidden Costs and Benefits of Using Facebook for Multi-App Logins</u></a></li>
 </ul></div>
 
